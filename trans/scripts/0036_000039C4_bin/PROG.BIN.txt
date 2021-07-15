@@ -1,0 +1,1414 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $00000000, 16)
+#JMP($00000D7D)
+
+
+#WRITE(PTR, $0018)
+#WRITE(PTR, $001A)
+#WRITE(PTR, $001C)
+#WRITE(PTR, $001E)
+c002.obj
+<$00>
+
+
+
+
+c009.obj
+<$00>
+
+
+
+
+c011.obj
+<$00>
+
+
+
+
+c023.obj
+<$00>
+
+
+
+
+c101a0.obj
+<$00>
+
+
+
+
+c101a2.obj
+<$00>
+
+
+
+
+c102a1l.obj
+<$00>
+
+
+
+
+c102a2l.obj
+<$00>
+
+
+
+
+c107a2.obj
+<$00>
+
+
+
+
+c108a1.obj
+<$00>
+
+
+
+
+c110a1.obj
+<$00>
+
+
+
+
+c117a0l.obj
+<$00>
+
+
+
+
+c117a2.obj
+<$00>
+
+
+
+
+c118a2.obj
+<$00>
+
+
+
+
+c146a.obj
+<$00>
+
+
+
+
+c147a0.obj
+<$00>
+
+
+
+
+c163a1r.obj
+<$00>
+
+
+
+
+c172_0r.obj
+<$00>
+
+
+
+
+c172_1r.obj
+<$00>
+
+
+
+
+c172_1l.obj
+<$00>
+
+
+
+
+c172_2r.obj
+<$00>
+
+
+
+
+#WRITE(PTR, $0020)
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+//空港ビル１階
+<$06>Airport 1F＿
+<$00>
+
+
+
+
+
+
+//脱出用のシャトルに　お乗りの方は\n３階の射出センターより　軌道衛星\nオズサットまで　お越しください
+<$06>All migrant shuttle passengers, please take\n
+the third floor beam terminal to OzSat.
+<$12>
+\n
+<CLEAR>
+//手荷物は　おひとり様　２つまでです\n動物の船内への　持ち込みは　法律で\n禁止されております　ご遠慮ください
+We allow two pieces of luggage per person. By\n
+law, animal migration is prohibited.
+<$12>
+<$00>
+
+
+
+
+
+
+//☆ネオケニア　百年の歩み☆\nその発見から　現在までを\nわかりやすく紹介する　コーナーです
+<$06>"ENJOY A GLIMPSE OF NEO KENYA ON THE ROAD\n
+FROM ITS DISCOVERY TO WHERE WE ARE TODAY!"
+<$12>
+<$00>
+
+
+
+
+
+
+//ここより　空港関係者以外の\n立ち入り　禁ず
+<$06>"AIRPORT PERSONNEL ONLY PERMITTED BEYOND THIS\n
+POINT."
+<$12>
+<$00>
+
+
+
+
+
+
+//「ネオケニア　百年の歩み」ねぇ…\n偉そうに　たくさん展示してあるけど\n要するに　この星の歴史ってさ…
+<$06>"A Walk in Neo Kenya"...\n
+The exhibit here gives a quick summary of the\n
+planet.
+<$12>
+\n
+<CLEAR>
+//アナビスの遺跡から　使えそうなのを\n２、３個　ちょろまかしました…
+It seems a few exhibit pieces were pilfered\n
+from the temples of Annabis.
+<$12>
+\n
+<CLEAR>
+//動物のことを　いろいろ調べたけど\n結局なーんも　わかりませんでした…\n要するに　それだけなんだよな
+We've researched the animals a lot, but we\n
+still don't understand anything in the end.
+<$12>
+<$00>
+
+
+
+
+
+
+//他の星へ行ったら　もう２度と\nこの味は　味わえませんよ
+<$06>When we leave for other planets, we'll never\n
+taste these flavors again.
+<$12>
+<$00>
+
+
+
+
+
+
+//どの飲み物も　非常に個性的な味だな\n共通点といえば　まずいことくらいか
+<$06>Every drink tastes different. Their only\n
+common denominator is that they taste bad.
+<$12>
+<$00>
+
+
+
+
+
+
+//人の話の中で　どこだかわかんない\n町の名がでてきたら　とりあえず\nバードラインに　行くといいわよ
+<$06>If anyone mentions a town I haven't been to,\n
+the first thing I do is check with the\n
+birdline.
+<$12>
+\n
+<CLEAR>
+//そのまま　鳥に乗って行ってもいいし\nナビシステムの座標だけ　確かめて\n歩いて行くのも　たまにはいいかもね
+I look up the NaviS coordinates. After that,\n
+I either fly in, or I take a nice, hearty\n
+walk!
+<$12>
+<$00>
+
+
+
+
+
+
+//「死神」って隕石が　どれほど\nでかいかは　よく知らないけどよ
+<$06>I don't know how big the Grim Reaper is,\n
+but...
+<$12>
+\n
+<CLEAR>
+//隕石ひとつ　止められないなんて\n人間の力も　自慢できるほどには\n大したモンじゃ　ないよなぁ
+...it says a lot when all the man-power in\n
+the universe can't stop it.
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0022)
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+//空港ビル２階
+<$06>Airport 2F＿
+<$00>
+
+
+
+
+
+
+//ここより　空港関係者以外の\n立ち入り　禁ず
+<$06>"AIRPORT PERSONNEL ONLY PERMITTED BEYOND THIS\n
+POINT."
+<$12>
+<$00>
+
+
+
+
+
+
+//僕サ、新しい星に行ったら　もう一度\n人生を最初から　やり直すつもりサ！
+<$06>I'm going to land on a new planet, and start\n
+my whole life over!
+<$12>
+<$00>
+
+
+
+
+
+
+//「滅びの美」だか何だか　知らないけど\nここ数年、ネオケニアへ　旅行するのが\n暇な金持ちの間で　大流行してるのよ
+<$06>The more I travel, the more I find people who\n
+call Neo Kenya's dilapidation "aesthetic".
+<$12>
+\n
+<CLEAR>
+//他人事だと　人間、残酷なくらい\n野次馬に　徹し切れるんだなぁって…\nあきれるの通り越して　感心するわね
+Rich people kinda get off on watching\n
+poorfolk suffer, don't they? It's beyond\n
+cruel.
+<$12>
+<$00>
+
+
+
+
+
+
+//入植する時は　豪華な船で連れて来て\n脱出する時には　貨物船を改造した\n旧式のロケットに　スシ詰めだもんな
+<$06>The feds cruise in on yachts, but pack us\n
+onto hunk-a-junk life boats like we're\n
+sardines.
+<$12>
+\n
+<CLEAR>
+//連邦のやり方って　愛がないよ
+They're not even passenger ships, just old\n
+freighters with chairs tossed in!
+<$12>
+<$00>
+
+
+
+
+
+
+//やあ！　箱船プロジェクトの\n進行状況は　どうかな？
+<$06>Hey! How's Project Astro Ark treating you?\n
+Any progress?
+<$12>
+\n
+<CLEAR>
+//君たちなら　きっと　やりとげて\nくれると　信じているからね！\nがんばってくれよ∥
+Don't worry, you two've got this in the bag!\n
+Don't let anyone say otherwise!
+<$12>
+<$00>
+
+
+
+
+
+
+//銀河、最後のパラダイス∥\n大自然が　あなたを待っている∥\n＿＿＿＿＿＿＿＿＿＿ＮＫトラベル
+<$06>"SPACE, THE FINAL PARADISE!\n
+NATURE IS WAITING FOR YOU!"\n
+＿-NK TRAVEL
+<$12>
+<$00>
+
+
+
+
+
+
+//奥に　どこにでもいそうな\nオジさんが　立っているでしょ？\nあの人が　泣く子も黙る空港司令官
+<$06>You see the gruff-looking guy standing around\n
+in the back? He's our airport general.
+<$12>
+\n
+<CLEAR>
+//この空港の　最高責任者なの\n人は　見かけによらないっていう\n見本みたいな人でしょ
+By appearances, you'd think he couldn't even\n
+pass as chief exec of a trash can.
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0024)
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+//空港ビル３階
+<$06>Airport 3F＿
+<$00>
+
+
+
+
+
+
+//私の移住先は　カナメル系のユーリよ！\nあそこって　男女比が　８：２なの
+<$06>My emigration destination is Planet Yuri, in\n
+the Kanamel system.
+<$12>
+\n
+<CLEAR>
+//天国だわね！
+The male-to-female ratio is 8;2!\n
+It's heaven, I tell you!
+<$12>
+<$00>
+
+
+
+
+
+
+//オズサットへ　行かれるのなら\n射出部の中心まで　お進みください\nいつでも　ＯＫですよ
+<$06>If going to the artificial satellite, OzSAT,\n
+at any time, please use the beam terminal.
+<$12>
+<$00>
+
+
+
+
+
+
+//大丈夫！　安心してください∥\nいきなり　宇宙空間へ放り出すような\nミスは　ここ１年、１件もありません
+<$06>Rest assured! We haven't mis-fired a client\n
+into outer space once this year!
+<$12>
+\n
+<CLEAR>
+//バードラインより　事故は少ないし\n町の外を　歩くのに比べれば\nずーーっと　安全なんですから
+We have fewer accidents than the birdline,\n
+and we're safer than travel on foot.
+<$12>
+<$00>
+
+
+
+
+
+
+//銃火器の持ち込みと　動物の持ち出し、\nこの２つが　入出国の際の\n重大な　チェックポイントね
+<$06>You'll be stopped at two key checkpoints when\n
+travelling in and out of the country.
+<$12>
+\n
+<CLEAR>
+//特に　動物の持ち出しは　絶対ダメ∥
+One checks for any carry-on weapons.\n
+The other checks for loose animals.
+<$12>
+\n
+<CLEAR>
+//こないだも　密輸された動物が\n着いた先の大気を　肺に入れた途端…
+Just the other day, someone tried smuggling\n
+an animal, but when the air hit its lungs...
+<$12>
+\n
+<CLEAR>
+//『ドッカーン∥』
+...KABLOOEY!
+<$12>
+\n
+<CLEAR>
+//２キロ四方が　一瞬にして灰だってサ
+That sucker was 2 square kilometers of debris\n
+in no time flat!
+<$12>
+<$00>
+
+
+
+
+
+
+//このポスターの　ウソじゃないのは\nこの「最後の」ってトコだけだな
+<$06>The only part of this poster that isn't lying\n
+is the word "final".
+<$12>
+<$00>
+
+
+
+
+
+
+//情報集めは　早めにやっといたほうが\nいいかも　しれないね…　なにしろ\n住民は　次々、脱出していなくなる
+<$06>You'd better gather info now, not later.\n
+Everyone'll sail away before you know it.
+<$12>
+\n
+<CLEAR>
+//信じられないなら　次の夏に\nここへ　来てごらんな\n私も　いなくなってるからサ
+Don't believe me? Come back next summer and\n
+see if I'm still here.
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0026)
+//
+<$06><$15>
+//YＢＡＲ
+YBar
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//何になさいます？　どれでも
+For＿
+<$1D><$1E><$14>
+//￥です\n
+￥, what'll it be?\n
+<$01><$1D><$1D><$02>
+//98
+98
+<$0E>
+//／
+／
+<$01><$1D><$1D><$02>
+//210
+210
+<$0E>
+//\n
+\n
+<$01><$1D><$1D><$02>
+//98
+98
+<$0E>
+//／
+／
+<$01>
+//どれもいらない
+No thanks.
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//また、どうぞ
+Come again!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ぼうや…\nタダ酒は　後で高くつくのが\n大人の世界の常識だぜ
+Careful, kiddo. Everyone pays the price for\n
+cheap liquor sooner or later.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは
+Ken downed the\n
+<$1D><$1D>
+//を\nひといきに飲み干した
+\n
+in one gulp.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンの\n
+Ken's＿
+
+//HP 
+HP
+
+//全回復∥
+＿recovered fully!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンの\n
+Ken's＿
+
+//HP 
+HP recovered by＿
+<$1E>
+//回復∥
+!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//もう　１杯いかがですか？\n
+Care for another?\n
+<$01><$1D><$1D><$02>
+//98
+98
+<$0E>
+//／
+／
+<$01><$1D><$1D><$02>
+//210
+210
+<$0E>
+//\n
+\n
+<$01><$1D><$1D><$02>
+//98
+98
+<$0E>
+//／
+／
+<$01>
+//もう、いらない
+No thanks.
+<$0E>
+<$00>
+
+
+
+
+
+
+//ロック
+<$06>＿shot
+<$00>
+
+
+
+
+
+
+//ジュース
+<$06>＿juice
+<$00>
+
+
+
+
+
+
+//ミルク
+<$06>＿milk
+<$00>
+
+
+
+
+
+
+//スープ
+<$06>＿soup
+<$00>
+
+
+
+
+
+
+//パンチ
+<$06>＿punch
+<$00>
+
+
+
+
+
+
+//カクテル
+<$06>＿cocktail
+<$00>
+
+
+
+
+
+
+//茶
+<$06>＿tea
+<$00>
+
+
+
+
+
+
+//コーラ
+<$06>＿malt
+<$00>
+
+
+
+
+
+
+//ビール
+<$06>＿beer
+<$00>
+
+
+
+
+
+
+//サワー
+<$06>＿shake
+<$00>
+
+
+
+
+
+
+//ソーダ
+<$06>＿soda
+<$00>
+
+
+
+
+
+
+//焼酎
+<$06>＿shochu
+<$00>
+
+
+
+
+
+
+//クン、クンクン………？
+<$06>Sniff...sniff, sniff?
+<$12>
+\n
+<CLEAR>
+//ここには　少なくとも
+There's not＿
+<$1E>
+//1人！\nいいえ…　
+1 soul here!\n
+Wait... No, there's at least＿
+<$1E>
+//1人はいるわよ…
+1.
+<$12>
+\n
+<CLEAR>
+//お風呂と縁のない人
+It's whatever they reek of that isn't human.
+<$12>
+<$00>
+
+
+
+
+
+
+//……東
+<$06>...East
+<$00>
+
+
+
+
+
+
+//……西
+<$06>...West
+<$00>
+
+
+
+
+
+
+//……南
+<$06>...South
+<$00>
+
+
+
+
+
+
+//……北
+<$06>...North
+<$00>
+
+
+
+
+
+
+//…北東
+<$06>...North-east
+<$00>
+
+
+
+
+
+
+//…北西
+<$06>...North-west
+<$00>
+
+
+
+
+
+
+//…南東
+<$06>...South-east
+<$00>
+
+
+
+
+
+
+//…南西
+<$06>...South-west
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、…
+<$06>! That's where we'll find a＿
+<$1D>
+//に行けば
+.
+<$00>
+
+
+
+
+
+
+//直進
+<$06>For
+<$00>
+
+
+
+
+
+
+//右よ
+<$06>Right
+<$00>
+
+
+
+
+
+
+//左よ
+<$06>Left
+<$00>
+
+
+
+
+
+
+//後ろ
+<$06>Back
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、絶対に
+<$06>wards, got it? I'm sure we'll find a＿
+<$1D>
+//∥
+＿there!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sリンダは　「女の勘」を\nはたらかせた∥
+SLinda used her woman's intuition...
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//…ごめんね、\n今日は　勘がはたらかないわ…
+...Sorry. I don't have it in me today.
+<$12>
+<$00>
+
+
+
+
+
+
+//運命の
+<$06>Fated＿
+<$00>
+
+
+
+
+
+
+//新しい
+<$06>New＿
+<$00>
+
+
+
+
+
+
+//素敵な
+<$06>Great＿
+<$00>
+
+
+
+
+
+
+//未知の
+<$06>Unknown＿
+<$00>
+
+
+
+
+
+
+//何か
+<$06>things＿
+<$00>
+
+
+
+
+
+
+//発見
+<$06>discoveries＿
+<$00>
+
+
+
+
+
+
+//お宝
+<$06>treasures＿
+<$00>
+
+
+
+
+
+
+//動物
+<$06>animals＿
+<$00>
+
+
+
+
+
+
+//に　出会える…
+<$06>could appear.
+<$00>
+
+
+
+
+
+
+//が　待ってる…
+<$06>await us...
+<$00>
+
+
+
+
+
+
+//気がするわ∥
+<$06>are there.
+<$00>
+
+
+
+
+
+
+//チャンスよ∥
+<$06>are in our grasp!
+<$00>
+
+
+
+
+
+
+//今しかないわ
+<$06>could slip through our fingers!
+<$00>
+
+
+
+
+
+
+//間違いなし∥
+<$06>are dead head!
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$1D><$1D><$1D>
+//\n
+\n
+<$1D><$12>
+\n
+<CLEAR>
+//
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信があるの∥
+I'm sure of it!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信は　ないけどね…
+Although, I'm not totally certain...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//絶対なんだから∥
+I'm absolutely certain!
+<$12>
+<$00>
+
+
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+

@@ -1,0 +1,102 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2147551232, 32)
+#JMP($0008F278);
+
+
+// Ptr: 0008F278
+#WRITE(PTR, $0008F380)
+//<CLR_ON>b武器装備なし<CLR_OFF>
+None
+<$00>
+
+
+//<CLR_ON>Yハンターグラブ<CLR_OFF>
+<CLR_ON>YHunting Gloves<CLR_OFF>
+<$00>
+
+
+//<CLR_ON>YＤＣナイフ<CLR_OFF>
+<CLR_ON>YDC Knife<CLR_OFF>
+<$00>
+
+
+//<CLR_ON>b武器装備なし<CLR_OFF>
+<CLR_ON>bNone<CLR_OFF>
+<$00>
+
+
+
+// Ptr: 0008F2B8
+#WRITE(PTR, $0008F384)
+//<CLR_ON>Y花嫁ドレス<CLR_OFF>
+<CLR_ON>YBridal Gown<CLR_OFF>
+<$00>
+
+
+//<CLR_ON>Yハンターシャツ<CLR_OFF>
+<CLR_ON>YHunting Shirt<CLR_OFF>
+<$00>
+
+
+//<CLR_ON>Yバイオスーツ<CLR_OFF>
+<CLR_ON>YBiosuit<CLR_OFF>
+<$00>
+
+
+//<CLR_ON>b胴体装備なし<CLR_OFF>
+<CLR_ON>b胴体装備なし<CLR_OFF>
+<$00>
+
+
+
+// Ptr: 0008F2F8
+#WRITE(PTR, $0008F388)
+//<CLR_ON>Y花嫁ティアラ<CLR_OFF>
+<CLR_ON>YBridal Tiara<CLR_OFF>
+<$00>
+
+
+//<CLR_ON>Yハンターメット<CLR_OFF>
+<CLR_ON>YHunting Helm<CLR_OFF>
+<$00>
+
+
+//<CLR_ON>Yバイオキャップ<CLR_OFF>
+<CLR_ON>YBio Cap<CLR_OFF>
+<$00>
+
+
+//<CLR_ON>b頭部装備なし<CLR_OFF>
+<CLR_ON>bNone<CLR_OFF>
+<$00>
+
+
+
+// Ptr: 0008F33C
+#WRITE(PTR, $0008F38C)
+//<CLR_ON>Y花嫁ブーツ<CLR_OFF>
+<CLR_ON>Y花嫁ブーツ<CLR_OFF>
+<$00>
+
+
+//<CLR_ON>Yハンターブーツ<CLR_OFF>
+<CLR_ON>YHunting Boots<CLR_OFF>
+<$00>
+
+
+//<CLR_ON>Yバイオシューズ<CLR_OFF>
+<CLR_ON>YBioshoes<CLR_OFF>
+<$00>
+
+
+//<CLR_ON>b脚部装備なし<CLR_OFF>
+<CLR_ON>bNone<CLR_OFF>
+<$00>
+
+
+
+
+#WARN($0008F380, "WARNME")

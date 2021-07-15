@@ -1,0 +1,1038 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $00000000, 16)
+#JMP($00001BEE)
+
+
+#WRITE(PTR, $0016)
+#WRITE(PTR, $0018)
+#WRITE(PTR, $001A)
+//１
+<$06>1
+<$00>
+
+
+
+
+
+
+//２
+<$06>2
+<$00>
+
+
+
+
+
+
+//３
+<$06>3
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n
+A\n
+snorted＿
+<$1D>
+//度　鼻を鳴らした∥
+＿times!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n雄たけびを　あげた∥
+A\n
+let out a battle cry!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n遠くを　見ている…
+A\n
+stared into the distance.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n風の臭いに　おびえている…
+A\n
+trembles at a smell in the air.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n大きく　２度、鳴いた∥
+A\n
+called loudly 2 times!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは　
+A\n
+drooled at the sight of＿
+<$1C>
+//Tを見て\nヨダレを　たらした∥
+T.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n遠くを　見ている…
+A\n
+stared into the distance.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n風の臭いに　おびえている…
+A\n
+trembles at a smell in the air.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n大きく　２度、鳴いた∥
+A\n
+called loudly 2 times!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは　
+A\n
+drooled at the sight of＿
+<$1C>
+//Tを見て\nヨダレを　たらした∥
+T.
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $001C)
+c002.obj
+<$00>
+
+
+
+
+c009.obj
+<$00>
+
+
+
+
+c011.obj
+<$00>
+
+
+
+
+c011_dog.obj
+<$00>
+
+
+
+
+c023.obj
+<$00>
+
+
+
+
+c166.obj
+<$00>
+
+
+
+
+c167.obj
+<$00>
+
+
+
+
+c168.obj
+<$00>
+
+
+
+
+width2.obj
+<$00>
+
+
+
+
+m018.obj
+<$00>
+
+
+
+
+kao_l33.obj
+<$00>
+
+
+
+
+kao_n2.obj
+<$00>
+
+
+
+
+kao_n3.obj
+<$00>
+
+
+
+
+kao_h1.obj
+<$00>
+
+
+
+
+kao_h2.obj
+<$00>
+
+
+
+
+kao_h6.obj
+<$00>
+
+
+
+
+bch00.obj
+<$00>
+
+
+
+
+m019f.obj
+<$00>
+
+
+
+
+m019m.obj
+<$00>
+
+
+
+
+#WRITE(PTR, $001E)
+//コシカタ
+<$06>Koshikata＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//S扉は硬く閉ざされている
+SThe door is shut tightly.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケン選手、スタンドの大歓声に\n応えて　今、ゴールイン！
+And Ken makes the goal!\n
+The crowd goes wild!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//やあ、お見事！\nさあ　賞品を渡そう\nおっと、そうそう　その前に…
+Great work, you two!\n
+It's time I gave you your prize, but first...
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ほーら、リンダちゃん？\nちゃんと　お礼が\n言えマチュか？
+C'mon, Lindie-baby?\n
+What do we say?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ありがと、ケン…
+Thank you, Ken.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//兄ちゃん　これでわかったろ？\n俺の催眠術は　合い言葉で\n人の心を　操るのさ
+See that? With a special keyword, I can\n
+hypnotize and control anyone I wish.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//もちろん　薬も併用しているよ\nそのほうが　確実だからね
+Combine that ability with a few drugs, and my\n
+mind control is foolproof!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//兄ちゃん！　安心してくれ\n俺、約束は守るタイプなんだ\n薬は　ちゃんと飲ませておくよ
+Oh, don't worry. I play doctor too! I'll make\n
+sure she takes ALL her medicine.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ククク…　何だよ　その顔は…\nそうか！　わかったよ…
+Kh-kh, why the long face?\n
+Oh, I see! Yes, yes...
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//まだ　遊び足りないんだろ？
+You still want to play tag!
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$01>
+//◇
+◇
+<$0E><$08>
+//4次は俺が鬼の番だゼ\n
+4Yeah, now I'm "it"!\n
+<$01>
+//◇
+◇
+<$0E><$08>
+//4イイ加減にしろよな
+4Get a life!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//俺の友だちが　兄ちゃんと\n遊びたがってるゼ\nまあ　仲良くしてやってよ
+My friends like you so much, I bet they'd\n
+kill to keep playing with you!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//じゃあ　兄ちゃん！\nメリークリスマス∥
+And with that, Brother...\n
+MERRY XMAS!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ちょうど　いいところへ\n来たみたいだな…　あら？\nケン、おめぇ、ひとりか？
+Right place, right time, eh? Ken, what are\n
+you doing here by yourself?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ははン、また　あのサンタ野郎に\nリンダを　さらわれちまった…\nそういうわけだな
+Don't tell me, that Santa creep kidnapped\n
+Linda?! I should've known!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ハハハ、痛て痛てて…
+Haahaa...\n
+Oww...
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//取られたら　取り返す！\nまあ　俺にまかせておけ！\n行くぞ！　ケン！
+We've gotta steal her back together! Let's\n
+go, Ken!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//あー…………
+Uhhh...
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ところで　どこへ行くんだ？\nケン？
+Say-a, Ken...\n
+Any chance you know where they went?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//S扉はサビついて開かない
+SThe door is rusted shut and will not open.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0020)
+#WRITE(PTR, $0022)
+//……東
+<$06>...East
+<$00>
+
+
+
+
+
+
+//……西
+<$06>...West
+<$00>
+
+
+
+
+
+
+//……南
+<$06>...South
+<$00>
+
+
+
+
+
+
+//……北
+<$06>...North
+<$00>
+
+
+
+
+
+
+//…北東
+<$06>...North-east
+<$00>
+
+
+
+
+
+
+//…北西
+<$06>...North-west
+<$00>
+
+
+
+
+
+
+//…南東
+<$06>...South-east
+<$00>
+
+
+
+
+
+
+//…南西
+<$06>...South-west
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、…
+<$06>! That's where we'll find a＿
+<$1D>
+//に行けば
+.
+<$00>
+
+
+
+
+
+
+//直進
+<$06>For
+<$00>
+
+
+
+
+
+
+//右よ
+<$06>Right
+<$00>
+
+
+
+
+
+
+//左よ
+<$06>Left
+<$00>
+
+
+
+
+
+
+//後ろ
+<$06>Back
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、絶対に
+<$06>wards, got it? I'm sure we'll find a＿
+<$1D>
+//∥
+＿there!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sリンダは　「女の勘」を\nはたらかせた∥
+SLinda used her woman's intuition...
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//…ごめんね、\n今日は　勘がはたらかないわ…
+...Sorry. I don't have it in me today.
+<$12>
+<$00>
+
+
+
+
+
+
+//運命の
+<$06>Fated＿
+<$00>
+
+
+
+
+
+
+//新しい
+<$06>New＿
+<$00>
+
+
+
+
+
+
+//素敵な
+<$06>Great＿
+<$00>
+
+
+
+
+
+
+//未知の
+<$06>Unknown＿
+<$00>
+
+
+
+
+
+
+//何か
+<$06>things＿
+<$00>
+
+
+
+
+
+
+//発見
+<$06>discoveries＿
+<$00>
+
+
+
+
+
+
+//お宝
+<$06>treasures＿
+<$00>
+
+
+
+
+
+
+//動物
+<$06>animals＿
+<$00>
+
+
+
+
+
+
+//に　出会える…
+<$06>could appear.
+<$00>
+
+
+
+
+
+
+//が　待ってる…
+<$06>await us...
+<$00>
+
+
+
+
+
+
+//気がするわ∥
+<$06>are there.
+<$00>
+
+
+
+
+
+
+//チャンスよ∥
+<$06>are in our grasp!
+<$00>
+
+
+
+
+
+
+//今しかないわ
+<$06>could slip through our fingers!
+<$00>
+
+
+
+
+
+
+//間違いなし∥
+<$06>are dead head!
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$1D><$1D><$1D>
+//\n
+\n
+<$1D><$12>
+\n
+<CLEAR>
+//
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信があるの∥
+I'm sure of it!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信は　ないけどね…
+Although, I'm not totally certain...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//絶対なんだから∥
+I'm absolutely certain!
+<$12>
+<$00>
+
+
+
+
+
+
+//グルル、グルル
+<$06>Grrr...
+<$12>
+<$00>
+
+
+
+
+
+
+//クン、クンクン………？
+<$06>Sniff...sniff, sniff?
+<$12>
+\n
+<CLEAR>
+//ホコリのニオイだけね
+It smells like a bunch of dust.
+<$12>
+<$00>
+
+
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+

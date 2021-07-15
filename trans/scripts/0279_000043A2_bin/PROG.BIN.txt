@@ -1,0 +1,1805 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $00000000, 16)
+#JMP($0000138F)
+
+
+#WRITE(PTR, $0014)
+#WRITE(PTR, $0016)
+#WRITE(PTR, $0018)
+#WRITE(PTR, $001A)
+c002.obj
+<$00>
+
+
+
+
+c009.obj
+<$00>
+
+
+
+
+c023.obj
+<$00>
+
+
+
+
+c132a.obj
+<$00>
+
+
+
+
+c142a2.obj
+<$00>
+
+
+
+
+#WRITE(PTR, $001C)
+//猟犬屋
+<$06>Dog Center
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//店で買った
+Whether you buy a＿
+//<$1B>
+//イヌでも　そこらで\n捕まえた野犬でも　名前をつけて\n登録しちゃえば　あなたの猟犬∥
+dog in-store or catch it in the wild, once\n
+you name it, it's yours!
+<$12>
+\n
+<CLEAR>
+//一瞬で完了する　調教の技が\n私たち、プロの証しね∥
+What really proves one's mettel as a trainer\n
+is his ability to tame them on the spot.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ヘボな猟犬でも　いないよりは\n何倍も心強いのは　確かね！
+Even a low-tier dog is better than nothing,\n
+even if just for emotional support.
+<$12>
+\n
+<CLEAR>
+//ウチで扱ってる
+The＿
+//<$1B>
+//イヌは　どれも\n猟犬にするには　ピッタリよ！\n血統もいいし　味も最高∥
+dogs we raise are perfect for hunting.
+<$12>
+\n
+<CLEAR>
+They've got great pedigree, and, in desperate\n
+measures, great flavor too!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケガのひどさで　治療費は変わるわ\n今回の治療費が　安くすんだからって\n次も同じとは　限らないのよ
+Treatment costs vary, depending on the\n
+injury. It might be cheap now, but not next\n
+time.
+<$12>
+\n
+<CLEAR>
+//まっ、いずれにしても　猟犬も\n人間の仲間の　半分くらいは\n大事にしてやって　欲しいわね
+That's why it's so important to treat dogs\n
+like human beings. Take good care of them.
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $001E)
+//
+<$06><$15>
+//Y猟犬屋
+YDog Center
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//お客さん…\nホスピコの入り口に　並んでる\n哀れな猟犬の墓を　数えてごらん
+Sir, go look at the pet cemetary along the\n
+Hospico entrance.
+<$12>
+\n
+<CLEAR>
+//これ以上　あなたの猟犬を\n登録したところで、どうせまた\nあそこの墓が　増えるだけだものね
+We keep that cemetary's growth down by\n
+capping the number of dogs each client can\n
+adopt.
+<$12>
+\n
+<CLEAR>
+//金の問題じゃないんだよ…\nわかるッ￠
+You may have the money, but you've\n
+unfortunately hit that limit. You understand,\n
+don't you?
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//猟犬の収容枠が　いっぱいです\nこれ以上、猟犬を増やせません
+You have reached the max amount of dogs you\n
+can own at one time.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//登録料　
+The adoption fee is over\n
+<$15>
+//b
+<$1E><$14>
+//￥が足りません\n銀行で　ご都合ください
+￥.\n
+Get a loan from the bank.
+<$12>
+<$00>
+
+
+
+
+
+
+//その名前は　既に登録されています\n別の名前を　つけてください
+<$06>Sorry, that name is taken.\n
+Choose a new name.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//猟犬
+Adopt＿
+<$1D>
+//を登録します\n
+?\n
+<$01>
+//は＿い
+Yes
+<$0E>
+//／
+<$01>
+//いいえ
+No
+<$0E>
+<$00>
+
+
+
+
+
+
+<CLEAR>
+
+<$00>
+
+
+
+
+<$16><$01><$1D><$02>
+96
+<$0E>
+　
+<$15>
+S
+<$1E>
+18
+<$14><$04><$02>
+140
+<$01><$1D><$02>
+236
+<$0E>
+　
+<$15>
+S
+<$1E>
+18
+<$14>
+<$00>
+
+
+
+
+//
+<$06><$15>
+//Y猟犬屋／メニュー
+YDog／Menu
+<$00>
+
+
+
+
+
+
+<$06><$01>
+//買＿う
+Buy
+<$0E>
+//\n
+\n
+<$01>
+//売＿る
+Sell
+<$0E>
+//\n
+\n
+<$01>
+//登＿録
+Tame
+<$0E>
+//\n
+\n
+<$01>
+//やめる
+Exit
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//猟犬登録の制限３２匹を越えました\nよって、登録できません
+You have reached the 32 dog adoption limit.\n
+You cannot adopt any more dogs.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+You don't have any＿
+//<$1B>
+//イヌを　お持ちじゃないようですね
+dogs.
+<$12>
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Y猟犬屋／登＿録
+YDog／Tame
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//猟犬は太古より　人間の良きパートナー\nぜひ　あなたも　１頭いかがですか？\n
+Dogs have been man's best friend since\n
+ancient times.\n
+<$01>
+//取引する
+Shop
+<$0E>
+//／
+／
+<$01>
+//雑談する
+Chat
+<$0E>
+//／
+／
+<$01>
+//やめとく
+Exit
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//またの御利用を　お待ち申し上げます
+We look forward to your next visit.
+<$12>
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Y猟犬屋／買＿う
+YDog／Buy
+<$00>
+
+
+
+
+
+
+<CLEAR>
+
+<$00>
+
+
+
+
+<$06><$16><$15>
+//W
+W
+<$01>
+//猟犬LV
+Dog LVL＿
+<$1E>
+//02
+02
+<$1D><$02>
+//116
+116
+<$0E><$02>
+//216
+216
+<$1D><$1E>
+//39￥
+39￥
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Y猟犬屋／売＿る
+YDog／Sell
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//猟犬「
+Sell＿
+<$1D>
+//」を\n
+＿ for＿
+<$1E>
+//￥で売りますか？\n
+￥?\n
+<$01>
+//は＿い
+Yes
+<$0E>
+//／
+／
+<$01>
+//いいえ
+No
+<$0E>
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Y猟犬治療
+YVeterinarian
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//かわいい猟犬が　傷ついた時は\n手遅れにならないうちに\nここへ　連れて来なさいね
+If your darling dogs ever get hurt,\n
+bring them to me before it's too late!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケガしてる猟犬は　どのコなの？\nほら早く　診せなさい！\n
+Is your hunting dog injured?\n
+Let me!\n
+take a look!\n
+<$01>
+//診せる
+Treat
+<$0E>
+//／
+／
+<$01>
+//雑談する
+Chat
+<$0E>
+//／
+／
+<$01>
+//やめとく
+Exit
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//いらない道具や動物を　売っても\nまだ足りないときは、銀行でお金を\n借りてでも　治療費は作りなさいね
+If you need money, sell spare items or take a\n
+loan from the bank.
+<$12>
+\n
+<CLEAR>
+//それくらいは　判断を誤った\nバカな飼い主の\n最低限の　務めってモンよ
+Don't deny your dog even bare minimum care\n
+just because you're ignorant.
+<$12>
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+I can treat＿
+<$1D>
+//の治療には　
+＿for＿
+<$1D><$1E><$14>
+//￥必要ね\n
+￥,\n
+<$01>
+//依頼する
+Please help!
+<$0E>
+//／
+／
+<$01>
+//ほっとく
+Nevermind!
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//かわいそうな
+Poor, poor,＿
+<$1D>
+//…\n治療費も　満足に払えない\n貧乏な飼い主を　恨みなさいね
+...\n
+Bwame your daddy for being a wittle\n
+cheapskate.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//さてと　次はどのコなの\nほら早く　診せなさい！
+Well, if you have another dog, I'll see them\n
+next!
+<$12>
+<$00>
+
+
+
+
+
+
+//あぁ～傷に
+<$06>Whoa～!＿
+//<$1B>
+//ウジが　わいてるわよ
+Maggots in the wound!
+<$00>
+
+
+
+
+
+
+//肋骨と鎖骨が　折れてるだけね
+<$06>Does Baby have a bwoken wibcage?
+<$00>
+
+
+
+
+
+
+//肺炎と腹膜炎を　併発してるようね
+<$06>Aww, pneumonia, pewitonitis...
+<$00>
+
+
+
+
+
+
+//頭がい骨が　少し陥没してるわね
+<$06>Baby, your skull is caved in!
+<$00>
+
+
+
+
+
+
+//腹腔に　血が溜ってるようね
+<$06>Aww, Baby has tummy bweeding.
+<$00>
+
+
+
+
+
+
+//下腹部に損傷があるわよ　何なのコレ？
+<$06>Tsk, lower abdominal twauma...
+<$00>
+
+
+
+
+
+
+//腸が　はみ出しちゃってるわよ
+<$06>Baby's intestines are pwowapsed!
+<$00>
+
+
+
+
+
+
+//脚が　取れかかってるわね…
+<$06>What a gangwenous wittle weg!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//大丈夫！　まかせなさい！\n
+Leave it to me!\n
+I mess up only once every＿
+<$1E>
+//0回に１回くらいしか　失敗しないわ
+0＿times, tops!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//…………………………………∥
+.........!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//…………………………………￠
+.........￠
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//はい、治療終り∥\n傷が開くといけないから　
+And...done!\n
+Be careful with＿
+<$1D>
+//には\n当分、無理させないようにしてね
+,\n
+or these wounds may reopen.
+<$12>
+<$00>
+
+
+
+
+
+
+//クン、クンクン………？
+<$06>Sniff...sniff, sniff?
+<$12>
+\n
+<CLEAR>
+//
+<$1D>
+//のニオイが　するね\nそういえば、
+＿scent's filling the air. You know, I could\n
+go for some＿
+<$1D>
+//食まだだっけ…
+＿!
+<$12>
+<$00>
+
+
+
+
+
+
+//卵焼き
+<$06>fried eggs
+<$00>
+
+
+
+
+
+
+//カレー
+<$06>curry
+<$00>
+
+
+
+
+
+
+//焼き肉
+<$06>Neo Korean BBQ
+<$00>
+
+
+
+
+
+
+//唐あげ
+<$06>karaage
+<$00>
+
+
+
+
+
+
+//お菓子
+<$06>candy
+<$00>
+
+
+
+
+
+
+//バナナ
+<$06>banana
+<$00>
+
+
+
+
+
+
+//フライ
+<$06>Neo French fries
+<$00>
+
+
+
+
+
+
+//焼き魚
+<$06>grilled fish
+<$00>
+
+
+
+
+
+
+//トマト
+<$06>tomato
+<$00>
+
+
+
+
+
+
+//バター
+<$06>butter
+<$00>
+
+
+
+
+
+
+//ソース
+<$06>sauce
+<$00>
+
+
+
+
+
+
+//スープ
+<$06>＿soup
+<$00>
+
+
+
+
+
+
+//ピラフ
+<$06>pilaf
+<$00>
+
+
+
+
+
+
+//バニラ
+<$06>vanilla
+<$00>
+
+
+
+
+
+
+//キムチ
+<$06>kimchi
+<$00>
+
+
+
+
+
+
+//チーズ
+<$06>cheese
+<$00>
+
+
+
+
+
+
+//朝
+<$06>breakfast
+<$00>
+
+
+
+
+
+
+//昼
+<$06>lunch
+<$00>
+
+
+
+
+
+
+//夕
+<$06>dinner
+<$00>
+
+
+
+
+
+
+//……東
+<$06>...East
+<$00>
+
+
+
+
+
+
+//……西
+<$06>...West
+<$00>
+
+
+
+
+
+
+//……南
+<$06>...South
+<$00>
+
+
+
+
+
+
+//……北
+<$06>...North
+<$00>
+
+
+
+
+
+
+//…北東
+<$06>...North-east
+<$00>
+
+
+
+
+
+
+//…北西
+<$06>...North-west
+<$00>
+
+
+
+
+
+
+//…南東
+<$06>...South-east
+<$00>
+
+
+
+
+
+
+//…南西
+<$06>...South-west
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、…
+<$06>! That's where we'll find a＿
+<$1D>
+//に行けば
+.
+<$00>
+
+
+
+
+
+
+//直進
+<$06>For
+<$00>
+
+
+
+
+
+
+//右よ
+<$06>Right
+<$00>
+
+
+
+
+
+
+//左よ
+<$06>Left
+<$00>
+
+
+
+
+
+
+//後ろ
+<$06>Back
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、絶対に
+<$06>wards, got it? I'm sure we'll find a＿
+<$1D>
+//∥
+＿there!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sリンダは　「女の勘」を\nはたらかせた∥
+SLinda used her woman's intuition...
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//…ごめんね、\n今日は　勘がはたらかないわ…
+...Sorry. I don't have it in me today.
+<$12>
+<$00>
+
+
+
+
+
+
+//運命の
+<$06>Fated＿
+<$00>
+
+
+
+
+
+
+//新しい
+<$06>New＿
+<$00>
+
+
+
+
+
+
+//素敵な
+<$06>Great＿
+<$00>
+
+
+
+
+
+
+//未知の
+<$06>Unknown＿
+<$00>
+
+
+
+
+
+
+//何か
+<$06>things＿
+<$00>
+
+
+
+
+
+
+//発見
+<$06>discoveries＿
+<$00>
+
+
+
+
+
+
+//お宝
+<$06>treasures＿
+<$00>
+
+
+
+
+
+
+//動物
+<$06>animals＿
+<$00>
+
+
+
+
+
+
+//に　出会える…
+<$06>could appear.
+<$00>
+
+
+
+
+
+
+//が　待ってる…
+<$06>await us...
+<$00>
+
+
+
+
+
+
+//気がするわ∥
+<$06>are there.
+<$00>
+
+
+
+
+
+
+//チャンスよ∥
+<$06>are in our grasp!
+<$00>
+
+
+
+
+
+
+//今しかないわ
+<$06>could slip through our fingers!
+<$00>
+
+
+
+
+
+
+//間違いなし∥
+<$06>are dead head!
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$1D><$1D><$1D>
+//\n
+\n
+<$1D><$12>
+\n
+<CLEAR>
+//
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信があるの∥
+I'm sure of it!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信は　ないけどね…
+Although, I'm not totally certain...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//絶対なんだから∥
+I'm absolutely certain!
+<$12>
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Yスケジュール
+YMemo＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//スケジュールは何もありません
+There is nothing on schedule.
+<$12>
+<$00>
+
+
+
+
+
+
+//成功終了
+<$06>Completed!
+<$00>
+
+
+
+
+
+
+//期限切れ
+<$06>Expired!
+<$00>
+
+
+
+
+
+
+//あと
+<$06>In＿
+<$1E>
+//季節
+＿seasons
+<$00>
+
+
+
+
+
+
+//あと
+<$06>Deadline:＿
+<$1E>
+//年
+Y/
+<$1E>
+//季節
+S
+<$00>
+
+
+
+
+
+
+//あと
+<$06>In＿
+<$1E>
+//年
+＿years
+<$00>
+
+
+
+
+
+
+<$06><$16><$01>
+//◇
+◇
+<$0E><$1D><$02>
+//190
+<$1D>
+<$00>
+
+
+
+
+
+
+//ファングを倒す
+<$06>Slay Fang
+<$00>
+
+
+
+
+
+
+//パンハイムからの依頼
+<$06>Assist Panheim
+<$00>
+
+
+
+
+
+
+//<$1B>
+//カメの卵を手に入れる
+<$06>Snatch Turtle Eggs
+<$00>
+
+
+
+
+
+
+//<$1B>
+//プテラノの卵を手に入れる
+<$06>Snatch Pteranodon Eggs
+<$00>
+
+
+
+
+
+
+//遺産争いにケリをつける
+<$06>End the inheritance battle
+<$00>
+
+
+
+
+
+
+//ヤマダのために一肌脱ぐ
+<$06>Unload for Yamada
+<$00>
+
+
+
+
+
+
+//町のシンボルを見つけだす
+<$06>Find the village symbol
+<$00>
+
+
+
+
+
+
+//ソフィアからの依頼
+<$06>Assist Sophia
+<$00>
+
+
+
+
+
+
+//サチコ救出
+<$06>Rescue Sachiko
+<$00>
+
+
+
+
+
+
+//ポロポロちゃんを助ける
+<$06>Save Nightshade
+<$00>
+
+
+
+
+
+
+//アンジェラ捜し
+<$06>Find Angela
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//カラゴラムのファングを倒し、その証拠を\nハーディアホテルのスペクターに渡す
+Defeat Fang in Karhagolem. Present proof to\n
+Spectre in Hardia Hotel.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//マーブルポリスの
+Process meat from＿
+//<$1B>
+//ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す
+chickens in Marblopolis.Give them to Prof.\n
+Panheim in Hospico.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+Find up to 3＿
+//<$1B>
+//カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す
+Turtle Eggs. Give them to Louis at the Battle\n
+Park BB Ranch.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+Acquire 2＿
+//<$1B>
+//プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す
+Pteranodon Eggs. Give them to Bronco at the\n
+Battle Park BB Ranch.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//「太郎の首輪」を見つけだし、ドギファの\nナターシャか、オーマン家３兄弟に渡す
+Locate Taro's Collar. Give it to Natasha or\n
+one of the 3 Aumann children in Dogyf\n
+Heights.
+<$00>
+
+
+
+
+
+
+//６万
+<$06>60, 000
+<$00>
+
+
+
+
+
+
+//あと
+<$06>another＿
+<$1E><$0F>
+//000
+
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//Ｇファクトリーのヤマダのために\n
+Deposit＿
+<$1D>
+//￥を預金する
+￥ in an account to Yamada in G Factory.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//コシカタのシンボル「
+Find the＿
+//<$1B>
+//トラの爪」を\n見つけだし、ポリスカに渡す
+Tiger Claw, Koshikata's village symbol.\n
+Return it to Poliska.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ソフィアのために、エターナの桜の木を\nどうにかして咲かせる
+Find out how to revive the sakura trees in\n
+Eterna for Sophia.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//溶岩の中で育った動物の熱いウンチを\nエターナのソフィアに渡す
+Deliver Hot Dung from a lava-dwelling\n
+creature to Sophia in Eterna.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ラグナロッジのエモリに会いに行く
+Meet with Dr. Emori in Ragna Rim.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//「フロッピーと
+Take the Floppy Disc and＿
+
+//10
+10, 000
+
+//万￥」を持って、\nＧファクトリー入口１階、\n公衆電話の前に行く
+￥ to the G Factory gate. Answer the payphone.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//「フロッピーと
+Take the Floppy Disc and＿
+
+//10
+10, 000
+
+//万￥」を持って、\nパラサイド入口１階、\n公衆電話の前に行く
+￥ to the Paraside gate. Answer the payphone.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//「フロッピーと
+Take the Floppy Disc and＿
+
+//10
+10, 000
+
+//万￥」を持って、\nガレックスに行く
+￥ to Galax.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す
+Pick bloodberries in Flora Jam. Take them to\n
+Kevin and Nightshade in Rose Garden.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//パラサイドの酒場にいるアンジェラを\n確認して、リナバレーのマリオに連絡する
+Look for Angela at the Paraside bar. Report\n
+your findings to Mario in Spurr Valley.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//アンジェラを確認するために、\nオズポートホテルの酒場に行く
+Look for Angela at the OzPort Hotel bar.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//アンジェラを確認するために、\n西エリアのしけた町のホテルに行く
+Look for Angela at a hotel bar somewhere in\n
+West Area.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//アンジェラを確認するために、\nドギファの舞台に行く
+Look for Angela at the theater stage in Dogyf\n
+Heights.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リナバレーのマリオの母、\nアンジェラを追ってオズサットへ行く
+Chase Angela to OzSat! Mario will follow from\n
+Spurr Valley.
+<$00>
+
+
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+

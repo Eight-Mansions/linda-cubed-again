@@ -1,0 +1,1165 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $00000000, 16)
+#JMP($00000911)
+
+
+#WRITE(PTR, $001A)
+#WRITE(PTR, $001C)
+#WRITE(PTR, $001E)
+#WRITE(PTR, $0020)
+c002.obj
+<$00>
+
+
+
+
+c009.obj
+<$00>
+
+
+
+
+c011.obj
+<$00>
+
+
+
+
+c023.obj
+<$00>
+
+
+
+
+c102a1.obj
+<$00>
+
+
+
+
+c121a0.obj
+<$00>
+
+
+
+
+c121a1.obj
+<$00>
+
+
+
+
+c159a0.obj
+<$00>
+
+
+
+
+#WRITE(PTR, $0022)
+//テント
+<$06>Tent＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+//「王者のベルト」、男なら１度は\n自分のものに　してみたいもんだな
+<$06>Any man who hears of the "Champion Belt"\n
+knows they want to make it theirs.
+<$12>
+<$00>
+
+
+
+
+
+
+//良かったら　あんたの「
+<$06>Hey, I'd be happy to buy a＿
+<$1D>
+//」\n俺に　
+＿off you for＿
+<$1E>
+//￥で売ってくんない？\n
+￥. Interested?\n
+<$01>
+//別にいいけど…
+Eh, I dunno
+<$0E>
+//／
+／
+<$01>
+//実力でもらいな
+Go win one yourself
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//へへへ、息子に自慢するんだ\n「どーだ∥　父さんは、外じゃ\n強いんだよ∥」ってね
+Hehehe, my kids are going to be so proud of\n
+me.\n
+"Wow Dad, you're the greatest!"
+<$12>
+\n
+<CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//S<CLEAR>ケンは、「
+S<CLEAR>Ken sold the＿
+<$1D>
+//」を渡して\n
+＿for\n
+<$1E>
+//￥を受け取った
+￥!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケーーチ∥
+Scroooooooge!
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0024)
+//テント
+<$06>Tent＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+//外を歩いていて\n何かゴミみたいな　点々が\nピョンピョン　ついてきたら…
+<$06>If you walk around outside with garbage in\n
+hand, you might attract bugs.
+<$12>
+\n
+<CLEAR>
+//そいつが　
+But you know,＿
+//<$1B>
+//ノミだよ\nまッ、アレも一応　動物だから\n忘れずに　捕まえときナ
+fleas are animals too, so if you see one,\n
+you'd better catch it!
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0026)
+//テント
+<$06>Tent＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+//ここら辺りは　西エリアの真ん中だから\nハンターたちが　獲物や情報の交換に\n集まるのに　とても便利だったわけよ
+<$06>There was a tent out in central West Area\n
+where hunters would gather and brag about\n
+their marks.
+<$12>
+\n
+<CLEAR>
+//で、だんだん　テントが常設化したり\n商売人が住み始めたりして　この町、\nバトルパークが　出来てったのさ
+What started as a hub for sharing hunting\n
+intel grew into the town you see here: Battle\n
+Park!
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0028)
+//テント
+<$06>Tent＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+//どんなに強い猟犬も　しょせんは
+<$06>No matter how strong a dog is,
+//<$1B>
+//イヌ、\n
+a dog's max attainable LVL is＿
+
+//20
+20
+
+//レベルかそこらで　打ち止めね\n成長が　止まっちゃうわけ
+. Then, they're growth stops for good.
+<$12>
+\n
+<CLEAR>
+//世の中には　
+Out there in the world is a four-legged\n
+friend that can reach LVL＿
+
+//30
+30
+
+//レベルの猟犬も\nいるらしいけど　そいつらの正体は\nどうやら　
+, but technically, it's not a＿
+//<$1B>
+//イヌじゃないらしいのよ
+dog at all!
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $002A)
+//クン、クンクン………？
+<$06>Sniff...sniff, sniff?
+<$12>
+\n
+<CLEAR>
+//
+<$1D>
+//のニオイが　するね\nそういえば、
+＿scent's filling the air. You know, I could\n
+go for some＿
+<$1D>
+//食まだだっけ…
+＿!
+<$12>
+<$00>
+
+
+
+
+
+
+//卵焼き
+<$06>fried eggs
+<$00>
+
+
+
+
+
+
+//カレー
+<$06>curry
+<$00>
+
+
+
+
+
+
+//焼き肉
+<$06>Neo Korean BBQ
+<$00>
+
+
+
+
+
+
+//唐あげ
+<$06>karaage
+<$00>
+
+
+
+
+
+
+//お菓子
+<$06>candy
+<$00>
+
+
+
+
+
+
+//バナナ
+<$06>banana
+<$00>
+
+
+
+
+
+
+//フライ
+<$06>Neo French fries
+<$00>
+
+
+
+
+
+
+//焼き魚
+<$06>grilled fish
+<$00>
+
+
+
+
+
+
+//トマト
+<$06>tomato
+<$00>
+
+
+
+
+
+
+//バター
+<$06>butter
+<$00>
+
+
+
+
+
+
+//ソース
+<$06>sauce
+<$00>
+
+
+
+
+
+
+//スープ
+<$06>＿soup
+<$00>
+
+
+
+
+
+
+//ピラフ
+<$06>pilaf
+<$00>
+
+
+
+
+
+
+//バニラ
+<$06>vanilla
+<$00>
+
+
+
+
+
+
+//キムチ
+<$06>kimchi
+<$00>
+
+
+
+
+
+
+//チーズ
+<$06>cheese
+<$00>
+
+
+
+
+
+
+//朝
+<$06>breakfast
+<$00>
+
+
+
+
+
+
+//昼
+<$06>lunch
+<$00>
+
+
+
+
+
+
+//夕
+<$06>dinner
+<$00>
+
+
+
+
+
+
+//……東
+<$06>...East
+<$00>
+
+
+
+
+
+
+//……西
+<$06>...West
+<$00>
+
+
+
+
+
+
+//……南
+<$06>...South
+<$00>
+
+
+
+
+
+
+//……北
+<$06>...North
+<$00>
+
+
+
+
+
+
+//…北東
+<$06>...North-east
+<$00>
+
+
+
+
+
+
+//…北西
+<$06>...North-west
+<$00>
+
+
+
+
+
+
+//…南東
+<$06>...South-east
+<$00>
+
+
+
+
+
+
+//…南西
+<$06>...South-west
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、…
+<$06>! That's where we'll find a＿
+<$1D>
+//に行けば
+.
+<$00>
+
+
+
+
+
+
+//直進
+<$06>For
+<$00>
+
+
+
+
+
+
+//右よ
+<$06>Right
+<$00>
+
+
+
+
+
+
+//左よ
+<$06>Left
+<$00>
+
+
+
+
+
+
+//後ろ
+<$06>Back
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、絶対に
+<$06>wards, got it? I'm sure we'll find a＿
+<$1D>
+//∥
+＿there!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sリンダは　「女の勘」を\nはたらかせた∥
+SLinda used her woman's intuition...
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//…ごめんね、\n今日は　勘がはたらかないわ…
+...Sorry. I don't have it in me today.
+<$12>
+<$00>
+
+
+
+
+
+
+//運命の
+<$06>Fated＿
+<$00>
+
+
+
+
+
+
+//新しい
+<$06>New＿
+<$00>
+
+
+
+
+
+
+//素敵な
+<$06>Great＿
+<$00>
+
+
+
+
+
+
+//未知の
+<$06>Unknown＿
+<$00>
+
+
+
+
+
+
+//何か
+<$06>things＿
+<$00>
+
+
+
+
+
+
+//発見
+<$06>discoveries＿
+<$00>
+
+
+
+
+
+
+//お宝
+<$06>treasures＿
+<$00>
+
+
+
+
+
+
+//動物
+<$06>animals＿
+<$00>
+
+
+
+
+
+
+//に　出会える…
+<$06>could appear.
+<$00>
+
+
+
+
+
+
+//が　待ってる…
+<$06>await us...
+<$00>
+
+
+
+
+
+
+//気がするわ∥
+<$06>are there.
+<$00>
+
+
+
+
+
+
+//チャンスよ∥
+<$06>are in our grasp!
+<$00>
+
+
+
+
+
+
+//今しかないわ
+<$06>could slip through our fingers!
+<$00>
+
+
+
+
+
+
+//間違いなし∥
+<$06>are dead head!
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$1D><$1D><$1D>
+//\n
+\n
+<$1D><$12>
+\n
+<CLEAR>
+//
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信があるの∥
+I'm sure of it!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信は　ないけどね…
+Although, I'm not totally certain...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//絶対なんだから∥
+I'm absolutely certain!
+<$12>
+<$00>
+
+
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+

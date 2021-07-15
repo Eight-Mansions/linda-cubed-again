@@ -1,0 +1,1953 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $00000000, 16)
+#JMP($000017C7)
+
+
+#WRITE(PTR, $0014)
+#WRITE(PTR, $0016)
+#WRITE(PTR, $0018)
+#WRITE(PTR, $001A)
+c002.obj
+<$00>
+
+
+
+
+c009.obj
+<$00>
+
+
+
+
+c018.obj
+<$00>
+
+
+
+
+c023.obj
+<$00>
+
+
+
+
+c060.obj
+<$00>
+
+
+
+
+c106a2.obj
+<$00>
+
+
+
+
+c109a2.obj
+<$00>
+
+
+
+
+c138a0.obj
+<$00>
+
+
+
+
+c149.obj
+<$00>
+
+
+
+
+c194.obj
+<$00>
+
+
+
+
+c195.obj
+<$00>
+
+
+
+
+kao_l10.obj
+<$00>
+
+
+
+
+kao_l11.obj
+<$00>
+
+
+
+
+kao_l13.obj
+<$00>
+
+
+
+
+kao_n2.obj
+<$00>
+
+
+
+
+kao_n4.obj
+<$00>
+
+
+
+
+kao_s1.obj
+<$00>
+
+
+
+
+kao_s2.obj
+<$00>
+
+
+
+
+#WRITE(PTR, $001C)
+//ミナゴ
+<$06>Minago＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+//やあ！　私は民族学者のオイド博士だ\n私の勘では　このミナゴのどこかに\nきっと何かがあると　思うのじゃよ
+<$06>I'm Prof. Oido, legendary ethnologist! I'm\n
+looking for Minago's hidden discovery!
+<$12>
+\n
+<CLEAR>
+//それがわかったら　君たちにも\n教えてあげよう∥　その代わりに\nその時は協力してくれよ∥　約束じゃ
+As soon as I find it, I'll be delighted to\n
+tell you! Until that day comes, wish me luck!\n
+Tally-ho!
+<$12>
+<$00>
+
+
+
+
+
+
+//これが　ビースチャンの教会ね\n彼らって　未だに　自分たちの祖先は\n動物だったと　信じてるんでしょ…
+<$06>This is a church of the Beastians. Even now\n
+the Beastians here believe that they have\n
+evolved from animals.
+<$12>
+\n
+<CLEAR>
+My travel brochure says so! See?
+<$12>
+\n
+<CLEAR>
+//観光ガイドに　書いてあったわ！\nそういえば　ここのホテルのおやじ、\n
+I bet that's why the owner of the local inn\n
+is built like a＿
+//<$1B>
+//ゴリラに　似てたわね
+gorilla!
+<$12>
+<$00>
+
+
+
+
+
+
+//あたしも　いつかここで眠ることに\nなると　思ってたんだけど…\nどうやら　そうもいかないようだねぇ
+<$06>I always thought I'd rest here too when my\n
+time came, but fate had other ideas.
+<$12>
+<$00>
+
+
+
+
+
+
+//きっと箱船って　大地深くで眠ってる\n伝説の「すべての肉の母なる者」が\n地上に　送ってくださったんだよ
+<$06>I think the Astro Ark was sleeping\n
+underground until Mother Earth summoned it to\n
+the surface.
+<$12>
+<$00>
+
+
+
+
+
+
+//この星を　脱出する人の半分が\n新天地に着いても　生活の保証が\nないのが　現状です！
+<$06>Even if half of the migration shuttles safely\n
+arrive from Neo Kenya to their destined\n
+planets,
+<$12>
+\n
+<CLEAR>
+the survival, let alone the quality of life,\n
+of all migrating Neo Kenyans is still not\n
+guaranteed!
+<$12>
+\n
+<CLEAR>
+//あなたの善意が　彼らに生きる希望を\n与えます∥　ぜひ、ご寄付を∥
+Let's give the people hope!\n
+You know, financially!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//この星を脱出していく　人々の多くは\n行く先での　仕事も住宅も食糧さえも…\n保障されておりません
+Most people who evacuate Neo Kenya won't be\n
+guaranteed work, food nor shelter.
+<$12>
+\n
+<CLEAR>
+//あなたの善意の寄付が　彼らを\n救うのです∥
+Your thoughtful contribution could save their\n
+lives!
+<$12>
+<$00>
+
+
+
+
+
+
+//行方不明になる少し前に　ここの教会で\nあんたのおやじさんを　見かけたよ\nずっと井戸の前で　祈ってたよ
+<$06>Shortly before he went missing, I saw your\n
+father praying before the church well.
+<$12>
+\n
+<CLEAR>
+//ビースチャンでも　ないのにね
+I never got why, though. I thought he wasn't\n
+Bestian.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//私たちの神様は　ユーモアがあるからね\n移住民にも　意図がわかるように\nわざと　箱船の形に　お造りなのさ
+Our God has good foresight, see. He made his\n
+vessel resemble an ark on purpose.
+<$12>
+\n
+<CLEAR>
+Even immigrants from other planets can look\n
+and understand its intent now.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//オズポートの 託卵センターって\n前はこの辺で\n細々と やってたらしいわね
+OzPort's egg center is really taking off,\n
+from what I hear!
+<$12>
+\n
+<CLEAR>
+//思ったより お客の評判がいいんで\nあっちに 大きな店を\n出すことに したらしいわよ
+They've been getting more customers than\n
+expected ever since they opened up!
+<$12>
+\n
+<CLEAR>
+//まったく 今の時代、\n何がウケるか わかんないわねぇ
+In this day and age, nothing surprises me\n
+anymore.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//やっと　ご到着か！\nずいぶん待ったぜ！\nさっそくだけど　紹介するよ
+You finally made it!\n
+I've been dying to introduce you guys.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//顔くらい知ってるよな？\nエモリ　サチコさん…
+This is the girl I mentioned.\n
+Emori Sachiko.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//俺の…　俺の婚約者だ！
+And now she's my...my fiancee!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//へへへ、驚いたかい？\n俺もやる時は　やるだろ？
+Hehehe, surprised?\n
+When your brother aims, he fires.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//エモリ　サチコです\n私、一生懸命、頑張りますから\nよろしく　お願いします！
+I'm Emori Sachiko. It's good to finally meet\n
+you. We're going to be great friends!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//それから　私、世間知らずなので\nいろいろ　教えてくださいね
+I'm still a ways naiive, so any advice you\n
+have will be a huge help to me!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//お料理やお洗濯…　それから…\n夫婦生活の方も…　ポッ…■
+Especially in married life, from cooking, to\n
+cleaning, to...ahem!■
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//実は　エモリ先生には　結婚を\nまだ　認めてもらえなくてさ…\n式のほうは　いつになるやら…
+We haven't asked Dr. Emori for his blessing.\n
+We should probably do that.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//だからとりあえず　ふたりの愛の\n証人にさ、兄ちゃんたちに\nなってもらおうと　思ってさ
+But before that, I wanted you to stand\n
+witness to our engagement.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//この世で　たったふたりっきりの\n兄弟の頼みだ、聞いてくれるよね
+Would you? For your only brother in the\n
+whole, wide world?
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$01>
+//お安い御用だ
+Of course.
+<$0E>
+//／
+／
+<$01>
+//勝手にしろ！
+As if!
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//じゃ　はじめるよ！\nちゃんと　見届けてくれよな！
+Okay then, let's get started!\n
+Pay attention, you two!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//俺たちの「愛のパフォーマンス」\n心の底から　感動したろ？
+Were you moved by our heartfelt Nekkian love\n
+sonnet?
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$01>
+//したした…
+We were!
+<$0E>
+//／
+<$01>
+//まだまだ∥
+Do it again!
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//じゃ、もう１度だ
+Again?\n
+Yeah, sounds good.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//じゃ　俺たちは忙しいから\n失礼するよ！　これからサチコの\n花嫁衣装を　選びに行くんだ
+Now, if you'll excuse us! I'll be busy\n
+finding a wedding dress for Sachiko.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//あのさ…
+Hmm...
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//俺さ…　きっと　サチコと\nうまくやっていけると\n思うんだ
+Sachiko and I...get along real well, I think.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//私たちも　この教会で結婚式を\n挙げようと　思っているんです\nその時は　来てくださいね
+We're planning a ceremony for this church! I\n
+do hope you'll come!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ずいぶん　楽しい弟さんね
+Your little brother's so playful!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//私たちってさ…　なんだか\nすごーく　バカみたいだよね？
+Now THAT...was freaking ridiculous.
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$01>
+//だよなあ…
+For real...
+<$0E>
+//／
+／
+<$01>
+//だよな∥∥
+It was not!
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダさん∥　さっきの大声の犯人は\nやっぱり　あなただったのね∥\n教会なんだから　静かになさい∥
+Linda?! It was YOU yelling up here? That's\n
+NOT how we act in church, young lady!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……………………………………
+.........
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……帰ろうか、ケン？
+...We'd better go.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//サチコ～！　俺は～！\n世界中で～！　おまえが一番～！\n好～き～だあああ！
+Sachiko～! I love you～! More than anything\n
+else～! In the whole, wide world～!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//私も～！　で～～す！
+I love you too～! I do～!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//俺は～！　そ～の～１００倍も！\n好～き～だあああ
+I'll say it～! A hundred times over～! I love\n
+you～!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//私だって～～！　私だって～～！\n好～き～よおおお
+I do too～! I do too～! I love you～!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//私の一番の自慢はね
+I'm so glad my＿
+<$A4>
+//\nパパとママの仲が\nとっても　いいこと！
+dad and mom have the relationship they do.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//あのふたりってサ…
+They're lovers, you know?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//きっと　死ぬ時も一緒かもよ
+And lovers stick together!
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $001E)
+//\n
+<$06>\n
+<$00>
+
+
+
+
+
+
+<$06><$01>
+//寄付する
+Donate
+<$0E>
+//／
+／
+<$01>
+//雑談する
+Chat
+<$0E>
+//／
+／
+<$01>
+//ヤだよ！
+No way!
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//いつも神様は　あなたの行動を\n見ていらっしゃいますよ…
+God's always watching, you know.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ありがとうございます\n優しい気持ちを　入れてください\n持金
+Thank you so much!\n
+How much will you donate?\n
+<$1E>
+//40￥→寄付
+40￥→
+<$01><$1E>
+//40￥
+40
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+You'll donate＿
+<$1E>
+//￥の寄付ですね\n
+￥?\n
+<$01>
+//は＿い
+Yes
+<$0E>
+//／
+／
+<$01>
+//いいえ
+No
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//最近、多いんですよ…\n持金を全部、寄付される方…
+I've seen a lot of people donating everything\n
+they have lately.
+<$12>
+\n
+<CLEAR>
+//あなた、まだ若いんだから\nヘンな気を　起こさないでくださいね
+You're still young, so don't feel strange or\n
+guilty about participating.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//あなたに　神様からの祝福が\nありますように
+God bless you.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//あなたと　あなたの家族に\n神様からのご加護が　ありますように
+God bless you and your family.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//あなたと　あなたの家族\nそして　子孫にも　未来永劫、\n幸あらんことを　お祈りします
+God bless you, your family, your children and\n
+your childrens' children.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//今、あなたが寄付したお金を\nどうやって　かせいだかについては…
+Ask yourself, how'd you get the money you\n
+donated just now?
+<$12>
+\n
+<CLEAR>
+//きっと　神様も見てなかったことに\nしてくださると　思いますよ\n良かったですね
+God's giving someone a little special\n
+treatment, I'll bet. But that's good too!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//どうも
+My goodness!
+<$12>
+//\n………………………………？\nえっ￠　神様のご加護？
+\n
+Is this...what they call "a gift from God"?
+<$12>
+\n
+<CLEAR>
+//そんなモンなくったって　こんな大金を\nポンと　寄付できるような方なんだから\n十分、幸せなはずですよ
+To see someone who- by all rights- wouldn't\n
+have much be so generous brings me to tears!
+<$12>
+\n
+<CLEAR>
+//足りなきゃ　
+Is＿
+
+//100000
+100,000
+
+//￥で\nお売りしましょうか？
+￥ a fair price to you?
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//本当に　ありがとうございました∥\nあなたのお気持ちは　しっかりと…
+Thank you so much! Your generosity will be\n
+remembered for all time.
+<$12>
+//\n「記録」しておきましたよ
+\n
+I know, because I just "reported" it.
+<$12>
+<$00>
+
+
+
+
+
+
+//……東
+<$06>...East
+<$00>
+
+
+
+
+
+
+//……西
+<$06>...West
+<$00>
+
+
+
+
+
+
+//……南
+<$06>...South
+<$00>
+
+
+
+
+
+
+//……北
+<$06>...North
+<$00>
+
+
+
+
+
+
+//…北東
+<$06>...North-east
+<$00>
+
+
+
+
+
+
+//…北西
+<$06>...North-west
+<$00>
+
+
+
+
+
+
+//…南東
+<$06>...South-east
+<$00>
+
+
+
+
+
+
+//…南西
+<$06>...South-west
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、…
+<$06>! That's where we'll find a＿
+<$1D>
+//に行けば
+.
+<$00>
+
+
+
+
+
+
+//直進
+<$06>For
+<$00>
+
+
+
+
+
+
+//右よ
+<$06>Right
+<$00>
+
+
+
+
+
+
+//左よ
+<$06>Left
+<$00>
+
+
+
+
+
+
+//後ろ
+<$06>Back
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、絶対に
+<$06>wards, got it? I'm sure we'll find a＿
+<$1D>
+//∥
+＿there!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sリンダは　「女の勘」を\nはたらかせた∥
+SLinda used her woman's intuition...
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//…ごめんね、\n今日は　勘がはたらかないわ…
+...Sorry. I don't have it in me today.
+<$12>
+<$00>
+
+
+
+
+
+
+//運命の
+<$06>Fated＿
+<$00>
+
+
+
+
+
+
+//新しい
+<$06>New＿
+<$00>
+
+
+
+
+
+
+//素敵な
+<$06>Great＿
+<$00>
+
+
+
+
+
+
+//未知の
+<$06>Unknown＿
+<$00>
+
+
+
+
+
+
+//何か
+<$06>things＿
+<$00>
+
+
+
+
+
+
+//発見
+<$06>discoveries＿
+<$00>
+
+
+
+
+
+
+//お宝
+<$06>treasures＿
+<$00>
+
+
+
+
+
+
+//動物
+<$06>animals＿
+<$00>
+
+
+
+
+
+
+//に　出会える…
+<$06>could appear.
+<$00>
+
+
+
+
+
+
+//が　待ってる…
+<$06>await us...
+<$00>
+
+
+
+
+
+
+//気がするわ∥
+<$06>are there.
+<$00>
+
+
+
+
+
+
+//チャンスよ∥
+<$06>are in our grasp!
+<$00>
+
+
+
+
+
+
+//今しかないわ
+<$06>could slip through our fingers!
+<$00>
+
+
+
+
+
+
+//間違いなし∥
+<$06>are dead head!
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$1D><$1D><$1D>
+//\n
+\n
+<$1D><$12>
+\n
+<CLEAR>
+//
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信があるの∥
+I'm sure of it!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信は　ないけどね…
+Although, I'm not totally certain...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//絶対なんだから∥
+I'm absolutely certain!
+<$12>
+<$00>
+
+
+
+
+
+
+//クン、クンクン………？
+<$06>Sniff...sniff, sniff?
+<$12>
+\n
+<CLEAR>
+//
+<$1D>
+//のニオイが　するね\nそういえば、
+＿scent's filling the air. You know, I could\n
+go for some＿
+<$1D>
+//食まだだっけ…
+＿!
+<$12>
+<$00>
+
+
+
+
+
+
+//卵焼き
+<$06>fried eggs
+<$00>
+
+
+
+
+
+
+//カレー
+<$06>curry
+<$00>
+
+
+
+
+
+
+//焼き肉
+<$06>Neo Korean BBQ
+<$00>
+
+
+
+
+
+
+//唐あげ
+<$06>karaage
+<$00>
+
+
+
+
+
+
+//お菓子
+<$06>candy
+<$00>
+
+
+
+
+
+
+//バナナ
+<$06>banana
+<$00>
+
+
+
+
+
+
+//フライ
+<$06>Neo French fries
+<$00>
+
+
+
+
+
+
+//焼き魚
+<$06>grilled fish
+<$00>
+
+
+
+
+
+
+//トマト
+<$06>tomato
+<$00>
+
+
+
+
+
+
+//バター
+<$06>butter
+<$00>
+
+
+
+
+
+
+//ソース
+<$06>sauce
+<$00>
+
+
+
+
+
+
+//スープ
+<$06>＿soup
+<$00>
+
+
+
+
+
+
+//ピラフ
+<$06>pilaf
+<$00>
+
+
+
+
+
+
+//バニラ
+<$06>vanilla
+<$00>
+
+
+
+
+
+
+//キムチ
+<$06>kimchi
+<$00>
+
+
+
+
+
+
+//チーズ
+<$06>cheese
+<$00>
+
+
+
+
+
+
+//朝
+<$06>breakfast
+<$00>
+
+
+
+
+
+
+//昼
+<$06>lunch
+<$00>
+
+
+
+
+
+
+//夕
+<$06>dinner
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Yスケジュール
+YMemo＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//スケジュールは何もありません
+There is nothing on schedule.
+<$12>
+<$00>
+
+
+
+
+
+
+//成功終了
+<$06>Completed!
+<$00>
+
+
+
+
+
+
+//期限切れ
+<$06>Expired!
+<$00>
+
+
+
+
+
+
+//あと
+<$06>In＿
+<$1E>
+//季節
+＿seasons
+<$00>
+
+
+
+
+
+
+//あと
+<$06>Deadline:＿
+<$1E>
+//年
+Y/
+<$1E>
+//季節
+S
+<$00>
+
+
+
+
+
+
+//あと
+<$06>In＿
+<$1E>
+//年
+＿years
+<$00>
+
+
+
+
+
+
+<$06><$16><$01>
+//◇
+◇
+<$0E><$1D><$02>
+//190
+<$1D>
+<$00>
+
+
+
+
+
+
+//ファングを倒す
+<$06>Slay Fang
+<$00>
+
+
+
+
+
+
+//パンハイムからの依頼
+<$06>Assist Panheim
+<$00>
+
+
+
+
+
+
+//<$1B>
+//カメの卵を手に入れる
+<$06>Snatch Turtle Eggs
+<$00>
+
+
+
+
+
+
+//<$1B>
+//プテラノの卵を手に入れる
+<$06>Snatch Pteranodon Eggs
+<$00>
+
+
+
+
+
+
+//遺産争いにケリをつける
+<$06>End the inheritance battle
+<$00>
+
+
+
+
+
+
+//ヤマダのために一肌脱ぐ
+<$06>Unload for Yamada
+<$00>
+
+
+
+
+
+
+//町のシンボルを見つけだす
+<$06>Find the village symbol
+<$00>
+
+
+
+
+
+
+//ソフィアからの依頼
+<$06>Assist Sophia
+<$00>
+
+
+
+
+
+
+//サチコ救出
+<$06>Rescue Sachiko
+<$00>
+
+
+
+
+
+
+//ポロポロちゃんを助ける
+<$06>Save Nightshade
+<$00>
+
+
+
+
+
+
+//アンジェラ捜し
+<$06>Find Angela
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//カラゴラムのファングを倒し、その証拠を\nハーディアホテルのスペクターに渡す
+Defeat Fang in Karhagolem. Present proof to\n
+Spectre in Hardia Hotel.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//マーブルポリスの
+Process meat from＿
+//<$1B>
+//ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す
+chickens in Marblopolis.Give them to Prof.\n
+Panheim in Hospico.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+Find up to 3＿
+//<$1B>
+//カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す
+Turtle Eggs. Give them to Louis at the Battle\n
+Park BB Ranch.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+Acquire 2＿
+//<$1B>
+//プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す
+Pteranodon Eggs. Give them to Bronco at the\n
+Battle Park BB Ranch.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//「太郎の首輪」を見つけだし、ドギファの\nナターシャか、オーマン家３兄弟に渡す
+Locate Taro's Collar. Give it to Natasha or\n
+one of the 3 Aumann children in Dogyf\n
+Heights.
+<$00>
+
+
+
+
+
+
+//６万
+<$06>60, 000
+<$00>
+
+
+
+
+
+
+//あと
+<$06>another＿
+<$1E><$0F>
+//000
+
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//Ｇファクトリーのヤマダのために\n
+Deposit＿
+<$1D>
+//￥を預金する
+￥ in an account to Yamada in G Factory.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//コシカタのシンボル「
+Find the＿
+//<$1B>
+//トラの爪」を\n見つけだし、ポリスカに渡す
+Tiger Claw, Koshikata's village symbol.\n
+Return it to Poliska.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ソフィアのために、エターナの桜の木を\nどうにかして咲かせる
+Find out how to revive the sakura trees in\n
+Eterna for Sophia.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//溶岩の中で育った動物の熱いウンチを\nエターナのソフィアに渡す
+Deliver Hot Dung from a lava-dwelling\n
+creature to Sophia in Eterna.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ラグナロッジのエモリに会いに行く
+Meet with Dr. Emori in Ragna Rim.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//「フロッピーと
+Take the Floppy Disc and＿
+
+//10
+10, 000
+
+//万￥」を持って、\nＧファクトリー入口１階、\n公衆電話の前に行く
+￥ to the G Factory gate. Answer the payphone.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//「フロッピーと
+Take the Floppy Disc and＿
+
+//10
+10, 000
+
+//万￥」を持って、\nパラサイド入口１階、\n公衆電話の前に行く
+￥ to the Paraside gate. Answer the payphone.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//「フロッピーと
+Take the Floppy Disc and＿
+
+//10
+10, 000
+
+//万￥」を持って、\nガレックスに行く
+￥ to Galax.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す
+Pick bloodberries in Flora Jam. Take them to\n
+Kevin and Nightshade in Rose Garden.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//パラサイドの酒場にいるアンジェラを\n確認して、リナバレーのマリオに連絡する
+Look for Angela at the Paraside bar. Report\n
+your findings to Mario in Spurr Valley.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//アンジェラを確認するために、\nオズポートホテルの酒場に行く
+Look for Angela at the OzPort Hotel bar.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//アンジェラを確認するために、\n西エリアのしけた町のホテルに行く
+Look for Angela at a hotel bar somewhere in\n
+West Area.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//アンジェラを確認するために、\nドギファの舞台に行く
+Look for Angela at the theater stage in Dogyf\n
+Heights.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リナバレーのマリオの母、\nアンジェラを追ってオズサットへ行く
+Chase Angela to OzSat! Mario will follow from\n
+Spurr Valley.
+<$00>
+
+
+
+
+
+
+
+<$00>
+
+
+
+

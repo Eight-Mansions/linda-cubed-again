@@ -1,0 +1,3646 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $00000000, 16)
+#JMP($000035BD)
+
+
+#WRITE(PTR, $0022)
+#WRITE(PTR, $0024)
+#WRITE(PTR, $0026)
+#WRITE(PTR, $0028)
+t13_sp2.obj
+<$00>
+
+
+
+
+t13_sp3.obj
+<$00>
+
+
+
+
+t13_sp4.obj
+<$00>
+
+
+
+
+c002.obj
+<$00>
+
+
+
+
+c007a.obj
+<$00>
+
+
+
+
+c007b.obj
+<$00>
+
+
+
+
+c009.obj
+<$00>
+
+
+
+
+c011.obj
+<$00>
+
+
+
+
+c023.obj
+<$00>
+
+
+
+
+c025sr.obj
+<$00>
+
+
+
+
+c025sl.obj
+<$00>
+
+
+
+
+c025b.obj
+<$00>
+
+
+
+
+c026.obj
+<$00>
+
+
+
+
+c026a.obj
+<$00>
+
+
+
+
+c026b.obj
+<$00>
+
+
+
+
+c058.obj
+<$00>
+
+
+
+
+c113a1.obj
+<$00>
+
+
+
+
+c119a0.obj
+<$00>
+
+
+
+
+c119a2.obj
+<$00>
+
+
+
+
+c120a1.obj
+<$00>
+
+
+
+
+c120a2.obj
+<$00>
+
+
+
+
+c121a0.obj
+<$00>
+
+
+
+
+c121a1.obj
+<$00>
+
+
+
+
+c123a1c.obj
+<$00>
+
+
+
+
+box.obj
+<$00>
+
+
+
+
+kao_n2.obj
+<$00>
+
+
+
+
+kao_n4.obj
+<$00>
+
+
+
+
+kao_e1.obj
+<$00>
+
+
+
+
+kao_e3.obj
+<$00>
+
+
+
+
+kao_e4.obj
+<$00>
+
+
+
+
+kao_e5.obj
+<$00>
+
+
+
+
+kao_p1.obj
+<$00>
+
+
+
+
+kao_p2.obj
+<$00>
+
+
+
+
+kao_p3.obj
+<$00>
+
+
+
+
+#WRITE(PTR, $002A)
+//女社長の館１Ｆ
+<$06>Green Mansion 1F＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//S鍵がかかっていて開かない
+SThis door is locked and will not open.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//Sケンは、「お屋敷の鍵」を使った
+SKen used the Mansion Key!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//S鍵がかかっていて開かない
+SThis door is locked and will not open.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//Sケンは、「お屋敷の鍵」を使った
+SKen used the Mansion Key!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//S<CLEAR>ケンは　
+S<CLEAR>Ken acquired\n
+<$1E>
+//￥を\n手に入れた∥
+￥!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//S何も　見つからなかった
+SNothing was found.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sケンは「
+SKen found the＿
+<$1D>
+//」を発見∥
+!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//S<CLEAR>だが、道具袋が一杯なので\n「
+S<CLEAR>Sadly, the item bag was full, so the＿
+<$1D>
+//」を\nとりあえず　あきらめた…
+had to go back.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//S<CLEAR>「
+SKen acquired＿
+<$1D>
+//」を　手に入れた∥
+!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sケンは「
+SKen found the＿
+<$1D>
+//」を発見∥
+!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//S<CLEAR>だが、道具袋が一杯なので\n「
+S<CLEAR>Sadly, the item bag was full, so the＿
+<$1D>
+//」を\nとりあえず　あきらめた…
+had to go back.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//S<CLEAR>「
+SKen acquired＿
+<$1D>
+//」を　手に入れた∥
+!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//S何も　見つからなかった
+SNothing was found.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sケンは「
+SKen found the＿
+<$1D>
+//」を発見∥
+!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//S<CLEAR>だが、道具袋が一杯なので\n「
+S<CLEAR>Sadly, the item bag was full, so the＿
+<$1D>
+//」を\nとりあえず　あきらめた…
+had to go back.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//S<CLEAR>「
+SKen acquired＿
+<$1D>
+//」を　手に入れた∥
+!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//S鍵がかかっていて開かない
+SThis door is locked and will not open.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//S鍵がかかっていて開かない
+SThis door is locked and will not open.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//S扉は堅く閉ざされている
+SThe door is shut tight.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//S扉は堅く閉ざされている
+SThe door is shut tight.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//S扉は堅く閉ざされている
+SThe door is shut tight.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//S扉は堅く閉ざされている
+SThe door is shut tight.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+//いいニオイがする
+<$06>It smells like honey.
+<$12>
+<$00>
+
+
+
+
+
+
+//すでに腐りはじめている
+<$06>The corpse has already started to rot.
+<$12>
+<$00>
+
+
+
+
+
+
+//老婆の死体がある
+<$06>It's the corpse of an old, old woman.
+<$12>
+<$00>
+
+
+
+
+
+
+//…………………………
+<$06>............
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//あーら　ケン、見違えたわ！\n今日のお召し物、\nとっても　お似合いよ
+Oh, my! Mr. Challenger, that outfit suits you\n
+so well!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//その格好なら　天国から天使が\n迎えに来ること、間違いなし！\nたとえ実の弟に　殺されてもね
+I'm sure the angels will merrily take your\n
+skewered corpse to heaven!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケン、リンダさんのことなら\n心配なさらなくて　いいのよ
+If it's Linda you're worried about, don't be.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//私と一緒に　いつまでも\n生き続けてくださるんですもの
+She and I will have a BLOODY good time.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//塔の上で　決着をつけようゼ\n生き残ったほうが　リンダと\n一緒に　箱船に乗るってわけサ
+We'll settle this on the roof. The survivor\n
+sails away with Linda.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//さあ　こっちだ、兄ちゃん！\nついて来な！
+This way, Brother.\n
+Follow me.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//俺さ…
+Linda and I...
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダと　きっとうまく\nやっていけると　思うんだ
+...get along real well, I think.
+<$00>
+
+
+
+
+
+
+//食事の無料配給を　行っております\n女性は左へ　男性は右へ進んで\n係の者の指示に　従ってください
+<$06>You're welcome to a free meal! Just line up,\n
+men to the right, and women to the left.
+<$12>
+<$00>
+
+
+
+
+
+
+//はい！　
+<$06>Here! Try this＿
+//<$1B>
+//ブタの腸詰です\nひとつで　たりない方は\nどんどん　おかわりしてくださいね
+Pig Sausage.\n
+If one's not enough, feel free to get more!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//Sケンは「
+SKen received the\n
+//<$1B>
+//ブタの腸詰」を\n受け取った
+Pig Sausage.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+//お食事は　この食堂内でお願いしますね\n屋敷内で歩きながら　食べるのは\nおやめください
+<$06>If you wish to eat in the mansion, please do\n
+so here in the dining hall.
+<$12>
+<$00>
+
+
+
+
+
+
+//男性の方は　右の食堂で\n食事を　さし上げていますので\nそちらへ　お越しください
+<$06>The man to our right would be happy to serve\n
+you a fresh meal!
+<$12>
+<$00>
+
+
+
+
+
+
+//タダ飯に　文句言うつもりはないけどね\n毎日、
+<$06>I'm not one to look a gift＿
+//<$1B>
+//ブタの腸詰じゃ　体臭まで\n
+Pig Sausage in the mouth, but stuffing this＿
+//<$1B>
+//ブタくさくなってくる　気がするよ
+pig meat every day just stinks!
+<$12>
+<$00>
+
+
+
+
+
+
+//エリザベス社長の　香水をかぐとサ\n頭の中に　蜂蜜を注ぎ込まれたような\n不思議な気持ちに　なるんだよなぁ
+<$06>President Green's perfume smell is so strong,\n
+it smells like honey being poured directly\n
+over my head.
+<$12>
+<$00>
+
+
+
+
+
+
+//もしも　エリザベス社長が\n悪い魔法使いか　何かだとしたら\n俺なんか　そろそろ喰われる頃だな
+<$06>If President Green were a wicked witch, I\n
+hope she'd gobble me up.
+<$12>
+\n
+<CLEAR>
+//だって　ここに来て
+I've gained＿
+
+//10
+10
+
+//キロは\n太ったもんなぁ…　まあ　あんな美人に\n喰われるなら　本望だけどもよ
+＿kilos since coming here, because I'm her\n
+good little Hansel!
+<$12>
+\n
+<CLEAR>
+Oh, to be sloppily devoured by a voluptuous\n
+woman...\n
+That's how I wanna go.
+<$12>
+<$00>
+
+
+
+
+
+
+//ここの開発部長の　パンハイム博士…\n天才だか何だか　知らないけど\nあたしは　好きになれないね
+<$06>I'm actually not sure if I like the Head of\n
+Development here, Prof. Panheim.
+<$12>
+\n
+<CLEAR>
+//笑い方が　気持ち悪いし\n息が　カルキくさいんだよ、あの人…\n爪も汚いしサ
+He laughs weird, his breath is nasty, and\n
+worse? His nails are unkept!
+<$12>
+<$00>
+
+
+
+
+
+
+//この屋敷って　わりと自由に\n歩けるんだけど、１階の奥の部屋だけは\nいつもしまってて　中も見えないんだ
+<$06>You're free to explore the mansion, but the\n
+back room on the ground floor is locked.
+<$12>
+\n
+<CLEAR>
+//よほど　金目のモノがあるか\nスケベな道具を　隠しているか…\n女のうめき声を　聞いたって奴もいる
+I'm thinking either it's full of gold or full\n
+of lady toys...
+<$12>
+\n
+<CLEAR>
+No, seriously! Sometimes, you can hear lady\n
+moans coming out from that room!
+<$12>
+\n
+<CLEAR>
+//まッ、そいつは「宇宙人の電波」まで\n聞こえちゃう　タイプだから、\nホントかどうかは　怪しいけどナ
+Then again, I think I hear like, interstellar\n
+radio messages and shit, so who knows.
+<$12>
+<$00>
+
+
+
+
+
+
+//この庭の枯木、実はサクラでね…\n社長の目を盗んで　死んだばあさんと\nお花見を　やったもんだよ
+<$06>The dead trees in the mansion garden were\n
+once the loveliest sakura trees.
+<$12>
+\n
+<CLEAR>
+My late wife and I used to sneak in and view\n
+the trees during in their prime.
+<$12>
+\n
+<CLEAR>
+//あの頃は　よかったよ…\n長生きなんぞ　するもんじゃないな
+I had life real good, back then. But soon,\n
+it'll be my turn to wither away.
+<$12>
+<$00>
+
+
+
+
+
+
+//この上の部屋に　エリザベス様は\nいつも　いらっしゃるよ
+<$06>Ms. Elizabeth is always in her office\n
+upstairs, if you'd like to meet her.
+<$12>
+\n
+<CLEAR>
+//誰にでも　会ってくださるけど\nもしも頼みごとが　あるんなら\n手ブラじゃ　失礼かもなぁ
+You can ask her for help with anything,\n
+although it might be rude to do so\n
+empty-handed.
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $002C)
+//女社長の館２Ｆ
+<$06>Green Mansion 2F＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sケンは「
+SKen found the＿
+<$1D>
+//」を発見∥
+!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//S<CLEAR>だが、道具袋が一杯なので\n「
+S<CLEAR>Sadly, the item bag was full, so the＿
+<$1D>
+//」を\nとりあえず　あきらめた…
+had to go back.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//S<CLEAR>「
+SKen acquired＿
+<$1D>
+//」を　手に入れた∥
+!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sケンは「
+SKen found the＿
+<$1D>
+//」を発見∥
+!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//S<CLEAR>だが、道具袋が一杯なので\n「
+S<CLEAR>Sadly, the item bag was full, so the＿
+<$1D>
+//」を\nとりあえず　あきらめた…
+had to go back.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//S<CLEAR>「
+SKen acquired＿
+<$1D>
+//」を　手に入れた∥
+!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//S鍵がかかっていて開かない
+SThis door is locked and will not open.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//S鍵がかかっていて開かない
+SThis door is locked and will not open.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//S鍵がかかっていて開かない
+SThis door is locked and will not open.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//俺はね…　兄ちゃん！\nあんたが　学校へ行ったり\n友だちと　遊んだりしてた頃…
+When you were going to school, having fun,\n
+playing with friends...
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//死体を捜してたんだ\nママの喜ぶ顔が　見たくてさ
+I was digging for corpses, because that made\n
+Mother smile.
+<$00>
+
+
+
+
+
+
+//中へどうぞ
+<$06>Come on in!
+<$12>
+<$00>
+
+
+
+
+
+
+//エリザベス社長は　ただいま\n多忙につき　どなたにも\nお会いに　なれないそうです
+<$06>President Green is occupied at the moment and\n
+cannot see anyone.
+<$12>
+<$00>
+
+
+
+
+
+
+//メリークリスマス∥
+<$06>MERRY XMAS!
+<$12>
+\n
+<CLEAR>
+//エリザベス社長に\nご面会でしょうか？
+Are you here to see President Green?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//失礼しました
+I'm sorry then.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//しばらく　お待ちください
+One moment, please.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//エリザベス社長は　ただいま\n多忙につき　どなたにも\nお会いできないそうです
+President Green is busy at the moment and\n
+cannot be interrupted.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//しばらく　お待ちください
+One moment, please.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//中へどうぞ
+Come on in!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//はじめまして！\nグリーン製薬の社長の\nエリザベス・グリーンです
+Season's greetings! I'm Elizabeth Green,\n
+president of Green Pharmaceuticals.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//えーっと　あなたが　ケンね？\n顔を見ただけで　わかってよ\n今や　話題の人ですものね
+Ken...Challenger, was it? Of course, I knew\n
+it the second I saw you.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//例の箱船に　乗るんでしょ？\n勇気があるのね！
+You're the male half of that brave pilot\n
+couple I've heard so much about.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//素晴らしいわ！
+Simply marvelous!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//<CLEAR>それで　私に何のご用かしら？\n有名人の頼みですもの\nたいていのことは　ＯＫよ
+<CLEAR>Now, how can I help you? With your celebrity,\n
+(almost)anything goes.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//今日は　何のご用かしら？\n有名人の頼みですもの\nたいていのことは　ＯＫよ
+Now, how can I help you? With your celebrity,\n
+(almost)anything goes.
+<$00>
+
+
+
+
+
+
+<$06><$01>
+//◇
+◇
+<$0E><$08>
+//4メモリンＺのことを　頼む\n
+4Ask for Memorin Z\n
+<$01>
+//◇
+◇
+<$0E><$08>
+//4食べ物を恵んでもらう\n
+4Beg for food\n
+<$01>
+//◇
+◇
+<$0E><$08>
+//4あいさつして　帰る
+4Say "hi" and leave
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//あら　困ったわね…
+Oh, dear, dear, dear...
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//もう　製造してませんのよ\n記憶喪失なんて　珍しいでしょ\n採算がとれなくてね…
+Amnesia's so rare, we took that med off\n
+production to cut costs.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//でも　安心して！\n作れる人間は　今も\nちゃんと　いますから
+But, fear not! I know just the man who can\n
+help you.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//パンハイムという者から\n後で　連絡させますわ\nそれで　いいでしょ？
+Expect a call later from someone named\n
+"Panheim". Will that do?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//電話が　あるまでは\n動物集めに　励んでいらして
+Until that call comes, do your best to catch\n
+those animals!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//あら　知らなかったわ…\nレンジャー隊も　大変なのね
+Why, I had no idea the rangers had it so\n
+hard!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//食べ物ぐらい　お安いご用よ\n１階の救済センターで\nもらってちょうだい
+Food? That's nothing! Help yourself to the\n
+soup kitchen downstairs.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//他にも　ご用はあるかしら
+Is there anything else I can do for you?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//今日は　楽しかったわ　ケン！\n私に頼みたいことが　あったら\n遠慮なさらずに　いらしてね
+This was fun! If you need anything else,\n
+don't hesitate to ask me.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//あら　ケン　いらっしゃい\n今日は　何のご用かしら？
+Welcome, Mr. Challenger!\n
+How can I help you today?
+<$00>
+
+
+
+
+
+
+<$06><$01>
+//◇
+◇
+<$0E><$08>
+//4クリスマスについて　聞く\n
+4What's "Merry XMAS"?\n
+<$01>
+//◇
+◇
+<$0E><$08>
+//4サンタクロースについて　聞く\n
+4Why all the Santas?\n
+<$00>
+
+
+
+
+
+
+<$06><$01>
+//◇
+◇
+<$0E><$08>
+//4パンハイムの居場所を　聞く
+4Where's Prof. Panheim?
+<$00>
+
+
+
+
+
+
+<$06><$01>
+//◇
+◇
+<$0E><$08>
+//4あいさつして　帰る
+4Say "hi" and leave
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//うちの家系って　代々\nクリスマスが　大好きなのよ
+For generations, my family always adored\n
+Xmas.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//だから　一年中　クリスマス\n社員の制服も　サンタクロース\n素敵でしょ！
+That's why my employees dress as jolly Santa\n
+Clauses all year round!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//私　今でも　サンタクロースは\n本当にいると　信じてますのよ
+I still believe the real Santa Clause is out\n
+there.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//だって、私のサンタクロースは\nいつも　最高のプレゼントを\nくださるんですもの
+My little Santa Clause always brings me the\n
+best presents.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//あなたにも　サンタクロースから\nプレゼントが　届くと\nいいですわね
+I'm sure he'd love to give presents to a good\n
+boy like you.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//他にも　ご用はあるかしら？
+Is there anything else?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//近々　社運を賭けた\n新技術の　臨床実験を\nスタートする　予定ですの
+The company's preparing to kickstart new\n
+clinical experiments.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//その準備で　忙しくなるから\nお会いできない日も　増えるけど\nこりずに　いらしてね
+You're always welcome, but there may be days\n
+where I'm too busy to meet.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//パンハイム！\n靴磨きは　もういいわ\n出てらっしゃい
+Panheim, that shoe is shiny enough.\n
+You can come out.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//お呼びですか？\nエリザベス様
+You rang, Ms. Elizabeth?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//パンハイム　ありがとう\n右足の爪は　後でいいわ\n出てらっしゃい
+Panheim, get the nails on the right later.\n
+You can come out.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//お呼びですか？\nエリザベス様
+You rang, Ms. Elizabeth?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//パンハイム！　ああｎ\nお務めの続きは　後にしましょ\n出てきなさい
+Panheim, aahn! Save the rest for later. You\n
+can come out!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//お呼びですか？\nエリザベス様
+You rang, Ms. Elizabeth?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ああ 君か…
+Ah. It's you.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//いいトコだったのに…
+Right when we were getting to the good\n
+part...
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ああｎああｎ、パンハイム！\nそこそこそこォォォｎ…
+Aahn, aahn! Panheim!\n
+Come! Come, come, commmmme...
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//そこから　出ておいで
+Come out from there!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//お呼びですか？\nエリザベス様
+You rang, Ms. Elizabeth?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ごきげんよう　ケン！\n今日は　何のご用かしら？
+Well, well, Mr. Challenger!\n
+How can I help you today?
+<$00>
+
+
+
+
+
+
+<$06><$01>
+//◇
+◇
+<$0E><$08>
+//4ネクについて　聞く\n
+4Tell me about Nek!\n
+<$01>
+//◇
+◇
+<$0E><$08>
+//4エリザベスの容姿をほめる\n
+4You're gorgeous, Elizabeth!\n
+<$00>
+
+
+
+
+
+
+<$06><$01>
+//◇
+◇
+<$0E><$08>
+//4パンハイムの居場所を　聞く
+4Where's Prof. Panheim?
+<$00>
+
+
+
+
+
+
+<$06><$01>
+//◇
+◇
+<$0E><$08>
+//4あいさつして　帰る
+4Say "hi" and leave
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ネク？\nスペルは　Ｎ、Ｅ、Ｋかしら？\nちょっと　待ってね…
+Nek?\n
+And that's spelled, N-E-K?\n
+Let me think...
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……………
+.........
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//Ｎ、Ｅ、Ｋ…Ｏなら　
+It reminds me of "N-E-K-O".\n
+That's Japanese for "
+//<$1B>
+//ネコね\nＡ級保護指定の動物でしょ\nさあ、どこにいるのかしらね
+cat," like the Class A animal species.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//まあ　お上手ね　ケン！\nでも私、存じてますのよ
+My, you're such a card!\n
+But, forgive me...
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//あなたの恋人の　リンダさんて\n私なんかより　ずっと\n若くて　美しい方なんでしょ？
+Your Linda- she's younger and lovelier, no?\n
+You must bring her to dinner!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//一度　食事にお招きしたいわ\n若い方の　新鮮なお話を聞くと\n心も　若返る気がしますもの
+I'd love to have you over for dinner\n
+sometime. When young people tell me their\n
+stories, I feel younger too!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//他にも　ご用はあるかしら？
+Is there anything else?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//今度は　ぜひ　リンダさんと\n一緒に　いらしてね\n歓迎いたしますわよ
+You really must come with Linda next time.\n
+We'll give her a warm welcome.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//お久しぶりね　ケン！\n今日は　何のご用かしら？
+Ah, Mr. Challenger!\n
+How can I help you today?
+<$00>
+
+
+
+
+
+
+<$06><$01>
+//◇
+◇
+<$0E><$08>
+//4ネクについて　問いつめる\n
+4Ask about Nek again\n
+<$01>
+//◇
+◇
+<$0E><$08>
+//4エリザベスの年齢を　聞く\n
+4How old are you?\n
+<$01>
+//◇
+◇
+<$0E><$08>
+//4パンハイムの居場所を　聞く
+4Where is Prof. Panheim?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ネク？\nスペルは　Ｎ、Ｅ、Ｋかしら？\nちょっと　待ってね…
+Nek?\n
+And that's spelled, N-E-K?\n
+Let me think...
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//…………………
+.........
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//あぁ、わかったわ！\n彼は　あなたにソックリ！\nなぜなら…
+Oh, you know what?\n
+He's the mirror image of you! Hm, mirror...
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//それは　鏡に映ったケン！\nＫＥＮの逆で　ＮＥＫ！\nあなたの　もうひとつの顔ね￠
+It's like your names! "Ken" is "Nek"\n
+backwards, isn't it? How funny!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//まぁ！　女性に歳を尋ねるなんて\nずいぶん　大胆ですこと！
+Oh-ho-ho! Bold of you to ask a woman her age!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//私、いくつに見えて？
+Well, how old do I look?
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$01>
+//２０
+２０
+<$0E>
+//／
+／
+<$01>
+//２５
+２５
+<$0E>
+//／
+／
+<$01>
+//３０
+３０
+<$0E>
+//／
+／
+<$01>
+//３５
+３５
+<$0E>
+//／
+／
+<$01>
+//４０
+４０
+<$0E>
+//\n
+\n
+<$01>
+//４５
+<$0E>
+//／
+／
+<$01>
+//５０
+<$0E>
+//／
+／
+<$01>
+//５５
+<$0E>
+//／
+／
+<$01>
+//６０
+<$0E>
+//／
+／
+<$01>
+//６５
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//まぁ！　いい勘ね！\n若いのに　女性経験が\n豊富で　いらっしゃるのね
+Oh, you're good! Clearly, you have a way with\n
+women.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//他にも　ご用はあるかしら？
+Is there anything else?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//そういえば　箱船の真の目的は\n宇宙人の移動動物園だって\n新説が　出たそうですわね…
+By the by, have you heard the theory that the\n
+Astro Ark is a zoo-planning scheme set up by\n
+the aliens?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//最後には　あなた方も\n生きたまま　ハク製にされるとか\n…ご同情　申し上げますわ
+Who knows, what if they stuff you and put you\n
+on a wall! Oh, the horror!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//パンハイム？　ああｎ
+Panheim? Aahn...!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//お務めで忙しいのよ　ああｎ\nあなたと　おしゃべりできる\n舌はないと思うわよ　ああｎ
+He's busy with his duties, aahn! Can't talk\n
+when his tongue is...aahn!
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$01>
+//あります
+Ask more
+<$0E>
+//／
+／
+<$01>
+//ないです
+I'm okay
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ん…　君か！　ケン君だね\n先日は　電話で失礼した、\nわしが　パンハイムだ
+Oh, it's you! Ken, isn't it? Then you\n
+received my voicemail.\n
+I'm Mica Panheim.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+Do you have the＿
+//<$1B>
+//ヤギの肉は　まだかな？\nまあ、わしのほうには　別段\n急ぐ理由は　ないんだがね
+Goat Filets yet? It's not me who's in a\n
+hurry, remember.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//実は　君に頼みたいことが\n二つほど　あるんだがね\nまあ　次の機会にしよう
+Actually, there were a couple things I wanted\n
+to ask you, but I'll save it for a later\n
+date.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//例の肉が　手に入ったようだね\nさすが本職は　仕事が早いね
+Oh! Are those the meats? You're faster than I\n
+expected!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//Sケンは　パンハイム博士に\n
+SKen gave Prof. Panheim the\n
+//<$1B>
+//ヤギの肉を　手渡した
+Goat Filets.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ところで　君、エリザベス社長に\n相当　気に入られているようだが\nどんな裏ワザを　使ったのかね
+You're lucky Ms. Elizabeth's taken such a\n
+liking. What's your secret, hm?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//薬を作る　手間賃がわりに\nちょっと　ご教授願えんかな？\nやはり　アレかね？
+If you tell me, I might write off the serum\n
+cost. That's a steal!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//若さに　モノを言わせた\n力尽くのアレかね？
+You're a young man, so...is it, "that"?
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$01>
+//アレですよ∥
+Yeah, it's "that"
+<$0E>
+//／
+／
+<$01>
+//アレですか？
+"That"?
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ヒヒヒ…　若いねぇ\nいや　実に　うらやましいよ
+Hehe... Oh, to be young! What I wouldn't give\n
+for that feeling!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//薬が出来次第、また　私から\n連絡させてもらうよ\nなーに　簡単な調合だ
+I'll contact you as soon as I complete the\n
+serum. Easy as that!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//君が　リンダさんの見舞いに\n行って帰ってくる頃には\n完成しているはずだ
+By the time you visit Linda and come back,\n
+the serum should be complete.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//薬が出来次第、また　私から\n連絡させてもらうよ\n半年はかからん、と思うよ
+The serum will take a half-year to complete.\n
+I'll contact you.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物集めなり　彼女の見舞いなり\nやることは　たくさんあるだろ
+Surely you have animals and/or girls to chase\n
+in the meantime.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//実は　大手術を施さねばならない\nやっかいな　患者がいてね\n薬の調合は　その後になる
+Actually, I've one pesky patient who needs a\n
+major transplant first.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//そうだな…\n半年ほど　待ってもらおう\n悪く思わんでくれ
+Given the delay, this'll take half a year.\n
+I'm sorry for the wait.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//薬が出来次第、また　私から\n連絡させてもらうよ
+I'll contact you as soon as the serum is\n
+available.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//薬が出来次第、また　私から\n連絡させてもらうよ
+I'll contact you as soon as the serum is\n
+available.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物集めなり　彼女の見舞いなり\nやることは　たくさんあるだろ
+Surely you have animals and/or girls to chase\n
+in the meantime.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//道具袋を　２個、空にして\n来るように　念を押したつもり\nだったんだがね…
+Didn't I tell you to come with 2 empty slots\n
+in your item bag?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//新技術の試験が　うまくいってね\nわしは今、絶好調！\nリンダさんも　任せたまえ！
+My experiments went smoothly! I feel\n
+confident, and so will Linda!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//さあ　記憶回復促進薬\nメモリンＺを　君に渡そう！
+Here's the memory restoring serum, Memorin Z!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//Sケンは　パンハイム博士から\nメモリンＺを　受け取った
+SKen received the\n
+Memorin Z from Prof. Panheim.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//効果は　保証するが　それは\n非常に緩慢にしか　現れない\nあせりは　禁物だよ
+The effects take time to kick in, but I\n
+assure you it works.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ところで　ケン君、\n君に　もうひとつ　わしから\nプレゼントがある
+And here, Kenny-boy, is another merry present\n
+from me to you.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//Sケンは　パンハイム博士から\nホレギンＣを　押しつけられた
+SKen received the\n
+Hooligan Ｃ from Prof. Panheim.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ククク…　アレの薬だよ\nよかったら　使ってみてくれ\nとりあえず　犬には効いたねぇ
+Hehehe...it's a med for "that". Maybe keep it\n
+from the dog, but you try it if you wish.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ああ、君か…\n次の手術の準備で　忙しくてな\n相手をする暇は　ないんだよ
+Oh, it's you. I need to prepare for an\n
+operation, so I'm busy.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ああ、君か…\nうちの　エリザベス社長は\n美しいだろ？
+What do you think of our President Green?\n
+Gorgeous, right?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//やあ　ケン君！\n君にふさわしい　プレゼントが\nあるのだよ　受け取りたまえ！
+Ah, hello!\n
+I have just the present for you. Please, take\n
+it.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sケンは　パンハイム博士から\n
+SKen received the\n
+<$1D>
+//を押しつけられた
+＿from Prof. Panheim.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $002E)
+//女社長の館３Ｆ
+<$06>Green Mansion 3F＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//死体集めは　つらかったよ\nそれにあの頃の俺は　マジメでサ\n手を抜く方法も　知らなかった
+It was hard work, but I never cut corners.\n
+Hell, I didn't know how to.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//死体はね、捜すより　作るほうが\nずーっと　簡単だってコトに\nもっと早く、気づいてればなぁ…
+But making a corpse is so much easier than\n
+taking one. I wish I'd learned sooner.
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0030)
+//女社長の館４Ｆ
+<$06>Green Mansion 4F＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//もっと早く、気づいてさえいれば\n学校にも行けた、友達もできた、\nサッカーだってやれたんだよ…
+If I did, I'd have time for school, friends,\n
+and- I dunno, soccer!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダみたいな…
+And a Linda I can call mine...
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダみたいな…
+And a Linda I can call mine...
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//兄ちゃん、あんただけズルいよ！\nだからそろそろ、選手を\n交代してくれても　いいだろ？
+You cheated me, Brother. This is me taking my\n
+fair share!
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0032)
+//女社長の館５Ｆ
+<$06>Green Mansion 5F＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//S鍵がかかっていて開かない
+SThis door is locked and will not open.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0034)
+//女社長の館３Ｆ
+<$06>Green Mansion 3F＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0036)
+//女社長の館４Ｆ
+<$06>Green Mansion 4F＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0038)
+//女社長の館５Ｆ
+<$06>Green Mansion 5F＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//S鍵がかかっていて開かない
+SThis door is locked and will not open.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $003A)
+//……東
+<$06>...East
+<$00>
+
+
+
+
+
+
+//……西
+<$06>...West
+<$00>
+
+
+
+
+
+
+//……南
+<$06>...South
+<$00>
+
+
+
+
+
+
+//……北
+<$06>...North
+<$00>
+
+
+
+
+
+
+//…北東
+<$06>...North-east
+<$00>
+
+
+
+
+
+
+//…北西
+<$06>...North-west
+<$00>
+
+
+
+
+
+
+//…南東
+<$06>...South-east
+<$00>
+
+
+
+
+
+
+//…南西
+<$06>...South-west
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、…
+<$06>! That's where we'll find a＿
+<$1D>
+//に行けば
+.
+<$00>
+
+
+
+
+
+
+//直進
+<$06>For
+<$00>
+
+
+
+
+
+
+//右よ
+<$06>Right
+<$00>
+
+
+
+
+
+
+//左よ
+<$06>Left
+<$00>
+
+
+
+
+
+
+//後ろ
+<$06>Back
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、絶対に
+<$06>wards, got it? I'm sure we'll find a＿
+<$1D>
+//∥
+＿there!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sリンダは　「女の勘」を\nはたらかせた∥
+SLinda used her woman's intuition...
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//…ごめんね、\n今日は　勘がはたらかないわ…
+...Sorry. I don't have it in me today.
+<$12>
+<$00>
+
+
+
+
+
+
+//運命の
+<$06>Fated＿
+<$00>
+
+
+
+
+
+
+//新しい
+<$06>New＿
+<$00>
+
+
+
+
+
+
+//素敵な
+<$06>Great＿
+<$00>
+
+
+
+
+
+
+//未知の
+<$06>Unknown＿
+<$00>
+
+
+
+
+
+
+//何か
+<$06>things＿
+<$00>
+
+
+
+
+
+
+//発見
+<$06>discoveries＿
+<$00>
+
+
+
+
+
+
+//お宝
+<$06>treasures＿
+<$00>
+
+
+
+
+
+
+//動物
+<$06>animals＿
+<$00>
+
+
+
+
+
+
+//に　出会える…
+<$06>could appear.
+<$00>
+
+
+
+
+
+
+//が　待ってる…
+<$06>await us...
+<$00>
+
+
+
+
+
+
+//気がするわ∥
+<$06>are there.
+<$00>
+
+
+
+
+
+
+//チャンスよ∥
+<$06>are in our grasp!
+<$00>
+
+
+
+
+
+
+//今しかないわ
+<$06>could slip through our fingers!
+<$00>
+
+
+
+
+
+
+//間違いなし∥
+<$06>are dead head!
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$1D><$1D><$1D>
+//\n
+\n
+<$1D><$12>
+\n
+<CLEAR>
+//
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信があるの∥
+I'm sure of it!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信は　ないけどね…
+Although, I'm not totally certain...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//絶対なんだから∥
+I'm absolutely certain!
+<$12>
+<$00>
+
+
+
+
+
+
+//クン、クンクン………？
+<$06>Sniff...sniff, sniff?
+<$12>
+\n
+<CLEAR>
+//消毒液のニオイが\nプンプンするね
+It smells strongly of antiseptic here.
+<$12>
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$01>
+//は＿い
+Yes
+<$0E>
+//／
+／
+
+<$01>
+//いいえ
+No
+<$0E>
+<$00>
+
+
+
+
+
+
+
+<$00>
+
+
+
+

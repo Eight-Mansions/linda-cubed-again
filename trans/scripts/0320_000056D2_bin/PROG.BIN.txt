@@ -1,0 +1,1499 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $00000000, 16)
+#JMP($00001234)
+
+
+#WRITE(PTR, $0014)
+#WRITE(PTR, $0016)
+#WRITE(PTR, $0018)
+#WRITE(PTR, $001A)
+c002.obj
+<$00>
+
+
+
+
+c009.obj
+<$00>
+
+
+
+
+c023.obj
+<$00>
+
+
+
+
+c104a1.obj
+<$00>
+
+
+
+
+c105a1.obj
+<$00>
+
+
+
+
+c106a2.obj
+<$00>
+
+
+
+
+c108a0.obj
+<$00>
+
+
+
+
+c115a2.obj
+<$00>
+
+
+
+
+c119a2.obj
+<$00>
+
+
+
+
+c124a0.obj
+<$00>
+
+
+
+
+c124a1.obj
+<$00>
+
+
+
+
+c159a2.obj
+<$00>
+
+
+
+
+c160a1.obj
+<$00>
+
+
+
+
+c161a0.obj
+<$00>
+
+
+
+
+c181.obj
+<$00>
+
+
+
+
+m001.obj
+<$00>
+
+
+
+
+m024.obj
+<$00>
+
+
+
+
+m040.obj
+<$00>
+
+
+
+
+m056.obj
+<$00>
+
+
+
+
+#WRITE(PTR, $001C)
+//バトルパーク
+<$06>Battle Park＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+//男ってのは　つくづくバカだよ…\n自分たちで戦ってる暇に　動物を\n捕まえるほうが　金になるのに…
+<$06>Men are fools, it'd be much better to catch\n
+and sell animals-not fight amongst ourselves.
+<$12>
+\n
+<CLEAR>
+//わずかな賞金と　腹の足しになんない\nメダルとか　ベルトとかのために\n命を賭けるなんて　どうかしてるね
+Dinky prizes like medals and belts won't fill\n
+an empty stomache. It's all a waste!
+<$12>
+<$00>
+
+
+
+
+
+
+//さあ！　バトルパーク名物、格闘大会∥\n他人様を殴れて　金までもらえるよ∥\n腕に覚えのある人は　中へどうぞ∥
+<$06>Here in Battle Park, you can fight people for\n
+money! If you're up for it, come on in!
+<$12>
+<$00>
+
+
+
+
+
+
+//さあ！　バトルパーク名物、格闘大会∥\nすべてのハンターの　憧れの的\n「王者のベルト」は　誰の手に￠
+<$06>Here in Battle Park, every hunter has his eye\n
+on one prize- the Champion Belt!
+<$12>
+<$00>
+
+
+
+
+
+
+//←＿Ｂ
+<$06>←＿B
+
+//-04
+-04
+
+//に　コシカタ
+:＿KOSHIKATA
+<$12>
+<$00>
+
+
+
+
+
+
+//Ｊ
+<$06>J
+
+//-03
+-03
+
+//に　エターナ＿＿→\nＫ
+:＿ETERNA＿→\n
+K
+
+//-03
+-03
+
+//に　リナバレー＿→
+:＿SPURR VALLEY＿→
+<$12>
+<$00>
+
+
+
+
+
+
+//あんた、幻の動物の伝説を\n耳にしたことは　あるかい？\n
+<$06>Have you heard the tale of the phantom\n
+animal?\n
+<$01>
+//ああ、聞いたよ
+Yes, I have
+<$0E>
+//／
+／
+<$01>
+//いーや、知らん
+Nope!
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//幻の動物の　正体は\nいったい　何だろうね？
+No one knows the true identity of the phantom\n
+animal, but in these parts, he's hailed as a\n
+king.
+<$12>
+\n
+<CLEAR>
+//この星の　動物の王だという\n話も　あるけど…\n吹雪といえば　やっぱり…
+Speaking of "hail", you know what I think the\n
+animal is?
+<$12>
+\n
+<CLEAR>
+//マンモスで　決まりかねぇ
+A wooly mammoth!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//その動物は　自分の手の先も\n見えないくらいの　猛吹雪の時にだけ\nこの町の北のほうに　現れるらしいよ
+They say the phantom animal only appears in\n
+the thickest of blizzards.
+<$12>
+\n
+<CLEAR>
+//でもあたしゃ　ここで
+I've lived here a good＿
+
+//20
+20
+
+//年近く\n暮らしてるけど、そんな激しい吹雪にゃ\n一度も　お目にかかってないね
+＿years, but I've never seen no phantom.
+<$12>
+\n
+<CLEAR>
+//きっと　冬の観光客の落ち込み対策の\nでっちあげに　決まってるさ\n…お得意だもん、そういうの
+I think someone put the story out to rake in\n
+more tourists.
+<$12>
+<$00>
+
+
+
+
+
+
+//ここの養殖牧場サ、客の預かりモンの\n動物の子の数を　ごまかして\n勝手にさばいちまうって　噂だゼ
+<$06>I've "heard" the ranch'll lie to customers\n
+about the number of animal babies they\n
+delivered.
+<$12>
+\n
+<CLEAR>
+//それに　保護指定の動物を　何種類も\n許可なく隠トクしてるって　話も聞くね\nいずにしろ　ロクなもんじゃないよ
+It's also "possible" they're hiding some\n
+highly-protected species without permission.
+<$12>
+<$00>
+
+
+
+
+
+
+//養殖牧場をやってる　ブロンコ夫婦って\n金にモノを言わせて　この星の動物を\nあらかた集めて　食べてみたそうよ
+<$06>At Bronco's ranch, they know how to stretch a\n
+buck. They'll also taste test any animal.
+<$12>
+\n
+<CLEAR>
+//きっと奥方のほうは　「人間」の肉まで\n手をつけてると　思うわね\nだって　そういう感じの人なの
+I'd bet my left ass cheek his wife has cooked\n
+human meat before. They're in that deep!
+<$12>
+<$00>
+
+
+
+
+
+
+//レッドポールって　アナビスの\n遺跡の中には　獣人像や\n首飾りが　納められてたそうだ
+<$06>The red poles are said to be temples where\n
+dolls and necklaces were offered to Annabis.
+<$12>
+\n
+<CLEAR>
+//まっ当然、そんな珍しい物は　とっくに\n盗まれてて　行方不明…　どっかの\n金持ちの金庫の中に　あるんだろうゼ
+As you can guess, those were all stolen and\n
+lost over the years.
+<$12>
+\n
+<CLEAR>
+Who knows? Maybe some rich guy's hoarding\n
+them all in a safe somewhere.
+<$12>
+<$00>
+
+
+
+
+
+
+//どんなに気丈夫に見えても　ちょっと\n体をこわすと　途端に気弱になったり\nワガママになったり　焦り出したり…
+<$06>Even the toughest guys can't hide the changes\n
+that come once their bodies start falling\n
+apart with age.
+<$12>
+\n
+<CLEAR>
+//こんな往生際の悪い　動物って\nきっと　人間くらいのモンだよねぇ\n全く何が　万物の霊長だか…
+Only humans get as huffy and puffy about that\n
+stuff as we do. Animals all evolved past\n
+that.
+<$12>
+<$00>
+
+
+
+
+
+
+//Ｇファクトリーには　ほとんど人が\nいなくてサ、ロボットたちが\n黙々と　工場で働いてるだけだよ
+<$06>There are hardly any people in G Factory,\n
+only robots working quietly in each of the\n
+warehouses.
+<$12>
+\n
+<CLEAR>
+//まともな神経のヤツが　あんな所に\n半年もいたら　寂しくて寂しくて\n頭がヘンに　なるだろうよ
+Even the most self-reliant individual would\n
+go nuts from the isolation if they spent half\n
+a year in G Factory.
+<$12>
+<$00>
+
+
+
+
+
+
+//コシカタの　ポリスカって男が\n例の遺跡のお宝を　隠しもってるってよ\nちょいと変った　彫像らしいな
+<$06>A man in Koshikata named Poliska's hiding\n
+some weird temple treasure that looks like a\n
+doll.
+<$12>
+<$00>
+
+
+
+
+
+
+//若い時は　勢いがあったけど\n養殖牧場の　ブロンコさんも　そろそろ\n焼きが　回ってきたみたいだね
+<$06>BB Ranch's Bronco was a powerhouse back in\n
+the day, but he's grown weaker over time.
+<$12>
+\n
+<CLEAR>
+//昔の自慢話しか　出なくなったら\n人間も　そこで終りだよ
+Puff your chest all you want now, it happens\n
+to the very best of us.
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $001E)
+//クン、クンクン………？
+<$06>Sniff...sniff, sniff?
+<$12>
+\n
+<CLEAR>
+//
+<$1D>
+//のニオイが　するね\nそういえば、
+＿scent's filling the air. You know, I could\n
+go for some＿
+<$1D>
+//食まだだっけ…
+＿!
+<$12>
+<$00>
+
+
+
+
+
+
+//卵焼き
+<$06>fried eggs
+<$00>
+
+
+
+
+
+
+//カレー
+<$06>curry
+<$00>
+
+
+
+
+
+
+//焼き肉
+<$06>Neo Korean BBQ
+<$00>
+
+
+
+
+
+
+//唐あげ
+<$06>karaage
+<$00>
+
+
+
+
+
+
+//お菓子
+<$06>candy
+<$00>
+
+
+
+
+
+
+//バナナ
+<$06>banana
+<$00>
+
+
+
+
+
+
+//フライ
+<$06>Neo French fries
+<$00>
+
+
+
+
+
+
+//焼き魚
+<$06>grilled fish
+<$00>
+
+
+
+
+
+
+//トマト
+<$06>tomato
+<$00>
+
+
+
+
+
+
+//バター
+<$06>butter
+<$00>
+
+
+
+
+
+
+//ソース
+<$06>sauce
+<$00>
+
+
+
+
+
+
+//スープ
+<$06>＿soup
+<$00>
+
+
+
+
+
+
+//ピラフ
+<$06>pilaf
+<$00>
+
+
+
+
+
+
+//バニラ
+<$06>vanilla
+<$00>
+
+
+
+
+
+
+//キムチ
+<$06>kimchi
+<$00>
+
+
+
+
+
+
+//チーズ
+<$06>cheese
+<$00>
+
+
+
+
+
+
+//朝
+<$06>breakfast
+<$00>
+
+
+
+
+
+
+//昼
+<$06>lunch
+<$00>
+
+
+
+
+
+
+//夕
+<$06>dinner
+<$00>
+
+
+
+
+
+
+//……東
+<$06>...East
+<$00>
+
+
+
+
+
+
+//……西
+<$06>...West
+<$00>
+
+
+
+
+
+
+//……南
+<$06>...South
+<$00>
+
+
+
+
+
+
+//……北
+<$06>...North
+<$00>
+
+
+
+
+
+
+//…北東
+<$06>...North-east
+<$00>
+
+
+
+
+
+
+//…北西
+<$06>...North-west
+<$00>
+
+
+
+
+
+
+//…南東
+<$06>...South-east
+<$00>
+
+
+
+
+
+
+//…南西
+<$06>...South-west
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、…
+<$06>! That's where we'll find a＿
+<$1D>
+//に行けば
+.
+<$00>
+
+
+
+
+
+
+//直進
+<$06>For
+<$00>
+
+
+
+
+
+
+//右よ
+<$06>Right
+<$00>
+
+
+
+
+
+
+//左よ
+<$06>Left
+<$00>
+
+
+
+
+
+
+//後ろ
+<$06>Back
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、絶対に
+<$06>wards, got it? I'm sure we'll find a＿
+<$1D>
+//∥
+＿there!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sリンダは　「女の勘」を\nはたらかせた∥
+SLinda used her woman's intuition...
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//…ごめんね、\n今日は　勘がはたらかないわ…
+...Sorry. I don't have it in me today.
+<$12>
+<$00>
+
+
+
+
+
+
+//運命の
+<$06>Fated＿
+<$00>
+
+
+
+
+
+
+//新しい
+<$06>New＿
+<$00>
+
+
+
+
+
+
+//素敵な
+<$06>Great＿
+<$00>
+
+
+
+
+
+
+//未知の
+<$06>Unknown＿
+<$00>
+
+
+
+
+
+
+//何か
+<$06>things＿
+<$00>
+
+
+
+
+
+
+//発見
+<$06>discoveries＿
+<$00>
+
+
+
+
+
+
+//お宝
+<$06>treasures＿
+<$00>
+
+
+
+
+
+
+//動物
+<$06>animals＿
+<$00>
+
+
+
+
+
+
+//に　出会える…
+<$06>could appear.
+<$00>
+
+
+
+
+
+
+//が　待ってる…
+<$06>await us...
+<$00>
+
+
+
+
+
+
+//気がするわ∥
+<$06>are there.
+<$00>
+
+
+
+
+
+
+//チャンスよ∥
+<$06>are in our grasp!
+<$00>
+
+
+
+
+
+
+//今しかないわ
+<$06>could slip through our fingers!
+<$00>
+
+
+
+
+
+
+//間違いなし∥
+<$06>are dead head!
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$1D><$1D><$1D>
+//\n
+\n
+<$1D><$12>
+\n
+<CLEAR>
+//
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信があるの∥
+I'm sure of it!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信は　ないけどね…
+Although, I'm not totally certain...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//絶対なんだから∥
+I'm absolutely certain!
+<$12>
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Yスケジュール
+YMemo＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//スケジュールは何もありません
+There is nothing on schedule.
+<$12>
+<$00>
+
+
+
+
+
+
+//成功終了
+<$06>Completed!
+<$00>
+
+
+
+
+
+
+//期限切れ
+<$06>Expired!
+<$00>
+
+
+
+
+
+
+//あと
+<$06>In＿
+<$1E>
+//季節
+＿seasons
+<$00>
+
+
+
+
+
+
+//あと
+<$06>Deadline:＿
+<$1E>
+//年
+Y/
+<$1E>
+//季節
+S
+<$00>
+
+
+
+
+
+
+//あと
+<$06>In＿
+<$1E>
+//年
+＿years
+<$00>
+
+
+
+
+
+
+<$06><$16><$01>
+//◇
+◇
+<$0E><$1D><$02>
+//190
+<$1D>
+<$00>
+
+
+
+
+
+
+//ファングを倒す
+<$06>Slay Fang
+<$00>
+
+
+
+
+
+
+//パンハイムからの依頼
+<$06>Assist Panheim
+<$00>
+
+
+
+
+
+
+//<$1B>
+//カメの卵を手に入れる
+<$06>Snatch Turtle Eggs
+<$00>
+
+
+
+
+
+
+//<$1B>
+//プテラノの卵を手に入れる
+<$06>Snatch Pteranodon Eggs
+<$00>
+
+
+
+
+
+
+//遺産争いにケリをつける
+<$06>End the inheritance battle
+<$00>
+
+
+
+
+
+
+//ヤマダのために一肌脱ぐ
+<$06>Unload for Yamada
+<$00>
+
+
+
+
+
+
+//町のシンボルを見つけだす
+<$06>Find the village symbol
+<$00>
+
+
+
+
+
+
+//ソフィアからの依頼
+<$06>Assist Sophia
+<$00>
+
+
+
+
+
+
+//サチコ救出
+<$06>Rescue Sachiko
+<$00>
+
+
+
+
+
+
+//ポロポロちゃんを助ける
+<$06>Save Nightshade
+<$00>
+
+
+
+
+
+
+//アンジェラ捜し
+<$06>Find Angela
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//カラゴラムのファングを倒し、その証拠を\nハーディアホテルのスペクターに渡す
+Defeat Fang in Karhagolem. Present proof to\n
+Spectre in Hardia Hotel.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//マーブルポリスの
+Process meat from＿
+//<$1B>
+//ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す
+chickens in Marblopolis.Give them to Prof.\n
+Panheim in Hospico.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+Find up to 3＿
+//<$1B>
+//カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す
+Turtle Eggs. Give them to Louis at the Battle\n
+Park BB Ranch.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+Acquire 2＿
+//<$1B>
+//プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す
+Pteranodon Eggs. Give them to Bronco at the\n
+Battle Park BB Ranch.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//「太郎の首輪」を見つけだし、ドギファの\nナターシャか、オーマン家３兄弟に渡す
+Locate Taro's Collar. Give it to Natasha or\n
+one of the 3 Aumann children in Dogyf\n
+Heights.
+<$00>
+
+
+
+
+
+
+//６万
+<$06>60, 000
+<$00>
+
+
+
+
+
+
+//あと
+<$06>another＿
+<$1E><$0F>
+//000
+
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//Ｇファクトリーのヤマダのために\n
+Deposit＿
+<$1D>
+//￥を預金する
+￥ in an account to Yamada in G Factory.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//コシカタのシンボル「
+Find the＿
+//<$1B>
+//トラの爪」を\n見つけだし、ポリスカに渡す
+Tiger Claw, Koshikata's village symbol.\n
+Return it to Poliska.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ソフィアのために、エターナの桜の木を\nどうにかして咲かせる
+Find out how to revive the sakura trees in\n
+Eterna for Sophia.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//溶岩の中で育った動物の熱いウンチを\nエターナのソフィアに渡す
+Deliver Hot Dung from a lava-dwelling\n
+creature to Sophia in Eterna.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ラグナロッジのエモリに会いに行く
+Meet with Dr. Emori in Ragna Rim.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//「フロッピーと
+Take the Floppy Disc and＿
+
+//10
+10, 000
+
+//万￥」を持って、\nＧファクトリー入口１階、\n公衆電話の前に行く
+￥ to the G Factory gate. Answer the payphone.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//「フロッピーと
+Take the Floppy Disc and＿
+
+//10
+10, 000
+
+//万￥」を持って、\nパラサイド入口１階、\n公衆電話の前に行く
+￥ to the Paraside gate. Answer the payphone.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//「フロッピーと
+Take the Floppy Disc and＿
+
+//10
+10, 000
+
+//万￥」を持って、\nガレックスに行く
+￥ to Galax.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す
+Pick bloodberries in Flora Jam. Take them to\n
+Kevin and Nightshade in Rose Garden.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//パラサイドの酒場にいるアンジェラを\n確認して、リナバレーのマリオに連絡する
+Look for Angela at the Paraside bar. Report\n
+your findings to Mario in Spurr Valley.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//アンジェラを確認するために、\nオズポートホテルの酒場に行く
+Look for Angela at the OzPort Hotel bar.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//アンジェラを確認するために、\n西エリアのしけた町のホテルに行く
+Look for Angela at a hotel bar somewhere in\n
+West Area.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//アンジェラを確認するために、\nドギファの舞台に行く
+Look for Angela at the theater stage in Dogyf\n
+Heights.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リナバレーのマリオの母、\nアンジェラを追ってオズサットへ行く
+Chase Angela to OzSat! Mario will follow from\n
+Spurr Valley.
+<$00>
+
+
+
+
+
+
+
+<$00>
+
+
+
+

@@ -1,0 +1,1075 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $00000000, 16)
+#JMP($00000B0E)
+
+
+#WRITE(PTR, $0016)
+#WRITE(PTR, $0018)
+#WRITE(PTR, $001A)
+#WRITE(PTR, $001C)
+t06_sp1.obj
+<$00>
+
+
+
+
+c002.obj
+<$00>
+
+
+
+
+c009.obj
+<$00>
+
+
+
+
+c009a1.obj
+<$00>
+
+
+
+
+c010.obj
+<$00>
+
+
+
+
+c018.obj
+<$00>
+
+
+
+
+c101a1l.obj
+<$00>
+
+
+
+
+c102a2l.obj
+<$00>
+
+
+
+
+c117a0r.obj
+<$00>
+
+
+
+
+c117a1.obj
+<$00>
+
+
+
+
+c162_2.obj
+<$00>
+
+
+
+
+c180a2.obj
+<$00>
+
+
+
+
+box.obj
+<$00>
+
+
+
+
+#WRITE(PTR, $001E)
+//ホテル１Ｆ
+<$06>Hotel 1F＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//宿なんかに泊まらないで　野宿しなよ\nこの辺り、あんたの勇気を試すには\n手頃な動物だらけだゼ
+Don't care to stay at an inn? Then why not\n
+hone your survival skills out in the\n
+wilderness?
+<$12>
+<$00>
+
+
+
+
+
+
+//バカな観光客が　可逆レーザー銃で\n
+<$06>I saw this real stupid tourist shoot a＿
+//<$1B>
+//サイかなんかを　調子こいて\n撃ち殺して　遊んでたらサ…
+rhino to death with his laser gun.
+<$12>
+\n
+<CLEAR>
+//突然、
+Suddenly, the＿
+//<$1B>
+//サイの体が共鳴爆発を　起こして\n２０頭ばかしの
+rhino's body detonated, and BAM! The＿
+//<$1B>
+//サイが　そのバカを\n巻き込んで　吹き飛んじまった
+rhino took the tourist out too!
+<$12>
+\n
+<CLEAR>
+//だから、ここの動物には　何があるか\nわかんねぇから　今どきのオモチャは\n危なくて　使えねぇっての
+Today's technology is too dangerous for\n
+people who don't know basic biochemistry.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+//<$1B>
+//ツバメは　海を渡る鳥でね\n捕まえるのは　ちょっと難儀だね
+Swallows are birds that fly across the sea,\n
+which makes them tricky to capture.
+<$12>
+\n
+<CLEAR>
+//姿だけなら　Ｕ
+If you just want to see them, go to U
+
+//-07
+-07
+
+//あたりで\n越冬するはずだから　遠くから\nいくらでも　眺めることができるよ
+＿in their hibernation period to see them from\n
+afar.
+<$12>
+\n
+<CLEAR>
+//まっ　どうしても捕獲したいってのなら\n営巣地を　突き止めることだね\nたぶん西の最果ての　どっかだろうサ
+To catch any, you'll have to find their\n
+nests, which I'd assume are as far West as\n
+you can possibly go.
+<$12>
+<$00>
+
+
+
+
+
+
+//幸せは　お金じゃ買えないけど\n幸せになるための　小道具は\nお金で買える物が　たくさんあるわね
+<$06>Money can't buy happiness, but there are lots\n
+of objects money can buy that DO make people\n
+happy.
+<$12>
+\n
+<CLEAR>
+//お金で幸せになれない　人もいるけど\n少なくとも　私を幸せには出来るわよ
+If you can't make someone happy with the\n
+money, buy them- or me, something that will!
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0020)
+//ホテルＢ１
+<$06>Hotel B1＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+//町から外に出たら　自分が１人の\n人間である前に　１頭のヒ弱な動物で\nあることを　忘れないようにね
+<$06>The second you enter the wild, remember that\n
+you're no longer a "human being", but a "weak\n
+animal".
+<$12>
+\n
+<CLEAR>
+//まっ…　忘れてたら忘れてたで\nすぐ動物たちが　思いださせて\nくれると　思うけどサ
+If you forget your place on the food chain,\n
+the animals above will have no problem\n
+reminding you!
+<$12>
+<$00>
+
+
+
+
+
+
+//俺のこと個人的に　Ａ級保護指定にして\n大切にしてくれる女、誰かいないかなあ
+<$06>I wish I found a girl who cherished me so\n
+much, she'd File me as a Class A animal.
+<$12>
+\n
+<CLEAR>
+//…いないだろうな
+But...such a girl doesn't exist.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sケンは「
+SKen found the＿
+<$1D>
+//」を発見∥
+!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//S<CLEAR>だが、道具袋が一杯なので\n「
+S<CLEAR>Sadly, the item bag was full, so the＿
+<$1D>
+//」を\nとりあえず　あきらめた…
+had to go back.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//S<CLEAR>「
+SKen acquired＿
+<$1D>
+//」を　手に入れた∥
+!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sケンは「
+SKen found the＿
+<$1D>
+//」を発見∥
+!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//S<CLEAR>だが、道具袋が一杯なので\n「
+S<CLEAR>Sadly, the item bag was full, so the＿
+<$1D>
+//」を\nとりあえず　あきらめた…
+had to go back.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//S<CLEAR>「
+SKen acquired＿
+<$1D>
+//」を　手に入れた∥
+!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//S鍵がかかっている
+SIt's locked.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//Sケンは「納戸の鍵」を使った
+SKen used the Storage Key!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0022)
+//
+<$06><$15>
+//Yホテル
+YHotel
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//お気をつけて！
+Take care!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//野宿は　危険ですよ
+Camping's dangerous, you know.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//いらっしゃいませ！　
+Welcome! Would you like\n
+a room for＿
+<$1D><$1E><$14>
+//￥で\nお部屋が　用意できますよ\n
+￥?\n
+<$01>
+//宿泊する
+Stay
+<$0E>
+//／
+／
+<$01>
+//雑談する
+Chat
+<$0E>
+//／
+／
+<$01>
+//やめとく
+Exit
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//お金が　足りないようですね
+You can't afford this, can you.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//お客様、戦えなくなった　猟犬のＨＰは\n宿泊や野営じゃ　戻りませんけど…\n
+I'm sorry, but dogs won't recover HP in\n
+hotels or camps.\n
+<$01>
+//知ってるよ
+I know that
+<$0E>
+//／
+／
+<$01>
+//ホントかよ
+Really?!
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//さしでがましいことを　申し上げ\nたいへん　失礼いたしました\nでは　ごゆっくり
+Ah, I see. Please forgive my outburst.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//専門のお医者さまを　お捜しになって\nなるべく早く\n治療して　さしあげてください
+Yes. Always seek a vet treat your dogs.
+<$12>
+<$00>
+
+
+
+
+
+
+//クン、クンクン………？
+<$06>Sniff...sniff, sniff?
+<$12>
+\n
+<CLEAR>
+//とくに目新しい　ニオイは\nしないみたいよ
+None of the scents around here stand out.
+<$12>
+<$00>
+
+
+
+
+
+
+//……東
+<$06>...East
+<$00>
+
+
+
+
+
+
+//……西
+<$06>...West
+<$00>
+
+
+
+
+
+
+//……南
+<$06>...South
+<$00>
+
+
+
+
+
+
+//……北
+<$06>...North
+<$00>
+
+
+
+
+
+
+//…北東
+<$06>...North-east
+<$00>
+
+
+
+
+
+
+//…北西
+<$06>...North-west
+<$00>
+
+
+
+
+
+
+//…南東
+<$06>...South-east
+<$00>
+
+
+
+
+
+
+//…南西
+<$06>...South-west
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、…
+<$06>! That's where we'll find a＿
+<$1D>
+//に行けば
+.
+<$00>
+
+
+
+
+
+
+//直進
+<$06>For
+<$00>
+
+
+
+
+
+
+//右よ
+<$06>Right
+<$00>
+
+
+
+
+
+
+//左よ
+<$06>Left
+<$00>
+
+
+
+
+
+
+//後ろ
+<$06>Back
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、絶対に
+<$06>wards, got it? I'm sure we'll find a＿
+<$1D>
+//∥
+＿there!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sリンダは　「女の勘」を\nはたらかせた∥
+SLinda used her woman's intuition...
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//…ごめんね、\n今日は　勘がはたらかないわ…
+...Sorry. I don't have it in me today.
+<$12>
+<$00>
+
+
+
+
+
+
+//運命の
+<$06>Fated＿
+<$00>
+
+
+
+
+
+
+//新しい
+<$06>New＿
+<$00>
+
+
+
+
+
+
+//素敵な
+<$06>Great＿
+<$00>
+
+
+
+
+
+
+//未知の
+<$06>Unknown＿
+<$00>
+
+
+
+
+
+
+//何か
+<$06>things＿
+<$00>
+
+
+
+
+
+
+//発見
+<$06>discoveries＿
+<$00>
+
+
+
+
+
+
+//お宝
+<$06>treasures＿
+<$00>
+
+
+
+
+
+
+//動物
+<$06>animals＿
+<$00>
+
+
+
+
+
+
+//に　出会える…
+<$06>could appear.
+<$00>
+
+
+
+
+
+
+//が　待ってる…
+<$06>await us...
+<$00>
+
+
+
+
+
+
+//気がするわ∥
+<$06>are there.
+<$00>
+
+
+
+
+
+
+//チャンスよ∥
+<$06>are in our grasp!
+<$00>
+
+
+
+
+
+
+//今しかないわ
+<$06>could slip through our fingers!
+<$00>
+
+
+
+
+
+
+//間違いなし∥
+<$06>are dead head!
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$1D><$1D><$1D>
+//\n
+\n
+<$1D><$12>
+\n
+<CLEAR>
+//
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信があるの∥
+I'm sure of it!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信は　ないけどね…
+Although, I'm not totally certain...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//絶対なんだから∥
+I'm absolutely certain!
+<$12>
+<$00>
+
+
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+

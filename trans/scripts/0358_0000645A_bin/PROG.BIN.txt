@@ -1,0 +1,1635 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $00000000, 16)
+#JMP($00000FAA)
+
+
+#WRITE(PTR, $0016)
+#WRITE(PTR, $0018)
+#WRITE(PTR, $001A)
+#WRITE(PTR, $001C)
+t21_sp1.obj
+<$00>
+
+
+
+
+t21_sp2.obj
+<$00>
+
+
+
+
+t21_sp3.obj
+<$00>
+
+
+
+
+t21_sp4.obj
+<$00>
+
+
+
+
+t21_sp8.obj
+<$00>
+
+
+
+
+t21_sp9.obj
+<$00>
+
+
+
+
+c002.obj
+<$00>
+
+
+
+
+c009.obj
+<$00>
+
+
+
+
+c021.obj
+<$00>
+
+
+
+
+c023.obj
+<$00>
+
+
+
+
+box.obj
+<$00>
+
+
+
+
+kao_em1.obj
+<$00>
+
+
+
+
+kao_em2.obj
+<$00>
+
+
+
+
+kao_em3.obj
+<$00>
+
+
+
+
+#WRITE(PTR, $001E)
+//研究室
+<$06>Laboratory＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//S子供の頃から　今に至るまでの\nサチコの写真が　壁いっぱいに\n貼られている
+SPhotos of Sachiko throughout her childhood\n
+span the wall from floor to ceiling.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//S全身が赤い　手足のない\n奇形の人形が　ある
+SThis doll has a red body and no legs, like a\n
+weird bath toy.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//S片手を上げた　顔が
+SThis doll has its paw raised.\n
+It resembles a＿
+//<$1B>
+//ネコに似た\n動物の人形が　ある
+cat.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sケンは「
+SKen found the＿
+<$1D>
+//」を発見∥
+!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//S<CLEAR>だが、道具袋が一杯なので\n「
+S<CLEAR>Sadly, the item bag was full, so the＿
+<$1D>
+//」を\nとりあえず　あきらめた…
+had to go back.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//S<CLEAR>「
+SKen acquired＿
+<$1D>
+//」を　手に入れた∥
+!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//S頭の大きな　赤い人形が\n入っているようだ
+SAtop the table sits a red doll with a large\n
+head.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ネク、必ず来ると　信じていたよ\nさすがは　サチコが選んだ男だ\n勇気がある！　見直したよ！
+Nek, I knew in my heart you'd come. Sachiko\n
+chose a brave man, indeed!
+<$12>
+\n
+<CLEAR>
+//さて、本題に入る前に　少し\n込み入った話を　したいんだがね\n
+Before we start, I have a complicated story\n
+to tell.\n
+<$01>
+//聞きましょう！
+Tell me
+<$0E>
+//／
+／
+<$01>
+//暇な時に聞くよ
+Maybe later
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//さて、本題に入る前に\nキミに　お願いがある
+Before I get to the matter at hand, Nek, I\n
+have one request.
+<$12>
+\n
+<CLEAR>
+//道具袋を　今すぐ整理して\n空きを　ひとつ作って欲しい\nいいね、ネク君！
+Sort out your item bag right this minute! I\n
+can't work with you having no extra room!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//本題に入ろう！　まず　ヤツが\n要求してきた　私の研究成果と\n身代金を　君に託そう！
+We have work to do! First, here's the\n
+research and the money.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sケンは「フロッピー」と\n身代金
+SKen received the\n
+Floppy Disc and＿
+
+//10
+100,000
+
+//万￥を\n受け取った！
+￥!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//覚えたね？\n
+You'll remember, right?\n
+<$01>
+//は＿い
+Yes
+<$0E>
+//／
+／
+<$01>
+//いいえ
+Remember what?
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//後は、キミ次第だ∥\nサチコが　無事に帰ってきたら\nすぐに　結婚式を挙げよう∥
+It's up to you now. Once you rescue Sachiko,\n
+you're free to marry her.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//実は犯人は　わかっているんだ\n「ビトレイ」という　かつて\n私のライバルだった　科学者だ
+I know the kidnapper personally- a rival\n
+scientist named Betray.
+<$12>
+\n
+<CLEAR>
+//ヤツは　１５年ほど前にも\n私の研究を盗み　軍事用の\nクローンを　作った
+He stole my cloning research 15 years ago,\n
+and sold it to the military.
+<$12>
+\n
+<CLEAR>
+//それも、私の名を使ってね…\nおかげで　私とサチコは\n賞金首に　されそうになったよ
+To boot, he used my name, so Sachiko and I\n
+ended up on the run with a bounty on my head.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//賞金稼ぎの間では　ビトレイは\n「人形使い」と呼ばれる\nＡ級の指名手配犯らしいがね…
+Betray is a Class A criminal known among\n
+bounty hunters as "the puppet master".
+<$12>
+\n
+<CLEAR>
+//おおかた、逃走資金が　底を\nついてきた時に　私のことを\n思い出したんだろうよ…
+I suppose he remembered me again once his\n
+blood money ran out.
+<$12>
+\n
+<CLEAR>
+//ビトレイは　自分の研究が\n認められないのを　私のせいだと\n信じて　私を憎悪していたんだ
+Betray resents me because his own research\n
+never saw the same acclaim.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//いい加減にして欲しいよ\n「逆恨み」もいいところだ\n逆恨みなど　人間として最低だ
+It's good to feel grudges, but not to hold\n
+grudges. We have to end this.
+<$12>
+\n
+<CLEAR>
+//どう思う？　私の言うことは\nどこか　間違っているかね？\n
+You know what I mean, don't you?\n
+<$01>
+//何かヘンだぞ￠
+Something's off.
+<$0E>
+//／
+／
+<$01>
+//それが正論です
+You're right!
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//そうかもしれんな…\n気づかぬうちに　他人の心を\n傷つけていることも　ままある
+You think so? Sometimes the way I word things\n
+rubs people the wrong way.
+<$12>
+\n
+<CLEAR>
+//しかし…
+But I digress...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ビトレイは　今や手負いの獣だ\n何をするか　わからない…\n刺激するようなことは　厳禁だ
+I don't know what that cornered dog is\n
+thinking. I'd rather we not nudge him\n
+further.
+<$12>
+\n
+<CLEAR>
+//とにかく　サチコが無事に\n戻ってくれば　それでいいんだ\n頼んだよ、ネク君∥
+I'm begging you, Nek. Please, bring Sachiko\n
+back safely!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//そうだな…　確かに今は\nそんな場合じゃないね\n君の言う通りだ！
+Yes, you're right. This clearly isn't the\n
+time for such talk.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//取り引きの場所は\nＧファクトリーの入口の１階、\n公衆電話の前だ
+You're to call on the G Factory gate pay\n
+phone for the drop off location.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//やあ、ケン君！　足の調子は\nすっかり　いいようだね！
+Rejoice, Ken! Your legs are looking better\n
+than ever!
+<$12>
+\n
+<CLEAR>
+//ところで　この二つの人形は\n知ってるかな？　ダルマと\nラッキーキャットといってね
+By the way, do you know what these two dolls\n
+are? One is a "daruma" doll, and the one is a\n
+"maneki neko".
+<$12>
+\n
+<CLEAR>
+//私の先祖の国、ジャポネでは\n幸運を招く人形として　すべての\n家に　必ずあったらしいんだよ
+Supposedly in Japone, the land of my\n
+ancestors, they were lucky charms one might\n
+see in every household.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//女の子なら、ヨシコとスミレ…\n男の子なら、タケルとミツル…\nルキオとルネの線も　あるかな
+If it's two girls, Yoshiko and Sumire... If\n
+it's two boys, Takeru and Mitsuru...
+<$12>
+\n
+<CLEAR>
+//いっそ　ホクトとミナミ…
+If one of each, Hokuto and Minami...
+<$12>
+\n
+<CLEAR>
+//ダルマと
+Daruma and
+//<$1B>
+//ネコは　ないよね…\nそんな名にしたら　さすがに\nサチコも怒るよねぇ　ハハハ…
+Neko are out. Sachiko would never allow\n
+those, haha!
+<$12>
+\n
+<CLEAR>
+//ダルマと
+You know what a "ma-ne-ki ne-ko" is, right?\n
+It's a special＿
+//<$1B>
+//ネコか…
+cat that wants money.
+<$12>
+<$00>
+
+
+
+
+
+
+//あっ……￠
+<$06>Ah...!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//そういえば　ネク君に預けた\n身代金の
+That reminds me, I never got that＿
+
+//１０
+100,000
+
+//万￥…\nまだ、返してもらってないな…
+￥ ransom back from Nek.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$01>
+//◇
+◇
+<$0E>
+//「結婚祝い」にあげたと　思えば？\n
+Consider it a dowry.\n
+<$01>
+//◇
+◇
+<$0E>
+//「ネク」に返してもらってください\n
+Go ask "Nek" for it!\n
+<$01>
+//◇
+◇
+<$0E>
+//ネクのヤツ、使い込んだみたいです
+Dude, you KNOW he spent that.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//まっ、いいか\nたかが　
+Ah, perhaps.\n
+Well,
+
+//１０
+100,000
+
+//万￥ぽっち
+￥ isn't much, all things considered.
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0020)
+//研究室Ｂ１
+<$06>Laboratory B1＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//S頭の大きな　赤い人形が\n入っているようだ
+SAtop the table sits a red doll with a large\n
+head.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0022)
+//クン、クンクン………？
+<$06>Sniff...sniff, sniff?
+<$12>
+\n
+<CLEAR>
+//とくに目新しい　ニオイは\nしないみたいよ
+None of the scents around here stand out.
+<$12>
+<$00>
+
+
+
+
+
+
+//……東
+<$06>...East
+<$00>
+
+
+
+
+
+
+//……西
+<$06>...West
+<$00>
+
+
+
+
+
+
+//……南
+<$06>...South
+<$00>
+
+
+
+
+
+
+//……北
+<$06>...North
+<$00>
+
+
+
+
+
+
+//…北東
+<$06>...North-east
+<$00>
+
+
+
+
+
+
+//…北西
+<$06>...North-west
+<$00>
+
+
+
+
+
+
+//…南東
+<$06>...South-east
+<$00>
+
+
+
+
+
+
+//…南西
+<$06>...South-west
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、…
+<$06>! That's where we'll find a＿
+<$1D>
+//に行けば
+.
+<$00>
+
+
+
+
+
+
+//直進
+<$06>For
+<$00>
+
+
+
+
+
+
+//右よ
+<$06>Right
+<$00>
+
+
+
+
+
+
+//左よ
+<$06>Left
+<$00>
+
+
+
+
+
+
+//後ろ
+<$06>Back
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、絶対に
+<$06>wards, got it? I'm sure we'll find a＿
+<$1D>
+//∥
+＿there!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sリンダは　「女の勘」を\nはたらかせた∥
+SLinda used her woman's intuition...
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//…ごめんね、\n今日は　勘がはたらかないわ…
+...Sorry. I don't have it in me today.
+<$12>
+<$00>
+
+
+
+
+
+
+//運命の
+<$06>Fated＿
+<$00>
+
+
+
+
+
+
+//新しい
+<$06>New＿
+<$00>
+
+
+
+
+
+
+//素敵な
+<$06>Great＿
+<$00>
+
+
+
+
+
+
+//未知の
+<$06>Unknown＿
+<$00>
+
+
+
+
+
+
+//何か
+<$06>things＿
+<$00>
+
+
+
+
+
+
+//発見
+<$06>discoveries＿
+<$00>
+
+
+
+
+
+
+//お宝
+<$06>treasures＿
+<$00>
+
+
+
+
+
+
+//動物
+<$06>animals＿
+<$00>
+
+
+
+
+
+
+//に　出会える…
+<$06>could appear.
+<$00>
+
+
+
+
+
+
+//が　待ってる…
+<$06>await us...
+<$00>
+
+
+
+
+
+
+//気がするわ∥
+<$06>are there.
+<$00>
+
+
+
+
+
+
+//チャンスよ∥
+<$06>are in our grasp!
+<$00>
+
+
+
+
+
+
+//今しかないわ
+<$06>could slip through our fingers!
+<$00>
+
+
+
+
+
+
+//間違いなし∥
+<$06>are dead head!
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$1D><$1D><$1D>
+//\n
+\n
+<$1D><$12>
+\n
+<CLEAR>
+//
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信があるの∥
+I'm sure of it!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信は　ないけどね…
+Although, I'm not totally certain...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//絶対なんだから∥
+I'm absolutely certain!
+<$12>
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Yスケジュール
+YMemo＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//スケジュールは何もありません
+There is nothing on schedule.
+<$12>
+<$00>
+
+
+
+
+
+
+//成功終了
+<$06>Completed!
+<$00>
+
+
+
+
+
+
+//期限切れ
+<$06>Expired!
+<$00>
+
+
+
+
+
+
+//あと
+<$06>In＿
+<$1E>
+//季節
+＿seasons
+<$00>
+
+
+
+
+
+
+//あと
+<$06>Deadline:＿
+<$1E>
+//年
+Y/
+<$1E>
+//季節
+S
+<$00>
+
+
+
+
+
+
+//あと
+<$06>In＿
+<$1E>
+//年
+＿years
+<$00>
+
+
+
+
+
+
+<$06><$16><$01>
+//◇
+◇
+<$0E><$1D><$02>
+//190
+<$1D>
+<$00>
+
+
+
+
+
+
+//ファングを倒す
+<$06>Slay Fang
+<$00>
+
+
+
+
+
+
+//パンハイムからの依頼
+<$06>Assist Panheim
+<$00>
+
+
+
+
+
+
+//<$1B>
+//カメの卵を手に入れる
+<$06>Snatch Turtle Eggs
+<$00>
+
+
+
+
+
+
+//<$1B>
+//プテラノの卵を手に入れる
+<$06>Snatch Pteranodon Eggs
+<$00>
+
+
+
+
+
+
+//遺産争いにケリをつける
+<$06>End the inheritance battle
+<$00>
+
+
+
+
+
+
+//ヤマダのために一肌脱ぐ
+<$06>Unload for Yamada
+<$00>
+
+
+
+
+
+
+//町のシンボルを見つけだす
+<$06>Find the village symbol
+<$00>
+
+
+
+
+
+
+//ソフィアからの依頼
+<$06>Assist Sophia
+<$00>
+
+
+
+
+
+
+//サチコ救出
+<$06>Rescue Sachiko
+<$00>
+
+
+
+
+
+
+//ポロポロちゃんを助ける
+<$06>Save Nightshade
+<$00>
+
+
+
+
+
+
+//アンジェラ捜し
+<$06>Find Angela
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//カラゴラムのファングを倒し、その証拠を\nハーディアホテルのスペクターに渡す
+Defeat Fang in Karhagolem. Present proof to\n
+Spectre in Hardia Hotel.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//マーブルポリスの
+Process meat from＿
+//<$1B>
+//ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す
+chickens in Marblopolis.Give them to Prof.\n
+Panheim in Hospico.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+Find up to 3＿
+//<$1B>
+//カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す
+Turtle Eggs. Give them to Louis at the Battle\n
+Park BB Ranch.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+Acquire 2＿
+//<$1B>
+//プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す
+Pteranodon Eggs. Give them to Bronco at the\n
+Battle Park BB Ranch.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//「太郎の首輪」を見つけだし、ドギファの\nナターシャか、オーマン家３兄弟に渡す
+Locate Taro's Collar. Give it to Natasha or\n
+one of the 3 Aumann children in Dogyf\n
+Heights.
+<$00>
+
+
+
+
+
+
+//６万
+<$06>60, 000
+<$00>
+
+
+
+
+
+
+//あと
+<$06>another＿
+<$1E><$0F>
+//000
+
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//Ｇファクトリーのヤマダのために\n
+Deposit＿
+<$1D>
+//￥を預金する
+￥ in an account to Yamada in G Factory.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//コシカタのシンボル「
+Find the＿
+//<$1B>
+//トラの爪」を\n見つけだし、ポリスカに渡す
+Tiger Claw, Koshikata's village symbol.\n
+Return it to Poliska.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ソフィアのために、エターナの桜の木を\nどうにかして咲かせる
+Find out how to revive the sakura trees in\n
+Eterna for Sophia.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//溶岩の中で育った動物の熱いウンチを\nエターナのソフィアに渡す
+Deliver Hot Dung from a lava-dwelling\n
+creature to Sophia in Eterna.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ラグナロッジのエモリに会いに行く
+Meet with Dr. Emori in Ragna Rim.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//「フロッピーと
+Take the Floppy Disc and＿
+
+//10
+10, 000
+
+//万￥」を持って、\nＧファクトリー入口１階、\n公衆電話の前に行く
+￥ to the G Factory gate. Answer the payphone.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//「フロッピーと
+Take the Floppy Disc and＿
+
+//10
+10, 000
+
+//万￥」を持って、\nパラサイド入口１階、\n公衆電話の前に行く
+￥ to the Paraside gate. Answer the payphone.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//「フロッピーと
+Take the Floppy Disc and＿
+
+//10
+10, 000
+
+//万￥」を持って、\nガレックスに行く
+￥ to Galax.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す
+Pick bloodberries in Flora Jam. Take them to\n
+Kevin and Nightshade in Rose Garden.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//パラサイドの酒場にいるアンジェラを\n確認して、リナバレーのマリオに連絡する
+Look for Angela at the Paraside bar. Report\n
+your findings to Mario in Spurr Valley.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//アンジェラを確認するために、\nオズポートホテルの酒場に行く
+Look for Angela at the OzPort Hotel bar.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//アンジェラを確認するために、\n西エリアのしけた町のホテルに行く
+Look for Angela at a hotel bar somewhere in\n
+West Area.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//アンジェラを確認するために、\nドギファの舞台に行く
+Look for Angela at the theater stage in Dogyf\n
+Heights.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リナバレーのマリオの母、\nアンジェラを追ってオズサットへ行く
+Chase Angela to OzSat! Mario will follow from\n
+Spurr Valley.
+<$00>
+
+
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+

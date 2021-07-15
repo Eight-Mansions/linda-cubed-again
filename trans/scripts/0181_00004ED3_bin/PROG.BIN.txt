@@ -1,0 +1,1091 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $00000000, 16)
+#JMP($00000D87)
+
+
+#WRITE(PTR, $0014)
+#WRITE(PTR, $0016)
+#WRITE(PTR, $0018)
+#WRITE(PTR, $001A)
+c002.obj
+<$00>
+
+
+
+
+c009.obj
+<$00>
+
+
+
+
+c009a1.obj
+<$00>
+
+
+
+
+c010.obj
+<$00>
+
+
+
+
+c018.obj
+<$00>
+
+
+
+
+c113a0l.obj
+<$00>
+
+
+
+
+c119a0.obj
+<$00>
+
+
+
+
+c120a1.obj
+<$00>
+
+
+
+
+c120a2.obj
+<$00>
+
+
+
+
+c121a2.obj
+<$00>
+
+
+
+
+c174a0.obj
+<$00>
+
+
+
+
+c174a1.obj
+<$00>
+
+
+
+
+#WRITE(PTR, $001C)
+//パラサイド
+<$06>Paraside＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//恵まれない私のために　ひとつ\nご寄付をお願いしますよ、ダンナ様！
+If you donate to charity, then you can call\n
+me Charity!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//何かイイことが　ありそうなフリだけの\n寄付より　絶対に何もない　私への\n寄付のほうが　潔いってモンですよ
+Why donate to some corporation when you could\n
+donate to me, someone who ACTUALLY needs the\n
+money?
+<$12>
+<$00>
+
+
+
+
+
+
+//代行ハンターに　金をもらって\n依頼料を倍くらいに　教えるヤツが\nいるらしいから　気をつけな
+<$06>I've heard some proxy hunters are doubling\n
+their initial hunting rates to pocket more\n
+than their catches is worth.
+<$12>
+\n
+<CLEAR>
+//でも　この町のルールじゃ\nだまされるヤツが　悪いんだけどな
+According to the unwritten rules of this\n
+town, it's your fault if you get swindled.
+<$12>
+<$00>
+
+
+
+
+
+
+//奥のでかい建物が　通称ジャンクパレス！\n考えもなしに　何度も建て増しを\n繰り返したせいで　中は迷路みてぇだ
+<$06>The big, colorful structure just ahead is\n
+what we call Junk Palace!
+<$12>
+\n
+<CLEAR>
+Everyone kept building on what started as a\n
+small heap, until whoops! We were looking at\n
+a maze.
+<$12>
+\n
+<CLEAR>
+//入ったきり　迷って出られないほど\n複雑じゃないが　別の理由で　二度と\n帰って来れないヤツは　跡を絶たねぇ
+Getting in isn't so bad, but imagine once\n
+you're in that someone blocks your exit with\n
+trash!
+<$12>
+<$00>
+
+
+
+
+
+
+//動物との戦闘で　最も大切なことを\n教えよう！　しっかりと心に刻んどけ
+<$06>There's one lesson I want you to always\n
+remember when facing animals in combat:
+<$12>
+\n
+<CLEAR>
+//「何を犠牲にしても　まず　自分が\n生き残ることを　最優先に考えるクセを\nつける！」　これが１番だ∥
+"Whilst some sacrifices must be made, thou\n
+shalt never sacrifice thyself!"
+<$12>
+<$00>
+
+
+
+
+
+
+//昔は良かったよ…　ハッスルⅡが\n簡単に手に入ってさ…　わしでも\n水の中の
+<$06>I miss Hustle Ⅱ something serious.\n
+I could strangle a＿
+//<$1B>
+//ワニを　仕留められた…
+crocodile with my\n
+bare hands on the stuff.
+<$12>
+\n
+<CLEAR>
+//
+//<$1B>
+//オオカミに囲まれても　負ける気が\nゼンゼンしなかったもんなぁ\n確かに副作用は　こわかったけど…
+Wolves could have me surrounded,\n
+and I wouldn't bat an eyelash!
+<$12>
+\n
+<CLEAR>
+//あの頃のわしは　輝いとったと思うよ
+I mean, yeah of course it gave me side\n
+effects, but...it also gave me my prime.
+<$12>
+<$00>
+
+
+
+
+
+
+//ヒュームと　ゴメスの部隊が共同で\n狩りをした後は　生態系まで\n変わっちまうって　評判だったよ
+<$06>It's common sentiment here that Hume and\n
+Gomez hunting together changed the ecosystem.
+<$12>
+\n
+<CLEAR>
+//金になる動物は　一切いなくなるんだ！\nやつらのおかげで　絶滅した動物は\n２種や３種じゃ　きかないだろうよ
+They made a good 2 or 3 species extinct, and\n
+left no animals with market value for us!
+
+They wiped out the populations of any animals\n
+with real market value. I'll bet they\n
+rendered more than a couple species extinct.
+<$12>
+<$00>
+
+
+
+
+
+
+//ネオケニアから　離れる時に\n町の奥の壁に　落書きを残していく人が\nけっこう、いるんだよね
+<$06>Quite a few folks left graffiti on the town's\n
+rear wall before migrating from Neo Kenya.
+<$12>
+\n
+<CLEAR>
+//記念か何かの　つもりなんだろうけど\n「死神」が落ちてきたら　町ごと、\n消し飛ぶんだから　残りゃしないのに
+I hope it was only for the sentiment. Once\n
+the Grim Reaper hits, it'll all be destroyed.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//S壁に　落書きがある
+SThere is old graffiti on the wall.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//わーい！　おれもこの落書きで\nスタッフロールに　のるゾ∥
+"Check out THIS masterpiece! They should put\n
+me in the game credits for this!"
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//紀子、好きだぁ～っ∥\n結婚しような∥　愛してる■\n＿＿＿＿＿＿＿＿＿＿ユタカ
+"Itoko, I love you!\n
+Let's get married and be together!■\n
+＿＿＿＿＿＿-Yutaka"
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//１．０＿＿さ＿＿こ＿＿む＿＿て＿＿の\n１．５＿＿ぃ＿＿ゃ＿＿っ＿＿ぁ＿＿ょ\n２．０＿＿・＿＿・＿＿・＿＿・＿＿・
+"UVLUINCAOUIFUIM\n
+TNALUKHEWADREC\n
+MYHKIYKAOUIHANT"
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $001E)
+//\n
+<$06>\n
+<$00>
+
+
+
+
+
+
+<$06><$01>
+//寄付する
+Donate
+<$0E>
+//／
+／
+<$01>
+//雑談する
+Chat
+<$0E>
+//／
+／
+<$01>
+//ヤだよ！
+No way!
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//あたしに有り金を　全部渡したその足で\nＬ－
+There's some fellers around L-
+
+//22
+22
+
+//辺りを　散歩してごらん\nきっと珍しいヤツに　出くわすよ
+＿who only approach those they find desirable.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//間違っても　Ｌ－
+Whatever you do, don't camp around L-
+
+//24
+24
+
+//やＧ－
+＿or G-
+
+//14
+14
+
+//で\n野宿なんかしないほうが　身のためだよ\nこわいヤツが　夢に出て来るってサ
+. Weirdos bump in the night out there, if you\n
+catch my drift.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//いつも神様は　あなたの行動を\n見ていらっしゃいますよ…
+God's always watching, you know.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ありがとうございます\n優しい気持ちを　入れてください\n持金
+Thank you so much!\n
+How much will you donate?\n
+<$1E>
+//40￥→寄付
+40￥→
+<$01><$1E>
+//40￥
+40
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+You'll donate＿
+<$1E>
+//￥の寄付ですね\n
+￥?\n
+<$01>
+//は＿い
+Yes
+<$0E>
+//／
+／
+<$01>
+//いいえ
+No
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//最近、多いんですよ…\n持金を全部、寄付される方…
+I've seen a lot of people donating everything\n
+they have lately.
+<$12>
+\n
+<CLEAR>
+//あなた、まだ若いんだから\nヘンな気を　起こさないでくださいね
+You're still young, so don't feel strange or\n
+guilty about participating.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ダンナ、いつもわりいねぇ\n拾いモンだけど　お礼がわりに\nこれ、受け取ってくんナ
+Gosh, I don't know what to say. I'd only\n
+picked this up, but I hope it works as a\n
+"thank you".
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//S<CLEAR>ケンは　
+S<CLEAR>Ken acquired\n
+<$1D>
+//を手に入れた∥
+!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//じゃ、引き続き寄付のほう　よろしく!\n…と言っても　もう何もでねぇけどナ
+Well, it always helps, so please continue to\n
+donate when you can.
+<$12>
+//\nた、ぶ、ん…
+\n
+(Not "if", "when"...)
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//あなたに　神様からの祝福が\nありますように
+God bless you.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//あなたと　あなたの家族に\n神様からのご加護が　ありますように
+God bless you and your family.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//あなたと　あなたの家族\nそして　子孫にも　未来永劫、\n幸あらんことを　お祈りします
+God bless you, your family, your children and\n
+your childrens' children.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//今、あなたが寄付したお金を\nどうやって　かせいだかについては…
+Ask yourself, how'd you get the money you\n
+donated just now?
+<$12>
+\n
+<CLEAR>
+//きっと　神様も見てなかったことに\nしてくださると　思いますよ\n良かったですね
+God's giving someone a little special\n
+treatment, I'll bet. But that's good too!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//どうも
+My goodness!
+<$12>
+//\n………………………………？\nえっ￠　神様のご加護？
+\n
+Is this...what they call "a gift from God"?
+<$12>
+\n
+<CLEAR>
+//そんなモンなくったって　こんな大金を\nポンと　寄付できるような方なんだから\n十分、幸せなはずですよ
+To see someone who- by all rights- wouldn't\n
+have much be so generous brings me to tears!
+<$12>
+\n
+<CLEAR>
+//足りなきゃ　
+Is＿
+
+//100000
+100,000
+
+//￥で\nお売りしましょうか？
+￥ a fair price to you?
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//本当に　ありがとうございました∥\nあなたのお気持ちは　しっかりと…
+Thank you so much! Your generosity will be\n
+remembered for all time.
+<$12>
+//\n「記録」しておきましたよ
+\n
+I know, because I just "reported" it.
+<$12>
+<$00>
+
+
+
+
+
+
+//クン、クンクン………？
+<$06>Sniff...sniff, sniff?
+<$12>
+\n
+<CLEAR>
+//ここには　少なくとも
+There's not＿
+<$1E>
+//1人！\nいいえ…　
+1 soul here!\n
+Wait... No, there's at least＿
+<$1E>
+//1人はいるわよ…
+1.
+<$12>
+\n
+<CLEAR>
+//お風呂と縁のない人
+It's whatever they reek of that isn't human.
+<$12>
+<$00>
+
+
+
+
+
+
+//……東
+<$06>...East
+<$00>
+
+
+
+
+
+
+//……西
+<$06>...West
+<$00>
+
+
+
+
+
+
+//……南
+<$06>...South
+<$00>
+
+
+
+
+
+
+//……北
+<$06>...North
+<$00>
+
+
+
+
+
+
+//…北東
+<$06>...North-east
+<$00>
+
+
+
+
+
+
+//…北西
+<$06>...North-west
+<$00>
+
+
+
+
+
+
+//…南東
+<$06>...South-east
+<$00>
+
+
+
+
+
+
+//…南西
+<$06>...South-west
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、…
+<$06>! That's where we'll find a＿
+<$1D>
+//に行けば
+.
+<$00>
+
+
+
+
+
+
+//直進
+<$06>For
+<$00>
+
+
+
+
+
+
+//右よ
+<$06>Right
+<$00>
+
+
+
+
+
+
+//左よ
+<$06>Left
+<$00>
+
+
+
+
+
+
+//後ろ
+<$06>Back
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、絶対に
+<$06>wards, got it? I'm sure we'll find a＿
+<$1D>
+//∥
+＿there!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sリンダは　「女の勘」を\nはたらかせた∥
+SLinda used her woman's intuition...
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//…ごめんね、\n今日は　勘がはたらかないわ…
+...Sorry. I don't have it in me today.
+<$12>
+<$00>
+
+
+
+
+
+
+//運命の
+<$06>Fated＿
+<$00>
+
+
+
+
+
+
+//新しい
+<$06>New＿
+<$00>
+
+
+
+
+
+
+//素敵な
+<$06>Great＿
+<$00>
+
+
+
+
+
+
+//未知の
+<$06>Unknown＿
+<$00>
+
+
+
+
+
+
+//何か
+<$06>things＿
+<$00>
+
+
+
+
+
+
+//発見
+<$06>discoveries＿
+<$00>
+
+
+
+
+
+
+//お宝
+<$06>treasures＿
+<$00>
+
+
+
+
+
+
+//動物
+<$06>animals＿
+<$00>
+
+
+
+
+
+
+//に　出会える…
+<$06>could appear.
+<$00>
+
+
+
+
+
+
+//が　待ってる…
+<$06>await us...
+<$00>
+
+
+
+
+
+
+//気がするわ∥
+<$06>are there.
+<$00>
+
+
+
+
+
+
+//チャンスよ∥
+<$06>are in our grasp!
+<$00>
+
+
+
+
+
+
+//今しかないわ
+<$06>could slip through our fingers!
+<$00>
+
+
+
+
+
+
+//間違いなし∥
+<$06>are dead head!
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$1D><$1D><$1D>
+//\n
+\n
+<$1D><$12>
+\n
+<CLEAR>
+//
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信があるの∥
+I'm sure of it!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信は　ないけどね…
+Although, I'm not totally certain...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//絶対なんだから∥
+I'm absolutely certain!
+<$12>
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$01>
+//は＿い
+Yes
+<$0E>
+//／
+／
+
+<$01>
+//いいえ
+No
+<$0E>
+<$00>
+
+
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+

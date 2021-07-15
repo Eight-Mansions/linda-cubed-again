@@ -1,0 +1,2300 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $00000000, 16)
+#JMP($00001A99)
+
+
+#WRITE(PTR, $0016)
+#WRITE(PTR, $0018)
+#WRITE(PTR, $001A)
+#WRITE(PTR, $001C)
+t05_sp1.obj
+<$00>
+
+
+
+
+c002.obj
+<$00>
+
+
+
+
+c009.obj
+<$00>
+
+
+
+
+c023.obj
+<$00>
+
+
+
+
+c101a2r.obj
+<$00>
+
+
+
+
+c139b.obj
+<$00>
+
+
+
+
+c175a0.obj
+<$00>
+
+
+
+
+c180a0.obj
+<$00>
+
+
+
+
+#WRITE(PTR, $001E)
+//ホテル
+<$06>Hotel＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sケンは「
+SKen found the＿
+<$1D>
+//」を発見∥
+!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//S<CLEAR>だが、道具袋が一杯なので\n「
+S<CLEAR>Sadly, the item bag was full, so the＿
+<$1D>
+//」を\nとりあえず　あきらめた…
+had to go back.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//S<CLEAR>「
+SKen acquired＿
+<$1D>
+//」を　手に入れた∥
+!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sケンは「
+SKen found the＿
+<$1D>
+//」を発見∥
+!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//S<CLEAR>だが、道具袋が一杯なので\n「
+S<CLEAR>Sadly, the item bag was full, so the＿
+<$1D>
+//」を\nとりあえず　あきらめた…
+had to go back.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//S<CLEAR>「
+SKen acquired＿
+<$1D>
+//」を　手に入れた∥
+!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sケンは「
+SKen found the＿
+<$1D>
+//」を発見∥
+!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//S<CLEAR>だが、道具袋が一杯なので\n「
+S<CLEAR>Sadly, the item bag was full, so the＿
+<$1D>
+//」を\nとりあえず　あきらめた…
+had to go back.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//S<CLEAR>「
+SKen acquired＿
+<$1D>
+//」を　手に入れた∥
+!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//幻の獣が　吹雪の中に現れる…\nビースチャンの間には\nそういう伝説が　あるらしいね
+There's an old tale among Beastians of an\n
+illusive creature that appears in snowstorms.
+<$12>
+\n
+<CLEAR>
+//まっ、このエリアには\n雪さえ　降らないわけだから\n関係ないだろうけど…
+Not that it matters around here. Snow doesn't\n
+fall around these parts.
+<$12>
+\n
+<CLEAR>
+//あッ…∥　そうか∥\n死神接近の影響の　異常気象か…
+Ah! Wait! Is the advent of the Grim Reaper\n
+the cause of Neo Kenya's strange weather?
+<$12>
+\n
+<CLEAR>
+//イン石が降ってくるのに 比べりゃ\n雪くらい　どこで降ろうが\n驚きゃしないがね…
+Instead of snowfall, we get a falling meteor!\n
+That has to account for something.
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0020)
+//肉屋・道具屋
+<$06>Meat・General＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自分で　肉や装備を作るときは\nまず「野営」して　じっくりと\n腰をすえて　かかることだ
+When you want to process meat and craft\n
+equipment, stop where you are and set up\n
+camp.
+<$12>
+\n
+<CLEAR>
+//歩きながら　やれるほど\n加工は　簡単じゃないからよ
+There's no benefits at all to crafting as you\n
+travel.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//オスを捕まえたけりゃ、「秋」\nメスを捕まえたけりゃ、「春」\n卵捜しも、「春」
+Autumn's for boys, spring is for girls, as\n
+that's when their eggs all sparkle like\n
+pearls.
+<$12>
+\n
+<CLEAR>
+//たくさん捕まえたけりゃ、「夏」\n単体ねらいなら、「冬」\nこれハンティングの基本ね！
+In summer, they flock. In winter, they go.\n
+Remember all that to hunt like a pro!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//この町も　相当ヤバいけど\nネブールって所は　気合いの入り方が\nここの比じゃないって　聞いたよ
+This town's not exactly safe, but I hear\n
+Nebul is on a whole other level.
+<$12>
+\n
+<CLEAR>
+//でも　そんな町、バードラインの\nメニューにもないし　ただの噂で\n本当は　ないのかもな
+I only hear rumors, but there must be a\n
+reason the birdline never flies out there.
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0022)
+//
+<$06><$15>
+//Yホテル
+YHotel
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//お気をつけて！
+Take care!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//野宿は　危険ですよ
+Camping's dangerous, you know.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//いらっしゃいませ！　
+Welcome! Would you like\n
+a room for＿
+<$1D><$1E><$14>
+//￥で\nお部屋が　用意できますよ\n
+￥?\n
+<$01>
+//宿泊する
+Stay
+<$0E>
+//／
+／
+<$01>
+//雑談する
+Chat
+<$0E>
+//／
+／
+<$01>
+//やめとく
+Exit
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//お金が　足りないようですね
+You can't afford this, can you.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//お客様、戦えなくなった　猟犬のＨＰは\n宿泊や野営じゃ　戻りませんけど…\n
+I'm sorry, but dogs won't recover HP in\n
+hotels or camps.\n
+<$01>
+//知ってるよ
+I know that
+<$0E>
+//／
+／
+<$01>
+//ホントかよ
+Really?!
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//さしでがましいことを　申し上げ\nたいへん　失礼いたしました\nでは　ごゆっくり
+Ah, I see. Please forgive my outburst.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//専門のお医者さまを　お捜しになって\nなるべく早く\n治療して　さしあげてください
+Yes. Always seek a vet treat your dogs.
+<$12>
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Yホテル
+YHotel
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//今日は　お客様たちだけだから\nいろいろヤっても　平気っスよ
+You're been our only new customers today. I'm\n
+getting a lot done at a good pace.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//えっ…？　私が…？\nいやぁ…　そっちの方はどうも…
+If you want cuddles, you'll have to ask\n
+someone else!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//おひとり様で…？　いや、別に…\nかまわないですよ　
+Here alone? I'm not judging, but it'll be＿
+<$1D><$1E><$14>
+//￥です
+￥.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//下見は万全ってとこですね\n次は　お二人でどうぞ！
+You'll see our rooms are flawless. Next time,\n
+bring a friend!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ですよね…　おひとりじゃ\n
+Oh, I see... All by yourself?\n
+<$1D>
+//の夜は　長過ぎますものね
+＿nights must feel so much longer.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//いらっしゃいませ！　素敵な夜を\n演出するお部屋　
+Welcome! Enjoy a night here for only＿
+<$1D><$1E><$14>
+//￥です
+￥!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//満ち足りた　朝でございますね\nまた　どうぞ
+I hope you feel good and refreshing this\n
+morning. See you again!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//太陽は　何色に見えますか？\nまた、どうぞ
+What color does the sun look like to you?
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//やっぱり　回転しないと\nダメですかね？
+Ah, don't like how that spins, do you?
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//殿方お二人で…？　いや、別に…\nかまわないですよ　
+You two? I'm not judging, but it's still＿
+<$1D><$1E><$14>
+//￥です
+￥.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//いろいろと世間様の\n風当たりも　強いでしょうが\n負けないでくださいね
+Society may judge you, but don't let anyone\n
+come between your love!
+<$12>
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$01>
+//宿泊する
+Stay
+<$0E>
+//／
+／
+<$01>
+//雑談する
+Chat
+<$0E>
+//／
+／
+<$01>
+//やめとく
+Exit
+<$0E>
+<$00>
+
+
+
+
+
+
+//個
+<$06>＿
+<$00>
+
+
+
+
+
+
+//匹
+<$06>＿
+<$00>
+
+
+
+
+
+
+<$06><$1D>
+//を
+＿x
+<$1D>
+//ます\n
+＿\n
+<$19>
+//1
+1
+<$01><$1A>
+//01
+01
+<$0E><$15>
+//S
+S
+<$19>
+//0
+0
+
+//／
+／
+<$14><$1E>
+//034
+034
+<$15>
+//S
+S
+<$1D><$14><$02>
+//112
+112
+<$19>
+//2
+2
+<$1E>
+//40
+40
+<$19>
+//0
+0
+<$15>
+//S￥
+S￥
+<$00>
+
+
+
+
+
+
+<$06>
+//T.C.(
+TCU (x
+<$1E>
+//034
+
+//)
+)
+<$00>
+
+
+
+
+
+
+<$06><$05>
+//γ
+A
+<$00>
+
+
+
+
+
+
+<$06><$05>
+//ζ
+D
+<$00>
+
+
+
+
+
+
+<$06><$1E>
+//@019
+@019
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//セレクトボタンで解説が出ます
+SELECT: Details
+<$00>
+
+
+
+
+
+
+<CLEAR>
+
+<$00>
+
+
+
+
+<$06><$16><$15>
+//W
+W
+<$01><$1D><$02>
+//116
+116
+<$0E><$02>
+//216
+216
+<$1D><$1E>
+//39￥
+39￥
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//トランスカーゴは　１枠につき\n
+The trans-cargo unit has\n
+a＿
+
+//99
+99
+
+//頭までしか　収容できません
+＿species capacity!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+
+//トランスカーゴ
+The trans-cargo unit＿
+
+//がいっぱいです
+is full!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//道具がいっぱいです
+The item bag is full!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1D>
+//は\nお引き取りできません
+?\n
+I can't accept that!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+Sell＿
+<$1D>
+//を\n
+＿for\n
+<$1E>
+//￥で売りますか？\n
+￥?\n
+<$01>
+//は＿い
+Yes
+<$0E>
+//／
+／
+<$01>
+//いいえ
+No
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1D><$15>
+//Wは\nＡ級保護動物のため\n取り引きできません
+W＿cannot be traded.\n
+Class A species\n
+trading is prohibited!
+<$12>
+<$00>
+
+
+
+
+
+
+<CLEAR>
+
+<$00>
+
+
+
+
+<$06><$16><$01><$1D><$02>
+//120
+<$0E><$02>
+//216
+<$1E>
+//匹で
+x＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+Craft＿
+<$1D>
+//を作ります\n
+?\n
+<$01>
+//は＿い
+Yes
+<$0E>
+//／
+<$01>
+//いいえ
+No
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+Crafting a＿
+<$1D>
+//を作ります\n加工料金＿
+＿\n
+will cost
+<$1D><$1E><$14>
+//￥\n
+￥.\n
+<$01>
+//は＿い
+Okay
+<$0E>
+//／
+<$01>
+//いいえ
+Wait
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//お金が足りません
+You can't afford this!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物が足りません
+You don't have the animals!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//加工料金＿
+You can't afford the＿\n
+<$15>
+//b
+<$1E><$14>
+//￥\nが足りません
+￥ fee!
+<$12>
+<$00>
+
+
+
+
+
+
+<$02>
+240
+<$1E>
+018
+<$04>
+<$00>
+
+
+
+
+<$02>
+100
+<$1E>
+018
+<$04>
+<$00>
+
+
+
+
+<$06><CLEAR>
+//道具がいっぱいです
+The item bag is full!
+<$12>
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Y肉＿屋
+YMeat Market
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//毎度どーも！　食肉！　薬肉！　毒肉！\n今日は　何にしますか？\n
+Good day, Sir!\n
+You want meats? I've got meats!\n
+<$01>
+//取引する
+Shop
+<$0E>
+//／
+／
+<$01>
+//雑談する
+Chat
+<$0E>
+//／
+／
+<$01>
+//やめとく
+Exit
+<$0E>
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Y肉＿屋
+YMeat Market
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//腹が減った時、体の調子が悪い時、\nお気軽に　お立ち寄りください
+Whether you're hungry or weary,\n
+I'm here to serve you!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物を売るときは　自分で\n食料や装備に　加工してから売ると、\n手間賃分だけ　ちょっとお得ですよ
+You'll make more money if you process an\n
+animal into food or gear before selling it.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//アレが　ナニの時にも　どーぞ∥
+Come back any time!
+<$12>
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Y肉＿屋／メニュー
+YMeat／Menu
+<$00>
+
+
+
+
+
+
+<$06><$01>
+//買＿う
+Buy
+<$0E>
+//\n
+\n
+<$01>
+//売＿る
+Sell
+<$0E>
+//\n
+\n
+<$01>
+//作＿る
+Make
+<$0E>
+//\n
+\n
+<$01>
+//やめる
+Exit
+<$0E>
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Y肉＿屋／買＿う
+YMeat／Buy
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Y肉＿屋／売＿る
+YMeat／Sell
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Y肉＿屋／作＿る
+YMeat／Make
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Y雑貨屋
+YItems
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//日用雑貨から　掘りだし物まで\nなんでも扱う　道具屋です\n
+We've got your essentials at great prices!\n
+<$01>
+//取引する
+Shop
+<$0E>
+//／
+／
+<$01>
+//雑談する
+Chat
+<$0E>
+//／
+／
+<$01>
+//やめとく
+Exit
+<$0E>
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Y雑貨屋
+YItems
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//いい物　見つけたら\n売りにおいでよ
+If you find anything cool, sell it to us!
+<$12>
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Y雑貨屋／メニュー
+YItems/Menu
+<$00>
+
+
+
+
+
+
+<$06><$01>
+//買＿う
+Buy
+<$0E>
+//\n
+\n
+<$01>
+//売＿る
+Sell
+<$0E>
+//\n
+\n
+<$01>
+//やめる
+Exit
+<$0E>
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Y雑貨屋／買＿う
+YItems/Buy
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Y雑貨屋／売＿る
+YItems/Sell
+<$00>
+
+
+
+
+
+
+//クン、クンクン………？
+<$06>Sniff...sniff, sniff?
+<$12>
+\n
+<CLEAR>
+//ここには　少なくとも
+There's not＿
+<$1E>
+//1人！\nいいえ…　
+1 soul here!\n
+Wait... No, there's at least＿
+<$1E>
+//1人はいるわよ…
+1.
+<$12>
+\n
+<CLEAR>
+//お風呂と縁のない人
+It's whatever they reek of that isn't human.
+<$12>
+<$00>
+
+
+
+
+
+
+//……東
+<$06>...East
+<$00>
+
+
+
+
+
+
+//……西
+<$06>...West
+<$00>
+
+
+
+
+
+
+//……南
+<$06>...South
+<$00>
+
+
+
+
+
+
+//……北
+<$06>...North
+<$00>
+
+
+
+
+
+
+//…北東
+<$06>...North-east
+<$00>
+
+
+
+
+
+
+//…北西
+<$06>...North-west
+<$00>
+
+
+
+
+
+
+//…南東
+<$06>...South-east
+<$00>
+
+
+
+
+
+
+//…南西
+<$06>...South-west
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、…
+<$06>! That's where we'll find a＿
+<$1D>
+//に行けば
+.
+<$00>
+
+
+
+
+
+
+//直進
+<$06>For
+<$00>
+
+
+
+
+
+
+//右よ
+<$06>Right
+<$00>
+
+
+
+
+
+
+//左よ
+<$06>Left
+<$00>
+
+
+
+
+
+
+//後ろ
+<$06>Back
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、絶対に
+<$06>wards, got it? I'm sure we'll find a＿
+<$1D>
+//∥
+＿there!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sリンダは　「女の勘」を\nはたらかせた∥
+SLinda used her woman's intuition...
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//…ごめんね、\n今日は　勘がはたらかないわ…
+...Sorry. I don't have it in me today.
+<$12>
+<$00>
+
+
+
+
+
+
+//運命の
+<$06>Fated＿
+<$00>
+
+
+
+
+
+
+//新しい
+<$06>New＿
+<$00>
+
+
+
+
+
+
+//素敵な
+<$06>Great＿
+<$00>
+
+
+
+
+
+
+//未知の
+<$06>Unknown＿
+<$00>
+
+
+
+
+
+
+//何か
+<$06>things＿
+<$00>
+
+
+
+
+
+
+//発見
+<$06>discoveries＿
+<$00>
+
+
+
+
+
+
+//お宝
+<$06>treasures＿
+<$00>
+
+
+
+
+
+
+//動物
+<$06>animals＿
+<$00>
+
+
+
+
+
+
+//に　出会える…
+<$06>could appear.
+<$00>
+
+
+
+
+
+
+//が　待ってる…
+<$06>await us...
+<$00>
+
+
+
+
+
+
+//気がするわ∥
+<$06>are there.
+<$00>
+
+
+
+
+
+
+//チャンスよ∥
+<$06>are in our grasp!
+<$00>
+
+
+
+
+
+
+//今しかないわ
+<$06>could slip through our fingers!
+<$00>
+
+
+
+
+
+
+//間違いなし∥
+<$06>are dead head!
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$1D><$1D><$1D>
+//\n
+\n
+<$1D><$12>
+\n
+<CLEAR>
+//
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信があるの∥
+I'm sure of it!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信は　ないけどね…
+Although, I'm not totally certain...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//絶対なんだから∥
+I'm absolutely certain!
+<$12>
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$01>
+//は＿い
+Yes
+<$0E>
+//／
+／
+
+<$01>
+//いいえ
+No
+<$0E>
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Yスケジュール
+YMemo＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//スケジュールは何もありません
+There is nothing on schedule.
+<$12>
+<$00>
+
+
+
+
+
+
+//成功終了
+<$06>Completed!
+<$00>
+
+
+
+
+
+
+//期限切れ
+<$06>Expired!
+<$00>
+
+
+
+
+
+
+//あと
+<$06>In＿
+<$1E>
+//季節
+＿seasons
+<$00>
+
+
+
+
+
+
+//あと
+<$06>Deadline:＿
+<$1E>
+//年
+Y/
+<$1E>
+//季節
+S
+<$00>
+
+
+
+
+
+
+//あと
+<$06>In＿
+<$1E>
+//年
+＿years
+<$00>
+
+
+
+
+
+
+<$06><$16><$01>
+//◇
+◇
+<$0E><$1D><$02>
+//190
+<$1D>
+<$00>
+
+
+
+
+
+
+//ファングを倒す
+<$06>Slay Fang
+<$00>
+
+
+
+
+
+
+//パンハイムからの依頼
+<$06>Assist Panheim
+<$00>
+
+
+
+
+
+
+//<$1B>
+//カメの卵を手に入れる
+<$06>Snatch Turtle Eggs
+<$00>
+
+
+
+
+
+
+//<$1B>
+//プテラノの卵を手に入れる
+<$06>Snatch Pteranodon Eggs
+<$00>
+
+
+
+
+
+
+//遺産争いにケリをつける
+<$06>End the inheritance battle
+<$00>
+
+
+
+
+
+
+//ヤマダのために一肌脱ぐ
+<$06>Unload for Yamada
+<$00>
+
+
+
+
+
+
+//町のシンボルを見つけだす
+<$06>Find the village symbol
+<$00>
+
+
+
+
+
+
+//ソフィアからの依頼
+<$06>Assist Sophia
+<$00>
+
+
+
+
+
+
+//サチコ救出
+<$06>Rescue Sachiko
+<$00>
+
+
+
+
+
+
+//ポロポロちゃんを助ける
+<$06>Save Nightshade
+<$00>
+
+
+
+
+
+
+//アンジェラ捜し
+<$06>Find Angela
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//カラゴラムのファングを倒し、その証拠を\nハーディアホテルのスペクターに渡す
+Defeat Fang in Karhagolem. Present proof to\n
+Spectre in Hardia Hotel.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//マーブルポリスの
+Process meat from＿
+//<$1B>
+//ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す
+chickens in Marblopolis.Give them to Prof.\n
+Panheim in Hospico.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+Find up to 3＿
+//<$1B>
+//カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す
+Turtle Eggs. Give them to Louis at the Battle\n
+Park BB Ranch.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+Acquire 2＿
+//<$1B>
+//プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す
+Pteranodon Eggs. Give them to Bronco at the\n
+Battle Park BB Ranch.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//「太郎の首輪」を見つけだし、ドギファの\nナターシャか、オーマン家３兄弟に渡す
+Locate Taro's Collar. Give it to Natasha or\n
+one of the 3 Aumann children in Dogyf\n
+Heights.
+<$00>
+
+
+
+
+
+
+//６万
+<$06>60, 000
+<$00>
+
+
+
+
+
+
+//あと
+<$06>another＿
+<$1E><$0F>
+//000
+
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//Ｇファクトリーのヤマダのために\n
+Deposit＿
+<$1D>
+//￥を預金する
+￥ in an account to Yamada in G Factory.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//コシカタのシンボル「
+Find the＿
+//<$1B>
+//トラの爪」を\n見つけだし、ポリスカに渡す
+Tiger Claw, Koshikata's village symbol.\n
+Return it to Poliska.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ソフィアのために、エターナの桜の木を\nどうにかして咲かせる
+Find out how to revive the sakura trees in\n
+Eterna for Sophia.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//溶岩の中で育った動物の熱いウンチを\nエターナのソフィアに渡す
+Deliver Hot Dung from a lava-dwelling\n
+creature to Sophia in Eterna.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ラグナロッジのエモリに会いに行く
+Meet with Dr. Emori in Ragna Rim.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//「フロッピーと
+Take the Floppy Disc and＿
+
+//10
+10, 000
+
+//万￥」を持って、\nＧファクトリー入口１階、\n公衆電話の前に行く
+￥ to the G Factory gate. Answer the payphone.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//「フロッピーと
+Take the Floppy Disc and＿
+
+//10
+10, 000
+
+//万￥」を持って、\nパラサイド入口１階、\n公衆電話の前に行く
+￥ to the Paraside gate. Answer the payphone.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//「フロッピーと
+Take the Floppy Disc and＿
+
+//10
+10, 000
+
+//万￥」を持って、\nガレックスに行く
+￥ to Galax.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す
+Pick bloodberries in Flora Jam. Take them to\n
+Kevin and Nightshade in Rose Garden.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//パラサイドの酒場にいるアンジェラを\n確認して、リナバレーのマリオに連絡する
+Look for Angela at the Paraside bar. Report\n
+your findings to Mario in Spurr Valley.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//アンジェラを確認するために、\nオズポートホテルの酒場に行く
+Look for Angela at the OzPort Hotel bar.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//アンジェラを確認するために、\n西エリアのしけた町のホテルに行く
+Look for Angela at a hotel bar somewhere in\n
+West Area.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//アンジェラを確認するために、\nドギファの舞台に行く
+Look for Angela at the theater stage in Dogyf\n
+Heights.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リナバレーのマリオの母、\nアンジェラを追ってオズサットへ行く
+Chase Angela to OzSat! Mario will follow from\n
+Spurr Valley.
+<$00>
+
+
+
+
+
+
+
+<$00>
+
+
+
+

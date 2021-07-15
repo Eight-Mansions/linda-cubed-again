@@ -1,0 +1,950 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $00000000, 16)
+#JMP($00000A01)
+
+
+#WRITE(PTR, $0016)
+#WRITE(PTR, $0018)
+#WRITE(PTR, $001A)
+#WRITE(PTR, $001C)
+t23_sp1.obj
+<$00>
+
+
+
+
+t23_sp2.obj
+<$00>
+
+
+
+
+alice.obj
+<$00>
+
+
+
+
+c002.obj
+<$00>
+
+
+
+
+c009.obj
+<$00>
+
+
+
+
+c009a1.obj
+<$00>
+
+
+
+
+c010.obj
+<$00>
+
+
+
+
+c018.obj
+<$00>
+
+
+
+
+c105a0.obj
+<$00>
+
+
+
+
+c110a2.obj
+<$00>
+
+
+
+
+c131.obj
+<$00>
+
+
+
+
+c145a.obj
+<$00>
+
+
+
+
+box.obj
+<$00>
+
+
+
+
+#WRITE(PTR, $001E)
+//庭園管理事務所
+<$06>Garden Services Office＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+//そういえば　昔、フローラ博士の\n助手で　アリスってコがいたっけ…
+<$06>Did you know that, long ago, Dr. Flora had an\n
+assistant named Alice?
+<$12>
+\n
+<CLEAR>
+//フローラ博士も あの頃はアリス相手に\nそのへんの女の子と　同じように\n一日中、おしゃべりしてたよ…
+As odd as she is, Dr. Flora and that Alice\n
+used to talk all day long, until...
+<$12>
+\n
+<CLEAR>
+//ところが　ある日、アリスが\n突然いなくなって…　それ以来さ\n博士が　花と話しはじめたのは
+...her Alice suddenly disappeared. That's\n
+when Dr. Flora started talking to flowers.
+<$12>
+<$00>
+
+
+
+
+
+
+//このコが　フローラ博士の友だちで\nおしゃべりする花、ＭＣアリスさ！
+<$06>This cutie is Dr. Flora's beloved talking\n
+flower, MC Alice!
+<$12>
+\n
+<CLEAR>
+//九官鳥みたいに　言葉を覚えて\n家の中のふんいきを　明るくしてくれる\nなかなか　チャーミングなコなんだ
+Like the myna bird, MC Alice remembers words\n
+and brings life to the entire home!
+<$12>
+\n
+<CLEAR>
+//正価は
+One of these goes for＿
+
+//400
+400
+
+//￥だけど　最後の１鉢だし\n
+￥, but since it's the last one,＿
+<$1D>
+//100
+100
+<$14>
+//￥にしとくよ、もらってやってよ？\n
+￥.\n
+<$01>
+//買うよ∥
+Yes
+<$0E>
+//／
+／
+<$01>
+//いらない
+Leave
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//そうか…　残念だな…\nでもこれで　このコは、またしばらく\n僕だけのモノに　なったわけだ
+I see, that's too bad. It means she gets to\n
+hang out with me a little longer, I suppose.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$15>
+//b
+b
+
+//100
+100
+<$14>
+//￥の　持ち合せのない\n男の所に　このコをお嫁にやっても\nきっと、幸せにしてもらえないものな
+￥ is "too much"? Flowers or not, you'll never\n
+make your wife happy that way!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//確か　自宅はハーディアだったね\nちゃんと　届けとくから　お楽しみに！\n毎晩、かわいがってやってくれよ
+Splended! We'll deliver her to Hardia\n
+shortly. Give her lots of love!
+<$12>
+<$00>
+
+
+
+
+
+
+<CLEAR>
+
+<$00>
+
+
+
+
+//こんに
+<$06>HEL
+<$00>
+
+
+
+
+
+
+//ちわ！\n
+<$06>LO!＿
+<$00>
+
+
+
+
+
+
+//私、
+<$06>I'M!＿
+<$00>
+
+
+
+
+
+
+//ＭＣ
+<$06>MC＿
+<$00>
+
+
+
+
+
+
+//アリス！　
+<$06>ALICE!\n
+<$00>
+
+
+
+
+
+
+//よろし
+<$06>PLEASED TO＿
+<$00>
+
+
+
+
+
+
+//くね！
+<$06>MEET YOU!
+<$00>
+
+
+
+
+
+
+<$12>
+<$00>
+
+
+
+
+//水や肥料を　一切必要とせず\n１年中、美しい花を咲かせる夢のバラ
+<$06>These luscious roses bloom all year round, no\n
+water or fertilizer needed!
+<$12>
+\n
+<CLEAR>
+//手前から「ローズ・ココ」、「クイーン\nドミニク」、「ミチコ・ブラッド」、\n心ゆくまで　ご観賞ください
+Front-to-back, enjoy our dreamy Rose Cocos,\n
+Queen Dominiques and Michiko Bloods!
+<$12>
+\n
+<CLEAR>
+//万が一、ケースが割れた場合は\nすぐ　お逃げ下さい
+In the unlikely event that they break free\n
+from their containers, evaquate immediately.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//S何も　見つからなかった
+SNothing was found.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sケンは「
+SKen found the＿
+<$1D>
+//」を発見∥
+!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//S<CLEAR>だが、道具袋が一杯なので\n「
+S<CLEAR>Sadly, the item bag was full, so the＿
+<$1D>
+//」を\nとりあえず　あきらめた…
+had to go back.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//S<CLEAR>「
+SKen acquired＿
+<$1D>
+//」を　手に入れた∥
+!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+//ボクの名は　ケビン！
+<$06>My name is Kevin!
+<$12>
+\n
+<CLEAR>
+//ペットは　メスの
+This is my pet＿
+//<$1B>
+//クワガタの\nポロポロちゃんさ！\nパパに　もらったんだ
+stag beetle, Nightshade! Daddy gave her to\n
+me!
+<$12>
+\n
+<CLEAR>
+//パパは　フローラジャムの\n警備のお仕事で　忙しくて\nずっと　帰って来ないけど…
+Daddy's a security guard at Flora Jam. He\n
+works a lot and doesn't get to come home very\n
+often.
+<$12>
+\n
+<CLEAR>
+//ポロポロちゃんが　いるから\nボク、寂しくなんかないモン！
+That's why I'm glad to have Nightshade. With\n
+her here, I don't get lonely!
+<$12>
+<$00>
+
+
+
+
+
+
+//バードラインも　閉鎖になってるのに\nよく　こんな所まで来たね
+<$06>I'm surprised you came to this place even\n
+when the birdline is shut down.
+<$12>
+\n
+<CLEAR>
+//忠告しとくけど　庭園の方へは\n行かないほうが　身のためだよ\n行方不明者が、後を絶たないんだ
+I would still advise against going to the\n
+garden. A ton of people go missing there.
+<$12>
+<$00>
+
+
+
+
+
+
+//奥にいるのは　私の息子のケビン\n父親は　フローラジャムで\n長期、単身赴任中…
+<$06>My son, Kevin, lives with me. His father went\n
+to work far away, at Flora Jam.
+<$12>
+\n
+<CLEAR>
+//ケビンには　そう言ってあるの\nでも本当は私たち、とっくの昔に\n終わってて　離婚争議の真っ最中なの
+That's how Kevin knows it, but actually, his\n
+father and I are going through a divorce.
+<$12>
+\n
+<CLEAR>
+//ふぅ…\nあの年頃の子に　この手の話は\n切り出し方が　難しいわよね
+Our son is so young... I don't know how we'll\n
+break the news to him.
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0020)
+<$06><$1D>
+//　
+
+<$1E>
+//頭\n
+x\n
+<$00>
+
+
+
+
+
+
+//クン、クンクン………？
+<$06>Sniff...sniff, sniff?
+<$12>
+\n
+<CLEAR>
+//バラの香りの中に　危険な\nニオイが　少し混ざってるわ…
+Beneath the fresh scent of roses lay hints of\n
+danger!
+<$12>
+<$00>
+
+
+
+
+
+
+//……東
+<$06>...East
+<$00>
+
+
+
+
+
+
+//……西
+<$06>...West
+<$00>
+
+
+
+
+
+
+//……南
+<$06>...South
+<$00>
+
+
+
+
+
+
+//……北
+<$06>...North
+<$00>
+
+
+
+
+
+
+//…北東
+<$06>...North-east
+<$00>
+
+
+
+
+
+
+//…北西
+<$06>...North-west
+<$00>
+
+
+
+
+
+
+//…南東
+<$06>...South-east
+<$00>
+
+
+
+
+
+
+//…南西
+<$06>...South-west
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、…
+<$06>! That's where we'll find a＿
+<$1D>
+//に行けば
+.
+<$00>
+
+
+
+
+
+
+//直進
+<$06>For
+<$00>
+
+
+
+
+
+
+//右よ
+<$06>Right
+<$00>
+
+
+
+
+
+
+//左よ
+<$06>Left
+<$00>
+
+
+
+
+
+
+//後ろ
+<$06>Back
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、絶対に
+<$06>wards, got it? I'm sure we'll find a＿
+<$1D>
+//∥
+＿there!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sリンダは　「女の勘」を\nはたらかせた∥
+SLinda used her woman's intuition...
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//…ごめんね、\n今日は　勘がはたらかないわ…
+...Sorry. I don't have it in me today.
+<$12>
+<$00>
+
+
+
+
+
+
+//運命の
+<$06>Fated＿
+<$00>
+
+
+
+
+
+
+//新しい
+<$06>New＿
+<$00>
+
+
+
+
+
+
+//素敵な
+<$06>Great＿
+<$00>
+
+
+
+
+
+
+//未知の
+<$06>Unknown＿
+<$00>
+
+
+
+
+
+
+//何か
+<$06>things＿
+<$00>
+
+
+
+
+
+
+//発見
+<$06>discoveries＿
+<$00>
+
+
+
+
+
+
+//お宝
+<$06>treasures＿
+<$00>
+
+
+
+
+
+
+//動物
+<$06>animals＿
+<$00>
+
+
+
+
+
+
+//に　出会える…
+<$06>could appear.
+<$00>
+
+
+
+
+
+
+//が　待ってる…
+<$06>await us...
+<$00>
+
+
+
+
+
+
+//気がするわ∥
+<$06>are there.
+<$00>
+
+
+
+
+
+
+//チャンスよ∥
+<$06>are in our grasp!
+<$00>
+
+
+
+
+
+
+//今しかないわ
+<$06>could slip through our fingers!
+<$00>
+
+
+
+
+
+
+//間違いなし∥
+<$06>are dead head!
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$1D><$1D><$1D>
+//\n
+\n
+<$1D><$12>
+\n
+<CLEAR>
+//
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信があるの∥
+I'm sure of it!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信は　ないけどね…
+Although, I'm not totally certain...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//絶対なんだから∥
+I'm absolutely certain!
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0022)
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+

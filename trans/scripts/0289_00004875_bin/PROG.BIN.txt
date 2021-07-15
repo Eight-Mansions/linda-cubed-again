@@ -1,0 +1,2428 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $00000000, 16)
+#JMP($00001A5F)
+
+
+#WRITE(PTR, $0020)
+#WRITE(PTR, $0022)
+#WRITE(PTR, $0024)
+#WRITE(PTR, $0026)
+t03_sp2.obj
+<$00>
+
+
+
+
+c002.obj
+<$00>
+
+
+
+
+c003.obj
+<$00>
+
+
+
+
+c009.obj
+<$00>
+
+
+
+
+c011.obj
+<$00>
+
+
+
+
+c014.obj
+<$00>
+
+
+
+
+c019.obj
+<$00>
+
+
+
+
+c021.obj
+<$00>
+
+
+
+
+c023.obj
+<$00>
+
+
+
+
+c034.obj
+<$00>
+
+
+
+
+c060.obj
+<$00>
+
+
+
+
+c105a2.obj
+<$00>
+
+
+
+
+c114a1.obj
+<$00>
+
+
+
+
+c138a0.obj
+<$00>
+
+
+
+
+c148.obj
+<$00>
+
+
+
+
+c149.obj
+<$00>
+
+
+
+
+c150.obj
+<$00>
+
+
+
+
+box.obj
+<$00>
+
+
+
+
+m018.obj
+<$00>
+
+
+
+
+kao_l10.obj
+<$00>
+
+
+
+
+kao_n4.obj
+<$00>
+
+
+
+
+kao_h1.obj
+<$00>
+
+
+
+
+kao_s13.obj
+<$00>
+
+
+
+
+kao_em1.obj
+<$00>
+
+
+
+
+#WRITE(PTR, $0028)
+//教会１Ｆ
+<$06>Church 1F＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+//井戸の中へ入りますか？\n
+<$06>Enter the well?\n
+<$01>
+//は＿い
+Yes
+<$0E>
+//／
+／
+<$01>
+//いいえ
+No
+<$0E>
+<$00>
+
+
+
+
+
+
+//で、何か珍しい物でも\n発見したかね？\n
+<$06>Did you find anything unusual?\n
+<$01>
+//は＿い
+Yes
+<$0E>
+//／
+／
+<$01>
+//いいえ
+No
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//そうか∥　それは素晴らしい∥
+Really?! That's marvelous!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//そうか…　残念じゃな
+Really? That's...too bad.
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $002A)
+//教会２Ｆ
+<$06>Church 2F＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+//あんたたちの結婚式、今でも語り草よ\nだって、新郎を車イスに乗っけて\n入場した新婦なんて　初めてだものね
+<$06>Your wedding ceremony is still the talk of\n
+the village.
+<$12>
+\n
+<CLEAR>
+It was the first time we saw a bride push her\n
+groom down the isle via wheelchair.
+<$12>
+\n
+<CLEAR>
+//おまけに誓いの言葉の返事を\n花嫁がひとりで　ふたり分やっちゃうし\nなかなか　見ものだったわ
+Since you were out, she had to deliver both\n
+vows all by herself! It was some sight!
+<$12>
+<$00>
+
+
+
+
+
+
+//ケン、あんたたち兄弟の結婚式って\nとびきり　ユニークな展開に\n必ず　なっちゃうみたいねぇ
+<$06>Your brother's wedding sure took a unique\n
+turn. He and his bride returned to Ragna Rim.
+<$12>
+\n
+<CLEAR>
+//ネクとサチコなら　ラグナロッジに\n帰ったわよ！　移住が近いらしいから\n早く会いに行ったほうが　いいわね
+Their migration date is nigh too. If you want\n
+closure with them, better get it soon.
+<$12>
+<$00>
+
+
+
+
+
+
+//昔、ジルって　女の子が\n
+<$06>There once was a girl named Jill, but one\n
+day, she was snatched by a＿
+//<$1B>
+//オオカミに　さらわれてね…
+wolf.
+<$12>
+\n
+<CLEAR>
+//生きてりゃ　ちょうど、あんたと\n同じくらいの年に　なってただろうに…\nかわいそうにね…
+The poor thing, she'd be right about your age\n
+now, were she still alive.
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $002C)
+//教会３Ｆ
+<$06>Church 3F＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//S扉には「禁断の鍵」が\nかかっている
+SThis door can't be opened\n
+without a Secret Key.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//Sケンは、「禁断の鍵」を使った
+SKen used the Secret Key!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+//昔、この町が　野犬の群れに\nおそわれたことが　あってね\n友だちの亭主と子供が　やられたわ
+<$06>Long ago, a stray entered town one night and\n
+killed my friend's husband and children.
+<$12>
+\n
+<CLEAR>
+//それ以来、夜の闇が近づく前に\nこの町じゃ　ゲートを閉じることに\nみんなで　決めたのよ
+Ever since then, we agreed to close the\n
+village gates every evening before dark.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sケンは「
+SKen found the＿
+<$1D>
+//」を発見∥
+!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//S<CLEAR>だが、道具袋が一杯なので\n「
+S<CLEAR>Sadly, the item bag was full, so the＿
+<$1D>
+//」を\nとりあえず　あきらめた…
+had to go back.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//S<CLEAR>「
+SKen acquired＿
+<$1D>
+//」を　手に入れた∥
+!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+//あなたたち！　教会では静かに∥\n大声をあげたり　走り回ったり…\nもう　子供じゃないんだから
+<$06>You two! Please be quiet in church! You're\n
+too old to yell and run around!
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $002E)
+//教会４Ｆ
+<$06>Church 4F＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0030)
+//教会５Ｆ
+<$06>Church 5F＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0032)
+//教会６Ｆ
+<$06>Church 6F＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+//もうすぐ　鐘を鳴らす時間なんだよ\nキミ、鐘をついてみたく　ないかね？\n
+<$06>It's almost time to ring the bell. Do you\n
+want to ring it?\n
+<$01>
+//ぜひやりたい！
+Absolutely!
+<$0E>
+//／
+／
+<$01>
+//別に興味がない
+No thanks
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//じゃ　神父になるといい\n毎日毎日、鐘を鳴らせるからね
+Then you should become a priest too! You'll\n
+be able to ring the bell day after day!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//私はね　この鐘がついてみたくて\n神父に　なったんだよ
+Your loss. I became a priest solely to ring\n
+this bell!
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0034)
+//教会１Ｆ
+<$06>Church 1F＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//では　これより　新郎ネク・グリーンと\n新婦サチコ・エモリの結婚式を\n執り行いたいと　思います
+We gather here today to join Nek Green and\n
+Sachiko Emori in holy matrimony.
+<$12>
+\n
+<CLEAR>
+//新婦入場∥
+Here comes the bride!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//お集まりの皆さん∥\n新婦の父のエモリです∥\n皆さん、私の話を聞いて下さい
+Thank you all for coming. I'm Emori Yataro,\n
+the father of the bride.
+<$12>
+\n
+<CLEAR>
+//娘のサチコが　今、こうして\n無事に結婚式を　挙げられるのは\n何を隠そう！　彼のおかげ∥
+Before we proceed, we wish to thank the young\n
+man who saved our dear Sachiko.
+<$12>
+\n
+<CLEAR>
+//そうです∥　新郎ネク君の兄、\nケン君が　命を賭けて　サチコを\n救ってくれたおかげです∥
+This blessed day could only happen because of\n
+Nek's courageous brother, Ken!
+<$12>
+\n
+<CLEAR>
+//私は　感謝の気持ちを込めて\nこれを　ケン君に贈ります∥\nどうもありがとう∥　ケン君∥
+As a token of gratitude, I've personally\n
+prepared this small token of thanks.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sケンは「黒の獣人像」を\n受け取った∥
+SKen received\n
+the Black Beastman Doll!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//最後に　もう、ひと言だけ\n言わせてください∥
+There's one more thing I wish to lament.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//娘を持った親なんて　しょせん、\n裏切られるためだけに\n生きてるようなモンです…
+Oh, to be the father of a little girl! You\n
+RAISE her, only for her to BETRAY you and\n
+leave!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//どんなに大切に育てても　いつか\n結婚したいと　言いだして…\nそして二度と　帰ってこない…
+No matter how well you care for her, she'll\n
+get married and...sail away.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//こんなことなら　もうふたりほど\n娘を作っておけば　良かった…\n…グスン　ククククククク
+If only we could make one or two copies, so\n
+they stick around. Huhuhu!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//まったくだ！　その気持ち、\n同じ、娘をもつ親として　よーく\nわかりますよ、でもね…
+You said it, champ! I've got a little girl\n
+myself, and it's rough.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//愛し合う　ふたりは\nいつも一緒∥　そいつが\n何より　なんですよ
+May these young lovers stick together! No\n
+matter what happens!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//それでは　結婚式を続けます！\n新郎新婦は　この井戸の聖なる水に\n誓いを　立ててください
+Now, may the couple swear their love over\n
+this sacred well water!
+<$12>
+\n
+<CLEAR>
+//ネク、汝は　サチコを　健やかなる時も\n苦しい時も　永遠に愛し続けますか？
+Nek, do you vow to love Sachiko through\n
+sickness and in health?
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//はっ、はっ、はい∥
+Y-Y-Yes, I do!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//次に　サチコ、汝は……￠
+And do you, Sachiko...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//やあ！　私は民族学者のオイド博士だ…\n何か　とてつもなく間の悪い時に\n出てきてしまったみたいじゃな！
+Howdy! I'm the ethnologist, Prof. Oido! Seems\n
+I came at an impeccably bad time!
+<$12>
+\n
+<CLEAR>
+//まあ、勘弁してくれ！　ハハハハ∥\nところで　ケンとリンダは\nここには　おらんか￠
+Whelp, sorry about that, haha! Oh, wait, Ken\n
+and Linda are here?
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//発見したぞ∥　どうやら井戸の底に\n地下の入口が　あるようなんじゃ\nすまんが　見て来てくれんか￠
+Get in, you two! I discovered a hidden\n
+gateway at the bottom of this well!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//でも…　今、結婚式の真っ最中よ\nあとは　サチコさんが誓えば\n終わりだから　少し待ってよ！
+Hey, we're in the middle of a wedding! At\n
+least let Sachiko finish her vows!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//そうか∥　サチコさんが原因か？\nサチコさん∥　いろいろあるが\n結婚も一度は、しておくもんじゃよ
+So,YOU'RE making us wait? Come now, of all\n
+the things people do, marriage is easy!
+<$12>
+\n
+<CLEAR>
+//さあ、私のために　早く\n「はい」と言いなさい∥∥∥
+Say "I do" already, so we can all get on with\n
+their lives!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//はっ、はい…
+I...I do!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//どうじゃ∥　わしの名仲人ぶりは∥\nこれからは　愛のキューピットの\nオイド博士と呼んでいいぞ∥
+See? I'm good at bringing people together. I\n
+must be Cupid or something!
+<$12>
+\n
+<CLEAR>
+//さあ　約束通り、あとは頼んだよ！\nわしは　ここで　待っとるからね\nじゃ　よろしく∥
+Anyways, the vows are done, like you wanted.\n
+Now get down here!
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0036)
+<$06><$1D>
+//　
+
+<$1E>
+//頭\n
+x\n
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//装置内データ　ハ　スベテ\nＯＵＴ　シマシタ
+SYSTEM OUT OF DATA.
+<$12>
+<$00>
+
+
+
+
+
+
+//冷凍睡眠中ノ　動物ヲ　解凍シマスカ？\n
+<$06>THAW CRYO-PRESERVED ANIMALS?\n
+<$01>
+//は＿い
+Yes
+<$0E>
+//／
+／
+<$01>
+//いいえ
+No
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//トランスカーゴ　空キナシ
+1 FREE SPACE REQUIRED\n
+IN TRANS-CARGO UNIT.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//トランスカーゴ　２ツ空キナシ
+2 FREE SPACES REQUIRED\n
+IN TRANS-CARGO UNIT.
+<$12>
+<$00>
+
+
+
+
+
+
+<CLEAR>
+
+<$00>
+
+
+
+
+<$06>
+//TRANS-CARGO IN
+Now loading to TCU...
+
+//∥
+!
+<$12>
+<$00>
+
+
+
+
+
+
+//……東
+<$06>...East
+<$00>
+
+
+
+
+
+
+//……西
+<$06>...West
+<$00>
+
+
+
+
+
+
+//……南
+<$06>...South
+<$00>
+
+
+
+
+
+
+//……北
+<$06>...North
+<$00>
+
+
+
+
+
+
+//…北東
+<$06>...North-east
+<$00>
+
+
+
+
+
+
+//…北西
+<$06>...North-west
+<$00>
+
+
+
+
+
+
+//…南東
+<$06>...South-east
+<$00>
+
+
+
+
+
+
+//…南西
+<$06>...South-west
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、…
+<$06>! That's where we'll find a＿
+<$1D>
+//に行けば
+.
+<$00>
+
+
+
+
+
+
+//直進
+<$06>For
+<$00>
+
+
+
+
+
+
+//右よ
+<$06>Right
+<$00>
+
+
+
+
+
+
+//左よ
+<$06>Left
+<$00>
+
+
+
+
+
+
+//後ろ
+<$06>Back
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、絶対に
+<$06>wards, got it? I'm sure we'll find a＿
+<$1D>
+//∥
+＿there!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sリンダは　「女の勘」を\nはたらかせた∥
+SLinda used her woman's intuition...
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//…ごめんね、\n今日は　勘がはたらかないわ…
+...Sorry. I don't have it in me today.
+<$12>
+<$00>
+
+
+
+
+
+
+//運命の
+<$06>Fated＿
+<$00>
+
+
+
+
+
+
+//新しい
+<$06>New＿
+<$00>
+
+
+
+
+
+
+//素敵な
+<$06>Great＿
+<$00>
+
+
+
+
+
+
+//未知の
+<$06>Unknown＿
+<$00>
+
+
+
+
+
+
+//何か
+<$06>things＿
+<$00>
+
+
+
+
+
+
+//発見
+<$06>discoveries＿
+<$00>
+
+
+
+
+
+
+//お宝
+<$06>treasures＿
+<$00>
+
+
+
+
+
+
+//動物
+<$06>animals＿
+<$00>
+
+
+
+
+
+
+//に　出会える…
+<$06>could appear.
+<$00>
+
+
+
+
+
+
+//が　待ってる…
+<$06>await us...
+<$00>
+
+
+
+
+
+
+//気がするわ∥
+<$06>are there.
+<$00>
+
+
+
+
+
+
+//チャンスよ∥
+<$06>are in our grasp!
+<$00>
+
+
+
+
+
+
+//今しかないわ
+<$06>could slip through our fingers!
+<$00>
+
+
+
+
+
+
+//間違いなし∥
+<$06>are dead head!
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$1D><$1D><$1D>
+//\n
+\n
+<$1D><$12>
+\n
+<CLEAR>
+//
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信があるの∥
+I'm sure of it!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信は　ないけどね…
+Although, I'm not totally certain...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//絶対なんだから∥
+I'm absolutely certain!
+<$12>
+<$00>
+
+
+
+
+
+
+//クン、クンクン………？
+<$06>Sniff...sniff, sniff?
+<$12>
+\n
+<CLEAR>
+//
+<$1D>
+//のニオイが　するね\nそういえば、
+＿scent's filling the air. You know, I could\n
+go for some＿
+<$1D>
+//食まだだっけ…
+＿!
+<$12>
+<$00>
+
+
+
+
+
+
+//卵焼き
+<$06>fried eggs
+<$00>
+
+
+
+
+
+
+//カレー
+<$06>curry
+<$00>
+
+
+
+
+
+
+//焼き肉
+<$06>Neo Korean BBQ
+<$00>
+
+
+
+
+
+
+//唐あげ
+<$06>karaage
+<$00>
+
+
+
+
+
+
+//お菓子
+<$06>candy
+<$00>
+
+
+
+
+
+
+//バナナ
+<$06>banana
+<$00>
+
+
+
+
+
+
+//フライ
+<$06>Neo French fries
+<$00>
+
+
+
+
+
+
+//焼き魚
+<$06>grilled fish
+<$00>
+
+
+
+
+
+
+//トマト
+<$06>tomato
+<$00>
+
+
+
+
+
+
+//バター
+<$06>butter
+<$00>
+
+
+
+
+
+
+//ソース
+<$06>sauce
+<$00>
+
+
+
+
+
+
+//スープ
+<$06>＿soup
+<$00>
+
+
+
+
+
+
+//ピラフ
+<$06>pilaf
+<$00>
+
+
+
+
+
+
+//バニラ
+<$06>vanilla
+<$00>
+
+
+
+
+
+
+//キムチ
+<$06>kimchi
+<$00>
+
+
+
+
+
+
+//チーズ
+<$06>cheese
+<$00>
+
+
+
+
+
+
+//朝
+<$06>breakfast
+<$00>
+
+
+
+
+
+
+//昼
+<$06>lunch
+<$00>
+
+
+
+
+
+
+//夕
+<$06>dinner
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Yスケジュール
+YMemo＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//スケジュールは何もありません
+There is nothing on schedule.
+<$12>
+<$00>
+
+
+
+
+
+
+//成功終了
+<$06>Completed!
+<$00>
+
+
+
+
+
+
+//期限切れ
+<$06>Expired!
+<$00>
+
+
+
+
+
+
+//あと
+<$06>In＿
+<$1E>
+//季節
+＿seasons
+<$00>
+
+
+
+
+
+
+//あと
+<$06>Deadline:＿
+<$1E>
+//年
+Y/
+<$1E>
+//季節
+S
+<$00>
+
+
+
+
+
+
+//あと
+<$06>In＿
+<$1E>
+//年
+＿years
+<$00>
+
+
+
+
+
+
+<$06><$16><$01>
+//◇
+◇
+<$0E><$1D><$02>
+//190
+<$1D>
+<$00>
+
+
+
+
+
+
+//ファングを倒す
+<$06>Slay Fang
+<$00>
+
+
+
+
+
+
+//パンハイムからの依頼
+<$06>Assist Panheim
+<$00>
+
+
+
+
+
+
+//<$1B>
+//カメの卵を手に入れる
+<$06>Snatch Turtle Eggs
+<$00>
+
+
+
+
+
+
+//<$1B>
+//プテラノの卵を手に入れる
+<$06>Snatch Pteranodon Eggs
+<$00>
+
+
+
+
+
+
+//遺産争いにケリをつける
+<$06>End the inheritance battle
+<$00>
+
+
+
+
+
+
+//ヤマダのために一肌脱ぐ
+<$06>Unload for Yamada
+<$00>
+
+
+
+
+
+
+//町のシンボルを見つけだす
+<$06>Find the village symbol
+<$00>
+
+
+
+
+
+
+//ソフィアからの依頼
+<$06>Assist Sophia
+<$00>
+
+
+
+
+
+
+//サチコ救出
+<$06>Rescue Sachiko
+<$00>
+
+
+
+
+
+
+//ポロポロちゃんを助ける
+<$06>Save Nightshade
+<$00>
+
+
+
+
+
+
+//アンジェラ捜し
+<$06>Find Angela
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//カラゴラムのファングを倒し、その証拠を\nハーディアホテルのスペクターに渡す
+Defeat Fang in Karhagolem. Present proof to\n
+Spectre in Hardia Hotel.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//マーブルポリスの
+Process meat from＿
+//<$1B>
+//ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す
+chickens in Marblopolis.Give them to Prof.\n
+Panheim in Hospico.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+Find up to 3＿
+//<$1B>
+//カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す
+Turtle Eggs. Give them to Louis at the Battle\n
+Park BB Ranch.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+Acquire 2＿
+//<$1B>
+//プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す
+Pteranodon Eggs. Give them to Bronco at the\n
+Battle Park BB Ranch.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//「太郎の首輪」を見つけだし、ドギファの\nナターシャか、オーマン家３兄弟に渡す
+Locate Taro's Collar. Give it to Natasha or\n
+one of the 3 Aumann children in Dogyf\n
+Heights.
+<$00>
+
+
+
+
+
+
+//６万
+<$06>60, 000
+<$00>
+
+
+
+
+
+
+//あと
+<$06>another＿
+<$1E><$0F>
+//000
+
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//Ｇファクトリーのヤマダのために\n
+Deposit＿
+<$1D>
+//￥を預金する
+￥ in an account to Yamada in G Factory.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//コシカタのシンボル「
+Find the＿
+//<$1B>
+//トラの爪」を\n見つけだし、ポリスカに渡す
+Tiger Claw, Koshikata's village symbol.\n
+Return it to Poliska.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ソフィアのために、エターナの桜の木を\nどうにかして咲かせる
+Find out how to revive the sakura trees in\n
+Eterna for Sophia.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//溶岩の中で育った動物の熱いウンチを\nエターナのソフィアに渡す
+Deliver Hot Dung from a lava-dwelling\n
+creature to Sophia in Eterna.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ラグナロッジのエモリに会いに行く
+Meet with Dr. Emori in Ragna Rim.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//「フロッピーと
+Take the Floppy Disc and＿
+
+//10
+10, 000
+
+//万￥」を持って、\nＧファクトリー入口１階、\n公衆電話の前に行く
+￥ to the G Factory gate. Answer the payphone.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//「フロッピーと
+Take the Floppy Disc and＿
+
+//10
+10, 000
+
+//万￥」を持って、\nパラサイド入口１階、\n公衆電話の前に行く
+￥ to the Paraside gate. Answer the payphone.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//「フロッピーと
+Take the Floppy Disc and＿
+
+//10
+10, 000
+
+//万￥」を持って、\nガレックスに行く
+￥ to Galax.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す
+Pick bloodberries in Flora Jam. Take them to\n
+Kevin and Nightshade in Rose Garden.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//パラサイドの酒場にいるアンジェラを\n確認して、リナバレーのマリオに連絡する
+Look for Angela at the Paraside bar. Report\n
+your findings to Mario in Spurr Valley.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//アンジェラを確認するために、\nオズポートホテルの酒場に行く
+Look for Angela at the OzPort Hotel bar.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//アンジェラを確認するために、\n西エリアのしけた町のホテルに行く
+Look for Angela at a hotel bar somewhere in\n
+West Area.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//アンジェラを確認するために、\nドギファの舞台に行く
+Look for Angela at the theater stage in Dogyf\n
+Heights.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リナバレーのマリオの母、\nアンジェラを追ってオズサットへ行く
+Chase Angela to OzSat! Mario will follow from\n
+Spurr Valley.
+<$00>
+
+
+
+
+
+

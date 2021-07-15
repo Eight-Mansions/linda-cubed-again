@@ -1,0 +1,907 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $00000000, 16)
+#JMP($000008CD)
+
+
+#WRITE(PTR, $0014)
+#WRITE(PTR, $0016)
+#WRITE(PTR, $0018)
+#WRITE(PTR, $001A)
+t21_sp5.obj
+<$00>
+
+
+
+
+c002.obj
+<$00>
+
+
+
+
+c009.obj
+<$00>
+
+
+
+
+c009a1.obj
+<$00>
+
+
+
+
+c010.obj
+<$00>
+
+
+
+
+c018.obj
+<$00>
+
+
+
+
+kao_s1.obj
+<$00>
+
+
+
+
+kao_s2.obj
+<$00>
+
+
+
+
+#WRITE(PTR, $001C)
+//居住地
+<$06>Residence＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sケンは「
+SKen found the＿
+<$1D>
+//」を発見∥
+!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//S<CLEAR>だが、道具袋が一杯なので\n「
+S<CLEAR>Sadly, the item bag was full, so the＿
+<$1D>
+//」を\nとりあえず　あきらめた…
+had to go back.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//S<CLEAR>「
+SKen acquired＿
+<$1D>
+//」を　手に入れた∥
+!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//S描きかけの　男の肖像画がある\nどこかで見た　顔だ
+SA painted portrait of a man.\n
+Why does he look so familiar?
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//Sケンは「研究室の鍵」を発見∥
+SKen found the Lab Key!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//S<CLEAR>だが、道具袋がいっぱいなので\n「研究室の鍵」を\nとりあえず　あきら
+めた…
+SHis item bag was too full,\n
+so he had to put the Lab Key back.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//Sケンは「研究室の鍵」を\n手に入れた
+SKen acquired the Lab Key!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//S鍵がかかっている
+SIt's locked.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここが　サチコの部屋よ\n確か、奥の鏡台の引き出しに\n研究室のカギが　あると思うわ
+This is Sachiko's room. I think she kept a\n
+spare lab key in her dresser.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//このドアのカギなら　持ってるわ\nちょっと　待って\n今、開けるから
+We can use this to enter the lab. Please wait\n
+while I'll take care of it.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ねえ　ケン、ここで暮らしてた\nサチコのこと　少し話していい？
+Hey, would you like to hear a little about\n
+the real Sachiko?
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$01>
+//話してみなよ
+I'm all ears
+<$0E>
+//／
+／
+<$01>
+//聞く耳もたん
+Not right now
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//そうね…　聞いても　今さら\nどうしようもないもの…　でも…
+Sorry, maybe now's not the time. I suppose\n
+I...only...
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$01>
+//やっぱり聞く
+Okay, I'll listen
+<$0E>
+//／
+<$01>
+//でも…何だ￠
+Who cares?!
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//いいえ　何でもないわ\n気にしないで
+Don't worry, it's nothing.\n
+Forget I said anything.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//連邦から　指名手配された\nお父様とサチコには　安住の地は\nなかったのよ…
+Once the Federation declared the Emoris to be\n
+fugitives, the pair had to live life on the\n
+run.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//とくにサチコは　疲れていたわ\n彼女は　友だちも作れなかった\n足どりを　残さないためにね…
+Sachiko could never make friends, nor leave\n
+any trace. It left her exhausted.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//その生活から　逃れるために\n自殺すら　考えていたわ…
+She was already contemplating suicide as a\n
+means to escape.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//そして、この星に来て　箱船の\n乗員募集を　知ったの
+But then, the pair fled to this planet, where\n
+Sachiko learned about the Astro Ark.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//過去を　完全に捨てられて\n同年代の異性とも　知り合える\n夢のような話に　見えたのよ
+Leaving her life behind, meeting a boy her\n
+age... It all felt like a dream.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//サチコはすぐに　志願したわ\nお父様も　最初は反対したけど\n結局は　賛成したわ
+Sachiko volunteered immediately. Father was\n
+nervous, but he gave in at the sight of her.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//必ず乗員になれると　思った\nだって　あんな無謀な企画に\n他に立候補が　あるなんてね…
+"I'm a pilot," she cheered, never imagining\n
+they'd select someone else.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//後は　ケンも知っての通りよ、\nサチコは　選ばれなかった…\nそして　飛び降りた…
+You know what happens next. After her\n
+rejection, she jumped from the church\n
+rooftop.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//でもね、本当は　まだ生きてるの\n植物状態のまま、ある場所で\nずっと　眠り続けているのよ
+But the truth...is that Sachiko is still\n
+alive, sleeping in a coma in a certain place\n
+ever since.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ねえ　ケン、そこの油絵　見た？\n２号が　描いてるのよ\n将来　画家になりたいんだって
+See those paintings, Ken? They're No. 2's.\n
+She wants to be an artist someday.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンに　似てるでしょ？\nでも　違う人…\nモデルは　秘密よ■
+One even looks like you, but No. 2 says the\n
+subject is a secret model.■
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $001E)
+//クン、クンクン………？
+<$06>Sniff...sniff, sniff?
+<$12>
+\n
+<CLEAR>
+//とくに目新しい　ニオイは\nしないみたいよ
+None of the scents around here stand out.
+<$12>
+<$00>
+
+
+
+
+
+
+//……東
+<$06>...East
+<$00>
+
+
+
+
+
+
+//……西
+<$06>...West
+<$00>
+
+
+
+
+
+
+//……南
+<$06>...South
+<$00>
+
+
+
+
+
+
+//……北
+<$06>...North
+<$00>
+
+
+
+
+
+
+//…北東
+<$06>...North-east
+<$00>
+
+
+
+
+
+
+//…北西
+<$06>...North-west
+<$00>
+
+
+
+
+
+
+//…南東
+<$06>...South-east
+<$00>
+
+
+
+
+
+
+//…南西
+<$06>...South-west
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、…
+<$06>! That's where we'll find a＿
+<$1D>
+//に行けば
+.
+<$00>
+
+
+
+
+
+
+//直進
+<$06>For
+<$00>
+
+
+
+
+
+
+//右よ
+<$06>Right
+<$00>
+
+
+
+
+
+
+//左よ
+<$06>Left
+<$00>
+
+
+
+
+
+
+//後ろ
+<$06>Back
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、絶対に
+<$06>wards, got it? I'm sure we'll find a＿
+<$1D>
+//∥
+＿there!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sリンダは　「女の勘」を\nはたらかせた∥
+SLinda used her woman's intuition...
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//…ごめんね、\n今日は　勘がはたらかないわ…
+...Sorry. I don't have it in me today.
+<$12>
+<$00>
+
+
+
+
+
+
+//運命の
+<$06>Fated＿
+<$00>
+
+
+
+
+
+
+//新しい
+<$06>New＿
+<$00>
+
+
+
+
+
+
+//素敵な
+<$06>Great＿
+<$00>
+
+
+
+
+
+
+//未知の
+<$06>Unknown＿
+<$00>
+
+
+
+
+
+
+//何か
+<$06>things＿
+<$00>
+
+
+
+
+
+
+//発見
+<$06>discoveries＿
+<$00>
+
+
+
+
+
+
+//お宝
+<$06>treasures＿
+<$00>
+
+
+
+
+
+
+//動物
+<$06>animals＿
+<$00>
+
+
+
+
+
+
+//に　出会える…
+<$06>could appear.
+<$00>
+
+
+
+
+
+
+//が　待ってる…
+<$06>await us...
+<$00>
+
+
+
+
+
+
+//気がするわ∥
+<$06>are there.
+<$00>
+
+
+
+
+
+
+//チャンスよ∥
+<$06>are in our grasp!
+<$00>
+
+
+
+
+
+
+//今しかないわ
+<$06>could slip through our fingers!
+<$00>
+
+
+
+
+
+
+//間違いなし∥
+<$06>are dead head!
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$1D><$1D><$1D>
+//\n
+\n
+<$1D><$12>
+\n
+<CLEAR>
+//
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信があるの∥
+I'm sure of it!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信は　ないけどね…
+Although, I'm not totally certain...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//絶対なんだから∥
+I'm absolutely certain!
+<$12>
+<$00>
+
+
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+

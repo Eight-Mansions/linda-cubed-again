@@ -1,0 +1,1557 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $00000000, 16)
+#JMP($0000167E)
+
+
+#WRITE(PTR, $0014)
+#WRITE(PTR, $0016)
+#WRITE(PTR, $0018)
+#WRITE(PTR, $001A)
+c002.obj
+<$00>
+
+
+
+
+c009.obj
+<$00>
+
+
+
+
+c009a1.obj
+<$00>
+
+
+
+
+c010.obj
+<$00>
+
+
+
+
+c018.obj
+<$00>
+
+
+
+
+c102a2.obj
+<$00>
+
+
+
+
+c105a0l.obj
+<$00>
+
+
+
+
+c107a1.obj
+<$00>
+
+
+
+
+c108a0.obj
+<$00>
+
+
+
+
+c109a1.obj
+<$00>
+
+
+
+
+c115a1.obj
+<$00>
+
+
+
+
+c115a2.obj
+<$00>
+
+
+
+
+c117a2.obj
+<$00>
+
+
+
+
+c119a1.obj
+<$00>
+
+
+
+
+c120a0.obj
+<$00>
+
+
+
+
+c121a2.obj
+<$00>
+
+
+
+
+c127a1.obj
+<$00>
+
+
+
+
+c128a0.obj
+<$00>
+
+
+
+
+c138a2.obj
+<$00>
+
+
+
+
+c174a2.obj
+<$00>
+
+
+
+
+#WRITE(PTR, $001C)
+//オズポート
+<$06>OzPort＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sたくさんの男女の名が　彫られている
+SA myriad of couples' names can be read off\n
+the red cypress tree.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//恵まれない私のために　ひとつ\nご寄付をお願いしますよ、ダンナ様！
+If you donate to charity, then you can call\n
+me Charity!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//何かイイことが　ありそうなフリだけの\n寄付より　絶対に何もない　私への\n寄付のほうが　潔いってモンですよ
+Why donate to some corporation when you could\n
+donate to me, someone who ACTUALLY needs the\n
+money?
+<$12>
+<$00>
+
+
+
+
+
+
+//公園内での　キャッチボール、たき火等\n他人の迷惑になる行為を　禁じます\n＿＿＿＿＿＿＿＿オズポート公園管理局
+<$06>"NUISANCE ACTIVITIES\n
+(BALL GAMES, BONFIRES, ETC) ARE BANNED!"\n
+＿-OZPORT PARK STAFF
+<$12>
+<$00>
+
+
+
+
+
+
+//赤糸杉\nこの木に　恋人の名を刻むと　想いが\nかなうという伝説が　ありますが…
+<$06>"LOVERS WHO ENGRAVE THEIR NAMES ON OUR FAMOUS\n
+RED CYPRESS LIVE HAPPILY EVER AFTER."
+<$12>
+\n
+<CLEAR>
+//むやみに　木を傷つけると\n枯れてしまう原因に　なります
+"WHETHER THAT LEGEND IS TRUE OR NOT, IT IS\n
+NOT A GOOD REASON TO HURT AND KILL OUR\n
+TREES."
+<$12>
+\n
+<CLEAR>
+//絶対　やめてください\n＿\n＿＿＿＿＿＿＿＿オズポート公園管理局
+"WE ASK THE PUBLIC TO CEASE AND DESIST."!\n
+＿-OZPORT PARK STAFF
+<$12>
+<$00>
+
+
+
+
+
+
+//左の青い建物の　３階から\nオズサットへ行って　そこから\n脱出用のシャトルに　乗るんだよ
+<$06>The migration shuttles are in OzSat, the\n
+artificial satellite above OzPort.
+<$12>
+\n
+<CLEAR>
+You can get there from the 3rd floor in this\n
+building to my right.
+<$12>
+\n
+<CLEAR>
+//それで　泣いても笑っても\nこのネオケニアとは　永遠に\nおさらばってわけよ
+That's where we'll all say goodbye to Neo\n
+Kenya, whether we like it or not.
+<$12>
+<$00>
+
+
+
+
+
+
+//レンジャー隊の本部の　記録係のコ！\n彼女の雑談って　いろんな噂話が聞けて\n面白いよな？　半分はウソだけどさ
+<$06>You know the lady at HQ who documents\n
+reports? She always has the latest gossip.
+<$12>
+\n
+<CLEAR>
+//しかし…　内勤の女ってサ、\n何でみんな　噂好きなんだろ？\n仕事の十倍は　精力を傾けてるよな
+Half of it's gotta be B.S., so why does she\n
+spend so much time spreading rumors?
+<$12>
+\n
+<CLEAR>
+She'd get a lot more work done if she\n
+channeled that energy elsewhere.
+<$12>
+<$00>
+
+
+
+
+
+
+//自然の中の　夜の静寂は\n女を　おしゃべりにさせるんだよ
+<$06>There's something about quiet nights under\n
+the stars that makes women wanna open up.
+<$12>
+\n
+<CLEAR>
+//だから　彼女の本音を　聞きたけりゃ\n野営するのが　一番だね\nまぁ　試してみなよ
+Camping's a great way to talk and hear a\n
+woman's true feelings. You should try it!
+<$12>
+<$00>
+
+
+
+
+
+
+//どんなにひもじくても　外で見つけた\n花を口にするような　バカなマネは\nよしたほうが　安全だぜ
+<$06>I don't care how hungry you are, eating\n
+flowers out of the dirt is downright nasty.
+<$12>
+\n
+<CLEAR>
+//確かに　そこらの売薬よか　元気に\nしてくれる花も　たまにはあるらしいが\nきれいな花には　トゲがあるのが常さ
+Some have nutritional benefits, sure, but\n
+some thorny flowers are better for the eyes!
+<$12>
+<$00>
+
+
+
+
+
+
+//ＡＭＤ　１、９、９、９、年　夏　…\nこの星の最後に　ふさわしい\n単純であっけない　数字の並びだわね
+<$06>This planet will die in the summer of AMD\n
+1999. I too enjoy topping things off with a\n
+bang, but damn...
+<$12>
+<$00>
+
+
+
+
+
+
+//町の中を走っても　体力は減らないわ\nただ　ほんの少しばかり、泥棒と\n間違えられることが　増えるかしらね
+<$06>Running in town doesn't deplete stamina, but\n
+you may be mistaken for a thief.
+<$12>
+\n
+<CLEAR>
+//トンネルの中も　駆け足ＯＫよ\n何十往復でも　してちょうだい！
+In tunnels, however, you're socially free to\n
+run as many laps as you want!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ウチで仕入れた卵を　託卵センターの\nビッグママに　放り込む
+We're taking all the eggs we've collected and\n
+dropping them off with Big Mama at the Egg\n
+Center.
+<$12>
+\n
+<CLEAR>
+//珍しい動物が出れば　大儲け！\nさっ、春の運だめしと　いきましょう
+If we're lucky, one of these bad boys will\n
+hatch into a rare animal, and we'll be\n
+stinkin' rich!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//何が出てくるか　わかんない卵に\n大金払うマヌケな商人は　いやしない！\n卵はかえしてから　売らなきゃ損だ∥
+Traders ain't stupid enough to pay high price\n
+for an egg they don't know what's gonna come\n
+out of it!
+<$12>
+\n
+<CLEAR>
+//そこで　役に立つのが　ウチの\n「ビッグママ」だ∥\nまぁ　話の種に見てってくれよ
+You gotta make sure to incubate the eggs\n
+through Big Mama first before selling them.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//この木に「赤糸杉」って名をつけて\n恋愛成就の噂を 流したのは\n観光局と そこのホテルの連中さ
+The hotel staff here started a rumor among\n
+the tourists that our red cypress tree would\n
+bring lovers good luck.
+<$12>
+\n
+<CLEAR>
+//…うまいよなぁ
+...Is that ethical?
+<$12>
+<$00>
+
+
+
+
+
+
+//ＷＥＬＣＯＭＥ　ＮＥＯＫＥＮＹＡねぇ\nあと　何人ぐらいの人間が\nこの花の歓迎を　受けるんだろうね…
+<$06>"WELCOME NEO KENYA", eh?\n
+How many people have these flowers greeted, I\n
+wonder.
+<$12>
+<$00>
+
+
+
+
+
+
+//公園のテントに　花たば屋ができたの\nなかなか　評判イイみたい\n手頃な値段が　うけてる理由だわね
+<$06>There's a florist shop set up in the park,\n
+and it's very affordable! (It better be, if\n
+it's run from inside a dingy tent!)
+<$12>
+<$00>
+
+
+
+
+
+
+//ビースチャンの町で　無差別殺人事件が\n起きたんだってね…　犯人は　まだ\n捕まってないらしいけど　思うに…
+<$06>I can't believe the culprit behind yet\n
+another senseless murder spree hasn't been\n
+caught!
+<$12>
+\n
+<CLEAR>
+//
+Did someone idiot ronin walk a goddamn＿
+//<$1B>
+//ライオンか何かを　ペットにする気で\n町の中に持ち込んだ　バカがいたのよ
+tiger into town like some kind of pet?
+<$12>
+\n
+<CLEAR>
+//だって　ビースチャンでしょ？\n彼らの常識は　私たちの非常識だもの
+Who knows with those Beastians. Our sense of,\n
+well, "sense" doesn't match up.
+<$12>
+<$00>
+
+
+
+
+
+
+//ここの周囲も　春と秋には\n町のすぐそばまで　水浸しに\nなることが　多いのよね
+<$06>The landscape around the city often floods in\n
+spring and autumn.
+<$12>
+\n
+<CLEAR>
+//水の中で　戦う時は　素早さは半分よ\n相当な不利を　覚悟したほうがいいわね\n火もつきにくいし　電撃もヤバいわよ
+Your speed halves when you're fighting in\n
+water, and you have to be prepared for a\n
+multitude of inconveniences.
+<$12>
+\n
+<CLEAR>
+It also becomes difficult to light fires in,\n
+and electric shocks are dangerous too.
+<$12>
+<$00>
+
+
+
+
+
+
+//「ポンコツスマイリー」って名の\n賞金稼ぎが　ご到着になってるゼ\nホテルのＶＩＰルームに　お泊まりだ
+<$06>A bounty hunter named Ponkotsu Smilly is\n
+booked the hotel's VIP suite.
+<$12>
+\n
+<CLEAR>
+//賞金稼ぎってのは　金になるみたいだな\n俺も　クラがえしようかなぁ
+He must be well off! If I behave, maybe he'll\n
+throw a handsome tip my way too.
+<$12>
+<$00>
+
+
+
+
+
+
+//「ポンコツスマイリー」ってのも\n大したタマだなぁ
+<$06>Ponkotsu Smilly's a legend in the game, my\n
+friend. The feds even pay him in advance.
+<$12>
+\n
+<CLEAR>
+//連邦から　前金をせしめて\n仕事するフリだけして　姿をくらます…\nさすが　一流の賞金稼ぎだゼ！
+Once he's paid, he fucks around for a while\n
+in whichever town, and then...BLIP! He's\n
+Gone!
+<$12>
+<$00>
+
+
+
+
+
+
+//リンダなら空港ビルの２階で　職員から\n亡くなった　空港司令官のことを\nしつこく　聞いてたようだけど…
+<$06>Linda was pressing the airport staff on the\n
+second floor about the late airport general.
+<$12>
+\n
+<CLEAR>
+//ごめんね…　隊長に電話しに行って\n戻ってみたら　姿が消えてたのよ
+I went to call your captain, but when I came\n
+back...she'd already left.
+<$12>
+\n
+<CLEAR>
+//とりあえず　リンダと話してた\n職員たちに　事情聴取してみたら\n何か　わかるかもよ
+Try asking the staff about what they saw.\n
+Someone might know where she went.
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $001E)
+//\n
+<$06>\n
+<$00>
+
+
+
+
+
+
+<$06><$01>
+//寄付する
+Donate
+<$0E>
+//／
+／
+<$01>
+//雑談する
+Chat
+<$0E>
+//／
+／
+<$01>
+//ヤだよ！
+No way!
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//あたしに有り金を　全部渡したその足で\nＬ－
+There's some fellers around L-
+
+//22
+22
+
+//辺りを　散歩してごらん\nきっと珍しいヤツに　出くわすよ
+＿who only approach those they find desirable.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//間違っても　Ｌ－
+Whatever you do, don't camp around L-
+
+//24
+24
+
+//やＧ－
+＿or G-
+
+//14
+14
+
+//で\n野宿なんかしないほうが　身のためだよ\nこわいヤツが　夢に出て来るってサ
+. Weirdos bump in the night out there, if you\n
+catch my drift.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//いつも神様は　あなたの行動を\n見ていらっしゃいますよ…
+God's always watching, you know.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ありがとうございます\n優しい気持ちを　入れてください\n持金
+Thank you so much!\n
+How much will you donate?\n
+<$1E>
+//40￥→寄付
+40￥→
+<$01><$1E>
+//40￥
+40
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+You'll donate＿
+<$1E>
+//￥の寄付ですね\n
+￥?\n
+<$01>
+//は＿い
+Yes
+<$0E>
+//／
+／
+<$01>
+//いいえ
+No
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//最近、多いんですよ…\n持金を全部、寄付される方…
+I've seen a lot of people donating everything\n
+they have lately.
+<$12>
+\n
+<CLEAR>
+//あなた、まだ若いんだから\nヘンな気を　起こさないでくださいね
+You're still young, so don't feel strange or\n
+guilty about participating.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ダンナ、いつもわりいねぇ\n拾いモンだけど　お礼がわりに\nこれ、受け取ってくんナ
+Gosh, I don't know what to say. I'd only\n
+picked this up, but I hope it works as a\n
+"thank you".
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//S<CLEAR>ケンは　
+S<CLEAR>Ken acquired\n
+<$1D>
+//を手に入れた∥
+!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//じゃ、引き続き寄付のほう　よろしく!\n…と言っても　もう何もでねぇけどナ
+Well, it always helps, so please continue to\n
+donate when you can.
+<$12>
+//\nた、ぶ、ん…
+\n
+(Not "if", "when"...)
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//あなたに　神様からの祝福が\nありますように
+God bless you.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//あなたと　あなたの家族に\n神様からのご加護が　ありますように
+God bless you and your family.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//あなたと　あなたの家族\nそして　子孫にも　未来永劫、\n幸あらんことを　お祈りします
+God bless you, your family, your children and\n
+your childrens' children.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//今、あなたが寄付したお金を\nどうやって　かせいだかについては…
+Ask yourself, how'd you get the money you\n
+donated just now?
+<$12>
+\n
+<CLEAR>
+//きっと　神様も見てなかったことに\nしてくださると　思いますよ\n良かったですね
+God's giving someone a little special\n
+treatment, I'll bet. But that's good too!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//どうも
+My goodness!
+<$12>
+//\n………………………………？\nえっ￠　神様のご加護？
+\n
+Is this...what they call "a gift from God"?
+<$12>
+\n
+<CLEAR>
+//そんなモンなくったって　こんな大金を\nポンと　寄付できるような方なんだから\n十分、幸せなはずですよ
+To see someone who- by all rights- wouldn't\n
+have much be so generous brings me to tears!
+<$12>
+\n
+<CLEAR>
+//足りなきゃ　
+Is＿
+
+//100000
+100,000
+
+//￥で\nお売りしましょうか？
+￥ a fair price to you?
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//本当に　ありがとうございました∥\nあなたのお気持ちは　しっかりと…
+Thank you so much! Your generosity will be\n
+remembered for all time.
+<$12>
+//\n「記録」しておきましたよ
+\n
+I know, because I just "reported" it.
+<$12>
+<$00>
+
+
+
+
+
+
+//個
+<$06>＿
+<$00>
+
+
+
+
+
+
+//匹
+<$06>＿
+<$00>
+
+
+
+
+
+
+<$06><$1D>
+//を
+＿x
+<$1D>
+//ます\n
+＿\n
+<$19>
+//1
+1
+<$01><$1A>
+//01
+01
+<$0E><$15>
+//S
+S
+<$19>
+//0
+0
+
+//／
+／
+<$14><$1E>
+//034
+034
+<$15>
+//S
+S
+<$1D><$14><$02>
+//112
+112
+<$19>
+//2
+2
+<$1E>
+//40
+40
+<$19>
+//0
+0
+<$15>
+//S￥
+S￥
+<$00>
+
+
+
+
+
+
+<$06>
+//T.C.(
+TCU (x
+<$1E>
+//034
+
+//)
+)
+<$00>
+
+
+
+
+
+
+<$06><$05>
+//γ
+A
+<$00>
+
+
+
+
+
+
+<$06><$05>
+//ζ
+D
+<$00>
+
+
+
+
+
+
+<$06><$1E>
+//@019
+@019
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//セレクトボタンで解説が出ます
+SELECT: Details
+<$00>
+
+
+
+
+
+
+<CLEAR>
+
+<$00>
+
+
+
+
+<$06><$16><$15>
+//W
+W
+<$01><$1D><$02>
+//116
+116
+<$0E><$02>
+//216
+216
+<$1D><$1E>
+//39￥
+39￥
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//トランスカーゴは　１枠につき\n
+The trans-cargo unit has\n
+a＿
+
+//99
+99
+
+//頭までしか　収容できません
+＿species capacity!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+
+//トランスカーゴ
+The trans-cargo unit＿
+
+//がいっぱいです
+is full!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//道具がいっぱいです
+The item bag is full!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//不思議な　不思議な　不思議な卵\n話のネタに　おひとつどーだい？\n
+Oh eggs, what secrets lie inside your little\n
+shells?\n
+<$01>
+//取引する
+Shop
+<$0E>
+//／
+／
+<$01>
+//雑談する
+Chat
+<$0E>
+//／
+／
+<$01>
+//やめとく
+Exit
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//じゃ、来年の春に　よろしく！
+Okay, see you next spring!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//まぁ、買ったところで\n何が生まれるか　分からんし\n俺なら　買わないけどね
+No one knows what'll be born from a bought\n
+egg. It's why I don't buy them.
+<$12>
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Y卵　屋／買　う
+YEgg Seller／Buy
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Y卵　屋
+YEgg Seller
+<$00>
+
+
+
+
+
+
+//クン、クンクン………？
+<$06>Sniff...sniff, sniff?
+<$12>
+\n
+<CLEAR>
+//ここには　少なくとも
+There's not＿
+<$1E>
+//1人！\nいいえ…　
+1 soul here!\n
+Wait... No, there's at least＿
+<$1E>
+//1人はいるわよ…
+1.
+<$12>
+\n
+<CLEAR>
+//お風呂と縁のない人
+It's whatever they reek of that isn't human.
+<$12>
+<$00>
+
+
+
+
+
+
+//……東
+<$06>...East
+<$00>
+
+
+
+
+
+
+//……西
+<$06>...West
+<$00>
+
+
+
+
+
+
+//……南
+<$06>...South
+<$00>
+
+
+
+
+
+
+//……北
+<$06>...North
+<$00>
+
+
+
+
+
+
+//…北東
+<$06>...North-east
+<$00>
+
+
+
+
+
+
+//…北西
+<$06>...North-west
+<$00>
+
+
+
+
+
+
+//…南東
+<$06>...South-east
+<$00>
+
+
+
+
+
+
+//…南西
+<$06>...South-west
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、…
+<$06>! That's where we'll find a＿
+<$1D>
+//に行けば
+.
+<$00>
+
+
+
+
+
+
+//直進
+<$06>For
+<$00>
+
+
+
+
+
+
+//右よ
+<$06>Right
+<$00>
+
+
+
+
+
+
+//左よ
+<$06>Left
+<$00>
+
+
+
+
+
+
+//後ろ
+<$06>Back
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、絶対に
+<$06>wards, got it? I'm sure we'll find a＿
+<$1D>
+//∥
+＿there!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sリンダは　「女の勘」を\nはたらかせた∥
+SLinda used her woman's intuition...
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//…ごめんね、\n今日は　勘がはたらかないわ…
+...Sorry. I don't have it in me today.
+<$12>
+<$00>
+
+
+
+
+
+
+//運命の
+<$06>Fated＿
+<$00>
+
+
+
+
+
+
+//新しい
+<$06>New＿
+<$00>
+
+
+
+
+
+
+//素敵な
+<$06>Great＿
+<$00>
+
+
+
+
+
+
+//未知の
+<$06>Unknown＿
+<$00>
+
+
+
+
+
+
+//何か
+<$06>things＿
+<$00>
+
+
+
+
+
+
+//発見
+<$06>discoveries＿
+<$00>
+
+
+
+
+
+
+//お宝
+<$06>treasures＿
+<$00>
+
+
+
+
+
+
+//動物
+<$06>animals＿
+<$00>
+
+
+
+
+
+
+//に　出会える…
+<$06>could appear.
+<$00>
+
+
+
+
+
+
+//が　待ってる…
+<$06>await us...
+<$00>
+
+
+
+
+
+
+//気がするわ∥
+<$06>are there.
+<$00>
+
+
+
+
+
+
+//チャンスよ∥
+<$06>are in our grasp!
+<$00>
+
+
+
+
+
+
+//今しかないわ
+<$06>could slip through our fingers!
+<$00>
+
+
+
+
+
+
+//間違いなし∥
+<$06>are dead head!
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$1D><$1D><$1D>
+//\n
+\n
+<$1D><$12>
+\n
+<CLEAR>
+//
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信があるの∥
+I'm sure of it!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信は　ないけどね…
+Although, I'm not totally certain...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//絶対なんだから∥
+I'm absolutely certain!
+<$12>
+<$00>
+
+
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+

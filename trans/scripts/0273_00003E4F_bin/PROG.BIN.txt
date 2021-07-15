@@ -1,0 +1,2520 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $00000000, 16)
+#JMP($000020AE)
+
+
+#WRITE(PTR, $0018)
+#WRITE(PTR, $001A)
+#WRITE(PTR, $001C)
+#WRITE(PTR, $001E)
+ozu_sp1.obj
+<$00>
+
+
+
+
+ozu_sp2.obj
+<$00>
+
+
+
+
+ozu_sp3.obj
+<$00>
+
+
+
+
+sht1.obj
+<$00>
+
+
+
+
+sht2.obj
+<$00>
+
+
+
+
+c002.obj
+<$00>
+
+
+
+
+c009.obj
+<$00>
+
+
+
+
+c020.obj
+<$00>
+
+
+
+
+c023.obj
+<$00>
+
+
+
+
+c036sht2.obj
+<$00>
+
+
+
+
+c051.obj
+<$00>
+
+
+
+
+c105a0.obj
+<$00>
+
+
+
+
+c105a1.obj
+<$00>
+
+
+
+
+c105a2r.obj
+<$00>
+
+
+
+
+c107a2.obj
+<$00>
+
+
+
+
+c108a0.obj
+<$00>
+
+
+
+
+c108a2.obj
+<$00>
+
+
+
+
+c110a1.obj
+<$00>
+
+
+
+
+c115a0.obj
+<$00>
+
+
+
+
+c117a0.obj
+<$00>
+
+
+
+
+c117a2.obj
+<$00>
+
+
+
+
+c118a2.obj
+<$00>
+
+
+
+
+c124a0.obj
+<$00>
+
+
+
+
+c127a0.obj
+<$00>
+
+
+
+
+c131.obj
+<$00>
+
+
+
+
+c132a.obj
+<$00>
+
+
+
+
+c134a.obj
+<$00>
+
+
+
+
+c145a.obj
+<$00>
+
+
+
+
+c147a1r.obj
+<$00>
+
+
+
+
+c147a1l.obj
+<$00>
+
+
+
+
+c147a2l.obj
+<$00>
+
+
+
+
+c172_0r.obj
+<$00>
+
+
+
+
+c189.obj
+<$00>
+
+
+
+
+width2.obj
+<$00>
+
+
+
+
+kao_l10.obj
+<$00>
+
+
+
+
+kao_l11.obj
+<$00>
+
+
+
+
+kao_l12.obj
+<$00>
+
+
+
+
+kao_l13.obj
+<$00>
+
+
+
+
+kao_l33.obj
+<$00>
+
+
+
+
+#WRITE(PTR, $0020)
+//軌道衛星オズサット１Ｆ
+<$06>OzSAT 1F＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+//脱出船の予定は　残り
+<$06>There are＿
+<$1E>
+//2便…\nたったそれだけで　地上に残っている人、\n全員を回収できるのかなぁ
+2 remaining flights scheduled. We're so close\n
+to getting everyone out of here.
+<$12>
+\n
+<CLEAR>
+//積み残しが　でなきゃいいけど\n連邦の計画って　机上のプランばかりで\nたいてい途中で　破たんするんだよ
+I don't want to jynx it, though. Nothing says\n
+"half assed" like a federal project.
+<$12>
+<$00>
+
+
+
+
+
+
+//ターミナル衛星、オズサットへようこそ\n今日は　知人の見送りかしら？\n
+<$06>Welcome to OzSAT. Are you here to see someone\n
+off?？\n
+<$01>
+//そんなトコだよ
+Sure
+<$0E>
+//／
+／
+<$01>
+//動物を捜しにね
+No, I want animals.
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//脱出船の発着場と　送迎デッキは\nこの上のフロアの　奥にあるわ
+You'll find both the dock and observation\n
+deck upstairs and to the back.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここにいる　珍しい動物と言えば\nラボの学者たちぐらいね\n変わったのが　そろってるわよ
+The only rare animals we have here are the\n
+scientists in the lab. They're all natural\n
+oddities, if you ask me.
+<$12>
+<$00>
+
+
+
+
+
+
+//連邦には　だまされたけど\n私は負けないわ∥　どこでだって\n何度だって　やり直してみせるわ∥
+<$06>The Federation might've screwed me over, but\n
+I won't let them keep me down. Nope, over my\n
+dead body!
+<$12>
+\n
+<CLEAR>
+//たとえ　私ができなくても…\n私の子が　きっと　やってくれる\nそういう子を　育ててみせるわ∥
+And if somehow they do? My child will march\n
+over my dead body and settle the score then!
+<$12>
+<$00>
+
+
+
+
+
+
+//そういえば　箱船の中の井戸の底から\n面白いモノが　出たらしいわね\nある植物の　根の組織なんだけど…
+<$06>I meant to tell you...apparently, the root\n
+tissue of a strange plant was found at the\n
+bottom of the Astro Ark.
+<$12>
+\n
+<CLEAR>
+//この星のものじゃ　ないのよ\nつまり箱船は　過去にも　どこかへ\n飛んだことが　あるってことね
+The plant doesn't belong to Neo Kenya,\n
+meaning that ship has been to other planets\n
+at some point in the past.
+<$12>
+\n
+<CLEAR>
+//とりあえず　本当に動くらしいことが\nわかって　あなたたちも　仕事に\n張り合いが　出たでしょ￠
+That thing can really shake a tail feather,\n
+just like the two of you!
+<$12>
+<$00>
+
+
+
+
+
+
+//学者さんの言うには　この装置って\n物はゼンゼン、動かしてないんだって！\n情報だけを　動かしてるそうよ
+<$06>According to our experts, this device isn't\n
+working right. It only extracts data.
+<$12>
+\n
+<CLEAR>
+//つまり、人間なんて　この装置の前じゃ\n一度、分解しても　再構成できる程度の\n情報の固まりでしか　ないってこと
+Meaning, it won't reconstruct all of the\n
+information we designed it to extract.
+<$12>
+\n
+<CLEAR>
+//ずい分、人をバカにした機械でしょ￠
+Has this device been making us dumber all\n
+along?
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0022)
+//軌道衛星オズサット２Ｆ
+<$06>OzSAT 2F＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+//私、こんなお腹だから　途中で\n産気づいたりしたら　困るでしょ
+<$06>It wouldn't be safe for me if my water broke\n
+aboard a shuttle.
+<$12>
+\n
+<CLEAR>
+//だから主人だけ、仕事の関係で\n先に　行くことになったのよ\n少し不安だけど　仕方ないわ
+What's more, my husband had to go ahead of me\n
+because of his job. It's all so worrisome.
+<$12>
+<$00>
+
+
+
+
+
+
+//キミ、電話で天気予報を\n聞いたことあるかなぁ？\n
+<$06>Have you ever called for the weather\n
+forecast?\n
+<$01>
+//ありますよ
+Yes
+<$0E>
+//／
+／
+<$01>
+//ないですね
+No
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//アレね、私がここから　ネオケニアの\n雲のかかり具合を　見ながら\n予報を　出してんのよ
+Really now! I issue those forecasts across\n
+Neo Kenya, right from this room!
+<$12>
+\n
+<CLEAR>
+//よくわかんない時は　クツを投げて\n決めることもあるけど　それにしては\nけっこう　当たるでしょ？
+When I'm not sure, usually I just follow my\n
+gut. That works just as well, honestly.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//天気予報を　聞かないなんて\nキミまだまだ　ハンターとしては\nモウコハンが　とれてないガキね
+You don't check the weather? And you call\n
+yourself a hunter? Listen, my boy...
+<$12>
+\n
+<CLEAR>
+//１度、雪にでも降られて　痛い目を\nみれば　天気予報のありがたさが\n骨のズイまで　わかってよ！
+If a snow storm gets in your eyes, you'll\n
+think of me and wish you'd called ahead!
+<$12>
+<$00>
+
+
+
+
+
+
+//ケン！　ここを通って　旅立っていった\n人たちの何人かが　あなたに\nメッセージを　残していったわ
+<$06>Ken! Some of the people who just departed\n
+left a message of support for you.
+<$12>
+\n
+<CLEAR>
+//今、ご覧になる？
+Do you wish to hear it now?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//これからも　増えると思うから\n時間があるときに　見に来てね！
+I think such messages will increase, so check\n
+back from time to time!
+<$12>
+<$00>
+
+
+
+
+
+
+//幼なじみの女を　見送りに来てよ\n言いたいことが　一杯あったはずなのに\n「またな」としか　言えなかった
+<$06>I'm here to see off my childhood friend. I\n
+had so much I wanted to say...
+<$12>
+\n
+<CLEAR>
+//………………………………
+...but all I could get out was, "I'll see ya\n
+later."
+<$12>
+\n
+<CLEAR>
+//……まぁ、上出来かもな
+For now, that'll have to do.
+<$12>
+<$00>
+
+
+
+
+
+
+//動物に人間の言葉が　わかるんなら\n「死神」のこと　教えてやりてぇよ\n奴らの驚いた顔が　一度見てぇんだ
+<$06>If we could talk to animals, I wonder how\n
+they'd react to news of the Grim Reaper.
+<$12>
+\n
+<CLEAR>
+//とくに　
+Can you imagine the look on a＿
+//<$1B>
+//オコゼのひきつった顔…\n想像するだに　笑えるぞ
+stonefish's face? That'd be rich!
+<$12>
+<$00>
+
+
+
+
+
+
+//何万年後になるか　わからないけど\n私の血を引いた人間が　必ず\nこの土地へ　もう一度　立つわ
+<$06>Only God knows how many tens of thousands of\n
+years it'd take, but someone with my blood in\n
+their veins will stand on this land once\n
+more.
+<$12>
+\n
+<CLEAR>
+//その時は「死神」が　また来たとしても\n今度は負けない∥　絶対に勝つ∥\n人間を　甘く見るんじゃないわよ∥
+And even if the Grim Reaper sets his eyes on\n
+us again, we won't lose! We'll make it again\n
+and again, because humans are NOT to be\n
+messed with!
+<$12>
+<$00>
+
+
+
+
+
+
+//脱出シャトルに　お乗りの方は\n階段を降りて　搭乗口へ
+<$06>If you're here to board a migration shuttle,\n
+take these stairs down to the boarding gate.
+<$12>
+\n
+<CLEAR>
+//お見送りのお客様は　正面の\n送迎デッキへ　お願いします
+If you're seeing someone off, head to the\n
+observation deck just ahead.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//＊＜動物クイズ＞\n
+＊＜Animal Quiz＞\What does a＿
+//<$1B>
+//パンダの好物は　何でしょう？\n１．笹　　２．パン　　３．人肉
+panda eat?\n
+１．bamboo　２．bread　３．human flesh
+<$12>
+\n
+<CLEAR>
+//＊答、ネオケニアには　
+＊I've never seen a＿
+//<$1B>
+//パンダなんて\nいないので　わからない
+panda in Neo Kenya, so who knows!
+<$12>
+\n
+<CLEAR>
+//＊ちなみに　このクイズ自身は\n３の人肉が　好物なんだよねぇ\n『人を喰った』クイズなんちゃって∥
+＊As for the quiz, I'd say "No. 3", because\n
+the question might eat at you before long!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//＊ケン　リンダ！　動物集め\nギリギリまで　がんばれよ∥\nオレは　安全な場所へ行くけど
+＊Good luck with catching all those animals,\n
+Ken and Linda! I'm on my way out!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//＊帰ろう……　うちへ
+＊Run home, Ken... Run home...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//＊ケン　それからリンダ\n動物集めは　大変そうだけど\n順調に　いってますか？
+＊Dear Ken and Linda,\n
+Animal hunting sounds tough.\n
+Is everything going well?
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//＊長い旅に　なるだろうから\n箱船に乗る前には　必ず\nトイレを　済ませること！
+＊It's going to be a long ride for you two.\n
+Make sure to use the restroom before boarding\n
+the Astro Ark!
+<$12>
+\n
+<CLEAR>
+//＊手も洗えよ
+＊And wash your hands!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//＊
+＊Did you know? If you make shoes using＿
+//<$1B>
+//ムカデからは　一度の加工で\n
+centipedes as a material, you get＿
+
+//100
+100
+
+//足のクツが　できるのよ∥\n………ウソだよよよ～ん！
+＿pairs...
+<$12>
+\n
+<CLEAR>
+...Ouch! Okay, okay, I was joking!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//＊コシカタの地下は　発見したかい？\n
+＊Have you found the Koshikata underground?\n
+Watch out for those＿
+//<$1B>
+//ナマズには　くれぐれも注意しなよ
+catfish!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//＊
+＊
+//<$1B>
+//バファロの生息地の\nナビ座標は　Ｇ
+Buffalo roam around G
+
+//－１４
+－１４
+
+//あたりだよ\nだまされたと思って　１度行ってみな
+! Watch out for bullshit if you go!
+<$12>
+\n
+<CLEAR>
+//＊だまされたと　思うだけかもね
+＊This message isn't bullshit. We promise.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//＊野営しといて　実は全員が見張り！\n動物をおびき出すには　けっこう\n重宝な作戦だぜ！　覚えときな
+＊A quick way to encounter new animals is to\n
+have EVERYONE keep watch when camping.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//＊宝くじの当り番号には　実は\n一定の法則が　あるんだ\n教えるから　メモを用意しな
+＊There's a little trick for guessing the\n
+winning lottery numbers.
+<$12>
+\n
+<CLEAR>
+//＊１）　自分の経験値の末尾４ケタＡを\nその逆数Ｂで割る
+＊１）　Take the last 4 digits of your EXP, A,\n
+and divide by its multiplicative inverse, B.
+<$12>
+\n
+<CLEAR>
+//＊２）　その答に　現在のレベルＣを\n足して　８で割る
+＊２）　Take that answer, then add your LVL, C,\n
+on top of that. Then, divide by 8.
+<$12>
+\n
+<CLEAR>
+//＊３）　その余りＤに　もう一度\n末尾４ケタＡを　足す
+＊３）　Take that answer, D, and add the 4 digits\n
+from A onto it one more time!
+<$12>
+\n
+<CLEAR>
+//＊ここまでは　わかったかな？\nメモの最後には　忘れず\nこう付け加えろよ！
+＊Did you get all that? I hope you were taking\n
+notes. Oh! And one last thing!
+<$12>
+\n
+<CLEAR>
+//＊４）　この手の　うますぎる話Ｅに\n引っかからないように
+＊４）　When you hear a B.S. story like this, E,\n
+subtract it from your mind. Sike!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//＊ダークリバーの　底で\n珍しいのが　ウロウロしてたよ
+＊Sometimes, you'll find the most unlikely\n
+animals scampering around the deeper parts of\n
+Dark River.
+<$12>
+\n
+<CLEAR>
+//＊あれが　
+＊That includes＿
+//<$1B>
+//ネコかもなぁ
+cats!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//＊
+＊If you want to know where＿
+//<$1B>
+//バッタの居場所を　知りたいなら\nマダムに　聞いてごらん
+grasshoppers are, you'd better look for the\n
+Madam.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//＊リンダ・カルトクイズ（初級）\nシナリオＢに　登場する\nサチコは　全部で何人？
+＊Linda Quizzed (Again!)＊\n
+In Scenario B, how many Sachikos appear in\n
+total?
+<$12>
+\n
+<CLEAR>
+//＊答が５人に足りない人は　もう一度\nシナリオＢを　初めから\nゆっくりと　やってみよう∥
+＊If you're lost, check off each "Sachiko"\n
+appearance next time you play Scenario B.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//＊リンダ・カルトクイズ（中級）\nゴメスが　一番好きなのは\n何ごっこ？
+＊Linda Quizzed (Again!)＊\n
+What is Gomez' favorite animal to roleplay?
+<$12>
+\n
+<CLEAR>
+//＊答は　パラサイドのバードラインの\nカウンターの女に　聞きましょう
+＊If you're lost, go ask the woman at the\n
+Paraside birdline counter.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//＊リンダ・カルトクイズ（上級）\nベン隊長の姓は　何？\n答は　ガレックスにあります
+＊Linda Quizzed (Again!)＊\n
+Who inspired Captain Gene?\n
+＊If you're lost, go to Galax!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//＊俺たちが　引っ越した後には\n誰も　入らないけど…
+＊No one's picking up after us once we move.\n
+However...
+<$12>
+\n
+<CLEAR>
+//＊
+＊...there may be an extra resident living in\n
+the hole where＿
+//<$1B>
+//ヤドカリが　抜けた穴には\n別の入居者の予約が　あるらしいぜ
+hermit crabs crawl out.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//＊ビースチャンの指輪は　全部で８つ\n半分集めれば　
+＊If you managed to collect all 8 Beastian\n
+rings, wrestling a LVL＿
+There are 8 Beastian rings in total. If you\n
+manage to collect half of those, even at LVL
+
+//20
+20
+
+//レベルで\n
+＿, defeating a＿
+//<$1B>
+//ドラゴンを　倒すのも夢じゃない∥
+dragon would be cake!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//＊フローラ博士と　
+＊If you kiss Dr. Flora＿
+
+//２５６
+256
+
+//回、\nキスすると「ウンチ鑑定」の能力が\n身につく
+＿times, she'll give you the Scatologist\n
+skill.
+<$12>
+\n
+<CLEAR>
+//＊…かどうかは　怪しいけど\nキスは　上手になるんじゃない？
+＊...Well, even if you don't learn that,\n
+you'll still be a much better kisser for all\n
+the work!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//＊マキちゃんの相手ってサ\n結局、ヤマダでもポールでもなくて\nニシモリって　漫画家らしいよ
+＊In the end, Maki-chan didn't pick Yamada or\n
+Paul! She's with a manga artist named\n
+Nishimori.
+<$12>
+\n
+<CLEAR>
+//＊まっ、とりあえず\n末永く　お幸せにってトコだな
+＊Well, as long as she's happy, I wish her the\n
+very best.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//＊
+＊
+//<$1B>
+//カメレオは　姿が見えないんだ！\n捕まえるには　おびきよせるか\nワナを　かけるか…
+Chameleons are invisible. To catch one, you\n
+can lure them, or set up traps in their\n
+habitat.
+<$12>
+\n
+<CLEAR>
+//＊勘を頼りに　そこらを走るかだな
+＊Then again, they run on their keen\n
+perception, so trust your gut and just run\n
+around those areas.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//連邦が配布した　脱出プロジェクトの\n説明用のパンフには　ごたいそうな\nシャトルが　何機も写ってたわよね
+The migration flyers sent out by the\n
+Federation showed off some great looking\n
+shuttles.
+<$12>
+\n
+<CLEAR>
+//ところが　いざ脱出が始まったら、\n時代遅れの　シャトルが１機…\nそれも貨物船を　急いで改造したヤツ
+However, when the project finally started,\n
+they threw this old hunker together instead.
+<$12>
+\n
+<CLEAR>
+//だから連邦は　信用できないってぇの
+We can't trust the government with anything.
+<$12>
+<$00>
+
+
+
+
+
+
+//ここの動物の多くから　遺伝子の一部に\n巧妙な改ザンが　発見されてな、\nもしやと思って…
+<$06>I'd learned that many of the animals here had\n
+parts of their DNA genetically modified, so I\n
+looked around, and...
+<$12>
+\n
+<CLEAR>
+//ビースチャンの身体も　調べてみたら\nやはり　同じような跡が見つかった\nそれが　四半世紀前じゃ
+...as I suspected, I was able to find similar\n
+revisions in the body of a Beastian that was\n
+examined here 25 years ago.
+<$12>
+\n
+<CLEAR>
+//その時は　ビースチャンと移植民の間に\n既に３世が　産まれとったのよ…\n今さら　後戻りなどできんさ
+By that time, a 3rd child was already born to\n
+that Beastian with the transplantation. There\n
+was no changing them back.
+<$12>
+\n
+<CLEAR>
+//実はな、私もそうなんじゃ
+More specifically, there was no changing me\n
+back...
+<$12>
+<$00>
+
+
+
+
+
+
+//箱船プロジェクトなんて　海のモンとも\n山のモンとも知れんモンを　連邦は\nなぜ　後押しするか…
+<$06>Why would the Federation drag their heels on\n
+an ark project that saved the sea and\n
+mountain wildlife too?
+<$12>
+\n
+<CLEAR>
+//動物保護なんて　キレイゴトでは\nあの現実主義の連邦は　動きはしない\nでは　なぜか…
+And if the animals are going to die anyways,\n
+why won't the Federation reel back on their\n
+B.S. animal protection policies?
+<$12>
+\n
+<CLEAR>
+//死神の到来の年に　ここへおいで\nその時に　話してあげるよ
+Ask me in the year of the Grim Reaper's\n
+arrival, and I'll tell you.
+<$12>
+<$00>
+
+
+
+
+
+
+//やぁ、いよいよ　お別れだ\nその前にキミたちには　人類に関する\n重大な秘密を　打ち明けておこう
+<$06>Before we say goodbye, I'd like to tell you\n
+one very important secret about humanity as a\n
+whole.
+<$12>
+\n
+<CLEAR>
+//実は、種としての　人類の寿命は\nもう　残り少ないということは\nすでに　どこかで聞いたろう
+I'm sure you've heard by now that humanity as\n
+a species does not have much longer to live.
+<$12>
+\n
+<CLEAR>
+//唯一の例外が　この星で発見された\nキミたち、ビースチャンだった\nところが　キミたちにしても…
+The only exception lies with you, the\n
+Beastians found on this planet. but even\n
+then...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//生殖能力を含めて　その力が\n維持されるのは　ここの生態系の\n中でのみだと　わかったのだよ
+I've discovered that your powers, including\n
+your ability to successfully reproduce, are\n
+bound to only work in this ecosystem.
+<$12>
+\n
+<CLEAR>
+//もう　わかったね？　キミたちは\n私たち人類の　未来そのものなのだ
+Do you understand now? You two are the future\n
+of our species.
+<$12>
+\n
+<CLEAR>
+//だからどんな時も　希望だけは\n決して捨てんでくれ∥　私たちの\n祖先が　そうしてきたようにだ
+Do whatever you can, and never give up hope.\n
+Live on, just like our ancestors did.
+<$12>
+<$00>
+
+
+
+
+
+
+//…立ち話で　伝えるような内容じゃ\nなかったかも　しれないが\nまぁ、真実なんて　そんなモノだよ
+<$06>...I know that's not something you just stand\n
+there and preach to someone, but that's how\n
+the truth has to come out, sometimes.
+<$12>
+\n
+<CLEAR>
+//じゃ、ケン君！　リンダ君！\n人類をよろしくな！
+Now Ken! And you too, Linda!\n
+Go save the human race!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケン！　やれることは　みんな\nやっとかないと　寝覚めが悪いわ\n行くわよ！　送迎デッキ！
+If we can't reach Angela down here, we'll\n
+have stop her from the observation deck!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//できるだけ大きい声で呼ぶのよ\n用意は　いいわね
+We've got to yell for Angela as loud as we\n
+can.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//せーの！
+You ready?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//もう一回　いくわよ\nせーの！
+One more time, are you ready?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//もう一回よ！　男なんだから\nもっと　大きな声、出してよ！\nせーーの！
+One more time! Come on, I thought guys were\n
+supposed to be loud!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//あぁ～　行っちゃったね…
+Aww, man. She's gone...
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//す、すまねぇ　遅刻しちまって…\nで、おふくろは……？
+S-Sorry I'm late!\n
+So, where's my mother...?
+<$12>
+\n
+<CLEAR>
+//……………………………………
+.........
+<$12>
+\n
+<CLEAR>
+//そうか、その様子じゃ\n間に合わなかったんだね…
+I see. Guess I didn't make it in time.
+<$12>
+\n
+<CLEAR>
+//……………………………………
+.........
+<$12>
+\n
+<CLEAR>
+//いいよ、いいよ　気にするなよ…\nハハハハハ…　下のバーでさ、\n何か　おごらせてくれよ
+Don't worry, I'll be fine.\n
+Haha...I owe you both drinks at the bar for\n
+all this.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//もう、シャトルは　出ちゃいました￠\nあぁ～　あたしったら　また遅刻…\nどうして　いつも　こうなんだろ…
+Did the shuttle already leave?! Aw, I missed\n
+it again! How do I always do this?!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//あの…　違ってたらゴメンなさい\nもしかして　あなた、\nアンジェラさん？
+Ma'am? I hate to bother you, but are you\n
+Angela, by any chance?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//どうして　私のことを…
+Yes, but how do you know my...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//お、お、お、おふくろ？\nマリオだよ∥\n息子の　マリオだよぉ∥
+Oh my God, what?!\n
+Mother, it's me!\n
+I'm your son, Mario!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//マリオ…？\nマリオなの∥　本当にマリオなの￠
+Mario...? MARIO?!\n
+Is that really you?!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//本当に　本当に　本当に\nあんたの息子のマリオだよぉ
+In the flesh!\n
+It's really me!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//あぁ…　神様…\n私に遅刻グセを　さずけてくれたこと\n一生、感謝します
+Is this...why God made me late today?\n
+Thank you! Thank you, God!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケン∥　ありがとうよ∥\n俺、貯金もないし　あんたに\n大それたお礼は　できそうにないけど…
+Ken, thank you!\n
+I don't have much money, but wow do I owe you\n
+for this one.
+<$12>
+\n
+<CLEAR>
+//…………………………………∥
+.........!
+<$12>
+\n
+<CLEAR>
+//そうだ∥　そうそう…
+Oh! I know!
+<$12>
+\n
+<CLEAR>
+//リナバレーの　倉庫の扉を\n内緒で開けとくよ∥　冷凍保存された\n珍獣が１対、中の装置に入ってるよ
+Take the cryo-preserved animals and equipment\n
+from the Spurr Valley warehouse.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リナバレーの倉庫だゼ∥\n忘れないうちに　回収に行けよ∥
+I'm talking about rare animals here, so don't\n
+let them go to waste!
+<$12>
+\n
+<CLEAR>
+//ケン！　いろいろ世話になったな\nさあ　おふくろ　行こう！\nじゃ　ケン、リンダ　あばよ
+I'll never forget what you did for us. Now,\n
+let's go, Mother! Ken, Linda, sayonara!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//なんだか　すっごくイイこと\nしたような気が　するよね？
+See that? I was a part\n
+of something special today!
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$01>
+//一応はな
+Were you?
+<$0E>
+//／
+<$01>
+//ゼンゼン
+Totally!
+<$0E>
+//／
+<$01>
+//するよね
+And ME?!
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//まぁ今回も　ほとんど\n私のお手柄だったけど　ケンも\nよく　がんばったわよ！
+Well, you helped and all, but I was downright\n
+glowing! C'mon, let's go!
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0024)
+//軌道衛星オズサット１Ｆ
+<$06>OzSAT 1F＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+//ダメ！　ダメ！　こっから先は\n乗員だけしか　入れられないよ∥
+<$06>Sorry, I can't let you through! It's\n
+passengers and pilots only!
+<$12>
+\n
+<CLEAR>
+//見送りなら　上の送迎デッキから頼むよ\n大声、張りあげりゃ　声くらいは\n届くだろうよ
+If you're seeing someone off, run up to the\n
+observation deck and start yelling,\n
+"Goodbye".
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0026)
+//\n
+<$06>\n
+<$01>
+//は＿い
+Yes
+<$0E>
+//／
+／
+
+<$01>
+//いいえ
+No
+<$0E>
+<$00>
+
+
+
+
+
+
+//クン、クンクン………？
+<$06>Sniff...sniff, sniff?
+<$12>
+\n
+<CLEAR>
+//とくに目新しい　ニオイは\nしないみたいよ
+None of the scents around here stand out.
+<$12>
+<$00>
+
+
+
+
+
+
+//……東
+<$06>...East
+<$00>
+
+
+
+
+
+
+//……西
+<$06>...West
+<$00>
+
+
+
+
+
+
+//……南
+<$06>...South
+<$00>
+
+
+
+
+
+
+//……北
+<$06>...North
+<$00>
+
+
+
+
+
+
+//…北東
+<$06>...North-east
+<$00>
+
+
+
+
+
+
+//…北西
+<$06>...North-west
+<$00>
+
+
+
+
+
+
+//…南東
+<$06>...South-east
+<$00>
+
+
+
+
+
+
+//…南西
+<$06>...South-west
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、…
+<$06>! That's where we'll find a＿
+<$1D>
+//に行けば
+.
+<$00>
+
+
+
+
+
+
+//直進
+<$06>For
+<$00>
+
+
+
+
+
+
+//右よ
+<$06>Right
+<$00>
+
+
+
+
+
+
+//左よ
+<$06>Left
+<$00>
+
+
+
+
+
+
+//後ろ
+<$06>Back
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、絶対に
+<$06>wards, got it? I'm sure we'll find a＿
+<$1D>
+//∥
+＿there!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sリンダは　「女の勘」を\nはたらかせた∥
+SLinda used her woman's intuition...
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//…ごめんね、\n今日は　勘がはたらかないわ…
+...Sorry. I don't have it in me today.
+<$12>
+<$00>
+
+
+
+
+
+
+//運命の
+<$06>Fated＿
+<$00>
+
+
+
+
+
+
+//新しい
+<$06>New＿
+<$00>
+
+
+
+
+
+
+//素敵な
+<$06>Great＿
+<$00>
+
+
+
+
+
+
+//未知の
+<$06>Unknown＿
+<$00>
+
+
+
+
+
+
+//何か
+<$06>things＿
+<$00>
+
+
+
+
+
+
+//発見
+<$06>discoveries＿
+<$00>
+
+
+
+
+
+
+//お宝
+<$06>treasures＿
+<$00>
+
+
+
+
+
+
+//動物
+<$06>animals＿
+<$00>
+
+
+
+
+
+
+//に　出会える…
+<$06>could appear.
+<$00>
+
+
+
+
+
+
+//が　待ってる…
+<$06>await us...
+<$00>
+
+
+
+
+
+
+//気がするわ∥
+<$06>are there.
+<$00>
+
+
+
+
+
+
+//チャンスよ∥
+<$06>are in our grasp!
+<$00>
+
+
+
+
+
+
+//今しかないわ
+<$06>could slip through our fingers!
+<$00>
+
+
+
+
+
+
+//間違いなし∥
+<$06>are dead head!
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$1D><$1D><$1D>
+//\n
+\n
+<$1D><$12>
+\n
+<CLEAR>
+//
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信があるの∥
+I'm sure of it!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信は　ないけどね…
+Although, I'm not totally certain...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//絶対なんだから∥
+I'm absolutely certain!
+<$12>
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Yスケジュール
+YMemo＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//スケジュールは何もありません
+There is nothing on schedule.
+<$12>
+<$00>
+
+
+
+
+
+
+//成功終了
+<$06>Completed!
+<$00>
+
+
+
+
+
+
+//期限切れ
+<$06>Expired!
+<$00>
+
+
+
+
+
+
+//あと
+<$06>In＿
+<$1E>
+//季節
+＿seasons
+<$00>
+
+
+
+
+
+
+//あと
+<$06>Deadline:＿
+<$1E>
+//年
+Y/
+<$1E>
+//季節
+S
+<$00>
+
+
+
+
+
+
+//あと
+<$06>In＿
+<$1E>
+//年
+＿years
+<$00>
+
+
+
+
+
+
+<$06><$16><$01>
+//◇
+◇
+<$0E><$1D><$02>
+//190
+<$1D>
+<$00>
+
+
+
+
+
+
+//ファングを倒す
+<$06>Slay Fang
+<$00>
+
+
+
+
+
+
+//パンハイムからの依頼
+<$06>Assist Panheim
+<$00>
+
+
+
+
+
+
+//<$1B>
+//カメの卵を手に入れる
+<$06>Snatch Turtle Eggs
+<$00>
+
+
+
+
+
+
+//<$1B>
+//プテラノの卵を手に入れる
+<$06>Snatch Pteranodon Eggs
+<$00>
+
+
+
+
+
+
+//遺産争いにケリをつける
+<$06>End the inheritance battle
+<$00>
+
+
+
+
+
+
+//ヤマダのために一肌脱ぐ
+<$06>Unload for Yamada
+<$00>
+
+
+
+
+
+
+//町のシンボルを見つけだす
+<$06>Find the village symbol
+<$00>
+
+
+
+
+
+
+//ソフィアからの依頼
+<$06>Assist Sophia
+<$00>
+
+
+
+
+
+
+//サチコ救出
+<$06>Rescue Sachiko
+<$00>
+
+
+
+
+
+
+//ポロポロちゃんを助ける
+<$06>Save Nightshade
+<$00>
+
+
+
+
+
+
+//アンジェラ捜し
+<$06>Find Angela
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//カラゴラムのファングを倒し、その証拠を\nハーディアホテルのスペクターに渡す
+Defeat Fang in Karhagolem. Present proof to\n
+Spectre in Hardia Hotel.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//マーブルポリスの
+Process meat from＿
+//<$1B>
+//ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す
+chickens in Marblopolis.Give them to Prof.\n
+Panheim in Hospico.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+Find up to 3＿
+//<$1B>
+//カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す
+Turtle Eggs. Give them to Louis at the Battle\n
+Park BB Ranch.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+Acquire 2＿
+//<$1B>
+//プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す
+Pteranodon Eggs. Give them to Bronco at the\n
+Battle Park BB Ranch.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//「太郎の首輪」を見つけだし、ドギファの\nナターシャか、オーマン家３兄弟に渡す
+Locate Taro's Collar. Give it to Natasha or\n
+one of the 3 Aumann children in Dogyf\n
+Heights.
+<$00>
+
+
+
+
+
+
+//６万
+<$06>60, 000
+<$00>
+
+
+
+
+
+
+//あと
+<$06>another＿
+<$1E><$0F>
+//000
+
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//Ｇファクトリーのヤマダのために\n
+Deposit＿
+<$1D>
+//￥を預金する
+￥ in an account to Yamada in G Factory.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//コシカタのシンボル「
+Find the＿
+//<$1B>
+//トラの爪」を\n見つけだし、ポリスカに渡す
+Tiger Claw, Koshikata's village symbol.\n
+Return it to Poliska.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ソフィアのために、エターナの桜の木を\nどうにかして咲かせる
+Find out how to revive the sakura trees in\n
+Eterna for Sophia.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//溶岩の中で育った動物の熱いウンチを\nエターナのソフィアに渡す
+Deliver Hot Dung from a lava-dwelling\n
+creature to Sophia in Eterna.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ラグナロッジのエモリに会いに行く
+Meet with Dr. Emori in Ragna Rim.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//「フロッピーと
+Take the Floppy Disc and＿
+
+//10
+10, 000
+
+//万￥」を持って、\nＧファクトリー入口１階、\n公衆電話の前に行く
+￥ to the G Factory gate. Answer the payphone.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//「フロッピーと
+Take the Floppy Disc and＿
+
+//10
+10, 000
+
+//万￥」を持って、\nパラサイド入口１階、\n公衆電話の前に行く
+￥ to the Paraside gate. Answer the payphone.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//「フロッピーと
+Take the Floppy Disc and＿
+
+//10
+10, 000
+
+//万￥」を持って、\nガレックスに行く
+￥ to Galax.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す
+Pick bloodberries in Flora Jam. Take them to\n
+Kevin and Nightshade in Rose Garden.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//パラサイドの酒場にいるアンジェラを\n確認して、リナバレーのマリオに連絡する
+Look for Angela at the Paraside bar. Report\n
+your findings to Mario in Spurr Valley.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//アンジェラを確認するために、\nオズポートホテルの酒場に行く
+Look for Angela at the OzPort Hotel bar.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//アンジェラを確認するために、\n西エリアのしけた町のホテルに行く
+Look for Angela at a hotel bar somewhere in\n
+West Area.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//アンジェラを確認するために、\nドギファの舞台に行く
+Look for Angela at the theater stage in Dogyf\n
+Heights.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リナバレーのマリオの母、\nアンジェラを追ってオズサットへ行く
+Chase Angela to OzSat! Mario will follow from\n
+Spurr Valley.
+<$00>
+
+
+
+
+
+
+
+<$00>
+
+
+
+

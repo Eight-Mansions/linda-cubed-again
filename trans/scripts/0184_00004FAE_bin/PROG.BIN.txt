@@ -1,0 +1,3095 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $00000000, 16)
+#JMP($00003230)
+
+
+#WRITE(PTR, $001E)
+#WRITE(PTR, $0020)
+#WRITE(PTR, $0022)
+#WRITE(PTR, $0024)
+sofa.obj
+<$00>
+
+
+
+
+c002.obj
+<$00>
+
+
+
+
+c002_hau.obj
+<$00>
+
+
+
+
+c009.obj
+<$00>
+
+
+
+
+c009a1.obj
+<$00>
+
+
+
+
+c010.obj
+<$00>
+
+
+
+
+c018.obj
+<$00>
+
+
+
+
+c032.obj
+<$00>
+
+
+
+
+c035.obj
+<$00>
+
+
+
+
+c117a1r.obj
+<$00>
+
+
+
+
+c159a0.obj
+<$00>
+
+
+
+
+c159_0.obj
+<$00>
+
+
+
+
+c159a1.obj
+<$00>
+
+
+
+
+c159a2.obj
+<$00>
+
+
+
+
+c160a0.obj
+<$00>
+
+
+
+
+c160_0.obj
+<$00>
+
+
+
+
+c160a1.obj
+<$00>
+
+
+
+
+c160a2.obj
+<$00>
+
+
+
+
+c161a0.obj
+<$00>
+
+
+
+
+c161a1.obj
+<$00>
+
+
+
+
+c161a2.obj
+<$00>
+
+
+
+
+c162_0.obj
+<$00>
+
+
+
+
+c162_1.obj
+<$00>
+
+
+
+
+c162_2.obj
+<$00>
+
+
+
+
+meet.obj
+<$00>
+
+
+
+
+unchi.obj
+<$00>
+
+
+
+
+kao_l15.obj
+<$00>
+
+
+
+
+kao_l16.obj
+<$00>
+
+
+
+
+kao_l17.obj
+<$00>
+
+
+
+
+kao_l21.obj
+<$00>
+
+
+
+
+kao_s3.obj
+<$00>
+
+
+
+
+kao_g1.obj
+<$00>
+
+
+
+
+kao_g2.obj
+<$00>
+
+
+
+
+kao_g3.obj
+<$00>
+
+
+
+
+kao_ch1.obj
+<$00>
+
+
+
+
+#WRITE(PTR, $0026)
+//ジャンクパレス３Ｆ
+<$06>Junk Palace 3F＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//俺ら、フリーのハンターは　情報が\n命だから　自前の情報網があるのさ！\nとくに　長老は天才的ハッカーでね…
+Freelancers together make up a huge\n
+information network. Even the elder is in on\n
+it!
+<$12>
+\n
+<CLEAR>
+//連邦の極秘データバンクも　顔パスよ！\n知らないほうが　幸せなことまで\nご存知の　優しくて恐ろしいお人さ
+Seriously, he's a skilled hacker who can\n
+waltz into top secret federal databanks!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//オンナと同じでよ、\n動物も逃げるからって　こっちより\n弱いってワケじゃ　ないんだよな
+Animals don't always run from you because\n
+they think you're stronger.
+<$12>
+\n
+<CLEAR>
+//オンナと同じでよ…\nそういうヤツに限って　えげつない\nシッペ返しを　してくれるワケさ
+They're like women, you know? Their "playing\n
+hard to get" is my
+"thrill of the hunt"!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ルリナスタワーに　行った時\n地下室で　卵型の大きなカプセルに\n入った化け物を　見たよ…
+When I went to Llinas' Tower, I saw a monster\n
+in an egg-like capsule in the basement.
+<$12>
+\n
+<CLEAR>
+//あれも　アナビスの遺産だとしたら\nアナビスってのは　神じゃなくて\n悪魔のたぐいだと　思うねぇ
+If that monster too is a child of Annabis,\n
+then Annabis is no god. He's a devil!
+<$12>
+<$00>
+
+
+
+
+
+
+//代行ハンターの首領、ゴメス様だ\nこの星全体が　俺の縄張りだ∥\n
+<$06>I'm the lead proxy hunter, Gomez. This world\n
+is MINE!\n
+<$01>
+//依頼する
+Hire
+<$0E>
+//／
+／
+<$01>
+//雑談する
+Chat
+<$0E>
+//／
+／
+<$01>
+//やめとく
+Exit
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ヒュームは　リンダの白いハダを\nずっと　気にしてたよ\n本当に　自分の子かってな…
+Linda was born with such light skin, Hume's\n
+always feared that she wasn't his kid.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//けさ、イキのいいのが、３人ほど\nオズポートに　着いたようじゃ
+Good news! A certain trio you two should meet\n
+just arrived in OzPort.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//連中こそ　「地獄のお笑いトリオ」\n連邦御用達の　プロの戦犯狩り！\nいわゆる　Ａ級賞金稼ぎじゃよ
+They're federal hitmen, Class A bounty\n
+hunters known as the "Three Gomi-gos".
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//さて、面白うなってきたのぉ\n赤勝て！　白勝て！　…じゃのぉ\nホホホホホ…
+Who will win the game, I wonder. Team Red, or\n
+Team Blue? Hohoho!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//皮肉なもんだな、リンダに\nヤツの腕が　移植できたことで\n親子が　証明されるなんてよ…
+Ironic, how it took a post-mortem arm\n
+transplant to prove Linda and Hume are\n
+related.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//愛し合う二人は　いつも一緒\nそいつが　なによりだ…\nヒュームって中年男の　口グセよ
+"Lovers stick together!"\n
+It was cheesy to say at his age, but that was\n
+Hume's mantra.
+<$12>
+\n
+<CLEAR>
+//別れた女房と　やっとヨリを戻して\nさあ、これからって時にね…\nかわいそうに…
+To see this happen after he finally got back\n
+with Ann... Shit's hard to watch.
+<$12>
+\n
+<CLEAR>
+//でも運がないのは　本人のせいもあると\n私なんかは　思うけどサ！
+Be that as it may, I do think it's his own\n
+fault that his luck was so bad.
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0028)
+//ジャンクパレス４Ｆ
+<$06>Junk Palace 4F＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+//おまえさんがケンかな？\n
+<$06>You must be Ken, no?\n
+<$01>
+//そうだけど…
+Yes, but...
+<$0E>
+//／
+／
+<$01>
+//あんた、誰？
+And you are?
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ホホホホホ…
+Hohohoho!
+<$12>
+\n
+<CLEAR>
+//リンダは　ええコじゃよ\nヒュームにも　おまえさんにも\nもったいない　ええコじゃ
+Linda's a good girl! Too good for people like\n
+you and Hume!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//名前は…
+My name? I must've forgotten it in the last＿
+
+//80
+
+//年ばかし前に\nどこかに忘れて来てしもうた…\n皆は「長老」と呼びよるがのぉ
+＿years. Everyone just calls me "Elder"!
+<$12>
+\n
+<CLEAR>
+//ホホホホホ…
+Hohohohoho!
+<$12>
+<$00>
+
+
+
+
+
+
+//おまえさんがケンじゃろ？\n
+<$06>You must be Ken, yes?\n
+<$01>
+//そうだけど…
+Yes, but...
+<$0E>
+//／
+<$01>
+//人違いですよ
+Wrong guy!
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+Our＿
+//<$1B>
+//ネズミを　逃がしてやったから\nそろそろ来る頃と　思うとったよ\nまぁ　ゆっくりして行きなされ
+rat has escaped, so you're right on time.\n
+Watch your step, and make yourself at home.
+<$12>
+\n
+<CLEAR>
+//リンダのことなら　ゴメスが\n詳しいから聞いてごらん\nホホホホホ…
+If you seek Linda, you'll have to ask Gomez.\n
+Hohoho!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//そうか、そうか、ホホホホホ…\nリンダが話す　ケンという男に\nよく似てたもので　間違えたよ
+Hoohoo, I see! My mistake...\n
+Linda's always talking about some guy named\n
+Ken.
+<$12>
+\n
+<CLEAR>
+//ケンという男に　もし会ったら\nリンダは　ここで待っとると\n伝えてくれんかの、ホホホホ…
+If you find a guy named Ken, tell him Linda's\n
+waiting here. Hoohoo...
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $002A)
+//ジャンクパレス３Ｆ
+<$06>Junk Palace 3F＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+//ジョークだよ！　ジョーク∥\n人生、すなわち　ジョークさ∥\n楽しくやらなきゃねぇ！
+<$06>It was a joke! Just a joke, I swear! We were\n
+only having some fun!
+<$12>
+<$00>
+
+
+
+
+
+
+//ゲヘヘヘ…　きょうは
+<$06>Gehehe... Today's the＿
+//<$1B>
+//ネコ踊りかな
+Cat Dance festival, isn't it?
+<$12>
+<$00>
+
+
+
+
+
+
+//リンダの口上も　迫力あったけどよ\n俺が押えてた　お姉ちゃんも\nありゃ　そうとうなタマだよなぁ…
+<$06>Linda's speech was powerful. The girl has\n
+real faith in herself to ever try bossing\n
+guys like us around.
+<$12>
+\n
+<CLEAR>
+//あのまま　本当に戦闘に入ってたら\n負けてたのは　俺らのほうかもな…\nハハハ…　まさかなぁ…
+If we ever did break into a fight with a girl\n
+like that, we'd probably have our balls\n
+busted for real.
+<$12>
+<$00>
+
+
+
+
+
+
+//<$1B>
+//ネズミごっこは　楽しいよ
+<$06>Rat play is so much fun.
+<$12>
+<$00>
+
+
+
+
+
+
+//悪いことは　言わないから\nゴメス親分には　かかわらないほうが\n身のためだゼ
+<$06>Here's a brotip, rookie: Steer clear of\n
+freaks like Gomez.
+<$12>
+<$00>
+
+
+
+
+
+
+//まっ、何はともあれ　リンダさんも\n戻ってきたわけだし　結果オーライ！\n雨降って　地固まると　言うことで…
+<$06>"Linda will come back and everything will be\n
+okay!" Things works out in the world because\n
+I TELL THEM to work out, so...
+<$12>
+\n
+<CLEAR>
+//礼には及ばないゼ∥　ハハハのハハハ
+You're WELCOME!\n
+Hah-hah-hah!
+<$12>
+<$00>
+
+
+
+
+
+
+//<$1B>
+//ネズミ、
+<$06>Rat,＿
+//<$1B>
+//ネコ、
+cat or＿
+//<$1B>
+//イヌ…\nきょうは　どれかなぁ？
+dog...\n
+Which will it be today, boys?
+<$12>
+<$00>
+
+
+
+
+
+
+//ゴメス親分は　立場の弱いヤツを\nいじめさせたら　天才さ！
+<$06>The boss is a genius when it comes to preying\n
+on the weak.
+<$12>
+<$00>
+
+
+
+
+
+
+//でもサ、ゴメス親分のは\n長老のジョークよか　ずっとマシ\nまだ　笑ってられるんだよね
+<$06>But the Boss' jokes are way better than the\n
+Elder's too. At least I get to laugh along\n
+some of the time.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06>The＿
+//<$1B>
+//ネコ踊りは　火を起こしたり\n準備が面倒だから　ヤだなぁ…
+Cat Dancing festival can cause a fire, and\n
+making preparations is tiring.
+<$12>
+<$00>
+
+
+
+
+
+
+//あんた、あそこまで　やれるんなら\nレンジャー隊を　クビになっても\n代行ハンターで　食ってけるよ
+<$06>If you're ever kicked out of the rangers, you\n
+can be a proxy hunter with us!
+<$12>
+<$00>
+
+
+
+
+
+
+//きっと「
+<$06>The boss has been so pent-up lately, it might\n
+be a good day for＿
+//<$1B>
+//イヌごっこ」だと思うよ\n最近、ゴメス親分も　丸くなったしさ
+puppy play.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06>I hate cleaning up after＿
+//<$1B>
+//ネズミごっこは　後片付けが\nたいへんなんだよなぁ\nゆかも　汚れるし…
+rat play. The floor gets so dirty!
+<$12>
+<$00>
+
+
+
+
+
+
+//男の
+<$06>I don't like to watch when a male＿
+//<$1B>
+//ニワトリが　卵を産むとこは\nなるべく　見たくないんだよな…
+chicken lays an egg.
+<$12>
+<$00>
+
+
+
+
+
+
+//「
+<$06>In my eyes, "
+//<$1B>
+//イヌのマネ」あたりだと\n見てる俺らも　気が楽だよ
+puppy play" is a much funner for those\n
+watching.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06>I hate how time consuming our＿
+//<$1B>
+//アンコウダンスや　ホタルダンスは\n手間がかかるわりに　すぐ終ることも\n多いから　あまり好きじゃないな
+anglerfish and firefly dances are, but we'll\n
+be done soon.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ほらよ！
+Thatta boy!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//おめぇか、リンダのことを\nかぎ回ってる　坊やは？
+You! You're sniffin' around for Linda, aren't\n
+you?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//おまけに　言うに事欠いて\n「ケン」って　名乗ってる\nらしいじゃねぇか￠
+And what's more, YOU seem to be calling\n
+yourself "Ken".
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//「ケン」と言や　おめぇ！\nリンダの　恋人だよなぁ？\n話は　よーく　聞いてるゼ！
+Oh, we know who "Ken" is.\n
+Linda's main squeeze? We know ALL about him.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//確か腕は立つし　おツムも\n切れる！　それに　動物の\n言葉まで　しゃべれるときた！
+We heard "Ken" would have no problem crawling\n
+and barking like a dog.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//とくに　犬の鳴きマネは絶品∥\n聞かせて　いただきたいよな？\nなあ！　野郎ども！
+Most guys wouldn't bark for their girl like\n
+"Ken" would!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//さあ　やってもらおうか？
+So, you gonna bark?
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$01>
+//一回だけですよ
+Okay, but only once!
+<$0E>
+//／
+／
+<$01>
+//できませんね∥
+I can't!
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//いいねぇ！　負け犬の哀愁が\nよーく　出てたゼ！　次は…
+Ah, the sweet sound of painful puppy love!\n
+But now, you've got to...
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//テーブルの周りを　３回、\nまわって「ワン」と　いくか？
+...crawl around this table 3 times and howl!
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$01>
+//仕方ないなぁ…
+Okay, fine...
+<$0E>
+//／
+／
+<$01>
+//ふざけんなよ∥
+Enough!
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//おめぇ！　人間よか　犬に\n生まれてきたほうが　ずーっと\nお似合いだったんじゃねぇか￠
+Thatta boy! I'm shocked you were born human.\n
+You're clearly better as a dog.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//次は　この肉を拾ってきな！\nそしたら　リンダに会わせるゼ
+Now, fetch this meat, runt! If you do, I'll\n
+get Linda for you.
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$01>
+//はい、ご主人様
+Yes, Master!
+<$0E>
+//／
+／
+<$01>
+//そればかりは…
+I'm done here
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダの恋人は　こんな\nみっともねぇマネは　死んでも\nしないと　思うねぇ
+I never thought Linda's boy-toy would stoop\n
+to such mortifying lows.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//つまり　おまえは　真っ赤な\nニセ者ってわけだ！
+Meaning, she'd never ride with a pervert like\n
+you, you doggone phony-ass "Ken".
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//野郎ども！\nこの坊やを　たっぷりと\nかわいがってやんな∥
+All right, boys. Let's show the little mutt\n
+who's boss.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//何だ！　その反抗的な顔はよ∥\n一応　教えといてやるが…
+Ah, so the puppy's got some bite to go with\n
+that bark...
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//こっちは
+Listen, the＿
+
+//１２
+12
+
+//人∥　平均
+＿of us are all around LVL＿
+
+//１３
+
+//レベル\n全員、完全武装∥　おめぇには\n万にひとつも　勝ちはねぇぞ∥
+. Plus, we're armed.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//試しに　やってみるか？　それが\nイヤなら　肉を拾ってきな！
+Unless you want us beating your boy ass,\n
+fetch that meat.
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$01>
+//早く肉を投げて
+I'll fetch!
+<$0E>
+//／
+／
+<$01>
+//戦ってやるゼ∥
+I'll fight!
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//怪しいなぁ…
+This can't be right.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダが　言ってたゼ！\n「ケンは　私のためなら　何でも\nしてくれるのよ■」ってな…
+After all, Linda did say, "My Ken would do\n
+ANYTHING for me!■"
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//テーブルの周りを　３回まわって\n「ワン」、やらせて欲しいよな？
+You really won't crawl around this table 3\n
+times and howl?
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$01>
+//はい、喜んで∥
+Okay, fine...
+<$0E>
+//／
+／
+<$01>
+//イヤなこった∥
+Never!
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//最近、物騒なのが　多いからな\nケン本人だと　証明できなきゃ\nリンダには　会わせられないな
+Linda's "Ken" would bark as loud as he could\n
+for her. He wouldn't half-ass it.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//犬の鳴きマネくらい　リンダの\nためなら　安いモンだろ？
+Is Linda not worth making basic animal noises\n
+over? Wow...
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$01>
+//やりますとも
+I'll do it
+<$0E>
+//／
+／
+<$01>
+//絶対、イヤだ
+You suck
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ふーん、じゃ　ダメだ！\nリンダには　会わせられないな\nとっとと　失せな！
+Uh-oh! Only good doggies get to see Linda,\n
+you know. Now shoo!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダが　今のおめえを見たら\n何て　思うだろうな…\nえっ￠　ワンちゃんよぉ∥
+What would Linda think if she saw you like\n
+this, eh, Poochie?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ハハハ…　やだな…　リンダ…\nジョークだよ…　ジョークに\n決まってるじゃねぇか
+Aww, come on, Linda. We were only busting his\n
+balls!\n
+Couldn't you tell?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//あら　あたしだって\nジョークよ！　ゴメス！
+Aww, but Gomez!\n
+If anyone's going to bust balls here, it'll\n
+be me.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//なーんだ、そうか\nヒトが悪いゼ！　リンダも\nジョークだよな、ハハハ…
+Is...that so? Ha... Hahah.\n
+Oh, Linda, you little jokester, you...
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ハハハ…　ジョークよ
+Hahaha! You know me!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//今日のところはね
+Now, give Mommy some room.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケン！　意外と元気そうね￠\n私のことを　心配しすぎて\nやつれてるかと　思ったのに∥
+Ken, you look good!\n
+I thought missing me would suck the life out\n
+of you.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//何よ！　そのあきれた顔は∥
+And what are you looking at?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//おおかた　私が　左腕一本、\nなくした程度で　メソメソしてる\nとでも　思ってたんでしょ￠
+You thought I'd be weeping just because I\n
+lost my left arm, didn't you?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//お生憎サマでした∥\n私、そんなにヤワじゃないわ
+Sorry, not that weak.\n
+I deal, you know?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//それどころか　パパのこの腕の\nおかげで　ハクがついちゃって\n何かと　便利なくらいよ∥
+As it turns out, Dad's arm has proven useful\n
+in every which way.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//だから　ひとりでも　ゼンゼン\n不自由してないんだけど…\nまあ、いいわ
+And it hasn't been inconvenient in the least\n
+bit since I went out on my own. But, I\n
+digress...
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//今日のところは　わざわざ\n捜しに来てくれた　ケンの顔を\n立てて　一緒に行ってあげる∥
+You came all this way to find me. The least I\n
+can do is come back with you!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//嬉しいでしょ？
+Would you like that?
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$01>
+//涙が出るほどな
+Yes, I could cry!
+<$0E>
+//／
+<$01>
+//それほどでも…
+Eh...
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//素直で　よろしい■
+That's a good boy.■
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナニ　今さら　照れてんのよ！\nケンの　バーカ■
+Hmph, you're just mad because you got\n
+embarassed. Jerk!■
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//おふたりって　本当に\n仲がいいんですね………
+I see you two are close.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダさんも　お元気そうだし\nお父様にも　早く報告したいので\n私は　これで失礼しますね
+Linda looks well too. I'd best report to\n
+Father, so I'll take my leave now.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ちょっと待って！\nあなた、確か　エモリ先生の\n娘さんの…
+Wait a moment!\n
+You're Dr. Emori's daughter?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//はい、サチコです
+Yes, I am Sachiko.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//「この左腕のこと、感謝してる」\nエモリ先生に　そう伝えて！
+Tell your dad I said,\n
+"Thanks for lending me a hand!"
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//わかりました！　それを聞けば\nきっとお父様も　喜びます\nそれじゃ　さようなら…
+Understood! Hearing that will make Father\n
+happy. Now, "Sayonara".
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//この町を出る前に　長老に\nあいさつ　しとかなきゃ∥
+Before we leave, Ken, we should speak with\n
+the elder.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//いろいろ　お世話に\nなっちゃったから　ケンも\n一緒に行って　お礼言ってね∥
+He's helped me out a truckload.\n
+Let's go thank him together, 'kay?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//長老の部屋は\nこの階の　上だってば∥
+The elder's room is back upstairs!
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $002C)
+//悪かったよ、おわびに俺も\n犬のマネをするよ\n
+<$06>I'm sorry. To make up for it, I'll mimic a\n
+dog too.\n
+<$01>
+//やってみろ∥
+Do it, boy!
+<$0E>
+//／
+／
+<$01>
+//やらんでいい
+How about "no"
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$01>
+//もう一度∥
+MORE!
+<$0E>
+//／
+／
+<$01>
+//もう、いい
+That's enough
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//あんた優しいんだなぁ…
+You're too kind, Master...
+<$12>
+<$00>
+
+
+
+
+
+
+//許してくれよ！　なんなら俺は　もっと\n恥ずかしいトコ、見せちゃおうか？\n
+<$06>I'm so sorry! If you want, I'll humilate\n
+myself for you!\n
+<$01>
+//見せてみろ！
+Hehe, do it!
+<$0E>
+//／
+／
+<$01>
+//見たくない！
+Don't be gross!
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//本当に見たいんだね？\n
+You really want to see it?\n
+<$01>
+//見たいねぇ
+I sure do
+<$0E>
+//／
+／
+<$01>
+//いや、いい
+Not really
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ウ…………………
+Gulp.........
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//どうだ￠　いいウンコだろ？\nこの町で暮らしていると　この程度の恥は\n何でも　なくなるのサ…
+Now, ain't THAT some shit! Not that it makes\n
+me any trashier than other people in this\n
+town.
+<$12>
+\n
+<CLEAR>
+//なにせ俺ら、生きてること自体が\n大恥みたいな　人間ばかりだからよ
+We're living, breathing humans, after all.\n
+That's as humiliating as it gets.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//そのほうがいいよ、さすがに\n
+Hmph. An amateur like you wouldn't appreciate\n
+my＿
+//<$1B>
+//ニワトリごっこは　素人が見るには\nきついモンが　あるしな
+chicken roleplay anyways.
+<$12>
+<$00>
+
+
+
+
+
+
+//俺を殴って　気が済むんなら　どーぞ∥\n
+<$06>If you want to hit me, I earned it!\n
+<$01>
+//殴りつける
+Hit him
+<$0E>
+//／
+／
+<$01>
+//やめておく
+Ignore him
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//殴るほうも　手が痛いだけだもんな
+The sweet part about this is the hitter gets\n
+to feel it in his hand too.
+<$12>
+<$00>
+
+
+
+
+
+
+//まだ　殴り足んないでしょ？\n
+<$06>You're not satisfied yet, right?\n
+<$01>
+//殴りつける
+Hit him
+<$0E>
+//／
+／
+<$01>
+//やめておく
+Ignore him
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//えーっと「
+Was＿
+<$1E>
+//1発」殴ったよな？\n覚えとくよ　あんたは　俺を\n調子に乗って「
+1＿swats good enough? So, to you,
+<$1E>
+//1発」殴った∥
+1＿ swats makes everything better!
+<$12>
+\n
+<CLEAR>
+//外で会うのが　楽しみだよ
+I look forward to seeing you outside.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//あんたも　徹底してやるほうだな\n動物と戦う時にも　その意気だゼ\n同情なんか　クソくらえさ∥
+I see you're a thorough kinda guy. More than\n
+willing to take on packs of animals.
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $002E)
+//ジャンクパレス４Ｆ
+<$06>Junk Palace 4F＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダや…
+Linda, my girl...
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ゴメスが　この坊やに\nしたことは　許しておやり
+Do forgive Gomez for tricking this boy.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ゴメスは　おまえさんのことを\n思って　一芝居打ったんじゃ
+A part of him was doing it to protect you.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ああでもせんと　おまえさん、\nこの坊やが来ても　会わない\nつもりだったじゃろうが
+You weren't planning on meeting this boy\n
+until you saw what they were doing, weren't\n
+you.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダや…
+Linda, my girl...
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//おまえさん、この坊やのことを\n好いておるんじゃろ？
+But now that you have, do you take this boy\n
+as your true love?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//はい
+Yes, hello?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ならば　この坊やの前では\n意地を　張るではない∥
+Then may you close your hearts no more.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//苦しみを　分かちあってこその\n「男」と「女」ぞ\nわかるな？
+Share your pain as "man" and "woman",\n
+understand?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//はい
+Yes, hello?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//今日は　もう遅いでな\nここへ　泊まっていくがええ
+It will be night, soon.\n
+Why don't you two sleep here?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//初夜から　野宿っちゅうのも\n何じゃしな…　ホホホホホ…
+Unless you want to spend your honeymoon\n
+outdoors, that is! Hohoho!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//私、誓ったのよ…
+I made a vow...
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//犯人を捕まえて　パパとママの\nお礼を　たっぷりと返すまでは\n涙なんか　流すもんかって∥
+A vow that, until I avenged Mom and Dad, I'd\n
+never cry again.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//だけど…　今晩だけは　誓いを\n破っていいでしょ…？
+Ken, would you let me break that vow? Just\n
+for tonight?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケン…　私、私ね…\nあいつら…　絶対許さない∥\nきっと　地獄に送ってやる∥
+Ken, I... I won't let them get away with\n
+this! I'll see them in Hell!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ちきしょう∥\nちきしょォォォー∥\nパパとママを…　返してよぉ∥
+Damn them! Damn them! I want Mom and Dad\n
+back!
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0030)
+#WRITE(PTR, $0032)
+<$06><$1D>
+//　
+
+<$1E>
+//頭\n
+x\n
+<$00>
+
+
+
+
+
+
+//俺は代行ハンターの　
+<$06>I'm ＿
+<$1D>
+//様だ\n
+, a proxy hunter!\n
+<$1D>
+//辺りが　縄張りだゼ！\n
+＿is my turf!\n
+<$01>
+//契約する
+Hire
+<$0E>
+//／
+／
+<$01>
+//雑談する
+Chat
+<$0E>
+//／
+／
+<$01>
+//やめとく
+Exit
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//まっ、サイフと　よーく相談してから\nもう１度　来るんだな
+Ha! Check your wallet and come back.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//この
+Have no fear! No job's too much for the\n
+great＿
+<$1D>
+//様の仕事に\n抜かりは　ねぇから　安心しな∥\n
+!\n
+I'll see you next＿
+<$1D>
+//になったらまた、ここで会おうゼ
+.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//で、この
+I get the job done, or my name isn't＿
+<$1D>
+//様の腕に\nあんた、いくらの値をつけるんだい？
+! Name your price.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//おいおい、こちとら命を賭けてんだゼ！\n冗談も　ほどほどにしてくれよ
+Woah, hold it! I'm not putting my life on the\n
+line for pennies.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//もう少し　色をつけてもらえると\nやる気のレベルが　変わるんだがなぁ
+I need a little more "motivation".
+<$00>
+
+
+
+
+
+
+//\n持金
+<$06>\n
+<$1E>
+//40￥→契約
+￥→
+<$01><$1E>
+//40￥
+40
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//まったく、ダンナにゃ　かなわねぇな\n
+Heh, can't say no to that!\n
+<$1E>
+//￥で手を打つよ\n
+￥＿it is, then!\n
+<$01>
+//契約する
+Deal!
+<$0E>
+//／
+／
+<$01>
+//やめとく
+Nevermind
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ガキの使いじゃ　あるめぇし\nそんなハシタ金で　動けるかよ！
+I'm not a damn babysitter.\n
+Come back when you have real money!
+<$12>
+<$00>
+
+
+
+
+
+
+//ゴメス
+<$06>Gomez
+<$00>
+
+
+
+
+
+
+//ロドリゲス
+<$06>Rodriguez
+<$00>
+
+
+
+
+
+
+//アントニオ
+<$06>Antonio
+<$00>
+
+
+
+
+
+
+//ミゲール
+<$06>Miguel
+<$00>
+
+
+
+
+
+
+//トニーニョ
+<$06>Toninho
+<$00>
+
+
+
+
+
+
+//ルイージ
+<$06>Luigi
+<$00>
+
+
+
+
+
+
+//レオナルド
+<$06>Leonardo
+<$00>
+
+
+
+
+
+
+//パンチョ
+<$06>Pancho
+<$00>
+
+
+
+
+
+
+//Ｔ
+<$06>T
+
+//-10
+-10
+
+<$00>
+
+
+
+
+
+
+//Ｄ
+<$06>D
+
+//-10
+-10
+
+<$00>
+
+
+
+
+
+
+//Ｂ
+<$06>B
+
+//-06
+-06
+
+<$00>
+
+
+
+
+
+
+//Ｇ
+<$06>G
+
+//-02
+-02
+
+<$00>
+
+
+
+
+
+
+//Ｊ
+<$06>J
+
+//-21
+-21
+
+<$00>
+
+
+
+
+
+
+//Ｂ
+<$06>B
+
+//-22
+-22
+
+<$00>
+
+
+
+
+
+
+//Ｋ
+<$06>K
+
+//-14
+-14
+
+<$00>
+
+
+
+
+
+
+//よっ∥　ダンナ∥　待ってたゼ∥\nさっそく　
+<$06>Hey, it's been a minute! You're just time\n
+for＿
+<$1D>
+//様の戦果報告だ∥\n今回の獲物は…
+'s Hunting Report!\n
+The catch of the day is...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//おっとっと……\nカーゴの空きが　２つなきゃ\n困るねぇ　ダンナ…
+Uh-oh, someone needs to empty 2 spaces from\n
+his trans-cargo unit!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//カラケツだ∥\nまっ　こういうことも\nたまには　あらぁな　ダハハハ…
+...nada!\n
+I hate to kill the mood, but these things do\n
+happen, hehe...
+<$12>
+<$00>
+
+
+
+
+
+
+<CLEAR>
+
+<$00>
+
+
+
+
+<$06>
+//TRANS-CARGO IN
+All right, in the TCU you go,＿
+
+//∥
+<$12>
+\n
+<CLEAR>
+//まっ　こんなとこだ\nどーだ￠　安い買物だったろうが？\n
+Now, that's what I call "bang for your buck"!\n
+<$01>
+//は＿い
+Yeah!
+<$0E>
+//／
+／
+<$01>
+//いいえ
+Hmm.
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ダハハハ…
+Dahahahaha!
+<$12>
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Yホテル
+YHotel
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//お気をつけて！
+Take care!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//野宿は　危険ですよ
+Camping's dangerous, you know.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//いらっしゃいませ！　
+Welcome! Would you like\n
+a room for＿
+<$1D><$1E><$14>
+//￥で\nお部屋が　用意できますよ\n
+￥?\n
+<$01>
+//宿泊する
+Stay
+<$0E>
+//／
+／
+<$01>
+//雑談する
+Chat
+<$0E>
+//／
+／
+<$01>
+//やめとく
+Exit
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//お金が　足りないようですね
+You can't afford this, can you.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//お客様、戦えなくなった　猟犬のＨＰは\n宿泊や野営じゃ　戻りませんけど…\n
+I'm sorry, but dogs won't recover HP in\n
+hotels or camps.\n
+<$01>
+//知ってるよ
+I know that
+<$0E>
+//／
+／
+<$01>
+//ホントかよ
+Really?!
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//さしでがましいことを　申し上げ\nたいへん　失礼いたしました\nでは　ごゆっくり
+Ah, I see. Please forgive my outburst.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//専門のお医者さまを　お捜しになって\nなるべく早く\n治療して　さしあげてください
+Yes. Always seek a vet treat your dogs.
+<$12>
+<$00>
+
+
+
+
+
+
+//クン、クンクン………？
+<$06>Sniff...sniff, sniff?
+<$12>
+\n
+<CLEAR>
+//ここには　少なくとも
+There's not＿
+<$1E>
+//1人！\nいいえ…　
+1 soul here!\n
+Wait... No, there's at least＿
+<$1E>
+//1人はいるわよ…
+1.
+<$12>
+\n
+<CLEAR>
+//お風呂と縁のない人
+It's whatever they reek of that isn't human.
+<$12>
+<$00>
+
+
+
+
+
+
+//……東
+<$06>...East
+<$00>
+
+
+
+
+
+
+//……西
+<$06>...West
+<$00>
+
+
+
+
+
+
+//……南
+<$06>...South
+<$00>
+
+
+
+
+
+
+//……北
+<$06>...North
+<$00>
+
+
+
+
+
+
+//…北東
+<$06>...North-east
+<$00>
+
+
+
+
+
+
+//…北西
+<$06>...North-west
+<$00>
+
+
+
+
+
+
+//…南東
+<$06>...South-east
+<$00>
+
+
+
+
+
+
+//…南西
+<$06>...South-west
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、…
+<$06>! That's where we'll find a＿
+<$1D>
+//に行けば
+.
+<$00>
+
+
+
+
+
+
+//直進
+<$06>For
+<$00>
+
+
+
+
+
+
+//右よ
+<$06>Right
+<$00>
+
+
+
+
+
+
+//左よ
+<$06>Left
+<$00>
+
+
+
+
+
+
+//後ろ
+<$06>Back
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、絶対に
+<$06>wards, got it? I'm sure we'll find a＿
+<$1D>
+//∥
+＿there!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sリンダは　「女の勘」を\nはたらかせた∥
+SLinda used her woman's intuition...
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//…ごめんね、\n今日は　勘がはたらかないわ…
+...Sorry. I don't have it in me today.
+<$12>
+<$00>
+
+
+
+
+
+
+//運命の
+<$06>Fated＿
+<$00>
+
+
+
+
+
+
+//新しい
+<$06>New＿
+<$00>
+
+
+
+
+
+
+//素敵な
+<$06>Great＿
+<$00>
+
+
+
+
+
+
+//未知の
+<$06>Unknown＿
+<$00>
+
+
+
+
+
+
+//何か
+<$06>things＿
+<$00>
+
+
+
+
+
+
+//発見
+<$06>discoveries＿
+<$00>
+
+
+
+
+
+
+//お宝
+<$06>treasures＿
+<$00>
+
+
+
+
+
+
+//動物
+<$06>animals＿
+<$00>
+
+
+
+
+
+
+//に　出会える…
+<$06>could appear.
+<$00>
+
+
+
+
+
+
+//が　待ってる…
+<$06>await us...
+<$00>
+
+
+
+
+
+
+//気がするわ∥
+<$06>are there.
+<$00>
+
+
+
+
+
+
+//チャンスよ∥
+<$06>are in our grasp!
+<$00>
+
+
+
+
+
+
+//今しかないわ
+<$06>could slip through our fingers!
+<$00>
+
+
+
+
+
+
+//間違いなし∥
+<$06>are dead head!
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$1D><$1D><$1D>
+//\n
+\n
+<$1D><$12>
+\n
+<CLEAR>
+//
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信があるの∥
+I'm sure of it!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信は　ないけどね…
+Although, I'm not totally certain...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//絶対なんだから∥
+I'm absolutely certain!
+<$12>
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$01>
+//は＿い
+Yes
+<$0E>
+//／
+／
+
+<$01>
+//いいえ
+No
+<$0E>
+<$00>
+
+
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+

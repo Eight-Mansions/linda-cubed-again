@@ -1,0 +1,1972 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $00000000, 16)
+#JMP($000019C9)
+
+
+#WRITE(PTR, $0014)
+#WRITE(PTR, $0016)
+#WRITE(PTR, $0018)
+#WRITE(PTR, $001A)
+t05_sp2.obj
+<$00>
+
+
+
+
+c002.obj
+<$00>
+
+
+
+
+c009.obj
+<$00>
+
+
+
+
+c009a1.obj
+<$00>
+
+
+
+
+c010.obj
+<$00>
+
+
+
+
+c018.obj
+<$00>
+
+
+
+
+c028.obj
+<$00>
+
+
+
+
+c101a1l.obj
+<$00>
+
+
+
+
+c102a1r.obj
+<$00>
+
+
+
+
+c103a0r.obj
+<$00>
+
+
+
+
+c103a2r.obj
+<$00>
+
+
+
+
+c103a2l.obj
+<$00>
+
+
+
+
+c106a2r.obj
+<$00>
+
+
+
+
+c117a1.obj
+<$00>
+
+
+
+
+c117a2r.obj
+<$00>
+
+
+
+
+c141a.obj
+<$00>
+
+
+
+
+c143a0.obj
+<$00>
+
+
+
+
+c143a1.obj
+<$00>
+
+
+
+
+c149.obj
+<$00>
+
+
+
+
+c159a0.obj
+<$00>
+
+
+
+
+c160a2.obj
+<$00>
+
+
+
+
+c162_1.obj
+<$00>
+
+
+
+
+c162_2.obj
+<$00>
+
+
+
+
+#WRITE(PTR, $001C)
+//ジャンクパレス２Ｆ
+<$06>Junk Palace 2F＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//お客さんに　代行ハンターたちの\n依頼料の大まかな相場を　教えとくよ
+As far as proxy hunter rate go, Gomez charges\n
+way more than the competition.
+<$12>
+\n
+<CLEAR>
+//ゴメスは別格として　他の連中は\n
+The average runs between\n
+
+//3000
+3,000
+
+//～
+～
+
+//5000
+5,000
+
+//￥ってトコだ\nそれと、料金交渉は　強気でいきなよ
+￥. If he wasn't so good, he'd be out of his\n
+mind!
+<$12>
+<$00>
+
+
+
+
+
+
+//野営を覚えたての頃は　ホテル代が\nいらなくなったのが　嬉しくて\nやたら安易に　野営するアホがいる
+<$06>Once I learned how to camp, I thought,\n
+"Shoot, I'll never pay for a hotel again!"
+<$12>
+\n
+<CLEAR>
+//見張りを立てず　夜襲されたり\n川の中で　目が覚めたりして　だんだん\n野営の難しさに　気づくわけだな
+Then, one night, when my dumb ass didn't keep\n
+watch, and I woke up in a river!
+<$12>
+<$00>
+
+
+
+
+
+
+//３階のお兄さんたちね、自分じゃ\n代行ハンターなんて、言ってるけど\n実態は　ほとんどが密猟者なのよ
+<$06>The guys on the 3rd floor call themselves\n
+proxy hunters, but they're all poachers!
+<$12>
+\n
+<CLEAR>
+//でも、みんな、許可書は持ってるの\nもちろん　偽造だけどね！\n本物よりずっと　らしくできてるわよ
+Every one of them has a hunting permit to\n
+show, but everyone knows they're forgeries.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//たとえば　Ｑ
+At the red pole in Ｑ
+
+//-11
+-11
+
+//のレッドポール、\nあの中の像は　昔、たいそうご立派な\n首飾りを掛けてたって　話だし…
+, there was word of an ancient statue wearing\n
+a very fancy necklace.
+<$12>
+\n
+<CLEAR>
+//どこぞの　レッドポールには\n金ピカの獣人像が　あったそうだし、\nスゲエ冠つけたのまで　あったとか…
+Then, there's some red pole where a shiny\n
+Gold Beastman Statue was wearing a kingly\n
+crown.
+<$12>
+\n
+<CLEAR>
+//盗んでったヤツは　さぞや\nいい思いを　してんだろうなあ
+I'm sure whoever saw that first had lots of\n
+fun stealing it.
+<$12>
+<$00>
+
+
+
+
+
+
+//■～　■～　■■～
+<$06>■～　■～　■■～
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//私、アンジェラ！　ぼうやのために\n１曲、歌わせてくれる？\n
+I'm Angela! Care for a song, sweetheart?\n
+<$01>
+//聞かせてくれ
+Yes, please!
+<$0E>
+//／
+／
+<$01>
+//次の機会にね
+Maybe next time.
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//あら…　男と女の出会いには\n次は　ないかもしれなくてよ
+Ah, but in a star-crossed world like ours,\n
+are "next times" ever so certain?
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//チップは見栄を張るものよ■\n持金
+Don't forget to tip!■\n
+<$1E>
+//40￥→チップ
+40￥→
+<$01><$1E>
+//40￥
+40
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1E>
+//￥ね？\n
+￥？\n
+<$01>
+//とっといてよ
+It's all yours!
+<$0E>
+//／
+／
+<$01>
+//やっぱ返して
+Sike!
+<$0E>
+<$00>
+
+
+
+
+
+
+//アンジェラの歌って　ステキでしょ？\nぼうやも　リクエストしてちょうだい\nチップは「気持ち」でいいからサ
+<$06>Angela's song is wonderful, isn't it? I say\n
+sit back, relax and never forget to tip.
+<$12>
+<$00>
+
+
+
+
+
+
+//アンジェラの歌を聞くと　故郷のママを\n思い出して　泣けてくるんだよなぁ
+<$06>Whenever I hear Angela sing, I remember my\n
+mother back home and I start crying.
+<$12>
+<$00>
+
+
+
+
+
+
+//大したモンだよ、アンジェラは∥\n持ち歌１曲で　客を満足させられる\n歌手なんて　彼女だけだね
+<$06>Angela's a huge deal! She's the only singer\n
+who can win a crowd over with any one song!
+<$12>
+<$00>
+
+
+
+
+
+
+//アンジェラの歌声を　聞いているとサ\nいつの間にか　眠っちまうんだ…\nまるで　揺りカゴの中にいるみたいサ
+<$06>When Angela sings, before I know it, I fall\n
+asleep. It's like I'm rocked by her lullaby.
+<$12>
+<$00>
+
+
+
+
+
+
+//死んだ　おふくろのニオイを\n思い出したくて　アンジェラの歌を\n俺は　聞きに来るんだ…
+<$06>I came to listen to Angela's song. It helps\n
+me recall the smell of my late mother.
+<$12>
+<$00>
+
+
+
+
+
+
+//人生から　逃げだしたくなった時\nアンジェラの歌が　恋しくなるのサ
+<$06>In times I wanted to escape from my life, I\n
+knew I'd miss Angela's music.
+<$12>
+<$00>
+
+
+
+
+
+
+//ママ…　俺のことを捨てたママ…\nアンジェラの歌を　聞いてる間だけは\nママのことを　許せる気がするよ
+<$06>Mommy, why did you leave? Why is Angela's\n
+song the one thing that helps me forgive you?
+<$12>
+<$00>
+
+
+
+
+
+
+//アンジェラ∥　もう一回歌ってくれ∥\n俺にはもったいない　最高の母さんと\n人間のクズの　最低の俺のために…
+<$06>Angela, sing for us one more time! For me,\n
+the human scum of the world who was too good\n
+for the greatest mother alive!
+<$12>
+<$00>
+
+
+
+
+
+
+//普通の攻撃でうける　ダメージは\nこっちの装備を　含めた\n守備力の大小が　カギなんだけど…
+<$06>Physical HP damage received is largely\n
+determined by gear that boosts "defense".
+<$12>
+\n
+<CLEAR>
+//火とか冷気みたいな　ヘンな攻撃の\nダメージは　装備の耐性で決まるんだ\n守備力なんか　関係ないわけよ
+Meanwhile, damage afflicted by heat or cold\n
+and such is determined by "resistance".
+<$12>
+<$00>
+
+
+
+
+
+
+//ルリナスタワーって名の　遺跡が\nずっと北の方に　あるわ
+<$06>Way up north, you'll find an archaeological\n
+camp around a temple named Llinas' Tower.
+<$12>
+\n
+<CLEAR>
+//でも　ゴメスの部隊が　何度も\n出向いたそうだから　金目の物は\n残ってるわけが　ないわね
+Gomez and his guys raid it so much, any\n
+treasure originally in there is surely gone.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//どんな凶悪犯も　震え上がる\n賞金稼ぎチームの噂を　知ってるかい？\n銀河をまたにかける、その名も高き…
+You ever hear of the bounty hunting team that\n
+makes human trash tremble at their name?
+<$12>
+\n
+<CLEAR>
+//「地獄のお笑いトリオ」\nメンバーは　リーダーのスマイリー\nそれに　ニコとゲラ
+They're known across the galaxy as "the Three\n
+Gomi-gos".
+<$12>
+\n
+<CLEAR>
+//きっと、こいつら　この名で\nかなり損してると　思うんだよな
+If you ask me, the group's name is trash too.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//武器や防具を　見た目の強さだけで\n評価していると　ここ一番って時に\n痛い目　見るよ
+If you select your equipment based on how it\n
+looks, it could fail you in crucial moments.
+<$12>
+\n
+<CLEAR>
+//壊れるんだよねぇ、元の動物がやわいと\nある日突然に　ポキッとくるわけだ…\nアレは　心臓に悪いよ
+If the animal the equipment is made from is\n
+weak, it breaks easily.
+<$12>
+\n
+<CLEAR>
+One second you're fighting, and the\n
+next...poof! It breaks, and you're screwed!\n
+Now that's bad for the heart too.
+<$12>
+\n
+<CLEAR>
+//守備力の低い動物から　作った装備は\nあまり信用しないほうが　いいゼ\n使い捨てるくらいの　気持ちだナ
+So keep in mind to not depend on equipment\n
+made from weaker animals. At most, treat\n
+those like "use and throw" equipment.
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $001E)
+//
+<$06><$15>
+//YＢＡＲ
+YBar
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//何になさいます？　どれでも
+For＿
+<$1D><$1E><$14>
+//￥です\n
+￥, what'll it be?\n
+<$01><$1D><$1D><$02>
+//98
+98
+<$0E>
+//／
+／
+<$01><$1D><$1D><$02>
+//210
+210
+<$0E>
+//\n
+\n
+<$01><$1D><$1D><$02>
+//98
+98
+<$0E>
+//／
+／
+<$01>
+//どれもいらない
+No thanks.
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//また、どうぞ
+Come again!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ぼうや…\nタダ酒は　後で高くつくのが\n大人の世界の常識だぜ
+Careful, kiddo. Everyone pays the price for\n
+cheap liquor sooner or later.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは
+Ken downed the\n
+<$1D><$1D>
+//を\nひといきに飲み干した
+\n
+in one gulp.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンの\n
+Ken's＿
+
+//HP 
+HP
+
+//全回復∥
+＿recovered fully!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンの\n
+Ken's＿
+
+//HP 
+HP recovered by＿
+<$1E>
+//回復∥
+!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//もう　１杯いかがですか？\n
+Care for another?\n
+<$01><$1D><$1D><$02>
+//98
+98
+<$0E>
+//／
+／
+<$01><$1D><$1D><$02>
+//210
+210
+<$0E>
+//\n
+\n
+<$01><$1D><$1D><$02>
+//98
+98
+<$0E>
+//／
+／
+<$01>
+//もう、いらない
+No thanks.
+<$0E>
+<$00>
+
+
+
+
+
+
+//ロック
+<$06>＿shot
+<$00>
+
+
+
+
+
+
+//ジュース
+<$06>＿juice
+<$00>
+
+
+
+
+
+
+//ミルク
+<$06>＿milk
+<$00>
+
+
+
+
+
+
+//スープ
+<$06>＿soup
+<$00>
+
+
+
+
+
+
+//パンチ
+<$06>＿punch
+<$00>
+
+
+
+
+
+
+//カクテル
+<$06>＿cocktail
+<$00>
+
+
+
+
+
+
+//茶
+<$06>＿tea
+<$00>
+
+
+
+
+
+
+//コーラ
+<$06>＿malt
+<$00>
+
+
+
+
+
+
+//ビール
+<$06>＿beer
+<$00>
+
+
+
+
+
+
+//サワー
+<$06>＿shake
+<$00>
+
+
+
+
+
+
+//ソーダ
+<$06>＿soda
+<$00>
+
+
+
+
+
+
+//焼酎
+<$06>＿shochu
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Yホテル
+YHotel
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//お気をつけて！
+Take care!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//野宿は　危険ですよ
+Camping's dangerous, you know.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//いらっしゃいませ！　
+Welcome! Would you like\n
+a room for＿
+<$1D><$1E><$14>
+//￥で\nお部屋が　用意できますよ\n
+￥?\n
+<$01>
+//宿泊する
+Stay
+<$0E>
+//／
+／
+<$01>
+//雑談する
+Chat
+<$0E>
+//／
+／
+<$01>
+//やめとく
+Exit
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//お金が　足りないようですね
+You can't afford this, can you.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//お客様、戦えなくなった　猟犬のＨＰは\n宿泊や野営じゃ　戻りませんけど…\n
+I'm sorry, but dogs won't recover HP in\n
+hotels or camps.\n
+<$01>
+//知ってるよ
+I know that
+<$0E>
+//／
+／
+<$01>
+//ホントかよ
+Really?!
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//さしでがましいことを　申し上げ\nたいへん　失礼いたしました\nでは　ごゆっくり
+Ah, I see. Please forgive my outburst.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//専門のお医者さまを　お捜しになって\nなるべく早く\n治療して　さしあげてください
+Yes. Always seek a vet treat your dogs.
+<$12>
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Y犬名判断
+YDog Divination
+<$00>
+
+
+
+
+
+
+
+<$00>
+
+
+
+
+<$06><CLEAR>
+//黙ってお座りすれば「ワン」と当たる！\n
+All bark, but no foresight?\n
+<$00>
+
+
+
+
+
+
+//猟犬の将来が　気になったら\n
+<$06>If you're worried about your dog's future, I\n
+give readings for＿
+<$1D><$1E><$14>
+//￥で　相談に乗ってしんぜよう
+￥.
+<$12>
+<$00>
+
+
+
+
+
+
+//猟犬の将来を　
+<$06>See your dog's future for only＿
+<$1D><$1E><$14>
+//￥で占うぞよ\n
+￥!\n
+<$01>
+//犬を見せる
+Show me
+<$0E>
+//／
+／
+<$01>
+//雑談する
+Chat
+<$0E>
+//／
+／
+<$01>
+//信じない！
+What a joke!
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//猟犬の長所や短所を　熟知すれば\n大胆な戦術が　使えるようになるし\n危険も　事前に避けられるぞな
+Learn your dogs' strengths and weaknesses to\n
+safely develop new battle strategies.
+<$12>
+<$00>
+
+
+
+
+
+
+//どの猟犬の未来を　覗こうかのぉ？
+<$06>Which dog shall I look at?
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$15>
+//b
+b
+<$1E><$14>
+//￥の見料も　持ち合わせぬ\n飼い主のもとでは　どんな犬も\n「お先、真っ暗∥」に決まっとるわ
+￥ is too much? You wouldn't need to ask me.\n
+Your dogs' futures were already dark!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//他の猟犬も　占うかえ？\n
+See about another dog?\n
+<$01>
+//は＿い
+Yes
+<$0E>
+//／
+／
+<$01>
+//いいえ
+No
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1D>
+//か…　
+, I see...
+<$1D>
+//名じゃのぉ…
+＿name, yes...
+<$12>
+//\nそれでは　占うぞよ
+\n
+May it be so!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//はァァーッ！　犬神星シリウスよ！\n迷える
+Oh, Sirius! Lead＿
+<$1D>
+//の明日を　我に示し給え！\n願わくば、光の道へ導き給え！
+＿when they are lost, to tomorrow on a path of\n
+light!
+<$12>
+\n
+<CLEAR>
+//ふむ…　見えたぞ
+My work...is done.
+<$12>
+<$00>
+
+
+
+
+
+
+//体力
+<$06>stamina
+<$00>
+
+
+
+
+
+
+//攻撃力
+<$06>ATK
+<$00>
+
+
+
+
+
+
+//素早さ
+<$06>SPD
+<$00>
+
+
+
+
+
+
+//体力
+<$06>stamina
+<$00>
+
+
+
+
+
+
+//守備力
+<$06>DEF
+<$00>
+
+
+
+
+
+
+//素早さ
+<$06>SPD
+<$00>
+
+
+
+
+
+
+//攻撃力
+<$06>ATK
+<$00>
+
+
+
+
+
+
+//守備力
+<$06>DEF
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1D>
+//の　
+'s＿
+<$1D>
+//と
+＿and＿
+<$1D>
+//は　あまり\n上がらんようじゃな…　困ったのぉ…\n性格を一言で表すなら…
+＿might not increase much due to their\n
+personality.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ただの臆病者…\n主人を置いて　平気で逃げ出すぞ\nあてにせんほうが　身のためじゃ
+This one's a coward that'd turn on its owner\n
+and run away after the first sign of danger.\n
+Don't depend on them, for your own sake.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//阿呆…　極めつけの阿呆！\n分をわきまえずに　強い相手に向かうゆえ\n結果は　目も当てられんわな…
+Fool! What dog doesn't look before it leaps\n
+in the wake of combat?! You, be careful with\n
+this one.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//平々凡々…　つまらぬ犬じゃ\nそのへんに　掃いて捨てるほどおる\nいわゆる駄犬じゃな
+Typical, typical, typical. This dog is as\n
+generic as they come, which isn't good. Get\n
+rid of it.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//生ける屍…　精気が全く感じられん…\nまるで　死を望んでおるようじゃ…\n犬死は　必至と見た
+This one is a dead dog walking. There's not a\n
+trace of life in its eyes. Its death is\n
+inevitable.
+<$12>
+<$00>
+
+
+
+
+
+
+//守備力
+<$06>DEF
+<$00>
+
+
+
+
+
+
+//素早さ
+<$06>SPD
+<$00>
+
+
+
+
+
+
+//攻撃力
+<$06>ATK
+<$00>
+
+
+
+
+
+
+//守備力
+<$06>DEF
+<$00>
+
+
+
+
+
+
+//体力
+<$06>stamina
+<$00>
+
+
+
+
+
+
+//攻撃力
+<$06>ATK
+<$00>
+
+
+
+
+
+
+//素早さ
+<$06>SPD
+<$00>
+
+
+
+
+
+
+//体力
+<$06>stamina
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1D>
+//は　
+'s＿
+<$1D>
+//と
+＿and＿
+<$1D>
+//が　育つほどに\nメキメキと　上がるな\nそれに…
+＿will increase as they continue to grow, and\n
+also...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//なかなか慎重な性格ゆえ　ケガも少ない\n医者いらずの　経済的な犬じゃ
+This dog is rarely injured, due to it's\n
+cautious demeanor. That means less vet\n
+visits.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//「勇猛果敢」という言葉は\nこの犬のためにある！　どんな相手にも\n臆することなく挑む　心強い味方じゃ
+This dog can only be described as "selfless\n
+and courageous"! If anyone has your back in\n
+life, it's them!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//攻めてよし！　守ってよし！\nこれほど調和のとれた犬は　珍しいぞ\n大切に育てられい！
+It attacks, and it protects! Such harmony is\n
+rare in dogs! Raise this one carefully!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//主人のためなら　命も捨てる\n忠義の犬とは　こやつのことじゃ！\n良い家来をもって　幸せじゃのぉ
+This loyal friend would give its life for its\n
+master. You'd be honored to have such a dog\n
+serve you.
+<$12>
+<$00>
+
+
+
+
+
+
+//かわいい
+<$06>A cute
+<$00>
+
+
+
+
+
+
+//強そうな
+<$06>A tough
+<$00>
+
+
+
+
+
+
+//覚えにくい
+<$06>A hazy
+<$00>
+
+
+
+
+
+
+//イカれた
+<$06>A wild
+<$00>
+
+
+
+
+
+
+//犬らしい
+<$06>A savvy
+<$00>
+
+
+
+
+
+
+//スケベな
+<$06>A sensual
+<$00>
+
+
+
+
+
+
+//古風な
+<$06>An old-fashioned
+<$00>
+
+
+
+
+
+
+//今どきの
+<$06>A modern
+<$00>
+
+
+
+
+
+
+//イキな
+<$06>A stylish
+<$00>
+
+
+
+
+
+
+//簡単な
+<$06>A simple
+<$00>
+
+
+
+
+
+
+//美しい
+<$06>A lovely
+<$00>
+
+
+
+
+
+
+//愛のない
+<$06>A shallow
+<$00>
+
+
+
+
+
+
+//賢そうな
+<$06>A clever
+<$00>
+
+
+
+
+
+
+//スカした
+<$06>A bemusing
+<$00>
+
+
+
+
+
+
+//凝り過ぎの
+<$06>A stern
+<$00>
+
+
+
+
+
+
+//悪くない
+<$06>A complicated
+<$00>
+
+
+
+
+
+
+//クン、クンクン………？
+<$06>Sniff...sniff, sniff?
+<$12>
+\n
+<CLEAR>
+//ここには　少なくとも
+There's not＿
+<$1E>
+//1人！\nいいえ…　
+1 soul here!\n
+Wait... No, there's at least＿
+<$1E>
+//1人はいるわよ…
+1.
+<$12>
+\n
+<CLEAR>
+//お風呂と縁のない人
+It's whatever they reek of that isn't human.
+<$12>
+<$00>
+
+
+
+
+
+
+//……東
+<$06>...East
+<$00>
+
+
+
+
+
+
+//……西
+<$06>...West
+<$00>
+
+
+
+
+
+
+//……南
+<$06>...South
+<$00>
+
+
+
+
+
+
+//……北
+<$06>...North
+<$00>
+
+
+
+
+
+
+//…北東
+<$06>...North-east
+<$00>
+
+
+
+
+
+
+//…北西
+<$06>...North-west
+<$00>
+
+
+
+
+
+
+//…南東
+<$06>...South-east
+<$00>
+
+
+
+
+
+
+//…南西
+<$06>...South-west
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、…
+<$06>! That's where we'll find a＿
+<$1D>
+//に行けば
+.
+<$00>
+
+
+
+
+
+
+//直進
+<$06>For
+<$00>
+
+
+
+
+
+
+//右よ
+<$06>Right
+<$00>
+
+
+
+
+
+
+//左よ
+<$06>Left
+<$00>
+
+
+
+
+
+
+//後ろ
+<$06>Back
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、絶対に
+<$06>wards, got it? I'm sure we'll find a＿
+<$1D>
+//∥
+＿there!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sリンダは　「女の勘」を\nはたらかせた∥
+SLinda used her woman's intuition...
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//…ごめんね、\n今日は　勘がはたらかないわ…
+...Sorry. I don't have it in me today.
+<$12>
+<$00>
+
+
+
+
+
+
+//運命の
+<$06>Fated＿
+<$00>
+
+
+
+
+
+
+//新しい
+<$06>New＿
+<$00>
+
+
+
+
+
+
+//素敵な
+<$06>Great＿
+<$00>
+
+
+
+
+
+
+//未知の
+<$06>Unknown＿
+<$00>
+
+
+
+
+
+
+//何か
+<$06>things＿
+<$00>
+
+
+
+
+
+
+//発見
+<$06>discoveries＿
+<$00>
+
+
+
+
+
+
+//お宝
+<$06>treasures＿
+<$00>
+
+
+
+
+
+
+//動物
+<$06>animals＿
+<$00>
+
+
+
+
+
+
+//に　出会える…
+<$06>could appear.
+<$00>
+
+
+
+
+
+
+//が　待ってる…
+<$06>await us...
+<$00>
+
+
+
+
+
+
+//気がするわ∥
+<$06>are there.
+<$00>
+
+
+
+
+
+
+//チャンスよ∥
+<$06>are in our grasp!
+<$00>
+
+
+
+
+
+
+//今しかないわ
+<$06>could slip through our fingers!
+<$00>
+
+
+
+
+
+
+//間違いなし∥
+<$06>are dead head!
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$1D><$1D><$1D>
+//\n
+\n
+<$1D><$12>
+\n
+<CLEAR>
+//
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信があるの∥
+I'm sure of it!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信は　ないけどね…
+Although, I'm not totally certain...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//絶対なんだから∥
+I'm absolutely certain!
+<$12>
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$01>
+//は＿い
+Yes
+<$0E>
+//／
+／
+
+<$01>
+//いいえ
+No
+<$0E>
+<$00>
+
+
+
+
+
+

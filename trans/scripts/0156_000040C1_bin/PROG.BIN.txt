@@ -1,0 +1,1671 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $00000000, 16)
+#JMP($00001660)
+
+
+#WRITE(PTR, $0016)
+#WRITE(PTR, $0018)
+#WRITE(PTR, $001A)
+#WRITE(PTR, $001C)
+hunsui.obj
+<$00>
+
+
+
+
+branko.obj
+<$00>
+
+
+
+
+c002.obj
+<$00>
+
+
+
+
+c002_bra.obj
+<$00>
+
+
+
+
+c009.obj
+<$00>
+
+
+
+
+c009a1.obj
+<$00>
+
+
+
+
+c009a3.obj
+<$00>
+
+
+
+
+c010.obj
+<$00>
+
+
+
+
+c010_bra.obj
+<$00>
+
+
+
+
+c018.obj
+<$00>
+
+
+
+
+c018a.obj
+<$00>
+
+
+
+
+c105a1.obj
+<$00>
+
+
+
+
+c107a0.obj
+<$00>
+
+
+
+
+c108a0.obj
+<$00>
+
+
+
+
+c112a0.obj
+<$00>
+
+
+
+
+c112a2.obj
+<$00>
+
+
+
+
+c114a0.obj
+<$00>
+
+
+
+
+c125a0.obj
+<$00>
+
+
+
+
+c125a2.obj
+<$00>
+
+
+
+
+c126a0.obj
+<$00>
+
+
+
+
+c126a1.obj
+<$00>
+
+
+
+
+c127a0.obj
+<$00>
+
+
+
+
+c128a0.obj
+<$00>
+
+
+
+
+c137a2.obj
+<$00>
+
+
+
+
+c168.obj
+<$00>
+
+
+
+
+width3.obj
+<$00>
+
+
+
+
+kao_l21.obj
+<$00>
+
+
+
+
+kao_s1.obj
+<$00>
+
+
+
+
+#WRITE(PTR, $001E)
+//ハーディア
+<$06>Hardia＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+//この家もずいぶん　ガタがきちまったな\nリンダんちが　東のミナゴに\n引っ越して　もう何年になるんだろ…
+<$06>Wow, this house is worn to hell.\n
+Say, how many years ago was it that Linda\n
+moved to Minago?
+<$12>
+\n
+<CLEAR>
+//なつかしいよ、あの頃が…　おまえも\n俺も　リンダに　コブラツイストを\nかけられてよく、ベソかいたっけ
+Do you remember how she'd lock us in a Cobra\n
+Twist until we were wet in the face?
+<$12>
+\n
+<CLEAR>
+Boy, those were the days.
+<$12>
+<$00>
+
+
+
+
+
+
+//リンダのママって　若い頃は\n相当、もてたんだってな…
+<$06>Linda's mom, Ann, was real popular back in\n
+her day.
+<$12>
+\n
+<CLEAR>
+//聞くところによると、おまえとリンダの\nおやじってサ、「恋のライバル」\nだったって　聞いたゼ
+From what I heard, your dad and Linda's were\n
+in a rom-com triangle over her.
+<$12>
+<$00>
+
+
+
+
+
+
+//ひとりだけ　トンズラこくなんて\n虫のイイこと、隊長が許すわけねぇだろ\n観念して　本部の２階まで行きな
+<$06>The captain says anyone who bails on\n
+today's meeting is a dead man.\n
+Better get to HQ!
+<$12>
+<$00>
+
+
+
+
+
+
+//知ってるだろうけど　箱船は\nこの町のゲートの真ん前に　鎮座してる！\n入口は　南側にあったはずだ
+<$06>In case you forgot, the Astro Ark is due\n
+south beyond the town gate.\n
+You can't miss it!
+<$12>
+\n
+<CLEAR>
+//気がかわらな…　いや、忘れないうちに\n箱船の中の装置に「乗員の登録」を\n済ませちまいな
+Your first job is to hop aboard and register\n
+yourself as the male pilot.
+<$12>
+<$00>
+
+
+
+
+
+
+//「若い男性隊員は　通すな！」って\n隊長の命令でね、きのうの夜から\nずっと　ここで立ちんぼさ
+<$06>We got strict orders from\n
+the captain last night:\n
+"Let NO males pass!"
+<$12>
+\n
+<CLEAR>
+//おめえが　本部の２階へ行って\n「Ｙｅｓ」って　一言いってくれりゃ\n家へ帰って　おネンネできるんだがな
+<$12>
+\n
+<CLEAR>
+We've been stuck standing here ever since,\n
+but I'll warn you, from one man to another...
+<$12>
+\n
+<CLEAR>
+...anyone dumb enough to say "yes" at today's\n
+briefing can kiss their old life goodbye!
+<$12>
+<$00>
+
+
+
+
+
+
+//＿＿＿＿■恋人たちの泉■
+<$06>"■＿FOUNTAIN OF LOVERS＿■"
+<$12>
+\n
+<CLEAR>
+//恋人の名前を　心の中で３度呼んでから\n＿＿泉にお金を　投げ入れて下さい\n＿きっとあなたの願いが　かないます
+"SAY THEIR NAME 3 TIMES IN YOUR HEART.\n
+TOSS A COIN IN, AND 'TIL DEATH DO YOU PART!"
+<$12>
+<$00>
+
+
+
+
+
+
+//恋人たちの泉がある\nお金を投げ入れますか？\n
+<$06>Toss a coin into the\n
+Fountain of Lovers?\n
+<$01>
+//は＿い
+Yes
+<$0E>
+//／
+／
+<$01>
+//いいえ
+No
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//S<CLEAR>ケンは　１￥を\n泉に投げ入れた！
+S<CLEAR>Ken tossed １￥ into the fountain!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//S<CLEAR>ケンは　お金を投げるフリをした
+S<CLEAR>Ken pretended to toss a coin.
+<$12>
+<$00>
+
+
+
+
+
+
+//箱船の乗員の男のほう、結局のとこ\n志願者がなくて　レンジャー隊から\n出すことに　なりそうなんだってねぇ？
+<$06>I heard the search for a male Astro Ark pilot\n
+was going so poorly, they're planning to\n
+select one from among you rangers.
+<$12>
+\n
+<CLEAR>
+//命、賭けるほど　イイ給料を\nもらってるわけでも　ないだろうに…\nたいへんだねぇ　あんたたちも…
+I feel so bad for you boys. They weren't pay\n
+you well enough to putting your lives on the\n
+line so much to begin with.
+<$12>
+<$00>
+
+
+
+
+
+
+//強い動物から　逃げるのは\n少しも　恥じゃないさ\n生き残るのが　まず肝心だね
+<$06>There's no shame to be had by fleeing a\n
+strong enemy. Your survival comes first.
+<$12>
+<$00>
+
+
+
+
+
+
+//ここは　リンダの回復を信じて\nあんたは　動物集めをやったほうが\nいいと　あたしは思うねぇ
+<$06>If you have faith in Linda's recovery, prove\n
+it by spending this time catching animals for\n
+Project Astro Ark.
+<$12>
+\n
+<CLEAR>
+//……いや、やっぱり、考えてみたら\nリンダのほうが先決だよねぇ？\nでも、そうすると…
+That doesn't mean her wellbeing isn't\n
+important too, of course. But...still!
+<$12>
+\n
+<CLEAR>
+//…助言になってなかったね
+...Don't let me tell you what to do!
+<$12>
+<$00>
+
+
+
+
+
+
+//あと
+<$06>In＿
+<$1E>
+//季節
+＿seasons
+<$00>
+
+
+
+
+
+
+//あと
+<$06>In＿
+<$1E>
+//年
+＿years
+<$00>
+
+
+
+
+
+
+//あと
+<$06>In＿
+<$1E>
+//年と
+＿years and＿
+<$1E>
+//季節
+＿seasons
+<$00>
+
+
+
+
+
+
+//…\nこの町も人通りが　めっきり減ったねぇ
+<$06>...this place will be a ghost town.
+<$12>
+<$00>
+
+
+
+
+
+
+//…　あっちのほうは\nどうじゃい？　間に合いそうかい？
+<$06>...how are things going? Will you reach your\n
+goal?
+<$12>
+<$00>
+
+
+
+
+
+
+//あんたたちのこと　物好きだとか\n偽善者だって　陰口たたいてる人も\n少なくはないけどさ…
+<$06>There'll always be skeptics in the world who\n
+look down on you.
+<$12>
+\n
+<CLEAR>
+//あたしみたく　応援してる人も\nけっこういるってこと　覚えといてね\nただ　それが言いたかっただけ
+But there'll also be people like me who\n
+support you! That's all I wanted to say.
+<$12>
+<$00>
+
+
+
+
+
+
+//私の家、もうすぐ移住なんだって…\nそれで　ケン兄ちゃんに\nお願いがあるの
+<$06>Ken! I heard my family's moving real soon,\n
+so I have a favor to ask.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//この子、「
+Take care of our doggy,＿
+<$1D>
+//」っていうの\nケン兄ちゃんに　もらって欲しいの\n
+, for me.\n
+Please? Pretty please?\n
+<$01>
+//いいとも∥
+Sure!
+<$0E>
+//／
+／
+<$01>
+//面倒だなぁ
+I can't.
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sケンは、猟犬「
+SKen acquired the dog,＿
+<$1D>
+//」を手に入れた！
+!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……………………
+.........
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+Take good care of our＿
+<$1D>
+//のこと　かわいがってね
+!
+<$12>
+<$00>
+
+
+
+
+
+
+
+<$00>
+
+
+
+
+//クーン、クーン……
+<$06>Sniff, sniff...
+<$12>
+<$00>
+
+
+
+
+
+
+//俺は今、立ち止まって　これからの\n自分の行く末について　考えている\nこういうことも　時には必要なんだ
+<$06>Sometimes, you need to hold still and think\n
+about the future, like I'm doing now.
+<$12>
+\n
+<CLEAR>
+//こんな時、便利なのが　
+When you need to pause, press the＿
+
+//SELECT
+SELECT
+
+//ボタン\n時間が　ピタリと止まるから\nトイレにも　ゆっくり行けるぞ∥
+＿button to stop the clock and sneak that pee\n
+break in!
+<$12>
+<$00>
+
+
+
+
+
+
+//この町は　レンジャー隊の本部が\nあるせいか　治安には　問題ないが\n他の町は　そうはいかないよ
+<$06>Hardia's safe because you rangers all live\n
+here. No other town has that.
+<$12>
+\n
+<CLEAR>
+//人のことを　だまくらかして\n自分だけ得しようって　そればかり\n考えている　エゲツない連中が多いんだ
+There are too many "ME FIRST" types in the\n
+world who don't care about other people.
+<$12>
+<$00>
+
+
+
+
+
+
+//レンジャー隊も　割りが合わないよね！\n創設当時は　動物と密猟者の相手だけ\nしてれば　よかったのに…
+<$06>We rangers sure are getting the short end of\n
+the stick. At the start, we only had to deal\n
+with animals and poachers.
+<$12>
+\n
+<CLEAR>
+//いつの間にか　警察のマネまで\nやらされることになってサ…　こんどは\n脱出プロジェクトの　雑用係でしょ￠
+And then, we had to take over for police as\n
+well! And NOW? Now, we get to babysit the\n
+migration project?
+<$12>
+\n
+<CLEAR>
+//やってらんないわよね∥
+I'm not having it!
+<$12>
+<$00>
+
+
+
+
+
+
+//今年はこの東エリアに　腰をすえて\n動物、集めて　金、貯めてサ
+<$06>I know! You should spend one year catching\n
+animals and saving money in East Area,
+<$12>
+\n
+<CLEAR>
+//南エリアに飛ぶのは　来年からでも\nちっとも遅くないと　俺は思うよ\nまっ、無理は禁物ってコトだな
+...then, after a year, you can fly to South\n
+Area and do the same there. You can get a lot\n
+done if you pace yourself!
+<$12>
+<$00>
+
+
+
+
+
+
+//おまえたちの　動物集めが\n我々人類を　救う！
+<$06>You save the animals,\n
+you save all of humanity!
+<$12>
+\n
+<CLEAR>
+//…いやあ、俺ひとりくらいは\nウソでも　これくらい言わなきゃ\n張り合いがないと　思ってサ
+I wish I could help, but I wanted to tell you\n
+that, at least.
+<$12>
+\n
+<CLEAR>
+//どう　ちょっとは　やる気出たかい？\n
+Well, do you feel motivated?\n
+<$01>
+//ちょっと
+A little?
+<$0E>
+//／
+／
+<$01>
+//ゼンゼン
+Nope.
+<$0E>
+//／
+／
+<$01>
+//ありがと
+Thank you!
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ハハハ…　じゃ、もう一回言ってやるよ\nおまえたちの　動物集めが\n我々人類を　救う∥
+Aha! Then I'll say it again!\n
+You save the animals,\n
+you save all of humanity!
+<$12>
+\n
+<CLEAR>
+//…かどうかは、やりゃあ　わかる！
+There! That ought to do it!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//礼なんか　言うなよ\n友だちじゃん！
+You don't have to thank me. We're friends\n
+now!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//S鍵がかかっている\n留守のようだ
+SThe door is locked.\n
+Looks like no one's home.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+//この水たまりに　お金を入れると\n必ず、恋が成就するんだってサ\n大金のほうが　効果絶大なんだって！
+<$06>"If putting a little money into this fountain\n
+helps your love life, putting a LOT of money\n
+in helps even more!"
+<$12>
+\n
+<CLEAR>
+//ここを時どき、そうじしてる\nおじさんが　教えてくれたよ
+That's what the old man who cleans out the\n
+fountain every once in a while told me.
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0020)
+<$06><CLEAR>
+//なつかしいわね！\nねぇ　ケン！　もしかして…
+Oh, I missed this!\n
+Do you remember our promise here?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//あの時の約束　覚えてて\n箱船の乗員に　志願したワケ？
+You do, right? That's why you became a pilot.
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$01>
+//まあ、一応ね
+Maybe■
+<$0E>
+//／
+／
+<$01>
+//約束って何？
+What promise?
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//へーー∥\n男ってのは　やっぱり\n子供の時に　手なづけて…
+Huh?! Wow, was I right for calling dibs on\n
+you early!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//…じゃなくて　つくづく\n幼なじみって　ありがたいなって\nそう思ったのよ
+Well, even if I didn't, I'm glad I had you\n
+for a childhood friend.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//へーー∥\n覚えてなくて　志願したんだ￠
+Huh?! You forgot, and still volunteered?!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//じゃ、きっと　幼児期の\n刷り込みの　潜在効果だわ∥
+I must have imprinted on you something fierce\n
+when we were kids.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ローレンツ博士に　なった気分よ\nそういう意味じゃ　ケンって\nガチョウ並の　脳ミソね
+Either you're into me, goosey boy, or I'm\n
+Konrad Fucking Lorenz!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//いいえ　ガチョウというよりも\nまさしく　”カモ”だわ
+Goose or not, I'm glad you're no chic-KEN.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//少し　恥ずかしいのですが…
+This will be somewhat embarrassing, but...
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//あの…
+You see...
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//あの…
+You see...
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//少し　恥ずかしいのですが…
+This will be somewhat embarrassing, but...
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//あの…
+You see...
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//あの…
+You see...
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//はいてないんですよ
+I'm not wearing anything underneath this\n
+attire.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//見たい？
+Would you like to see?
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$01>
+//は＿い
+Yes
+<$0E>
+//／
+／
+
+<$01>
+//いいえ
+No
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//興味深い答えですね\n記録しておきましょう
+Intriguing answer.\n
+I'd best report this to Father.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケン・チャレンジャー隊員  Ｌｖ
+"Patient Name: Ken Challenger, LVL＿
+<$1E>
+//\n
+\n
+Years after discharge:
+<$1E>
+//年目
+, Location:＿
+<$1D>
+//　ハーディア\n記録終了
+Hardia\n
+-Nothing else to report."
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0022)
+//クン、クンクン………？
+<$06>Sniff...sniff, sniff?
+<$12>
+\n
+<CLEAR>
+//
+<$1D>
+//のニオイが　するね\nそういえば、
+＿scent's filling the air. You know, I could\n
+go for some＿
+<$1D>
+//食まだだっけ…
+＿!
+<$12>
+<$00>
+
+
+
+
+
+
+//卵焼き
+<$06>fried eggs
+<$00>
+
+
+
+
+
+
+//カレー
+<$06>curry
+<$00>
+
+
+
+
+
+
+//焼き肉
+<$06>Neo Korean BBQ
+<$00>
+
+
+
+
+
+
+//唐あげ
+<$06>karaage
+<$00>
+
+
+
+
+
+
+//お菓子
+<$06>candy
+<$00>
+
+
+
+
+
+
+//バナナ
+<$06>banana
+<$00>
+
+
+
+
+
+
+//フライ
+<$06>Neo French fries
+<$00>
+
+
+
+
+
+
+//焼き魚
+<$06>grilled fish
+<$00>
+
+
+
+
+
+
+//トマト
+<$06>tomato
+<$00>
+
+
+
+
+
+
+//バター
+<$06>butter
+<$00>
+
+
+
+
+
+
+//ソース
+<$06>sauce
+<$00>
+
+
+
+
+
+
+//スープ
+<$06>＿soup
+<$00>
+
+
+
+
+
+
+//ピラフ
+<$06>pilaf
+<$00>
+
+
+
+
+
+
+//バニラ
+<$06>vanilla
+<$00>
+
+
+
+
+
+
+//キムチ
+<$06>kimchi
+<$00>
+
+
+
+
+
+
+//チーズ
+<$06>cheese
+<$00>
+
+
+
+
+
+
+//朝
+<$06>breakfast
+<$00>
+
+
+
+
+
+
+//昼
+<$06>lunch
+<$00>
+
+
+
+
+
+
+//夕
+<$06>dinner
+<$00>
+
+
+
+
+
+
+//……東
+<$06>...East
+<$00>
+
+
+
+
+
+
+//……西
+<$06>...West
+<$00>
+
+
+
+
+
+
+//……南
+<$06>...South
+<$00>
+
+
+
+
+
+
+//……北
+<$06>...North
+<$00>
+
+
+
+
+
+
+//…北東
+<$06>...North-east
+<$00>
+
+
+
+
+
+
+//…北西
+<$06>...North-west
+<$00>
+
+
+
+
+
+
+//…南東
+<$06>...South-east
+<$00>
+
+
+
+
+
+
+//…南西
+<$06>...South-west
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、…
+<$06>! That's where we'll find a＿
+<$1D>
+//に行けば
+.
+<$00>
+
+
+
+
+
+
+//直進
+<$06>For
+<$00>
+
+
+
+
+
+
+//右よ
+<$06>Right
+<$00>
+
+
+
+
+
+
+//左よ
+<$06>Left
+<$00>
+
+
+
+
+
+
+//後ろ
+<$06>Back
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、絶対に
+<$06>wards, got it? I'm sure we'll find a＿
+<$1D>
+//∥
+＿there!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sリンダは　「女の勘」を\nはたらかせた∥
+SLinda used her woman's intuition...
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//…ごめんね、\n今日は　勘がはたらかないわ…
+...Sorry. I don't have it in me today.
+<$12>
+<$00>
+
+
+
+
+
+
+//運命の
+<$06>Fated＿
+<$00>
+
+
+
+
+
+
+//新しい
+<$06>New＿
+<$00>
+
+
+
+
+
+
+//素敵な
+<$06>Great＿
+<$00>
+
+
+
+
+
+
+//未知の
+<$06>Unknown＿
+<$00>
+
+
+
+
+
+
+//何か
+<$06>things＿
+<$00>
+
+
+
+
+
+
+//発見
+<$06>discoveries＿
+<$00>
+
+
+
+
+
+
+//お宝
+<$06>treasures＿
+<$00>
+
+
+
+
+
+
+//動物
+<$06>animals＿
+<$00>
+
+
+
+
+
+
+//に　出会える…
+<$06>could appear.
+<$00>
+
+
+
+
+
+
+//が　待ってる…
+<$06>await us...
+<$00>
+
+
+
+
+
+
+//気がするわ∥
+<$06>are there.
+<$00>
+
+
+
+
+
+
+//チャンスよ∥
+<$06>are in our grasp!
+<$00>
+
+
+
+
+
+
+//今しかないわ
+<$06>could slip through our fingers!
+<$00>
+
+
+
+
+
+
+//間違いなし∥
+<$06>are dead head!
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$1D><$1D><$1D>
+//\n
+\n
+<$1D><$12>
+\n
+<CLEAR>
+//
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信があるの∥
+I'm sure of it!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信は　ないけどね…
+Although, I'm not totally certain...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//絶対なんだから∥
+I'm absolutely certain!
+<$12>
+<$00>
+
+
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+

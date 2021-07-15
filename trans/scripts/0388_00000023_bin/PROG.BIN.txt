@@ -1,0 +1,292 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $00000000, 16)
+#JMP($0000172C)
+
+
+#WRITE(PTR, $001A)
+#WRITE(PTR, $001C)
+#WRITE(PTR, $001E)
+#WRITE(PTR, $0020)
+pict01.obj
+<$00>
+
+
+
+
+pict10.obj
+<$00>
+
+
+
+
+pict11.obj
+<$00>
+
+
+
+
+clr_a.obj
+<$00>
+
+
+
+
+clr_b.obj
+<$00>
+
+
+
+
+push_o.obj
+<$00>
+
+
+
+
+jibun1.obj
+<$00>
+
+
+
+
+jibun2.obj
+<$00>
+
+
+
+
+jibun3.obj
+<$00>
+
+
+
+
+jibun3a.obj
+<$00>
+
+
+
+
+jibun4.obj
+<$00>
+
+
+
+
+try.obj
+<$00>
+
+
+
+
+font11.obj
+<$00>
+
+
+
+
+width3.obj
+<$00>
+
+
+
+
+#WRITE(PTR, $0022)
+#WRITE(PTR, $0024)
+M%03dF.OBJ
+<$00>
+
+
+
+
+//未登録動物ヒント∥\n名称＿＿：
+<$06>UNREGISTERED ANIMAL HINT!\n
+NAME＿＿：
+<$1D>
+//\n生息座標：
+\n
+COORDINATES:＿
+<$1D>
+//－
+－
+<$1E>
+//034
+034
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0026)
+<$06><$01>
+//◇
+◇
+<$0E><$08>
+//4
+4
+
+//シナリオAB
+SCENARIO A/B
+
+//リンダ未回復\n
+Linda MIA\n
+<$01>
+//◇
+◇
+<$0E><$08>
+//4
+4
+
+//シナリオAB
+SCENARIO A/B
+
+//捕獲不足\n
+FAILURE\n
+<$01>
+//◇
+◇
+<$0E><$08>
+//4
+4
+
+//シナリオCD
+SCENARIO C/D
+
+//捕獲不足\n
+FAILURE\n
+<$01>
+//◇
+◇
+<$0E><$08>
+//4
+4
+
+//シナリオA
+SCENARIO A
+
+//クリア\n
+CLEAR\n
+<$01>
+//◇
+◇
+<$0E><$08>
+//4
+4
+
+//シナリオB
+SCENARIO B
+
+//クリア\n
+CLEAR\n
+<$01>
+//◇
+◇
+<$0E><$08>
+//4
+4
+
+//シナリオCD
+SCENARIO C/D
+
+//捕獲
+GOAL
+
+//80
+80
+
+//未満\n
+NOT REACHED\n
+<$01>
+//◇
+◇
+◇
+<$0E><$08>
+//4
+4
+
+//シナリオCD
+SCENARIO C/D
+
+//捕獲
+GOAL
+
+//100
+100
+
+//未満\n
+NOT REACHED\n
+<$01>
+//◇
+◇
+◇
+<$0E><$08>
+//4
+4
+
+//シナリオCD
+SCENARIO C/D
+
+//捕獲
+GOAL
+
+//110
+100
+
+//未満\n
+NOT REACHED\n
+<$01>
+//◇
+◇
+<$0E><$08>
+//4
+4
+
+//シナリオCD
+SCENARIO C/D
+
+//捕獲
+GOAL
+
+//120
+120
+
+//未満\n
+SCENARIO C/D
+<$01>
+//◇
+◇
+<$0E><$08>
+//4
+4
+
+//シナリオC
+SCENARIO C
+
+//完全捕獲\n
+COMPLETE\n
+<$01>
+//◇
+◇
+<$0E><$08>
+//4
+4
+
+//シナリオD
+SCENARIO D
+
+//完全捕獲
+COMPLETE
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0028)
+#WRITE(PTR, $002A)

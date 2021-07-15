@@ -1,0 +1,1750 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $00000000, 16)
+#JMP($000010FB)
+
+
+#WRITE(PTR, $0014)
+#WRITE(PTR, $0016)
+#WRITE(PTR, $0018)
+#WRITE(PTR, $001A)
+t20_sp1.obj
+<$00>
+
+
+
+
+c002.obj
+<$00>
+
+
+
+
+c009.obj
+<$00>
+
+
+
+
+c009a1.obj
+<$00>
+
+
+
+
+c010.obj
+<$00>
+
+
+
+
+c018.obj
+<$00>
+
+
+
+
+c104a1.obj
+<$00>
+
+
+
+
+c106a0l.obj
+<$00>
+
+
+
+
+c107a2.obj
+<$00>
+
+
+
+
+c108a0.obj
+<$00>
+
+
+
+
+kossetu.obj
+<$00>
+
+
+
+
+c126a0.obj
+<$00>
+
+
+
+
+c127a2.obj
+<$00>
+
+
+
+
+c128a0.obj
+<$00>
+
+
+
+
+c128a0l.obj
+<$00>
+
+
+
+
+c163a0.obj
+<$00>
+
+
+
+
+c180a2.obj
+<$00>
+
+
+
+
+#WRITE(PTR, $001C)
+//宿屋・銀行
+<$06>Inn・Bank＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//猟犬は　お金で買えますが\n人間の友人は　お金なんかじゃ…\nめったに　買えません
+Canine companions can be bought with money,\n
+but human companions? Not so easily.
+<$12>
+<$00>
+
+
+
+
+
+
+//←＿闘犬場、近道！
+<$06>←＿DGF DOJO(SHORTCUT!)
+<$12>
+<$00>
+
+
+
+
+
+
+//東の湖に　レッドポールって呼ばれる\nアナビスの遺跡らしいのが　あるわ
+<$06>There's some temple of Annabis out in the\n
+eastern lake, called a red pole.
+<$12>
+\n
+<CLEAR>
+//ビースチャンたちの話じゃ　昔は\n青い獣人の像が　中の祭壇に\n安置されていたらしいわね
+According to a few Beastians, it used to\n
+enshrine the Blue Beastman Doll.
+<$12>
+<$00>
+
+
+
+
+
+
+//俺、ポメランに「おこづかいよ■」って\n
+<$06>One time, Pomeran whispered, "Treat\n
+yourself.■", and shoved＿
+<$1E>
+//35￥も　もらっちゃった\nへへへ…　あんたも　もらってきなよ
+35￥ down my pocket.
+<$12>
+\n
+<CLEAR>
+//彼女、けっこう　ああ見えてさ\nあっちのほうは　アレなんだよな\nわかるだろ？
+She'll lure you in too, I'm sure. Even if you\n
+know the game, she's dangerously hot!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//このホテルも闘犬場も　先日、\nどこだかの教会から　飛び降りた\nオーマンさんのものなんですよ…
+The owner of both the dojo and the hotel, Mr.\n
+Aumann, fell off the roof of some church.
+<$12>
+\n
+<CLEAR>
+//私、アレは自殺じゃないと　思うんです\nいやね、けっこう悪どいことを　裏じゃ\nおやりになってたって　噂ですから
+I don't think it was a suicide. Rather, I've\n
+heard some scary rumors of foul play.
+<$12>
+<$00>
+
+
+
+
+
+
+//リンダって娘は　凄い力だね！\n大の男、２人を次々に　片手でポイ！\n３ｍは　飛んだねぇ
+<$06>That Linda's a powerhouse! Why, she threw 2\n
+grown men 3 meters like it was nothing.
+<$12>
+\n
+<CLEAR>
+//投げられた男も　予想してない展開に\n
+The thrown guys were shitting themselves like\n
+they'd eaten bad＿
+<$1D>
+//と　
+and＿
+<$1D>
+//を\n間違えて食べたような　パニックさ
+!
+<$12>
+<$00>
+
+
+
+
+
+
+//リンダは　オーマン氏の遺族に\n聞き込みを　していたらしいわよ
+<$06>Linda came sniffing around the grieving\n
+family of the late Mr. Aumann to get\n
+information.
+<$12>
+\n
+<CLEAR>
+//どうやら　ミナゴの教会から身投げした\nオーマン氏と　今回の惨殺事件が\nつながってると　ふんでるみたいね
+She has it in her head that his suicide at\n
+Minago church and her family's murder are\n
+connected.
+<$12>
+\n
+<CLEAR>
+//リンダの足取りが　つかめるかも\nしれないし、ケンもオーマン氏の\n遺族に　一応、会ってみたら？
+Maybe, if you speak to the Aumann residents,\n
+you'll find out where she went next.
+<$12>
+<$00>
+
+
+
+
+
+
+//ケンよぉ…\n今のリンダ、あれは　ジャジャ馬と\n言うより　狂犬だゼ
+<$06>I just saw Linda and...oof. She went from\n
+tomboy to trainwreck real quick.
+<$12>
+\n
+<CLEAR>
+//おまえ、同僚のこんな姿を　見ても\nあいつと　結婚するつもり？\n
+If you only saw her now, I doubt you'd still\n
+marry her.\n
+<$01>
+//考え直すよ
+Should I reconsider?
+<$0E>
+//／
+／
+<$01>
+//もちろん！
+Nonsense!
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//悪いことは言わない…　それがいいよ\n後ろの　お嬢さんなんか\nおしとやかそうで　いいじゃんよ
+It's for your own good. Plus, the gal behind\n
+you looks like a helluva catch!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//そうか………\nとりあえず　体をきたえ直したほうが\nいいと　忠告しといてやるよ
+Fair enough. But either way, you're better\n
+off tempering yourself for now.
+<$12>
+<$00>
+
+
+
+
+
+
+//リンダのヤツ、人に骨折させといて\n「ごめんネ」じゃ　すまねぇよな？
+<$06>Effing Linda broke another effing bone, and\n
+all she can say to me is, "Whoops"?!
+<$12>
+\n
+<CLEAR>
+//子供の時にも　あいつの４の字固めで\n骨を折られたから　これで２度目だゼ…\nたまんねぇよ、同じ女に２度もよ
+I drank milk like a mother-effer since I was\n
+a kid because of her, and she got me AGAIN!
+<$12>
+<$00>
+
+
+
+
+
+
+//西エリアは　ひどい有り様らしいね\nとにかく全部、くさってるんだって…\n動いてるモノは　ひとつもなし
+<$06>Green Pharmaceuticals bacterial someway or\n
+other let a culture tank explode in West\n
+Area.
+<$12>
+\n
+<CLEAR>
+//グリーン製薬の工場の　研究用の\n細菌培養タンクが　破裂したらしいの\n原因は　わからないそうだけどね
+The outbreak rendered the lands a lifeless\n
+Hellscape. Everything was left to rot.
+<$12>
+<$00>
+
+
+
+
+
+
+//ポメランがさ　急にいなくなったんだ
+<$06>Pomeran left without telling us in advance.
+<$12>
+\n
+<CLEAR>
+//こんなことなら　もっとサービスして\nおこづかいを　たんまりと\n前払いしてもらえば　よかったよ
+If she had told us, I would've offered more\n
+"services" to her and charged a lot more!
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $001E)
+//  %8d
+<$06>%8d
+<$00>
+
+
+
+
+
+
+TUCHO_0.TMZ
+<$00>
+
+
+
+
+TUCHO_1.TMZ
+<$00>
+
+
+
+
+<$06><CLEAR>
+//
+<$09>
+//1
+1
+<$15>
+//H
+H
+<$00>
+
+
+
+
+
+
+//引き出し
+<$06>W/drawal
+<$00>
+
+
+
+
+
+
+<$06><$02>
+//64返＿済
+64Repayment
+<$00>
+
+
+
+
+
+
+<$06><$02>
+//64利＿子
+64Interest
+<$00>
+
+
+
+
+
+
+//預け入れ
+<$06>Deposit
+<$00>
+
+
+
+
+
+
+<$06><$02>
+//64給＿料
+64Wages
+<$00>
+
+
+
+
+
+
+<$06><$02>
+//64利＿息
+64Overhead
+<$00>
+
+
+
+
+
+
+//闘犬給金
+<$06>Arena Pay
+<$00>
+
+
+
+
+
+
+<$06><$02>
+//64賞＿金
+64Prize
+<$00>
+
+
+
+
+
+
+<$06><$02>
+//64賞＿与
+64Bonus
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$02>
+//8
+8
+<$1E>
+//34
+34
+
+//・
+・
+<$1D><$02>
+//58
+58
+<$1D><$02>
+//118
+118
+<$15>
+//H
+H
+<$1D>
+<$00>
+
+
+
+
+
+
+<$06><$02>
+//202
+202
+<$1D><$1D><$15>
+//H
+H
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//いらっしゃいませ！　創立
+Serving Neo Kenya＿
+<$1E>
+//周年\n皆様のネオケニア銀行です
+＿years strong,\n
+this is Neo Kenya Bank!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//いらっしゃいませ！　皆様の心の中に\n永遠に生き続ける　ネオケニア銀行です
+Serving Neo Kenya forever in our\n
+hearts, this is Neo Kenya Bank!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//他に　ご用はございますか？
+Can I help with anything else?
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$01>
+//引出
+Withdraw
+<$0E>
+//／
+／
+<$01>
+//入金
+Deposit
+<$0E>
+//／
+／
+<$01>
+//融資
+Loan
+<$0E>
+//／
+／
+<$01>
+//返済
+Repay
+<$0E>
+//／
+／
+<$01>
+//通帳
+Statement
+<$0E>
+//／
+／
+<$01>
+//雑談
+Chat
+<$0E>
+//／
+／
+<$01>
+//帰る
+Exit
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//お金が心細いときは　使い道のない\n半端な動物を　処分するか、当行の\n安心低利の融資を　ご利用ください
+If you need extra money, consider selling\n
+animals or taking low-interest loans.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//給料の受取りを　お忘れなく！
+Don't forget your paystub!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//またの御利用を　お待ち申し上げます
+We look forward to your next visit.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//長らくの御愛顧\nありがとう　ございました
+Thank you for your loyal patronage.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//現在、お客様の口座は　勝手ながら\n取引きを　停止させていただいております\nお早目の返済を　お願い致します
+Your account is currently suspended until\n
+outstanding balances are repaid.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//現在の預金残高は　
+Balance:＿
+<$1E>
+//￥です\n入金額は　おいくらですか？\n持金
+￥.\n
+How much will you deposit?\n
+<$1E>
+//40￥→入金
+40￥→
+<$01><$1E>
+//40￥
+40
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1E>
+//￥の入金ですね\n
+￥, is that correct?\n
+<$01>
+//は＿い
+Yes
+<$0E>
+//／
+／
+<$01>
+//いいえ
+No
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//現在の預金残高は　
+Balance:＿
+<$1E>
+//￥です
+￥.
+<$12>
+<$00>
+
+
+
+
+
+
+//\nそれでも　お引出しになりたい？？\nそれは　強盗って言うんですよ
+<$06>\n
+Withdrawing more than that? That's what we\n
+call "robbery".
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//まっ　珍しかないですけどね…
+Hmm, how often do we see this...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//現在の預金残高は　
+Balance:＿
+<$1E>
+//￥です\n引出額は　おいくらですか？\n持金
+￥\n
+How much will you withdraw?\n
+<$1E>
+//40￥←引出
+40￥←
+<$01><$1E>
+//40￥
+40
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1E>
+//￥のお引出しですね\n
+￥ will be withdrawn.\n
+<$01>
+//は＿い
+Yes
+<$0E>
+//／
+／
+<$01>
+//いいえ
+No
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//現在の預金残高は　
+Balance:＿
+<$1E>
+//￥です\n追加融資は　お受けできかねます\nご了承ください
+￥\n
+Additional loans cannot be taken.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//現在の返済残高は　
+Balance:＿
+<$1E>
+//￥です\n追加融資は　お受けできかねます\nご了承ください
+￥\n
+Additional loans cannot be taken.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//死神衝突まで　１年を切りましたので\n融資は　終了させていただきました\nご了承ください
+With less than a year before the Grim\n
+Reaper's impact, all loans have been\n
+terminated.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//現在の融資枠は　最大
+Loan limit:＿
+<$1E>
+//￥です\n融資希望額は　おいくらですか？\n持金
+￥\n
+How much will you borrow?\n
+<$1E>
+//40￥←融資
+40￥←
+<$01><$1E>
+//40￥
+40
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//融資額＿
+Great! That's＿
+<$1E>
+//40￥ですと　融資条件は\n季節利子
+40￥ with seasonal interest.\n
+Repayment starts at＿
+<$1E>
+//40￥　返済期限は来年
+40￥ due next＿
+<$1D>
+.
+//\n
+\n
+<$01>
+//それでＯＫ
+OK!
+<$0E>
+//／
+／
+<$01>
+//融資額変更
+Back
+<$0E>
+//／
+／
+<$01>
+//やめとく！
+Exit
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//返済残高　
+You currently owe＿
+<$1E>
+//￥です
+￥.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//現在の返済残高は
+Balance:＿
+<$1E>
+//￥です\n返済額は　おいくらですか？\n持金
+￥\n
+What will you repay?\n
+<$1E>
+//40￥→返済
+40￥→
+<$01><$1E>
+//40￥
+40￥
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1E>
+//￥の返済ですね\n
+￥ will be repaid.\n
+<$01>
+//は＿い
+Yes
+<$0E>
+//／
+／
+<$01>
+//いいえ
+No
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//返済は　すべて完了しました\nありがとう　こざいます！
+All loans have been repaid.\n
+Thank you!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//返済残高は
+Balance:＿
+<$1E>
+//40￥\n季節利子は
+40￥\n
+Seasonal interest:＿
+<$1E>
+//40￥\n
+40￥\n
+<$00>
+
+
+
+
+
+
+//返済期限は今季節です　お急ぎください
+<$06>Remember, repayment is due this season.
+<$12>
+<$00>
+
+
+
+
+
+
+//返済期限は次の
+<$06>Remember, repayment is due in＿
+<$1D>
+//です　お忘れなく
+.
+<$12>
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Yホテル
+YHotel
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//お気をつけて！
+Take care!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//野宿は　危険ですよ
+Camping's dangerous, you know.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//いらっしゃいませ！　
+Welcome! Would you like\n
+a room for＿
+<$1D><$1E><$14>
+//￥で\nお部屋が　用意できますよ\n
+￥?\n
+<$01>
+//宿泊する
+Stay
+<$0E>
+//／
+／
+<$01>
+//雑談する
+Chat
+<$0E>
+//／
+／
+<$01>
+//やめとく
+Exit
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//お金が　足りないようですね
+You can't afford this, can you.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//お客様、戦えなくなった　猟犬のＨＰは\n宿泊や野営じゃ　戻りませんけど…\n
+I'm sorry, but dogs won't recover HP in\n
+hotels or camps.\n
+<$01>
+//知ってるよ
+I know that
+<$0E>
+//／
+／
+<$01>
+//ホントかよ
+Really?!
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//さしでがましいことを　申し上げ\nたいへん　失礼いたしました\nでは　ごゆっくり
+Ah, I see. Please forgive my outburst.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//専門のお医者さまを　お捜しになって\nなるべく早く\n治療して　さしあげてください
+Yes. Always seek a vet treat your dogs.
+<$12>
+<$00>
+
+
+
+
+
+
+//クン、クンクン………？
+<$06>Sniff...sniff, sniff?
+<$12>
+\n
+<CLEAR>
+//
+<$1D>
+//のニオイが　するね\nそういえば、
+＿scent's filling the air. You know, I could\n
+go for some＿
+<$1D>
+//食まだだっけ…
+＿!
+<$12>
+<$00>
+
+
+
+
+
+
+//卵焼き
+<$06>fried eggs
+<$00>
+
+
+
+
+
+
+//カレー
+<$06>curry
+<$00>
+
+
+
+
+
+
+//焼き肉
+<$06>Neo Korean BBQ
+<$00>
+
+
+
+
+
+
+//唐あげ
+<$06>karaage
+<$00>
+
+
+
+
+
+
+//お菓子
+<$06>candy
+<$00>
+
+
+
+
+
+
+//バナナ
+<$06>banana
+<$00>
+
+
+
+
+
+
+//フライ
+<$06>Neo French fries
+<$00>
+
+
+
+
+
+
+//焼き魚
+<$06>grilled fish
+<$00>
+
+
+
+
+
+
+//トマト
+<$06>tomato
+<$00>
+
+
+
+
+
+
+//バター
+<$06>butter
+<$00>
+
+
+
+
+
+
+//ソース
+<$06>sauce
+<$00>
+
+
+
+
+
+
+//スープ
+<$06>＿soup
+<$00>
+
+
+
+
+
+
+//ピラフ
+<$06>pilaf
+<$00>
+
+
+
+
+
+
+//バニラ
+<$06>vanilla
+<$00>
+
+
+
+
+
+
+//キムチ
+<$06>kimchi
+<$00>
+
+
+
+
+
+
+//チーズ
+<$06>cheese
+<$00>
+
+
+
+
+
+
+//朝
+<$06>breakfast
+<$00>
+
+
+
+
+
+
+//昼
+<$06>lunch
+<$00>
+
+
+
+
+
+
+//夕
+<$06>dinner
+<$00>
+
+
+
+
+
+
+//……東
+<$06>...East
+<$00>
+
+
+
+
+
+
+//……西
+<$06>...West
+<$00>
+
+
+
+
+
+
+//……南
+<$06>...South
+<$00>
+
+
+
+
+
+
+//……北
+<$06>...North
+<$00>
+
+
+
+
+
+
+//…北東
+<$06>...North-east
+<$00>
+
+
+
+
+
+
+//…北西
+<$06>...North-west
+<$00>
+
+
+
+
+
+
+//…南東
+<$06>...South-east
+<$00>
+
+
+
+
+
+
+//…南西
+<$06>...South-west
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、…
+<$06>! That's where we'll find a＿
+<$1D>
+//に行けば
+.
+<$00>
+
+
+
+
+
+
+//直進
+<$06>For
+<$00>
+
+
+
+
+
+
+//右よ
+<$06>Right
+<$00>
+
+
+
+
+
+
+//左よ
+<$06>Left
+<$00>
+
+
+
+
+
+
+//後ろ
+<$06>Back
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、絶対に
+<$06>wards, got it? I'm sure we'll find a＿
+<$1D>
+//∥
+＿there!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sリンダは　「女の勘」を\nはたらかせた∥
+SLinda used her woman's intuition...
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//…ごめんね、\n今日は　勘がはたらかないわ…
+...Sorry. I don't have it in me today.
+<$12>
+<$00>
+
+
+
+
+
+
+//運命の
+<$06>Fated＿
+<$00>
+
+
+
+
+
+
+//新しい
+<$06>New＿
+<$00>
+
+
+
+
+
+
+//素敵な
+<$06>Great＿
+<$00>
+
+
+
+
+
+
+//未知の
+<$06>Unknown＿
+<$00>
+
+
+
+
+
+
+//何か
+<$06>things＿
+<$00>
+
+
+
+
+
+
+//発見
+<$06>discoveries＿
+<$00>
+
+
+
+
+
+
+//お宝
+<$06>treasures＿
+<$00>
+
+
+
+
+
+
+//動物
+<$06>animals＿
+<$00>
+
+
+
+
+
+
+//に　出会える…
+<$06>could appear.
+<$00>
+
+
+
+
+
+
+//が　待ってる…
+<$06>await us...
+<$00>
+
+
+
+
+
+
+//気がするわ∥
+<$06>are there.
+<$00>
+
+
+
+
+
+
+//チャンスよ∥
+<$06>are in our grasp!
+<$00>
+
+
+
+
+
+
+//今しかないわ
+<$06>could slip through our fingers!
+<$00>
+
+
+
+
+
+
+//間違いなし∥
+<$06>are dead head!
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$1D><$1D><$1D>
+//\n
+\n
+<$1D><$12>
+\n
+<CLEAR>
+//
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信があるの∥
+I'm sure of it!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信は　ないけどね…
+Although, I'm not totally certain...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//絶対なんだから∥
+I'm absolutely certain!
+<$12>
+<$00>
+
+
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+

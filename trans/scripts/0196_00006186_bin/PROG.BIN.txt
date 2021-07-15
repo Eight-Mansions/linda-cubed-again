@@ -1,0 +1,4739 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $00000000, 16)
+#JMP($00003A51)
+
+
+#WRITE(PTR, $001E)
+#WRITE(PTR, $0020)
+#WRITE(PTR, $0022)
+#WRITE(PTR, $0024)
+c002.obj
+<$00>
+
+
+
+
+c009.obj
+<$00>
+
+
+
+
+c009a1.obj
+<$00>
+
+
+
+
+c010.obj
+<$00>
+
+
+
+
+c018.obj
+<$00>
+
+
+
+
+c052.obj
+<$00>
+
+
+
+
+c053l.obj
+<$00>
+
+
+
+
+c054r.obj
+<$00>
+
+
+
+
+c055.obj
+<$00>
+
+
+
+
+c101a0r.obj
+<$00>
+
+
+
+
+c101a1.obj
+<$00>
+
+
+
+
+c102a1l.obj
+<$00>
+
+
+
+
+c103a0.obj
+<$00>
+
+
+
+
+c105a1.obj
+<$00>
+
+
+
+
+c117a0r.obj
+<$00>
+
+
+
+
+c118a0.obj
+<$00>
+
+
+
+
+c123a0t.obj
+<$00>
+
+
+
+
+c132a.obj
+<$00>
+
+
+
+
+c135a0.obj
+<$00>
+
+
+
+
+c143a2.obj
+<$00>
+
+
+
+
+c146a.obj
+<$00>
+
+
+
+
+c149.obj
+<$00>
+
+
+
+
+c159a2.obj
+<$00>
+
+
+
+
+c160a0.obj
+<$00>
+
+
+
+
+c161_0.obj
+<$00>
+
+
+
+
+c162_2.obj
+<$00>
+
+
+
+
+c167.obj
+<$00>
+
+
+
+
+c176a2.obj
+<$00>
+
+
+
+
+c180a0.obj
+<$00>
+
+
+
+
+box.obj
+<$00>
+
+
+
+
+kao_s1.obj
+<$00>
+
+
+
+
+kao_s2.obj
+<$00>
+
+
+
+
+taoru.obj
+<$00>
+
+
+
+
+m140m.obj
+<$00>
+
+
+
+
+m141m.obj
+<$00>
+
+
+
+
+m142m.obj
+<$00>
+
+
+
+
+m143m.obj
+<$00>
+
+
+
+
+m155m.obj
+<$00>
+
+
+
+
+m156m.obj
+<$00>
+
+
+
+
+m157m.obj
+<$00>
+
+
+
+
+m158m.obj
+<$00>
+
+
+
+
+m159m.obj
+<$00>
+
+
+
+
+m160m.obj
+<$00>
+
+
+
+
+m161m.obj
+<$00>
+
+
+
+
+m162m.obj
+<$00>
+
+
+
+
+m163m.obj
+<$00>
+
+
+
+
+m164m.obj
+<$00>
+
+
+
+
+m165m.obj
+<$00>
+
+
+
+
+m166m.obj
+<$00>
+
+
+
+
+#WRITE(PTR, $0026)
+//闘犬場１Ｆ
+<$06>DGF Dojo 1F＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//おい、聞いたかい？\nオーマン家の関係者が　急に予定を\n早めて　脱出した本当の理由をよ
+Psst, hey! I bet you heard the Aumanns\n
+expedited their migration off Neo Kenya, huh.
+<$12>
+\n
+<CLEAR>
+//どうやら　遺産争いのあげくに\nオーマン家の兄弟の中に　とうとう\n死人が出たってのが　真相らしいゼ
+Wanna know what REALLY happened? Well, right\n
+at the end of the inheritance struggle...
+<$12>
+\n
+<CLEAR>
+//死体の胸には大穴…　手足はバラバラ…\n誰かが　プロを使ったんだろうよ\n全く　えげつない兄弟だゼ
+...the Aumanns were assassinated! Shot clean\n
+in the chests, with their limbs blown off!
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0028)
+//闘犬場Ｂ１
+<$06>DGF Dojo B1＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sケンは「
+SKen found the＿
+<$1D>
+//」を発見∥
+!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//S<CLEAR>だが、道具袋が一杯なので\n「
+S<CLEAR>Sadly, the item bag was full, so the＿
+<$1D>
+//」を\nとりあえず　あきらめた…
+had to go back.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//S<CLEAR>「
+SKen acquired＿
+<$1D>
+//」を　手に入れた∥
+!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//タオルを投げれば　
+Throwing in the towel may save your＿
+//<$1B>
+//イヌの命を\n確実に　救うことができるわ∥\nただし　賞金はチャラ…
+dog's life, but your winnings go kaput.
+<$12>
+\n
+<CLEAR>
+//タイミングが　難しいのよね\n欲を出すと　高い治療費のおまけまで\n払うはめに　なるもんね
+Patience is key, but follow your greed for\n
+too long, and you'll pay for it at the vet.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//うちの店で　売ってるワンちゃんは\nどれも　将来、横綱や大関になること\n請け合いの　大物ばかり！
+All dogs sold here have a fighting chance to\n
+become the dojo's 1st-tier "yokozuna"\n
+someday. We guarantee it!
+<$12>
+\n
+<CLEAR>
+//１年後には　安い買い物だったと\n涙を流して　私に感謝するはずよ∥
+A year from now, you'll thank me tearfully\n
+for LETTING you buy a dog from us!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自分の給料の半年分を　使ってまで\n治療する価値のある　犬なんて\n実際のとこ、あまりいないわね
+Not many dogs out there are worth spending\n
+half a year's salary on at the vet.
+<$12>
+\n
+<CLEAR>
+//でも　ほとんどの飼い主は\n借金してまで　負け犬のケガを治す…\n情に流されるのは　人間の悪いクセよ
+Some owners can't help but care for their\n
+dogs, but it's a good way to fall into debt.
+<$12>
+<$00>
+
+
+
+
+
+
+//<$1B>
+//イヌが戦ってる最中に　飼い主が\nできることは　応援と…
+<$06>The only thing the owner can do in a dogfight\n
+is show support.
+<$12>
+\n
+<CLEAR>
+//負けが見えた猟犬が　倒される前に\n×ボタンで　タオルを投げて\n試合を止めて　助けることだけだね
+But, if your dog is about to get wiped out,\n
+you can also press the × button.
+<$12>
+\n
+<CLEAR>
+You'll throw in the towel and lose the match,\n
+but doing so may save your dog's life!
+<$12>
+<$00>
+
+
+
+
+
+
+//ここより先、オーマン家私宅につき\n関係者以外は　ご遠慮ください\n＿＿＿＿＿＿＿＿レバトリー・オーマン
+<$06>"AUMANN FAMILY PRIVATE RESIDENCE.\n
+NO TRESPASSING."\n
+＿-LIBERTRI AUMANN
+<$12>
+<$00>
+
+
+
+
+
+
+//闘犬場での番付が　三役以上になると\nそれだけで　お
+<$06>Participants with＿
+//<$1B>
+//イヌ様に　季節ごとに\n給金が　飼い主に支払われるのサ
+dogs 3rd-tier or higher can be paid\n
+seasonally.
+<$12>
+\n
+<CLEAR>
+//おまけに、漢字の名を襲名できる！\nチンケなカナの名とも　それで\n永遠に　おさらばってわけよ
+That's why you need a dog with a good, strong\n
+anime name! Everyone knows anime names make\n
+you stronger!
+<$12>
+<$00>
+
+
+
+
+
+
+//この闘犬場の　オーマンさんの次男坊の\nシェドパってのが　ギャンブル狂いでね\nこれが　また異常に強いのよ
+<$06>Mr. Aumann's second son, Shedoba, is a\n
+gambling maniac. Thing is, he's weirdly good\n
+at it.
+<$12>
+\n
+<CLEAR>
+//私も一度、ポーカーで　身ぐるみ\nはがされたことがあるわ…　その後\nどうなったかは　ムフフ…ってわけよ
+He got my whole costume off in strip poker\n
+once. (You can guess what he won next.■)
+<$12>
+<$00>
+
+
+
+
+
+
+//シェドパの野郎のカードには　きっと\n何か細工が　あるにちがいないよ\nじゃないと　あんなに勝てるわけねぇ
+<$06>Shedoba's playing dirty. There's no way he'd\n
+win so many card games otherwise.
+<$12>
+\n
+<CLEAR>
+//今まで　あいつと　カードで勝負して\n勝ったヤツは　たったひとりだけ…\n確か、名前は　バンだか　ベンだか…
+I hear only one person's ever beat him so\n
+far. His name was, I think, "Bahn"? "Ben"?
+<$12>
+<$00>
+
+
+
+
+
+
+BA_W.TMZ
+<$00>
+
+
+
+
+BA_E.TMZ
+<$00>
+
+
+
+
+//世の中にはヘンなヤツが　たまにいてサ\n
+<$06>Some weirdos in the world bring pet＿
+//<$1B>
+//イルカとか　
+dolphins or＿
+//<$1B>
+//ライオンを\nここへ　持ち込んどいて…
+lions to fight in the dojo.
+<$12>
+\n
+<CLEAR>
+//こいつは　俺の猟犬だから\n闘犬大会に　出場させろ！とか\nメチャクチャなことを　ほざくのよ
+"What's the deal? It hunts, so it counts,\n
+right?" Sorry, dipshit. That's not the point!
+<$12>
+\n
+<CLEAR>
+//いくらなんでも\nひと目見れば　バレるってーの
+Anytime that happens, you just have to look\n
+at em, and be like, "Are you for real?"
+<$12>
+<$00>
+
+
+
+
+
+
+//死んだオーマンさんって　闘犬場を\n開く前は　連邦本部で中佐にまで\n出世した人だったそうよ
+<$06>The late Libertri Aumann, rest his soul, was\n
+the man who opened the dojo.
+<$12>
+\n
+<CLEAR>
+Before that, he was the lieutenant colonal up\n
+in Federation Headquarters.
+<$12>
+\n
+<CLEAR>
+//やな　ジイさんだったけど\n何かこう、一本筋が通ってるなぁと\nまぁ、私は思ってたわけだわね
+That old man was a pain to deal with, but I\n
+wouldn't have guessed he had all this in him!
+<$12>
+<$00>
+
+
+
+
+
+
+//闘犬場は　自分の猟犬の強さを\n確認するくらいの　気軽な気持ちで\n出場するのが　失敗しないコツだな
+<$06>Tournaments are won by those who play\n
+casually, and know their limits.
+<$12>
+\n
+<CLEAR>
+//賞金が増えてくると　頭に血が昇って\n自分の猟犬の強さを　見失ったあげく、\n退き時を　間違えちまうんだ
+The higher the prize money, the higher the\n
+chances you'll make rash decisions and lose.
+<$12>
+\n
+<CLEAR>
+//かわいそうなのは　いつも猟犬さ
+It's sad too, because the ones who suffer\n
+most are the animals.
+<$12>
+<$00>
+
+
+
+
+
+
+//オーマンさんの　弁護士の\nナターシャって女には　気をつけな\nありゃ　とんだズベ公だって噂だゼ
+<$06>Watch yourself around Mr. Aumann's attorney,\n
+Natasha. I hear she's the "town bicycle".
+<$12>
+\n
+<CLEAR>
+//あの女に比べりゃ　ポメランなんて\nまだまだ、生娘も同然！\nかわいいもんだとよ
+Next to her, Pomeran's the virgin freaking\n
+Mary! Innocent little thing, Pomeran.
+<$12>
+<$00>
+
+
+
+
+
+
+//オーマンさんは　生涯に三人の妻を迎え\nその三人ともが　ろくでもない子供を\n産んで　彼におしつけて逃げた
+<$06>Mr. Aumann had 3 wives in his lifetime. Each\n
+birthed him one awful kid and ran.
+<$12>
+\n
+<CLEAR>
+//でも　心から愛していたんだよ\nルイーズ、キャロル、そしてケイト…\n彼の三人の妻たちを…
+But he loved each, Louise, Carol and Kate,\n
+from the bottom of his heart.
+<$12>
+\n
+<CLEAR>
+//
+There was no B-word he loved as much as his＿
+//<$1B>
+//イヌの次くらいにはね
+dog, though.
+<$12>
+<$00>
+
+
+
+
+
+
+//猟犬を　あえて見殺しにするのも\n一流のハンターになるための　勉強だ\n実戦で必ず役に立つ　経験のひとつさ
+<$06>All top hunters learn sooner or later the\n
+true weight of killing man's best friend.
+<$12>
+<$00>
+
+
+
+
+
+
+//そういえば最近、シェドパの姿を\n見ないけど　どうかしたのかしらね…
+<$06>You know, I haven't seen Shedoba lately. I\n
+wonder if something happened to him.
+<$12>
+<$00>
+
+
+
+
+
+
+//そこの階段を降りた所が　この闘犬場の\n経営者の　オーマン家の住居よ
+<$06>Downstairs, you'll find the Aumann residence.\n
+That family owns the dojo.
+<$12>
+\n
+<CLEAR>
+//オーマンさん本人は　死んじゃって\nいないけど　子供が三人と美人の弁護士\nそれに看護婦と犬が　まだ住んでいるわ
+While Mr. Aumann himself passed away, his\n
+three children run things now.
+<$12>
+\n
+<CLEAR>
+You'll also find a nurse, a dog and one\n
+gorgeous lawyer living with them.
+<$12>
+<$00>
+
+
+
+
+
+
+//オーマン家で　何か起きたみたいね\n急に財産を処分して　脱出するなんて\n普通じゃ　考えられないもの
+<$06>What happened to the Aumanns that made them\n
+sell their assets and run away so quickly?
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $002A)
+//オーマン家住居
+<$06>Aumann Residence＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+//誰に断って　その薄汚れた足で\nビグル様の部屋へ　入ってきたんだ！\nえっ∥　兄ちゃんよ∥　ぶっ殺すぞ∥
+<$06>Who DARES enter my, Bigul, B-I-G-U-L's\n
+bedroom with dirty feet?! I'll KILL your ass!
+<$12>
+<$00>
+
+
+
+
+
+
+//ん？　あぁ　君が例の「箱船」の…\n新聞で読んだよ！　今どき奇特な御仁が\nいるものだって　話していたところさ
+<$06>Oh? You're from that "ark" thing I read in\n
+the paper! A commendable effort, say!
+<$12>
+\n
+<CLEAR>
+//まぁ　頑張ってくれたまえ
+After all, someone has to do it.
+<$12>
+<$00>
+
+
+
+
+
+
+//あら、イイ男ね\n私はポメラン、この家のお嬢様よ\n今度、ゆっくり遊びにいらしてね
+<$06>Hello handsome!\n
+I'm Pomeran Aumann. Single, of course!
+<$12>
+\n
+<CLEAR>
+//もちろん　おひとりでね■
+You and I should get to know eachother\n
+sometime...alone.■
+<$12>
+<$00>
+
+
+
+
+
+
+
+<$00>
+
+
+
+
+//クーーン　クーーン
+<$06>Whine, whine!
+<$12>
+<$00>
+
+
+
+
+
+
+//ピグルは　私たちにとっては\n理想的なオトコね！　身元が確かだし\nお金持ちで気前もいい！　それに…
+<$06>Piggles is the ideal man for us! He's rich,\n
+generous, has good pedigree, and...
+<$12>
+\n
+<CLEAR>
+//はやいのよ、彼…
+...he finishes quickly.
+<$12>
+<$00>
+
+
+
+
+
+
+■
+<$00>
+
+
+
+
+//Ｋ
+<$06>king
+<$00>
+
+
+
+
+
+
+//Ｊ
+<$06>jack
+<$00>
+
+
+
+
+
+
+//Ｑ
+<$06>queen
+<$00>
+
+
+
+
+
+
+//１
+<$06>1
+<$00>
+
+
+
+
+
+
+//７
+<$06>7
+<$00>
+
+
+
+
+
+
+//◆
+<$06>◆
+<$00>
+
+
+
+
+
+
+//８
+<$06>8
+<$00>
+
+
+
+
+
+
+//話しかけんなよ！　集中できねぇだろ∥\n今、
+<$06>Hush! I'm trying to concentrate! All I need\n
+to win now is the＿
+<$1D>
+//で揃ったところで\nここからが勝負なんだからよ
+!
+<$12>
+<$00>
+
+
+
+
+
+
+//ちっ、また俺の負けか…
+<$06>Drats, I lost again.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sケンは「
+SKen found the＿
+<$1D>
+//」を発見∥
+!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//S<CLEAR>だが、道具袋が一杯なので\n「
+S<CLEAR>Sadly, the item bag was full, so the＿
+<$1D>
+//」を\nとりあえず　あきらめた…
+had to go back.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//S<CLEAR>「
+SKen acquired＿
+<$1D>
+//」を　手に入れた∥
+!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sケンは「
+SKen found the＿
+<$1D>
+//」を発見∥
+!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//S<CLEAR>だが、道具袋が一杯なので\n「
+S<CLEAR>Sadly, the item bag was full, so the＿
+<$1D>
+//」を\nとりあえず　あきらめた…
+had to go back.
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//S<CLEAR>「
+SKen acquired＿
+<$1D>
+//」を　手に入れた∥
+!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+//なんだよ！　おやじのことなら\nリンダとかいう女に　話したゼ∥
+<$06>Who does that Linda girl think she is, only\n
+wanting to ask me about Father?!
+<$12>
+\n
+<CLEAR>
+//何度も同じ話を　するほど\nこのビグル様は　暇人じゃねぇんだ∥\nまぁ　なんだな…
+Do I, Bigul, B-I-G-U-L, look I've got time to\n
+talk to just anyone?! Ha!
+<$12>
+\n
+<CLEAR>
+//そこのお嬢さんに　一晩かけて\nゆっくりと話すんなら　別だがよ\n
+Then again, I'd talk to the girlie behind you\n
+all night long.\n
+<$01>
+//サチコに聞く
+She's all yours!
+<$0E>
+//／
+<$01>
+//なめんなよ∥
+Back off!
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//融通の効かねぇヤツは　出世しないゼ\n出て行きな∥　２度と来るな∥
+Didn't anyone teach you to share? Damn kid,\n
+get out and never come back!
+<$12>
+<$00>
+
+
+
+
+
+
+//痛てて…\nリンダといい　この女といい\n最近の女は　どうしてすぐ殴るんだ？
+<$06>Jesus! Chicks these days waste no time before\n
+smacking a man down.
+<$12>
+<$00>
+
+
+
+
+
+
+//は、話すから　冷静になろうゼ…
+<$06>Take it down a notch, will you?
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//おやじは　詳しくはわからねぇけど\n連邦がらみの　重要な仕事を\n秘密で　やってたようだったな…
+Far as I saw, Father was doing some\n
+important, federal-related\n
+something-or-other.
+<$12>
+\n
+<CLEAR>
+//俺が知ってるのは　それだけだ\nだから　もう暴力は　よくないと\n思うんだよね…
+That's all I remember, and I doubt smacking\n
+me around will change that!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ねぇ　ケン、今の人は\nいい人？　それとも　悪い人？
+Ken, was that person "good"? Or "evil"?
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$01>
+//いい人
+Good
+<$0E>
+//／
+／
+<$01>
+//悪い人
+Evil
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//そうなの！　勉強になったわ\n教えてくれて　ありがとう！
+I see! How englightening!\n
+Thank you for answering my question.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ねぇ　ケン、今の人は\nいい人？　それとも 悪い人？
+Ken, was that person just now "good"? Or\n
+"evil"?
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$01>
+//いい人
+Good
+<$0E>
+//／
+／
+<$01>
+//悪い人
+Evil
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//いい人と　悪い人の区別が\n即座に　できちゃうなんて\n尊敬しちゃうわ■
+You seem to know instantly whether someone is\n
+"good" or "evil". I'm impressed!■
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ねぇ　ケン、今の人は\nいい人？　それとも 悪い人？
+Ken, was that person just now "good"? Or\n
+"evil"?
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$01>
+//いい人
+Good
+<$0E>
+//／
+／
+<$01>
+//悪い人
+Evil
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//やっぱり∥　そうだと思ったわ
+Yes, of course!\n
+I thought the same thing.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//唇の厚い人は　いい人で\n薄い人は　悪い人、そうでしょ？
+Ken, is it true that thick-lipped people are\n
+good, and thin-lipped people are evil?
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$01>
+//そうかもなぁ
+Maybe
+<$0E>
+//／
+／
+<$01>
+//違うと思うよ
+I don't think so
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//善悪は　遺伝するのね！\nでも　上唇が厚くて　下唇の\n薄い人は　処理に困るわねぇ…
+So, good and evil ARE hereditary! But, what\n
+if your lips are half thick and half thin?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//難しいですね…
+This is all so difficult.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケン、今の人は\nいい人、悪い人？
+Ken, was that person just now "good"? Or\n
+"evil"?
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$01>
+//いい人
+Good
+<$0E>
+//／
+／
+<$01>
+//悪い人
+Evil
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//中間は　ないんですか？
+Is there no in-between?
+<$00>
+
+
+
+
+
+
+//オーマン家の次兄の　シェドパだよ\n君達も　おやじのことかな？\n
+<$06>I'm the second son, Shedoba.\n
+Did you want to ask about my father?
+<$01>
+//そうです
+Yes
+<$0E>
+//／
+／
+<$01>
+//違います
+No
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//それは　残念だ…\nおやじのことで　話したいことが\nあったんだけどねぇ
+That's too bad.\n
+I was so looking forward to telling you\n
+something about my father.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//やっぱり　他殺なんだろ？\n敵の多い人だったからねぇ
+I wonder, was he really murdered after all?\n
+My father did have many enemies.
+<$12>
+\n
+<CLEAR>
+//それで　犯人の目星は　ついたのかな？\n
+Have you figured out who the culprit is?\n
+<$01>
+//一応は…
+Kind of...
+<$0E>
+//／
+／
+<$01>
+//ゼンゼン
+Not at all
+<$0E>
+//／
+／
+<$01>
+//言えない
+I can't say
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ほぉ～、じゃ　その犯人に\nぜひ　こう伝えてくれたまえ\n「ありがとう」とね！
+Oh, really? Then please tell the culprit I\n
+said "Thank you!"
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ビグル兄さんと　ポメラン姉さんの\nアリバイは　当たってみたのかな？
+You see, I can't truly trust that Bigul and\n
+Pomeran's alibis hold water.
+<$12>
+\n
+<CLEAR>
+//案外、それが　犯人逮捕の\n一番の早道かも　しれないよ
+I fear picking those two apart may be the\n
+fastest way to catch the murderer.
+<$12>
+<$00>
+
+
+
+
+
+
+//あら、いらっしゃい！\n私はポメラン、この家のお嬢様よ\nあなたも　パパのことかしら？
+<$06>Oh my, hello! I'm Pomeran Aumann. Did you\n
+want to ask about Daddy?
+<$12>
+\n
+<CLEAR>
+//パパは　自殺なんでしょ？\nそれで　いいんじゃないの
+Daddy killed himself, right?\n
+These things happen.
+<$12>
+\n
+<CLEAR>
+//それとも他殺だと　保険金が\nもっと　いただけるのかしら？\n
+But wait! Wouldn't "murder" get us more money\n
+from his life insurance policy?\n
+<$01>
+//はい、その通り
+Hey, you're right!
+<$0E>
+//／
+／
+<$01>
+//わかりませんね
+Who knows?
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//パパが死ぬ、前日の晩に\n女性から　電話があったみたいね\nパパったら焦ってたわ
+The night before Daddy died, he got a phone\n
+call from some furious woman.
+<$12>
+\n
+<CLEAR>
+//でもそれって　珍しいことじゃないの\nパパが　他の女に乗り換える時は\nいつだって　そうなんだから
+That wasn't new, per se. We got those calls\n
+every time he found a new floozy to flooze\n
+with.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//じゃ話すことは　なくってよ\nさようなら
+Then we have nothing to discuss.\n
+Good day.
+<$12>
+<$00>
+
+
+
+
+
+
+//あら、ケン■\n今日は　ゆっくりできるんでしょ？\n
+<$06>Ken, it's you!■\n
+Here for a little "quality time"?\n
+<$01>
+//はい、もちろん
+Of course I am!
+<$0E>
+//／
+／
+<$01>
+//いえ、急ぎます
+I'll pass
+<$0E>
+<$00>
+
+
+
+
+
+
+//これ、おこづかいよ！
+<$06>Here, treat yourself.■
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//Sケンは　
+SKen found＿
+<$1E>
+//￥をポケットに\n入れられてしまった！
+￥ shoved down his pocket!
+<$12>
+<$00>
+
+
+
+
+
+
+//ウフフフ…
+<$06>Tee hee hee!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//あら、残念ね
+Aww, that's too bad.
+<$12>
+<$00>
+
+
+
+
+
+
+//こんにちわ！　私、ここの闘犬場の\n経営者のオーマン氏に　雇われてる\n弁護士でナターシャ！　よろしくね
+<$06>Hello! I'm Natasha, a lawyer hired by the\n
+late Mr. Aumann. Pleased to meet you!
+<$12>
+\n
+<CLEAR>
+//実は　社長…　三人のお子さんが\n揃いも揃って　フダつきの浪費家なんで\n心痛のあまりの　自殺じゃないかって…
+If I'm being honest, I think my client killed\n
+himself because of his children.
+<$12>
+\n
+<CLEAR>
+//困った噂よね
+All three turned out to be wasteful\n
+embarassments to his name. It's a damn shame.
+<$12>
+<$00>
+
+
+
+
+
+
+//ねぇ、アンタ、ビグルを見なかった\n金ヅルに　いなくなられちゃ\n私たちも　困るのよねぇ
+<$06>Have you seen Bigul lately? At all? Shit, if\n
+we lose his income, we're screwed...
+<$12>
+<$00>
+
+
+
+
+
+
+//オーマンさんが　亡くなって\n一番、喜んでるのは　オーマンさんの\nろくでなしの　三人の子供たちね
+<$06>Mr. Aumann's three deadbeat children seem to\n
+be the happiest about his death.
+<$12>
+\n
+<CLEAR>
+//次は、あの三人の中で　血で血を洗う\n遺産争いが　絶対に始まるわよ\nきっと　誰か死ぬことになるわね
+A see a "dogfight" for the inheritance\n
+breaking out between them any day now.
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $002C)
+#WRITE(PTR, $002E)
+//クン、クンクン………？
+<$06>Sniff...sniff, sniff?
+<$12>
+\n
+<CLEAR>
+//
+<$1D>
+//のニオイが　するね\nそういえば、
+＿scent's filling the air. You know, I could\n
+go for some＿
+<$1D>
+//食まだだっけ…
+＿!
+<$12>
+<$00>
+
+
+
+
+
+
+//卵焼き
+<$06>fried eggs
+<$00>
+
+
+
+
+
+
+//カレー
+<$06>curry
+<$00>
+
+
+
+
+
+
+//焼き肉
+<$06>Neo Korean BBQ
+<$00>
+
+
+
+
+
+
+//唐あげ
+<$06>karaage
+<$00>
+
+
+
+
+
+
+//お菓子
+<$06>candy
+<$00>
+
+
+
+
+
+
+//バナナ
+<$06>banana
+<$00>
+
+
+
+
+
+
+//フライ
+<$06>Neo French fries
+<$00>
+
+
+
+
+
+
+//焼き魚
+<$06>grilled fish
+<$00>
+
+
+
+
+
+
+//トマト
+<$06>tomato
+<$00>
+
+
+
+
+
+
+//バター
+<$06>butter
+<$00>
+
+
+
+
+
+
+//ソース
+<$06>sauce
+<$00>
+
+
+
+
+
+
+//スープ
+<$06>＿soup
+<$00>
+
+
+
+
+
+
+//ピラフ
+<$06>pilaf
+<$00>
+
+
+
+
+
+
+//バニラ
+<$06>vanilla
+<$00>
+
+
+
+
+
+
+//キムチ
+<$06>kimchi
+<$00>
+
+
+
+
+
+
+//チーズ
+<$06>cheese
+<$00>
+
+
+
+
+
+
+//朝
+<$06>breakfast
+<$00>
+
+
+
+
+
+
+//昼
+<$06>lunch
+<$00>
+
+
+
+
+
+
+//夕
+<$06>dinner
+<$00>
+
+
+
+
+
+
+//……東
+<$06>...East
+<$00>
+
+
+
+
+
+
+//……西
+<$06>...West
+<$00>
+
+
+
+
+
+
+//……南
+<$06>...South
+<$00>
+
+
+
+
+
+
+//……北
+<$06>...North
+<$00>
+
+
+
+
+
+
+//…北東
+<$06>...North-east
+<$00>
+
+
+
+
+
+
+//…北西
+<$06>...North-west
+<$00>
+
+
+
+
+
+
+//…南東
+<$06>...South-east
+<$00>
+
+
+
+
+
+
+//…南西
+<$06>...South-west
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、…
+<$06>! That's where we'll find a＿
+<$1D>
+//に行けば
+.
+<$00>
+
+
+
+
+
+
+//直進
+<$06>For
+<$00>
+
+
+
+
+
+
+//右よ
+<$06>Right
+<$00>
+
+
+
+
+
+
+//左よ
+<$06>Left
+<$00>
+
+
+
+
+
+
+//後ろ
+<$06>Back
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、絶対に
+<$06>wards, got it? I'm sure we'll find a＿
+<$1D>
+//∥
+＿there!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sリンダは　「女の勘」を\nはたらかせた∥
+SLinda used her woman's intuition...
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//…ごめんね、\n今日は　勘がはたらかないわ…
+...Sorry. I don't have it in me today.
+<$12>
+<$00>
+
+
+
+
+
+
+//運命の
+<$06>Fated＿
+<$00>
+
+
+
+
+
+
+//新しい
+<$06>New＿
+<$00>
+
+
+
+
+
+
+//素敵な
+<$06>Great＿
+<$00>
+
+
+
+
+
+
+//未知の
+<$06>Unknown＿
+<$00>
+
+
+
+
+
+
+//何か
+<$06>things＿
+<$00>
+
+
+
+
+
+
+//発見
+<$06>discoveries＿
+<$00>
+
+
+
+
+
+
+//お宝
+<$06>treasures＿
+<$00>
+
+
+
+
+
+
+//動物
+<$06>animals＿
+<$00>
+
+
+
+
+
+
+//に　出会える…
+<$06>could appear.
+<$00>
+
+
+
+
+
+
+//が　待ってる…
+<$06>await us...
+<$00>
+
+
+
+
+
+
+//気がするわ∥
+<$06>are there.
+<$00>
+
+
+
+
+
+
+//チャンスよ∥
+<$06>are in our grasp!
+<$00>
+
+
+
+
+
+
+//今しかないわ
+<$06>could slip through our fingers!
+<$00>
+
+
+
+
+
+
+//間違いなし∥
+<$06>are dead head!
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$1D><$1D><$1D>
+//\n
+\n
+<$1D><$12>
+\n
+<CLEAR>
+//
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信があるの∥
+I'm sure of it!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信は　ないけどね…
+Although, I'm not totally certain...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//絶対なんだから∥
+I'm absolutely certain!
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0030)
+//
+<$06><$15>
+//Y猟犬屋
+YDog Center
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//お客さん…\nホスピコの入り口に　並んでる\n哀れな猟犬の墓を　数えてごらん
+Sir, go look at the pet cemetary along the\n
+Hospico entrance.
+<$12>
+\n
+<CLEAR>
+//これ以上　あなたの猟犬を\n登録したところで、どうせまた\nあそこの墓が　増えるだけだものね
+We keep that cemetary's growth down by\n
+capping the number of dogs each client can\n
+adopt.
+<$12>
+\n
+<CLEAR>
+//金の問題じゃないんだよ…\nわかるッ￠
+You may have the money, but you've\n
+unfortunately hit that limit. You understand,\n
+don't you?
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//猟犬の収容枠が　いっぱいです\nこれ以上、猟犬を増やせません
+You have reached the max amount of dogs you\n
+can own at one time.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//登録料　
+The adoption fee is over\n
+<$15>
+//b
+<$1E><$14>
+//￥が足りません\n銀行で　ご都合ください
+￥.\n
+Get a loan from the bank.
+<$12>
+<$00>
+
+
+
+
+
+
+//その名前は　既に登録されています\n別の名前を　つけてください
+<$06>Sorry, that name is taken.\n
+Choose a new name.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//猟犬
+Adopt＿
+<$1D>
+//を登録します\n
+?\n
+<$01>
+//は＿い
+Yes
+<$0E>
+//／
+<$01>
+//いいえ
+No
+<$0E>
+<$00>
+
+
+
+
+
+
+<CLEAR>
+
+<$00>
+
+
+
+
+<$16><$01><$1D><$02>
+96
+<$0E>
+　
+<$15>
+S
+<$1E>
+18
+<$14><$04><$02>
+140
+<$01><$1D><$02>
+236
+<$0E>
+　
+<$15>
+S
+<$1E>
+18
+<$14>
+<$00>
+
+
+
+
+//
+<$06><$15>
+//Y猟犬屋／メニュー
+YDog／Menu
+<$00>
+
+
+
+
+
+
+<$06><$01>
+//買＿う
+Buy
+<$0E>
+//\n
+\n
+<$01>
+//売＿る
+Sell
+<$0E>
+//\n
+\n
+<$01>
+//登＿録
+Tame
+<$0E>
+//\n
+\n
+<$01>
+//やめる
+Exit
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//猟犬登録の制限３２匹を越えました\nよって、登録できません
+You have reached the 32 dog adoption limit.\n
+You cannot adopt any more dogs.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+You don't have any＿
+//<$1B>
+//イヌを　お持ちじゃないようですね
+dogs.
+<$12>
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Y猟犬屋／登＿録
+YDog／Tame
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//猟犬は太古より　人間の良きパートナー\nぜひ　あなたも　１頭いかがですか？\n
+Dogs have been man's best friend since\n
+ancient times.\n
+<$01>
+//取引する
+Shop
+<$0E>
+//／
+／
+<$01>
+//雑談する
+Chat
+<$0E>
+//／
+／
+<$01>
+//やめとく
+Exit
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//またの御利用を　お待ち申し上げます
+We look forward to your next visit.
+<$12>
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Y猟犬屋／買＿う
+YDog／Buy
+<$00>
+
+
+
+
+
+
+<CLEAR>
+
+<$00>
+
+
+
+
+<$06><$16><$15>
+//W
+W
+<$01>
+//猟犬LV
+Dog LVL＿
+<$1E>
+//02
+02
+<$1D><$02>
+//116
+116
+<$0E><$02>
+//216
+216
+<$1D><$1E>
+//39￥
+39￥
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Y猟犬屋／売＿る
+YDog／Sell
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//猟犬「
+Sell＿
+<$1D>
+//」を\n
+＿ for＿
+<$1E>
+//￥で売りますか？\n
+￥?\n
+<$01>
+//は＿い
+Yes
+<$0E>
+//／
+／
+<$01>
+//いいえ
+No
+<$0E>
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Y猟犬治療
+YVeterinarian
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//かわいい猟犬が　傷ついた時は\n手遅れにならないうちに\nここへ　連れて来なさいね
+If your darling dogs ever get hurt,\n
+bring them to me before it's too late!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケガしてる猟犬は　どのコなの？\nほら早く　診せなさい！\n
+Is your hunting dog injured?\n
+Let me!\n
+take a look!\n
+<$01>
+//診せる
+Treat
+<$0E>
+//／
+／
+<$01>
+//雑談する
+Chat
+<$0E>
+//／
+／
+<$01>
+//やめとく
+Exit
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//いらない道具や動物を　売っても\nまだ足りないときは、銀行でお金を\n借りてでも　治療費は作りなさいね
+If you need money, sell spare items or take a\n
+loan from the bank.
+<$12>
+\n
+<CLEAR>
+//それくらいは　判断を誤った\nバカな飼い主の\n最低限の　務めってモンよ
+Don't deny your dog even bare minimum care\n
+just because you're ignorant.
+<$12>
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+I can treat＿
+<$1D>
+//の治療には　
+＿for＿
+<$1D><$1E><$14>
+//￥必要ね\n
+￥,\n
+<$01>
+//依頼する
+Please help!
+<$0E>
+//／
+／
+<$01>
+//ほっとく
+Nevermind!
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//かわいそうな
+Poor, poor,＿
+<$1D>
+//…\n治療費も　満足に払えない\n貧乏な飼い主を　恨みなさいね
+...\n
+Bwame your daddy for being a wittle\n
+cheapskate.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//さてと　次はどのコなの\nほら早く　診せなさい！
+Well, if you have another dog, I'll see them\n
+next!
+<$12>
+<$00>
+
+
+
+
+
+
+//あぁ～傷に
+<$06>Whoa～!＿
+//<$1B>
+//ウジが　わいてるわよ
+Maggots in the wound!
+<$00>
+
+
+
+
+
+
+//肋骨と鎖骨が　折れてるだけね
+<$06>Does Baby have a bwoken wibcage?
+<$00>
+
+
+
+
+
+
+//肺炎と腹膜炎を　併発してるようね
+<$06>Aww, pneumonia, pewitonitis...
+<$00>
+
+
+
+
+
+
+//頭がい骨が　少し陥没してるわね
+<$06>Baby, your skull is caved in!
+<$00>
+
+
+
+
+
+
+//腹腔に　血が溜ってるようね
+<$06>Aww, Baby has tummy bweeding.
+<$00>
+
+
+
+
+
+
+//下腹部に損傷があるわよ　何なのコレ？
+<$06>Tsk, lower abdominal twauma...
+<$00>
+
+
+
+
+
+
+//腸が　はみ出しちゃってるわよ
+<$06>Baby's intestines are pwowapsed!
+<$00>
+
+
+
+
+
+
+//脚が　取れかかってるわね…
+<$06>What a gangwenous wittle weg!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//大丈夫！　まかせなさい！\n
+Leave it to me!\n
+I mess up only once every＿
+<$1E>
+//0回に１回くらいしか　失敗しないわ
+0＿times, tops!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//…………………………………∥
+.........!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//…………………………………￠
+.........￠
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//はい、治療終り∥\n傷が開くといけないから　
+And...done!\n
+Be careful with＿
+<$1D>
+//には\n当分、無理させないようにしてね
+,\n
+or these wounds may reopen.
+<$12>
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Y犬名判断
+YDog Divination
+<$00>
+
+
+
+
+
+
+
+<$00>
+
+
+
+
+<$06><CLEAR>
+//黙ってお座りすれば「ワン」と当たる！\n
+All bark, but no foresight?\n
+<$00>
+
+
+
+
+
+
+//猟犬の将来が　気になったら\n
+<$06>If you're worried about your dog's future, I\n
+give readings for＿
+<$1D><$1E><$14>
+//￥で　相談に乗ってしんぜよう
+￥.
+<$12>
+<$00>
+
+
+
+
+
+
+//猟犬の将来を　
+<$06>See your dog's future for only＿
+<$1D><$1E><$14>
+//￥で占うぞよ\n
+￥!\n
+<$01>
+//犬を見せる
+Show me
+<$0E>
+//／
+／
+<$01>
+//雑談する
+Chat
+<$0E>
+//／
+／
+<$01>
+//信じない！
+What a joke!
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//猟犬の長所や短所を　熟知すれば\n大胆な戦術が　使えるようになるし\n危険も　事前に避けられるぞな
+Learn your dogs' strengths and weaknesses to\n
+safely develop new battle strategies.
+<$12>
+<$00>
+
+
+
+
+
+
+//どの猟犬の未来を　覗こうかのぉ？
+<$06>Which dog shall I look at?
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$15>
+//b
+b
+<$1E><$14>
+//￥の見料も　持ち合わせぬ\n飼い主のもとでは　どんな犬も\n「お先、真っ暗∥」に決まっとるわ
+￥ is too much? You wouldn't need to ask me.\n
+Your dogs' futures were already dark!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//他の猟犬も　占うかえ？\n
+See about another dog?\n
+<$01>
+//は＿い
+Yes
+<$0E>
+//／
+／
+<$01>
+//いいえ
+No
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1D>
+//か…　
+, I see...
+<$1D>
+//名じゃのぉ…
+＿name, yes...
+<$12>
+//\nそれでは　占うぞよ
+\n
+May it be so!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//はァァーッ！　犬神星シリウスよ！\n迷える
+Oh, Sirius! Lead＿
+<$1D>
+//の明日を　我に示し給え！\n願わくば、光の道へ導き給え！
+＿when they are lost, to tomorrow on a path of\n
+light!
+<$12>
+\n
+<CLEAR>
+//ふむ…　見えたぞ
+My work...is done.
+<$12>
+<$00>
+
+
+
+
+
+
+//体力
+<$06>stamina
+<$00>
+
+
+
+
+
+
+//攻撃力
+<$06>ATK
+<$00>
+
+
+
+
+
+
+//素早さ
+<$06>SPD
+<$00>
+
+
+
+
+
+
+//体力
+<$06>stamina
+<$00>
+
+
+
+
+
+
+//守備力
+<$06>DEF
+<$00>
+
+
+
+
+
+
+//素早さ
+<$06>SPD
+<$00>
+
+
+
+
+
+
+//攻撃力
+<$06>ATK
+<$00>
+
+
+
+
+
+
+//守備力
+<$06>DEF
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1D>
+//の　
+'s＿
+<$1D>
+//と
+＿and＿
+<$1D>
+//は　あまり\n上がらんようじゃな…　困ったのぉ…\n性格を一言で表すなら…
+＿might not increase much due to their\n
+personality.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ただの臆病者…\n主人を置いて　平気で逃げ出すぞ\nあてにせんほうが　身のためじゃ
+This one's a coward that'd turn on its owner\n
+and run away after the first sign of danger.\n
+Don't depend on them, for your own sake.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//阿呆…　極めつけの阿呆！\n分をわきまえずに　強い相手に向かうゆえ\n結果は　目も当てられんわな…
+Fool! What dog doesn't look before it leaps\n
+in the wake of combat?! You, be careful with\n
+this one.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//平々凡々…　つまらぬ犬じゃ\nそのへんに　掃いて捨てるほどおる\nいわゆる駄犬じゃな
+Typical, typical, typical. This dog is as\n
+generic as they come, which isn't good. Get\n
+rid of it.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//生ける屍…　精気が全く感じられん…\nまるで　死を望んでおるようじゃ…\n犬死は　必至と見た
+This one is a dead dog walking. There's not a\n
+trace of life in its eyes. Its death is\n
+inevitable.
+<$12>
+<$00>
+
+
+
+
+
+
+//守備力
+<$06>DEF
+<$00>
+
+
+
+
+
+
+//素早さ
+<$06>SPD
+<$00>
+
+
+
+
+
+
+//攻撃力
+<$06>ATK
+<$00>
+
+
+
+
+
+
+//守備力
+<$06>DEF
+<$00>
+
+
+
+
+
+
+//体力
+<$06>stamina
+<$00>
+
+
+
+
+
+
+//攻撃力
+<$06>ATK
+<$00>
+
+
+
+
+
+
+//素早さ
+<$06>SPD
+<$00>
+
+
+
+
+
+
+//体力
+<$06>stamina
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1D>
+//は　
+'s＿
+<$1D>
+//と
+＿and＿
+<$1D>
+//が　育つほどに\nメキメキと　上がるな\nそれに…
+＿will increase as they continue to grow, and\n
+also...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//なかなか慎重な性格ゆえ　ケガも少ない\n医者いらずの　経済的な犬じゃ
+This dog is rarely injured, due to it's\n
+cautious demeanor. That means less vet\n
+visits.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//「勇猛果敢」という言葉は\nこの犬のためにある！　どんな相手にも\n臆することなく挑む　心強い味方じゃ
+This dog can only be described as "selfless\n
+and courageous"! If anyone has your back in\n
+life, it's them!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//攻めてよし！　守ってよし！\nこれほど調和のとれた犬は　珍しいぞ\n大切に育てられい！
+It attacks, and it protects! Such harmony is\n
+rare in dogs! Raise this one carefully!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//主人のためなら　命も捨てる\n忠義の犬とは　こやつのことじゃ！\n良い家来をもって　幸せじゃのぉ
+This loyal friend would give its life for its\n
+master. You'd be honored to have such a dog\n
+serve you.
+<$12>
+<$00>
+
+
+
+
+
+
+//かわいい
+<$06>A cute
+<$00>
+
+
+
+
+
+
+//強そうな
+<$06>A tough
+<$00>
+
+
+
+
+
+
+//覚えにくい
+<$06>A hazy
+<$00>
+
+
+
+
+
+
+//イカれた
+<$06>A wild
+<$00>
+
+
+
+
+
+
+//犬らしい
+<$06>A savvy
+<$00>
+
+
+
+
+
+
+//スケベな
+<$06>A sensual
+<$00>
+
+
+
+
+
+
+//古風な
+<$06>An old-fashioned
+<$00>
+
+
+
+
+
+
+//今どきの
+<$06>A modern
+<$00>
+
+
+
+
+
+
+//イキな
+<$06>A stylish
+<$00>
+
+
+
+
+
+
+//簡単な
+<$06>A simple
+<$00>
+
+
+
+
+
+
+//美しい
+<$06>A lovely
+<$00>
+
+
+
+
+
+
+//愛のない
+<$06>A shallow
+<$00>
+
+
+
+
+
+
+//賢そうな
+<$06>A clever
+<$00>
+
+
+
+
+
+
+//スカした
+<$06>A bemusing
+<$00>
+
+
+
+
+
+
+//凝り過ぎの
+<$06>A stern
+<$00>
+
+
+
+
+
+
+//悪くない
+<$06>A complicated
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Y闘犬場／受付
+YDGF Dojo／Reception
+<$00>
+
+
+
+
+
+
+//目指すは、闘犬長者∥　自分の猟犬こそ\n世界一と思う奴は　今すぐ参加しな∥\n
+<$06>Let your dog fight in the dojo to prove who's\n
+strongest!\n
+<$01>
+//挑戦するぜ
+Enroll
+<$0E>
+//／
+／
+<$01>
+//ルール説明
+Rules
+<$0E>
+//／
+／
+<$01>
+//やめとく…
+Exit
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//要は、猟犬同志の勝ち抜き戦だ！\n１回勝つたびに　もらえる懸賞金は\n天井知らずに　はね上がる寸法だ∥
+In the dojo, your hunting dogs fight for you!\n
+You'll accumulate prize money as they win.
+<$12>
+\n
+<CLEAR>
+//犬がくたばるか　飼い主が×ボタンで\n「待った∥」をかけると　負け∥
+If a fight's not going your way, press the ×\n
+button to shout, "STOP," and end the match.
+<$12>
+\n
+<CLEAR>
+//負けたら　そこまでの賞金は　チャラ、\nだから　どこで引くかが　ポイントだ
+When you quit, you cut your winnings, so this\n
+is a game about knowing your limits.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//参加料は　
+The entry fee is＿
+<$1D><$1E><$14>
+//￥ポッキリ！\n三役以上になれば　給金も出る！\nさあ　見てても　金にはならないゼ！
+￥!\n
+All participants 3rd-tier or higher get paid!\n
+Come make some money!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//まともな猟犬もいねぇくせに…\nまさかおめえが参加するのかよ？\n
+You want to participate, even without a\n
+decent dog?\n
+<$01>
+//は＿い
+Yes
+<$0E>
+//／
+／
+<$01>
+//いいえ
+No
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//まっ　尻尾がはえてからに\nしときなよ
+Learning to bite isn't as gratifying if you\n
+can't bark about it too.
+<$12>
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Y闘犬場
+YDGF Dojo
+<$00>
+
+
+
+
+
+
+//出るのはどの犬だい？
+<$06>Which dog will fight?
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//そいつが「ワン」と\n鳴いたら、出場させてもいいぜ
+If a dog can let out a bark,\n
+it's allowed to fight.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//おっと！　挑戦は　１シーズンにつき\n各猟犬１回きりってのが　決まりでよ、\n次の
+Oops! We only allow dogs to challenge the\n
+dojo once per season. Come back next＿
+<$1D>
+//に　また来てくんな
+＿and try again!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><$1D>
+//号は　
+'s＿
+<$1D>
+//からの出場だ！\n参加料　
+＿entry fee is＿
+<$1D><$1E><$14>
+//￥！　いいな？\n
+￥, okay?\n
+<$01>
+//は＿い
+Yes
+<$0E>
+//／
+／
+<$01>
+//いいえ
+No
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$15>
+//b
+b
+<$1E><$14>
+//￥も　ねぇのかよ…\n
+￥ is a no-go?\n
+Maybe you should sell＿
+<$1D>
+//号を売っちまったら　どうだ？
+.
+<$12>
+<$00>
+
+
+
+
+
+
+//前頭十二枚目
+<$06>16th-tier
+<$00>
+
+
+
+
+
+
+//前頭十一枚目
+<$06>15th-tier
+<$00>
+
+
+
+
+
+
+//前頭十枚目
+<$06>14th-tier
+<$00>
+
+
+
+
+
+
+//前頭九枚目
+<$06>13th-tier
+<$00>
+
+
+
+
+
+
+//前頭八枚目
+<$06>12th-tier
+<$00>
+
+
+
+
+
+
+//前頭七枚目
+<$06>11th-tier
+<$00>
+
+
+
+
+
+
+//前頭六枚目
+<$06>10th-tier
+<$00>
+
+
+
+
+
+
+//前頭五枚目
+<$06>9th-tier
+<$00>
+
+
+
+
+
+
+//前頭四枚目
+<$06>8th-tier
+<$00>
+
+
+
+
+
+
+//前頭三枚目
+<$06>7th-tier
+<$00>
+
+
+
+
+
+
+//前頭二枚目
+<$06>6th-tier
+<$00>
+
+
+
+
+
+
+//前頭筆頭
+<$06>5th-tier
+<$00>
+
+
+
+
+
+
+//小結
+<$06>4th-tier
+<$00>
+
+
+
+
+
+
+//関脇
+<$06>3rd-tier
+<$00>
+
+
+
+
+
+
+//大関
+<$06>2nd-tier
+<$00>
+
+
+
+
+
+
+//横綱
+<$06>Yokozuna
+<$00>
+
+
+
+
+
+
+//神取
+<$06>Kandori
+<$00>
+
+
+
+
+
+
+//青梅
+<$06>Aoume
+<$00>
+
+
+
+
+
+
+//丸橋
+<$06>Maruhashi
+<$00>
+
+
+
+
+
+
+//阿邪
+<$06>Axie
+<$00>
+
+
+
+
+
+
+//白鶴
+<$06>Hakutsuru
+<$00>
+
+
+
+
+
+
+//聖子
+<$06>Seiko
+<$00>
+
+
+
+
+
+
+//黄桜
+<$06>Kizakura
+<$00>
+
+
+
+
+
+
+//百恵
+<$06>Momoe
+<$00>
+
+
+
+
+
+
+//小柳
+<$06>Koyanagi
+<$00>
+
+
+
+
+
+
+//天地
+<$06>Tenchi
+<$00>
+
+
+
+
+
+
+//阿福
+<$06>Afu
+<$00>
+
+
+
+
+
+
+//政子
+<$06>Masako
+<$00>
+
+
+
+
+
+
+//呂母
+<$06>Mother Lu
+<$00>
+
+
+
+
+
+
+//羅士
+<$06>Luo Shi
+<$00>
+
+
+
+
+
+
+//林珍
+<$06>Lin Zhen
+<$00>
+
+
+
+
+
+
+//淀君
+<$06>Yodogimi
+<$00>
+
+
+
+
+
+
+//風魔
+<$06>Fuma
+<$00>
+
+
+
+
+
+
+//半蔵
+<$06>Hanzo
+<$00>
+
+
+
+
+
+
+//諸星
+<$06>Morohoshi
+<$00>
+
+
+
+
+
+
+//本郷
+<$06>Hongo
+<$00>
+
+
+
+
+
+
+//隆盛
+<$06>Takamori
+<$00>
+
+
+
+
+
+
+//倍達
+<$06>Masutatsu
+<$00>
+
+
+
+
+
+
+//若貴
+<$06>Wakataka
+<$00>
+
+
+
+
+
+
+//北尾
+<$06>Kitao
+<$00>
+
+
+
+
+
+
+//陸奥
+<$06>Mutsu
+<$00>
+
+
+
+
+
+
+//長門
+<$06>Nagato
+<$00>
+
+
+
+
+
+
+//赤城
+<$06>Akagi
+<$00>
+
+
+
+
+
+
+//天竜
+<$06>Tenryu
+<$00>
+
+
+
+
+
+
+//長岡
+<$06>Nagaoka
+<$00>
+
+
+
+
+
+
+//八房
+<$06>Yatsubusa
+<$00>
+
+
+
+
+
+
+//文殊
+<$06>Manjushri
+<$00>
+
+
+
+
+
+
+//赤影
+<$06>Akakage
+<$00>
+
+
+
+
+
+
+//神取
+<$06>Kandori
+<$00>
+
+
+
+
+
+
+//青梅
+<$06>Aoume
+<$00>
+
+
+
+
+
+
+//丸橋
+<$06>Maruhashi
+<$00>
+
+
+
+
+
+
+//阿邪
+<$06>Axie
+<$00>
+
+
+
+
+
+
+//白鶴
+<$06>Hakutsuru
+<$00>
+
+
+
+
+
+
+//聖子
+<$06>Seiko
+<$00>
+
+
+
+
+
+
+//黄桜
+<$06>Kizakura
+<$00>
+
+
+
+
+
+
+//百恵
+<$06>Momoe
+<$00>
+
+
+
+
+
+
+//小柳
+<$06>Koyanagi
+<$00>
+
+
+
+
+
+
+//天地
+<$06>Tenchi
+<$00>
+
+
+
+
+
+
+//阿福
+<$06>Afu
+<$00>
+
+
+
+
+
+
+//政子
+<$06>Masako
+<$00>
+
+
+
+
+
+
+//呂母
+<$06>Mother Lu
+<$00>
+
+
+
+
+
+
+//羅士
+<$06>Luo Shi
+<$00>
+
+
+
+
+
+
+//林珍
+<$06>Lin Zhen
+<$00>
+
+
+
+
+
+
+//淀君
+<$06>Yodogimi
+<$00>
+
+
+
+
+
+
+//風魔
+<$06>Fuma
+<$00>
+
+
+
+
+
+
+//半蔵
+<$06>Hanzo
+<$00>
+
+
+
+
+
+
+//諸星
+<$06>Morohoshi
+<$00>
+
+
+
+
+
+
+//本郷
+<$06>Hongo
+<$00>
+
+
+
+
+
+
+//隆盛
+<$06>Takamori
+<$00>
+
+
+
+
+
+
+//倍達
+<$06>Masutatsu
+<$00>
+
+
+
+
+
+
+//若貴
+<$06>Wakataka
+<$00>
+
+
+
+
+
+
+//北尾
+<$06>Kitao
+<$00>
+
+
+
+
+
+
+//陸奥
+<$06>Mutsu
+<$00>
+
+
+
+
+
+
+//長門
+<$06>Nagato
+<$00>
+
+
+
+
+
+
+//赤城
+<$06>Akagi
+<$00>
+
+
+
+
+
+
+//天竜
+<$06>Tenryu
+<$00>
+
+
+
+
+
+
+//長岡
+<$06>Nagaoka
+<$00>
+
+
+
+
+
+
+//八房
+<$06>Yatsubusa
+<$00>
+
+
+
+
+
+
+//文殊
+<$06>Manjushri
+<$00>
+
+
+
+
+
+
+//赤影
+<$06>Akakage
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ＷＩＮＮＥＲ∥　
+THE WINNER IS＿
+<$1D>
+//号∥\n
+!\n
+(
+<$1D>
+//号の累積賞金は　没収∥
+'s cumulative winnings were revoked.)
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ＷＩＮＮＥＲ∥　
+THE WINNER IS＿
+<$1D>
+//号∥\n
+!\n
+(
+<$1D>
+//号は　大関に降格∥\n再起を　待ってるゼ∥
+demoted to 2nd-Tier.\n
+We await your comeback!)
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ＷＩＮＮＥＲ∥　
+THE WINNER IS＿
+<$1D>
+//号∥
+!
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+(Promoted to＿
+<$1D>
+//に昇進∥
+!)
+<$00>
+
+
+
+
+
+
+//\n懸賞金
+<$06>\n
+Winnings earned:＿
+<$1E>
+//￥　獲得∥
+￥!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//累積賞金は　
+Winnings earned:＿
+<$1E>
+//￥ですが\n続けて勝負しますか？\n
+￥\n
+Continue fighting?\n
+<$01>
+//は＿い
+Yes
+<$0E>
+//／
+／
+<$01>
+//いいえ
+No
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//S<CLEAR>ケンは　賞金
+S<CLEAR>Ken received\n
+<$1E>
+//￥を\n受け取った∥
+￥ in winnings!
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//さて　ここで　新
+And here's your new
+<$1D>
+//の
+＿
+<$1D>
+//号に\n闘犬センターからの　お祝いです∥
+, courtesy of the Dog Center!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1D>
+//号には　来季より　
+＿has earn you a lifelong\n
+monthly stipend of＿
+<$1E>
+//￥の\n給金が　命ある限り　支給されます∥
+￥\n
+from next season onwards.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//さらに、
+Furthermore,＿
+<$1D>
+//号は栄光に輝く\n伝統の四股名「
+＿is deemed worthy to inherit the legendary\n
+ring name,＿
+<$1D>
+//」を襲名できます∥\n
+!\n
+<$01>
+//襲名する∥
+Adopt ring name
+<$0E>
+//／
+／
+<$01><$1D>
+//のまま
+Keep old name
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><$19>
+//1<CLEAR>第
+1<CLEAR>Give it＿
+<$1E>
+//2代目「
+up for＿
+<$1D>
+//」誕生∥\nＣＯＮＧＲＡＴＵＬＡＴＩＯＮＳ∥
+＿Ⅱ!\n
+Congratulations!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//これより　
+And now, the fight for＿
+<$1D>
+//との取組み∥\n懸賞金　
+＿and a prize of＿
+<$1E>
+//￥
+￥...
+<$12>
+\n
+<CLEAR>
+//ヒガシー　
+From across the ring,＿
+<$1D>
+//号∥\nニーシー　
+, is staring down their opponent,＿
+<$1D>
+//号∥\n両者、見合って…
+.\n
+Get ready, get set...
+<$12>
+\n
+<CLEAR>
+//ＤＯＧ　ＦＩＧＨＴ∥
+DOG FIGHT!!
+<$12>
+<$00>
+
+
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+

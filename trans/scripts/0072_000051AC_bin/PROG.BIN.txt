@@ -1,0 +1,753 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $00000000, 16)
+#JMP($00000900)
+
+
+#WRITE(PTR, $0014)
+#WRITE(PTR, $0016)
+#WRITE(PTR, $0018)
+#WRITE(PTR, $001A)
+c002.obj
+<$00>
+
+
+
+
+c009.obj
+<$00>
+
+
+
+
+c011.obj
+<$00>
+
+
+
+
+c023.obj
+<$00>
+
+
+
+
+c103a0r.obj
+<$00>
+
+
+
+
+c106a0r.obj
+<$00>
+
+
+
+
+c109a0.obj
+<$00>
+
+
+
+
+c116a1.obj
+<$00>
+
+
+
+
+c121a1.obj
+<$00>
+
+
+
+
+c124a1.obj
+<$00>
+
+
+
+
+c162_1.obj
+<$00>
+
+
+
+
+#WRITE(PTR, $001C)
+//ネブール
+<$06>Nebul＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+//ジルって名の　お嬢さんに頼めば\n
+<$06>There's a gal named Jill who tames＿
+//<$1B>
+//オオカミを　内緒で猟犬に\n登録してくれるゼ
+wolves in secret.
+<$12>
+\n
+<CLEAR>
+//この町にいることは　確かなんだが\nヤサが　どこにあるかは\n誰にも　わかんねえんだよな
+She must live somewhere nearby, but no one\n
+has found her house.
+<$12>
+<$00>
+
+
+
+
+
+
+//あんた…？　もしかして　ここまで\n歩いてきたのかい？　すごいねえ…\n
+<$06>Did you...seriously walk all the way out\n
+here? Wow!\n
+<$01>
+//違いますよ
+No, I didn't
+<$0E>
+//／
+／
+<$01>
+//すごいだろ
+Yeah, "Wow"!
+<$0E>
+<$00>
+
+
+
+
+
+
+//右
+<$06>right
+<$00>
+
+
+
+
+
+
+//左
+<$06>left
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//…だよねぇ\n楽な方法があるのに　今どき\n歩いてくるなんて　バカだよね
+Y'know, technology's come a long way. It's\n
+kind of stupid to walk so much.
+<$12>
+\n
+<CLEAR>
+//ネブール行きの直行便は　
+Direct flight into Nebul exist. Go to＿
+<$1D>
+//の\nバードラインの
+, and chat with the＿
+<$1D>
+//のコと　続けて３回、\n雑談すれば　誰でも使えるものねぇ
+-side birdline attendant 3 times.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//…へぇ　じゃあ、帰りも間違えずに\nこっちの出口から　帰るんだよ
+...Well, make sure you take this exit on the\n
+way out.
+<$12>
+\n
+<CLEAR>
+//もう１つのほうを　出ちゃうと\n
+If you go out through the other door, there's\n
+a lot of dangerous animals like＿
+//<$1B>
+//サイとか
+rhinos and＿
+//<$1B>
+//オオカミとか　危ない\n動物ばかりで　生きて還れないからねぇ
+wolves, so you won't get out alive!
+<$12>
+<$00>
+
+
+
+
+
+
+//友情、若さ、勇気、愛、約束…\nいくら金を積んでも　買えない\n大切なモノは　確かにある！
+<$06>Friendship, youth, courage, love, promises...\n
+There are some things money can't buy.
+<$12>
+\n
+<CLEAR>
+//しかし、そんなモノは　ほんの例外で\nたいていのモノは　お金で買えると\nこの町は　教えてくれるよ
+That being said, if something CAN be bought,\n
+this town's got it for sale!
+<$12>
+<$00>
+
+
+
+
+
+
+//日頃はおとなしい　動物でも卵を\n盗まれると　途端に性格が\n急変するのもいるから　要注意よ
+<$06>Watch out! Even the most docile animal will\n
+act out if its eggs are stolen.
+<$12>
+<$00>
+
+
+
+
+
+
+//店で、イイなと思う物や\n珍しい動物を　見かけたら\n借金してでも　その時に買わなきゃね
+<$06>If you see good items or rare animals in a\n
+store, you should buy them on the spot!
+<$12>
+\n
+<CLEAR>
+//あんたが　欲しいモンは\n他の人だって欲しいに　決まってる！\nすぐに　売れちゃうわよ
+You're not the only person shopping. If you\n
+don't grab it, someone else will!
+<$12>
+<$00>
+
+
+
+
+
+
+//動物図鑑の動物の絵の　横だか下だかに\nＣとかＦとかＢとか　あるだろ？\nあの記号の意味を　教えてあげるよ 
+<$06>You see those letters under the photos in\n
+your Animal Bible, like "C", "F" or "B"?
+<$12>
+\n
+<CLEAR>
+//「Ａ」は　Ａ級保護指定動物、\nお上のお達しで　売買を禁止されている\nこの町一番の　売れ筋商品サ！
+Class A animals are protected, so once the\n
+feds stepped in, Class A trading was banned.\n
+But...Class As are hot sellers in this town!
+<$12>
+\n
+<CLEAR>
+//「Ｇ」や「Ｈ」は　クズだね\n
+"G" or "H", on the other hand, are\n
+disposable. Just like＿
+//<$1B>
+//ブタや私や　あんたのことサ…
+pigs, just like you or me...
+<$12>
+<$00>
+
+
+
+
+
+
+//買いたいヤツがいるから　売る！\nここは　そういう当たり前の商売の基本を\n真面目に実践している　町ってわけよ
+<$06>Where people buy, I sell! Everyone around\n
+here takes their business seriously!
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $001E)
+//クン、クンクン………？
+<$06>Sniff...sniff, sniff?
+<$12>
+\n
+<CLEAR>
+//とくに目新しい　ニオイは\nしないみたいよ
+None of the scents around here stand out.
+<$12>
+<$00>
+
+
+
+
+
+
+//……東
+<$06>...East
+<$00>
+
+
+
+
+
+
+//……西
+<$06>...West
+<$00>
+
+
+
+
+
+
+//……南
+<$06>...South
+<$00>
+
+
+
+
+
+
+//……北
+<$06>...North
+<$00>
+
+
+
+
+
+
+//…北東
+<$06>...North-east
+<$00>
+
+
+
+
+
+
+//…北西
+<$06>...North-west
+<$00>
+
+
+
+
+
+
+//…南東
+<$06>...South-east
+<$00>
+
+
+
+
+
+
+//…南西
+<$06>...South-west
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、…
+<$06>! That's where we'll find a＿
+<$1D>
+//に行けば
+.
+<$00>
+
+
+
+
+
+
+//直進
+<$06>For
+<$00>
+
+
+
+
+
+
+//右よ
+<$06>Right
+<$00>
+
+
+
+
+
+
+//左よ
+<$06>Left
+<$00>
+
+
+
+
+
+
+//後ろ
+<$06>Back
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、絶対に
+<$06>wards, got it? I'm sure we'll find a＿
+<$1D>
+//∥
+＿there!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sリンダは　「女の勘」を\nはたらかせた∥
+SLinda used her woman's intuition...
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//…ごめんね、\n今日は　勘がはたらかないわ…
+...Sorry. I don't have it in me today.
+<$12>
+<$00>
+
+
+
+
+
+
+//運命の
+<$06>Fated＿
+<$00>
+
+
+
+
+
+
+//新しい
+<$06>New＿
+<$00>
+
+
+
+
+
+
+//素敵な
+<$06>Great＿
+<$00>
+
+
+
+
+
+
+//未知の
+<$06>Unknown＿
+<$00>
+
+
+
+
+
+
+//何か
+<$06>things＿
+<$00>
+
+
+
+
+
+
+//発見
+<$06>discoveries＿
+<$00>
+
+
+
+
+
+
+//お宝
+<$06>treasures＿
+<$00>
+
+
+
+
+
+
+//動物
+<$06>animals＿
+<$00>
+
+
+
+
+
+
+//に　出会える…
+<$06>could appear.
+<$00>
+
+
+
+
+
+
+//が　待ってる…
+<$06>await us...
+<$00>
+
+
+
+
+
+
+//気がするわ∥
+<$06>are there.
+<$00>
+
+
+
+
+
+
+//チャンスよ∥
+<$06>are in our grasp!
+<$00>
+
+
+
+
+
+
+//今しかないわ
+<$06>could slip through our fingers!
+<$00>
+
+
+
+
+
+
+//間違いなし∥
+<$06>are dead head!
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$1D><$1D><$1D>
+//\n
+\n
+<$1D><$12>
+\n
+<CLEAR>
+//
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信があるの∥
+I'm sure of it!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信は　ないけどね…
+Although, I'm not totally certain...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//絶対なんだから∥
+I'm absolutely certain!
+<$12>
+<$00>
+
+
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+

@@ -1,0 +1,37 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $00000000, 16)
+#JMP($0000028A)
+
+
+#WRITE(PTR, $0012)
+#WRITE(PTR, $0014)
+#WRITE(PTR, $0016)
+#WRITE(PTR, $0018)
+pict12.obj
+<$00>
+
+
+
+
+c002.obj
+<$00>
+
+
+
+
+#WRITE(PTR, $001A)
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+

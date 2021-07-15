@@ -1,0 +1,1886 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $00000000, 16)
+#JMP($00001463)
+
+
+#WRITE(PTR, $0016)
+#WRITE(PTR, $0018)
+#WRITE(PTR, $001A)
+#WRITE(PTR, $001C)
+c002.obj
+<$00>
+
+
+
+
+c009.obj
+<$00>
+
+
+
+
+c023.obj
+<$00>
+
+
+
+
+c032.obj
+<$00>
+
+
+
+
+c034.obj
+<$00>
+
+
+
+
+c035.obj
+<$00>
+
+
+
+
+c159a0.obj
+<$00>
+
+
+
+
+c159a1.obj
+<$00>
+
+
+
+
+c160a1.obj
+<$00>
+
+
+
+
+c161a1.obj
+<$00>
+
+
+
+
+c161a2.obj
+<$00>
+
+
+
+
+c162_2.obj
+<$00>
+
+
+
+
+kao_m1.obj
+<$00>
+
+
+
+
+kao_m4.obj
+<$00>
+
+
+
+
+kao_g1.obj
+<$00>
+
+
+
+
+kao_ch1.obj
+<$00>
+
+
+
+
+#WRITE(PTR, $001E)
+//ジャンクパレス３Ｆ
+<$06>Junk Palace 3F＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//俺ら、フリーのハンターは　情報が\n命だから　自前の情報網があるのさ！\nとくに　長老は天才的ハッカーでね…
+Freelancers together make up a huge\n
+information network. Even the elder is in on\n
+it!
+<$12>
+\n
+<CLEAR>
+//連邦の極秘データバンクも　顔パスよ！\n知らないほうが　幸せなことまで\nご存知の　優しくて恐ろしいお人さ
+Seriously, he's a skilled hacker who can\n
+waltz into top secret federal databanks!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//当然のことだけど　経験値ってのは\n自分と同等か　それ以上のヤツを\n相手にしなきゃ　なかなか増えねぇよ
+Good experience comes from facing foes equal\n
+to or stronger than ourselves.
+<$12>
+\n
+<CLEAR>
+//つまり　弱い者イジメばかりしてる\nそんなヤツは　いつまでたっても\nそれなりってことさ
+He who bullies small fry, earns small\n
+fry.(And a reputation for bullying.)
+<$12>
+\n
+<CLEAR>
+//でも　俺は好きさ、弱い者イジメがよ
+But that's fine by me! I happen to like\n
+preying the weak!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//逃げた時の　動物からの追撃は\nこっちの頭数が　減れば減るほど\nそれだけ　きびしくなってくるぞ
+When fleeing, accept that the last ally in\n
+the fray has the worst chance of escape.
+<$12>
+\n
+<CLEAR>
+//だから人間様が　最初に逃げることが\n生き残るための　セオリーだな\nなーに、犬は犬で　何とかするって！
+That's why it's better to let the humans flee\n
+first. Dogs can fend for themselves!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ヒュームのやつ、娘が箱船の乗員に\n決った途端　狩りをやめちまったよ\nでも　今さら手遅れだよなぁ…
+As soon as Hume heard his daughter became an\n
+Astro Ark pilot, he stopped hunting.
+<$12>
+\n
+<CLEAR>
+//あいつが　絶滅に追い込んだ動物が\n生き返ってくるわけじゃ　ないしよ
+If only she'd done so sooner, maybe Hume\n
+wouldn't have rendered as many species\n
+extinct!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//オンナと同じでよ、\n動物も逃げるからって　こっちより\n弱いってワケじゃ　ないんだよな
+Animals don't always run from you because\n
+they think you're stronger.
+<$12>
+\n
+<CLEAR>
+//オンナと同じでよ…\nそういうヤツに限って　えげつない\nシッペ返しを　してくれるワケさ
+They're like women, you know? Their "playing\n
+hard to get" is my
+"thrill of the hunt"!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ルリナスタワーに　行った時\n地下室で　卵型の大きなカプセルに\n入った化け物を　見たよ…
+When I went to Llinas' Tower, I saw a monster\n
+in an egg-like capsule in the basement.
+<$12>
+\n
+<CLEAR>
+//あれも　アナビスの遺産だとしたら\nアナビスってのは　神じゃなくて\n悪魔のたぐいだと　思うねぇ
+If that monster too is a child of Annabis,\n
+then Annabis is no god. He's a devil!
+<$12>
+<$00>
+
+
+
+
+
+
+//代行ハンターの首領、ゴメス様だ\nこの星全体が　俺の縄張りだ∥\n
+<$06>I'm the lead proxy hunter, Gomez. This world\n
+is MINE!\n
+<$01>
+//依頼する
+Hire
+<$0E>
+//／
+／
+<$01>
+//雑談する
+Chat
+<$0E>
+//／
+／
+<$01>
+//やめとく
+Exit
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//最初に言っとくけど　俺は\nハシタ金じゃ　動かないゼ！
+First thing's first! I don't work for scrap,\n
+understand?
+<$12>
+<$00>
+
+
+
+
+
+
+//ケン、久しぶりだね！
+<$06>Ken, long time no see!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//このジャンクパレスが\n私の子供の頃の　遊び場さ
+When I was a kid, Junk Palace was my\n
+playground!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ゴメスに　
+You know how puppy play works, right? We used\n
+to get Gomez to act like a
+//<$1B>
+//イヌのマネを\nやらせて　よくいじめたもんだ
+dog and tease him for it.
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0020)
+//ジャンクパレス４Ｆ
+<$06>Junk Palace 4F＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+//とりあえず、この大地の隅々まで\n自分の足で　歩くことを\n目標にしてみては　どうかの
+<$06>For now, why not make it your goal to travel\n
+the four corners of the world?
+<$12>
+\n
+<CLEAR>
+//それに飽きたら　地獄の入口でも\n捜すつもりで　洞くつに\n入ってみるのも　また、面白い…
+If that gets boring, try looking for the\n
+Gates of Hell! That might be fun!
+<$12>
+\n
+<CLEAR>
+//お前さんの　おやじ殿のようにな\n案外、天国を見つけるかもな\nホホホホホホホ
+Who knows? You might just find the way to\n
+heaven like your father did! Hohohohoho!
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0022)
+<$06><$1D>
+//　
+
+<$1E>
+//頭\n
+x\n
+<$00>
+
+
+
+
+
+
+//俺は代行ハンターの　
+<$06>I'm ＿
+<$1D>
+//様だ\n
+, a proxy hunter!\n
+<$1D>
+//辺りが　縄張りだゼ！\n
+＿is my turf!\n
+<$01>
+//契約する
+Hire
+<$0E>
+//／
+／
+<$01>
+//雑談する
+Chat
+<$0E>
+//／
+／
+<$01>
+//やめとく
+Exit
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//まっ、サイフと　よーく相談してから\nもう１度　来るんだな
+Ha! Check your wallet and come back.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//この
+Have no fear! No job's too much for the\n
+great＿
+<$1D>
+//様の仕事に\n抜かりは　ねぇから　安心しな∥\n
+!\n
+I'll see you next＿
+<$1D>
+//になったらまた、ここで会おうゼ
+.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//で、この
+I get the job done, or my name isn't＿
+<$1D>
+//様の腕に\nあんた、いくらの値をつけるんだい？
+! Name your price.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//おいおい、こちとら命を賭けてんだゼ！\n冗談も　ほどほどにしてくれよ
+Woah, hold it! I'm not putting my life on the\n
+line for pennies.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//もう少し　色をつけてもらえると\nやる気のレベルが　変わるんだがなぁ
+I need a little more "motivation".
+<$00>
+
+
+
+
+
+
+//\n持金
+<$06>\n
+<$1E>
+//40￥→契約
+￥→
+<$01><$1E>
+//40￥
+40
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//まったく、ダンナにゃ　かなわねぇな\n
+Heh, can't say no to that!\n
+<$1E>
+//￥で手を打つよ\n
+￥＿it is, then!\n
+<$01>
+//契約する
+Deal!
+<$0E>
+//／
+／
+<$01>
+//やめとく
+Nevermind
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ガキの使いじゃ　あるめぇし\nそんなハシタ金で　動けるかよ！
+I'm not a damn babysitter.\n
+Come back when you have real money!
+<$12>
+<$00>
+
+
+
+
+
+
+//ゴメス
+<$06>Gomez
+<$00>
+
+
+
+
+
+
+//ロドリゲス
+<$06>Rodriguez
+<$00>
+
+
+
+
+
+
+//アントニオ
+<$06>Antonio
+<$00>
+
+
+
+
+
+
+//ミゲール
+<$06>Miguel
+<$00>
+
+
+
+
+
+
+//トニーニョ
+<$06>Toninho
+<$00>
+
+
+
+
+
+
+//ルイージ
+<$06>Luigi
+<$00>
+
+
+
+
+
+
+//レオナルド
+<$06>Leonardo
+<$00>
+
+
+
+
+
+
+//パンチョ
+<$06>Pancho
+<$00>
+
+
+
+
+
+
+//Ｔ
+<$06>T
+
+//-10
+-10
+
+<$00>
+
+
+
+
+
+
+//Ｄ
+<$06>D
+
+//-10
+-10
+
+<$00>
+
+
+
+
+
+
+//Ｂ
+<$06>B
+
+//-06
+-06
+
+<$00>
+
+
+
+
+
+
+//Ｇ
+<$06>G
+
+//-02
+-02
+
+<$00>
+
+
+
+
+
+
+//Ｊ
+<$06>J
+
+//-21
+-21
+
+<$00>
+
+
+
+
+
+
+//Ｂ
+<$06>B
+
+//-22
+-22
+
+<$00>
+
+
+
+
+
+
+//Ｋ
+<$06>K
+
+//-14
+-14
+
+<$00>
+
+
+
+
+
+
+//よっ∥　ダンナ∥　待ってたゼ∥\nさっそく　
+<$06>Hey, it's been a minute! You're just time\n
+for＿
+<$1D>
+//様の戦果報告だ∥\n今回の獲物は…
+'s Hunting Report!\n
+The catch of the day is...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//おっとっと……\nカーゴの空きが　２つなきゃ\n困るねぇ　ダンナ…
+Uh-oh, someone needs to empty 2 spaces from\n
+his trans-cargo unit!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//カラケツだ∥\nまっ　こういうことも\nたまには　あらぁな　ダハハハ…
+...nada!\n
+I hate to kill the mood, but these things do\n
+happen, hehe...
+<$12>
+<$00>
+
+
+
+
+
+
+<CLEAR>
+
+<$00>
+
+
+
+
+<$06>
+//TRANS-CARGO IN
+All right, in the TCU you go,＿
+
+//∥
+<$12>
+\n
+<CLEAR>
+//まっ　こんなとこだ\nどーだ￠　安い買物だったろうが？\n
+Now, that's what I call "bang for your buck"!\n
+<$01>
+//は＿い
+Yeah!
+<$0E>
+//／
+／
+<$01>
+//いいえ
+Hmm.
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ダハハハ…
+Dahahahaha!
+<$12>
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Yホテル
+YHotel
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//お気をつけて！
+Take care!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//野宿は　危険ですよ
+Camping's dangerous, you know.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//いらっしゃいませ！　
+Welcome! Would you like\n
+a room for＿
+<$1D><$1E><$14>
+//￥で\nお部屋が　用意できますよ\n
+￥?\n
+<$01>
+//宿泊する
+Stay
+<$0E>
+//／
+／
+<$01>
+//雑談する
+Chat
+<$0E>
+//／
+／
+<$01>
+//やめとく
+Exit
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//お金が　足りないようですね
+You can't afford this, can you.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//お客様、戦えなくなった　猟犬のＨＰは\n宿泊や野営じゃ　戻りませんけど…\n
+I'm sorry, but dogs won't recover HP in\n
+hotels or camps.\n
+<$01>
+//知ってるよ
+I know that
+<$0E>
+//／
+／
+<$01>
+//ホントかよ
+Really?!
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//さしでがましいことを　申し上げ\nたいへん　失礼いたしました\nでは　ごゆっくり
+Ah, I see. Please forgive my outburst.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//専門のお医者さまを　お捜しになって\nなるべく早く\n治療して　さしあげてください
+Yes. Always seek a vet treat your dogs.
+<$12>
+<$00>
+
+
+
+
+
+
+//クン、クンクン………？
+<$06>Sniff...sniff, sniff?
+<$12>
+\n
+<CLEAR>
+//ここには　少なくとも
+There's not＿
+<$1E>
+//1人！\nいいえ…　
+1 soul here!\n
+Wait... No, there's at least＿
+<$1E>
+//1人はいるわよ…
+1.
+<$12>
+\n
+<CLEAR>
+//お風呂と縁のない人
+It's whatever they reek of that isn't human.
+<$12>
+<$00>
+
+
+
+
+
+
+//……東
+<$06>...East
+<$00>
+
+
+
+
+
+
+//……西
+<$06>...West
+<$00>
+
+
+
+
+
+
+//……南
+<$06>...South
+<$00>
+
+
+
+
+
+
+//……北
+<$06>...North
+<$00>
+
+
+
+
+
+
+//…北東
+<$06>...North-east
+<$00>
+
+
+
+
+
+
+//…北西
+<$06>...North-west
+<$00>
+
+
+
+
+
+
+//…南東
+<$06>...South-east
+<$00>
+
+
+
+
+
+
+//…南西
+<$06>...South-west
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、…
+<$06>! That's where we'll find a＿
+<$1D>
+//に行けば
+.
+<$00>
+
+
+
+
+
+
+//直進
+<$06>For
+<$00>
+
+
+
+
+
+
+//右よ
+<$06>Right
+<$00>
+
+
+
+
+
+
+//左よ
+<$06>Left
+<$00>
+
+
+
+
+
+
+//後ろ
+<$06>Back
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、絶対に
+<$06>wards, got it? I'm sure we'll find a＿
+<$1D>
+//∥
+＿there!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sリンダは　「女の勘」を\nはたらかせた∥
+SLinda used her woman's intuition...
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//…ごめんね、\n今日は　勘がはたらかないわ…
+...Sorry. I don't have it in me today.
+<$12>
+<$00>
+
+
+
+
+
+
+//運命の
+<$06>Fated＿
+<$00>
+
+
+
+
+
+
+//新しい
+<$06>New＿
+<$00>
+
+
+
+
+
+
+//素敵な
+<$06>Great＿
+<$00>
+
+
+
+
+
+
+//未知の
+<$06>Unknown＿
+<$00>
+
+
+
+
+
+
+//何か
+<$06>things＿
+<$00>
+
+
+
+
+
+
+//発見
+<$06>discoveries＿
+<$00>
+
+
+
+
+
+
+//お宝
+<$06>treasures＿
+<$00>
+
+
+
+
+
+
+//動物
+<$06>animals＿
+<$00>
+
+
+
+
+
+
+//に　出会える…
+<$06>could appear.
+<$00>
+
+
+
+
+
+
+//が　待ってる…
+<$06>await us...
+<$00>
+
+
+
+
+
+
+//気がするわ∥
+<$06>are there.
+<$00>
+
+
+
+
+
+
+//チャンスよ∥
+<$06>are in our grasp!
+<$00>
+
+
+
+
+
+
+//今しかないわ
+<$06>could slip through our fingers!
+<$00>
+
+
+
+
+
+
+//間違いなし∥
+<$06>are dead head!
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$1D><$1D><$1D>
+//\n
+\n
+<$1D><$12>
+\n
+<CLEAR>
+//
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信があるの∥
+I'm sure of it!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信は　ないけどね…
+Although, I'm not totally certain...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//絶対なんだから∥
+I'm absolutely certain!
+<$12>
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$01>
+//は＿い
+Yes
+<$0E>
+//／
+／
+
+<$01>
+//いいえ
+No
+<$0E>
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Yスケジュール
+YMemo＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//スケジュールは何もありません
+There is nothing on schedule.
+<$12>
+<$00>
+
+
+
+
+
+
+//成功終了
+<$06>Completed!
+<$00>
+
+
+
+
+
+
+//期限切れ
+<$06>Expired!
+<$00>
+
+
+
+
+
+
+//あと
+<$06>In＿
+<$1E>
+//季節
+＿seasons
+<$00>
+
+
+
+
+
+
+//あと
+<$06>Deadline:＿
+<$1E>
+//年
+Y/
+<$1E>
+//季節
+S
+<$00>
+
+
+
+
+
+
+//あと
+<$06>In＿
+<$1E>
+//年
+＿years
+<$00>
+
+
+
+
+
+
+<$06><$16><$01>
+//◇
+◇
+<$0E><$1D><$02>
+//190
+<$1D>
+<$00>
+
+
+
+
+
+
+//ファングを倒す
+<$06>Slay Fang
+<$00>
+
+
+
+
+
+
+//パンハイムからの依頼
+<$06>Assist Panheim
+<$00>
+
+
+
+
+
+
+//<$1B>
+//カメの卵を手に入れる
+<$06>Snatch Turtle Eggs
+<$00>
+
+
+
+
+
+
+//<$1B>
+//プテラノの卵を手に入れる
+<$06>Snatch Pteranodon Eggs
+<$00>
+
+
+
+
+
+
+//遺産争いにケリをつける
+<$06>End the inheritance battle
+<$00>
+
+
+
+
+
+
+//ヤマダのために一肌脱ぐ
+<$06>Unload for Yamada
+<$00>
+
+
+
+
+
+
+//町のシンボルを見つけだす
+<$06>Find the village symbol
+<$00>
+
+
+
+
+
+
+//ソフィアからの依頼
+<$06>Assist Sophia
+<$00>
+
+
+
+
+
+
+//サチコ救出
+<$06>Rescue Sachiko
+<$00>
+
+
+
+
+
+
+//ポロポロちゃんを助ける
+<$06>Save Nightshade
+<$00>
+
+
+
+
+
+
+//アンジェラ捜し
+<$06>Find Angela
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//カラゴラムのファングを倒し、その証拠を\nハーディアホテルのスペクターに渡す
+Defeat Fang in Karhagolem. Present proof to\n
+Spectre in Hardia Hotel.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//マーブルポリスの
+Process meat from＿
+//<$1B>
+//ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す
+chickens in Marblopolis.Give them to Prof.\n
+Panheim in Hospico.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+Find up to 3＿
+//<$1B>
+//カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す
+Turtle Eggs. Give them to Louis at the Battle\n
+Park BB Ranch.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+Acquire 2＿
+//<$1B>
+//プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す
+Pteranodon Eggs. Give them to Bronco at the\n
+Battle Park BB Ranch.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//「太郎の首輪」を見つけだし、ドギファの\nナターシャか、オーマン家３兄弟に渡す
+Locate Taro's Collar. Give it to Natasha or\n
+one of the 3 Aumann children in Dogyf\n
+Heights.
+<$00>
+
+
+
+
+
+
+//６万
+<$06>60, 000
+<$00>
+
+
+
+
+
+
+//あと
+<$06>another＿
+<$1E><$0F>
+//000
+
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//Ｇファクトリーのヤマダのために\n
+Deposit＿
+<$1D>
+//￥を預金する
+￥ in an account to Yamada in G Factory.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//コシカタのシンボル「
+Find the＿
+//<$1B>
+//トラの爪」を\n見つけだし、ポリスカに渡す
+Tiger Claw, Koshikata's village symbol.\n
+Return it to Poliska.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ソフィアのために、エターナの桜の木を\nどうにかして咲かせる
+Find out how to revive the sakura trees in\n
+Eterna for Sophia.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//溶岩の中で育った動物の熱いウンチを\nエターナのソフィアに渡す
+Deliver Hot Dung from a lava-dwelling\n
+creature to Sophia in Eterna.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ラグナロッジのエモリに会いに行く
+Meet with Dr. Emori in Ragna Rim.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//「フロッピーと
+Take the Floppy Disc and＿
+
+//10
+10, 000
+
+//万￥」を持って、\nＧファクトリー入口１階、\n公衆電話の前に行く
+￥ to the G Factory gate. Answer the payphone.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//「フロッピーと
+Take the Floppy Disc and＿
+
+//10
+10, 000
+
+//万￥」を持って、\nパラサイド入口１階、\n公衆電話の前に行く
+￥ to the Paraside gate. Answer the payphone.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//「フロッピーと
+Take the Floppy Disc and＿
+
+//10
+10, 000
+
+//万￥」を持って、\nガレックスに行く
+￥ to Galax.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す
+Pick bloodberries in Flora Jam. Take them to\n
+Kevin and Nightshade in Rose Garden.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//パラサイドの酒場にいるアンジェラを\n確認して、リナバレーのマリオに連絡する
+Look for Angela at the Paraside bar. Report\n
+your findings to Mario in Spurr Valley.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//アンジェラを確認するために、\nオズポートホテルの酒場に行く
+Look for Angela at the OzPort Hotel bar.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//アンジェラを確認するために、\n西エリアのしけた町のホテルに行く
+Look for Angela at a hotel bar somewhere in\n
+West Area.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//アンジェラを確認するために、\nドギファの舞台に行く
+Look for Angela at the theater stage in Dogyf\n
+Heights.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リナバレーのマリオの母、\nアンジェラを追ってオズサットへ行く
+Chase Angela to OzSat! Mario will follow from\n
+Spurr Valley.
+<$00>
+
+
+
+
+
+

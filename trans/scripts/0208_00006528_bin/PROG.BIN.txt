@@ -1,0 +1,1255 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $00000000, 16)
+#JMP($00001F58)
+
+
+#WRITE(PTR, $0016)
+#WRITE(PTR, $0018)
+#WRITE(PTR, $001A)
+//変態エモリ
+<$06>Mutant Emori
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//変態エモリの攻撃∥\nマゼンタの粘着液を　吐いた∥
+Mutant Emori spit out a pasty, magenta\n
+liquid!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//変態エモリの攻撃∥\n手のひらから　飛び出す\n飢えた　寄生虫の群れ∥
+Mutant Emori pushed parasitic worms out from\n
+his palms!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//変態エモリは\n
+Mutant Emori took a fleeting glimpse at\n
+<$1C>
+//Tを　チラリと見た∥
+T!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//変態エモリは\n体内の寄生虫を　放出した∥
+Mutant Emori pushed parasites from his entire\n
+body!
+<$00>
+
+
+
+
+
+
+//寄生虫
+<$06>Parasite
+<$00>
+
+
+
+
+
+
+//\n緑の液体を　噴出した∥
+<$06>\n
+Green liquid spilled out!
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $001C)
+bang.obj
+<$00>
+
+
+
+
+t22_sp1.obj
+<$00>
+
+
+
+
+t22_sp3.obj
+<$00>
+
+
+
+
+c002.obj
+<$00>
+
+
+
+
+c009.obj
+<$00>
+
+
+
+
+c009a1.obj
+<$00>
+
+
+
+
+c010.obj
+<$00>
+
+
+
+
+c018.obj
+<$00>
+
+
+
+
+c018_crs.obj
+<$00>
+
+
+
+
+c021ta0.obj
+<$00>
+
+
+
+
+c021ta1.obj
+<$00>
+
+
+
+
+c021f.obj
+<$00>
+
+
+
+
+c021h.obj
+<$00>
+
+
+
+
+c021l.obj
+<$00>
+
+
+
+
+c036.obj
+<$00>
+
+
+
+
+c036c.obj
+<$00>
+
+
+
+
+c036sht3.obj
+<$00>
+
+
+
+
+kao_l31.obj
+<$00>
+
+
+
+
+kao_l32.obj
+<$00>
+
+
+
+
+kao_s3.obj
+<$00>
+
+
+
+
+kao_s12.obj
+<$00>
+
+
+
+
+kao_em1.obj
+<$00>
+
+
+
+
+kao_em2.obj
+<$00>
+
+
+
+
+kao_em3.obj
+<$00>
+
+
+
+
+kao_em5.obj
+<$00>
+
+
+
+
+kao_em6.obj
+<$00>
+
+
+
+
+bef_00.obj
+<$00>
+
+
+
+
+bef_01.obj
+<$00>
+
+
+
+
+bef_02.obj
+<$00>
+
+
+
+
+m136_0.obj
+<$00>
+
+
+
+
+m136_1.obj
+<$00>
+
+
+
+
+m136_2.obj
+<$00>
+
+
+
+
+m136_3.obj
+<$00>
+
+
+
+
+m136_4.obj
+<$00>
+
+
+
+
+m136_6.obj
+<$00>
+
+
+
+
+m136_7.obj
+<$00>
+
+
+
+
+m136_8.obj
+<$00>
+
+
+
+
+m136_9.obj
+<$00>
+
+
+
+
+m136_a.obj
+<$00>
+
+
+
+
+m136_b.obj
+<$00>
+
+
+
+
+m136_c.obj
+<$00>
+
+
+
+
+m136_d.obj
+<$00>
+
+
+
+
+m136_e.obj
+<$00>
+
+
+
+
+#WRITE(PTR, $001E)
+//シェルターB3
+<$06>Shelter B3＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+1
+<$15>
+//S死んでいるようだ
+SIt appears dead.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//とうとう　見つけたゾ\nこんな穴蔵で　コソコソと\n何をやっているかと思えば…
+There you are. And what were you creeping\n
+about here for, I wonder.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ほー、左腕がちゃんと\nつながっているじゃないか？
+Oh-ho! Don't tell me- stitching Linda's left\n
+arm back on?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//まあ　いい…\nどうせ君たちは　ここから\n生きて出られやしないんだ
+That's fine, I suppose. You'll die before I\n
+let you escape anyhow.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//もう　やめてください！\nお父様∥
+No, Father!\n
+Please, stop this!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//おまえなんかに　お父様と\n呼ばれる　筋合いはない！\n出来そこないが∥　失せろ∥
+What right have you to call me "Father"? Get\n
+out of my way!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//君たちには　武器など使わないよ\n私のこの手で　八つ裂きに\nしないと　気がすまないからね
+I don't want weapons for this. I won't be\n
+satisfied until I tear you two apart with my\n
+own hands!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//私のかわいい　サチコ…\nおまえの恨みを　今　父さんが\n晴らしてあげるよ
+My darling Sachiko...\n
+Finally, Papa will wash away your every\n
+grudge.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//いい加減にしてよ！\n逆恨みも　いいとこだわ！
+It's good to feel grudges, but...we have to\n
+end this.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//まさか無事に　帰れるなんて\n思ってなかったろう？\n私は　しつこい性格なんだよ
+Did you really think I'd let you go? No,\n
+that's not in my nature.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//そうさ、なにしろ…
+All that's left of me...
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//「逆恨み」だからね…
+...is my grudge.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//私を倒したくらいで\n安心されちゃ　困るねぇ…
+I'd never give you the satisfaction of\n
+killing me too.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//言わなかったかい？　私は\nいつも　最善を尽くしてきたし\n出来ることは　全てやったと…
+Need I remind you? I do all I can. That's all\n
+I can do. Always...
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//３、２、１、
+3...2...1...
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//爆薬を　仕掛けておいたのさ\n出口は　ふさがせてもらったよ
+I planted explosives and blocked the exit.\n
+You were never leaving Galax.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//先に地獄で　待ってるからね
+I'll see you two in Hell.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//終わったのね…
+So, it all came to this.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//………………
+.........
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//…大丈夫よ、任せて
+...It's all right.\n
+I'll take it from here.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//Ｂモード起動！\n３、２、１、ＧＯ！
+B Mode, engage!\n
+3! 2! 1! GO!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ふたりとも　後ろに下がってて
+You two, get away!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//３、２、１、撃てッ∥
+3! 2! 1! FIRE!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//私はヨシコと　ここの後始末を\n済ませてから　行くわ
+Go! Yoshiko and I will escape once we handle\n
+things here!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//それと　ホスピコに…
+Besides, "she" is still in Hospico, so...
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//いいえ…　やっぱり　いいわ
+Nevermind.\n
+It's better this way.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ありがとう　ケン！\nさあ　もう行って∥
+Thank you for everything, Ken. Now, go!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//しまった！\nスミレ！　やめなさ…
+Don't do it, Sumire!\n
+You can't...!
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0020)
+<$06><CLEAR>
+//エモリが襲ってきた∥
+Emori attacked!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//今さら　逃げるわけには\nいかない∥Ψ
+Can't run away now!Ψ
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0022)
+<$06><$1D>
+//　
+
+<$1E>
+//頭\n
+x\n
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//装置内データ　ハ　スベテ\nＯＵＴ　シマシタ
+SYSTEM OUT OF DATA.
+<$12>
+<$00>
+
+
+
+
+
+
+//冷凍睡眠中ノ　動物ヲ　解凍シマスカ？\n
+<$06>THAW CRYO-PRESERVED ANIMALS?\n
+<$01>
+//は＿い
+Yes
+<$0E>
+//／
+／
+<$01>
+//いいえ
+No
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//トランスカーゴ　空キナシ
+1 FREE SPACE REQUIRED\n
+IN TRANS-CARGO UNIT.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//トランスカーゴ　２ツ空キナシ
+2 FREE SPACES REQUIRED\n
+IN TRANS-CARGO UNIT.
+<$12>
+<$00>
+
+
+
+
+
+
+<CLEAR>
+
+<$00>
+
+
+
+
+<$06>
+//TRANS-CARGO IN
+Now loading to TCU...
+
+//∥
+!
+<$12>
+<$00>
+
+
+
+
+
+
+//クン、クンクン………？
+<$06>Sniff...sniff, sniff?
+<$12>
+\n
+<CLEAR>
+//ホコリのニオイだけね
+It smells like a bunch of dust.
+<$12>
+<$00>
+
+
+
+
+
+
+//……東
+<$06>...East
+<$00>
+
+
+
+
+
+
+//……西
+<$06>...West
+<$00>
+
+
+
+
+
+
+//……南
+<$06>...South
+<$00>
+
+
+
+
+
+
+//……北
+<$06>...North
+<$00>
+
+
+
+
+
+
+//…北東
+<$06>...North-east
+<$00>
+
+
+
+
+
+
+//…北西
+<$06>...North-west
+<$00>
+
+
+
+
+
+
+//…南東
+<$06>...South-east
+<$00>
+
+
+
+
+
+
+//…南西
+<$06>...South-west
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、…
+<$06>! That's where we'll find a＿
+<$1D>
+//に行けば
+.
+<$00>
+
+
+
+
+
+
+//直進
+<$06>For
+<$00>
+
+
+
+
+
+
+//右よ
+<$06>Right
+<$00>
+
+
+
+
+
+
+//左よ
+<$06>Left
+<$00>
+
+
+
+
+
+
+//後ろ
+<$06>Back
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、絶対に
+<$06>wards, got it? I'm sure we'll find a＿
+<$1D>
+//∥
+＿there!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sリンダは　「女の勘」を\nはたらかせた∥
+SLinda used her woman's intuition...
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//…ごめんね、\n今日は　勘がはたらかないわ…
+...Sorry. I don't have it in me today.
+<$12>
+<$00>
+
+
+
+
+
+
+//運命の
+<$06>Fated＿
+<$00>
+
+
+
+
+
+
+//新しい
+<$06>New＿
+<$00>
+
+
+
+
+
+
+//素敵な
+<$06>Great＿
+<$00>
+
+
+
+
+
+
+//未知の
+<$06>Unknown＿
+<$00>
+
+
+
+
+
+
+//何か
+<$06>things＿
+<$00>
+
+
+
+
+
+
+//発見
+<$06>discoveries＿
+<$00>
+
+
+
+
+
+
+//お宝
+<$06>treasures＿
+<$00>
+
+
+
+
+
+
+//動物
+<$06>animals＿
+<$00>
+
+
+
+
+
+
+//に　出会える…
+<$06>could appear.
+<$00>
+
+
+
+
+
+
+//が　待ってる…
+<$06>await us...
+<$00>
+
+
+
+
+
+
+//気がするわ∥
+<$06>are there.
+<$00>
+
+
+
+
+
+
+//チャンスよ∥
+<$06>are in our grasp!
+<$00>
+
+
+
+
+
+
+//今しかないわ
+<$06>could slip through our fingers!
+<$00>
+
+
+
+
+
+
+//間違いなし∥
+<$06>are dead head!
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$1D><$1D><$1D>
+//\n
+\n
+<$1D><$12>
+\n
+<CLEAR>
+//
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信があるの∥
+I'm sure of it!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信は　ないけどね…
+Although, I'm not totally certain...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//絶対なんだから∥
+I'm absolutely certain!
+<$12>
+<$00>
+
+
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+

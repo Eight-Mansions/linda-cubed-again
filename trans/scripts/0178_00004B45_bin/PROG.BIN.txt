@@ -1,0 +1,2088 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $00000000, 16)
+#JMP($0000189D)
+
+
+#WRITE(PTR, $0014)
+#WRITE(PTR, $0016)
+#WRITE(PTR, $0018)
+#WRITE(PTR, $001A)
+c002.obj
+<$00>
+
+
+
+
+c009.obj
+<$00>
+
+
+
+
+c009a1.obj
+<$00>
+
+
+
+
+c010.obj
+<$00>
+
+
+
+
+c018.obj
+<$00>
+
+
+
+
+c132b.obj
+<$00>
+
+
+
+
+c146a.obj
+<$00>
+
+
+
+
+c147a2r.obj
+<$00>
+
+
+
+
+c149.obj
+<$00>
+
+
+
+
+c177a.obj
+<$00>
+
+
+
+
+#WRITE(PTR, $001C)
+//猟犬屋
+<$06>Dog Center
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　目立たないように\n気配を　殺した
+Ken masked the party to avoid detection.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for his antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リンダは　動物たちの\n鳴きマネをした
+Linda mimicked a few animal calls.
+<$12>
+\n
+<CLEAR>
+//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
+However, none of the animals in the area were\n
+stupid enough to fall for her antics!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//動物図鑑は\nここでは　起動しない
+The Animal Bible can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//犬を治療するたびに　思うのよね\n私、猟犬に生まれてこないで\nつくづく　良かったなぁってサ
+I think about this sometimes when I treat\n
+dogs but, I'm glad I wasn't born as a hunting\n
+dog y'know?
+<$12>
+\n
+<CLEAR>
+//だって、猟犬のケガの大半は\n冷酷か大バカな　飼い主のおかげ！\n猟犬は　その犠牲者なんだもん
+I mean, most of the injuries they sustain are\n
+their stupid owners' faults! These dogs are\n
+just innocent victims!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//猟犬の力を　
+To draw out＿
+
+//100
+100
+
+//％引き出したけりゃ\n
+％ of your dog's potential, you must know and\n
+utilize their＿
+<$1D>
+//１匹１匹の性格を　しっかり\n覚えておくことね
+personality trait.
+<$12>
+\n
+<CLEAR>
+//じゃないと、獲物も猟犬も\n無駄に死ぬし　だいたい、あなた自身が\n危険なめに遭うことが　増えるだけよ
+Otherwise, more animals and dogs will die in\n
+the vain of your efforts, and someday, you'll\n
+pay the price.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//愚かな飼い主の犠牲になった　多くの犬の\n冥福のために　ご寄付をお願いします
+Donate. Sooth the souls of dogs lost at the\n
+hands of their owners.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//猟犬を飼ってるなら　いくらかでも\n寄付しといたほうが　いいわよ
+If you own a dog, you should absolutely\n
+donate to efforts like this one.
+<$12>
+\n
+<CLEAR>
+//ずいぶん　気分が楽になるらしいから
+It soothes the human soul well too.
+<$12>
+<$00>
+
+
+
+
+
+
+//一度に所有できる猟犬は　
+<$06>Hunters may own＿
+
+//10
+10
+
+//頭までよ\nそのうち　戦闘に出せるのは　
+＿dogs at a time,\n
+but only＿
+
+//2
+2
+
+//頭！
+＿may join your party in battle.
+<$12>
+\n
+<CLEAR>
+//人によって　猟犬の趣味も違うから\nソリの合わない猟犬は　早めに\n見切りをつけて　売るのがいいわね
+Because a dog's interests won't always match\n
+its master's, the master should sell it\n
+before it gets hurt.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//今は　犬関係のほうの調教だけ\n仕事でやらせて　もらっています
+I'm only training dogs for work-related\n
+purposes.
+<$12>
+\n
+<CLEAR>
+//あっち関係は　要求がきついでしょ？\n若いときならともかく　家庭を持つと\nやりたくても　手が出せませんよ
+That means I'm not training dogs for\n
+families, understand? People who want that\n
+can't afford me anyways.
+<$12>
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Y猟犬訓練所
+YDog Training
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//使えない猟犬を　あなた好みの\nカワイイ子に　調教し直します！\n
+Can't control your dog?\n
+I'll break them in for you!\n
+<$00>
+
+
+
+
+
+
+<$06><$01>
+//調教依頼
+Train
+<$0E>
+//／
+／
+<$01>
+//雑談する
+Chat
+<$0E>
+//／
+／
+<$01>
+//用はない
+Exit
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//猟犬を　お持ちではない…
+You don't have a dog, do you...
+
+//??
+??
+
+//\nああ…
+\n
+Uhm...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//私もね…\n若い時分に比べりゃ　ずいぶんと\n丸くなりましたねぇ、ハハハ…
+Ah, this one's much more mellow now than it\n
+was before. Kind of like me, hahaha!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1D>
+//ちゃんには　どの訓練をして\nさしあげましょうね？
+, it is! So, what kind of training do you\n
+want?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$01>
+//体力強化
+Strength Training
+
+//(
+(
+
+//3レベルＵＰ
+Raise 3 LVLs
+
+//)
+)
+<$02>
+//156
+156
+<$0E><$02>
+//220
+220
+<$1D><$1E>
+//38
+38
+<$15>
+//W￥\n
+W￥\n
+<$01>
+//性格の矯正
+Personality Adjustment
+<$02>
+//156
+156
+<$0E><$02>
+//220
+220
+<$1D><$1E>
+//38
+38
+<$15>
+//W￥\n
+W￥\n
+<$01>
+//特殊技能を習得
+Skill Training
+<$02>
+//156
+156
+<$0E><$02>
+//220
+220
+<$1D><$1E>
+//38
+38
+<$15>
+//W￥
+W￥
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//猟犬の調教より　お金の数え方を\nあなたが先に　習ったほうが\nいいんじゃないですかね、小学校で
+More importantly than training a dog, someone\n
+around here's got to teach you basic math!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1D>
+//ちゃんの　体力強化訓練を\n始めますが　よろしゅうございますね\n
+'s about to undergo strength training, okay?\n
+<$01>
+//早くやれよ
+Okay!
+<$0E>
+//／
+／
+<$01>
+//やっぱヤメ
+Nevermind
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1D>
+//ちゃんの　ゆがんだ性格を\nどのように　正しくいじくりましょうか？
+'s nature can be tweaked.\n
+How would you like them to behave?
+<$00>
+
+
+
+
+
+
+//臨機応変
+<$06>Flexible
+
+//(
+(
+
+//バランス良し
+Well-balanced.
+
+//)
+)
+<$00>
+
+
+
+
+
+
+//勇猛果敢
+<$06>Daring
+
+//(
+(
+
+//強気で攻める
+Attack prone.
+
+//)
+)
+<$00>
+
+
+
+
+
+
+//滅私奉公
+<$06>Devoted
+
+//(
+(
+
+//主人をかばう
+Defense prone.
+
+//)
+)
+<$00>
+
+
+
+
+
+
+//沈着冷静
+<$06>Resolute
+
+//(
+(
+
+//ケガしにくい
+High tolerance.
+
+//)
+)
+<$00>
+
+
+
+
+
+
+<CLEAR>
+
+<$01><$1D><$0E>
+   
+<$02>
+220
+<$1E>
+38￥\n
+<$01><$1D><$0E>
+   
+<$02>
+220
+<$1E>
+38￥\n
+<$01><$1D><$0E>
+   
+<$02>
+220
+<$1E>
+38￥
+<$00>
+
+
+
+
+<$06><CLEAR>
+//
+<$1D>
+//ちゃんの　性格矯正訓練を\n始めますが　よろしゅうございますね\n
+'s about to undergo a personality adjustment,\n
+okay?\n
+<$01>
+//早くやれよ
+Okay!
+<$0E>
+//／
+／
+<$01>
+//やっぱヤメ
+Nevermind
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1D>
+//ちゃんには　あたしなんかが\n教えることは　何もありませんよ
+＿has nothing left to learn from me.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1D>
+//ちゃんに　どの芸を\n仕込んで　さしあげましょうか？
+, huh... Okay, what trick should they learn?
+<$00>
+
+
+
+
+
+
+<CLEAR>
+
+<$00>
+
+
+
+
+<$16><$01><$1D><$02>
+84
+<$0E><$02>
+220
+<$1E>
+38￥
+<$00>
+
+
+
+
+<$06><CLEAR>
+//
+<$1D>
+//ちゃんの　特殊技能習得訓練を\n始めますが　よろしゅうございますね\n
+'s about to undergo skill training, okay?\n
+<$01>
+//早くやれよ
+Okay!
+<$0E>
+//／
+／
+<$01>
+//やっぱヤメ
+Nevermind
+<$0E>
+<$00>
+
+
+
+
+
+
+//遠吠え
+<$06>Howl
+<$00>
+
+
+
+
+
+
+//体をなめる
+<$06>Lick body
+<$00>
+
+
+
+
+
+
+//突撃チャージ
+<$06>Charge
+<$00>
+
+
+
+
+
+
+//<$1B>
+//イヌかき
+<$06>Doggy paddle
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//では…
+All right...
+<$00>
+
+
+
+
+
+
+//\nククク…　それッ！
+<$06>\n
+Hahaha, take that!
+<$00>
+
+
+
+
+
+
+//\nどうだ、痛いか
+<$06>\n
+What, does that hurt,＿
+
+//!?
+?!
+
+<$00>
+
+
+
+
+
+
+//\nもっと泣けッ！アンジェラ！
+<$06>\n
+Let Angela sing about it!
+<$00>
+
+
+
+
+
+
+//\nえいッ！
+<$06>\n
+Hyah!
+<$00>
+
+
+
+
+
+
+//\nこの犬畜生めッ！
+<$06>\n
+Mangy mutt!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1D>
+//ちゃんの　元の心は\nお客様のご希望通り\n跡形もなく　破壊いたしました
+'s original spirit has been broken, just like\n
+you asked.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//今日から　
+As of now,＿
+<$1D>
+//ちゃんの特技に\n「
+officially knows＿
+<$1D>
+//」が　加わりました
+!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1D>
+//ちゃんは　物覚えの悪いようですね
+＿doesn't have good memory.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1D>
+//ちゃんは　なかなか調教の\nしがいがある　子のようですね
+＿latches onto this kind of training, like a\n
+child.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//これ以上　たたいても\nもしかして　無理かもしれませんよ
+No matter how much I hit them, I don't think\n
+it'll work.
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$01>
+//続けてくれ
+Keep going!
+<$0E>
+//／
+<$01>
+//やめてくれ
+Let's stop
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//お客さん、意外とお優しいんですね\nそういう方　あたしゃ好きですよ
+You're a gentle one, aren't you?\n
+I do like that in a human.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//さて　訓練は終了！
+All right, that's enough for today!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//なかなかせつない　鳴き声で\nいい感じでしたねぇ
+Exhausted wails like that are music to a\n
+trainer's ears.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//思いのほか　根性のあるヤツですねぇ\nきっと　いい猟犬になりますよ
+This one's tougher than I thought. They'll\n
+make a great dog for any hunt!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//フぅ…\n何度やっても　たまらんですねぇ
+Y'know what? I could do this all day...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//こうやってたまに　ムチを入れておくと\n肉が締まって美味しい　という人も\nいらっしゃいますねぇ
+They say a dog that's been whipped and\n
+tenderized a few times has tastier meat.
+<$12>
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Y猟犬訓練所
+YDog Training
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $001E)
+//
+<$06><$15>
+//Y猟犬屋
+YDog Center
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//お客さん…\nホスピコの入り口に　並んでる\n哀れな猟犬の墓を　数えてごらん
+Sir, go look at the pet cemetary along the\n
+Hospico entrance.
+<$12>
+\n
+<CLEAR>
+//これ以上　あなたの猟犬を\n登録したところで、どうせまた\nあそこの墓が　増えるだけだものね
+We keep that cemetary's growth down by\n
+capping the number of dogs each client can\n
+adopt.
+<$12>
+\n
+<CLEAR>
+//金の問題じゃないんだよ…\nわかるッ￠
+You may have the money, but you've\n
+unfortunately hit that limit. You understand,\n
+don't you?
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//猟犬の収容枠が　いっぱいです\nこれ以上、猟犬を増やせません
+You have reached the max amount of dogs you\n
+can own at one time.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//登録料　
+The adoption fee is over\n
+<$15>
+//b
+<$1E><$14>
+//￥が足りません\n銀行で　ご都合ください
+￥.\n
+Get a loan from the bank.
+<$12>
+<$00>
+
+
+
+
+
+
+//その名前は　既に登録されています\n別の名前を　つけてください
+<$06>Sorry, that name is taken.\n
+Choose a new name.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//猟犬
+Adopt＿
+<$1D>
+//を登録します\n
+?\n
+<$01>
+//は＿い
+Yes
+<$0E>
+//／
+<$01>
+//いいえ
+No
+<$0E>
+<$00>
+
+
+
+
+
+
+<CLEAR>
+
+<$00>
+
+
+
+
+<$16><$01><$1D><$02>
+96
+<$0E>
+　
+<$15>
+S
+<$1E>
+18
+<$14><$04><$02>
+140
+<$01><$1D><$02>
+236
+<$0E>
+　
+<$15>
+S
+<$1E>
+18
+<$14>
+<$00>
+
+
+
+
+//
+<$06><$15>
+//Y猟犬屋／メニュー
+YDog／Menu
+<$00>
+
+
+
+
+
+
+<$06><$01>
+//買＿う
+Buy
+<$0E>
+//\n
+\n
+<$01>
+//売＿る
+Sell
+<$0E>
+//\n
+\n
+<$01>
+//登＿録
+Tame
+<$0E>
+//\n
+\n
+<$01>
+//やめる
+Exit
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//猟犬登録の制限３２匹を越えました\nよって、登録できません
+You have reached the 32 dog adoption limit.\n
+You cannot adopt any more dogs.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+You don't have any＿
+//<$1B>
+//イヌを　お持ちじゃないようですね
+dogs.
+<$12>
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Y猟犬屋／登＿録
+YDog／Tame
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//猟犬は太古より　人間の良きパートナー\nぜひ　あなたも　１頭いかがですか？\n
+Dogs have been man's best friend since\n
+ancient times.\n
+<$01>
+//取引する
+Shop
+<$0E>
+//／
+／
+<$01>
+//雑談する
+Chat
+<$0E>
+//／
+／
+<$01>
+//やめとく
+Exit
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//またの御利用を　お待ち申し上げます
+We look forward to your next visit.
+<$12>
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Y猟犬屋／買＿う
+YDog／Buy
+<$00>
+
+
+
+
+
+
+<CLEAR>
+
+<$00>
+
+
+
+
+<$06><$16><$15>
+//W
+W
+<$01>
+//猟犬LV
+Dog LVL＿
+<$1E>
+//02
+02
+<$1D><$02>
+//116
+116
+<$0E><$02>
+//216
+216
+<$1D><$1E>
+//39￥
+39￥
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Y猟犬屋／売＿る
+YDog／Sell
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//猟犬「
+Sell＿
+<$1D>
+//」を\n
+＿ for＿
+<$1E>
+//￥で売りますか？\n
+￥?\n
+<$01>
+//は＿い
+Yes
+<$0E>
+//／
+／
+<$01>
+//いいえ
+No
+<$0E>
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Y猟犬治療
+YVeterinarian
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//かわいい猟犬が　傷ついた時は\n手遅れにならないうちに\nここへ　連れて来なさいね
+If your darling dogs ever get hurt,\n
+bring them to me before it's too late!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケガしてる猟犬は　どのコなの？\nほら早く　診せなさい！\n
+Is your hunting dog injured?\n
+Let me!\n
+take a look!\n
+<$01>
+//診せる
+Treat
+<$0E>
+//／
+／
+<$01>
+//雑談する
+Chat
+<$0E>
+//／
+／
+<$01>
+//やめとく
+Exit
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//いらない道具や動物を　売っても\nまだ足りないときは、銀行でお金を\n借りてでも　治療費は作りなさいね
+If you need money, sell spare items or take a\n
+loan from the bank.
+<$12>
+\n
+<CLEAR>
+//それくらいは　判断を誤った\nバカな飼い主の\n最低限の　務めってモンよ
+Don't deny your dog even bare minimum care\n
+just because you're ignorant.
+<$12>
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+I can treat＿
+<$1D>
+//の治療には　
+＿for＿
+<$1D><$1E><$14>
+//￥必要ね\n
+￥,\n
+<$01>
+//依頼する
+Please help!
+<$0E>
+//／
+／
+<$01>
+//ほっとく
+Nevermind!
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//かわいそうな
+Poor, poor,＿
+<$1D>
+//…\n治療費も　満足に払えない\n貧乏な飼い主を　恨みなさいね
+...\n
+Bwame your daddy for being a wittle\n
+cheapskate.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//さてと　次はどのコなの\nほら早く　診せなさい！
+Well, if you have another dog, I'll see them\n
+next!
+<$12>
+<$00>
+
+
+
+
+
+
+//あぁ～傷に
+<$06>Whoa～!＿
+//<$1B>
+//ウジが　わいてるわよ
+Maggots in the wound!
+<$00>
+
+
+
+
+
+
+//肋骨と鎖骨が　折れてるだけね
+<$06>Does Baby have a bwoken wibcage?
+<$00>
+
+
+
+
+
+
+//肺炎と腹膜炎を　併発してるようね
+<$06>Aww, pneumonia, pewitonitis...
+<$00>
+
+
+
+
+
+
+//頭がい骨が　少し陥没してるわね
+<$06>Baby, your skull is caved in!
+<$00>
+
+
+
+
+
+
+//腹腔に　血が溜ってるようね
+<$06>Aww, Baby has tummy bweeding.
+<$00>
+
+
+
+
+
+
+//下腹部に損傷があるわよ　何なのコレ？
+<$06>Tsk, lower abdominal twauma...
+<$00>
+
+
+
+
+
+
+//腸が　はみ出しちゃってるわよ
+<$06>Baby's intestines are pwowapsed!
+<$00>
+
+
+
+
+
+
+//脚が　取れかかってるわね…
+<$06>What a gangwenous wittle weg!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//大丈夫！　まかせなさい！\n
+Leave it to me!\n
+I mess up only once every＿
+<$1E>
+//0回に１回くらいしか　失敗しないわ
+0＿times, tops!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//…………………………………∥
+.........!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//…………………………………￠
+.........￠
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//はい、治療終り∥\n傷が開くといけないから　
+And...done!\n
+Be careful with＿
+<$1D>
+//には\n当分、無理させないようにしてね
+,\n
+or these wounds may reopen.
+<$12>
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$00>
+
+
+
+
+
+
+<$06><$01>
+//寄付する
+Donate
+<$0E>
+//／
+／
+<$01>
+//雑談する
+Chat
+<$0E>
+//／
+／
+<$01>
+//ヤだよ！
+No way!
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//いつも神様は　あなたの行動を\n見ていらっしゃいますよ…
+God's always watching, you know.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ありがとうございます\n優しい気持ちを　入れてください\n持金
+Thank you so much!\n
+How much will you donate?\n
+<$1E>
+//40￥→寄付
+40￥→
+<$01><$1E>
+//40￥
+40
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+You'll donate＿
+<$1E>
+//￥の寄付ですね\n
+￥?\n
+<$01>
+//は＿い
+Yes
+<$0E>
+//／
+／
+<$01>
+//いいえ
+No
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//最近、多いんですよ…\n持金を全部、寄付される方…
+I've seen a lot of people donating everything\n
+they have lately.
+<$12>
+\n
+<CLEAR>
+//あなた、まだ若いんだから\nヘンな気を　起こさないでくださいね
+You're still young, so don't feel strange or\n
+guilty about participating.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//あなたに　神様からの祝福が\nありますように
+God bless you.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//あなたと　あなたの家族に\n神様からのご加護が　ありますように
+God bless you and your family.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//あなたと　あなたの家族\nそして　子孫にも　未来永劫、\n幸あらんことを　お祈りします
+God bless you, your family, your children and\n
+your childrens' children.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//今、あなたが寄付したお金を\nどうやって　かせいだかについては…
+Ask yourself, how'd you get the money you\n
+donated just now?
+<$12>
+\n
+<CLEAR>
+//きっと　神様も見てなかったことに\nしてくださると　思いますよ\n良かったですね
+God's giving someone a little special\n
+treatment, I'll bet. But that's good too!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//どうも
+My goodness!
+<$12>
+//\n………………………………？\nえっ￠　神様のご加護？
+\n
+Is this...what they call "a gift from God"?
+<$12>
+\n
+<CLEAR>
+//そんなモンなくったって　こんな大金を\nポンと　寄付できるような方なんだから\n十分、幸せなはずですよ
+To see someone who- by all rights- wouldn't\n
+have much be so generous brings me to tears!
+<$12>
+\n
+<CLEAR>
+//足りなきゃ　
+Is＿
+
+//100000
+100,000
+
+//￥で\nお売りしましょうか？
+￥ a fair price to you?
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//本当に　ありがとうございました∥\nあなたのお気持ちは　しっかりと…
+Thank you so much! Your generosity will be\n
+remembered for all time.
+<$12>
+//\n「記録」しておきましたよ
+\n
+I know, because I just "reported" it.
+<$12>
+<$00>
+
+
+
+
+
+
+//クン、クンクン………？
+<$06>Sniff...sniff, sniff?
+<$12>
+\n
+<CLEAR>
+//消毒液のニオイが\nプンプンするね
+It smells strongly of antiseptic here.
+<$12>
+<$00>
+
+
+
+
+
+
+//……東
+<$06>...East
+<$00>
+
+
+
+
+
+
+//……西
+<$06>...West
+<$00>
+
+
+
+
+
+
+//……南
+<$06>...South
+<$00>
+
+
+
+
+
+
+//……北
+<$06>...North
+<$00>
+
+
+
+
+
+
+//…北東
+<$06>...North-east
+<$00>
+
+
+
+
+
+
+//…北西
+<$06>...North-west
+<$00>
+
+
+
+
+
+
+//…南東
+<$06>...South-east
+<$00>
+
+
+
+
+
+
+//…南西
+<$06>...South-west
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、…
+<$06>! That's where we'll find a＿
+<$1D>
+//に行けば
+.
+<$00>
+
+
+
+
+
+
+//直進
+<$06>For
+<$00>
+
+
+
+
+
+
+//右よ
+<$06>Right
+<$00>
+
+
+
+
+
+
+//左よ
+<$06>Left
+<$00>
+
+
+
+
+
+
+//後ろ
+<$06>Back
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、絶対に
+<$06>wards, got it? I'm sure we'll find a＿
+<$1D>
+//∥
+＿there!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sリンダは　「女の勘」を\nはたらかせた∥
+SLinda used her woman's intuition...
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//…ごめんね、\n今日は　勘がはたらかないわ…
+...Sorry. I don't have it in me today.
+<$12>
+<$00>
+
+
+
+
+
+
+//運命の
+<$06>Fated＿
+<$00>
+
+
+
+
+
+
+//新しい
+<$06>New＿
+<$00>
+
+
+
+
+
+
+//素敵な
+<$06>Great＿
+<$00>
+
+
+
+
+
+
+//未知の
+<$06>Unknown＿
+<$00>
+
+
+
+
+
+
+//何か
+<$06>things＿
+<$00>
+
+
+
+
+
+
+//発見
+<$06>discoveries＿
+<$00>
+
+
+
+
+
+
+//お宝
+<$06>treasures＿
+<$00>
+
+
+
+
+
+
+//動物
+<$06>animals＿
+<$00>
+
+
+
+
+
+
+//に　出会える…
+<$06>could appear.
+<$00>
+
+
+
+
+
+
+//が　待ってる…
+<$06>await us...
+<$00>
+
+
+
+
+
+
+//気がするわ∥
+<$06>are there.
+<$00>
+
+
+
+
+
+
+//チャンスよ∥
+<$06>are in our grasp!
+<$00>
+
+
+
+
+
+
+//今しかないわ
+<$06>could slip through our fingers!
+<$00>
+
+
+
+
+
+
+//間違いなし∥
+<$06>are dead head!
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$1D><$1D><$1D>
+//\n
+\n
+<$1D><$12>
+\n
+<CLEAR>
+//
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信があるの∥
+I'm sure of it!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信は　ないけどね…
+Although, I'm not totally certain...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//絶対なんだから∥
+I'm absolutely certain!
+<$12>
+<$00>
+
+
+
+
+
+

@@ -1,0 +1,6216 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2147551232, 32)
+
+#JMP($0008F7CC)
+
+// Ptr: 0008F7CC
+#WRITE(PTR, $00091F6C)
+//春
+Spring
+<$00>
+
+
+//夏
+Summer
+<$00>
+
+
+//秋
+Autumn
+<$00>
+
+
+//冬
+Winter
+<$00>
+
+
+
+// Ptr: 0008F7D8
+#WRITE(PTR, $00091F70)
+//ケン
+Ken
+<$00>
+
+
+//リンダ
+Linda
+<$00>
+
+
+//<VWF_ON>ヒューム<VWF_OFF>
+<VWF_ON>Hume<VWF_OFF>
+<$00>
+
+
+//サチコ
+Sachiko
+<$00>
+
+
+//スミレ
+Sumire
+<$00>
+
+
+//自分
+Self
+<$00>
+
+<$00>
+
+<$00>
+
+
+
+// Ptr: 0008F804
+#WRITE(PTR, $00091F74)
+#WRITE(PTR, $00091FC4)
+#WRITE(PTR, $00091FC8)
+#WRITE(PTR, $00092010)
+#WRITE(PTR, $00092050)
+//人間
+Human
+<$00>
+
+
+//ブタ
+Pig
+<$00>
+
+
+//サイ
+Rhino
+<$00>
+
+
+//ライオン
+Lion
+<$00>
+
+
+//コアラ
+Koala
+<$00>
+
+
+//トラ
+Tiger
+<$00>
+
+
+//ヒツジ
+Sheep
+<$00>
+
+
+//イノシシ
+Boar
+<$00>
+
+
+//ウニ
+Urchin
+<$00>
+
+
+//カマキリ
+Mantis
+<$00>
+
+
+//アリ
+Ant
+<$00>
+
+
+//ゾウ
+Elephant
+<$00>
+
+
+//バイソン
+Bison
+<$00>
+
+
+//トリケラ
+Triceratops
+<$00>
+
+
+//ドラゴン
+Dragon
+<$00>
+
+
+//キリン
+Giraffe
+<$00>
+
+
+//サル
+Monkey
+<$00>
+
+
+//ネズミ
+Rat
+<$00>
+
+
+//イヌ
+Dog
+<$00>
+
+
+//オオカミ
+Wolf
+<$00>
+
+
+//ゴリラ
+Gorilla
+<$00>
+
+
+//ハイエナ
+Hyena
+<$00>
+
+
+//ヘビ
+Snake
+<$00>
+
+
+//ヒドラ
+Hydra
+<$00>
+
+
+//モリアオ
+Tree Frog
+<$00>
+
+
+//ウジ
+Maggot
+<$00>
+
+
+//トカゲ
+Lizard
+<$00>
+
+
+//トンボ
+Dragonfly
+<$00>
+
+
+//モンシロ
+Moth
+<$00>
+
+
+//0
+0
+<$00>
+
+
+//コウモリ
+Bat
+<$00>
+
+
+//ワシ
+Eagly
+<$00>
+
+
+//ナナホシ
+Ladybug
+<$00>
+
+
+//ハチ
+Hornet
+<$00>
+
+
+//カラス
+Crow
+<$00>
+
+
+//ネコ
+Cat
+<$00>
+
+
+//プテラノ
+Pteranodon
+<$00>
+
+
+//アゲハ
+Butterfly
+<$00>
+
+
+//ウナギ
+Eel
+<$00>
+
+
+//オコゼ
+Stingfish
+<$00>
+
+
+//ナマズ
+Catfish
+<$00>
+
+
+//ゾウモツ
+Giblet
+<$00>
+
+
+//クラゲ
+Jellyfish
+<$00>
+
+
+//サメ
+Shark
+<$00>
+
+
+//エイ
+Stingray
+<$00>
+
+
+//トド
+Sea Lion
+<$00>
+
+
+//ライギョ
+Snakehead
+<$00>
+
+
+//エビ
+Shrimp
+<$00>
+
+
+//1
+1
+<$00>
+
+
+//コイ
+Koi
+<$00>
+
+
+//ナマコ
+Cucumber
+<$00>
+
+
+//シロクマ
+Polar Bear
+<$00>
+
+
+//カニ
+Crab
+<$00>
+
+
+//イカ
+Squid
+<$00>
+
+
+//ワニ
+Crocodile
+<$00>
+
+
+//イルカ
+Dolphin
+<$00>
+
+
+//カエル
+Frog
+<$00>
+
+
+//カバ
+Hippo
+<$00>
+
+
+//ヒル
+Leech
+<$00>
+
+
+//2
+2
+<$00>
+
+
+//3
+3
+<$00>
+
+
+//アンコウ
+Anglerfish
+<$00>
+
+
+//キツネ
+Fox
+<$00>
+
+
+//トナカイ
+Reindeer
+<$00>
+
+
+//ヤギ
+Goat
+<$00>
+
+
+//ペンギン
+Penguin
+<$00>
+
+
+//クマ
+Bear
+<$00>
+
+
+//イタチ
+Weasel
+<$00>
+
+
+//アザラシ
+Seal
+<$00>
+
+
+//タコ
+Octopuss
+<$00>
+
+
+//カワウソ
+Otter
+<$00>
+
+
+//ノミ
+Flea
+<$00>
+
+
+//アルマジ
+Armadillo
+<$00>
+
+
+//サソリ
+Scorpion
+<$00>
+
+
+//ラクダ
+Camel
+<$00>
+
+
+//ペリカン
+Pelican
+<$00>
+
+
+//カンガル
+Kangaroo
+<$00>
+
+
+//クモ
+Spider
+<$00>
+
+
+//ムカデ
+Centipede
+<$00>
+
+
+//ウサギ
+Rabbit
+<$00>
+
+
+//ゼブラ
+Zebra
+<$00>
+
+
+//バッタ
+Locust
+<$00>
+
+
+//ニワトリ
+Chicken
+<$00>
+
+
+//セミ
+Cicada
+<$00>
+
+
+//バファロ
+Buffalo
+<$00>
+
+
+//カモシカ
+Antelope
+<$00>
+
+
+//ミジンコ
+Daphnia
+<$00>
+
+
+//モグラ
+Mole
+<$00>
+
+
+//4
+4
+<$00>
+
+
+//タヌキ
+Tanuki
+<$00>
+
+
+//アリクイ
+Anteater
+<$00>
+
+
+//ヒョウ
+Leopard
+<$00>
+
+
+//ゴキブリ
+Cockroach
+<$00>
+
+
+//カメレオ
+Chameleon
+<$00>
+
+
+//5
+5
+<$00>
+
+
+//アヒル
+Duck
+<$00>
+
+
+//クジャク
+Peacock
+<$00>
+
+
+//カメ
+Turtle
+<$00>
+
+
+//ウミウシ
+Sea Slug
+<$00>
+
+
+//マイマイ
+Snail
+<$00>
+
+
+//ハマグリ
+Clam
+<$00>
+
+
+//ダチョウ
+Ostrich
+<$00>
+
+
+//ツバメ
+Swallow
+<$00>
+
+
+//リス
+Squirrel
+<$00>
+
+
+//アイアイ
+Lemur
+<$00>
+
+
+//6
+6
+<$00>
+
+
+//コブラ
+Cobra
+<$00>
+
+
+//ウマ
+Horse
+<$00>
+
+
+//クジラ
+Whale
+<$00>
+
+
+//7
+7
+<$00>
+
+
+//パンダ
+Panda
+<$00>
+
+
+//ミミズ
+Earthworm
+<$00>
+
+
+//クワガタ
+Stag Beetle
+<$00>
+
+
+//サザエ
+Turban Shell
+<$00>
+
+
+//フグ
+Blowfish
+<$00>
+
+
+//インパラ
+Impala
+<$00>
+
+
+//スズムシ
+Cricket
+<$00>
+
+
+//マンボウ
+Sunfish
+<$00>
+
+
+//アメンボ
+Pond Skater
+<$00>
+
+
+//ヤドカリ
+Hermit Crab
+<$00>
+
+
+//フクロウ
+Owl
+<$00>
+
+
+//怪物
+Creature
+<$00>
+
+
+
+// Ptr: 0008FB44
+#WRITE(PTR, $00091F78)
+#WRITE(PTR, $00091FDC)
+//骨クズ
+Worn Bone
+<$00>
+
+
+//<BC>むち
+<BC> Whip
+<$00>
+
+
+//<BC>ホーン
+<BC> Horn
+<$00>
+
+
+//<BC>ソード
+<BC> Sword
+<$00>
+
+
+//<BC>グローブ
+<BC> Gloves
+<$00>
+
+
+//<BC>の爪
+<BC> Claw
+<$00>
+
+
+//<BC>の短剣
+<BC> Dagger
+<$00>
+
+
+//<BC>ナイフ
+<BC> Knife
+<$00>
+
+
+//<BC>ピック
+<BC>-pick
+<$00>
+
+
+//<BC>斧
+<BC> Ax
+<$00>
+
+
+//<BC>酸ピストル
+<BC> Sprayer
+<$00>
+
+
+//<BC>鼻のムチ
+<BC> Nosepick
+<$00>
+
+
+//<BC>マドゥ
+<BC> Madu
+<$00>
+
+
+//<BC>ホーン
+<BC> Horn
+<$00>
+
+
+//<BC>ソード
+<BC> Sword
+<$00>
+
+
+//<BC>の首槍
+<BC> Spear
+<$00>
+
+
+//<BC>バット
+<BC> Bat
+<$00>
+
+
+//<BC>ランス
+<BC> Lance
+<$00>
+
+
+//<BC>の剣
+<BC> Blade
+<$00>
+
+
+//<BC>ナイフ
+<BC> Knife
+<$00>
+
+
+//<BC>パンチ
+<BC> Punch
+<$00>
+
+
+//<BC>ナイフ
+<BC> Knife
+<$00>
+
+
+//<BC>チェーン
+<BC> Chain
+<$00>
+
+
+//<BC>チャクラ
+<BC> Chakram
+<$00>
+
+
+//<BC>刀
+<BC> Katana
+<$00>
+
+
+//<BC>むち
+<BC> Whip
+<$00>
+
+
+//<BC>サーベル
+<BC> Saber
+<$00>
+
+
+//<BC>カッター
+<BC> Cutter
+<$00>
+
+
+//<BC>ナイフ
+<BC> Knife
+<$00>
+
+
+//<BC>ソード
+<BC> Sword
+<$00>
+
+
+//<BC>杖
+<BC> Cane
+<$00>
+
+
+//<BC>サーベル
+<BC> Saber
+<$00>
+
+
+//<BC>レピア
+<BC> Espada
+<$00>
+
+
+//<BC>ニードル
+<BC> Needle
+<$00>
+
+
+//<BC>レイピア
+<BC> Rapier
+<$00>
+
+
+//<BC>シックル
+<BC> Sickle
+<$00>
+
+
+//<BC>の長槍
+<BC> Javelin
+<$00>
+
+
+//<BC>扇
+<BC> Fan
+<$00>
+
+
+//<BC>鎖鎌
+<BC> Mace
+<$00>
+
+
+//<BC>ピック
+<BC>-pick
+<$00>
+
+
+//<BC>ハンマー
+<BC> Hammer
+<$00>
+
+
+//<BC>むち
+<BC> Whip
+<$00>
+
+
+//<BC>針
+<BC> Stinger
+<$00>
+
+
+//<BC>クラッシュ
+<BC> Crusher
+<$00>
+
+
+//<BC>プリック
+<BC> Thorn
+<$00>
+
+
+//<BC>アックス
+<BC> Hatchet
+<$00>
+
+
+//<BC>のナタ
+<BC> Nata
+<$00>
+
+
+//<BC>ドリル
+<BC> Drill
+<$00>
+
+
+//<BC>グラブ
+<BC> Club
+<$00>
+
+
+//<BC>がたな
+<BC> Naginata
+<$00>
+
+
+//<BC>ヨーヨー
+<BC> Yo-yo
+<$00>
+
+
+//<BC>刀
+<BC> Katana
+<$00>
+
+
+//<BC>ばさみ
+<BC> Scissors
+<$00>
+
+
+//<BC>の長槍
+<BC> Javelin
+<$00>
+
+
+//<BC>むち
+<BC> Whip
+<$00>
+
+
+//<BC>ソード
+<BC> Sword
+<$00>
+
+
+//<BC>刀
+<BC> Katana
+<$00>
+
+
+//<BC>トマホーク
+<BC> Tomahawk
+<$00>
+
+
+//<BC>むち
+<BC> Whip
+<$00>
+
+
+//<BC>ナイフ
+<BC> Knife
+<$00>
+
+
+//<BC>電撃棒
+<BC> Taser
+<$00>
+
+
+//<BC>斧
+<BC> Ax
+<$00>
+
+
+//<BC>の剣
+<BC> Blade
+<$00>
+
+
+//<BC>ホーン
+<BC> Horn
+<$00>
+
+
+//<BC>バグナグ
+<BC> Knuckles
+<$00>
+
+
+//<BC>レピア
+<BC> Espada
+<$00>
+
+
+//<BC>の爪
+<BC> Claw
+<$00>
+
+
+//<BC>ナイフ
+<BC> Knife
+<$00>
+
+
+//<BC>ソード
+<BC> Sword
+<$00>
+
+
+//<BC>足ウィップ
+<BC> Shoge
+<$00>
+
+
+//<BC>ナイフ
+<BC> Knife
+<$00>
+
+
+//<BC>パチンコ
+<BC> Pachinko
+<$00>
+
+
+//<BC>ドリル
+<BC> Drill
+<$00>
+
+
+//<BC>ニードル
+<BC> Needle
+<$00>
+
+
+//<BC>棍棒
+<BC> Paddle
+<$00>
+
+
+//<BC>サック
+<BC> Fist
+<$00>
+
+
+//<BC>ロッド
+<BC> Rod
+<$00>
+
+
+//<BC>チェーン
+<BC> Chain
+<$00>
+
+
+//<BC>のこぎり
+<BC> Saw
+<$00>
+
+
+//<BC>ナイフ
+<BC> Knife
+<$00>
+
+
+//<BC>ロッド
+<BC> Rod
+<$00>
+
+
+//<BC>バット
+<BC> Bat
+<$00>
+
+
+//<BC>ビーク
+<BC> Beak
+<$00>
+
+
+//<BC>クラッシュ
+<BC> Crusher
+<$00>
+
+
+//<BC>ホーン
+<BC> Horn
+<$00>
+
+
+//<BC>の剣
+<BC> Blade
+<$00>
+
+
+//<BC>ドリル
+<BC> Drill
+<$00>
+
+
+//<BC>ナイフ
+<BC> Knife
+<$00>
+
+
+//<BC>クロー
+<BC> Paw
+<$00>
+
+
+//<BC>包丁
+<BC> Cleaver
+<$00>
+
+
+//<BC>ナイフ
+<BC> Knife
+<$00>
+
+
+//<BC>サーベル
+<BC> Saber
+<$00>
+
+
+//<BC>ランス
+<BC> Lance
+<$00>
+
+
+//<BC>ナイフ
+<BC> Knife
+<$00>
+
+
+//<BC>ホーン
+<BC> Horn
+<$00>
+
+
+//<BC>アックス
+<BC> Hatchet
+<$00>
+
+
+//<BC>扇
+<BC> Fan
+<$00>
+
+
+//<BC>ハンマー
+<BC> Hammer
+<$00>
+
+
+//<BC>ランス
+<BC> Lance
+<$00>
+
+
+//<BC>刀
+<BC> Katana
+<$00>
+
+
+//<BC>斧
+<BC> Ax
+<$00>
+
+
+//<BC>グラブ
+<BC> Club
+<$00>
+
+
+//<BC>カッター
+<BC> Cutter
+<$00>
+
+
+//<BC>ニードル
+<BC> Needle
+<$00>
+
+
+//<BC>ネイル
+<BC> Nail
+<$00>
+
+
+//ビッグ<BC>
+Big <BC>
+<$00>
+
+
+//<BC>サック
+<BC> Fist
+<$00>
+
+
+//<BC>ヌンチャク
+<BC> Nunchucks
+<$00>
+
+
+//<BC>ヴァイス
+<BC> Weiss
+<$00>
+
+
+//<BC>ナイフ
+<BC> Knife
+<$00>
+
+
+//<BC>パンチ
+<BC> Punch
+<$00>
+
+
+//<BC>ウィップ
+<BC> Whip
+<$00>
+
+
+//<BC>バサミ
+<BC> Shears
+<$00>
+
+
+//<BC>サック
+<BC> Fist
+<$00>
+
+
+//<BC>ギムレット
+<BC> Gimlet
+<$00>
+
+
+//<BC>ホーン
+<BC> Horn
+<$00>
+
+
+//<BC>レピア
+<BC> Rapier
+<$00>
+
+
+//<BC>棍棒
+<BC> Paddle
+<$00>
+
+
+//<BC>針
+<BC> Stinger
+<$00>
+
+
+//<BC>ドリル
+<BC> Drill
+<$00>
+
+
+//<BC>ビーク
+<BC> Beak
+<$00>
+
+<$00>
+
+
+
+// Ptr: 0008FF10
+#WRITE(PTR, $00091F7C)
+#WRITE(PTR, $00091FE0)
+//ヤブレ服
+Worn Shirt
+<$00>
+
+
+//<BC>ジャケット
+<BC> Jacket
+<$00>
+
+
+//<BC>アーマー
+<BC> Armor
+<$00>
+
+
+//<BC>コート
+<BC> Coat
+<$00>
+
+
+//<BC>コート
+<BC> Coat
+<$00>
+
+
+//<BC>の毛皮
+<BC> Pelt
+<$00>
+
+
+//<BC>セーター
+<BC> Sweater
+<$00>
+
+
+//<BC>コート
+<BC> Coat
+<$00>
+
+
+//<BC>プロテクト
+<BC> Guards
+<$00>
+
+
+//<BC>シャツ
+<BC> Shirt
+<$00>
+
+
+//<BC>の肩当て
+<BC> Pads
+<$00>
+
+
+//<BC>ジャケット
+<BC> Jacket
+<$00>
+
+
+//<BC>コート
+<BC> Coat
+<$00>
+
+
+//<BC>の鎧
+<BC> Mail
+<$00>
+
+
+//<BC>クロス
+<BC> Sash
+<$00>
+
+
+//<BC>パジャマ
+<BC> PJs
+<$00>
+
+
+//<BC>マント
+<BC> Cloak
+<$00>
+
+
+//<BC>シャツ
+<BC> Shirt
+<$00>
+
+
+//<BC>ジャケット
+<BC> Jacket
+<$00>
+
+
+//<BC>ベスト
+<BC> Vest
+<$00>
+
+
+//<BC>マント
+<BC> Cloak
+<$00>
+
+
+//<BC>ベスト
+<BC> Vest
+<$00>
+
+
+//<BC>皮スーツ
+<BC> Bush Jacket
+<$00>
+
+
+//<BC>コート
+<BC> Coat
+<$00>
+
+
+//<BC>スーツ
+<BC> Suit
+<$00>
+
+
+//<BC>ジャケット
+<BC> Jacket
+<$00>
+
+
+//<BC>シャツ
+<BC> Shirt
+<$00>
+
+
+//<BC>クロス
+<BC> Sash
+<$00>
+
+
+//<BC>ドレス
+<BC> Dress
+<$00>
+
+
+//<BC>クロス
+<BC> Sash
+<$00>
+
+
+//<BC>マント
+<BC> Cloak
+<$00>
+
+
+//<BC>羽毛ベスト
+<BC> Plume Vest
+<$00>
+
+
+//<BC>クロス
+<BC> Sash
+<$00>
+
+
+//<BC>ジャケット
+<BC> Jacket
+<$00>
+
+
+//<BC>マント
+<BC> Cloak
+<$00>
+
+
+//<BC>コート
+<BC> Coat
+<$00>
+
+
+//<BC>マント
+<BC> Cloak
+<$00>
+
+
+//<BC>ドレス
+<BC> Dress
+<$00>
+
+
+//<BC>レザー
+<BC> Rocker
+<$00>
+
+
+//<BC>スーツ
+<BC> Suit
+<$00>
+
+
+//<BC>スーツ
+<BC> Suit
+<$00>
+
+
+//<BC>服
+<BC> Jersey
+<$00>
+
+
+//<BC>スーツ
+<BC> Suit
+<$00>
+
+
+//<BC>シャツ
+<BC> Shirt
+<$00>
+
+
+//<BC>クロス
+<BC> Sash
+<$00>
+
+
+//<BC>コート
+<BC> Coat
+<$00>
+
+
+//<BC>スーツ
+<BC> Suit
+<$00>
+
+
+//<BC>アーマー
+<BC> Armor
+<$00>
+
+
+//<BC>スーツ
+<BC> Suit
+<$00>
+
+
+//<BC>アーマー
+<BC> Armor
+<$00>
+
+
+//<BC>スーツ
+<BC> Suit
+<$00>
+
+
+//<BC>の毛皮
+<BC> Pelt
+<$00>
+
+
+//<BC>アーマー
+<BC> Armor
+<$00>
+
+
+//<BC>スーツ
+<BC> Suit
+<$00>
+
+
+//<BC>ジャケット
+<BC> Jacket
+<$00>
+
+
+//<BC>服
+<BC> Jersey
+<$00>
+
+
+//<BC>クロス
+<BC> Sash
+<$00>
+
+
+//<BC>コート
+<BC> Coat
+<$00>
+
+
+//<BC>プロテクト
+<BC> Guards
+<$00>
+
+
+//<BC>クロス
+<BC> Sash
+<$00>
+
+
+//<BC>シャツ
+<BC> Shirt
+<$00>
+
+
+//<BC>スーツ
+<BC> Suit
+<$00>
+
+
+//<BC>の毛皮
+<BC> Pelt
+<$00>
+
+
+//<BC>コート
+<BC> Coat
+<$00>
+
+
+//<BC>ジャケット
+<BC> Jacket
+<$00>
+
+
+//<BC>スーツ
+<BC> Suit
+<$00>
+
+
+//<BC>の毛皮
+<BC> Pelt
+<$00>
+
+
+//<BC>シャツ
+<BC> Shirt
+<$00>
+
+
+//<BC>コート
+<BC> Coat
+<$00>
+
+
+//<BC>アーマー
+<BC> Armor
+<$00>
+
+
+//<BC>シャツ
+<BC> Shirt
+<$00>
+
+
+//<BC>腹まき
+<BC> Haramaki
+<$00>
+
+
+//<BC>の鎧
+<BC> Mail
+<$00>
+
+
+//<BC>アーマー
+<BC> Armor
+<$00>
+
+
+//<BC>シャツ
+<BC> Shirt
+<$00>
+
+
+//<BC>マント
+<BC> Cloak
+<$00>
+
+
+//<BC>コート
+<BC> Coat
+<$00>
+
+
+//<BC>セーター
+<BC> Sweater
+<$00>
+
+
+//<BC>アーマー
+<BC> Armor
+<$00>
+
+
+//<BC>コート
+<BC> Coat
+<$00>
+
+
+//<BC>シャツ
+<BC> Shirt
+<$00>
+
+
+//<BC>アーマー
+<BC> Armor
+<$00>
+
+
+//<BC>クロス
+<BC> Sash
+<$00>
+
+
+//<BC>ジャンパー
+<BC> Jumper
+<$00>
+
+
+//<BC>コート
+<BC> Coat
+<$00>
+
+
+//<BC>マント
+<BC> Cloak
+<$00>
+
+
+//<BC>ドレス
+<BC> Dress
+<$00>
+
+
+//<BC>コート
+<BC> Coat
+<$00>
+
+
+//<BC>ベスト
+<BC> Vest
+<$00>
+
+
+//<BC>ベスト
+<BC> Vest
+<$00>
+
+
+//<BC>マント
+<BC> Cloak
+<$00>
+
+
+//<BC>柄コート
+<BC> Flannel
+<$00>
+
+
+//<BC>服
+<BC> Jersey
+<$00>
+
+
+//<BC>スーツ
+<BC> Suit
+<$00>
+
+
+//<BC>レザー
+<BC> Rocker
+<$00>
+
+
+//<BC>の服
+<BC> Threads
+<$00>
+
+
+//<BC>ドレス
+<BC> Dress
+<$00>
+
+
+//<BC>アーマー
+<BC> Armor
+<$00>
+
+
+//<BC>スーツ
+<BC> Suit
+<$00>
+
+
+//<BC>の鎧
+<BC> Mail
+<$00>
+
+
+//<BC>甲
+<BC> Shell
+<$00>
+
+
+//<BC>シャツ
+<BC> Shirt
+<$00>
+
+
+//<BC>スーツ
+<BC> Suit
+<$00>
+
+
+//<BC>のチョッキ
+<BC> Waistcoat
+<$00>
+
+
+//<BC>ベスト
+<BC> Vest
+<$00>
+
+
+//<BC>の鎧
+<BC> Mail
+<$00>
+
+
+//<BC>コート
+<BC> Coat
+<$00>
+
+
+//<BC>ジャケット
+<BC> Jacket
+<$00>
+
+
+//<BC>アーマー
+<BC> Armor
+<$00>
+
+
+//<BC>ウェア
+<BC>wear
+<$00>
+
+
+//<BC>セーター
+<BC> Sweater
+<$00>
+
+
+//<BC>服
+<BC> Jersey
+<$00>
+
+
+//<BC>の鎧
+<BC> Mail
+<$00>
+
+
+//<BC>アーマー
+<BC> Armor
+<$00>
+
+
+//<BC>ふく
+<BC> Jersey
+<$00>
+
+
+//<BC>シャツ
+<BC> Shirt
+<$00>
+
+
+//<BC>羽織り
+<BC> Haori
+<$00>
+
+
+//<BC>マント
+<BC> Cloak
+<$00>
+
+
+//<BC>シャツ
+<BC> Shirt
+<$00>
+
+
+//<BC>クロス
+<BC> Sash
+<$00>
+
+
+//<BC>コート
+<BC> Coat
+<$00>
+
+<$00>
+
+
+
+// Ptr: 00090310
+#WRITE(PTR, $00091F80)
+#WRITE(PTR, $00091FE4)
+//ボロ帽子
+Worn Hat
+<$00>
+
+
+//<BC>マスク
+<BC> Mask
+<$00>
+
+
+//<BC>キャップ
+<BC> Cap
+<$00>
+
+
+//<BC>マスク
+<BC> Mask
+<$00>
+
+
+//<BC>の耳当て
+<BC> Earmuffs
+<$00>
+
+
+//<BC>マスク
+<BC> Mask
+<$00>
+
+
+//<BC>の帽子
+<BC> Hat
+<$00>
+
+
+//<BC>フード
+<BC> Hood
+<$00>
+
+
+//<BC>かぶり
+<BC> Band
+<$00>
+
+
+//<BC>ハット
+<BC> Hardhat
+<$00>
+
+
+//<BC>はちまき
+<BC> Hachimaki
+<$00>
+
+
+//<BC>キャップ
+<BC> Cap
+<$00>
+
+
+//<BC>ヘルム
+<BC> Helm
+<$00>
+
+
+//<BC>メット
+<BC> Cover
+<$00>
+
+
+//<BC>ヘルム
+<BC> Helm
+<$00>
+
+
+//<BC>の帽子
+<BC> Hat
+<$00>
+
+
+//<BC>の帽子
+<BC> Hat
+<$00>
+
+
+//<BC>キャップ
+<BC> Cap
+<$00>
+
+
+//<BC>ゴーグル
+<BC> Goggles
+<$00>
+
+
+//<BC>マスク
+<BC> Mask
+<$00>
+
+
+//<BC>キャップ
+<BC> Cap
+<$00>
+
+
+//<BC>フード
+<BC> Hood
+<$00>
+
+
+//<BC>皮ハット
+<BC> Bush Hat
+<$00>
+
+
+//<BC>ヘルム
+<BC> Helm
+<$00>
+
+
+//<BC>フード
+<BC> Hood
+<$00>
+
+
+//<BC>マスク
+<BC> Mask
+<$00>
+
+
+//<BC>ハット
+<BC> Hardhat
+<$00>
+
+
+//<BC>ゴーグル
+<BC> Goggles
+<$00>
+
+
+//<BC>飾り
+<BC> Hairclip
+<$00>
+
+
+//<BC>フード
+<BC> Hood
+<$00>
+
+
+//<BC>笠
+<BC> Kasa
+<$00>
+
+
+//<BC>マスク
+<BC> Mask
+<$00>
+
+
+//<BC>仮面
+<BC> Visor
+<$00>
+
+
+//<BC>メット
+<BC> Cover
+<$00>
+
+
+//<BC>フード
+<BC> Hood
+<$00>
+
+
+//<BC>かぶり
+<BC> Band
+<$00>
+
+
+//<BC>ハット
+<BC> Hardhat
+<$00>
+
+
+//<BC>飾り
+<BC> Hairclip
+<$00>
+
+
+//<BC>メット
+<BC> Cover
+<$00>
+
+
+//<BC>マスク
+<BC> Mask
+<$00>
+
+
+//<BC>ハット
+<BC> Hardhat
+<$00>
+
+
+//<BC>ベレー
+<BC> Beret
+<$00>
+
+
+//<BC>ヘッド
+<BC> Head
+<$00>
+
+
+//<BC>ハット
+<BC> Hardhat
+<$00>
+
+
+//<BC>フード
+<BC> Hood
+<$00>
+
+
+//<BC>マスク
+<BC> Mask
+<$00>
+
+
+//<BC>マスク
+<BC> Mask
+<$00>
+
+
+//<BC>メット
+<BC> Cover
+<$00>
+
+
+//<BC>ハット
+<BC>Hardhat
+<$00>
+
+
+//<BC>ゴーグル
+<BC> Goggles
+<$00>
+
+
+//<BC>頭巾
+<BC> Fez
+<$00>
+
+
+//<BC>ハット
+<BC> Hardhat
+<$00>
+
+
+//<BC>ヘルム
+<BC> Helm
+<$00>
+
+
+//<BC>ターバン
+<BC> Turban
+<$00>
+
+
+//<BC>キャップ
+<BC> Cap
+<$00>
+
+
+//<BC>フード
+<BC> Hood
+<$00>
+
+
+//<BC>キャップ
+<BC> Cap
+<$00>
+
+
+//<BC>ハット
+<BC> Hardhat
+<$00>
+
+
+//<BC>サレット
+<BC> Sallet
+<$00>
+
+
+//<BC>メット
+<BC> Cover
+<$00>
+
+
+//<BC>ハット
+<BC> Hardhat
+<$00>
+
+
+//<BC>ヘルム
+<BC> Helm
+<$00>
+
+
+//<BC>フード
+<BC> Hood
+<$00>
+
+
+//<BC>頭巾
+<BC> Fez
+<$00>
+
+
+//<BC>キャップ
+<BC> Cap
+<$00>
+
+
+//<BC>ハット
+<BC> Hardhat
+<$00>
+
+
+//<BC>フード
+<BC> Hood
+<$00>
+
+
+//<BC>ゴーグル
+<BC> Goggles
+<$00>
+
+
+//<BC>ヘルム
+<BC> Helm
+<$00>
+
+
+//<BC>メット
+<BC> Cover
+<$00>
+
+
+//<BC>ハット
+<BC> Hardhat
+<$00>
+
+
+//<BC>サレット
+<BC> Sallet
+<$00>
+
+
+//<BC>メット
+<BC> Cover
+<$00>
+
+
+//<BC>ゴーグル
+<BC> Goggles
+<$00>
+
+
+//<BC>フード
+<BC> Hood
+<$00>
+
+
+//<BC>フード
+<BC> Hood
+<$00>
+
+
+//<BC>フード
+<BC> Hood
+<$00>
+
+
+//<BC>キャップ
+<BC> Cap
+<$00>
+
+
+//<BC>の帽子
+<BC> Hat
+<$00>
+
+
+//<BC>キャップ
+<BC> Cap
+<$00>
+
+
+//<BC>キャップ
+<BC> Cap
+<$00>
+
+
+//<BC>仮面
+<BC> Visor
+<$00>
+
+
+//<BC>マスク
+<BC> Mask
+<$00>
+
+
+//<BC>ヘルム
+<BC> Helm
+<$00>
+
+
+//<BC>メット
+<BC> Cover
+<$00>
+
+
+//<BC>フード
+<BC> Hood
+<$00>
+
+
+//<BC>フード
+<BC> Hood
+<$00>
+
+
+//<BC>ハット
+<BC> Hardhat
+<$00>
+
+
+//<BC>フード
+<BC> Hood
+<$00>
+
+
+//<BC>頭巾
+ Fez
+<$00>
+
+
+//<BC>ハット
+<BC> Hardhat
+<$00>
+
+
+//<BC>マスク
+<BC> Mask
+<$00>
+
+
+//<BC>マスク
+<BC> Mask
+<$00>
+
+
+//<BC>メット
+<BC> Cover
+<$00>
+
+
+//<BC>マスク
+<BC> Mask
+<$00>
+
+
+//<BC>メット
+<BC> Cover
+<$00>
+
+
+//<BC>リボン
+<BC> Ribbon
+<$00>
+
+
+//<BC>ヘルム
+<BC> Helm
+<$00>
+
+
+//<BC>フード
+<BC> Hood
+<$00>
+
+
+//<BC>ハット
+<BC> Hardhat
+<$00>
+
+
+//<BC>メット
+<BC> Cover
+<$00>
+
+
+//<BC>フード
+<BC> Hood
+<$00>
+
+
+//<BC>ゴーグル
+<BC> Goggles
+<$00>
+
+
+//<BC>ゴーグル
+<BC> Goggles
+<$00>
+
+
+//<BC>マスク
+<BC> Mask
+<$00>
+
+
+//<BC>ヘルム
+<BC> Helm
+<$00>
+
+
+//<BC>マスク
+<BC> Mask
+<$00>
+
+
+//<BC>キャップ
+<BC> Cap
+<$00>
+
+
+//<BC>キャップ
+<BC> Cap
+<$00>
+
+
+//<BC>メット
+<BC> Cover
+<$00>
+
+
+//<BC>帽子
+<BC> Hat
+<$00>
+
+
+//<BC>ゴーグル
+<BC> Goggles
+<$00>
+
+
+//<BC>メット
+<BC> Cover
+<$00>
+
+
+//<BC>ヘッド
+<BC> Head
+<$00>
+
+
+//<BC>サレット
+<BC> Sallet
+<$00>
+
+
+//<BC>ヘルム
+<BC> Helm
+<$00>
+
+
+//<BC>ベレー
+<BC> Beret
+<$00>
+
+
+//マン帽
+Beanie
+<$00>
+
+
+//アメン帽
+Skullcap
+<$00>
+
+
+//<BC>ヘッド
+<BC> Head
+<$00>
+
+
+//<BC>頭巾
+<BC> Fez
+<$00>
+
+<$00>
+
+<$00>
+
+<$00>
+
+
+
+// Ptr: 000906FC
+#WRITE(PTR, $00091F84)
+#WRITE(PTR, $00091FE8)
+//ズタぐつ
+Worn Shoes
+<$00>
+
+
+//<BC>ぐつ
+<BC> Shoes
+<$00>
+
+
+//<BC>シューズ
+<BC> Clogs
+<$00>
+
+
+//<BC>ぐつ
+<BC> Shoes
+<$00>
+
+
+//<BC>ズック
+<BC> Sneakers
+<$00>
+
+
+//<BC>シューズ
+<BC> Clogs
+<$00>
+
+
+//<BC>ブーツ
+<BC> Boots
+<$00>
+
+
+//<BC>ぐつ
+<BC> Shoes
+<$00>
+
+
+//<BC>長ぐつ
+<BC> Wellies
+<$00>
+
+
+//<BC>ズック
+<BC> Sneakers
+<$00>
+
+
+//<BC>ゲートル
+<BC> Gaiters
+<$00>
+
+
+//<BC>脚
+<BC> Leggings
+<$00>
+
+
+//<BC>ぐつ
+<BC> Shoes
+<$00>
+
+
+//<BC>ぐつ
+<BC> Shoes
+<$00>
+
+
+//<BC>ブーツ
+<BC> Boots
+<$00>
+
+
+//<BC>シューズ
+<BC> Clogs
+<$00>
+
+
+//<BC>ぐつ
+<BC> Shoes
+<$00>
+
+
+//<BC>サンダル
+<BC> Sandals
+<$00>
+
+
+//<BC>シューズ
+<BC> Clogs
+<$00>
+
+
+//<BC>ブーツ
+<BC> Boots
+<$00>
+
+
+//<BC>ズック
+<BC> Sneakers
+<$00>
+
+
+//<BC>ぐつ
+<BC> Shoes
+<$00>
+
+
+//<BC>皮ブーツ
+<BC> Buskins
+<$00>
+
+
+//<BC>シューズ
+<BC> Clogs
+<$00>
+
+
+//<BC>足ヒレ
+<BC> Flippers
+<$00>
+
+
+//<BC>地下足袋
+<BC> Tabi
+<$00>
+
+
+//<BC>サンダル
+<BC> Sandals
+<$00>
+
+
+//<BC>シューズ
+<BC> Clogs
+<$00>
+
+
+//<BC>羽ぐつ
+<BC> Talaria
+<$00>
+
+
+//<BC>ズック
+<BC> Sneakers
+<$00>
+
+
+//<BC>ぐつ
+<BC> Shoes
+<$00>
+
+
+//<BC>サンダル
+<BC> Sandals
+<$00>
+
+
+//<BC>タイツ
+<BC> Tights
+<$00>
+
+
+//<BC>ソックス
+<BC> Socks
+<$00>
+
+
+//<BC>シューズ
+<BC> Clogs
+<$00>
+
+
+//<BC>ソックス
+<BC> Socks
+<$00>
+
+
+//<BC>ブーツ
+<BC> Boots
+<$00>
+
+
+//<BC>ヒール
+<BC> Heels
+<$00>
+
+
+//<BC>フィン
+<BC> Fins
+<$00>
+
+
+//<BC>足ヒレ
+<BC> Flippers
+<$00>
+
+
+//<BC>ズック
+<BC> Sneakers
+<$00>
+
+
+//<BC>タイツ
+<BC> Tights
+<$00>
+
+
+//<BC>ぐつ
+<BC> Shoes
+<$00>
+
+
+//<BC>ブーツ
+<BC> Boots
+<$00>
+
+
+//<BC>タイツ
+<BC> Tights
+<$00>
+
+
+//<BC>ひれ
+<BC> Swim Shoes
+<$00>
+
+
+//<BC>足ヒレ
+<BC> Flippers
+<$00>
+
+
+//<BC>サンダル
+<BC> Sandals
+<$00>
+
+
+//<BC>ぐつ
+<BC> Shoes
+<$00>
+
+
+//<BC>シューズ
+<BC> Clogs
+<$00>
+
+
+//<BC>ぐつ
+<BC> Shoes
+<$00>
+
+
+//<BC>タイツ
+<BC> Tights
+<$00>
+
+
+//<BC>ぐつ
+<BC> Shoes
+<$00>
+
+
+//<BC>ブーツ
+<BC> Boots
+<$00>
+
+
+//<BC>ブーツ
+<BC> Boots
+<$00>
+
+
+//<BC>フィン
+<BC> Fins
+<$00>
+
+
+//<BC>シューズ
+<BC> Clogs
+<$00>
+
+
+//<BC>ぐつ
+<BC> Shoes
+<$00>
+
+
+//<BC>ヒール
+<BC> Heels
+<$00>
+
+
+//<BC>ズック
+<BC> Sneakers
+<$00>
+
+
+//<BC>ブーツ
+<BC> Boots
+<$00>
+
+
+//<BC>ブーツ
+<BC> Boots
+<$00>
+
+
+//<BC>シューズ
+<BC> Clogs
+<$00>
+
+
+//<BC>タイツ
+<BC> Tights
+<$00>
+
+
+//<BC>ブーツ
+<BC> Boots
+<$00>
+
+
+//<BC>ズック
+<BC> Sneakers
+<$00>
+
+
+//<BC>ぐつ
+<BC> Shoes
+<$00>
+
+
+//<BC>シューズ
+<BC> Clogs
+<$00>
+
+
+//<BC>ブーツ
+<BC> Boots
+<$00>
+
+
+//<BC>足タイツ
+<BC> Thigh-highs
+<$00>
+
+
+//<BC>ズック
+<BC> Sneakers
+<$00>
+
+
+//<BC>シューズ
+<BC> Clogs
+<$00>
+
+
+//<BC>ぐつ
+<BC> Shoes
+<$00>
+
+
+//<BC>安全ぐつ
+<BC> Cleats
+<$00>
+
+
+//<BC>シューズ
+<BC> Clogs
+<$00>
+
+
+//<BC>足ヒレ
+<BC> Flippers
+<$00>
+
+
+//<BC>ズック
+<BC> Sneakers
+<$00>
+
+
+//<BC>地下足袋
+<BC> Tabi
+<$00>
+
+
+//<BC>サンダル
+<BC> Sandals
+<$00>
+
+
+//<BC>ブーツ
+<BC> Boots
+<$00>
+
+
+//<BC>タイツ
+<BC> Tights
+<$00>
+
+
+//<BC>レッグ
+<BC> Legwarmers
+<$00>
+
+
+//<BC>脚
+<BC> Leggings
+<$00>
+
+
+//<BC>シューズ
+<BC> Clogs
+<$00>
+
+
+//<BC>ぐつ
+<BC> Shoes
+<$00>
+
+
+//<BC>ブーツ
+<BC> Boots
+<$00>
+
+
+//<BC>くつ
+<BC> Stompers
+<$00>
+
+
+//<BC>モカシン
+<BC> Moccasins
+<$00>
+
+
+//<BC>ぞうり
+<BC> Zori
+<$00>
+
+
+//<BC>モカシン
+<BC> Moccasins
+<$00>
+
+
+//<BC>ズック
+<BC> Sneakers
+<$00>
+
+
+//<BC>ブーツ
+<BC> Boots
+<$00>
+
+
+//<BC>ズック
+<BC> Heels
+<$00>
+
+
+//<BC>ブーツ
+<BC> Shoes
+<$00>
+
+
+//<BC>ブーツ
+<BC> Shoes
+<$00>
+
+
+//<BC>ヒール
+<BC> Heels
+<$00>
+
+
+//<BC>ぐつ
+<BC> Shoes
+<$00>
+
+
+//<BC>ぐつ
+<BC> Shoes
+<$00>
+
+
+//<BC>ズック
+<BC> Sneakers
+<$00>
+
+
+//<BC>ぐつ
+<BC> Shoes
+<$00>
+
+
+//<BC>ぐつ
+<BC> Shoes
+<$00>
+
+
+//<BC>ズック
+<BC> Sneakers
+<$00>
+
+
+//<BC>シューズ
+<BC> Clogs
+<$00>
+
+
+//<BC>スリッパ
+<BC> Slippers
+<$00>
+
+
+//<BC>タイツ
+<BC> Tights
+<$00>
+
+
+//<BC>ブーツ
+<BC> Boots
+<$00>
+
+
+//<BC>シューズ
+<BC> Clogs
+<$00>
+
+
+//<BC>スニーカー
+<BC> Creepers
+<$00>
+
+
+//<BC>シューズ
+<BC> Clogs
+<$00>
+
+
+//<BC>ヒール
+<BC> Heels
+<$00>
+
+
+//<BC>モカシン
+<BC> Moccasins
+<$00>
+
+
+//<BC>ゲートル
+<BC> Gaiters
+<$00>
+
+
+//<BC>ぐつ
+<BC> Shoes
+<$00>
+
+
+//<BC>ぐつ
+<BC> Shoes
+<$00>
+
+
+//<BC>サンダル
+<BC> Sandals
+<$00>
+
+
+//<BC>ブーツ
+<BC> Boots
+<$00>
+
+
+//<BC>ゲタ
+<BC> Geta
+<$00>
+
+
+//<BC>ブーツ
+<BC> Boots
+<$00>
+
+
+//<BC>フィン
+<BC> Fins
+<$00>
+
+
+//<BC>ぐつ
+<BC> Shoes
+<$00>
+
+
+//<BC>タイツ
+<BC> Tights
+<$00>
+
+<$00>
+
+<$00>
+
+<$00>
+
+
+
+// Ptr: 00090AD8
+#WRITE(PTR, $00091F88)
+#WRITE(PTR, $00091FEC)
+//人肉
+Flesh
+<$00>
+
+
+//<BC>の腸詰
+<BC> Frank
+<$00>
+
+
+//<BC>の酢漬
+Cured <BC>
+<$00>
+
+
+//<BC>ハム
+<BC> Ham
+<$00>
+
+
+//<BC>丸焼
+<BC> Schwarma
+<$00>
+
+
+//<BC>の肝
+<BC> Liver
+<$00>
+
+
+//<BC>の塩漬
+Salted <BC>
+<$00>
+
+
+//<BC>ハム
+<BC> Ham
+<$00>
+
+
+//<BC>のツクダ煮
+Stewed <BC>
+<$00>
+
+
+//<BC>の干肉
+Dried <BC>
+<$00>
+
+
+//<BC>団子
+<BC> Jaffle
+<$00>
+
+
+//<BC>ジャーキー
+<BC> Jerky
+<$00>
+
+
+//<BC>ハム
+<BC> Ham
+<$00>
+
+
+//<BC>の薫製
+Smoked <BC>
+<$00>
+
+
+//<BC>の生肉
+Raw <BC>
+<$00>
+
+
+//ゆで<BC>
+Boiled <BC>
+<$00>
+
+
+//<BC>のつくだ煮
+Stewed <BC>
+<$00>
+
+
+//<BC>の干肉
+Dried <BC>
+<$00>
+
+
+//<BC>の干肉
+Dried <BC>
+<$00>
+
+
+//<BC>の干肉
+Dried <BC>
+<$00>
+
+
+//<BC>の腸詰
+<BC> Frank
+<$00>
+
+
+//<BC>の干肉
+Dried <BC>
+<$00>
+
+
+//<BC>ジャーキー
+<BC> Jerky
+<$00>
+
+
+//<BC>ハム
+<BC> Ham
+<$00>
+
+
+//<BC>の薫製
+Smoked <BC>
+<$00>
+
+
+//<BC>ソーセージ
+<BC> Sausage
+<$00>
+
+
+//<BC>の姿焼
+<BC> Fesihk
+<$00>
+
+
+//<BC>の塩漬
+Pickled <BC>
+<$00>
+
+
+//<BC>エキス
+<BC> Extract
+<$00>
+
+
+//<BC>の丸焼
+<BC> Schwarma
+<$00>
+
+
+//<BC>の酢漬
+Pickled <BC>
+<$00>
+
+
+//<BC>の照焼
+Teriyaki <BC>
+<$00>
+
+
+//<BC>団子
+<BC> Jaffle
+<$00>
+
+
+//<BC>の甘露煮
+Candied <BC>
+<$00>
+
+
+//<BC>ベーコン
+<BC> Bacon
+<$00>
+
+
+//<BC>肉
+<BC> Filet
+<$00>
+
+
+//<BC>照焼
+Teriyaki <BC>
+<$00>
+
+
+//<BC>の酢漬
+Pickled <BC>
+<$00>
+
+
+//<BC>の白焼
+Grilled <BC>
+<$00>
+
+
+//<BC>の干物
+Dried <BC>
+<$00>
+
+
+//<BC>ナゲット
+<BC> Nuggets
+<$00>
+
+
+//<BC>の腸詰
+<BC> Frank
+<$00>
+
+
+//<BC>のひぼし
+Sun-dried <BC>
+<$00>
+
+
+//<BC>かまぼこ
+Mashed <BC>
+<$00>
+
+
+//<BC>肉
+<BC> Filet
+<$00>
+
+
+//<BC>ソーセージ
+<BC> Sausage
+<$00>
+
+
+//<BC>の干肉
+Dried <BC>
+<$00>
+
+
+//<BC>団子
+<BC> Jaffle
+<$00>
+
+
+//乾燥<BC>
+<BC> Crisps
+<$00>
+
+
+//<BC>の薫製
+Smoked <BC>
+<$00>
+
+
+//<BC>甘辛煮
+Glazed <BC>
+<$00>
+
+
+//<BC>の干肉
+Dried <BC>
+<$00>
+
+
+//<BC>の塩ゆで
+<BC> Seswaa
+<$00>
+
+
+//<BC>の薫製
+Smoked <BC>
+<$00>
+
+
+//<BC>の薫製
+Smoked <BC>
+<$00>
+
+
+//ロースト<BC>
+Roast <BC>
+<$00>
+
+
+//<BC>ナゲット
+<BC> Nuggets
+<$00>
+
+
+//<BC>焼き
+Stir-fried <BC>
+<$00>
+
+
+//乾燥<BC>
+<BC> Crisps
+<$00>
+
+
+//<BC>ひらき
+Toasted <BC>
+<$00>
+
+
+//<BC>ハム
+<BC> Ham
+<$00>
+
+
+//<BC>団子
+<BC> Jaffle
+<$00>
+
+
+//<BC>の干肉
+Dried <BC>
+<$00>
+
+
+//<BC>の塩漬
+Salted <BC>
+<$00>
+
+
+//<BC>の肉
+<BC> Filet
+<$00>
+
+
+//<BC>の肉
+<BC> Filet
+<$00>
+
+
+//<BC>ノイ
+<BC> Round
+<$00>
+
+
+//<BC>の薫製
+Smoked <BC>
+<$00>
+
+
+//<BC>ハム
+<BC> Ham
+<$00>
+
+
+//<BC>の塩辛
+<BC> Paste
+<$00>
+
+
+//<BC>ハム
+<BC> Ham
+<$00>
+
+
+//<BC>の甘露煮
+Candied <BC>
+<$00>
+
+
+//<BC>ミンチ
+Minced <BC>
+<$00>
+
+
+//<BC>の肉
+<BC> Filet
+<$00>
+
+
+//<BC>の干肉
+Dried <BC>
+<$00>
+
+
+//<BC>の酢漬
+Cured <BC>
+<$00>
+
+
+//<BC>ハム
+<BC> Ham
+<$00>
+
+
+//<BC>団子
+<BC> Jaffle
+<$00>
+
+
+//<BC>の干肉
+Dried <BC>
+<$00>
+
+
+//<BC>の薫製
+Smoked <BC>
+<$00>
+
+
+//<BC>の肉
+<BC> Filet
+<$00>
+
+
+//<BC>の薫製
+Smoked <BC>
+<$00>
+
+
+//<BC>の肉
+<BC> Filet
+<$00>
+
+
+//<BC>のひぼし
+Sun-dried <BC>
+<$00>
+
+
+//<BC>ちくわ
+<BC> Taco
+<$00>
+
+
+//<BC>ハム
+<BC> Ham
+<$00>
+
+
+//<BC>マリネ
+Braised <BC>
+<$00>
+
+
+//<BC>の干肉
+Dried <BC>
+<$00>
+
+
+//<BC>の姿焼
+<BC> Fesihk
+<$00>
+
+
+//<BC>ナゲット
+<BC> Nuggets
+<$00>
+
+
+//<BC>ミンチ
+Minced <BC>
+<$00>
+
+
+//<BC>の薫製
+Smoked <BC>
+<$00>
+
+
+//<BC>団子
+<BC> Jaffle
+<$00>
+
+
+//<BC>の塩漬
+Salted <BC>
+<$00>
+
+
+//<BC>の干肉
+Dried <BC>
+<$00>
+
+
+//<BC>の塩漬
+Salted <BC>
+<$00>
+
+
+//<BC>ボール
+<BC> Balls
+<$00>
+
+
+//<BC>ソーセージ
+<BC> Sausage
+<$00>
+
+
+//<BC>の塩辛
+<BC> Paste
+<$00>
+
+
+//<BC>の肉
+<BC> Filet
+<$00>
+
+
+//<BC>丸焼
+<BC> Schwarma
+<$00>
+
+
+//<BC>の薫製
+Smoked <BC>
+<$00>
+
+
+//<BC>の照焼
+Teriyaki <BC>
+<$00>
+
+
+//<BC>の丸焼
+<BC> Schwarma
+<$00>
+
+
+//<BC>ミンチ
+Minced <BC>
+<$00>
+
+
+//<BC>の塩漬
+Salted <BC>
+<$00>
+
+
+//<BC>エキス
+<BC> Extract
+<$00>
+
+
+//<BC>の薫製
+Smoked <BC>
+<$00>
+
+
+//<BC>の甘辛煮
+Glazed <BC>
+<$00>
+
+
+//日干し<BC>
+Sun-dried <BC>
+<$00>
+
+
+//<BC>ホルモン
+<BC> Offal
+<$00>
+
+
+//<BC>バーガー
+<BC> Burger
+<$00>
+
+
+//<BC>ミンチ
+Minced <BC>
+<$00>
+
+
+//<BC>つぼ焼
+Iced <BC>
+<$00>
+
+
+//<BC>まんじゅう
+<BC> Dumpling
+<$00>
+
+
+//<BC>の腸詰
+<BC> Frank
+<$00>
+
+
+//ゆで<BC>
+Boiled <BC>
+<$00>
+
+
+//<BC>ちくわ
+<BC> Taco
+<$00>
+
+
+//<BC>団子
+<BC> Jaffle
+<$00>
+
+
+//<BC>つぼ焼
+Iced <BC>
+<$00>
+
+
+//焼き<BC>
+BBQ <BC>
+<$00>
+
+<$00>
+
+
+
+// Ptr: 00090E90
+#WRITE(PTR, $00091F8C)
+#WRITE(PTR, $00091FF0)
+//ホレギンＣ
+Hooligan C
+<$00>
+
+
+//ビンビンＡ
+Shufelmin A
+<$00>
+
+
+//ナイトＤＸ
+Traio DX
+<$00>
+
+
+//カムカム７
+Gambogam 7
+<$00>
+
+
+//アッハンＳ
+Shake-up S
+<$00>
+
+
+//回復タブ５０
+RecoTab 50
+<$00>
+
+
+//回復タブ１００
+RecoTab 100
+<$00>
+
+
+//ハッスルⅡ
+Hustle Ⅱ
+<$00>
+
+
+//ハッスルⅢ
+Hustle Ⅲ
+<$00>
+
+
+//解毒カプセル
+Detox Pill
+<$00>
+
+
+//腐肉
+Rotten Meat
+<$00>
+
+
+//腐肉
+Rotten Meat
+<$00>
+
+
+//腐肉
+Rotten Meat
+<$00>
+
+
+//腐肉
+Rotten Meat
+<$00>
+
+
+//真紅の花たば
+Red Bouquet
+<$00>
+
+
+//純白の花たば
+White Bouquet
+<$00>
+
+
+//黄色の花たば
+Yellow Bouquet
+<$00>
+
+
+//枯れた花
+Wilted Flower
+<$00>
+
+
+//研究室の鍵
+Lab Key
+<$00>
+
+
+//本部地下の鍵
+Basement Key
+<$00>
+
+
+//禁断の鍵
+Secret Key
+<$00>
+
+
+//教会の鍵
+Church Key
+<$00>
+
+
+//お屋敷の鍵
+Mansion Key
+<$00>
+
+
+//納戸の鍵
+Storage Key
+<$00>
+
+
+//金庫室の鍵
+Vault Key
+<$00>
+
+
+//楽屋の鍵
+Backstage Key
+<$00>
+
+
+//倉庫の鍵
+Warehouse Key
+<$00>
+
+
+//思い出の鍵
+Precious Key
+<$00>
+
+
+//いびつなチョコ
+Sketchy Candy
+<$00>
+
+
+//満腹バナナ
+Buffet Banana
+<$00>
+
+
+//リボンの花
+Ribhorn Flower
+<$00>
+
+
+//赤なずな
+Red Dicot
+<$00>
+
+
+//赤すずな
+Red Turnip
+<$00>
+
+
+//赤すずしろ
+Red Daikon
+<$00>
+
+
+//青ききょう
+Blue Bellflower
+<$00>
+
+
+//青なでしこ
+Blue Dianthus
+<$00>
+
+
+//青おばな
+Bluegrass
+<$00>
+
+
+//青はこべ
+Blue Chickweed
+<$00>
+
+
+//赤はこべ
+Red Chickweed
+<$00>
+
+
+//青りんどう
+Blue Gentian
+<$00>
+
+
+//赤い果実
+Raspberries
+<$00>
+
+
+//白い果実
+Snowberries
+<$00>
+
+
+//黒い果実
+Blackberries
+<$00>
+
+
+//青い果実
+Blueberries
+<$00>
+
+
+//鮮血の果実
+Bloodberries
+<$00>
+
+
+//腐った果実
+Rotten Berries
+<$00>
+
+
+//トゲトゲ卵
+Prickly Egg
+<$00>
+
+
+//プヨプヨ卵
+Squishy Egg
+<$00>
+
+
+//ムチムチ卵
+Bulky Egg
+<$00>
+
+
+//ツルツル卵
+Shiny Egg
+<$00>
+
+
+//ザラザラ卵
+Gritty Egg
+<$00>
+
+
+//巨大な卵
+Jumbo Egg
+<$00>
+
+
+//大きな卵
+Big Egg
+<$00>
+
+
+//カラカラ卵
+Rattling Egg
+<$00>
+
+
+//ピカピカ卵
+Sparkly Egg
+<$00>
+
+
+//小さな卵
+Small Egg
+<$00>
+
+
+//プチプチ卵
+Tiny Egg
+<$00>
+
+
+//クリクリ卵
+Round Egg
+<$00>
+
+
+//熱いウンチ
+Hot Dung
+<$00>
+
+
+//きれいなウンチ
+Tidy Dung
+<$00>
+
+
+//ステキなウンチ
+Wonder Dung
+<$00>
+
+
+//立派なウンチ
+Praiseworthy Dung
+<$00>
+
+
+//暖かなウンチ
+Warm Dung
+<$00>
+
+
+//乾いたウンチ
+Dry Dung
+<$00>
+
+
+//使い捨てテント
+Disposable Tent
+<$00>
+
+
+//シャニルＮｏ５
+Chanel No.5
+<$00>
+
+
+//中和スプレー
+Neutralizer
+<$00>
+
+
+//迷彩スプレー
+Cover Spray
+<$00>
+
+
+//貸しワナ
+Rental Trap
+<$00>
+
+
+//自前のワナ
+Handy Trap
+<$00>
+
+
+//脱出ユニット
+Escape Device
+<$00>
+
+
+//回収ビーコン
+Flash Beacon
+<$00>
+
+
+//青の獣人像
+Blue Beastman Doll
+<$00>
+
+
+//赤の獣人像
+Red Beastman Doll
+<$00>
+
+
+//黒の獣人像
+Black Beastman Doll
+<$00>
+
+
+//白の獣人像
+White Beastman Doll
+<$00>
+
+
+//金の獣人像
+Gold Beastman Doll
+<$00>
+
+
+//銀の獣人像
+Silver Beastman Doll
+<$00>
+
+
+//ヤバサデの指輪
+Ya Basarde's Ring
+<$00>
+
+
+//ツィアデの指輪
+Ziade's Ring
+<$00>
+
+
+//ハラバデの指輪
+Harabade's Ring
+<$00>
+
+
+//アダマデの指輪
+Adamarde's Ring
+<$00>
+
+
+//ヤバサの指輪
+Ya Basa's Ring
+<$00>
+
+
+//ツィアの指輪
+Zia's Ring
+<$00>
+
+
+//ハラバの指輪
+Haraba's Ring
+<$00>
+
+
+//アダマの指輪
+Adamar's Ring
+<$00>
+
+
+//ン・ギエルの冠
+N. Ghiel's Crown
+<$00>
+
+
+//ン・ベラーの冠
+M. Peror's Crown
+<$00>
+
+
+//ン・ケモルの冠
+R. Q'duch's Crown
+<$00>
+
+
+//ン・ディンの冠
+R. Iki's Crown
+<$00>
+
+
+//ン・エリムの冠
+M. Bret's Crown
+<$00>
+
+
+//獣人の首飾り
+Beastman Necklace
+<$00>
+
+
+//王者のベルト
+Champion Belt
+<$00>
+
+
+//王者のメダル
+Champion Medal
+<$00>
+
+
+//王者の表彰状
+Champion Card
+<$00>
+
+
+//結納セット
+Wedding Gift
+<$00>
+
+
+//大判小判
+Vintage Coins
+<$00>
+
+
+//超大金塊
+Jumbo Bullion
+<$00>
+
+
+//大金塊
+Big Bullion
+<$00>
+
+
+//金塊
+Bullion
+<$00>
+
+
+//メモリンＺ
+Memorin Z
+<$00>
+
+
+//電波受信機
+Radar
+<$00>
+
+
+//太郎の首輪
+Taro's Collar
+<$00>
+
+
+//フロッピー
+Floppy Disc
+<$00>
+
+
+//ファングの牙
+Fang's Fang
+<$00>
+
+
+//花の種パック
+Flowerseed Bag
+<$00>
+
+
+//ティッシュ
+Tissues
+<$00>
+
+
+//エアフリーパス
+Free-fly Pass
+<$00>
+
+
+//宝クジ
+Lottery Ticket
+<$00>
+
+
+//宝クジ
+Lottery Ticket
+<$00>
+
+
+//宝クジ
+Lottery Ticket
+<$00>
+
+
+//紙クズ
+Scrap Paper
+<$00>
+
+
+//思い出の本
+Sentimental Book
+<$00>
+
+
+//わからん
+Unknown
+<$00>
+
+<$00>
+
+<$00>
+
+
+
+// Ptr: 00091388
+#WRITE(PTR, $00091FAC)
+//<OBJ>少年
+<OBJ>boy
+<$00>
+
+
+//<OBJ>男
+<OBJ>man
+<$00>
+
+
+//完全<OBJ>男
+Mega<OBJ>
+<$00>
+
+
+//究極<OBJ>男
+Ultra<OBJ>
+<$00>
+
+<$00>
+
+<$00>
+
+
+
+// Ptr: 000913A4
+#WRITE(PTR, $00091FB0)
+//<OBJ>少女
+<OBJ>girl
+<$00>
+
+
+//<OBJ>女
+<OBJ>woman
+<$00>
+
+
+//完全<OBJ>女
+Mega<OBJ>
+<$00>
+
+
+//究極<OBJ>女
+Ultra<OBJ>
+<$00>
+
+<$00>
+
+<$00>
+
+
+
+// Ptr: 000913C0
+#WRITE(PTR, $00091FB4)
+#WRITE(PTR, $00091FFC)
+//逃げる
+Flee
+<$00>
+
+
+//捨て身アタック
+Ambush
+<$00>
+
+
+//体毛ミサイル
+Bristle Missile
+<$00>
+
+
+//ギ酸ジェット
+Acid Jet
+<$00>
+
+
+//花火ショット
+Fireworks
+<$00>
+
+
+//絶叫パラノイア
+Paranoia
+<$00>
+
+
+//リン粉シャワー
+Phosphorain
+<$00>
+
+
+//炎のカーペット
+Red Carpet
+<$00>
+
+
+//逃げジャンプ
+Air Dodge
+<$00>
+
+
+//胸ドラム
+Chest Drum
+<$00>
+
+
+//体当りアタック
+Ram
+<$00>
+
+
+//踏みつけプレス
+Trample
+<$00>
+
+
+//灼熱地獄
+Searing Hell
+<$00>
+
+
+//体をなめる
+Lick
+<$00>
+
+
+//マッスル変げ
+Weird Flex
+<$00>
+
+
+//電撃ハッグ
+Shock Hug
+<$00>
+
+
+//火炎ブレス
+Fire Breath
+<$00>
+
+
+//疾風カッター
+Air Cutter
+<$00>
+
+
+//流血ファイト
+Bloodbath
+<$00>
+
+
+//竜巻ウイング
+Tornado Wing
+<$00>
+
+
+//丸飲みアタック
+Full-body Gulp
+<$00>
+
+
+//ステロイド注入
+Steroid Shot
+<$00>
+
+
+//必殺ニードル
+Knockout Needle
+<$00>
+
+
+//大鎌アーム
+Scissorhands
+<$00>
+
+
+//砂吐き
+Quicksand
+<$00>
+
+
+//シビレ毒
+Numbing Agent
+<$00>
+
+
+//悪臭ファート
+Stinky Fart
+<$00>
+
+
+//鎧スキン
+Armored Skin
+<$00>
+
+
+//絹糸ネット
+Silky Net
+<$00>
+
+
+//毒針ダンス
+Poison Needles
+<$00>
+
+
+//コブ回復
+Cheer Heal
+<$00>
+
+
+//超音波ウェーブ
+Sonic Wave
+<$00>
+
+
+//尻尾アタック
+Tail Whip
+<$00>
+
+
+//無差別サンダー
+Wild Thunder
+<$00>
+
+
+//げろげろボイス
+Potty Mouth
+<$00>
+
+
+//黒のカーテン
+Black Curtain
+<$00>
+
+
+//吸血アタック
+Vampire Drain
+<$00>
+
+
+//発光ボディ
+Luminous Body
+<$00>
+
+
+//無敵シェル
+Invincible Shell
+<$00>
+
+
+//胴締めホールド
+Body Scissor
+<$00>
+
+
+//絶対零度ブレス
+Sub-zero Breath
+<$00>
+
+
+//銀世界
+Snowscape
+<$00>
+
+
+//突撃チャージ
+Bodyslam
+<$00>
+
+
+//吹雪ストーム
+Snowstorm
+<$00>
+
+
+//お色気アタック
+Sex Appeal
+<$00>
+
+
+//お色気アタック
+Sex Appeal
+<$00>
+
+
+//お色気アタック
+Sex Appeal
+<$00>
+
+
+//お色気アタック
+Sex Appeal
+<$00>
+
+
+//応急手当て
+First Aid
+<$00>
+
+
+//低くうなる
+Low Growl
+<$00>
+
+
+//遠吠え
+Howl
+<$00>
+
+
+//猟犬に命令
+H. Dog Trick
+<$00>
+
+
+//けしかける
+Sick-em
+<$00>
+
+
+//連れ逃げ
+Let Go
+<$00>
+
+
+//フェロモン
+Pheromones
+<$00>
+
+
+//腐液
+Bile
+<$00>
+
+
+//分裂
+Divide
+<$00>
+
+
+//仲間呼ぶ
+TCU Draw
+<$00>
+
+
+//他種呼ぶ
+Wild Draw
+<$00>
+
+
+//雄たけび
+War Cry
+<$00>
+
+
+//水浸し
+Flood
+<$00>
+
+
+//犬キラーガス
+Carbon Dioxide
+<$00>
+
+
+//自殺
+Suicide
+<$00>
+
+
+//溶解スピット
+Acid Spit
+<$00>
+
+
+//油吹き
+Deep Fry
+<$00>
+
+
+//塩吹き
+Saltbomb
+<$00>
+
+
+//水吹き
+Watergun
+<$00>
+
+
+//催眠ビーム
+Hypnotic Beam
+<$00>
+
+
+//窒息ガス
+Tear Gas
+<$00>
+
+
+//落雷ハンマー
+Thor's Hammer
+<$00>
+
+
+//左右移動
+Lateral Shift
+<$00>
+
+
+//大ジャンプ
+High Jump
+<$00>
+
+
+//保護色
+Camouflage
+<$00>
+
+
+//連続アタック
+Fury Attack
+<$00>
+
+
+//かばう
+Protect
+<$00>
+
+
+//守る
+Guard
+<$00>
+
+
+//集中命令
+Teamwork
+<$00>
+
+
+//撤退命令
+Escape
+<$00>
+
+
+//回復１
+Heal 1
+<$00>
+
+
+//回復２
+Heal 2
+<$00>
+
+
+//炎の壁
+Firewall
+<$00>
+
+
+//衝撃タックル
+Impact Tackle
+<$00>
+
+
+//仲間呼ぶ
+Call Friend
+<$00>
+
+
+//迷走ガス
+Roaming Gas
+<$00>
+
+
+//力ため
+Powermove
+<$00>
+
+
+//残像スパーク
+Sparking Imprint
+<$00>
+
+
+//盗み食い
+Sneaky Bite
+<$00>
+
+
+//粘着液
+Sticky Liquid
+<$00>
+
+
+//飢餓ソニック
+Sonic Hunger
+<$00>
+
+
+//露出ソニック
+Sonic Exposure
+<$00>
+
+
+//潜る
+Slip
+<$00>
+
+
+//ＧＥＮＤＥＲ　ＣＨＡＮＧＥ
+Genderbend
+<$00>
+
+
+//アドレナリン注入
+Adrenaline Shot
+<$00>
+
+
+//氷塊ランチャー
+Ice Launcher
+<$00>
+
+
+//青酸ガス
+Cyanide Gas
+<$00>
+
+
+//仲間食う
+Eat Ally
+<$00>
+
+
+//放射能プラズマ
+Radioactive Plasma
+<$00>
+
+
+//マグマ噴射
+Magma Jet
+<$00>
+
+
+//胃液シャワー
+Gastric Shower
+<$00>
+
+
+//真空ハリケーン
+Vacuum Hurricane
+<$00>
+
+
+//赤熱ヒート
+Red Heat
+<$00>
+
+
+//神経ガス
+Nerve Gas
+<$00>
+
+
+//指名呼ぶ
+Callout
+<$00>
+
+
+//何もしない
+Nothing
+<$00>
+
+
+//紫ブラッド
+Violet Blood
+<$00>
+
+
+//ゾンビ
+Zombie
+<$00>
+
+
+//ハンドビーム
+Hand Beam
+<$00>
+
+
+//土のヤバサ
+Earth Ya Basa
+<$00>
+
+
+//風のツィア
+Wind Zia
+<$00>
+
+
+//泡のハラバ
+Bubble Haraba
+<$00>
+
+
+//金のアダマ
+Metal Adamar
+<$00>
+
+
+//月のヤバサ
+Moon Ya Basa
+<$00>
+
+
+//炎のツィア
+Fire Zia
+<$00>
+
+
+//水のハラバ
+Water Haraba
+<$00>
+
+
+//光のアダマ
+Light Adamar
+<$00>
+
+
+//捨身命令
+Last Resort
+<$00>
+
+
+//コブラツイスト
+Cobra Twist
+<$00>
+
+
+//失神シャウト
+Dizzying Shout
+<$00>
+
+
+//超振動ブラスト
+Quaking Blast
+<$00>
+
+
+//猛毒ジュース
+Lethal Juice
+<$00>
+
+
+//イヌかき
+Doggy Paddle
+<$00>
+
+
+//移動攻撃
+Swift
+<$00>
+
+<$00>
+
+<$00>
+
+
+
+// Ptr: 00091918
+#WRITE(PTR, $00091FB8)
+<$00>
+
+
+//右から
+from the right
+<$00>
+
+
+//後ろから
+from the rear
+<$00>
+
+
+//左から
+from the left
+<$00>
+
+
+
+// Ptr: 00091930
+#WRITE(PTR, $00091FBC)
+//♀
+♀
+<$00>
+
+
+//♂
+♂
+<$00>
+
+<$00>
+
+<$00>
+
+
+
+// Ptr: 00091938
+#WRITE(PTR, $00091FC0)
+<$05>
+//α
+α
+<$00>
+
+<$05>
+//β
+β
+<$00>
+
+
+
+// Ptr: 00091940
+#WRITE(PTR, $00091FD4)
+//<CLR_ON>Y守<CLR_OFF>
+<CLR_ON>YDefensive<CLR_OFF>
+<$00>
+
+
+//<CLR_ON>Y無敵<CLR_OFF>
+<CLR_ON>YInvincible<CLR_OFF>
+<$00>
+
+
+//<CLR_ON><LIGHT_BLUE>乱<CLR_OFF>
+<CLR_ON><LIGHT_BLUE>Berserk<CLR_OFF>
+<$00>
+
+
+//<CLR_ON><LIGHT_BLUE>毒<CLR_OFF>
+<CLR_ON><LIGHT_BLUE>Poison<CLR_OFF>
+<$00>
+
+
+//<CLR_ON>R行動不能<CLR_OFF>
+<CLR_ON>RIncapacitated<CLR_OFF>
+<$00>
+
+
+//<CLR_ON>M<VWF_ON>BP<VWF_OFF>不能<CLR_OFF>
+<CLR_ON>M<VWF_ON>BP<VWF_OFF>N/A<CLR_OFF>
+<$00>
+
+
+//<CLR_ON>W異常なし<CLR_OFF>
+<CLR_ON>WNo Ailments<CLR_OFF>
+<$00>
+
+
+//<CLR_ON>R戦闘不能<CLR_OFF>
+<CLR_ON>RIncapacitated<CLR_OFF>
+<$00>
+
+<$00>
+
+<$00>
+
+
+
+// Ptr: 0009198C
+#WRITE(PTR, $00091FF4)
+//草地
+Grass
+<$00>
+
+
+//土
+Soil
+<$00>
+
+
+//森林
+Forest
+<$00>
+
+
+//砂地
+Desert
+<$00>
+
+
+//沼地
+Marsh
+<$00>
+
+
+//水
+Water
+<$00>
+
+
+//氷雪
+Snow
+<$00>
+
+<$00>
+
+<$00>
+
+<$00>
+
+<$00>
+
+<$00>
+
+<$00>
+
+<$00>
+
+<$00>
+
+
+//炎
+Fire
+<$00>
+
+<$00>
+
+<$00>
+
+
+
+// Ptr: 000919B8
+#WRITE(PTR, $00091FF8)
+<$00>
+
+
+//右
+Right
+<$00>
+
+
+//後ろ
+Back
+<$00>
+
+
+//左
+Left
+<$00>
+
+<$00>
+
+<$00>
+
+<$00>
+
+<$00>
+
+
+
+// Ptr: 000919C8
+#WRITE(PTR, $00092008)
+//メニュー
+Menu
+<$00>
+
+
+//／入換え
+／Swap
+<$00>
+
+
+//／入換え
+／Swap
+<$00>
+
+
+//／捨てる
+／Toss
+<$00>
+
+
+
+// Ptr: 000919EC
+#WRITE(PTR, $0009200C)
+//東
+East
+<$00>
+
+
+//南
+South
+<$00>
+
+
+//西
+West
+<$00>
+
+
+//北
+North
+<$00>
+
+<$00>
+
+<$00>
+
+<$00>
+
+<$00>
+
+
+
+// Ptr: 000919FC
+#WRITE(PTR, $00092014)
+//草
+Grass
+<$00>
+
+
+//土
+Soil
+<$00>
+
+
+//土
+Soil
+<$00>
+
+
+//砂
+Desert
+<$00>
+
+
+//泥
+Marsh
+<$00>
+
+
+//水
+Water
+<$00>
+
+
+//雪
+Snowfield
+<$00>
+
+<$00>
+
+<$00>
+
+<$00>
+
+<$00>
+
+<$00>
+
+<$00>
+
+<$00>
+
+<$00>
+
+
+//炎
+Flames
+<$00>
+
+<$00>
+
+<$00>
+
+<$00>
+
+<$00>
+
+
+
+// Ptr: 00091A20
+#WRITE(PTR, $00092020)
+//右耳
+right ear
+<$00>
+
+
+//右腕
+right arm
+<$00>
+
+
+//腹
+tummy
+<$00>
+
+
+//のど
+throat
+<$00>
+
+
+//唇
+lips
+<$00>
+
+
+//右胸
+right shoulder
+<$00>
+
+
+//右脚
+right leg
+<$00>
+
+
+//額
+brow
+<$00>
+
+<$00>
+
+<$00>
+
+
+
+// Ptr: 00091A44
+#WRITE(PTR, $00092024)
+//ミルク
+Milk
+<$00>
+
+
+//鉄サビ
+Rust
+<$00>
+
+
+//どろ水
+Muddy Water
+<$00>
+
+
+//青カビ
+Blue Mold
+<$00>
+
+
+//レモン
+Lemon
+<$00>
+
+
+//小麦粉
+Flour
+<$00>
+
+<$1B>
+//ハチ蜜
+Honey
+<$00>
+
+
+//鼻じる
+Mucus
+<$00>
+
+
+//チーズ
+Cheese
+<$00>
+
+
+//カレー
+Curry
+<$00>
+
+
+//レタス
+Lettuce
+<$00>
+
+
+//松ヤニ
+Resin
+<$00>
+
+
+//再生紙
+Kraft Paper
+<$00>
+
+
+//ラード
+Lard
+<$00>
+
+
+//イチゴ
+Strawberry
+<$00>
+
+
+//人造肉
+Fake Meat
+<$00>
+
+
+//傷グチ
+Scab
+<$00>
+
+
+//干し草
+Hay
+<$00>
+
+
+//焼ソバ
+Yakisoba
+<$00>
+
+
+//甘味料
+Earlobe
+<$00>
+
+
+//耳たぶ
+Near Beer
+<$00>
+
+
+//合成酒
+Fake Wine
+<$00>
+
+
+//タバコ
+Cigar
+<$00>
+
+
+//ミント
+Mint
+<$00>
+
+
+//冬の汗
+Cold Sweat
+<$00>
+
+
+//口べに
+Lipstick
+<$00>
+
+
+//火山灰
+Volcanic Ash
+<$00>
+
+
+//生ゴミ
+Foodwaste
+<$00>
+
+
+//黒砂糖
+Brown Sugar
+<$00>
+
+
+//リンゴ
+Apple
+<$00>
+
+
+//機械油
+Motor Oil
+<$00>
+
+
+//キノコ
+Mushroom
+<$00>
+
+<$00>
+
+<$00>
+
+<$00>
+
+
+
+// Ptr: 00091B28
+#WRITE(PTR, $00092028)
+//♀
+♀
+<$00>
+
+
+//♀W
+♀W
+<$00>
+
+
+//_♂
+_♂
+<$00>
+
+
+//_♂W
+_♂W
+<$00>
+
+#WARN($00091F68, "WARNME")
+
+
+
+
+
+
+
+#JMP($00095000)
+
+// Ptr: 00091B38
+#WRITE(PTR, $00092004)
+//オズポート
+OzPort
+<$00>
+
+
+//ハーディア
+Hardia
+<$00>
+
+
+//ミナゴ
+Minago
+<$00>
+
+
+//ホスピコ
+Hospico
+<$00>
+
+
+//パラサイド
+Paraside
+<$00>
+
+
+//ネブール
+Nebul
+<$00>
+
+
+//バトルパーク
+Battle Park
+<$00>
+
+
+//コシカタ
+Koshikata
+<$00>
+
+
+//Ｇファクトリー
+G Factory
+<$00>
+
+
+//エターナ
+Eterna
+<$00>
+
+
+//リナバレー
+Spurr Valley
+<$00>
+
+
+//ドギファ
+Dogyf Heights
+<$00>
+
+
+//ガレックス
+Galax
+<$00>
+
+
+//ローズガーデン
+Rose Garden
+<$00>
+
+
+//ラグナロッジ
+Ragna Rim
+<$00>
+
+
+//箱船
+Astro Ark
+<$00>
+
+
+//東エリア西地区
+W East Area
+<$00>
+
+
+//東エリア東地区
+E East Area
+<$00>
+
+
+//東エリア北地区
+N East Area
+<$00>
+
+
+//西エリア南地区
+S East Area
+<$00>
+
+
+//西エリア中央地区
+West Area
+<$00>
+
+
+//西エリア北地区
+N West Area
+<$00>
+
+
+//南エリア北東地区
+NE South Area
+<$00>
+
+
+//南エリア南東地区
+SE South Area
+<$00>
+
+
+//南エリア西地区
+W South Area
+<$00>
+
+
+//地下エデン東地区
+E Eden
+<$00>
+
+
+//地下エデン北西地区
+NW Eden
+<$00>
+
+
+//地下エデン南西地区
+SW Eden
+<$00>
+
+
+//ネブロード
+Nebul Cavity
+<$00>
+
+
+//ルリナスタワー
+Llinas' Tower
+<$00>
+
+
+//ダイケイブ
+Great Cave
+<$00>
+
+
+//カラゴラム
+Karhagolem
+<$00>
+
+
+//マーブルポリス
+Marblopolis
+<$00>
+
+
+//ヤマピット
+Yama Pit
+<$00>
+
+
+//ダグポンド
+Dug Pond
+<$00>
+
+
+//スパームリナ
+Spurr Marina
+<$00>
+
+
+//ノースカメノス
+North Tortugos
+<$00>
+
+
+//ウルマ
+Urma
+<$00>
+
+
+//シャナイ
+Shehnai
+<$00>
+
+
+//ザス
+Xoth
+<$00>
+
+
+//スワローム
+Swallom
+<$00>
+
+
+//シナチカ
+Underworld
+<$00>
+
+
+//コラルコラーナ
+Coral Khorana
+<$00>
+
+
+//カカーナホテル
+Hotel Kakahna
+<$00>
+
+
+//サンドホール
+Sand Hole
+<$00>
+
+
+//サマキア
+Samakia
+<$00>
+
+
+//ダークリバー
+Dark River
+<$00>
+
+
+//フローラジャム
+Flora Jam
+<$00>
+
+
+//ホーリーホール
+Holy Hole
+<$00>
+
+
+//アナビス
+Annabis
+<$00>
+
+
+//メルトポット
+Melting Pot
+<$00>
+
+
+//プテラノテラス
+Pterano Terrace
+<$00>
+
+
+//ガピア
+Gapia
+<$00>
+
+
+//小アナビス
+C. Annabis
+<$00>
+
+
+//トリクロス
+Tri-cross
+<$00>
+
+
+//フォンタナ
+Fontana
+<$00>
+
+
+//オズサット
+OzSat
+<$00>
+
+
+//レッドポール
+Red Pole
+<$00>
+
+
+//ゲート
+Gate
+<$00>
+
+
+//旧箱船
+Arkyard
+<$00>
+
+
+//エンド
+END
+<$00>
+
+
+//テスト
+TEST
+<$00>
+
+
+//バトル
+COMBAT
+<$00>
+
+<$00>
+
+<$00>
+
+<$00>
+
+
+
+// Ptr: 00091E28
+#WRITE(PTR, $00091FD8)
+//大型
+Big
+<$00>
+
+
+//中型
+Medium
+<$00>
+
+
+//小型
+Small
+<$00>
+
+
+//飛行
+Air
+<$00>
+
+
+//水棲
+Sea
+<$00>
+
+
+//大型肉食
+Highly Carnivorous
+<$00>
+
+
+//中型肉食
+Carnivorous
+<$00>
+
+
+//小型肉食
+Hardly Carnivorous
+<$00>
+
+<$00>
+
+<$00>
+
+<$00>
+
+<$00>
+
+
+
+// Ptr: 00091E60
+#WRITE(PTR, $0009202C)
+//<CLR_ON>R♀<CLR_OFF>
+<CLR_ON>R♀<CLR_OFF>
+<$00>
+
+
+//<CLR_ON><LIGHT_BLUE>♂<CLR_OFF>
+<CLR_ON><LIGHT_BLUE>♂<CLR_OFF>
+<$00>
+
+
+
+// Ptr: 00091E6C
+#WRITE(PTR, $00092030)
+//Α
+Α
+<$00>
+
+
+//Β
+Β
+<$00>
+
+
+//Γ
+Γ
+<$00>
+
+
+//Δ
+Δ
+<$00>
+
+
+//Θ
+Θ
+<$00>
+
+<$00>
+
+
+
+// Ptr: 00091E7C
+#WRITE(PTR, $00092034)
+//Ε
+Ε
+<$00>
+
+
+//Ζ
+Ζ
+<$00>
+
+
+//Η
+Η
+<$00>
+
+
+//Θ
+Θ
+<$00>
+
+
+//Ι
+Ι
+<$00>
+
+
+//Κ
+Κ
+<$00>
+
+
+//Λ
+Λ
+<$00>
+
+
+//Ν
+Ν
+<$00>
+
+
+//Μ
+Μ
+<$00>
+
+
+//Ξ
+Ξ
+<$00>
+
+
+//Ο
+Ο
+<$00>
+
+
+//Π
+Π
+<$00>
+
+
+//Ρ
+Ρ
+<$00>
+
+<$00>
+
+
+
+// Ptr: 00091EA4
+#WRITE(PTR, $00092038)
+//<CLR_ON>R
+<CLR_ON>R
+<$00>
+
+
+//<CLR_ON>W
+<CLR_ON>W
+<$00>
+
+
+//<CLR_ON>Y
+<CLR_ON>Y
+<$00>
+
+
+//<CLR_ON>W
+<CLR_ON>W
+<$00>
+
+
+//<CLR_ON>K
+<CLR_ON>K
+<$00>
+
+<$00>
+
+
+//<BC>は　い<EC>／<BC>いいえ<EC><PAUSE>
+<BC>Yes<EC>／<BC>No<EC><PAUSE>
+<$00>
+
+
+
+// Ptr: 00091EC8
+#WRITE(PTR, $0009203C)
+//メニュー
+Menu
+<$00>
+
+
+//／入換え
+／Swap
+<$00>
+
+
+//／入換え
+／Swap
+<$00>
+
+
+//／逃がす
+/Release
+<$00>
+
+
+//／能　力
+／Skills
+<$00>
+
+<$00>
+
+<$00>
+
+<$00>
+
+
+
+// Ptr: 00091EF8
+#WRITE(PTR, $00092040)
+//買い
+＿will be bought.
+<$00>
+
+
+//作り
+＿will be made.
+<$00>
+
+
+//売り
+＿will be sold.
+<$00>
+
+<$00>
+
+
+
+// Ptr: 00091F08
+#WRITE(PTR, $00092048)
+//<CLR_ON>W
+<CLR_ON>W
+<$00>
+
+
+//<CLR_ON>b
+<CLR_ON>b
+<$00>
+
+
+//<CLR_ON>R
+<CLR_ON>R
+<$00>
+
+
+//<CLR_ON>G
+<CLR_ON>G
+<$00>
+
+
+//<CLR_ON>Y
+<CLR_ON>Y
+<$00>
+
+<$00>
+
+
+//飛ぶ動物
+Glider?
+<$00>
+
+
+//星がた　
+Tiktaalic?
+<$00>
+
+
+//緑の魚　
+Gill-man?
+<$00>
+
+
+//変なヤツ
+Anemone?
+<$00>
+
+
+//小さいの
+Failinis?
+<$00>
+
+
+//ツノ野郎
+Cow?
+<$00>
+
+
+//超強いの
+T. Rex?
+<$00>
+
+
+//光るヤツ
+Meerkat?
+<$00>
+
+
+//　　　　
+<$00>
+
+<$00>
+
+<$00>
+
+<$00>
+
+
+
+
+#WARN($00091F68, "WARNME")

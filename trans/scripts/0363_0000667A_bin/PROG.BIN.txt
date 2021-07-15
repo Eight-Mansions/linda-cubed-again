@@ -1,0 +1,2382 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $00000000, 16)
+#JMP($0000261D)
+
+
+#WRITE(PTR, $0020)
+#WRITE(PTR, $0022)
+#WRITE(PTR, $0024)
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n周囲の色に　体を染めた∥
+A\n
+blended in with its surroundings.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n遠くを　見ている…
+A\n
+stared into the distance.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n風の臭いに　おびえている…
+A\n
+trembles at a smell in the air.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n大きく　２度、鳴いた∥
+A\n
+called loudly 2 times!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは　
+A\n
+drooled at the sight of＿
+<$1C>
+//Tを見て\nヨダレを　たらした∥
+T.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aの攻撃∥\n美しい鳴き声で　歌った∥
+A\n
+chirped a lovely song!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n遠くを　見ている…
+A\n
+stared into the distance.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n風の臭いに　おびえている…
+A\n
+trembles at a smell in the air.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n大きく　２度、鳴いた∥
+A\n
+called loudly 2 times!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは　
+A\n
+drooled at the sight of＿
+<$1C>
+//Tを見て\nヨダレを　たらした∥
+T.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n遠くを　見ている…
+A\n
+stared into the distance.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n風の臭いに　おびえている…
+A\n
+trembles at a smell in the air.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n大きく　２度、鳴いた∥
+A\n
+called loudly 2 times!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは　
+A\n
+drooled at the sight of＿
+<$1C>
+//Tを見て\nヨダレを　たらした∥
+T.
+<$12>
+<$00>
+
+
+
+
+
+
+//１
+<$06>1
+<$00>
+
+
+
+
+
+
+//２
+<$06>2
+<$00>
+
+
+
+
+
+
+//３
+<$06>3
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n
+A\n
+snorted＿
+<$1D>
+//度　鼻を鳴らした∥
+＿times!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n遠くを　見ている…
+A\n
+stared into the distance.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n風の臭いに　おびえている…
+A\n
+trembles at a smell in the air.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n大きく　２度、鳴いた∥
+A\n
+called loudly 2 times!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは　
+A\n
+drooled at the sight of＿
+<$1C>
+//Tを見て\nヨダレを　たらした∥
+T.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aの攻撃∥\n道具袋を　ねらって\n長い舌が　伸びてきた∥
+A\n
+reached far to lap at the item bag!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n周囲の色に　体を染めた∥
+A\n
+blended in with its surroundings.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n遠くを　見ている…
+A\n
+stared into the distance.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n風の臭いに　おびえている…
+A\n
+trembles at a smell in the air.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n大きく　２度、鳴いた∥
+A\n
+called loudly 2 times!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは　
+A\n
+drooled at the sight of＿
+<$1C>
+//Tを見て\nヨダレを　たらした∥
+T.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aの攻撃∥\n道具袋を　ねらって\n長い舌が　伸びてきた∥
+A\n
+reached far to lap at the item bag!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n
+A\n
+sprang over＿
+<$1C>
+//Kを　飛び越えて\n反対側に　着地した∥
+K\n
+and landed on the other side!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n遠くを　見ている…
+A\n
+stared into the distance.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n風の臭いに　おびえている…
+A\n
+trembles at a smell in the air.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n大きく　２度、鳴いた∥
+A\n
+called loudly 2 times!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは　
+A\n
+drooled at the sight of＿
+<$1C>
+//Tを見て\nヨダレを　たらした∥
+T.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aの攻撃∥\n強力な光を　全身から放った∥\n残像スパーク∥
+A∥\n
+unleashed palinopsic flashes from its body!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n遠くを　見ている…
+A\n
+stared into the distance.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n風の臭いに　おびえている…
+A\n
+trembles at a smell in the air.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n大きく　２度、鳴いた∥
+A\n
+called loudly 2 times!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは　
+A\n
+drooled at the sight of＿
+<$1C>
+//Tを見て\nヨダレを　たらした∥
+T.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n
+A\n
+sprang over＿
+<$1C>
+//Kを　飛び越えて\n反対側に　着地した∥
+K\n
+and landed on the other side!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aの攻撃∥\n道具袋を　ねらって\n長い舌が　伸びてきた∥
+A\n
+reached far to lap at the item bag!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n遠くを　見ている…
+A\n
+stared into the distance.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n風の臭いに　おびえている…
+A\n
+trembles at a smell in the air.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n大きく　２度、鳴いた∥
+A\n
+called loudly 2 times!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは　
+A\n
+drooled at the sight of＿
+<$1C>
+//Tを見て\nヨダレを　たらした∥
+T.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n
+A\n
+sprang over＿
+<$1C>
+//Kを　飛び越えて\n反対側に　着地した∥
+K\n
+and landed on the other side!
+<$00>
+
+
+
+
+
+
+//マダムロゼ
+<$06>Madam Rose
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n遠くを　見ている…
+A\n
+stared into the distance.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n風の臭いに　おびえている…
+A\n
+trembles at a smell in the air.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n大きく　２度、鳴いた∥
+A\n
+called loudly 2 times!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは　
+A\n
+drooled at the sight of＿
+<$1C>
+//Tを見て\nヨダレを　たらした∥
+T.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n遠くを　見ている…
+A\n
+stared into the distance.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n風の臭いに　おびえている…
+A\n
+trembles at a smell in the air.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n大きく　２度、鳴いた∥
+A\n
+called loudly 2 times!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは　
+A\n
+drooled at the sight of＿
+<$1C>
+//Tを見て\nヨダレを　たらした∥
+T.
+<$12>
+<$00>
+
+
+
+
+
+
+//ベビーロゼ
+<$06>Roseling
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n遠くを　見ている…
+A\n
+stared into the distance.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n風の臭いに　おびえている…
+A\n
+trembles at a smell in the air.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは\n大きく　２度、鳴いた∥
+A\n
+called loudly 2 times!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$1C>
+//Aは　
+A\n
+drooled at the sight of＿
+<$1C>
+//Tを見て\nヨダレを　たらした∥
+T.
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0026)
+c002.obj
+<$00>
+
+
+
+
+c002_m.obj
+<$00>
+
+
+
+
+c009.obj
+<$00>
+
+
+
+
+c023.obj
+<$00>
+
+
+
+
+meet.obj
+<$00>
+
+
+
+
+trap.obj
+<$00>
+
+
+
+
+m028.obj
+<$00>
+
+
+
+
+m033.obj
+<$00>
+
+
+
+
+m092.obj
+<$00>
+
+
+
+
+m124.obj
+<$00>
+
+
+
+
+m028f.obj
+<$00>
+
+
+
+
+m028m.obj
+<$00>
+
+
+
+
+m033f.obj
+<$00>
+
+
+
+
+m033m.obj
+<$00>
+
+
+
+
+m081f.obj
+<$00>
+
+
+
+
+m081m.obj
+<$00>
+
+
+
+
+m092f.obj
+<$00>
+
+
+
+
+m092m.obj
+<$00>
+
+
+
+
+m124m.obj
+<$00>
+
+
+
+
+m124f.obj
+<$00>
+
+
+
+
+#WRITE(PTR, $0028)
+//ローズガーデン
+<$06>Rose Garden＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここでは　野営できない
+Camp can't be set up here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ナビシステム（ナビＳ）は\nここでは　起動しない
+The Navi System(NaviS) can't be booted here!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　口笛を吹いた
+Ken whistled.
+<$12>
+\n
+<CLEAR>
+//外で　大きな羽音が\n聞こえたような　気がした…
+Huge wings flapped in the distance...
+<$12>
+<$00>
+
+
+
+
+
+
+//クン、クンクン………？
+<$06>Sniff...sniff, sniff?
+<$12>
+\n
+<CLEAR>
+//………………………∥
+............!
+<$12>
+\n
+<CLEAR>
+//クン、クンクン………？
+Sniff...sniff, sniff?
+<$12>
+\n
+<CLEAR>
+//ケン∥　いるわよ∥\n今まで　かいだことのない\n動物のニオイが　するわ∥
+Something's here, Ken!\n
+I've never smelled anything like it!
+<$12>
+<$00>
+
+
+
+
+
+
+//クン、クンクン………？
+<$06>Sniff...sniff, sniff?
+<$12>
+\n
+<CLEAR>
+//この辺りは　知った動物の\nニオイしか　しないわね
+I don't smell anything new in the area.
+<$12>
+<$00>
+
+
+
+
+
+
+//クン、クンクン………？
+<$06>Sniff...sniff, sniff?
+<$12>
+\n
+<CLEAR>
+//………………………∥
+............!
+<$12>
+\n
+<CLEAR>
+//クン、クンクン………？
+Sniff...sniff, sniff?
+<$12>
+\n
+<CLEAR>
+//新しい動物のニオイって\nなかなか、見つからないわね
+I can't say for sure I smell anything new in\n
+the area.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//それと…、超ヤバイ動物が\n近くにいるみたい！\nぷんぷん臭うわ
+Something...BIG is nearby.\n
+I bet it's as strong as it smells!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……何か、さっきから\n胸騒ぎが　するのよ！\n一度、出直さない？
+...The smell's faded, suggesting its source\n
+left only recently. Maybe it will return?
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//それから　この付近の動物は\nけっこう根性、あるみたいね
+The animals nearby smell fiesty!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//でも、ちょっと危険な臭いも\n混じっているようよ
+It all smells with a hint...of danger!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ハンターとしての\n腕を　磨くには\nちょうど、いいってトコね
+Hunters need to hone all the skills they can,\n
+you know?
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//まっ、一応\n注意していきましょうか
+M'kay, let's be careful out there.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//適当に　からかってから\n戻りましょうよ
+It wouldn't hurt to poke around a little\n
+before leaving.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//それと、この辺りの動物なら\nケンひとりでも　楽勝よ∥
+Shoot, you could take on the animals here all\n
+by yourself!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは肉を投げようとした…
+Ken threw the meat...
+<$12>
+\n
+<CLEAR>
+//しかし、そんなノン気なこと\nしている場合では　ないと\n気づいてやめた
+...actually, nevermind. After realizing how\n
+weird that'd look here, he stopped.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$15>
+//W○ボタンで肉を投げます
+W○ button: Throw meat
+<$00>
+
+
+
+
+
+
+//花を大切にしましょう
+<$06>Let's protect all the flowers in the park!
+<$12>
+\n
+<CLEAR>
+//この公園内の花に　勝手に\nエサを与えないよう　お願いします
+We request you not feed the flowers here\n
+irresponsibly.
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $002A)
+#WRITE(PTR, $002C)
+#WRITE(PTR, $002E)
+#WRITE(PTR, $0030)
+<$06><CLEAR>
+//マダムロゼが襲ってきた！
+Madam Rose attacks!
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0032)
+<$06><CLEAR>
+//ベビーロゼと戦闘になった！
+Roseling＿draws near!
+<$12>
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0034)
+<$06><$1D>
+//　
+
+<$1E>
+//頭\n
+x\n
+<$00>
+
+
+
+
+
+
+//ケンは　「中和スプレー」を\n使った
+<$06>Ken used the Neutralizer.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//スプレーは　空になった
+The spray ran out.
+<$12>
+<$00>
+
+
+
+
+
+
+//ここに「貸しワナ」を仕掛けますか？\n
+<$06>Set the Rental Trap here?\n
+<$01>
+//は＿い
+Yes
+<$0E>
+//／
+<$01>
+//いいえ
+No
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　「貸しワナ」をそっと置いた
+Ken carefully set the Rental Trap.
+<$00>
+
+
+
+
+
+
+<$12>
+<$00>
+
+
+
+
+<$06><CLEAR>
+//ケンは　「自前ワナ」の設置場所を\n一度に　３ヵ所しか\n覚えられそうにない…
+Ken can only remember up to 3 Makeshift Trap\n
+locations at a time.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ここに「自前のワナ」を仕掛けますか？\n
+Set the Makeshift Trap here?\n
+<$01>
+//は＿い
+Yes
+<$0E>
+//／
+<$01>
+//いいえ
+No
+<$0E>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ケンは　「自前のワナ」をそっと置いた
+Ken set the Makeshift Trap.
+<$00>
+
+
+
+
+
+
+<$12>
+<$00>
+
+
+
+
+<$06><CLEAR>
+//やっぱり　ケンは\n前に仕掛けた　「自前のワナ」の場所を\nひとつ　忘れてしまった…　トホホ…
+...Oops! As expected, Ken forgot the location\n
+of 1 previously set Makeshift Trap.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sケンは「貸しワナ」を調べた
+SKen inspected the Rental Trap.
+<$12>
+\n
+<CLEAR>
+//まだ動物は　かかっていない\nケンは　がっかりしながら\n「貸しワナ」を　元に戻した
+No bites yet...\n
+Ken whistfully put down the Money Trap.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sケンは「自前のワナ」を調べた
+SKen inspected the Makeshift Trap.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sまだ動物はかかっていない\nケンは　がっかりしながら\n「自前のワナ」を　元に戻した
+No bites yet...\n
+Ken whistfully put down the Makeshift Trap.
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sワナは\n壊されていた…
+SThe trap was destroyed...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sだが、トランスカーゴがいっぱいなので\nとりあえず　あきらめた…
+S/However, the TCU was already full, so Ken\n
+let it go.
+<$12>
+<$00>
+
+
+
+
+
+
+<CLEAR>
+
+<$00>
+
+
+
+
+<$06>
+//TRANS-CARGO IN
+Now loading to TCU...
+
+//∥
+!
+<$12>
+<$00>
+
+
+
+
+
+
+//リンダは　動物たちの\n鳴きマネをした
+<$06>Linda mimicked a few animal calls.
+<$00>
+
+
+
+
+
+
+//ケンは　目立たないように\n気配を殺した
+<$06>Ken masked the party to avoid detection.
+<$00>
+
+
+
+
+
+
+<$12>
+<$00>
+
+
+
+
+//ケンは　「迷彩スプレー」を\n使った
+<$06>Ken used the Cover Spray.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//スプレーは　空になった
+The spray ran out.
+<$12>
+<$00>
+
+
+
+
+
+
+//ケンは　「シャニルＮｏ５」を\n自分にふりかけた
+<$06>Ken sprinkled the Chanel No. 5 over himself.
+<$00>
+
+
+
+
+
+
+//クン、クンクン………？
+<$06>Sniff...sniff, sniff?
+<$12>
+\n
+<CLEAR>
+//バラの香りの中に　危険な\nニオイが　少し混ざってるわ…
+Beneath the fresh scent of roses lay hints of\n
+danger!
+<$12>
+<$00>
+
+
+
+
+
+
+//……東
+<$06>...East
+<$00>
+
+
+
+
+
+
+//……西
+<$06>...West
+<$00>
+
+
+
+
+
+
+//……南
+<$06>...South
+<$00>
+
+
+
+
+
+
+//……北
+<$06>...North
+<$00>
+
+
+
+
+
+
+//…北東
+<$06>...North-east
+<$00>
+
+
+
+
+
+
+//…北西
+<$06>...North-west
+<$00>
+
+
+
+
+
+
+//…南東
+<$06>...South-east
+<$00>
+
+
+
+
+
+
+//…南西
+<$06>...South-west
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、…
+<$06>! That's where we'll find a＿
+<$1D>
+//に行けば
+.
+<$00>
+
+
+
+
+
+
+//直進
+<$06>For
+<$00>
+
+
+
+
+
+
+//右よ
+<$06>Right
+<$00>
+
+
+
+
+
+
+//左よ
+<$06>Left
+<$00>
+
+
+
+
+
+
+//後ろ
+<$06>Back
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//……
+......
+<$1D>
+<$00>
+
+
+
+
+
+
+//、絶対に
+<$06>wards, got it? I'm sure we'll find a＿
+<$1D>
+//∥
+＿there!
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+<$19>
+//1
+<$15>
+//Sリンダは　「女の勘」を\nはたらかせた∥
+SLinda used her woman's intuition...
+<$14><$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//…ごめんね、\n今日は　勘がはたらかないわ…
+...Sorry. I don't have it in me today.
+<$12>
+<$00>
+
+
+
+
+
+
+//運命の
+<$06>Fated＿
+<$00>
+
+
+
+
+
+
+//新しい
+<$06>New＿
+<$00>
+
+
+
+
+
+
+//素敵な
+<$06>Great＿
+<$00>
+
+
+
+
+
+
+//未知の
+<$06>Unknown＿
+<$00>
+
+
+
+
+
+
+//何か
+<$06>things＿
+<$00>
+
+
+
+
+
+
+//発見
+<$06>discoveries＿
+<$00>
+
+
+
+
+
+
+//お宝
+<$06>treasures＿
+<$00>
+
+
+
+
+
+
+//動物
+<$06>animals＿
+<$00>
+
+
+
+
+
+
+//に　出会える…
+<$06>could appear.
+<$00>
+
+
+
+
+
+
+//が　待ってる…
+<$06>await us...
+<$00>
+
+
+
+
+
+
+//気がするわ∥
+<$06>are there.
+<$00>
+
+
+
+
+
+
+//チャンスよ∥
+<$06>are in our grasp!
+<$00>
+
+
+
+
+
+
+//今しかないわ
+<$06>could slip through our fingers!
+<$00>
+
+
+
+
+
+
+//間違いなし∥
+<$06>are dead head!
+<$00>
+
+
+
+
+
+
+//\n
+<$06>\n
+<$1D><$1D><$1D>
+//\n
+\n
+<$1D><$12>
+\n
+<CLEAR>
+//
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信があるの∥
+I'm sure of it!
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//自信は　ないけどね…
+Although, I'm not totally certain...
+<$12>
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//絶対なんだから∥
+I'm absolutely certain!
+<$12>
+<$00>
+
+
+
+
+
+
+//
+<$06><$15>
+//Yスケジュール
+YMemo＿
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//スケジュールは何もありません
+There is nothing on schedule.
+<$12>
+<$00>
+
+
+
+
+
+
+//成功終了
+<$06>Completed!
+<$00>
+
+
+
+
+
+
+//期限切れ
+<$06>Expired!
+<$00>
+
+
+
+
+
+
+//あと
+<$06>In＿
+<$1E>
+//季節
+＿seasons
+<$00>
+
+
+
+
+
+
+//あと
+<$06>Deadline:＿
+<$1E>
+//年
+Y/
+<$1E>
+//季節
+S
+<$00>
+
+
+
+
+
+
+//あと
+<$06>In＿
+<$1E>
+//年
+＿years
+<$00>
+
+
+
+
+
+
+<$06><$16><$01>
+//◇
+◇
+<$0E><$1D><$02>
+//190
+<$1D>
+<$00>
+
+
+
+
+
+
+//ファングを倒す
+<$06>Slay Fang
+<$00>
+
+
+
+
+
+
+//パンハイムからの依頼
+<$06>Assist Panheim
+<$00>
+
+
+
+
+
+
+//<$1B>
+//カメの卵を手に入れる
+<$06>Snatch Turtle Eggs
+<$00>
+
+
+
+
+
+
+//<$1B>
+//プテラノの卵を手に入れる
+<$06>Snatch Pteranodon Eggs
+<$00>
+
+
+
+
+
+
+//遺産争いにケリをつける
+<$06>End the inheritance battle
+<$00>
+
+
+
+
+
+
+//ヤマダのために一肌脱ぐ
+<$06>Unload for Yamada
+<$00>
+
+
+
+
+
+
+//町のシンボルを見つけだす
+<$06>Find the village symbol
+<$00>
+
+
+
+
+
+
+//ソフィアからの依頼
+<$06>Assist Sophia
+<$00>
+
+
+
+
+
+
+//サチコ救出
+<$06>Rescue Sachiko
+<$00>
+
+
+
+
+
+
+//ポロポロちゃんを助ける
+<$06>Save Nightshade
+<$00>
+
+
+
+
+
+
+//アンジェラ捜し
+<$06>Find Angela
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//カラゴラムのファングを倒し、その証拠を\nハーディアホテルのスペクターに渡す
+Defeat Fang in Karhagolem. Present proof to\n
+Spectre in Hardia Hotel.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//マーブルポリスの
+Process meat from＿
+//<$1B>
+//ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す
+chickens in Marblopolis.Give them to Prof.\n
+Panheim in Hospico.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+Find up to 3＿
+//<$1B>
+//カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す
+Turtle Eggs. Give them to Louis at the Battle\n
+Park BB Ranch.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//
+Acquire 2＿
+//<$1B>
+//プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す
+Pteranodon Eggs. Give them to Bronco at the\n
+Battle Park BB Ranch.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//「太郎の首輪」を見つけだし、ドギファの\nナターシャか、オーマン家３兄弟に渡す
+Locate Taro's Collar. Give it to Natasha or\n
+one of the 3 Aumann children in Dogyf\n
+Heights.
+<$00>
+
+
+
+
+
+
+//６万
+<$06>60, 000
+<$00>
+
+
+
+
+
+
+//あと
+<$06>another＿
+<$1E><$0F>
+//000
+
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//Ｇファクトリーのヤマダのために\n
+Deposit＿
+<$1D>
+//￥を預金する
+￥ in an account to Yamada in G Factory.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//コシカタのシンボル「
+Find the＿
+//<$1B>
+//トラの爪」を\n見つけだし、ポリスカに渡す
+Tiger Claw, Koshikata's village symbol.\n
+Return it to Poliska.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ソフィアのために、エターナの桜の木を\nどうにかして咲かせる
+Find out how to revive the sakura trees in\n
+Eterna for Sophia.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//溶岩の中で育った動物の熱いウンチを\nエターナのソフィアに渡す
+Deliver Hot Dung from a lava-dwelling\n
+creature to Sophia in Eterna.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ラグナロッジのエモリに会いに行く
+Meet with Dr. Emori in Ragna Rim.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//「フロッピーと
+Take the Floppy Disc and＿
+
+//10
+10, 000
+
+//万￥」を持って、\nＧファクトリー入口１階、\n公衆電話の前に行く
+￥ to the G Factory gate. Answer the payphone.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//「フロッピーと
+Take the Floppy Disc and＿
+
+//10
+10, 000
+
+//万￥」を持って、\nパラサイド入口１階、\n公衆電話の前に行く
+￥ to the Paraside gate. Answer the payphone.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//「フロッピーと
+Take the Floppy Disc and＿
+
+//10
+10, 000
+
+//万￥」を持って、\nガレックスに行く
+￥ to Galax.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す
+Pick bloodberries in Flora Jam. Take them to\n
+Kevin and Nightshade in Rose Garden.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//パラサイドの酒場にいるアンジェラを\n確認して、リナバレーのマリオに連絡する
+Look for Angela at the Paraside bar. Report\n
+your findings to Mario in Spurr Valley.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//アンジェラを確認するために、\nオズポートホテルの酒場に行く
+Look for Angela at the OzPort Hotel bar.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//アンジェラを確認するために、\n西エリアのしけた町のホテルに行く
+Look for Angela at a hotel bar somewhere in\n
+West Area.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//アンジェラを確認するために、\nドギファの舞台に行く
+Look for Angela at the theater stage in Dogyf\n
+Heights.
+<$00>
+
+
+
+
+
+
+<$06><CLEAR>
+//リナバレーのマリオの母、\nアンジェラを追ってオズサットへ行く
+Chase Angela to OzSat! Mario will follow from\n
+Spurr Valley.
+<$00>
+
+
+
+
+
+
+#WRITE(PTR, $0036)
+
+<$00>
+
+
+
+
