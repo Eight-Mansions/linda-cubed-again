@@ -1,0 +1,2321 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $00000000, 16)
+#JMP($00002191)
+
+//Ptr : 2191
+//Offset : 0000
+#WRITE(PTR, $0022)
+#WRITE(PTR, $0024)
+#WRITE(PTR, $0026)
+#WRITE(PTR, $0028)
+
+t13_sp2.obj
+<$00>
+
+
+
+
+t13_sp3.obj
+<$00>
+
+
+
+
+c002.obj
+<$00>
+
+
+
+
+c009.obj
+<$00>
+
+
+
+
+c023.obj
+<$00>
+
+
+
+
+c043.obj
+<$00>
+
+
+
+
+c043_a.obj
+<$00>
+
+
+
+
+c044.obj
+<$00>
+
+
+
+
+c101a1.obj
+<$00>
+
+
+
+
+c103a1.obj
+<$00>
+
+
+
+
+c108a2.obj
+<$00>
+
+
+
+
+c117a0.obj
+<$00>
+
+
+
+
+box.obj
+<$00>
+
+
+
+
+shit.obj
+<$00>
+
+
+
+
+ribon.obj
+<$00>
+
+
+
+
+mf019.obj
+<$00>
+
+
+
+
+mf029.obj
+<$00>
+
+
+
+
+mf039.obj
+<$00>
+
+
+
+
+mf049.obj
+<$00>
+
+
+
+
+mf059.obj
+<$00>
+
+
+
+
+mf069.obj
+<$00>
+
+
+
+
+mf079.obj
+<$00>
+
+
+
+
+mf089.obj
+<$00>
+
+
+
+
+//Ptr : 2278
+//Offset : 0000
+#WRITE(PTR, $002A)
+
+President's Estate １Ｆ
+<$00>
+
+
+
+
+<CLEAR>
+ケンは＿口笛を吹いた
+<PAUSE>
+<$0D>
+<CLEAR>
+外で＿大きな羽音が\n
+聞こえたような＿気がした…
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+ケンは＿目立たないように\n
+気配を＿殺した
+<PAUSE>
+<$0D>
+<CLEAR>
+しかし＿この辺りには\n
+ケンの迷彩に＿引っ掛かるような\n
+マヌケな動物は＿いなかった…
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+リンダは＿動物たちの\n
+鳴きマネをした
+<PAUSE>
+<$0D>
+<CLEAR>
+しかし＿この辺りには\n
+リンダの声に＿だまされるような\n
+マヌケな動物は＿いなかった…
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot open the animal\n
+reference encyclopedia here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot set up for camp here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot activate Navigator System (NaviS) here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+鍵がかかっていて開かない
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+Ken used the 「ESTATE KEY」.
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+鍵がかかっていて開かない
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+Ken used the 「ESTATE KEY」.
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+<CLEAR>
+Ken acquires＿
+<$1E>
+￥!!∥
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+何も＿見つからなかった
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+Ken found「
+<$1D>
+」!∥
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+<CLEAR>
+だが、道具袋が一杯なので\n
+「
+<$1D>
+」を\n
+とりあえず＿あきらめた…
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+<CLEAR>
+Acquired 「
+<$1D>
+」!∥
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+Ken found「
+<$1D>
+」!∥
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+<CLEAR>
+だが、道具袋が一杯なので\n
+「
+<$1D>
+」を\n
+とりあえず＿あきらめた…
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+<CLEAR>
+Acquired 「
+<$1D>
+」!∥
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+何も＿見つからなかった
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+Ken found「
+<$1D>
+」!∥
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+<CLEAR>
+だが、道具袋が一杯なので\n
+「
+<$1D>
+」を\n
+とりあえず＿あきらめた…
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+<CLEAR>
+Acquired 「
+<$1D>
+」!∥
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+Ken examined the cherry blossom tree's roots.
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+<CLEAR>
+Ken found the 「大判小判」.
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+<CLEAR>
+しかし、何も発見出来なかった
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+わぁ、うれしいな！\n
+本当に来てくれた∥＿ありがとう∥\n
+私が＿ソフィアよ
+<PAUSE>
+<$0D>
+<CLEAR>
+あのね、おじいちゃんがね…\n
+おばあちゃんや＿ポチの思い出と一緒に\n
+この星に＿残るって言うの…
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Mommy and Daddy couldn't\n
+persuade him,＿but Grandpa\n
+promised me!
+<PAUSE>
+<$0D>
+<CLEAR>
+He wants to see this garden bursting with\n
+cherry blossoms if he's going to leave this\n
+star, so…
+<PAUSE>
+<$0D>
+<CLEAR>
+Can you make the cherry blossoms\n
+in this garden bloom, Mister?∥\n
+<BC>
+That's fine.
+<EC>
+／
+<BC>
+What's the reward？
+<EC>
+／
+<BC>
+No can do.
+<EC>
+<$00>
+
+
+
+
+<CLEAR>
+Thank you∥＿Really, really, really∥\n
+This was our promise∥＿These cherry\n
+blossom trees will be my most sacred treasure！
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+This is from my secret piggy bank！\n
+It's lots of money！
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$06>
+<$1E>
+<$04>
+￥ is okay, right?\n
+It's my entire fortune. Take it all∥
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Make the blossoms here bloom！\n
+Please,＿Mister∥ Please!\n
+My grandpa's fond of them too!
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+What……？\n
+Give me that bright red poop!
+<PAUSE>
+<$0D>
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+Sofia took the hot poop from\n
+Ken and threw it everywhere.
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Wowww∥＿It's so pretty∥
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Grandpa∥＿Look∥＿Look∥\n
+They bloomed∥_The cherry blossoms bloomed∥
+<PAUSE>
+<$0D>
+<CLEAR>
+Just like I promised, Grandpa,\n
+Now you can come with me∥＿Now you can∥\n
+Now we'll go together∥
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Thank you, Mister！\n
+Don't lose that key. It's for the room\n
+the money I promised you is in！
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+Ken received the 「Mansion Key」！
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+花壇の方にも＿あのウンチをまいたから\n
+お兄ちゃんも＿花を育てて\n
+お姉ちゃんに＿プレゼントしたら？
+<PAUSE>
+<$0D>
+<CLEAR>
+オンナは＿そういうのに弱いのよ■
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+What pretty flowers,\n
+they look almost like ribbons！
+<$00>
+
+
+
+
+Small_
+<$00>
+
+
+
+
+Large_
+<$00>
+
+
+
+
+Long_
+<$00>
+
+
+
+
+Fine
+<$00>
+
+
+
+
+<CLEAR>
+What……？\n
+Let me borrow that_
+<$1D>
+_poop!
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+Sofia borrow the_\n
+<$1D>
+＿poop from Ken and threw it around.
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+Ken held onto it for Sophia.
+<PAUSE>
+<CLEAR>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+Ken acquired＿
+<$06>
+３００
+<$04>
+￥!!
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+やっとばあさんとポチのそばに\n
+行けるわい……
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+そういえば…\n
+死んだ妻君もポチも＿桜の花が\n
+好きじゃったな
+<PAUSE>
+<$0D>
+<CLEAR>
+もう一度、わしも満開の桜の下で\n
+若かった頃の自分でも＿サカナにして\n
+酒を飲んでみたいもんじゃ
+<PAUSE>
+<$0D>
+<CLEAR>
+しかし、この枯木ではな……
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+あんた、孫娘のソフィアに\n
+何を頼まれたか知らんが＿この枯木に\n
+桜を咲かすなんぞ＿無理なことじゃ
+<PAUSE>
+<$0D>
+<CLEAR>
+わしもな＿ソフィアがあまりに\n
+しつこいんで＿苦しまぎれに約束したが\n
+まさか＿本気にするとはなぁ
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+わしは＿ここで死にたいんじゃ\n
+ほっといてくれんか…
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+なんとまあ、長生きはするもんじゃ\n
+枯木に花が咲くとはなぁ…＿わしも\n
+もう＿ひと花、咲かせてみるかのぉ
+<PAUSE>
+<$0D>
+<CLEAR>
+どうせなら＿若いギャルとなぁ…\n
+どうじゃな？＿リンダちゃん？\n
+わしと…
+<PAUSE>
+<$0D>
+<CLEAR>
+ラブ・ラブ・ファイヤー\n
+してみんか？
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+父さん、昔から言い出したら\n
+聞かない頑固者でね…
+<PAUSE>
+<$0D>
+<CLEAR>
+死んだ母さんや＿ポチの眠るこの星と\n
+運命をともにするとか＿急に\n
+言い出しちゃって＿困ってんですよ…
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Drugs have been buried here\n
+in the courtyard before.
+<PAUSE>
+<$0D>
+<CLEAR>
+We haven't gotten a single weed,\n
+but the cherry blossoms haven't bloomed either…
+<PAUSE>
+<$0D>
+<CLEAR>
+Maybe the botanist in Hospico can\n
+whip up some healing magic for you.\n
+That person's supposedly a witch…
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+きれいに咲いたなぁ
+<PAUSE>
+<$0D>
+<CLEAR>
+ネオケニアに＿父さんと母さんと俺と\n
+３人で移住してきたのが＿ちょうど春、\n
+こんな風に＿桜が咲いてましたっけね
+<PAUSE>
+<$0D>
+<CLEAR>
+父さんは山へ＿ポチと
+<$1B>
+クマ狩りに\n
+母さんは川で＿
+<$1B>
+クマの肝を洗ってた\n
+…なつかしいですよ
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+They should be in bloom by next spring.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+……Mister？\n
+I don't think it worked.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+<$1D>
+_was found.
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+<CLEAR>
+However, the toolbag is full.
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+<CLEAR>
+Ken acquired＿「
+<$1D>
+」!!
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+Use the\n
+「Flower Seed Pack」？\n
+<BC>
+Yes
+<EC>
+／
+<BC>
+No
+<EC>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+Ken opened the 「Flower Seed Pack」\n
+and started planting.
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+//Ptr : 3343
+//Offset : 0000
+#WRITE(PTR, $002C)
+
+President's Estate 2F
+<$00>
+
+
+
+
+<CLEAR>
+ケンは＿口笛を吹いた
+<PAUSE>
+<$0D>
+<CLEAR>
+外で＿大きな羽音が\n
+聞こえたような＿気がした…
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+ケンは＿目立たないように\n
+気配を＿殺した
+<PAUSE>
+<$0D>
+<CLEAR>
+しかし＿この辺りには\n
+ケンの迷彩に＿引っ掛かるような\n
+マヌケな動物は＿いなかった…
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+リンダは＿動物たちの\n
+鳴きマネをした
+<PAUSE>
+<$0D>
+<CLEAR>
+しかし＿この辺りには\n
+リンダの声に＿だまされるような\n
+マヌケな動物は＿いなかった…
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot open the animal\n
+reference encyclopedia here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot set up for camp here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot activate Navigator System (NaviS) here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+Ken found「
+<$1D>
+」!∥
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+<CLEAR>
+だが、道具袋が一杯なので\n
+「
+<$1D>
+」を\n
+とりあえず＿あきらめた…
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+<CLEAR>
+Acquired 「
+<$1D>
+」!∥
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+Ken found「
+<$1D>
+」!∥
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+<CLEAR>
+だが、道具袋が一杯なので\n
+「
+<$1D>
+」を\n
+とりあえず＿あきらめた…
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+<CLEAR>
+Acquired 「
+<$1D>
+」!∥
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+鍵がかかっていて開かない
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+鍵がかかっていて開かない
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+鍵がかかっていて開かない
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Whenever a problem occurs,\n
+my husband always suspects\n
+me and Grandpa first!
+<PAUSE>
+<$0D>
+<CLEAR>
+To be honest, it's really offensive∥
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Grandfather says we can do\n
+what we see fit with his remains！
+<PAUSE>
+<$0D>
+<CLEAR>
+I don't think he'd be too happy being\n
+buried with grandma, though.\n
+He'd be super pissed∥
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+おじいちゃんのために＿桜を\n
+咲かせたんだってね\n
+あんたたち＿本当、物好きね
+<PAUSE>
+<$0D>
+<CLEAR>
+じゃ今度は＿物好きついでに\n
+桜の根本でも＿掘ってみれば＿どう？\n
+大判小判が＿ザクザク出るかもよ
+<PAUSE>
+<$0D>
+<CLEAR>
+…なんてね\n
+世の中＿そんなに甘かないわよ
+<PAUSE>
+<$00>
+
+
+
+
+//Ptr : 385A
+//Offset : 0000
+#WRITE(PTR, $002E)
+
+President's Mansion 3F
+<$00>
+
+
+
+
+<CLEAR>
+ケンは＿口笛を吹いた
+<PAUSE>
+<$0D>
+<CLEAR>
+外で＿大きな羽音が\n
+聞こえたような＿気がした…
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+ケンは＿目立たないように\n
+気配を＿殺した
+<PAUSE>
+<$0D>
+<CLEAR>
+しかし＿この辺りには\n
+ケンの迷彩に＿引っ掛かるような\n
+マヌケな動物は＿いなかった…
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+リンダは＿動物たちの\n
+鳴きマネをした
+<PAUSE>
+<$0D>
+<CLEAR>
+しかし＿この辺りには\n
+リンダの声に＿だまされるような\n
+マヌケな動物は＿いなかった…
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot open the animal\n
+reference encyclopedia here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot set up for camp here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot activate Navigator System (NaviS) here.
+<PAUSE>
+<$00>
+
+
+
+
+Some lunatic leapt off from\n
+the top of this tower once！\n
+Fortunately, he seemingly wasn't injured.
+<PAUSE>
+<$0D>
+<CLEAR>
+He was proposing to this girl,\n
+and she said yes, so I guess that's good.\n
+But I wonder if he's just a nut…
+<PAUSE>
+<$0D>
+<CLEAR>
+The guy's name was Nek.
+<PAUSE>
+<$00>
+
+
+
+
+//Ptr : 3ADB
+//Offset : 0000
+#WRITE(PTR, $0030)
+
+President's Estate 4F
+<$00>
+
+
+
+
+<CLEAR>
+ケンは＿口笛を吹いた
+<PAUSE>
+<$0D>
+<CLEAR>
+外で＿大きな羽音が\n
+聞こえたような＿気がした…
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+ケンは＿目立たないように\n
+気配を＿殺した
+<PAUSE>
+<$0D>
+<CLEAR>
+しかし＿この辺りには\n
+ケンの迷彩に＿引っ掛かるような\n
+マヌケな動物は＿いなかった…
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+リンダは＿動物たちの\n
+鳴きマネをした
+<PAUSE>
+<$0D>
+<CLEAR>
+しかし＿この辺りには\n
+リンダの声に＿だまされるような\n
+マヌケな動物は＿いなかった…
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot open the animal\n
+reference encyclopedia here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot set up for camp here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot activate Navigator System (NaviS) here.
+<PAUSE>
+<$00>
+
+
+
+
+//Ptr : 3C92
+//Offset : 0000
+#WRITE(PTR, $0032)
+
+President's Estate 5F
+<$00>
+
+
+
+
+<CLEAR>
+ケンは＿口笛を吹いた
+<PAUSE>
+<$0D>
+<CLEAR>
+外で＿大きな羽音が\n
+聞こえたような＿気がした…
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+ケンは＿目立たないように\n
+気配を＿殺した
+<PAUSE>
+<$0D>
+<CLEAR>
+しかし＿この辺りには\n
+ケンの迷彩に＿引っ掛かるような\n
+マヌケな動物は＿いなかった…
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+リンダは＿動物たちの\n
+鳴きマネをした
+<PAUSE>
+<$0D>
+<CLEAR>
+しかし＿この辺りには\n
+リンダの声に＿だまされるような\n
+マヌケな動物は＿いなかった…
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot open the animal\n
+reference encyclopedia here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot set up for camp here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot activate Navigator System (NaviS) here.
+<PAUSE>
+<$00>
+
+
+
+
+//Ptr : 3E49
+//Offset : 0000
+#WRITE(PTR, $0034)
+
+President's Mansion 3F
+<$00>
+
+
+
+
+<CLEAR>
+ケンは＿口笛を吹いた
+<PAUSE>
+<$0D>
+<CLEAR>
+外で＿大きな羽音が\n
+聞こえたような＿気がした…
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+ケンは＿目立たないように\n
+気配を＿殺した
+<PAUSE>
+<$0D>
+<CLEAR>
+しかし＿この辺りには\n
+ケンの迷彩に＿引っ掛かるような\n
+マヌケな動物は＿いなかった…
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+リンダは＿動物たちの\n
+鳴きマネをした
+<PAUSE>
+<$0D>
+<CLEAR>
+しかし＿この辺りには\n
+リンダの声に＿だまされるような\n
+マヌケな動物は＿いなかった…
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot open the animal\n
+reference encyclopedia here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot set up for camp here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot activate Navigator System (NaviS) here.
+<PAUSE>
+<$00>
+
+
+
+
+//Ptr : 4000
+//Offset : 0000
+#WRITE(PTR, $0036)
+
+President's Estate 4F
+<$00>
+
+
+
+
+<CLEAR>
+ケンは＿口笛を吹いた
+<PAUSE>
+<$0D>
+<CLEAR>
+外で＿大きな羽音が\n
+聞こえたような＿気がした…
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+ケンは＿目立たないように\n
+気配を＿殺した
+<PAUSE>
+<$0D>
+<CLEAR>
+しかし＿この辺りには\n
+ケンの迷彩に＿引っ掛かるような\n
+マヌケな動物は＿いなかった…
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+リンダは＿動物たちの\n
+鳴きマネをした
+<PAUSE>
+<$0D>
+<CLEAR>
+しかし＿この辺りには\n
+リンダの声に＿だまされるような\n
+マヌケな動物は＿いなかった…
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot open the animal\n
+reference encyclopedia here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot set up for camp here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot activate Navigator System (NaviS) here.
+<PAUSE>
+<$00>
+
+
+
+
+If I don't get married, I'll die…\n
+I'd hate if someone called me out\n
+on my fashion sense.
+<PAUSE>
+<$0D>
+<CLEAR>
+It's pretty unflattering!
+<PAUSE>
+<$0D>
+<CLEAR>
+Then again, I guess I'd like for someone\n
+to say that to me one of these days.
+<PAUSE>
+<$00>
+
+
+
+
+//Ptr : 425A
+//Offset : 0000
+#WRITE(PTR, $0038)
+
+President's Estate 5F
+<$00>
+
+
+
+
+<CLEAR>
+ケンは＿口笛を吹いた
+<PAUSE>
+<$0D>
+<CLEAR>
+外で＿大きな羽音が\n
+聞こえたような＿気がした…
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+ケンは＿目立たないように\n
+気配を＿殺した
+<PAUSE>
+<$0D>
+<CLEAR>
+しかし＿この辺りには\n
+ケンの迷彩に＿引っ掛かるような\n
+マヌケな動物は＿いなかった…
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+リンダは＿動物たちの\n
+鳴きマネをした
+<PAUSE>
+<$0D>
+<CLEAR>
+しかし＿この辺りには\n
+リンダの声に＿だまされるような\n
+マヌケな動物は＿いなかった…
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot open the animal\n
+reference encyclopedia here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot set up for camp here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot activate Navigator System (NaviS) here.
+<PAUSE>
+<$00>
+
+
+
+
+//Ptr : 4411
+//Offset : 0000
+#WRITE(PTR, $003A)
+
+……E
+<$00>
+
+
+
+
+……W
+<$00>
+
+
+
+
+……S
+<$00>
+
+
+
+
+……N
+<$00>
+
+
+
+
+…NE
+<$00>
+
+
+
+
+…NW
+<$00>
+
+
+
+
+…SE
+<$00>
+
+
+
+
+…SW
+<$00>
+
+
+
+
+<CLEAR>
+……
+<$1D>
+<$00>
+
+
+
+
+、…
+<$1D>
+に行けば
+<$00>
+
+
+
+
+Ahead!
+<$00>
+
+
+
+
+Right!
+<$00>
+
+
+
+
+Left!
+<$00>
+
+
+
+
+Back!
+<$00>
+
+
+
+
+<CLEAR>
+……
+<$1D>
+<$00>
+
+
+
+
+、絶対に
+<$1D>
+∥
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+リンダは＿「女の勘」を\n
+はたらかせた∥
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+…ごめんね、\n
+今日は＿勘がはたらかないわ…
+<PAUSE>
+<$00>
+
+
+
+
+Destined
+<$00>
+
+
+
+
+New
+<$00>
+
+
+
+
+Nice
+<$00>
+
+
+
+
+Strange
+<$00>
+
+
+
+
+Something
+<$00>
+
+
+
+
+Discovery
+<$00>
+
+
+
+
+Treasure
+<$00>
+
+
+
+
+Animal
+<$00>
+
+
+
+
+_encountered...
+<$00>
+
+
+
+
+_acquired...
+<$00>
+
+
+
+
+I have a hunch∥
+<$00>
+
+
+
+
+Now's our chance∥
+<$00>
+
+
+
+
+It's now or never!
+<$00>
+
+
+
+
+We've got this∥
+<$00>
+
+
+
+
+<$0D>
+<$1D>
+<$1D>
+<$1D>
+<$0D>
+<$1D>
+<PAUSE>
+<$0D>
+<CLEAR>
+<$00>
+
+
+
+
+<CLEAR>
+I'm confident in this∥
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+I'm not sure, but…
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+It's pretty spot-on∥
+<PAUSE>
+<$00>
+
+
+
+
+*sniff* *sniff, sniff*………？
+<PAUSE>
+<$0D>
+<CLEAR>
+The smell of disinfectant \n
+here is staggaring.
+<PAUSE>
+<$00>
+
+
+
+
+<$0D>
+<BC>
+Yes
+<EC>
+／
+<BC>
+No
+<EC>
+<$00>
+
+
+
+
+<$10><$30>
+<$15><$59>
+Schedule
+<$00>
+
+
+
+
+<CLEAR>
+<$10><$30>
+You have nothing on schedule.
+<PAUSE>
+<$00>
+
+
+
+
+Cleared
+<$00>
+
+
+
+
+Missed
+<$00>
+
+
+
+
+あと
+<$1E>
+季節
+<$00>
+
+
+
+
+After
+<$1E>
+/
+<$1E>
+.
+<$00>
+
+
+
+
+In 
+<$1E> 
+years...
+<$00>
+
+
+
+
+<$16>
+<BC>
+◇
+<EC>
+<$1D>
+<$02><$31><$39><$30>
+<$1D>
+<$00>
+
+
+
+
+Defeat Fang
+<$00>
+
+
+
+
+Request From Dr. Panheim
+<$00>
+
+
+
+
+<$1B>
+Get the Turtle Eggs
+<$00>
+
+
+
+
+<$1B>
+Get the Pterano Eggs
+<$00>
+
+
+
+
+Settle the Heritage Dispute
+<$00>
+
+
+
+
+A Helping Hand for Yamada
+<$00>
+
+
+
+
+Find the Town Symbol
+<$00>
+
+
+
+
+Request From Sophia
+<$00>
+
+
+
+
+Sachiko's Rescue
+<$00>
+
+
+
+
+Help Mr. Scrappy
+<$00>
+
+
+
+
+Looking for Angela
+<$00>
+
+
+
+
+<CLEAR>
+Defeat Fang in Koragoram.\n
+Show the evidence to Specter in Hardia.
+<$00>
+
+
+
+
+<CLEAR>
+Process 2
+<$1B>
+chickens from Marble-opolis\n
+and take them to Dr. Panheim.
+<$00>
+
+
+
+
+<CLEAR>
+<$1B>
+Go find 3 turtle eggs and take them\n
+to Louise at the Battle Park BB Ranch.
+<$00>
+
+
+
+
+<CLEAR>
+<$1B>
+Find some Pterano eggs and take them\n
+to Bronco at the Battle Park BB Ranch.
+<$00>
+
+
+
+
+<CLEAR>
+Find 「Taroh's Collar」 and give it to either\n
+Natasha or one of Mr. Orman's 3 children.
+<$00>
+
+
+
+
+60, 000
+<$00>
+
+
+
+
+Left:
+<$06>
+<$1E>
+<$0F><$30><$30><$30>
+<$04>
+<$00>
+
+
+
+
+<CLEAR>
+For Yamada from The G. Factory:_\n
+<$1D>
+￥Deposit
+<$00>
+
+
+
+
+<CLEAR>
+Koshikata's Town Symbol: 「
+<$1B>
+Tiger Claws」.\n
+Find some and give them to Poliska.
+<$00>
+
+
+
+
+<CLEAR>
+Make the cherry tree in Eterna\n
+bloom for Sophia somehow.
+<$00>
+
+
+
+
+<CLEAR>
+Take the steaming dung from a lava-dwelling\n
+animal and give it to Sophia in Eterna.
+<$00>
+
+
+
+
+<CLEAR>
+Go see Emori at Laguna Lodge.
+<$00>
+
+
+
+
+<CLEAR>
+With 「the floppy and_
+<$06><$31><$30>
+<$04>
+￥」in hand,\n
+use the phone at the first-floor\n
+entrance to the G. Factory.
+<$00>
+
+
+
+
+<CLEAR>
+With 「the floppy and_
+<$06><$31><$30>
+<$04>
+￥」in hand,\n
+use the phone at the first-floor\n
+entrance to the Para Side.
+<$00>
+
+
+
+
+<CLEAR>
+With 「the floppy and_
+<$06><$31><$30>
+<$04>
+￥」in hand,\n
+go to Galex.
+<$00>
+
+
+
+
+<CLEAR>
+To lighten up up Mr. Scrappy's day,\n
+take the 「Fresh Blood Berry」 to Flora Jam.\n
+Later, give it to Kevin in the Rose Garden.
+<$00>
+
+
+
+
+<CLEAR>
+See if Angela is in the Para Side\n
+tavern for Mario in Linaberet.
+<$00>
+
+
+
+
+<CLEAR>
+To verify Angela's location,\n
+go to the bar in the Oz Port Hotel.
+<$00>
+
+
+
+
+<CLEAR>
+To verify Angela's location, go to\n
+the West Area. Visit the ghost town hotel.
+<$00>
+
+
+
+
+<CLEAR>
+To verify Angela's location,\n
+go to the theater in Dogifa.
+<$00>
+
+
+
+
+<CLEAR>
+Make way for Oz Sat and\n
+find Mario's mother, Angela!
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+

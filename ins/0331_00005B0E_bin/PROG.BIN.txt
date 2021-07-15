@@ -1,0 +1,1623 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $00000000, 16)
+#JMP($00000FC2)
+
+//Ptr : 0FC2
+//Offset : 0000
+#WRITE(PTR, $0016)
+#WRITE(PTR, $0018)
+#WRITE(PTR, $001A)
+#WRITE(PTR, $001C)
+
+c002.obj
+<$00>
+
+
+
+
+c009.obj
+<$00>
+
+
+
+
+c023.obj
+<$00>
+
+
+
+
+c045.obj
+<$00>
+
+
+
+
+//Ptr : 0FE6
+//Offset : 0000
+#WRITE(PTR, $001E)
+
+Banking Office
+<$00>
+
+
+
+
+<CLEAR>
+ƒPƒ“‚ÍQŒû“J‚ğ‚¢‚½
+<PAUSE>
+<$0D>
+<CLEAR>
+ŠO‚ÅQ‘å‚«‚È‰H‰¹‚ª\n
+•·‚±‚¦‚½‚æ‚¤‚ÈQ‹C‚ª‚µ‚½c
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+ƒPƒ“‚ÍQ–Ú—§‚½‚È‚¢‚æ‚¤‚É\n
+‹C”z‚ğQE‚µ‚½
+<PAUSE>
+<$0D>
+<CLEAR>
+‚µ‚©‚µQ‚±‚Ì•Ó‚è‚É‚Í\n
+ƒPƒ“‚Ì–ÀÊ‚ÉQˆø‚ÁŠ|‚©‚é‚æ‚¤‚È\n
+ƒ}ƒkƒP‚È“®•¨‚ÍQ‚¢‚È‚©‚Á‚½c
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+ƒŠƒ“ƒ_‚ÍQ“®•¨‚½‚¿‚Ì\n
+–Â‚«ƒ}ƒl‚ğ‚µ‚½
+<PAUSE>
+<$0D>
+<CLEAR>
+‚µ‚©‚µQ‚±‚Ì•Ó‚è‚É‚Í\n
+ƒŠƒ“ƒ_‚Ìº‚ÉQ‚¾‚Ü‚³‚ê‚é‚æ‚¤‚È\n
+ƒ}ƒkƒP‚È“®•¨‚ÍQ‚¢‚È‚©‚Á‚½c
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot open the animal\n
+reference encyclopedia here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot set up for camp here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot activate Navigator System (NaviS) here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Oh`aQWhat do I doc
+<PAUSE>
+<$0D>
+<CLEAR>
+OhcQI know you're a guest, but\n
+would you listen to this tale of a poor bank clerkH\n
+<BC>
+Yes
+<EC>
+^
+<BC>
+No
+<EC>
+<$00>
+
+
+
+
+<CLEAR>
+My name is Yamadac
+<PAUSE>
+<$0D>
+<CLEAR>
+A girl from the main office in Oz Port,QMaki,\n
+is my sweetheart, but I was demoted and\n
+transferred over here once my boss found outc
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+If I can reach the
+<$1E><$31>
+0,000Qdeposit quota,\n
+maybeQthey'll let let me go backc
+<PAUSE>
+<$0D>
+<CLEAR>
+Oh`aQWhat do I docQI just know\n
+that, with those compatability quizzes,
+I can woo her if I'm at the same officec
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Oh`aQWhat do I doc
+<PAUSE>
+<$0D>
+<CLEAR>
+It would be hopeless to try telling anyone\n
+No one's ever listened to me, all my lifec\n
+My dreams, my wishes,Qnone of itc
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Maki, of all people, left\n
+the main office in Oz Port...\n
+My compatability quizzes said we would have gotten married.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Actually, I bought this the next day\n
+after my first date with hercto propose.\n
+UhhcQGet rid of this for me.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+Linda ended up with a\n
+uEngagement Setvc
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+//Ptr : 149F
+//Offset : 0000
+#WRITE(PTR, $0020)
+
+%8d
+<$00>
+
+
+
+
+TUCHO_0.TMZ
+<$00>
+
+
+
+
+TUCHO_1.TMZ
+<$00>
+
+
+
+
+<CLEAR>
+<$04>
+<$09><$31>
+<$15><$48>
+<$00>
+
+
+
+
+Withdraw
+<$00>
+
+
+
+
+<$02><$36><$34>
+Refund
+<$00>
+
+
+
+
+<$02><$36><$34>
+Interest
+<$00>
+
+
+
+
+Deposit
+<$00>
+
+
+
+
+<$02><$36><$34>
+Salary
+<$00>
+
+
+
+
+<$02><$36><$34>
+Interest
+<$00>
+
+
+
+
+Hound's Pay
+<$00>
+
+
+
+
+<$02><$36><$34>
+Reward
+<$00>
+
+
+
+
+<$02><$36><$34>
+Bonus
+<$00>
+
+
+
+
+<$0D>
+<$02><$38>
+<$1E><$33><$34>
+<$06>
+E
+<$04>
+<$1D>
+<$02><$35><$38>
+<$1D>
+<$02><$31><$31><$38>
+<$06>
+<$15><$48>
+<$1D>
+<$00>
+
+
+
+
+<$02><$32><$30><$32>
+<$1D>
+<$1D>
+<$15><$48>
+<$00>
+
+
+
+
+<CLEAR>
+WelcomeIQIt's now the
+<$1E>th
+anniversary of the founding\n
+of the Neo Kenya public bank.
+<$00>
+
+
+
+
+<CLEAR>
+WelcomeIQNeo Kenya Bank will stay\n
+alice in the heartsQof everyone!
+<$00>
+
+
+
+
+<CLEAR>
+Is there anything elseQI can do for youH
+<$00>
+
+
+
+
+<$0D>
+<BC>
+Withdraw
+<EC>
+<$06>
+^
+<$04>
+<BC>
+Deposit
+<EC>
+<$06>
+^
+<$04>
+<BC>
+Loan
+<EC>
+<$06>
+^
+<$04>
+<BC>
+Refund
+<EC>
+<$06>
+^
+<$04>
+<BC>
+Bankbook
+<EC>
+<$06>
+^
+<$04>
+<BC>
+Talk
+<EC>
+<$06>
+^
+<$04>
+<BC>
+Return
+<EC>
+<$00>
+
+
+
+
+<CLEAR>
+‚¨‹à‚ªS×‚¢‚Æ‚«‚ÍQg‚¢“¹‚Ì‚È‚¢\n
+”¼’[‚È“®•¨‚ğQˆ•ª‚·‚é‚©A“–s‚Ì\n
+ˆÀS’á—˜‚Ì—Z‘‚ğQ‚²—˜—p‚­‚¾‚³‚¢
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Don't forget yourQreceiptI
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+I'll be waiting for you to come again!
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Thank you for your\n
+ongoing patronage!
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Œ»İA‚¨‹q—l‚ÌŒûÀ‚ÍQŸè‚È‚ª‚ç\n
+æˆø‚«‚ğQ’â~‚³‚¹‚Ä‚¢‚½‚¾‚¢‚Ä‚¨‚è‚Ü‚·\n
+‚¨‘–Ú‚Ì•ÔÏ‚ğQ‚¨Šè‚¢’v‚µ‚Ü‚·
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Your current balance isQ
+<$06>
+<$1E>
+<$04>
+.\n
+How much would you like toQdepositH\n
+Wallet
+<$1E><$34><$30>
+¨Account
+<BC>
+<$1E><$34><$30>
+
+<$00>
+
+
+
+
+<CLEAR>
+<$06>
+<$1E>
+<$04>
+‚Ì“ü‹à‚Å‚·‚Ë\n
+<BC>
+‚Í@‚¢
+<EC>
+^
+<BC>
+‚¢‚¢‚¦
+<EC>
+<$00>
+
+
+
+
+<CLEAR>
+Œ»İ‚Ì—a‹àc‚‚ÍQ
+<$06>
+<$1E>
+<$04>
+‚Å‚·
+<PAUSE>
+<$00>
+
+
+
+
+<$0D>
+‚»‚ê‚Å‚àQ‚¨ˆøo‚µ‚É‚È‚è‚½‚¢HH\n
+‚»‚ê‚ÍQ‹­“‚Á‚ÄŒ¾‚¤‚ñ‚Å‚·‚æ
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+‚Ü‚ÁQ’¿‚µ‚©‚È‚¢‚Å‚·‚¯‚Ç‚Ëc
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Œ»İ‚Ì—a‹àc‚‚ÍQ
+<$06>
+<$1E>
+<$04>
+‚Å‚·\n
+ˆøoŠz‚ÍQ‚¨‚¢‚­‚ç‚Å‚·‚©H\n
+‹à
+<$1E><$34><$30>
+©ˆøo
+<BC>
+<$1E><$34><$30>
+
+<$00>
+
+
+
+
+<CLEAR>
+<$06>
+<$1E>
+<$04>
+‚Ì‚¨ˆøo‚µ‚Å‚·‚Ë\n
+<BC>
+‚Í@‚¢
+<EC>
+^
+<BC>
+‚¢‚¢‚¦
+<EC>
+<$00>
+
+
+
+
+<CLEAR>
+Œ»İ‚Ì—a‹àc‚‚ÍQ
+<$06>
+<$1E>
+<$04>
+‚Å‚·\n
+’Ç‰Á—Z‘‚ÍQ‚¨ó‚¯‚Å‚«‚©‚Ë‚Ü‚·\n
+‚²—¹³‚­‚¾‚³‚¢
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Œ»İ‚Ì•ÔÏc‚‚ÍQ
+<$06>
+<$1E>
+<$04>
+‚Å‚·\n
+’Ç‰Á—Z‘‚ÍQ‚¨ó‚¯‚Å‚«‚©‚Ë‚Ü‚·\n
+‚²—¹³‚­‚¾‚³‚¢
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+€_Õ“Ë‚Ü‚ÅQ‚P”N‚ğØ‚è‚Ü‚µ‚½‚Ì‚Å\n
+—Z‘‚ÍQI—¹‚³‚¹‚Ä‚¢‚½‚¾‚«‚Ü‚µ‚½\n
+‚²—¹³‚­‚¾‚³‚¢
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Œ»İ‚Ì—Z‘˜g‚ÍQÅ‘å
+<$06>
+<$1E>
+<$04>
+‚Å‚·\n
+—Z‘Šó–]Šz‚ÍQ‚¨‚¢‚­‚ç‚Å‚·‚©H\n
+‹à
+<$1E><$34><$30>
+©—Z‘
+<BC>
+<$1E><$34><$30>
+
+<$00>
+
+
+
+
+<CLEAR>
+—Z‘Šz
+<$1E><$34><$30>
+‚Å‚·‚ÆQ—Z‘ğŒ‚Í\n
+‹Gß—˜q
+<$1E><$34><$30>
+Q•ÔÏŠúŒÀ‚Í—ˆ”N
+<$1D>
+<$0D>
+<BC>
+‚»‚ê‚Å‚n‚j
+<EC>
+^
+<BC>
+—Z‘Šz•ÏX
+<EC>
+^
+<BC>
+‚â‚ß‚Æ‚­I
+<EC>
+<$00>
+
+
+
+
+<CLEAR>
+•ÔÏc‚Q
+<$06>
+<$1E>
+<$04>
+‚Å‚·
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Œ»İ‚Ì•ÔÏc‚‚ÍQ
+<$06>
+<$1E>
+<$04>
+‚Å‚·\n
+•ÔÏŠz‚ÍQ‚¨‚¢‚­‚ç‚Å‚·‚©H\n
+‹à
+<$1E><$34><$30>
+¨•ÔÏ
+<BC>
+<$1E><$34><$30>
+
+<$00>
+
+
+
+
+<CLEAR>
+<$06>
+<$1E>
+<$04>
+‚Ì•ÔÏ‚Å‚·‚Ë\n
+<BC>
+‚Í@‚¢
+<EC>
+^
+<BC>
+‚¢‚¢‚¦
+<EC>
+<$00>
+
+
+
+
+<CLEAR>
+•ÔÏ‚ÍQ‚·‚×‚ÄŠ®—¹‚µ‚Ü‚µ‚½\n
+‚ ‚è‚ª‚Æ‚¤Q‚±‚´‚¢‚Ü‚·I
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+•ÔÏc‚‚Í
+<$1E><$34><$30>
+\n
+‹Gß—˜q‚Í
+<$1E><$34><$30>
+\n
+<$00>
+
+
+
+
+•ÔÏŠúŒÀ‚Í¡‹Gß‚Å‚·Q‚¨‹}‚¬‚­‚¾‚³‚¢
+<PAUSE>
+<$00>
+
+
+
+
+•ÔÏŠúŒÀ‚ÍŸ‚Ì
+<$1D>
+‚Å‚·Q‚¨–Y‚ê‚È‚­
+<PAUSE>
+<$00>
+
+
+
+
+*sniff* *sniff, sniff*cccH
+<PAUSE>
+<$0D>
+<CLEAR>
+The smell of disinfectant \n
+here is staggaring.
+<PAUSE>
+<$00>
+
+
+
+
+ccE
+<$00>
+
+
+
+
+ccW
+<$00>
+
+
+
+
+ccS
+<$00>
+
+
+
+
+ccN
+<$00>
+
+
+
+
+cNE
+<$00>
+
+
+
+
+cNW
+<$00>
+
+
+
+
+cSE
+<$00>
+
+
+
+
+cSW
+<$00>
+
+
+
+
+<CLEAR>
+cc
+<$1D>
+<$00>
+
+
+
+
+Ac
+<$1D>
+‚És‚¯‚Î
+<$00>
+
+
+
+
+Ahead!
+<$00>
+
+
+
+
+Right!
+<$00>
+
+
+
+
+Left!
+<$00>
+
+
+
+
+Back!
+<$00>
+
+
+
+
+<CLEAR>
+cc
+<$1D>
+<$00>
+
+
+
+
+Aâ‘Î‚É
+<$1D>
+a
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+ƒŠƒ“ƒ_‚ÍQu—‚ÌŠ¨v‚ğ\n
+‚Í‚½‚ç‚©‚¹‚½a
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+c‚²‚ß‚ñ‚ËA\n
+¡“ú‚ÍQŠ¨‚ª‚Í‚½‚ç‚©‚È‚¢‚íc
+<PAUSE>
+<$00>
+
+
+
+
+Destined
+<$00>
+
+
+
+
+New
+<$00>
+
+
+
+
+Nice
+<$00>
+
+
+
+
+Strange
+<$00>
+
+
+
+
+Something
+<$00>
+
+
+
+
+Discovery
+<$00>
+
+
+
+
+Treasure
+<$00>
+
+
+
+
+Animal
+<$00>
+
+
+
+
+_encountered...
+<$00>
+
+
+
+
+_acquired...
+<$00>
+
+
+
+
+I have a huncha
+<$00>
+
+
+
+
+Now's our chancea
+<$00>
+
+
+
+
+It's now or never!
+<$00>
+
+
+
+
+We've got thisa
+<$00>
+
+
+
+
+<$0D>
+<$1D>
+<$1D>
+<$1D>
+<$0D>
+<$1D>
+<PAUSE>
+<$0D>
+<CLEAR>
+<$00>
+
+
+
+
+<CLEAR>
+I'm confident in thisa
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+I'm not sure, butc
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+It's pretty spot-ona
+<PAUSE>
+<$00>
+
+
+
+
+<$10><$30>
+<$15><$59>
+Schedule
+<$00>
+
+
+
+
+<CLEAR>
+<$10><$30>
+You have nothing on schedule.
+<PAUSE>
+<$00>
+
+
+
+
+Cleared
+<$00>
+
+
+
+
+Missed
+<$00>
+
+
+
+
+‚ ‚Æ
+<$1E>
+‹Gß
+<$00>
+
+
+
+
+After
+<$1E>
+/
+<$1E>
+.
+<$00>
+
+
+
+
+In 
+<$1E> 
+years...
+<$00>
+
+
+
+
+<$16>
+<BC>
+
+<EC>
+<$1D>
+<$02><$31><$39><$30>
+<$1D>
+<$00>
+
+
+
+
+Defeat Fang
+<$00>
+
+
+
+
+Request From Dr. Panheim
+<$00>
+
+
+
+
+<$1B>
+Get the Turtle Eggs
+<$00>
+
+
+
+
+<$1B>
+Get the Pterano Eggs
+<$00>
+
+
+
+
+Settle the Heritage Dispute
+<$00>
+
+
+
+
+A Helping Hand for Yamada
+<$00>
+
+
+
+
+Find the Town Symbol
+<$00>
+
+
+
+
+Request From Sophia
+<$00>
+
+
+
+
+Sachiko's Rescue
+<$00>
+
+
+
+
+Help Mr. Scrappy
+<$00>
+
+
+
+
+Looking for Angela
+<$00>
+
+
+
+
+<CLEAR>
+Defeat Fang in Koragoram.\n
+Show the evidence to Specter in Hardia.
+<$00>
+
+
+
+
+<CLEAR>
+Process 2
+<$1B>
+chickens from Marble-opolis\n
+and take them to Dr. Panheim.
+<$00>
+
+
+
+
+<CLEAR>
+<$1B>
+Go find 3 turtle eggs and take them\n
+to Louise at the Battle Park BB Ranch.
+<$00>
+
+
+
+
+<CLEAR>
+<$1B>
+Find some Pterano eggs and take them\n
+to Bronco at the Battle Park BB Ranch.
+<$00>
+
+
+
+
+<CLEAR>
+Find uTaroh's Collarv and give it to either\n
+Natasha or one of Mr. Orman's 3 children.
+<$00>
+
+
+
+
+60, 000
+<$00>
+
+
+
+
+Left:
+<$06>
+<$1E>
+<$0F><$30><$30><$30>
+<$04>
+<$00>
+
+
+
+
+<CLEAR>
+For Yamada from The G. Factory:_\n
+<$1D>
+Deposit
+<$00>
+
+
+
+
+<CLEAR>
+Koshikata's Town Symbol: u
+<$1B>
+Tiger Clawsv.\n
+Find some and give them to Poliska.
+<$00>
+
+
+
+
+<CLEAR>
+Make the cherry tree in Eterna\n
+bloom for Sophia somehow.
+<$00>
+
+
+
+
+<CLEAR>
+Take the steaming dung from a lava-dwelling\n
+animal and give it to Sophia in Eterna.
+<$00>
+
+
+
+
+<CLEAR>
+Go see Emori at Laguna Lodge.
+<$00>
+
+
+
+
+<CLEAR>
+With uthe floppy and_
+<$06><$31><$30>
+<$04>
+vin hand,\n
+use the phone at the first-floor\n
+entrance to the G. Factory.
+<$00>
+
+
+
+
+<CLEAR>
+With uthe floppy and_
+<$06><$31><$30>
+<$04>
+vin hand,\n
+use the phone at the first-floor\n
+entrance to the Para Side.
+<$00>
+
+
+
+
+<CLEAR>
+With uthe floppy and_
+<$06><$31><$30>
+<$04>
+vin hand,\n
+go to Galex.
+<$00>
+
+
+
+
+<CLEAR>
+To lighten up up Mr. Scrappy's day,\n
+take the uFresh Blood Berryv to Flora Jam.\n
+Later, give it to Kevin in the Rose Garden.
+<$00>
+
+
+
+
+<CLEAR>
+See if Angela is in the Para Side\n
+tavern for Mario in Linaberet.
+<$00>
+
+
+
+
+<CLEAR>
+To verify Angela's location,\n
+go to the bar in the Oz Port Hotel.
+<$00>
+
+
+
+
+<CLEAR>
+To verify Angela's location, go to\n
+the West Area. Visit the ghost town hotel.
+<$00>
+
+
+
+
+<CLEAR>
+To verify Angela's location,\n
+go to the theater in Dogifa.
+<$00>
+
+
+
+
+<CLEAR>
+Make way for Oz Sat and\n
+find Mario's mother, Angela!
+<$00>
+
+
+
+
+//Ptr : 238F
+//Offset : 0000
+#WRITE(PTR, $0022)
+
+<CLEAR>
+WelcomeIQIt's now the
+<$1E>th
+anniversary of the founding\n
+of the Neo Kenya public bank.
+<$00>
+
+
+
+
+<CLEAR>
+WelcomeIQNeo Kenya Bank will stay\n
+alice in the heartsQof everyone!
+<$00>
+
+
+
+
+<CLEAR>
+Is there anything elseQI can do for youH
+<$00>
+
+
+
+
+<$0D>
+<BC>
+‚W-year Term
+<EC>
+^
+<BC>
+Chat
+<EC>
+^
+<BC>
+So long!
+<EC>
+<$00>
+
+
+
+
+<CLEAR>
+I'll be waiting for you to come again!
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Thank you for your\n
+ongoing patronage!
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Thank you for making a new depost.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Target Remaining:Q
+<$06>
+<$1E>
+<$0F><$30><$30><$30>
+<$04>
+\n
+How much will you deposit this timeH\n
+Funds:_
+<$1E><$34><$30>
+¨Deposit
+<BC>
+<$1E><$33><$36>
+<$06>
+‚O‚O‚O
+<$04>
+
+<$00>
+
+
+
+
+<CLEAR>
+You are going to depositQ
+<$06>
+<$1E>
+<$0F><$30><$30><$30>
+<$04>
+. Is this correct?\n
+<BC>
+Yes
+<EC>
+^
+<BC>
+No
+<EC>
+<$00>
+
+
+
+
+<CLEAR>
+Thank you very much!
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Remaining:Q
+<$06>
+<$1E>
+<$0F><$30><$30><$30>
+<$04>
+a\n
+Please deposit somethinga
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+‚¨‹q‚³‚ÜA\n
+‚Ü‚¾’èŠú—a‹à‚³‚ê‚Ä‚¢‚Ü‚¹‚ñ‚ªc
+<PAUSE>
+<$0D>
+<CLEAR>
+‚º‚ĞA‚¤‚¿‚Å’èŠú—a‹à‚µ‚Ä‚­‚¾‚³‚¢a
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+‚»‚ñ‚È`Q‚¨‹q‚³‚ÜA\n
+‚È‚ñ‚Æ‚©‘±‚¯‚Ä‚¢‚½‚¾‚¯‚Ü‚¹‚ñ‚©H\n
+<BC>
+‚¢‚â‰ğ–ñ‚¾
+<EC>
+^
+<BC>
+l‚¦‚È‚¨‚·
+<EC>
+<$00>
+
+
+
+
+<CLEAR>
+TohohoEEE
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Thank you very much!
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+‚ ‚ÌcQ‚±‚êA‚Â‚Ü‚ç‚È‚¢•¨‚Å‚·‚ª\n
+‚¨g‚¢‚­‚¾‚³‚¢
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+Ken received uTissuesv.
+<PAUSE>
+<$14>
+<$00>
+
+
+
+
+<CLEAR>
+‚¨‹q—laQ½‚É‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚·a\n
+‰½‚Æ‚¨—ç‚ğ\‚µã‚°‚Ä‚æ‚¢‚©A\n
+Œ¾—t‚ªQ•‚‚©‚Ñ‚Ü‚¹‚ña
+<PAUSE>
+<$0D>
+<CLEAR>
+‚¨‹q—l‚Ì—a‹à‚Ì‚¨‚©‚°‚ÅQ„Aƒ„ƒ}ƒ_\n
+—ˆƒV[ƒYƒ“‚æ‚èQ–{“X‚Ö•œ‹A‚Å‚«‚Ü‚·\n
+–{“–‚ÉQ‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚µ‚½a
+<PAUSE>
+<$0D>
+<CLEAR>
+‘Ò‚Á‚Ä‚ë‚æ‚§‚§aQƒ}ƒL‚¿‚á`‚ña
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+‚ ‚ÌcQ‚Â‚Ü‚ç‚È‚¢•¨‚È‚ñ‚Å‚·‚ª\n
+‚¨—ç‚ğ‚µ‚½‚¢‚Ì‚ÅQ“¹‹ï‘Ü‚ğ\n
+‚Å‚«‚é‚¾‚¯QŒy‚­‚µ‚Ä—ˆ‚Ä‚­‚¾‚³‚¢
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Alright then,QI'll let you haveQthisa
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+Ken received uFlower Seed Packv.
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+It's against bank regulations to give
+gifts to our customers,\n
+but my mind won't rest unless I do.
+<PAUSE>
+<$0D>
+<CLEAR>
+I never forget the customers that come here.\n
+I'll teach you a skill I use to tune myself\n
+out when I start feeling lonely.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+<CLEAR>
+Ken learned the\n
+uWhistlev_skill\n
+from Yamadaa
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+„‚ÍQ¬’¹‚ğW‚ß‚é‚Ì‚ªQŠÖ‚ÌR‚Å‚·‚ª\n
+‚¨‹q—l‚È‚çQ‘å‚«‚¢‚Ì‚ª—ˆ‚Ü‚·‚æ\n
+„‚Æ‚¶‚áQ”xŠˆ—Ê‚ªˆá‚¢‚Ü‚·‚à‚ñ‚ËI
+<PAUSE>
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+

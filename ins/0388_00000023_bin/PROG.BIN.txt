@@ -1,0 +1,237 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $00000000, 16)
+#JMP($0000172C)
+
+//Ptr : 172C
+//Offset : 0000
+#WRITE(PTR, $001A)
+#WRITE(PTR, $001C)
+#WRITE(PTR, $001E)
+#WRITE(PTR, $0020)
+
+pict01.obj
+<$00>
+
+
+
+
+pict10.obj
+<$00>
+
+
+
+
+pict11.obj
+<$00>
+
+
+
+
+clr_a.obj
+<$00>
+
+
+
+
+clr_b.obj
+<$00>
+
+
+
+
+push_o.obj
+<$00>
+
+
+
+
+jibun1.obj
+<$00>
+
+
+
+
+jibun2.obj
+<$00>
+
+
+
+
+jibun3.obj
+<$00>
+
+
+
+
+jibun3a.obj
+<$00>
+
+
+
+
+jibun4.obj
+<$00>
+
+
+
+
+try.obj
+<$00>
+
+
+
+
+font11.obj
+<$00>
+
+
+
+
+width3.obj
+<$00>
+
+
+
+
+//Ptr : 17C2
+//Offset : 0000
+#WRITE(PTR, $0022)
+#WRITE(PTR, $0024)
+
+M%03dF.OBJ
+<$00>
+
+
+
+
+<$10><$30>
+Unregistered AnimalÅa\n
+NameÅF
+<$1D>
+<$0D>
+Habitat CoordinatesÅF
+<$1D>
+Å|
+<$1E><$30><$33><$34>
+<$00>
+
+
+
+
+//Ptr : 1800
+//Offset : 0000
+#WRITE(PTR, $0026)
+
+<BC>
+Åû
+<EC>
+<$08><$34>
+<$06>
+Scenario AB
+<$04>
+Linda: No Recovery\n
+<BC>
+Åû
+<EC>
+<$08><$34>
+<$06>
+Scenario AB
+<$04>
+ïﬂälïsë´\n
+<BC>
+Åû
+<EC>
+<$08><$34>
+<$06>
+Scenario CD
+<$04>
+ïﬂälïsë´\n
+<BC>
+Åû
+<EC>
+<$08><$34>
+<$06>
+Scenario A
+<$04>
+CLEAR\n
+<BC>
+Åû
+<EC>
+<$08><$34>
+<$06>
+Scenario B
+<$04>
+Clear!\n
+<BC>
+Åû
+<EC>
+<$08><$34>
+<$06>
+Scenario CD
+<$04>
+ïﬂäl
+<$06><$38><$30>
+<$04>
+ñ¢ñû\n
+<BC>
+Åû
+<EC>
+<$08><$34>
+<$06>
+Scenario CD
+<$04>
+ïﬂäl
+<$06><$31><$30><$30>
+<$04>
+ñ¢ñû\n
+<BC>
+Åû
+<EC>
+<$08><$34>
+<$06>
+Scenario CD
+<$04>
+ïﬂäl
+<$06><$31><$31><$30>
+<$04>
+ñ¢ñû\n
+<BC>
+Åû
+<EC>
+<$08><$34>
+<$06>
+Scenario CD
+<$04>
+ïﬂäl
+<$06><$31><$32><$30>
+<$04>
+ñ¢ñû\n
+<BC>
+Åû
+<EC>
+<$08><$34>
+<$06>
+Scenario C
+<$04>
+äÆëSïﬂäl\n
+<BC>
+Åû
+<EC>
+<$08><$34>
+<$06>
+Scenario D
+<$04>
+äÆëSïﬂäl
+<$00>
+
+
+
+
+//Ptr : 1938
+//Offset : 0000
+#WRITE(PTR, $0028)
+#WRITE(PTR, $002A)
+

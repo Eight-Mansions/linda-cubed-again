@@ -1,0 +1,6012 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $00000000, 16)
+#JMP($00004ADA)
+
+//Ptr : 4ADA
+//Offset : 0000
+#WRITE(PTR, $0026)
+#WRITE(PTR, $0028)
+#WRITE(PTR, $002A)
+#WRITE(PTR, $002C)
+
+bang.obj
+<$00>
+
+
+
+
+t03_sp3.obj
+<$00>
+
+
+
+
+kuma.obj
+<$00>
+
+
+
+
+photo.obj
+<$00>
+
+
+
+
+dress.obj
+<$00>
+
+
+
+
+c002.obj
+<$00>
+
+
+
+
+c002s0r.obj
+<$00>
+
+
+
+
+c005.obj
+<$00>
+
+
+
+
+c005c.obj
+<$00>
+
+
+
+
+c005sr.obj
+<$00>
+
+
+
+
+c007.obj
+<$00>
+
+
+
+
+c009.obj
+<$00>
+
+
+
+
+c009a1.obj
+<$00>
+
+
+
+
+c010.obj
+<$00>
+
+
+
+
+c011.obj
+<$00>
+
+
+
+
+c011a.obj
+<$00>
+
+
+
+
+c011b.obj
+<$00>
+
+
+
+
+c011d.obj
+<$00>
+
+
+
+
+c011g.obj
+<$00>
+
+
+
+
+c014.obj
+<$00>
+
+
+
+
+c014sl.obj
+<$00>
+
+
+
+
+c017.obj
+<$00>
+
+
+
+
+c017sign.obj
+<$00>
+
+
+
+
+c018.obj
+<$00>
+
+
+
+
+c021.obj
+<$00>
+
+
+
+
+c036.obj
+<$00>
+
+
+
+
+c036c.obj
+<$00>
+
+
+
+
+c036sht3.obj
+<$00>
+
+
+
+
+c126a0.obj
+<$00>
+
+
+
+
+kao_l1.obj
+<$00>
+
+
+
+
+kao_l19.obj
+<$00>
+
+
+
+
+kao_l28.obj
+<$00>
+
+
+
+
+kao_h1.obj
+<$00>
+
+
+
+
+kao_h2.obj
+<$00>
+
+
+
+
+kao_h3.obj
+<$00>
+
+
+
+
+kao_s3.obj
+<$00>
+
+
+
+
+kao_em1.obj
+<$00>
+
+
+
+
+kao_em2.obj
+<$00>
+
+
+
+
+kao_em4.obj
+<$00>
+
+
+
+
+kao_a1.obj
+<$00>
+
+
+
+
+bch00.obj
+<$00>
+
+
+
+
+//Ptr : 4C85
+//Offset : 0000
+#WRITE(PTR, $002E)
+
+Linda's House ‚P‚e
+<$00>
+
+
+
+
+<CLEAR>
+ƒPƒ“‚ÍQŒû“J‚ğ‚¢‚½
+<PAUSE>
+<$0D>
+<CLEAR>
+ŠO‚ÅQ‘å‚«‚È‰H‰¹‚ª\n
+•·‚±‚¦‚½‚æ‚¤‚ÈQ‹C‚ª‚µ‚½c
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+ƒPƒ“‚ÍQ–Ú—§‚½‚È‚¢‚æ‚¤‚É\n
+‹C”z‚ğQE‚µ‚½
+<PAUSE>
+<$0D>
+<CLEAR>
+‚µ‚©‚µQ‚±‚Ì•Ó‚è‚É‚Í\n
+ƒPƒ“‚Ì–ÀÊ‚ÉQˆø‚ÁŠ|‚©‚é‚æ‚¤‚È\n
+ƒ}ƒkƒP‚È“®•¨‚ÍQ‚¢‚È‚©‚Á‚½c
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+ƒŠƒ“ƒ_‚ÍQ“®•¨‚½‚¿‚Ì\n
+–Â‚«ƒ}ƒl‚ğ‚µ‚½
+<PAUSE>
+<$0D>
+<CLEAR>
+‚µ‚©‚µQ‚±‚Ì•Ó‚è‚É‚Í\n
+ƒŠƒ“ƒ_‚Ìº‚ÉQ‚¾‚Ü‚³‚ê‚é‚æ‚¤‚È\n
+ƒ}ƒkƒP‚È“®•¨‚ÍQ‚¢‚È‚©‚Á‚½c
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot open the animal\n
+reference encyclopedia here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot set up for camp here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot activate Navigator System (NaviS) here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+Ken foundu
+<$1D>
+v!a
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+<CLEAR>
+‚¾‚ªA“¹‹ï‘Ü‚ªˆê”t‚È‚Ì‚Å\n
+u
+<$1D>
+v‚ğ\n
+‚Æ‚è‚ ‚¦‚¸Q‚ ‚«‚ç‚ß‚½c
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+<CLEAR>
+Acquired u
+<$1D>
+v!a
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+//Ptr : 4EC0
+//Offset : 0000
+#WRITE(PTR, $0030)
+
+Linda's House 2F
+<$00>
+
+
+
+
+<CLEAR>
+ƒPƒ“‚ÍQŒû“J‚ğ‚¢‚½
+<PAUSE>
+<$0D>
+<CLEAR>
+ŠO‚ÅQ‘å‚«‚È‰H‰¹‚ª\n
+•·‚±‚¦‚½‚æ‚¤‚ÈQ‹C‚ª‚µ‚½c
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+ƒPƒ“‚ÍQ–Ú—§‚½‚È‚¢‚æ‚¤‚É\n
+‹C”z‚ğQE‚µ‚½
+<PAUSE>
+<$0D>
+<CLEAR>
+‚µ‚©‚µQ‚±‚Ì•Ó‚è‚É‚Í\n
+ƒPƒ“‚Ì–ÀÊ‚ÉQˆø‚ÁŠ|‚©‚é‚æ‚¤‚È\n
+ƒ}ƒkƒP‚È“®•¨‚ÍQ‚¢‚È‚©‚Á‚½c
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+ƒŠƒ“ƒ_‚ÍQ“®•¨‚½‚¿‚Ì\n
+–Â‚«ƒ}ƒl‚ğ‚µ‚½
+<PAUSE>
+<$0D>
+<CLEAR>
+‚µ‚©‚µQ‚±‚Ì•Ó‚è‚É‚Í\n
+ƒŠƒ“ƒ_‚Ìº‚ÉQ‚¾‚Ü‚³‚ê‚é‚æ‚¤‚È\n
+ƒ}ƒkƒP‚È“®•¨‚ÍQ‚¢‚È‚©‚Á‚½c
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot open the animal\n
+reference encyclopedia here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot set up for camp here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot activate Navigator System (NaviS) here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+Ken foundu
+<$1D>
+v!a
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+<CLEAR>
+‚¾‚ªA“¹‹ï‘Ü‚ªˆê”t‚È‚Ì‚Å\n
+u
+<$1D>
+v‚ğ\n
+‚Æ‚è‚ ‚¦‚¸Q‚ ‚«‚ç‚ß‚½c
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+<CLEAR>
+Acquired u
+<$1D>
+v!a
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+You need the uKey of Memoriesv \n
+for this door.
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+Ken used the uKEY OF MEMORIESv.
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+There's a familiar photo here.
+<$00>
+
+
+
+
+PICT01.TIM
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+It appears to be Linda's Diaryc
+Open itH\n
+<BC>
+Yes
+<EC>
+^
+<BC>
+No
+<EC>
+<$14>
+<$00>
+
+
+
+
+<CLEAR>
+cccKen. \n
+I wonder if he'll nominate himself for the ark soon ¡
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+ccThat doucherI\n
+JUST VOLUNTEER \n
+ALREADYa
+<PAUSE>
+<$00>
+
+
+
+
+ƒPƒ“cQ‚½‚¢‚Ö‚ñ‚¾‚Á‚½‚Èc\n
+‚à‚¤Q‘Ì‚Ì‚Ù‚¤‚ÍQ‚¢‚¢‚Ì‚©H\n
+ƒŠƒ“ƒ_‚Ì‹ï‡‚Í‚Ç‚¤‚¾ccH
+<PAUSE>
+<$0D>
+<CLEAR>
+‚µ‚©‚µQƒAƒŒ‚Å‚æ‚­Q–½‚ª•‚©‚Á‚½‚æ\n
+‚¨‚Ü‚¦‚Í‚Æ‚à‚©‚­QƒŠƒ“ƒ_‚È‚ñ‚©\n
+ŒŒ‚ÌŠC‚Å‚Í‚¢‚¸‚éQƒCƒ‚’‚İ‚½c
+<PAUSE>
+<$0D>
+<CLEAR>
+‚¢‚âcQˆ«‚©‚Á‚½c
+<PAUSE>
+<$00>
+
+
+
+
+//Ptr : 52E8
+//Offset : 0000
+#WRITE(PTR, $0032)
+
+Linda's House ‚P‚e
+<$00>
+
+
+
+
+<CLEAR>
+ƒPƒ“‚ÍQŒû“J‚ğ‚¢‚½
+<PAUSE>
+<$0D>
+<CLEAR>
+ŠO‚ÅQ‘å‚«‚È‰H‰¹‚ª\n
+•·‚±‚¦‚½‚æ‚¤‚ÈQ‹C‚ª‚µ‚½c
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+ƒPƒ“‚ÍQ–Ú—§‚½‚È‚¢‚æ‚¤‚É\n
+‹C”z‚ğQE‚µ‚½
+<PAUSE>
+<$0D>
+<CLEAR>
+‚µ‚©‚µQ‚±‚Ì•Ó‚è‚É‚Í\n
+ƒPƒ“‚Ì–ÀÊ‚ÉQˆø‚ÁŠ|‚©‚é‚æ‚¤‚È\n
+ƒ}ƒkƒP‚È“®•¨‚ÍQ‚¢‚È‚©‚Á‚½c
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+ƒŠƒ“ƒ_‚ÍQ“®•¨‚½‚¿‚Ì\n
+–Â‚«ƒ}ƒl‚ğ‚µ‚½
+<PAUSE>
+<$0D>
+<CLEAR>
+‚µ‚©‚µQ‚±‚Ì•Ó‚è‚É‚Í\n
+ƒŠƒ“ƒ_‚Ìº‚ÉQ‚¾‚Ü‚³‚ê‚é‚æ‚¤‚È\n
+ƒ}ƒkƒP‚È“®•¨‚ÍQ‚¢‚È‚©‚Á‚½c
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot open the animal\n
+reference encyclopedia here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot set up for camp here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot activate Navigator System (NaviS) here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+Ken foundu
+<$1D>
+v!a
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+<CLEAR>
+‚¾‚ªA“¹‹ï‘Ü‚ªˆê”t‚È‚Ì‚Å\n
+u
+<$1D>
+v‚ğ\n
+‚Æ‚è‚ ‚¦‚¸Q‚ ‚«‚ç‚ß‚½c
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+<CLEAR>
+Acquired u
+<$1D>
+v!a
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$34>
+Linda's a little
+<$10><$30>
+Q
+<$17><$31><$31>
+<$10><$31><$36>
+tied up
+<$10><$30>
+_
+<$17><$31><$35>
+<$10><$31><$36>
+with someing at the moment.\n
+<$17><$32><$38>
+<$10><$31><$36>
+Why not
+<$10><$30>
+Q
+<$10><$31><$36>
+stick around for a little while?
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$39>
+Nah
+<$10><$30>
+c
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$36>
+You can find
+<$10><$30>
+Q
+<$10><$31><$38>
+her yourself.\n
+<$17><$32><$31>
+<$10><$31><$36>
+She's upstairs.
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$38>
+Linda
+<$10><$30>
+aQ
+<$17><$31><$34>
+<$10><$31><$34>
+You're absolutely
+<$10><$31><$38>
+stunning!
+<$10><$30>
+a\n
+<$17><$33><$32>
+<$10><$31><$38>
+If you weren't my daughter,
+<$10><$30>
+Q
+<$10><$32><$30>
+I'd propose to you\n
+right here and now
+<$10><$30>
+a
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$32><$30>
+I was slightly
+<$10><$30>
+Q
+<$17><$31><$30>
+<$10><$31><$36>
+altering the dress.\n
+<$17><$32><$37>
+<$10><$31><$39>
+It's a
+<$10><$30>
+Q
+<$17><$33><$31>
+<$10><$32><$32>
+traditional_\n
+<$10><$31><$35>
+Beastian_
+<$10><$30>
+Q
+<$10><$31><$35>
+wedding gown.
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$32>
+It's what I
+<$10><$30>
+Q
+<$10><$31><$34>
+wore to
+<$10><$30>
+Q
+<$10><$31><$38>
+my wedding,\n
+but
+<$10><$30>
+Q
+<$17><$33><$31>
+<$10><$31><$38>
+since Linda
+<$10><$30>
+Q
+<$10><$31><$39>
+suddenly\n
+asked me to
+<$10><$30>
+Q
+<$10><$31><$38>
+let her wear it
+<$10><$30>
+c
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$30>
+Well
+<$10><$30>
+HQ
+<$17><$37>
+<$10><$31><$31>
+What do you think of it
+<$10><$30>
+H
+<$00>
+
+
+
+
+<$0D>
+<BC>
+I didn't even recognize her!
+<EC>
+^
+<BC>
+Heh, not bad!
+<EC>
+<$0D>
+<BC>
+Well, the clothes do make the man...
+<EC>
+^
+<BC>
+It's a riot!
+<EC>
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$34>
+Is that so,
+<$10><$30>
+Q
+<$17><$34>
+<$10><$31><$39>
+Kenny
+<$10><$30>
+H
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$36>
+It's nice that you said so
+<$10><$30>
+I
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$32>
+My little girl's is always
+<$10><$30>
+_
+<$17><$31><$39>
+<$10><$31><$38>
+getting prettier,\n
+<$17><$33><$31>
+<$10><$31><$37>
+so it won't be too many
+<$10><$30>
+Q
+<$10><$31><$37>
+years now before\n
+<$10><$31><$38>
+she outdoes me
+<$10><$30>
+I
+<$00>
+
+
+
+
+//Ptr : 5811
+//Offset : 0000
+#WRITE(PTR, $0034)
+
+Linda's House 2F
+<$00>
+
+
+
+
+<CLEAR>
+ƒPƒ“‚ÍQŒû“J‚ğ‚¢‚½
+<PAUSE>
+<$0D>
+<CLEAR>
+ŠO‚ÅQ‘å‚«‚È‰H‰¹‚ª\n
+•·‚±‚¦‚½‚æ‚¤‚ÈQ‹C‚ª‚µ‚½c
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+ƒPƒ“‚ÍQ–Ú—§‚½‚È‚¢‚æ‚¤‚É\n
+‹C”z‚ğQE‚µ‚½
+<PAUSE>
+<$0D>
+<CLEAR>
+‚µ‚©‚µQ‚±‚Ì•Ó‚è‚É‚Í\n
+ƒPƒ“‚Ì–ÀÊ‚ÉQˆø‚ÁŠ|‚©‚é‚æ‚¤‚È\n
+ƒ}ƒkƒP‚È“®•¨‚ÍQ‚¢‚È‚©‚Á‚½c
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+ƒŠƒ“ƒ_‚ÍQ“®•¨‚½‚¿‚Ì\n
+–Â‚«ƒ}ƒl‚ğ‚µ‚½
+<PAUSE>
+<$0D>
+<CLEAR>
+‚µ‚©‚µQ‚±‚Ì•Ó‚è‚É‚Í\n
+ƒŠƒ“ƒ_‚Ìº‚ÉQ‚¾‚Ü‚³‚ê‚é‚æ‚¤‚È\n
+ƒ}ƒkƒP‚È“®•¨‚ÍQ‚¢‚È‚©‚Á‚½c
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot open the animal\n
+reference encyclopedia here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot set up for camp here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot activate Navigator System (NaviS) here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+Ken foundu
+<$1D>
+v!a
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+<CLEAR>
+‚¾‚ªA“¹‹ï‘Ü‚ªˆê”t‚È‚Ì‚Å\n
+u
+<$1D>
+v‚ğ\n
+‚Æ‚è‚ ‚¦‚¸Q‚ ‚«‚ç‚ß‚½c
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+<CLEAR>
+Acquired u
+<$1D>
+v!a
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+You need the uKey of Memoriesv \n
+for this door.
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+Ken used the uKEY OF MEMORIESv.
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+There's a familiar photo here.
+<$00>
+
+
+
+
+PICT01.TIM
+<$00>
+
+
+
+
+<$1B>
+It's a stuffed bear.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+It appears to be Linda's Diaryc
+Open itH\n
+<BC>
+Yes
+<EC>
+^
+<BC>
+No
+<EC>
+<$14>
+<$00>
+
+
+
+
+<CLEAR>
+cccKen. \n
+I wonder if he'll nominate himself for the ark soon ¡
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+ccThat doucherI\n
+JUST VOLUNTEER \n
+ALREADYa
+<PAUSE>
+<$00>
+
+
+
+
+Ken! There's nothing to do in this town, but let me show you around anyway.
+Let's go!
+<$00>
+
+
+
+
+//Ptr : 5BD9
+//Offset : 0000
+#WRITE(PTR, $0036)
+
+Linda's House ‚P‚e
+<$00>
+
+
+
+
+<CLEAR>
+ƒPƒ“‚ÍQŒû“J‚ğ‚¢‚½
+<PAUSE>
+<$0D>
+<CLEAR>
+ŠO‚ÅQ‘å‚«‚È‰H‰¹‚ª\n
+•·‚±‚¦‚½‚æ‚¤‚ÈQ‹C‚ª‚µ‚½c
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+ƒPƒ“‚ÍQ–Ú—§‚½‚È‚¢‚æ‚¤‚É\n
+‹C”z‚ğQE‚µ‚½
+<PAUSE>
+<$0D>
+<CLEAR>
+‚µ‚©‚µQ‚±‚Ì•Ó‚è‚É‚Í\n
+ƒPƒ“‚Ì–ÀÊ‚ÉQˆø‚ÁŠ|‚©‚é‚æ‚¤‚È\n
+ƒ}ƒkƒP‚È“®•¨‚ÍQ‚¢‚È‚©‚Á‚½c
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+ƒŠƒ“ƒ_‚ÍQ“®•¨‚½‚¿‚Ì\n
+–Â‚«ƒ}ƒl‚ğ‚µ‚½
+<PAUSE>
+<$0D>
+<CLEAR>
+‚µ‚©‚µQ‚±‚Ì•Ó‚è‚É‚Í\n
+ƒŠƒ“ƒ_‚Ìº‚ÉQ‚¾‚Ü‚³‚ê‚é‚æ‚¤‚È\n
+ƒ}ƒkƒP‚È“®•¨‚ÍQ‚¢‚È‚©‚Á‚½c
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot open the animal\n
+reference encyclopedia here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot set up for camp here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot activate Navigator System (NaviS) here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+Ken foundu
+<$1D>
+v!a
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+<CLEAR>
+‚¾‚ªA“¹‹ï‘Ü‚ªˆê”t‚È‚Ì‚Å\n
+u
+<$1D>
+v‚ğ\n
+‚Æ‚è‚ ‚¦‚¸Q‚ ‚«‚ç‚ß‚½c
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+<CLEAR>
+Acquired u
+<$1D>
+v!a
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$36>
+Gahahaha!
+<$10><$30>
+Q
+<$17><$32><$31>
+<$10><$31><$36>
+You guys got into\n
+<$17><$33><$35>
+all sortsa things!_
+<$17><$34><$35>
+<$10><$33><$36>
+*hic*
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$38>
+Ken
+<$10><$30>
+,
+<$17><$31><$32>
+<$10><$31><$38>
+you may have been
+<$10><$31><$34>
+pushed around
+<$10><$30>
+Q
+<$17><$32><$35>
+<$10><$32><$30>
+by Linda,\n
+<$17><$33><$30>
+<$10><$31><$36>
+back in the old days,\n
+<$17><$35><$35>
+<$10><$31><$32>
+but you'd best be
+<$10><$30>
+_
+<$17><$37><$33>
+<$10><$31><$35>
+watching your back,
+<$17><$37><$39>
+<$10><$31><$30>
+from here on out!
+<$00>
+
+
+
+
+You'd... Better make... Linda happy.
+<$00>
+
+
+
+
+Aah, he's out like a light. Dad always drinks more than he can handle.
+<$00>
+
+
+
+
+I'm fine!
+<$00>
+
+
+
+
+Ken, you sleep on the second floor in Linda's room tonight!
+<$00>
+
+
+
+
+Us three will all sleep on the bottom floor. Parents and children only! Then, when morning comes...
+<$00>
+
+
+
+
+When morning comes, I'll give Linda to you! And you can take her anywhere you want!
+<$00>
+
+
+
+
+Jeez, Dad! Come on, up you get.
+<$00>
+
+
+
+
+Ken! If you even look at Linda's wedding dress...
+<$00>
+
+
+
+
+Gahaha! Just see what happens!
+<$00>
+
+
+
+
+Ken-chan, such being the case, I will take you to Linda's room.
+<$00>
+
+
+
+
+//Ptr : 6214
+//Offset : 0000
+#WRITE(PTR, $0038)
+
+Linda's House 2F
+<$00>
+
+
+
+
+<CLEAR>
+ƒPƒ“‚ÍQŒû“J‚ğ‚¢‚½
+<PAUSE>
+<$0D>
+<CLEAR>
+ŠO‚ÅQ‘å‚«‚È‰H‰¹‚ª\n
+•·‚±‚¦‚½‚æ‚¤‚ÈQ‹C‚ª‚µ‚½c
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+ƒPƒ“‚ÍQ–Ú—§‚½‚È‚¢‚æ‚¤‚É\n
+‹C”z‚ğQE‚µ‚½
+<PAUSE>
+<$0D>
+<CLEAR>
+‚µ‚©‚µQ‚±‚Ì•Ó‚è‚É‚Í\n
+ƒPƒ“‚Ì–ÀÊ‚ÉQˆø‚ÁŠ|‚©‚é‚æ‚¤‚È\n
+ƒ}ƒkƒP‚È“®•¨‚ÍQ‚¢‚È‚©‚Á‚½c
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+ƒŠƒ“ƒ_‚ÍQ“®•¨‚½‚¿‚Ì\n
+–Â‚«ƒ}ƒl‚ğ‚µ‚½
+<PAUSE>
+<$0D>
+<CLEAR>
+‚µ‚©‚µQ‚±‚Ì•Ó‚è‚É‚Í\n
+ƒŠƒ“ƒ_‚Ìº‚ÉQ‚¾‚Ü‚³‚ê‚é‚æ‚¤‚È\n
+ƒ}ƒkƒP‚È“®•¨‚ÍQ‚¢‚È‚©‚Á‚½c
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot open the animal\n
+reference encyclopedia here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot set up for camp here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot activate Navigator System (NaviS) here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+Ken foundu
+<$1D>
+v!a
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+<CLEAR>
+‚¾‚ªA“¹‹ï‘Ü‚ªˆê”t‚È‚Ì‚Å\n
+u
+<$1D>
+v‚ğ\n
+‚Æ‚è‚ ‚¦‚¸Q‚ ‚«‚ç‚ß‚½c
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+<CLEAR>
+Acquired u
+<$1D>
+v!a
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+You need the uKey of Memoriesv \n
+for this door.
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+Ken used the uKEY OF MEMORIESv.
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+There's a familiar photo here.
+<$00>
+
+
+
+
+PICT01.TIM
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+It appears to be Linda's Diaryc
+Open itH\n
+<BC>
+Yes
+<EC>
+^
+<BC>
+No
+<EC>
+<$14>
+<$00>
+
+
+
+
+<CLEAR>
+cccKen. \n
+I wonder if he'll nominate himself for the ark soon ¡
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+ccThat doucherI\n
+JUST VOLUNTEER \n
+ALREADYa
+<PAUSE>
+<$00>
+
+
+
+
+It's the same photo I have at home. It's a shot of everyone infront of the swing.
+<$00>
+
+
+
+
+There's a bear here that looks a lot like the one I gave Linda when we were kids.
+........
+<$00>
+
+
+
+
+Here's the wedding dress that Linda was wearing earlier.
+......?
+That girl's chest is surprisingly huge.
+<$00>
+
+
+
+
+She's an experienced girl, but please be kind to Linda. Well, goodnight.
+<$00>
+
+
+
+
+Ken, are you still awake?
+<$00>
+
+
+
+
+Get a load of that snoring! How am I supposed to sleep in the next room like that?
+<$00>
+
+
+
+
+But, Mom is sleeping soundly like it's nothing. I guess that's what's expected from husband and wife.
+<$00>
+
+
+
+
+Hey, Ken.
+<$00>
+
+
+
+
+I'm really thankful for you volunteering to be the Ark's crew. Well, then...
+<$00>
+
+
+
+
+What? That sound just now...
+<$00>
+
+
+
+
+//Ptr : 6847
+//Offset : 0000
+#WRITE(PTR, $003A)
+
+Linda's House 2F
+<$00>
+
+
+
+
+<CLEAR>
+ƒPƒ“‚ÍQŒû“J‚ğ‚¢‚½
+<PAUSE>
+<$0D>
+<CLEAR>
+ŠO‚ÅQ‘å‚«‚È‰H‰¹‚ª\n
+•·‚±‚¦‚½‚æ‚¤‚ÈQ‹C‚ª‚µ‚½c
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+ƒPƒ“‚ÍQ–Ú—§‚½‚È‚¢‚æ‚¤‚É\n
+‹C”z‚ğQE‚µ‚½
+<PAUSE>
+<$0D>
+<CLEAR>
+‚µ‚©‚µQ‚±‚Ì•Ó‚è‚É‚Í\n
+ƒPƒ“‚Ì–ÀÊ‚ÉQˆø‚ÁŠ|‚©‚é‚æ‚¤‚È\n
+ƒ}ƒkƒP‚È“®•¨‚ÍQ‚¢‚È‚©‚Á‚½c
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+ƒŠƒ“ƒ_‚ÍQ“®•¨‚½‚¿‚Ì\n
+–Â‚«ƒ}ƒl‚ğ‚µ‚½
+<PAUSE>
+<$0D>
+<CLEAR>
+‚µ‚©‚µQ‚±‚Ì•Ó‚è‚É‚Í\n
+ƒŠƒ“ƒ_‚Ìº‚ÉQ‚¾‚Ü‚³‚ê‚é‚æ‚¤‚È\n
+ƒ}ƒkƒP‚È“®•¨‚ÍQ‚¢‚È‚©‚Á‚½c
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot open the animal\n
+reference encyclopedia here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot set up for camp here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot activate Navigator System (NaviS) here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+Ken foundu
+<$1D>
+v!a
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+<CLEAR>
+‚¾‚ªA“¹‹ï‘Ü‚ªˆê”t‚È‚Ì‚Å\n
+u
+<$1D>
+v‚ğ\n
+‚Æ‚è‚ ‚¦‚¸Q‚ ‚«‚ç‚ß‚½c
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+<CLEAR>
+Acquired u
+<$1D>
+v!a
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+You need the uKey of Memoriesv \n
+for this door.
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+Ken used the uKEY OF MEMORIESv.
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+There's a familiar photo here.
+<$00>
+
+
+
+
+PICT01.TIM
+<$00>
+
+
+
+
+<$1B>
+It's a stuffed bear.
+<PAUSE>
+<$00>
+
+
+
+
+It's a wedding dress \n
+of peculiarQdesign.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+It appears to be Linda's Diaryc
+Open itH\n
+<BC>
+Yes
+<EC>
+^
+<BC>
+No
+<EC>
+<$14>
+<$00>
+
+
+
+
+<CLEAR>
+cccKen. \n
+I wonder if he'll nominate himself for the ark soon ¡
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+ccThat doucherI\n
+JUST VOLUNTEER \n
+ALREADYa
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$30>
+‚R,
+<$17><$31><$31>
+‚Q,
+<$17><$31><$39>
+‚P,
+<$17><$32><$37>
+<$10><$31><$38>
+FIRE!
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$30>
+‚R,
+<$17><$31><$31>
+‚Q,
+<$17><$31><$39>
+‚P,
+<$17><$32><$37>
+<$10><$31><$38>
+FIRE!
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$36>
+‚nkay
+<$10><$30>
+IQ
+<$17><$31><$30>
+<$10><$32><$30>
+That went well.\n
+<$17><$32><$30>
+<$10><$31><$38>
+Leave the male
+<$10><$30>
+Q
+<$10><$31><$38>
+alone.\n
+<$17><$34><$30>
+<$10><$31><$36>
+Our target is
+<$10><$30>
+Q
+<$10><$31><$34>
+the female.
+<$00>
+
+
+
+
+<CLEAR>
+‚R
+<$00>
+
+
+
+
+<CLEAR>
+‚Q
+<$00>
+
+
+
+
+<CLEAR>
+‚P
+<$00>
+
+
+
+
+Fire!
+<$00>
+
+
+
+
+//Ptr : 6CAC
+//Offset : 0000
+#WRITE(PTR, $003C)
+
+Linda's House ‚P‚e
+<$00>
+
+
+
+
+<CLEAR>
+ƒPƒ“‚ÍQŒû“J‚ğ‚¢‚½
+<PAUSE>
+<$0D>
+<CLEAR>
+ŠO‚ÅQ‘å‚«‚È‰H‰¹‚ª\n
+•·‚±‚¦‚½‚æ‚¤‚ÈQ‹C‚ª‚µ‚½c
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+ƒPƒ“‚ÍQ–Ú—§‚½‚È‚¢‚æ‚¤‚É\n
+‹C”z‚ğQE‚µ‚½
+<PAUSE>
+<$0D>
+<CLEAR>
+‚µ‚©‚µQ‚±‚Ì•Ó‚è‚É‚Í\n
+ƒPƒ“‚Ì–ÀÊ‚ÉQˆø‚ÁŠ|‚©‚é‚æ‚¤‚È\n
+ƒ}ƒkƒP‚È“®•¨‚ÍQ‚¢‚È‚©‚Á‚½c
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+ƒŠƒ“ƒ_‚ÍQ“®•¨‚½‚¿‚Ì\n
+–Â‚«ƒ}ƒl‚ğ‚µ‚½
+<PAUSE>
+<$0D>
+<CLEAR>
+‚µ‚©‚µQ‚±‚Ì•Ó‚è‚É‚Í\n
+ƒŠƒ“ƒ_‚Ìº‚ÉQ‚¾‚Ü‚³‚ê‚é‚æ‚¤‚È\n
+ƒ}ƒkƒP‚È“®•¨‚ÍQ‚¢‚È‚©‚Á‚½c
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot open the animal\n
+reference encyclopedia here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot set up for camp here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot activate Navigator System (NaviS) here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+Ken foundu
+<$1D>
+v!a
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+<CLEAR>
+‚¾‚ªA“¹‹ï‘Ü‚ªˆê”t‚È‚Ì‚Å\n
+u
+<$1D>
+v‚ğ\n
+‚Æ‚è‚ ‚¦‚¸Q‚ ‚«‚ç‚ß‚½c
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+<CLEAR>
+Acquired u
+<$1D>
+v!a
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$39>
+Thank you
+<$10><$30>
+aQ
+<$17><$31><$37>
+<$10><$31><$38>
+I knew you
+<$10><$30>
+Q
+<$10><$31><$39>
+two\n
+would come
+<$10><$30>
+Q
+<$10><$31><$39>
+save us
+<$10><$30>
+a\n
+<$17><$34><$39>
+<$10><$31><$38>
+Isn't that right
+<$10><$30>
+,_
+<$17><$35><$34>
+<$10><$31><$36>
+Sachiko
+<$10><$30>
+H
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$36>
+cc
+<$10><$31><$36>
+Yes,_
+<$17><$31><$39>
+<$10><$31><$32>
+Father...
+<$10><$30>
+c
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$34>
+Those two people
+<$10><$30>
+Q
+<$10><$31><$34>
+that were guarding
+<$10><$30>
+Q
+<$10><$31><$31>
+the house...
+<$10><$30>
+c\n
+<$17><$33><$32>
+<$10><$31><$35>
+Linda,
+<$10><$30>
+Q
+<$10><$31><$35>
+your parentsc
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$34>
+Even in death,Q
+<$10><$31><$35>
+they came back home.\n
+<$17><$33><$34>
+<$10><$32><$31>
+Linda, you are theQ
+<$10><$31><$34>
+reason they lingered.\n
+<$17><$36><$35>
+<$10><$31><$36>
+I think that's howQ
+<$10><$32><$31>
+much they loved you
+<$10><$30>
+c
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$34>
+Your parents
+<$10><$30>
+Q
+<$10><$31><$32>
+were amiable,\n
+<$17><$32><$33>
+<$10><$31><$38>
+Linda, so
+<$10><$30>
+Q
+<$10><$31><$37>
+don't\n
+cry for
+<$10><$30>
+Q
+<$10><$31><$37>
+facing them
+<$10><$30>
+c
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31><$34>
+<$10><$31><$34>
+Oh
+<$10><$30>
+,_
+<$17><$32><$37>
+<$10><$31><$32>
+God
+<$10><$30>
+c
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$38>
+Linda
+<$10><$30>
+aQ
+<$17><$31><$30>
+<$10><$32><$30>
+Please forgive me
+<$10><$30>
+aQ
+<$17><$32><$32>
+<$10><$31><$36>
+I've always done\n
+<$17><$33><$30>
+the very
+<$10><$30>
+Q
+<$10><$31><$38>
+best I could.\n
+<$17><$35><$34>
+<$10><$32><$30>
+I've done all that I
+<$10><$30>
+Q
+<$10><$32><$30>
+could do here
+<$10><$30>
+c
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$36>
+But this
+<$10><$31><$36>
+problem
+<$10><$30>
+Q
+<$10><$31><$39>
+is grave
+<$10><$30>
+c\n
+<$17><$33><$33>
+<$10><$31><$38>
+The cause of
+<$10><$30>
+Q
+<$10><$31><$35>
+this fiasco may be a\n
+<$17><$35><$37>
+<$10><$31><$31>
+nosocomial infection
+<$10><$30>
+Q
+<$10><$31><$31>
+from a special parasite.
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$30>
+I was so utterly
+<$10><$30>
+Q
+<$17><$31><$37>
+<$10><$31><$38>
+careless
+<$10><$30>
+c\n
+<$17><$34><$36>
+<$10><$31><$38>
+I'll accept any
+<$10><$30>
+Q
+<$10><$32><$30>
+judgement!\n
+<$17><$36><$36>
+<$10><$31><$38>
+B-butQ
+<$10><$31><$35>
+before that
+<$10><$30>
+c
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$34>
+I have to make
+<$10><$30>
+Q
+<$10><$31><$32>
+a cure to take care\n
+<$17><$31><$37>
+<$10><$31><$38>
+of the parasite,
+<$10><$30>
+Q
+<$10><$32><$32>
+and urgently
+<$10><$30>
+give\n
+<$17><$34><$30>
+<$10><$32><$34>
+to all the potentially_
+<$10><$32><$32>
+infected
+<$10><$30>
+c
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$38>
+I'm sorry
+<$10><$30>
+cQ
+<$17><$31><$31>
+<$10><$31><$36>
+Linda
+<$10><$30>
+c
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$34>
+I'm truly
+<$10><$30>
+Q
+<$10><$31><$36>
+sorry
+<$10><$30>
+c
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$35>
+I'm certain it's
+<$10><$30>
+Q
+<$10><$31><$35>
+inside of you too
+<$10><$30>
+c
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$32>
+Fatherc
+<$10><$30>
+a\n
+<$17><$31><$34>
+<$10><$31><$39>
+Before long
+<$10><$30>
+cQ
+<$17><$32><$33>
+<$10><$31><$32>
+Linda will
+<$10><$30>
+c
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$36>
+Sachiko
+<$10><$30>
+aQ
+<$17><$31><$33>
+<$10><$31><$36>
+It's too
+<$10><$30>
+Q
+<$10><$31><$39>
+late for\n
+<$10><$32><$34>
+words
+<$10><$30>
+Q
+<$10><$32><$34>
+now
+<$10><$30>
+a\n
+<$17><$34><$35>
+<$10><$31><$38>
+I'll take care of
+<$10><$30>
+Q
+<$10><$31><$36>
+this without
+<$10><$30>
+Q
+<$10><$32><$30>
+fail
+<$10><$30>
+a
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$36>
+But
+<$10><$30>
+,_
+<$10><$31><$36>
+Father
+<$10><$30>
+c\n
+<$17><$31><$36>
+<$10><$32><$30>
+This time,
+<$10><$30>
+Q
+<$10><$32><$30>
+Linda could
+<$10><$30>
+c
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$32><$30>
+Shut it
+<$10><$30>
+aQ
+<$17><$31><$33>
+<$10><$32><$30>
+As a doctor,
+<$10><$30>
+Q
+<$10><$32><$30>
+I can\n
+at least make
+<$10><$30>
+Q
+<$10><$32><$30>
+this serum for\n
+<$17><$34><$32>
+<$10><$31><$38>
+you in return for
+<$10><$30>
+Q
+<$10><$31><$38>
+saving our lives
+<$10><$30>
+a
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$36>
+I don't want
+<$10><$30>
+Q
+<$17><$31><$32>
+<$10><$31><$38>
+to be rude,
+<$10><$30>
+Q
+<$10><$32><$32>
+but I can't waste\n
+<$17><$32><$38>
+<$10><$31><$38>
+any time in making
+<$10><$30>
+Q
+<$10><$31><$36>
+the curing serum!
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$32><$32>
+Come
+<$10><$30>
+,Q
+<$17><$36>
+<$10><$31><$38>
+Sachiko
+<$10><$30>
+a
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$37>
+Linda
+<$10><$30>
+cQ
+<$17><$32><$32>
+<$10><$31><$38>
+I'm sorry
+<$10><$30>
+c
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$38>
+Linda
+<$10><$30>
+aQ
+<$17><$31><$36>
+<$10><$31><$38>
+Until the serum is\n
+<$17><$32><$34>
+<$10><$31><$38>
+complete,
+<$10><$30>
+Q
+<$10><$31><$34>
+there'll be no\n
+<$17><$34><$37>
+<$10><$31><$36>
+tonsil hockey for you!
+<$10><$30>
+Q
+<$10><$31><$36>
+It's too risky
+<$10><$30>
+a
+<$00>
+
+
+
+
+//Ptr : 757B
+//Offset : 0000
+#WRITE(PTR, $003E)
+
+This Memory Card has not been formatted.
+Would you like to format?
+Yes.
+No.
+<$00>
+
+
+
+
+<CLEAR>
+<$10><$30>
+<$02><$31><$32><$38>
+ƒ³\n
+<$09><$38>
+<$02><$33><$38>
+Currently formatting. Please do not turn off console or 
+<$02><$37><$37>
+remove the Memory Card.
+<$00>
+
+
+
+
+Formatting failed...
+<$00>
+
+
+
+
+Formatting complete
+<$00>
+
+
+
+
+Checking Memory Card. Please wait a moment.
+<$00>
+
+
+
+
+<CLEAR>
+<$10><$30>
+<$02><$31><$30><$38>
+ƒ³\n
+<$09><$38>
+<$02><$33><$30>
+‚±‚ÌƒQ[ƒ€‚ğ‰õ“K‚É—V‚Ô‚½‚ß‚É\n
+<$02><$32>
+ƒƒ‚ƒŠ[ƒJ[ƒh‚Ìg—p‚ğ‚¨§‚ß‚µ‚Ü‚·ƒµ
+<$00>
+
+
+
+
+<CLEAR>
+<$10><$30>
+<$02><$31><$30><$32>
+ƒ³\n
+<$09><$38>
+<$02><$33><$35>
+The card in this slot\n
+may be defectedcƒµ
+<$00>
+
+
+
+
+<CLEAR>
+<$10><$30>
+<$02><$31><$31><$34>
+ƒ³\n
+<$09><$36>
+With no 2 blocks free on this card,\n
+<$02><$31><$32>
+data cannot be recorded.a\n
+<$02><$34><$37>
+Use a different card or\n
+<$02><$34><$30>
+erase unwanted data via\n
+<$02><$31><$39>
+the card management menu.ƒµ
+<$00>
+
+
+
+
+<CLEAR>
+No card found in this slot.\n
+Data cannot be recorded.
+<$00>
+
+
+
+
+<CLEAR>
+In order to use this Memory Card,\n
+it needs to be formatted.
+<$00>
+
+
+
+
+<CLEAR>
+The card in this slot\n
+may be defectedc
+<$00>
+
+
+
+
+With no 2 blocks free on this card, \n
+data cannot be recorded.
+<$00>
+
+
+
+
+<CLEAR>
+Hola! This is the Telephone Service. \n
+Which menu would you like to access?
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<BC>
+‹L˜^ƒZƒ“ƒ^[
+<EC>
+^
+<BC>
+—¯ç”ÔƒR[ƒ‹
+<EC>
+<$0D>
+<BC>
+ƒlƒIƒPƒjƒA‹âs
+<EC>
+^
+<BC>
+‹CÛƒTƒeƒ‰ƒCƒg
+<EC>
+<$0D>
+<BC>
+•óƒNƒW’Š‘I”­•\
+<EC>
+^
+<BC>
+ƒwƒ‹ƒK‚Ì‘å—\Œ¾
+<EC>
+<$00>
+
+
+
+
+Recording Center
+<$00>
+
+
+
+
+Voicemail
+<$00>
+
+
+
+
+Neo-Kenya Bank
+<$00>
+
+
+
+
+Weather Satellite
+<$00>
+
+
+
+
+Lottery Results
+<$00>
+
+
+
+
+Helga's Big Prediction
+<$00>
+
+
+
+
+<CLEAR>
+Welcome back.
+<$1D>
+Currently dailing number...
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+This is the Ranger HQ's Record Center.
+Would you like to make a record of your state of progress?
+<BC>
+Save Record
+<EC>
+^
+<BC>
+Return to Menu
+<EC>
+^
+<BC>
+Hang Up
+<EC>
+<$00>
+
+
+
+
+<CLEAR>
+—¯ç”ÔƒR[ƒ‹‚ÉQV‚µ‚¢ƒƒbƒZ[ƒW‚ª\n
+<$1E>
+Œ“ü‚Á‚Ä‚¢‚Ü‚·QŠm”F‚µ‚Ü‚·‚©H
+<$00>
+
+
+
+
+<CLEAR>
+ƒŒƒ“ƒWƒƒ[‘à–{•”A—¯ç”ÔƒR[ƒ‹‚Å‚·\n
+<$00>
+
+
+
+
+—¯ç”ÔƒR[ƒ‹‚ÍQ‚PŒ‚à‚ ‚è‚Ü‚¹‚ñ
+<PAUSE>
+<$00>
+
+
+
+
+Messages receivedQ
+<$1E>
+x
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+You have receivedQ
+<$1E>
+new message(s).
+<$00>
+
+
+
+
+<CLEAR>
+You have no newQmessages.
+<$00>
+
+
+
+
+<$0D>
+<BC>
+Confirm
+<EC>
+^
+<BC>
+Menu
+<EC>
+^
+<BC>
+Hang Up
+<EC>
+<$00>
+
+
+
+
+<CLEAR>
+ŠF—l‚ÌƒlƒIƒPƒjƒA‹âs‚Å‚·\n
+<BC>
+—a‹àc‚
+<EC>
+^
+<BC>
+•ÔÏc‚
+<EC>
+^
+<BC>
+’Ê’ ‚ğŒ©‚é
+<EC>
+<$0D>
+<BC>
+ƒƒjƒ…[‚Ö
+<EC>
+^
+<BC>
+“d˜b‚ğØ‚é
+<EC>
+<$00>
+
+
+
+
+%8d
+<$00>
+
+
+
+
+<CLEAR>
+Œ»İ‚Ì—a‹àc‚‚Í
+<$15><$52>
+<$06>
+<$1D>
+<$04>
+<$14>
+‚Å‚·\n
+’Ç‰Á—Z‘‚Í‚Å‚«‚Ü‚¹‚ñ
+<PAUSE>
+<$00>
+
+
+
+
+Current Bank Balance is
+Maximum Loan Amount is
+<$00>
+
+
+
+
+<CLEAR>
+Œ»İ‚Ì—a‹àc‚‚Í
+<$1E><$34><$31>
+‚Å‚·\n
+•ÔÏŠúŠÔ’†‚ÍQ’Ç‰Á—Z‘‚Í‚Å‚«‚Ü‚¹‚ñ
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Œ»İ‚Ì—a‹àc‚‚ÍQ‚O\n
+æˆø‚«‚ğQ’â~’†‚Å‚·
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Œ»İA•ÔÏ‚Í‚ ‚è‚Ü‚¹‚ñ
+<PAUSE>
+<$00>
+
+
+
+
+Next
+<$1D>
+<$00>
+
+
+
+
+Current Season
+<$00>
+
+
+
+
+<CLEAR>
+Œ»İ‚Ì•ÔÏc‚‚Í
+<$1E><$34><$30>
+‚Å‚·\n
+‹Gß—˜q
+<$1E><$34><$30>
+\n
+•ÔÏŠúŒÀQ
+<$1D>
+A‚Æ‚È‚Á‚Ä‚¨‚è‚Ü‚·
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Œ»İ‚Ì•ÔÏc‚‚Í
+<$1E><$34><$30>
+‚Å‚·\n
+‹Gß—˜q
+<$1E><$34><$30>
+\n
+—a‹àŒûÀ‚Ìæˆø‚«‚ÍQ’â~’†‚Å‚·
+<PAUSE>
+<$00>
+
+
+
+
+%8d
+<$00>
+
+
+
+
+TUCHO_0.TMZ
+<$00>
+
+
+
+
+TUCHO_1.TMZ
+<$00>
+
+
+
+
+<CLEAR>
+<$04>
+<$09><$31>
+<$15><$48>
+<$00>
+
+
+
+
+Withdraw
+<$00>
+
+
+
+
+<$02><$36><$34>
+Refund
+<$00>
+
+
+
+
+<$02><$36><$34>
+Interest
+<$00>
+
+
+
+
+Deposit
+<$00>
+
+
+
+
+<$02><$36><$34>
+Salary
+<$00>
+
+
+
+
+<$02><$36><$34>
+Interest
+<$00>
+
+
+
+
+Hound's Pay
+<$00>
+
+
+
+
+<$02><$36><$34>
+Reward
+<$00>
+
+
+
+
+<$02><$36><$34>
+Bonus
+<$00>
+
+
+
+
+<$0D>
+<$02><$38>
+<$1E><$33><$34>
+<$06>
+E
+<$04>
+<$1D>
+<$02><$35><$38>
+<$1D>
+<$02><$31><$31><$38>
+<$06>
+<$15><$48>
+<$1D>
+<$00>
+
+
+
+
+<$02><$32><$30><$32>
+<$1D>
+<$1D>
+<$15><$48>
+<$00>
+
+
+
+
+<CLEAR>
+ƒIƒYƒTƒbƒg‹CÛ—\•ñ•””­•\\n
+Še’n‚Ì
+<$1D>
+‚Ì“V‹C‚Å‚·
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+“ŒƒGƒŠƒA‘…Šm—¦
+<$1E><$33><$34>
+“\n
+¼ƒGƒŠƒA~áŠm—¦
+<$1E><$33><$34>
+“\n
+“ìƒGƒŠƒA‘…Šm—¦
+<$1E><$33><$34>
+“
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+‚È‚¨¼ƒGƒŠƒA’†•”‚ÉQ‘åáŒx•ñ”­—ß’†\n
+–ì‰c‚ÌÛ‚ÍQ“€€‚É’ˆÓI
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$1D>
+<$06><$31><$30><$30>
+<$04>
+<$14>
+‚ÅQ‘å‚«‚È–²‚ğç‚©‚¹‚Ü‚µ‚å‚¤a\n
+<$1D>
+‚Ì•óƒNƒWA‚½‚¾‚¢‚ÜD•]”­”„’†a\n
+‚P“™Ü‹à‚ÍQ‚È‚ñ‚ÆQ
+<$06><$31><$30><$30><$30><$30><$30>
+<$04>
+a
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$1D>
+‚Ì•óƒNƒWQ“–‘I”Ô†”­•\a
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+‚P“™i
+<$06><$31><$30><$30><$30><$30><$30>
+<$04>
+j
+<$02><$31><$32><$30>
+<$06>
+NO.
+<$1E><$30><$33><$36>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+‚Q“™i
+<$06>
+50000
+<$04>
+j
+<$02><$31><$32><$30>
+<$06>
+NO.
+<$1E><$30><$33><$36>
+<$0D>
+<$02><$31><$32><$30>
+<$06>
+NO.
+<$1E><$30><$33><$36>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+‚R“™i
+<$06>
+10000
+<$04>
+j
+<$02><$31><$32><$30>
+<$06>
+NO.
+<$1E><$30><$33><$36>
+<$0D>
+<$04>
+‚S“™i
+<$06>
+1000
+<$04>
+j
+<$02><$31><$32><$30>
+<$06>
+NO.X
+<$1E><$30><$33><$35>
+<$0D>
+<$04>
+‚T“™i
+<$06>
+100
+<$04>
+j
+<$02><$31><$32><$30>
+<$06>
+NO.XX
+<$1E><$30><$33><$34>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+‚¨ˆø‚«‘Ö‚¦—LŒøŠúŒÀQ¡
+<$1D>
+‚Ì‚İa
+<PAUSE>
+<$00>
+
+
+
+
+Record File Select
+<$00>
+
+
+
+
+<CLEAR>
+<$10><$30>
+–¢“o˜^ƒtƒ@ƒCƒ‹‚Å‚·\n
+‹L˜^‚µ‚Ü‚·‚©H
+<$00>
+
+
+
+
+<CLEAR>
+<$10><$30>
+‚·‚Å‚ÉQ‹L˜^‚³‚ê‚Ä‚¢‚Ü‚·\n
+ã‘‚«‚µ‚Ü‚·‚©H
+<$00>
+
+
+
+
+<$0D>
+<BC>
+Yes
+<EC>
+^
+<BC>
+No
+<EC>
+<$00>
+
+
+
+
+<CLEAR>
+<$10><$30>
+<$02><$31><$30><$30>
+ƒ³\n
+<$09><$38>
+<$02><$33><$35>
+‚½‚¾‚¢‚ÜA‹L˜^’†‚Å‚·a\n
+“dŒ¹‚ğØ‚Á‚½‚èAƒƒ‚ƒŠ[ƒJ[ƒh‚É\n
+<$02><$32><$31>
+G‚ê‚½‚è‚µ‚È‚¢‚Å‚­‚¾‚³‚¢a
+<$00>
+
+
+
+
+<CLEAR>
+<$10><$30>
+<$02><$31><$30><$34>
+ƒ³\n
+<$09><$31><$32>
+<$02><$33><$36>
+‹L˜^‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½cƒµ
+<$00>
+
+
+
+
+<CLEAR>
+<$10><$30>
+Recorded ƒµ
+<$00>
+
+
+
+
+<$06>
+-NO CARD-
+<$04>
+<$00>
+
+
+
+
+<$06>
+-UNFORMAT-
+<$04>
+<$00>
+
+
+
+
+<$06>
+-ERROR-
+<$04>
+<$00>
+
+
+
+
+<$06>
+-NO FREE-
+<$04>
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+<CLEAR>
+<$1D>
+<BC>
+
+<EC>
+QSlot ‚P
+<$1D>
+<$0D>
+<$1D>
+<BC>
+
+<EC>
+QSlot ‚Q
+<$1D>
+<$00>
+
+
+
+
+<$0D>
+<$15><$57>
+<BC>
+
+<EC>
+QExit
+<$00>
+
+
+
+
+<$0D>
+<$15><$57>
+<BC>
+
+<EC>
+QTo Menu\n
+<BC>
+
+<EC>
+QHang Up
+<$00>
+
+
+
+
+<$10><$30>
+<$15><$59>
+Slot
+<$1E>
+<$06>
+:
+<$04>
+‹L˜^
+<$06>
+File
+<$04>
+Select
+<$00>
+
+
+
+
+<CLEAR>
+<$00>
+
+
+
+
+<$15><$62>
+<BC>
+<$06>
+<$1E>
+.
+<EC>
+<$04>
+i–¢“o˜^‚Å‚·j\n
+<$00>
+
+
+
+
+<$1D>
+<$00>
+
+
+
+
+<$06>
+<$1D>
+<$04>
+<$00>
+
+
+
+
+<$15><$57>
+<BC>
+<$06>
+<$1E>
+.
+<EC>
+
+<$1D>
+
+<$06><$31><$39><$39>
+<$1E>
+<$04>
+”N
+<$1D>
+Q
+<$1D>
+<$02><$31><$36><$34>
+<$06>
+<$1E><$33><$35>
+<$04>
+í“o˜^Q“ï
+<$1E>
+<$0D>
+<$00>
+
+
+
+
+<$15><$57>
+<BC>
+
+<$08><$32>
+<EC>
+QExit
+<$00>
+
+
+
+
+<$15><$57>
+<BC>
+
+<$08><$32>
+<EC>
+Qƒƒjƒ…[‚Ö
+<BC>
+
+<$08><$32>
+<EC>
+Q“d˜b‚ğØ‚é
+<$00>
+
+
+
+
+ccE
+<$00>
+
+
+
+
+ccW
+<$00>
+
+
+
+
+ccS
+<$00>
+
+
+
+
+ccN
+<$00>
+
+
+
+
+cNE
+<$00>
+
+
+
+
+cNW
+<$00>
+
+
+
+
+cSE
+<$00>
+
+
+
+
+cSW
+<$00>
+
+
+
+
+<CLEAR>
+cc
+<$1D>
+<$00>
+
+
+
+
+Ac
+<$1D>
+‚És‚¯‚Î
+<$00>
+
+
+
+
+Ahead!
+<$00>
+
+
+
+
+Right!
+<$00>
+
+
+
+
+Left!
+<$00>
+
+
+
+
+Back!
+<$00>
+
+
+
+
+<CLEAR>
+cc
+<$1D>
+<$00>
+
+
+
+
+Aâ‘Î‚É
+<$1D>
+a
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+ƒŠƒ“ƒ_‚ÍQu—‚ÌŠ¨v‚ğ\n
+‚Í‚½‚ç‚©‚¹‚½a
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+c‚²‚ß‚ñ‚ËA\n
+¡“ú‚ÍQŠ¨‚ª‚Í‚½‚ç‚©‚È‚¢‚íc
+<PAUSE>
+<$00>
+
+
+
+
+Destined
+<$00>
+
+
+
+
+New
+<$00>
+
+
+
+
+Nice
+<$00>
+
+
+
+
+Strange
+<$00>
+
+
+
+
+Something
+<$00>
+
+
+
+
+Discovery
+<$00>
+
+
+
+
+Treasure
+<$00>
+
+
+
+
+Animal
+<$00>
+
+
+
+
+_encountered...
+<$00>
+
+
+
+
+_acquired...
+<$00>
+
+
+
+
+I have a huncha
+<$00>
+
+
+
+
+Now's our chancea
+<$00>
+
+
+
+
+It's now or never!
+<$00>
+
+
+
+
+We've got thisa
+<$00>
+
+
+
+
+<$0D>
+<$1D>
+<$1D>
+<$1D>
+<$0D>
+<$1D>
+<PAUSE>
+<$0D>
+<CLEAR>
+<$00>
+
+
+
+
+<CLEAR>
+I'm confident in thisa
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+I'm not sure, butc
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+It's pretty spot-ona
+<PAUSE>
+<$00>
+
+
+
+
+*sniff* *sniff, sniff*cccH
+<PAUSE>
+<$0D>
+<CLEAR>
+<$1D>
+ smell is in the air.\n
+Which reminds me,
+<$1D>
+we still haven't had din-dinc
+<PAUSE>
+<$00>
+
+
+
+
+Fried Eggs
+<$00>
+
+
+
+
+Curry
+<$00>
+
+
+
+
+BBQ
+<$00>
+
+
+
+
+Fried Chicken
+<$00>
+
+
+
+
+Candy
+<$00>
+
+
+
+
+Banana
+<$00>
+
+
+
+
+Fries
+<$00>
+
+
+
+
+Grilled Fish
+<$00>
+
+
+
+
+Tomato
+<$00>
+
+
+
+
+Butter
+<$00>
+
+
+
+
+Sauce
+<$00>
+
+
+
+
+Soup
+<$00>
+
+
+
+
+Pilaf
+<$00>
+
+
+
+
+Vanilla
+<$00>
+
+
+
+
+Kimchi
+<$00>
+
+
+
+
+Cheese
+<$00>
+
+
+
+
+Morning
+<$00>
+
+
+
+
+Daytime
+<$00>
+
+
+
+
+TA
+<$00>
+
+
+
+
+*sniff* *sniff, sniff*cccH
+<PAUSE>
+<$0D>
+<CLEAR>
+The smell of disinfectant \n
+here is staggaring.
+<PAUSE>
+<$00>
+
+
+
+
+//Ptr : 857D
+//Offset : 0000
+#WRITE(PTR, $0040)
+
+<$10><$30>
+<$15><$59>
+Voicemail Call
+<$00>
+
+
+
+
+<BC>
+Exit
+<EC>
+<$00>
+
+
+
+
+uLinda...
+<$00>
+
+
+
+
+uccccc
+<$00>
+
+
+
+
+uIt's the commandera
+<$00>
+
+
+
+
+uKena
+<$00>
+
+
+
+
+uAh...
+<$00>
+
+
+
+
+uPara Side
+<$00>
+
+
+
+
+uIt's Emoric
+<$00>
+
+
+
+
+uIt's the captainI
+<$00>
+
+
+
+
+uDumbass!
+<$00>
+
+
+
+
+uIt's your mother!
+<$00>
+
+
+
+
+uIt's your mother!
+<$00>
+
+
+
+
+uIt's the captainI
+<$00>
+
+
+
+
+uHello!
+<$00>
+
+
+
+
+<$1D>
+<BC>
+<$1E><$33><$34>
+<$06>
+.
+<EC>
+<$04>
+<$1D>
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$35>
+This is Linda's attending physician,QDr. Emori.
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$34>
+As far as her bodyQ
+<$10><$31><$35>
+is concerned,\n
+<$17><$32><$34>
+Linda will be fine
+<$17><$32><$38>
+in just a short while
+<$10><$30>
+IQ
+<$17><$33><$39>
+<$10><$31><$33>
+That, I promise
+<$10><$30>
+I\n
+<$17><$35><$38>
+<$10><$31><$34>
+After that,Qyou have a job to do
+<$10><$30>
+a
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$36>
+She's ready to be
+<$10><$30>
+Q
+<$10><$31><$36>
+discharged at any time!\n
+<$17><$32><$35>
+<$10><$31><$37>
+Come by as soon as you canQ\n
+to pick her up!
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$35>
+Now's a good time to buy a 
+<$17><$38>
+<$10><$30>
+u
+<$10><$31><$35>
+bouquet
+<$10><$30>
+v
+<$10><$31><$37>
+for Linda,
+<$10><$30>
+Q
+<$10><$31><$37>
+don't you agree?\n
+<$17><$33><$39>
+<$10><$31><$32>
+That will work wondersQ
+<$10><$31><$36>
+better than any
+<$17><$35><$39>
+medicine I give her!
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$38>
+Well,Q
+<$17><$31><$30>
+I'm counting on you!
+<$00>
+
+
+
+
+<CLEAR>
+<$10><$31><$30>
+ccccccc
+<PAUSE>
+<$0D>
+<CLEAR>
+<$10><$31><$30>
+ccccccccccc
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$37>
+Ken
+<$10><$31><$30>
+cccccc
+<$00>
+
+
+
+
+<CLEAR>
+<$10><$31><$30>
+ccccccccccccc
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$32>
+Ken
+<$10><$31><$30>
+cccccc
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$31>
+There's no need_
+<$10><$31><$38>
+to worry
+<$10><$31><$30>
+cc\n
+<$17><$32><$39>
+<$10><$32><$30>
+I can get by
+<$10><$30>
+Q
+<$10><$32><$30>
+on my own
+<$10><$31><$30>
+cc
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$37>
+So don't
+<$10><$30>
+Q
+<$10><$31><$37>
+look for me
+<$10><$31><$30>
+cc
+<$00>
+
+
+
+
+<CLEAR>
+<$10><$31><$30>
+ccccccc
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$32><$32>
+Bye bye
+<$10><$30>
+,
+<$17><$34>
+<$10><$32><$36>
+Ken.\n
+<$17><$32><$39>
+<$10><$31><$36>
+I love you
+<$10><$31><$30>
+c
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$32><$30>
+This is your commander
+<$10><$30>
+a
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$37>
+We just received word\n
+<$17><$31><$37>
+<$10><$32><$34>
+that a woman resembling Linda
+<$10><$30>
+Q
+<$10><$32><$30>
+was seen\n
+<$17><$33><$32>
+<$10><$32><$30>
+entering the Dogifa Hotel
+<$10><$30>
+a
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$36>
+We haven't confirmed
+<$10><$30>
+Q
+<$17><$31><$38>
+<$10><$32><$37>
+this information,\n
+<$10><$32><$31>
+but I think you'd best hurry down
+<$10><$30>
+Q
+<$10><$32><$37>
+there and try checking anyway.
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$32><$32>
+I suppose you already
+<$10><$30>
+Q
+<$10><$32><$32>
+know this,\n
+<$17><$31><$35>
+<$10><$31><$38>
+but Dogifa's in
+<$10><$30>
+Q
+<$10><$31><$38>
+the South Area.\n
+<$17><$33><$39>
+<$10><$32><$34>
+You can fly there
+<$10><$30>
+Q
+<$10><$32><$34>
+from Ozport.
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$34>
+But still,
+<$10><$30>
+Q
+<$17><$31><$35>
+<$10><$32><$33>
+what business would\n
+<$10><$32><$30>
+Linda have in a
+<$10><$30>
+Q
+<$10><$32><$30>
+place like Dogifa
+<$10><$30>
+‘\n
+<$17><$34><$37>
+<$10><$31><$38>
+Well
+<$10><$30>
+,_
+<$17><$35><$34>
+<$10><$31><$33>
+you may find out when you get there
+<$10><$30>
+c
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$32><$31>
+It'd be nice to
+<$10><$30>
+Q
+<$10><$32><$31>
+see her
+<$10><$30>
+cQ
+<$17><$31><$37>
+<$10><$32><$30>
+at the very least.
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$38>
+Ken
+<$10><$30>
+aQ
+<$17><$31><$31>
+<$10><$31><$39>
+Linda's in Oz Port
+<$10><$30>
+Q
+<$10><$31><$39>
+this time
+<$10><$30>
+a\n
+<$17><$33><$32>
+<$10><$32><$30>
+She seems to be\n
+<$17><$34><$36>
+<$10><$32><$30>
+deep in talk with the staff
+<$10><$30>
+Q
+<$10><$32><$31>
+over at the airport!!
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$32><$32>
+Anyways,
+<$10><$30>
+Q
+<$10><$32><$32>
+you've got to catch her,\n
+<$17><$32><$32>
+<$10><$32><$30>
+and pronto
+<$10><$30>
+!_
+<$10><$32><$30>
+and let's hope no one\n
+else winds up hurt.
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$38>
+Ken
+<$10><$30>
+aQ
+<$17><$31><$34>
+<$10><$32><$31>
+you might not
+<$10><$30>
+Q
+<$10><$31><$36>
+have your
+<$17><$32><$34>
+mind\n
+<$10><$31><$38>
+madeQ
+<$17><$33><$37>
+<$10><$31><$38>
+up on all this
+<$10><$30>
+,
+<$10><$31><$38>
+but you've\n
+been under Linda's
+<$10><$30>
+Q
+<$10><$31><$38>
+thumb your whole life
+<$10><$30>
+a
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$30>
+c
+<$10><$31><$38>
+Well,Q
+<$17><$37>
+that's fineQ
+<$10><$31><$35>
+too
+<$10><$30>
+,\n
+<$17><$32><$36>
+<$10><$31><$32>
+but more power to you if you
+<$10><$30>
+Q
+<$10><$31><$31>
+can put a stop to this deadlock.
+<$10><$30>
+a\n
+<$17><$35><$35>
+<$10><$31><$34>
+That is all.
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$32><$30>
+It's Emori
+<$10><$30>
+c
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$39>
+Right now
+<$10><$30>
+,
+<$17><$31><$34>
+<$10><$31><$35>
+Sachiko and I
+<$17><$32><$35>
+<$10><$31><$38>
+have been imprisoned\n
+<$17><$31><$38>
+<$10><$32><$32>
+in Linda's house
+<$10><$30>
+c
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$30>
+cc
+<$10><$32><$30>
+Don't freak out,Q
+<$10><$32><$32>
+just listen to me.
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$35>
+The corpses of the citizens\n
+<$17><$32><$31>
+<$10><$32><$30>
+of Minago are crawling
+<$10><$30>
+Q
+<$10><$32><$32>
+out of their graves\n
+<$10><$32><$32>
+as zombies and
+<$10><$30>
+Q
+<$10><$31><$38>
+wreaking havoc!
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$31>
+I still can't
+<$10><$30>
+Q
+<$17><$31><$31>
+<$10><$32><$30>
+comprehend the
+<$10><$32><$32>
+cause of it,\n
+<$17><$32><$38>
+<$10><$31><$36>
+but odds are,
+<$10><$30>
+Q
+<$17><$33><$38>
+<$10><$31><$32>
+it's my fault.
+<$10><$30>
+c
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$38>
+So...
+<$10><$30>
+Q
+<$17><$31><$31>
+<$10><$31><$35>
+I'm braced for this.\n
+<$17><$33><$30>
+<$10><$31><$38>
+But no matter
+<$10><$30>
+Q
+<$17><$33><$36>
+<$10><$31><$36>
+what it takes,\n
+<$17><$34><$35>
+<$10><$31><$38>
+you have to come
+<$10><$30>
+Q
+<$10><$31><$38>
+and save Sachiko!
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$34>
+That's my
+<$10><$31><$38>
+one wish
+<$10><$30>
+a
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$36>
+It's the commander
+<$10><$30>
+I
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$36>
+The shuttle's
+<$10><$30>
+Q
+<$10><$31><$36>
+sudden explosion
+<$10><$30>
+c\n
+<$17><$32><$31>
+<$10><$31><$30>
+The puzzling disappearance
+<$10><$30>
+_
+<$10><$31><$30>
+of the 3 bounty hunters
+<$10><$30>
+c\n
+<$17><$35><$30>
+<$10><$31><$34>
+These zombies crawling up
+<$10><$30>
+Q
+<$17><$35><$37>
+<$10><$31><$34>
+and going, "Howdie-doo."
+<$10><$30>
+c
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$35>
+It's just one
+<$10><$30>
+Q
+<$10><$31><$35>
+bad happening\n
+<$10><$31><$37>
+after another,
+<$10><$30>
+Q
+<$17><$33><$33>
+<$10><$32><$36>
+but there's nothing strange\n
+going on over there, is there
+<$10><$30>
+H
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$38>
+B-by the way,
+<$10><$30>
+Q
+<$10><$32><$30>
+Ken
+<$10><$30>
+IQ
+<$17><$32><$30>
+<$10><$32><$32>
+Not sure if you've\n
+heard
+<$10><$30>
+,
+<$10><$32><$32>
+but a letter for you\n
+showed up in
+<$10><$30>
+Q
+<$10><$32><$32>
+my mailbox.
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$39>
+The sender is
+<$17><$31><$38>
+<$10><$30>
+u
+<$10><$31><$38>
+Lilly
+<$10><$30>
+v
+<$17><$32><$33>
+<$10><$31><$38>
+...
+<$10><$30>
+Q
+<$10><$31><$36>
+A lady!\n
+<$17><$34><$32>
+<$10><$31><$36>
+Probably some
+<$10><$30>
+_
+<$10><$31><$36>
+some stupid schoolie
+<$10><$30>
+Q
+<$10><$31><$36>
+pamphlets inside,\n
+<$17><$31><$34>
+at any rate.
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$36>
+But I guess there's some
+<$10><$30>
+Q
+<$17><$31><$31>
+<$10><$31><$39>
+hush-hush password?\n
+<$10><$31><$30>
+Hah, maybe
+<$10><$30>
+Q
+<$17><$33><$36>
+<$10><$32><$34>
+it's some kinda\n
+<$17><$34><$33>
+<$10><$31><$35>
+love letter.
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$32><$34>
+Well
+<$10><$30>
+,
+<$17><$31><$30>
+<$10><$32><$32>
+come and see if you can\n
+<$17><$31><$38>
+<$10><$31><$39>
+make something of it
+<$10><$30>
+IQ
+<$17><$33><$30>
+<$10><$31><$33>
+Over and out!
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$33>
+<$10><$31><$36>
+It's your mother!\n
+<$17><$31><$35>
+<$10><$32><$30>
+I got a visitor right
+<$10><$30>
+Q
+<$10><$32><$30>
+as I went\n
+to clean HumeQ
+<$10><$31><$34>
+and Anne's grave
+<$10><$30>
+c
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$31>
+The girl thatQ
+<$10><$31><$38>
+greeted me
+<$10><$30>
+...\n
+<$17><$32><$30>
+<$10><$32><$30>
+she said she
+<$10><$30>
+Q
+<$10><$32><$31>
+was a friend of\n
+<$10><$31><$39>
+yours.
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$32>
+Well
+<$10><$30>
+,
+<$17><$31><$31>
+<$10><$36>
+now
+<$10><$30>
+Q
+<$17><$32><$31>
+<$10><$31><$30>
+she's here
+<$17><$33><$35>
+<$10><$31><$32>
+at the house,\n
+<$10><$32><$30>
+having tea with me
+<$10><$30>
+,
+<$10><$32><$30>
+but what do I do
+<$10><$30>
+c?\n
+<$17><$36><$38>
+<$10><$31><$32>
+What do I say?
+<$10><$30>
+c
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$32>
+She won't even
+<$10><$30>
+Q
+<$10><$31><$32>
+tell me her name.\n
+<$17><$32><$30>
+<$10><$32><$30>
+This girl's a little
+<$10><$30>
+Q
+<$17><$33><$35>
+<$10><$31><$34>
+weird, if you ask me.\n
+<$17><$35><$36>
+<$10><$31><$36>
+Do you think you couldQ
+<$10><$31><$38>
+come home right away
+<$10><$30>
+H
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$30>
+It's you're mother
+<$10><$30>
+.\n
+<$17><$31><$37>
+<$10><$31><$36>
+I'm sure you figuredQ
+<$10><$31><$36>
+as much by now,\n
+<$17><$33><$37>
+<$10><$31><$35>
+but Sumire came
+<$10><$30>
+Q
+<$17><$34><$31>
+<$10><$31><$33>
+back to the house.
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$36>
+Yoshiko's
+<$10><$30>
+Q
+<$10><$31><$36>
+here too.\n
+<$17><$31><$38>
+<$10><$32><$30>
+Oh!Q
+<$10><$32><$34>
+That's
+<$17><$33><$30>
+<$10><$39>
+right. \n
+<$17><$33><$39>
+<$10><$30>
+u
+<$10><$31><$34>
+Yoshiko
+<$10><$30>
+v_
+<$10><$31><$36>
+is what I named
+<$10><$30>
+Q
+<$10><$31><$36>
+No. 2.!
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$34>
+Us gals are
+<$10><$30>
+Q
+<$10><$31><$32>
+having a grand
+<$10><$30>
+Q
+<$17><$32><$32>
+<$10><$31><$36>
+ol' time.\n
+We're just
+<$10><$30>
+Q
+<$10><$31><$36>
+eating rice,\n
+<$17><$34><$38>
+<$10><$31><$30>
+so don't you worry
+<$10><$30>
+cc
+<$17><$37><$38>
+<$0D>
+<CLEAR>
+<$10><$31><$34>
+Aggh!!
+<$10><$30>
+Q
+<$10><$31><$32>
+Yoshiko
+<$10><$30>
+a\n
+<$17><$39><$36>
+<$10><$30>
+N-no, no,_
+<$17><$39><$38>
+<$10><$31><$32>
+darling
+<$10><$30>
+cQ
+<$17><$31><$31><$30>
+<$10><$31><$34>
+Not that
+<$10><$30>
+c
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$33>
+I'm sorry
+<$10><$30>
+,_
+<$17><$31><$32>
+<$10><$31><$33>
+Yoshiko just
+<$17><$31><$39>
+<$10><$31><$37>
+mistook a bunch\n
+<$10><$31><$38>
+of vocka for water.
+<$10><$30>
+Q
+<$10><$31><$38>
+Chugged it real good, too
+<$10><$30>
+c\n
+<$17><$34><$35>
+<$10><$31><$33>
+It's okay though
+<$10><$30>
+,_
+<$10><$32><$34>
+it's not like she'll die.
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$38>
+Well,
+<$10><$30>
+Q
+<$17><$39>
+<$10><$32><$37>
+like I said,
+<$10><$30>
+Q
+<$10><$31><$32>
+there's nothing to worry about.\n
+<$17><$32><$39>
+<$10><$31><$35>
+On another note,
+<$10><$30>
+Q
+<$17><$34><$33>
+<$10><$31><$36>
+did you ever notice\n
+that Sachiko
+<$10><$30>
+_
+<$17><$36><$35>
+<$10><$32><$30>
+can cook
+<$10><$30>
+H
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$38>
+It's the commander
+<$10><$30>
+IQ
+<$17><$31><$32>
+<$10><$32><$30>
+Ken,
+<$17><$32><$31>
+<$10><$32><$30>
+I'm sorryI\n
+<$17><$33><$36>
+<$10><$31><$38>
+I hate to say this,Q
+<$10><$32><$30>
+but Linda's\n
+<$10><$32><$36>
+been kidnapped
+<$10><$30>
+Q
+<$10><$32><$36>
+from Hospico!
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$32><$32>
+No real clues
+<$10><$30>
+Q
+<$10><$32><$32>
+at the moment, but\n
+<$17><$32><$32>
+<$10><$32><$30>
+it looks like Emori.
+<$10><$30>
+Q
+<$10><$32><$30>
+Three people\n
+<$10><$32><$30>
+said they saw
+<$10><$30>
+Q
+<$10><$32><$30>
+the guy.
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$37>
+And that in front
+<$10><$30>
+Q
+<$17><$31><$36>
+<$10><$31><$39>
+and behind 'im were\n
+two twin nurses.
+<$10><$30>
+Q
+<$10><$31><$39>
+And just that they\n
+<$17><$34><$37>
+<$10><$31><$34>
+were total babes withQ
+<$10><$32><$30>
+jet black hair.
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$32><$31>
+For now,
+<$10><$30>
+Q
+<$17><$31><$33>
+<$10><$32><$31>
+that's all I've got
+<$10><$30>
+,\n
+<$17><$32><$37>
+<$10><$32><$32>
+sorry
+<$10><$30>
+I\n
+<$17><$34><$35>
+<$10><$32><$30>
+Don't wear yourself out
+<$10><$30>
+IQ
+<$17><$36><$31>
+<$10><$31><$36>
+Over and out!
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$32><$32>
+Ah
+<$10><$30>
+!
+<$17><$36>
+<$10><$31><$38>
+This is Dr. Emori.\n
+<$17><$32><$31>
+How has your post-op
+<$10><$30>
+Q
+<$10><$31><$36>
+transition been faring, Linda
+<$10><$30>
+?
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$37>
+I was about to go
+<$10><$30>
+Q
+<$10><$31><$36>
+and enjoy a well-earned\n
+<$17><$32><$32>
+vacation at my
+<$10><$30>
+Q
+<$10><$31><$39>
+estate,_
+<$17><$33><$35>
+but for nowc
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$35>
+I would like to give
+<$10><$30>
+Q
+<$10><$31><$35>
+you a physical\n
+<$17><$32><$37>
+exam, to follow up.
+<$10><$30>
+Q
+<$17><$33><$39>
+<$10><$31><$37>
+Will you come and play
+<$10><$30>
+H\n
+<$17><$35><$35>
+<$10><$31><$36>
+I'll have a warm welcome
+<$10><$30>
+Q
+<$10><$31><$32>
+ready for you if you do
+<$10><$30>
+I
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$35>
+East of Dogifa,
+<$17><$31><$34>
+<$10><$31><$32>
+‚i
+<$06>
+-17
+<$04>
+<$10><$31><$36>
+,_\n
+just come out from
+<$10><$30>
+Q
+<$10><$31><$36>
+the tunnel.\n
+<$17><$34><$39>
+<$10><$31><$39>
+<$1B>
+Watch out for leopards
+<$10><$30>
+Q
+<$10><$31><$38>
+along the way.
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$35>
+It's me, the old man
+<$10><$30>
+Q
+<$10><$31><$35>
+from Para Side!\n
+<$17><$33><$31>
+<$10><$32><$30>
+I hope the happy
+<$10><$30>
+Q
+<$17><$34><$34>
+<$10><$31><$36>
+couple is \n
+<$17><$36><$38>
+<$10><$31><$33>
+enjoying their
+<$17><$38><$31>
+honeymoon season
+<$10><$30>
+I
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$33>
+I don't suppose
+<$10><$30>
+Q
+<$17><$39>
+<$10><$31><$35>
+you've heard yet.\n
+<$17><$33><$35>
+<$10><$32><$30>
+Those bounty
+<$10><$30>
+Q
+<$10><$31><$38>
+hunters\n
+<$17><$35><$38>
+<$10><$31><$34>
+you two met
+<$17><$36><$32>
+<$10><$31><$36>
+at the Oz Port hotelc?
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$31>
+Kaput.
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$30>
+u
+<$10><$31><$34>
+The Puppeteer
+<$10><$30>
+v
+<$10><$31><$35>
+...\n
+<$17><$32><$33>
+<$10><$31><$34>
+He got 'em
+<$10><$30>
+Q
+<$17><$33><$33>
+<$10><$32><$30>
+real, good.\n
+<$17><$35><$32>
+<$10><$31><$35>
+They let their gaurd down,_
+<$17><$36><$36>
+now they're dead.
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$33>
+You_
+<$10><$31><$34>
+dumbass
+<$10><$30>
+I\n
+<$17><$32><$30>
+<$10><$32><$30>
+Just where are you dicking
+<$10><$32><$34>
+around at a time like this 
+<$10><$30>
+?I
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$38>
+A report came in that a woman
+<$10><$31><$39>
+that looked Sachiko Emori\n
+was found at the public park.\n
+<$17><$33><$38>
+Make your way to
+<$10><$30>
+Q
+<$10><$32><$30>
+Oz Port, A.S.A.P.
+<$10><$30>
+I
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$32><$30>
+That's all
+<$10><$30>
+IQ
+<$17><$31><$33>
+<$10><$32><$30>
+Hurry up
+<$17><$31><$36>
+and go
+<$10><$30>
+I
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$34>
+Hello.
+<$10><$30>
+Q
+<$17><$31><$36>
+<$10><$31><$38>
+Do you
+<$10><$30>
+_
+<$17><$33><$31>
+<$10><$31><$37>
+know who this is
+<$10><$30>
+H
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$38>
+I'm the real
+<$10><$31><$36>
+Sachiko Emori.\n
+<$17><$33><$33>
+<$10><$31><$39>
+I just
+<$10><$30>
+Q
+<$10><$31><$39>
+woke up.
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$38>
+I suppose we
+<$10><$30>
+Q
+<$10><$31><$38>
+have some things\n
+<$10><$32><$30>
+to say
+<$10><$30>
+Q
+<$10><$32><$30>
+to one another, yes
+<$10><$30>
+cH
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$36>
+I'm rehabilitating
+<$10><$30>
+Q
+<$10><$31><$36>
+over in
+<$10><$30>
+_\n
+<$10><$32><$32>
+so could I ask you to\n
+<$17><$32><$35>
+<$10><$31><$38>
+please stop by
+<$10><$30>
+H
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$38>
+Since I was
+<$10><$31><$36>
+asleep
+<$10><$30>
+_
+<$10><$31><$38>
+for so long,_\n
+<$17><$32><$34>
+<$10><$31><$37>
+my muscles have deteriorated.
+<$10><$30>
+Q
+<$17><$34><$34>
+<$10><$32><$30>
+I can't even\n
+_use the restroom
+<$10><$30>
+Q
+<$10><$32><$30>
+on my ownc
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$32>
+I'm not completely
+<$10><$30>
+Q
+<$10><$31><$38>
+miserable.\n
+<$17><$32><$39>
+<$10><$32><$32>
+I mean,
+<$10><$30>
+_
+<$17><$34><$30>
+<$10><$31><$39>
+I would be very
+<$10><$31><$39>
+happy if to\n
+see you, after all
+<$10><$30>
+IQ
+<$17><$36><$33>
+<$10><$32><$34>
+Bye bye!
+<$00>
+
+
+
+
+//Ptr : 9BFE
+//Offset : 0000
+#WRITE(PTR, $0042)
+
+<CLEAR>
+M‚¶‚é‚à‚æ‚µcQM‚¶‚Ê‚à‚æ‚µcc\n
+‚ ‚È‚½‚ÆQl‚ÆQ¯‚Ìs‚­––‚Ì’f•Ğc\n
+ƒwƒ‹ƒK‚Ì—\Œ¾‚ğQ•·‚­‚ª‚æ‚©‚ë‚¤‚¼
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+u
+<$1D>
+‚Í\n
+<$1D>
+‚ğ\n
+<$1D>
+‚Å‚ ‚ë‚¤‚¼v
+<PAUSE>
+<$00>
+
+
+
+
+Someone Else's Dad
+<$00>
+
+
+
+
+The You in The Mirror
+<$00>
+
+
+
+
+4 Dolls
+<$00>
+
+
+
+
+Happy Child
+<$00>
+
+
+
+
+Stolen Wing
+<$00>
+
+
+
+
+Woman, Young and Old
+<$00>
+
+
+
+
+Blue-haired Woman
+<$00>
+
+
+
+
+The Beast Inside
+<$00>
+
+
+
+
+Lost Future
+<$00>
+
+
+
+
+Naive Goddesses
+<$00>
+
+
+
+
+Cheerful Santa
+<$00>
+
+
+
+
+Cursed Past
+<$00>
+
+
+
+
+Three Tragedies In One
+<$00>
+
+
+
+
+Innocent Pup
+<$00>
+
+
+
+
+Great Expectations
+<$00>
+
+
+
+
+Someone Else's Body
+<$00>
+
+
+
+
+Lots of Eggs
+<$00>
+
+
+
+
+The Ancient Vehicle
+<$00>
+
+
+
+
+Missing Pieces
+<$00>
+
+
+
+
+All Meats
+<$00>
+
+
+
+
+Red, Blue, Black, Gold, Silver
+<$00>
+
+
+
+
+The Devil's Scratch
+<$00>
+
+
+
+
+Mother-to-be
+<$00>
+
+
+
+
+Dying Town
+<$00>
+
+
+
+
+Sad, Old Man
+<$00>
+
+
+
+
+The Lake-house Resident
+<$00>
+
+
+
+
+Your Special Someone
+<$00>
+
+
+
+
+Monster in the Heart
+<$00>
+
+
+
+
+A Vacancy, Cut Off
+<$00>
+
+
+
+
+A Little Peace of Mind
+<$00>
+
+
+
+
+The Ends of The Earth
+<$00>
+
+
+
+
+Young Challenger
+<$00>
+
+
+
+
+Lured into Eden
+<$00>
+
+
+
+
+Welcomed Like Friends
+<$00>
+
+
+
+
+Take Back 21
+<$00>
+
+
+
+
+E‚»‚¤‚Æ‚µ‚Ä¶‚©‚·
+<$00>
+
+
+
+
+“ñ“xA‹³‰ï‚ÖŒÄ‚Ô
+<$00>
+
+
+
+
+–Y‚ê‚Ä‚µ‚Ü‚¤
+<$00>
+
+
+
+
+’n–‚©‚ç‹~‚¢o‚·
+<$00>
+
+
+
+
+©‚ç‚Ìƒ‚ƒm‚Æ‚·‚é
+<$00>
+
+
+
+
+”‚¢‚È‚ç‚·
+<$00>
+
+
+
+
+‘ã‚É‘I‚Ô
+<$00>
+
+
+
+
+’·‚¢U•à‚É˜A‚êo‚·
+<$00>
+
+
+
+
+•ø‚«Šñ‚¹‚é
+<$00>
+
+
+
+
+Î‚¢Ò‚É‚·‚é
+<$00>
+
+
+
+
+H‚×‚æ‚¤‚Æ‚·‚é
+<$00>
+
+
+
+
+–ÚŠo‚ß‚³‚¹‚Ä‚µ‚Ü‚¤
+<$00>
+
+
+
+
+’m‚ç‚È‚¢‚ÆŒ¾‚¤
+<$00>
+
+
+
+
+ål‚Æ‚·‚é
+<$00>
+
+
+
+
+–{“–‚Ì–¼‚ÅŒÄ‚Ô
+<$00>
+
+
+
+
+‚¢‚Â‚©AoY‚·‚é
+<$00>
+
+
+
+
+ƒp[ƒeƒB‚Öµ‘Ò‚·‚é
+<$00>
+
+
+
+
+Œã–ß‚è‚³‚¹‚é
+<$00>
+
+
+
+
+‰i‰“‚É‘{‚µ‘±‚¯‚é
+<$00>
+
+
+
+
+‘Sˆõ‚É•ª”z‚·‚é
+<$00>
+
+
+
+
+‚¢‚Â‚©‹–‚·
+<$00>
+
+
+
+
+wÜ‚è”‚¦‚é
+<$00>
+
+
+
+
+’¼‚»‚¤‚Æ‚·‚é
+<$00>
+
+
+
+
+’¾–Ù‚³‚¹‚é
+<$00>
+
+
+
+
+‘åØ‚É‚·‚é
+<$00>
+
+
+
+
+Ä¶‚³‚¹‚é
+<$00>
+
+
+
+
+ŒË˜f‚í‚¹‚é
+<$00>
+
+
+
+
+—{q‚É‚·‚é
+<$00>
+
+
+
+
+_‚É‰ï‚í‚¹‚é
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+

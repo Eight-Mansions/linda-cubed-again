@@ -1,0 +1,1915 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $00000000, 16)
+#JMP($00001BBD)
+
+//Ptr : 1BBD
+//Offset : 0000
+#WRITE(PTR, $001A)
+#WRITE(PTR, $001C)
+#WRITE(PTR, $001E)
+
+Origin
+<$00>
+
+
+
+
+<CLEAR>
+<$1C>
+A‚ÍQ‘Ì“à‚É\n
+ƒhƒp[ƒ~ƒ“‚ğQ•ª”å‚µ‚½a
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$1C>
+A‚ÌUŒ‚a\n
+“¹‹ï‘Ü‚ğQ‚Ë‚ç‚Á‚Ä\n
+’·‚¢ã‚ªQL‚Ñ‚Ä‚«‚½a
+<PAUSE>
+<$00>
+
+
+
+
+//Ptr : 1C25
+//Offset : 0000
+#WRITE(PTR, $0020)
+
+t21_sp1.obj
+<$00>
+
+
+
+
+t21_sp2.obj
+<$00>
+
+
+
+
+t21_sp3.obj
+<$00>
+
+
+
+
+t21_sp4.obj
+<$00>
+
+
+
+
+t21_sp8.obj
+<$00>
+
+
+
+
+t21_sp9.obj
+<$00>
+
+
+
+
+c002.obj
+<$00>
+
+
+
+
+c009.obj
+<$00>
+
+
+
+
+c009a1.obj
+<$00>
+
+
+
+
+c010.obj
+<$00>
+
+
+
+
+c018.obj
+<$00>
+
+
+
+
+c019.obj
+<$00>
+
+
+
+
+c021.obj
+<$00>
+
+
+
+
+width2.obj
+<$00>
+
+
+
+
+box.obj
+<$00>
+
+
+
+
+m129.obj
+<$00>
+
+
+
+
+kao_l15.obj
+<$00>
+
+
+
+
+kao_l16.obj
+<$00>
+
+
+
+
+kao_s1.obj
+<$00>
+
+
+
+
+kao_s3.obj
+<$00>
+
+
+
+
+kao_s13.obj
+<$00>
+
+
+
+
+kao_em1.obj
+<$00>
+
+
+
+
+kao_em2.obj
+<$00>
+
+
+
+
+kao_em3.obj
+<$00>
+
+
+
+
+kao_em5.obj
+<$00>
+
+
+
+
+m129m.obj
+<$00>
+
+
+
+
+//Ptr : 1D3E
+//Offset : 0000
+#WRITE(PTR, $0022)
+
+Laboratory
+<$00>
+
+
+
+
+<CLEAR>
+ƒPƒ“‚ÍQŒû“J‚ğ‚¢‚½
+<PAUSE>
+<$0D>
+<CLEAR>
+ŠO‚ÅQ‘å‚«‚È‰H‰¹‚ª\n
+•·‚±‚¦‚½‚æ‚¤‚ÈQ‹C‚ª‚µ‚½c
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+ƒPƒ“‚ÍQ–Ú—§‚½‚È‚¢‚æ‚¤‚É\n
+‹C”z‚ğQE‚µ‚½
+<PAUSE>
+<$0D>
+<CLEAR>
+‚µ‚©‚µQ‚±‚Ì•Ó‚è‚É‚Í\n
+ƒPƒ“‚Ì–ÀÊ‚ÉQˆø‚ÁŠ|‚©‚é‚æ‚¤‚È\n
+ƒ}ƒkƒP‚È“®•¨‚ÍQ‚¢‚È‚©‚Á‚½c
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+ƒŠƒ“ƒ_‚ÍQ“®•¨‚½‚¿‚Ì\n
+–Â‚«ƒ}ƒl‚ğ‚µ‚½
+<PAUSE>
+<$0D>
+<CLEAR>
+‚µ‚©‚µQ‚±‚Ì•Ó‚è‚É‚Í\n
+ƒŠƒ“ƒ_‚Ìº‚ÉQ‚¾‚Ü‚³‚ê‚é‚æ‚¤‚È\n
+ƒ}ƒkƒP‚È“®•¨‚ÍQ‚¢‚È‚©‚Á‚½c
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot open the animal\n
+reference encyclopedia here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot set up for camp here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot activate Navigator System (NaviS) here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+A myriad of photos from\n
+all across Sachiko's youth\n
+are up on the wall.
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+The misshapen red doll\n
+doesn't have any limbs.
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+Raising one paw,
+<$1B>
+this animal doll\n
+resembles a cat.
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+Ken foundu
+<$1D>
+v!a
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+<CLEAR>
+‚¾‚ªA“¹‹ï‘Ü‚ªˆê”t‚È‚Ì‚Å\n
+u
+<$1D>
+v‚ğ\n
+‚Æ‚è‚ ‚¦‚¸Q‚ ‚«‚ç‚ß‚½c
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+<CLEAR>
+Acquired u
+<$1D>
+v!a
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+Œ®‚ª‚©‚©‚Á‚Ä‚¢‚ÄŠJ‚©‚È‚¢
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+Ken used the uLAB KEYv.
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$39>
+Ken
+<$10><$30>
+,_
+<$17><$31><$35>
+<$10><$31><$32>
+I just_
+<$10><$31><$32>
+knew
+<$10><$30>
+Q
+<$10><$31><$33>
+you would_
+<$10><$31><$33>
+come!\n
+<$17><$35><$30>
+<$10><$31><$38>
+Actually,_
+<$10><$31><$34>
+there's something\n
+<$17><$36><$36>
+<$10><$31><$31>
+I've been dying
+<$10><$31><$33>
+to discuss with you!
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$34>
+I mean, of course,_
+<$17><$31><$33>
+<$10><$31><$30>
+a female crewmember\n
+<$17><$33><$33>
+<$10><$32><$32>
+In other words
+<$10><$30>
+,_
+<$17><$34><$35>
+<$10><$31><$31>
+your bride.\n
+<$17><$37><$32>
+<$10><$31><$33>
+How are things_
+<$10><$31><$30>
+going with Linda
+<$10><$30>
+H
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$36>
+That's what I'd
+<$10><$30>
+Q
+<$10><$31><$30>
+like to know.\n
+<$17><$32><$33>
+<$10><$31><$33>
+Well, speak up
+<$10><$30>
+I
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$31>
+Why not
+<$10><$30>
+Q
+<$17><$31><$31>
+<$10><$31><$30>
+take Sachiko,_
+<$10><$31><$36>
+instead
+<$10><$30>
+?a
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$38>
+Hell,
+<$10><$30>
+Q
+<$10><$31><$36>
+I'll even throw\n
+that other Sachiko in
+<$10><$30>
+Q
+<$10><$31><$38>
+as a bonus!
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$33>
+Beautiful,
+<$17><$38>
+docile
+<$10><$30>
+Q
+<$17><$31><$35>
+<$10><$31><$30>
+twin wives
+<$10><$30>
+,\n
+<$17><$33><$32>
+<$10><$39>
+a married life_
+<$10><$36>
+for three
+<$10><$30>
+,_
+<$10><$36>
+just_
+<$10><$31><$32>
+imagine_
+<$17><$36><$37>
+it,\n
+<$17><$37><$38>
+<$10><$31><$30>
+day and
+<$10><$31><$34>
+nightcc
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$38>
+Come now,
+<$10><$30>
+Q
+<$17><$37>
+<$10><$32><$30>
+Ken.\n
+<$17><$31><$38>
+<$10><$31><$33>
+Sachiko or Linda,
+<$10><$30>
+Q
+<$17><$33><$37>
+<$10><$31><$31>
+which girl do you choose
+<$10><$30>
+H\n
+<$00>
+
+
+
+
+<BC>
+Sachiko
+<EC>
+^
+<BC>
+Linda
+<EC>
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$36>
+Sachiko
+<$10><$30>
+IQ
+<$17><$31><$33>
+<$10><$31><$32>
+‚b Mode, engage!
+<$10><$30>
+a\n
+<$17><$34><$30>
+<$10><$31><$38>
+Crush Linda's
+<$10><$30>
+Q
+<$10><$31><$38>
+arm to pieces
+<$10><$30>
+a
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$37>
+Lay down your life for mea
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$33>
+<$10><$30>
+‚R
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$33>
+<$10><$30>
+‚Q
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$33>
+<$10><$30>
+‚P
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$30>
+‚f‚na
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$36>
+Father
+<$10><$30>
+a\n
+<$17><$31><$32>
+<$10><$31><$39>
+I will not trigger ‚b Mode.
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$36>
+Idiots
+<$10><$30>
+cQ
+<$17><$31><$32>
+<$10><$31><$38>
+Let's do this one more time
+<$10><$30>
+I\n
+<$17><$32><$36>
+<$10><$31><$36>
+‚b-MODE, ENGAGED
+<$10><$30>
+a\n
+<$17><$34><$32>
+‚R,
+<$17><$34><$37>
+‚Q,
+<$17><$35><$32>
+‚P,
+<$17><$35><$38>
+‚f‚na
+<$00>
+
+
+
+
+<$10><$30>
+NoaQI do not want to diea\n
+Father, forgive mea
+<$00>
+
+
+
+
+<$10><$30>
+NoaQI do not want to diea\n
+Father, forgive mea
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$38>
+Ahahahah!
+<$10><$30>
+Q
+<$17><$33><$32>
+<$10><$31><$36>
+Hey
+<$10><$30>
+,_
+<$17><$34><$30>
+<$10><$31><$38>
+Ken
+<$10><$30>
+I\n
+<$17><$35><$36>
+<$10><$31><$34>
+Did you see that
+<$10><$30>
+HQ
+<$17><$37><$38>
+<$10><$31><$33>
+It looks like\n
+<$10><$39>
+their thoughts are
+<$17><$38><$39>
+<$10><$31><$34>
+starting to synchronize!
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$35>
+Evidently,
+<$10><$30>
+Q
+<$10><$31><$31>
+the young girl\n
+<$17><$33><$34>
+<$10><$31><$31>
+has managed to
+<$10><$30>
+Q
+<$10><$31><$32>
+actually cross\n
+<$10><$31><$34>
+the will of
+<$10><$30>
+Q
+<$10><$31><$33>
+her parent!
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$32>
+It's just as
+<$10><$30>
+Q
+<$17><$31><$36>
+<$10><$31><$30>
+everybody says.\n
+<$10><$31><$31>
+Sachiko was
+<$10><$30>
+Q
+<$10><$31><$35>
+a candidate\n
+<$17><$36><$35>
+<$10><$31><$34>
+for the ark's crewcc
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$32>
+And now,
+<$10><$30>
+Q
+<$17><$32><$30>
+<$10><$31><$31>
+those two\n
+<$17><$34><$34>
+<$10><$31><$32>
+will never come
+<$10><$30>
+Q
+<$17><$35><$39>
+<$10><$31><$32>
+home againc
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$30>
+Oh, to be the father
+<$10><$30>
+Q
+<$10><$31><$32>
+of a little girl
+<$10><$30>
+a\n
+<$17><$34><$32>
+<$10><$31><$36>
+You live only to\n
+<$17><$37><$38>
+<$10><$31><$34>
+be stabbed in
+<$10><$31><$32>
+the back by them all
+<$10><$30>
+c
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$34>
+Hoh,
+<$10><$30>
+Q
+<$17><$39>
+<$10><$36>
+now that's
+<$10><$31><$30>
+interesting
+<$10><$30>
+c\n
+<$17><$34><$33>
+<$10><$31><$36>
+Did you see that
+<$10><$30>
+HQ
+<$10><$31><$36>
+Ken,\n
+<$17><$36><$31>
+<$10><$31><$33>
+both Sachiko's reactedc
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$30>
+When you answered,
+<$10><$30>
+Q
+<$17><$31><$32>
+<$10><$31><$32>
+both girls
+<$10><$30>
+Q
+<$10><$31><$30>
+turned\n
+red in the face
+<$10><$30>
+IQ
+<$17><$34><$36>
+<$10><$38>
+You've just seen the first\n
+<$10><$31><$32>
+signs of women in heatI
+<$10><$30>
+Q
+<$17><$37><$36>
+<$10><$39>
+Truly, a blessing!
+<$00>
+
+
+
+
+<CLEAR>
+<$10><$31><$32>
+cccccccca
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$30>
+I won't forgive,
+<$10><$30>
+Q
+<$17><$32><$34>
+<$10><$31><$31>
+I won't put up with it either way
+<$10><$30>
+I\n
+<$17><$35><$32>
+<$10><$31><$30>
+I may be an imitation,
+<$10><$30>
+Q
+<$10><$31><$30>
+but I will find happiness\n
+in the original's place!
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$34>
+Sachiko,
+<$17><$31><$36>
+<$10><$31><$31>
+you think so too, don't you
+<$10><$30>
+H\n
+<$17><$34><$37>
+<$10><$31><$31>
+Won't you
+<$10><$30>
+Q
+<$10><$31><$31>
+forgive yourself
+<$10><$30>
+H
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$38>
+Yes
+<$10><$30>
+,_
+<$17><$39>
+<$10><$31><$32>
+Father
+<$10><$30>
+I
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$36>
+Hoh!
+<$10><$30>
+Q
+<$17><$31><$34>
+<$10><$37>
+How interestingc\n
+<$17><$34><$35>
+<$10><$31><$36>
+Did you see that
+<$10><$30>
+HQ
+<$10><$31><$38>
+Ken,\n
+<$17><$34><$36>
+<$10><$31><$36>
+both
+<$10><$31><$36>
+Sachiko's
+<$10><$31><$34>
+reactedc
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$31>
+Having expected\n
+<$10><$31><$31>
+your answer already,\n
+<$10><$31><$34>
+each Sachiko heaved
+<$10><$30>
+Q
+<$10><$31><$31>
+a heavy sigh.
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$32>
+A blend of relief
+<$10><$30>
+Q
+<$10><$31><$32>
+and disappointment
+<$10><$30>
+,\n
+<$10><$31><$30>
+that was the
+<$10><$30>
+Q
+<$10><$37>
+sort of expression\n
+<$10><$31><$30>
+Sachiko had
+<$10><$30>
+Q
+<$10><$31><$32>
+<$17><$37><$30>
+on her facec
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$34>
+But
+<$10><$30>
+Q
+<$17><$31><$34>
+<$10><$31><$36>
+they are only
+<$10><$38>
+puppets, after all.\n
+<$17><$33><$37>
+<$10><$31><$33>
+Neither are the real Sachikocc\n
+<$17><$36><$39>
+<$10><$31><$33>
+Now,_
+<$17><$37><$39>
+I'll show you proof!
+<$00>
+
+
+
+
+//Ptr : 29A3
+//Offset : 0000
+#WRITE(PTR, $0024)
+
+Laboratory
+<$00>
+
+
+
+
+<CLEAR>
+ƒPƒ“‚ÍQŒû“J‚ğ‚¢‚½
+<PAUSE>
+<$0D>
+<CLEAR>
+ŠO‚ÅQ‘å‚«‚È‰H‰¹‚ª\n
+•·‚±‚¦‚½‚æ‚¤‚ÈQ‹C‚ª‚µ‚½c
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+ƒPƒ“‚ÍQ–Ú—§‚½‚È‚¢‚æ‚¤‚É\n
+‹C”z‚ğQE‚µ‚½
+<PAUSE>
+<$0D>
+<CLEAR>
+‚µ‚©‚µQ‚±‚Ì•Ó‚è‚É‚Í\n
+ƒPƒ“‚Ì–ÀÊ‚ÉQˆø‚ÁŠ|‚©‚é‚æ‚¤‚È\n
+ƒ}ƒkƒP‚È“®•¨‚ÍQ‚¢‚È‚©‚Á‚½c
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+ƒŠƒ“ƒ_‚ÍQ“®•¨‚½‚¿‚Ì\n
+–Â‚«ƒ}ƒl‚ğ‚µ‚½
+<PAUSE>
+<$0D>
+<CLEAR>
+‚µ‚©‚µQ‚±‚Ì•Ó‚è‚É‚Í\n
+ƒŠƒ“ƒ_‚Ìº‚ÉQ‚¾‚Ü‚³‚ê‚é‚æ‚¤‚È\n
+ƒ}ƒkƒP‚È“®•¨‚ÍQ‚¢‚È‚©‚Á‚½c
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot open the animal\n
+reference encyclopedia here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot set up for camp here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot activate Navigator System (NaviS) here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+A myriad of photos from\n
+all across Sachiko's youth\n
+are up on the wall.
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+The misshapen red doll\n
+doesn't have any limbs.
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+Raising one paw,
+<$1B>
+this animal doll\n
+resembles a cat.
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+Ken foundu
+<$1D>
+v!a
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+<CLEAR>
+‚¾‚ªA“¹‹ï‘Ü‚ªˆê”t‚È‚Ì‚Å\n
+u
+<$1D>
+v‚ğ\n
+‚Æ‚è‚ ‚¦‚¸Q‚ ‚«‚ç‚ß‚½c
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+<CLEAR>
+Acquired u
+<$1D>
+v!a
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$35>
+Has your overall
+<$10><$30>
+_
+<$17><$31><$31>
+<$10><$31><$36>
+health changed\n
+since the surgery
+<$10><$30>
+Q
+<$10><$31><$36>
+at all
+<$10><$30>
+H
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$38>
+Oh,
+<$10><$30>
+Q
+<$17><$39>
+<$10><$31><$32>
+Doctor
+<$10><$30>
+,_
+<$17><$31><$37>
+<$10><$32><$30>
+I feel fit as a fiddle.\n
+<$17><$33><$37>
+<$10><$32><$30>
+My appetite
+<$10><$30>
+Q
+<$10><$31><$36>
+might be bigger\n
+<$17><$36><$32>
+<$10><$31><$38>
+like my dad's
+<$10><$30>
+Q
+<$10><$31><$38>
+now, though.
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$30>
+Your appetite
+<$10><$30>
+cQ
+<$10><$31><$36>
+it's increased
+<$10><$30>
+‘\n
+<$17><$33><$30>
+<$10><$31><$35>
+That's good
+<$10><$30>
+IQ
+<$17><$34><$33>
+<$10><$31><$35>
+Really good!
+<$10><$30>
+I\n
+<$17><$35><$39>
+<$10><$31><$36>
+You youngfolk
+<$10><$30>
+Q
+<$10><$31><$38>
+should eat a lot!
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$38>
+Welcome,
+<$10><$30>
+Q
+<$17><$36>
+<$10><$32><$30>
+welcome
+<$10><$30>
+I\n
+<$17><$32><$30>
+<$10><$31><$36>
+I was worriedc\n
+<$17><$34><$34>
+Linda, your complexion
+<$10><$30>
+Q
+<$17><$35><$39>
+<$10><$31><$32>
+looks right as rain!
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$32><$34>
+I just happened toQ
+<$10><$31><$35>
+overhear this, but\n
+<$17><$32><$38>
+<$10><$30>
+u
+<$10><$31><$35>
+The Puppeteer
+<$10><$30>
+v
+<$10><$31><$35>
+fellow might be the\n
+<$10><$31><$35>
+one behind this?
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$32><$32>
+‚¢‚Á‚½‚¢
+<$10><$30>
+Q
+<$10><$31><$37>
+‚Ç‚ñ‚Èƒ„ƒc‚È‚ñ‚¾‚ë
+<$10><$30>
+H\n
+<$17><$32><$35>
+<$10><$31><$38>
+‚«‚Á‚ÆQ
+<$10><$31><$32>
+‹¥ˆ«”Æ
+<$10><$31><$36>
+‚É‚Ó‚³‚í‚µ‚¢\n
+<$17><$34><$34>
+<$10><$31><$34>
+c”E‚»‚¤‚ÈŠç‚É
+<$10><$30>
+Q
+<$10><$31><$34>
+ˆá‚¢‚È‚¢‚Ë
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$37>
+For what it's worth
+<$10><$30>
+,_
+<$17><$31><$32>
+<$10><$31><$36>
+you two may wind up\n
+having to fight this
+<$10><$30>
+Q
+<$10><$31><$36>
+man, won't you
+<$10><$30>
+H\n
+<$17><$35><$30>
+<$10><$31><$38>
+You should gather your
+<$10><$30>
+Q
+<$10><$31><$36>
+strength for now.
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$36>
+South of here is
+<$10><$30>
+Q
+<$17><$31><$31>
+<$10><$31><$36>
+The Dark River,\n
+<$17><$32><$36>
+<$10><$31><$39>
+great for
+<$10><$30>
+Q
+<$10><$31><$39>
+leveling\n
+<$17><$34><$39>
+<$10><$31><$33>
+up and finding some
+<$10><$30>
+Q
+<$17><$36><$32>
+<$10><$31><$37>
+rare animals.
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$35>
+There's going to be
+<$10><$30>
+Q
+<$17><$31><$33>
+<$10><$31><$36>
+a small memorial\n
+<$17><$32><$32>
+<$10><$32><$30>
+for the people
+<$10><$30>
+Q
+<$10><$32><$30>
+of Minago that\n
+<$17><$33><$38>
+died in the
+<$10><$30>
+Q
+<$10><$32><$30>
+recent incident.
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$36>
+Father has_
+<$17><$37>
+allowed me to
+<$10><$30>
+Q
+<$10><$32><$30>
+attend it\n
+with him.
+<$00>
+
+
+
+
+<CLEAR>
+<$17><$31>
+<$10><$31><$38>
+I assume you
+<$10><$30>
+Q
+<$17><$31><$31>
+<$10><$32><$31>
+two are\n
+coming as well
+<$10><$30>
+H\n
+<$17><$34><$30>
+<$10><$31><$37>
+I'll meet with you next
+<$10><$30>
+Q
+<$10><$31><$39>
+time on the grounds.
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+What looks like aQlarge,\n
+red doll is on the table.
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+//Ptr : 314A
+//Offset : 0000
+#WRITE(PTR, $0026)
+
+Laboratory B1
+<$00>
+
+
+
+
+<CLEAR>
+ƒPƒ“‚ÍQŒû“J‚ğ‚¢‚½
+<PAUSE>
+<$0D>
+<CLEAR>
+ŠO‚ÅQ‘å‚«‚È‰H‰¹‚ª\n
+•·‚±‚¦‚½‚æ‚¤‚ÈQ‹C‚ª‚µ‚½c
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+ƒPƒ“‚ÍQ–Ú—§‚½‚È‚¢‚æ‚¤‚É\n
+‹C”z‚ğQE‚µ‚½
+<PAUSE>
+<$0D>
+<CLEAR>
+‚µ‚©‚µQ‚±‚Ì•Ó‚è‚É‚Í\n
+ƒPƒ“‚Ì–ÀÊ‚ÉQˆø‚ÁŠ|‚©‚é‚æ‚¤‚È\n
+ƒ}ƒkƒP‚È“®•¨‚ÍQ‚¢‚È‚©‚Á‚½c
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+ƒŠƒ“ƒ_‚ÍQ“®•¨‚½‚¿‚Ì\n
+–Â‚«ƒ}ƒl‚ğ‚µ‚½
+<PAUSE>
+<$0D>
+<CLEAR>
+‚µ‚©‚µQ‚±‚Ì•Ó‚è‚É‚Í\n
+ƒŠƒ“ƒ_‚Ìº‚ÉQ‚¾‚Ü‚³‚ê‚é‚æ‚¤‚È\n
+ƒ}ƒkƒP‚È“®•¨‚ÍQ‚¢‚È‚©‚Á‚½c
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot open the animal\n
+reference encyclopedia here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot set up for camp here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot activate Navigator System (NaviS) here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+What looks like aQlarge,\n
+red doll is on the table.
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+//Ptr : 332F
+//Offset : 0000
+#WRITE(PTR, $0028)
+
+*sniff* *sniff, sniff*cccH
+<PAUSE>
+<$0D>
+<CLEAR>
+I don't smell anything \n
+in particular.
+<PAUSE>
+<$00>
+
+
+
+
+ccE
+<$00>
+
+
+
+
+ccW
+<$00>
+
+
+
+
+ccS
+<$00>
+
+
+
+
+ccN
+<$00>
+
+
+
+
+cNE
+<$00>
+
+
+
+
+cNW
+<$00>
+
+
+
+
+cSE
+<$00>
+
+
+
+
+cSW
+<$00>
+
+
+
+
+<CLEAR>
+cc
+<$1D>
+<$00>
+
+
+
+
+Ac
+<$1D>
+‚És‚¯‚Î
+<$00>
+
+
+
+
+Ahead!
+<$00>
+
+
+
+
+Right!
+<$00>
+
+
+
+
+Left!
+<$00>
+
+
+
+
+Back!
+<$00>
+
+
+
+
+<CLEAR>
+cc
+<$1D>
+<$00>
+
+
+
+
+Aâ‘Î‚É
+<$1D>
+a
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+ƒŠƒ“ƒ_‚ÍQu—‚ÌŠ¨v‚ğ\n
+‚Í‚½‚ç‚©‚¹‚½a
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+c‚²‚ß‚ñ‚ËA\n
+¡“ú‚ÍQŠ¨‚ª‚Í‚½‚ç‚©‚È‚¢‚íc
+<PAUSE>
+<$00>
+
+
+
+
+Destined
+<$00>
+
+
+
+
+New
+<$00>
+
+
+
+
+Nice
+<$00>
+
+
+
+
+Strange
+<$00>
+
+
+
+
+Something
+<$00>
+
+
+
+
+Discovery
+<$00>
+
+
+
+
+Treasure
+<$00>
+
+
+
+
+Animal
+<$00>
+
+
+
+
+_encountered...
+<$00>
+
+
+
+
+_acquired...
+<$00>
+
+
+
+
+I have a huncha
+<$00>
+
+
+
+
+Now's our chancea
+<$00>
+
+
+
+
+It's now or never!
+<$00>
+
+
+
+
+We've got thisa
+<$00>
+
+
+
+
+<$0D>
+<$1D>
+<$1D>
+<$1D>
+<$0D>
+<$1D>
+<PAUSE>
+<$0D>
+<CLEAR>
+<$00>
+
+
+
+
+<CLEAR>
+I'm confident in thisa
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+I'm not sure, butc
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+It's pretty spot-ona
+<PAUSE>
+<$00>
+
+
+
+
+//Ptr : 3508
+//Offset : 0000
+#WRITE(PTR, $002A)
+
+<CLEAR>
+Origin attackeda
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+¡‚³‚çQ“¦‚°‚é‚í‚¯‚É‚Í\n
+‚¢‚©‚È‚¢aƒµ
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+

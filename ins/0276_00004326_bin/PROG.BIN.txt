@@ -1,0 +1,1781 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", $00000000, 16)
+#JMP($00001260)
+
+//Ptr : 1260
+//Offset : 0000
+#WRITE(PTR, $0016)
+#WRITE(PTR, $0018)
+#WRITE(PTR, $001A)
+#WRITE(PTR, $001C)
+
+t02_sp1.obj
+<$00>
+
+
+
+
+c002.obj
+<$00>
+
+
+
+
+c009.obj
+<$00>
+
+
+
+
+c023.obj
+<$00>
+
+
+
+
+c028.obj
+<$00>
+
+
+
+
+c042.obj
+<$00>
+
+
+
+
+c101a0r.obj
+<$00>
+
+
+
+
+c102a1r.obj
+<$00>
+
+
+
+
+c103a2.obj
+<$00>
+
+
+
+
+c106a0r.obj
+<$00>
+
+
+
+
+c113a0r.obj
+<$00>
+
+
+
+
+c117a2r.obj
+<$00>
+
+
+
+
+c118a1l.obj
+<$00>
+
+
+
+
+c125a1.obj
+<$00>
+
+
+
+
+c128a0.obj
+<$00>
+
+
+
+
+c141a.obj
+<$00>
+
+
+
+
+c180a0.obj
+<$00>
+
+
+
+
+//Ptr : 1317
+//Offset : 0000
+#WRITE(PTR, $001E)
+
+Hotel 1F
+<$00>
+
+
+
+
+<CLEAR>
+ケンは＿口笛を吹いた
+<PAUSE>
+<$0D>
+<CLEAR>
+外で＿大きな羽音が\n
+聞こえたような＿気がした…
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+ケンは＿目立たないように\n
+気配を＿殺した
+<PAUSE>
+<$0D>
+<CLEAR>
+しかし＿この辺りには\n
+ケンの迷彩に＿引っ掛かるような\n
+マヌケな動物は＿いなかった…
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+リンダは＿動物たちの\n
+鳴きマネをした
+<PAUSE>
+<$0D>
+<CLEAR>
+しかし＿この辺りには\n
+リンダの声に＿だまされるような\n
+マヌケな動物は＿いなかった…
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot open the animal\n
+reference encyclopedia here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot set up for camp here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot activate Navigator System (NaviS) here.
+<PAUSE>
+<$00>
+
+
+
+
+冬場はエサが少ないから＿町のそばまで\n
+強い動物が＿来てることがあるんだ\n
+油断は＿禁物だよ
+<PAUSE>
+<$00>
+
+
+
+
+春先の＿子連れのメスには\n
+手を出さないほうが＿お利口だよ\n
+自分の命を＿捨てて来るからね
+<PAUSE>
+<$00>
+
+
+
+
+夏は＿群れが大きくなってるから\n
+狩りには＿もってこいの季節だね
+<PAUSE>
+<$0D>
+<CLEAR>
+ただ、欲をかくと＿ベテランですら\n
+逃げ時を見誤って＿大ケガする\n
+季節でも＿あるわけなんだけどね
+<PAUSE>
+<$00>
+
+
+
+
+You need to be plenty careful when \n
+males are in heat, like in autumn.\n
+They can get really depraved.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+４レベルかそこらで「野営」を\n
+覚えると＿ここも用なしでしょうけど\n
+気分転換に＿泊まりに来てくださいよ
+<PAUSE>
+<$00>
+
+
+
+
+The most mysterious thing on this\n
+star, simply, must be the 「Beastians」.
+<PAUSE>
+<$0D>
+<CLEAR>
+After all,＿when this star was first discovered,\n
+they were already inhabiting the land.\n
+You can call them this star's indigenous peoples …
+<PAUSE>
+<$0D>
+<CLEAR>
+I'll never know how my ancestors first\n
+struggled when they came to this star\n
+I wonder if they even knew what cares were!
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+月光の下で＿お互いのぬくもりを\n
+確かめながらの＿野営ってのも\n
+オツなもの＿なんでしょうが…
+<PAUSE>
+<$0D>
+<CLEAR>
+たまに場所をかえるのも＿イイらしくて\n
+家があるのに＿ワザワザ泊まりにくる\n
+ご夫婦も＿いたりするんですよ
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Umm…\n
+It's a pleasure to meet you. I'm Specter.\n
+I'm sorry to＿bother you…
+<PAUSE>
+<$0D>
+<CLEAR>
+My foot is partially impaired,\n
+so forgive me for not standing…
+<PAUSE>
+<$0D>
+<CLEAR>
+Umm…＿There's a pack of stray\n
+dogs with an alpha named 「Fang」\n
+Do you know of that dog…？
+<PAUSE>
+<$0D>
+<CLEAR>
+As a matter of fact, my request\n
+for you is to kill Fang！
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+The victims to that dog are multiplying.\n
+Even my husband and two sons\n
+were tortured＿to death by Fang.
+<PAUSE>
+<$0D>
+<CLEAR>
+If it were possible, I'd kill him\n
+with my own two hands…∥\n
+But,＿as you can see, I cannot…
+<PAUSE>
+<$0D>
+<CLEAR>
+I beg you！＿Send that Fang\n
+to the depths of Hell∥\n
+<BC>
+Leave it to us!
+<EC>
+／
+<BC>
+What's my reward？
+<EC>
+／
+<BC>
+I won't do it.
+<EC>
+<$00>
+
+
+
+
+<CLEAR>
+Thank you so much∥\n
+Umm…＿for something＿in return…
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+I don't have much,…
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+…even with that on the table,＿you won't do it?\n
+But＿I'm counting on you…
+<PAUSE>
+<$0D>
+<CLEAR>
+You two are all I have…∥
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Give me proof of＿Fang's death\n
+and I'll give you the key to the＿「Restricted Room」\n
+to the third-floor room in Minago Church.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Umm…＿please, you two.\n
+You must put a stop to＿Fang∥\n
+Send that dog＿to hell∥
+<PAUSE>
+<$0D>
+<CLEAR>
+No turning your back on me, now.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Umm…
+<PAUSE>
+<$0D>
+<CLEAR>
+Could this＿fang belong to…￠
+<PAUSE>
+<$0D>
+<CLEAR>
+………………………∥
+<PAUSE>
+<$0D>
+<CLEAR>
+It is！＿You did it∥∥\n
+Fang is no longer of\n
+this world∥
+<PAUSE>
+<$0D>
+<CLEAR>
+Ahhhhh…\n
+Now, my husband and sons can find peace…\n
+I'm so grateful∥＿Thank you so∥
+<PAUSE>
+<$0D>
+<CLEAR>
+Umm…
+<PAUSE>
+<$0D>
+<CLEAR>
+This is the key to the 「Restricted Room」\n
+on the 3rd floor of Minago Church.\n
+Please accept it！
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+Ken acquired the 「Forbidden Key」！
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+…………………………
+<PAUSE>
+<$0D>
+<CLEAR>
+くくくくく…＿Fang…
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Please wait,＿Sir∥
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+最近＿ちょくちょく＿奥の客室に\n
+出入りしてるみたいだけどサ…\n
+あのサ…、言いにくいんだけどね…
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+奥の部屋、出るんだよ＿女の幽霊がサ…\n
+野犬の群れに＿ダンナと子供を\n
+目の前で＿食い殺されたんだって…
+<PAUSE>
+<$0D>
+<CLEAR>
+自分は幸い、足をかまれただけで\n
+済んだらしいんだけど＿その後\n
+あの部屋で＿首を吊ってくれてよぉ…
+<PAUSE>
+<$0D>
+<CLEAR>
+ミナゴの教会の尼僧だとか＿聞いたけど\n
+まーだ＿成仏できないらしくて…\n
+まいるよな、まったく…！
+<PAUSE>
+<$00>
+
+
+
+
+//Ptr : 1F75
+//Offset : 0000
+#WRITE(PTR, $0020)
+
+Hotel 2F Tavern
+<$00>
+
+
+
+
+<CLEAR>
+ケンは＿口笛を吹いた
+<PAUSE>
+<$0D>
+<CLEAR>
+外で＿大きな羽音が\n
+聞こえたような＿気がした…
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+ケンは＿目立たないように\n
+気配を＿殺した
+<PAUSE>
+<$0D>
+<CLEAR>
+しかし＿この辺りには\n
+ケンの迷彩に＿引っ掛かるような\n
+マヌケな動物は＿いなかった…
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+リンダは＿動物たちの\n
+鳴きマネをした
+<PAUSE>
+<$0D>
+<CLEAR>
+しかし＿この辺りには\n
+リンダの声に＿だまされるような\n
+マヌケな動物は＿いなかった…
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot open the animal\n
+reference encyclopedia here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot set up for camp here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Cannot activate Navigator System (NaviS) here.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+There's a force south of here…\n
+It's found at＿Ｑ
+<$06>
+-17
+<$04>
+_, in Karagoram!\n
+Stay away from there!＿You might regret it, y'know？
+<PAUSE>
+<$0D>
+<CLEAR>
+I heard it's a den of wild dogs now.\n
+If you want a hound, you'll have\n
+to buy it.
+<$1B>
+I'm sure you can register them on the ark as dogs though.
+<PAUSE>
+<$00>
+
+
+
+
+■～＿■～＿■■～
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+私、アンジェラ！＿ぼうやのために\n
+１曲、歌わせてくれる？\n
+<BC>
+聞かせてくれ
+<EC>
+／
+<BC>
+次の機会にね
+<EC>
+<$00>
+
+
+
+
+<CLEAR>
+あら…＿男と女の出会いには\n
+次は＿ないかもしれなくてよ
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+チップは見栄を張るものよ■\n
+持金
+<$1E><$34><$30>
+￥→チップ
+<BC>
+<$1E><$34><$30>
+￥
+<$00>
+
+
+
+
+<CLEAR>
+<$06>
+<$1E>
+<$04>
+￥ね？\n
+<BC>
+とっといてよ
+<EC>
+／
+<BC>
+やっぱ返して
+<EC>
+<$00>
+
+
+
+
+アンジェラの歌って＿ステキでしょ？\n
+ぼうやも＿リクエストしてちょうだい\n
+チップは「気持ち」でいいからサ
+<PAUSE>
+<$00>
+
+
+
+
+When I hear Angela's voice,\n
+I remember my mom back home and tear up.
+<PAUSE>
+<$00>
+
+
+
+
+大したモンだよ、アンジェラは∥\n
+持ち歌１曲で＿客を満足させられる\n
+歌手なんて＿彼女だけだね
+<PAUSE>
+<$00>
+
+
+
+
+アンジェラの歌声を＿聞いているとサ\n
+いつの間にか＿眠っちまうんだ…\n
+まるで＿揺りカゴの中にいるみたいサ
+<PAUSE>
+<$00>
+
+
+
+
+She's dead now, but I \n
+come here to listen to Angela's\n
+voice and remember my mom's smell…
+<PAUSE>
+<$00>
+
+
+
+
+人生から＿逃げだしたくなった時\n
+アンジェラの歌が＿恋しくなるのサ
+<PAUSE>
+<$00>
+
+
+
+
+ママ…＿俺のことを捨てたママ…\n
+アンジェラの歌を＿聞いてる間だけは\n
+ママのことを＿許せる気がするよ
+<PAUSE>
+<$00>
+
+
+
+
+アンジェラ∥＿もう一回歌ってくれ∥\n
+俺にはもったいない＿最高の母さんと\n
+人間のクズの＿最低の俺のために…
+<PAUSE>
+<$00>
+
+
+
+
+What？＿I thought you fell to your\n
+death…＿A-are you a ghost？\n
+<BC>
+Boooo～
+<EC>
+／
+<BC>
+Can a ghost punt your face?
+<EC>
+<$00>
+
+
+
+
+<CLEAR>
+Oh,＿okay！＿Well, either way,\n
+I'm kinda playin' hooky right now,\n
+so don't tell the commander, okay?
+<PAUSE>
+<$0D>
+<CLEAR>
+It was nice seein' ya∥
+<PAUSE>
+<$00>
+
+
+
+
+Have you heard of the name 「Fang」?\n
+<PAUSE>
+<$0D>
+<CLEAR>
+He's the leader of a pack of\n
+wild dogs in this area. He's ferocious,\n
+rotten and never been caught. That makes him a triple-threat.
+<PAUSE>
+<$0D>
+<CLEAR>
+A few years back, he slaughtered\n
+an entire family…＿I don't know where the survivor is now…\n
+Boy, it was really terrible…
+<PAUSE>
+<$00>
+
+
+
+
+//Ptr : 277C
+//Offset : 0000
+#WRITE(PTR, $0022)
+
+<$10><$30>
+<$15><$59>
+Hotel
+<$00>
+
+
+
+
+<CLEAR>
+Be careful out there！
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Sleeping outdoors is dangerous business!
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Welcome！ For＿
+<$1D>
+<$06>
+<$1E>
+<$04>
+<$14>
+￥,\n
+you can stay the night.\n
+<BC>
+Stay
+<EC>
+／
+<BC>
+Talk
+<EC>
+／
+<BC>
+Exit
+<EC>
+<$00>
+
+
+
+
+<CLEAR>
+It looks like you don't have enough money.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+お客様、戦えなくなった＿猟犬のＨＰは\n
+宿泊や野営じゃ＿戻りませんけど…\n
+<BC>
+知ってるよ
+<EC>
+／
+<BC>
+ホントかよ
+<EC>
+<$00>
+
+
+
+
+<CLEAR>
+さしでがましいことを＿申し上げ\n
+たいへん＿失礼いたしました\n
+では＿ごゆっくり
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+専門のお医者さまを＿お捜しになって\n
+なるべく早く\n
+治療して＿さしあげてください
+<PAUSE>
+<$00>
+
+
+
+
+<$10><$30>
+<$15><$59>
+ＢＡＲ
+<$00>
+
+
+
+
+<CLEAR>
+What'll it be? Your pick.
+<$1D>
+<$06>
+<$1E>
+<$04>
+<$14>
+￥.\n
+<BC>
+<$1D>
+<$1D>
+<$02><$39><$38>
+<EC>
+／
+<BC>
+<$1D>
+<$1D>
+<$02><$32><$31><$30>
+<EC>
+<$0D>
+<BC>
+<$1D>
+<$1D>
+<$02><$39><$38>
+<EC>
+／
+<BC>
+I'll pass.
+<EC>
+<$00>
+
+
+
+
+<CLEAR>
+Alright, here ya go.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+ぼうや…\n
+タダ酒は＿後で高くつくのが\n
+大人の世界の常識だぜ
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+Ken's
+<$1D>
+<$1D>
+_was glugged\n
+down in a flash.
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+ケンの\n
+<$06>
+HP
+<$04>
+全回復∥
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+ケンの\n
+<$06>
+HP
+<$1E>
+<$04>
+回復∥
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+How's about another glass？\n
+<BC>
+<$1D>
+<$1D>
+<$02><$39><$38>
+<EC>
+／
+<BC>
+<$1D>
+<$1D>
+<$02><$32><$31><$30>
+<EC>
+<$0D>
+<BC>
+<$1D>
+<$1D>
+<$02><$39><$38>
+<EC>
+／
+<BC>
+I don't need it.
+<EC>
+<$00>
+
+
+
+
+Rock
+<$00>
+
+
+
+
+Juice
+<$00>
+
+
+
+
+Milk
+<$00>
+
+
+
+
+Soup
+<$00>
+
+
+
+
+Punch
+<$00>
+
+
+
+
+Cocktail
+<$00>
+
+
+
+
+Tea
+<$00>
+
+
+
+
+Cola
+<$00>
+
+
+
+
+Beer
+<$00>
+
+
+
+
+Sour Cocktail
+<$00>
+
+
+
+
+Soda
+<$00>
+
+
+
+
+Liquor
+<$00>
+
+
+
+
+*sniff* *sniff, sniff*………？
+<PAUSE>
+<$0D>
+<CLEAR>
+<$1D>
+ smell is in the air.\n
+Which reminds me,
+<$1D>
+we still haven't had din-din…
+<PAUSE>
+<$00>
+
+
+
+
+Fried Eggs
+<$00>
+
+
+
+
+Curry
+<$00>
+
+
+
+
+BBQ
+<$00>
+
+
+
+
+Fried Chicken
+<$00>
+
+
+
+
+Candy
+<$00>
+
+
+
+
+Banana
+<$00>
+
+
+
+
+Fries
+<$00>
+
+
+
+
+Grilled Fish
+<$00>
+
+
+
+
+Tomato
+<$00>
+
+
+
+
+Butter
+<$00>
+
+
+
+
+Sauce
+<$00>
+
+
+
+
+Soup
+<$00>
+
+
+
+
+Pilaf
+<$00>
+
+
+
+
+Vanilla
+<$00>
+
+
+
+
+Kimchi
+<$00>
+
+
+
+
+Cheese
+<$00>
+
+
+
+
+Morning
+<$00>
+
+
+
+
+Daytime
+<$00>
+
+
+
+
+TA
+<$00>
+
+
+
+
+……E
+<$00>
+
+
+
+
+……W
+<$00>
+
+
+
+
+……S
+<$00>
+
+
+
+
+……N
+<$00>
+
+
+
+
+…NE
+<$00>
+
+
+
+
+…NW
+<$00>
+
+
+
+
+…SE
+<$00>
+
+
+
+
+…SW
+<$00>
+
+
+
+
+<CLEAR>
+……
+<$1D>
+<$00>
+
+
+
+
+、…
+<$1D>
+に行けば
+<$00>
+
+
+
+
+Ahead!
+<$00>
+
+
+
+
+Right!
+<$00>
+
+
+
+
+Left!
+<$00>
+
+
+
+
+Back!
+<$00>
+
+
+
+
+<CLEAR>
+……
+<$1D>
+<$00>
+
+
+
+
+、絶対に
+<$1D>
+∥
+<$00>
+
+
+
+
+<CLEAR>
+<$19><$31>
+<$10><$31><$36>
+<$15><$53>
+リンダは＿「女の勘」を\n
+はたらかせた∥
+<$14>
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+…ごめんね、\n
+今日は＿勘がはたらかないわ…
+<PAUSE>
+<$00>
+
+
+
+
+Destined
+<$00>
+
+
+
+
+New
+<$00>
+
+
+
+
+Nice
+<$00>
+
+
+
+
+Strange
+<$00>
+
+
+
+
+Something
+<$00>
+
+
+
+
+Discovery
+<$00>
+
+
+
+
+Treasure
+<$00>
+
+
+
+
+Animal
+<$00>
+
+
+
+
+_encountered...
+<$00>
+
+
+
+
+_acquired...
+<$00>
+
+
+
+
+I have a hunch∥
+<$00>
+
+
+
+
+Now's our chance∥
+<$00>
+
+
+
+
+It's now or never!
+<$00>
+
+
+
+
+We've got this∥
+<$00>
+
+
+
+
+<$0D>
+<$1D>
+<$1D>
+<$1D>
+<$0D>
+<$1D>
+<PAUSE>
+<$0D>
+<CLEAR>
+<$00>
+
+
+
+
+<CLEAR>
+I'm confident in this∥
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+I'm not sure, but…
+<PAUSE>
+<$00>
+
+
+
+
+<CLEAR>
+It's pretty spot-on∥
+<PAUSE>
+<$00>
+
+
+
+
+<$10><$30>
+<$15><$59>
+Schedule
+<$00>
+
+
+
+
+<CLEAR>
+<$10><$30>
+You have nothing on schedule.
+<PAUSE>
+<$00>
+
+
+
+
+Cleared
+<$00>
+
+
+
+
+Missed
+<$00>
+
+
+
+
+あと
+<$1E>
+季節
+<$00>
+
+
+
+
+After
+<$1E>
+/
+<$1E>
+.
+<$00>
+
+
+
+
+In 
+<$1E> 
+years...
+<$00>
+
+
+
+
+<$16>
+<BC>
+◇
+<EC>
+<$1D>
+<$02><$31><$39><$30>
+<$1D>
+<$00>
+
+
+
+
+Defeat Fang
+<$00>
+
+
+
+
+Request From Dr. Panheim
+<$00>
+
+
+
+
+<$1B>
+Get the Turtle Eggs
+<$00>
+
+
+
+
+<$1B>
+Get the Pterano Eggs
+<$00>
+
+
+
+
+Settle the Heritage Dispute
+<$00>
+
+
+
+
+A Helping Hand for Yamada
+<$00>
+
+
+
+
+Find the Town Symbol
+<$00>
+
+
+
+
+Request From Sophia
+<$00>
+
+
+
+
+Sachiko's Rescue
+<$00>
+
+
+
+
+Help Mr. Scrappy
+<$00>
+
+
+
+
+Looking for Angela
+<$00>
+
+
+
+
+<CLEAR>
+Defeat Fang in Koragoram.\n
+Show the evidence to Specter in Hardia.
+<$00>
+
+
+
+
+<CLEAR>
+Process 2
+<$1B>
+chickens from Marble-opolis\n
+and take them to Dr. Panheim.
+<$00>
+
+
+
+
+<CLEAR>
+<$1B>
+Go find 3 turtle eggs and take them\n
+to Louise at the Battle Park BB Ranch.
+<$00>
+
+
+
+
+<CLEAR>
+<$1B>
+Find some Pterano eggs and take them\n
+to Bronco at the Battle Park BB Ranch.
+<$00>
+
+
+
+
+<CLEAR>
+Find 「Taroh's Collar」 and give it to either\n
+Natasha or one of Mr. Orman's 3 children.
+<$00>
+
+
+
+
+60, 000
+<$00>
+
+
+
+
+Left:
+<$06>
+<$1E>
+<$0F><$30><$30><$30>
+<$04>
+<$00>
+
+
+
+
+<CLEAR>
+For Yamada from The G. Factory:_\n
+<$1D>
+￥Deposit
+<$00>
+
+
+
+
+<CLEAR>
+Koshikata's Town Symbol: 「
+<$1B>
+Tiger Claws」.\n
+Find some and give them to Poliska.
+<$00>
+
+
+
+
+<CLEAR>
+Make the cherry tree in Eterna\n
+bloom for Sophia somehow.
+<$00>
+
+
+
+
+<CLEAR>
+Take the steaming dung from a lava-dwelling\n
+animal and give it to Sophia in Eterna.
+<$00>
+
+
+
+
+<CLEAR>
+Go see Emori at Laguna Lodge.
+<$00>
+
+
+
+
+<CLEAR>
+With 「the floppy and_
+<$06><$31><$30>
+<$04>
+￥」in hand,\n
+use the phone at the first-floor\n
+entrance to the G. Factory.
+<$00>
+
+
+
+
+<CLEAR>
+With 「the floppy and_
+<$06><$31><$30>
+<$04>
+￥」in hand,\n
+use the phone at the first-floor\n
+entrance to the Para Side.
+<$00>
+
+
+
+
+<CLEAR>
+With 「the floppy and_
+<$06><$31><$30>
+<$04>
+￥」in hand,\n
+go to Galex.
+<$00>
+
+
+
+
+<CLEAR>
+To lighten up up Mr. Scrappy's day,\n
+take the 「Fresh Blood Berry」 to Flora Jam.\n
+Later, give it to Kevin in the Rose Garden.
+<$00>
+
+
+
+
+<CLEAR>
+See if Angela is in the Para Side\n
+tavern for Mario in Linaberet.
+<$00>
+
+
+
+
+<CLEAR>
+To verify Angela's location,\n
+go to the bar in the Oz Port Hotel.
+<$00>
+
+
+
+
+<CLEAR>
+To verify Angela's location, go to\n
+the West Area. Visit the ghost town hotel.
+<$00>
+
+
+
+
+<CLEAR>
+To verify Angela's location,\n
+go to the theater in Dogifa.
+<$00>
+
+
+
+
+<CLEAR>
+Make way for Oz Sat and\n
+find Mario's mother, Angela!
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
+
+<$00>
+
+
+
+
