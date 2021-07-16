@@ -740,7 +740,7 @@ Flee
 <$1C>
 //Cは　まだ獣人化の\n能力を　身につけていないΨ
 C\n
-has not learned\n
+does not know\n
 Morph skills!
 <$00>
 
@@ -1066,8 +1066,8 @@ without Linda!Ψ
 <$1C>
 //Cは　まだ戦闘中の\n特殊能力を　身につけていないΨ
 C\n
-has yet to learn\n
-combat skills!
+does not know\n
+special skills!
 <$00>
 
 
@@ -1513,7 +1513,7 @@ SPD
 
 
 //どうする？
-<$06>Turn:
+<$06>NEXT TURN:＿
 <$1C>
 //A\n
 A\n
@@ -3347,20 +3347,28 @@ eyes went wild!
 
 
 
-<CLEAR>
-
+<$06><CLEAR>
+//
 <$1C>
-Aは\n自分の殻に　閉じこもった∥
+//Aは\n自分の殻に　閉じこもった∥
+A\n
+hid themself in their shell!
 <$00>
 
 
 
 
-<CLEAR>
 
+
+<$06><CLEAR>
+//
 <$1C>
-Aは　カルシウムを\n体表に集めて　石化した∥
+//Aは　カルシウムを\n体表に集めて　石化した∥
+A\n
+hardened the calcium building on their body!
 <$00>
+
+
 
 
 
@@ -3369,8 +3377,11 @@ Aは　カルシウムを\n体表に集めて　石化した∥
 <$06>\n
 <$1C>
 //Tに　喰らいついた∥\n
+T\n
+was bitten!\n
 <$1C>
 //a∥
+a∥!
 <$00>
 
 
@@ -3394,6 +3405,8 @@ a!
 <$06>\n
 <$1C>
 //Aは\n白い息を　大量に吐いた∥
+A\n
+exhaled a great white fog!
 <$00>
 
 
@@ -3401,33 +3414,43 @@ a!
 
 
 
-<CLEAR>
-
+<$06><CLEAR>
+//
 <$1C>
-Kの足元は\n雪に　うずまった∥
+//Kの足元は\n雪に　うずまった∥
+K's feet were buried in snow!
 <$12>
 <$00>
 
 
 
 
-<CLEAR>
 
+
+<$06><CLEAR>
+//
 <$1C>
-Aの前方は\n雪に　うずまった∥
+//Aの前方は\n雪に　うずまった∥
+A's front was blocked by snow!
 <$12>
 <$00>
 
 
 
 
-<CLEAR>
 
+
+<$06><CLEAR>
+//
 <$1C>
-Aの前頭部に　鋭い隆起∥\n
+//Aの前頭部に　鋭い隆起∥\n
+A's forehead swelled!\n
 <$1C>
-a∥
+//a∥
+a!
 <$00>
+
+
 
 
 
@@ -3444,300 +3467,404 @@ a!
 
 
 
-\n頭をさげて　突撃した∥
+//\n頭をさげて　突撃した∥
+<$06>\n
+Crouched and dashed!
 <$00>
 
 
 
 
-\n口から　吹雪を吐いた∥
+
+
+//\n口から　吹雪を吐いた∥
+<$06>\n
+A snow storm hurled from their mouth!
 <$00>
 
 
 
 
-<CLEAR>
 
+
+<$06><CLEAR>
+//
 <$1C>
-Aは　「あ～ン」と\n切ない吐息を　もらした…
+//Aは　「あ～ン」と\n切ない吐息を　もらした…
+A let out a loud moan...
 <$12>
 <$00>
 
 
 
 
-<CLEAR>
 
+
+<$06><CLEAR>
+//
 <$1C>
-Tは　赤面した…
+//Tは　赤面した…
+T blushed...
 <$00>
 
 
 
 
-<CLEAR>
 
+
+<$06><CLEAR>
+//
 <$1C>
-Aは　にっこり笑って\n投げキッスを　飛ばした∥
+//Aは　にっこり笑って\n投げキッスを　飛ばした∥
+A smiled and blew a kiss!
 <$00>
 
 
 
 
-<CLEAR>
 
+
+<$06><CLEAR>
+//
 <$1C>
-Aは　大胆なポーズで\nお尻を　振った∥
+//Aは　大胆なポーズで\nお尻を　振った∥
+A lewdly thrust their hips!
 <$12>
 <$00>
 
 
 
 
-<CLEAR>
 
+
+<$06><CLEAR>
+//
 <$1C>
-Tは\nその部分に　見とれている…
+//Tは\nその部分に　見とれている…
+T couldn't look away...
 <$00>
 
 
 
 
-<CLEAR>
 
+
+<$06><CLEAR>
+//
 <$1C>
-Aは　小首をかしげて\nウインクした∥
+//Aは　小首をかしげて\nウインクした∥
+A tilted their head and winked!
 <$00>
 
 
 
 
-<CLEAR>
 
+
+<$06><CLEAR>
+//
 <$1C>
-Tは\nまんまと　手なずけられた∥
+//Tは\nまんまと　手なずけられた∥
+T was successfully wooed!
 <$12>
 <$00>
 
 
 
 
-<CLEAR>
 
+
+<$06><CLEAR>
+//
 <$1C>
-Aは\n応急手当てを　試みた∥
+//Aは\n応急手当てを　試みた∥
+A attempted first aid!
 <$12>
 <$00>
 
 
 
 
-<CLEAR>
 
+
+<$06><CLEAR>
+//
 <$1C>
-Aは\n「グるろろろ」と\n低くうなった∥
+//Aは\n「グるろろろ」と\n低くうなった∥
+A let out a low growl!
 <$12>
 <$00>
 
 
 
 
-<CLEAR>
 
+
+<$06><CLEAR>
+//
 <$1C>
-Aは\n「グるるる　るーーーン」と\n２度　長く吠えた∥
+//Aは\n「グるるる　るーーーン」と\n２度　長く吠えた∥
+A growled loudly 2 times!
 <$00>
 
 
 
 
-<CLEAR>
-「グるるる　るーーーン」と\n２度　長く吠えて\n
+
+
+<$06><CLEAR>
+//「グるるる　るーーーン」と\n２度　長く吠えて\n
+A growled loudly 2 times!\n
 <$1C>
-Tが　現れた∥
+//Tが　現れた∥
+T appeared!
 <$12>
 <$00>
 
 
 
 
-<CLEAR>
 
+
+<$06><CLEAR>
+//
 <$1C>
-Aは　
+//Aは　
+A zeroed in on
 <$1C>
-Tを\nけしかけた∥
+//Tを\nけしかけた∥
+T!
 <$12>
 <$00>
 
 
 
 
-<CLEAR>
 
+
+<$06><CLEAR>
+//
 <$1C>
-Aは　リンダを\n抱きかかえて　逃げた∥
+//Aは　リンダを\n抱きかかえて　逃げた∥
+A picked up Linda and fled!
 <$12>
 <$00>
 
 
 
 
-<CLEAR>
 
+
+<$06><CLEAR>
+//
 <$1C>
-Aは　リンダを\nひきずって　逃げた∥
+//Aは　リンダを\nひきずって　逃げた∥
+A dragged Linda and fled!
 <$12>
 <$00>
 
 
 
 
-<CLEAR>
 
+
+<$06><CLEAR>
+//
 <$1C>
-Tの体に\n甘い香りが　しみついた…
+//Tの体に\n甘い香りが　しみついた…
+T's body was stained in a sweet aroma...
 <$12>
 <$00>
 
 
 
 
-<CLEAR>
 
+
+<$06><CLEAR>
+//
 <$1D>
-は\n瞬く間に　腐った…
+//は\n瞬く間に　腐った…
+rotted away in an instant...
 <$12>
 <$00>
 
 
 
 
-<CLEAR>
-しかし　道具袋の中身は\n少し　濡れただけだった…∥
+
+
+<$06><CLEAR>
+//しかし　道具袋の中身は\n少し　濡れただけだった…∥
+The contents of the item bag got a bit wet.
 <$12>
 <$00>
 
 
 
 
-<CLEAR>
 
+
+<$06><CLEAR>
+//
 <$1C>
-Aは\n２体に　分裂した∥
+//Aは\n２体に　分裂した∥
+A split into 2!
 <$00>
 
 
 
 
-<CLEAR>
 
+
+<$06><CLEAR>
+//
 <$1C>
-Tは　興奮した∥
+//Tは　興奮した∥
+T was roused!
 <$00>
 
 
 
 
-<CLEAR>
 
+
+<$06><CLEAR>
+//
 <$1C>
-Kの足元は\n水浸しになった∥
+//Kの足元は\n水浸しになった∥
+K's feet were submerged in water!
 <$12>
 <$00>
 
 
 
 
-<CLEAR>
 
+
+<$06><CLEAR>
+//
 <$1C>
-Tの体は\nガソリンで　湿った∥
+//Tの体は\nガソリンで　湿った∥
+T's body was soaked in gasoline!
 <$12>
 <$00>
 
 
 
 
-\n燃焼性↑
+
+
+//\n燃焼性↑
+<$06>\n
+FLAMMABILITY ↑
 <$12>
 <$00>
 
 
 
 
-<CLEAR>
 
+
+<$06><CLEAR>
+//
 <$1C>
-Tの体は\n塩水で　湿った∥
+//Tの体は\n塩水で　湿った∥
+T's body was soaked in salt water!
 <$12>
 <$00>
 
 
 
 
-\n凍結性↑
+
+
+//\n凍結性↑
+<$06>\n
+FREEZABILITY ↑
 <$12>
 <$00>
 
 
 
 
-<CLEAR>
 
+
+<$06><CLEAR>
+//
 <$1C>
-Tの体は\n水で　湿った∥
+//Tの体は\n水で　湿った∥
+T's body was soaked in water!
 <$12>
 <$00>
 
 
 
 
-\n通電性↑
+
+
+//\n通電性↑
+<$06>\n
+CONDUCTIVITY ↑
 <$12>
 <$00>
 
 
 
 
-<CLEAR>
 
+
+<$06><CLEAR>
+//
 <$1C>
-Tは　眠った∥
+//Tは　眠った∥
+T slept!
 <$12>
 <$00>
 
 
 
 
-<CLEAR>
 
+
+<$06><CLEAR>
+//
 <$1C>
-Aは\n
+//Aは\n
+A covered
 <$1C>
-Tを　かばった∥
+//Tを　かばった∥
+T!
 <$12>
 <$00>
 
 
 
 
-<CLEAR>
 
+
+<$06><CLEAR>
+//
 <$1C>
-Aは\n防御に　徹した∥
+//Aは\n防御に　徹した∥
+A kept guarding!
 <$12>
 <$00>
 
 
 
 
-<CLEAR>
 
+
+<$06><CLEAR>
+//
 <$1C>
-Aの足元は\n炎に包まれた∥
+//Aの足元は\n炎に包まれた∥
+A's feet were engulfed in flames!
 <$12>
 <$00>
+
+
 
 
 
@@ -3753,22 +3880,28 @@ The flames spread farther!
 
 
 
-<CLEAR>
-
+<$06><CLEAR>
+//
 <$1C>
-Tは　耳鳴りがして\n少し　よろめいた…
+//Tは　耳鳴りがして\n少し　よろめいた…
+T's ears rang, and they flinched...
 <$12>
 <$00>
 
 
 
 
-<CLEAR>
 
+
+<$06><CLEAR>
+//
 <$1C>
-Tの瞳の奥で\n白いモノが　点滅した…
+//Tの瞳の奥で\n白いモノが　点滅した…
+T felt a white flash before their eyes.
 <$12>
 <$00>
+
+
 
 
 
@@ -3790,133 +3923,181 @@ grabbed and swallowed＿
 
 
 
-<CLEAR>
-ケンは　あわてて\n道具袋を　隠した∥
+<$06><CLEAR>
+//ケンは　あわてて\n道具袋を　隠した∥
+Ken promptly hid the item bag!
 <$12>
 <$00>
 
 
 
 
-<CLEAR>
-辺りに　酸い臭いが\n立ち込めた…
+
+
+<$06><CLEAR>
+//辺りに　酸い臭いが\n立ち込めた…
+A foul odor hovered over the area...
 <$12>
 <$00>
 
 
 
 
-<CLEAR>
 
+
+<$06><CLEAR>
+//
 <$1C>
-Tも\n「グるろ　グるろ」と\n腹を鳴らした∥
+//Tも\n「グるろ　グるろ」と\n腹を鳴らした∥
+T let out a gutterly growl back.
 <$12>
 <$00>
 
 
 
 
-<CLEAR>
 
+
+<$06><CLEAR>
+//
 <$1C>
-Tは　歌に合わせて\n
+//Tは　歌に合わせて\n
+T got into rhythm and stripped off their
 <$1D>
-を　脱いだ∥
+//を　脱いだ∥
+!
 <$00>
 
 
 
 
-<CLEAR>
 
+
+<$06><CLEAR>
+//
 <$1C>
-Tは　惚然として\n聞きほれた…
+//Tは　惚然として\n聞きほれた…
+T melted in ecstasy...
 <$12>
 <$00>
 
 
 
 
-<CLEAR>
 
+
+<$06><CLEAR>
+//
 <$1C>
-Aは\n
+//Aは\n
+A hid themself under
 <$1D>
-に潜って　姿を隠した…
+//に潜って　姿を隠した…
+...
 <$00>
 
 
 
 
-<CLEAR>
 
+
+<$06><CLEAR>
+//
 <$1C>
-Aは\n
+//Aは\n
+A became
 <$1C>
-Tになった∥
+//Tになった∥
+T!
 <$00>
 
 
 
 
-<CLEAR>
 
+
+<$06><CLEAR>
+//
 <$1C>
-Tは\n異常なカユミに　おそわれた∥\n
-<$06>
+//Tは\n異常なカユミに　おそわれた∥\n
+T felt a bizarre itch!\n
+
+//BP
 BP
-<$04>
-を　封じられた∥
+
+//を　封じられた∥
+is disabled!
 <$12>
 <$00>
 
 
 
 
-<CLEAR>
 
+
+<$06><CLEAR>
+//
 <$1C>
-Aの全身を\n紫の液体が　包み込んだ∥
+//Aの全身を\n紫の液体が　包み込んだ∥
+A's entire body was wrapped up in a purple\n
+gel!
 <$12>
 <$00>
 
 
 
 
-<CLEAR>
 
+
+<$06><CLEAR>
+//
 <$1C>
-Aは　全身の汗腺から\n紫の体液を　噴出した∥
+//Aは　全身の汗腺から\n紫の体液を　噴出した∥
+A's sweat glands all sweated purple!
 <$12>
 <$00>
 
 
 
 
-<CLEAR>
 
+
+<$06><CLEAR>
+//
 <$1C>
-Aは\nヌルヌルに　なった∥
+//Aは\nヌルヌルに　なった∥
+A became slimy!
 <$12>
 <$00>
 
 
 
 
-<CLEAR>
 
+
+<$06><CLEAR>
+//
 <$1C>
-Cの手のひらから\n閃光が走る∥
+//Cの手のひらから\n閃光が走る∥
+C's palms flashed white!
 <$12>
 <$00>
 
 
 
 
-\nブルブルと　喉を震わせた\n耳をつんざく　
+
+
+//\nブルブルと　喉を震わせた\n耳をつんざく　
+<$06>\n
+A tremble, a throat quiver, a split\n
+eardrum...
 <$1C>
-a∥
+//a∥
+a!
 <$00>
+
+
 
 
 
@@ -4442,7 +4623,7 @@ T＿sighed in dismay.
 //
 <$1C>
 //Tは　せつない溜息をついた
-T＿
+T＿sighed deeply.
 <$12>
 <$00>
 
@@ -4888,7 +5069,8 @@ Can't get away!
 
 
 //\n
-<$06><$1D>
+<$06>\n
+<$1D>
 //へ逃げる可
 's your one shot!
 <$00>
@@ -5027,7 +5209,7 @@ a!
 <$1C>
 //Aは\n
 A\n
-moved by＿
+moved＿
 <$1D>
 //に　移動した
 !
@@ -5051,13 +5233,17 @@ attacked repeatedly!
 
 
 
-<CLEAR>
-
+<$06><CLEAR>
+//
 <$1C>
-Aは\n
+//Aは\n
+A hid themself under
 <$1D>
-に潜って　姿を隠した…
+//に潜って　姿を隠した…
+...
 <$00>
+
+
 
 
 

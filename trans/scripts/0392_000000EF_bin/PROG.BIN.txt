@@ -140,6 +140,7 @@ Skills
 Memo
 <$02>
 //56
+56
 <$0E>
 <$00>
 
@@ -155,7 +156,7 @@ Memo
 W◇
 <$15>
 //R赤
-RNot captured/Not filed
+RRED: Neither captured nor filed
 <$11>
 //240<CLEAR>
 240<CLEAR>
@@ -164,13 +165,13 @@ RNot captured/Not filed
 W＿◇
 <$15>
 //Y黄
-YCaptured/Not filed
+YYELLOW: Captured, but not filed
 <$11>
 //240<CLEAR>
 240<CLEAR>
 <$15>
 //W登録済み＿…………………………白
-W＿◇Filed!
+W＿◇ WHITE: Filed!
 <$11>
 //240<CLEAR>
 240<CLEAR>
@@ -179,7 +180,7 @@ W＿◇Filed!
 W＿◇
 <$15>
 //K黒
-KN/A!
+KBLACK: Cannot be captured
 <$11>
 //240
 240
@@ -659,7 +660,7 @@ Lure animals in
 
 
 //（移動中）
-<$06>（Trk）
+<$06>（Trek）
 <$00>
 
 
@@ -668,7 +669,7 @@ Lure animals in
 
 
 //（野営時）
-<$06>(Cmp)
+<$06>(Camp)
 <$00>
 
 
@@ -677,7 +678,7 @@ Lure animals in
 
 
 //（夜襲時）
-<$06>(Slp)
+<$06>(Rest)
 <$00>
 
 
@@ -706,7 +707,7 @@ Lure animals in
 //
 <$06><$15>
 //Y能力　
-YTech
+YTech/
 <$1D>
 <$00>
 
@@ -870,7 +871,7 @@ W
 2\n
 <$15>
 //S物理　火炎　冷気　電気\n
-SPH FR IC EL\n
+SPHY FIR ICE ELC\n
 <$05><$15>
 //W
 W
@@ -888,7 +889,7 @@ W
 4\n
 <$15>
 //S液体　気体　光音　必殺\n
-SLQ GS LG KO\n
+SLQD GAS LGT DTH\n
 <$05><$15>
 //W
 W
@@ -964,7 +965,7 @@ W
 //
 <$06><$15>
 //Y装備　
-YGear
+YGear/
 <$1D><$02>
 //84
 84
@@ -1847,6 +1848,7 @@ Attack front with heavy blizzard
 Attempt to seduce male foes...
 
 //？？
+???
 
 <$00>
 
@@ -2997,6 +2999,7 @@ Status recovery／Risk:＿0%\n
 ／Risk:＿
 <$1E>
 //％\n
+％\n
 <$1D>
 <$00>
 
@@ -3215,6 +3218,7 @@ For trek+combat use
 
 <$06><$1D>
 //／
+／
 <$1D>
 //\n攻撃力
 \n
@@ -3262,6 +3266,7 @@ Equippable in trek+combat
 
 <$06><$1D>
 //／
+／
 <$1D>
 //\n守備力
 \n
@@ -3287,7 +3292,7 @@ Equippable in trek+combat
 W◇
 <$15>
 //R赤
-RNot captured/Not filed
+RRED: Neither captured nor filed
 <$11>
 //240<CLEAR>
 240<CLEAR>
@@ -3296,13 +3301,13 @@ RNot captured/Not filed
 W＿◇
 <$15>
 //Y黄
-YCaptured/Not filed
+YYELLOW: Captured, but not filed
 <$11>
 //240<CLEAR>
 240<CLEAR>
 <$15>
 //W登録済み＿…………………………白
-W＿◇Filed!
+W＿◇ WHITE: Filed!
 <$11>
 //240<CLEAR>
 240<CLEAR>
@@ -3311,7 +3316,7 @@ W＿◇Filed!
 W＿◇
 <$15>
 //K黒
-KN/A!
+KBLACK: Cannot be captured
 <$11>
 //240
 240
@@ -4365,6 +4370,7 @@ BP:
 
 <$06><$19>
 //1<CLEAR>
+1<CLEAR>
 <$1D>
 //の　戦闘中の能力\n「お色気アタック」に\nさらに　みがきがかかった！
 's polished their Sex Appeal skill!
@@ -4378,6 +4384,7 @@ BP:
 
 <$06><$19>
 //1<CLEAR>
+1<CLEAR>
 <$1D>
 //の「ビシバシ調教」は\n
 's Warden skills broke\n

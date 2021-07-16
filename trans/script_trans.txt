@@ -869,6 +869,7 @@ You don't have the animals!
 You can't afford the＿\n
 <$15>
 //b
+b
 <$06><$1E><$04><$14>
 //￥\nが足りません
 ￥ fee!
@@ -2290,7 +2291,7 @@ Please, promise me...
 //000074A4
 <CLEAR>
 //ねぇ　ケン！\n私の記憶の　扉を開ける\n合い言葉って　何だったの？
-So, what was the secret keyword you used to awaken my memory?
+So, what were the secret keywords you used to awaken my memory?
 <$00>
 
 
@@ -3611,9 +3612,10 @@ Astro Ark＿
 //
 <$02>
 //71告　知\n　箱船ノ　乗員求ム\n　男女　各一名\n　動物集メニ　自信ノ有ル者\n　ニ限ル\n
-71BRAVE ASTRO ARK PILOTS WANTED! BRING 1 MALE AND 1 FEMALE FROM ALL ANIMAL SPECIES. -GOD.
+71"COMMANDMENT: ONE MALE, ONE FEMALE, TWO BY TWO BY TWO, SHOULDST BOARD THIS ARK WITH WORTHY PILOTS.\n
 <$02>
 //114神様ヨリ
+114?SIGNED, GOD"
 <$00>
 
 
@@ -5578,6 +5580,7 @@ NO.
  50000
 <$04>
 //￥ - 
+￥ - 
 <$02>
 //120
 <$06>
@@ -8777,7 +8780,7 @@ Gosh, I don't know what to say. I'd only picked this up, but I hope it works as 
 //1
 <$15>
 //S<CLEAR>ケンは　
-S<CLEAR>Ken acquired\n
+S<CLEAR>Ken took\n
 <$1D>
 //を手に入れた∥
 !
@@ -11373,35 +11376,35 @@ Maki
 //0038_00003A28_bin\PROG.BIN
 //00004211
 //そろそろ　結婚もイイかな
-the perfect guy, for sure.＿
+the PERFECT guy, for sure!＿
 <$00>
 
 
 //0038_00003A28_bin\PROG.BIN
 //00004211
 //ステキな人いたら　結婚しちゃおうかな
-someone outstanding, I bet.＿
+a great guy, I bet.＿
 <$00>
 
 
 //0038_00003A28_bin\PROG.BIN
 //00004211
 //適当な人がいたら　結婚したいな
-someone good, I imagine.＿
+an okay guy, I imagine.＿
 <$00>
 
 
 //0038_00003A28_bin\PROG.BIN
 //00004211
 //それなりの男なら　手を打つわよ
-someone decent, hopefully.＿
+a decent human, hopefully.＿
 <$00>
 
 
 //0038_00003A28_bin\PROG.BIN
 //00004211
 //男なら誰でもイイぞぉ∥　どんと来い∥
-anyone, but they better hurry!
+anyone, so they'd better hurry!
 <$00>
 
 
@@ -11409,20 +11412,20 @@ anyone, but they better hurry!
 //00004211
 <CLEAR>
 //こんにちわ∥　私、
-Hello! I'm＿
+Hello! I'm 
 <$1D>
 //ちゃん∥
 -chan!
 <$12>
 \n<CLEAR>
 //
-I had fun as a＿
+Yeah, I had fun as a 
 <$06>
 //10
 teen
 <$04>
 //代で　やりたいことやっちゃったし\n
-,＿but I'll marry\n
+,＿but I'll find\n
 <$1D>
 //\n…なんて考えてる
 \nI'm only＿
@@ -15532,7 +15535,7 @@ Barracks＿
 //0042_00003F13_bin\PROG.BIN
 //000009B7
 //ＡＭＤ１９９９年　夏、死神衝突！\nちゃんと　覚えなさいよ
-Don't forget, the Grim Reaper's expected to hit Neo Kenya in the summer of AMD1999!
+Don't forget, the Grim Reaper's expected to hit Neo Kenya in the summer of AMD 1999!
 <$12>
 \n<CLEAR>
 //彼女とのデートの時間に　遅れても\n命まではとられないけど　こっちは\n遅れると　あの世行きなんだからね
@@ -16878,7 +16881,7 @@ There's a pay phone in every gate leading in and out of towns, right by the door
 <$12>
 \n<CLEAR>
 //隊員はタダだから　かけ放題よ
-You should use it!\nRangers get free service, so we can call in as often as we like!
+You should use it!\nRangers get free service, so we\ncan call in as often as we like!
 <$12>
 <$00>
 
@@ -17538,7 +17541,7 @@ No matter how rare a species is, or what Class A protections it may or may not h
 //1
 <$15>
 //S<CLEAR>ケンは　
-S<CLEAR>Ken acquired\n
+S<CLEAR>Ken took\n
 <$1E>
 //￥を\n手に入れた∥
 ￥!
@@ -20954,7 +20957,7 @@ Look at this\n
 1
 <$15>
 //S<CLEAR>ケンは「
-S<CLEAR>Ken acquired the\n
+S<CLEAR>Ken took\n
 <$1D>
 //」を\n手にいれた∥
 !
@@ -20982,7 +20985,7 @@ Look at the\n
 //1
 <$15>
 //S<CLEAR>ケンは　
-S<CLEAR>Ken acquired\n
+S<CLEAR>Ken took\n
 <$06><$1E><$04>
 //￥を\n手にいれた∥
 ￥!
@@ -21121,7 +21124,7 @@ Don't take this the wrong way, but...
 Is it true Linda's tougher than you?\n
 <$01>
 //そうなんです…
-Yup
+Yep
 <$0E>
 //／
 <$01>
@@ -21801,7 +21804,7 @@ Of course, don't expect much at first besides everyone moaning and groaning abou
 Hee! Hee! Hoo! Hee! Hee! Hoo!\nAm I doing it right?\n
 <$01>
 //その通りです！
-Yup!
+Yep!
 <$0E>
 //／
 ／
@@ -22578,7 +22581,7 @@ I thought I'd follow Linda's example and confess, like girls do.
 //000043C6
 <CLEAR>
 //「サチコで　どーだ！」って\nちょっと　ヘンな言い方だけど\n通じたみたいなんです…
-"What about Sachiko?!"\nI sputtered, which is...truly absurd, but I think it got through.
+"Why not me?!"\nI sputtered, which is...truly absurd, but I think it got through.
 <$00>
 
 
@@ -30478,7 +30481,7 @@ Thank you, Ken.
 //00001DEF
 <CLEAR>
 //兄ちゃん　これでわかったろ？\n俺の催眠術は　合い言葉で\n人の心を　操るのさ
-See that? With a special keyword, I can hypnotize and control anyone I wish.
+See that? With special keywords, I can hypnotize and control anyone I wish.
 <$00>
 
 
@@ -31234,7 +31237,7 @@ Augh... Dammit, my eyes...\nI can't see anything...
 //00002757
 <CLEAR>
 //…しゃべれるうちに、\nリンダの…　記憶を戻す\n合い言葉を　教えなきゃな…
-...Okay. I'll tell you the keyword to return Linda's memory.
+...Okay. I'll tell you the keywords to return Linda's memory.
 <$00>
 
 
@@ -40257,7 +40260,7 @@ Even the trans-cargo unit on your back was looted from a temple of Annabis and s
 <$12>
 \n<CLEAR>
 //同じ墓泥棒なのに　あんたらは発掘で\n俺がやると　盗掘なのかよ￠
-When you guys do it, it's called "excavation" and when I do it, it's called "grave robbing"? But we're doing the same thing!
+When you guys do it, it's called "excavation" but when I do it, it's "grave robbing"? Why?! We're doing the same thing!
 <$12>
 <$00>
 
@@ -46066,17 +46069,17 @@ The funny part about that is, be he dog or man, it's the scaredy cats who live t
 //0195_0000616B_bin\PROG.BIN
 //00001725
 //「馬場」「猪木」をそろえるとかサ\n猟犬の襲名も　どうせなら\nこだわってみるのが　通だよなぁ
-"Zack" and "Bisk" would be fun names for dogs. I think it'd be fun to see them in battle.
+"Baba" and "Inoki" would be fun names for dogs. It'd sound like a wrestling match if you narrated their moves in battle.
 <$12>
 \n<CLEAR>
 //「馬場の攻撃∥　
-"Zack atTACKs!
+"Baba attacks!
 <$06>
 //38
 38
 <$04>
 //のダメージ∥\n猪木は身をていして　馬場をかばった」\nとかサ、けっこう笑えるだろ？
- damage! BISK RISKed their life to guard Zack!"\nIt gives me a brief chuckle!
+ damage! Inoki risked their life to guard Baba!"\nSee? Gives me a good chuckle!
 <$12>
 <$00>
 
@@ -47930,7 +47933,7 @@ If you find any mystery meat, feed it to a dog first and see how your friend far
 <$12>
 \n<CLEAR>
 //そうすりゃ　十中八九、危険はない∥\n…とは言い切れないのが　世の常だけど\n気安めにはなると　思うんだな
-If  a dog can eat it, so can you! Yup, there's no danger at all! Ehehe...none at all...
+If  a dog can eat it, so can you! Yep, there's no danger at all! Ehehe...none at all...
 <$12>
 <$00>
 
@@ -48389,7 +48392,7 @@ Your input matters, so tell me!
 //00001D3E
 <CLEAR>
 //サチコで　どうだ∥
-What about Sachiko?!
+Why not Sachiko?!
 <$00>
 
 
@@ -53771,7 +53774,7 @@ Sometimes I wonder if all this Astro Ark biz is related to that alien fuck..."An
 //000040DD
 <CLEAR>
 //よーし∥　後は　ツバでも\nつけときゃ　自然に治るわ\nさあ　仕事に戻れ∥
-There! One little smooch, and you're all better!\nNow, back to work with you!
+There! One little smooch,\nand you're all better!\nNow, back to work with you!
 <$12>
 <$00>
 
@@ -53992,7 +53995,7 @@ Anyways, uh, glad we had this talk.
 //0280_000043B5_bin\PROG.BIN
 //00005675
 //あっ！あんた、お願いだ！\n俺にかけた催眠術を　解いてくれよ\nあぁ　目が回る～　気持ち悪いよぉ～
-What's the keyword to break the hypnosis～?! Stop this spinning before I get sick～!
+What's are the keywords to break the hypnosis～?! Stop this spinning before I get sick～!
 <$12>
 <$00>
 
@@ -61798,7 +61801,7 @@ S<CLEAR>Alas, the item bag was full.
 //1
 <$15>
 //S<CLEAR>ケンは　「
-S<Clear>Ken acquired the\n
+S<Clear>Ken took\n
 <$1D>
 //」を手に入れた
 !
@@ -70921,6 +70924,7 @@ Skills
 Memo
 <$02>
 //56
+56
 <$0E>
 <$00>
 
@@ -70931,34 +70935,34 @@ Memo
 //
 <$15>
 //W未登録で未捕獲＿…………………
-W◇
+W◇ 
 <$15>
 //R赤
-RNot captured/Not filed
+RRED: Neither captured nor filed
 <$11>
 //240<CLEAR>
 240<CLEAR>
 <$15>
 //W未登録で捕獲済み＿………………
-W＿◇
+W＿◇ 
 <$15>
 //Y黄
-YCaptured/Not filed
+YYELLOW: Captured, but not filed
 <$11>
 //240<CLEAR>
 240<CLEAR>
 <$15>
 //W登録済み＿…………………………白
-W＿◇Filed!
+W＿◇ WHITE: Filed!
 <$11>
 //240<CLEAR>
 240<CLEAR>
 <$15>
 //W絶対捕獲不可＿……………………
-W＿◇
+W＿◇ 
 <$15>
 //K黒
-KN/A!
+KBLACK: Cannot be captured
 <$11>
 //240
 240
@@ -71306,21 +71310,21 @@ Catcaller
 //0392_000000EF_bin\PROG.BIN
 //00006711
 //（移動中）
-（Trk）
+（Trek）
 <$00>
 
 
 //0392_000000EF_bin\PROG.BIN
 //00006711
 //（野営時）
-(Cmp)
+(Camp)
 <$00>
 
 
 //0392_000000EF_bin\PROG.BIN
 //00006711
 //（夜襲時）
-(Slp)
+(Rest)
 <$00>
 
 
@@ -71343,7 +71347,7 @@ Catcaller
 //
 <$15>
 //Y能力　
-YTech
+YTech/
 <$1D>
 <$00>
 
@@ -71470,7 +71474,7 @@ W
 2\n
 <$04><$15>
 //S物理　火炎　冷気　電気\n
-SPH FR IC EL\n
+SPHY FIR ICE ELC\n
 <$05><$15>
 //W
 W
@@ -71488,7 +71492,7 @@ W
 4\n
 <$04><$15>
 //S液体　気体　光音　必殺\n
-SLQ GS LG KO\n
+SLQD GAS LGT DTH\n
 <$05><$15>
 //W
 W
@@ -71556,7 +71560,7 @@ W
 //
 <$15>
 //Y装備　
-YGear
+YGear/
 <$1D><$02>
 //84
 84
@@ -72169,6 +72173,7 @@ Attack front with heavy blizzard
 Attempt to seduce male foes...
 <$06>
 //？？
+???
 <$04>
 <$00>
 
@@ -72732,6 +72737,7 @@ For outside trek use
 ／Risk:＿
 <$1E>
 //％\n
+％\n
 <$1D>
 <$00>
 
@@ -72898,6 +72904,7 @@ Weapon
 //0000753C
 <$1D>
 //／
+／
 <$1D>
 //\n攻撃力
 \nATK:＿
@@ -72935,6 +72942,7 @@ Headwear
 //0000753C
 <$1D>
 //／
+／
 <$1D>
 //\n守備力
 \nDEF:＿
@@ -73740,6 +73748,7 @@ BP:
 //00007F01
 <$19>
 //1<CLEAR>
+1<CLEAR>
 <$1D>
 //の　戦闘中の能力\n「お色気アタック」に\nさらに　みがきがかかった！
 's polished their Sex Appeal skill!
@@ -73751,6 +73760,7 @@ BP:
 //00007F01
 <$19>
 //1<CLEAR>
+1<CLEAR>
 <$1D>
 //の「ビシバシ調教」は\n
 's Warden skills broke\n
@@ -74666,7 +74676,7 @@ Flee
 //
 <$1C>
 //Cは　まだ獣人化の\n能力を　身につけていないΨ
-C\nhas not learned\nMorph skills!
+C\ndoes not know\nMorph skills!
 <$00>
 
 
@@ -74935,7 +74945,7 @@ You can't flee\nwithout Linda!Ψ
 //
 <$1C>
 //Cは　まだ戦闘中の\n特殊能力を　身につけていないΨ
-C\nhas yet to learn\ncombat skills!
+C\ndoes not know\nspecial skills!
 <$00>
 
 
@@ -75299,7 +75309,7 @@ You have the advantage!\n
 //0393_0000010B_bin\PROG.BIN
 //0001036A
 //どうする？
-Turn: 
+NEXT TURN:＿
 <$1C>
 //A\n
 A\n
@@ -76697,6 +76707,7 @@ T's\neyes went wild!
 //
 <$1C>
 //Aは\n自分の殻に　閉じこもった∥
+A\nhid themself in their shell!
 <$00>
 
 
@@ -76706,6 +76717,7 @@ T's\neyes went wild!
 //
 <$1C>
 //Aは　カルシウムを\n体表に集めて　石化した∥
+A\nhardened the calcium building on their body!
 <$00>
 
 
@@ -76715,8 +76727,10 @@ T's\neyes went wild!
 \n
 <$1C>
 //Tに　喰らいついた∥\n
+T\nwas bitten!\n
 <$1C>
 //a∥
+a∥!
 <$00>
 
 
@@ -76726,6 +76740,7 @@ T's\neyes went wild!
 \n
 <$1C>
 //Aは\n白い息を　大量に吐いた∥
+A\nexhaled a great white fog!
 <$00>
 
 
@@ -76735,6 +76750,7 @@ T's\neyes went wild!
 //
 <$1C>
 //Kの足元は\n雪に　うずまった∥
+K's feet were buried in snow!
 <$12>
 <$00>
 
@@ -76745,6 +76761,7 @@ T's\neyes went wild!
 //
 <$1C>
 //Aの前方は\n雪に　うずまった∥
+A's front was blocked by snow!
 <$12>
 <$00>
 
@@ -76755,20 +76772,24 @@ T's\neyes went wild!
 //
 <$1C>
 //Aの前頭部に　鋭い隆起∥\n
+A's forehead swelled!\n
 <$1C>
 //a∥
+a!
 <$00>
 
 
 //0393_0000010B_bin\PROG.BIN
 //00010D84
 //\n頭をさげて　突撃した∥
+\nCrouched and dashed!
 <$00>
 
 
 //0393_0000010B_bin\PROG.BIN
 //00010D84
 //\n口から　吹雪を吐いた∥
+\nA snow storm hurled from their mouth!
 <$00>
 
 
@@ -76778,6 +76799,7 @@ T's\neyes went wild!
 //
 <$1C>
 //Aは　「あ～ン」と\n切ない吐息を　もらした…
+A let out a loud moan...
 <$12>
 <$00>
 
@@ -76788,6 +76810,7 @@ T's\neyes went wild!
 //
 <$1C>
 //Tは　赤面した…
+T blushed...
 <$00>
 
 
@@ -76797,6 +76820,7 @@ T's\neyes went wild!
 //
 <$1C>
 //Aは　にっこり笑って\n投げキッスを　飛ばした∥
+A smiled and blew a kiss!
 <$00>
 
 
@@ -76806,6 +76830,7 @@ T's\neyes went wild!
 //
 <$1C>
 //Aは　大胆なポーズで\nお尻を　振った∥
+A lewdly thrust their hips!
 <$12>
 <$00>
 
@@ -76816,6 +76841,7 @@ T's\neyes went wild!
 //
 <$1C>
 //Tは\nその部分に　見とれている…
+T couldn't look away...
 <$00>
 
 
@@ -76825,6 +76851,7 @@ T's\neyes went wild!
 //
 <$1C>
 //Aは　小首をかしげて\nウインクした∥
+A tilted their head and winked!
 <$00>
 
 
@@ -76834,6 +76861,7 @@ T's\neyes went wild!
 //
 <$1C>
 //Tは\nまんまと　手なずけられた∥
+T was successfully wooed!
 <$12>
 <$00>
 
@@ -76844,6 +76872,7 @@ T's\neyes went wild!
 //
 <$1C>
 //Aは\n応急手当てを　試みた∥
+A attempted first aid!
 <$12>
 <$00>
 
@@ -76854,6 +76883,7 @@ T's\neyes went wild!
 //
 <$1C>
 //Aは\n「グるろろろ」と\n低くうなった∥
+A let out a low growl!
 <$12>
 <$00>
 
@@ -76864,6 +76894,7 @@ T's\neyes went wild!
 //
 <$1C>
 //Aは\n「グるるる　るーーーン」と\n２度　長く吠えた∥
+A growled loudly 2 times!
 <$00>
 
 
@@ -76871,8 +76902,10 @@ T's\neyes went wild!
 //00010D84
 <CLEAR>
 //「グるるる　るーーーン」と\n２度　長く吠えて\n
+A growled loudly 2 times!\n
 <$1C>
 //Tが　現れた∥
+T appeared!
 <$12>
 <$00>
 
@@ -76883,8 +76916,10 @@ T's\neyes went wild!
 //
 <$1C>
 //Aは　
+A zeroed in on 
 <$1C>
 //Tを\nけしかけた∥
+T!
 <$12>
 <$00>
 
@@ -76895,6 +76930,7 @@ T's\neyes went wild!
 //
 <$1C>
 //Aは　リンダを\n抱きかかえて　逃げた∥
+A picked up Linda and fled!
 <$12>
 <$00>
 
@@ -76905,6 +76941,7 @@ T's\neyes went wild!
 //
 <$1C>
 //Aは　リンダを\nひきずって　逃げた∥
+A dragged Linda and fled!
 <$12>
 <$00>
 
@@ -76915,6 +76952,7 @@ T's\neyes went wild!
 //
 <$1C>
 //Tの体に\n甘い香りが　しみついた…
+T's body was stained in a sweet aroma...
 <$12>
 <$00>
 
@@ -76925,6 +76963,7 @@ T's\neyes went wild!
 //
 <$1D>
 //は\n瞬く間に　腐った…
+ rotted away in an instant...
 <$12>
 <$00>
 
@@ -76933,6 +76972,7 @@ T's\neyes went wild!
 //00010D84
 <CLEAR>
 //しかし　道具袋の中身は\n少し　濡れただけだった…∥
+The contents of the item bag got a bit wet.
 <$12>
 <$00>
 
@@ -76943,6 +76983,7 @@ T's\neyes went wild!
 //
 <$1C>
 //Aは\n２体に　分裂した∥
+A split into 2!
 <$00>
 
 
@@ -76952,6 +76993,7 @@ T's\neyes went wild!
 //
 <$1C>
 //Tは　興奮した∥
+T was roused!
 <$00>
 
 
@@ -76961,6 +77003,7 @@ T's\neyes went wild!
 //
 <$1C>
 //Kの足元は\n水浸しになった∥
+K's feet were submerged in water!
 <$12>
 <$00>
 
@@ -76971,6 +77014,7 @@ T's\neyes went wild!
 //
 <$1C>
 //Tの体は\nガソリンで　湿った∥
+T's body was soaked in gasoline!
 <$12>
 <$00>
 
@@ -76978,6 +77022,7 @@ T's\neyes went wild!
 //0393_0000010B_bin\PROG.BIN
 //00010D84
 //\n燃焼性↑
+\nFLAMMABILITY ↑
 <$12>
 <$00>
 
@@ -76988,6 +77033,7 @@ T's\neyes went wild!
 //
 <$1C>
 //Tの体は\n塩水で　湿った∥
+T's body was soaked in salt water!
 <$12>
 <$00>
 
@@ -76995,6 +77041,7 @@ T's\neyes went wild!
 //0393_0000010B_bin\PROG.BIN
 //00010D84
 //\n凍結性↑
+\nFREEZABILITY ↑
 <$12>
 <$00>
 
@@ -77005,6 +77052,7 @@ T's\neyes went wild!
 //
 <$1C>
 //Tの体は\n水で　湿った∥
+T's body was soaked in water!
 <$12>
 <$00>
 
@@ -77012,6 +77060,7 @@ T's\neyes went wild!
 //0393_0000010B_bin\PROG.BIN
 //00010D84
 //\n通電性↑
+\nCONDUCTIVITY ↑
 <$12>
 <$00>
 
@@ -77022,6 +77071,7 @@ T's\neyes went wild!
 //
 <$1C>
 //Tは　眠った∥
+T slept!
 <$12>
 <$00>
 
@@ -77032,8 +77082,10 @@ T's\neyes went wild!
 //
 <$1C>
 //Aは\n
+A covered 
 <$1C>
 //Tを　かばった∥
+T!
 <$12>
 <$00>
 
@@ -77044,6 +77096,7 @@ T's\neyes went wild!
 //
 <$1C>
 //Aは\n防御に　徹した∥
+A kept guarding!
 <$12>
 <$00>
 
@@ -77054,6 +77107,7 @@ T's\neyes went wild!
 //
 <$1C>
 //Aの足元は\n炎に包まれた∥
+A's feet were engulfed in flames!
 <$12>
 <$00>
 
@@ -77064,6 +77118,7 @@ T's\neyes went wild!
 //
 <$1C>
 //Tは　耳鳴りがして\n少し　よろめいた…
+T's ears rang, and they flinched...
 <$12>
 <$00>
 
@@ -77074,6 +77129,7 @@ T's\neyes went wild!
 //
 <$1C>
 //Tの瞳の奥で\n白いモノが　点滅した…
+T felt a white flash before their eyes.
 <$12>
 <$00>
 
@@ -77082,6 +77138,7 @@ T's\neyes went wild!
 //00010D84
 <CLEAR>
 //ケンは　あわてて\n道具袋を　隠した∥
+Ken promptly hid the item bag!
 <$12>
 <$00>
 
@@ -77090,6 +77147,7 @@ T's\neyes went wild!
 //00010D84
 <CLEAR>
 //辺りに　酸い臭いが\n立ち込めた…
+A foul odor hovered over the area...
 <$12>
 <$00>
 
@@ -77100,6 +77158,7 @@ T's\neyes went wild!
 //
 <$1C>
 //Tも\n「グるろ　グるろ」と\n腹を鳴らした∥
+T let out a gutterly growl back.
 <$12>
 <$00>
 
@@ -77110,8 +77169,10 @@ T's\neyes went wild!
 //
 <$1C>
 //Tは　歌に合わせて\n
+T got into rhythm and stripped off their 
 <$1D>
 //を　脱いだ∥
+!
 <$00>
 
 
@@ -77121,6 +77182,7 @@ T's\neyes went wild!
 //
 <$1C>
 //Tは　惚然として\n聞きほれた…
+T melted in ecstasy...
 <$12>
 <$00>
 
@@ -77131,8 +77193,10 @@ T's\neyes went wild!
 //
 <$1C>
 //Aは\n
+A hid themself under 
 <$1D>
 //に潜って　姿を隠した…
+...
 <$00>
 
 
@@ -77142,8 +77206,10 @@ T's\neyes went wild!
 //
 <$1C>
 //Aは\n
+A became 
 <$1C>
 //Tになった∥
+T!
 <$00>
 
 
@@ -77153,10 +77219,13 @@ T's\neyes went wild!
 //
 <$1C>
 //Tは\n異常なカユミに　おそわれた∥\n
+T felt a bizarre itch!\n
 <$06>
 //BP
+BP
 <$04>
 //を　封じられた∥
+ is disabled!
 <$12>
 <$00>
 
@@ -77167,6 +77236,7 @@ T's\neyes went wild!
 //
 <$1C>
 //Aの全身を\n紫の液体が　包み込んだ∥
+A's entire body was wrapped up in a purple gel!
 <$12>
 <$00>
 
@@ -77177,6 +77247,7 @@ T's\neyes went wild!
 //
 <$1C>
 //Aは　全身の汗腺から\n紫の体液を　噴出した∥
+A's sweat glands all sweated purple!
 <$12>
 <$00>
 
@@ -77187,6 +77258,7 @@ T's\neyes went wild!
 //
 <$1C>
 //Aは\nヌルヌルに　なった∥
+A became slimy!
 <$12>
 <$00>
 
@@ -77197,6 +77269,7 @@ T's\neyes went wild!
 //
 <$1C>
 //Cの手のひらから\n閃光が走る∥
+C's palms flashed white!
 <$12>
 <$00>
 
@@ -77204,8 +77277,10 @@ T's\neyes went wild!
 //0393_0000010B_bin\PROG.BIN
 //00010D84
 //\nブルブルと　喉を震わせた\n耳をつんざく　
+\nA tremble, a throat quiver, a split eardrum...
 <$1C>
 //a∥
+a!
 <$00>
 
 
@@ -77602,7 +77677,7 @@ T＿sighed in dismay.
 //
 <$1C>
 //Tは　せつない溜息をついた
-T＿
+T＿sighed deeply.
 <$12>
 <$00>
 
@@ -77948,6 +78023,7 @@ Normal Attack
 //0393_0000010B_bin\PROG.BIN
 //000122B6
 //\n
+\n
 <$1D>
 //へ逃げる可
 's your one shot!
@@ -78056,7 +78132,7 @@ a!
 //
 <$1C>
 //Aは\n
-A\nmoved by＿
+A\nmoved＿
 <$1D>
 //に　移動した
 !
