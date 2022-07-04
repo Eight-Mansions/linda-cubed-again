@@ -41,7 +41,6 @@ GetLetWidth:
 	
 GetCurLetWidth:
 	la t1, curLetWidth
-	nop
 	lb t1, 0(t1)
 	j 0x80048c3c
 	sh t1, 0x0028(sp)
