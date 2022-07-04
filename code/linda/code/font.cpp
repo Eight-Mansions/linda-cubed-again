@@ -1,109 +1,108 @@
 #include "font.h"
 
 const u8 widths[] = {
-	5,	//  	00
-	5,	// !	01
-	7,	// "	02
-	10,	// #	03
-	10,	// $	04
-	13,	// %	05
-	13,	// &	06
-	5,	// '	07
-	7,	// (	08
-	7,	// )	09
-	10,	// *	0A
-	10,	// +	0B
-	5,	// ,	0C
-	6,	// -	0D
-	8,	// .	0E
-	5,	// /	0F
-	10,	// 0	10
-	8,	// 1	11
-	9,	// 2	12
-	11,	// 3	13
-	10,	// 4	14
-	10,	// 5	15
-	10,	// 6	16
-	10,	// 7	17
-	10,	// 8	18
-	10,	// 9	19
-	5,	// :	1A
-	5,	// ;	1B
-	10,	// <	1C
-	10,	// =	1D
-	10,	// >	1E
-	10,	// ?	1F
-	12,	// @	20
-	12,	// A	21
-	11,	// B	22
-	10,	// C	23
-	12,	// D	24
-	11,	// E	25
-	11,	// F	26
-	11,	// G	27
-	14,	// H	28
-	7,	// I	29
-	10,	// J	2A
-	12,	// K	2B
-	11,	// L	2C
-	17,	// M	2D
-	12,	// N	2E
-	12,	// O	2F
-	11,	// P	30
-	12,	// Q	31
-	12,	// R	32
-	10,	// S	33
-	12,	// T	34
-	11,	// U	35
-	12,	// V	36
-	17,	// W	37
-	12,	// X	38
-	12,	// Y	39
-	10,	// Z	3A
-	5,	// [	3B
-	8,	// \	3C
-	6,	// ]	3D
-	9,	// ^	3E
-	10,	// _	3F
-	6,	// `	40
-	10,	// a	41
-	10,	// b	42
-	10,	// c	43
-	10,	// d	44
-	9,	// e	45
-	8,	// f	46
-	10,	// g	47
-	11,	// h	48
-	6,	// i	49
-	6,	// j	4A
-	11,	// k	4B
-	6,	// l	4C
-	16,	// m	4D
-	11,	// n	4E
-	9,	// o	4F
-	10,	// p	50
-	9,	// q	51
-	8,	// r	52
-	9,	// s	53
-	7,	// t	54
-	11,	// u	55
-	10,	// v	56
-	14,	// w	57
-	10,	// x	58
-	11,	// y	59
-	9,	// z	5A
-	6,	// {	5B
-	4,	// |	5C
-	6,	// }	5D
-	9,	// ~	5E
+	0x04, // space
+	0x02, // !
+	0x04, // "
+	0x08, // #
+	0x06, // $
+	0x07, // %
+	0x06, // &
+	0x02, // '
+	0x04, // (
+	0x04, // )
+	0x04, // *
+	0x06, // +
+	0x03, // ,
+	0x06, // -
+	0x02, // .
+	0x05, // /
+	0x08, // 0
+	0x04, // 1
+	0x08, // 2
+	0x08, // 3
+	0x08, // 4
+	0x08, // 5
+	0x08, // 6
+	0x08, // 7
+	0x08, // 8
+	0x08, // 9
+	0x03, // :
+	0x03, // ;
+	0x05, // <
+	0x06, // =
+	0x05, // >
+	0x08, // ?
+	0x08, // @
+	0x05, // A
+	0x05, // B
+	0x05, // C
+	0x05, // D
+	0x05, // E
+	0x05, // F
+	0x05, // G
+	0x06, // H
+	0x04, // I
+	0x05, // J
+	0x06, // K
+	0x05, // L
+	0x06, // M
+	0x06, // N
+	0x05, // O
+	0x05, // P
+	0x05, // Q
+	0x05, // R
+	0x05, // S
+	0x06, // T
+	0x06, // U
+	0x06, // V
+	0x06, // W
+	0x06, // X
+	0x06, // Y
+	0x06, // Z
+	0x04, // [
+	0x08, // backslash
+	0x06, // ]
+	0x08, // ^
+	0x07, // _
+	0x0C, // `
+	0x05, // a
+	0x05, // b 
+	0x05, // c
+	0x05, // d
+	0x05, // e
+	0x04, // f
+	0x05, // g
+	0x05, // h
+	0x02, // i
+	0x03, // j
+	0x05, // k
+	0x02, // l
+	0x06, // m
+	0x05, // n
+	0x05, // o
+	0x05, // p
+	0x05, // q
+	0x05, // r
+	0x05, // s
+	0x04, // t
+	0x05, // u
+	0x05, // v
+	0x06, // w
+	0x06, // x
+	0x05, // y
+	0x05, // z
+	0x04, // {
+	0x02, // |
+	0x04, // }
+	0x08, // ~
 };
-
 
 u32 GetLetterWidth(const u32 letter)
 {
-	if (letter >= 0x829F && letter <= 0x82FE)
+	if (letter >= 0x20 && letter <= 0x7F)
 	{
-		u32 idx = letter - 0x829F;
+		u32 idx = letter - 0x20;
 		return widths[idx];
 	}
 	else
@@ -111,30 +110,3 @@ u32 GetLetterWidth(const u32 letter)
 		return 0x10;
 	}
 }
-
-u32 GetSentenceWidth(const u16* text, const u16* end)
-{
-	int textWidth = 0;
-	int length = end - text;
-	curLetIdx = length;
-	for (int i = 0; i < length; i++) // There is also a check for <$09> but not sure what that does... maybe breaks too?
-	{
-		u32 letter = (text[i] & 0xFF) << 8 | text[i] >> 8;
-		if (letter == 0x5C6E) // Not sure if it starts after or before the \n...
-		{
-			textWidth = 0;
-		}
-		else
-		{
-			textWidth += GetLetterWidth(letter);
-		}
-	}
-	return textWidth;
-}
-
-//int GetYForCentering(const char* text, u32 length)
-//{
-//	u32 textwidth = GetSentenceWidth(text, length);
-//
-//	return (int)((256 >> 1) - (textwidth >> 1)); // 256 is the width of text box texture
-//}
