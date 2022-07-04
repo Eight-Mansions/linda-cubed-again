@@ -13,7 +13,7 @@
 
 .org 0x8004cc60
 	; ADDIU   800c2008 (v1), 00000008 (a0), 0008 (8), <- space is hardcoded to 8...
-	addiu v1, a0, 4
+	addiu v1, a0, 3
 	
 .org 0x80081318 ; Don't be deleting my space!
 	nop
