@@ -204,7 +204,7 @@ z116_120.obj
 
 #WRITE(PTR, $001E)
 //動物博士の家
-<$06>Wildlife Expert's House＿
+Wildlife Expert's House＿
 <$00>
 
 
@@ -212,7 +212,7 @@ z116_120.obj
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -228,7 +228,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -245,7 +245,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -262,7 +262,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -273,7 +273,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -284,7 +284,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -295,7 +295,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //キミたちも　レンジャー隊員なら\n動物図鑑を　携帯しとるだろうね！\nアレ、わしが作ったんじゃよ
 Rangers still carry the Animal Bible around,\n
 right? Well, it was I who first developed it!
@@ -327,7 +327,7 @@ me your work, I'd be delighted to look!
 
 
 #WRITE(PTR, $0020)
-<$06><CLEAR>
+<CLEAR>
 //まだ　この広いネオケニアのどこかに\n名前の決まっていない　動物が\nいないとは思うが　いるやもしれん
 I can't imagine any undiscovered animals\n
 still out in Neo Kenya, but it's possible!
@@ -351,7 +351,7 @@ you earn the prime honor of naming it!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ほぉ、キミの捕まえた動物は\n正真正銘の　新種のようじゃナ
 Oh-ho! That animal you discovered looks like\n
 it's from an unidentified species!
@@ -363,7 +363,7 @@ it's from an unidentified species!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //第一発見者として　そいつに\n名前をつけることが　できるゾ\n
 Care to name the species?\n
 <$01>
@@ -389,7 +389,7 @@ Maybe later.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //そうか、いい名前を考えてやるがいい\nなにしろ　こいつにとっては\n一生の問題じゃからナ
 Well, think of something good. This animal's\n
 the one who has to live with it.
@@ -401,7 +401,7 @@ the one who has to live with it.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //まっ、キミにダサイ名前を　もらうより\nいっそ　名前などないほうが\nこいつも　幸せかもナ
 Eh, instead of a tacky name, it's better to\n
 not have one at all.
@@ -413,7 +413,7 @@ not have one at all.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //それでどれにするんじゃ？
 What would you like to show me?
 <$12>
@@ -425,7 +425,7 @@ What would you like to show me?
 
 
 //
-<$06><$15>
+<$15>
 //Y動物博士
 YWildlife Expert＿
 <$00>
@@ -441,7 +441,7 @@ M%03dF.OBJ
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //こいつじゃな？\n
 This is the one?\n
 <$01>
@@ -461,7 +461,7 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //じゃあ、どれにするんじゃね？\nそれとも今回は命名を見送るかね？\n
 Are you saying you'd rather not name your\n
 animal?\n
@@ -482,7 +482,7 @@ Correct.
 
 
 //残念ながら　その名の動物は既にいるゾ\nもう一度　つけ直しじゃ
-<$06>A species already exists by that name.
+A species already exists by that name.
 <$12>
 <$00>
 
@@ -491,7 +491,7 @@ Correct.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //＜
 "
 <$1D>
@@ -514,7 +514,7 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //なに、違う？\nじゃあ、どうするんじゃ？\n
 Wait, really? Then what will you do?\n
 <$01>
@@ -539,7 +539,7 @@ Show animals.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //＜
 "
 <$1D>
@@ -553,7 +553,7 @@ Show animals.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //センスのない　ネーミングじゃナ
 What a tacky name.
 <$12>
@@ -564,7 +564,7 @@ What a tacky name.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //まあ、そんなところじゃナ
 Well, it works.
 <$12>
@@ -575,7 +575,7 @@ Well, it works.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //うむ、ピッタリの名前じゃ
 Why, it's perfect!
 <$12>
@@ -586,7 +586,7 @@ Why, it's perfect!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //そういう名前の友だちが　昔いたなあ
 Funny enough, I had a friend with that name!
 <$12>
@@ -620,7 +620,7 @@ Incredibly gassy, that guy.
 
 
 //……東
-<$06>...East
+...East
 <$00>
 
 
@@ -629,7 +629,7 @@ Incredibly gassy, that guy.
 
 
 //……西
-<$06>...West
+...West
 <$00>
 
 
@@ -638,7 +638,7 @@ Incredibly gassy, that guy.
 
 
 //……南
-<$06>...South
+...South
 <$00>
 
 
@@ -647,7 +647,7 @@ Incredibly gassy, that guy.
 
 
 //……北
-<$06>...North
+...North
 <$00>
 
 
@@ -656,7 +656,7 @@ Incredibly gassy, that guy.
 
 
 //…北東
-<$06>...North-east
+...North-east
 <$00>
 
 
@@ -665,7 +665,7 @@ Incredibly gassy, that guy.
 
 
 //…北西
-<$06>...North-west
+...North-west
 <$00>
 
 
@@ -674,7 +674,7 @@ Incredibly gassy, that guy.
 
 
 //…南東
-<$06>...South-east
+...South-east
 <$00>
 
 
@@ -683,7 +683,7 @@ Incredibly gassy, that guy.
 
 
 //…南西
-<$06>...South-west
+...South-west
 <$00>
 
 
@@ -691,7 +691,7 @@ Incredibly gassy, that guy.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -703,7 +703,7 @@ Incredibly gassy, that guy.
 
 
 //、…
-<$06>! That's where we'll find a＿
+! That's where we'll find a＿
 <$1D>
 //に行けば
 .
@@ -715,7 +715,7 @@ Incredibly gassy, that guy.
 
 
 //直進
-<$06>For
+For
 <$00>
 
 
@@ -724,7 +724,7 @@ Incredibly gassy, that guy.
 
 
 //右よ
-<$06>Right
+Right
 <$00>
 
 
@@ -733,7 +733,7 @@ Incredibly gassy, that guy.
 
 
 //左よ
-<$06>Left
+Left
 <$00>
 
 
@@ -742,7 +742,7 @@ Incredibly gassy, that guy.
 
 
 //後ろ
-<$06>Back
+Back
 <$00>
 
 
@@ -750,7 +750,7 @@ Incredibly gassy, that guy.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -762,7 +762,7 @@ Incredibly gassy, that guy.
 
 
 //、絶対に
-<$06>wards, got it? I'm sure we'll find a＿
+wards, got it? I'm sure we'll find a＿
 <$1D>
 //∥
 ＿there!
@@ -773,7 +773,7 @@ Incredibly gassy, that guy.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -788,7 +788,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…ごめんね、\n今日は　勘がはたらかないわ…
 ...Sorry. I don't have it in me today.
 <$12>
@@ -800,7 +800,7 @@ SLinda used her woman's intuition...
 
 
 //運命の
-<$06>Fated＿
+Fated＿
 <$00>
 
 
@@ -809,7 +809,7 @@ SLinda used her woman's intuition...
 
 
 //新しい
-<$06>New＿
+New＿
 <$00>
 
 
@@ -818,7 +818,7 @@ SLinda used her woman's intuition...
 
 
 //素敵な
-<$06>Great＿
+Great＿
 <$00>
 
 
@@ -827,7 +827,7 @@ SLinda used her woman's intuition...
 
 
 //未知の
-<$06>Unknown＿
+Unknown＿
 <$00>
 
 
@@ -836,7 +836,7 @@ SLinda used her woman's intuition...
 
 
 //何か
-<$06>things＿
+things＿
 <$00>
 
 
@@ -845,7 +845,7 @@ SLinda used her woman's intuition...
 
 
 //発見
-<$06>discoveries＿
+discoveries＿
 <$00>
 
 
@@ -854,7 +854,7 @@ SLinda used her woman's intuition...
 
 
 //お宝
-<$06>treasures＿
+treasures＿
 <$00>
 
 
@@ -863,7 +863,7 @@ SLinda used her woman's intuition...
 
 
 //動物
-<$06>animals＿
+animals＿
 <$00>
 
 
@@ -872,7 +872,7 @@ SLinda used her woman's intuition...
 
 
 //に　出会える…
-<$06>could appear.
+could appear.
 <$00>
 
 
@@ -881,7 +881,7 @@ SLinda used her woman's intuition...
 
 
 //が　待ってる…
-<$06>await us...
+await us...
 <$00>
 
 
@@ -890,7 +890,7 @@ SLinda used her woman's intuition...
 
 
 //気がするわ∥
-<$06>are there.
+are there.
 <$00>
 
 
@@ -899,7 +899,7 @@ SLinda used her woman's intuition...
 
 
 //チャンスよ∥
-<$06>are in our grasp!
+are in our grasp!
 <$00>
 
 
@@ -908,7 +908,7 @@ SLinda used her woman's intuition...
 
 
 //今しかないわ
-<$06>could slip through our fingers!
+could slip through our fingers!
 <$00>
 
 
@@ -917,7 +917,7 @@ SLinda used her woman's intuition...
 
 
 //間違いなし∥
-<$06>are dead head!
+are dead head!
 <$00>
 
 
@@ -926,7 +926,7 @@ SLinda used her woman's intuition...
 
 
 //\n
-<$06>\n
+\n
 <$1D><$1D><$1D>
 //\n
 \n
@@ -941,7 +941,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信があるの∥
 I'm sure of it!
 <$12>
@@ -952,7 +952,7 @@ I'm sure of it!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信は　ないけどね…
 Although, I'm not totally certain...
 <$12>
@@ -963,7 +963,7 @@ Although, I'm not totally certain...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //絶対なんだから∥
 I'm absolutely certain!
 <$12>
@@ -975,7 +975,7 @@ I'm absolutely certain!
 
 
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -996,7 +996,7 @@ go for some＿
 
 
 //卵焼き
-<$06>fried eggs
+fried eggs
 <$00>
 
 
@@ -1005,7 +1005,7 @@ go for some＿
 
 
 //カレー
-<$06>curry
+curry
 <$00>
 
 
@@ -1014,7 +1014,7 @@ go for some＿
 
 
 //焼き肉
-<$06>Neo Korean BBQ
+Neo Korean BBQ
 <$00>
 
 
@@ -1023,7 +1023,7 @@ go for some＿
 
 
 //唐あげ
-<$06>karaage
+karaage
 <$00>
 
 
@@ -1032,7 +1032,7 @@ go for some＿
 
 
 //お菓子
-<$06>candy
+candy
 <$00>
 
 
@@ -1041,7 +1041,7 @@ go for some＿
 
 
 //バナナ
-<$06>banana
+banana
 <$00>
 
 
@@ -1050,7 +1050,7 @@ go for some＿
 
 
 //フライ
-<$06>Neo French fries
+Neo French fries
 <$00>
 
 
@@ -1059,7 +1059,7 @@ go for some＿
 
 
 //焼き魚
-<$06>grilled fish
+grilled fish
 <$00>
 
 
@@ -1068,7 +1068,7 @@ go for some＿
 
 
 //トマト
-<$06>tomato
+tomato
 <$00>
 
 
@@ -1077,7 +1077,7 @@ go for some＿
 
 
 //バター
-<$06>butter
+butter
 <$00>
 
 
@@ -1086,7 +1086,7 @@ go for some＿
 
 
 //ソース
-<$06>sauce
+sauce
 <$00>
 
 
@@ -1095,7 +1095,7 @@ go for some＿
 
 
 //スープ
-<$06>＿soup
+＿soup
 <$00>
 
 
@@ -1104,7 +1104,7 @@ go for some＿
 
 
 //ピラフ
-<$06>pilaf
+pilaf
 <$00>
 
 
@@ -1113,7 +1113,7 @@ go for some＿
 
 
 //バニラ
-<$06>vanilla
+vanilla
 <$00>
 
 
@@ -1122,7 +1122,7 @@ go for some＿
 
 
 //キムチ
-<$06>kimchi
+kimchi
 <$00>
 
 
@@ -1131,7 +1131,7 @@ go for some＿
 
 
 //チーズ
-<$06>cheese
+cheese
 <$00>
 
 
@@ -1140,7 +1140,7 @@ go for some＿
 
 
 //朝
-<$06>breakfast
+breakfast
 <$00>
 
 
@@ -1149,7 +1149,7 @@ go for some＿
 
 
 //昼
-<$06>lunch
+lunch
 <$00>
 
 
@@ -1158,7 +1158,7 @@ go for some＿
 
 
 //夕
-<$06>dinner
+dinner
 <$00>
 
 
@@ -1167,7 +1167,7 @@ go for some＿
 
 
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -1183,10 +1183,10 @@ It smells strongly of antiseptic here.
 
 #WRITE(PTR, $0022)
 //
-<$06><$15>
+<$15>
 //Y動物情報
 YAnimal＿
-
+<$06>
 //サービス
 Search
 <$00>
@@ -1196,7 +1196,7 @@ Search
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //検索ナサイマスカ？\n
 USE THE SEARCH ENGINE?\n
 <$01>
@@ -1237,7 +1237,7 @@ No
 
 
 // 
-<$06>
+
 <$00>
 
 
@@ -1245,7 +1245,7 @@ No
 
 
 
-<$06><$16><$01><$1D><$02>
+<$16><$01><$1D><$02>
 //56
 56
 <$0E>
@@ -1274,7 +1274,7 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$02>
 //20
@@ -1292,7 +1292,7 @@ No
 
 
 
-<$06><$03>
+<$03>
 //164
 164
 <$02>

@@ -42,7 +42,7 @@ c120a2.obj
 
 #WRITE(PTR, $0020)
 //テント
-<$06>Tent＿
+Tent＿
 <$00>
 
 
@@ -50,7 +50,7 @@ c120a2.obj
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -66,7 +66,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -83,7 +83,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -100,7 +100,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -111,7 +111,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -122,7 +122,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -134,11 +134,11 @@ The Navi System(NaviS) can't be booted here!
 
 
 //東の出口から出て　東へ行くと\nＵ
-<$06>If you take the east exit to U
-
+If you take the east exit to U
+<$06>
 //-10
 -10
-
+<$04>
 //に　ダイケイブという\n大きな洞窟が　あってサ
 , you'll find Great Cave!
 <$12>
@@ -162,7 +162,7 @@ medicinal properties!
 
 #WRITE(PTR, $0022)
 //テント
-<$06>Tent＿
+Tent＿
 <$00>
 
 
@@ -170,7 +170,7 @@ medicinal properties!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -186,7 +186,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -203,7 +203,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -220,7 +220,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -231,7 +231,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -242,7 +242,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -255,7 +255,7 @@ The Navi System(NaviS) can't be booted here!
 
 #WRITE(PTR, $0024)
 //オオカミ少女の家
-<$06>Wolfgirl's House＿
+Wolfgirl's House＿
 <$00>
 
 
@@ -263,7 +263,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -279,7 +279,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -296,7 +296,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -313,7 +313,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -324,7 +324,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -335,7 +335,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -347,7 +347,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 //こんにちわ！　私の名はジル
-<$06>Hello! My name's Jill.
+Hello! My name's Jill.
 <$12>
 \n
 <CLEAR>
@@ -364,7 +364,7 @@ girl!
 
 
 //頼りになる猟犬、欲しくない？\n
-<$06>Do you want a more reliable dog?\n
+Do you want a more reliable dog?\n
 <$01>
 //そりゃ欲しい
 Who doesn't?
@@ -382,7 +382,7 @@ I'm fine
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 //<$1B>
 //イヌじゃ　どんなに成長しても\nせいぜい　２０レベル止まりなのよね
@@ -396,10 +396,10 @@ how much he or she is trained.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 For＿
-<$1D><$1E><$14>
+<$1D><$06><$1E><$04><$14>
 //￥で　
 , I can turn any＿
 //<$1B>
@@ -422,7 +422,7 @@ No thanks
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //お金、足んないみたいですね…\nあなたの調教なら　タダでいいわよ\n
 Even if you don't have money, I provide free\n
 training.\n
@@ -443,7 +443,7 @@ You're kidding!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //うそよ
 Hey, don't look at me like that!
 <$12>
@@ -454,7 +454,7 @@ Hey, don't look at me like that!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //あら、残念ね
 Aww, that's too bad.
 <$12>
@@ -465,7 +465,7 @@ Aww, that's too bad.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //あら、猟犬の空きがないのね…
 Wait, you have too many dogs as it is!
 <$12>
@@ -477,7 +477,7 @@ Wait, you have too many dogs as it is!
 
 
 //
-<$06><$15>
+<$15>
 //Yジ＿ル／登＿録
 YJill/Adopt
 <$00>
@@ -487,7 +487,7 @@ YJill/Adopt
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //サンキュー！
 Thank you!
 <$12>
@@ -500,7 +500,7 @@ Thank you!
 
 #WRITE(PTR, $0026)
 //
-<$06><$15>
+<$15>
 //Y猟犬屋
 YDog Center
 <$00>
@@ -510,7 +510,7 @@ YDog Center
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //お客さん…\nホスピコの入り口に　並んでる\n哀れな猟犬の墓を　数えてごらん
 Sir, go look at the pet cemetary along the\n
 Hospico entrance.
@@ -536,7 +536,7 @@ don't you?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //猟犬の収容枠が　いっぱいです\nこれ以上、猟犬を増やせません
 You have reached the max amount of dogs you\n
 can own at one time.
@@ -548,12 +548,12 @@ can own at one time.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //登録料　
 The adoption fee is over\n
 <$15>
 //b
-<$1E><$14>
+<$06><$1E><$04><$14>
 //￥が足りません\n銀行で　ご都合ください
 ￥.\n
 Get a loan from the bank.
@@ -566,7 +566,7 @@ Get a loan from the bank.
 
 
 //その名前は　既に登録されています\n別の名前を　つけてください
-<$06>Sorry, that name is taken.\n
+Sorry, that name is taken.\n
 Choose a new name.
 <$12>
 <$00>
@@ -576,7 +576,7 @@ Choose a new name.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //猟犬
 Adopt＿
 <$1D>
@@ -630,7 +630,7 @@ S
 
 
 //
-<$06><$15>
+<$15>
 //Y猟犬屋／メニュー
 YDog／Menu
 <$00>
@@ -640,7 +640,7 @@ YDog／Menu
 
 
 
-<$06><$01>
+<$01>
 //買＿う
 Buy
 <$0E>
@@ -669,7 +669,7 @@ Exit
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //猟犬登録の制限３２匹を越えました\nよって、登録できません
 You have reached the 32 dog adoption limit.\n
 You cannot adopt any more dogs.
@@ -681,7 +681,7 @@ You cannot adopt any more dogs.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 You don't have any＿
 //<$1B>
@@ -696,7 +696,7 @@ dogs.
 
 
 //
-<$06><$15>
+<$15>
 //Y猟犬屋／登＿録
 YDog／Tame
 <$00>
@@ -706,7 +706,7 @@ YDog／Tame
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //猟犬は太古より　人間の良きパートナー\nぜひ　あなたも　１頭いかがですか？\n
 Dogs have been man's best friend since\n
 ancient times.\n
@@ -733,7 +733,7 @@ Exit
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //またの御利用を　お待ち申し上げます
 We look forward to your next visit.
 <$12>
@@ -745,7 +745,7 @@ We look forward to your next visit.
 
 
 //
-<$06><$15>
+<$15>
 //Y猟犬屋／買＿う
 YDog／Buy
 <$00>
@@ -762,7 +762,7 @@ YDog／Buy
 
 
 
-<$06><$16><$15>
+<$04><$16><$15>
 //W
 W
 <$01>
@@ -788,7 +788,7 @@ Dog LVL＿
 
 
 //
-<$06><$15>
+<$15>
 //Y猟犬屋／売＿る
 YDog／Sell
 <$00>
@@ -798,13 +798,13 @@ YDog／Sell
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //猟犬「
 Sell＿
 <$1D>
 //」を\n
 ＿ for＿
-<$1E>
+<$06><$1E><$04>
 //￥で売りますか？\n
 ￥?\n
 <$01>
@@ -825,7 +825,7 @@ No
 
 
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -840,7 +840,7 @@ None of the scents around here stand out.
 
 
 //……東
-<$06>...East
+...East
 <$00>
 
 
@@ -849,7 +849,7 @@ None of the scents around here stand out.
 
 
 //……西
-<$06>...West
+...West
 <$00>
 
 
@@ -858,7 +858,7 @@ None of the scents around here stand out.
 
 
 //……南
-<$06>...South
+...South
 <$00>
 
 
@@ -867,7 +867,7 @@ None of the scents around here stand out.
 
 
 //……北
-<$06>...North
+...North
 <$00>
 
 
@@ -876,7 +876,7 @@ None of the scents around here stand out.
 
 
 //…北東
-<$06>...North-east
+...North-east
 <$00>
 
 
@@ -885,7 +885,7 @@ None of the scents around here stand out.
 
 
 //…北西
-<$06>...North-west
+...North-west
 <$00>
 
 
@@ -894,7 +894,7 @@ None of the scents around here stand out.
 
 
 //…南東
-<$06>...South-east
+...South-east
 <$00>
 
 
@@ -903,7 +903,7 @@ None of the scents around here stand out.
 
 
 //…南西
-<$06>...South-west
+...South-west
 <$00>
 
 
@@ -911,7 +911,7 @@ None of the scents around here stand out.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -923,7 +923,7 @@ None of the scents around here stand out.
 
 
 //、…
-<$06>! That's where we'll find a＿
+! That's where we'll find a＿
 <$1D>
 //に行けば
 .
@@ -935,7 +935,7 @@ None of the scents around here stand out.
 
 
 //直進
-<$06>For
+For
 <$00>
 
 
@@ -944,7 +944,7 @@ None of the scents around here stand out.
 
 
 //右よ
-<$06>Right
+Right
 <$00>
 
 
@@ -953,7 +953,7 @@ None of the scents around here stand out.
 
 
 //左よ
-<$06>Left
+Left
 <$00>
 
 
@@ -962,7 +962,7 @@ None of the scents around here stand out.
 
 
 //後ろ
-<$06>Back
+Back
 <$00>
 
 
@@ -970,7 +970,7 @@ None of the scents around here stand out.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -982,7 +982,7 @@ None of the scents around here stand out.
 
 
 //、絶対に
-<$06>wards, got it? I'm sure we'll find a＿
+wards, got it? I'm sure we'll find a＿
 <$1D>
 //∥
 ＿there!
@@ -993,7 +993,7 @@ None of the scents around here stand out.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1008,7 +1008,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…ごめんね、\n今日は　勘がはたらかないわ…
 ...Sorry. I don't have it in me today.
 <$12>
@@ -1020,7 +1020,7 @@ SLinda used her woman's intuition...
 
 
 //運命の
-<$06>Fated＿
+Fated＿
 <$00>
 
 
@@ -1029,7 +1029,7 @@ SLinda used her woman's intuition...
 
 
 //新しい
-<$06>New＿
+New＿
 <$00>
 
 
@@ -1038,7 +1038,7 @@ SLinda used her woman's intuition...
 
 
 //素敵な
-<$06>Great＿
+Great＿
 <$00>
 
 
@@ -1047,7 +1047,7 @@ SLinda used her woman's intuition...
 
 
 //未知の
-<$06>Unknown＿
+Unknown＿
 <$00>
 
 
@@ -1056,7 +1056,7 @@ SLinda used her woman's intuition...
 
 
 //何か
-<$06>things＿
+things＿
 <$00>
 
 
@@ -1065,7 +1065,7 @@ SLinda used her woman's intuition...
 
 
 //発見
-<$06>discoveries＿
+discoveries＿
 <$00>
 
 
@@ -1074,7 +1074,7 @@ SLinda used her woman's intuition...
 
 
 //お宝
-<$06>treasures＿
+treasures＿
 <$00>
 
 
@@ -1083,7 +1083,7 @@ SLinda used her woman's intuition...
 
 
 //動物
-<$06>animals＿
+animals＿
 <$00>
 
 
@@ -1092,7 +1092,7 @@ SLinda used her woman's intuition...
 
 
 //に　出会える…
-<$06>could appear.
+could appear.
 <$00>
 
 
@@ -1101,7 +1101,7 @@ SLinda used her woman's intuition...
 
 
 //が　待ってる…
-<$06>await us...
+await us...
 <$00>
 
 
@@ -1110,7 +1110,7 @@ SLinda used her woman's intuition...
 
 
 //気がするわ∥
-<$06>are there.
+are there.
 <$00>
 
 
@@ -1119,7 +1119,7 @@ SLinda used her woman's intuition...
 
 
 //チャンスよ∥
-<$06>are in our grasp!
+are in our grasp!
 <$00>
 
 
@@ -1128,7 +1128,7 @@ SLinda used her woman's intuition...
 
 
 //今しかないわ
-<$06>could slip through our fingers!
+could slip through our fingers!
 <$00>
 
 
@@ -1137,7 +1137,7 @@ SLinda used her woman's intuition...
 
 
 //間違いなし∥
-<$06>are dead head!
+are dead head!
 <$00>
 
 
@@ -1146,7 +1146,7 @@ SLinda used her woman's intuition...
 
 
 //\n
-<$06>\n
+\n
 <$1D><$1D><$1D>
 //\n
 \n
@@ -1161,7 +1161,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信があるの∥
 I'm sure of it!
 <$12>
@@ -1172,7 +1172,7 @@ I'm sure of it!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信は　ないけどね…
 Although, I'm not totally certain...
 <$12>
@@ -1183,7 +1183,7 @@ Although, I'm not totally certain...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //絶対なんだから∥
 I'm absolutely certain!
 <$12>
@@ -1195,7 +1195,7 @@ I'm absolutely certain!
 
 
 //
-<$06><$15>
+<$15>
 //Yスケジュール
 YMemo＿
 <$00>
@@ -1205,7 +1205,7 @@ YMemo＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //スケジュールは何もありません
 There is nothing on schedule.
 <$12>
@@ -1217,7 +1217,7 @@ There is nothing on schedule.
 
 
 //成功終了
-<$06>Completed!
+Completed!
 <$00>
 
 
@@ -1226,7 +1226,7 @@ There is nothing on schedule.
 
 
 //期限切れ
-<$06>Expired!
+Expired!
 <$00>
 
 
@@ -1235,7 +1235,7 @@ There is nothing on schedule.
 
 
 //あと
-<$06>In＿
+In＿
 <$1E>
 //季節
 ＿seasons
@@ -1247,7 +1247,7 @@ There is nothing on schedule.
 
 
 //あと
-<$06>Deadline:＿
+Deadline:＿
 <$1E>
 //年
 Y/
@@ -1262,7 +1262,7 @@ S
 
 
 //あと
-<$06>In＿
+In＿
 <$1E>
 //年
 ＿years
@@ -1273,7 +1273,7 @@ S
 
 
 
-<$06><$16><$01>
+<$16><$01>
 //◇
 ◇
 <$0E><$1D><$02>
@@ -1287,7 +1287,7 @@ S
 
 
 //ファングを倒す
-<$06>Slay Fang
+Slay Fang
 <$00>
 
 
@@ -1296,7 +1296,7 @@ S
 
 
 //パンハイムからの依頼
-<$06>Assist Panheim
+Assist Panheim
 <$00>
 
 
@@ -1306,7 +1306,7 @@ S
 
 //<$1B>
 //カメの卵を手に入れる
-<$06>Snatch Turtle Eggs
+Snatch Turtle Eggs
 <$00>
 
 
@@ -1316,7 +1316,7 @@ S
 
 //<$1B>
 //プテラノの卵を手に入れる
-<$06>Snatch Pteranodon Eggs
+Snatch Pteranodon Eggs
 <$00>
 
 
@@ -1325,7 +1325,7 @@ S
 
 
 //遺産争いにケリをつける
-<$06>End the inheritance battle
+End the inheritance battle
 <$00>
 
 
@@ -1334,7 +1334,7 @@ S
 
 
 //ヤマダのために一肌脱ぐ
-<$06>Unload for Yamada
+Unload for Yamada
 <$00>
 
 
@@ -1343,7 +1343,7 @@ S
 
 
 //町のシンボルを見つけだす
-<$06>Find the village symbol
+Find the village symbol
 <$00>
 
 
@@ -1352,7 +1352,7 @@ S
 
 
 //ソフィアからの依頼
-<$06>Assist Sophia
+Assist Sophia
 <$00>
 
 
@@ -1361,7 +1361,7 @@ S
 
 
 //サチコ救出
-<$06>Rescue Sachiko
+Rescue Sachiko
 <$00>
 
 
@@ -1370,7 +1370,7 @@ S
 
 
 //ポロポロちゃんを助ける
-<$06>Save Nightshade
+Save Nightshade
 <$00>
 
 
@@ -1379,7 +1379,7 @@ S
 
 
 //アンジェラ捜し
-<$06>Find Angela
+Find Angela
 <$00>
 
 
@@ -1387,7 +1387,7 @@ S
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //カラゴラムのファングを倒し、その証拠を\nハーディアホテルのスペクターに渡す
 Defeat Fang in Karhagolem. Present proof to\n
 Spectre in Hardia Hotel.
@@ -1398,7 +1398,7 @@ Spectre in Hardia Hotel.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //マーブルポリスの
 Process meat from＿
 //<$1B>
@@ -1412,7 +1412,7 @@ Panheim in Hospico.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 Find up to 3＿
 //<$1B>
@@ -1426,7 +1426,7 @@ Park BB Ranch.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 Acquire 2＿
 //<$1B>
@@ -1440,7 +1440,7 @@ Battle Park BB Ranch.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「太郎の首輪」を見つけだし、ドギファの\nナターシャか、オーマン家３兄弟に渡す
 Locate Taro's Collar. Give it to Natasha or\n
 one of the 3 Aumann children in Dogyf\n
@@ -1453,7 +1453,7 @@ Heights.
 
 
 //６万
-<$06>60, 000
+60, 000
 <$00>
 
 
@@ -1462,10 +1462,10 @@ Heights.
 
 
 //あと
-<$06>another＿
-<$1E><$0F>
+another＿
+<$06><$1E><$0F>
 //000
-
+<$04>
 <$00>
 
 
@@ -1473,7 +1473,7 @@ Heights.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //Ｇファクトリーのヤマダのために\n
 Deposit＿
 <$1D>
@@ -1486,7 +1486,7 @@ Deposit＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //コシカタのシンボル「
 Find the＿
 //<$1B>
@@ -1500,7 +1500,7 @@ Return it to Poliska.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ソフィアのために、エターナの桜の木を\nどうにかして咲かせる
 Find out how to revive the sakura trees in\n
 Eterna for Sophia.
@@ -1511,7 +1511,7 @@ Eterna for Sophia.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //溶岩の中で育った動物の熱いウンチを\nエターナのソフィアに渡す
 Deliver Hot Dung from a lava-dwelling\n
 creature to Sophia in Eterna.
@@ -1522,7 +1522,7 @@ creature to Sophia in Eterna.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ラグナロッジのエモリに会いに行く
 Meet with Dr. Emori in Ragna Rim.
 <$00>
@@ -1532,13 +1532,13 @@ Meet with Dr. Emori in Ragna Rim.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「フロッピーと
 Take the Floppy Disc and＿
-
+<$06>
 //10
 10, 000
-
+<$04>
 //万￥」を持って、\nＧファクトリー入口１階、\n公衆電話の前に行く
 ￥ to the G Factory gate. Answer the payphone.
 <$00>
@@ -1548,13 +1548,13 @@ Take the Floppy Disc and＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「フロッピーと
 Take the Floppy Disc and＿
-
+<$06>
 //10
 10, 000
-
+<$04>
 //万￥」を持って、\nパラサイド入口１階、\n公衆電話の前に行く
 ￥ to the Paraside gate. Answer the payphone.
 <$00>
@@ -1564,13 +1564,13 @@ Take the Floppy Disc and＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「フロッピーと
 Take the Floppy Disc and＿
-
+<$06>
 //10
 10, 000
-
+<$04>
 //万￥」を持って、\nガレックスに行く
 ￥ to Galax.
 <$00>
@@ -1580,7 +1580,7 @@ Take the Floppy Disc and＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す
 Pick bloodberries in Flora Jam. Take them to\n
 Kevin and Nightshade in Rose Garden.
@@ -1591,7 +1591,7 @@ Kevin and Nightshade in Rose Garden.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //パラサイドの酒場にいるアンジェラを\n確認して、リナバレーのマリオに連絡する
 Look for Angela at the Paraside bar. Report\n
 your findings to Mario in Spurr Valley.
@@ -1602,7 +1602,7 @@ your findings to Mario in Spurr Valley.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //アンジェラを確認するために、\nオズポートホテルの酒場に行く
 Look for Angela at the OzPort Hotel bar.
 <$00>
@@ -1612,7 +1612,7 @@ Look for Angela at the OzPort Hotel bar.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //アンジェラを確認するために、\n西エリアのしけた町のホテルに行く
 Look for Angela at a hotel bar somewhere in\n
 West Area.
@@ -1623,7 +1623,7 @@ West Area.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //アンジェラを確認するために、\nドギファの舞台に行く
 Look for Angela at the theater stage in Dogyf\n
 Heights.
@@ -1634,7 +1634,7 @@ Heights.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リナバレーのマリオの母、\nアンジェラを追ってオズサットへ行く
 Chase Angela to OzSat! Mario will follow from\n
 Spurr Valley.

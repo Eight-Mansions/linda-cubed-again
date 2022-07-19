@@ -78,7 +78,7 @@ c128a2.obj
 
 #WRITE(PTR, $0022)
 //隊員住宅
-<$06>Barracks＿
+Barracks＿
 <$00>
 
 
@@ -86,7 +86,7 @@ c128a2.obj
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -102,7 +102,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -119,7 +119,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -136,7 +136,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -147,7 +147,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -158,7 +158,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -170,7 +170,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 //ＡＭＤ１９９９年　夏、死神衝突！\nちゃんと　覚えなさいよ
-<$06>Don't forget, the Grim Reaper's expected to\n
+Don't forget, the Grim Reaper's expected to\n
 hit Neo Kenya in the summer of AMD 1999!
 <$12>
 \n
@@ -187,7 +187,7 @@ on Neo Kenyan soil, you don't have much time.
 
 
 //ケン、張りきって　動物を集めるのは\nいいけど　トランスカーゴの空きは\nいつも　把握しておけよ
-<$06>In case you ever work solo, you'd better know\n
+In case you ever work solo, you'd better know\n
 the limits of your trans-cargo Unit(TCU).
 <$12>
 \n
@@ -211,7 +211,7 @@ quest.
 
 
 //南エリアの砂漠は　３０年ほど前まで\nなかったって　知ってたかよ
-<$06>Did you know that the desert in South Area\n
+Did you know that the desert in South Area\n
 didn't exist until 30 years ago?
 <$12>
 \n
@@ -243,7 +243,7 @@ up in smoke that very instant.
 
 #WRITE(PTR, $0024)
 //隊員住宅
-<$06>Barracks＿
+Barracks＿
 <$00>
 
 
@@ -251,7 +251,7 @@ up in smoke that very instant.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -267,7 +267,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -284,7 +284,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -301,7 +301,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -312,7 +312,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -323,7 +323,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -335,7 +335,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 //×ボタンで「駆け足」が　できるわ\nでも　駆け足って　意外と体力を\n使うから　あまり無茶はできないわよ
-<$06>You can press the × button to dash.\n
+You can press the × button to dash.\n
 It does expend stamina(HP),\n
 so use it sparingly.
 <$12>
@@ -353,7 +353,7 @@ realize you initiated combat with only 30 HP!
 
 
 //動物と戦うときの基本は　なるだけ\n背後から　行くことね\n間違っても　後ろはとられちゃダメ∥
-<$06>One combat rule of thumb is, "Always take the\n
+One combat rule of thumb is, "Always take the\n
 animal from behind!"
 <$12>
 \n
@@ -376,7 +376,7 @@ From behind
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //少なくとも　動物は　そんな風には\n思ってないことだけは　確かだわよ
 Cowards? But animals do it from behind too,\n
 right? I'm sure they'd disagree.
@@ -388,7 +388,7 @@ right? I'm sure they'd disagree.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //そう∥　それが自然なの∥\n私も「後ろから」のほうが　好きよ■\nリンダは　どうかしらね
 Yeah, I like doing it from behind too. What's\n
 Linda's stance on this?
@@ -402,7 +402,7 @@ Linda's stance on this?
 
 #WRITE(PTR, $0026)
 //隊員住宅
-<$06>Barracks＿
+Barracks＿
 <$00>
 
 
@@ -410,7 +410,7 @@ Linda's stance on this?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -426,7 +426,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -443,7 +443,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -460,7 +460,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -471,7 +471,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -482,7 +482,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -494,7 +494,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 //この町の「ハーディア」って\n名の由来　知ってる？\n
-<$06>Do you know where the name "Hardia" comes\n
+Do you know where the name "Hardia" comes\n
 from?\n
 <$01>
 //もちろん∥
@@ -513,7 +513,7 @@ No idea
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //そりゃそうよね、あなたの場合\n身にしみて　知ってるわけよね
 I thought so. I can tell just by looking at\n
 you.
@@ -525,7 +525,7 @@ you.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //どんな苦難にも　耐えられるようにって\n願いを込めて　レンジャー隊の本部を\n設置した時に　つけたらしいわよ
 The town got its name when the rangers first\n
 established their headquarters here.
@@ -538,7 +538,7 @@ established their headquarters here.
 
 
 //町を出たら　□ボタンを試してみな\nそこに映っているのが　東エリアだ\n今、俺たちがいる所だな
-<$06>If you leave town and press the □ button,\n
+If you leave town and press the □ button,\n
 you'll see a map of East Area.
 <$12>
 \n
@@ -557,7 +557,7 @@ West Area is 12 blocks left!
 
 #WRITE(PTR, $0028)
 //隊員住宅
-<$06>Barracks＿
+Barracks＿
 <$00>
 
 
@@ -565,7 +565,7 @@ West Area is 12 blocks left!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -581,7 +581,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -598,7 +598,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -615,7 +615,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -626,7 +626,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -637,7 +637,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -650,7 +650,7 @@ The Navi System(NaviS) can't be booted here!
 
 #WRITE(PTR, $002A)
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -671,7 +671,7 @@ go for some＿
 
 
 //卵焼き
-<$06>fried eggs
+fried eggs
 <$00>
 
 
@@ -680,7 +680,7 @@ go for some＿
 
 
 //カレー
-<$06>curry
+curry
 <$00>
 
 
@@ -689,7 +689,7 @@ go for some＿
 
 
 //焼き肉
-<$06>Neo Korean BBQ
+Neo Korean BBQ
 <$00>
 
 
@@ -698,7 +698,7 @@ go for some＿
 
 
 //唐あげ
-<$06>karaage
+karaage
 <$00>
 
 
@@ -707,7 +707,7 @@ go for some＿
 
 
 //お菓子
-<$06>candy
+candy
 <$00>
 
 
@@ -716,7 +716,7 @@ go for some＿
 
 
 //バナナ
-<$06>banana
+banana
 <$00>
 
 
@@ -725,7 +725,7 @@ go for some＿
 
 
 //フライ
-<$06>Neo French fries
+Neo French fries
 <$00>
 
 
@@ -734,7 +734,7 @@ go for some＿
 
 
 //焼き魚
-<$06>grilled fish
+grilled fish
 <$00>
 
 
@@ -743,7 +743,7 @@ go for some＿
 
 
 //トマト
-<$06>tomato
+tomato
 <$00>
 
 
@@ -752,7 +752,7 @@ go for some＿
 
 
 //バター
-<$06>butter
+butter
 <$00>
 
 
@@ -761,7 +761,7 @@ go for some＿
 
 
 //ソース
-<$06>sauce
+sauce
 <$00>
 
 
@@ -770,7 +770,7 @@ go for some＿
 
 
 //スープ
-<$06>＿soup
+＿soup
 <$00>
 
 
@@ -779,7 +779,7 @@ go for some＿
 
 
 //ピラフ
-<$06>pilaf
+pilaf
 <$00>
 
 
@@ -788,7 +788,7 @@ go for some＿
 
 
 //バニラ
-<$06>vanilla
+vanilla
 <$00>
 
 
@@ -797,7 +797,7 @@ go for some＿
 
 
 //キムチ
-<$06>kimchi
+kimchi
 <$00>
 
 
@@ -806,7 +806,7 @@ go for some＿
 
 
 //チーズ
-<$06>cheese
+cheese
 <$00>
 
 
@@ -815,7 +815,7 @@ go for some＿
 
 
 //朝
-<$06>breakfast
+breakfast
 <$00>
 
 
@@ -824,7 +824,7 @@ go for some＿
 
 
 //昼
-<$06>lunch
+lunch
 <$00>
 
 
@@ -833,7 +833,7 @@ go for some＿
 
 
 //夕
-<$06>dinner
+dinner
 <$00>
 
 
@@ -842,7 +842,7 @@ go for some＿
 
 
 //……東
-<$06>...East
+...East
 <$00>
 
 
@@ -851,7 +851,7 @@ go for some＿
 
 
 //……西
-<$06>...West
+...West
 <$00>
 
 
@@ -860,7 +860,7 @@ go for some＿
 
 
 //……南
-<$06>...South
+...South
 <$00>
 
 
@@ -869,7 +869,7 @@ go for some＿
 
 
 //……北
-<$06>...North
+...North
 <$00>
 
 
@@ -878,7 +878,7 @@ go for some＿
 
 
 //…北東
-<$06>...North-east
+...North-east
 <$00>
 
 
@@ -887,7 +887,7 @@ go for some＿
 
 
 //…北西
-<$06>...North-west
+...North-west
 <$00>
 
 
@@ -896,7 +896,7 @@ go for some＿
 
 
 //…南東
-<$06>...South-east
+...South-east
 <$00>
 
 
@@ -905,7 +905,7 @@ go for some＿
 
 
 //…南西
-<$06>...South-west
+...South-west
 <$00>
 
 
@@ -913,7 +913,7 @@ go for some＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -925,7 +925,7 @@ go for some＿
 
 
 //、…
-<$06>! That's where we'll find a＿
+! That's where we'll find a＿
 <$1D>
 //に行けば
 .
@@ -937,7 +937,7 @@ go for some＿
 
 
 //直進
-<$06>For
+For
 <$00>
 
 
@@ -946,7 +946,7 @@ go for some＿
 
 
 //右よ
-<$06>Right
+Right
 <$00>
 
 
@@ -955,7 +955,7 @@ go for some＿
 
 
 //左よ
-<$06>Left
+Left
 <$00>
 
 
@@ -964,7 +964,7 @@ go for some＿
 
 
 //後ろ
-<$06>Back
+Back
 <$00>
 
 
@@ -972,7 +972,7 @@ go for some＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -984,7 +984,7 @@ go for some＿
 
 
 //、絶対に
-<$06>wards, got it? I'm sure we'll find a＿
+wards, got it? I'm sure we'll find a＿
 <$1D>
 //∥
 ＿there!
@@ -995,7 +995,7 @@ go for some＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1010,7 +1010,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…ごめんね、\n今日は　勘がはたらかないわ…
 ...Sorry. I don't have it in me today.
 <$12>
@@ -1022,7 +1022,7 @@ SLinda used her woman's intuition...
 
 
 //運命の
-<$06>Fated＿
+Fated＿
 <$00>
 
 
@@ -1031,7 +1031,7 @@ SLinda used her woman's intuition...
 
 
 //新しい
-<$06>New＿
+New＿
 <$00>
 
 
@@ -1040,7 +1040,7 @@ SLinda used her woman's intuition...
 
 
 //素敵な
-<$06>Great＿
+Great＿
 <$00>
 
 
@@ -1049,7 +1049,7 @@ SLinda used her woman's intuition...
 
 
 //未知の
-<$06>Unknown＿
+Unknown＿
 <$00>
 
 
@@ -1058,7 +1058,7 @@ SLinda used her woman's intuition...
 
 
 //何か
-<$06>things＿
+things＿
 <$00>
 
 
@@ -1067,7 +1067,7 @@ SLinda used her woman's intuition...
 
 
 //発見
-<$06>discoveries＿
+discoveries＿
 <$00>
 
 
@@ -1076,7 +1076,7 @@ SLinda used her woman's intuition...
 
 
 //お宝
-<$06>treasures＿
+treasures＿
 <$00>
 
 
@@ -1085,7 +1085,7 @@ SLinda used her woman's intuition...
 
 
 //動物
-<$06>animals＿
+animals＿
 <$00>
 
 
@@ -1094,7 +1094,7 @@ SLinda used her woman's intuition...
 
 
 //に　出会える…
-<$06>could appear.
+could appear.
 <$00>
 
 
@@ -1103,7 +1103,7 @@ SLinda used her woman's intuition...
 
 
 //が　待ってる…
-<$06>await us...
+await us...
 <$00>
 
 
@@ -1112,7 +1112,7 @@ SLinda used her woman's intuition...
 
 
 //気がするわ∥
-<$06>are there.
+are there.
 <$00>
 
 
@@ -1121,7 +1121,7 @@ SLinda used her woman's intuition...
 
 
 //チャンスよ∥
-<$06>are in our grasp!
+are in our grasp!
 <$00>
 
 
@@ -1130,7 +1130,7 @@ SLinda used her woman's intuition...
 
 
 //今しかないわ
-<$06>could slip through our fingers!
+could slip through our fingers!
 <$00>
 
 
@@ -1139,7 +1139,7 @@ SLinda used her woman's intuition...
 
 
 //間違いなし∥
-<$06>are dead head!
+are dead head!
 <$00>
 
 
@@ -1148,7 +1148,7 @@ SLinda used her woman's intuition...
 
 
 //\n
-<$06>\n
+\n
 <$1D><$1D><$1D>
 //\n
 \n
@@ -1163,7 +1163,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信があるの∥
 I'm sure of it!
 <$12>
@@ -1174,7 +1174,7 @@ I'm sure of it!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信は　ないけどね…
 Although, I'm not totally certain...
 <$12>
@@ -1185,7 +1185,7 @@ Although, I'm not totally certain...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //絶対なんだから∥
 I'm absolutely certain!
 <$12>

@@ -353,7 +353,7 @@ kao_sm2.obj
 
 
 #WRITE(PTR, $0028)
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -369,7 +369,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -386,7 +386,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -403,7 +403,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -414,7 +414,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -425,7 +425,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -437,7 +437,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 //銀行・ショッピングモール
-<$06>Bank・Shopping Mall＿
+Bank・Shopping Mall＿
 <$00>
 
 
@@ -445,7 +445,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -460,7 +460,7 @@ SThe storage room is locked.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -475,21 +475,21 @@ SKen used the Storage Key!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 For＿
-<$1D>
+<$1D><$06>
 //100
-<$14>
+<$04><$14>
 //￥で　大きな夢を咲かせましょう∥\n
 ￥, dreams CAN come true!\n
 Join our＿
 <$1D>
 //の宝クジ、ただいま好評発売中∥\n１等賞金は　なんと　
 ＿Lottery for a chance at＿
-
+<$06>
 //100000
-
+<$04>
 //￥∥
 ￥!
 <$12>
@@ -500,7 +500,7 @@ Join our＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1D>
 //の宝クジ　当選番号発表∥
@@ -513,19 +513,19 @@ Join our＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //１等（
 1ST PRIZE:
-
+<$06>
 //100000
 100000
-
+<$04>
 //￥）
 ￥ -
 <$02>
 //120
 120
-
+<$06>
 //NO.
 NO.
 <$1E>
@@ -539,18 +539,18 @@ NO.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //２等（
 2ND PRIZE:
-
+<$06>
 // 50000
 50000
-
+<$04>
 //￥ - 
 ￥ -
 <$02>
 //120
-
+<$06>
 //NO.
 NO.
 <$1E>
@@ -559,7 +559,7 @@ NO.
 <$02>
 //120
 120
-
+<$06>
 //NO.
 NO.
 <$1E>
@@ -573,55 +573,55 @@ NO.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //３等（
 3RD PRIZE:
-
+<$06>
 // 10000
 10000
-
+<$04>
 //￥）
 ￥ -
 <$02>
 //120
 120
-
+<$06>
 //NO.
 NO.
 <$1E>
 //036\n
 036\n
-
+<$04>
 //４等（
 4TH PRIZE:
-
+<$06>
 //  1000
 1000
-
+<$04>
 //￥）
 ￥ -
 <$02>
 //120
 120
-
+<$06>
 //NO.X
 NO.X
 <$1E>
 //035\n
 035\n
-
+<$04>
 //５等（
 5TH PRIZE:
-
+<$06>
 //   100
 100
-
+<$04>
 //￥）
 ￥ -
 <$02>
 //120
 120
-
+<$06>
 //NO.XX
 NO.XX
 <$1E>
@@ -635,7 +635,7 @@ NO.XX
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //お引き替え有効期限　今
 Winners, you have through＿
 <$1D>
@@ -650,7 +650,7 @@ Winners, you have through＿
 
 
 //この星のどこかに　保護指定の\n動物でも　平気で売り買いしちまう\n闇商人の町が　あるって噂たゼ
-<$06>Psst! I heard there's a town somewhere with\n
+Psst! I heard there's a town somewhere with\n
 black marketeers who trade protected species.
 <$12>
 <$00>
@@ -660,46 +660,46 @@ black marketeers who trade protected species.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //いらっしゃいませ！\n館内のご案内を　お申しつけください\n
 Where can I direct you today?\n
 <$01>
 //Ｂ１
 B1
-<$0E>
+<$0E><$06>
 //／
 ／
-<$01>
+<$04><$01>
 //１階
 1F
-<$0E>
+<$0E><$06>
 //／
 ／
-<$01>
+<$04><$01>
 //２階
 2F
-<$0E>
+<$0E><$06>
 //／
 ／
-<$01>
+<$04><$01>
 //３階
 3F
-<$0E>
+<$0E><$06>
 //／
 ／
-<$01>
+<$04><$01>
 //屋上
 Rooftop
-<$0E>
+<$0E><$06>
 //／
 ／
-<$01>
+<$04><$01>
 //雑談
 Chat
-<$0E>
+<$0E><$06>
 //／
 ／
-<$01>
+<$04><$01>
 //パス
 Exit
 <$0E>
@@ -710,7 +710,7 @@ Exit
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //紳士と淑女のための\nネオケニアいちの　娯楽の殿堂、\nカジノ、バーが　ございます
 Here, you'll find our casino and bar. It's\n
 the entertainment capital of Neo Kenya!
@@ -722,7 +722,7 @@ the entertainment capital of Neo Kenya!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ネオケニア銀行、宝クジ売場、\nインテリア・ショップ\nブライダル・ショップが　ございます
 Here, you'll find a bank, lottery counter,\n
 interior shop and bridal shop!
@@ -734,7 +734,7 @@ interior shop and bridal shop!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //オズポートホテルの　客室フロアと\nＶＩＰルームが　ございます
 Here, you'll find the OzPort hotel's guest\n
 and VIP suites.
@@ -746,7 +746,7 @@ and VIP suites.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //オズポートホテルの　フロント及び\n隣りの空港ビルへの　連絡橋が\nございます
 Here, you'll find a bridge connecting OzPort\n
 Hotel to the airport.
@@ -758,7 +758,7 @@ Hotel to the airport.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //オズポートの中で　最も眺めの良い\n場所でございます
 Here, you'll find the most scenic view in all\n
 of OzPort!
@@ -770,7 +770,7 @@ of OzPort!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //迷子の呼び出しは　やってないわよ\nなにしろ　この星の住民全員、\n迷子みたいなモン　だものね
 Don't worry! To me, you don't look any more\n
 lost than the rest of us in this world.
@@ -782,7 +782,7 @@ lost than the rest of us in this world.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ありがとう　ございました
 Thanks for stopping by!
 <$12>
@@ -793,7 +793,7 @@ Thanks for stopping by!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //私、ヤマダと申します！　エヘヘヘ\nあっ、すいません　ニヤけちゃって\nでも　エヘヘヘ　エヘヘヘ
 Hehehe, call me Yamada!\n
 Hehehe- oops! Sorry.\n
@@ -820,7 +820,7 @@ propose?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ああ、マキちゃん……\n夢もチボウも　ないよ
 Oh, Maki-chan...\n
 I'm nothing without you!
@@ -833,7 +833,7 @@ I'm nothing without you!
 
 
 //マキ
-<$06>Maki
+Maki
 <$00>
 
 
@@ -842,7 +842,7 @@ I'm nothing without you!
 
 
 //そろそろ　結婚もイイかな
-<$06>the PERFECT guy, for sure!＿
+the PERFECT guy, for sure!＿
 <$00>
 
 
@@ -851,7 +851,7 @@ I'm nothing without you!
 
 
 //ステキな人いたら　結婚しちゃおうかな
-<$06>a great guy, I bet.＿
+a great guy, I bet.＿
 <$00>
 
 
@@ -860,7 +860,7 @@ I'm nothing without you!
 
 
 //適当な人がいたら　結婚したいな
-<$06>an okay guy, I imagine.＿
+an okay guy, I imagine.＿
 <$00>
 
 
@@ -869,7 +869,7 @@ I'm nothing without you!
 
 
 //それなりの男なら　手を打つわよ
-<$06>a decent human, hopefully.＿
+a decent human, hopefully.＿
 <$00>
 
 
@@ -878,7 +878,7 @@ I'm nothing without you!
 
 
 //男なら誰でもイイぞぉ∥　どんと来い∥
-<$06>anyone, so they'd better hurry!
+anyone, so they'd better hurry!
 <$00>
 
 
@@ -886,7 +886,7 @@ I'm nothing without you!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //こんにちわ∥　私、
 Hello! I'm
 <$1D>
@@ -897,17 +897,17 @@ Hello! I'm
 <CLEAR>
 //
 Yeah, I had fun as a
-
+<$06>
 //10
 teen
-
+<$04>
 //代で　やりたいことやっちゃったし\n
 ,＿but I'll find\n
 <$1D>
 //\n…なんて考えてる
 \n
 I'm only＿
-<$1E>
+<$06><$1E><$04>
 //歳■
 , so I have time!■
 <$12>
@@ -918,7 +918,7 @@ I'm only＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //俺、行員のポール！　よろしく！\n同期のヤマダが　カウンターの\nマキってコに　惚れちゃってさ…
 Hey, I'm Paul. My coworker, Yamada, has the\n
 hots for Maki, the girl at the counter.
@@ -942,7 +942,7 @@ what'll happen to him if he confesses.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //最近の若いのは　職場を何だと\n思っとるんですかねぇ…　社内恋愛だか\n何だか知らんが　風紀が乱れますよ
 How IS the modern workplace? Do people date\n
 coworkers anymore, or is that too "improper"?
@@ -968,7 +968,7 @@ No, wait!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //こりゃ　失礼…
 What'll HR think...
 <$12>
@@ -980,7 +980,7 @@ What'll HR think...
 
 
 //ここより先　関係者以外　立入禁止\n＿＿＿＿＿＿＿＿＿＿＿ネオケニア銀行
-<$06>"PERSONNEL ONLY PERMITTED BEYOND THIS\n
+"PERSONNEL ONLY PERMITTED BEYOND THIS\n
 POINT."＿-Neo Kenya Bank
 <$12>
 <$00>
@@ -990,7 +990,7 @@ POINT."＿-Neo Kenya Bank
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //むやみに　攻撃力を上げると\nかえって動物を　生け捕りにするのが\n難しくなるだけだ　気をつけな
 If you want to catch animals safely, don't\n
 boost your ATK stat out of control.
@@ -1008,7 +1008,7 @@ beat your targets to a bloody pulp.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //予備の装備の　お金のかけ方が\nハンターの　一流と二流を\n分けるのでございますよ
 Frugality and resourcefulness separate first\n
 class hunters from all the rest.
@@ -1026,7 +1026,7 @@ panic. Use whatever else you have!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //断っとくけど　肉屋で売ってるからって\n安全なわけじゃないぜ\n買うヤツがいるから　売ってるだけサ
 Just because a deli sells meat, doesn't mean\n
 it's always safe.
@@ -1044,7 +1044,7 @@ stuff, until they end up in Hospico.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //肉の副作用が　こわい臆病者は\n一生、
 Those too scared to eat risky meat can live\n
 off＿
@@ -1069,7 +1069,7 @@ say.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ときどき　いるんですよ…\n帰りのバードラインの　運賃を考えずに\n南エリアへ　行っちゃうドジな人
 There's always idiots on the birdline to\n
 South Area who don't price out the round\n
@@ -1083,7 +1083,7 @@ trip.
 
 
 //野営が　うまくなるまでは\n「使い捨てテント」が\n野外での　頼みの綱だな
-<$06>Until you're a proficient camper, keep a\n
+Until you're a proficient camper, keep a\n
 spare Disposable Tent on you, just in case.
 <$12>
 <$00>
@@ -1093,7 +1093,7 @@ spare Disposable Tent on you, just in case.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //最初に　お断りしておきますが\n当店の品は　動物集めには\nなんら　関係ありません
 Our services are not specifically catered to\n
 animal hunters of any kind.
@@ -1111,14 +1111,14 @@ We're not responsible for outside affairs.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //たった数時間で終わる　結婚式\nせいぜいが
 Weddings run a few hours. Honeymoons only\n
 last about＿
-
+<$06>
 //10
 10
-
+<$04>
 //日あまりの　ハネムーン\n一生に数回しかハメない　指輪
 ＿days. Even rings don't last a lifetime.
 <$12>
@@ -1140,7 +1140,7 @@ One of you can even use it after the divorce!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //家庭円満の秘訣は　結婚式や\n婚礼関係の品を　なるべく無謀に\nフンパツすることです
 The secret to a happy marriage is to splurge\n
 on the ceremony as much as possible.
@@ -1158,7 +1158,7 @@ and you'll stick with your first investment.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //この商売も　長くやってると\nお金以外にも　愛情表現の手段が\nあることを　忘れそうになりますよ
 In this industry, sometimes I forget people\n
 express love in ways other than money.
@@ -1170,7 +1170,7 @@ express love in ways other than money.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1188,7 +1188,7 @@ SKen found the＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1206,7 +1206,7 @@ had to go back.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1224,7 +1224,7 @@ SKen acquired＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1242,7 +1242,7 @@ SKen found the＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1260,7 +1260,7 @@ had to go back.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1278,7 +1278,7 @@ SKen acquired＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1296,7 +1296,7 @@ SKen found the＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1314,7 +1314,7 @@ had to go back.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1332,7 +1332,7 @@ SKen acquired＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1350,7 +1350,7 @@ SKen found the＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1368,7 +1368,7 @@ had to go back.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1386,7 +1386,7 @@ SKen acquired＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1404,7 +1404,7 @@ SKen found the＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1422,7 +1422,7 @@ had to go back.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1441,7 +1441,7 @@ SKen acquired＿
 
 
 //この星で　億万長者になりたけりゃ\n三つの方法が　あるねぇ
-<$06>On this planet, there are 3 ways to becoming\n
+On this planet, there are 3 ways to becoming\n
 a millionaire:
 <$12>
 \n
@@ -1476,7 +1476,7 @@ most likely one to work.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ありがと、ケン■
 Thank you, Ken.■
 <$00>
@@ -1486,7 +1486,7 @@ Thank you, Ken.■
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //でも　２￥の指輪じゃ\nだませるのは　私だけよ
 I must be the only girl who'd fall for a 2￥\n
 ring!
@@ -1497,7 +1497,7 @@ ring!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケン…　ありがとう\nでも　こんな太い指じゃ\n指輪は　似合わないかもよ…
 Ken, thank you... But, I'm worried the ring\n
 might not look good on my large fingers.
@@ -1508,7 +1508,7 @@ might not look good on my large fingers.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$01>
 //◇
@@ -1535,7 +1535,7 @@ Take what you can get, honey
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //私、自分の左腕を\n絶対、取り返す！
 I'll get my arm back no matter what!
 <$00>
@@ -1545,7 +1545,7 @@ I'll get my arm back no matter what!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //この指輪は　自分の指に\nはめたいもの！
 This ring is going on MY goddamn finger!
 <$00>
@@ -1555,7 +1555,7 @@ This ring is going on MY goddamn finger!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここ店の値札に　０が増えたのは\nわざわざ　ネオケニアまで来て\n結婚式を挙げる　バカたちのおかげよ
 The prices in this store have gone straight\n
 to Hell!
@@ -1579,7 +1579,7 @@ I DESERVE to have my 5th wedding here!
 
 
 #WRITE(PTR, $002A)
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -1595,7 +1595,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -1612,7 +1612,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -1629,7 +1629,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -1640,7 +1640,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -1651,7 +1651,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -1663,7 +1663,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 //ＶＩＰルーム
-<$06>VIP Suite＿
+VIP Suite＿
 <$00>
 
 
@@ -1672,7 +1672,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 //ちょっと耳が長けりゃ　
-<$06>Oh, you have long ears?＿
+Oh, you have long ears?＿
 <$1D>
 //だし\n鼻が上を向いてるだけで　
 !\n
@@ -1695,7 +1695,7 @@ legendary "Earth" is its simpler name.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //まずいことに　なったわねぇ
 Absolutely dreadful...
 <$00>
@@ -1705,7 +1705,7 @@ Absolutely dreadful...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //このままじゃ　私も　あなたも\nお先　真っ暗よね…\nでも　大丈夫∥　手は打ったわ
 At this rate, you and I will be fighting\n
 uphill battles, but fear not.
@@ -1716,7 +1716,7 @@ uphill battles, but fear not.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //私の方でも　情報を集めているし\nそろそろ　連邦本部からも\n何らかの答が　返ってくる頃よ
 I'm gathering intel on my end too. I should\n
 recieve answers from headquarters any time\n
@@ -1728,7 +1728,7 @@ from now.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //そしたら　あなたの方にも\n必ず　連絡するから！\nそれまでの辛抱よ、ケン■
 I'll fill you in too, of course. Be a good\n
 boy for me until then.■
@@ -1740,7 +1740,7 @@ boy for me until then.■
 
 
 //人形使いってのも　かわいそうな奴さ\n産後の肥立ちが　悪かったらしくて\n愛する女房が　往っちまって…
-<$06>The Puppet Master is a pitiful man. He lost\n
+The Puppet Master is a pitiful man. He lost\n
 his beloved wife in a difficult child birth.
 <$12>
 \n
@@ -1769,7 +1769,7 @@ research to the war-hungry rich.
 
 
 //スマイリーのだんなの　顔が\nあんな風に　なっちまったのも\nヤツの「お人形」たちの　おかげだよ
-<$06>Smilly's face only looks like that thanks to\n
+Smilly's face only looks like that thanks to\n
 one of the Puppet Master's puppets.
 <$12>
 \n
@@ -1802,7 +1802,7 @@ There's nothing human about them!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //俺は「ポンコツスマイリー」\nスマイリーは　ＳＭＩＬＬＹ\nＬは２つだゼ、珍しいだろ
 I'm Ponkotsu Smilly! Like "smiley", but with\n
 2 Ls! Unique, ain't it?
@@ -1813,7 +1813,7 @@ I'm Ponkotsu Smilly! Like "smiley", but with\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //そっちの２人が　「ゲラ」と\n「ニコ」だ！　よろしくな
 And these two are Gera and Niko! We're happy\n
 to meet'cha!
@@ -1824,7 +1824,7 @@ to meet'cha!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //おめぇさんたちの　ことなら\nカマー補佐官から　聞いてるゼ
 If you're here, obviously you're up to speed\n
 on Officer Camar.
@@ -1835,7 +1835,7 @@ on Officer Camar.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「人形使い」の　データが\n欲しくて来たんだろ？
 Do you want to know\n
 about the Puppet Master?
@@ -1847,7 +1847,7 @@ about the Puppet Master?
 
 
 //\n
-<$06>\n
+\n
 <$01>
 //渡してください
 Tell me.
@@ -1865,7 +1865,7 @@ Uh, who?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //悪いけど　お断りだ！\n素人に　どうこうできる\n相手じゃねぇし、それにな…
 Sorry! No-can-do! I can't let some kid\n
 piggy-back off our work.
@@ -1876,7 +1876,7 @@ piggy-back off our work.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //万にひとつ、おめぇさんたちが\n「人形使い」に　勝ちでもしたら\n俺たちは　足代分、丸損だ∥
 There's a huge bounty on the table, but I'm\n
 already splitting it 3-ways.
@@ -1887,7 +1887,7 @@ already splitting it 3-ways.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //一応、俺たちに　何かあったら、\nその時には　おめぇさんたちに\nデータが　届くようにしとくよ
 But, just in case anything happens to us,\n
 I'll send you the data at that time.
@@ -1898,7 +1898,7 @@ I'll send you the data at that time.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //それで　いいだろ？
 How does that sound?
 <$00>
@@ -1909,7 +1909,7 @@ How does that sound?
 
 
 //\n
-<$06>\n
+\n
 <$01>
 //手を打ちますよ
 Okay, okay...
@@ -1927,7 +1927,7 @@ No fair!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //まあ、悪く思うな\n俺たちも　生活とプライドが\nかかってんだからよ
 It's nothing personal, only we don't put our\n
 gom-EGOs on the line for free.
@@ -1938,7 +1938,7 @@ gom-EGOs on the line for free.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //いいよな∥
 It's fine with you, right?
 <$00>
@@ -1949,7 +1949,7 @@ It's fine with you, right?
 
 
 //\n
-<$06>\n
+\n
 <$01>
 //も、もちろん…
 O-of course.
@@ -1967,7 +1967,7 @@ Nevermind!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //とりあえず、「人形使い」の\n噂話くらいなら　今すぐ\nゲラとニコが　話してくれるゼ
 Okay then. For now, Gera and Niko can give\n
 you a rundown on the Puppet Master.
@@ -1978,7 +1978,7 @@ you a rundown on the Puppet Master.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //わかったよ∥　コピーをやるから\n明日、出直してきな！
 Okay, okay! I'll make a copy, so come back\n
 tomorrow!
@@ -1989,7 +1989,7 @@ tomorrow!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ところで、おめぇたち？\n「１３８６５１４０８」って\nなんの数字だか　わかるかい？
 By the way, do you know what's so special\n
 about the number, "１３８, ６５１, ４０８"?
@@ -2000,7 +2000,7 @@ about the number, "１３８, ６５１, ４０８"?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「人形使い」に　かけられている\n賞金の総額さ！　そして　ヤツが\n今までに奪った　命の数だ…
 That's the Puppet Master's bounty, but\n
 also...the number of lives he's taken.
@@ -2011,7 +2011,7 @@ also...the number of lives he's taken.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //あッ！　こんにちは
 Oh! Hello!
 <$00>
@@ -2021,7 +2021,7 @@ Oh! Hello!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //それで　お花を買いに\n来たんだけど　お店の場所が\nわからなくて　困ってたんです
 I came here to purchase flowers, but cannot\n
 locate the proper vendor.
@@ -2032,7 +2032,7 @@ locate the proper vendor.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //お花屋さんを　ご存じですか？
 Where can I find flowers?
 <$00>
@@ -2043,7 +2043,7 @@ Where can I find flowers?
 
 
 //\n
-<$06>\n
+\n
 <$01>
 //◇
 ◇
@@ -2063,7 +2063,7 @@ Straight from the bushes!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //いつも　いろいろ教えてくれて\n本当に　ありがとう！
 Thank you again! You're always teaching me\n
 new things!
@@ -2074,7 +2074,7 @@ new things!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダさんも　無事だったし\n近いうちに　お父様と　ミナゴに\nお墓参りに　行くことにしたの
 Upon news of your safety, Father wished to\n
 visit the Minago cemetary.
@@ -2085,7 +2085,7 @@ visit the Minago cemetary.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //彼女、素直なイイ子よね？
 That girl's awfully lady-like.
 <$00>
@@ -2096,7 +2096,7 @@ That girl's awfully lady-like.
 
 
 //\n
-<$06>\n
+\n
 <$01>
 //そうかなぁ？
 You think so?
@@ -2126,7 +2126,7 @@ I dunno...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //怒らないから　白状なさい\nタイプなんでしょ？
 I won't get mad, but she's more your type,\n
 yeah?
@@ -2138,7 +2138,7 @@ yeah?
 
 
 //\n
-<$06>\n
+\n
 <$01>
 //まあ、そうだな
 <$0E>
@@ -2155,7 +2155,7 @@ Absolutely not!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //あーら　そ、なのォ？\nじゃ　こんど彼女に会ったら\nそう伝えといてあげるわ
 Aaah, is that so?\n
 Maybe I'll tell her next time we bump into\n
@@ -2167,7 +2167,7 @@ her.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //このゴタゴタが　片付いたら…\nそうねぇ…
 Once the Puppet Master is behind us, I've\n
 always wanted to have a...
@@ -2178,7 +2178,7 @@ always wanted to have a...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //私、一度　三角関係で\nボロボロの　ドロドロってやつ、\n経験してみたかったのよね
 ...stereotype, innocent rom-com love\n
 triangle! I LIVE for the drama!
@@ -2189,7 +2189,7 @@ triangle! I LIVE for the drama!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //人生、短いんだし　いろいろ\n楽しませて　もらわなきゃあねぇ\nねえ、ケン￠
 Life's too short to let such opportunities\n
 slide. Right, Ken?
@@ -2201,7 +2201,7 @@ slide. Right, Ken?
 
 
 //たった一ヶ月の間に　ビースチャンの町の\n教会で　たて続けに三人、身投げが\nあったそうじゃねぇか…
-<$06>In the span of a single month, 3 people leapt\n
+In the span of a single month, 3 people leapt\n
 from the church roof in a certain Beastian\n
 village.
 <$12>
@@ -2219,7 +2219,7 @@ something.
 
 
 //まったく…　Ａクラスの賞金稼ぎだか\n何だかしらないけど　断りもなしに\nいなくなるなんて　常識がないよ！
-<$06>Class A bounty hunter or not, you don't check\n
+Class A bounty hunter or not, you don't check\n
 out of a hotel without telling staff!
 <$12>
 \n
@@ -2237,7 +2237,7 @@ SOME.
 
 
 #WRITE(PTR, $002C)
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -2253,7 +2253,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -2270,7 +2270,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -2287,7 +2287,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -2298,7 +2298,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -2309,7 +2309,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -2321,7 +2321,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 //ホテルフロント
-<$06>Hotel Lobby＿
+Hotel Lobby＿
 <$00>
 
 
@@ -2329,7 +2329,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //このホテルの自慢は　なんと言っても\n２階のＶＩＰルームですよ
 This hotel's famous for its VIP suite on the\n
 second floor.
@@ -2348,7 +2348,7 @@ Kenya, they ALWAYS book VIP.
 
 
 //この星を　脱出する人の半分が\n新天地に着いても　生活の保証が\nないのが　現状です！
-<$06>Even if half of the migration shuttles safely\n
+Even if half of the migration shuttles safely\n
 arrive from Neo Kenya to their destined\n
 planets,
 <$12>
@@ -2370,7 +2370,7 @@ You know, financially!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //この星を脱出していく　人々の多くは\n行く先での　仕事も住宅も食糧さえも…\n保障されておりません
 Most people who evacuate Neo Kenya won't be\n
 guaranteed work, food nor shelter.
@@ -2389,7 +2389,7 @@ lives!
 
 
 //この星の動物の化石を　調べてみると\n不思議なことが　わかるのよ
-<$06>If you inspect the fossils of this planet's\n
+If you inspect the fossils of this planet's\n
 animals, you'll discover something truly\n
 bizarre.
 <$12>
@@ -2414,7 +2414,7 @@ Or...he brought them in from somewhere else.
 
 
 #WRITE(PTR, $002E)
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -2430,7 +2430,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -2447,7 +2447,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -2464,7 +2464,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -2475,7 +2475,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -2486,7 +2486,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -2498,7 +2498,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 //酒場・カジノ
-<$06>Bar・Casino＿
+Bar・Casino＿
 <$00>
 
 
@@ -2507,11 +2507,11 @@ The Navi System(NaviS) can't be booted here!
 
 
 //連邦の野郎∥　ナーニが
-<$06>Those stupid feds say we'll have the tech to\n
+Those stupid feds say we'll have the tech to\n
 destroy the Grim Reaper in＿
-
+<$06>
 //100
-
+<$04>
 //年の間には\n「死神」を破壊できる　技術が\n必ず　発見されるだぁ∥
 ＿years.
 <$12>
@@ -2529,7 +2529,7 @@ long-gone by then!
 
 
 //スロットマシンに　ハマって\n気づいたら　１年が過ぎてました\n…なんてことには　ならないようにね
-<$06>Don't get addicted to slots, kid. Lose track\n
+Don't get addicted to slots, kid. Lose track\n
 of time, and you'll be here all year!
 <$12>
 \n
@@ -2546,7 +2546,7 @@ hottest game around!
 
 
 //当店では収益の７％を　脱出難民募金に\n寄付しておりますです　ハイ！
-<$06>７％ of all proceeds are donated to migration\n
+７％ of all proceeds are donated to migration\n
 relief! Let's keep it coming!
 <$12>
 <$00>
@@ -2557,7 +2557,7 @@ relief! Let's keep it coming!
 
 
 //オズポートホテルの地下は\n紳士と淑女のための\nネオケニアいちの　娯楽の殿堂です！
-<$06>In the OzPort Hotel basement, you'll find the\n
+In the OzPort Hotel basement, you'll find the\n
 entertainment capital of Neo Kenya!
 <$12>
 \n
@@ -2588,7 +2588,7 @@ Exit
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //お金を捨てたいお客様は　カジノへ\n安酒で悪酔いしたいお客様は　酒場へ\nご自由にどうぞ
 Wanna drown in debt? Go to the casino. Wanna\n
 drown in cheap liquor? See the bar.
@@ -2605,7 +2605,7 @@ I'm no judge, but I'm no lifeguard either.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //私の後ろの部屋は　ホテルの地下倉庫\n何が　しまってあるんだか\n知らないけど…　噂じゃ…
 The room behind me is the hotel's old\n
 basement storage. What's in there? Who knows!
@@ -2623,7 +2623,7 @@ the former manager disappeared.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ありがとうございました！
 Thank you kindly!
 <$12>
@@ -2635,7 +2635,7 @@ Thank you kindly!
 
 
 //■■＿若い貴女の明るい職場＿■■
-<$06>■■＿A CHEERFUL WORKPLACE FOR YOUNG WOMEN＿■■
+■■＿A CHEERFUL WORKPLACE FOR YOUNG WOMEN＿■■
 <$12>
 \n
 <CLEAR>
@@ -2652,7 +2652,7 @@ EXPERIENCE PREFERRED, BUT NOT REQUIRED."\n
 
 
 //■～　■～　■■～
-<$06>■～　■～　■■～
+■～　■～　■■～
 <$12>
 <$00>
 
@@ -2661,7 +2661,7 @@ EXPERIENCE PREFERRED, BUT NOT REQUIRED."\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //私、アンジェラ！　ぼうやのために\n１曲、歌わせてくれる？\n
 I'm Angela! Care for a song, sweetheart?\n
 <$01>
@@ -2681,7 +2681,7 @@ Maybe next time.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //あら…　男と女の出会いには\n次は　ないかもしれなくてよ
 Ah, but in a star-crossed world like ours,\n
 are "next times" ever so certain?
@@ -2693,7 +2693,7 @@ are "next times" ever so certain?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //チップは見栄を張るものよ■\n持金
 Don't forget to tip!■\n
 <$1E>
@@ -2709,9 +2709,9 @@ Don't forget to tip!■\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
-<$1E>
+<$06><$1E><$04>
 //￥ね？\n
 ￥？\n
 <$01>
@@ -2732,7 +2732,7 @@ Sike!
 
 
 //アンジェラの歌って　ステキでしょ？\nぼうやも　リクエストしてちょうだい\nチップは「気持ち」でいいからサ
-<$06>Angela's song is wonderful, isn't it? I say\n
+Angela's song is wonderful, isn't it? I say\n
 sit back, relax and never forget to tip.
 <$12>
 <$00>
@@ -2743,7 +2743,7 @@ sit back, relax and never forget to tip.
 
 
 //アンジェラの歌を聞くと　故郷のママを\n思い出して　泣けてくるんだよなぁ
-<$06>Whenever I hear Angela sing, I remember my\n
+Whenever I hear Angela sing, I remember my\n
 mother back home and I start crying.
 <$12>
 <$00>
@@ -2754,7 +2754,7 @@ mother back home and I start crying.
 
 
 //大したモンだよ、アンジェラは∥\n持ち歌１曲で　客を満足させられる\n歌手なんて　彼女だけだね
-<$06>Angela's a huge deal! She's the only singer\n
+Angela's a huge deal! She's the only singer\n
 who can win a crowd over with any one song!
 <$12>
 <$00>
@@ -2765,7 +2765,7 @@ who can win a crowd over with any one song!
 
 
 //アンジェラの歌声を　聞いているとサ\nいつの間にか　眠っちまうんだ…\nまるで　揺りカゴの中にいるみたいサ
-<$06>When Angela sings, before I know it, I fall\n
+When Angela sings, before I know it, I fall\n
 asleep. It's like I'm rocked by her lullaby.
 <$12>
 <$00>
@@ -2776,7 +2776,7 @@ asleep. It's like I'm rocked by her lullaby.
 
 
 //死んだ　おふくろのニオイを\n思い出したくて　アンジェラの歌を\n俺は　聞きに来るんだ…
-<$06>I came to listen to Angela's song. It helps\n
+I came to listen to Angela's song. It helps\n
 me recall the smell of my late mother.
 <$12>
 <$00>
@@ -2787,7 +2787,7 @@ me recall the smell of my late mother.
 
 
 //人生から　逃げだしたくなった時\nアンジェラの歌が　恋しくなるのサ
-<$06>In times I wanted to escape from my life, I\n
+In times I wanted to escape from my life, I\n
 knew I'd miss Angela's music.
 <$12>
 <$00>
@@ -2798,7 +2798,7 @@ knew I'd miss Angela's music.
 
 
 //ママ…　俺のことを捨てたママ…\nアンジェラの歌を　聞いてる間だけは\nママのことを　許せる気がするよ
-<$06>Mommy, why did you leave? Why is Angela's\n
+Mommy, why did you leave? Why is Angela's\n
 song the one thing that helps me forgive you?
 <$12>
 <$00>
@@ -2809,7 +2809,7 @@ song the one thing that helps me forgive you?
 
 
 //アンジェラ∥　もう一回歌ってくれ∥\n俺にはもったいない　最高の母さんと\n人間のクズの　最低の俺のために…
-<$06>Angela, sing for us one more time! For me,\n
+Angela, sing for us one more time! For me,\n
 the human scum of the world who was too good\n
 for the greatest mother alive!
 <$12>
@@ -2820,7 +2820,7 @@ for the greatest mother alive!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -2838,7 +2838,7 @@ SKen found the＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -2856,7 +2856,7 @@ had to go back.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -2874,7 +2874,7 @@ SKen acquired＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -2892,7 +2892,7 @@ SKen found the＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -2910,7 +2910,7 @@ had to go back.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -2928,7 +2928,7 @@ SKen acquired＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -2946,7 +2946,7 @@ SKen found the＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -2964,7 +2964,7 @@ had to go back.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -2982,7 +2982,7 @@ SKen acquired＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -2998,7 +2998,7 @@ SThe vault is locked.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -3013,7 +3013,7 @@ SKen used the Vault Key!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -3028,7 +3028,7 @@ SThe backstage door is locked.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -3044,7 +3044,7 @@ SKen used the Backstage Key.
 
 
 //「
-<$06>"How do you say '
+"How do you say '
 //<$1B>
 //ヒョウが驚いた∥　う
 pig' in French?\n
@@ -3089,7 +3089,7 @@ they hear it 3 times in a row!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //西エリアが　突然、立入禁止区域に\nなっちまった理由なんだけどね…
 All of West Area is off limits, thanks to\n
 Green Pharmaceuticals' fuck up.
@@ -3107,7 +3107,7 @@ from their research lab there.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //西エリアに　調査に出かけた連中、\n誰も戻って来ないらしいね\nくわばら…　くわばら…
 No one who went into West Area to survey the\n
 field returned. That's the part about the\n
@@ -3120,7 +3120,7 @@ outbreak that scares me!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //観光に来た連中は　バードラインの\nおネエちゃんたちの　派手な衣装を見て\n感心してる　ご様子だけど…
 Tourists who sight-see via the birdline are\n
 always impressed by the girls' "uniforms".
@@ -3147,7 +3147,7 @@ to pull a fast one on tourists.
 
 #WRITE(PTR, $0030)
 //高級花嫁衣装
-<$06>Luxury Gown
+Luxury Gown
 <$00>
 
 
@@ -3156,7 +3156,7 @@ to pull a fast one on tourists.
 
 
 //結納セット
-<$06>Wedding Gift
+Wedding Gift
 <$00>
 
 
@@ -3165,7 +3165,7 @@ to pull a fast one on tourists.
 
 
 //ツィアデの指輪
-<$06>Ziade's Ring
+Ziade's Ring
 <$00>
 
 
@@ -3174,7 +3174,7 @@ to pull a fast one on tourists.
 
 
 //ダイヤの指輪
-<$06>Diamond Ring
+Diamond Ring
 <$00>
 
 
@@ -3183,7 +3183,7 @@ to pull a fast one on tourists.
 
 
 //広告の品の指輪
-<$06>Toy Ring
+Toy Ring
 <$00>
 
 
@@ -3202,7 +3202,7 @@ to pull a fast one on tourists.
 
 
 
-<$06><$15>
+<$15>
 //R＿売り切れ
 R＿SOLD OUT
 <$15>
@@ -3215,7 +3215,7 @@ R＿SOLD OUT
 
 
 //＿時＿価
-<$06>＿MRKTVLUE
+＿MRKTVLUE
 <$00>
 
 
@@ -3223,7 +3223,7 @@ R＿SOLD OUT
 
 
 
-<$06><$15>
+<$15>
 //b
 b
 <$00>
@@ -3233,7 +3233,7 @@ b
 
 
 
-<$06><$1E>
+<$1E>
 //39
 39
 <$15>
@@ -3247,7 +3247,7 @@ W￥
 
 
 //
-<$06><$15>
+<$15>
 //Y婚礼用品店
 YBridal Shop
 <$00>
@@ -3257,7 +3257,7 @@ YBridal Shop
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //幸せな門出を　完ペキに演出する\nよりすぐりの品々を　ご覧ください\n
 Our products are fit for every happy ever\n
 after!\n
@@ -3284,7 +3284,7 @@ Exit
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //何はともあれ　お幸せに
 Take care now!\n
 'Til debt do us part!
@@ -3297,7 +3297,7 @@ Take care now!\n
 
 
 //
-<$06><$15>
+<$15>
 //Y婚礼用品店
 YBridal Shop
 <$00>
@@ -3307,7 +3307,7 @@ YBridal Shop
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //当店の指輪なら　いずれも永遠の輝き\n将来を誓うに　ピッタリのお品です\n
 Our rings are out timelessly gleaming symbols\n
 of love!\n
@@ -3334,7 +3334,7 @@ Exit
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //何はともあれ　お幸せに
 Take care now!\n
 'Til debt do us part!
@@ -3364,7 +3364,7 @@ Take care now!\n
 
 
 
-<$06><$15>
+<$15>
 //R＿売り切れ
 R＿SOLD OUT
 <$15>
@@ -3377,7 +3377,7 @@ R＿SOLD OUT
 
 
 //＿時＿価
-<$06>＿MRKTVLUE
+＿MRKTVLUE
 <$00>
 
 
@@ -3385,7 +3385,7 @@ R＿SOLD OUT
 
 
 
-<$06><$15>
+<$15>
 //b
 b
 <$00>
@@ -3395,7 +3395,7 @@ b
 
 
 
-<$06><$1E>
+<$1E>
 //39
 39
 <$15>
@@ -3408,7 +3408,7 @@ W￥
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 You're buying the＿
 <$1D>
@@ -3430,7 +3430,7 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //道具がいっぱいです
 The item bag is full!
 <$12>
@@ -3441,7 +3441,7 @@ The item bag is full!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //高価な品物ですので\n厳重な警備を　つけたうえで\nお宅の方へ　お届けしておきます
 Since that's a top-shelf item, we'll deliver\n
 it to your address with the utmost security.
@@ -3460,7 +3460,7 @@ way.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信をもって身につければ　どなたも\n２￥の指輪だとは　気づきませんよ\n保証いたします！
 Ah, that ring? Clearly you don't know what\n
 ２￥'s worth in the real world.
@@ -3479,10 +3479,10 @@ one worth ２００￥.
 
 
 //お客様、誠に申し上げにくいのですが\nレンジャー隊の給料じゃ　
-<$06>Even if you saved for＿
-
+Even if you saved for＿
+<$06>
 //100
-
+<$04>
 //年分\n貯めても　買えないかと…
 ＿years, you couldn't afford this on a\n
 ranger's salary.
@@ -3494,7 +3494,7 @@ ranger's salary.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ご予算は、いかほどでございますか？\n持金
 What's your price range?\n
 <$1E>
@@ -3510,7 +3510,7 @@ What's your price range?\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //お客様、ケタをお間違いですよ
 Sorry, Sir, that seems a little off.
 <$12>
@@ -3521,7 +3521,7 @@ Sorry, Sir, that seems a little off.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //指輪の価値は　値段じゃなくて\n送る人の　気持ちですからね\nハハハ…
 Cost doesn't reflect the value of a ring...
 <$12>
@@ -3537,7 +3537,7 @@ man's love! Hahaha!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ご冗談を
 ...That was a joke.
 <$12>
@@ -3550,7 +3550,7 @@ man's love! Hahaha!
 
 #WRITE(PTR, $0032)
 //ダブルベッド
-<$06>Double Bed
+Double Bed
 <$00>
 
 
@@ -3559,7 +3559,7 @@ man's love! Hahaha!
 
 
 //回転ベッド
-<$06>Rotating Bed
+Rotating Bed
 <$00>
 
 
@@ -3568,7 +3568,7 @@ man's love! Hahaha!
 
 
 //ワードローブ
-<$06>Wardrobe
+Wardrobe
 <$00>
 
 
@@ -3577,7 +3577,7 @@ man's love! Hahaha!
 
 
 //ドレッサー
-<$06>Dresser
+Dresser
 <$00>
 
 
@@ -3586,7 +3586,7 @@ man's love! Hahaha!
 
 
 //ソファー
-<$06>Sofa
+Sofa
 <$00>
 
 
@@ -3595,7 +3595,7 @@ man's love! Hahaha!
 
 
 //ローテーブル
-<$06>Low Table
+Low Table
 <$00>
 
 
@@ -3604,7 +3604,7 @@ man's love! Hahaha!
 
 
 //ダイニングセット
-<$06>Dining Set
+Dining Set
 <$00>
 
 
@@ -3613,7 +3613,7 @@ man's love! Hahaha!
 
 
 //フロアランプ
-<$06>Floor Lamp
+Floor Lamp
 <$00>
 
 
@@ -3622,7 +3622,7 @@ man's love! Hahaha!
 
 
 //ベビーベッド
-<$06>Baby Crib
+Baby Crib
 <$00>
 
 
@@ -3631,7 +3631,7 @@ man's love! Hahaha!
 
 
 //ペルシャじゅうたん
-<$06>Arabesque Carpet
+Arabesque Carpet
 <$00>
 
 
@@ -3640,7 +3640,7 @@ man's love! Hahaha!
 
 
 //ルソーの複製画
-<$06>Rousseau Print
+Rousseau Print
 <$00>
 
 
@@ -3649,7 +3649,7 @@ man's love! Hahaha!
 
 
 //ビースチャンポール
-<$06>Beastian Pole
+Beastian Pole
 <$00>
 
 
@@ -3659,7 +3659,7 @@ man's love! Hahaha!
 
 //<$1B>
 //ヒョウの敷物
-<$06>Leopard Rug
+Leopard Rug
 <$00>
 
 
@@ -3669,7 +3669,7 @@ man's love! Hahaha!
 
 //<$1B>
 //ライオンの剥製
-<$06>Stuffed Lion
+Stuffed Lion
 <$00>
 
 
@@ -3678,7 +3678,7 @@ man's love! Hahaha!
 
 
 //観光ペナント
-<$06>Tourist Pennant
+Tourist Pennant
 <$00>
 
 
@@ -3687,7 +3687,7 @@ man's love! Hahaha!
 
 
 //高山なみなのサイン
-<$06>Signed Shikishi
+Signed Shikishi
 <$00>
 
 
@@ -3696,7 +3696,7 @@ man's love! Hahaha!
 
 
 //食器棚
-<$06>Cupboard
+Cupboard
 <$00>
 
 
@@ -3705,7 +3705,7 @@ man's love! Hahaha!
 
 
 //本棚２本
-<$06>Bookshelves
+Bookshelves
 <$00>
 
 
@@ -3714,7 +3714,7 @@ man's love! Hahaha!
 
 
 //観葉植物
-<$06>Fake Plant
+Fake Plant
 <$00>
 
 
@@ -3723,7 +3723,7 @@ man's love! Hahaha!
 
 
 //クローゼット
-<$06>Closet
+Closet
 <$00>
 
 
@@ -3732,7 +3732,7 @@ man's love! Hahaha!
 
 
 //金庫
-<$06>Safe
+Safe
 <$00>
 
 
@@ -3741,7 +3741,7 @@ man's love! Hahaha!
 
 
 //冷蔵庫
-<$06>Refrigerator
+Refrigerator
 <$00>
 
 
@@ -3750,7 +3750,7 @@ man's love! Hahaha!
 
 
 //
-<$06><$15>
+<$15>
 //Yインテリアショップ
 YInterior Shop
 <$00>
@@ -3760,7 +3760,7 @@ YInterior Shop
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //インテリアをこれ以上　お買いになると\nお部屋の中を　歩けなくなりますよ
 If you buy too much furniture, you run the\n
 risk of losing any and all walking space.
@@ -3772,7 +3772,7 @@ risk of losing any and all walking space.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //あなたのお部屋を　ゴージャスに\n変身させる　インテリア・ショップです
 Here at the Interior Shop, we'll turn your\n
 shack into a gorgeous oasis!
@@ -3783,7 +3783,7 @@ shack into a gorgeous oasis!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //くつろぎの空間、ぜいたくな時間を彩る\nあなただけのインテリアを　どうぞ！
 Make it yours with our glitzy atmosphere and\n
 luxurious pieces!
@@ -3795,7 +3795,7 @@ luxurious pieces!
 
 
 //\n
-<$06>\n
+\n
 <$01>
 //一応見る
 Browse
@@ -3819,7 +3819,7 @@ Nevermind
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //またのご来店を　心より\nお待ち申し上げます
 We look forward to your next visit!
 <$12>
@@ -3830,7 +3830,7 @@ We look forward to your next visit!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //いいですよ、回転ベッド∥
 While you're here, give the rotating bed a\n
 spin!
@@ -3860,7 +3860,7 @@ spin!
 
 
 
-<$06><$15>
+<$15>
 //R＿売り切れ
 R＿SOLD OUT
 <$15>
@@ -3873,7 +3873,7 @@ R＿SOLD OUT
 
 
 //＿時＿価
-<$06>＿MRKTVLUE
+＿MRKTVLUE
 <$00>
 
 
@@ -3881,7 +3881,7 @@ R＿SOLD OUT
 
 
 
-<$06><$15>
+<$15>
 //b
 b
 <$00>
@@ -3891,7 +3891,7 @@ b
 
 
 
-<$06><$1E>
+<$1E>
 //39
 39
 <$15>
@@ -3904,7 +3904,7 @@ W￥
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //あっ　すいません\nそれは　売り物じゃないんですよ
 Oh! Sorry, that's not for sale.
 <$12>
@@ -3921,7 +3921,7 @@ jealous, hehe!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 You're buying the＿
 <$1D>
@@ -3943,7 +3943,7 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //お客さん！今、お買い求めになった\n
 Wow! With that＿
 <$1D>
@@ -3963,7 +3963,7 @@ giving you "the thing"!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //さすが　お目が高い！
 You certainly have a discerning eye!
 <$12>
@@ -3974,7 +3974,7 @@ You certainly have a discerning eye!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //さすが　ご趣味が\n良くていらっしゃる！
 You certainly have refined tastes!
 <$12>
@@ -3985,7 +3985,7 @@ You certainly have refined tastes!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //さすが　流行に敏感でいらっしゃる！
 You certainly have a sense of decor!
 <$12>
@@ -3996,7 +3996,7 @@ You certainly have a sense of decor!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //さすが　お金の使い方が\nキレイで　いらっしゃる！
 You certainly have a way with money!
 <$12>
@@ -4007,7 +4007,7 @@ You certainly have a way with money!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //さっそく　手前どものほうで\n箱船へ　お届けしておきます
 We'll have it delivered to the Astro Ark\n
 right away!
@@ -4021,7 +4021,7 @@ right away!
 
 #WRITE(PTR, $0034)
 //個
-<$06>＿
+＿
 <$00>
 
 
@@ -4030,7 +4030,7 @@ right away!
 
 
 //匹
-<$06>＿
+＿
 <$00>
 
 
@@ -4038,13 +4038,13 @@ right away!
 
 
 
-<$06><$1D>
+<$1D>
 //を
 ＿x
 <$1D>
 //ます\n
 ＿\n
-<$19>
+<$06><$19>
 //1
 1
 <$01><$1A>
@@ -4056,7 +4056,7 @@ S
 <$19>
 //0
 0
-
+<$04>
 //／
 ／
 <$14><$1E>
@@ -4092,7 +4092,7 @@ S￥
 TCU (x
 <$1E>
 //034
-
+<$06>
 //)
 )
 <$00>
@@ -4102,7 +4102,7 @@ TCU (x
 
 
 
-<$06><$05>
+<$05>
 //γ
 A
 <$00>
@@ -4112,7 +4112,7 @@ A
 
 
 
-<$06><$05>
+<$05>
 //ζ
 D
 <$00>
@@ -4122,7 +4122,7 @@ D
 
 
 
-<$06><$1E>
+<$1E>
 //@019
 @019
 <$00>
@@ -4132,7 +4132,7 @@ D
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //セレクトボタンで解説が出ます
 SELECT: Details
 <$00>
@@ -4149,7 +4149,7 @@ SELECT: Details
 
 
 
-<$06><$16><$15>
+<$04><$16><$15>
 //W
 W
 <$01><$1D><$02>
@@ -4168,14 +4168,14 @@ W
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //トランスカーゴは　１枠につき\n
 The trans-cargo unit has\n
 a＿
-
+<$06>
 //99
 99
-
+<$04>
 //頭までしか　収容できません
 ＿species capacity!
 <$12>
@@ -4186,12 +4186,12 @@ a＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
-
+<$06>
 //トランスカーゴ
 The trans-cargo unit＿
-
+<$04>
 //がいっぱいです
 is full!
 <$12>
@@ -4202,7 +4202,7 @@ is full!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //道具がいっぱいです
 The item bag is full!
 <$12>
@@ -4213,7 +4213,7 @@ The item bag is full!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1D>
 //は\nお引き取りできません
@@ -4227,13 +4227,13 @@ I can't accept that!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 Sell＿
 <$1D>
 //を\n
 ＿for\n
-<$1E>
+<$06><$1E><$04>
 //￥で売りますか？\n
 ￥?\n
 <$01>
@@ -4253,7 +4253,7 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1D><$15>
 //Wは\nＡ級保護動物のため\n取り引きできません
@@ -4275,11 +4275,11 @@ trading is prohibited!
 
 
 
-<$06><$16><$01><$1D><$02>
+<$16><$04><$01><$1D><$02>
 //120
 <$0E><$02>
 //216
-<$1E>
+<$06><$1E><$04>
 //匹で
 x＿
 <$00>
@@ -4289,7 +4289,7 @@ x＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 Craft＿
 <$1D>
@@ -4311,14 +4311,14 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 Crafting a＿
 <$1D>
 //を作ります\n加工料金＿
 ＿\n
 will cost
-<$1D><$1E><$14>
+<$1D><$06><$1E><$04><$14>
 //￥\n
 ￥.\n
 <$01>
@@ -4337,7 +4337,7 @@ Wait
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //お金が足りません
 You can't afford this!
 <$12>
@@ -4348,7 +4348,7 @@ You can't afford this!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物が足りません
 You don't have the animals!
 <$12>
@@ -4359,13 +4359,13 @@ You don't have the animals!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //加工料金＿
 You can't afford the＿\n
 <$15>
 //b
 b
-<$1E><$14>
+<$06><$1E><$04><$14>
 //￥\nが足りません
 ￥ fee!
 <$12>
@@ -4396,7 +4396,7 @@ b
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //道具がいっぱいです
 The item bag is full!
 <$12>
@@ -4408,7 +4408,7 @@ The item bag is full!
 
 
 //
-<$06><$15>
+<$15>
 //Y肉＿屋
 YMeat Market
 <$00>
@@ -4418,7 +4418,7 @@ YMeat Market
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //毎度どーも！　食肉！　薬肉！　毒肉！\n今日は　何にしますか？\n
 Good day, Sir!\n
 You want meats? I've got meats!\n
@@ -4446,7 +4446,7 @@ Exit
 
 
 //
-<$06><$15>
+<$15>
 //Y肉＿屋
 YMeat Market
 <$00>
@@ -4456,7 +4456,7 @@ YMeat Market
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //腹が減った時、体の調子が悪い時、\nお気軽に　お立ち寄りください
 Whether you're hungry or weary,\n
 I'm here to serve you!
@@ -4468,7 +4468,7 @@ I'm here to serve you!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物を売るときは　自分で\n食料や装備に　加工してから売ると、\n手間賃分だけ　ちょっとお得ですよ
 You'll make more money if you process an\n
 animal into food or gear before selling it.
@@ -4480,7 +4480,7 @@ animal into food or gear before selling it.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //アレが　ナニの時にも　どーぞ∥
 Come back any time!
 <$12>
@@ -4492,7 +4492,7 @@ Come back any time!
 
 
 //
-<$06><$15>
+<$15>
 //Y肉＿屋／メニュー
 YMeat／Menu
 <$00>
@@ -4502,7 +4502,7 @@ YMeat／Menu
 
 
 
-<$06><$01>
+<$01>
 //買＿う
 Buy
 <$0E>
@@ -4532,7 +4532,7 @@ Exit
 
 
 //
-<$06><$15>
+<$15>
 //Y肉＿屋／買＿う
 YMeat／Buy
 <$00>
@@ -4543,7 +4543,7 @@ YMeat／Buy
 
 
 //
-<$06><$15>
+<$15>
 //Y肉＿屋／売＿る
 YMeat／Sell
 <$00>
@@ -4554,7 +4554,7 @@ YMeat／Sell
 
 
 //
-<$06><$15>
+<$15>
 //Y肉＿屋／作＿る
 YMeat／Make
 <$00>
@@ -4564,7 +4564,7 @@ YMeat／Make
 
 
 
-<$06><$1D>
+<$1D>
 //　
 
 <$1E>
@@ -4578,7 +4578,7 @@ x\n
 
 
 //  %8d
-<$06>%8d
+%8d
 <$00>
 
 
@@ -4598,9 +4598,9 @@ TUCHO_1.TMZ
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
-<$09>
+<$04><$09>
 //1
 1
 <$15>
@@ -4614,7 +4614,7 @@ H
 
 
 //引き出し
-<$06>W/drawal
+W/drawal
 <$00>
 
 
@@ -4622,7 +4622,7 @@ H
 
 
 
-<$06><$02>
+<$02>
 //64返＿済
 64Repayment
 <$00>
@@ -4632,7 +4632,7 @@ H
 
 
 
-<$06><$02>
+<$02>
 //64利＿子
 64Interest
 <$00>
@@ -4643,7 +4643,7 @@ H
 
 
 //預け入れ
-<$06>Deposit
+Deposit
 <$00>
 
 
@@ -4651,7 +4651,7 @@ H
 
 
 
-<$06><$02>
+<$02>
 //64給＿料
 64Wages
 <$00>
@@ -4661,7 +4661,7 @@ H
 
 
 
-<$06><$02>
+<$02>
 //64利＿息
 64Overhead
 <$00>
@@ -4672,7 +4672,7 @@ H
 
 
 //闘犬給金
-<$06>Arena Pay
+Arena Pay
 <$00>
 
 
@@ -4680,7 +4680,7 @@ H
 
 
 
-<$06><$02>
+<$02>
 //64賞＿金
 64Prize
 <$00>
@@ -4690,7 +4690,7 @@ H
 
 
 
-<$06><$02>
+<$02>
 //64賞＿与
 64Bonus
 <$00>
@@ -4701,23 +4701,23 @@ H
 
 
 //\n
-<$06>\n
+\n
 <$02>
 //8
 8
 <$1E>
 //34
 34
-
+<$06>
 //・
 ・
-<$1D><$02>
+<$04><$1D><$02>
 //58
 58
 <$1D><$02>
 //118
 118
-<$15>
+<$06><$15>
 //H
 H
 <$1D>
@@ -4728,7 +4728,7 @@ H
 
 
 
-<$06><$02>
+<$02>
 //202
 202
 <$1D><$1D><$15>
@@ -4741,7 +4741,7 @@ H
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //いらっしゃいませ！　創立
 Serving Neo Kenya＿
 <$1E>
@@ -4755,7 +4755,7 @@ this is Neo Kenya Bank!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //いらっしゃいませ！　皆様の心の中に\n永遠に生き続ける　ネオケニア銀行です
 Serving Neo Kenya forever in our\n
 hearts, this is Neo Kenya Bank!
@@ -4766,7 +4766,7 @@ hearts, this is Neo Kenya Bank!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //他に　ご用はございますか？
 Can I help with anything else?
 <$00>
@@ -4777,44 +4777,44 @@ Can I help with anything else?
 
 
 //\n
-<$06>\n
+\n
 <$01>
 //引出
 Withdraw
-<$0E>
+<$0E><$06>
 //／
 ／
-<$01>
+<$04><$01>
 //入金
 Deposit
-<$0E>
+<$0E><$06>
 //／
 ／
-<$01>
+<$04><$01>
 //融資
 Loan
-<$0E>
+<$0E><$06>
 //／
 ／
-<$01>
+<$04><$01>
 //返済
 Repay
-<$0E>
+<$0E><$06>
 //／
 ／
-<$01>
+<$04><$01>
 //通帳
 Statement
-<$0E>
+<$0E><$06>
 //／
 ／
-<$01>
+<$04><$01>
 //雑談
 Chat
-<$0E>
+<$0E><$06>
 //／
 ／
-<$01>
+<$04><$01>
 //帰る
 Exit
 <$0E>
@@ -4825,7 +4825,7 @@ Exit
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //お金が心細いときは　使い道のない\n半端な動物を　処分するか、当行の\n安心低利の融資を　ご利用ください
 If you need extra money, consider selling\n
 animals or taking low-interest loans.
@@ -4837,7 +4837,7 @@ animals or taking low-interest loans.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //給料の受取りを　お忘れなく！
 Don't forget your paystub!
 <$12>
@@ -4848,7 +4848,7 @@ Don't forget your paystub!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //またの御利用を　お待ち申し上げます
 We look forward to your next visit.
 <$12>
@@ -4859,7 +4859,7 @@ We look forward to your next visit.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //長らくの御愛顧\nありがとう　ございました
 Thank you for your loyal patronage.
 <$12>
@@ -4870,7 +4870,7 @@ Thank you for your loyal patronage.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //現在、お客様の口座は　勝手ながら\n取引きを　停止させていただいております\nお早目の返済を　お願い致します
 Your account is currently suspended until\n
 outstanding balances are repaid.
@@ -4882,10 +4882,10 @@ outstanding balances are repaid.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //現在の預金残高は　
 Balance:＿
-<$1E>
+<$06><$1E><$04>
 //￥です\n入金額は　おいくらですか？\n持金
 ￥.\n
 How much will you deposit?\n
@@ -4902,9 +4902,9 @@ How much will you deposit?\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
-<$1E>
+<$06><$1E><$04>
 //￥の入金ですね\n
 ￥, is that correct?\n
 <$01>
@@ -4924,10 +4924,10 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //現在の預金残高は　
 Balance:＿
-<$1E>
+<$06><$1E><$04>
 //￥です
 ￥.
 <$12>
@@ -4939,7 +4939,7 @@ Balance:＿
 
 
 //\nそれでも　お引出しになりたい？？\nそれは　強盗って言うんですよ
-<$06>\n
+\n
 Withdrawing more than that? That's what we\n
 call "robbery".
 <$12>
@@ -4950,7 +4950,7 @@ call "robbery".
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //まっ　珍しかないですけどね…
 Hmm, how often do we see this...
 <$12>
@@ -4961,10 +4961,10 @@ Hmm, how often do we see this...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //現在の預金残高は　
 Balance:＿
-<$1E>
+<$06><$1E><$04>
 //￥です\n引出額は　おいくらですか？\n持金
 ￥\n
 How much will you withdraw?\n
@@ -4981,9 +4981,9 @@ How much will you withdraw?\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
-<$1E>
+<$06><$1E><$04>
 //￥のお引出しですね\n
 ￥ will be withdrawn.\n
 <$01>
@@ -5003,10 +5003,10 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //現在の預金残高は　
 Balance:＿
-<$1E>
+<$06><$1E><$04>
 //￥です\n追加融資は　お受けできかねます\nご了承ください
 ￥\n
 Additional loans cannot be taken.
@@ -5018,10 +5018,10 @@ Additional loans cannot be taken.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //現在の返済残高は　
 Balance:＿
-<$1E>
+<$06><$1E><$04>
 //￥です\n追加融資は　お受けできかねます\nご了承ください
 ￥\n
 Additional loans cannot be taken.
@@ -5033,7 +5033,7 @@ Additional loans cannot be taken.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //死神衝突まで　１年を切りましたので\n融資は　終了させていただきました\nご了承ください
 With less than a year before the Grim\n
 Reaper's impact, all loans have been\n
@@ -5046,10 +5046,10 @@ terminated.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //現在の融資枠は　最大
 Loan limit:＿
-<$1E>
+<$06><$1E><$04>
 //￥です\n融資希望額は　おいくらですか？\n持金
 ￥\n
 How much will you borrow?\n
@@ -5066,7 +5066,7 @@ How much will you borrow?\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //融資額＿
 Great! That's＿
 <$1E>
@@ -5103,10 +5103,10 @@ Exit
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //返済残高　
 You currently owe＿
-<$1E>
+<$06><$1E><$04>
 //￥です
 ￥.
 <$12>
@@ -5117,10 +5117,10 @@ You currently owe＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //現在の返済残高は
 Balance:＿
-<$1E>
+<$06><$1E><$04>
 //￥です\n返済額は　おいくらですか？\n持金
 ￥\n
 What will you repay?\n
@@ -5137,9 +5137,9 @@ What will you repay?\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
-<$1E>
+<$06><$1E><$04>
 //￥の返済ですね\n
 ￥ will be repaid.\n
 <$01>
@@ -5159,7 +5159,7 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //返済は　すべて完了しました\nありがとう　こざいます！
 All loans have been repaid.\n
 Thank you!
@@ -5171,7 +5171,7 @@ Thank you!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //返済残高は
 Balance:＿
 <$1E>
@@ -5189,7 +5189,7 @@ Seasonal interest:＿
 
 
 //返済期限は今季節です　お急ぎください
-<$06>Remember, repayment is due this season.
+Remember, repayment is due this season.
 <$12>
 <$00>
 
@@ -5199,7 +5199,7 @@ Seasonal interest:＿
 
 
 //返済期限は次の
-<$06>Remember, repayment is due in＿
+Remember, repayment is due in＿
 <$1D>
 //です　お忘れなく
 .
@@ -5212,7 +5212,7 @@ Seasonal interest:＿
 
 
 //
-<$06><$15>
+<$15>
 //YＢＡＲ
 YBar
 <$00>
@@ -5222,10 +5222,10 @@ YBar
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //何になさいます？　どれでも
 For＿
-<$1D><$1E><$14>
+<$1D><$06><$1E><$04><$14>
 //￥です\n
 ￥, what'll it be?\n
 <$01><$1D><$1D><$02>
@@ -5257,7 +5257,7 @@ No thanks.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //また、どうぞ
 Come again!
 <$12>
@@ -5268,7 +5268,7 @@ Come again!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ぼうや…\nタダ酒は　後で高くつくのが\n大人の世界の常識だぜ
 Careful, kiddo. Everyone pays the price for\n
 cheap liquor sooner or later.
@@ -5280,7 +5280,7 @@ cheap liquor sooner or later.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは
 Ken downed the\n
 <$1D><$1D>
@@ -5295,13 +5295,13 @@ in one gulp.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンの\n
 Ken's＿
-
+<$06>
 //HP 
 HP
-
+<$04>
 //全回復∥
 ＿recovered fully!
 <$12>
@@ -5312,13 +5312,13 @@ HP
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンの\n
 Ken's＿
-
+<$06>
 //HP 
 HP recovered by＿
-<$1E>
+<$1E><$04>
 //回復∥
 !
 <$12>
@@ -5329,7 +5329,7 @@ HP recovered by＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //もう　１杯いかがですか？\n
 Care for another?\n
 <$01><$1D><$1D><$02>
@@ -5362,7 +5362,7 @@ No thanks.
 
 
 //ロック
-<$06>＿shot
+＿shot
 <$00>
 
 
@@ -5371,7 +5371,7 @@ No thanks.
 
 
 //ジュース
-<$06>＿juice
+＿juice
 <$00>
 
 
@@ -5380,7 +5380,7 @@ No thanks.
 
 
 //ミルク
-<$06>＿milk
+＿milk
 <$00>
 
 
@@ -5389,7 +5389,7 @@ No thanks.
 
 
 //スープ
-<$06>＿soup
+＿soup
 <$00>
 
 
@@ -5398,7 +5398,7 @@ No thanks.
 
 
 //パンチ
-<$06>＿punch
+＿punch
 <$00>
 
 
@@ -5407,7 +5407,7 @@ No thanks.
 
 
 //カクテル
-<$06>＿cocktail
+＿cocktail
 <$00>
 
 
@@ -5416,7 +5416,7 @@ No thanks.
 
 
 //茶
-<$06>＿tea
+＿tea
 <$00>
 
 
@@ -5425,7 +5425,7 @@ No thanks.
 
 
 //コーラ
-<$06>＿malt
+＿malt
 <$00>
 
 
@@ -5434,7 +5434,7 @@ No thanks.
 
 
 //ビール
-<$06>＿beer
+＿beer
 <$00>
 
 
@@ -5443,7 +5443,7 @@ No thanks.
 
 
 //サワー
-<$06>＿shake
+＿shake
 <$00>
 
 
@@ -5452,7 +5452,7 @@ No thanks.
 
 
 //ソーダ
-<$06>＿soda
+＿soda
 <$00>
 
 
@@ -5461,7 +5461,7 @@ No thanks.
 
 
 //焼酎
-<$06>＿shochu
+＿shochu
 <$00>
 
 
@@ -5470,7 +5470,7 @@ No thanks.
 
 
 //
-<$06><$15>
+<$15>
 //Y雑貨屋
 YItems
 <$00>
@@ -5480,7 +5480,7 @@ YItems
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //日用雑貨から　掘りだし物まで\nなんでも扱う　道具屋です\n
 We've got your essentials at great prices!\n
 <$01>
@@ -5507,7 +5507,7 @@ Exit
 
 
 //
-<$06><$15>
+<$15>
 //Y雑貨屋
 YItems
 <$00>
@@ -5517,7 +5517,7 @@ YItems
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //いい物　見つけたら\n売りにおいでよ
 If you find anything cool, sell it to us!
 <$12>
@@ -5529,7 +5529,7 @@ If you find anything cool, sell it to us!
 
 
 //
-<$06><$15>
+<$15>
 //Y雑貨屋／メニュー
 YItems/Menu
 <$00>
@@ -5539,7 +5539,7 @@ YItems/Menu
 
 
 
-<$06><$01>
+<$01>
 //買＿う
 Buy
 <$0E>
@@ -5563,7 +5563,7 @@ Exit
 
 
 //
-<$06><$15>
+<$15>
 //Y雑貨屋／買＿う
 YItems/Buy
 <$00>
@@ -5574,7 +5574,7 @@ YItems/Buy
 
 
 //
-<$06><$15>
+<$15>
 //Y雑貨屋／売＿る
 YItems/Sell
 <$00>
@@ -5584,7 +5584,7 @@ YItems/Sell
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //次は凄いヤツを　仕入れておきますから\nこりずに　また、どうぞ
 Don't you worry, I'll have even better stock\n
 next time!
@@ -5597,7 +5597,7 @@ next time!
 
 
 //
-<$06><$15>
+<$15>
 //Y装備屋／メニュー
 YEquipment／Menu
 <$00>
@@ -5607,7 +5607,7 @@ YEquipment／Menu
 
 
 
-<$06><$01>
+<$01>
 //買＿う
 Buy
 <$0E>
@@ -5637,7 +5637,7 @@ Exit
 
 
 //
-<$06><$15>
+<$15>
 //Y装備屋／買＿う
 YEquipment／Buy
 <$00>
@@ -5648,7 +5648,7 @@ YEquipment／Buy
 
 
 //
-<$06><$15>
+<$15>
 //Y装備屋／売＿る
 YEquipment／Sell
 <$00>
@@ -5659,7 +5659,7 @@ YEquipment／Sell
 
 
 //
-<$06><$15>
+<$15>
 //Y装備屋／加＿工
 YEquipment／Craft
 <$00>
@@ -5670,7 +5670,7 @@ YEquipment／Craft
 
 
 //
-<$06><$15>
+<$15>
 //Y装備屋
 YEquipment
 <$00>
@@ -5680,7 +5680,7 @@ YEquipment
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //頭のテッペンから、爪先まで\n装備のことなら　何でもご用命ください\n
 From head to toe,\n
 we've got you covered!\n
@@ -5708,7 +5708,7 @@ Exit
 
 
 //
-<$06><$15>
+<$15>
 //Y装備屋
 YEquipment
 <$00>
@@ -5718,7 +5718,7 @@ YEquipment
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物を売るときは　自分で\n食料や装備に　加工してから売ると、\n手間賃分だけ　ちょっとお得ですよ
 You'll make more money if you process an\n
 animal into food or gear before selling it.
@@ -5730,7 +5730,7 @@ animal into food or gear before selling it.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //装備のつけ忘れに　ご注意を！
 Don't forget to equip your new gear!
 <$12>
@@ -5741,7 +5741,7 @@ Don't forget to equip your new gear!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ありがとうございました\nお気をつけて！
 Thank you!\n
 Watch your backs out there!
@@ -5754,7 +5754,7 @@ Watch your backs out there!
 
 
 //
-<$06><$15>
+<$15>
 //Yホテル
 YHotel
 <$00>
@@ -5764,7 +5764,7 @@ YHotel
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //お気をつけて！
 Take care!
 <$12>
@@ -5775,7 +5775,7 @@ Take care!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //野宿は　危険ですよ
 Camping's dangerous, you know.
 <$12>
@@ -5786,11 +5786,11 @@ Camping's dangerous, you know.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //いらっしゃいませ！　
 Welcome! Would you like\n
 a room for＿
-<$1D><$1E><$14>
+<$1D><$06><$1E><$04><$14>
 //￥で\nお部屋が　用意できますよ\n
 ￥?\n
 <$01>
@@ -5816,7 +5816,7 @@ Exit
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //お金が　足りないようですね
 You can't afford this, can you.
 <$12>
@@ -5827,7 +5827,7 @@ You can't afford this, can you.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //お客様、戦えなくなった　猟犬のＨＰは\n宿泊や野営じゃ　戻りませんけど…\n
 I'm sorry, but dogs won't recover HP in\n
 hotels or camps.\n
@@ -5848,7 +5848,7 @@ Really?!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //さしでがましいことを　申し上げ\nたいへん　失礼いたしました\nでは　ごゆっくり
 Ah, I see. Please forgive my outburst.
 <$12>
@@ -5859,7 +5859,7 @@ Ah, I see. Please forgive my outburst.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //専門のお医者さまを　お捜しになって\nなるべく早く\n治療して　さしあげてください
 Yes. Always seek a vet treat your dogs.
 <$12>
@@ -5871,7 +5871,7 @@ Yes. Always seek a vet treat your dogs.
 
 
 //\n
-<$06>\n
+\n
 <$00>
 
 
@@ -5879,7 +5879,7 @@ Yes. Always seek a vet treat your dogs.
 
 
 
-<$06><$01>
+<$01>
 //寄付する
 Donate
 <$0E>
@@ -5902,7 +5902,7 @@ No way!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //いつも神様は　あなたの行動を\n見ていらっしゃいますよ…
 God's always watching, you know.
 <$12>
@@ -5913,7 +5913,7 @@ God's always watching, you know.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ありがとうございます\n優しい気持ちを　入れてください\n持金
 Thank you so much!\n
 How much will you donate?\n
@@ -5930,10 +5930,10 @@ How much will you donate?\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 You'll donate＿
-<$1E>
+<$06><$1E><$04>
 //￥の寄付ですね\n
 ￥?\n
 <$01>
@@ -5953,7 +5953,7 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //最近、多いんですよ…\n持金を全部、寄付される方…
 I've seen a lot of people donating everything\n
 they have lately.
@@ -5971,7 +5971,7 @@ guilty about participating.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //あなたに　神様からの祝福が\nありますように
 God bless you.
 <$12>
@@ -5982,7 +5982,7 @@ God bless you.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //あなたと　あなたの家族に\n神様からのご加護が　ありますように
 God bless you and your family.
 <$12>
@@ -5993,7 +5993,7 @@ God bless you and your family.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //あなたと　あなたの家族\nそして　子孫にも　未来永劫、\n幸あらんことを　お祈りします
 God bless you, your family, your children and\n
 your childrens' children.
@@ -6005,7 +6005,7 @@ your childrens' children.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //今、あなたが寄付したお金を\nどうやって　かせいだかについては…
 Ask yourself, how'd you get the money you\n
 donated just now?
@@ -6023,7 +6023,7 @@ treatment, I'll bet. But that's good too!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //どうも
 My goodness!
 <$12>
@@ -6041,10 +6041,10 @@ have much be so generous brings me to tears!
 <CLEAR>
 //足りなきゃ　
 Is＿
-
+<$06>
 //100000
 100,000
-
+<$04>
 //￥で\nお売りしましょうか？
 ￥ a fair price to you?
 <$12>
@@ -6055,7 +6055,7 @@ Is＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //本当に　ありがとうございました∥\nあなたのお気持ちは　しっかりと…
 Thank you so much! Your generosity will be\n
 remembered for all time.
@@ -6072,7 +6072,7 @@ I know, because I just "reported" it.
 
 
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -6099,7 +6099,7 @@ It's whatever they reek of that isn't human.
 
 
 //……東
-<$06>...East
+...East
 <$00>
 
 
@@ -6108,7 +6108,7 @@ It's whatever they reek of that isn't human.
 
 
 //……西
-<$06>...West
+...West
 <$00>
 
 
@@ -6117,7 +6117,7 @@ It's whatever they reek of that isn't human.
 
 
 //……南
-<$06>...South
+...South
 <$00>
 
 
@@ -6126,7 +6126,7 @@ It's whatever they reek of that isn't human.
 
 
 //……北
-<$06>...North
+...North
 <$00>
 
 
@@ -6135,7 +6135,7 @@ It's whatever they reek of that isn't human.
 
 
 //…北東
-<$06>...North-east
+...North-east
 <$00>
 
 
@@ -6144,7 +6144,7 @@ It's whatever they reek of that isn't human.
 
 
 //…北西
-<$06>...North-west
+...North-west
 <$00>
 
 
@@ -6153,7 +6153,7 @@ It's whatever they reek of that isn't human.
 
 
 //…南東
-<$06>...South-east
+...South-east
 <$00>
 
 
@@ -6162,7 +6162,7 @@ It's whatever they reek of that isn't human.
 
 
 //…南西
-<$06>...South-west
+...South-west
 <$00>
 
 
@@ -6170,7 +6170,7 @@ It's whatever they reek of that isn't human.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -6182,7 +6182,7 @@ It's whatever they reek of that isn't human.
 
 
 //、…
-<$06>! That's where we'll find a＿
+! That's where we'll find a＿
 <$1D>
 //に行けば
 .
@@ -6194,7 +6194,7 @@ It's whatever they reek of that isn't human.
 
 
 //直進
-<$06>For
+For
 <$00>
 
 
@@ -6203,7 +6203,7 @@ It's whatever they reek of that isn't human.
 
 
 //右よ
-<$06>Right
+Right
 <$00>
 
 
@@ -6212,7 +6212,7 @@ It's whatever they reek of that isn't human.
 
 
 //左よ
-<$06>Left
+Left
 <$00>
 
 
@@ -6221,7 +6221,7 @@ It's whatever they reek of that isn't human.
 
 
 //後ろ
-<$06>Back
+Back
 <$00>
 
 
@@ -6229,7 +6229,7 @@ It's whatever they reek of that isn't human.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -6241,7 +6241,7 @@ It's whatever they reek of that isn't human.
 
 
 //、絶対に
-<$06>wards, got it? I'm sure we'll find a＿
+wards, got it? I'm sure we'll find a＿
 <$1D>
 //∥
 ＿there!
@@ -6252,7 +6252,7 @@ It's whatever they reek of that isn't human.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -6267,7 +6267,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…ごめんね、\n今日は　勘がはたらかないわ…
 ...Sorry. I don't have it in me today.
 <$12>
@@ -6279,7 +6279,7 @@ SLinda used her woman's intuition...
 
 
 //運命の
-<$06>Fated＿
+Fated＿
 <$00>
 
 
@@ -6288,7 +6288,7 @@ SLinda used her woman's intuition...
 
 
 //新しい
-<$06>New＿
+New＿
 <$00>
 
 
@@ -6297,7 +6297,7 @@ SLinda used her woman's intuition...
 
 
 //素敵な
-<$06>Great＿
+Great＿
 <$00>
 
 
@@ -6306,7 +6306,7 @@ SLinda used her woman's intuition...
 
 
 //未知の
-<$06>Unknown＿
+Unknown＿
 <$00>
 
 
@@ -6315,7 +6315,7 @@ SLinda used her woman's intuition...
 
 
 //何か
-<$06>things＿
+things＿
 <$00>
 
 
@@ -6324,7 +6324,7 @@ SLinda used her woman's intuition...
 
 
 //発見
-<$06>discoveries＿
+discoveries＿
 <$00>
 
 
@@ -6333,7 +6333,7 @@ SLinda used her woman's intuition...
 
 
 //お宝
-<$06>treasures＿
+treasures＿
 <$00>
 
 
@@ -6342,7 +6342,7 @@ SLinda used her woman's intuition...
 
 
 //動物
-<$06>animals＿
+animals＿
 <$00>
 
 
@@ -6351,7 +6351,7 @@ SLinda used her woman's intuition...
 
 
 //に　出会える…
-<$06>could appear.
+could appear.
 <$00>
 
 
@@ -6360,7 +6360,7 @@ SLinda used her woman's intuition...
 
 
 //が　待ってる…
-<$06>await us...
+await us...
 <$00>
 
 
@@ -6369,7 +6369,7 @@ SLinda used her woman's intuition...
 
 
 //気がするわ∥
-<$06>are there.
+are there.
 <$00>
 
 
@@ -6378,7 +6378,7 @@ SLinda used her woman's intuition...
 
 
 //チャンスよ∥
-<$06>are in our grasp!
+are in our grasp!
 <$00>
 
 
@@ -6387,7 +6387,7 @@ SLinda used her woman's intuition...
 
 
 //今しかないわ
-<$06>could slip through our fingers!
+could slip through our fingers!
 <$00>
 
 
@@ -6396,7 +6396,7 @@ SLinda used her woman's intuition...
 
 
 //間違いなし∥
-<$06>are dead head!
+are dead head!
 <$00>
 
 
@@ -6405,7 +6405,7 @@ SLinda used her woman's intuition...
 
 
 //\n
-<$06>\n
+\n
 <$1D><$1D><$1D>
 //\n
 \n
@@ -6420,7 +6420,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信があるの∥
 I'm sure of it!
 <$12>
@@ -6431,7 +6431,7 @@ I'm sure of it!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信は　ないけどね…
 Although, I'm not totally certain...
 <$12>
@@ -6442,7 +6442,7 @@ Although, I'm not totally certain...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //絶対なんだから∥
 I'm absolutely certain!
 <$12>
@@ -6455,7 +6455,7 @@ I'm absolutely certain!
 
 #WRITE(PTR, $0036)
 //
-<$06><$15>
+<$15>
 //Y宝クジ屋
 YLottery Store
 <$00>
@@ -6465,10 +6465,10 @@ YLottery Store
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 For＿
-<$1D><$1E><$14>
+<$1D><$06><$1E><$04><$14>
 //￥で　大きな夢を買いましょう∥\n
 ￥, dreams CAN come true!\n
 Join the＿
@@ -6498,7 +6498,7 @@ Exit
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 Tune in this＿
 <$1D>
@@ -6512,13 +6512,13 @@ Tune in this＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 We've got the winners of the＿
 <$1D>
 //の宝クジ、ただいま抽選発表中∥\n
 ＿Lottery for
-<$1E>
+<$06><$1E><$04>
 //￥は　果たしてどなたのモノに∥\n
 ￥ right here!\n
 <$01>
@@ -6544,7 +6544,7 @@ Exit
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 The＿
 <$1D>
@@ -6558,7 +6558,7 @@ The＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ご好評を　いただいた宝クジも\n今回をもって　終了させていただきます\nありがとうございました
 It's time for us to close to our widely-loved\n
 lottery. Thank you for all of your support.
@@ -6570,7 +6570,7 @@ lottery. Thank you for all of your support.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //宝クジは　ネオケニア脱出難民の\n援助を目的に　作られました
 The lottery was designed to raise relief\n
 funds for the migration.
@@ -6588,7 +6588,7 @@ saving lives! Everybody wins!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //おひとり様　１シーズンにつき\n
 Everyone can order up to\n
 <$1E>
@@ -6608,7 +6608,7 @@ than that and still lose.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //宝クジに　すがりたくなる気持ちは\nお察ししますが…　その宝クジを買う\nお金にさえ　事欠くとは…
 I take it you're addicted to the lottery, but\n
 to see that when you don't even have the\n
@@ -6621,7 +6621,7 @@ money to buy a ticket...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //持ち物がいっぱいですよ
 At least your item bag is full, am I right?
 <$12>
@@ -6632,7 +6632,7 @@ At least your item bag is full, am I right?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$02>
 //96［
@@ -6655,7 +6655,7 @@ This'll be your lottery number!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //［
 ［
 <$1E>
@@ -6678,7 +6678,7 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -6696,7 +6696,7 @@ S<CLEAR>Ken received\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //お持ちの
 Let's see what you have with＿
 <$1D>
@@ -6713,11 +6713,11 @@ Let's see what you have with＿
 
 
 //おめでとうございます∥\n
-<$06>Congratulations!\n
+Congratulations!\n
 <$1E>
 //0等、賞金　
 0, you just won＿
-<$1E>
+<$06><$1E><$04>
 //￥です
 ￥!
 <$12>
@@ -6729,7 +6729,7 @@ Let's see what you have with＿
 
 
 //残念ながら　今回はハズレです\n次に期待しましょう∥
-<$06>Sorry. It looks like this ticket's a bust,\n
+Sorry. It looks like this ticket's a bust,\n
 but better luck next time!
 <$12>
 <$00>
@@ -6739,7 +6739,7 @@ but better luck next time!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //宝クジを持ってなきゃ　どんなに\n運のいいあなたでも　当たりません
 No matter how lucky you are, you can't win if\n
 you don't play.
@@ -6755,7 +6755,7 @@ Don't BE lucky. GET lucky!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //その紙クズを　照合せよと…
 You can always check the trash cans for loose\n
 Scrap Paper, but...
@@ -6770,10 +6770,10 @@ that's the sign of a sore loser.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //賞金総額は　
 Your total winnings are
-<$1E>
+<$06><$1E><$04>
 //￥です\n受け取り方法は　いかがなさいますか？\n
 ￥.\n
 What will you do?\n
@@ -6800,7 +6800,7 @@ Donate it!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //それでは
 All right, here is your＿
 <$1E>
@@ -6815,10 +6815,10 @@ Please double count it.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //それでは　
 All right,＿
-<$1E>
+<$06><$1E><$04>
 //￥を\nネオケニア銀行の　あなた様の口座に\n入金させていただきます
 ￥ will be wired to your NK Bank account for\n
 withdrawal.
@@ -6830,9 +6830,9 @@ withdrawal.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
-<$1E>
+<$06><$1E><$04>
 //￥を「難民救済センター」へ\n寄付しますが、よろしいですね？\n
 ￥ will be donated to the Migration Relief\n
 Center. ARE YOU SURE ABOUT THIS?!\n
@@ -6852,7 +6852,7 @@ Nevermind!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //素晴しい∥
 Fantastic!
 <$12>
@@ -6863,7 +6863,7 @@ Fantastic!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //あぁ…　やっぱりね…\nみんな、自分のことだけで\n精一杯ですモンね…
 Ah, thought so...\n
 As the saying goes,\n

@@ -42,7 +42,7 @@ box.obj
 
 #WRITE(PTR, $001E)
 //女社長の館Ｂ１
-<$06>Green Mansion B1＿
+Green Mansion B1＿
 <$00>
 
 
@@ -50,7 +50,7 @@ box.obj
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -66,7 +66,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -83,7 +83,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -100,7 +100,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -111,7 +111,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -122,7 +122,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -133,7 +133,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -149,7 +149,7 @@ SNothing was found.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -167,7 +167,7 @@ SNothing was found.
 
 #WRITE(PTR, $0020)
 //女社長の館Ｂ２
-<$06>Green Mansion B2＿
+Green Mansion B2＿
 <$00>
 
 
@@ -175,7 +175,7 @@ SNothing was found.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -191,7 +191,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -208,7 +208,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -225,7 +225,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -236,7 +236,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -247,7 +247,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -258,7 +258,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -274,7 +274,7 @@ SNothing was found.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -292,7 +292,7 @@ SKen found the＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -310,7 +310,7 @@ had to go back.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -328,7 +328,7 @@ SKen acquired＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -344,7 +344,7 @@ SThis door is locked and will not open.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -360,7 +360,7 @@ SKen used the Mansion Key!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -376,7 +376,7 @@ SThis door is locked and will not open.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -394,7 +394,7 @@ SKen used the Mansion Key!
 
 #WRITE(PTR, $0022)
 //……東
-<$06>...East
+...East
 <$00>
 
 
@@ -403,7 +403,7 @@ SKen used the Mansion Key!
 
 
 //……西
-<$06>...West
+...West
 <$00>
 
 
@@ -412,7 +412,7 @@ SKen used the Mansion Key!
 
 
 //……南
-<$06>...South
+...South
 <$00>
 
 
@@ -421,7 +421,7 @@ SKen used the Mansion Key!
 
 
 //……北
-<$06>...North
+...North
 <$00>
 
 
@@ -430,7 +430,7 @@ SKen used the Mansion Key!
 
 
 //…北東
-<$06>...North-east
+...North-east
 <$00>
 
 
@@ -439,7 +439,7 @@ SKen used the Mansion Key!
 
 
 //…北西
-<$06>...North-west
+...North-west
 <$00>
 
 
@@ -448,7 +448,7 @@ SKen used the Mansion Key!
 
 
 //…南東
-<$06>...South-east
+...South-east
 <$00>
 
 
@@ -457,7 +457,7 @@ SKen used the Mansion Key!
 
 
 //…南西
-<$06>...South-west
+...South-west
 <$00>
 
 
@@ -465,7 +465,7 @@ SKen used the Mansion Key!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -477,7 +477,7 @@ SKen used the Mansion Key!
 
 
 //、…
-<$06>! That's where we'll find a＿
+! That's where we'll find a＿
 <$1D>
 //に行けば
 .
@@ -489,7 +489,7 @@ SKen used the Mansion Key!
 
 
 //直進
-<$06>For
+For
 <$00>
 
 
@@ -498,7 +498,7 @@ SKen used the Mansion Key!
 
 
 //右よ
-<$06>Right
+Right
 <$00>
 
 
@@ -507,7 +507,7 @@ SKen used the Mansion Key!
 
 
 //左よ
-<$06>Left
+Left
 <$00>
 
 
@@ -516,7 +516,7 @@ SKen used the Mansion Key!
 
 
 //後ろ
-<$06>Back
+Back
 <$00>
 
 
@@ -524,7 +524,7 @@ SKen used the Mansion Key!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -536,7 +536,7 @@ SKen used the Mansion Key!
 
 
 //、絶対に
-<$06>wards, got it? I'm sure we'll find a＿
+wards, got it? I'm sure we'll find a＿
 <$1D>
 //∥
 ＿there!
@@ -547,7 +547,7 @@ SKen used the Mansion Key!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -562,7 +562,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…ごめんね、\n今日は　勘がはたらかないわ…
 ...Sorry. I don't have it in me today.
 <$12>
@@ -574,7 +574,7 @@ SLinda used her woman's intuition...
 
 
 //運命の
-<$06>Fated＿
+Fated＿
 <$00>
 
 
@@ -583,7 +583,7 @@ SLinda used her woman's intuition...
 
 
 //新しい
-<$06>New＿
+New＿
 <$00>
 
 
@@ -592,7 +592,7 @@ SLinda used her woman's intuition...
 
 
 //素敵な
-<$06>Great＿
+Great＿
 <$00>
 
 
@@ -601,7 +601,7 @@ SLinda used her woman's intuition...
 
 
 //未知の
-<$06>Unknown＿
+Unknown＿
 <$00>
 
 
@@ -610,7 +610,7 @@ SLinda used her woman's intuition...
 
 
 //何か
-<$06>things＿
+things＿
 <$00>
 
 
@@ -619,7 +619,7 @@ SLinda used her woman's intuition...
 
 
 //発見
-<$06>discoveries＿
+discoveries＿
 <$00>
 
 
@@ -628,7 +628,7 @@ SLinda used her woman's intuition...
 
 
 //お宝
-<$06>treasures＿
+treasures＿
 <$00>
 
 
@@ -637,7 +637,7 @@ SLinda used her woman's intuition...
 
 
 //動物
-<$06>animals＿
+animals＿
 <$00>
 
 
@@ -646,7 +646,7 @@ SLinda used her woman's intuition...
 
 
 //に　出会える…
-<$06>could appear.
+could appear.
 <$00>
 
 
@@ -655,7 +655,7 @@ SLinda used her woman's intuition...
 
 
 //が　待ってる…
-<$06>await us...
+await us...
 <$00>
 
 
@@ -664,7 +664,7 @@ SLinda used her woman's intuition...
 
 
 //気がするわ∥
-<$06>are there.
+are there.
 <$00>
 
 
@@ -673,7 +673,7 @@ SLinda used her woman's intuition...
 
 
 //チャンスよ∥
-<$06>are in our grasp!
+are in our grasp!
 <$00>
 
 
@@ -682,7 +682,7 @@ SLinda used her woman's intuition...
 
 
 //今しかないわ
-<$06>could slip through our fingers!
+could slip through our fingers!
 <$00>
 
 
@@ -691,7 +691,7 @@ SLinda used her woman's intuition...
 
 
 //間違いなし∥
-<$06>are dead head!
+are dead head!
 <$00>
 
 
@@ -700,7 +700,7 @@ SLinda used her woman's intuition...
 
 
 //\n
-<$06>\n
+\n
 <$1D><$1D><$1D>
 //\n
 \n
@@ -715,7 +715,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信があるの∥
 I'm sure of it!
 <$12>
@@ -726,7 +726,7 @@ I'm sure of it!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信は　ないけどね…
 Although, I'm not totally certain...
 <$12>
@@ -737,7 +737,7 @@ Although, I'm not totally certain...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //絶対なんだから∥
 I'm absolutely certain!
 <$12>
@@ -749,7 +749,7 @@ I'm absolutely certain!
 
 
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -764,7 +764,7 @@ It smells strongly of antiseptic here.
 
 
 //\n
-<$06>\n
+\n
 <$01>
 //は＿い
 Yes
@@ -784,7 +784,7 @@ No
 
 
 //
-<$06><$15>
+<$15>
 //Yスケジュール
 YMemo＿
 <$00>
@@ -794,7 +794,7 @@ YMemo＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //スケジュールは何もありません
 There is nothing on schedule.
 <$12>
@@ -806,7 +806,7 @@ There is nothing on schedule.
 
 
 //成功終了
-<$06>Completed!
+Completed!
 <$00>
 
 
@@ -815,7 +815,7 @@ There is nothing on schedule.
 
 
 //期限切れ
-<$06>Expired!
+Expired!
 <$00>
 
 
@@ -824,7 +824,7 @@ There is nothing on schedule.
 
 
 //あと
-<$06>In＿
+In＿
 <$1E>
 //季節
 ＿seasons
@@ -836,7 +836,7 @@ There is nothing on schedule.
 
 
 //あと
-<$06>Deadline:＿
+Deadline:＿
 <$1E>
 //年
 Y/
@@ -851,7 +851,7 @@ S
 
 
 //あと
-<$06>In＿
+In＿
 <$1E>
 //年
 ＿years
@@ -862,7 +862,7 @@ S
 
 
 
-<$06><$16><$01>
+<$16><$01>
 //◇
 ◇
 <$0E><$1D><$02>
@@ -876,7 +876,7 @@ S
 
 
 //ファングを倒す
-<$06>Slay Fang
+Slay Fang
 <$00>
 
 
@@ -885,7 +885,7 @@ S
 
 
 //パンハイムからの依頼
-<$06>Assist Panheim
+Assist Panheim
 <$00>
 
 
@@ -895,7 +895,7 @@ S
 
 //<$1B>
 //カメの卵を手に入れる
-<$06>Snatch Turtle Eggs
+Snatch Turtle Eggs
 <$00>
 
 
@@ -905,7 +905,7 @@ S
 
 //<$1B>
 //プテラノの卵を手に入れる
-<$06>Snatch Pteranodon Eggs
+Snatch Pteranodon Eggs
 <$00>
 
 
@@ -914,7 +914,7 @@ S
 
 
 //遺産争いにケリをつける
-<$06>End the inheritance battle
+End the inheritance battle
 <$00>
 
 
@@ -923,7 +923,7 @@ S
 
 
 //ヤマダのために一肌脱ぐ
-<$06>Unload for Yamada
+Unload for Yamada
 <$00>
 
 
@@ -932,7 +932,7 @@ S
 
 
 //町のシンボルを見つけだす
-<$06>Find the village symbol
+Find the village symbol
 <$00>
 
 
@@ -941,7 +941,7 @@ S
 
 
 //ソフィアからの依頼
-<$06>Assist Sophia
+Assist Sophia
 <$00>
 
 
@@ -950,7 +950,7 @@ S
 
 
 //サチコ救出
-<$06>Rescue Sachiko
+Rescue Sachiko
 <$00>
 
 
@@ -959,7 +959,7 @@ S
 
 
 //ポロポロちゃんを助ける
-<$06>Save Nightshade
+Save Nightshade
 <$00>
 
 
@@ -968,7 +968,7 @@ S
 
 
 //アンジェラ捜し
-<$06>Find Angela
+Find Angela
 <$00>
 
 
@@ -976,7 +976,7 @@ S
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //カラゴラムのファングを倒し、その証拠を\nハーディアホテルのスペクターに渡す
 Defeat Fang in Karhagolem. Present proof to\n
 Spectre in Hardia Hotel.
@@ -987,7 +987,7 @@ Spectre in Hardia Hotel.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //マーブルポリスの
 Process meat from＿
 //<$1B>
@@ -1001,7 +1001,7 @@ Panheim in Hospico.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 Find up to 3＿
 //<$1B>
@@ -1015,7 +1015,7 @@ Park BB Ranch.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 Acquire 2＿
 //<$1B>
@@ -1029,7 +1029,7 @@ Battle Park BB Ranch.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「太郎の首輪」を見つけだし、ドギファの\nナターシャか、オーマン家３兄弟に渡す
 Locate Taro's Collar. Give it to Natasha or\n
 one of the 3 Aumann children in Dogyf\n
@@ -1042,7 +1042,7 @@ Heights.
 
 
 //６万
-<$06>60, 000
+60, 000
 <$00>
 
 
@@ -1051,10 +1051,10 @@ Heights.
 
 
 //あと
-<$06>another＿
-<$1E><$0F>
+another＿
+<$06><$1E><$0F>
 //000
-
+<$04>
 <$00>
 
 
@@ -1062,7 +1062,7 @@ Heights.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //Ｇファクトリーのヤマダのために\n
 Deposit＿
 <$1D>
@@ -1075,7 +1075,7 @@ Deposit＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //コシカタのシンボル「
 Find the＿
 //<$1B>
@@ -1089,7 +1089,7 @@ Return it to Poliska.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ソフィアのために、エターナの桜の木を\nどうにかして咲かせる
 Find out how to revive the sakura trees in\n
 Eterna for Sophia.
@@ -1100,7 +1100,7 @@ Eterna for Sophia.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //溶岩の中で育った動物の熱いウンチを\nエターナのソフィアに渡す
 Deliver Hot Dung from a lava-dwelling\n
 creature to Sophia in Eterna.
@@ -1111,7 +1111,7 @@ creature to Sophia in Eterna.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ラグナロッジのエモリに会いに行く
 Meet with Dr. Emori in Ragna Rim.
 <$00>
@@ -1121,13 +1121,13 @@ Meet with Dr. Emori in Ragna Rim.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「フロッピーと
 Take the Floppy Disc and＿
-
+<$06>
 //10
 10, 000
-
+<$04>
 //万￥」を持って、\nＧファクトリー入口１階、\n公衆電話の前に行く
 ￥ to the G Factory gate. Answer the payphone.
 <$00>
@@ -1137,13 +1137,13 @@ Take the Floppy Disc and＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「フロッピーと
 Take the Floppy Disc and＿
-
+<$06>
 //10
 10, 000
-
+<$04>
 //万￥」を持って、\nパラサイド入口１階、\n公衆電話の前に行く
 ￥ to the Paraside gate. Answer the payphone.
 <$00>
@@ -1153,13 +1153,13 @@ Take the Floppy Disc and＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「フロッピーと
 Take the Floppy Disc and＿
-
+<$06>
 //10
 10, 000
-
+<$04>
 //万￥」を持って、\nガレックスに行く
 ￥ to Galax.
 <$00>
@@ -1169,7 +1169,7 @@ Take the Floppy Disc and＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す
 Pick bloodberries in Flora Jam. Take them to\n
 Kevin and Nightshade in Rose Garden.
@@ -1180,7 +1180,7 @@ Kevin and Nightshade in Rose Garden.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //パラサイドの酒場にいるアンジェラを\n確認して、リナバレーのマリオに連絡する
 Look for Angela at the Paraside bar. Report\n
 your findings to Mario in Spurr Valley.
@@ -1191,7 +1191,7 @@ your findings to Mario in Spurr Valley.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //アンジェラを確認するために、\nオズポートホテルの酒場に行く
 Look for Angela at the OzPort Hotel bar.
 <$00>
@@ -1201,7 +1201,7 @@ Look for Angela at the OzPort Hotel bar.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //アンジェラを確認するために、\n西エリアのしけた町のホテルに行く
 Look for Angela at a hotel bar somewhere in\n
 West Area.
@@ -1212,7 +1212,7 @@ West Area.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //アンジェラを確認するために、\nドギファの舞台に行く
 Look for Angela at the theater stage in Dogyf\n
 Heights.
@@ -1223,7 +1223,7 @@ Heights.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リナバレーのマリオの母、\nアンジェラを追ってオズサットへ行く
 Chase Angela to OzSat! Mario will follow from\n
 Spurr Valley.

@@ -96,7 +96,7 @@ kao_l20.obj
 
 #WRITE(PTR, $0028)
 //教会１Ｆ
-<$06>Church 1F＿
+Church 1F＿
 <$00>
 
 
@@ -104,7 +104,7 @@ kao_l20.obj
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -120,7 +120,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -137,7 +137,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -154,7 +154,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -165,7 +165,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -176,7 +176,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -188,7 +188,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 //ドギファの闘犬場の　オーマン、\nオズポートの空港司令官　ピザール
-<$06>Mr. Aumann, the DGF Dojo proprieter, and Mr.\n
+Mr. Aumann, the DGF Dojo proprieter, and Mr.\n
 Nibbio, the OzPort airport general...
 <$12>
 \n
@@ -206,7 +206,7 @@ jumped, they didn't have much in common.
 
 #WRITE(PTR, $002A)
 //教会２Ｆ
-<$06>Church 2F＿
+Church 2F＿
 <$00>
 
 
@@ -214,7 +214,7 @@ jumped, they didn't have much in common.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -230,7 +230,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -247,7 +247,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -264,7 +264,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -275,7 +275,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -286,7 +286,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -298,12 +298,12 @@ The Navi System(NaviS) can't be booted here!
 
 
 //あら、結婚式の下見かしら？\nパック料金で　
-<$06>Oh, here for a wedding rehearsal? Our\n
+Oh, here for a wedding rehearsal? Our\n
 customized packages start at＿
-
+<$06>
 //680
 680
-
+<$04>
 //￥から\nいろんなコースが　ありますわよ
 ￥ per session!
 <$12>
@@ -316,7 +316,7 @@ customized packages start at＿
 
 #WRITE(PTR, $002C)
 //教会３Ｆ
-<$06>Church 3F＿
+Church 3F＿
 <$00>
 
 
@@ -324,7 +324,7 @@ customized packages start at＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -340,7 +340,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -357,7 +357,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -374,7 +374,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -385,7 +385,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -396,7 +396,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -407,7 +407,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -424,7 +424,7 @@ without a Secret Key.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -441,7 +441,7 @@ SKen used the Secret Key!
 
 
 //昔、この町が　野犬の群れに\nおそわれたことが　あってね\n友だちの亭主と子供が　やられたわ
-<$06>Long ago, a stray entered town one night and\n
+Long ago, a stray entered town one night and\n
 killed my friend's husband and children.
 <$12>
 \n
@@ -457,7 +457,7 @@ village gates every evening before dark.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -475,7 +475,7 @@ SKen found the＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -493,7 +493,7 @@ had to go back.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -513,7 +513,7 @@ SKen acquired＿
 
 #WRITE(PTR, $002E)
 //教会４Ｆ
-<$06>Church 4F＿
+Church 4F＿
 <$00>
 
 
@@ -521,7 +521,7 @@ SKen acquired＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -537,7 +537,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -554,7 +554,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -571,7 +571,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -582,7 +582,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -593,7 +593,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -606,7 +606,7 @@ The Navi System(NaviS) can't be booted here!
 
 #WRITE(PTR, $0030)
 //教会５Ｆ
-<$06>Church 5F＿
+Church 5F＿
 <$00>
 
 
@@ -614,7 +614,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -630,7 +630,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -647,7 +647,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -664,7 +664,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -675,7 +675,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -686,7 +686,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -699,7 +699,7 @@ The Navi System(NaviS) can't be booted here!
 
 #WRITE(PTR, $0032)
 //教会６Ｆ
-<$06>Church 6F＿
+Church 6F＿
 <$00>
 
 
@@ -707,7 +707,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -723,7 +723,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -740,7 +740,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -757,7 +757,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -768,7 +768,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -779,7 +779,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -791,7 +791,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 //もうすぐ　鐘を鳴らす時間なんだよ\nキミ、鐘をついてみたく　ないかね？\n
-<$06>It's almost time to ring the bell. Do you\n
+It's almost time to ring the bell. Do you\n
 want to ring it?\n
 <$01>
 //ぜひやりたい！
@@ -810,7 +810,7 @@ No thanks
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //じゃ　神父になるといい\n毎日毎日、鐘を鳴らせるからね
 Then you should become a priest too! You'll\n
 be able to ring the bell day after day!
@@ -822,7 +822,7 @@ be able to ring the bell day after day!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //私はね　この鐘がついてみたくて\n神父に　なったんだよ
 Your loss. I became a priest solely to ring\n
 this bell!
@@ -836,7 +836,7 @@ this bell!
 
 #WRITE(PTR, $0034)
 //教会１Ｆ
-<$06>Church 1F＿
+Church 1F＿
 <$00>
 
 
@@ -844,7 +844,7 @@ this bell!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -860,7 +860,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -877,7 +877,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -894,7 +894,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -905,7 +905,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -916,7 +916,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -927,7 +927,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここで　パパとママは\n結婚式を　挙げたのよ…
 This is where Mom and Dad got married.
 <$00>
@@ -937,7 +937,7 @@ This is where Mom and Dad got married.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //このジュウタンの上を　パパは\nゆっくりと　歩いたんだわ\nこのドレスを着た　ママとね！
 He walked her down this very isle, and she\n
 wore this very dress.
@@ -948,7 +948,7 @@ wore this very dress.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ねぇ　ケン！\nちょっとだけ　マネしてみて\nいいでしょ？　お願い！
 I'd like to reenact that a little. Would you\n
 do that with me? Pretty please?
@@ -959,7 +959,7 @@ do that with me? Pretty please?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……そして、愛するふたりは\nこの井戸の　聖なる水に\n愛を誓うのよ…　こんな風に…
 Next, the couple swears their love over this\n
 sacred well water, like so!
@@ -970,7 +970,7 @@ sacred well water, like so!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「ケン、汝は　リンダを\n永遠に　愛しますか？」
 "Ken, do you vow to love Linda through\n
 sickness and in health?"
@@ -982,7 +982,7 @@ sickness and in health?"
 
 
 //\n
-<$06>\n
+\n
 <$01>
 //は＿い
 Yes
@@ -1001,7 +1001,7 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //アリガト■　私も「はい」よ\nでも　当分この教会じゃあ\n結婚式は　挙げられないけどね
 Aww, me too!■\n
 Too bad for us, this church doesn't officiate\n
@@ -1013,7 +1013,7 @@ weddings anymore.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //バーカ∥　私だって「いいえ∥」\nどうせ当分　この教会じゃ\n結婚式なんか　できないしね∥
 Me too, jerk! Thank God this church doesn't\n
 hold weddings anymore.
@@ -1024,7 +1024,7 @@ hold weddings anymore.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここ半月ぐらいの間に　この上の\n鐘つき堂から　三人も\n投身自殺が　あったんだもん
 In the last half-month, three different\n
 people jumped from this church's tower.
@@ -1035,7 +1035,7 @@ people jumped from this church's tower.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //おまけに　最初に飛び降りた\n女の子の幽霊が　今頃になると\n鐘を鳴らすって　噂なの…
 They say the vengeful ghost of the first\n
 woman who jumped appears and rings the bell.
@@ -1046,7 +1046,7 @@ woman who jumped appears and rings the bell.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ほら　聞こえるでしょ？
 You hear that? I bet it's her!
 <$00>
@@ -1056,7 +1056,7 @@ You hear that? I bet it's her!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //………………………………\n………………………………
 ............\n
 ............
@@ -1067,7 +1067,7 @@ You hear that? I bet it's her!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……なんちゃって、ウソよ∥\nあれは　神父さん∥
 Just kidding! I'm sure it's only the priest.
 <$00>
@@ -1077,7 +1077,7 @@ Just kidding! I'm sure it's only the priest.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //でも　幽霊を見たって人は\n何人もいるのよ！　本当よ！
 But to this very day, people who come here\n
 claim to still see her ghost.
@@ -1089,7 +1089,7 @@ claim to still see her ghost.
 
 
 //\n
-<$06>\n
+\n
 <$01>
 //はいはい
 Sure...
@@ -1113,7 +1113,7 @@ That's bullshit
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ところで　ケン、\nこの町って　この鐘が鳴ると\n門を閉じちゃうの、知ってた？
 Oh! But that DOES remind me!\n
 Did you know that church bell signals for our\n
@@ -1125,7 +1125,7 @@ village gates to close?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //だから　今日は泊まってってね\n私の手料理を　ごちそうするわ！\nいっぱい　食べてね！
 That means you're stuck here for the night,\n
 and you get to try my cooking!
@@ -1136,7 +1136,7 @@ and you get to try my cooking!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //それで　わかってもらえるはずよ\n今後　ケンと私の　どちらが\n食事を作るのが　無難かね
 This should help decide which of us is the\n
 less deadly cook.
@@ -1148,7 +1148,7 @@ less deadly cook.
 
 
 #WRITE(PTR, $0036)
-<$06><$1D>
+<$1D>
 //　
 
 <$1E>
@@ -1161,7 +1161,7 @@ x\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //装置内データ　ハ　スベテ\nＯＵＴ　シマシタ
 SYSTEM OUT OF DATA.
 <$12>
@@ -1173,7 +1173,7 @@ SYSTEM OUT OF DATA.
 
 
 //冷凍睡眠中ノ　動物ヲ　解凍シマスカ？\n
-<$06>THAW CRYO-PRESERVED ANIMALS?\n
+THAW CRYO-PRESERVED ANIMALS?\n
 <$01>
 //は＿い
 Yes
@@ -1191,7 +1191,7 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //トランスカーゴ　空キナシ
 1 FREE SPACE REQUIRED\n
 IN TRANS-CARGO UNIT.
@@ -1203,7 +1203,7 @@ IN TRANS-CARGO UNIT.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //トランスカーゴ　２ツ空キナシ
 2 FREE SPACES REQUIRED\n
 IN TRANS-CARGO UNIT.
@@ -1225,7 +1225,7 @@ IN TRANS-CARGO UNIT.
 <$06>
 //TRANS-CARGO IN
 Now loading to TCU...
-
+<$04>
 //∥
 !
 <$12>
@@ -1237,7 +1237,7 @@ Now loading to TCU...
 
 
 //……東
-<$06>...East
+...East
 <$00>
 
 
@@ -1246,7 +1246,7 @@ Now loading to TCU...
 
 
 //……西
-<$06>...West
+...West
 <$00>
 
 
@@ -1255,7 +1255,7 @@ Now loading to TCU...
 
 
 //……南
-<$06>...South
+...South
 <$00>
 
 
@@ -1264,7 +1264,7 @@ Now loading to TCU...
 
 
 //……北
-<$06>...North
+...North
 <$00>
 
 
@@ -1273,7 +1273,7 @@ Now loading to TCU...
 
 
 //…北東
-<$06>...North-east
+...North-east
 <$00>
 
 
@@ -1282,7 +1282,7 @@ Now loading to TCU...
 
 
 //…北西
-<$06>...North-west
+...North-west
 <$00>
 
 
@@ -1291,7 +1291,7 @@ Now loading to TCU...
 
 
 //…南東
-<$06>...South-east
+...South-east
 <$00>
 
 
@@ -1300,7 +1300,7 @@ Now loading to TCU...
 
 
 //…南西
-<$06>...South-west
+...South-west
 <$00>
 
 
@@ -1308,7 +1308,7 @@ Now loading to TCU...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -1320,7 +1320,7 @@ Now loading to TCU...
 
 
 //、…
-<$06>! That's where we'll find a＿
+! That's where we'll find a＿
 <$1D>
 //に行けば
 .
@@ -1332,7 +1332,7 @@ Now loading to TCU...
 
 
 //直進
-<$06>For
+For
 <$00>
 
 
@@ -1341,7 +1341,7 @@ Now loading to TCU...
 
 
 //右よ
-<$06>Right
+Right
 <$00>
 
 
@@ -1350,7 +1350,7 @@ Now loading to TCU...
 
 
 //左よ
-<$06>Left
+Left
 <$00>
 
 
@@ -1359,7 +1359,7 @@ Now loading to TCU...
 
 
 //後ろ
-<$06>Back
+Back
 <$00>
 
 
@@ -1367,7 +1367,7 @@ Now loading to TCU...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -1379,7 +1379,7 @@ Now loading to TCU...
 
 
 //、絶対に
-<$06>wards, got it? I'm sure we'll find a＿
+wards, got it? I'm sure we'll find a＿
 <$1D>
 //∥
 ＿there!
@@ -1390,7 +1390,7 @@ Now loading to TCU...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1405,7 +1405,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…ごめんね、\n今日は　勘がはたらかないわ…
 ...Sorry. I don't have it in me today.
 <$12>
@@ -1417,7 +1417,7 @@ SLinda used her woman's intuition...
 
 
 //運命の
-<$06>Fated＿
+Fated＿
 <$00>
 
 
@@ -1426,7 +1426,7 @@ SLinda used her woman's intuition...
 
 
 //新しい
-<$06>New＿
+New＿
 <$00>
 
 
@@ -1435,7 +1435,7 @@ SLinda used her woman's intuition...
 
 
 //素敵な
-<$06>Great＿
+Great＿
 <$00>
 
 
@@ -1444,7 +1444,7 @@ SLinda used her woman's intuition...
 
 
 //未知の
-<$06>Unknown＿
+Unknown＿
 <$00>
 
 
@@ -1453,7 +1453,7 @@ SLinda used her woman's intuition...
 
 
 //何か
-<$06>things＿
+things＿
 <$00>
 
 
@@ -1462,7 +1462,7 @@ SLinda used her woman's intuition...
 
 
 //発見
-<$06>discoveries＿
+discoveries＿
 <$00>
 
 
@@ -1471,7 +1471,7 @@ SLinda used her woman's intuition...
 
 
 //お宝
-<$06>treasures＿
+treasures＿
 <$00>
 
 
@@ -1480,7 +1480,7 @@ SLinda used her woman's intuition...
 
 
 //動物
-<$06>animals＿
+animals＿
 <$00>
 
 
@@ -1489,7 +1489,7 @@ SLinda used her woman's intuition...
 
 
 //に　出会える…
-<$06>could appear.
+could appear.
 <$00>
 
 
@@ -1498,7 +1498,7 @@ SLinda used her woman's intuition...
 
 
 //が　待ってる…
-<$06>await us...
+await us...
 <$00>
 
 
@@ -1507,7 +1507,7 @@ SLinda used her woman's intuition...
 
 
 //気がするわ∥
-<$06>are there.
+are there.
 <$00>
 
 
@@ -1516,7 +1516,7 @@ SLinda used her woman's intuition...
 
 
 //チャンスよ∥
-<$06>are in our grasp!
+are in our grasp!
 <$00>
 
 
@@ -1525,7 +1525,7 @@ SLinda used her woman's intuition...
 
 
 //今しかないわ
-<$06>could slip through our fingers!
+could slip through our fingers!
 <$00>
 
 
@@ -1534,7 +1534,7 @@ SLinda used her woman's intuition...
 
 
 //間違いなし∥
-<$06>are dead head!
+are dead head!
 <$00>
 
 
@@ -1543,7 +1543,7 @@ SLinda used her woman's intuition...
 
 
 //\n
-<$06>\n
+\n
 <$1D><$1D><$1D>
 //\n
 \n
@@ -1558,7 +1558,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信があるの∥
 I'm sure of it!
 <$12>
@@ -1569,7 +1569,7 @@ I'm sure of it!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信は　ないけどね…
 Although, I'm not totally certain...
 <$12>
@@ -1580,7 +1580,7 @@ Although, I'm not totally certain...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //絶対なんだから∥
 I'm absolutely certain!
 <$12>
@@ -1592,7 +1592,7 @@ I'm absolutely certain!
 
 
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -1613,7 +1613,7 @@ go for some＿
 
 
 //卵焼き
-<$06>fried eggs
+fried eggs
 <$00>
 
 
@@ -1622,7 +1622,7 @@ go for some＿
 
 
 //カレー
-<$06>curry
+curry
 <$00>
 
 
@@ -1631,7 +1631,7 @@ go for some＿
 
 
 //焼き肉
-<$06>Neo Korean BBQ
+Neo Korean BBQ
 <$00>
 
 
@@ -1640,7 +1640,7 @@ go for some＿
 
 
 //唐あげ
-<$06>karaage
+karaage
 <$00>
 
 
@@ -1649,7 +1649,7 @@ go for some＿
 
 
 //お菓子
-<$06>candy
+candy
 <$00>
 
 
@@ -1658,7 +1658,7 @@ go for some＿
 
 
 //バナナ
-<$06>banana
+banana
 <$00>
 
 
@@ -1667,7 +1667,7 @@ go for some＿
 
 
 //フライ
-<$06>Neo French fries
+Neo French fries
 <$00>
 
 
@@ -1676,7 +1676,7 @@ go for some＿
 
 
 //焼き魚
-<$06>grilled fish
+grilled fish
 <$00>
 
 
@@ -1685,7 +1685,7 @@ go for some＿
 
 
 //トマト
-<$06>tomato
+tomato
 <$00>
 
 
@@ -1694,7 +1694,7 @@ go for some＿
 
 
 //バター
-<$06>butter
+butter
 <$00>
 
 
@@ -1703,7 +1703,7 @@ go for some＿
 
 
 //ソース
-<$06>sauce
+sauce
 <$00>
 
 
@@ -1712,7 +1712,7 @@ go for some＿
 
 
 //スープ
-<$06>＿soup
+＿soup
 <$00>
 
 
@@ -1721,7 +1721,7 @@ go for some＿
 
 
 //ピラフ
-<$06>pilaf
+pilaf
 <$00>
 
 
@@ -1730,7 +1730,7 @@ go for some＿
 
 
 //バニラ
-<$06>vanilla
+vanilla
 <$00>
 
 
@@ -1739,7 +1739,7 @@ go for some＿
 
 
 //キムチ
-<$06>kimchi
+kimchi
 <$00>
 
 
@@ -1748,7 +1748,7 @@ go for some＿
 
 
 //チーズ
-<$06>cheese
+cheese
 <$00>
 
 
@@ -1757,7 +1757,7 @@ go for some＿
 
 
 //朝
-<$06>breakfast
+breakfast
 <$00>
 
 
@@ -1766,7 +1766,7 @@ go for some＿
 
 
 //昼
-<$06>lunch
+lunch
 <$00>
 
 
@@ -1775,7 +1775,7 @@ go for some＿
 
 
 //夕
-<$06>dinner
+dinner
 <$00>
 
 
@@ -1784,7 +1784,7 @@ go for some＿
 
 
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>

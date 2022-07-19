@@ -102,7 +102,7 @@ c174a2.obj
 
 #WRITE(PTR, $001C)
 //オズポート
-<$06>OzPort＿
+OzPort＿
 <$00>
 
 
@@ -110,7 +110,7 @@ c174a2.obj
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -126,7 +126,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -143,7 +143,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -160,7 +160,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -171,7 +171,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -182,7 +182,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -193,7 +193,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -209,7 +209,7 @@ the red cypress tree.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //恵まれない私のために　ひとつ\nご寄付をお願いしますよ、ダンナ様！
 If you donate to charity, then you can call\n
 me Charity!
@@ -220,7 +220,7 @@ me Charity!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //何かイイことが　ありそうなフリだけの\n寄付より　絶対に何もない　私への\n寄付のほうが　潔いってモンですよ
 Why donate to some corporation when you could\n
 donate to me, someone who ACTUALLY needs the\n
@@ -234,7 +234,7 @@ money?
 
 
 //公園内での　キャッチボール、たき火等\n他人の迷惑になる行為を　禁じます\n＿＿＿＿＿＿＿＿オズポート公園管理局
-<$06>"NUISANCE ACTIVITIES\n
+"NUISANCE ACTIVITIES\n
 (BALL GAMES, BONFIRES, ETC) ARE BANNED!"\n
 ＿-OZPORT PARK STAFF
 <$12>
@@ -246,7 +246,7 @@ money?
 
 
 //赤糸杉\nこの木に　恋人の名を刻むと　想いが\nかなうという伝説が　ありますが…
-<$06>"LOVERS WHO ENGRAVE THEIR NAMES ON OUR FAMOUS\n
+"LOVERS WHO ENGRAVE THEIR NAMES ON OUR FAMOUS\n
 RED CYPRESS LIVE HAPPILY EVER AFTER."
 <$12>
 \n
@@ -270,7 +270,7 @@ TREES."
 
 
 //左の青い建物の　３階から\nオズサットへ行って　そこから\n脱出用のシャトルに　乗るんだよ
-<$06>The migration shuttles are in OzSat, the\n
+The migration shuttles are in OzSat, the\n
 artificial satellite above OzPort.
 <$12>
 \n
@@ -292,7 +292,7 @@ Kenya, whether we like it or not.
 
 
 //レンジャー隊の本部の　記録係のコ！\n彼女の雑談って　いろんな噂話が聞けて\n面白いよな？　半分はウソだけどさ
-<$06>You know the lady at HQ who documents\n
+You know the lady at HQ who documents\n
 reports? She always has the latest gossip.
 <$12>
 \n
@@ -314,7 +314,7 @@ channeled that energy elsewhere.
 
 
 //自然の中の　夜の静寂は\n女を　おしゃべりにさせるんだよ
-<$06>There's something about quiet nights under\n
+There's something about quiet nights under\n
 the stars that makes women wanna open up.
 <$12>
 \n
@@ -330,7 +330,7 @@ woman's true feelings. You should try it!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //何ゴトにつけ　一発決めたい時には\n２、３個まとめて　丸飲みするといいよ
 If you're going to one shot, you might as\n
 well hunker down and swallow two or 3 all at\n
@@ -350,7 +350,7 @@ get you scoring with someone(at least)!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //何が出てくるか　わかんない卵に\n大金払うマヌケな商人は　いやしない！\n卵はかえしてから　売らなきゃ損だ∥
 Traders ain't stupid enough to pay high price\n
 for an egg they don't know what's gonna come\n
@@ -369,7 +369,7 @@ through Big Mama first before selling them.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //この木に「赤糸杉」って名をつけて\n恋愛成就の噂を 流したのは\n観光局と そこのホテルの連中さ
 The hotel staff here started a rumor among\n
 the tourists that our red cypress tree would\n
@@ -388,7 +388,7 @@ bring lovers good luck.
 
 
 //ＷＥＬＣＯＭＥ　ＮＥＯＫＥＮＹＡ…\nこの星に着いた者　全員が\nこの花たちにまず最初に歓迎される
-<$06>"Welcome Neo Kenya..."\n
+"Welcome Neo Kenya..."\n
 These flowers are the first to welcome people\n
 who land on our planet.
 <$12>
@@ -406,7 +406,7 @@ they could also be a farewell.
 
 
 //ね、ね、ね？　あんたたちって\nもしかしてビースチャン？\n
-<$06>Pssst, hey! Are you lot Beastian, by any\n
+Pssst, hey! Are you lot Beastian, by any\n
 chance?\n
 <$01>
 //そうだよ…
@@ -431,7 +431,7 @@ Nope!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //なーんだ…　入れ墨とか腰ミノとか…\nそういうのは　ないのね…
 I came here to check out cool tribal\n
 aesthetics, like I saw in the brochures.
@@ -458,7 +458,7 @@ Now, my hopes couldn't sink any lower...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //観光ガイドに　書いてあるように\nミナゴや　コシカタって所に行けば\nビースチャンを　見られるのかしら？
 This brochure says I can see Beastians if I\n
 go to Minago or Koshikata. Is that true?
@@ -476,7 +476,7 @@ the fire and watch them battle dance, right?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //『ビースチャン』\n連邦の植民調査隊が　発見した\nネオケニアの　謎の先住人類
 Well! First discovered during a federal\n
 colonization field survey...
@@ -508,7 +508,7 @@ spectacle!
 
 
 //子供の遠足の　シーズン前になると\nそこの赤糸杉に　若いママさんたちが\n押しかけて　来るのよね
-<$06>Right before field trip season at the\n
+Right before field trip season at the\n
 schools, mothers flock from all corners to\n
 the red cypress tree in OzPort Park.
 <$12>
@@ -527,12 +527,12 @@ they had before marriage.
 
 
 //隕石の衝突くらい　
-<$06>It blows my mind that the whole Federation\n
+It blows my mind that the whole Federation\n
 knew about the Grim Reaper＿
-
+<$06>
 //100
 100
-
+<$04>
 //年前から\nわかってたろうに　なんで連邦は\nこんなチンケな星に　こだわったのか…
 ＿years in advance, and still invited us to\n
 move here.
@@ -551,7 +551,7 @@ understand, but we deserve an explanation.
 
 
 //聖書じゃ、箱船を降りた　ノアの家族は\n新天地で約束の虹を　神様から\nプレゼントされたらしいわよ
-<$06>In the story of Noah's ark, God gave Noah and\n
+In the story of Noah's ark, God gave Noah and\n
 his family a rainbow when they finally landed\n
 at their new home.
 <$12>
@@ -569,7 +569,7 @@ your own rainbow someday.
 
 
 //頼まれごとを解決した　そのすぐ後に\n依頼者に話しかけると　敵も油断して\nポロッと本音が　出ることが多いわよ
-<$06>If you talk to a client after clearing a\n
+If you talk to a client after clearing a\n
 request, their true colors often slip out.
 <$12>
 <$00>
@@ -581,7 +581,7 @@ request, their true colors often slip out.
 
 #WRITE(PTR, $001E)
 //\n
-<$06>\n
+\n
 <$00>
 
 
@@ -589,7 +589,7 @@ request, their true colors often slip out.
 
 
 
-<$06><$01>
+<$01>
 //寄付する
 Donate
 <$0E>
@@ -612,13 +612,13 @@ No way!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //あたしに有り金を　全部渡したその足で\nＬ－
 There's some fellers around L-
-
+<$06>
 //22
 22
-
+<$04>
 //辺りを　散歩してごらん\nきっと珍しいヤツに　出くわすよ
 ＿who only approach those they find desirable.
 <$12>
@@ -629,19 +629,19 @@ There's some fellers around L-
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //間違っても　Ｌ－
 Whatever you do, don't camp around L-
-
+<$06>
 //24
 24
-
+<$04>
 //やＧ－
 ＿or G-
-
+<$06>
 //14
 14
-
+<$04>
 //で\n野宿なんかしないほうが　身のためだよ\nこわいヤツが　夢に出て来るってサ
 . Weirdos bump in the night out there, if you\n
 catch my drift.
@@ -653,7 +653,7 @@ catch my drift.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //いつも神様は　あなたの行動を\n見ていらっしゃいますよ…
 God's always watching, you know.
 <$12>
@@ -664,7 +664,7 @@ God's always watching, you know.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ありがとうございます\n優しい気持ちを　入れてください\n持金
 Thank you so much!\n
 How much will you donate?\n
@@ -681,10 +681,10 @@ How much will you donate?\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 You'll donate＿
-<$1E>
+<$06><$1E><$04>
 //￥の寄付ですね\n
 ￥?\n
 <$01>
@@ -704,7 +704,7 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //最近、多いんですよ…\n持金を全部、寄付される方…
 I've seen a lot of people donating everything\n
 they have lately.
@@ -722,7 +722,7 @@ guilty about participating.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ダンナ、いつもわりいねぇ\n拾いモンだけど　お礼がわりに\nこれ、受け取ってくんナ
 Gosh, I don't know what to say. I'd only\n
 picked this up, but I hope it works as a\n
@@ -735,7 +735,7 @@ picked this up, but I hope it works as a\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -753,7 +753,7 @@ S<CLEAR>Ken took\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //じゃ、引き続き寄付のほう　よろしく!\n…と言っても　もう何もでねぇけどナ
 Well, it always helps, so please continue to\n
 donate when you can.
@@ -769,7 +769,7 @@ donate when you can.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //あなたに　神様からの祝福が\nありますように
 God bless you.
 <$12>
@@ -780,7 +780,7 @@ God bless you.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //あなたと　あなたの家族に\n神様からのご加護が　ありますように
 God bless you and your family.
 <$12>
@@ -791,7 +791,7 @@ God bless you and your family.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //あなたと　あなたの家族\nそして　子孫にも　未来永劫、\n幸あらんことを　お祈りします
 God bless you, your family, your children and\n
 your childrens' children.
@@ -803,7 +803,7 @@ your childrens' children.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //今、あなたが寄付したお金を\nどうやって　かせいだかについては…
 Ask yourself, how'd you get the money you\n
 donated just now?
@@ -821,7 +821,7 @@ treatment, I'll bet. But that's good too!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //どうも
 My goodness!
 <$12>
@@ -839,10 +839,10 @@ have much be so generous brings me to tears!
 <CLEAR>
 //足りなきゃ　
 Is＿
-
+<$06>
 //100000
 100,000
-
+<$04>
 //￥で\nお売りしましょうか？
 ￥ a fair price to you?
 <$12>
@@ -853,7 +853,7 @@ Is＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //本当に　ありがとうございました∥\nあなたのお気持ちは　しっかりと…
 Thank you so much! Your generosity will be\n
 remembered for all time.
@@ -870,7 +870,7 @@ I know, because I just "reported" it.
 
 
 //個
-<$06>＿
+＿
 <$00>
 
 
@@ -879,7 +879,7 @@ I know, because I just "reported" it.
 
 
 //匹
-<$06>＿
+＿
 <$00>
 
 
@@ -887,13 +887,13 @@ I know, because I just "reported" it.
 
 
 
-<$06><$1D>
+<$1D>
 //を
 ＿x
 <$1D>
 //ます\n
 ＿\n
-<$19>
+<$06><$19>
 //1
 1
 <$01><$1A>
@@ -905,7 +905,7 @@ S
 <$19>
 //0
 0
-
+<$04>
 //／
 ／
 <$14><$1E>
@@ -941,7 +941,7 @@ S￥
 TCU (x
 <$1E>
 //034
-
+<$06>
 //)
 )
 <$00>
@@ -951,7 +951,7 @@ TCU (x
 
 
 
-<$06><$05>
+<$05>
 //γ
 A
 <$00>
@@ -961,7 +961,7 @@ A
 
 
 
-<$06><$05>
+<$05>
 //ζ
 D
 <$00>
@@ -971,7 +971,7 @@ D
 
 
 
-<$06><$1E>
+<$1E>
 //@019
 @019
 <$00>
@@ -981,7 +981,7 @@ D
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //セレクトボタンで解説が出ます
 SELECT: Details
 <$00>
@@ -998,7 +998,7 @@ SELECT: Details
 
 
 
-<$06><$16><$15>
+<$04><$16><$15>
 //W
 W
 <$01><$1D><$02>
@@ -1017,14 +1017,14 @@ W
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //トランスカーゴは　１枠につき\n
 The trans-cargo unit has\n
 a＿
-
+<$06>
 //99
 99
-
+<$04>
 //頭までしか　収容できません
 ＿species capacity!
 <$12>
@@ -1035,12 +1035,12 @@ a＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
-
+<$06>
 //トランスカーゴ
 The trans-cargo unit＿
-
+<$04>
 //がいっぱいです
 is full!
 <$12>
@@ -1051,7 +1051,7 @@ is full!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //道具がいっぱいです
 The item bag is full!
 <$12>
@@ -1062,7 +1062,7 @@ The item bag is full!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //不思議な　不思議な　不思議な卵\n話のネタに　おひとつどーだい？\n
 Oh eggs, what secrets lie inside your little\n
 shells?\n
@@ -1089,7 +1089,7 @@ Exit
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //じゃ、来年の春に　よろしく！
 Okay, see you next spring!
 <$12>
@@ -1100,7 +1100,7 @@ Okay, see you next spring!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //まぁ、買ったところで\n何が生まれるか　分からんし\n俺なら　買わないけどね
 No one knows what'll be born from a bought\n
 egg. It's why I don't buy them.
@@ -1113,7 +1113,7 @@ egg. It's why I don't buy them.
 
 
 //
-<$06><$15>
+<$15>
 //Y卵　屋／買　う
 YEgg Seller／Buy
 <$00>
@@ -1124,7 +1124,7 @@ YEgg Seller／Buy
 
 
 //
-<$06><$15>
+<$15>
 //Y卵　屋
 YEgg Seller
 <$00>
@@ -1135,7 +1135,7 @@ YEgg Seller
 
 
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -1162,7 +1162,7 @@ It's whatever they reek of that isn't human.
 
 
 //……東
-<$06>...East
+...East
 <$00>
 
 
@@ -1171,7 +1171,7 @@ It's whatever they reek of that isn't human.
 
 
 //……西
-<$06>...West
+...West
 <$00>
 
 
@@ -1180,7 +1180,7 @@ It's whatever they reek of that isn't human.
 
 
 //……南
-<$06>...South
+...South
 <$00>
 
 
@@ -1189,7 +1189,7 @@ It's whatever they reek of that isn't human.
 
 
 //……北
-<$06>...North
+...North
 <$00>
 
 
@@ -1198,7 +1198,7 @@ It's whatever they reek of that isn't human.
 
 
 //…北東
-<$06>...North-east
+...North-east
 <$00>
 
 
@@ -1207,7 +1207,7 @@ It's whatever they reek of that isn't human.
 
 
 //…北西
-<$06>...North-west
+...North-west
 <$00>
 
 
@@ -1216,7 +1216,7 @@ It's whatever they reek of that isn't human.
 
 
 //…南東
-<$06>...South-east
+...South-east
 <$00>
 
 
@@ -1225,7 +1225,7 @@ It's whatever they reek of that isn't human.
 
 
 //…南西
-<$06>...South-west
+...South-west
 <$00>
 
 
@@ -1233,7 +1233,7 @@ It's whatever they reek of that isn't human.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -1245,7 +1245,7 @@ It's whatever they reek of that isn't human.
 
 
 //、…
-<$06>! That's where we'll find a＿
+! That's where we'll find a＿
 <$1D>
 //に行けば
 .
@@ -1257,7 +1257,7 @@ It's whatever they reek of that isn't human.
 
 
 //直進
-<$06>For
+For
 <$00>
 
 
@@ -1266,7 +1266,7 @@ It's whatever they reek of that isn't human.
 
 
 //右よ
-<$06>Right
+Right
 <$00>
 
 
@@ -1275,7 +1275,7 @@ It's whatever they reek of that isn't human.
 
 
 //左よ
-<$06>Left
+Left
 <$00>
 
 
@@ -1284,7 +1284,7 @@ It's whatever they reek of that isn't human.
 
 
 //後ろ
-<$06>Back
+Back
 <$00>
 
 
@@ -1292,7 +1292,7 @@ It's whatever they reek of that isn't human.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -1304,7 +1304,7 @@ It's whatever they reek of that isn't human.
 
 
 //、絶対に
-<$06>wards, got it? I'm sure we'll find a＿
+wards, got it? I'm sure we'll find a＿
 <$1D>
 //∥
 ＿there!
@@ -1315,7 +1315,7 @@ It's whatever they reek of that isn't human.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1330,7 +1330,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…ごめんね、\n今日は　勘がはたらかないわ…
 ...Sorry. I don't have it in me today.
 <$12>
@@ -1342,7 +1342,7 @@ SLinda used her woman's intuition...
 
 
 //運命の
-<$06>Fated＿
+Fated＿
 <$00>
 
 
@@ -1351,7 +1351,7 @@ SLinda used her woman's intuition...
 
 
 //新しい
-<$06>New＿
+New＿
 <$00>
 
 
@@ -1360,7 +1360,7 @@ SLinda used her woman's intuition...
 
 
 //素敵な
-<$06>Great＿
+Great＿
 <$00>
 
 
@@ -1369,7 +1369,7 @@ SLinda used her woman's intuition...
 
 
 //未知の
-<$06>Unknown＿
+Unknown＿
 <$00>
 
 
@@ -1378,7 +1378,7 @@ SLinda used her woman's intuition...
 
 
 //何か
-<$06>things＿
+things＿
 <$00>
 
 
@@ -1387,7 +1387,7 @@ SLinda used her woman's intuition...
 
 
 //発見
-<$06>discoveries＿
+discoveries＿
 <$00>
 
 
@@ -1396,7 +1396,7 @@ SLinda used her woman's intuition...
 
 
 //お宝
-<$06>treasures＿
+treasures＿
 <$00>
 
 
@@ -1405,7 +1405,7 @@ SLinda used her woman's intuition...
 
 
 //動物
-<$06>animals＿
+animals＿
 <$00>
 
 
@@ -1414,7 +1414,7 @@ SLinda used her woman's intuition...
 
 
 //に　出会える…
-<$06>could appear.
+could appear.
 <$00>
 
 
@@ -1423,7 +1423,7 @@ SLinda used her woman's intuition...
 
 
 //が　待ってる…
-<$06>await us...
+await us...
 <$00>
 
 
@@ -1432,7 +1432,7 @@ SLinda used her woman's intuition...
 
 
 //気がするわ∥
-<$06>are there.
+are there.
 <$00>
 
 
@@ -1441,7 +1441,7 @@ SLinda used her woman's intuition...
 
 
 //チャンスよ∥
-<$06>are in our grasp!
+are in our grasp!
 <$00>
 
 
@@ -1450,7 +1450,7 @@ SLinda used her woman's intuition...
 
 
 //今しかないわ
-<$06>could slip through our fingers!
+could slip through our fingers!
 <$00>
 
 
@@ -1459,7 +1459,7 @@ SLinda used her woman's intuition...
 
 
 //間違いなし∥
-<$06>are dead head!
+are dead head!
 <$00>
 
 
@@ -1468,7 +1468,7 @@ SLinda used her woman's intuition...
 
 
 //\n
-<$06>\n
+\n
 <$1D><$1D><$1D>
 //\n
 \n
@@ -1483,7 +1483,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信があるの∥
 I'm sure of it!
 <$12>
@@ -1494,7 +1494,7 @@ I'm sure of it!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信は　ないけどね…
 Although, I'm not totally certain...
 <$12>
@@ -1505,7 +1505,7 @@ Although, I'm not totally certain...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //絶対なんだから∥
 I'm absolutely certain!
 <$12>
@@ -1517,7 +1517,7 @@ I'm absolutely certain!
 
 
 //
-<$06><$15>
+<$15>
 //Yスケジュール
 YMemo＿
 <$00>
@@ -1527,7 +1527,7 @@ YMemo＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //スケジュールは何もありません
 There is nothing on schedule.
 <$12>
@@ -1539,7 +1539,7 @@ There is nothing on schedule.
 
 
 //成功終了
-<$06>Completed!
+Completed!
 <$00>
 
 
@@ -1548,7 +1548,7 @@ There is nothing on schedule.
 
 
 //期限切れ
-<$06>Expired!
+Expired!
 <$00>
 
 
@@ -1557,7 +1557,7 @@ There is nothing on schedule.
 
 
 //あと
-<$06>In＿
+In＿
 <$1E>
 //季節
 ＿seasons
@@ -1569,7 +1569,7 @@ There is nothing on schedule.
 
 
 //あと
-<$06>Deadline:＿
+Deadline:＿
 <$1E>
 //年
 Y/
@@ -1584,7 +1584,7 @@ S
 
 
 //あと
-<$06>In＿
+In＿
 <$1E>
 //年
 ＿years
@@ -1595,7 +1595,7 @@ S
 
 
 
-<$06><$16><$01>
+<$16><$01>
 //◇
 ◇
 <$0E><$1D><$02>
@@ -1609,7 +1609,7 @@ S
 
 
 //ファングを倒す
-<$06>Slay Fang
+Slay Fang
 <$00>
 
 
@@ -1618,7 +1618,7 @@ S
 
 
 //パンハイムからの依頼
-<$06>Assist Panheim
+Assist Panheim
 <$00>
 
 
@@ -1628,7 +1628,7 @@ S
 
 //<$1B>
 //カメの卵を手に入れる
-<$06>Snatch Turtle Eggs
+Snatch Turtle Eggs
 <$00>
 
 
@@ -1638,7 +1638,7 @@ S
 
 //<$1B>
 //プテラノの卵を手に入れる
-<$06>Snatch Pteranodon Eggs
+Snatch Pteranodon Eggs
 <$00>
 
 
@@ -1647,7 +1647,7 @@ S
 
 
 //遺産争いにケリをつける
-<$06>End the inheritance battle
+End the inheritance battle
 <$00>
 
 
@@ -1656,7 +1656,7 @@ S
 
 
 //ヤマダのために一肌脱ぐ
-<$06>Unload for Yamada
+Unload for Yamada
 <$00>
 
 
@@ -1665,7 +1665,7 @@ S
 
 
 //町のシンボルを見つけだす
-<$06>Find the village symbol
+Find the village symbol
 <$00>
 
 
@@ -1674,7 +1674,7 @@ S
 
 
 //ソフィアからの依頼
-<$06>Assist Sophia
+Assist Sophia
 <$00>
 
 
@@ -1683,7 +1683,7 @@ S
 
 
 //サチコ救出
-<$06>Rescue Sachiko
+Rescue Sachiko
 <$00>
 
 
@@ -1692,7 +1692,7 @@ S
 
 
 //ポロポロちゃんを助ける
-<$06>Save Nightshade
+Save Nightshade
 <$00>
 
 
@@ -1701,7 +1701,7 @@ S
 
 
 //アンジェラ捜し
-<$06>Find Angela
+Find Angela
 <$00>
 
 
@@ -1709,7 +1709,7 @@ S
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //カラゴラムのファングを倒し、その証拠を\nハーディアホテルのスペクターに渡す
 Defeat Fang in Karhagolem. Present proof to\n
 Spectre in Hardia Hotel.
@@ -1720,7 +1720,7 @@ Spectre in Hardia Hotel.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //マーブルポリスの
 Process meat from＿
 //<$1B>
@@ -1734,7 +1734,7 @@ Panheim in Hospico.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 Find up to 3＿
 //<$1B>
@@ -1748,7 +1748,7 @@ Park BB Ranch.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 Acquire 2＿
 //<$1B>
@@ -1762,7 +1762,7 @@ Battle Park BB Ranch.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「太郎の首輪」を見つけだし、ドギファの\nナターシャか、オーマン家３兄弟に渡す
 Locate Taro's Collar. Give it to Natasha or\n
 one of the 3 Aumann children in Dogyf\n
@@ -1775,7 +1775,7 @@ Heights.
 
 
 //６万
-<$06>60, 000
+60, 000
 <$00>
 
 
@@ -1784,10 +1784,10 @@ Heights.
 
 
 //あと
-<$06>another＿
-<$1E><$0F>
+another＿
+<$06><$1E><$0F>
 //000
-
+<$04>
 <$00>
 
 
@@ -1795,7 +1795,7 @@ Heights.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //Ｇファクトリーのヤマダのために\n
 Deposit＿
 <$1D>
@@ -1808,7 +1808,7 @@ Deposit＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //コシカタのシンボル「
 Find the＿
 //<$1B>
@@ -1822,7 +1822,7 @@ Return it to Poliska.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ソフィアのために、エターナの桜の木を\nどうにかして咲かせる
 Find out how to revive the sakura trees in\n
 Eterna for Sophia.
@@ -1833,7 +1833,7 @@ Eterna for Sophia.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //溶岩の中で育った動物の熱いウンチを\nエターナのソフィアに渡す
 Deliver Hot Dung from a lava-dwelling\n
 creature to Sophia in Eterna.
@@ -1844,7 +1844,7 @@ creature to Sophia in Eterna.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ラグナロッジのエモリに会いに行く
 Meet with Dr. Emori in Ragna Rim.
 <$00>
@@ -1854,13 +1854,13 @@ Meet with Dr. Emori in Ragna Rim.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「フロッピーと
 Take the Floppy Disc and＿
-
+<$06>
 //10
 10, 000
-
+<$04>
 //万￥」を持って、\nＧファクトリー入口１階、\n公衆電話の前に行く
 ￥ to the G Factory gate. Answer the payphone.
 <$00>
@@ -1870,13 +1870,13 @@ Take the Floppy Disc and＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「フロッピーと
 Take the Floppy Disc and＿
-
+<$06>
 //10
 10, 000
-
+<$04>
 //万￥」を持って、\nパラサイド入口１階、\n公衆電話の前に行く
 ￥ to the Paraside gate. Answer the payphone.
 <$00>
@@ -1886,13 +1886,13 @@ Take the Floppy Disc and＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「フロッピーと
 Take the Floppy Disc and＿
-
+<$06>
 //10
 10, 000
-
+<$04>
 //万￥」を持って、\nガレックスに行く
 ￥ to Galax.
 <$00>
@@ -1902,7 +1902,7 @@ Take the Floppy Disc and＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す
 Pick bloodberries in Flora Jam. Take them to\n
 Kevin and Nightshade in Rose Garden.
@@ -1913,7 +1913,7 @@ Kevin and Nightshade in Rose Garden.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //パラサイドの酒場にいるアンジェラを\n確認して、リナバレーのマリオに連絡する
 Look for Angela at the Paraside bar. Report\n
 your findings to Mario in Spurr Valley.
@@ -1924,7 +1924,7 @@ your findings to Mario in Spurr Valley.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //アンジェラを確認するために、\nオズポートホテルの酒場に行く
 Look for Angela at the OzPort Hotel bar.
 <$00>
@@ -1934,7 +1934,7 @@ Look for Angela at the OzPort Hotel bar.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //アンジェラを確認するために、\n西エリアのしけた町のホテルに行く
 Look for Angela at a hotel bar somewhere in\n
 West Area.
@@ -1945,7 +1945,7 @@ West Area.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //アンジェラを確認するために、\nドギファの舞台に行く
 Look for Angela at the theater stage in Dogyf\n
 Heights.
@@ -1956,7 +1956,7 @@ Heights.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リナバレーのマリオの母、\nアンジェラを追ってオズサットへ行く
 Chase Angela to OzSat! Mario will follow from\n
 Spurr Valley.

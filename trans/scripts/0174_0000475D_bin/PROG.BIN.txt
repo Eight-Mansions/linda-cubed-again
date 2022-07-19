@@ -60,7 +60,7 @@ c196.obj
 
 #WRITE(PTR, $001C)
 //“÷Q‰®
-<$06>Meat MarketQ
+Meat MarketQ
 <$00>
 
 
@@ -68,7 +68,7 @@ c196.obj
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ƒPƒ“‚Í@Œû“J‚ğ‚¢‚½
 Ken whistled.
 <$12>
@@ -84,7 +84,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ƒPƒ“‚Í@–Ú—§‚½‚È‚¢‚æ‚¤‚É\n‹C”z‚ğ@E‚µ‚½
 Ken masked the party to avoid detection.
 <$12>
@@ -101,7 +101,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ƒŠƒ“ƒ_‚Í@“®•¨‚½‚¿‚Ì\n–Â‚«ƒ}ƒl‚ğ‚µ‚½
 Linda mimicked a few animal calls.
 <$12>
@@ -118,7 +118,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //“®•¨}ŠÓ‚Í\n‚±‚±‚Å‚Í@‹N“®‚µ‚È‚¢
 The Animal Bible can't be booted here!
 <$12>
@@ -129,7 +129,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //‚±‚±‚Å‚Í@–ì‰c‚Å‚«‚È‚¢
 Camp can't be set up here!
 <$12>
@@ -140,7 +140,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ƒiƒrƒVƒXƒeƒ€iƒiƒr‚rj‚Í\n‚±‚±‚Å‚Í@‹N“®‚µ‚È‚¢
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -151,7 +151,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //‚ ‚ñ‚½‚ÌŒäæ‘c‚ª@
 Unless you come from a long line of
 //<$1B>
@@ -173,7 +173,7 @@ of your pants.
 
 
 //‰´‚½‚¿ƒr[ƒXƒ`ƒƒƒ“‚Ì@Œ¾‚¢“`‚¦‚¶‚á\nuæ‘c‚Í’n‰º‚©‚ç@’·‚¢ƒgƒ“ƒlƒ‹‚ğ\n’Ê‚Á‚Ä‚â‚Á‚Ä‚«‚½v‚Á‚Ä‚±‚Æ‚¾‚¯‚Çc
-<$06>Us Beastians still believe that our ancestors\n
+Us Beastians still believe that our ancestors\n
 came "from a deep, dark tunnel down below".
 <$12>
 \n
@@ -182,10 +182,10 @@ came "from a deep, dark tunnel down below".
 Why do the prudes have to be so vague?\n
 C'mon, I knew what that tunnel was when I\n
 turnedQ
-
+<$06>
 //13
 13
-
+<$04>
 //‚Å@–{“–‚ÌˆÓ–¡‚ğ‹³‚í‚Á‚½ƒT
 .
 <$12>
@@ -204,7 +204,7 @@ both showed me!
 
 #WRITE(PTR, $001E)
 //ŒÂ
-<$06>Q
+Q
 <$00>
 
 
@@ -213,7 +213,7 @@ both showed me!
 
 
 //•C
-<$06>Q
+Q
 <$00>
 
 
@@ -221,13 +221,13 @@ both showed me!
 
 
 
-<$06><$1D>
+<$1D>
 //‚ğ
 Qx
 <$1D>
 //‚Ü‚·\n
 Q\n
-<$19>
+<$06><$19>
 //1
 1
 <$01><$1A>
@@ -239,7 +239,7 @@ S
 <$19>
 //0
 0
-
+<$04>
 //^
 ^
 <$14><$1E>
@@ -275,7 +275,7 @@ S
 TCU (x
 <$1E>
 //034
-
+<$06>
 //)
 )
 <$00>
@@ -285,7 +285,7 @@ TCU (x
 
 
 
-<$06><$05>
+<$05>
 //ƒÁ
 A
 <$00>
@@ -295,7 +295,7 @@ A
 
 
 
-<$06><$05>
+<$05>
 //ƒÄ
 D
 <$00>
@@ -305,7 +305,7 @@ D
 
 
 
-<$06><$1E>
+<$1E>
 //@019
 @019
 <$00>
@@ -315,7 +315,7 @@ D
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ƒZƒŒƒNƒgƒ{ƒ^ƒ“‚Å‰ğà‚ªo‚Ü‚·
 SELECT: Details
 <$00>
@@ -332,7 +332,7 @@ SELECT: Details
 
 
 
-<$06><$16><$15>
+<$04><$16><$15>
 //W
 W
 <$01><$1D><$02>
@@ -351,14 +351,14 @@ W
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ƒgƒ‰ƒ“ƒXƒJ[ƒS‚Í@‚P˜g‚É‚Â‚«\n
 The trans-cargo unit has\n
 aQ
-
+<$06>
 //99
 99
-
+<$04>
 //“ª‚Ü‚Å‚µ‚©@û—e‚Å‚«‚Ü‚¹‚ñ
 Qspecies capacity!
 <$12>
@@ -369,12 +369,12 @@ aQ
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
-
+<$06>
 //ƒgƒ‰ƒ“ƒXƒJ[ƒS
 The trans-cargo unitQ
-
+<$04>
 //‚ª‚¢‚Á‚Ï‚¢‚Å‚·
 is full!
 <$12>
@@ -385,7 +385,7 @@ is full!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //“¹‹ï‚ª‚¢‚Á‚Ï‚¢‚Å‚·
 The item bag is full!
 <$12>
@@ -396,7 +396,7 @@ The item bag is full!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1D>
 //‚Í\n‚¨ˆø‚«æ‚è‚Å‚«‚Ü‚¹‚ñ
@@ -410,13 +410,13 @@ I can't accept that!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 SellQ
 <$1D>
 //‚ğ\n
 Qfor\n
-<$1E>
+<$06><$1E><$04>
 //‚Å”„‚è‚Ü‚·‚©H\n
 ?\n
 <$01>
@@ -436,7 +436,7 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1D><$15>
 //W‚Í\n‚`‹‰•ÛŒì“®•¨‚Ì‚½‚ß\næ‚èˆø‚«‚Å‚«‚Ü‚¹‚ñ
@@ -458,11 +458,11 @@ trading is prohibited!
 
 
 
-<$06><$16><$01><$1D><$02>
+<$16><$04><$01><$1D><$02>
 //120
 <$0E><$02>
 //216
-<$1E>
+<$06><$1E><$04>
 //•C‚Å
 xQ
 <$00>
@@ -472,7 +472,7 @@ xQ
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 CraftQ
 <$1D>
@@ -494,14 +494,14 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 Crafting aQ
 <$1D>
 //‚ğì‚è‚Ü‚·\n‰ÁH—¿‹àQ
 Q\n
 will cost
-<$1D><$1E><$14>
+<$1D><$06><$1E><$04><$14>
 //\n
 .\n
 <$01>
@@ -520,7 +520,7 @@ Wait
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //‚¨‹à‚ª‘«‚è‚Ü‚¹‚ñ
 You can't afford this!
 <$12>
@@ -531,7 +531,7 @@ You can't afford this!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //“®•¨‚ª‘«‚è‚Ü‚¹‚ñ
 You don't have the animals!
 <$12>
@@ -542,13 +542,13 @@ You don't have the animals!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //‰ÁH—¿‹àQ
 You can't afford theQ\n
 <$15>
 //b
 b
-<$1E><$14>
+<$06><$1E><$04><$14>
 //\n‚ª‘«‚è‚Ü‚¹‚ñ
  fee!
 <$12>
@@ -579,7 +579,7 @@ b
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //“¹‹ï‚ª‚¢‚Á‚Ï‚¢‚Å‚·
 The item bag is full!
 <$12>
@@ -591,7 +591,7 @@ The item bag is full!
 
 
 //
-<$06><$15>
+<$15>
 //Y“÷Q‰®
 YMeat Market
 <$00>
@@ -601,7 +601,7 @@ YMeat Market
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //–ˆ“x‚Ç[‚àI@H“÷I@–ò“÷I@“Å“÷I\n¡“ú‚Í@‰½‚É‚µ‚Ü‚·‚©H\n
 Good day, Sir!\n
 You want meats? I've got meats!\n
@@ -629,7 +629,7 @@ Exit
 
 
 //
-<$06><$15>
+<$15>
 //Y“÷Q‰®
 YMeat Market
 <$00>
@@ -639,7 +639,7 @@ YMeat Market
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //• ‚ªŒ¸‚Á‚½A‘Ì‚Ì’²q‚ªˆ«‚¢A\n‚¨‹CŒy‚É@‚¨—§‚¿Šñ‚è‚­‚¾‚³‚¢
 Whether you're hungry or weary,\n
 I'm here to serve you!
@@ -651,7 +651,7 @@ I'm here to serve you!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //“®•¨‚ğ”„‚é‚Æ‚«‚Í@©•ª‚Å\nH—¿‚â‘•”õ‚É@‰ÁH‚µ‚Ä‚©‚ç”„‚é‚ÆA\nèŠÔ’À•ª‚¾‚¯@‚¿‚å‚Á‚Æ‚¨“¾‚Å‚·‚æ
 You'll make more money if you process an\n
 animal into food or gear before selling it.
@@ -663,7 +663,7 @@ animal into food or gear before selling it.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ƒAƒŒ‚ª@ƒiƒj‚Ì‚É‚à@‚Ç[‚¼a
 Come back any time!
 <$12>
@@ -675,7 +675,7 @@ Come back any time!
 
 
 //
-<$06><$15>
+<$15>
 //Y“÷Q‰®^ƒƒjƒ…[
 YMeat^Menu
 <$00>
@@ -685,7 +685,7 @@ YMeat^Menu
 
 
 
-<$06><$01>
+<$01>
 //”ƒQ‚¤
 Buy
 <$0E>
@@ -715,7 +715,7 @@ Exit
 
 
 //
-<$06><$15>
+<$15>
 //Y“÷Q‰®^”ƒQ‚¤
 YMeat^Buy
 <$00>
@@ -726,7 +726,7 @@ YMeat^Buy
 
 
 //
-<$06><$15>
+<$15>
 //Y“÷Q‰®^”„Q‚é
 YMeat^Sell
 <$00>
@@ -737,7 +737,7 @@ YMeat^Sell
 
 
 //
-<$06><$15>
+<$15>
 //Y“÷Q‰®^ìQ‚é
 YMeat^Make
 <$00>
@@ -748,7 +748,7 @@ YMeat^Make
 
 
 //cc“Œ
-<$06>...East
+...East
 <$00>
 
 
@@ -757,7 +757,7 @@ YMeat^Make
 
 
 //cc¼
-<$06>...West
+...West
 <$00>
 
 
@@ -766,7 +766,7 @@ YMeat^Make
 
 
 //cc“ì
-<$06>...South
+...South
 <$00>
 
 
@@ -775,7 +775,7 @@ YMeat^Make
 
 
 //cc–k
-<$06>...North
+...North
 <$00>
 
 
@@ -784,7 +784,7 @@ YMeat^Make
 
 
 //c–k“Œ
-<$06>...North-east
+...North-east
 <$00>
 
 
@@ -793,7 +793,7 @@ YMeat^Make
 
 
 //c–k¼
-<$06>...North-west
+...North-west
 <$00>
 
 
@@ -802,7 +802,7 @@ YMeat^Make
 
 
 //c“ì“Œ
-<$06>...South-east
+...South-east
 <$00>
 
 
@@ -811,7 +811,7 @@ YMeat^Make
 
 
 //c“ì¼
-<$06>...South-west
+...South-west
 <$00>
 
 
@@ -819,7 +819,7 @@ YMeat^Make
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //cc
 ......
 <$1D>
@@ -831,7 +831,7 @@ YMeat^Make
 
 
 //Ac
-<$06>! That's where we'll find aQ
+! That's where we'll find aQ
 <$1D>
 //‚És‚¯‚Î
 .
@@ -843,7 +843,7 @@ YMeat^Make
 
 
 //’¼i
-<$06>For
+For
 <$00>
 
 
@@ -852,7 +852,7 @@ YMeat^Make
 
 
 //‰E‚æ
-<$06>Right
+Right
 <$00>
 
 
@@ -861,7 +861,7 @@ YMeat^Make
 
 
 //¶‚æ
-<$06>Left
+Left
 <$00>
 
 
@@ -870,7 +870,7 @@ YMeat^Make
 
 
 //Œã‚ë
-<$06>Back
+Back
 <$00>
 
 
@@ -878,7 +878,7 @@ YMeat^Make
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //cc
 ......
 <$1D>
@@ -890,7 +890,7 @@ YMeat^Make
 
 
 //Aâ‘Î‚É
-<$06>wards, got it? I'm sure we'll find aQ
+wards, got it? I'm sure we'll find aQ
 <$1D>
 //a
 Qthere!
@@ -901,7 +901,7 @@ YMeat^Make
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -916,7 +916,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //c‚²‚ß‚ñ‚ËA\n¡“ú‚Í@Š¨‚ª‚Í‚½‚ç‚©‚È‚¢‚íc
 ...Sorry. I don't have it in me today.
 <$12>
@@ -928,7 +928,7 @@ SLinda used her woman's intuition...
 
 
 //‰^–½‚Ì
-<$06>FatedQ
+FatedQ
 <$00>
 
 
@@ -937,7 +937,7 @@ SLinda used her woman's intuition...
 
 
 //V‚µ‚¢
-<$06>NewQ
+NewQ
 <$00>
 
 
@@ -946,7 +946,7 @@ SLinda used her woman's intuition...
 
 
 //‘f“G‚È
-<$06>GreatQ
+GreatQ
 <$00>
 
 
@@ -955,7 +955,7 @@ SLinda used her woman's intuition...
 
 
 //–¢’m‚Ì
-<$06>UnknownQ
+UnknownQ
 <$00>
 
 
@@ -964,7 +964,7 @@ SLinda used her woman's intuition...
 
 
 //‰½‚©
-<$06>thingsQ
+thingsQ
 <$00>
 
 
@@ -973,7 +973,7 @@ SLinda used her woman's intuition...
 
 
 //”­Œ©
-<$06>discoveriesQ
+discoveriesQ
 <$00>
 
 
@@ -982,7 +982,7 @@ SLinda used her woman's intuition...
 
 
 //‚¨•ó
-<$06>treasuresQ
+treasuresQ
 <$00>
 
 
@@ -991,7 +991,7 @@ SLinda used her woman's intuition...
 
 
 //“®•¨
-<$06>animalsQ
+animalsQ
 <$00>
 
 
@@ -1000,7 +1000,7 @@ SLinda used her woman's intuition...
 
 
 //‚É@o‰ï‚¦‚éc
-<$06>could appear.
+could appear.
 <$00>
 
 
@@ -1009,7 +1009,7 @@ SLinda used her woman's intuition...
 
 
 //‚ª@‘Ò‚Á‚Ä‚éc
-<$06>await us...
+await us...
 <$00>
 
 
@@ -1018,7 +1018,7 @@ SLinda used her woman's intuition...
 
 
 //‹C‚ª‚·‚é‚ía
-<$06>are there.
+are there.
 <$00>
 
 
@@ -1027,7 +1027,7 @@ SLinda used her woman's intuition...
 
 
 //ƒ`ƒƒƒ“ƒX‚æa
-<$06>are in our grasp!
+are in our grasp!
 <$00>
 
 
@@ -1036,7 +1036,7 @@ SLinda used her woman's intuition...
 
 
 //¡‚µ‚©‚È‚¢‚í
-<$06>could slip through our fingers!
+could slip through our fingers!
 <$00>
 
 
@@ -1045,7 +1045,7 @@ SLinda used her woman's intuition...
 
 
 //ŠÔˆá‚¢‚È‚µa
-<$06>are dead head!
+are dead head!
 <$00>
 
 
@@ -1054,7 +1054,7 @@ SLinda used her woman's intuition...
 
 
 //\n
-<$06>\n
+\n
 <$1D><$1D><$1D>
 //\n
 \n
@@ -1069,7 +1069,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //©M‚ª‚ ‚é‚Ìa
 I'm sure of it!
 <$12>
@@ -1080,7 +1080,7 @@ I'm sure of it!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //©M‚Í@‚È‚¢‚¯‚Ç‚Ëc
 Although, I'm not totally certain...
 <$12>
@@ -1091,7 +1091,7 @@ Although, I'm not totally certain...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //â‘Î‚È‚ñ‚¾‚©‚ça
 I'm absolutely certain!
 <$12>
@@ -1103,7 +1103,7 @@ I'm absolutely certain!
 
 
 //ƒNƒ“AƒNƒ“ƒNƒ“cccH
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -1124,7 +1124,7 @@ go for someQ
 
 
 //—‘Ä‚«
-<$06>fried eggs
+fried eggs
 <$00>
 
 
@@ -1133,7 +1133,7 @@ go for someQ
 
 
 //ƒJƒŒ[
-<$06>curry
+curry
 <$00>
 
 
@@ -1142,7 +1142,7 @@ go for someQ
 
 
 //Ä‚«“÷
-<$06>Neo Korean BBQ
+Neo Korean BBQ
 <$00>
 
 
@@ -1151,7 +1151,7 @@ go for someQ
 
 
 //“‚‚ ‚°
-<$06>karaage
+karaage
 <$00>
 
 
@@ -1160,7 +1160,7 @@ go for someQ
 
 
 //‚¨‰Ùq
-<$06>candy
+candy
 <$00>
 
 
@@ -1169,7 +1169,7 @@ go for someQ
 
 
 //ƒoƒiƒi
-<$06>banana
+banana
 <$00>
 
 
@@ -1178,7 +1178,7 @@ go for someQ
 
 
 //ƒtƒ‰ƒC
-<$06>Neo French fries
+Neo French fries
 <$00>
 
 
@@ -1187,7 +1187,7 @@ go for someQ
 
 
 //Ä‚«‹›
-<$06>grilled fish
+grilled fish
 <$00>
 
 
@@ -1196,7 +1196,7 @@ go for someQ
 
 
 //ƒgƒ}ƒg
-<$06>tomato
+tomato
 <$00>
 
 
@@ -1205,7 +1205,7 @@ go for someQ
 
 
 //ƒoƒ^[
-<$06>butter
+butter
 <$00>
 
 
@@ -1214,7 +1214,7 @@ go for someQ
 
 
 //ƒ\[ƒX
-<$06>sauce
+sauce
 <$00>
 
 
@@ -1223,7 +1223,7 @@ go for someQ
 
 
 //ƒX[ƒv
-<$06>Qsoup
+Qsoup
 <$00>
 
 
@@ -1232,7 +1232,7 @@ go for someQ
 
 
 //ƒsƒ‰ƒt
-<$06>pilaf
+pilaf
 <$00>
 
 
@@ -1241,7 +1241,7 @@ go for someQ
 
 
 //ƒoƒjƒ‰
-<$06>vanilla
+vanilla
 <$00>
 
 
@@ -1250,7 +1250,7 @@ go for someQ
 
 
 //ƒLƒ€ƒ`
-<$06>kimchi
+kimchi
 <$00>
 
 
@@ -1259,7 +1259,7 @@ go for someQ
 
 
 //ƒ`[ƒY
-<$06>cheese
+cheese
 <$00>
 
 
@@ -1268,7 +1268,7 @@ go for someQ
 
 
 //’©
-<$06>breakfast
+breakfast
 <$00>
 
 
@@ -1277,7 +1277,7 @@ go for someQ
 
 
 //’‹
-<$06>lunch
+lunch
 <$00>
 
 
@@ -1286,7 +1286,7 @@ go for someQ
 
 
 //—[
-<$06>dinner
+dinner
 <$00>
 
 
@@ -1295,7 +1295,7 @@ go for someQ
 
 
 //ƒNƒ“AƒNƒ“ƒNƒ“cccH
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>

@@ -84,7 +84,7 @@ c141a.obj
 
 #WRITE(PTR, $001C)
 //酒＿場
-<$06>Tavern＿
+Tavern＿
 <$00>
 
 
@@ -92,7 +92,7 @@ c141a.obj
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -108,7 +108,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -125,7 +125,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -142,7 +142,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -153,7 +153,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -164,7 +164,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -176,7 +176,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 //武器なら「
-<$06>If you want to augment＿
+If you want to augment＿
 //<$1B>
 //ヒョウサーベル」か\n「
 leopard sabers or＿
@@ -204,7 +204,7 @@ at, aye?
 
 
 //■～　■～　■■～
-<$06>■～　■～　■■～
+■～　■～　■■～
 <$12>
 <$00>
 
@@ -213,7 +213,7 @@ at, aye?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //私、アンジェラ！　ぼうやのために\n１曲、歌わせてくれる？\n
 I'm Angela! Care for a song, sweetheart?\n
 <$01>
@@ -233,7 +233,7 @@ Maybe next time.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //あら…　男と女の出会いには\n次は　ないかもしれなくてよ
 Ah, but in a star-crossed world like ours,\n
 are "next times" ever so certain?
@@ -245,7 +245,7 @@ are "next times" ever so certain?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //チップは見栄を張るものよ■\n持金
 Don't forget to tip!■\n
 <$1E>
@@ -261,9 +261,9 @@ Don't forget to tip!■\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
-<$1E>
+<$06><$1E><$04>
 //￥ね？\n
 ￥？\n
 <$01>
@@ -284,7 +284,7 @@ Sike!
 
 
 //アンジェラの歌って　ステキでしょ？\nぼうやも　リクエストしてちょうだい\nチップは「気持ち」でいいからサ
-<$06>Angela's song is wonderful, isn't it? I say\n
+Angela's song is wonderful, isn't it? I say\n
 sit back, relax and never forget to tip.
 <$12>
 <$00>
@@ -295,7 +295,7 @@ sit back, relax and never forget to tip.
 
 
 //アンジェラの歌を聞くと　故郷のママを\n思い出して　泣けてくるんだよなぁ
-<$06>Whenever I hear Angela sing, I remember my\n
+Whenever I hear Angela sing, I remember my\n
 mother back home and I start crying.
 <$12>
 <$00>
@@ -306,7 +306,7 @@ mother back home and I start crying.
 
 
 //大したモンだよ、アンジェラは∥\n持ち歌１曲で　客を満足させられる\n歌手なんて　彼女だけだね
-<$06>Angela's a huge deal! She's the only singer\n
+Angela's a huge deal! She's the only singer\n
 who can win a crowd over with any one song!
 <$12>
 <$00>
@@ -317,7 +317,7 @@ who can win a crowd over with any one song!
 
 
 //アンジェラの歌声を　聞いているとサ\nいつの間にか　眠っちまうんだ…\nまるで　揺りカゴの中にいるみたいサ
-<$06>When Angela sings, before I know it, I fall\n
+When Angela sings, before I know it, I fall\n
 asleep. It's like I'm rocked by her lullaby.
 <$12>
 <$00>
@@ -328,7 +328,7 @@ asleep. It's like I'm rocked by her lullaby.
 
 
 //死んだ　おふくろのニオイを\n思い出したくて　アンジェラの歌を\n俺は　聞きに来るんだ…
-<$06>I came to listen to Angela's song. It helps\n
+I came to listen to Angela's song. It helps\n
 me recall the smell of my late mother.
 <$12>
 <$00>
@@ -339,7 +339,7 @@ me recall the smell of my late mother.
 
 
 //人生から　逃げだしたくなった時\nアンジェラの歌が　恋しくなるのサ
-<$06>In times I wanted to escape from my life, I\n
+In times I wanted to escape from my life, I\n
 knew I'd miss Angela's music.
 <$12>
 <$00>
@@ -350,7 +350,7 @@ knew I'd miss Angela's music.
 
 
 //ママ…　俺のことを捨てたママ…\nアンジェラの歌を　聞いてる間だけは\nママのことを　許せる気がするよ
-<$06>Mommy, why did you leave? Why is Angela's\n
+Mommy, why did you leave? Why is Angela's\n
 song the one thing that helps me forgive you?
 <$12>
 <$00>
@@ -361,7 +361,7 @@ song the one thing that helps me forgive you?
 
 
 //アンジェラ∥　もう一回歌ってくれ∥\n俺にはもったいない　最高の母さんと\n人間のクズの　最低の俺のために…
-<$06>Angela, sing for us one more time! For me,\n
+Angela, sing for us one more time! For me,\n
 the human scum of the world who was too good\n
 for the greatest mother alive!
 <$12>
@@ -374,7 +374,7 @@ for the greatest mother alive!
 
 #WRITE(PTR, $001E)
 //
-<$06><$15>
+<$15>
 //YＢＡＲ
 YBar
 <$00>
@@ -384,10 +384,10 @@ YBar
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //何になさいます？　どれでも
 For＿
-<$1D><$1E><$14>
+<$1D><$06><$1E><$04><$14>
 //￥です\n
 ￥, what'll it be?\n
 <$01><$1D><$1D><$02>
@@ -419,7 +419,7 @@ No thanks.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //また、どうぞ
 Come again!
 <$12>
@@ -430,7 +430,7 @@ Come again!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ぼうや…\nタダ酒は　後で高くつくのが\n大人の世界の常識だぜ
 Careful, kiddo. Everyone pays the price for\n
 cheap liquor sooner or later.
@@ -442,7 +442,7 @@ cheap liquor sooner or later.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは
 Ken downed the\n
 <$1D><$1D>
@@ -457,13 +457,13 @@ in one gulp.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンの\n
 Ken's＿
-
+<$06>
 //HP 
 HP
-
+<$04>
 //全回復∥
 ＿recovered fully!
 <$12>
@@ -474,13 +474,13 @@ HP
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンの\n
 Ken's＿
-
+<$06>
 //HP 
 HP recovered by＿
-<$1E>
+<$1E><$04>
 //回復∥
 !
 <$12>
@@ -491,7 +491,7 @@ HP recovered by＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //もう　１杯いかがですか？\n
 Care for another?\n
 <$01><$1D><$1D><$02>
@@ -524,7 +524,7 @@ No thanks.
 
 
 //ロック
-<$06>＿shot
+＿shot
 <$00>
 
 
@@ -533,7 +533,7 @@ No thanks.
 
 
 //ジュース
-<$06>＿juice
+＿juice
 <$00>
 
 
@@ -542,7 +542,7 @@ No thanks.
 
 
 //ミルク
-<$06>＿milk
+＿milk
 <$00>
 
 
@@ -551,7 +551,7 @@ No thanks.
 
 
 //スープ
-<$06>＿soup
+＿soup
 <$00>
 
 
@@ -560,7 +560,7 @@ No thanks.
 
 
 //パンチ
-<$06>＿punch
+＿punch
 <$00>
 
 
@@ -569,7 +569,7 @@ No thanks.
 
 
 //カクテル
-<$06>＿cocktail
+＿cocktail
 <$00>
 
 
@@ -578,7 +578,7 @@ No thanks.
 
 
 //茶
-<$06>＿tea
+＿tea
 <$00>
 
 
@@ -587,7 +587,7 @@ No thanks.
 
 
 //コーラ
-<$06>＿malt
+＿malt
 <$00>
 
 
@@ -596,7 +596,7 @@ No thanks.
 
 
 //ビール
-<$06>＿beer
+＿beer
 <$00>
 
 
@@ -605,7 +605,7 @@ No thanks.
 
 
 //サワー
-<$06>＿shake
+＿shake
 <$00>
 
 
@@ -614,7 +614,7 @@ No thanks.
 
 
 //ソーダ
-<$06>＿soda
+＿soda
 <$00>
 
 
@@ -623,7 +623,7 @@ No thanks.
 
 
 //焼酎
-<$06>＿shochu
+＿shochu
 <$00>
 
 
@@ -632,7 +632,7 @@ No thanks.
 
 
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -653,7 +653,7 @@ go for some＿
 
 
 //卵焼き
-<$06>fried eggs
+fried eggs
 <$00>
 
 
@@ -662,7 +662,7 @@ go for some＿
 
 
 //カレー
-<$06>curry
+curry
 <$00>
 
 
@@ -671,7 +671,7 @@ go for some＿
 
 
 //焼き肉
-<$06>Neo Korean BBQ
+Neo Korean BBQ
 <$00>
 
 
@@ -680,7 +680,7 @@ go for some＿
 
 
 //唐あげ
-<$06>karaage
+karaage
 <$00>
 
 
@@ -689,7 +689,7 @@ go for some＿
 
 
 //お菓子
-<$06>candy
+candy
 <$00>
 
 
@@ -698,7 +698,7 @@ go for some＿
 
 
 //バナナ
-<$06>banana
+banana
 <$00>
 
 
@@ -707,7 +707,7 @@ go for some＿
 
 
 //フライ
-<$06>Neo French fries
+Neo French fries
 <$00>
 
 
@@ -716,7 +716,7 @@ go for some＿
 
 
 //焼き魚
-<$06>grilled fish
+grilled fish
 <$00>
 
 
@@ -725,7 +725,7 @@ go for some＿
 
 
 //トマト
-<$06>tomato
+tomato
 <$00>
 
 
@@ -734,7 +734,7 @@ go for some＿
 
 
 //バター
-<$06>butter
+butter
 <$00>
 
 
@@ -743,7 +743,7 @@ go for some＿
 
 
 //ソース
-<$06>sauce
+sauce
 <$00>
 
 
@@ -752,7 +752,7 @@ go for some＿
 
 
 //スープ
-<$06>＿soup
+＿soup
 <$00>
 
 
@@ -761,7 +761,7 @@ go for some＿
 
 
 //ピラフ
-<$06>pilaf
+pilaf
 <$00>
 
 
@@ -770,7 +770,7 @@ go for some＿
 
 
 //バニラ
-<$06>vanilla
+vanilla
 <$00>
 
 
@@ -779,7 +779,7 @@ go for some＿
 
 
 //キムチ
-<$06>kimchi
+kimchi
 <$00>
 
 
@@ -788,7 +788,7 @@ go for some＿
 
 
 //チーズ
-<$06>cheese
+cheese
 <$00>
 
 
@@ -797,7 +797,7 @@ go for some＿
 
 
 //朝
-<$06>breakfast
+breakfast
 <$00>
 
 
@@ -806,7 +806,7 @@ go for some＿
 
 
 //昼
-<$06>lunch
+lunch
 <$00>
 
 
@@ -815,7 +815,7 @@ go for some＿
 
 
 //夕
-<$06>dinner
+dinner
 <$00>
 
 
@@ -824,7 +824,7 @@ go for some＿
 
 
 //……東
-<$06>...East
+...East
 <$00>
 
 
@@ -833,7 +833,7 @@ go for some＿
 
 
 //……西
-<$06>...West
+...West
 <$00>
 
 
@@ -842,7 +842,7 @@ go for some＿
 
 
 //……南
-<$06>...South
+...South
 <$00>
 
 
@@ -851,7 +851,7 @@ go for some＿
 
 
 //……北
-<$06>...North
+...North
 <$00>
 
 
@@ -860,7 +860,7 @@ go for some＿
 
 
 //…北東
-<$06>...North-east
+...North-east
 <$00>
 
 
@@ -869,7 +869,7 @@ go for some＿
 
 
 //…北西
-<$06>...North-west
+...North-west
 <$00>
 
 
@@ -878,7 +878,7 @@ go for some＿
 
 
 //…南東
-<$06>...South-east
+...South-east
 <$00>
 
 
@@ -887,7 +887,7 @@ go for some＿
 
 
 //…南西
-<$06>...South-west
+...South-west
 <$00>
 
 
@@ -895,7 +895,7 @@ go for some＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -907,7 +907,7 @@ go for some＿
 
 
 //、…
-<$06>! That's where we'll find a＿
+! That's where we'll find a＿
 <$1D>
 //に行けば
 .
@@ -919,7 +919,7 @@ go for some＿
 
 
 //直進
-<$06>For
+For
 <$00>
 
 
@@ -928,7 +928,7 @@ go for some＿
 
 
 //右よ
-<$06>Right
+Right
 <$00>
 
 
@@ -937,7 +937,7 @@ go for some＿
 
 
 //左よ
-<$06>Left
+Left
 <$00>
 
 
@@ -946,7 +946,7 @@ go for some＿
 
 
 //後ろ
-<$06>Back
+Back
 <$00>
 
 
@@ -954,7 +954,7 @@ go for some＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -966,7 +966,7 @@ go for some＿
 
 
 //、絶対に
-<$06>wards, got it? I'm sure we'll find a＿
+wards, got it? I'm sure we'll find a＿
 <$1D>
 //∥
 ＿there!
@@ -977,7 +977,7 @@ go for some＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -992,7 +992,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…ごめんね、\n今日は　勘がはたらかないわ…
 ...Sorry. I don't have it in me today.
 <$12>
@@ -1004,7 +1004,7 @@ SLinda used her woman's intuition...
 
 
 //運命の
-<$06>Fated＿
+Fated＿
 <$00>
 
 
@@ -1013,7 +1013,7 @@ SLinda used her woman's intuition...
 
 
 //新しい
-<$06>New＿
+New＿
 <$00>
 
 
@@ -1022,7 +1022,7 @@ SLinda used her woman's intuition...
 
 
 //素敵な
-<$06>Great＿
+Great＿
 <$00>
 
 
@@ -1031,7 +1031,7 @@ SLinda used her woman's intuition...
 
 
 //未知の
-<$06>Unknown＿
+Unknown＿
 <$00>
 
 
@@ -1040,7 +1040,7 @@ SLinda used her woman's intuition...
 
 
 //何か
-<$06>things＿
+things＿
 <$00>
 
 
@@ -1049,7 +1049,7 @@ SLinda used her woman's intuition...
 
 
 //発見
-<$06>discoveries＿
+discoveries＿
 <$00>
 
 
@@ -1058,7 +1058,7 @@ SLinda used her woman's intuition...
 
 
 //お宝
-<$06>treasures＿
+treasures＿
 <$00>
 
 
@@ -1067,7 +1067,7 @@ SLinda used her woman's intuition...
 
 
 //動物
-<$06>animals＿
+animals＿
 <$00>
 
 
@@ -1076,7 +1076,7 @@ SLinda used her woman's intuition...
 
 
 //に　出会える…
-<$06>could appear.
+could appear.
 <$00>
 
 
@@ -1085,7 +1085,7 @@ SLinda used her woman's intuition...
 
 
 //が　待ってる…
-<$06>await us...
+await us...
 <$00>
 
 
@@ -1094,7 +1094,7 @@ SLinda used her woman's intuition...
 
 
 //気がするわ∥
-<$06>are there.
+are there.
 <$00>
 
 
@@ -1103,7 +1103,7 @@ SLinda used her woman's intuition...
 
 
 //チャンスよ∥
-<$06>are in our grasp!
+are in our grasp!
 <$00>
 
 
@@ -1112,7 +1112,7 @@ SLinda used her woman's intuition...
 
 
 //今しかないわ
-<$06>could slip through our fingers!
+could slip through our fingers!
 <$00>
 
 
@@ -1121,7 +1121,7 @@ SLinda used her woman's intuition...
 
 
 //間違いなし∥
-<$06>are dead head!
+are dead head!
 <$00>
 
 
@@ -1130,7 +1130,7 @@ SLinda used her woman's intuition...
 
 
 //\n
-<$06>\n
+\n
 <$1D><$1D><$1D>
 //\n
 \n
@@ -1145,7 +1145,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信があるの∥
 I'm sure of it!
 <$12>
@@ -1156,7 +1156,7 @@ I'm sure of it!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信は　ないけどね…
 Although, I'm not totally certain...
 <$12>
@@ -1167,7 +1167,7 @@ Although, I'm not totally certain...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //絶対なんだから∥
 I'm absolutely certain!
 <$12>

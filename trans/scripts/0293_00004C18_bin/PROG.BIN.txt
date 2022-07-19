@@ -144,7 +144,7 @@ kao_s2.obj
 
 #WRITE(PTR, $001C)
 //ホスピコ
-<$06>Hospico＿
+Hospico＿
 <$00>
 
 
@@ -152,7 +152,7 @@ kao_s2.obj
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -168,7 +168,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -185,7 +185,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -202,7 +202,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -213,7 +213,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -224,7 +224,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -236,7 +236,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 //猟犬
-<$06>Pet＿
+Pet＿
 <$1D>
 //の墓
 Cemetary＿
@@ -249,7 +249,7 @@ Cemetary＿
 
 
 //裏庭に　半分、地下にうまったような\n建物が見えるだろ…　今でもコシカタの\n「町長」が　収容されてるって噂だゼ
-<$06>Out back, you can see a building that looks\n
+Out back, you can see a building that looks\n
 half-way underground.
 <$12>
 \n
@@ -274,7 +274,7 @@ really survive?
 
 
 //ここは特別監視房です\n何かご用ですか？\n
-<$06>This is the surveillance ward. Can I help\n
+This is the surveillance ward. Can I help\n
 you?\n
 <$01>
 //「町長」に会う
@@ -292,7 +292,7 @@ I'm on a walk
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……コシカタの「町長」なんて\nここには　いやしません\nヘンな噂、たてないでくださいね
 ...The "elder" of Koshikata? He's not here.\n
 Please, don't feed baseless rumors.
@@ -304,7 +304,7 @@ Please, don't feed baseless rumors.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //健康に　いいですものね\nこの病院には　散歩の好きな方が\n多いんですよ
 Good! Many a folk take walks in this\n
 hospital. It's good for the body!
@@ -317,12 +317,12 @@ hospital. It's good for the body!
 
 
 //ビースチャンの女性が　一生に産む\n子供の数って　この少子時代に\n平均して
-<$06>They say Beastian women give birth to an\n
+They say Beastian women give birth to an\n
 average of＿
-
+<$06>
 //5.8
 5.8
-
+<$04>
 //人∥
 ＿children in their lifetime.
 <$12>
@@ -341,7 +341,7 @@ higher.
 
 
 //人間様の病院の敷地内に　犬の保健所が\nあるなんて…　いくら何でも\n不衛生きわまりないと　思うんだよね
-<$06>A dog vet on the premisis of a human\n
+A dog vet on the premisis of a human\n
 hospital? Tell me that's not unsanitary!
 <$12>
 \n
@@ -363,7 +363,7 @@ It won't be me!
 
 
 //また、猟犬の墓が　建ったね…
-<$06>Another dog grave to go with the litter.\n
+Another dog grave to go with the litter.\n
 After a while, you start to wonder, "What\n
 happened to this one?"
 <$12>
@@ -381,7 +381,7 @@ battle to save his own skin?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //歯はガタガタになるし　シワも増えるし\n白髪だらけになるし　子供を７人も\n産むと　ろくなことはないよ
 You'd think with my rattly teeth, and wrinkly\n
 wrinkles, that having 7 kids is a bad idea...
@@ -399,7 +399,7 @@ it all seems so worth it.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //こんにちは！\nこの花、きれいでしょ？
 Good afternoon!\n
 Tell me, is this flower "pretty"?
@@ -411,7 +411,7 @@ Tell me, is this flower "pretty"?
 
 
 //\n
-<$06>\n
+\n
 <$01>
 //きれいですね
 It is
@@ -429,7 +429,7 @@ You're prettier!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //あら………■
 Oh, my!■
 <$00>
@@ -439,7 +439,7 @@ Oh, my!■
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //お父様の作った　成長促進剤を\n使えば　種をまいてから\n三日で　花が咲くんですよ
 My father's special growth supplement helps\n
 seeds bloom in only 3 days.
@@ -451,7 +451,7 @@ seeds bloom in only 3 days.
 
 
 //フローラ博士が造った「満腹バナナ」！\n土地や気候を　選ばないし\n春夏秋冬、実をつけ続ける！
-<$06>Regardless of climate, Dr. Flora's patented\n
+Regardless of climate, Dr. Flora's patented\n
 Buffet Banana grows all year long!
 <$12>
 \n
@@ -468,7 +468,7 @@ history!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //あんたたちは　大丈夫でしょうね￠
 You'll get along just fine, won't you?
 <$12>
@@ -480,7 +480,7 @@ You'll get along just fine, won't you?
 
 
 //フローラ博士って　動物と植物の\nいい所だけを　合わせた新しい生物を\n造るのが　夢なんだって∥
-<$06>Dr. Flora's dream is to create a new species\n
+Dr. Flora's dream is to create a new species\n
 that combines only good plant and animal\n
 traits.
 <$12>
@@ -488,10 +488,10 @@ traits.
 <CLEAR>
 //光と水だけで　
 For example, a species that'll last＿
-
+<$06>
 //500
 500
-
+<$04>
 //年くらい\n生きられるように　なるのかなぁ
 ＿years on light and water alone.
 <$12>
@@ -509,7 +509,7 @@ surprisingly boring goal.
 
 
 //ホスピコの名物と言えば　サチコさん！\nどんなわがままな　男の患者も、彼女が\n頼めば「Ｙｅｓ」しか　言えなくなる
-<$06>Everyone loves Sachiko. If she ever asks for\n
+Everyone loves Sachiko. If she ever asks for\n
 anything, men can't help but say "yes"!
 <$12>
 \n
@@ -522,10 +522,10 @@ with kids, you know! And every season...
 <CLEAR>
 //本人は何も言わないけど　季節ごとに\nこの病院に
 ...while he never announces it, he donates＿
-
+<$06>
 //100
 1,000,000
-
+<$04>
 //万￥も　寄付してるんだよ\n最高だよ！　ネクちゃんは！
 ￥ to the hospital! I just LOVE him!
 <$12>
@@ -537,7 +537,7 @@ with kids, you know! And every season...
 
 
 //ギャルの下着なんか　盗んで\n悦に入ってるようじゃ　まだまだよ
-<$06>Panty-snatching is just the tip of the\n
+Panty-snatching is just the tip of the\n
 iceburg for those of my craft.
 <$12>
 \n
@@ -555,7 +555,7 @@ maternity belt!
 
 
 //ケン、足のほうは\nその後　どうだい？
-<$06>How do you like being back on your feet, Ken?
+How do you like being back on your feet, Ken?
 <$12>
 <$00>
 
@@ -564,7 +564,7 @@ maternity belt!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //母さんは昔、ここで働いてたんだ\nこれでも　ちょっとは名の知れた\n売れっコの　助産婦でね
 My mom was quite well-known when she used to\n
 work here as a successful midwife..
@@ -585,7 +585,7 @@ life story.
 
 #WRITE(PTR, $001E)
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -600,7 +600,7 @@ It smells strongly of antiseptic here.
 
 
 //……東
-<$06>...East
+...East
 <$00>
 
 
@@ -609,7 +609,7 @@ It smells strongly of antiseptic here.
 
 
 //……西
-<$06>...West
+...West
 <$00>
 
 
@@ -618,7 +618,7 @@ It smells strongly of antiseptic here.
 
 
 //……南
-<$06>...South
+...South
 <$00>
 
 
@@ -627,7 +627,7 @@ It smells strongly of antiseptic here.
 
 
 //……北
-<$06>...North
+...North
 <$00>
 
 
@@ -636,7 +636,7 @@ It smells strongly of antiseptic here.
 
 
 //…北東
-<$06>...North-east
+...North-east
 <$00>
 
 
@@ -645,7 +645,7 @@ It smells strongly of antiseptic here.
 
 
 //…北西
-<$06>...North-west
+...North-west
 <$00>
 
 
@@ -654,7 +654,7 @@ It smells strongly of antiseptic here.
 
 
 //…南東
-<$06>...South-east
+...South-east
 <$00>
 
 
@@ -663,7 +663,7 @@ It smells strongly of antiseptic here.
 
 
 //…南西
-<$06>...South-west
+...South-west
 <$00>
 
 
@@ -671,7 +671,7 @@ It smells strongly of antiseptic here.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -683,7 +683,7 @@ It smells strongly of antiseptic here.
 
 
 //、…
-<$06>! That's where we'll find a＿
+! That's where we'll find a＿
 <$1D>
 //に行けば
 .
@@ -695,7 +695,7 @@ It smells strongly of antiseptic here.
 
 
 //直進
-<$06>For
+For
 <$00>
 
 
@@ -704,7 +704,7 @@ It smells strongly of antiseptic here.
 
 
 //右よ
-<$06>Right
+Right
 <$00>
 
 
@@ -713,7 +713,7 @@ It smells strongly of antiseptic here.
 
 
 //左よ
-<$06>Left
+Left
 <$00>
 
 
@@ -722,7 +722,7 @@ It smells strongly of antiseptic here.
 
 
 //後ろ
-<$06>Back
+Back
 <$00>
 
 
@@ -730,7 +730,7 @@ It smells strongly of antiseptic here.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -742,7 +742,7 @@ It smells strongly of antiseptic here.
 
 
 //、絶対に
-<$06>wards, got it? I'm sure we'll find a＿
+wards, got it? I'm sure we'll find a＿
 <$1D>
 //∥
 ＿there!
@@ -753,7 +753,7 @@ It smells strongly of antiseptic here.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -768,7 +768,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…ごめんね、\n今日は　勘がはたらかないわ…
 ...Sorry. I don't have it in me today.
 <$12>
@@ -780,7 +780,7 @@ SLinda used her woman's intuition...
 
 
 //運命の
-<$06>Fated＿
+Fated＿
 <$00>
 
 
@@ -789,7 +789,7 @@ SLinda used her woman's intuition...
 
 
 //新しい
-<$06>New＿
+New＿
 <$00>
 
 
@@ -798,7 +798,7 @@ SLinda used her woman's intuition...
 
 
 //素敵な
-<$06>Great＿
+Great＿
 <$00>
 
 
@@ -807,7 +807,7 @@ SLinda used her woman's intuition...
 
 
 //未知の
-<$06>Unknown＿
+Unknown＿
 <$00>
 
 
@@ -816,7 +816,7 @@ SLinda used her woman's intuition...
 
 
 //何か
-<$06>things＿
+things＿
 <$00>
 
 
@@ -825,7 +825,7 @@ SLinda used her woman's intuition...
 
 
 //発見
-<$06>discoveries＿
+discoveries＿
 <$00>
 
 
@@ -834,7 +834,7 @@ SLinda used her woman's intuition...
 
 
 //お宝
-<$06>treasures＿
+treasures＿
 <$00>
 
 
@@ -843,7 +843,7 @@ SLinda used her woman's intuition...
 
 
 //動物
-<$06>animals＿
+animals＿
 <$00>
 
 
@@ -852,7 +852,7 @@ SLinda used her woman's intuition...
 
 
 //に　出会える…
-<$06>could appear.
+could appear.
 <$00>
 
 
@@ -861,7 +861,7 @@ SLinda used her woman's intuition...
 
 
 //が　待ってる…
-<$06>await us...
+await us...
 <$00>
 
 
@@ -870,7 +870,7 @@ SLinda used her woman's intuition...
 
 
 //気がするわ∥
-<$06>are there.
+are there.
 <$00>
 
 
@@ -879,7 +879,7 @@ SLinda used her woman's intuition...
 
 
 //チャンスよ∥
-<$06>are in our grasp!
+are in our grasp!
 <$00>
 
 
@@ -888,7 +888,7 @@ SLinda used her woman's intuition...
 
 
 //今しかないわ
-<$06>could slip through our fingers!
+could slip through our fingers!
 <$00>
 
 
@@ -897,7 +897,7 @@ SLinda used her woman's intuition...
 
 
 //間違いなし∥
-<$06>are dead head!
+are dead head!
 <$00>
 
 
@@ -906,7 +906,7 @@ SLinda used her woman's intuition...
 
 
 //\n
-<$06>\n
+\n
 <$1D><$1D><$1D>
 //\n
 \n
@@ -921,7 +921,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信があるの∥
 I'm sure of it!
 <$12>
@@ -932,7 +932,7 @@ I'm sure of it!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信は　ないけどね…
 Although, I'm not totally certain...
 <$12>
@@ -943,7 +943,7 @@ Although, I'm not totally certain...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //絶対なんだから∥
 I'm absolutely certain!
 <$12>
@@ -955,7 +955,7 @@ I'm absolutely certain!
 
 
 //
-<$06><$15>
+<$15>
 //Yスケジュール
 YMemo＿
 <$00>
@@ -965,7 +965,7 @@ YMemo＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //スケジュールは何もありません
 There is nothing on schedule.
 <$12>
@@ -977,7 +977,7 @@ There is nothing on schedule.
 
 
 //成功終了
-<$06>Completed!
+Completed!
 <$00>
 
 
@@ -986,7 +986,7 @@ There is nothing on schedule.
 
 
 //期限切れ
-<$06>Expired!
+Expired!
 <$00>
 
 
@@ -995,7 +995,7 @@ There is nothing on schedule.
 
 
 //あと
-<$06>In＿
+In＿
 <$1E>
 //季節
 ＿seasons
@@ -1007,7 +1007,7 @@ There is nothing on schedule.
 
 
 //あと
-<$06>Deadline:＿
+Deadline:＿
 <$1E>
 //年
 Y/
@@ -1022,7 +1022,7 @@ S
 
 
 //あと
-<$06>In＿
+In＿
 <$1E>
 //年
 ＿years
@@ -1033,7 +1033,7 @@ S
 
 
 
-<$06><$16><$01>
+<$16><$01>
 //◇
 ◇
 <$0E><$1D><$02>
@@ -1047,7 +1047,7 @@ S
 
 
 //ファングを倒す
-<$06>Slay Fang
+Slay Fang
 <$00>
 
 
@@ -1056,7 +1056,7 @@ S
 
 
 //パンハイムからの依頼
-<$06>Assist Panheim
+Assist Panheim
 <$00>
 
 
@@ -1066,7 +1066,7 @@ S
 
 //<$1B>
 //カメの卵を手に入れる
-<$06>Snatch Turtle Eggs
+Snatch Turtle Eggs
 <$00>
 
 
@@ -1076,7 +1076,7 @@ S
 
 //<$1B>
 //プテラノの卵を手に入れる
-<$06>Snatch Pteranodon Eggs
+Snatch Pteranodon Eggs
 <$00>
 
 
@@ -1085,7 +1085,7 @@ S
 
 
 //遺産争いにケリをつける
-<$06>End the inheritance battle
+End the inheritance battle
 <$00>
 
 
@@ -1094,7 +1094,7 @@ S
 
 
 //ヤマダのために一肌脱ぐ
-<$06>Unload for Yamada
+Unload for Yamada
 <$00>
 
 
@@ -1103,7 +1103,7 @@ S
 
 
 //町のシンボルを見つけだす
-<$06>Find the village symbol
+Find the village symbol
 <$00>
 
 
@@ -1112,7 +1112,7 @@ S
 
 
 //ソフィアからの依頼
-<$06>Assist Sophia
+Assist Sophia
 <$00>
 
 
@@ -1121,7 +1121,7 @@ S
 
 
 //サチコ救出
-<$06>Rescue Sachiko
+Rescue Sachiko
 <$00>
 
 
@@ -1130,7 +1130,7 @@ S
 
 
 //ポロポロちゃんを助ける
-<$06>Save Nightshade
+Save Nightshade
 <$00>
 
 
@@ -1139,7 +1139,7 @@ S
 
 
 //アンジェラ捜し
-<$06>Find Angela
+Find Angela
 <$00>
 
 
@@ -1147,7 +1147,7 @@ S
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //カラゴラムのファングを倒し、その証拠を\nハーディアホテルのスペクターに渡す
 Defeat Fang in Karhagolem. Present proof to\n
 Spectre in Hardia Hotel.
@@ -1158,7 +1158,7 @@ Spectre in Hardia Hotel.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //マーブルポリスの
 Process meat from＿
 //<$1B>
@@ -1172,7 +1172,7 @@ Panheim in Hospico.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 Find up to 3＿
 //<$1B>
@@ -1186,7 +1186,7 @@ Park BB Ranch.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 Acquire 2＿
 //<$1B>
@@ -1200,7 +1200,7 @@ Battle Park BB Ranch.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「太郎の首輪」を見つけだし、ドギファの\nナターシャか、オーマン家３兄弟に渡す
 Locate Taro's Collar. Give it to Natasha or\n
 one of the 3 Aumann children in Dogyf\n
@@ -1213,7 +1213,7 @@ Heights.
 
 
 //６万
-<$06>60, 000
+60, 000
 <$00>
 
 
@@ -1222,10 +1222,10 @@ Heights.
 
 
 //あと
-<$06>another＿
-<$1E><$0F>
+another＿
+<$06><$1E><$0F>
 //000
-
+<$04>
 <$00>
 
 
@@ -1233,7 +1233,7 @@ Heights.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //Ｇファクトリーのヤマダのために\n
 Deposit＿
 <$1D>
@@ -1246,7 +1246,7 @@ Deposit＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //コシカタのシンボル「
 Find the＿
 //<$1B>
@@ -1260,7 +1260,7 @@ Return it to Poliska.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ソフィアのために、エターナの桜の木を\nどうにかして咲かせる
 Find out how to revive the sakura trees in\n
 Eterna for Sophia.
@@ -1271,7 +1271,7 @@ Eterna for Sophia.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //溶岩の中で育った動物の熱いウンチを\nエターナのソフィアに渡す
 Deliver Hot Dung from a lava-dwelling\n
 creature to Sophia in Eterna.
@@ -1282,7 +1282,7 @@ creature to Sophia in Eterna.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ラグナロッジのエモリに会いに行く
 Meet with Dr. Emori in Ragna Rim.
 <$00>
@@ -1292,13 +1292,13 @@ Meet with Dr. Emori in Ragna Rim.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「フロッピーと
 Take the Floppy Disc and＿
-
+<$06>
 //10
 10, 000
-
+<$04>
 //万￥」を持って、\nＧファクトリー入口１階、\n公衆電話の前に行く
 ￥ to the G Factory gate. Answer the payphone.
 <$00>
@@ -1308,13 +1308,13 @@ Take the Floppy Disc and＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「フロッピーと
 Take the Floppy Disc and＿
-
+<$06>
 //10
 10, 000
-
+<$04>
 //万￥」を持って、\nパラサイド入口１階、\n公衆電話の前に行く
 ￥ to the Paraside gate. Answer the payphone.
 <$00>
@@ -1324,13 +1324,13 @@ Take the Floppy Disc and＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「フロッピーと
 Take the Floppy Disc and＿
-
+<$06>
 //10
 10, 000
-
+<$04>
 //万￥」を持って、\nガレックスに行く
 ￥ to Galax.
 <$00>
@@ -1340,7 +1340,7 @@ Take the Floppy Disc and＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す
 Pick bloodberries in Flora Jam. Take them to\n
 Kevin and Nightshade in Rose Garden.
@@ -1351,7 +1351,7 @@ Kevin and Nightshade in Rose Garden.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //パラサイドの酒場にいるアンジェラを\n確認して、リナバレーのマリオに連絡する
 Look for Angela at the Paraside bar. Report\n
 your findings to Mario in Spurr Valley.
@@ -1362,7 +1362,7 @@ your findings to Mario in Spurr Valley.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //アンジェラを確認するために、\nオズポートホテルの酒場に行く
 Look for Angela at the OzPort Hotel bar.
 <$00>
@@ -1372,7 +1372,7 @@ Look for Angela at the OzPort Hotel bar.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //アンジェラを確認するために、\n西エリアのしけた町のホテルに行く
 Look for Angela at a hotel bar somewhere in\n
 West Area.
@@ -1383,7 +1383,7 @@ West Area.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //アンジェラを確認するために、\nドギファの舞台に行く
 Look for Angela at the theater stage in Dogyf\n
 Heights.
@@ -1394,7 +1394,7 @@ Heights.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リナバレーのマリオの母、\nアンジェラを追ってオズサットへ行く
 Chase Angela to OzSat! Mario will follow from\n
 Spurr Valley.

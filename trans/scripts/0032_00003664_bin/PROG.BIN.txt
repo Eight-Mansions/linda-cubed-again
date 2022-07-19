@@ -228,7 +228,7 @@ mf108.obj
 
 #WRITE(PTR, $0052)
 //動物登録室
-<$06>Animal Registry＿
+Animal Registry＿
 <$00>
 
 
@@ -236,7 +236,7 @@ mf108.obj
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -252,7 +252,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -269,7 +269,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -286,7 +286,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -297,7 +297,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -308,7 +308,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -320,7 +320,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 //箱船ノ　全システム　ハ\n新シイ　アルジ　ノ　命令ヲ\n待ッテイマス
-<$06>ALL ASTRO ARK SYSTEMS AWAIT ORDERS FROM THE\n
+ALL ASTRO ARK SYSTEMS AWAIT ORDERS FROM THE\n
 PATRIARCH.
 <$12>
 <$00>
@@ -330,7 +330,7 @@ PATRIARCH.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物ヲ登録シテクダサイ\n
 FILE AN ANIMAL?\n
 <$01>
@@ -350,7 +350,7 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //スベテノ　動物ノ\n乗船ヲ　確認シマシタ\n箱船ヲ　発進サセテクダサイ
 ONCE ALL ANIMALS HAVE BOARDED THE ASTRO ARK,\n
 THE TIME WILL COME TO LEAVE NEO KENYA.
@@ -362,7 +362,7 @@ THE TIME WILL COME TO LEAVE NEO KENYA.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //未登録ノ動物ガ　確認デキマセン
 UNFILED ANIMALS NOT DETECTED.
 <$12>
@@ -373,7 +373,7 @@ UNFILED ANIMALS NOT DETECTED.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //登録シタ動物ヲ　確認シマスカ？\n
 REVIEW FILED ANIMALS?\n
 <$01>
@@ -394,7 +394,7 @@ No
 
 
 //コノ部屋ノ装置ハ　箱船ノ乗員ニノミ\n反応シ　使用可能トナリマス
-<$06>EQUIPMENT IN THIS ROOM CAN ONLY BE USED BY\n
+EQUIPMENT IN THIS ROOM CAN ONLY BE USED BY\n
 REGISTERED ASTRO ARK PILOTS.
 <$12>
 <$00>
@@ -405,7 +405,7 @@ REGISTERED ASTRO ARK PILOTS.
 
 
 //保護シタ動物ハ　コノ部屋マデ\n運ンデクダサイ
-<$06>ANIMALS ARE HOUSED IN THESE ROOMS FOR\n
+ANIMALS ARE HOUSED IN THESE ROOMS FOR\n
 SAFEKEEPING.
 <$12>
 \n
@@ -423,7 +423,7 @@ CAPSULE.
 
 
 //動物保護目標＿
-<$06>ANIMAL RESCUE GOAL:
+ANIMAL RESCUE GOAL:
 <$1E>
 //35種＿
 35＿/＿
@@ -452,7 +452,7 @@ NOT CAPTURED＿
 
 
 //人類男性１名ノ　乗船ヲ希望シマス\n乗員ノ登録ハ　隣リノ部屋デ受付中
-<$06>NOW SEEKING ONE MALE PILOT TO REGISTER ON THE\n
+NOW SEEKING ONE MALE PILOT TO REGISTER ON THE\n
 ASTRO ARK.
 <$12>
 <$00>
@@ -463,7 +463,7 @@ ASTRO ARK.
 
 
 //動物ヲ登録スルタビニ　乗員ノ肉体ハ\nソノ能力ニ　覚セイシマス
-<$06>THE MORE ANIMALS YOU FILE ON YOUR JOURNEY,\n
+THE MORE ANIMALS YOU FILE ON YOUR JOURNEY,\n
 THE MORE YOUR CREW WILL AWAKEN TO THEIR\n
 ABILITIES.
 <$12>
@@ -511,7 +511,7 @@ GIVE IT DUE TIME AND YOU TOO WILL UNDERSTAND.
 
 
 
-<$06><$15>
+<$15>
 //S♂
 S♂
 <$00>
@@ -521,7 +521,7 @@ S♂
 
 
 
-<$06><$15>
+<$15>
 //Y♀
 Y♀
 <$00>
@@ -533,7 +533,7 @@ Y♀
 
 #WRITE(PTR, $0054)
 //
-<$06><$15>
+<$15>
 //Y動物登録
 YAnimal Registry
 <$00>
@@ -543,7 +543,7 @@ YAnimal Registry
 
 
 
-<$06><$1D>
+<$1D>
 //は　「
 ＿'s body absorbed\n
 the＿
@@ -562,7 +562,7 @@ Learned＿
 
 
 
-<$06><$1D>
+<$1D>
 //の中の　
 's inner＿
 <$1D>
@@ -583,47 +583,47 @@ Learned＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1D>
 //の　最大
 : Max＿
-
+<$06>
 //HP
 HP:
 <$1E>
 //@
 @
-
+<$04>
 //\n攻撃力
 \n
 ATK:
-<$1E>
+<$06><$1E>
 //@ 
 @
-
+<$04>
 //守備力
 DEF:
-<$1E>
+<$06><$1E>
 //@
 @
-
+<$04>
 //\n素早さ
 \n
 SPD:
-<$1E>
+<$06><$1E>
 //@ 
 @
-
+<$04>
 //最大
 Max＿
-
+<$06>
 //BP
 BP:
 <$1E>
 //@
 @
-<$12>
+<$04><$12>
 <$00>
 
 
@@ -632,7 +632,7 @@ BP:
 
 
 //オス
-<$06>♂
+♂
 <$00>
 
 
@@ -641,7 +641,7 @@ BP:
 
 
 //メス
-<$06>♀
+♀
 <$00>
 
 
@@ -656,29 +656,29 @@ M%03dF.OBJ
 
 
 //名称：
-<$06>Name:＿
+Name:＿
 <$1D><$02>
 //120
 <$1D>
 //\n
 \n
-
+<$06>
 //LV
 LV
 <$1E>
 //34
 34
-
+<$06>
 // HP
 HP
 <$1E>
 //35
-
+<$06>
 // BP
 BP
 <$1E>
 //35\n
-
+<$04>
 //攻撃力
 ATK:
 <$1E>
@@ -698,7 +698,7 @@ ATK:
 
 
 //名称：
-<$06>Name:＿
+Name:＿
 <$1D><$02>
 //120
 <$1D><$12>
@@ -710,7 +710,7 @@ ATK:
 
 
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -725,7 +725,7 @@ None of the scents around here stand out.
 
 
 //……東
-<$06>...East
+...East
 <$00>
 
 
@@ -734,7 +734,7 @@ None of the scents around here stand out.
 
 
 //……西
-<$06>...West
+...West
 <$00>
 
 
@@ -743,7 +743,7 @@ None of the scents around here stand out.
 
 
 //……南
-<$06>...South
+...South
 <$00>
 
 
@@ -752,7 +752,7 @@ None of the scents around here stand out.
 
 
 //……北
-<$06>...North
+...North
 <$00>
 
 
@@ -761,7 +761,7 @@ None of the scents around here stand out.
 
 
 //…北東
-<$06>...North-east
+...North-east
 <$00>
 
 
@@ -770,7 +770,7 @@ None of the scents around here stand out.
 
 
 //…北西
-<$06>...North-west
+...North-west
 <$00>
 
 
@@ -779,7 +779,7 @@ None of the scents around here stand out.
 
 
 //…南東
-<$06>...South-east
+...South-east
 <$00>
 
 
@@ -788,7 +788,7 @@ None of the scents around here stand out.
 
 
 //…南西
-<$06>...South-west
+...South-west
 <$00>
 
 
@@ -796,7 +796,7 @@ None of the scents around here stand out.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -808,7 +808,7 @@ None of the scents around here stand out.
 
 
 //、…
-<$06>! That's where we'll find a＿
+! That's where we'll find a＿
 <$1D>
 //に行けば
 .
@@ -820,7 +820,7 @@ None of the scents around here stand out.
 
 
 //直進
-<$06>For
+For
 <$00>
 
 
@@ -829,7 +829,7 @@ None of the scents around here stand out.
 
 
 //右よ
-<$06>Right
+Right
 <$00>
 
 
@@ -838,7 +838,7 @@ None of the scents around here stand out.
 
 
 //左よ
-<$06>Left
+Left
 <$00>
 
 
@@ -847,7 +847,7 @@ None of the scents around here stand out.
 
 
 //後ろ
-<$06>Back
+Back
 <$00>
 
 
@@ -855,7 +855,7 @@ None of the scents around here stand out.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -867,7 +867,7 @@ None of the scents around here stand out.
 
 
 //、絶対に
-<$06>wards, got it? I'm sure we'll find a＿
+wards, got it? I'm sure we'll find a＿
 <$1D>
 //∥
 ＿there!
@@ -878,7 +878,7 @@ None of the scents around here stand out.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -893,7 +893,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…ごめんね、\n今日は　勘がはたらかないわ…
 ...Sorry. I don't have it in me today.
 <$12>
@@ -905,7 +905,7 @@ SLinda used her woman's intuition...
 
 
 //運命の
-<$06>Fated＿
+Fated＿
 <$00>
 
 
@@ -914,7 +914,7 @@ SLinda used her woman's intuition...
 
 
 //新しい
-<$06>New＿
+New＿
 <$00>
 
 
@@ -923,7 +923,7 @@ SLinda used her woman's intuition...
 
 
 //素敵な
-<$06>Great＿
+Great＿
 <$00>
 
 
@@ -932,7 +932,7 @@ SLinda used her woman's intuition...
 
 
 //未知の
-<$06>Unknown＿
+Unknown＿
 <$00>
 
 
@@ -941,7 +941,7 @@ SLinda used her woman's intuition...
 
 
 //何か
-<$06>things＿
+things＿
 <$00>
 
 
@@ -950,7 +950,7 @@ SLinda used her woman's intuition...
 
 
 //発見
-<$06>discoveries＿
+discoveries＿
 <$00>
 
 
@@ -959,7 +959,7 @@ SLinda used her woman's intuition...
 
 
 //お宝
-<$06>treasures＿
+treasures＿
 <$00>
 
 
@@ -968,7 +968,7 @@ SLinda used her woman's intuition...
 
 
 //動物
-<$06>animals＿
+animals＿
 <$00>
 
 
@@ -977,7 +977,7 @@ SLinda used her woman's intuition...
 
 
 //に　出会える…
-<$06>could appear.
+could appear.
 <$00>
 
 
@@ -986,7 +986,7 @@ SLinda used her woman's intuition...
 
 
 //が　待ってる…
-<$06>await us...
+await us...
 <$00>
 
 
@@ -995,7 +995,7 @@ SLinda used her woman's intuition...
 
 
 //気がするわ∥
-<$06>are there.
+are there.
 <$00>
 
 
@@ -1004,7 +1004,7 @@ SLinda used her woman's intuition...
 
 
 //チャンスよ∥
-<$06>are in our grasp!
+are in our grasp!
 <$00>
 
 
@@ -1013,7 +1013,7 @@ SLinda used her woman's intuition...
 
 
 //今しかないわ
-<$06>could slip through our fingers!
+could slip through our fingers!
 <$00>
 
 
@@ -1022,7 +1022,7 @@ SLinda used her woman's intuition...
 
 
 //間違いなし∥
-<$06>are dead head!
+are dead head!
 <$00>
 
 
@@ -1031,7 +1031,7 @@ SLinda used her woman's intuition...
 
 
 //\n
-<$06>\n
+\n
 <$1D><$1D><$1D>
 //\n
 \n
@@ -1046,7 +1046,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信があるの∥
 I'm sure of it!
 <$12>
@@ -1057,7 +1057,7 @@ I'm sure of it!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信は　ないけどね…
 Although, I'm not totally certain...
 <$12>
@@ -1068,7 +1068,7 @@ Although, I'm not totally certain...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //絶対なんだから∥
 I'm absolutely certain!
 <$12>
@@ -1082,7 +1082,7 @@ I'm absolutely certain!
 #WRITE(PTR, $0056)
 #WRITE(PTR, $0058)
 //第８動物収容室
-<$06>Containment Rm. 8＿
+Containment Rm. 8＿
 <$00>
 
 
@@ -1090,7 +1090,7 @@ I'm absolutely certain!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -1106,7 +1106,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -1123,7 +1123,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -1140,7 +1140,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -1151,7 +1151,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -1162,7 +1162,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -1175,7 +1175,7 @@ The Navi System(NaviS) can't be booted here!
 
 #WRITE(PTR, $005A)
 //第７動物収容室
-<$06>Containment Rm. 7＿
+Containment Rm. 7＿
 <$00>
 
 
@@ -1183,7 +1183,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -1199,7 +1199,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -1216,7 +1216,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -1233,7 +1233,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -1244,7 +1244,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -1255,7 +1255,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -1268,7 +1268,7 @@ The Navi System(NaviS) can't be booted here!
 
 #WRITE(PTR, $005C)
 //第６動物収容室
-<$06>Containment Rm. 6＿
+Containment Rm. 6＿
 <$00>
 
 
@@ -1276,7 +1276,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -1292,7 +1292,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -1309,7 +1309,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -1326,7 +1326,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -1337,7 +1337,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -1348,7 +1348,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -1361,7 +1361,7 @@ The Navi System(NaviS) can't be booted here!
 
 #WRITE(PTR, $005E)
 //第５動物収容室
-<$06>Containment Rm. 5＿
+Containment Rm. 5＿
 <$00>
 
 
@@ -1369,7 +1369,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -1385,7 +1385,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -1402,7 +1402,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -1419,7 +1419,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -1430,7 +1430,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -1441,7 +1441,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -1454,7 +1454,7 @@ The Navi System(NaviS) can't be booted here!
 
 #WRITE(PTR, $0060)
 //第４動物収容室
-<$06>Containment Rm. 4＿
+Containment Rm. 4＿
 <$00>
 
 
@@ -1462,7 +1462,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -1478,7 +1478,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -1495,7 +1495,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -1512,7 +1512,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -1523,7 +1523,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -1534,7 +1534,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -1547,7 +1547,7 @@ The Navi System(NaviS) can't be booted here!
 
 #WRITE(PTR, $0062)
 //第３動物収容室
-<$06>Containment Rm. 3＿
+Containment Rm. 3＿
 <$00>
 
 
@@ -1555,7 +1555,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -1571,7 +1571,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -1588,7 +1588,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -1605,7 +1605,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -1616,7 +1616,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -1627,7 +1627,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -1640,7 +1640,7 @@ The Navi System(NaviS) can't be booted here!
 
 #WRITE(PTR, $0064)
 //第２動物収容室
-<$06>Containment Rm. 2＿
+Containment Rm. 2＿
 <$00>
 
 
@@ -1648,7 +1648,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -1664,7 +1664,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -1681,7 +1681,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -1698,7 +1698,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -1709,7 +1709,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -1720,7 +1720,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -1733,7 +1733,7 @@ The Navi System(NaviS) can't be booted here!
 
 #WRITE(PTR, $0066)
 //第１動物収容室
-<$06>Containment Rm. 1＿
+Containment Rm. 1＿
 <$00>
 
 
@@ -1741,7 +1741,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -1757,7 +1757,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -1774,7 +1774,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -1791,7 +1791,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -1802,7 +1802,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -1813,7 +1813,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -1826,11 +1826,11 @@ The Navi System(NaviS) can't be booted here!
 
 #WRITE(PTR, $0068)
 //第
-<$06>Containment Rm.＿
-
+Containment Rm.＿
+<$06>
 //14
 14
-
+<$04>
 //動物収容室
 ＿
 <$00>
@@ -1840,7 +1840,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -1856,7 +1856,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -1873,7 +1873,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -1890,7 +1890,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -1901,7 +1901,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -1912,7 +1912,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -1925,11 +1925,11 @@ The Navi System(NaviS) can't be booted here!
 
 #WRITE(PTR, $006A)
 //第
-<$06>Containment Rm.＿
-
+Containment Rm.＿
+<$06>
 //13
 13
-
+<$04>
 //動物収容室
 ＿
 <$00>
@@ -1939,7 +1939,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -1955,7 +1955,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -1972,7 +1972,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -1989,7 +1989,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -2000,7 +2000,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -2011,7 +2011,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -2024,11 +2024,11 @@ The Navi System(NaviS) can't be booted here!
 
 #WRITE(PTR, $006C)
 //第
-<$06>Containment Rm.＿
-
+Containment Rm.＿
+<$06>
 //12
 12
-
+<$04>
 //動物収容室
 ＿
 <$00>
@@ -2038,7 +2038,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -2054,7 +2054,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -2071,7 +2071,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -2088,7 +2088,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -2099,7 +2099,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -2110,7 +2110,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -2123,11 +2123,11 @@ The Navi System(NaviS) can't be booted here!
 
 #WRITE(PTR, $006E)
 //第
-<$06>Containment Rm.＿
-
+Containment Rm.＿
+<$06>
 //11
 11
-
+<$04>
 //動物収容室
 ＿
 <$00>
@@ -2137,7 +2137,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -2153,7 +2153,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -2170,7 +2170,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -2187,7 +2187,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -2198,7 +2198,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -2209,7 +2209,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -2222,11 +2222,11 @@ The Navi System(NaviS) can't be booted here!
 
 #WRITE(PTR, $0070)
 //第
-<$06>Containment Rm.＿
-
+Containment Rm.＿
+<$06>
 //10
 10
-
+<$04>
 //動物収容室
 ＿
 <$00>
@@ -2236,7 +2236,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -2252,7 +2252,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -2269,7 +2269,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -2286,7 +2286,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -2297,7 +2297,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -2308,7 +2308,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -2321,7 +2321,7 @@ The Navi System(NaviS) can't be booted here!
 
 #WRITE(PTR, $0072)
 //第９動物収容室
-<$06>Containment Rm.＿
+Containment Rm.＿
 <$00>
 
 
@@ -2329,7 +2329,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -2345,7 +2345,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -2362,7 +2362,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -2379,7 +2379,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -2390,7 +2390,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -2401,7 +2401,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -2414,11 +2414,11 @@ The Navi System(NaviS) can't be booted here!
 
 #WRITE(PTR, $0074)
 //第
-<$06>Containment Rm.＿
-
+Containment Rm.＿
+<$06>
 //20
 20
-
+<$04>
 //動物収容室
 ＿
 <$00>
@@ -2428,7 +2428,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -2444,7 +2444,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -2461,7 +2461,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -2478,7 +2478,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -2489,7 +2489,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -2500,7 +2500,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -2513,11 +2513,11 @@ The Navi System(NaviS) can't be booted here!
 
 #WRITE(PTR, $0076)
 //第
-<$06>Containment Rm.＿
-
+Containment Rm.＿
+<$06>
 //19
 19
-
+<$04>
 //動物収容室
 ＿
 <$00>
@@ -2527,7 +2527,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -2543,7 +2543,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -2560,7 +2560,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -2577,7 +2577,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -2588,7 +2588,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -2599,7 +2599,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -2612,11 +2612,11 @@ The Navi System(NaviS) can't be booted here!
 
 #WRITE(PTR, $0078)
 //第
-<$06>Containment Rm.＿
-
+Containment Rm.＿
+<$06>
 //18
 18
-
+<$04>
 //動物収容室
 ＿
 <$00>
@@ -2626,7 +2626,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -2642,7 +2642,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -2659,7 +2659,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -2676,7 +2676,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -2687,7 +2687,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -2698,7 +2698,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -2711,11 +2711,11 @@ The Navi System(NaviS) can't be booted here!
 
 #WRITE(PTR, $007A)
 //第
-<$06>Containment Rm.＿
-
+Containment Rm.＿
+<$06>
 //17
 17
-
+<$04>
 //動物収容室
 ＿
 <$00>
@@ -2725,7 +2725,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -2741,7 +2741,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -2758,7 +2758,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -2775,7 +2775,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -2786,7 +2786,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -2797,7 +2797,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -2810,11 +2810,11 @@ The Navi System(NaviS) can't be booted here!
 
 #WRITE(PTR, $007C)
 //第
-<$06>Containment Rm.＿
-
+Containment Rm.＿
+<$06>
 //16
 16
-
+<$04>
 //動物収容室
 ＿
 <$00>
@@ -2824,7 +2824,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -2840,7 +2840,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -2857,7 +2857,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -2874,7 +2874,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -2885,7 +2885,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -2896,7 +2896,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -2909,11 +2909,11 @@ The Navi System(NaviS) can't be booted here!
 
 #WRITE(PTR, $007E)
 //第
-<$06>Containment Rm.＿
-
+Containment Rm.＿
+<$06>
 //15
 15
-
+<$04>
 //動物収容室
 ＿
 <$00>
@@ -2923,7 +2923,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -2939,7 +2939,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -2956,7 +2956,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -2973,7 +2973,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -2984,7 +2984,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -2995,7 +2995,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -3008,11 +3008,11 @@ The Navi System(NaviS) can't be booted here!
 
 #WRITE(PTR, $0080)
 //第
-<$06>Containment Rm.＿
-
+Containment Rm.＿
+<$06>
 //26
 26
-
+<$04>
 //動物収容室
 ＿
 <$00>
@@ -3022,7 +3022,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -3038,7 +3038,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -3055,7 +3055,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -3072,7 +3072,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -3083,7 +3083,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -3094,7 +3094,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -3107,11 +3107,11 @@ The Navi System(NaviS) can't be booted here!
 
 #WRITE(PTR, $0082)
 //第
-<$06>Containment Rm.＿
-
+Containment Rm.＿
+<$06>
 //25
 25
-
+<$04>
 //動物収容室
 ＿
 <$00>
@@ -3121,7 +3121,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -3137,7 +3137,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -3154,7 +3154,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -3171,7 +3171,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -3182,7 +3182,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -3193,7 +3193,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -3206,11 +3206,11 @@ The Navi System(NaviS) can't be booted here!
 
 #WRITE(PTR, $0084)
 //第
-<$06>Containment Rm.＿
-
+Containment Rm.＿
+<$06>
 //24
 24
-
+<$04>
 //動物収容室
 ＿
 <$00>
@@ -3220,7 +3220,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -3236,7 +3236,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -3253,7 +3253,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -3270,7 +3270,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -3281,7 +3281,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -3292,7 +3292,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -3305,11 +3305,11 @@ The Navi System(NaviS) can't be booted here!
 
 #WRITE(PTR, $0086)
 //第
-<$06>Containment Rm.＿
-
+Containment Rm.＿
+<$06>
 //23
 23
-
+<$04>
 //動物収容室
 ＿
 <$00>
@@ -3319,7 +3319,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -3335,7 +3335,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -3352,7 +3352,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -3369,7 +3369,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -3380,7 +3380,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -3391,7 +3391,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -3404,11 +3404,11 @@ The Navi System(NaviS) can't be booted here!
 
 #WRITE(PTR, $0088)
 //第
-<$06>Containment Rm.＿
-
+Containment Rm.＿
+<$06>
 //22
 22
-
+<$04>
 //動物収容室
 ＿
 <$00>
@@ -3418,7 +3418,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -3434,7 +3434,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -3451,7 +3451,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -3468,7 +3468,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -3479,7 +3479,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -3490,7 +3490,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -3503,11 +3503,11 @@ The Navi System(NaviS) can't be booted here!
 
 #WRITE(PTR, $008A)
 //第
-<$06>Containment Rm.＿
-
+Containment Rm.＿
+<$06>
 //21
 21
-
+<$04>
 //動物収容室
 ＿
 <$00>
@@ -3517,7 +3517,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -3533,7 +3533,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -3550,7 +3550,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -3567,7 +3567,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -3578,7 +3578,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -3589,7 +3589,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>

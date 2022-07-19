@@ -144,7 +144,7 @@ kao_s3.obj
 
 #WRITE(PTR, $001C)
 //ホスピコ
-<$06>Hospico＿
+Hospico＿
 <$00>
 
 
@@ -152,7 +152,7 @@ kao_s3.obj
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -168,7 +168,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -185,7 +185,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -202,7 +202,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -213,7 +213,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -224,7 +224,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -236,7 +236,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 //猟犬
-<$06>Pet＿
+Pet＿
 <$1D>
 //の墓
 Cemetary＿
@@ -249,7 +249,7 @@ Cemetary＿
 
 
 //赤い屋根の建物が　３つあるでしょ？
-<$06>Do you see the three buildings with red\n
+Do you see the three buildings with red\n
 roofs?
 <$12>
 \n
@@ -278,7 +278,7 @@ human life expectancy by at least two years!
 
 
 //裏庭に　半分、地下にうまったような\n建物が見えるだろ…　今でもコシカタの\n「町長」が　収容されてるって噂だゼ
-<$06>Out back, you can see a building that looks\n
+Out back, you can see a building that looks\n
 half-way underground.
 <$12>
 \n
@@ -303,7 +303,7 @@ really survive?
 
 
 //ここは特別監視房です\n何かご用ですか？\n
-<$06>This is the surveillance ward. Can I help\n
+This is the surveillance ward. Can I help\n
 you?\n
 <$01>
 //「町長」に会う
@@ -321,7 +321,7 @@ I'm on a walk
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……コシカタの「町長」なんて\nここには　いやしません\nヘンな噂、たてないでくださいね
 ...The "elder" of Koshikata? He's not here.\n
 Please, don't feed baseless rumors.
@@ -333,7 +333,7 @@ Please, don't feed baseless rumors.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //健康に　いいですものね\nこの病院には　散歩の好きな方が\n多いんですよ
 Good! Many a folk take walks in this\n
 hospital. It's good for the body!
@@ -346,12 +346,12 @@ hospital. It's good for the body!
 
 
 //ビースチャンの女性が　一生に産む\n子供の数って　この少子時代に\n平均して
-<$06>They say Beastian women give birth to an\n
+They say Beastian women give birth to an\n
 average of＿
-
+<$06>
 //5.8
 5.8
-
+<$04>
 //人∥
 ＿children in their lifetime.
 <$12>
@@ -370,7 +370,7 @@ higher.
 
 
 //人間様の病院の敷地内に　犬の保健所が\nあるなんて…　いくら何でも\n不衛生きわまりないと　思うんだよね
-<$06>A dog vet on the premisis of a human\n
+A dog vet on the premisis of a human\n
 hospital? Tell me that's not unsanitary!
 <$12>
 \n
@@ -392,7 +392,7 @@ It won't be me!
 
 
 //また、猟犬の墓が　建ったね…
-<$06>Another dog grave to go with the litter.\n
+Another dog grave to go with the litter.\n
 After a while, you start to wonder, "What\n
 happened to this one?"
 <$12>
@@ -410,7 +410,7 @@ battle to save his own skin?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //歯はガタガタになるし　シワも増えるし\n白髪だらけになるし　子供を７人も\n産むと　ろくなことはないよ
 You'd think with my rattly teeth, and wrinkly\n
 wrinkles, that having 7 kids is a bad idea...
@@ -428,7 +428,7 @@ it all seems so worth it.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //こんにちは！\nこの花、きれいでしょ？
 Good afternoon!\n
 Tell me, is this flower "pretty"?
@@ -440,7 +440,7 @@ Tell me, is this flower "pretty"?
 
 
 //\n
-<$06>\n
+\n
 <$01>
 //きれいですね
 It is
@@ -458,7 +458,7 @@ You're prettier!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //あら………■
 Oh, my!■
 <$00>
@@ -468,7 +468,7 @@ Oh, my!■
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //お父様の作った　成長促進剤を\n使えば　種をまいてから\n三日で　花が咲くんですよ
 My father's special growth supplement helps\n
 seeds bloom in only 3 days.
@@ -479,7 +479,7 @@ seeds bloom in only 3 days.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //私、一所懸命、頑張りますから\nよろしく　お願いします！\nそれから、私　まだ…
 I've not been on this planet very long,\n
 but I'm prepared to earn my place.
@@ -490,7 +490,7 @@ but I'm prepared to earn my place.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //この星へ来て　日が浅いので\nヘンな質問をすると　思いますが\nあまり　気にしないでください
 I may be prone to asking strange questions. I\n
 hope you don't mind.
@@ -501,7 +501,7 @@ hope you don't mind.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //よろしければ　いろいろと\n教えてもらえると　うれしいわ\nこの星や…　あなたのこと…■
 I'd enjoy if you told me more about the\n
 planet, or...about yourself.■
@@ -513,7 +513,7 @@ planet, or...about yourself.■
 
 
 //エモリ先生と　サチコお姉ちゃんの\nおうちは　ラグナロッジっていって\nドギファの東に　別にあるんだってサ
-<$06>Dr. Emori and Sachiko live in Ragna Rim,\n
+Dr. Emori and Sachiko live in Ragna Rim,\n
 which is east of Dogyf Heights.
 <$12>
 \n
@@ -530,7 +530,7 @@ doubt they go home often.
 
 
 //エモリ・ラボにある　４つの箱が\nエモリ博士が開発した「人工子宮」さ\nお値段は　１機で３億￥だって∥
-<$06>The 4 pods in Dr. Emori's Lab are\n
+The 4 pods in Dr. Emori's Lab are\n
 "artificial wombs" he invented all by\n
 himself.
 <$12>
@@ -544,10 +544,10 @@ The price of each machine is a whopping\n
 //確かに　性能も凄いんだよね∥\nあの中に入ると　自然治ゆの力が\n最小でも　
 An injured person placed inside one will heal\n
 at at least＿
-
+<$06>
 //820
 820
-
+<$04>
 //％まで上がるそうだよ
 % the natural speed!
 <$12>
@@ -564,7 +564,7 @@ heal now take roughly 3 days!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //今、お父様は　例の寄生虫の\n予防薬の開発に　心血を注いで\n日夜、頑張っているの
 Father is slaving, day and night, to develop\n
 a pesticide against the parasite.
@@ -575,7 +575,7 @@ a pesticide against the parasite.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //きっと　お父様は　完成させるわ\nだから　お父様を信じて\nもう少しの間　待ってください
 Father will surely succeed, so please allow\n
 him time to do his best.
@@ -586,7 +586,7 @@ him time to do his best.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //悪いクセも直って　大好きな奥さんとも\nどうにか　元のサヤに納まった\n矢先だったのに…
 All this happened right after he'd managed to\n
 kick his addiction and get back together with\n
@@ -614,7 +614,7 @@ stick together in Heaven.
 
 #WRITE(PTR, $001E)
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -629,7 +629,7 @@ It smells strongly of antiseptic here.
 
 
 //……東
-<$06>...East
+...East
 <$00>
 
 
@@ -638,7 +638,7 @@ It smells strongly of antiseptic here.
 
 
 //……西
-<$06>...West
+...West
 <$00>
 
 
@@ -647,7 +647,7 @@ It smells strongly of antiseptic here.
 
 
 //……南
-<$06>...South
+...South
 <$00>
 
 
@@ -656,7 +656,7 @@ It smells strongly of antiseptic here.
 
 
 //……北
-<$06>...North
+...North
 <$00>
 
 
@@ -665,7 +665,7 @@ It smells strongly of antiseptic here.
 
 
 //…北東
-<$06>...North-east
+...North-east
 <$00>
 
 
@@ -674,7 +674,7 @@ It smells strongly of antiseptic here.
 
 
 //…北西
-<$06>...North-west
+...North-west
 <$00>
 
 
@@ -683,7 +683,7 @@ It smells strongly of antiseptic here.
 
 
 //…南東
-<$06>...South-east
+...South-east
 <$00>
 
 
@@ -692,7 +692,7 @@ It smells strongly of antiseptic here.
 
 
 //…南西
-<$06>...South-west
+...South-west
 <$00>
 
 
@@ -700,7 +700,7 @@ It smells strongly of antiseptic here.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -712,7 +712,7 @@ It smells strongly of antiseptic here.
 
 
 //、…
-<$06>! That's where we'll find a＿
+! That's where we'll find a＿
 <$1D>
 //に行けば
 .
@@ -724,7 +724,7 @@ It smells strongly of antiseptic here.
 
 
 //直進
-<$06>For
+For
 <$00>
 
 
@@ -733,7 +733,7 @@ It smells strongly of antiseptic here.
 
 
 //右よ
-<$06>Right
+Right
 <$00>
 
 
@@ -742,7 +742,7 @@ It smells strongly of antiseptic here.
 
 
 //左よ
-<$06>Left
+Left
 <$00>
 
 
@@ -751,7 +751,7 @@ It smells strongly of antiseptic here.
 
 
 //後ろ
-<$06>Back
+Back
 <$00>
 
 
@@ -759,7 +759,7 @@ It smells strongly of antiseptic here.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -771,7 +771,7 @@ It smells strongly of antiseptic here.
 
 
 //、絶対に
-<$06>wards, got it? I'm sure we'll find a＿
+wards, got it? I'm sure we'll find a＿
 <$1D>
 //∥
 ＿there!
@@ -782,7 +782,7 @@ It smells strongly of antiseptic here.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -797,7 +797,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…ごめんね、\n今日は　勘がはたらかないわ…
 ...Sorry. I don't have it in me today.
 <$12>
@@ -809,7 +809,7 @@ SLinda used her woman's intuition...
 
 
 //運命の
-<$06>Fated＿
+Fated＿
 <$00>
 
 
@@ -818,7 +818,7 @@ SLinda used her woman's intuition...
 
 
 //新しい
-<$06>New＿
+New＿
 <$00>
 
 
@@ -827,7 +827,7 @@ SLinda used her woman's intuition...
 
 
 //素敵な
-<$06>Great＿
+Great＿
 <$00>
 
 
@@ -836,7 +836,7 @@ SLinda used her woman's intuition...
 
 
 //未知の
-<$06>Unknown＿
+Unknown＿
 <$00>
 
 
@@ -845,7 +845,7 @@ SLinda used her woman's intuition...
 
 
 //何か
-<$06>things＿
+things＿
 <$00>
 
 
@@ -854,7 +854,7 @@ SLinda used her woman's intuition...
 
 
 //発見
-<$06>discoveries＿
+discoveries＿
 <$00>
 
 
@@ -863,7 +863,7 @@ SLinda used her woman's intuition...
 
 
 //お宝
-<$06>treasures＿
+treasures＿
 <$00>
 
 
@@ -872,7 +872,7 @@ SLinda used her woman's intuition...
 
 
 //動物
-<$06>animals＿
+animals＿
 <$00>
 
 
@@ -881,7 +881,7 @@ SLinda used her woman's intuition...
 
 
 //に　出会える…
-<$06>could appear.
+could appear.
 <$00>
 
 
@@ -890,7 +890,7 @@ SLinda used her woman's intuition...
 
 
 //が　待ってる…
-<$06>await us...
+await us...
 <$00>
 
 
@@ -899,7 +899,7 @@ SLinda used her woman's intuition...
 
 
 //気がするわ∥
-<$06>are there.
+are there.
 <$00>
 
 
@@ -908,7 +908,7 @@ SLinda used her woman's intuition...
 
 
 //チャンスよ∥
-<$06>are in our grasp!
+are in our grasp!
 <$00>
 
 
@@ -917,7 +917,7 @@ SLinda used her woman's intuition...
 
 
 //今しかないわ
-<$06>could slip through our fingers!
+could slip through our fingers!
 <$00>
 
 
@@ -926,7 +926,7 @@ SLinda used her woman's intuition...
 
 
 //間違いなし∥
-<$06>are dead head!
+are dead head!
 <$00>
 
 
@@ -935,7 +935,7 @@ SLinda used her woman's intuition...
 
 
 //\n
-<$06>\n
+\n
 <$1D><$1D><$1D>
 //\n
 \n
@@ -950,7 +950,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信があるの∥
 I'm sure of it!
 <$12>
@@ -961,7 +961,7 @@ I'm sure of it!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信は　ないけどね…
 Although, I'm not totally certain...
 <$12>
@@ -972,7 +972,7 @@ Although, I'm not totally certain...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //絶対なんだから∥
 I'm absolutely certain!
 <$12>

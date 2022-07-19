@@ -126,7 +126,7 @@ m056.obj
 
 #WRITE(PTR, $001C)
 //バトルパーク
-<$06>Battle Park＿
+Battle Park＿
 <$00>
 
 
@@ -134,7 +134,7 @@ m056.obj
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -150,7 +150,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -167,7 +167,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -184,7 +184,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -195,7 +195,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -206,7 +206,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -218,7 +218,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 //男ってのは　つくづくバカだよ…\n自分たちで戦ってる暇に　動物を\n捕まえるほうが　金になるのに…
-<$06>Men are fools, it'd be much better to catch\n
+Men are fools, it'd be much better to catch\n
 and sell animals-not fight amongst ourselves.
 <$12>
 \n
@@ -235,7 +235,7 @@ an empty stomache. It's all a waste!
 
 
 //さあ！　バトルパーク名物、格闘大会∥\n他人様を殴れて　金までもらえるよ∥\n腕に覚えのある人は　中へどうぞ∥
-<$06>Here in Battle Park, you can fight people for\n
+Here in Battle Park, you can fight people for\n
 money! If you're up for it, come on in!
 <$12>
 <$00>
@@ -246,7 +246,7 @@ money! If you're up for it, come on in!
 
 
 //さあ！　バトルパーク名物、格闘大会∥\nすべてのハンターの　憧れの的\n「王者のベルト」は　誰の手に￠
-<$06>Here in Battle Park, every hunter has his eye\n
+Here in Battle Park, every hunter has his eye\n
 on one prize- the Champion Belt!
 <$12>
 <$00>
@@ -257,11 +257,11 @@ on one prize- the Champion Belt!
 
 
 //←＿Ｂ
-<$06>←＿B
-
+←＿B
+<$06>
 //-04
 -04
-
+<$04>
 //に　コシカタ
 :＿KOSHIKATA
 <$12>
@@ -273,18 +273,18 @@ on one prize- the Champion Belt!
 
 
 //Ｊ
-<$06>J
-
+J
+<$06>
 //-03
 -03
-
+<$04>
 //に　エターナ＿＿→\nＫ
 :＿ETERNA＿→\n
 K
-
+<$06>
 //-03
 -03
-
+<$04>
 //に　リナバレー＿→
 :＿SPURR VALLEY＿→
 <$12>
@@ -296,7 +296,7 @@ K
 
 
 //あんた、幻の動物の伝説を\n耳にしたことは　あるかい？\n
-<$06>Have you heard the tale of the phantom\n
+Have you heard the tale of the phantom\n
 animal?\n
 <$01>
 //ああ、聞いたよ
@@ -315,7 +315,7 @@ Nope!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //幻の動物の　正体は\nいったい　何だろうね？
 No one knows the true identity of the phantom\n
 animal, but in these parts, he's hailed as a\n
@@ -339,7 +339,7 @@ A wooly mammoth!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //その動物は　自分の手の先も\n見えないくらいの　猛吹雪の時にだけ\nこの町の北のほうに　現れるらしいよ
 They say the phantom animal only appears in\n
 the thickest of blizzards.
@@ -348,10 +348,10 @@ the thickest of blizzards.
 <CLEAR>
 //でもあたしゃ　ここで
 I've lived here a good＿
-
+<$06>
 //20
 20
-
+<$04>
 //年近く\n暮らしてるけど、そんな激しい吹雪にゃ\n一度も　お目にかかってないね
 ＿years, but I've never seen no phantom.
 <$12>
@@ -369,7 +369,7 @@ more tourists.
 
 
 //ここの養殖牧場サ、客の預かりモンの\n動物の子の数を　ごまかして\n勝手にさばいちまうって　噂だゼ
-<$06>I've "heard" the ranch'll lie to customers\n
+I've "heard" the ranch'll lie to customers\n
 about the number of animal babies they\n
 delivered.
 <$12>
@@ -387,7 +387,7 @@ highly-protected species without permission.
 
 
 //養殖牧場をやってる　ブロンコ夫婦って\n金にモノを言わせて　この星の動物を\nあらかた集めて　食べてみたそうよ
-<$06>At Bronco's ranch, they know how to stretch a\n
+At Bronco's ranch, they know how to stretch a\n
 buck. They'll also taste test any animal.
 <$12>
 \n
@@ -404,7 +404,7 @@ human meat before. They're in that deep!
 
 
 //レッドポールって　アナビスの\n遺跡の中には　獣人像や\n首飾りが　納められてたそうだ
-<$06>The red poles are said to be temples where\n
+The red poles are said to be temples where\n
 dolls and necklaces were offered to Annabis.
 <$12>
 \n
@@ -426,7 +426,7 @@ them all in a safe somewhere.
 
 
 //どんなに気丈夫に見えても　ちょっと\n体をこわすと　途端に気弱になったり\nワガママになったり　焦り出したり…
-<$06>Even the toughest guys can't hide the changes\n
+Even the toughest guys can't hide the changes\n
 that come once their bodies start falling\n
 apart with age.
 <$12>
@@ -445,7 +445,7 @@ that.
 
 
 //Ｇファクトリーには　ほとんど人が\nいなくてサ、ロボットたちが\n黙々と　工場で働いてるだけだよ
-<$06>There are hardly any people in G Factory,\n
+There are hardly any people in G Factory,\n
 only robots working quietly in each of the\n
 warehouses.
 <$12>
@@ -464,7 +464,7 @@ a year in G Factory.
 
 
 //コシカタの　ポリスカって男が\n例の遺跡のお宝を　隠しもってるってよ\nちょいと変った　彫像らしいな
-<$06>A man in Koshikata named Poliska's hiding\n
+A man in Koshikata named Poliska's hiding\n
 some weird temple treasure that looks like a\n
 doll.
 <$12>
@@ -476,7 +476,7 @@ doll.
 
 
 //若い時は　勢いがあったけど\n養殖牧場の　ブロンコさんも　そろそろ\n焼きが　回ってきたみたいだね
-<$06>BB Ranch's Bronco was a powerhouse back in\n
+BB Ranch's Bronco was a powerhouse back in\n
 the day, but he's grown weaker over time.
 <$12>
 \n
@@ -494,7 +494,7 @@ to the very best of us.
 
 #WRITE(PTR, $001E)
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -515,7 +515,7 @@ go for some＿
 
 
 //卵焼き
-<$06>fried eggs
+fried eggs
 <$00>
 
 
@@ -524,7 +524,7 @@ go for some＿
 
 
 //カレー
-<$06>curry
+curry
 <$00>
 
 
@@ -533,7 +533,7 @@ go for some＿
 
 
 //焼き肉
-<$06>Neo Korean BBQ
+Neo Korean BBQ
 <$00>
 
 
@@ -542,7 +542,7 @@ go for some＿
 
 
 //唐あげ
-<$06>karaage
+karaage
 <$00>
 
 
@@ -551,7 +551,7 @@ go for some＿
 
 
 //お菓子
-<$06>candy
+candy
 <$00>
 
 
@@ -560,7 +560,7 @@ go for some＿
 
 
 //バナナ
-<$06>banana
+banana
 <$00>
 
 
@@ -569,7 +569,7 @@ go for some＿
 
 
 //フライ
-<$06>Neo French fries
+Neo French fries
 <$00>
 
 
@@ -578,7 +578,7 @@ go for some＿
 
 
 //焼き魚
-<$06>grilled fish
+grilled fish
 <$00>
 
 
@@ -587,7 +587,7 @@ go for some＿
 
 
 //トマト
-<$06>tomato
+tomato
 <$00>
 
 
@@ -596,7 +596,7 @@ go for some＿
 
 
 //バター
-<$06>butter
+butter
 <$00>
 
 
@@ -605,7 +605,7 @@ go for some＿
 
 
 //ソース
-<$06>sauce
+sauce
 <$00>
 
 
@@ -614,7 +614,7 @@ go for some＿
 
 
 //スープ
-<$06>＿soup
+＿soup
 <$00>
 
 
@@ -623,7 +623,7 @@ go for some＿
 
 
 //ピラフ
-<$06>pilaf
+pilaf
 <$00>
 
 
@@ -632,7 +632,7 @@ go for some＿
 
 
 //バニラ
-<$06>vanilla
+vanilla
 <$00>
 
 
@@ -641,7 +641,7 @@ go for some＿
 
 
 //キムチ
-<$06>kimchi
+kimchi
 <$00>
 
 
@@ -650,7 +650,7 @@ go for some＿
 
 
 //チーズ
-<$06>cheese
+cheese
 <$00>
 
 
@@ -659,7 +659,7 @@ go for some＿
 
 
 //朝
-<$06>breakfast
+breakfast
 <$00>
 
 
@@ -668,7 +668,7 @@ go for some＿
 
 
 //昼
-<$06>lunch
+lunch
 <$00>
 
 
@@ -677,7 +677,7 @@ go for some＿
 
 
 //夕
-<$06>dinner
+dinner
 <$00>
 
 
@@ -686,7 +686,7 @@ go for some＿
 
 
 //……東
-<$06>...East
+...East
 <$00>
 
 
@@ -695,7 +695,7 @@ go for some＿
 
 
 //……西
-<$06>...West
+...West
 <$00>
 
 
@@ -704,7 +704,7 @@ go for some＿
 
 
 //……南
-<$06>...South
+...South
 <$00>
 
 
@@ -713,7 +713,7 @@ go for some＿
 
 
 //……北
-<$06>...North
+...North
 <$00>
 
 
@@ -722,7 +722,7 @@ go for some＿
 
 
 //…北東
-<$06>...North-east
+...North-east
 <$00>
 
 
@@ -731,7 +731,7 @@ go for some＿
 
 
 //…北西
-<$06>...North-west
+...North-west
 <$00>
 
 
@@ -740,7 +740,7 @@ go for some＿
 
 
 //…南東
-<$06>...South-east
+...South-east
 <$00>
 
 
@@ -749,7 +749,7 @@ go for some＿
 
 
 //…南西
-<$06>...South-west
+...South-west
 <$00>
 
 
@@ -757,7 +757,7 @@ go for some＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -769,7 +769,7 @@ go for some＿
 
 
 //、…
-<$06>! That's where we'll find a＿
+! That's where we'll find a＿
 <$1D>
 //に行けば
 .
@@ -781,7 +781,7 @@ go for some＿
 
 
 //直進
-<$06>For
+For
 <$00>
 
 
@@ -790,7 +790,7 @@ go for some＿
 
 
 //右よ
-<$06>Right
+Right
 <$00>
 
 
@@ -799,7 +799,7 @@ go for some＿
 
 
 //左よ
-<$06>Left
+Left
 <$00>
 
 
@@ -808,7 +808,7 @@ go for some＿
 
 
 //後ろ
-<$06>Back
+Back
 <$00>
 
 
@@ -816,7 +816,7 @@ go for some＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -828,7 +828,7 @@ go for some＿
 
 
 //、絶対に
-<$06>wards, got it? I'm sure we'll find a＿
+wards, got it? I'm sure we'll find a＿
 <$1D>
 //∥
 ＿there!
@@ -839,7 +839,7 @@ go for some＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -854,7 +854,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…ごめんね、\n今日は　勘がはたらかないわ…
 ...Sorry. I don't have it in me today.
 <$12>
@@ -866,7 +866,7 @@ SLinda used her woman's intuition...
 
 
 //運命の
-<$06>Fated＿
+Fated＿
 <$00>
 
 
@@ -875,7 +875,7 @@ SLinda used her woman's intuition...
 
 
 //新しい
-<$06>New＿
+New＿
 <$00>
 
 
@@ -884,7 +884,7 @@ SLinda used her woman's intuition...
 
 
 //素敵な
-<$06>Great＿
+Great＿
 <$00>
 
 
@@ -893,7 +893,7 @@ SLinda used her woman's intuition...
 
 
 //未知の
-<$06>Unknown＿
+Unknown＿
 <$00>
 
 
@@ -902,7 +902,7 @@ SLinda used her woman's intuition...
 
 
 //何か
-<$06>things＿
+things＿
 <$00>
 
 
@@ -911,7 +911,7 @@ SLinda used her woman's intuition...
 
 
 //発見
-<$06>discoveries＿
+discoveries＿
 <$00>
 
 
@@ -920,7 +920,7 @@ SLinda used her woman's intuition...
 
 
 //お宝
-<$06>treasures＿
+treasures＿
 <$00>
 
 
@@ -929,7 +929,7 @@ SLinda used her woman's intuition...
 
 
 //動物
-<$06>animals＿
+animals＿
 <$00>
 
 
@@ -938,7 +938,7 @@ SLinda used her woman's intuition...
 
 
 //に　出会える…
-<$06>could appear.
+could appear.
 <$00>
 
 
@@ -947,7 +947,7 @@ SLinda used her woman's intuition...
 
 
 //が　待ってる…
-<$06>await us...
+await us...
 <$00>
 
 
@@ -956,7 +956,7 @@ SLinda used her woman's intuition...
 
 
 //気がするわ∥
-<$06>are there.
+are there.
 <$00>
 
 
@@ -965,7 +965,7 @@ SLinda used her woman's intuition...
 
 
 //チャンスよ∥
-<$06>are in our grasp!
+are in our grasp!
 <$00>
 
 
@@ -974,7 +974,7 @@ SLinda used her woman's intuition...
 
 
 //今しかないわ
-<$06>could slip through our fingers!
+could slip through our fingers!
 <$00>
 
 
@@ -983,7 +983,7 @@ SLinda used her woman's intuition...
 
 
 //間違いなし∥
-<$06>are dead head!
+are dead head!
 <$00>
 
 
@@ -992,7 +992,7 @@ SLinda used her woman's intuition...
 
 
 //\n
-<$06>\n
+\n
 <$1D><$1D><$1D>
 //\n
 \n
@@ -1007,7 +1007,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信があるの∥
 I'm sure of it!
 <$12>
@@ -1018,7 +1018,7 @@ I'm sure of it!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信は　ないけどね…
 Although, I'm not totally certain...
 <$12>
@@ -1029,7 +1029,7 @@ Although, I'm not totally certain...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //絶対なんだから∥
 I'm absolutely certain!
 <$12>
@@ -1041,7 +1041,7 @@ I'm absolutely certain!
 
 
 //
-<$06><$15>
+<$15>
 //Yスケジュール
 YMemo＿
 <$00>
@@ -1051,7 +1051,7 @@ YMemo＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //スケジュールは何もありません
 There is nothing on schedule.
 <$12>
@@ -1063,7 +1063,7 @@ There is nothing on schedule.
 
 
 //成功終了
-<$06>Completed!
+Completed!
 <$00>
 
 
@@ -1072,7 +1072,7 @@ There is nothing on schedule.
 
 
 //期限切れ
-<$06>Expired!
+Expired!
 <$00>
 
 
@@ -1081,7 +1081,7 @@ There is nothing on schedule.
 
 
 //あと
-<$06>In＿
+In＿
 <$1E>
 //季節
 ＿seasons
@@ -1093,7 +1093,7 @@ There is nothing on schedule.
 
 
 //あと
-<$06>Deadline:＿
+Deadline:＿
 <$1E>
 //年
 Y/
@@ -1108,7 +1108,7 @@ S
 
 
 //あと
-<$06>In＿
+In＿
 <$1E>
 //年
 ＿years
@@ -1119,7 +1119,7 @@ S
 
 
 
-<$06><$16><$01>
+<$16><$01>
 //◇
 ◇
 <$0E><$1D><$02>
@@ -1133,7 +1133,7 @@ S
 
 
 //ファングを倒す
-<$06>Slay Fang
+Slay Fang
 <$00>
 
 
@@ -1142,7 +1142,7 @@ S
 
 
 //パンハイムからの依頼
-<$06>Assist Panheim
+Assist Panheim
 <$00>
 
 
@@ -1152,7 +1152,7 @@ S
 
 //<$1B>
 //カメの卵を手に入れる
-<$06>Snatch Turtle Eggs
+Snatch Turtle Eggs
 <$00>
 
 
@@ -1162,7 +1162,7 @@ S
 
 //<$1B>
 //プテラノの卵を手に入れる
-<$06>Snatch Pteranodon Eggs
+Snatch Pteranodon Eggs
 <$00>
 
 
@@ -1171,7 +1171,7 @@ S
 
 
 //遺産争いにケリをつける
-<$06>End the inheritance battle
+End the inheritance battle
 <$00>
 
 
@@ -1180,7 +1180,7 @@ S
 
 
 //ヤマダのために一肌脱ぐ
-<$06>Unload for Yamada
+Unload for Yamada
 <$00>
 
 
@@ -1189,7 +1189,7 @@ S
 
 
 //町のシンボルを見つけだす
-<$06>Find the village symbol
+Find the village symbol
 <$00>
 
 
@@ -1198,7 +1198,7 @@ S
 
 
 //ソフィアからの依頼
-<$06>Assist Sophia
+Assist Sophia
 <$00>
 
 
@@ -1207,7 +1207,7 @@ S
 
 
 //サチコ救出
-<$06>Rescue Sachiko
+Rescue Sachiko
 <$00>
 
 
@@ -1216,7 +1216,7 @@ S
 
 
 //ポロポロちゃんを助ける
-<$06>Save Nightshade
+Save Nightshade
 <$00>
 
 
@@ -1225,7 +1225,7 @@ S
 
 
 //アンジェラ捜し
-<$06>Find Angela
+Find Angela
 <$00>
 
 
@@ -1233,7 +1233,7 @@ S
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //カラゴラムのファングを倒し、その証拠を\nハーディアホテルのスペクターに渡す
 Defeat Fang in Karhagolem. Present proof to\n
 Spectre in Hardia Hotel.
@@ -1244,7 +1244,7 @@ Spectre in Hardia Hotel.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //マーブルポリスの
 Process meat from＿
 //<$1B>
@@ -1258,7 +1258,7 @@ Panheim in Hospico.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 Find up to 3＿
 //<$1B>
@@ -1272,7 +1272,7 @@ Park BB Ranch.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 Acquire 2＿
 //<$1B>
@@ -1286,7 +1286,7 @@ Battle Park BB Ranch.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「太郎の首輪」を見つけだし、ドギファの\nナターシャか、オーマン家３兄弟に渡す
 Locate Taro's Collar. Give it to Natasha or\n
 one of the 3 Aumann children in Dogyf\n
@@ -1299,7 +1299,7 @@ Heights.
 
 
 //６万
-<$06>60, 000
+60, 000
 <$00>
 
 
@@ -1308,10 +1308,10 @@ Heights.
 
 
 //あと
-<$06>another＿
-<$1E><$0F>
+another＿
+<$06><$1E><$0F>
 //000
-
+<$04>
 <$00>
 
 
@@ -1319,7 +1319,7 @@ Heights.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //Ｇファクトリーのヤマダのために\n
 Deposit＿
 <$1D>
@@ -1332,7 +1332,7 @@ Deposit＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //コシカタのシンボル「
 Find the＿
 //<$1B>
@@ -1346,7 +1346,7 @@ Return it to Poliska.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ソフィアのために、エターナの桜の木を\nどうにかして咲かせる
 Find out how to revive the sakura trees in\n
 Eterna for Sophia.
@@ -1357,7 +1357,7 @@ Eterna for Sophia.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //溶岩の中で育った動物の熱いウンチを\nエターナのソフィアに渡す
 Deliver Hot Dung from a lava-dwelling\n
 creature to Sophia in Eterna.
@@ -1368,7 +1368,7 @@ creature to Sophia in Eterna.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ラグナロッジのエモリに会いに行く
 Meet with Dr. Emori in Ragna Rim.
 <$00>
@@ -1378,13 +1378,13 @@ Meet with Dr. Emori in Ragna Rim.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「フロッピーと
 Take the Floppy Disc and＿
-
+<$06>
 //10
 10, 000
-
+<$04>
 //万￥」を持って、\nＧファクトリー入口１階、\n公衆電話の前に行く
 ￥ to the G Factory gate. Answer the payphone.
 <$00>
@@ -1394,13 +1394,13 @@ Take the Floppy Disc and＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「フロッピーと
 Take the Floppy Disc and＿
-
+<$06>
 //10
 10, 000
-
+<$04>
 //万￥」を持って、\nパラサイド入口１階、\n公衆電話の前に行く
 ￥ to the Paraside gate. Answer the payphone.
 <$00>
@@ -1410,13 +1410,13 @@ Take the Floppy Disc and＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「フロッピーと
 Take the Floppy Disc and＿
-
+<$06>
 //10
 10, 000
-
+<$04>
 //万￥」を持って、\nガレックスに行く
 ￥ to Galax.
 <$00>
@@ -1426,7 +1426,7 @@ Take the Floppy Disc and＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す
 Pick bloodberries in Flora Jam. Take them to\n
 Kevin and Nightshade in Rose Garden.
@@ -1437,7 +1437,7 @@ Kevin and Nightshade in Rose Garden.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //パラサイドの酒場にいるアンジェラを\n確認して、リナバレーのマリオに連絡する
 Look for Angela at the Paraside bar. Report\n
 your findings to Mario in Spurr Valley.
@@ -1448,7 +1448,7 @@ your findings to Mario in Spurr Valley.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //アンジェラを確認するために、\nオズポートホテルの酒場に行く
 Look for Angela at the OzPort Hotel bar.
 <$00>
@@ -1458,7 +1458,7 @@ Look for Angela at the OzPort Hotel bar.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //アンジェラを確認するために、\n西エリアのしけた町のホテルに行く
 Look for Angela at a hotel bar somewhere in\n
 West Area.
@@ -1469,7 +1469,7 @@ West Area.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //アンジェラを確認するために、\nドギファの舞台に行く
 Look for Angela at the theater stage in Dogyf\n
 Heights.
@@ -1480,7 +1480,7 @@ Heights.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リナバレーのマリオの母、\nアンジェラを追ってオズサットへ行く
 Chase Angela to OzSat! Mario will follow from\n
 Spurr Valley.

@@ -10,7 +10,7 @@
 #WRITE(PTR, $0018)
 #WRITE(PTR, $001A)
 //変態エモリ
-<$06>Mutant Emori
+Mutant Emori
 <$00>
 
 
@@ -18,7 +18,7 @@
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //変態エモリの攻撃∥\nマゼンタの粘着液を　吐いた∥
 Mutant Emori spit out a pasty, magenta\n
 liquid!
@@ -29,7 +29,7 @@ liquid!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //変態エモリの攻撃∥\n手のひらから　飛び出す\n飢えた　寄生虫の群れ∥
 Mutant Emori pushed parasitic worms out from\n
 his palms!
@@ -40,7 +40,7 @@ his palms!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //変態エモリは\n
 Mutant Emori took a fleeting glimpse at\n
 <$1C>
@@ -54,7 +54,7 @@ T!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //変態エモリは\n体内の寄生虫を　放出した∥
 Mutant Emori pushed parasites from his entire\n
 body!
@@ -66,7 +66,7 @@ body!
 
 
 //寄生虫
-<$06>Parasite
+Parasite
 <$00>
 
 
@@ -75,7 +75,7 @@ body!
 
 
 //\n緑の液体を　噴出した∥
-<$06>\n
+\n
 Green liquid spilled out!
 <$00>
 
@@ -345,7 +345,7 @@ m136_e.obj
 
 #WRITE(PTR, $001E)
 //シェルターB3
-<$06>Shelter B3＿
+Shelter B3＿
 <$00>
 
 
@@ -353,7 +353,7 @@ m136_e.obj
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -369,7 +369,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -386,7 +386,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -403,7 +403,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -414,7 +414,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -425,7 +425,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -436,7 +436,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -452,7 +452,7 @@ SIt appears dead.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //とうとう　見つけたゾ\nこんな穴蔵で　コソコソと\n何をやっているかと思えば…
 There you are. And what were you creeping\n
 about here for, I wonder.
@@ -463,7 +463,7 @@ about here for, I wonder.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ほー、左腕がちゃんと\nつながっているじゃないか？
 Oh-ho! Don't tell me- stitching Linda's left\n
 arm back on?
@@ -474,7 +474,7 @@ arm back on?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //まあ　いい…\nどうせ君たちは　ここから\n生きて出られやしないんだ
 That's fine, I suppose. You'll die before I\n
 let you escape anyhow.
@@ -485,7 +485,7 @@ let you escape anyhow.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //もう　やめてください！\nお父様∥
 No, Father!\n
 Please, stop this!
@@ -496,7 +496,7 @@ Please, stop this!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //おまえなんかに　お父様と\n呼ばれる　筋合いはない！\n出来そこないが∥　失せろ∥
 What right have you to call me "Father"? Get\n
 out of my way!
@@ -507,7 +507,7 @@ out of my way!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //君たちには　武器など使わないよ\n私のこの手で　八つ裂きに\nしないと　気がすまないからね
 I don't want weapons for this. I won't be\n
 satisfied until I tear you two apart with my\n
@@ -519,7 +519,7 @@ own hands!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //私のかわいい　サチコ…\nおまえの恨みを　今　父さんが\n晴らしてあげるよ
 My darling Sachiko...\n
 Finally, Papa will wash away your every\n
@@ -531,7 +531,7 @@ grudge.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //いい加減にしてよ！\n逆恨みも　いいとこだわ！
 It's good to feel grudges, but...we have to\n
 end this.
@@ -542,7 +542,7 @@ end this.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //まさか無事に　帰れるなんて\n思ってなかったろう？\n私は　しつこい性格なんだよ
 Did you really think I'd let you go? No,\n
 that's not in my nature.
@@ -553,7 +553,7 @@ that's not in my nature.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //そうさ、なにしろ…
 All that's left of me...
 <$00>
@@ -563,7 +563,7 @@ All that's left of me...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「逆恨み」だからね…
 ...is my grudge.
 <$00>
@@ -573,7 +573,7 @@ All that's left of me...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //私を倒したくらいで\n安心されちゃ　困るねぇ…
 I'd never give you the satisfaction of\n
 killing me too.
@@ -584,7 +584,7 @@ killing me too.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //言わなかったかい？　私は\nいつも　最善を尽くしてきたし\n出来ることは　全てやったと…
 Need I remind you? I do all I can. That's all\n
 I can do. Always...
@@ -595,7 +595,7 @@ I can do. Always...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //３、２、１、
 3...2...1...
 <$00>
@@ -605,7 +605,7 @@ I can do. Always...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //爆薬を　仕掛けておいたのさ\n出口は　ふさがせてもらったよ
 I planted explosives and blocked the exit.\n
 You were never leaving Galax.
@@ -616,7 +616,7 @@ You were never leaving Galax.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //先に地獄で　待ってるからね
 I'll see you two in Hell.
 <$00>
@@ -626,7 +626,7 @@ I'll see you two in Hell.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //終わったのね…
 So, it all came to this.
 <$00>
@@ -636,7 +636,7 @@ So, it all came to this.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //………………
 .........
 <$12>
@@ -647,7 +647,7 @@ So, it all came to this.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…大丈夫よ、任せて
 ...It's all right.\n
 I'll take it from here.
@@ -658,7 +658,7 @@ I'll take it from here.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //Ｂモード起動！\n３、２、１、ＧＯ！
 B Mode, engage!\n
 3! 2! 1! GO!
@@ -669,7 +669,7 @@ B Mode, engage!\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ふたりとも　後ろに下がってて
 You two, get away!
 <$00>
@@ -679,7 +679,7 @@ You two, get away!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //３、２、１、撃てッ∥
 3! 2! 1! FIRE!
 <$00>
@@ -689,7 +689,7 @@ You two, get away!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //私はヨシコと　ここの後始末を\n済ませてから　行くわ
 Go! Yoshiko and I will escape once we handle\n
 things here!
@@ -700,7 +700,7 @@ things here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //それと　ホスピコに…
 Besides, "she" is still in Hospico, so...
 <$00>
@@ -710,7 +710,7 @@ Besides, "she" is still in Hospico, so...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //いいえ…　やっぱり　いいわ
 Nevermind.\n
 It's better this way.
@@ -721,7 +721,7 @@ It's better this way.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ありがとう　ケン！\nさあ　もう行って∥
 Thank you for everything, Ken. Now, go!
 <$00>
@@ -731,7 +731,7 @@ Thank you for everything, Ken. Now, go!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //しまった！\nスミレ！　やめなさ…
 Don't do it, Sumire!\n
 You can't...!
@@ -743,7 +743,7 @@ You can't...!
 
 
 #WRITE(PTR, $0020)
-<$06><CLEAR>
+<CLEAR>
 //エモリが襲ってきた∥
 Emori attacked!
 <$12>
@@ -754,7 +754,7 @@ Emori attacked!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //今さら　逃げるわけには\nいかない∥Ψ
 Can't run away now!Ψ
 <$00>
@@ -765,7 +765,7 @@ Can't run away now!Ψ
 
 
 #WRITE(PTR, $0022)
-<$06><$1D>
+<$1D>
 //　
 
 <$1E>
@@ -778,7 +778,7 @@ x\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //装置内データ　ハ　スベテ\nＯＵＴ　シマシタ
 SYSTEM OUT OF DATA.
 <$12>
@@ -790,7 +790,7 @@ SYSTEM OUT OF DATA.
 
 
 //冷凍睡眠中ノ　動物ヲ　解凍シマスカ？\n
-<$06>THAW CRYO-PRESERVED ANIMALS?\n
+THAW CRYO-PRESERVED ANIMALS?\n
 <$01>
 //は＿い
 Yes
@@ -808,7 +808,7 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //トランスカーゴ　空キナシ
 1 FREE SPACE REQUIRED\n
 IN TRANS-CARGO UNIT.
@@ -820,7 +820,7 @@ IN TRANS-CARGO UNIT.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //トランスカーゴ　２ツ空キナシ
 2 FREE SPACES REQUIRED\n
 IN TRANS-CARGO UNIT.
@@ -842,7 +842,7 @@ IN TRANS-CARGO UNIT.
 <$06>
 //TRANS-CARGO IN
 Now loading to TCU...
-
+<$04>
 //∥
 !
 <$12>
@@ -854,7 +854,7 @@ Now loading to TCU...
 
 
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -869,7 +869,7 @@ It smells like a bunch of dust.
 
 
 //……東
-<$06>...East
+...East
 <$00>
 
 
@@ -878,7 +878,7 @@ It smells like a bunch of dust.
 
 
 //……西
-<$06>...West
+...West
 <$00>
 
 
@@ -887,7 +887,7 @@ It smells like a bunch of dust.
 
 
 //……南
-<$06>...South
+...South
 <$00>
 
 
@@ -896,7 +896,7 @@ It smells like a bunch of dust.
 
 
 //……北
-<$06>...North
+...North
 <$00>
 
 
@@ -905,7 +905,7 @@ It smells like a bunch of dust.
 
 
 //…北東
-<$06>...North-east
+...North-east
 <$00>
 
 
@@ -914,7 +914,7 @@ It smells like a bunch of dust.
 
 
 //…北西
-<$06>...North-west
+...North-west
 <$00>
 
 
@@ -923,7 +923,7 @@ It smells like a bunch of dust.
 
 
 //…南東
-<$06>...South-east
+...South-east
 <$00>
 
 
@@ -932,7 +932,7 @@ It smells like a bunch of dust.
 
 
 //…南西
-<$06>...South-west
+...South-west
 <$00>
 
 
@@ -940,7 +940,7 @@ It smells like a bunch of dust.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -952,7 +952,7 @@ It smells like a bunch of dust.
 
 
 //、…
-<$06>! That's where we'll find a＿
+! That's where we'll find a＿
 <$1D>
 //に行けば
 .
@@ -964,7 +964,7 @@ It smells like a bunch of dust.
 
 
 //直進
-<$06>For
+For
 <$00>
 
 
@@ -973,7 +973,7 @@ It smells like a bunch of dust.
 
 
 //右よ
-<$06>Right
+Right
 <$00>
 
 
@@ -982,7 +982,7 @@ It smells like a bunch of dust.
 
 
 //左よ
-<$06>Left
+Left
 <$00>
 
 
@@ -991,7 +991,7 @@ It smells like a bunch of dust.
 
 
 //後ろ
-<$06>Back
+Back
 <$00>
 
 
@@ -999,7 +999,7 @@ It smells like a bunch of dust.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -1011,7 +1011,7 @@ It smells like a bunch of dust.
 
 
 //、絶対に
-<$06>wards, got it? I'm sure we'll find a＿
+wards, got it? I'm sure we'll find a＿
 <$1D>
 //∥
 ＿there!
@@ -1022,7 +1022,7 @@ It smells like a bunch of dust.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1037,7 +1037,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…ごめんね、\n今日は　勘がはたらかないわ…
 ...Sorry. I don't have it in me today.
 <$12>
@@ -1049,7 +1049,7 @@ SLinda used her woman's intuition...
 
 
 //運命の
-<$06>Fated＿
+Fated＿
 <$00>
 
 
@@ -1058,7 +1058,7 @@ SLinda used her woman's intuition...
 
 
 //新しい
-<$06>New＿
+New＿
 <$00>
 
 
@@ -1067,7 +1067,7 @@ SLinda used her woman's intuition...
 
 
 //素敵な
-<$06>Great＿
+Great＿
 <$00>
 
 
@@ -1076,7 +1076,7 @@ SLinda used her woman's intuition...
 
 
 //未知の
-<$06>Unknown＿
+Unknown＿
 <$00>
 
 
@@ -1085,7 +1085,7 @@ SLinda used her woman's intuition...
 
 
 //何か
-<$06>things＿
+things＿
 <$00>
 
 
@@ -1094,7 +1094,7 @@ SLinda used her woman's intuition...
 
 
 //発見
-<$06>discoveries＿
+discoveries＿
 <$00>
 
 
@@ -1103,7 +1103,7 @@ SLinda used her woman's intuition...
 
 
 //お宝
-<$06>treasures＿
+treasures＿
 <$00>
 
 
@@ -1112,7 +1112,7 @@ SLinda used her woman's intuition...
 
 
 //動物
-<$06>animals＿
+animals＿
 <$00>
 
 
@@ -1121,7 +1121,7 @@ SLinda used her woman's intuition...
 
 
 //に　出会える…
-<$06>could appear.
+could appear.
 <$00>
 
 
@@ -1130,7 +1130,7 @@ SLinda used her woman's intuition...
 
 
 //が　待ってる…
-<$06>await us...
+await us...
 <$00>
 
 
@@ -1139,7 +1139,7 @@ SLinda used her woman's intuition...
 
 
 //気がするわ∥
-<$06>are there.
+are there.
 <$00>
 
 
@@ -1148,7 +1148,7 @@ SLinda used her woman's intuition...
 
 
 //チャンスよ∥
-<$06>are in our grasp!
+are in our grasp!
 <$00>
 
 
@@ -1157,7 +1157,7 @@ SLinda used her woman's intuition...
 
 
 //今しかないわ
-<$06>could slip through our fingers!
+could slip through our fingers!
 <$00>
 
 
@@ -1166,7 +1166,7 @@ SLinda used her woman's intuition...
 
 
 //間違いなし∥
-<$06>are dead head!
+are dead head!
 <$00>
 
 
@@ -1175,7 +1175,7 @@ SLinda used her woman's intuition...
 
 
 //\n
-<$06>\n
+\n
 <$1D><$1D><$1D>
 //\n
 \n
@@ -1190,7 +1190,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信があるの∥
 I'm sure of it!
 <$12>
@@ -1201,7 +1201,7 @@ I'm sure of it!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信は　ないけどね…
 Although, I'm not totally certain...
 <$12>
@@ -1212,7 +1212,7 @@ Although, I'm not totally certain...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //絶対なんだから∥
 I'm absolutely certain!
 <$12>

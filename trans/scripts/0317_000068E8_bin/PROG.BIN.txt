@@ -9,7 +9,7 @@
 #WRITE(PTR, $002A)
 #WRITE(PTR, $002C)
 #WRITE(PTR, $002E)
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n大量の尿を　噴き出した∥
@@ -23,7 +23,7 @@ drowned the area in urine!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aの攻撃∥\n迷走ガス　噴射∥
@@ -37,7 +37,7 @@ released dizzy gas!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n遠くを　見ている…
@@ -51,7 +51,7 @@ stared into the distance.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n風の臭いに　おびえている…
@@ -65,7 +65,7 @@ trembles at a smell in the air.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n大きく　２度、鳴いた∥
@@ -79,7 +79,7 @@ called loudly 2 times!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは　
@@ -96,7 +96,7 @@ T.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aの攻撃∥\n「グるろ　グるろ」と\n腹を鳴らした∥
@@ -111,7 +111,7 @@ stomach!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\nベトベトの　吐シャ物を\nぶちまけた∥
@@ -125,7 +125,7 @@ hurled a sticky pile of vomit!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aの攻撃∥\n全身から　高熱を発した∥\n赤熱ヒート∥
@@ -139,7 +139,7 @@ attacked with a burning inner heat!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aの攻撃\nドロリと　唾液をたらした…\n溶解スピット∥
@@ -153,7 +153,7 @@ attacked with a gooey, dissolving saliva!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは　ホルモンの\n分泌を変化させた∥\nＧＥＮＤＥＲ　ＣＨＡＮＧＥ∥
@@ -167,7 +167,7 @@ genders!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n大量の尿を　噴き出した∥
@@ -328,7 +328,7 @@ m119m.obj
 
 #WRITE(PTR, $0032)
 //ヤマピット
-<$06>Yama Pit＿
+Yama Pit＿
 <$00>
 
 
@@ -337,7 +337,7 @@ m119m.obj
 
 
 //ヤマピット
-<$06>Yama Pit＿
+Yama Pit＿
 <$00>
 
 
@@ -345,7 +345,7 @@ m119m.obj
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -361,7 +361,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　野営の特殊能力を\n身につけていない
 Ken has not learned skills for camping.
 <$12>
@@ -373,7 +373,7 @@ Ken has not learned skills for camping.
 
 
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -399,7 +399,7 @@ I've never smelled anything like it!
 
 
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -414,7 +414,7 @@ I don't smell anything new in the area.
 
 
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -439,7 +439,7 @@ the area.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //それと…、超ヤバイ動物が\n近くにいるみたい！\nぷんぷん臭うわ
 Something...BIG is nearby.\n
 I bet it's as strong as it smells!
@@ -451,7 +451,7 @@ I bet it's as strong as it smells!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……何か、さっきから\n胸騒ぎが　するのよ！\n一度、出直さない？
 ...The smell's faded, suggesting its source\n
 left only recently. Maybe it will return?
@@ -462,7 +462,7 @@ left only recently. Maybe it will return?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //それから　この付近の動物は\nけっこう根性、あるみたいね
 The animals nearby smell fiesty!
 <$12>
@@ -473,7 +473,7 @@ The animals nearby smell fiesty!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //でも、ちょっと危険な臭いも\n混じっているようよ
 It all smells with a hint...of danger!
 <$12>
@@ -484,7 +484,7 @@ It all smells with a hint...of danger!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ハンターとしての\n腕を　磨くには\nちょうど、いいってトコね
 Hunters need to hone all the skills they can,\n
 you know?
@@ -496,7 +496,7 @@ you know?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //まっ、一応\n注意していきましょうか
 M'kay, let's be careful out there.
 <$12>
@@ -507,7 +507,7 @@ M'kay, let's be careful out there.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //適当に　からかってから\n戻りましょうよ
 It wouldn't hurt to poke around a little\n
 before leaving.
@@ -519,7 +519,7 @@ before leaving.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //それと、この辺りの動物なら\nケンひとりでも　楽勝よ∥
 Shoot, you could take on the animals here all\n
 by yourself!
@@ -531,7 +531,7 @@ by yourself!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは肉を投げようとした…
 Ken threw the meat...
 <$12>
@@ -548,7 +548,7 @@ weird that'd look here, he stopped.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$15>
 //W○ボタンで肉を投げます
@@ -560,7 +560,7 @@ W○ button: Throw meat
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //この洞くつの　奥のほうの岩には\nだまされんなよ\nあの岩は　
 Don't be fooled by the rocks deep in the\n
 cave. Some of those are＿
@@ -582,7 +582,7 @@ might make it...crabby.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -600,7 +600,7 @@ SKen found the＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -618,7 +618,7 @@ had to go back.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -636,7 +636,7 @@ SKen acquired＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -654,7 +654,7 @@ SKen found the＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -672,7 +672,7 @@ had to go back.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -692,7 +692,7 @@ SKen acquired＿
 
 #WRITE(PTR, $0034)
 //テント
-<$06>Tent＿
+Tent＿
 <$00>
 
 
@@ -700,7 +700,7 @@ SKen acquired＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -716,7 +716,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -733,7 +733,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -750,7 +750,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -761,7 +761,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -772,7 +772,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -783,7 +783,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //おいら、モレクだけど、何か用かい？\n
 I'm Moloch, and you are?\n
 <$01>
@@ -806,7 +806,7 @@ I'm Moloch, and you are?\n
 
 
 //少し
-<$06>less than a year
+less than a year
 <$00>
 
 
@@ -815,7 +815,7 @@ I'm Moloch, and you are?\n
 
 
 //１年
-<$06>1 year
+1 year
 <$00>
 
 
@@ -824,7 +824,7 @@ I'm Moloch, and you are?\n
 
 
 //２年
-<$06>2 years
+2 years
 <$00>
 
 
@@ -833,7 +833,7 @@ I'm Moloch, and you are?\n
 
 
 //３年
-<$06>3 years
+3 years
 <$00>
 
 
@@ -842,7 +842,7 @@ I'm Moloch, and you are?\n
 
 
 //４年
-<$06>4 years
+4 years
 <$00>
 
 
@@ -851,7 +851,7 @@ I'm Moloch, and you are?\n
 
 
 //５年
-<$06>5 years
+5 years
 <$00>
 
 
@@ -860,7 +860,7 @@ I'm Moloch, and you are?\n
 
 
 //６年
-<$06>6 years
+6 years
 <$00>
 
 
@@ -869,7 +869,7 @@ I'm Moloch, and you are?\n
 
 
 //７年
-<$06>7 years
+7 years
 <$00>
 
 
@@ -877,7 +877,7 @@ I'm Moloch, and you are?\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //え￠　あと
 Oh, yeah! That "meteorite" said to "hit us"\n
 in＿
@@ -901,7 +901,7 @@ Yeah, it's fake
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…だと思ったよ\nおいら　それがイヤで　ここで\nひとりで　暮してんだ…
 Yeah, that's what I thought.\n
 I moved out here alone to get away from all\n
@@ -914,7 +914,7 @@ that headline conspiracy drama!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //マジかよ￠
 Yes, dude!
 <$12>
@@ -939,7 +939,7 @@ Yes, dude!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //笑えないよな…　つまらない冗談は\nおいらの人生だけで　十分さ
 That's so funny, I forgot to laugh!\n
 I'm fine here, thanks.
@@ -951,7 +951,7 @@ I'm fine here, thanks.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…だとしたら\nこんな所で　のん気にアウトライフを\n気取ってる場合じゃねぇなぁ
 ...If it is real, I'm not going to waste my\n
 last years on Neo Kenya bumming it out here.
@@ -975,7 +975,7 @@ by?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -992,7 +992,7 @@ Catcaller skill!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //鳴きマネをすれば　動物が仲間と\n間違えて　寄って来るって寸法よ
 If you squeal like an animal, another animal\n
 might mistake you for a friend and appear.
@@ -1010,7 +1010,7 @@ repertoire. Anyways, over and out!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //暇なんだな…
 Free at last...
 <$12>
@@ -1021,7 +1021,7 @@ Free at last...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ありゃ￠　まずい所で会っちまったな…\nどうやら俺って、レンジャー隊の仕事が\nあまり　向いてないみたいでさ…
 Darn, I didn't think I'd be found here. I'm\n
 not cut out for this ranger business.
@@ -1051,7 +1051,7 @@ like to keep this between us.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //で、まぁ…　要するに…　何だな…
 Hmm, well.. How do I...\n
 Aw, fuck it.
@@ -1069,7 +1069,7 @@ by 1 space while I clear my head.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1085,7 +1085,7 @@ SKen received the Basement Key!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //その鍵は　本部の地下倉庫の\n鍵なんだけど　何だか急に　君らに\nあげたくなったりして…　ハハハ…
 That key opens the storage room back in HQ.\n
 You'll get more use out of it than me, hehe.
@@ -1097,7 +1097,7 @@ You'll get more use out of it than me, hehe.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //まっ、ひとつオンビンにな
 Just keep it on the down-low.
 <$12>
@@ -1110,7 +1110,7 @@ Just keep it on the down-low.
 
 #WRITE(PTR, $0036)
 //テント
-<$06>Tent＿
+Tent＿
 <$00>
 
 
@@ -1118,7 +1118,7 @@ Just keep it on the down-low.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -1134,7 +1134,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -1151,7 +1151,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -1168,7 +1168,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -1179,7 +1179,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -1190,7 +1190,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -1202,7 +1202,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 //無抵抗の動物より　ちょっと\nジタバタ　抵抗してみせてくれる\n動物のほうが　ドキドキするよな？
-<$06>Animals who show a little resistance are\n
+Animals who show a little resistance are\n
 loads funner to challenge in combat.
 <$12>
 \n
@@ -1229,7 +1229,7 @@ Hehehe, it's all the thrill of the hunt.
 #WRITE(PTR, $003E)
 #WRITE(PTR, $0040)
 #WRITE(PTR, $0042)
-<$06><CLEAR>
+<CLEAR>
 //お客さん…\nホスピコの入り口に　並んでる\n哀れな猟犬の墓を　数えてごらん
 Sir, go look at the pet cemetary along the\n
 Hospico entrance.
@@ -1255,7 +1255,7 @@ don't you?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //猟犬の収容枠が　いっぱいです\nこれ以上、猟犬を増やせません
 You have reached the max amount of dogs you\n
 can own at one time.
@@ -1267,12 +1267,12 @@ can own at one time.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //登録料　
 The adoption fee is over\n
 <$15>
 //b
-<$1E><$14>
+<$06><$1E><$04><$14>
 //￥が足りません\n銀行で　ご都合ください
 ￥.\n
 Get a loan from the bank.
@@ -1285,7 +1285,7 @@ Get a loan from the bank.
 
 
 //その名前は　既に登録されています\n別の名前を　つけてください
-<$06>Sorry, that name is taken.\n
+Sorry, that name is taken.\n
 Choose a new name.
 <$12>
 <$00>
@@ -1295,7 +1295,7 @@ Choose a new name.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //猟犬
 Adopt＿
 <$1D>
@@ -1349,7 +1349,7 @@ S
 
 
 //個
-<$06>＿
+＿
 <$00>
 
 
@@ -1358,7 +1358,7 @@ S
 
 
 //匹
-<$06>＿
+＿
 <$00>
 
 
@@ -1366,13 +1366,13 @@ S
 
 
 
-<$06><$1D>
+<$1D>
 //を
 ＿x
 <$1D>
 //ます\n
 ＿\n
-<$19>
+<$06><$19>
 //1
 1
 <$01><$1A>
@@ -1384,7 +1384,7 @@ S
 <$19>
 //0
 0
-
+<$04>
 //／
 ／
 <$14><$1E>
@@ -1420,7 +1420,7 @@ S￥
 TCU (x
 <$1E>
 //034
-
+<$06>
 //)
 )
 <$00>
@@ -1430,7 +1430,7 @@ TCU (x
 
 
 
-<$06><$05>
+<$05>
 //γ
 A
 <$00>
@@ -1440,7 +1440,7 @@ A
 
 
 
-<$06><$05>
+<$05>
 //ζ
 D
 <$00>
@@ -1450,7 +1450,7 @@ D
 
 
 
-<$06><$1E>
+<$1E>
 //@019
 @019
 <$00>
@@ -1460,7 +1460,7 @@ D
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //セレクトボタンで解説が出ます
 SELECT: Details
 <$00>
@@ -1477,7 +1477,7 @@ SELECT: Details
 
 
 
-<$06><$16><$15>
+<$04><$16><$15>
 //W
 W
 <$01><$1D><$02>
@@ -1496,14 +1496,14 @@ W
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //トランスカーゴは　１枠につき\n
 The trans-cargo unit has\n
 a＿
-
+<$06>
 //99
 99
-
+<$04>
 //頭までしか　収容できません
 ＿species capacity!
 <$12>
@@ -1514,12 +1514,12 @@ a＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
-
+<$06>
 //トランスカーゴ
 The trans-cargo unit＿
-
+<$04>
 //がいっぱいです
 is full!
 <$12>
@@ -1530,7 +1530,7 @@ is full!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //道具がいっぱいです
 The item bag is full!
 <$12>
@@ -1541,7 +1541,7 @@ The item bag is full!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1D><$15>
 //Wは\nＡ級保護動物のため\n取り引きできません
@@ -1563,11 +1563,11 @@ trading is prohibited!
 
 
 
-<$06><$16><$01><$1D><$02>
+<$16><$04><$01><$1D><$02>
 //120
 <$0E><$02>
 //216
-<$1E>
+<$06><$1E><$04>
 //匹で
 x＿
 <$00>
@@ -1577,7 +1577,7 @@ x＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 Craft＿
 <$1D>
@@ -1599,14 +1599,14 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 Crafting a＿
 <$1D>
 //を作ります\n加工料金＿
 ＿\n
 will cost
-<$1D><$1E><$14>
+<$1D><$06><$1E><$04><$14>
 //￥\n
 ￥.\n
 <$01>
@@ -1625,7 +1625,7 @@ Wait
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //お金が足りません
 You can't afford this!
 <$12>
@@ -1636,7 +1636,7 @@ You can't afford this!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物が足りません
 You don't have the animals!
 <$12>
@@ -1647,13 +1647,13 @@ You don't have the animals!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //加工料金＿
 You can't afford the＿\n
 <$15>
 //b
 b
-<$1E><$14>
+<$06><$1E><$04><$14>
 //￥\nが足りません
 ￥ fee!
 <$12>
@@ -1684,7 +1684,7 @@ b
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //道具がいっぱいです
 The item bag is full!
 <$12>
@@ -1696,7 +1696,7 @@ The item bag is full!
 
 
 //
-<$06><$15>
+<$15>
 //Y野＿営／メニュー
 YCamp／Menu
 <$00>
@@ -1706,21 +1706,21 @@ YCamp／Menu
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
-
+<$06>
 //スタートボタン
 START:＿
-
+<$04>
 //でカーソルを「開始」に移動
 Highlight "Okay!"
 <$11>
 //240<CLEAR>もう１度
 240<CLEAR>(Again)
-
+<$06>
 //スタートボタン
 START:＿
-
+<$04>
 //で野営実行
 Begin camping!
 <$11>
@@ -1740,7 +1740,7 @@ Begin camping!
 
 
 
-<$06><$15>
+<$15>
 //W
 W
 <$1D><$02>
@@ -1762,7 +1762,7 @@ Watch
 
 
 
-<$06><$15>
+<$15>
 //W
 W
 <$01>
@@ -1776,7 +1776,7 @@ Okay!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //猟犬の収容枠が　いっぱいです\nこれ以上、猟犬を増やせません
 You have reached the max amount of dogs you\n
 can own at one time.
@@ -1788,7 +1788,7 @@ can own at one time.
 
 
 
-<$06><$01><$1D>
+<$01><$1D>
 //食料加工
 Butcher
 <$0E>
@@ -1811,7 +1811,7 @@ Trapper
 
 
 
-<$06><$01><$1D>
+<$01><$1D>
 //食料加工
 Butcher
 <$0E>
@@ -1834,7 +1834,7 @@ Warden
 
 
 
-<$06><$01><$1D>
+<$01><$1D>
 //食料加工
 Butcher
 <$0E>
@@ -1851,7 +1851,7 @@ Forger
 
 
 
-<$06><$01><$1D>
+<$01><$1D>
 //食料加工
 Butcher
 <$0E>
@@ -1863,7 +1863,7 @@ Butcher
 
 
 //＿寝る
-<$06>＿Sleep
+＿Sleep
 <$00>
 
 
@@ -1871,7 +1871,7 @@ Butcher
 
 
 
-<$06><$08>
+<$08>
 //7見張り
 7Watch
 <$00>
@@ -1881,7 +1881,7 @@ Butcher
 
 
 
-<$06><$08>
+<$08>
 //7食料加工
 7Butcher
 <$00>
@@ -1891,7 +1891,7 @@ Butcher
 
 
 
-<$06><$08>
+<$08>
 //7装備加工
 7Forger
 <$00>
@@ -1901,7 +1901,7 @@ Butcher
 
 
 
-<$06><$08>
+<$08>
 //7ワナ製作
 7Trapper
 <$00>
@@ -1911,7 +1911,7 @@ Butcher
 
 
 
-<$06><$08>
+<$08>
 //7猟犬調教
 7Tamer
 <$00>
@@ -1922,7 +1922,7 @@ Butcher
 
 
 //道具捨てる
-<$06>Trash items
+Trash items
 <$00>
 
 
@@ -1931,7 +1931,7 @@ Butcher
 
 
 //＿猟＿犬
-<$06>＿Dogs
+＿Dogs
 <$00>
 
 
@@ -1940,7 +1940,7 @@ Butcher
 
 
 //＿やめる
-<$06>＿Exit
+＿Exit
 <$00>
 
 
@@ -1948,15 +1948,15 @@ Butcher
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1D>
 //の\n
 's＿
-
+<$06>
 //HP 
 HP
-
+<$04>
 //全回復∥
 ＿recovered fully!
 <$12>
@@ -1967,15 +1967,15 @@ HP
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1D>
 //の\n
 's\n
-
+<$06>
 //HP 
 HP recovered by＿
-<$1E>
+<$04><$1E>
 //回復∥
 !
 <$12>
@@ -1986,15 +1986,15 @@ HP recovered by＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1D>
 //の\n
 's\n
-
+<$06>
 //BP 
 BP
-
+<$04>
 //全回復∥
 ＿recovered fully!
 <$12>
@@ -2005,15 +2005,15 @@ BP
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1D>
 //の\n
 's\n
-
+<$06>
 //BP 
 BP recovered by＿
-<$1E>
+<$04><$1E>
 //回復∥
 !
 <$12>
@@ -2025,7 +2025,7 @@ BP recovered by＿
 
 
 //
-<$06><$15>
+<$15>
 //Y野＿営／メニュー
 YCamp／Menu
 <$00>
@@ -2036,7 +2036,7 @@ YCamp／Menu
 
 
 //\n
-<$06>\n
+\n
 <$00>
 
 
@@ -2044,7 +2044,7 @@ YCamp／Menu
 
 
 
-<$06><$01><$1D><$02>
+<$01><$1D><$02>
 //70
 70
 <$0E>
@@ -2056,7 +2056,7 @@ YCamp／Menu
 
 
 //
-<$06><$15>
+<$15>
 //Y野＿営／食料加工
 YCamp/Butcher
 <$00>
@@ -2067,7 +2067,7 @@ YCamp/Butcher
 
 
 //
-<$06><$15>
+<$15>
 //Y野＿営／装備加工
 YCamp／Forger
 <$00>
@@ -2077,7 +2077,7 @@ YCamp／Forger
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //猟犬を収める　スペースがありません
 You have no space for dogs!
 <$12>
@@ -2088,7 +2088,7 @@ You have no space for dogs!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　ホスピコの入り口に眠る\n猟犬たちの顔を　思い出した…\nビシバシ調教が　できなくなった∥
 The faces of dogs buried in Hospico flashed\n
 through Linda's mind. The training ends here.
@@ -2101,7 +2101,7 @@ through Linda's mind. The training ends here.
 
 
 //
-<$06><$15>
+<$15>
 //Y野＿営／登＿録
 YCamp/Adopt
 <$00>
@@ -2112,7 +2112,7 @@ YCamp/Adopt
 
 
 //
-<$06><$15>
+<$15>
 //Y野営／道具捨てる
 YCamp/Trash items
 <$00>
@@ -2123,7 +2123,7 @@ YCamp/Trash items
 
 
 //
-<$06><$15>
+<$15>
 //Y野営／猟＿犬
 YCamp/Dogs
 <$00>
@@ -2133,7 +2133,7 @@ YCamp/Dogs
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //道具がいっぱいです
 The item bag is full!
 <$12>
@@ -2144,7 +2144,7 @@ The item bag is full!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ワナは一晩で　ひとつしか作れない
 Only 1 trap can be made per night.
 <$12>
@@ -2155,7 +2155,7 @@ Only 1 trap can be made per night.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは「自前のワナ」を\nひとつ作った∥
 Ken made a Handy Trap!
 <$12>
@@ -2167,7 +2167,7 @@ Ken made a Handy Trap!
 
 
 //……東
-<$06>...East
+...East
 <$00>
 
 
@@ -2176,7 +2176,7 @@ Ken made a Handy Trap!
 
 
 //……西
-<$06>...West
+...West
 <$00>
 
 
@@ -2185,7 +2185,7 @@ Ken made a Handy Trap!
 
 
 //……南
-<$06>...South
+...South
 <$00>
 
 
@@ -2194,7 +2194,7 @@ Ken made a Handy Trap!
 
 
 //……北
-<$06>...North
+...North
 <$00>
 
 
@@ -2203,7 +2203,7 @@ Ken made a Handy Trap!
 
 
 //…北東
-<$06>...North-east
+...North-east
 <$00>
 
 
@@ -2212,7 +2212,7 @@ Ken made a Handy Trap!
 
 
 //…北西
-<$06>...North-west
+...North-west
 <$00>
 
 
@@ -2221,7 +2221,7 @@ Ken made a Handy Trap!
 
 
 //…南東
-<$06>...South-east
+...South-east
 <$00>
 
 
@@ -2230,7 +2230,7 @@ Ken made a Handy Trap!
 
 
 //…南西
-<$06>...South-west
+...South-west
 <$00>
 
 
@@ -2238,7 +2238,7 @@ Ken made a Handy Trap!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -2250,7 +2250,7 @@ Ken made a Handy Trap!
 
 
 //、…
-<$06>! That's where we'll find a＿
+! That's where we'll find a＿
 <$1D>
 //に行けば
 .
@@ -2262,7 +2262,7 @@ Ken made a Handy Trap!
 
 
 //直進
-<$06>For
+For
 <$00>
 
 
@@ -2271,7 +2271,7 @@ Ken made a Handy Trap!
 
 
 //右よ
-<$06>Right
+Right
 <$00>
 
 
@@ -2280,7 +2280,7 @@ Ken made a Handy Trap!
 
 
 //左よ
-<$06>Left
+Left
 <$00>
 
 
@@ -2289,7 +2289,7 @@ Ken made a Handy Trap!
 
 
 //後ろ
-<$06>Back
+Back
 <$00>
 
 
@@ -2297,7 +2297,7 @@ Ken made a Handy Trap!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -2309,7 +2309,7 @@ Ken made a Handy Trap!
 
 
 //、絶対に
-<$06>wards, got it? I'm sure we'll find a＿
+wards, got it? I'm sure we'll find a＿
 <$1D>
 //∥
 ＿there!
@@ -2320,7 +2320,7 @@ Ken made a Handy Trap!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -2335,7 +2335,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…ごめんね、\n今日は　勘がはたらかないわ…
 ...Sorry. I don't have it in me today.
 <$12>
@@ -2347,7 +2347,7 @@ SLinda used her woman's intuition...
 
 
 //運命の
-<$06>Fated＿
+Fated＿
 <$00>
 
 
@@ -2356,7 +2356,7 @@ SLinda used her woman's intuition...
 
 
 //新しい
-<$06>New＿
+New＿
 <$00>
 
 
@@ -2365,7 +2365,7 @@ SLinda used her woman's intuition...
 
 
 //素敵な
-<$06>Great＿
+Great＿
 <$00>
 
 
@@ -2374,7 +2374,7 @@ SLinda used her woman's intuition...
 
 
 //未知の
-<$06>Unknown＿
+Unknown＿
 <$00>
 
 
@@ -2383,7 +2383,7 @@ SLinda used her woman's intuition...
 
 
 //何か
-<$06>things＿
+things＿
 <$00>
 
 
@@ -2392,7 +2392,7 @@ SLinda used her woman's intuition...
 
 
 //発見
-<$06>discoveries＿
+discoveries＿
 <$00>
 
 
@@ -2401,7 +2401,7 @@ SLinda used her woman's intuition...
 
 
 //お宝
-<$06>treasures＿
+treasures＿
 <$00>
 
 
@@ -2410,7 +2410,7 @@ SLinda used her woman's intuition...
 
 
 //動物
-<$06>animals＿
+animals＿
 <$00>
 
 
@@ -2419,7 +2419,7 @@ SLinda used her woman's intuition...
 
 
 //に　出会える…
-<$06>could appear.
+could appear.
 <$00>
 
 
@@ -2428,7 +2428,7 @@ SLinda used her woman's intuition...
 
 
 //が　待ってる…
-<$06>await us...
+await us...
 <$00>
 
 
@@ -2437,7 +2437,7 @@ SLinda used her woman's intuition...
 
 
 //気がするわ∥
-<$06>are there.
+are there.
 <$00>
 
 
@@ -2446,7 +2446,7 @@ SLinda used her woman's intuition...
 
 
 //チャンスよ∥
-<$06>are in our grasp!
+are in our grasp!
 <$00>
 
 
@@ -2455,7 +2455,7 @@ SLinda used her woman's intuition...
 
 
 //今しかないわ
-<$06>could slip through our fingers!
+could slip through our fingers!
 <$00>
 
 
@@ -2464,7 +2464,7 @@ SLinda used her woman's intuition...
 
 
 //間違いなし∥
-<$06>are dead head!
+are dead head!
 <$00>
 
 
@@ -2473,7 +2473,7 @@ SLinda used her woman's intuition...
 
 
 //\n
-<$06>\n
+\n
 <$1D><$1D><$1D>
 //\n
 \n
@@ -2488,7 +2488,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信があるの∥
 I'm sure of it!
 <$12>
@@ -2499,7 +2499,7 @@ I'm sure of it!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信は　ないけどね…
 Although, I'm not totally certain...
 <$12>
@@ -2510,7 +2510,7 @@ Although, I'm not totally certain...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //絶対なんだから∥
 I'm absolutely certain!
 <$12>
@@ -2521,7 +2521,7 @@ I'm absolutely certain!
 
 
 
-<$06><$1D>
+<$1D>
 //　
 
 <$1E>
@@ -2535,7 +2535,7 @@ x\n
 
 
 //ここに「貸しワナ」を仕掛けますか？\n
-<$06>Set the Rental Trap here?\n
+Set the Rental Trap here?\n
 <$01>
 //は＿い
 Yes
@@ -2552,7 +2552,7 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　「貸しワナ」をそっと置いた
 Ken carefully set the Rental Trap.
 <$00>
@@ -2568,7 +2568,7 @@ Ken carefully set the Rental Trap.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　「自前ワナ」の設置場所を\n一度に　３ヵ所しか\n覚えられそうにない…
 Ken can only remember up to 3 Makeshift Trap\n
 locations at a time.
@@ -2580,7 +2580,7 @@ locations at a time.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここに「自前のワナ」を仕掛けますか？\n
 Set the Makeshift Trap here?\n
 <$01>
@@ -2599,7 +2599,7 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　「自前のワナ」をそっと置いた
 Ken set the Makeshift Trap.
 <$00>
@@ -2615,7 +2615,7 @@ Ken set the Makeshift Trap.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //やっぱり　ケンは\n前に仕掛けた　「自前のワナ」の場所を\nひとつ　忘れてしまった…　トホホ…
 ...Oops! As expected, Ken forgot the location\n
 of 1 previously set Makeshift Trap.
@@ -2627,7 +2627,7 @@ of 1 previously set Makeshift Trap.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -2648,7 +2648,7 @@ Ken whistfully put down the Money Trap.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -2663,7 +2663,7 @@ SKen inspected the Makeshift Trap.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -2679,7 +2679,7 @@ Ken whistfully put down the Makeshift Trap.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -2694,7 +2694,7 @@ SThe trap was destroyed...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -2720,7 +2720,7 @@ let it go.
 <$06>
 //TRANS-CARGO IN
 Now loading to TCU...
-
+<$04>
 //∥
 !
 <$12>
@@ -2732,7 +2732,7 @@ Now loading to TCU...
 
 
 //リンダは　動物たちの\n鳴きマネをした
-<$06>Linda mimicked a few animal calls.
+Linda mimicked a few animal calls.
 <$00>
 
 
@@ -2741,7 +2741,7 @@ Now loading to TCU...
 
 
 //ケンは　目立たないように\n気配を殺した
-<$06>Ken masked the party to avoid detection.
+Ken masked the party to avoid detection.
 <$00>
 
 
@@ -2756,7 +2756,7 @@ Now loading to TCU...
 
 
 //ケンは　「迷彩スプレー」を\n使った
-<$06>Ken used the Cover Spray.
+Ken used the Cover Spray.
 <$00>
 
 
@@ -2764,7 +2764,7 @@ Now loading to TCU...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //スプレーは　空になった
 The spray ran out.
 <$12>
@@ -2776,7 +2776,7 @@ The spray ran out.
 
 
 //ケンは　「中和スプレー」を\n使った
-<$06>Ken used the Neutralizer.
+Ken used the Neutralizer.
 <$00>
 
 
@@ -2784,7 +2784,7 @@ The spray ran out.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //スプレーは　空になった
 The spray ran out.
 <$12>
@@ -2796,7 +2796,7 @@ The spray ran out.
 
 
 //ケンは　「シャニルＮｏ５」を\n自分にふりかけた
-<$06>Ken sprinkled the Chanel No. 5 over himself.
+Ken sprinkled the Chanel No. 5 over himself.
 <$00>
 
 
@@ -2804,7 +2804,7 @@ The spray ran out.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　脱出ユニットを使った
 Ken used the Escape Device!
 <$12>
@@ -2815,7 +2815,7 @@ Ken used the Escape Device!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //脱出先ノ　座標ガ\nＬＯＣＫ　ＯＮ　デキマセン
 UNABLE TO LOCK ON ESCAPE COORDINATES.
 <$12>
@@ -2832,7 +2832,7 @@ ESCAPE COORDINATE DATE WILL BE DELETED.
 
 
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -2847,7 +2847,7 @@ None of the scents around here stand out.
 
 
 //
-<$06><$15>
+<$15>
 //Yスケジュール
 YMemo＿
 <$00>
@@ -2857,7 +2857,7 @@ YMemo＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //スケジュールは何もありません
 There is nothing on schedule.
 <$12>
@@ -2869,7 +2869,7 @@ There is nothing on schedule.
 
 
 //成功終了
-<$06>Completed!
+Completed!
 <$00>
 
 
@@ -2878,7 +2878,7 @@ There is nothing on schedule.
 
 
 //期限切れ
-<$06>Expired!
+Expired!
 <$00>
 
 
@@ -2887,7 +2887,7 @@ There is nothing on schedule.
 
 
 //あと
-<$06>In＿
+In＿
 <$1E>
 //季節
 ＿seasons
@@ -2899,7 +2899,7 @@ There is nothing on schedule.
 
 
 //あと
-<$06>Deadline:＿
+Deadline:＿
 <$1E>
 //年
 Y/
@@ -2914,7 +2914,7 @@ S
 
 
 //あと
-<$06>In＿
+In＿
 <$1E>
 //年
 ＿years
@@ -2925,7 +2925,7 @@ S
 
 
 
-<$06><$16><$01>
+<$16><$01>
 //◇
 ◇
 <$0E><$1D><$02>
@@ -2939,7 +2939,7 @@ S
 
 
 //ファングを倒す
-<$06>Slay Fang
+Slay Fang
 <$00>
 
 
@@ -2948,7 +2948,7 @@ S
 
 
 //パンハイムからの依頼
-<$06>Assist Panheim
+Assist Panheim
 <$00>
 
 
@@ -2958,7 +2958,7 @@ S
 
 //<$1B>
 //カメの卵を手に入れる
-<$06>Snatch Turtle Eggs
+Snatch Turtle Eggs
 <$00>
 
 
@@ -2968,7 +2968,7 @@ S
 
 //<$1B>
 //プテラノの卵を手に入れる
-<$06>Snatch Pteranodon Eggs
+Snatch Pteranodon Eggs
 <$00>
 
 
@@ -2977,7 +2977,7 @@ S
 
 
 //遺産争いにケリをつける
-<$06>End the inheritance battle
+End the inheritance battle
 <$00>
 
 
@@ -2986,7 +2986,7 @@ S
 
 
 //ヤマダのために一肌脱ぐ
-<$06>Unload for Yamada
+Unload for Yamada
 <$00>
 
 
@@ -2995,7 +2995,7 @@ S
 
 
 //町のシンボルを見つけだす
-<$06>Find the village symbol
+Find the village symbol
 <$00>
 
 
@@ -3004,7 +3004,7 @@ S
 
 
 //ソフィアからの依頼
-<$06>Assist Sophia
+Assist Sophia
 <$00>
 
 
@@ -3013,7 +3013,7 @@ S
 
 
 //サチコ救出
-<$06>Rescue Sachiko
+Rescue Sachiko
 <$00>
 
 
@@ -3022,7 +3022,7 @@ S
 
 
 //ポロポロちゃんを助ける
-<$06>Save Nightshade
+Save Nightshade
 <$00>
 
 
@@ -3031,7 +3031,7 @@ S
 
 
 //アンジェラ捜し
-<$06>Find Angela
+Find Angela
 <$00>
 
 
@@ -3039,7 +3039,7 @@ S
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //カラゴラムのファングを倒し、その証拠を\nハーディアホテルのスペクターに渡す
 Defeat Fang in Karhagolem. Present proof to\n
 Spectre in Hardia Hotel.
@@ -3050,7 +3050,7 @@ Spectre in Hardia Hotel.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //マーブルポリスの
 Process meat from＿
 //<$1B>
@@ -3064,7 +3064,7 @@ Panheim in Hospico.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 Find up to 3＿
 //<$1B>
@@ -3078,7 +3078,7 @@ Park BB Ranch.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 Acquire 2＿
 //<$1B>
@@ -3092,7 +3092,7 @@ Battle Park BB Ranch.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「太郎の首輪」を見つけだし、ドギファの\nナターシャか、オーマン家３兄弟に渡す
 Locate Taro's Collar. Give it to Natasha or\n
 one of the 3 Aumann children in Dogyf\n
@@ -3105,7 +3105,7 @@ Heights.
 
 
 //６万
-<$06>60, 000
+60, 000
 <$00>
 
 
@@ -3114,10 +3114,10 @@ Heights.
 
 
 //あと
-<$06>another＿
-<$1E><$0F>
+another＿
+<$06><$1E><$0F>
 //000
-
+<$04>
 <$00>
 
 
@@ -3125,7 +3125,7 @@ Heights.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //Ｇファクトリーのヤマダのために\n
 Deposit＿
 <$1D>
@@ -3138,7 +3138,7 @@ Deposit＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //コシカタのシンボル「
 Find the＿
 //<$1B>
@@ -3152,7 +3152,7 @@ Return it to Poliska.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ソフィアのために、エターナの桜の木を\nどうにかして咲かせる
 Find out how to revive the sakura trees in\n
 Eterna for Sophia.
@@ -3163,7 +3163,7 @@ Eterna for Sophia.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //溶岩の中で育った動物の熱いウンチを\nエターナのソフィアに渡す
 Deliver Hot Dung from a lava-dwelling\n
 creature to Sophia in Eterna.
@@ -3174,7 +3174,7 @@ creature to Sophia in Eterna.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ラグナロッジのエモリに会いに行く
 Meet with Dr. Emori in Ragna Rim.
 <$00>
@@ -3184,13 +3184,13 @@ Meet with Dr. Emori in Ragna Rim.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「フロッピーと
 Take the Floppy Disc and＿
-
+<$06>
 //10
 10, 000
-
+<$04>
 //万￥」を持って、\nＧファクトリー入口１階、\n公衆電話の前に行く
 ￥ to the G Factory gate. Answer the payphone.
 <$00>
@@ -3200,13 +3200,13 @@ Take the Floppy Disc and＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「フロッピーと
 Take the Floppy Disc and＿
-
+<$06>
 //10
 10, 000
-
+<$04>
 //万￥」を持って、\nパラサイド入口１階、\n公衆電話の前に行く
 ￥ to the Paraside gate. Answer the payphone.
 <$00>
@@ -3216,13 +3216,13 @@ Take the Floppy Disc and＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「フロッピーと
 Take the Floppy Disc and＿
-
+<$06>
 //10
 10, 000
-
+<$04>
 //万￥」を持って、\nガレックスに行く
 ￥ to Galax.
 <$00>
@@ -3232,7 +3232,7 @@ Take the Floppy Disc and＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す
 Pick bloodberries in Flora Jam. Take them to\n
 Kevin and Nightshade in Rose Garden.
@@ -3243,7 +3243,7 @@ Kevin and Nightshade in Rose Garden.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //パラサイドの酒場にいるアンジェラを\n確認して、リナバレーのマリオに連絡する
 Look for Angela at the Paraside bar. Report\n
 your findings to Mario in Spurr Valley.
@@ -3254,7 +3254,7 @@ your findings to Mario in Spurr Valley.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //アンジェラを確認するために、\nオズポートホテルの酒場に行く
 Look for Angela at the OzPort Hotel bar.
 <$00>
@@ -3264,7 +3264,7 @@ Look for Angela at the OzPort Hotel bar.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //アンジェラを確認するために、\n西エリアのしけた町のホテルに行く
 Look for Angela at a hotel bar somewhere in\n
 West Area.
@@ -3275,7 +3275,7 @@ West Area.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //アンジェラを確認するために、\nドギファの舞台に行く
 Look for Angela at the theater stage in Dogyf\n
 Heights.
@@ -3286,7 +3286,7 @@ Heights.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リナバレーのマリオの母、\nアンジェラを追ってオズサットへ行く
 Chase Angela to OzSat! Mario will follow from\n
 Spurr Valley.
@@ -3298,7 +3298,7 @@ Spurr Valley.
 
 
 #WRITE(PTR, $0044)
-<$06><CLEAR>
+<CLEAR>
 //ケン、あなたのお母さんって\nとても素敵な女性ね…\nそれから　あの隊長さんも
 Ken, you know how your mom and the captain\n
 are both attractive, right?
@@ -3309,7 +3309,7 @@ are both attractive, right?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //おつきあいしてるんでしょ？\nお母さんと　隊長さん、
 So, are they, well, hooking up?
 <$00>
@@ -3320,7 +3320,7 @@ So, are they, well, hooking up?
 
 
 //\n
-<$06>\n
+\n
 <$01>
 //みたいだな
 Seems like it.
@@ -3338,7 +3338,7 @@ Are you crazy?!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //きっと　亡くなったお父さんも\n祝福してくださってると\n思うわ
 Aww, if your father's weeping in heaven, I'm\n
 sure it's from joy.
@@ -3349,7 +3349,7 @@ sure it's from joy.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //えッ…￠　やだ　私ったら…\nとんだ勘違いをしてたわ\nごめんなさいね
 Ah, whoops. Guess I got the wrong impression.\n
 Sorry...
@@ -3360,7 +3360,7 @@ Sorry...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //頼むわね　ケンちゃん！\nたとえ　どんなことがあっても\nリンダを守ってやってね
 Promise me, Kenny.\n
 No matter what happens,\n
@@ -3372,7 +3372,7 @@ take care of our Linda.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //お願いよ\nお願い…
 Please, promise me...
 <$00>
@@ -3382,7 +3382,7 @@ Please, promise me...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ねぇ　ケン！\n私の記憶の　扉を開ける\n合い言葉って　何だったの？
 So, what were the secret keywords you used to\n
 awaken my memory?
@@ -3393,7 +3393,7 @@ awaken my memory?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //あの時、頭がボーッとしてたから\nゼンゼン　覚えてないんだよね\nケン、何か叫んでたでしょ？
 My head was so loopy, I don't remember what\n
 happened. Well? What did you say?
@@ -3404,7 +3404,7 @@ happened. Well? What did you say?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ねぇ　何て言ってたの？　ケン\nもう一度　聞きたいなぁ\nねぇ、ねぇったら…
 Aww, what was it, Ken? I want to hear you say\n
 it again. Pretty please?
@@ -3415,7 +3415,7 @@ it again. Pretty please?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…もぉ！　何よ！\n
 ...You're kidding.\n
 Little＿
@@ -3429,7 +3429,7 @@ rat bastard fell asleep, huh. Oh, well...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……………………
 .........
 <$12>
@@ -3440,7 +3440,7 @@ rat bastard fell asleep, huh. Oh, well...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケン………………
 Ken.........
 <$00>
@@ -3450,7 +3450,7 @@ Ken.........
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //私も　世界中で一番、\nあなたが　好きよ…
 I love you too. More than anything else in\n
 the whole, wide world.
@@ -3461,7 +3461,7 @@ the whole, wide world.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //チュッ■　　おやすみ～
 Smooch.■\n
 Good night.
@@ -3473,7 +3473,7 @@ Good night.
 
 
 #WRITE(PTR, $0046)
-<$06><CLEAR>
+<CLEAR>
 //ねぇ　ケン…
 Hey, Ken...
 <$00>
@@ -3483,7 +3483,7 @@ Hey, Ken...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //今度　生まれてくる時も\nお嫁に　もらってくれる？
 Will you take me as your bride in the next\n
 life too?
@@ -3495,7 +3495,7 @@ life too?
 
 
 //\n
-<$06>\n
+\n
 <$01>
 //ああ、いいよ
 I'd love that!
@@ -3513,7 +3513,7 @@ Application denied
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ありがと、ウソでも嬉しいわ\nケンって　昔からやさしいのよね\nこわいくらい…
 Thanks. Even if it's only a white lie, I'm\n
 happy to hear that. It's scary how good\n
@@ -3525,7 +3525,7 @@ you've been to me all this time.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…ってほどでも　ないけどサ\n私、これでも　ケンには\nけっこう　感謝してるんだ
 ...Well, not that I get "scared". I might not\n
 show it outright, but I'm very grateful, Ken.
@@ -3536,7 +3536,7 @@ show it outright, but I'm very grateful, Ken.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //いつも　ありがと■
 Thank you, always.■
 <$00>
@@ -3546,7 +3546,7 @@ Thank you, always.■
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //あれ？　どうして　私が次は\n男に　生まれてこようと\n思ってること　バレたの？
 Aww, how did you know I was thinking of being\n
 born as a man next time?
@@ -3557,7 +3557,7 @@ born as a man next time?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //じゃあサ、ケンが　女に\n生まれてくれば　いいのよ∥\nかわいがって　あげるわよ∥
 Come on, you'll be awesome as a woman too!\n
 Daddy'll treat you juuust right.■
@@ -3568,7 +3568,7 @@ Daddy'll treat you juuust right.■
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケン…　聞きたいことが\nあるんだけど　いい？
 Ken, may I ask you something?
 <$00>
@@ -3579,7 +3579,7 @@ Ken, may I ask you something?
 
 
 //\n
-<$06>\n
+\n
 <$01>
 //何でも聞きな
 Anything!
@@ -3597,7 +3597,7 @@ Sorry, I'm tired
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //愛する人に　一緒に死んでって\n頼まれたとしたら　一緒に死ぬ？
 If a loved on asked you to "die" with them,\n
 would you oblige?
@@ -3608,7 +3608,7 @@ would you oblige?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //じゃあ、愛する人に　ある誰かを\n殺してって　言われたら殺す？
 Then, if a loved one asked you to "kill" for\n
 them, would you?
@@ -3619,7 +3619,7 @@ them, would you?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //殺してほしい　ある誰かが\nその愛する人自身でも　同じ？
 Even if the target was the loved one in\n
 question?
@@ -3630,7 +3630,7 @@ question?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //普通の人って　だいたい\nケンと同じに　答えるもの？
 Do you suppose most people would answer that\n
 the same way?
@@ -3641,7 +3641,7 @@ the same way?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //そう…　安心したわ…
 I see. That's relieving.
 <$00>
@@ -3651,7 +3651,7 @@ I see. That's relieving.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //あっ…　ごめんなさい\n別に大したことじゃ　ないんです\nおやすみなさい
 Ah! Forgive me. It's not especially\n
 important. Have a good rest.
@@ -3663,7 +3663,7 @@ important. Have a good rest.
 
 
 //\n
-<$06>\n
+\n
 <$01>
 //は＿い
 Yes
@@ -3682,7 +3682,7 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //もし　ケンが　エモリ先生と同じ\n立場だったとしたら…\nつまりね…
 If you were in Dr. Emori's position, I wonder\n
 what you would do...
@@ -3693,7 +3693,7 @@ what you would do...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //娘が自殺して、クローンが造れて\n復讐を　実行に移す力も\n充分に　あったとしてね…
 Imagine your daughter committing suicide, and\n
 you had the power to exact revenge.
@@ -3704,7 +3704,7 @@ you had the power to exact revenge.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンなら　同じことを\nやったと思う？
 Would you have done the same, Ken?
 <$00>
@@ -3715,7 +3715,7 @@ Would you have done the same, Ken?
 
 
 //\n
-<$06>\n
+\n
 <$01>
 //かもな…
 Possibly
@@ -3733,7 +3733,7 @@ Never!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //やっぱりね∥
 I thought so!
 <$00>
@@ -3743,7 +3743,7 @@ I thought so!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ふーん　そうなんだ
 Hmm, I see.
 <$00>
@@ -3753,7 +3753,7 @@ Hmm, I see.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //私も　同じよ
 I'm the same, I think.
 <$00>
@@ -3763,7 +3763,7 @@ I'm the same, I think.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //そういうケンが　好きよ
 That's why I like you!
 <$00>
@@ -3773,7 +3773,7 @@ That's why I like you!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //無理しなくて　いいのに…
 It's better not to go overboard.
 <$00>
@@ -3783,7 +3783,7 @@ It's better not to go overboard.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //私たちって　死ぬまでに\nここから見える　星の数より\nたくさん　キスできるかなぁ？
 Before we die, do you think we'll get to kiss\n
 more times than there are stars in the sky?
@@ -3794,7 +3794,7 @@ more times than there are stars in the sky?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ねぇ　ケン…
 Hey, Ken...
 <$00>
@@ -3804,7 +3804,7 @@ Hey, Ken...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //近頃　上手くなったね■
 ...You've gotten better at this.■
 <$00>
@@ -3814,7 +3814,7 @@ Hey, Ken...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //気持ちが　負けそうになった時は\nケンを見るの
 When I feel like I can't go on, I look up to\n
 you.
@@ -3825,7 +3825,7 @@ you.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //だからケンは、いつも\n元気でいてくれないと　ダメよ！
 That's why I need you strong and healthy at\n
 all times!
@@ -3837,7 +3837,7 @@ all times!
 
 
 #WRITE(PTR, $0048)
-<$06><CLEAR>
+<CLEAR>
 //ねぇ　ケン？\n獣人に変身している時の\n私のこと　どう思ってる？
 Hey, Ken. When I morph into a Beastman, what\n
 do you think of me?
@@ -3848,7 +3848,7 @@ do you think of me?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自分じゃ　自分の格好は　よく\n見えないけど　やっぱりスゴイ？
 I can't see for myself,\n
 but I must look scary, right?
@@ -3860,7 +3860,7 @@ but I must look scary, right?
 
 
 //\n
-<$06>\n
+\n
 <$01>
 //けっこうね…
 Well, uh...
@@ -3878,7 +3878,7 @@ Don't worry about that
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //一応断っとくけど　私は\nケンが　どんな姿になったって\nゼンゼン　平気よ
 It's strange, right? I don't mind how you\n
 look either, Ken.
@@ -3889,7 +3889,7 @@ look either, Ken.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //いつだって　大好きだからね！
 I'll love you no matter what!
 <$00>
@@ -3899,7 +3899,7 @@ I'll love you no matter what!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //獣人に変身するたびに　思うのよ\n私、ケンのためなら　何だって\nできちゃうんだろうなって…
 Every time I morph, I'm reminded that, for\n
 you, I can do or be anything.
@@ -3910,7 +3910,7 @@ you, I can do or be anything.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ねぇ　ちゃんと結婚したんだから\nケンのこと　それらしい呼び方に\nしたほうが　いいよね？
 Since we're married, what am I going to call\n
 you around the house?
@@ -3921,7 +3921,7 @@ you around the house?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //なんて呼ばれたい？
 Would you like a nickname?
 <$00>
@@ -3932,7 +3932,7 @@ Would you like a nickname?
 
 
 //\n
-<$06>\n
+\n
 <$01>
 //ダーリン■
 "Darling■"
@@ -3962,7 +3962,7 @@ Would you like a nickname?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「だーりん■」ってか￠\nねぇ、ケン？　気は確かなの？
 "Darling■", huh?\n
 Didn't see that coming from you.
@@ -3973,7 +3973,7 @@ Didn't see that coming from you.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //まっ、いいけどね\nじゃ　おやすみ　ノータリン…\nじゃなくて「ダーリン■」…
 It's fine by me though.\n
 Well, good night, darling.\n
@@ -3985,7 +3985,7 @@ Well, good night, darling.\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「あなた～ん」？？\n「あなた～ん」か…\n「あなた～ん」ねぇ…
 "Daddy～"?\n
 Like, "Daddy～"?!\n
@@ -3997,7 +3997,7 @@ Or like, "DADDY～?!"
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //結婚って　思ったより\n大変そうね
 ...Marriage is more complex than I thought.
 <$00>
@@ -4007,7 +4007,7 @@ Or like, "DADDY～?!"
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「ケンちゃま」…∥
 "Kenny"...!
 <$00>
@@ -4017,7 +4017,7 @@ Or like, "DADDY～?!"
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //まあ、ケンがどうしてもって\n言うんなら　世界を敵に回しても\nそう　呼んであげるけどサ…
 If you say so! Even if you become an enemy to\n
 the world, you'll always be my little Kenny.
@@ -4028,7 +4028,7 @@ the world, you'll always be my little Kenny.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //じゃ　「ケンちゃま」\nおやすみなさい…
 Well, Kenny.\n
 You have a good night.
@@ -4039,7 +4039,7 @@ You have a good night.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「だんな様∥」ね？　ＯＫよ\nじゃ　ちょっと練習してみるね
 "My dear," eh? Okay!\n
 Let me test drive that one.
@@ -4050,7 +4050,7 @@ Let me test drive that one.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //だんな様∥　ご飯　まだ～？\nだんな様∥　洗濯してよ！\nだんな様∥　掃除も頼むわね∥
 Is dinner ready, my dear?\n
 Do the laundry, my dear!\n
@@ -4062,7 +4062,7 @@ And clean this too, my dear!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //どう？　だんな様？\nこんな調子で　いいかしら？
 Well, what do you think?\n
 It rolls off the tongue so well!
@@ -4073,7 +4073,7 @@ It rolls off the tongue so well!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンと私の　最初の子供は、\nきっと　女の子が生まれるわ\n自信があるの
 When we have our first child, I already know\n
 it'll be a girl.
@@ -4084,7 +4084,7 @@ it'll be a girl.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //かわいい名前が　いいな\n「マリア」は　どう？
 "Maria" is a pretty name, right?
 <$00>
@@ -4095,7 +4095,7 @@ it'll be a girl.
 
 
 //\n
-<$06>\n
+\n
 <$01>
 //平凡だよ
 It's too generic
@@ -4119,7 +4119,7 @@ It's very pretty
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //そうかもね\nじゃ、ケンが名前考えてよ！
 Hmph, is that right?\n
 Then you come up with something!
@@ -4131,7 +4131,7 @@ Then you come up with something!
 
 
 //
-<$06><$15>
+<$15>
 //Y娘の名前
 YDaughter's Name
 <$00>
@@ -4142,7 +4142,7 @@ YDaughter's Name
 
 
 //「
-<$06>Her name should be＿
+Her name should be＿
 <$1D>
 //」でいいですか？\n
 ?\n
@@ -4163,7 +4163,7 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ふーん、\nなかなか　いいじゃないの
 Hmm, that isn't half bad...
 <$00>
@@ -4173,7 +4173,7 @@ Hmm, that isn't half bad...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //何だか　一日でも早く　その子に\n会いたくなって　きちゃった…
 I can't wait to meet our little girl someday!
 <$00>
@@ -4183,7 +4183,7 @@ I can't wait to meet our little girl someday!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //しよう∥
 Come on, Ken!
 <$00>
@@ -4193,7 +4193,7 @@ Come on, Ken!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //名前が　決まったら\n何だか　一日でも早く　マリアに\n会いたくなって　きちゃった…
 So, that's her name.\n
 I can't wait to meet our little Maria\n
@@ -4205,7 +4205,7 @@ someday!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //しよう∥
 Come on, Ken!
 <$00>
@@ -4215,7 +4215,7 @@ Come on, Ken!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンのおヘソの　においってサ\n日なたぼっこしてる　犬の背中の\nにおいがするのよ
 Ken, your belly button smells funny.\n
 It smells like a dog that's been playing\n
@@ -4227,7 +4227,7 @@ outside.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //実は　私のおヘソの　においも\nそうなんだ！　かいでみる？
 It's okay, my belly button smells the exact\n
 same. Want a whiff?
@@ -4239,7 +4239,7 @@ same. Want a whiff?
 
 
 //\n
-<$06>\n
+\n
 <$01>
 //どれどれ
 Yeah, let's see that
@@ -4257,7 +4257,7 @@ Don't be wierd!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //この広い世界で　おヘソの\nにおいが同じ　男女が出会う\n確率って　どれくらいなんだろ
 Who knew two people on this planet could have\n
 such similar smelling belly buttons...
@@ -4268,7 +4268,7 @@ such similar smelling belly buttons...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //箱船の件が　なかったとしたら\n私と　結婚してたと思う？
 If the Astro Ark never existed, would you\n
 still marry me?
@@ -4280,7 +4280,7 @@ still marry me?
 
 
 //\n
-<$06>\n
+\n
 <$01>
 //おそらくな
 I hope so
@@ -4298,7 +4298,7 @@ Who knows?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //私ね、ケンが一緒に箱船に\n乗ってくれるんじゃないかって\n正直言うと　期待してたんだ
 To be honest, I was praying for a long time\n
 that you'd ride the Astro Ark with me.
@@ -4309,7 +4309,7 @@ that you'd ride the Astro Ark with me.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //でも　自信なんてなかった…\nだから　あの時は\nすごく　嬉しかったわ∥
 It didn't feel like a sure thing, so I was\n
 thrilled when I heard you volunteered.
@@ -4320,7 +4320,7 @@ thrilled when I heard you volunteered.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //私ね、ケンと結婚して\n本当に　よかったって\n近頃　思うのよ
 "I'm so glad I get to marry you."\n
 I've felt that a lot, lately.
@@ -4331,7 +4331,7 @@ I've felt that a lot, lately.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //だって　ケンと結婚してから\n辛いことがあった日でも　一つは\n幸せなことが　見つかるもの
 With you here, no matter what the bad days\n
 may throw at us, I'll always be happy.
@@ -4342,7 +4342,7 @@ may throw at us, I'll always be happy.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //箱船が　私たちを　どこへ\n連れて行くのか　いまだに\n見当も　つかないでしょ？
 We have no idea where that Astro Ark is going\n
 to take us, do we?
@@ -4353,7 +4353,7 @@ to take us, do we?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ちょっと　不安ね？
 Doesn't that make you nervous?
 <$00>
@@ -4364,7 +4364,7 @@ Doesn't that make you nervous?
 
 
 //\n
-<$06>\n
+\n
 <$01>
 //かなり不安さ
 Very
@@ -4382,7 +4382,7 @@ Nah
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //私は　宇宙の果てまで\n行くことに　なったとしても\n最低限の食料と…
 Even if we had to go to the edge of the\n
 universe...
@@ -4393,7 +4393,7 @@ universe...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンがいてくれれば\n生きていけるわ∥
 ...I can live on even the bare minimum amount\n
 of foode, as long as you're with me.
@@ -4404,7 +4404,7 @@ of foode, as long as you're with me.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //気持ちが　負けそうになった時は\nケンを見るの
 When I feel like I can't go on, I look up to\n
 you.
@@ -4415,7 +4415,7 @@ you.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //だからケンは、いつも\n元気でいてくれないと　ダメよ！
 That's why I need you strong and healthy at\n
 all times!
@@ -4426,7 +4426,7 @@ all times!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ねぇケン、お願いがあるの
 Hey, Ken?\n
 I've got a favor to ask.
@@ -4437,7 +4437,7 @@ I've got a favor to ask.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //あと半年の間に、赤ちゃんの\n取り上げ方を　しっかりと\n勉強しといてほしいの
 So...you've got six months to learn how to\n
 properly hold a baby, got it?
@@ -4448,7 +4448,7 @@ properly hold a baby, got it?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //がんばってね、パパ！
 Good luck, Papa Bear!
 <$00>

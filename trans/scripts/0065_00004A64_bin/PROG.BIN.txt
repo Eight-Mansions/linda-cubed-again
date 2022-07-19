@@ -78,7 +78,7 @@ mf097.obj
 
 #WRITE(PTR, $0020)
 //エモリ・ラボ
-<$06>Emori's Lab＿
+Emori's Lab＿
 <$00>
 
 
@@ -86,7 +86,7 @@ mf097.obj
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -102,7 +102,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -119,7 +119,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -136,7 +136,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -147,7 +147,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -158,7 +158,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -170,7 +170,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 //人工衛星が　落ちて来るなんてねぇ…\nあんな理不尽な死が　エモリ先生を\n突然、おそうなんて…
-<$06>An artificial satellite fell and hit Dr.\n
+An artificial satellite fell and hit Dr.\n
 Emori. Of all people too, it sucks it was\n
 him.
 <$12>
@@ -189,7 +189,7 @@ on artificial wombs and organ cloning.
 
 #WRITE(PTR, $0022)
 //パンハイム・ラボ
-<$06>Panheim's Lab＿
+Panheim's Lab＿
 <$00>
 
 
@@ -197,7 +197,7 @@ on artificial wombs and organ cloning.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -213,7 +213,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -230,7 +230,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -247,7 +247,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -258,7 +258,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -269,7 +269,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -281,7 +281,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 //ここは　パンハイム博士の研究室です\n…と言っても　博士が　こちらに\nお見えになるのは　１年に１、２度…
-<$06>This is Prof. Panheim's lab, but he's only\n
+This is Prof. Panheim's lab, but he's only\n
 here for consultation once or twice a year.
 <$12>
 \n
@@ -305,7 +305,7 @@ you do go there, good luck finding him.
 
 #WRITE(PTR, $0024)
 //フローラ・ラボ
-<$06>Flora's Lab＿
+Flora's Lab＿
 <$00>
 
 
@@ -313,7 +313,7 @@ you do go there, good luck finding him.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -329,7 +329,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -346,7 +346,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -363,7 +363,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -374,7 +374,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -385,7 +385,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -396,7 +396,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //あら、もう帰っちゃうの？\nお別れのキスくらいしてちょうだい\n
 Aww, leaving so soon? Can I have a goodbye\n
 kiss at least?\n
@@ -423,7 +423,7 @@ No way!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //チュッ■■
 Smooch!■■
 <$00>
@@ -433,7 +433,7 @@ Smooch!■■
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //それじゃ　私から…
 But it's from me, so...
 <$00>
@@ -444,7 +444,7 @@ But it's from me, so...
 
 
 //\nチュッ■■
-<$06>\n
+\n
 Smooch!■■
 <$00>
 
@@ -454,12 +454,12 @@ Smooch!■■
 
 
 //まあ∥　
-<$06>Here, try this＿
+Here, try this＿
 <$1D>
 //∥\n
 !\n
 It only costs＿
-<$1E>
+<$06><$1E><$04>
 //￥でぜひ、ゆずってちょうだい∥\n
 ￥!\n
 <$01>
@@ -479,7 +479,7 @@ NOOOO!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ありがとう∥　いい肥料ができそうよ\nまた　いいのがあったら　お願いね！
 Thank you! I think it'll make for excellent\n
 fertilizer! Hope you like it!
@@ -491,7 +491,7 @@ fertilizer! Hope you like it!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ごめんなさいね…\n大切なモノとは知らずに\n無理、言って
 Sorry... This stuff just comes out so\n
 naturally. I'll watch my mouth from now on.
@@ -504,7 +504,7 @@ naturally. I'll watch my mouth from now on.
 
 
 //私は　
-<$06>I'M!
+I'M!
 <$00>
 
 
@@ -513,7 +513,7 @@ naturally. I'll watch my mouth from now on.
 
 
 //アリス\n
-<$06>ALICE!\n
+ALICE!\n
 <$00>
 
 
@@ -522,7 +522,7 @@ naturally. I'll watch my mouth from now on.
 
 
 //フローラ
-<$06>I'M THE!
+I'M THE!
 <$00>
 
 
@@ -531,7 +531,7 @@ naturally. I'll watch my mouth from now on.
 
 
 //博士が　
-<$06>ONLY FRIEND!
+ONLY FRIEND!
 <$00>
 
 
@@ -540,7 +540,7 @@ naturally. I'll watch my mouth from now on.
 
 
 //何でも
-<$06>DR. FLORA!
+DR. FLORA!
 <$00>
 
 
@@ -549,7 +549,7 @@ naturally. I'll watch my mouth from now on.
 
 
 //話せる\n
-<$06>HAS!\n
+HAS!\n
 <$00>
 
 
@@ -558,7 +558,7 @@ naturally. I'll watch my mouth from now on.
 
 
 //たった
-<$06>TO!
+TO!
 <$00>
 
 
@@ -567,7 +567,7 @@ naturally. I'll watch my mouth from now on.
 
 
 //１人の　
-<$06>TALK ABOUT!
+TALK ABOUT!
 <$00>
 
 
@@ -576,7 +576,7 @@ naturally. I'll watch my mouth from now on.
 
 
 //お友だち
-<$06>ANYTHING WITH!
+ANYTHING WITH!
 <$00>
 
 
@@ -591,7 +591,7 @@ naturally. I'll watch my mouth from now on.
 
 
 //あら、コンニチワ！　私、フローラ！\n人間と話すのなんて　久しぶりだから\nなんだかドキドキしちゃうわね
-<$06>Why, hello! I'm Flora!\n
+Why, hello! I'm Flora!\n
 It's been a while since I last spoke with a\n
 human. How enticing!
 <$12>
@@ -602,7 +602,7 @@ human. How enticing!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //おしゃべりな花たちとの　会話も\n楽しいけど　彼らの話題ときたら\nお天気の話ばかりなのよ
 While I love talking with flowers, they do\n
 only seem to bring up the weather.
@@ -615,7 +615,7 @@ only seem to bring up the weather.
 
 
 //ちょっと、アンケートに答えてくれる\nこれから言う果物の中で\n何が一番、君は好きかしら？
-<$06>Say, care to help me with a survey?\n
+Say, care to help me with a survey?\n
 Which fruits would you say you like best?
 <$00>
 
@@ -624,7 +624,7 @@ Which fruits would you say you like best?
 
 
 
-<$06><$01>
+<$01>
 //バナナ
 Bananas
 <$0E>
@@ -701,7 +701,7 @@ Cantaloupes
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //やっぱり、バナナよね∥\nイメージに　ピッタリだわ∥\n君って　バナナ少年って感じだもん■
 Bananas? Really? That suits you so well, we\n
 should call you Bananaman!
@@ -714,7 +714,7 @@ should call you Bananaman!
 
 
 //レモン
-<$06>Lemons
+Lemons
 <$00>
 
 
@@ -723,7 +723,7 @@ should call you Bananaman!
 
 
 //リンゴ
-<$06>Apples
+Apples
 <$00>
 
 
@@ -732,7 +732,7 @@ should call you Bananaman!
 
 
 //キウイ
-<$06>Kiwis
+Kiwis
 <$00>
 
 
@@ -741,7 +741,7 @@ should call you Bananaman!
 
 
 //マンゴ
-<$06>Mangos
+Mangos
 <$00>
 
 
@@ -750,7 +750,7 @@ should call you Bananaman!
 
 
 //イチゴ
-<$06>Strawberries
+Strawberries
 <$00>
 
 
@@ -759,7 +759,7 @@ should call you Bananaman!
 
 
 //スイカ
-<$06>Watermelons
+Watermelons
 <$00>
 
 
@@ -768,7 +768,7 @@ should call you Bananaman!
 
 
 //ミカン
-<$06>Oranges
+Oranges
 <$00>
 
 
@@ -777,7 +777,7 @@ should call you Bananaman!
 
 
 //パイン
-<$06>Pineapples
+Pineapples
 <$00>
 
 
@@ -786,7 +786,7 @@ should call you Bananaman!
 
 
 //アンズ
-<$06>Apricots
+Apricots
 <$00>
 
 
@@ -795,7 +795,7 @@ should call you Bananaman!
 
 
 //ブドウ
-<$06>Grapes
+Grapes
 <$00>
 
 
@@ -804,7 +804,7 @@ should call you Bananaman!
 
 
 //メロン
-<$06>Cantaloupes
+Cantaloupes
 <$00>
 
 
@@ -812,7 +812,7 @@ should call you Bananaman!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //え～　
 What?＿
 <$1D>
@@ -830,7 +830,7 @@ From now on, you like bananas!
 
 #WRITE(PTR, $0026)
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -845,7 +845,7 @@ It smells strongly of antiseptic here.
 
 
 //……東
-<$06>...East
+...East
 <$00>
 
 
@@ -854,7 +854,7 @@ It smells strongly of antiseptic here.
 
 
 //……西
-<$06>...West
+...West
 <$00>
 
 
@@ -863,7 +863,7 @@ It smells strongly of antiseptic here.
 
 
 //……南
-<$06>...South
+...South
 <$00>
 
 
@@ -872,7 +872,7 @@ It smells strongly of antiseptic here.
 
 
 //……北
-<$06>...North
+...North
 <$00>
 
 
@@ -881,7 +881,7 @@ It smells strongly of antiseptic here.
 
 
 //…北東
-<$06>...North-east
+...North-east
 <$00>
 
 
@@ -890,7 +890,7 @@ It smells strongly of antiseptic here.
 
 
 //…北西
-<$06>...North-west
+...North-west
 <$00>
 
 
@@ -899,7 +899,7 @@ It smells strongly of antiseptic here.
 
 
 //…南東
-<$06>...South-east
+...South-east
 <$00>
 
 
@@ -908,7 +908,7 @@ It smells strongly of antiseptic here.
 
 
 //…南西
-<$06>...South-west
+...South-west
 <$00>
 
 
@@ -916,7 +916,7 @@ It smells strongly of antiseptic here.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -928,7 +928,7 @@ It smells strongly of antiseptic here.
 
 
 //、…
-<$06>! That's where we'll find a＿
+! That's where we'll find a＿
 <$1D>
 //に行けば
 .
@@ -940,7 +940,7 @@ It smells strongly of antiseptic here.
 
 
 //直進
-<$06>For
+For
 <$00>
 
 
@@ -949,7 +949,7 @@ It smells strongly of antiseptic here.
 
 
 //右よ
-<$06>Right
+Right
 <$00>
 
 
@@ -958,7 +958,7 @@ It smells strongly of antiseptic here.
 
 
 //左よ
-<$06>Left
+Left
 <$00>
 
 
@@ -967,7 +967,7 @@ It smells strongly of antiseptic here.
 
 
 //後ろ
-<$06>Back
+Back
 <$00>
 
 
@@ -975,7 +975,7 @@ It smells strongly of antiseptic here.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -987,7 +987,7 @@ It smells strongly of antiseptic here.
 
 
 //、絶対に
-<$06>wards, got it? I'm sure we'll find a＿
+wards, got it? I'm sure we'll find a＿
 <$1D>
 //∥
 ＿there!
@@ -998,7 +998,7 @@ It smells strongly of antiseptic here.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1013,7 +1013,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…ごめんね、\n今日は　勘がはたらかないわ…
 ...Sorry. I don't have it in me today.
 <$12>
@@ -1025,7 +1025,7 @@ SLinda used her woman's intuition...
 
 
 //運命の
-<$06>Fated＿
+Fated＿
 <$00>
 
 
@@ -1034,7 +1034,7 @@ SLinda used her woman's intuition...
 
 
 //新しい
-<$06>New＿
+New＿
 <$00>
 
 
@@ -1043,7 +1043,7 @@ SLinda used her woman's intuition...
 
 
 //素敵な
-<$06>Great＿
+Great＿
 <$00>
 
 
@@ -1052,7 +1052,7 @@ SLinda used her woman's intuition...
 
 
 //未知の
-<$06>Unknown＿
+Unknown＿
 <$00>
 
 
@@ -1061,7 +1061,7 @@ SLinda used her woman's intuition...
 
 
 //何か
-<$06>things＿
+things＿
 <$00>
 
 
@@ -1070,7 +1070,7 @@ SLinda used her woman's intuition...
 
 
 //発見
-<$06>discoveries＿
+discoveries＿
 <$00>
 
 
@@ -1079,7 +1079,7 @@ SLinda used her woman's intuition...
 
 
 //お宝
-<$06>treasures＿
+treasures＿
 <$00>
 
 
@@ -1088,7 +1088,7 @@ SLinda used her woman's intuition...
 
 
 //動物
-<$06>animals＿
+animals＿
 <$00>
 
 
@@ -1097,7 +1097,7 @@ SLinda used her woman's intuition...
 
 
 //に　出会える…
-<$06>could appear.
+could appear.
 <$00>
 
 
@@ -1106,7 +1106,7 @@ SLinda used her woman's intuition...
 
 
 //が　待ってる…
-<$06>await us...
+await us...
 <$00>
 
 
@@ -1115,7 +1115,7 @@ SLinda used her woman's intuition...
 
 
 //気がするわ∥
-<$06>are there.
+are there.
 <$00>
 
 
@@ -1124,7 +1124,7 @@ SLinda used her woman's intuition...
 
 
 //チャンスよ∥
-<$06>are in our grasp!
+are in our grasp!
 <$00>
 
 
@@ -1133,7 +1133,7 @@ SLinda used her woman's intuition...
 
 
 //今しかないわ
-<$06>could slip through our fingers!
+could slip through our fingers!
 <$00>
 
 
@@ -1142,7 +1142,7 @@ SLinda used her woman's intuition...
 
 
 //間違いなし∥
-<$06>are dead head!
+are dead head!
 <$00>
 
 
@@ -1151,7 +1151,7 @@ SLinda used her woman's intuition...
 
 
 //\n
-<$06>\n
+\n
 <$1D><$1D><$1D>
 //\n
 \n
@@ -1166,7 +1166,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信があるの∥
 I'm sure of it!
 <$12>
@@ -1177,7 +1177,7 @@ I'm sure of it!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信は　ないけどね…
 Although, I'm not totally certain...
 <$12>
@@ -1188,7 +1188,7 @@ Although, I'm not totally certain...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //絶対なんだから∥
 I'm absolutely certain!
 <$12>

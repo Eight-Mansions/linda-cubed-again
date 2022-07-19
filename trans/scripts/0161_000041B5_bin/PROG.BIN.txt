@@ -54,7 +54,7 @@ c142a2.obj
 
 #WRITE(PTR, $001C)
 //猟犬屋
-<$06>Dog Center
+Dog Center
 <$00>
 
 
@@ -62,7 +62,7 @@ c142a2.obj
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -78,7 +78,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -95,7 +95,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -112,7 +112,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -123,7 +123,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -134,7 +134,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -145,7 +145,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //店で買った
 Whether you buy a＿
 //<$1B>
@@ -166,7 +166,7 @@ is his ability to tame them on the spot.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ヘボな猟犬でも　いないよりは\n何倍も心強いのは　確かね！
 Even a low-tier dog is better than nothing,\n
 even if just for emotional support.
@@ -191,7 +191,7 @@ measures, great flavor too!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケガのひどさで　治療費は変わるわ\n今回の治療費が　安くすんだからって\n次も同じとは　限らないのよ
 Treatment costs vary, depending on the\n
 injury. It might be cheap now, but not next\n
@@ -212,7 +212,7 @@ like human beings. Take good care of them.
 
 #WRITE(PTR, $001E)
 //
-<$06><$15>
+<$15>
 //Y猟犬屋
 YDog Center
 <$00>
@@ -222,7 +222,7 @@ YDog Center
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //お客さん…\nホスピコの入り口に　並んでる\n哀れな猟犬の墓を　数えてごらん
 Sir, go look at the pet cemetary along the\n
 Hospico entrance.
@@ -248,7 +248,7 @@ don't you?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //猟犬の収容枠が　いっぱいです\nこれ以上、猟犬を増やせません
 You have reached the max amount of dogs you\n
 can own at one time.
@@ -260,12 +260,12 @@ can own at one time.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //登録料　
 The adoption fee is over\n
 <$15>
 //b
-<$1E><$14>
+<$06><$1E><$04><$14>
 //￥が足りません\n銀行で　ご都合ください
 ￥.\n
 Get a loan from the bank.
@@ -278,7 +278,7 @@ Get a loan from the bank.
 
 
 //その名前は　既に登録されています\n別の名前を　つけてください
-<$06>Sorry, that name is taken.\n
+Sorry, that name is taken.\n
 Choose a new name.
 <$12>
 <$00>
@@ -288,7 +288,7 @@ Choose a new name.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //猟犬
 Adopt＿
 <$1D>
@@ -342,7 +342,7 @@ S
 
 
 //
-<$06><$15>
+<$15>
 //Y猟犬屋／メニュー
 YDog／Menu
 <$00>
@@ -352,7 +352,7 @@ YDog／Menu
 
 
 
-<$06><$01>
+<$01>
 //買＿う
 Buy
 <$0E>
@@ -381,7 +381,7 @@ Exit
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //猟犬登録の制限３２匹を越えました\nよって、登録できません
 You have reached the 32 dog adoption limit.\n
 You cannot adopt any more dogs.
@@ -393,7 +393,7 @@ You cannot adopt any more dogs.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 You don't have any＿
 //<$1B>
@@ -408,7 +408,7 @@ dogs.
 
 
 //
-<$06><$15>
+<$15>
 //Y猟犬屋／登＿録
 YDog／Tame
 <$00>
@@ -418,7 +418,7 @@ YDog／Tame
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //猟犬は太古より　人間の良きパートナー\nぜひ　あなたも　１頭いかがですか？\n
 Dogs have been man's best friend since\n
 ancient times.\n
@@ -445,7 +445,7 @@ Exit
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //またの御利用を　お待ち申し上げます
 We look forward to your next visit.
 <$12>
@@ -457,7 +457,7 @@ We look forward to your next visit.
 
 
 //
-<$06><$15>
+<$15>
 //Y猟犬屋／買＿う
 YDog／Buy
 <$00>
@@ -474,7 +474,7 @@ YDog／Buy
 
 
 
-<$06><$16><$15>
+<$04><$16><$15>
 //W
 W
 <$01>
@@ -500,7 +500,7 @@ Dog LVL＿
 
 
 //
-<$06><$15>
+<$15>
 //Y猟犬屋／売＿る
 YDog／Sell
 <$00>
@@ -510,13 +510,13 @@ YDog／Sell
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //猟犬「
 Sell＿
 <$1D>
 //」を\n
 ＿ for＿
-<$1E>
+<$06><$1E><$04>
 //￥で売りますか？\n
 ￥?\n
 <$01>
@@ -537,7 +537,7 @@ No
 
 
 //
-<$06><$15>
+<$15>
 //Y猟犬治療
 YVeterinarian
 <$00>
@@ -547,7 +547,7 @@ YVeterinarian
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //かわいい猟犬が　傷ついた時は\n手遅れにならないうちに\nここへ　連れて来なさいね
 If your darling dogs ever get hurt,\n
 bring them to me before it's too late!
@@ -559,7 +559,7 @@ bring them to me before it's too late!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケガしてる猟犬は　どのコなの？\nほら早く　診せなさい！\n
 Is your hunting dog injured?\n
 Let me!\n
@@ -587,7 +587,7 @@ Exit
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //いらない道具や動物を　売っても\nまだ足りないときは、銀行でお金を\n借りてでも　治療費は作りなさいね
 If you need money, sell spare items or take a\n
 loan from the bank.
@@ -606,12 +606,12 @@ just because you're ignorant.
 
 
 //\n
-<$06>\n
+\n
 I can treat＿
 <$1D>
 //の治療には　
 ＿for＿
-<$1D><$1E><$14>
+<$1D><$06><$1E><$14><$04>
 //￥必要ね\n
 ￥,\n
 <$01>
@@ -631,7 +631,7 @@ Nevermind!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //かわいそうな
 Poor, poor,＿
 <$1D>
@@ -647,7 +647,7 @@ cheapskate.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //さてと　次はどのコなの\nほら早く　診せなさい！
 Well, if you have another dog, I'll see them\n
 next!
@@ -660,7 +660,7 @@ next!
 
 
 //あぁ～傷に
-<$06>Whoa～!＿
+Whoa～!＿
 //<$1B>
 //ウジが　わいてるわよ
 Maggots in the wound!
@@ -672,7 +672,7 @@ Maggots in the wound!
 
 
 //肋骨と鎖骨が　折れてるだけね
-<$06>Does Baby have a bwoken wibcage?
+Does Baby have a bwoken wibcage?
 <$00>
 
 
@@ -681,7 +681,7 @@ Maggots in the wound!
 
 
 //肺炎と腹膜炎を　併発してるようね
-<$06>Aww, pneumonia, pewitonitis...
+Aww, pneumonia, pewitonitis...
 <$00>
 
 
@@ -690,7 +690,7 @@ Maggots in the wound!
 
 
 //頭がい骨が　少し陥没してるわね
-<$06>Baby, your skull is caved in!
+Baby, your skull is caved in!
 <$00>
 
 
@@ -699,7 +699,7 @@ Maggots in the wound!
 
 
 //腹腔に　血が溜ってるようね
-<$06>Aww, Baby has tummy bweeding.
+Aww, Baby has tummy bweeding.
 <$00>
 
 
@@ -708,7 +708,7 @@ Maggots in the wound!
 
 
 //下腹部に損傷があるわよ　何なのコレ？
-<$06>Tsk, lower abdominal twauma...
+Tsk, lower abdominal twauma...
 <$00>
 
 
@@ -717,7 +717,7 @@ Maggots in the wound!
 
 
 //腸が　はみ出しちゃってるわよ
-<$06>Baby's intestines are pwowapsed!
+Baby's intestines are pwowapsed!
 <$00>
 
 
@@ -726,7 +726,7 @@ Maggots in the wound!
 
 
 //脚が　取れかかってるわね…
-<$06>What a gangwenous wittle weg!
+What a gangwenous wittle weg!
 <$00>
 
 
@@ -734,7 +734,7 @@ Maggots in the wound!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //大丈夫！　まかせなさい！\n
 Leave it to me!\n
 I mess up only once every＿
@@ -749,7 +749,7 @@ I mess up only once every＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…………………………………∥
 .........!
 <$12>
@@ -760,7 +760,7 @@ I mess up only once every＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…………………………………￠
 .........￠
 <$12>
@@ -771,7 +771,7 @@ I mess up only once every＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //はい、治療終り∥\n傷が開くといけないから　
 And...done!\n
 Be careful with＿
@@ -788,7 +788,7 @@ or these wounds may reopen.
 
 
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -809,7 +809,7 @@ go for some＿
 
 
 //卵焼き
-<$06>fried eggs
+fried eggs
 <$00>
 
 
@@ -818,7 +818,7 @@ go for some＿
 
 
 //カレー
-<$06>curry
+curry
 <$00>
 
 
@@ -827,7 +827,7 @@ go for some＿
 
 
 //焼き肉
-<$06>Neo Korean BBQ
+Neo Korean BBQ
 <$00>
 
 
@@ -836,7 +836,7 @@ go for some＿
 
 
 //唐あげ
-<$06>karaage
+karaage
 <$00>
 
 
@@ -845,7 +845,7 @@ go for some＿
 
 
 //お菓子
-<$06>candy
+candy
 <$00>
 
 
@@ -854,7 +854,7 @@ go for some＿
 
 
 //バナナ
-<$06>banana
+banana
 <$00>
 
 
@@ -863,7 +863,7 @@ go for some＿
 
 
 //フライ
-<$06>Neo French fries
+Neo French fries
 <$00>
 
 
@@ -872,7 +872,7 @@ go for some＿
 
 
 //焼き魚
-<$06>grilled fish
+grilled fish
 <$00>
 
 
@@ -881,7 +881,7 @@ go for some＿
 
 
 //トマト
-<$06>tomato
+tomato
 <$00>
 
 
@@ -890,7 +890,7 @@ go for some＿
 
 
 //バター
-<$06>butter
+butter
 <$00>
 
 
@@ -899,7 +899,7 @@ go for some＿
 
 
 //ソース
-<$06>sauce
+sauce
 <$00>
 
 
@@ -908,7 +908,7 @@ go for some＿
 
 
 //スープ
-<$06>＿soup
+＿soup
 <$00>
 
 
@@ -917,7 +917,7 @@ go for some＿
 
 
 //ピラフ
-<$06>pilaf
+pilaf
 <$00>
 
 
@@ -926,7 +926,7 @@ go for some＿
 
 
 //バニラ
-<$06>vanilla
+vanilla
 <$00>
 
 
@@ -935,7 +935,7 @@ go for some＿
 
 
 //キムチ
-<$06>kimchi
+kimchi
 <$00>
 
 
@@ -944,7 +944,7 @@ go for some＿
 
 
 //チーズ
-<$06>cheese
+cheese
 <$00>
 
 
@@ -953,7 +953,7 @@ go for some＿
 
 
 //朝
-<$06>breakfast
+breakfast
 <$00>
 
 
@@ -962,7 +962,7 @@ go for some＿
 
 
 //昼
-<$06>lunch
+lunch
 <$00>
 
 
@@ -971,7 +971,7 @@ go for some＿
 
 
 //夕
-<$06>dinner
+dinner
 <$00>
 
 
@@ -980,7 +980,7 @@ go for some＿
 
 
 //……東
-<$06>...East
+...East
 <$00>
 
 
@@ -989,7 +989,7 @@ go for some＿
 
 
 //……西
-<$06>...West
+...West
 <$00>
 
 
@@ -998,7 +998,7 @@ go for some＿
 
 
 //……南
-<$06>...South
+...South
 <$00>
 
 
@@ -1007,7 +1007,7 @@ go for some＿
 
 
 //……北
-<$06>...North
+...North
 <$00>
 
 
@@ -1016,7 +1016,7 @@ go for some＿
 
 
 //…北東
-<$06>...North-east
+...North-east
 <$00>
 
 
@@ -1025,7 +1025,7 @@ go for some＿
 
 
 //…北西
-<$06>...North-west
+...North-west
 <$00>
 
 
@@ -1034,7 +1034,7 @@ go for some＿
 
 
 //…南東
-<$06>...South-east
+...South-east
 <$00>
 
 
@@ -1043,7 +1043,7 @@ go for some＿
 
 
 //…南西
-<$06>...South-west
+...South-west
 <$00>
 
 
@@ -1051,7 +1051,7 @@ go for some＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -1063,7 +1063,7 @@ go for some＿
 
 
 //、…
-<$06>! That's where we'll find a＿
+! That's where we'll find a＿
 <$1D>
 //に行けば
 .
@@ -1075,7 +1075,7 @@ go for some＿
 
 
 //直進
-<$06>For
+For
 <$00>
 
 
@@ -1084,7 +1084,7 @@ go for some＿
 
 
 //右よ
-<$06>Right
+Right
 <$00>
 
 
@@ -1093,7 +1093,7 @@ go for some＿
 
 
 //左よ
-<$06>Left
+Left
 <$00>
 
 
@@ -1102,7 +1102,7 @@ go for some＿
 
 
 //後ろ
-<$06>Back
+Back
 <$00>
 
 
@@ -1110,7 +1110,7 @@ go for some＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -1122,7 +1122,7 @@ go for some＿
 
 
 //、絶対に
-<$06>wards, got it? I'm sure we'll find a＿
+wards, got it? I'm sure we'll find a＿
 <$1D>
 //∥
 ＿there!
@@ -1133,7 +1133,7 @@ go for some＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1148,7 +1148,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…ごめんね、\n今日は　勘がはたらかないわ…
 ...Sorry. I don't have it in me today.
 <$12>
@@ -1160,7 +1160,7 @@ SLinda used her woman's intuition...
 
 
 //運命の
-<$06>Fated＿
+Fated＿
 <$00>
 
 
@@ -1169,7 +1169,7 @@ SLinda used her woman's intuition...
 
 
 //新しい
-<$06>New＿
+New＿
 <$00>
 
 
@@ -1178,7 +1178,7 @@ SLinda used her woman's intuition...
 
 
 //素敵な
-<$06>Great＿
+Great＿
 <$00>
 
 
@@ -1187,7 +1187,7 @@ SLinda used her woman's intuition...
 
 
 //未知の
-<$06>Unknown＿
+Unknown＿
 <$00>
 
 
@@ -1196,7 +1196,7 @@ SLinda used her woman's intuition...
 
 
 //何か
-<$06>things＿
+things＿
 <$00>
 
 
@@ -1205,7 +1205,7 @@ SLinda used her woman's intuition...
 
 
 //発見
-<$06>discoveries＿
+discoveries＿
 <$00>
 
 
@@ -1214,7 +1214,7 @@ SLinda used her woman's intuition...
 
 
 //お宝
-<$06>treasures＿
+treasures＿
 <$00>
 
 
@@ -1223,7 +1223,7 @@ SLinda used her woman's intuition...
 
 
 //動物
-<$06>animals＿
+animals＿
 <$00>
 
 
@@ -1232,7 +1232,7 @@ SLinda used her woman's intuition...
 
 
 //に　出会える…
-<$06>could appear.
+could appear.
 <$00>
 
 
@@ -1241,7 +1241,7 @@ SLinda used her woman's intuition...
 
 
 //が　待ってる…
-<$06>await us...
+await us...
 <$00>
 
 
@@ -1250,7 +1250,7 @@ SLinda used her woman's intuition...
 
 
 //気がするわ∥
-<$06>are there.
+are there.
 <$00>
 
 
@@ -1259,7 +1259,7 @@ SLinda used her woman's intuition...
 
 
 //チャンスよ∥
-<$06>are in our grasp!
+are in our grasp!
 <$00>
 
 
@@ -1268,7 +1268,7 @@ SLinda used her woman's intuition...
 
 
 //今しかないわ
-<$06>could slip through our fingers!
+could slip through our fingers!
 <$00>
 
 
@@ -1277,7 +1277,7 @@ SLinda used her woman's intuition...
 
 
 //間違いなし∥
-<$06>are dead head!
+are dead head!
 <$00>
 
 
@@ -1286,7 +1286,7 @@ SLinda used her woman's intuition...
 
 
 //\n
-<$06>\n
+\n
 <$1D><$1D><$1D>
 //\n
 \n
@@ -1301,7 +1301,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信があるの∥
 I'm sure of it!
 <$12>
@@ -1312,7 +1312,7 @@ I'm sure of it!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信は　ないけどね…
 Although, I'm not totally certain...
 <$12>
@@ -1323,7 +1323,7 @@ Although, I'm not totally certain...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //絶対なんだから∥
 I'm absolutely certain!
 <$12>

@@ -48,7 +48,7 @@ c018.obj
 
 #WRITE(PTR, $001C)
 //‹¤“¯q‹Ÿ•”‰®
-<$06>Joint PlayroomQ
+Joint PlayroomQ
 <$00>
 
 
@@ -56,7 +56,7 @@ c018.obj
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ƒPƒ“‚Í@Œû“J‚ğ‚¢‚½
 Ken whistled.
 <$12>
@@ -72,7 +72,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ƒPƒ“‚Í@–Ú—§‚½‚È‚¢‚æ‚¤‚É\n‹C”z‚ğ@E‚µ‚½
 Ken masked the party to avoid detection.
 <$12>
@@ -89,7 +89,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ƒŠƒ“ƒ_‚Í@“®•¨‚½‚¿‚Ì\n–Â‚«ƒ}ƒl‚ğ‚µ‚½
 Linda mimicked a few animal calls.
 <$12>
@@ -106,7 +106,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //“®•¨}ŠÓ‚Í\n‚±‚±‚Å‚Í@‹N“®‚µ‚È‚¢
 The Animal Bible can't be booted here!
 <$12>
@@ -117,7 +117,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //‚±‚±‚Å‚Í@–ì‰c‚Å‚«‚È‚¢
 Camp can't be set up here!
 <$12>
@@ -128,7 +128,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ƒiƒrƒVƒXƒeƒ€iƒiƒr‚rj‚Í\n‚±‚±‚Å‚Í@‹N“®‚µ‚È‚¢
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -140,7 +140,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 //Œ©Šo‚¦‚Ì‚ ‚éÊ^‚ª@‚ ‚é
-<$06>A familiar photo hangs on the wall.
+A familiar photo hangs on the wall.
 <$12>
 <$00>
 
@@ -157,7 +157,7 @@ PICT01.TIM
 
 #WRITE(PTR, $001E)
 //ƒNƒ“AƒNƒ“ƒNƒ“cccH
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -178,7 +178,7 @@ go for someQ
 
 
 //—‘Ä‚«
-<$06>fried eggs
+fried eggs
 <$00>
 
 
@@ -187,7 +187,7 @@ go for someQ
 
 
 //ƒJƒŒ[
-<$06>curry
+curry
 <$00>
 
 
@@ -196,7 +196,7 @@ go for someQ
 
 
 //Ä‚«“÷
-<$06>Neo Korean BBQ
+Neo Korean BBQ
 <$00>
 
 
@@ -205,7 +205,7 @@ go for someQ
 
 
 //“‚‚ ‚°
-<$06>karaage
+karaage
 <$00>
 
 
@@ -214,7 +214,7 @@ go for someQ
 
 
 //‚¨‰Ùq
-<$06>candy
+candy
 <$00>
 
 
@@ -223,7 +223,7 @@ go for someQ
 
 
 //ƒoƒiƒi
-<$06>banana
+banana
 <$00>
 
 
@@ -232,7 +232,7 @@ go for someQ
 
 
 //ƒtƒ‰ƒC
-<$06>Neo French fries
+Neo French fries
 <$00>
 
 
@@ -241,7 +241,7 @@ go for someQ
 
 
 //Ä‚«‹›
-<$06>grilled fish
+grilled fish
 <$00>
 
 
@@ -250,7 +250,7 @@ go for someQ
 
 
 //ƒgƒ}ƒg
-<$06>tomato
+tomato
 <$00>
 
 
@@ -259,7 +259,7 @@ go for someQ
 
 
 //ƒoƒ^[
-<$06>butter
+butter
 <$00>
 
 
@@ -268,7 +268,7 @@ go for someQ
 
 
 //ƒ\[ƒX
-<$06>sauce
+sauce
 <$00>
 
 
@@ -277,7 +277,7 @@ go for someQ
 
 
 //ƒX[ƒv
-<$06>Qsoup
+Qsoup
 <$00>
 
 
@@ -286,7 +286,7 @@ go for someQ
 
 
 //ƒsƒ‰ƒt
-<$06>pilaf
+pilaf
 <$00>
 
 
@@ -295,7 +295,7 @@ go for someQ
 
 
 //ƒoƒjƒ‰
-<$06>vanilla
+vanilla
 <$00>
 
 
@@ -304,7 +304,7 @@ go for someQ
 
 
 //ƒLƒ€ƒ`
-<$06>kimchi
+kimchi
 <$00>
 
 
@@ -313,7 +313,7 @@ go for someQ
 
 
 //ƒ`[ƒY
-<$06>cheese
+cheese
 <$00>
 
 
@@ -322,7 +322,7 @@ go for someQ
 
 
 //’©
-<$06>breakfast
+breakfast
 <$00>
 
 
@@ -331,7 +331,7 @@ go for someQ
 
 
 //’‹
-<$06>lunch
+lunch
 <$00>
 
 
@@ -340,7 +340,7 @@ go for someQ
 
 
 //—[
-<$06>dinner
+dinner
 <$00>
 
 
@@ -349,7 +349,7 @@ go for someQ
 
 
 //cc“Œ
-<$06>...East
+...East
 <$00>
 
 
@@ -358,7 +358,7 @@ go for someQ
 
 
 //cc¼
-<$06>...West
+...West
 <$00>
 
 
@@ -367,7 +367,7 @@ go for someQ
 
 
 //cc“ì
-<$06>...South
+...South
 <$00>
 
 
@@ -376,7 +376,7 @@ go for someQ
 
 
 //cc–k
-<$06>...North
+...North
 <$00>
 
 
@@ -385,7 +385,7 @@ go for someQ
 
 
 //c–k“Œ
-<$06>...North-east
+...North-east
 <$00>
 
 
@@ -394,7 +394,7 @@ go for someQ
 
 
 //c–k¼
-<$06>...North-west
+...North-west
 <$00>
 
 
@@ -403,7 +403,7 @@ go for someQ
 
 
 //c“ì“Œ
-<$06>...South-east
+...South-east
 <$00>
 
 
@@ -412,7 +412,7 @@ go for someQ
 
 
 //c“ì¼
-<$06>...South-west
+...South-west
 <$00>
 
 
@@ -420,7 +420,7 @@ go for someQ
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //cc
 ......
 <$1D>
@@ -432,7 +432,7 @@ go for someQ
 
 
 //Ac
-<$06>! That's where we'll find aQ
+! That's where we'll find aQ
 <$1D>
 //‚És‚¯‚Î
 .
@@ -444,7 +444,7 @@ go for someQ
 
 
 //’¼i
-<$06>For
+For
 <$00>
 
 
@@ -453,7 +453,7 @@ go for someQ
 
 
 //‰E‚æ
-<$06>Right
+Right
 <$00>
 
 
@@ -462,7 +462,7 @@ go for someQ
 
 
 //¶‚æ
-<$06>Left
+Left
 <$00>
 
 
@@ -471,7 +471,7 @@ go for someQ
 
 
 //Œã‚ë
-<$06>Back
+Back
 <$00>
 
 
@@ -479,7 +479,7 @@ go for someQ
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //cc
 ......
 <$1D>
@@ -491,7 +491,7 @@ go for someQ
 
 
 //Aâ‘Î‚É
-<$06>wards, got it? I'm sure we'll find aQ
+wards, got it? I'm sure we'll find aQ
 <$1D>
 //a
 Qthere!
@@ -502,7 +502,7 @@ go for someQ
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -517,7 +517,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //c‚²‚ß‚ñ‚ËA\n¡“ú‚Í@Š¨‚ª‚Í‚½‚ç‚©‚È‚¢‚íc
 ...Sorry. I don't have it in me today.
 <$12>
@@ -529,7 +529,7 @@ SLinda used her woman's intuition...
 
 
 //‰^–½‚Ì
-<$06>FatedQ
+FatedQ
 <$00>
 
 
@@ -538,7 +538,7 @@ SLinda used her woman's intuition...
 
 
 //V‚µ‚¢
-<$06>NewQ
+NewQ
 <$00>
 
 
@@ -547,7 +547,7 @@ SLinda used her woman's intuition...
 
 
 //‘f“G‚È
-<$06>GreatQ
+GreatQ
 <$00>
 
 
@@ -556,7 +556,7 @@ SLinda used her woman's intuition...
 
 
 //–¢’m‚Ì
-<$06>UnknownQ
+UnknownQ
 <$00>
 
 
@@ -565,7 +565,7 @@ SLinda used her woman's intuition...
 
 
 //‰½‚©
-<$06>thingsQ
+thingsQ
 <$00>
 
 
@@ -574,7 +574,7 @@ SLinda used her woman's intuition...
 
 
 //”­Œ©
-<$06>discoveriesQ
+discoveriesQ
 <$00>
 
 
@@ -583,7 +583,7 @@ SLinda used her woman's intuition...
 
 
 //‚¨•ó
-<$06>treasuresQ
+treasuresQ
 <$00>
 
 
@@ -592,7 +592,7 @@ SLinda used her woman's intuition...
 
 
 //“®•¨
-<$06>animalsQ
+animalsQ
 <$00>
 
 
@@ -601,7 +601,7 @@ SLinda used her woman's intuition...
 
 
 //‚É@o‰ï‚¦‚éc
-<$06>could appear.
+could appear.
 <$00>
 
 
@@ -610,7 +610,7 @@ SLinda used her woman's intuition...
 
 
 //‚ª@‘Ò‚Á‚Ä‚éc
-<$06>await us...
+await us...
 <$00>
 
 
@@ -619,7 +619,7 @@ SLinda used her woman's intuition...
 
 
 //‹C‚ª‚·‚é‚ía
-<$06>are there.
+are there.
 <$00>
 
 
@@ -628,7 +628,7 @@ SLinda used her woman's intuition...
 
 
 //ƒ`ƒƒƒ“ƒX‚æa
-<$06>are in our grasp!
+are in our grasp!
 <$00>
 
 
@@ -637,7 +637,7 @@ SLinda used her woman's intuition...
 
 
 //¡‚µ‚©‚È‚¢‚í
-<$06>could slip through our fingers!
+could slip through our fingers!
 <$00>
 
 
@@ -646,7 +646,7 @@ SLinda used her woman's intuition...
 
 
 //ŠÔˆá‚¢‚È‚µa
-<$06>are dead head!
+are dead head!
 <$00>
 
 
@@ -655,7 +655,7 @@ SLinda used her woman's intuition...
 
 
 //\n
-<$06>\n
+\n
 <$1D><$1D><$1D>
 //\n
 \n
@@ -670,7 +670,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //©M‚ª‚ ‚é‚Ìa
 I'm sure of it!
 <$12>
@@ -681,7 +681,7 @@ I'm sure of it!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //©M‚Í@‚È‚¢‚¯‚Ç‚Ëc
 Although, I'm not totally certain...
 <$12>
@@ -692,7 +692,7 @@ Although, I'm not totally certain...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //â‘Î‚È‚ñ‚¾‚©‚ça
 I'm absolutely certain!
 <$12>

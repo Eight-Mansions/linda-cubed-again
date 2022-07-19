@@ -306,7 +306,7 @@ m166m.obj
 
 #WRITE(PTR, $0026)
 //闘犬場１Ｆ
-<$06>DGF Dojo 1F＿
+DGF Dojo 1F＿
 <$00>
 
 
@@ -314,7 +314,7 @@ m166m.obj
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -330,7 +330,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -347,7 +347,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -364,7 +364,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -375,7 +375,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -386,7 +386,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -397,7 +397,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //おい、聞いたかい？\nオーマン家の関係者が　急に予定を\n早めて　脱出した本当の理由をよ
 Psst, hey! I bet you heard the Aumanns\n
 expedited their migration off Neo Kenya, huh.
@@ -423,7 +423,7 @@ in the chests, with their limbs blown off!
 
 #WRITE(PTR, $0028)
 //闘犬場Ｂ１
-<$06>DGF Dojo B1＿
+DGF Dojo B1＿
 <$00>
 
 
@@ -431,7 +431,7 @@ in the chests, with their limbs blown off!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -447,7 +447,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -464,7 +464,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -481,7 +481,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -492,7 +492,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -503,7 +503,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -514,7 +514,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -532,7 +532,7 @@ SKen found the＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -550,7 +550,7 @@ had to go back.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -568,7 +568,7 @@ SKen acquired＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //タオルを投げれば　
 Throwing in the towel may save your＿
 //<$1B>
@@ -588,7 +588,7 @@ too long, and you'll pay for it at the vet.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //うちの店で　売ってるワンちゃんは\nどれも　将来、横綱や大関になること\n請け合いの　大物ばかり！
 All dogs sold here have a fighting chance to\n
 become the dojo's 1st-tier "yokozuna"\n
@@ -607,7 +607,7 @@ for LETTING you buy a dog from us!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自分の給料の半年分を　使ってまで\n治療する価値のある　犬なんて\n実際のとこ、あまりいないわね
 Not many dogs out there are worth spending\n
 half a year's salary on at the vet.
@@ -627,7 +627,7 @@ dogs, but it's a good way to fall into debt.
 
 //<$1B>
 //イヌが戦ってる最中に　飼い主が\nできることは　応援と…
-<$06>The only thing the owner can do in a dogfight\n
+The only thing the owner can do in a dogfight\n
 is show support.
 <$12>
 \n
@@ -649,7 +649,7 @@ but doing so may save your dog's life!
 
 
 //ここより先、オーマン家私宅につき\n関係者以外は　ご遠慮ください\n＿＿＿＿＿＿＿＿レバトリー・オーマン
-<$06>"AUMANN FAMILY PRIVATE RESIDENCE.\n
+"AUMANN FAMILY PRIVATE RESIDENCE.\n
 NO TRESPASSING."\n
 ＿-LIBERTRI AUMANN
 <$12>
@@ -661,7 +661,7 @@ NO TRESPASSING."\n
 
 
 //闘犬場での番付が　三役以上になると\nそれだけで　お
-<$06>Participants with＿
+Participants with＿
 //<$1B>
 //イヌ様に　季節ごとに\n給金が　飼い主に支払われるのサ
 dogs 3rd-tier or higher can be paid\n
@@ -682,7 +682,7 @@ you stronger!
 
 
 //この闘犬場の　オーマンさんの次男坊の\nシェドパってのが　ギャンブル狂いでね\nこれが　また異常に強いのよ
-<$06>Mr. Aumann's second son, Shedoba, is a\n
+Mr. Aumann's second son, Shedoba, is a\n
 gambling maniac. Thing is, he's weirdly good\n
 at it.
 <$12>
@@ -700,7 +700,7 @@ once. (You can guess what he won next.■)
 
 
 //シェドパの野郎のカードには　きっと\n何か細工が　あるにちがいないよ\nじゃないと　あんなに勝てるわけねぇ
-<$06>Shedoba's playing dirty. There's no way he'd\n
+Shedoba's playing dirty. There's no way he'd\n
 win so many card games otherwise.
 <$12>
 \n
@@ -729,7 +729,7 @@ BA_E.TMZ
 
 
 //世の中にはヘンなヤツが　たまにいてサ\n
-<$06>Some weirdos in the world bring pet＿
+Some weirdos in the world bring pet＿
 //<$1B>
 //イルカとか　
 dolphins or＿
@@ -757,7 +757,7 @@ at em, and be like, "Are you for real?"
 
 
 //死んだオーマンさんって　闘犬場を\n開く前は　連邦本部で中佐にまで\n出世した人だったそうよ
-<$06>The late Libertri Aumann, rest his soul, was\n
+The late Libertri Aumann, rest his soul, was\n
 the man who opened the dojo.
 <$12>
 \n
@@ -779,7 +779,7 @@ wouldn't have guessed he had all this in him!
 
 
 //闘犬場は　自分の猟犬の強さを\n確認するくらいの　気軽な気持ちで\n出場するのが　失敗しないコツだな
-<$06>Tournaments are won by those who play\n
+Tournaments are won by those who play\n
 casually, and know their limits.
 <$12>
 \n
@@ -802,7 +802,7 @@ most are the animals.
 
 
 //オーマンさんの　弁護士の\nナターシャって女には　気をつけな\nありゃ　とんだズベ公だって噂だゼ
-<$06>Watch yourself around Mr. Aumann's attorney,\n
+Watch yourself around Mr. Aumann's attorney,\n
 Natasha. I hear she's the "town bicycle".
 <$12>
 \n
@@ -819,7 +819,7 @@ Mary! Innocent little thing, Pomeran.
 
 
 //オーマンさんは　生涯に三人の妻を迎え\nその三人ともが　ろくでもない子供を\n産んで　彼におしつけて逃げた
-<$06>Mr. Aumann had 3 wives in his lifetime. Each\n
+Mr. Aumann had 3 wives in his lifetime. Each\n
 birthed him one awful kid and ran.
 <$12>
 \n
@@ -844,7 +844,7 @@ dog, though.
 
 
 //猟犬を　あえて見殺しにするのも\n一流のハンターになるための　勉強だ\n実戦で必ず役に立つ　経験のひとつさ
-<$06>All top hunters learn sooner or later the\n
+All top hunters learn sooner or later the\n
 true weight of killing man's best friend.
 <$12>
 <$00>
@@ -855,7 +855,7 @@ true weight of killing man's best friend.
 
 
 //そういえば最近、シェドパの姿を\n見ないけど　どうかしたのかしらね…
-<$06>You know, I haven't seen Shedoba lately. I\n
+You know, I haven't seen Shedoba lately. I\n
 wonder if something happened to him.
 <$12>
 <$00>
@@ -866,7 +866,7 @@ wonder if something happened to him.
 
 
 //そこの階段を降りた所が　この闘犬場の\n経営者の　オーマン家の住居よ
-<$06>Downstairs, you'll find the Aumann residence.\n
+Downstairs, you'll find the Aumann residence.\n
 That family owns the dojo.
 <$12>
 \n
@@ -888,7 +888,7 @@ gorgeous lawyer living with them.
 
 
 //オーマン家で　何か起きたみたいね\n急に財産を処分して　脱出するなんて\n普通じゃ　考えられないもの
-<$06>What happened to the Aumanns that made them\n
+What happened to the Aumanns that made them\n
 sell their assets and run away so quickly?
 <$12>
 <$00>
@@ -900,7 +900,7 @@ sell their assets and run away so quickly?
 
 #WRITE(PTR, $002A)
 //オーマン家住居
-<$06>Aumann Residence＿
+Aumann Residence＿
 <$00>
 
 
@@ -908,7 +908,7 @@ sell their assets and run away so quickly?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -924,7 +924,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -941,7 +941,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -958,7 +958,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -969,7 +969,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -980,7 +980,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -992,7 +992,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 //誰に断って　その薄汚れた足で\nビグル様の部屋へ　入ってきたんだ！\nえっ∥　兄ちゃんよ∥　ぶっ殺すぞ∥
-<$06>Who DARES enter my, Bigul, B-I-G-U-L's\n
+Who DARES enter my, Bigul, B-I-G-U-L's\n
 bedroom with dirty feet?! I'll KILL your ass!
 <$12>
 <$00>
@@ -1003,7 +1003,7 @@ bedroom with dirty feet?! I'll KILL your ass!
 
 
 //ん？　あぁ　君が例の「箱船」の…\n新聞で読んだよ！　今どき奇特な御仁が\nいるものだって　話していたところさ
-<$06>Oh? You're from that "ark" thing I read in\n
+Oh? You're from that "ark" thing I read in\n
 the paper! A commendable effort, say!
 <$12>
 \n
@@ -1019,7 +1019,7 @@ After all, someone has to do it.
 
 
 //あら、イイ男ね\n私はポメラン、この家のお嬢様よ\n今度、ゆっくり遊びにいらしてね
-<$06>Hello handsome!\n
+Hello handsome!\n
 I'm Pomeran Aumann. Single, of course!
 <$12>
 \n
@@ -1042,7 +1042,7 @@ sometime...alone.■
 
 
 //クーーン　クーーン
-<$06>Whine, whine!
+Whine, whine!
 <$12>
 <$00>
 
@@ -1052,7 +1052,7 @@ sometime...alone.■
 
 
 //ピグルは　私たちにとっては\n理想的なオトコね！　身元が確かだし\nお金持ちで気前もいい！　それに…
-<$06>Piggles is the ideal man for us! He's rich,\n
+Piggles is the ideal man for us! He's rich,\n
 generous, has good pedigree, and...
 <$12>
 \n
@@ -1074,7 +1074,7 @@ generous, has good pedigree, and...
 
 
 //Ｋ
-<$06>king
+king
 <$00>
 
 
@@ -1083,7 +1083,7 @@ generous, has good pedigree, and...
 
 
 //Ｊ
-<$06>jack
+jack
 <$00>
 
 
@@ -1092,7 +1092,7 @@ generous, has good pedigree, and...
 
 
 //Ｑ
-<$06>queen
+queen
 <$00>
 
 
@@ -1101,7 +1101,7 @@ generous, has good pedigree, and...
 
 
 //１
-<$06>1
+1
 <$00>
 
 
@@ -1110,7 +1110,7 @@ generous, has good pedigree, and...
 
 
 //７
-<$06>7
+7
 <$00>
 
 
@@ -1119,7 +1119,7 @@ generous, has good pedigree, and...
 
 
 //◆
-<$06>◆
+◆
 <$00>
 
 
@@ -1128,7 +1128,7 @@ generous, has good pedigree, and...
 
 
 //８
-<$06>8
+8
 <$00>
 
 
@@ -1137,7 +1137,7 @@ generous, has good pedigree, and...
 
 
 //話しかけんなよ！　集中できねぇだろ∥\n今、
-<$06>Hush! I'm trying to concentrate! All I need\n
+Hush! I'm trying to concentrate! All I need\n
 to win now is the＿
 <$1D>
 //で揃ったところで\nここからが勝負なんだからよ
@@ -1151,7 +1151,7 @@ to win now is the＿
 
 
 //ちっ、また俺の負けか…
-<$06>Drats, I lost again.
+Drats, I lost again.
 <$12>
 <$00>
 
@@ -1160,7 +1160,7 @@ to win now is the＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1178,7 +1178,7 @@ SKen found the＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1196,7 +1196,7 @@ had to go back.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1214,7 +1214,7 @@ SKen acquired＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1232,7 +1232,7 @@ SKen found the＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1250,7 +1250,7 @@ had to go back.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1269,7 +1269,7 @@ SKen acquired＿
 
 
 //なんだよ！　おやじのことなら\nリンダとかいう女に　話したゼ∥
-<$06>Who does that Linda girl think she is, only\n
+Who does that Linda girl think she is, only\n
 wanting to ask me about Father?!
 <$12>
 \n
@@ -1299,7 +1299,7 @@ Back off!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //融通の効かねぇヤツは　出世しないゼ\n出て行きな∥　２度と来るな∥
 Didn't anyone teach you to share? Damn kid,\n
 get out and never come back!
@@ -1312,7 +1312,7 @@ get out and never come back!
 
 
 //痛てて…\nリンダといい　この女といい\n最近の女は　どうしてすぐ殴るんだ？
-<$06>Jesus! Chicks these days waste no time before\n
+Jesus! Chicks these days waste no time before\n
 smacking a man down.
 <$12>
 <$00>
@@ -1323,7 +1323,7 @@ smacking a man down.
 
 
 //は、話すから　冷静になろうゼ…
-<$06>Take it down a notch, will you?
+Take it down a notch, will you?
 <$12>
 <$00>
 
@@ -1332,7 +1332,7 @@ smacking a man down.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //おやじは　詳しくはわからねぇけど\n連邦がらみの　重要な仕事を\n秘密で　やってたようだったな…
 Far as I saw, Father was doing some\n
 important, federal-related\n
@@ -1351,7 +1351,7 @@ me around will change that!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ねぇ　ケン、今の人は\nいい人？　それとも　悪い人？
 Ken, was that person "good"? Or "evil"?
 <$00>
@@ -1362,7 +1362,7 @@ Ken, was that person "good"? Or "evil"?
 
 
 //\n
-<$06>\n
+\n
 <$01>
 //いい人
 Good
@@ -1380,7 +1380,7 @@ Evil
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //そうなの！　勉強になったわ\n教えてくれて　ありがとう！
 I see! How englightening!\n
 Thank you for answering my question.
@@ -1391,7 +1391,7 @@ Thank you for answering my question.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ねぇ　ケン、今の人は\nいい人？　それとも 悪い人？
 Ken, was that person just now "good"? Or\n
 "evil"?
@@ -1403,7 +1403,7 @@ Ken, was that person just now "good"? Or\n
 
 
 //\n
-<$06>\n
+\n
 <$01>
 //いい人
 Good
@@ -1421,7 +1421,7 @@ Evil
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //いい人と　悪い人の区別が\n即座に　できちゃうなんて\n尊敬しちゃうわ■
 You seem to know instantly whether someone is\n
 "good" or "evil". I'm impressed!■
@@ -1432,7 +1432,7 @@ You seem to know instantly whether someone is\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ねぇ　ケン、今の人は\nいい人？　それとも 悪い人？
 Ken, was that person just now "good"? Or\n
 "evil"?
@@ -1444,7 +1444,7 @@ Ken, was that person just now "good"? Or\n
 
 
 //\n
-<$06>\n
+\n
 <$01>
 //いい人
 Good
@@ -1462,7 +1462,7 @@ Evil
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //やっぱり∥　そうだと思ったわ
 Yes, of course!\n
 I thought the same thing.
@@ -1473,7 +1473,7 @@ I thought the same thing.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //唇の厚い人は　いい人で\n薄い人は　悪い人、そうでしょ？
 Ken, is it true that thick-lipped people are\n
 good, and thin-lipped people are evil?
@@ -1485,7 +1485,7 @@ good, and thin-lipped people are evil?
 
 
 //\n
-<$06>\n
+\n
 <$01>
 //そうかもなぁ
 Maybe
@@ -1503,7 +1503,7 @@ I don't think so
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //善悪は　遺伝するのね！\nでも　上唇が厚くて　下唇の\n薄い人は　処理に困るわねぇ…
 So, good and evil ARE hereditary! But, what\n
 if your lips are half thick and half thin?
@@ -1514,7 +1514,7 @@ if your lips are half thick and half thin?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //難しいですね…
 This is all so difficult.
 <$00>
@@ -1524,7 +1524,7 @@ This is all so difficult.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケン、今の人は\nいい人、悪い人？
 Ken, was that person just now "good"? Or\n
 "evil"?
@@ -1536,7 +1536,7 @@ Ken, was that person just now "good"? Or\n
 
 
 //\n
-<$06>\n
+\n
 <$01>
 //いい人
 Good
@@ -1554,7 +1554,7 @@ Evil
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //中間は　ないんですか？
 Is there no in-between?
 <$00>
@@ -1565,7 +1565,7 @@ Is there no in-between?
 
 
 //オーマン家の次兄の　シェドパだよ\n君達も　おやじのことかな？\n
-<$06>I'm the second son, Shedoba.\n
+I'm the second son, Shedoba.\n
 Did you want to ask about my father?
 <$01>
 //そうです
@@ -1584,7 +1584,7 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //それは　残念だ…\nおやじのことで　話したいことが\nあったんだけどねぇ
 That's too bad.\n
 I was so looking forward to telling you\n
@@ -1597,7 +1597,7 @@ something about my father.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //やっぱり　他殺なんだろ？\n敵の多い人だったからねぇ
 I wonder, was he really murdered after all?\n
 My father did have many enemies.
@@ -1629,7 +1629,7 @@ I can't say
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ほぉ～、じゃ　その犯人に\nぜひ　こう伝えてくれたまえ\n「ありがとう」とね！
 Oh, really? Then please tell the culprit I\n
 said "Thank you!"
@@ -1641,7 +1641,7 @@ said "Thank you!"
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ビグル兄さんと　ポメラン姉さんの\nアリバイは　当たってみたのかな？
 You see, I can't truly trust that Bigul and\n
 Pomeran's alibis hold water.
@@ -1660,7 +1660,7 @@ fastest way to catch the murderer.
 
 
 //あら、いらっしゃい！\n私はポメラン、この家のお嬢様よ\nあなたも　パパのことかしら？
-<$06>Oh my, hello! I'm Pomeran Aumann. Did you\n
+Oh my, hello! I'm Pomeran Aumann. Did you\n
 want to ask about Daddy?
 <$12>
 \n
@@ -1691,7 +1691,7 @@ Who knows?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //パパが死ぬ、前日の晩に\n女性から　電話があったみたいね\nパパったら焦ってたわ
 The night before Daddy died, he got a phone\n
 call from some furious woman.
@@ -1710,7 +1710,7 @@ with.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //じゃ話すことは　なくってよ\nさようなら
 Then we have nothing to discuss.\n
 Good day.
@@ -1723,7 +1723,7 @@ Good day.
 
 
 //あら、ケン■\n今日は　ゆっくりできるんでしょ？\n
-<$06>Ken, it's you!■\n
+Ken, it's you!■\n
 Here for a little "quality time"?\n
 <$01>
 //はい、もちろん
@@ -1743,7 +1743,7 @@ I'll pass
 
 
 //これ、おこづかいよ！
-<$06>Here, treat yourself.■
+Here, treat yourself.■
 <$12>
 <$00>
 
@@ -1752,7 +1752,7 @@ I'll pass
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1760,7 +1760,7 @@ I'll pass
 <$15>
 //Sケンは　
 SKen found＿
-<$1E>
+<$06><$1E><$04>
 //￥をポケットに\n入れられてしまった！
 ￥ shoved down his pocket!
 <$12>
@@ -1772,7 +1772,7 @@ SKen found＿
 
 
 //ウフフフ…
-<$06>Tee hee hee!
+Tee hee hee!
 <$12>
 <$00>
 
@@ -1781,7 +1781,7 @@ SKen found＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //あら、残念ね
 Aww, that's too bad.
 <$12>
@@ -1793,7 +1793,7 @@ Aww, that's too bad.
 
 
 //こんにちわ！　私、ここの闘犬場の\n経営者のオーマン氏に　雇われてる\n弁護士でナターシャ！　よろしくね
-<$06>Hello! I'm Natasha, a lawyer hired by the\n
+Hello! I'm Natasha, a lawyer hired by the\n
 late Mr. Aumann. Pleased to meet you!
 <$12>
 \n
@@ -1816,7 +1816,7 @@ embarassments to his name. It's a damn shame.
 
 
 //ねぇ、アンタ、ビグルを見なかった\n金ヅルに　いなくなられちゃ\n私たちも　困るのよねぇ
-<$06>Have you seen Bigul lately? At all? Shit, if\n
+Have you seen Bigul lately? At all? Shit, if\n
 we lose his income, we're screwed...
 <$12>
 <$00>
@@ -1827,7 +1827,7 @@ we lose his income, we're screwed...
 
 
 //オーマンさんが　亡くなって\n一番、喜んでるのは　オーマンさんの\nろくでなしの　三人の子供たちね
-<$06>Mr. Aumann's three deadbeat children seem to\n
+Mr. Aumann's three deadbeat children seem to\n
 be the happiest about his death.
 <$12>
 \n
@@ -1846,7 +1846,7 @@ breaking out between them any day now.
 #WRITE(PTR, $002C)
 #WRITE(PTR, $002E)
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -1867,7 +1867,7 @@ go for some＿
 
 
 //卵焼き
-<$06>fried eggs
+fried eggs
 <$00>
 
 
@@ -1876,7 +1876,7 @@ go for some＿
 
 
 //カレー
-<$06>curry
+curry
 <$00>
 
 
@@ -1885,7 +1885,7 @@ go for some＿
 
 
 //焼き肉
-<$06>Neo Korean BBQ
+Neo Korean BBQ
 <$00>
 
 
@@ -1894,7 +1894,7 @@ go for some＿
 
 
 //唐あげ
-<$06>karaage
+karaage
 <$00>
 
 
@@ -1903,7 +1903,7 @@ go for some＿
 
 
 //お菓子
-<$06>candy
+candy
 <$00>
 
 
@@ -1912,7 +1912,7 @@ go for some＿
 
 
 //バナナ
-<$06>banana
+banana
 <$00>
 
 
@@ -1921,7 +1921,7 @@ go for some＿
 
 
 //フライ
-<$06>Neo French fries
+Neo French fries
 <$00>
 
 
@@ -1930,7 +1930,7 @@ go for some＿
 
 
 //焼き魚
-<$06>grilled fish
+grilled fish
 <$00>
 
 
@@ -1939,7 +1939,7 @@ go for some＿
 
 
 //トマト
-<$06>tomato
+tomato
 <$00>
 
 
@@ -1948,7 +1948,7 @@ go for some＿
 
 
 //バター
-<$06>butter
+butter
 <$00>
 
 
@@ -1957,7 +1957,7 @@ go for some＿
 
 
 //ソース
-<$06>sauce
+sauce
 <$00>
 
 
@@ -1966,7 +1966,7 @@ go for some＿
 
 
 //スープ
-<$06>＿soup
+＿soup
 <$00>
 
 
@@ -1975,7 +1975,7 @@ go for some＿
 
 
 //ピラフ
-<$06>pilaf
+pilaf
 <$00>
 
 
@@ -1984,7 +1984,7 @@ go for some＿
 
 
 //バニラ
-<$06>vanilla
+vanilla
 <$00>
 
 
@@ -1993,7 +1993,7 @@ go for some＿
 
 
 //キムチ
-<$06>kimchi
+kimchi
 <$00>
 
 
@@ -2002,7 +2002,7 @@ go for some＿
 
 
 //チーズ
-<$06>cheese
+cheese
 <$00>
 
 
@@ -2011,7 +2011,7 @@ go for some＿
 
 
 //朝
-<$06>breakfast
+breakfast
 <$00>
 
 
@@ -2020,7 +2020,7 @@ go for some＿
 
 
 //昼
-<$06>lunch
+lunch
 <$00>
 
 
@@ -2029,7 +2029,7 @@ go for some＿
 
 
 //夕
-<$06>dinner
+dinner
 <$00>
 
 
@@ -2038,7 +2038,7 @@ go for some＿
 
 
 //……東
-<$06>...East
+...East
 <$00>
 
 
@@ -2047,7 +2047,7 @@ go for some＿
 
 
 //……西
-<$06>...West
+...West
 <$00>
 
 
@@ -2056,7 +2056,7 @@ go for some＿
 
 
 //……南
-<$06>...South
+...South
 <$00>
 
 
@@ -2065,7 +2065,7 @@ go for some＿
 
 
 //……北
-<$06>...North
+...North
 <$00>
 
 
@@ -2074,7 +2074,7 @@ go for some＿
 
 
 //…北東
-<$06>...North-east
+...North-east
 <$00>
 
 
@@ -2083,7 +2083,7 @@ go for some＿
 
 
 //…北西
-<$06>...North-west
+...North-west
 <$00>
 
 
@@ -2092,7 +2092,7 @@ go for some＿
 
 
 //…南東
-<$06>...South-east
+...South-east
 <$00>
 
 
@@ -2101,7 +2101,7 @@ go for some＿
 
 
 //…南西
-<$06>...South-west
+...South-west
 <$00>
 
 
@@ -2109,7 +2109,7 @@ go for some＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -2121,7 +2121,7 @@ go for some＿
 
 
 //、…
-<$06>! That's where we'll find a＿
+! That's where we'll find a＿
 <$1D>
 //に行けば
 .
@@ -2133,7 +2133,7 @@ go for some＿
 
 
 //直進
-<$06>For
+For
 <$00>
 
 
@@ -2142,7 +2142,7 @@ go for some＿
 
 
 //右よ
-<$06>Right
+Right
 <$00>
 
 
@@ -2151,7 +2151,7 @@ go for some＿
 
 
 //左よ
-<$06>Left
+Left
 <$00>
 
 
@@ -2160,7 +2160,7 @@ go for some＿
 
 
 //後ろ
-<$06>Back
+Back
 <$00>
 
 
@@ -2168,7 +2168,7 @@ go for some＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -2180,7 +2180,7 @@ go for some＿
 
 
 //、絶対に
-<$06>wards, got it? I'm sure we'll find a＿
+wards, got it? I'm sure we'll find a＿
 <$1D>
 //∥
 ＿there!
@@ -2191,7 +2191,7 @@ go for some＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -2206,7 +2206,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…ごめんね、\n今日は　勘がはたらかないわ…
 ...Sorry. I don't have it in me today.
 <$12>
@@ -2218,7 +2218,7 @@ SLinda used her woman's intuition...
 
 
 //運命の
-<$06>Fated＿
+Fated＿
 <$00>
 
 
@@ -2227,7 +2227,7 @@ SLinda used her woman's intuition...
 
 
 //新しい
-<$06>New＿
+New＿
 <$00>
 
 
@@ -2236,7 +2236,7 @@ SLinda used her woman's intuition...
 
 
 //素敵な
-<$06>Great＿
+Great＿
 <$00>
 
 
@@ -2245,7 +2245,7 @@ SLinda used her woman's intuition...
 
 
 //未知の
-<$06>Unknown＿
+Unknown＿
 <$00>
 
 
@@ -2254,7 +2254,7 @@ SLinda used her woman's intuition...
 
 
 //何か
-<$06>things＿
+things＿
 <$00>
 
 
@@ -2263,7 +2263,7 @@ SLinda used her woman's intuition...
 
 
 //発見
-<$06>discoveries＿
+discoveries＿
 <$00>
 
 
@@ -2272,7 +2272,7 @@ SLinda used her woman's intuition...
 
 
 //お宝
-<$06>treasures＿
+treasures＿
 <$00>
 
 
@@ -2281,7 +2281,7 @@ SLinda used her woman's intuition...
 
 
 //動物
-<$06>animals＿
+animals＿
 <$00>
 
 
@@ -2290,7 +2290,7 @@ SLinda used her woman's intuition...
 
 
 //に　出会える…
-<$06>could appear.
+could appear.
 <$00>
 
 
@@ -2299,7 +2299,7 @@ SLinda used her woman's intuition...
 
 
 //が　待ってる…
-<$06>await us...
+await us...
 <$00>
 
 
@@ -2308,7 +2308,7 @@ SLinda used her woman's intuition...
 
 
 //気がするわ∥
-<$06>are there.
+are there.
 <$00>
 
 
@@ -2317,7 +2317,7 @@ SLinda used her woman's intuition...
 
 
 //チャンスよ∥
-<$06>are in our grasp!
+are in our grasp!
 <$00>
 
 
@@ -2326,7 +2326,7 @@ SLinda used her woman's intuition...
 
 
 //今しかないわ
-<$06>could slip through our fingers!
+could slip through our fingers!
 <$00>
 
 
@@ -2335,7 +2335,7 @@ SLinda used her woman's intuition...
 
 
 //間違いなし∥
-<$06>are dead head!
+are dead head!
 <$00>
 
 
@@ -2344,7 +2344,7 @@ SLinda used her woman's intuition...
 
 
 //\n
-<$06>\n
+\n
 <$1D><$1D><$1D>
 //\n
 \n
@@ -2359,7 +2359,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信があるの∥
 I'm sure of it!
 <$12>
@@ -2370,7 +2370,7 @@ I'm sure of it!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信は　ないけどね…
 Although, I'm not totally certain...
 <$12>
@@ -2381,7 +2381,7 @@ Although, I'm not totally certain...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //絶対なんだから∥
 I'm absolutely certain!
 <$12>
@@ -2394,7 +2394,7 @@ I'm absolutely certain!
 
 #WRITE(PTR, $0030)
 //
-<$06><$15>
+<$15>
 //Y猟犬屋
 YDog Center
 <$00>
@@ -2404,7 +2404,7 @@ YDog Center
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //お客さん…\nホスピコの入り口に　並んでる\n哀れな猟犬の墓を　数えてごらん
 Sir, go look at the pet cemetary along the\n
 Hospico entrance.
@@ -2430,7 +2430,7 @@ don't you?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //猟犬の収容枠が　いっぱいです\nこれ以上、猟犬を増やせません
 You have reached the max amount of dogs you\n
 can own at one time.
@@ -2442,12 +2442,12 @@ can own at one time.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //登録料　
 The adoption fee is over\n
 <$15>
 //b
-<$1E><$14>
+<$06><$1E><$04><$14>
 //￥が足りません\n銀行で　ご都合ください
 ￥.\n
 Get a loan from the bank.
@@ -2460,7 +2460,7 @@ Get a loan from the bank.
 
 
 //その名前は　既に登録されています\n別の名前を　つけてください
-<$06>Sorry, that name is taken.\n
+Sorry, that name is taken.\n
 Choose a new name.
 <$12>
 <$00>
@@ -2470,7 +2470,7 @@ Choose a new name.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //猟犬
 Adopt＿
 <$1D>
@@ -2524,7 +2524,7 @@ S
 
 
 //
-<$06><$15>
+<$15>
 //Y猟犬屋／メニュー
 YDog／Menu
 <$00>
@@ -2534,7 +2534,7 @@ YDog／Menu
 
 
 
-<$06><$01>
+<$01>
 //買＿う
 Buy
 <$0E>
@@ -2563,7 +2563,7 @@ Exit
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //猟犬登録の制限３２匹を越えました\nよって、登録できません
 You have reached the 32 dog adoption limit.\n
 You cannot adopt any more dogs.
@@ -2575,7 +2575,7 @@ You cannot adopt any more dogs.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 You don't have any＿
 //<$1B>
@@ -2590,7 +2590,7 @@ dogs.
 
 
 //
-<$06><$15>
+<$15>
 //Y猟犬屋／登＿録
 YDog／Tame
 <$00>
@@ -2600,7 +2600,7 @@ YDog／Tame
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //猟犬は太古より　人間の良きパートナー\nぜひ　あなたも　１頭いかがですか？\n
 Dogs have been man's best friend since\n
 ancient times.\n
@@ -2627,7 +2627,7 @@ Exit
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //またの御利用を　お待ち申し上げます
 We look forward to your next visit.
 <$12>
@@ -2639,7 +2639,7 @@ We look forward to your next visit.
 
 
 //
-<$06><$15>
+<$15>
 //Y猟犬屋／買＿う
 YDog／Buy
 <$00>
@@ -2656,7 +2656,7 @@ YDog／Buy
 
 
 
-<$06><$16><$15>
+<$04><$16><$15>
 //W
 W
 <$01>
@@ -2682,7 +2682,7 @@ Dog LVL＿
 
 
 //
-<$06><$15>
+<$15>
 //Y猟犬屋／売＿る
 YDog／Sell
 <$00>
@@ -2692,13 +2692,13 @@ YDog／Sell
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //猟犬「
 Sell＿
 <$1D>
 //」を\n
 ＿ for＿
-<$1E>
+<$06><$1E><$04>
 //￥で売りますか？\n
 ￥?\n
 <$01>
@@ -2719,7 +2719,7 @@ No
 
 
 //
-<$06><$15>
+<$15>
 //Y猟犬治療
 YVeterinarian
 <$00>
@@ -2729,7 +2729,7 @@ YVeterinarian
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //かわいい猟犬が　傷ついた時は\n手遅れにならないうちに\nここへ　連れて来なさいね
 If your darling dogs ever get hurt,\n
 bring them to me before it's too late!
@@ -2741,7 +2741,7 @@ bring them to me before it's too late!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケガしてる猟犬は　どのコなの？\nほら早く　診せなさい！\n
 Is your hunting dog injured?\n
 Let me!\n
@@ -2769,7 +2769,7 @@ Exit
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //いらない道具や動物を　売っても\nまだ足りないときは、銀行でお金を\n借りてでも　治療費は作りなさいね
 If you need money, sell spare items or take a\n
 loan from the bank.
@@ -2788,12 +2788,12 @@ just because you're ignorant.
 
 
 //\n
-<$06>\n
+\n
 I can treat＿
 <$1D>
 //の治療には　
 ＿for＿
-<$1D><$1E><$14>
+<$1D><$06><$1E><$14><$04>
 //￥必要ね\n
 ￥,\n
 <$01>
@@ -2813,7 +2813,7 @@ Nevermind!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //かわいそうな
 Poor, poor,＿
 <$1D>
@@ -2829,7 +2829,7 @@ cheapskate.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //さてと　次はどのコなの\nほら早く　診せなさい！
 Well, if you have another dog, I'll see them\n
 next!
@@ -2842,7 +2842,7 @@ next!
 
 
 //あぁ～傷に
-<$06>Whoa～!＿
+Whoa～!＿
 //<$1B>
 //ウジが　わいてるわよ
 Maggots in the wound!
@@ -2854,7 +2854,7 @@ Maggots in the wound!
 
 
 //肋骨と鎖骨が　折れてるだけね
-<$06>Does Baby have a bwoken wibcage?
+Does Baby have a bwoken wibcage?
 <$00>
 
 
@@ -2863,7 +2863,7 @@ Maggots in the wound!
 
 
 //肺炎と腹膜炎を　併発してるようね
-<$06>Aww, pneumonia, pewitonitis...
+Aww, pneumonia, pewitonitis...
 <$00>
 
 
@@ -2872,7 +2872,7 @@ Maggots in the wound!
 
 
 //頭がい骨が　少し陥没してるわね
-<$06>Baby, your skull is caved in!
+Baby, your skull is caved in!
 <$00>
 
 
@@ -2881,7 +2881,7 @@ Maggots in the wound!
 
 
 //腹腔に　血が溜ってるようね
-<$06>Aww, Baby has tummy bweeding.
+Aww, Baby has tummy bweeding.
 <$00>
 
 
@@ -2890,7 +2890,7 @@ Maggots in the wound!
 
 
 //下腹部に損傷があるわよ　何なのコレ？
-<$06>Tsk, lower abdominal twauma...
+Tsk, lower abdominal twauma...
 <$00>
 
 
@@ -2899,7 +2899,7 @@ Maggots in the wound!
 
 
 //腸が　はみ出しちゃってるわよ
-<$06>Baby's intestines are pwowapsed!
+Baby's intestines are pwowapsed!
 <$00>
 
 
@@ -2908,7 +2908,7 @@ Maggots in the wound!
 
 
 //脚が　取れかかってるわね…
-<$06>What a gangwenous wittle weg!
+What a gangwenous wittle weg!
 <$00>
 
 
@@ -2916,7 +2916,7 @@ Maggots in the wound!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //大丈夫！　まかせなさい！\n
 Leave it to me!\n
 I mess up only once every＿
@@ -2931,7 +2931,7 @@ I mess up only once every＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…………………………………∥
 .........!
 <$12>
@@ -2942,7 +2942,7 @@ I mess up only once every＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…………………………………￠
 .........￠
 <$12>
@@ -2953,7 +2953,7 @@ I mess up only once every＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //はい、治療終り∥\n傷が開くといけないから　
 And...done!\n
 Be careful with＿
@@ -2970,7 +2970,7 @@ or these wounds may reopen.
 
 
 //
-<$06><$15>
+<$15>
 //Y犬名判断
 YDog Divination
 <$00>
@@ -2986,7 +2986,7 @@ YDog Divination
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //黙ってお座りすれば「ワン」と当たる！\n
 All bark, but no foresight?\n
 <$00>
@@ -2997,9 +2997,9 @@ All bark, but no foresight?\n
 
 
 //猟犬の将来が　気になったら\n
-<$06>If you're worried about your dog's future, I\n
+If you're worried about your dog's future, I\n
 give readings for＿
-<$1D><$1E><$14>
+<$1D><$06><$1E><$04><$14>
 //￥で　相談に乗ってしんぜよう
 ￥.
 <$12>
@@ -3011,8 +3011,8 @@ give readings for＿
 
 
 //猟犬の将来を　
-<$06>See your dog's future for only＿
-<$1D><$1E><$14>
+See your dog's future for only＿
+<$1D><$06><$1E><$04><$14>
 //￥で占うぞよ\n
 ￥!\n
 <$01>
@@ -3038,7 +3038,7 @@ What a joke!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //猟犬の長所や短所を　熟知すれば\n大胆な戦術が　使えるようになるし\n危険も　事前に避けられるぞな
 Learn your dogs' strengths and weaknesses to\n
 safely develop new battle strategies.
@@ -3051,7 +3051,7 @@ safely develop new battle strategies.
 
 
 //どの猟犬の未来を　覗こうかのぉ？
-<$06>Which dog shall I look at?
+Which dog shall I look at?
 <$12>
 <$00>
 
@@ -3060,12 +3060,12 @@ safely develop new battle strategies.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$15>
 //b
 b
-<$1E><$14>
+<$06><$1E><$04><$14>
 //￥の見料も　持ち合わせぬ\n飼い主のもとでは　どんな犬も\n「お先、真っ暗∥」に決まっとるわ
 ￥ is too much? You wouldn't need to ask me.\n
 Your dogs' futures were already dark!
@@ -3077,7 +3077,7 @@ Your dogs' futures were already dark!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //他の猟犬も　占うかえ？\n
 See about another dog?\n
 <$01>
@@ -3097,7 +3097,7 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1D>
 //か…　
@@ -3117,7 +3117,7 @@ May it be so!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //はァァーッ！　犬神星シリウスよ！\n迷える
 Oh, Sirius! Lead＿
 <$1D>
@@ -3138,7 +3138,7 @@ My work...is done.
 
 
 //体力
-<$06>stamina
+stamina
 <$00>
 
 
@@ -3147,7 +3147,7 @@ My work...is done.
 
 
 //攻撃力
-<$06>ATK
+ATK
 <$00>
 
 
@@ -3156,7 +3156,7 @@ My work...is done.
 
 
 //素早さ
-<$06>SPD
+SPD
 <$00>
 
 
@@ -3165,7 +3165,7 @@ My work...is done.
 
 
 //体力
-<$06>stamina
+stamina
 <$00>
 
 
@@ -3174,7 +3174,7 @@ My work...is done.
 
 
 //守備力
-<$06>DEF
+DEF
 <$00>
 
 
@@ -3183,7 +3183,7 @@ My work...is done.
 
 
 //素早さ
-<$06>SPD
+SPD
 <$00>
 
 
@@ -3192,7 +3192,7 @@ My work...is done.
 
 
 //攻撃力
-<$06>ATK
+ATK
 <$00>
 
 
@@ -3201,7 +3201,7 @@ My work...is done.
 
 
 //守備力
-<$06>DEF
+DEF
 <$00>
 
 
@@ -3209,7 +3209,7 @@ My work...is done.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1D>
 //の　
@@ -3229,7 +3229,7 @@ personality.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ただの臆病者…\n主人を置いて　平気で逃げ出すぞ\nあてにせんほうが　身のためじゃ
 This one's a coward that'd turn on its owner\n
 and run away after the first sign of danger.\n
@@ -3242,7 +3242,7 @@ Don't depend on them, for your own sake.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //阿呆…　極めつけの阿呆！\n分をわきまえずに　強い相手に向かうゆえ\n結果は　目も当てられんわな…
 Fool! What dog doesn't look before it leaps\n
 in the wake of combat?! You, be careful with\n
@@ -3255,7 +3255,7 @@ this one.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //平々凡々…　つまらぬ犬じゃ\nそのへんに　掃いて捨てるほどおる\nいわゆる駄犬じゃな
 Typical, typical, typical. This dog is as\n
 generic as they come, which isn't good. Get\n
@@ -3268,7 +3268,7 @@ rid of it.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //生ける屍…　精気が全く感じられん…\nまるで　死を望んでおるようじゃ…\n犬死は　必至と見た
 This one is a dead dog walking. There's not a\n
 trace of life in its eyes. Its death is\n
@@ -3282,7 +3282,7 @@ inevitable.
 
 
 //守備力
-<$06>DEF
+DEF
 <$00>
 
 
@@ -3291,7 +3291,7 @@ inevitable.
 
 
 //素早さ
-<$06>SPD
+SPD
 <$00>
 
 
@@ -3300,7 +3300,7 @@ inevitable.
 
 
 //攻撃力
-<$06>ATK
+ATK
 <$00>
 
 
@@ -3309,7 +3309,7 @@ inevitable.
 
 
 //守備力
-<$06>DEF
+DEF
 <$00>
 
 
@@ -3318,7 +3318,7 @@ inevitable.
 
 
 //体力
-<$06>stamina
+stamina
 <$00>
 
 
@@ -3327,7 +3327,7 @@ inevitable.
 
 
 //攻撃力
-<$06>ATK
+ATK
 <$00>
 
 
@@ -3336,7 +3336,7 @@ inevitable.
 
 
 //素早さ
-<$06>SPD
+SPD
 <$00>
 
 
@@ -3345,7 +3345,7 @@ inevitable.
 
 
 //体力
-<$06>stamina
+stamina
 <$00>
 
 
@@ -3353,7 +3353,7 @@ inevitable.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1D>
 //は　
@@ -3373,7 +3373,7 @@ also...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //なかなか慎重な性格ゆえ　ケガも少ない\n医者いらずの　経済的な犬じゃ
 This dog is rarely injured, due to it's\n
 cautious demeanor. That means less vet\n
@@ -3386,7 +3386,7 @@ visits.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「勇猛果敢」という言葉は\nこの犬のためにある！　どんな相手にも\n臆することなく挑む　心強い味方じゃ
 This dog can only be described as "selfless\n
 and courageous"! If anyone has your back in\n
@@ -3399,7 +3399,7 @@ life, it's them!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //攻めてよし！　守ってよし！\nこれほど調和のとれた犬は　珍しいぞ\n大切に育てられい！
 It attacks, and it protects! Such harmony is\n
 rare in dogs! Raise this one carefully!
@@ -3411,7 +3411,7 @@ rare in dogs! Raise this one carefully!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //主人のためなら　命も捨てる\n忠義の犬とは　こやつのことじゃ！\n良い家来をもって　幸せじゃのぉ
 This loyal friend would give its life for its\n
 master. You'd be honored to have such a dog\n
@@ -3425,7 +3425,7 @@ serve you.
 
 
 //かわいい
-<$06>A cute
+A cute
 <$00>
 
 
@@ -3434,7 +3434,7 @@ serve you.
 
 
 //強そうな
-<$06>A tough
+A tough
 <$00>
 
 
@@ -3443,7 +3443,7 @@ serve you.
 
 
 //覚えにくい
-<$06>A hazy
+A hazy
 <$00>
 
 
@@ -3452,7 +3452,7 @@ serve you.
 
 
 //イカれた
-<$06>A wild
+A wild
 <$00>
 
 
@@ -3461,7 +3461,7 @@ serve you.
 
 
 //犬らしい
-<$06>A savvy
+A savvy
 <$00>
 
 
@@ -3470,7 +3470,7 @@ serve you.
 
 
 //スケベな
-<$06>A sensual
+A sensual
 <$00>
 
 
@@ -3479,7 +3479,7 @@ serve you.
 
 
 //古風な
-<$06>An old-fashioned
+An old-fashioned
 <$00>
 
 
@@ -3488,7 +3488,7 @@ serve you.
 
 
 //今どきの
-<$06>A modern
+A modern
 <$00>
 
 
@@ -3497,7 +3497,7 @@ serve you.
 
 
 //イキな
-<$06>A stylish
+A stylish
 <$00>
 
 
@@ -3506,7 +3506,7 @@ serve you.
 
 
 //簡単な
-<$06>A simple
+A simple
 <$00>
 
 
@@ -3515,7 +3515,7 @@ serve you.
 
 
 //美しい
-<$06>A lovely
+A lovely
 <$00>
 
 
@@ -3524,7 +3524,7 @@ serve you.
 
 
 //愛のない
-<$06>A shallow
+A shallow
 <$00>
 
 
@@ -3533,7 +3533,7 @@ serve you.
 
 
 //賢そうな
-<$06>A clever
+A clever
 <$00>
 
 
@@ -3542,7 +3542,7 @@ serve you.
 
 
 //スカした
-<$06>A bemusing
+A bemusing
 <$00>
 
 
@@ -3551,7 +3551,7 @@ serve you.
 
 
 //凝り過ぎの
-<$06>A stern
+A stern
 <$00>
 
 
@@ -3560,7 +3560,7 @@ serve you.
 
 
 //悪くない
-<$06>A complicated
+A complicated
 <$00>
 
 
@@ -3569,7 +3569,7 @@ serve you.
 
 
 //
-<$06><$15>
+<$15>
 //Y闘犬場／受付
 YDGF Dojo／Reception
 <$00>
@@ -3580,7 +3580,7 @@ YDGF Dojo／Reception
 
 
 //目指すは、闘犬長者∥　自分の猟犬こそ\n世界一と思う奴は　今すぐ参加しな∥\n
-<$06>Let your dog fight in the dojo to prove who's\n
+Let your dog fight in the dojo to prove who's\n
 strongest!\n
 <$01>
 //挑戦するぜ
@@ -3605,7 +3605,7 @@ Exit
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //要は、猟犬同志の勝ち抜き戦だ！\n１回勝つたびに　もらえる懸賞金は\n天井知らずに　はね上がる寸法だ∥
 In the dojo, your hunting dogs fight for you!\n
 You'll accumulate prize money as they win.
@@ -3629,10 +3629,10 @@ is a game about knowing your limits.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //参加料は　
 The entry fee is＿
-<$1D><$1E><$14>
+<$1D><$06><$1E><$04><$14>
 //￥ポッキリ！\n三役以上になれば　給金も出る！\nさあ　見てても　金にはならないゼ！
 ￥!\n
 All participants 3rd-tier or higher get paid!\n
@@ -3645,7 +3645,7 @@ Come make some money!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //まともな猟犬もいねぇくせに…\nまさかおめえが参加するのかよ？\n
 You want to participate, even without a\n
 decent dog?\n
@@ -3666,7 +3666,7 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //まっ　尻尾がはえてからに\nしときなよ
 Learning to bite isn't as gratifying if you\n
 can't bark about it too.
@@ -3679,7 +3679,7 @@ can't bark about it too.
 
 
 //
-<$06><$15>
+<$15>
 //Y闘犬場
 YDGF Dojo
 <$00>
@@ -3690,7 +3690,7 @@ YDGF Dojo
 
 
 //出るのはどの犬だい？
-<$06>Which dog will fight?
+Which dog will fight?
 <$12>
 <$00>
 
@@ -3699,7 +3699,7 @@ YDGF Dojo
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //そいつが「ワン」と\n鳴いたら、出場させてもいいぜ
 If a dog can let out a bark,\n
 it's allowed to fight.
@@ -3711,7 +3711,7 @@ it's allowed to fight.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //おっと！　挑戦は　１シーズンにつき\n各猟犬１回きりってのが　決まりでよ、\n次の
 Oops! We only allow dogs to challenge the\n
 dojo once per season. Come back next＿
@@ -3726,13 +3726,13 @@ dojo once per season. Come back next＿
 
 
 
-<$06><$1D>
+<$1D>
 //号は　
 's＿
 <$1D>
 //からの出場だ！\n参加料　
 ＿entry fee is＿
-<$1D><$1E><$14>
+<$1D><$06><$1E><$04><$14>
 //￥！　いいな？\n
 ￥, okay?\n
 <$01>
@@ -3752,12 +3752,12 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$15>
 //b
 b
-<$1E><$14>
+<$06><$1E><$04><$14>
 //￥も　ねぇのかよ…\n
 ￥ is a no-go?\n
 Maybe you should sell＿
@@ -3773,7 +3773,7 @@ Maybe you should sell＿
 
 
 //前頭十二枚目
-<$06>16th-tier
+16th-tier
 <$00>
 
 
@@ -3782,7 +3782,7 @@ Maybe you should sell＿
 
 
 //前頭十一枚目
-<$06>15th-tier
+15th-tier
 <$00>
 
 
@@ -3791,7 +3791,7 @@ Maybe you should sell＿
 
 
 //前頭十枚目
-<$06>14th-tier
+14th-tier
 <$00>
 
 
@@ -3800,7 +3800,7 @@ Maybe you should sell＿
 
 
 //前頭九枚目
-<$06>13th-tier
+13th-tier
 <$00>
 
 
@@ -3809,7 +3809,7 @@ Maybe you should sell＿
 
 
 //前頭八枚目
-<$06>12th-tier
+12th-tier
 <$00>
 
 
@@ -3818,7 +3818,7 @@ Maybe you should sell＿
 
 
 //前頭七枚目
-<$06>11th-tier
+11th-tier
 <$00>
 
 
@@ -3827,7 +3827,7 @@ Maybe you should sell＿
 
 
 //前頭六枚目
-<$06>10th-tier
+10th-tier
 <$00>
 
 
@@ -3836,7 +3836,7 @@ Maybe you should sell＿
 
 
 //前頭五枚目
-<$06>9th-tier
+9th-tier
 <$00>
 
 
@@ -3845,7 +3845,7 @@ Maybe you should sell＿
 
 
 //前頭四枚目
-<$06>8th-tier
+8th-tier
 <$00>
 
 
@@ -3854,7 +3854,7 @@ Maybe you should sell＿
 
 
 //前頭三枚目
-<$06>7th-tier
+7th-tier
 <$00>
 
 
@@ -3863,7 +3863,7 @@ Maybe you should sell＿
 
 
 //前頭二枚目
-<$06>6th-tier
+6th-tier
 <$00>
 
 
@@ -3872,7 +3872,7 @@ Maybe you should sell＿
 
 
 //前頭筆頭
-<$06>5th-tier
+5th-tier
 <$00>
 
 
@@ -3881,7 +3881,7 @@ Maybe you should sell＿
 
 
 //小結
-<$06>4th-tier
+4th-tier
 <$00>
 
 
@@ -3890,7 +3890,7 @@ Maybe you should sell＿
 
 
 //関脇
-<$06>3rd-tier
+3rd-tier
 <$00>
 
 
@@ -3899,7 +3899,7 @@ Maybe you should sell＿
 
 
 //大関
-<$06>2nd-tier
+2nd-tier
 <$00>
 
 
@@ -3908,7 +3908,7 @@ Maybe you should sell＿
 
 
 //横綱
-<$06>Yokozuna
+Yokozuna
 <$00>
 
 
@@ -3917,7 +3917,7 @@ Maybe you should sell＿
 
 
 //神取
-<$06>Kandori
+Kandori
 <$00>
 
 
@@ -3926,7 +3926,7 @@ Maybe you should sell＿
 
 
 //青梅
-<$06>Aoume
+Aoume
 <$00>
 
 
@@ -3935,7 +3935,7 @@ Maybe you should sell＿
 
 
 //丸橋
-<$06>Maruhashi
+Maruhashi
 <$00>
 
 
@@ -3944,7 +3944,7 @@ Maybe you should sell＿
 
 
 //阿邪
-<$06>Axie
+Axie
 <$00>
 
 
@@ -3953,7 +3953,7 @@ Maybe you should sell＿
 
 
 //白鶴
-<$06>Hakutsuru
+Hakutsuru
 <$00>
 
 
@@ -3962,7 +3962,7 @@ Maybe you should sell＿
 
 
 //聖子
-<$06>Seiko
+Seiko
 <$00>
 
 
@@ -3971,7 +3971,7 @@ Maybe you should sell＿
 
 
 //黄桜
-<$06>Kizakura
+Kizakura
 <$00>
 
 
@@ -3980,7 +3980,7 @@ Maybe you should sell＿
 
 
 //百恵
-<$06>Momoe
+Momoe
 <$00>
 
 
@@ -3989,7 +3989,7 @@ Maybe you should sell＿
 
 
 //小柳
-<$06>Koyanagi
+Koyanagi
 <$00>
 
 
@@ -3998,7 +3998,7 @@ Maybe you should sell＿
 
 
 //天地
-<$06>Tenchi
+Tenchi
 <$00>
 
 
@@ -4007,7 +4007,7 @@ Maybe you should sell＿
 
 
 //阿福
-<$06>Afu
+Afu
 <$00>
 
 
@@ -4016,7 +4016,7 @@ Maybe you should sell＿
 
 
 //政子
-<$06>Masako
+Masako
 <$00>
 
 
@@ -4025,7 +4025,7 @@ Maybe you should sell＿
 
 
 //呂母
-<$06>Mother Lu
+Mother Lu
 <$00>
 
 
@@ -4034,7 +4034,7 @@ Maybe you should sell＿
 
 
 //羅士
-<$06>Luo Shi
+Luo Shi
 <$00>
 
 
@@ -4043,7 +4043,7 @@ Maybe you should sell＿
 
 
 //林珍
-<$06>Lin Zhen
+Lin Zhen
 <$00>
 
 
@@ -4052,7 +4052,7 @@ Maybe you should sell＿
 
 
 //淀君
-<$06>Yodogimi
+Yodogimi
 <$00>
 
 
@@ -4061,7 +4061,7 @@ Maybe you should sell＿
 
 
 //風魔
-<$06>Fuma
+Fuma
 <$00>
 
 
@@ -4070,7 +4070,7 @@ Maybe you should sell＿
 
 
 //半蔵
-<$06>Hanzo
+Hanzo
 <$00>
 
 
@@ -4079,7 +4079,7 @@ Maybe you should sell＿
 
 
 //諸星
-<$06>Morohoshi
+Morohoshi
 <$00>
 
 
@@ -4088,7 +4088,7 @@ Maybe you should sell＿
 
 
 //本郷
-<$06>Hongo
+Hongo
 <$00>
 
 
@@ -4097,7 +4097,7 @@ Maybe you should sell＿
 
 
 //隆盛
-<$06>Takamori
+Takamori
 <$00>
 
 
@@ -4106,7 +4106,7 @@ Maybe you should sell＿
 
 
 //倍達
-<$06>Masutatsu
+Masutatsu
 <$00>
 
 
@@ -4115,7 +4115,7 @@ Maybe you should sell＿
 
 
 //若貴
-<$06>Wakataka
+Wakataka
 <$00>
 
 
@@ -4124,7 +4124,7 @@ Maybe you should sell＿
 
 
 //北尾
-<$06>Kitao
+Kitao
 <$00>
 
 
@@ -4133,7 +4133,7 @@ Maybe you should sell＿
 
 
 //陸奥
-<$06>Mutsu
+Mutsu
 <$00>
 
 
@@ -4142,7 +4142,7 @@ Maybe you should sell＿
 
 
 //長門
-<$06>Nagato
+Nagato
 <$00>
 
 
@@ -4151,7 +4151,7 @@ Maybe you should sell＿
 
 
 //赤城
-<$06>Akagi
+Akagi
 <$00>
 
 
@@ -4160,7 +4160,7 @@ Maybe you should sell＿
 
 
 //天竜
-<$06>Tenryu
+Tenryu
 <$00>
 
 
@@ -4169,7 +4169,7 @@ Maybe you should sell＿
 
 
 //長岡
-<$06>Nagaoka
+Nagaoka
 <$00>
 
 
@@ -4178,7 +4178,7 @@ Maybe you should sell＿
 
 
 //八房
-<$06>Yatsubusa
+Yatsubusa
 <$00>
 
 
@@ -4187,7 +4187,7 @@ Maybe you should sell＿
 
 
 //文殊
-<$06>Manjushri
+Manjushri
 <$00>
 
 
@@ -4196,7 +4196,7 @@ Maybe you should sell＿
 
 
 //赤影
-<$06>Akakage
+Akakage
 <$00>
 
 
@@ -4205,7 +4205,7 @@ Maybe you should sell＿
 
 
 //神取
-<$06>Kandori
+Kandori
 <$00>
 
 
@@ -4214,7 +4214,7 @@ Maybe you should sell＿
 
 
 //青梅
-<$06>Aoume
+Aoume
 <$00>
 
 
@@ -4223,7 +4223,7 @@ Maybe you should sell＿
 
 
 //丸橋
-<$06>Maruhashi
+Maruhashi
 <$00>
 
 
@@ -4232,7 +4232,7 @@ Maybe you should sell＿
 
 
 //阿邪
-<$06>Axie
+Axie
 <$00>
 
 
@@ -4241,7 +4241,7 @@ Maybe you should sell＿
 
 
 //白鶴
-<$06>Hakutsuru
+Hakutsuru
 <$00>
 
 
@@ -4250,7 +4250,7 @@ Maybe you should sell＿
 
 
 //聖子
-<$06>Seiko
+Seiko
 <$00>
 
 
@@ -4259,7 +4259,7 @@ Maybe you should sell＿
 
 
 //黄桜
-<$06>Kizakura
+Kizakura
 <$00>
 
 
@@ -4268,7 +4268,7 @@ Maybe you should sell＿
 
 
 //百恵
-<$06>Momoe
+Momoe
 <$00>
 
 
@@ -4277,7 +4277,7 @@ Maybe you should sell＿
 
 
 //小柳
-<$06>Koyanagi
+Koyanagi
 <$00>
 
 
@@ -4286,7 +4286,7 @@ Maybe you should sell＿
 
 
 //天地
-<$06>Tenchi
+Tenchi
 <$00>
 
 
@@ -4295,7 +4295,7 @@ Maybe you should sell＿
 
 
 //阿福
-<$06>Afu
+Afu
 <$00>
 
 
@@ -4304,7 +4304,7 @@ Maybe you should sell＿
 
 
 //政子
-<$06>Masako
+Masako
 <$00>
 
 
@@ -4313,7 +4313,7 @@ Maybe you should sell＿
 
 
 //呂母
-<$06>Mother Lu
+Mother Lu
 <$00>
 
 
@@ -4322,7 +4322,7 @@ Maybe you should sell＿
 
 
 //羅士
-<$06>Luo Shi
+Luo Shi
 <$00>
 
 
@@ -4331,7 +4331,7 @@ Maybe you should sell＿
 
 
 //林珍
-<$06>Lin Zhen
+Lin Zhen
 <$00>
 
 
@@ -4340,7 +4340,7 @@ Maybe you should sell＿
 
 
 //淀君
-<$06>Yodogimi
+Yodogimi
 <$00>
 
 
@@ -4349,7 +4349,7 @@ Maybe you should sell＿
 
 
 //風魔
-<$06>Fuma
+Fuma
 <$00>
 
 
@@ -4358,7 +4358,7 @@ Maybe you should sell＿
 
 
 //半蔵
-<$06>Hanzo
+Hanzo
 <$00>
 
 
@@ -4367,7 +4367,7 @@ Maybe you should sell＿
 
 
 //諸星
-<$06>Morohoshi
+Morohoshi
 <$00>
 
 
@@ -4376,7 +4376,7 @@ Maybe you should sell＿
 
 
 //本郷
-<$06>Hongo
+Hongo
 <$00>
 
 
@@ -4385,7 +4385,7 @@ Maybe you should sell＿
 
 
 //隆盛
-<$06>Takamori
+Takamori
 <$00>
 
 
@@ -4394,7 +4394,7 @@ Maybe you should sell＿
 
 
 //倍達
-<$06>Masutatsu
+Masutatsu
 <$00>
 
 
@@ -4403,7 +4403,7 @@ Maybe you should sell＿
 
 
 //若貴
-<$06>Wakataka
+Wakataka
 <$00>
 
 
@@ -4412,7 +4412,7 @@ Maybe you should sell＿
 
 
 //北尾
-<$06>Kitao
+Kitao
 <$00>
 
 
@@ -4421,7 +4421,7 @@ Maybe you should sell＿
 
 
 //陸奥
-<$06>Mutsu
+Mutsu
 <$00>
 
 
@@ -4430,7 +4430,7 @@ Maybe you should sell＿
 
 
 //長門
-<$06>Nagato
+Nagato
 <$00>
 
 
@@ -4439,7 +4439,7 @@ Maybe you should sell＿
 
 
 //赤城
-<$06>Akagi
+Akagi
 <$00>
 
 
@@ -4448,7 +4448,7 @@ Maybe you should sell＿
 
 
 //天竜
-<$06>Tenryu
+Tenryu
 <$00>
 
 
@@ -4457,7 +4457,7 @@ Maybe you should sell＿
 
 
 //長岡
-<$06>Nagaoka
+Nagaoka
 <$00>
 
 
@@ -4466,7 +4466,7 @@ Maybe you should sell＿
 
 
 //八房
-<$06>Yatsubusa
+Yatsubusa
 <$00>
 
 
@@ -4475,7 +4475,7 @@ Maybe you should sell＿
 
 
 //文殊
-<$06>Manjushri
+Manjushri
 <$00>
 
 
@@ -4484,7 +4484,7 @@ Maybe you should sell＿
 
 
 //赤影
-<$06>Akakage
+Akakage
 <$00>
 
 
@@ -4492,7 +4492,7 @@ Maybe you should sell＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ＷＩＮＮＥＲ∥　
 THE WINNER IS＿
 <$1D>
@@ -4510,7 +4510,7 @@ THE WINNER IS＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ＷＩＮＮＥＲ∥　
 THE WINNER IS＿
 <$1D>
@@ -4529,7 +4529,7 @@ We await your comeback!)
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ＷＩＮＮＥＲ∥　
 THE WINNER IS＿
 <$1D>
@@ -4543,7 +4543,7 @@ THE WINNER IS＿
 
 
 //\n
-<$06>\n
+\n
 (Promoted to＿
 <$1D>
 //に昇進∥
@@ -4556,9 +4556,9 @@ THE WINNER IS＿
 
 
 //\n懸賞金
-<$06>\n
+\n
 Winnings earned:＿
-<$1E>
+<$06><$1E><$04>
 //￥　獲得∥
 ￥!
 <$12>
@@ -4569,10 +4569,10 @@ Winnings earned:＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //累積賞金は　
 Winnings earned:＿
-<$1E>
+<$06><$1E><$04>
 //￥ですが\n続けて勝負しますか？\n
 ￥\n
 Continue fighting?\n
@@ -4593,14 +4593,14 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
 <$15>
 //S<CLEAR>ケンは　賞金
 S<CLEAR>Ken received\n
-<$1E>
+<$06><$1E><$04>
 //￥を\n受け取った∥
 ￥ in winnings!
 <$14><$12>
@@ -4611,7 +4611,7 @@ S<CLEAR>Ken received\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //さて　ここで　新
 And here's your new
 <$1D>
@@ -4628,13 +4628,13 @@ And here's your new
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1D>
 //号には　来季より　
 ＿has earn you a lifelong\n
 monthly stipend of＿
-<$1E>
+<$06><$1E><$04>
 //￥の\n給金が　命ある限り　支給されます∥
 ￥\n
 from next season onwards.
@@ -4646,7 +4646,7 @@ from next season onwards.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //さらに、
 Furthermore,＿
 <$1D>
@@ -4673,7 +4673,7 @@ Keep old name
 
 
 
-<$06><$19>
+<$19>
 //1<CLEAR>第
 1<CLEAR>Give it＿
 <$1E>
@@ -4691,13 +4691,13 @@ Congratulations!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //これより　
 And now, the fight for＿
 <$1D>
 //との取組み∥\n懸賞金　
 ＿and a prize of＿
-<$1E>
+<$06><$1E><$04>
 //￥
 ￥...
 <$12>

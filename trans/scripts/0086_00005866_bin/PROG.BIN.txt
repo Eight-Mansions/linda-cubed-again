@@ -10,7 +10,7 @@
 #WRITE(PTR, $0026)
 #WRITE(PTR, $0028)
 //１
-<$06>1
+1
 <$00>
 
 
@@ -19,7 +19,7 @@
 
 
 //２
-<$06>2
+2
 <$00>
 
 
@@ -28,7 +28,7 @@
 
 
 //３
-<$06>3
+3
 <$00>
 
 
@@ -36,7 +36,7 @@
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n
@@ -53,7 +53,7 @@ snorted＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n雄たけびを　あげた∥
@@ -67,7 +67,7 @@ let out a battle cry!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n遠くを　見ている…
@@ -81,7 +81,7 @@ stared into the distance.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n風の臭いに　おびえている…
@@ -95,7 +95,7 @@ trembles at a smell in the air.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n大きく　２度、鳴いた∥
@@ -109,7 +109,7 @@ called loudly 2 times!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは　
@@ -126,7 +126,7 @@ T.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n遠くを　見ている…
@@ -140,7 +140,7 @@ stared into the distance.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n風の臭いに　おびえている…
@@ -154,7 +154,7 @@ trembles at a smell in the air.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n大きく　２度、鳴いた∥
@@ -168,7 +168,7 @@ called loudly 2 times!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは　
@@ -185,7 +185,7 @@ T.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n
@@ -313,7 +313,7 @@ m040m.obj
 
 #WRITE(PTR, $002C)
 //教会１Ｆ
-<$06>Church 1F＿
+Church 1F＿
 <$00>
 
 
@@ -321,7 +321,7 @@ m040m.obj
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -337,7 +337,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -348,7 +348,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -359,7 +359,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -370,7 +370,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -388,7 +388,7 @@ SThe door is shut tight.
 
 #WRITE(PTR, $002E)
 //教会２Ｆ
-<$06>Church 2F＿
+Church 2F＿
 <$00>
 
 
@@ -396,7 +396,7 @@ SThe door is shut tight.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -412,7 +412,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -423,7 +423,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -434,7 +434,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -445,7 +445,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -461,7 +461,7 @@ SThe door is locked.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -477,7 +477,7 @@ SKen used the Church Key.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -493,7 +493,7 @@ SNothing was found.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -511,7 +511,7 @@ SKen found the＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -529,7 +529,7 @@ had to go back.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -547,7 +547,7 @@ SKen acquired＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -565,7 +565,7 @@ SKen found the＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -583,7 +583,7 @@ had to go back.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -603,7 +603,7 @@ SKen acquired＿
 
 #WRITE(PTR, $0030)
 //教会３Ｆ
-<$06>Church 3F＿
+Church 3F＿
 <$00>
 
 
@@ -611,7 +611,7 @@ SKen acquired＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -627,7 +627,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -638,7 +638,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -649,7 +649,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -660,7 +660,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -676,7 +676,7 @@ SThe door is locked.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -692,7 +692,7 @@ SKen used the Church Key.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -710,7 +710,7 @@ SKen found the＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -728,7 +728,7 @@ had to go back.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -748,7 +748,7 @@ SKen acquired＿
 
 #WRITE(PTR, $0032)
 //教会４Ｆ
-<$06>Church 4F＿
+Church 4F＿
 <$00>
 
 
@@ -756,7 +756,7 @@ SKen acquired＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -772,7 +772,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -783,7 +783,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -794,7 +794,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -807,7 +807,7 @@ The Navi System(NaviS) can't be booted here!
 
 #WRITE(PTR, $0034)
 //教会５Ｆ
-<$06>Church 5F＿
+Church 5F＿
 <$00>
 
 
@@ -815,7 +815,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -831,7 +831,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -842,7 +842,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -853,7 +853,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -866,7 +866,7 @@ The Navi System(NaviS) can't be booted here!
 
 #WRITE(PTR, $0036)
 //教会６Ｆ
-<$06>Church 6F＿
+Church 6F＿
 <$00>
 
 
@@ -874,7 +874,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -890,7 +890,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -907,7 +907,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -924,7 +924,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -935,7 +935,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -946,7 +946,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -957,7 +957,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //やっと　ご到着か！\nようこそ！　懐かしの町へ
 You finally made it!\n
 Welcome to this fondly treasured village!
@@ -968,7 +968,7 @@ Welcome to this fondly treasured village!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //俺たちは　ここで生まれ　すぐに\n捨てられたんだゼ！　兄ちゃん
 On the other hand, you and I were\n
 not-so-fondly torn apart and left to die,
@@ -979,7 +979,7 @@ not-so-fondly torn apart and left to die,
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //だから今日は　子供の頃\n一緒に遊べなかった分を\nたっぷり　取り返そうゼ！
 but we're going to make up for every lost\n
 minute of playtime today!
@@ -990,7 +990,7 @@ minute of playtime today!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ゲームをしよう！
 So, let the game begin!
 <$00>
@@ -1000,7 +1000,7 @@ So, let the game begin!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //賞品は　リンダの記憶を\n回復するのにいる薬、１年分！
 The prize is a year's dosage of memory serum\n
 for Linda!
@@ -1011,7 +1011,7 @@ for Linda!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ルールは　簡単だ\nただの鬼ごっこだもんな\n鬼は　俺の友達がやる
 The game is simple: tag! And my little\n
 friends are all "it"!
@@ -1022,7 +1022,7 @@ friends are all "it"!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //兄ちゃんは　この町の\nメインゲートまで　逃げきれば\nそれで　勝ちだ！
 It you can make it back to the main gate in\n
 one piece, you win!
@@ -1033,7 +1033,7 @@ one piece, you win!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //鐘が３つ鳴るまでは　鬼は\n追いかけない…　逃げるなら\n今のうちだゼ！　兄ちゃん
 I ring this bell 3 times, and the hunt\n
 begins! Now's your chance to run!
@@ -1044,7 +1044,7 @@ begins! Now's your chance to run!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //また来たのかい　兄ちゃん\n鬼ごっこが　好きなのかい？
 You're back? Do you like tag that much?
 <$00>
@@ -1055,7 +1055,7 @@ You're back? Do you like tag that much?
 
 
 //\n
-<$06>\n
+\n
 <$01>
 //大好きだね
 I love it
@@ -1073,7 +1073,7 @@ You dumbass!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //じゃあ　始めよう！
 Then let the game begin!
 <$00>
@@ -1083,7 +1083,7 @@ Then let the game begin!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //今日は　賞品が\nもらえるといいねぇ\nクククク…
 Would sure be swell to win, huh.\n
 Kh-kh-kh...
@@ -1094,7 +1094,7 @@ Kh-kh-kh...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ずいぶん　楽しい弟さんね
 Your little brother's so playful!
 <$00>
@@ -1106,7 +1106,7 @@ Your little brother's so playful!
 
 #WRITE(PTR, $0038)
 //教会Ｂ１
-<$06>Church B1＿
+Church B1＿
 <$00>
 
 
@@ -1114,7 +1114,7 @@ Your little brother's so playful!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -1125,7 +1125,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -1136,7 +1136,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -1153,7 +1153,7 @@ Huge wings flapped in the distance...
 
 
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -1179,7 +1179,7 @@ I've never smelled anything like it!
 
 
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -1194,7 +1194,7 @@ I don't smell anything new in the area.
 
 
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -1219,7 +1219,7 @@ the area.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //それと…、超ヤバイ動物が\n近くにいるみたい！\nぷんぷん臭うわ
 Something...BIG is nearby.\n
 I bet it's as strong as it smells!
@@ -1231,7 +1231,7 @@ I bet it's as strong as it smells!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……何か、さっきから\n胸騒ぎが　するのよ！\n一度、出直さない？
 ...The smell's faded, suggesting its source\n
 left only recently. Maybe it will return?
@@ -1242,7 +1242,7 @@ left only recently. Maybe it will return?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //それから　この付近の動物は\nけっこう根性、あるみたいね
 The animals nearby smell fiesty!
 <$12>
@@ -1253,7 +1253,7 @@ The animals nearby smell fiesty!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //でも、ちょっと危険な臭いも\n混じっているようよ
 It all smells with a hint...of danger!
 <$12>
@@ -1264,7 +1264,7 @@ It all smells with a hint...of danger!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ハンターとしての\n腕を　磨くには\nちょうど、いいってトコね
 Hunters need to hone all the skills they can,\n
 you know?
@@ -1276,7 +1276,7 @@ you know?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //まっ、一応\n注意していきましょうか
 M'kay, let's be careful out there.
 <$12>
@@ -1287,7 +1287,7 @@ M'kay, let's be careful out there.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //適当に　からかってから\n戻りましょうよ
 It wouldn't hurt to poke around a little\n
 before leaving.
@@ -1299,7 +1299,7 @@ before leaving.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //それと、この辺りの動物なら\nケンひとりでも　楽勝よ∥
 Shoot, you could take on the animals here all\n
 by yourself!
@@ -1311,7 +1311,7 @@ by yourself!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは肉を投げようとした…
 Ken threw the meat...
 <$12>
@@ -1328,7 +1328,7 @@ weird that'd look here, he stopped.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$15>
 //W○ボタンで肉を投げます
@@ -1340,7 +1340,7 @@ W○ button: Throw meat
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1358,7 +1358,7 @@ SKen found the＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1376,7 +1376,7 @@ had to go back.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1394,7 +1394,7 @@ SKen acquired＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1412,7 +1412,7 @@ SKen found the＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1430,7 +1430,7 @@ had to go back.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1450,7 +1450,7 @@ SKen acquired＿
 
 #WRITE(PTR, $003A)
 //……東
-<$06>...East
+...East
 <$00>
 
 
@@ -1459,7 +1459,7 @@ SKen acquired＿
 
 
 //……西
-<$06>...West
+...West
 <$00>
 
 
@@ -1468,7 +1468,7 @@ SKen acquired＿
 
 
 //……南
-<$06>...South
+...South
 <$00>
 
 
@@ -1477,7 +1477,7 @@ SKen acquired＿
 
 
 //……北
-<$06>...North
+...North
 <$00>
 
 
@@ -1486,7 +1486,7 @@ SKen acquired＿
 
 
 //…北東
-<$06>...North-east
+...North-east
 <$00>
 
 
@@ -1495,7 +1495,7 @@ SKen acquired＿
 
 
 //…北西
-<$06>...North-west
+...North-west
 <$00>
 
 
@@ -1504,7 +1504,7 @@ SKen acquired＿
 
 
 //…南東
-<$06>...South-east
+...South-east
 <$00>
 
 
@@ -1513,7 +1513,7 @@ SKen acquired＿
 
 
 //…南西
-<$06>...South-west
+...South-west
 <$00>
 
 
@@ -1521,7 +1521,7 @@ SKen acquired＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -1533,7 +1533,7 @@ SKen acquired＿
 
 
 //、…
-<$06>! That's where we'll find a＿
+! That's where we'll find a＿
 <$1D>
 //に行けば
 .
@@ -1545,7 +1545,7 @@ SKen acquired＿
 
 
 //直進
-<$06>For
+For
 <$00>
 
 
@@ -1554,7 +1554,7 @@ SKen acquired＿
 
 
 //右よ
-<$06>Right
+Right
 <$00>
 
 
@@ -1563,7 +1563,7 @@ SKen acquired＿
 
 
 //左よ
-<$06>Left
+Left
 <$00>
 
 
@@ -1572,7 +1572,7 @@ SKen acquired＿
 
 
 //後ろ
-<$06>Back
+Back
 <$00>
 
 
@@ -1580,7 +1580,7 @@ SKen acquired＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -1592,7 +1592,7 @@ SKen acquired＿
 
 
 //、絶対に
-<$06>wards, got it? I'm sure we'll find a＿
+wards, got it? I'm sure we'll find a＿
 <$1D>
 //∥
 ＿there!
@@ -1603,7 +1603,7 @@ SKen acquired＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1618,7 +1618,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…ごめんね、\n今日は　勘がはたらかないわ…
 ...Sorry. I don't have it in me today.
 <$12>
@@ -1630,7 +1630,7 @@ SLinda used her woman's intuition...
 
 
 //運命の
-<$06>Fated＿
+Fated＿
 <$00>
 
 
@@ -1639,7 +1639,7 @@ SLinda used her woman's intuition...
 
 
 //新しい
-<$06>New＿
+New＿
 <$00>
 
 
@@ -1648,7 +1648,7 @@ SLinda used her woman's intuition...
 
 
 //素敵な
-<$06>Great＿
+Great＿
 <$00>
 
 
@@ -1657,7 +1657,7 @@ SLinda used her woman's intuition...
 
 
 //未知の
-<$06>Unknown＿
+Unknown＿
 <$00>
 
 
@@ -1666,7 +1666,7 @@ SLinda used her woman's intuition...
 
 
 //何か
-<$06>things＿
+things＿
 <$00>
 
 
@@ -1675,7 +1675,7 @@ SLinda used her woman's intuition...
 
 
 //発見
-<$06>discoveries＿
+discoveries＿
 <$00>
 
 
@@ -1684,7 +1684,7 @@ SLinda used her woman's intuition...
 
 
 //お宝
-<$06>treasures＿
+treasures＿
 <$00>
 
 
@@ -1693,7 +1693,7 @@ SLinda used her woman's intuition...
 
 
 //動物
-<$06>animals＿
+animals＿
 <$00>
 
 
@@ -1702,7 +1702,7 @@ SLinda used her woman's intuition...
 
 
 //に　出会える…
-<$06>could appear.
+could appear.
 <$00>
 
 
@@ -1711,7 +1711,7 @@ SLinda used her woman's intuition...
 
 
 //が　待ってる…
-<$06>await us...
+await us...
 <$00>
 
 
@@ -1720,7 +1720,7 @@ SLinda used her woman's intuition...
 
 
 //気がするわ∥
-<$06>are there.
+are there.
 <$00>
 
 
@@ -1729,7 +1729,7 @@ SLinda used her woman's intuition...
 
 
 //チャンスよ∥
-<$06>are in our grasp!
+are in our grasp!
 <$00>
 
 
@@ -1738,7 +1738,7 @@ SLinda used her woman's intuition...
 
 
 //今しかないわ
-<$06>could slip through our fingers!
+could slip through our fingers!
 <$00>
 
 
@@ -1747,7 +1747,7 @@ SLinda used her woman's intuition...
 
 
 //間違いなし∥
-<$06>are dead head!
+are dead head!
 <$00>
 
 
@@ -1756,7 +1756,7 @@ SLinda used her woman's intuition...
 
 
 //\n
-<$06>\n
+\n
 <$1D><$1D><$1D>
 //\n
 \n
@@ -1771,7 +1771,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信があるの∥
 I'm sure of it!
 <$12>
@@ -1782,7 +1782,7 @@ I'm sure of it!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信は　ないけどね…
 Although, I'm not totally certain...
 <$12>
@@ -1793,7 +1793,7 @@ Although, I'm not totally certain...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //絶対なんだから∥
 I'm absolutely certain!
 <$12>
@@ -1805,7 +1805,7 @@ I'm absolutely certain!
 
 
 //グルル、グルル
-<$06>Grrr...
+Grrr...
 <$12>
 <$00>
 
@@ -1814,7 +1814,7 @@ I'm absolutely certain!
 
 
 
-<$06><$1D>
+<$1D>
 //　
 
 <$1E>
@@ -1828,7 +1828,7 @@ x\n
 
 
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -1843,7 +1843,7 @@ It smells like a bunch of dust.
 
 
 //リンダは　動物たちの\n鳴きマネをした
-<$06>Linda mimicked a few animal calls.
+Linda mimicked a few animal calls.
 <$00>
 
 
@@ -1852,7 +1852,7 @@ It smells like a bunch of dust.
 
 
 //ケンは　目立たないように\n気配を殺した
-<$06>Ken masked the party to avoid detection.
+Ken masked the party to avoid detection.
 <$00>
 
 
@@ -1867,7 +1867,7 @@ It smells like a bunch of dust.
 
 
 //ケンは　「迷彩スプレー」を\n使った
-<$06>Ken used the Cover Spray.
+Ken used the Cover Spray.
 <$00>
 
 
@@ -1875,7 +1875,7 @@ It smells like a bunch of dust.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //スプレーは　空になった
 The spray ran out.
 <$12>
@@ -1887,7 +1887,7 @@ The spray ran out.
 
 
 //ケンは　「中和スプレー」を\n使った
-<$06>Ken used the Neutralizer.
+Ken used the Neutralizer.
 <$00>
 
 
@@ -1895,7 +1895,7 @@ The spray ran out.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //スプレーは　空になった
 The spray ran out.
 <$12>
@@ -1907,7 +1907,7 @@ The spray ran out.
 
 
 //ケンは　「シャニルＮｏ５」を\n自分にふりかけた
-<$06>Ken sprinkled the Chanel No. 5 over himself.
+Ken sprinkled the Chanel No. 5 over himself.
 <$00>
 
 
@@ -1916,7 +1916,7 @@ The spray ran out.
 
 
 //ここに「貸しワナ」を仕掛けますか？\n
-<$06>Set the Rental Trap here?\n
+Set the Rental Trap here?\n
 <$01>
 //は＿い
 Yes
@@ -1933,7 +1933,7 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　「貸しワナ」をそっと置いた
 Ken carefully set the Rental Trap.
 <$00>
@@ -1949,7 +1949,7 @@ Ken carefully set the Rental Trap.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　「自前ワナ」の設置場所を\n一度に　３ヵ所しか\n覚えられそうにない…
 Ken can only remember up to 3 Makeshift Trap\n
 locations at a time.
@@ -1961,7 +1961,7 @@ locations at a time.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここに「自前のワナ」を仕掛けますか？\n
 Set the Makeshift Trap here?\n
 <$01>
@@ -1980,7 +1980,7 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　「自前のワナ」をそっと置いた
 Ken set the Makeshift Trap.
 <$00>
@@ -1996,7 +1996,7 @@ Ken set the Makeshift Trap.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //やっぱり　ケンは\n前に仕掛けた　「自前のワナ」の場所を\nひとつ　忘れてしまった…　トホホ…
 ...Oops! As expected, Ken forgot the location\n
 of 1 previously set Makeshift Trap.
@@ -2008,7 +2008,7 @@ of 1 previously set Makeshift Trap.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -2029,7 +2029,7 @@ Ken whistfully put down the Money Trap.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -2044,7 +2044,7 @@ SKen inspected the Makeshift Trap.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -2060,7 +2060,7 @@ Ken whistfully put down the Makeshift Trap.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -2075,7 +2075,7 @@ SThe trap was destroyed...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -2101,7 +2101,7 @@ let it go.
 <$06>
 //TRANS-CARGO IN
 Now loading to TCU...
-
+<$04>
 //∥
 !
 <$12>

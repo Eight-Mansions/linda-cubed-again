@@ -150,7 +150,7 @@ kao_l33.obj
 
 #WRITE(PTR, $001C)
 //オズポート
-<$06>OzPort＿
+OzPort＿
 <$00>
 
 
@@ -158,7 +158,7 @@ kao_l33.obj
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -174,7 +174,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -191,7 +191,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -208,7 +208,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -219,7 +219,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -230,7 +230,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -241,7 +241,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -257,7 +257,7 @@ the red cypress tree.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //恵まれない私のために　ひとつ\nご寄付をお願いしますよ、ダンナ様！
 If you donate to charity, then you can call\n
 me Charity!
@@ -268,7 +268,7 @@ me Charity!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //何かイイことが　ありそうなフリだけの\n寄付より　絶対に何もない　私への\n寄付のほうが　潔いってモンですよ
 Why donate to some corporation when you could\n
 donate to me, someone who ACTUALLY needs the\n
@@ -282,7 +282,7 @@ money?
 
 
 //公園内での　キャッチボール、たき火等\n他人の迷惑になる行為を　禁じます\n＿＿＿＿＿＿＿＿オズポート公園管理局
-<$06>"NUISANCE ACTIVITIES\n
+"NUISANCE ACTIVITIES\n
 (BALL GAMES, BONFIRES, ETC) ARE BANNED!"\n
 ＿-OZPORT PARK STAFF
 <$12>
@@ -294,7 +294,7 @@ money?
 
 
 //赤糸杉\nこの木に　恋人の名を刻むと　想いが\nかなうという伝説が　ありますが…
-<$06>"LOVERS WHO ENGRAVE THEIR NAMES ON OUR FAMOUS\n
+"LOVERS WHO ENGRAVE THEIR NAMES ON OUR FAMOUS\n
 RED CYPRESS LIVE HAPPILY EVER AFTER."
 <$12>
 \n
@@ -318,7 +318,7 @@ TREES."
 
 
 //レンジャー隊の本部の　記録係のコ！\n彼女の雑談って　いろんな噂話が聞けて\n面白いよな？　半分はウソだけどさ
-<$06>You know the lady at HQ who documents\n
+You know the lady at HQ who documents\n
 reports? She always has the latest gossip.
 <$12>
 \n
@@ -340,7 +340,7 @@ channeled that energy elsewhere.
 
 
 //自然の中の　夜の静寂は\n女を　おしゃべりにさせるんだよ
-<$06>There's something about quiet nights under\n
+There's something about quiet nights under\n
 the stars that makes women wanna open up.
 <$12>
 \n
@@ -357,7 +357,7 @@ woman's true feelings. You should try it!
 
 
 //どんなにひもじくても　外で見つけた\n花を口にするような　バカなマネは\nよしたほうが　安全だぜ
-<$06>I don't care how hungry you are, eating\n
+I don't care how hungry you are, eating\n
 flowers out of the dirt is downright nasty.
 <$12>
 \n
@@ -374,7 +374,7 @@ some thorny flowers are better for the eyes!
 
 
 //ＡＭＤ　１、９、９、９、年　夏　…\nこの星の最後に　ふさわしい\n単純であっけない　数字の並びだわね
-<$06>This planet will die in the summer of AMD\n
+This planet will die in the summer of AMD\n
 1999. I too enjoy topping things off with a\n
 bang, but damn...
 <$12>
@@ -386,7 +386,7 @@ bang, but damn...
 
 
 //町の中を走っても　体力は減らないわ\nただ　ほんの少しばかり、泥棒と\n間違えられることが　増えるかしらね
-<$06>Running in town doesn't deplete stamina, but\n
+Running in town doesn't deplete stamina, but\n
 you may be mistaken for a thief.
 <$12>
 \n
@@ -402,7 +402,7 @@ run as many laps as you want!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //この季節に　洞くつの奥へ潜って\n見慣れない丸いモノを　見つけたら\nそいつは　動物の卵だよ
 If you go diving around this time, you might\n
 find little round animal eggs!
@@ -426,7 +426,7 @@ their parents! Isn't that fun!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //何が出てくるか　わかんない卵に\n大金払うマヌケな商人は　いやしない！\n卵はかえしてから　売らなきゃ損だ∥
 Traders ain't stupid enough to pay high price\n
 for an egg they don't know what's gonna come\n
@@ -445,7 +445,7 @@ through Big Mama first before selling them.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //あの高級花嫁衣裳の　お値段って\nいったい
 I wonder how much they charge for that＿
 <$08>
@@ -463,7 +463,7 @@ I wonder how much they charge for that＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //女に　生まれたからには\n一度は　袖を通してみたいわ！
 What little girl wouldn't kill to put her\n
 hands through those silky sleeves?
@@ -474,7 +474,7 @@ hands through those silky sleeves?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…なーんてね\nレンジャー隊の　給料じゃ\n無理よねェ
 Aw, who am I kidding? There's no slipping\n
 into one of those on a ranger's salary!
@@ -485,7 +485,7 @@ into one of those on a ranger's salary!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -511,7 +511,7 @@ around the names "Ken + Linda".
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //これを書いたの　私よね？
 I carved this for us, right?
 <$00>
@@ -522,7 +522,7 @@ I carved this for us, right?
 
 
 //\n
-<$06>\n
+\n
 <$01>
 //そんな気もする
 Most likely.
@@ -539,7 +539,7 @@ I thought I did!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //だって　あの時　ケンたら\nまだ　自分の名前も\n書けなかったのよ
 Right! At that time, you couldn't figure out\n
 how to write your own name yet.
@@ -550,7 +550,7 @@ how to write your own name yet.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…そう、私が書いたんだわ！
 So...I did the honors instead!
 <$00>
@@ -560,7 +560,7 @@ So...I did the honors instead!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…ねぇ　ケン、わかる？\n私　思い出したのよ∥\nまだ　ほんの少しだけど！
 See, Ken? I remembered something! Maybe not\n
 much, but it's something!
@@ -571,7 +571,7 @@ much, but it's something!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //他にも何か　書いてないかなぁ！\nもっと　思い出せそうな気がする\nねぇ　一緒に捜して！
 Did I write anything else? It could help, so\n
 let's look!
@@ -582,7 +582,7 @@ let's look!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -608,7 +608,7 @@ around the names "Paul + Linda".
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…これも　私なのかしら？
 Did...Did I write this too?
 <$00>
@@ -618,7 +618,7 @@ Did...Did I write this too?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……………あっ∥
 ......Uhm!
 <$00>
@@ -628,7 +628,7 @@ Did...Did I write this too?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ゼンゼン　思い出せないから\nきっと　別人よね\nさあ、次！　次を捜しましょ
 Haha! Who the hell is "Paul"? This must be\n
 some OTHER couple. Moving on!
@@ -639,7 +639,7 @@ some OTHER couple. Moving on!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -665,7 +665,7 @@ the names "Ken + Sachiko".
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ねぇ　ケン…　この星じゃ\nケンもサチコも　とても\n珍しい名前よね？
 You know, "Ken" and "Sachiko" are both mighty\n
 rare names on this planet.
@@ -676,7 +676,7 @@ rare names on this planet.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ホスピコに　サチコっていう\nお人形みたいに　かわいい\n看護婦さんが　いるのよね
 This "Sachiko" must be that cute, doll-like\n
 nurse in Hospico...
@@ -687,7 +687,7 @@ nurse in Hospico...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //でも　別人よね￠
 ...but who's the "Ken", hmm?
 <$00>
@@ -697,7 +697,7 @@ nurse in Hospico...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //………………
 .........
 <$12>
@@ -708,7 +708,7 @@ nurse in Hospico...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //さあ　他のを捜しましょうか？\nもうひとつくらい　別人の\nケンの名前が　見つかるかもね
 Hmph, moving on. Better keep our eyes peeled\n
 for this OTHER Ken.
@@ -719,7 +719,7 @@ for this OTHER Ken.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -745,7 +745,7 @@ the names "Gene + Ann".
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //別人の名前ばかり見つかるわね\nアンは　私のママの名前だし\nジーンは　ケンのパパでしょ？
 What a coincidence! My mom's name is Ann, and\n
 your dad's name was Gene.
@@ -756,7 +756,7 @@ your dad's name was Gene.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //それとも　結婚前に\nワケありだったのかなぁ…\nあっ、冗談よ　ごめんね
 Imagine the drama if this was them before\n
 they got married... Just kidding!
@@ -767,7 +767,7 @@ they got married... Just kidding!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -793,7 +793,7 @@ the red cypress tree.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //そういえば、ケン
 This reminds me...
 <$00>
@@ -803,7 +803,7 @@ This reminds me...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //この木に　名前を彫った後\n記念にって　その辺の店で\n指輪を　買ってくれたよね
 After I carved our names, you bought me a\n
 ring from a nearby store.
@@ -814,7 +814,7 @@ ring from a nearby store.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //確か　値段は２￥！
 It cost you a whopping ２￥!
 <$00>
@@ -824,7 +824,7 @@ It cost you a whopping ２￥!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ほら、これよ　見て！
 But I made the money stretch, see? I've got\n
 it right here!
@@ -841,7 +841,7 @@ PICT16.TIM
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //小さくなったから　１２の時に\nペンダントに　してもらったの
 My finger outgrew it by the time I hit 12, so\n
 I made it into a pendant.
@@ -852,7 +852,7 @@ I made it into a pendant.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…今日も　同じの買ってくれる？\nきっと何か　思い出せるわ！
 Could you buy me a new one today too? For my\n
 memory?
@@ -864,7 +864,7 @@ memory?
 
 
 //\n
-<$06>\n
+\n
 <$01>
 //見るだけだよ
 Cheap-ass...
@@ -881,7 +881,7 @@ For ２￥, sure!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //いいわよ！\n確か　空港ホテルの１階の\nショップだったはずよ
 Sweet! The shop should still be on the first\n
 floor of the Airport Hotel.
@@ -892,7 +892,7 @@ floor of the Airport Hotel.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -908,7 +908,7 @@ tree.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -932,7 +932,7 @@ Ignore it
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -948,7 +948,7 @@ wrote "Ken"!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -965,7 +965,7 @@ names "Ken + Linda".\n
 
 
 //ＷＥＬＣＯＭＥ　ＮＥＯＫＥＮＹＡか…\nここへ来る時は　誰もが歓迎されるけど\n出て行く時は　見送りもなしさ…
-<$06>"WELCOME NEO KENYA"... We greet people who\n
+"WELCOME NEO KENYA"... We greet people who\n
 come here, but don't want to say bye, do we?
 <$12>
 <$00>
@@ -976,7 +976,7 @@ come here, but don't want to say bye, do we?
 
 
 //脱出船の空席待ちの　浮浪者たちが\n勝手に公園で生活を　始めちゃって\nなんだか　ヤな感じ！
-<$06>Droves of vagrants camp here now, hoping to\n
+Droves of vagrants camp here now, hoping to\n
 snatch unclaimed shuttle seats.
 <$12>
 \n
@@ -993,7 +993,7 @@ something about them!
 
 
 //その大木の幹に　好きな相手の名と\n自分の名を彫ると　必ず、ふたりは\n結ばれるって　言われているわ
-<$06>Couples who carve their names into that red\n
+Couples who carve their names into that red\n
 cypress tree are said to be bound forever.
 <$12>
 \n
@@ -1015,7 +1015,7 @@ some person I hate!
 
 
 //あんた、さっき　他人の名前を消して\nその上に　自分の名前を彫ったでしょ？\nなかなか　やるわね、ネク！
-<$06>That was ballsy, Nek, scraping a name off the\n
+That was ballsy, Nek, scraping a name off the\n
 tree and carving yours over it!
 <$12>
 <$00>
@@ -1026,7 +1026,7 @@ tree and carving yours over it!
 
 
 //軌道上のオズサットと　つないでいるのが\nそこのタワーから　空に向かって\n射ち出される　虹色の光さ
-<$06>The rainbow light emitting from the top of\n
+The rainbow light emitting from the top of\n
 the spire follows OzSAT in orbit.
 <$12>
 \n
@@ -1049,7 +1049,7 @@ the "Oz" in the city's name stems from!
 
 
 //ビースチャンの町で　また騒動が\n起きたんだってね…　町中の人間が\n一夜で　消えたって聞いたわよ
-<$06>So, disaster befell yet another Beastian\n
+So, disaster befell yet another Beastian\n
 village, and its citizens vanished overnight.
 <$12>
 \n
@@ -1072,7 +1072,7 @@ us would at least leave a note!
 
 
 //あ～　お腹、減った…
-<$06>Ahh! My hunger's finally...dying....
+Ahh! My hunger's finally...dying....
 <$12>
 \n
 <CLEAR>
@@ -1088,7 +1088,7 @@ grace leaves no mouth unfed.
 
 
 //この赤糸杉ってのは　幹に彫られた\n男女の名前の数だけ　他人の恋路を\n何十年も　見守ってきたわけだよなぁ
-<$06>Ol' Red has safeguarded love for as many\n
+Ol' Red has safeguarded love for as many\n
 years as there are names carved into her\n
 trunk.
 <$12>
@@ -1106,7 +1106,7 @@ less than a week.
 
 
 //赤糸杉の幹を　調べてみな！\n知った名前のひとつやふたつは\nたいてい　見つけられる
-<$06>Go give the red cypress tree's trunk a read.\n
+Go give the red cypress tree's trunk a read.\n
 You might recognize a name or two.
 <$12>
 \n
@@ -1124,7 +1124,7 @@ you know. It may come in handy someday!
 
 #WRITE(PTR, $001E)
 //\n
-<$06>\n
+\n
 <$00>
 
 
@@ -1132,7 +1132,7 @@ you know. It may come in handy someday!
 
 
 
-<$06><$01>
+<$01>
 //寄付する
 Donate
 <$0E>
@@ -1155,13 +1155,13 @@ No way!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //あたしに有り金を　全部渡したその足で\nＬ－
 There's some fellers around L-
-
+<$06>
 //22
 22
-
+<$04>
 //辺りを　散歩してごらん\nきっと珍しいヤツに　出くわすよ
 ＿who only approach those they find desirable.
 <$12>
@@ -1172,19 +1172,19 @@ There's some fellers around L-
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //間違っても　Ｌ－
 Whatever you do, don't camp around L-
-
+<$06>
 //24
 24
-
+<$04>
 //やＧ－
 ＿or G-
-
+<$06>
 //14
 14
-
+<$04>
 //で\n野宿なんかしないほうが　身のためだよ\nこわいヤツが　夢に出て来るってサ
 . Weirdos bump in the night out there, if you\n
 catch my drift.
@@ -1196,7 +1196,7 @@ catch my drift.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //いつも神様は　あなたの行動を\n見ていらっしゃいますよ…
 God's always watching, you know.
 <$12>
@@ -1207,7 +1207,7 @@ God's always watching, you know.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ありがとうございます\n優しい気持ちを　入れてください\n持金
 Thank you so much!\n
 How much will you donate?\n
@@ -1224,10 +1224,10 @@ How much will you donate?\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 You'll donate＿
-<$1E>
+<$06><$1E><$04>
 //￥の寄付ですね\n
 ￥?\n
 <$01>
@@ -1247,7 +1247,7 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //最近、多いんですよ…\n持金を全部、寄付される方…
 I've seen a lot of people donating everything\n
 they have lately.
@@ -1265,7 +1265,7 @@ guilty about participating.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ダンナ、いつもわりいねぇ\n拾いモンだけど　お礼がわりに\nこれ、受け取ってくんナ
 Gosh, I don't know what to say. I'd only\n
 picked this up, but I hope it works as a\n
@@ -1278,7 +1278,7 @@ picked this up, but I hope it works as a\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1296,7 +1296,7 @@ S<CLEAR>Ken took\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //じゃ、引き続き寄付のほう　よろしく!\n…と言っても　もう何もでねぇけどナ
 Well, it always helps, so please continue to\n
 donate when you can.
@@ -1312,7 +1312,7 @@ donate when you can.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //あなたに　神様からの祝福が\nありますように
 God bless you.
 <$12>
@@ -1323,7 +1323,7 @@ God bless you.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //あなたと　あなたの家族に\n神様からのご加護が　ありますように
 God bless you and your family.
 <$12>
@@ -1334,7 +1334,7 @@ God bless you and your family.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //あなたと　あなたの家族\nそして　子孫にも　未来永劫、\n幸あらんことを　お祈りします
 God bless you, your family, your children and\n
 your childrens' children.
@@ -1346,7 +1346,7 @@ your childrens' children.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //今、あなたが寄付したお金を\nどうやって　かせいだかについては…
 Ask yourself, how'd you get the money you\n
 donated just now?
@@ -1364,7 +1364,7 @@ treatment, I'll bet. But that's good too!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //どうも
 My goodness!
 <$12>
@@ -1382,10 +1382,10 @@ have much be so generous brings me to tears!
 <CLEAR>
 //足りなきゃ　
 Is＿
-
+<$06>
 //100000
 100,000
-
+<$04>
 //￥で\nお売りしましょうか？
 ￥ a fair price to you?
 <$12>
@@ -1396,7 +1396,7 @@ Is＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //本当に　ありがとうございました∥\nあなたのお気持ちは　しっかりと…
 Thank you so much! Your generosity will be\n
 remembered for all time.
@@ -1413,7 +1413,7 @@ I know, because I just "reported" it.
 
 
 //個
-<$06>＿
+＿
 <$00>
 
 
@@ -1422,7 +1422,7 @@ I know, because I just "reported" it.
 
 
 //匹
-<$06>＿
+＿
 <$00>
 
 
@@ -1430,13 +1430,13 @@ I know, because I just "reported" it.
 
 
 
-<$06><$1D>
+<$1D>
 //を
 ＿x
 <$1D>
 //ます\n
 ＿\n
-<$19>
+<$06><$19>
 //1
 1
 <$01><$1A>
@@ -1448,7 +1448,7 @@ S
 <$19>
 //0
 0
-
+<$04>
 //／
 ／
 <$14><$1E>
@@ -1484,7 +1484,7 @@ S￥
 TCU (x
 <$1E>
 //034
-
+<$06>
 //)
 )
 <$00>
@@ -1494,7 +1494,7 @@ TCU (x
 
 
 
-<$06><$05>
+<$05>
 //γ
 A
 <$00>
@@ -1504,7 +1504,7 @@ A
 
 
 
-<$06><$05>
+<$05>
 //ζ
 D
 <$00>
@@ -1514,7 +1514,7 @@ D
 
 
 
-<$06><$1E>
+<$1E>
 //@019
 @019
 <$00>
@@ -1524,7 +1524,7 @@ D
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //セレクトボタンで解説が出ます
 SELECT: Details
 <$00>
@@ -1541,7 +1541,7 @@ SELECT: Details
 
 
 
-<$06><$16><$15>
+<$04><$16><$15>
 //W
 W
 <$01><$1D><$02>
@@ -1560,14 +1560,14 @@ W
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //トランスカーゴは　１枠につき\n
 The trans-cargo unit has\n
 a＿
-
+<$06>
 //99
 99
-
+<$04>
 //頭までしか　収容できません
 ＿species capacity!
 <$12>
@@ -1578,12 +1578,12 @@ a＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
-
+<$06>
 //トランスカーゴ
 The trans-cargo unit＿
-
+<$04>
 //がいっぱいです
 is full!
 <$12>
@@ -1594,7 +1594,7 @@ is full!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //道具がいっぱいです
 The item bag is full!
 <$12>
@@ -1605,7 +1605,7 @@ The item bag is full!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //不思議な　不思議な　不思議な卵\n話のネタに　おひとつどーだい？\n
 Oh eggs, what secrets lie inside your little\n
 shells?\n
@@ -1632,7 +1632,7 @@ Exit
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //じゃ、来年の春に　よろしく！
 Okay, see you next spring!
 <$12>
@@ -1643,7 +1643,7 @@ Okay, see you next spring!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //まぁ、買ったところで\n何が生まれるか　分からんし\n俺なら　買わないけどね
 No one knows what'll be born from a bought\n
 egg. It's why I don't buy them.
@@ -1656,7 +1656,7 @@ egg. It's why I don't buy them.
 
 
 //
-<$06><$15>
+<$15>
 //Y卵　屋／買　う
 YEgg Seller／Buy
 <$00>
@@ -1667,7 +1667,7 @@ YEgg Seller／Buy
 
 
 //
-<$06><$15>
+<$15>
 //Y卵　屋
 YEgg Seller
 <$00>
@@ -1678,7 +1678,7 @@ YEgg Seller
 
 
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -1705,7 +1705,7 @@ It's whatever they reek of that isn't human.
 
 
 //……東
-<$06>...East
+...East
 <$00>
 
 
@@ -1714,7 +1714,7 @@ It's whatever they reek of that isn't human.
 
 
 //……西
-<$06>...West
+...West
 <$00>
 
 
@@ -1723,7 +1723,7 @@ It's whatever they reek of that isn't human.
 
 
 //……南
-<$06>...South
+...South
 <$00>
 
 
@@ -1732,7 +1732,7 @@ It's whatever they reek of that isn't human.
 
 
 //……北
-<$06>...North
+...North
 <$00>
 
 
@@ -1741,7 +1741,7 @@ It's whatever they reek of that isn't human.
 
 
 //…北東
-<$06>...North-east
+...North-east
 <$00>
 
 
@@ -1750,7 +1750,7 @@ It's whatever they reek of that isn't human.
 
 
 //…北西
-<$06>...North-west
+...North-west
 <$00>
 
 
@@ -1759,7 +1759,7 @@ It's whatever they reek of that isn't human.
 
 
 //…南東
-<$06>...South-east
+...South-east
 <$00>
 
 
@@ -1768,7 +1768,7 @@ It's whatever they reek of that isn't human.
 
 
 //…南西
-<$06>...South-west
+...South-west
 <$00>
 
 
@@ -1776,7 +1776,7 @@ It's whatever they reek of that isn't human.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -1788,7 +1788,7 @@ It's whatever they reek of that isn't human.
 
 
 //、…
-<$06>! That's where we'll find a＿
+! That's where we'll find a＿
 <$1D>
 //に行けば
 .
@@ -1800,7 +1800,7 @@ It's whatever they reek of that isn't human.
 
 
 //直進
-<$06>For
+For
 <$00>
 
 
@@ -1809,7 +1809,7 @@ It's whatever they reek of that isn't human.
 
 
 //右よ
-<$06>Right
+Right
 <$00>
 
 
@@ -1818,7 +1818,7 @@ It's whatever they reek of that isn't human.
 
 
 //左よ
-<$06>Left
+Left
 <$00>
 
 
@@ -1827,7 +1827,7 @@ It's whatever they reek of that isn't human.
 
 
 //後ろ
-<$06>Back
+Back
 <$00>
 
 
@@ -1835,7 +1835,7 @@ It's whatever they reek of that isn't human.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -1847,7 +1847,7 @@ It's whatever they reek of that isn't human.
 
 
 //、絶対に
-<$06>wards, got it? I'm sure we'll find a＿
+wards, got it? I'm sure we'll find a＿
 <$1D>
 //∥
 ＿there!
@@ -1858,7 +1858,7 @@ It's whatever they reek of that isn't human.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1873,7 +1873,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…ごめんね、\n今日は　勘がはたらかないわ…
 ...Sorry. I don't have it in me today.
 <$12>
@@ -1885,7 +1885,7 @@ SLinda used her woman's intuition...
 
 
 //運命の
-<$06>Fated＿
+Fated＿
 <$00>
 
 
@@ -1894,7 +1894,7 @@ SLinda used her woman's intuition...
 
 
 //新しい
-<$06>New＿
+New＿
 <$00>
 
 
@@ -1903,7 +1903,7 @@ SLinda used her woman's intuition...
 
 
 //素敵な
-<$06>Great＿
+Great＿
 <$00>
 
 
@@ -1912,7 +1912,7 @@ SLinda used her woman's intuition...
 
 
 //未知の
-<$06>Unknown＿
+Unknown＿
 <$00>
 
 
@@ -1921,7 +1921,7 @@ SLinda used her woman's intuition...
 
 
 //何か
-<$06>things＿
+things＿
 <$00>
 
 
@@ -1930,7 +1930,7 @@ SLinda used her woman's intuition...
 
 
 //発見
-<$06>discoveries＿
+discoveries＿
 <$00>
 
 
@@ -1939,7 +1939,7 @@ SLinda used her woman's intuition...
 
 
 //お宝
-<$06>treasures＿
+treasures＿
 <$00>
 
 
@@ -1948,7 +1948,7 @@ SLinda used her woman's intuition...
 
 
 //動物
-<$06>animals＿
+animals＿
 <$00>
 
 
@@ -1957,7 +1957,7 @@ SLinda used her woman's intuition...
 
 
 //に　出会える…
-<$06>could appear.
+could appear.
 <$00>
 
 
@@ -1966,7 +1966,7 @@ SLinda used her woman's intuition...
 
 
 //が　待ってる…
-<$06>await us...
+await us...
 <$00>
 
 
@@ -1975,7 +1975,7 @@ SLinda used her woman's intuition...
 
 
 //気がするわ∥
-<$06>are there.
+are there.
 <$00>
 
 
@@ -1984,7 +1984,7 @@ SLinda used her woman's intuition...
 
 
 //チャンスよ∥
-<$06>are in our grasp!
+are in our grasp!
 <$00>
 
 
@@ -1993,7 +1993,7 @@ SLinda used her woman's intuition...
 
 
 //今しかないわ
-<$06>could slip through our fingers!
+could slip through our fingers!
 <$00>
 
 
@@ -2002,7 +2002,7 @@ SLinda used her woman's intuition...
 
 
 //間違いなし∥
-<$06>are dead head!
+are dead head!
 <$00>
 
 
@@ -2011,7 +2011,7 @@ SLinda used her woman's intuition...
 
 
 //\n
-<$06>\n
+\n
 <$1D><$1D><$1D>
 //\n
 \n
@@ -2026,7 +2026,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信があるの∥
 I'm sure of it!
 <$12>
@@ -2037,7 +2037,7 @@ I'm sure of it!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信は　ないけどね…
 Although, I'm not totally certain...
 <$12>
@@ -2048,7 +2048,7 @@ Although, I'm not totally certain...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //絶対なんだから∥
 I'm absolutely certain!
 <$12>

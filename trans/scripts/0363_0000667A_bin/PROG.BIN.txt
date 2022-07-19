@@ -9,7 +9,7 @@
 #WRITE(PTR, $0020)
 #WRITE(PTR, $0022)
 #WRITE(PTR, $0024)
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n周囲の色に　体を染めた∥
@@ -22,7 +22,7 @@ blended in with its surroundings.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n遠くを　見ている…
@@ -36,7 +36,7 @@ stared into the distance.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n風の臭いに　おびえている…
@@ -50,7 +50,7 @@ trembles at a smell in the air.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n大きく　２度、鳴いた∥
@@ -64,7 +64,7 @@ called loudly 2 times!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは　
@@ -81,7 +81,7 @@ T.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aの攻撃∥\n美しい鳴き声で　歌った∥
@@ -95,7 +95,7 @@ chirped a lovely song!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n遠くを　見ている…
@@ -109,7 +109,7 @@ stared into the distance.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n風の臭いに　おびえている…
@@ -123,7 +123,7 @@ trembles at a smell in the air.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n大きく　２度、鳴いた∥
@@ -137,7 +137,7 @@ called loudly 2 times!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは　
@@ -154,7 +154,7 @@ T.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n遠くを　見ている…
@@ -168,7 +168,7 @@ stared into the distance.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n風の臭いに　おびえている…
@@ -182,7 +182,7 @@ trembles at a smell in the air.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n大きく　２度、鳴いた∥
@@ -196,7 +196,7 @@ called loudly 2 times!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは　
@@ -214,7 +214,7 @@ T.
 
 
 //１
-<$06>1
+1
 <$00>
 
 
@@ -223,7 +223,7 @@ T.
 
 
 //２
-<$06>2
+2
 <$00>
 
 
@@ -232,7 +232,7 @@ T.
 
 
 //３
-<$06>3
+3
 <$00>
 
 
@@ -240,7 +240,7 @@ T.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n
@@ -257,7 +257,7 @@ snorted＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n遠くを　見ている…
@@ -271,7 +271,7 @@ stared into the distance.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n風の臭いに　おびえている…
@@ -285,7 +285,7 @@ trembles at a smell in the air.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n大きく　２度、鳴いた∥
@@ -299,7 +299,7 @@ called loudly 2 times!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは　
@@ -316,7 +316,7 @@ T.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aの攻撃∥\n道具袋を　ねらって\n長い舌が　伸びてきた∥
@@ -330,7 +330,7 @@ reached far to lap at the item bag!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n周囲の色に　体を染めた∥
@@ -343,7 +343,7 @@ blended in with its surroundings.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n遠くを　見ている…
@@ -357,7 +357,7 @@ stared into the distance.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n風の臭いに　おびえている…
@@ -371,7 +371,7 @@ trembles at a smell in the air.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n大きく　２度、鳴いた∥
@@ -385,7 +385,7 @@ called loudly 2 times!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは　
@@ -402,7 +402,7 @@ T.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aの攻撃∥\n道具袋を　ねらって\n長い舌が　伸びてきた∥
@@ -416,7 +416,7 @@ reached far to lap at the item bag!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n
@@ -433,7 +433,7 @@ and landed on the other side!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n遠くを　見ている…
@@ -447,7 +447,7 @@ stared into the distance.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n風の臭いに　おびえている…
@@ -461,7 +461,7 @@ trembles at a smell in the air.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n大きく　２度、鳴いた∥
@@ -475,7 +475,7 @@ called loudly 2 times!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは　
@@ -492,7 +492,7 @@ T.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aの攻撃∥\n強力な光を　全身から放った∥\n残像スパーク∥
@@ -506,7 +506,7 @@ unleashed palinopsic flashes from its body!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n遠くを　見ている…
@@ -520,7 +520,7 @@ stared into the distance.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n風の臭いに　おびえている…
@@ -534,7 +534,7 @@ trembles at a smell in the air.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n大きく　２度、鳴いた∥
@@ -548,7 +548,7 @@ called loudly 2 times!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは　
@@ -565,7 +565,7 @@ T.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n
@@ -582,7 +582,7 @@ and landed on the other side!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aの攻撃∥\n道具袋を　ねらって\n長い舌が　伸びてきた∥
@@ -596,7 +596,7 @@ reached far to lap at the item bag!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n遠くを　見ている…
@@ -610,7 +610,7 @@ stared into the distance.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n風の臭いに　おびえている…
@@ -624,7 +624,7 @@ trembles at a smell in the air.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n大きく　２度、鳴いた∥
@@ -638,7 +638,7 @@ called loudly 2 times!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは　
@@ -655,7 +655,7 @@ T.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n
@@ -673,7 +673,7 @@ and landed on the other side!
 
 
 //マダムロゼ
-<$06>Madam Rose
+Madam Rose
 <$00>
 
 
@@ -681,7 +681,7 @@ and landed on the other side!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n遠くを　見ている…
@@ -695,7 +695,7 @@ stared into the distance.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n風の臭いに　おびえている…
@@ -709,7 +709,7 @@ trembles at a smell in the air.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n大きく　２度、鳴いた∥
@@ -723,7 +723,7 @@ called loudly 2 times!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは　
@@ -740,7 +740,7 @@ T.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n遠くを　見ている…
@@ -754,7 +754,7 @@ stared into the distance.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n風の臭いに　おびえている…
@@ -768,7 +768,7 @@ trembles at a smell in the air.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n大きく　２度、鳴いた∥
@@ -782,7 +782,7 @@ called loudly 2 times!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは　
@@ -800,7 +800,7 @@ T.
 
 
 //ベビーロゼ
-<$06>Roseling
+Roseling
 <$00>
 
 
@@ -808,7 +808,7 @@ T.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n遠くを　見ている…
@@ -822,7 +822,7 @@ stared into the distance.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n風の臭いに　おびえている…
@@ -836,7 +836,7 @@ trembles at a smell in the air.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n大きく　２度、鳴いた∥
@@ -850,7 +850,7 @@ called loudly 2 times!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは　
@@ -990,7 +990,7 @@ m124f.obj
 
 #WRITE(PTR, $0028)
 //ローズガーデン
-<$06>Rose Garden＿
+Rose Garden＿
 <$00>
 
 
@@ -998,7 +998,7 @@ m124f.obj
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -1009,7 +1009,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -1020,7 +1020,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -1037,7 +1037,7 @@ Huge wings flapped in the distance...
 
 
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -1063,7 +1063,7 @@ I've never smelled anything like it!
 
 
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -1078,7 +1078,7 @@ I don't smell anything new in the area.
 
 
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -1103,7 +1103,7 @@ the area.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //それと…、超ヤバイ動物が\n近くにいるみたい！\nぷんぷん臭うわ
 Something...BIG is nearby.\n
 I bet it's as strong as it smells!
@@ -1115,7 +1115,7 @@ I bet it's as strong as it smells!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……何か、さっきから\n胸騒ぎが　するのよ！\n一度、出直さない？
 ...The smell's faded, suggesting its source\n
 left only recently. Maybe it will return?
@@ -1126,7 +1126,7 @@ left only recently. Maybe it will return?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //それから　この付近の動物は\nけっこう根性、あるみたいね
 The animals nearby smell fiesty!
 <$12>
@@ -1137,7 +1137,7 @@ The animals nearby smell fiesty!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //でも、ちょっと危険な臭いも\n混じっているようよ
 It all smells with a hint...of danger!
 <$12>
@@ -1148,7 +1148,7 @@ It all smells with a hint...of danger!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ハンターとしての\n腕を　磨くには\nちょうど、いいってトコね
 Hunters need to hone all the skills they can,\n
 you know?
@@ -1160,7 +1160,7 @@ you know?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //まっ、一応\n注意していきましょうか
 M'kay, let's be careful out there.
 <$12>
@@ -1171,7 +1171,7 @@ M'kay, let's be careful out there.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //適当に　からかってから\n戻りましょうよ
 It wouldn't hurt to poke around a little\n
 before leaving.
@@ -1183,7 +1183,7 @@ before leaving.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //それと、この辺りの動物なら\nケンひとりでも　楽勝よ∥
 Shoot, you could take on the animals here all\n
 by yourself!
@@ -1195,7 +1195,7 @@ by yourself!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは肉を投げようとした…
 Ken threw the meat...
 <$12>
@@ -1212,7 +1212,7 @@ weird that'd look here, he stopped.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$15>
 //W○ボタンで肉を投げます
@@ -1225,7 +1225,7 @@ W○ button: Throw meat
 
 
 //花を大切にしましょう
-<$06>Let's protect all the flowers in the park!
+Let's protect all the flowers in the park!
 <$12>
 \n
 <CLEAR>
@@ -1244,7 +1244,7 @@ irresponsibly.
 #WRITE(PTR, $002C)
 #WRITE(PTR, $002E)
 #WRITE(PTR, $0030)
-<$06><CLEAR>
+<CLEAR>
 //マダムロゼが襲ってきた！
 Madam Rose attacks!
 <$12>
@@ -1256,7 +1256,7 @@ Madam Rose attacks!
 
 
 #WRITE(PTR, $0032)
-<$06><CLEAR>
+<CLEAR>
 //ベビーロゼと戦闘になった！
 Roseling＿draws near!
 <$12>
@@ -1268,7 +1268,7 @@ Roseling＿draws near!
 
 
 #WRITE(PTR, $0034)
-<$06><$1D>
+<$1D>
 //　
 
 <$1E>
@@ -1282,7 +1282,7 @@ x\n
 
 
 //ケンは　「中和スプレー」を\n使った
-<$06>Ken used the Neutralizer.
+Ken used the Neutralizer.
 <$00>
 
 
@@ -1290,7 +1290,7 @@ x\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //スプレーは　空になった
 The spray ran out.
 <$12>
@@ -1302,7 +1302,7 @@ The spray ran out.
 
 
 //ここに「貸しワナ」を仕掛けますか？\n
-<$06>Set the Rental Trap here?\n
+Set the Rental Trap here?\n
 <$01>
 //は＿い
 Yes
@@ -1319,7 +1319,7 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　「貸しワナ」をそっと置いた
 Ken carefully set the Rental Trap.
 <$00>
@@ -1335,7 +1335,7 @@ Ken carefully set the Rental Trap.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　「自前ワナ」の設置場所を\n一度に　３ヵ所しか\n覚えられそうにない…
 Ken can only remember up to 3 Makeshift Trap\n
 locations at a time.
@@ -1347,7 +1347,7 @@ locations at a time.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここに「自前のワナ」を仕掛けますか？\n
 Set the Makeshift Trap here?\n
 <$01>
@@ -1366,7 +1366,7 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　「自前のワナ」をそっと置いた
 Ken set the Makeshift Trap.
 <$00>
@@ -1382,7 +1382,7 @@ Ken set the Makeshift Trap.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //やっぱり　ケンは\n前に仕掛けた　「自前のワナ」の場所を\nひとつ　忘れてしまった…　トホホ…
 ...Oops! As expected, Ken forgot the location\n
 of 1 previously set Makeshift Trap.
@@ -1394,7 +1394,7 @@ of 1 previously set Makeshift Trap.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1415,7 +1415,7 @@ Ken whistfully put down the Money Trap.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1430,7 +1430,7 @@ SKen inspected the Makeshift Trap.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1446,7 +1446,7 @@ Ken whistfully put down the Makeshift Trap.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1461,7 +1461,7 @@ SThe trap was destroyed...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1487,7 +1487,7 @@ let it go.
 <$06>
 //TRANS-CARGO IN
 Now loading to TCU...
-
+<$04>
 //∥
 !
 <$12>
@@ -1499,7 +1499,7 @@ Now loading to TCU...
 
 
 //リンダは　動物たちの\n鳴きマネをした
-<$06>Linda mimicked a few animal calls.
+Linda mimicked a few animal calls.
 <$00>
 
 
@@ -1508,7 +1508,7 @@ Now loading to TCU...
 
 
 //ケンは　目立たないように\n気配を殺した
-<$06>Ken masked the party to avoid detection.
+Ken masked the party to avoid detection.
 <$00>
 
 
@@ -1523,7 +1523,7 @@ Now loading to TCU...
 
 
 //ケンは　「迷彩スプレー」を\n使った
-<$06>Ken used the Cover Spray.
+Ken used the Cover Spray.
 <$00>
 
 
@@ -1531,7 +1531,7 @@ Now loading to TCU...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //スプレーは　空になった
 The spray ran out.
 <$12>
@@ -1543,7 +1543,7 @@ The spray ran out.
 
 
 //ケンは　「シャニルＮｏ５」を\n自分にふりかけた
-<$06>Ken sprinkled the Chanel No. 5 over himself.
+Ken sprinkled the Chanel No. 5 over himself.
 <$00>
 
 
@@ -1552,7 +1552,7 @@ The spray ran out.
 
 
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -1568,7 +1568,7 @@ danger!
 
 
 //……東
-<$06>...East
+...East
 <$00>
 
 
@@ -1577,7 +1577,7 @@ danger!
 
 
 //……西
-<$06>...West
+...West
 <$00>
 
 
@@ -1586,7 +1586,7 @@ danger!
 
 
 //……南
-<$06>...South
+...South
 <$00>
 
 
@@ -1595,7 +1595,7 @@ danger!
 
 
 //……北
-<$06>...North
+...North
 <$00>
 
 
@@ -1604,7 +1604,7 @@ danger!
 
 
 //…北東
-<$06>...North-east
+...North-east
 <$00>
 
 
@@ -1613,7 +1613,7 @@ danger!
 
 
 //…北西
-<$06>...North-west
+...North-west
 <$00>
 
 
@@ -1622,7 +1622,7 @@ danger!
 
 
 //…南東
-<$06>...South-east
+...South-east
 <$00>
 
 
@@ -1631,7 +1631,7 @@ danger!
 
 
 //…南西
-<$06>...South-west
+...South-west
 <$00>
 
 
@@ -1639,7 +1639,7 @@ danger!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -1651,7 +1651,7 @@ danger!
 
 
 //、…
-<$06>! That's where we'll find a＿
+! That's where we'll find a＿
 <$1D>
 //に行けば
 .
@@ -1663,7 +1663,7 @@ danger!
 
 
 //直進
-<$06>For
+For
 <$00>
 
 
@@ -1672,7 +1672,7 @@ danger!
 
 
 //右よ
-<$06>Right
+Right
 <$00>
 
 
@@ -1681,7 +1681,7 @@ danger!
 
 
 //左よ
-<$06>Left
+Left
 <$00>
 
 
@@ -1690,7 +1690,7 @@ danger!
 
 
 //後ろ
-<$06>Back
+Back
 <$00>
 
 
@@ -1698,7 +1698,7 @@ danger!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -1710,7 +1710,7 @@ danger!
 
 
 //、絶対に
-<$06>wards, got it? I'm sure we'll find a＿
+wards, got it? I'm sure we'll find a＿
 <$1D>
 //∥
 ＿there!
@@ -1721,7 +1721,7 @@ danger!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1736,7 +1736,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…ごめんね、\n今日は　勘がはたらかないわ…
 ...Sorry. I don't have it in me today.
 <$12>
@@ -1748,7 +1748,7 @@ SLinda used her woman's intuition...
 
 
 //運命の
-<$06>Fated＿
+Fated＿
 <$00>
 
 
@@ -1757,7 +1757,7 @@ SLinda used her woman's intuition...
 
 
 //新しい
-<$06>New＿
+New＿
 <$00>
 
 
@@ -1766,7 +1766,7 @@ SLinda used her woman's intuition...
 
 
 //素敵な
-<$06>Great＿
+Great＿
 <$00>
 
 
@@ -1775,7 +1775,7 @@ SLinda used her woman's intuition...
 
 
 //未知の
-<$06>Unknown＿
+Unknown＿
 <$00>
 
 
@@ -1784,7 +1784,7 @@ SLinda used her woman's intuition...
 
 
 //何か
-<$06>things＿
+things＿
 <$00>
 
 
@@ -1793,7 +1793,7 @@ SLinda used her woman's intuition...
 
 
 //発見
-<$06>discoveries＿
+discoveries＿
 <$00>
 
 
@@ -1802,7 +1802,7 @@ SLinda used her woman's intuition...
 
 
 //お宝
-<$06>treasures＿
+treasures＿
 <$00>
 
 
@@ -1811,7 +1811,7 @@ SLinda used her woman's intuition...
 
 
 //動物
-<$06>animals＿
+animals＿
 <$00>
 
 
@@ -1820,7 +1820,7 @@ SLinda used her woman's intuition...
 
 
 //に　出会える…
-<$06>could appear.
+could appear.
 <$00>
 
 
@@ -1829,7 +1829,7 @@ SLinda used her woman's intuition...
 
 
 //が　待ってる…
-<$06>await us...
+await us...
 <$00>
 
 
@@ -1838,7 +1838,7 @@ SLinda used her woman's intuition...
 
 
 //気がするわ∥
-<$06>are there.
+are there.
 <$00>
 
 
@@ -1847,7 +1847,7 @@ SLinda used her woman's intuition...
 
 
 //チャンスよ∥
-<$06>are in our grasp!
+are in our grasp!
 <$00>
 
 
@@ -1856,7 +1856,7 @@ SLinda used her woman's intuition...
 
 
 //今しかないわ
-<$06>could slip through our fingers!
+could slip through our fingers!
 <$00>
 
 
@@ -1865,7 +1865,7 @@ SLinda used her woman's intuition...
 
 
 //間違いなし∥
-<$06>are dead head!
+are dead head!
 <$00>
 
 
@@ -1874,7 +1874,7 @@ SLinda used her woman's intuition...
 
 
 //\n
-<$06>\n
+\n
 <$1D><$1D><$1D>
 //\n
 \n
@@ -1889,7 +1889,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信があるの∥
 I'm sure of it!
 <$12>
@@ -1900,7 +1900,7 @@ I'm sure of it!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信は　ないけどね…
 Although, I'm not totally certain...
 <$12>
@@ -1911,7 +1911,7 @@ Although, I'm not totally certain...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //絶対なんだから∥
 I'm absolutely certain!
 <$12>
@@ -1923,7 +1923,7 @@ I'm absolutely certain!
 
 
 //
-<$06><$15>
+<$15>
 //Yスケジュール
 YMemo＿
 <$00>
@@ -1933,7 +1933,7 @@ YMemo＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //スケジュールは何もありません
 There is nothing on schedule.
 <$12>
@@ -1945,7 +1945,7 @@ There is nothing on schedule.
 
 
 //成功終了
-<$06>Completed!
+Completed!
 <$00>
 
 
@@ -1954,7 +1954,7 @@ There is nothing on schedule.
 
 
 //期限切れ
-<$06>Expired!
+Expired!
 <$00>
 
 
@@ -1963,7 +1963,7 @@ There is nothing on schedule.
 
 
 //あと
-<$06>In＿
+In＿
 <$1E>
 //季節
 ＿seasons
@@ -1975,7 +1975,7 @@ There is nothing on schedule.
 
 
 //あと
-<$06>Deadline:＿
+Deadline:＿
 <$1E>
 //年
 Y/
@@ -1990,7 +1990,7 @@ S
 
 
 //あと
-<$06>In＿
+In＿
 <$1E>
 //年
 ＿years
@@ -2001,7 +2001,7 @@ S
 
 
 
-<$06><$16><$01>
+<$16><$01>
 //◇
 ◇
 <$0E><$1D><$02>
@@ -2015,7 +2015,7 @@ S
 
 
 //ファングを倒す
-<$06>Slay Fang
+Slay Fang
 <$00>
 
 
@@ -2024,7 +2024,7 @@ S
 
 
 //パンハイムからの依頼
-<$06>Assist Panheim
+Assist Panheim
 <$00>
 
 
@@ -2034,7 +2034,7 @@ S
 
 //<$1B>
 //カメの卵を手に入れる
-<$06>Snatch Turtle Eggs
+Snatch Turtle Eggs
 <$00>
 
 
@@ -2044,7 +2044,7 @@ S
 
 //<$1B>
 //プテラノの卵を手に入れる
-<$06>Snatch Pteranodon Eggs
+Snatch Pteranodon Eggs
 <$00>
 
 
@@ -2053,7 +2053,7 @@ S
 
 
 //遺産争いにケリをつける
-<$06>End the inheritance battle
+End the inheritance battle
 <$00>
 
 
@@ -2062,7 +2062,7 @@ S
 
 
 //ヤマダのために一肌脱ぐ
-<$06>Unload for Yamada
+Unload for Yamada
 <$00>
 
 
@@ -2071,7 +2071,7 @@ S
 
 
 //町のシンボルを見つけだす
-<$06>Find the village symbol
+Find the village symbol
 <$00>
 
 
@@ -2080,7 +2080,7 @@ S
 
 
 //ソフィアからの依頼
-<$06>Assist Sophia
+Assist Sophia
 <$00>
 
 
@@ -2089,7 +2089,7 @@ S
 
 
 //サチコ救出
-<$06>Rescue Sachiko
+Rescue Sachiko
 <$00>
 
 
@@ -2098,7 +2098,7 @@ S
 
 
 //ポロポロちゃんを助ける
-<$06>Save Nightshade
+Save Nightshade
 <$00>
 
 
@@ -2107,7 +2107,7 @@ S
 
 
 //アンジェラ捜し
-<$06>Find Angela
+Find Angela
 <$00>
 
 
@@ -2115,7 +2115,7 @@ S
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //カラゴラムのファングを倒し、その証拠を\nハーディアホテルのスペクターに渡す
 Defeat Fang in Karhagolem. Present proof to\n
 Spectre in Hardia Hotel.
@@ -2126,7 +2126,7 @@ Spectre in Hardia Hotel.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //マーブルポリスの
 Process meat from＿
 //<$1B>
@@ -2140,7 +2140,7 @@ Panheim in Hospico.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 Find up to 3＿
 //<$1B>
@@ -2154,7 +2154,7 @@ Park BB Ranch.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 Acquire 2＿
 //<$1B>
@@ -2168,7 +2168,7 @@ Battle Park BB Ranch.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「太郎の首輪」を見つけだし、ドギファの\nナターシャか、オーマン家３兄弟に渡す
 Locate Taro's Collar. Give it to Natasha or\n
 one of the 3 Aumann children in Dogyf\n
@@ -2181,7 +2181,7 @@ Heights.
 
 
 //６万
-<$06>60, 000
+60, 000
 <$00>
 
 
@@ -2190,10 +2190,10 @@ Heights.
 
 
 //あと
-<$06>another＿
-<$1E><$0F>
+another＿
+<$06><$1E><$0F>
 //000
-
+<$04>
 <$00>
 
 
@@ -2201,7 +2201,7 @@ Heights.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //Ｇファクトリーのヤマダのために\n
 Deposit＿
 <$1D>
@@ -2214,7 +2214,7 @@ Deposit＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //コシカタのシンボル「
 Find the＿
 //<$1B>
@@ -2228,7 +2228,7 @@ Return it to Poliska.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ソフィアのために、エターナの桜の木を\nどうにかして咲かせる
 Find out how to revive the sakura trees in\n
 Eterna for Sophia.
@@ -2239,7 +2239,7 @@ Eterna for Sophia.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //溶岩の中で育った動物の熱いウンチを\nエターナのソフィアに渡す
 Deliver Hot Dung from a lava-dwelling\n
 creature to Sophia in Eterna.
@@ -2250,7 +2250,7 @@ creature to Sophia in Eterna.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ラグナロッジのエモリに会いに行く
 Meet with Dr. Emori in Ragna Rim.
 <$00>
@@ -2260,13 +2260,13 @@ Meet with Dr. Emori in Ragna Rim.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「フロッピーと
 Take the Floppy Disc and＿
-
+<$06>
 //10
 10, 000
-
+<$04>
 //万￥」を持って、\nＧファクトリー入口１階、\n公衆電話の前に行く
 ￥ to the G Factory gate. Answer the payphone.
 <$00>
@@ -2276,13 +2276,13 @@ Take the Floppy Disc and＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「フロッピーと
 Take the Floppy Disc and＿
-
+<$06>
 //10
 10, 000
-
+<$04>
 //万￥」を持って、\nパラサイド入口１階、\n公衆電話の前に行く
 ￥ to the Paraside gate. Answer the payphone.
 <$00>
@@ -2292,13 +2292,13 @@ Take the Floppy Disc and＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「フロッピーと
 Take the Floppy Disc and＿
-
+<$06>
 //10
 10, 000
-
+<$04>
 //万￥」を持って、\nガレックスに行く
 ￥ to Galax.
 <$00>
@@ -2308,7 +2308,7 @@ Take the Floppy Disc and＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す
 Pick bloodberries in Flora Jam. Take them to\n
 Kevin and Nightshade in Rose Garden.
@@ -2319,7 +2319,7 @@ Kevin and Nightshade in Rose Garden.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //パラサイドの酒場にいるアンジェラを\n確認して、リナバレーのマリオに連絡する
 Look for Angela at the Paraside bar. Report\n
 your findings to Mario in Spurr Valley.
@@ -2330,7 +2330,7 @@ your findings to Mario in Spurr Valley.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //アンジェラを確認するために、\nオズポートホテルの酒場に行く
 Look for Angela at the OzPort Hotel bar.
 <$00>
@@ -2340,7 +2340,7 @@ Look for Angela at the OzPort Hotel bar.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //アンジェラを確認するために、\n西エリアのしけた町のホテルに行く
 Look for Angela at a hotel bar somewhere in\n
 West Area.
@@ -2351,7 +2351,7 @@ West Area.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //アンジェラを確認するために、\nドギファの舞台に行く
 Look for Angela at the theater stage in Dogyf\n
 Heights.
@@ -2362,7 +2362,7 @@ Heights.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リナバレーのマリオの母、\nアンジェラを追ってオズサットへ行く
 Chase Angela to OzSat! Mario will follow from\n
 Spurr Valley.

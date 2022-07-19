@@ -66,7 +66,7 @@ c185.obj
 
 #WRITE(PTR, $001C)
 //宿＿屋
-<$06>Inn＿
+Inn＿
 <$00>
 
 
@@ -74,7 +74,7 @@ c185.obj
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -90,7 +90,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -107,7 +107,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -124,7 +124,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -135,7 +135,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -146,7 +146,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -158,7 +158,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 //リンダの家が　あるんだから\n泊めてもらいなよ\nもう　そういう仲なんだろ？
-<$06>You can stay over at Linda's house, right?\n
+You can stay over at Linda's house, right?\n
 You both are already "like that", right?
 <$12>
 <$00>
@@ -169,7 +169,7 @@ You both are already "like that", right?
 
 
 //知らない動物と　はじめて戦う時は\nまず、いざという時のために\n常に　退路を確保しておけよ
-<$06>When initiating with an animal,\n
+When initiating with an animal,\n
 mentally prepare yourself to pull out at any\n
 moment.
 <$12>
@@ -182,7 +182,7 @@ moment.
 
 #WRITE(PTR, $001E)
 //
-<$06><$15>
+<$15>
 //Yホテル
 YHotel
 <$00>
@@ -192,7 +192,7 @@ YHotel
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //お気をつけて！
 Take care!
 <$12>
@@ -203,7 +203,7 @@ Take care!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //野宿は　危険ですよ
 Camping's dangerous, you know.
 <$12>
@@ -214,11 +214,11 @@ Camping's dangerous, you know.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //いらっしゃいませ！　
 Welcome! Would you like\n
 a room for＿
-<$1D><$1E><$14>
+<$1D><$06><$1E><$04><$14>
 //￥で\nお部屋が　用意できますよ\n
 ￥?\n
 <$01>
@@ -244,7 +244,7 @@ Exit
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //お金が　足りないようですね
 You can't afford this, can you.
 <$12>
@@ -255,7 +255,7 @@ You can't afford this, can you.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //お客様、戦えなくなった　猟犬のＨＰは\n宿泊や野営じゃ　戻りませんけど…\n
 I'm sorry, but dogs won't recover HP in\n
 hotels or camps.\n
@@ -276,7 +276,7 @@ Really?!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //さしでがましいことを　申し上げ\nたいへん　失礼いたしました\nでは　ごゆっくり
 Ah, I see. Please forgive my outburst.
 <$12>
@@ -287,7 +287,7 @@ Ah, I see. Please forgive my outburst.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //専門のお医者さまを　お捜しになって\nなるべく早く\n治療して　さしあげてください
 Yes. Always seek a vet treat your dogs.
 <$12>
@@ -299,7 +299,7 @@ Yes. Always seek a vet treat your dogs.
 
 
 //……東
-<$06>...East
+...East
 <$00>
 
 
@@ -308,7 +308,7 @@ Yes. Always seek a vet treat your dogs.
 
 
 //……西
-<$06>...West
+...West
 <$00>
 
 
@@ -317,7 +317,7 @@ Yes. Always seek a vet treat your dogs.
 
 
 //……南
-<$06>...South
+...South
 <$00>
 
 
@@ -326,7 +326,7 @@ Yes. Always seek a vet treat your dogs.
 
 
 //……北
-<$06>...North
+...North
 <$00>
 
 
@@ -335,7 +335,7 @@ Yes. Always seek a vet treat your dogs.
 
 
 //…北東
-<$06>...North-east
+...North-east
 <$00>
 
 
@@ -344,7 +344,7 @@ Yes. Always seek a vet treat your dogs.
 
 
 //…北西
-<$06>...North-west
+...North-west
 <$00>
 
 
@@ -353,7 +353,7 @@ Yes. Always seek a vet treat your dogs.
 
 
 //…南東
-<$06>...South-east
+...South-east
 <$00>
 
 
@@ -362,7 +362,7 @@ Yes. Always seek a vet treat your dogs.
 
 
 //…南西
-<$06>...South-west
+...South-west
 <$00>
 
 
@@ -370,7 +370,7 @@ Yes. Always seek a vet treat your dogs.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -382,7 +382,7 @@ Yes. Always seek a vet treat your dogs.
 
 
 //、…
-<$06>! That's where we'll find a＿
+! That's where we'll find a＿
 <$1D>
 //に行けば
 .
@@ -394,7 +394,7 @@ Yes. Always seek a vet treat your dogs.
 
 
 //直進
-<$06>For
+For
 <$00>
 
 
@@ -403,7 +403,7 @@ Yes. Always seek a vet treat your dogs.
 
 
 //右よ
-<$06>Right
+Right
 <$00>
 
 
@@ -412,7 +412,7 @@ Yes. Always seek a vet treat your dogs.
 
 
 //左よ
-<$06>Left
+Left
 <$00>
 
 
@@ -421,7 +421,7 @@ Yes. Always seek a vet treat your dogs.
 
 
 //後ろ
-<$06>Back
+Back
 <$00>
 
 
@@ -429,7 +429,7 @@ Yes. Always seek a vet treat your dogs.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -441,7 +441,7 @@ Yes. Always seek a vet treat your dogs.
 
 
 //、絶対に
-<$06>wards, got it? I'm sure we'll find a＿
+wards, got it? I'm sure we'll find a＿
 <$1D>
 //∥
 ＿there!
@@ -452,7 +452,7 @@ Yes. Always seek a vet treat your dogs.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -467,7 +467,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…ごめんね、\n今日は　勘がはたらかないわ…
 ...Sorry. I don't have it in me today.
 <$12>
@@ -479,7 +479,7 @@ SLinda used her woman's intuition...
 
 
 //運命の
-<$06>Fated＿
+Fated＿
 <$00>
 
 
@@ -488,7 +488,7 @@ SLinda used her woman's intuition...
 
 
 //新しい
-<$06>New＿
+New＿
 <$00>
 
 
@@ -497,7 +497,7 @@ SLinda used her woman's intuition...
 
 
 //素敵な
-<$06>Great＿
+Great＿
 <$00>
 
 
@@ -506,7 +506,7 @@ SLinda used her woman's intuition...
 
 
 //未知の
-<$06>Unknown＿
+Unknown＿
 <$00>
 
 
@@ -515,7 +515,7 @@ SLinda used her woman's intuition...
 
 
 //何か
-<$06>things＿
+things＿
 <$00>
 
 
@@ -524,7 +524,7 @@ SLinda used her woman's intuition...
 
 
 //発見
-<$06>discoveries＿
+discoveries＿
 <$00>
 
 
@@ -533,7 +533,7 @@ SLinda used her woman's intuition...
 
 
 //お宝
-<$06>treasures＿
+treasures＿
 <$00>
 
 
@@ -542,7 +542,7 @@ SLinda used her woman's intuition...
 
 
 //動物
-<$06>animals＿
+animals＿
 <$00>
 
 
@@ -551,7 +551,7 @@ SLinda used her woman's intuition...
 
 
 //に　出会える…
-<$06>could appear.
+could appear.
 <$00>
 
 
@@ -560,7 +560,7 @@ SLinda used her woman's intuition...
 
 
 //が　待ってる…
-<$06>await us...
+await us...
 <$00>
 
 
@@ -569,7 +569,7 @@ SLinda used her woman's intuition...
 
 
 //気がするわ∥
-<$06>are there.
+are there.
 <$00>
 
 
@@ -578,7 +578,7 @@ SLinda used her woman's intuition...
 
 
 //チャンスよ∥
-<$06>are in our grasp!
+are in our grasp!
 <$00>
 
 
@@ -587,7 +587,7 @@ SLinda used her woman's intuition...
 
 
 //今しかないわ
-<$06>could slip through our fingers!
+could slip through our fingers!
 <$00>
 
 
@@ -596,7 +596,7 @@ SLinda used her woman's intuition...
 
 
 //間違いなし∥
-<$06>are dead head!
+are dead head!
 <$00>
 
 
@@ -605,7 +605,7 @@ SLinda used her woman's intuition...
 
 
 //\n
-<$06>\n
+\n
 <$1D><$1D><$1D>
 //\n
 \n
@@ -620,7 +620,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信があるの∥
 I'm sure of it!
 <$12>
@@ -631,7 +631,7 @@ I'm sure of it!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信は　ないけどね…
 Although, I'm not totally certain...
 <$12>
@@ -642,7 +642,7 @@ Although, I'm not totally certain...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //絶対なんだから∥
 I'm absolutely certain!
 <$12>
@@ -654,7 +654,7 @@ I'm absolutely certain!
 
 
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -675,7 +675,7 @@ go for some＿
 
 
 //卵焼き
-<$06>fried eggs
+fried eggs
 <$00>
 
 
@@ -684,7 +684,7 @@ go for some＿
 
 
 //カレー
-<$06>curry
+curry
 <$00>
 
 
@@ -693,7 +693,7 @@ go for some＿
 
 
 //焼き肉
-<$06>Neo Korean BBQ
+Neo Korean BBQ
 <$00>
 
 
@@ -702,7 +702,7 @@ go for some＿
 
 
 //唐あげ
-<$06>karaage
+karaage
 <$00>
 
 
@@ -711,7 +711,7 @@ go for some＿
 
 
 //お菓子
-<$06>candy
+candy
 <$00>
 
 
@@ -720,7 +720,7 @@ go for some＿
 
 
 //バナナ
-<$06>banana
+banana
 <$00>
 
 
@@ -729,7 +729,7 @@ go for some＿
 
 
 //フライ
-<$06>Neo French fries
+Neo French fries
 <$00>
 
 
@@ -738,7 +738,7 @@ go for some＿
 
 
 //焼き魚
-<$06>grilled fish
+grilled fish
 <$00>
 
 
@@ -747,7 +747,7 @@ go for some＿
 
 
 //トマト
-<$06>tomato
+tomato
 <$00>
 
 
@@ -756,7 +756,7 @@ go for some＿
 
 
 //バター
-<$06>butter
+butter
 <$00>
 
 
@@ -765,7 +765,7 @@ go for some＿
 
 
 //ソース
-<$06>sauce
+sauce
 <$00>
 
 
@@ -774,7 +774,7 @@ go for some＿
 
 
 //スープ
-<$06>＿soup
+＿soup
 <$00>
 
 
@@ -783,7 +783,7 @@ go for some＿
 
 
 //ピラフ
-<$06>pilaf
+pilaf
 <$00>
 
 
@@ -792,7 +792,7 @@ go for some＿
 
 
 //バニラ
-<$06>vanilla
+vanilla
 <$00>
 
 
@@ -801,7 +801,7 @@ go for some＿
 
 
 //キムチ
-<$06>kimchi
+kimchi
 <$00>
 
 
@@ -810,7 +810,7 @@ go for some＿
 
 
 //チーズ
-<$06>cheese
+cheese
 <$00>
 
 
@@ -819,7 +819,7 @@ go for some＿
 
 
 //朝
-<$06>breakfast
+breakfast
 <$00>
 
 
@@ -828,7 +828,7 @@ go for some＿
 
 
 //昼
-<$06>lunch
+lunch
 <$00>
 
 
@@ -837,7 +837,7 @@ go for some＿
 
 
 //夕
-<$06>dinner
+dinner
 <$00>
 
 
@@ -846,7 +846,7 @@ go for some＿
 
 
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>

@@ -78,7 +78,7 @@ c162_1.obj
 
 #WRITE(PTR, $001C)
 //ネブール
-<$06>Nebul＿
+Nebul＿
 <$00>
 
 
@@ -86,7 +86,7 @@ c162_1.obj
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -102,7 +102,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -119,7 +119,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -136,7 +136,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -147,7 +147,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -158,7 +158,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -170,7 +170,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 //ジルって名の　お嬢さんに頼めば\n
-<$06>There's a gal named Jill who tames＿
+There's a gal named Jill who tames＿
 //<$1B>
 //オオカミを　内緒で猟犬に\n登録してくれるゼ
 wolves in secret.
@@ -189,7 +189,7 @@ has found her house.
 
 
 //あんた…？　もしかして　ここまで\n歩いてきたのかい？　すごいねえ…\n
-<$06>Did you...seriously walk all the way out\n
+Did you...seriously walk all the way out\n
 here? Wow!\n
 <$01>
 //違いますよ
@@ -209,7 +209,7 @@ Yeah, "Wow"!
 
 
 //右
-<$06>right
+right
 <$00>
 
 
@@ -218,7 +218,7 @@ Yeah, "Wow"!
 
 
 //左
-<$06>left
+left
 <$00>
 
 
@@ -226,7 +226,7 @@ Yeah, "Wow"!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…だよねぇ\n楽な方法があるのに　今どき\n歩いてくるなんて　バカだよね
 Y'know, technology's come a long way. It's\n
 kind of stupid to walk so much.
@@ -249,7 +249,7 @@ Direct flight into Nebul exist. Go to＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…へぇ　じゃあ、帰りも間違えずに\nこっちの出口から　帰るんだよ
 ...Well, make sure you take this exit on the\n
 way out.
@@ -274,7 +274,7 @@ wolves, so you won't get out alive!
 
 
 //友情、若さ、勇気、愛、約束…\nいくら金を積んでも　買えない\n大切なモノは　確かにある！
-<$06>Friendship, youth, courage, love, promises...\n
+Friendship, youth, courage, love, promises...\n
 There are some things money can't buy.
 <$12>
 \n
@@ -291,7 +291,7 @@ this town's got it for sale!
 
 
 //日頃はおとなしい　動物でも卵を\n盗まれると　途端に性格が\n急変するのもいるから　要注意よ
-<$06>Watch out! Even the most docile animal will\n
+Watch out! Even the most docile animal will\n
 act out if its eggs are stolen.
 <$12>
 <$00>
@@ -302,7 +302,7 @@ act out if its eggs are stolen.
 
 
 //店で、イイなと思う物や\n珍しい動物を　見かけたら\n借金してでも　その時に買わなきゃね
-<$06>If you see good items or rare animals in a\n
+If you see good items or rare animals in a\n
 store, you should buy them on the spot!
 <$12>
 \n
@@ -319,7 +319,7 @@ don't grab it, someone else will!
 
 
 //動物図鑑の動物の絵の　横だか下だかに\nＣとかＦとかＢとか　あるだろ？\nあの記号の意味を　教えてあげるよ 
-<$06>You see those letters under the photos in\n
+You see those letters under the photos in\n
 your Animal Bible, like "C", "F" or "B"?
 <$12>
 \n
@@ -346,7 +346,7 @@ pigs, just like you or me...
 
 
 //買いたいヤツがいるから　売る！\nここは　そういう当たり前の商売の基本を\n真面目に実践している　町ってわけよ
-<$06>Where people buy, I sell! Everyone around\n
+Where people buy, I sell! Everyone around\n
 here takes their business seriously!
 <$12>
 <$00>
@@ -358,7 +358,7 @@ here takes their business seriously!
 
 #WRITE(PTR, $001E)
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -373,7 +373,7 @@ None of the scents around here stand out.
 
 
 //……東
-<$06>...East
+...East
 <$00>
 
 
@@ -382,7 +382,7 @@ None of the scents around here stand out.
 
 
 //……西
-<$06>...West
+...West
 <$00>
 
 
@@ -391,7 +391,7 @@ None of the scents around here stand out.
 
 
 //……南
-<$06>...South
+...South
 <$00>
 
 
@@ -400,7 +400,7 @@ None of the scents around here stand out.
 
 
 //……北
-<$06>...North
+...North
 <$00>
 
 
@@ -409,7 +409,7 @@ None of the scents around here stand out.
 
 
 //…北東
-<$06>...North-east
+...North-east
 <$00>
 
 
@@ -418,7 +418,7 @@ None of the scents around here stand out.
 
 
 //…北西
-<$06>...North-west
+...North-west
 <$00>
 
 
@@ -427,7 +427,7 @@ None of the scents around here stand out.
 
 
 //…南東
-<$06>...South-east
+...South-east
 <$00>
 
 
@@ -436,7 +436,7 @@ None of the scents around here stand out.
 
 
 //…南西
-<$06>...South-west
+...South-west
 <$00>
 
 
@@ -444,7 +444,7 @@ None of the scents around here stand out.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -456,7 +456,7 @@ None of the scents around here stand out.
 
 
 //、…
-<$06>! That's where we'll find a＿
+! That's where we'll find a＿
 <$1D>
 //に行けば
 .
@@ -468,7 +468,7 @@ None of the scents around here stand out.
 
 
 //直進
-<$06>For
+For
 <$00>
 
 
@@ -477,7 +477,7 @@ None of the scents around here stand out.
 
 
 //右よ
-<$06>Right
+Right
 <$00>
 
 
@@ -486,7 +486,7 @@ None of the scents around here stand out.
 
 
 //左よ
-<$06>Left
+Left
 <$00>
 
 
@@ -495,7 +495,7 @@ None of the scents around here stand out.
 
 
 //後ろ
-<$06>Back
+Back
 <$00>
 
 
@@ -503,7 +503,7 @@ None of the scents around here stand out.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -515,7 +515,7 @@ None of the scents around here stand out.
 
 
 //、絶対に
-<$06>wards, got it? I'm sure we'll find a＿
+wards, got it? I'm sure we'll find a＿
 <$1D>
 //∥
 ＿there!
@@ -526,7 +526,7 @@ None of the scents around here stand out.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -541,7 +541,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…ごめんね、\n今日は　勘がはたらかないわ…
 ...Sorry. I don't have it in me today.
 <$12>
@@ -553,7 +553,7 @@ SLinda used her woman's intuition...
 
 
 //運命の
-<$06>Fated＿
+Fated＿
 <$00>
 
 
@@ -562,7 +562,7 @@ SLinda used her woman's intuition...
 
 
 //新しい
-<$06>New＿
+New＿
 <$00>
 
 
@@ -571,7 +571,7 @@ SLinda used her woman's intuition...
 
 
 //素敵な
-<$06>Great＿
+Great＿
 <$00>
 
 
@@ -580,7 +580,7 @@ SLinda used her woman's intuition...
 
 
 //未知の
-<$06>Unknown＿
+Unknown＿
 <$00>
 
 
@@ -589,7 +589,7 @@ SLinda used her woman's intuition...
 
 
 //何か
-<$06>things＿
+things＿
 <$00>
 
 
@@ -598,7 +598,7 @@ SLinda used her woman's intuition...
 
 
 //発見
-<$06>discoveries＿
+discoveries＿
 <$00>
 
 
@@ -607,7 +607,7 @@ SLinda used her woman's intuition...
 
 
 //お宝
-<$06>treasures＿
+treasures＿
 <$00>
 
 
@@ -616,7 +616,7 @@ SLinda used her woman's intuition...
 
 
 //動物
-<$06>animals＿
+animals＿
 <$00>
 
 
@@ -625,7 +625,7 @@ SLinda used her woman's intuition...
 
 
 //に　出会える…
-<$06>could appear.
+could appear.
 <$00>
 
 
@@ -634,7 +634,7 @@ SLinda used her woman's intuition...
 
 
 //が　待ってる…
-<$06>await us...
+await us...
 <$00>
 
 
@@ -643,7 +643,7 @@ SLinda used her woman's intuition...
 
 
 //気がするわ∥
-<$06>are there.
+are there.
 <$00>
 
 
@@ -652,7 +652,7 @@ SLinda used her woman's intuition...
 
 
 //チャンスよ∥
-<$06>are in our grasp!
+are in our grasp!
 <$00>
 
 
@@ -661,7 +661,7 @@ SLinda used her woman's intuition...
 
 
 //今しかないわ
-<$06>could slip through our fingers!
+could slip through our fingers!
 <$00>
 
 
@@ -670,7 +670,7 @@ SLinda used her woman's intuition...
 
 
 //間違いなし∥
-<$06>are dead head!
+are dead head!
 <$00>
 
 
@@ -679,7 +679,7 @@ SLinda used her woman's intuition...
 
 
 //\n
-<$06>\n
+\n
 <$1D><$1D><$1D>
 //\n
 \n
@@ -694,7 +694,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信があるの∥
 I'm sure of it!
 <$12>
@@ -705,7 +705,7 @@ I'm sure of it!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信は　ないけどね…
 Although, I'm not totally certain...
 <$12>
@@ -716,7 +716,7 @@ Although, I'm not totally certain...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //絶対なんだから∥
 I'm absolutely certain!
 <$12>

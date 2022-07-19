@@ -60,7 +60,7 @@ c125a0.obj
 
 #WRITE(PTR, $0022)
 //個
-<$06>＿
+＿
 <$00>
 
 
@@ -69,7 +69,7 @@ c125a0.obj
 
 
 //匹
-<$06>＿
+＿
 <$00>
 
 
@@ -77,13 +77,13 @@ c125a0.obj
 
 
 
-<$06><$1D>
+<$1D>
 //を
 ＿x
 <$1D>
 //ます\n
 ＿\n
-<$19>
+<$06><$19>
 //1
 1
 <$01><$1A>
@@ -95,7 +95,7 @@ S
 <$19>
 //0
 0
-
+<$04>
 //／
 ／
 <$14><$1E>
@@ -131,7 +131,7 @@ S￥
 TCU (x
 <$1E>
 //034
-
+<$06>
 //)
 )
 <$00>
@@ -141,7 +141,7 @@ TCU (x
 
 
 
-<$06><$05>
+<$05>
 //γ
 A
 <$00>
@@ -151,7 +151,7 @@ A
 
 
 
-<$06><$05>
+<$05>
 //ζ
 D
 <$00>
@@ -161,7 +161,7 @@ D
 
 
 
-<$06><$1E>
+<$1E>
 //@019
 @019
 <$00>
@@ -171,7 +171,7 @@ D
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //セレクトボタンで解説が出ます
 SELECT: Details
 <$00>
@@ -188,7 +188,7 @@ SELECT: Details
 
 
 
-<$06><$16><$15>
+<$04><$16><$15>
 //W
 W
 <$01><$1D><$02>
@@ -207,14 +207,14 @@ W
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //トランスカーゴは　１枠につき\n
 The trans-cargo unit has\n
 a＿
-
+<$06>
 //99
 99
-
+<$04>
 //頭までしか　収容できません
 ＿species capacity!
 <$12>
@@ -225,12 +225,12 @@ a＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
-
+<$06>
 //トランスカーゴ
 The trans-cargo unit＿
-
+<$04>
 //がいっぱいです
 is full!
 <$12>
@@ -241,7 +241,7 @@ is full!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //道具がいっぱいです
 The item bag is full!
 <$12>
@@ -253,7 +253,7 @@ The item bag is full!
 
 
 //テスティア
-<$06>Testarea
+Testarea
 <$00>
 
 
@@ -261,7 +261,7 @@ The item bag is full!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -277,7 +277,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -294,7 +294,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -311,7 +311,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -322,7 +322,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -333,7 +333,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -344,7 +344,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ＢＧＭ試験\n
 BGM test:\n
 <$01>
@@ -373,7 +373,7 @@ Exit
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$01>
 //街＿＿＿＿
@@ -470,7 +470,7 @@ Home
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$01>
 //ピンチ＿＿
@@ -502,10 +502,10 @@ Ark
 <$0E>
 //　
 
-<$01>
+<$01><$06>
 //ジングルベル 
 Jingle bells
-
+<$04>
 //＿
 ＿
 <$0E>
@@ -546,7 +546,7 @@ Test
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //効果音試験\n
 SFX test:\n
 <$01>
@@ -566,7 +566,7 @@ Exit
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$01>
 //効果音０１
@@ -621,7 +621,7 @@ Jingle 1
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$01>
 //キャンセル＿＿＿
@@ -682,7 +682,7 @@ Equip change
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$01>
 //階段昇降＿＿＿＿
@@ -781,7 +781,7 @@ bHeartbeat
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$01>
 //ロック解除＿＿＿
@@ -880,7 +880,7 @@ Pitfall
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$01>
 //落ちて着地＿＿＿
@@ -975,7 +975,7 @@ Flower 3
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$01>
 //猟犬のオリの扉＿
@@ -1059,7 +1059,7 @@ Pop out
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$01>
 //逃走音＿＿＿＿＿
@@ -1154,7 +1154,7 @@ Toss
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$01>
 //転換＿＿＿＿＿＿
@@ -1200,7 +1200,7 @@ Suspicious
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ジングル試験\n
 Jingle test:\n
 <$01>
@@ -1224,7 +1224,7 @@ Exit
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$01>
 //おはよう＿＿＿＿
@@ -1319,7 +1319,7 @@ New entry
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$01>
 //ショック２＿＿＿
@@ -1348,7 +1348,7 @@ Quicksand
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ＸＡ試験\n
 XA setup:\n
 <$01>
@@ -1381,7 +1381,7 @@ XA setup:\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //どこへワープしますか？\n
 Warp where?\n
 <$01>
@@ -1413,7 +1413,7 @@ Eden
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$01>
 //オズポート＿＿
@@ -1498,7 +1498,7 @@ Dug Pond
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$01>
 //バトルパーク＿
@@ -1589,7 +1589,7 @@ Swallom
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$01>
 //ドギファ＿＿＿
@@ -1668,7 +1668,7 @@ Holy Hole
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$01>
 //アナビス＿＿＿
@@ -1759,7 +1759,7 @@ Arkyard
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //どれが欲しい？\n
 What would you like?\n
 <$01>
@@ -1815,10 +1815,10 @@ Male
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //どの番号から\n
 Set numbers:\n
-<$01>
+<$06><$01>
 //00
 <$0E>
 // 
@@ -1890,7 +1890,7 @@ Set numbers:\n
 
 
 //
-<$06><$15>
+<$15>
 //Y万＿屋／買＿う
 YItems/Buy
 <$00>
@@ -1900,7 +1900,7 @@ YItems/Buy
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //原始人のお話\n
 Origin story:\n
 <$01>
@@ -1926,7 +1926,7 @@ Exit
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$05><$01>
 //あ
@@ -2353,7 +2353,7 @@ PO
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //能力設定します\n
 Assign skills:\n
 <$01>
@@ -2382,7 +2382,7 @@ Exit
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$01><$1D>
 //野営＿＿
@@ -2437,12 +2437,12 @@ Trapper
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
-<$01><$1D>
+<$01><$06><$1D>
 //イヌ
 Blood
-
+<$04>
 //の嗅覚
 hound
 <$08>
@@ -2500,10 +2500,10 @@ Glutton
 //4
 <$0E>
 //　
-<$01><$1D>
+<$01><$1D><$06>
 //ビシビシ
 War
-
+<$04>
 //調教
 den
 <$0E>
@@ -2514,7 +2514,7 @@ den
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダの「ビシビシ調教」能力の設定\n
 Use Linda's Warden skill:\n
 <$01><$1D>
@@ -2554,7 +2554,7 @@ Elephant＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$05><$01>
 //01
@@ -2744,7 +2744,7 @@ pict28.tim
 
 
 
-<$06><$01>
+<$01>
 //左回転
 CCW＿
 <$0E><$08>
@@ -2781,7 +2781,7 @@ HJump(move)
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //持ち金を設定します＿持金
 Set funds:＿
 <$01><$1E>
@@ -2793,9 +2793,9 @@ Set funds:＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
-<$1E>
+<$06><$1E><$04>
 //￥の持金ですね\n
 ￥ will be held, okay?\n
 <$01>
@@ -2814,7 +2814,7 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //お客さん…\nホスピコの入り口に　並んでる\n哀れな猟犬の墓を　数えてごらん
 Sir, go look at the pet cemetary along the\n
 Hospico entrance.
@@ -2840,7 +2840,7 @@ don't you?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //猟犬の収容枠が　いっぱいです\nこれ以上、猟犬を増やせません
 You have reached the max amount of dogs you\n
 can own at one time.
@@ -2852,12 +2852,12 @@ can own at one time.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //登録料　
 The adoption fee is over\n
 <$15>
 //b
-<$1E><$14>
+<$06><$1E><$04><$14>
 //￥が足りません\n銀行で　ご都合ください
 ￥.\n
 Get a loan from the bank.
@@ -2870,7 +2870,7 @@ Get a loan from the bank.
 
 
 //その名前は　既に登録されています\n別の名前を　つけてください
-<$06>Sorry, that name is taken.\n
+Sorry, that name is taken.\n
 Choose a new name.
 <$12>
 <$00>
@@ -2880,7 +2880,7 @@ Choose a new name.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //猟犬
 Adopt＿
 <$1D>
@@ -2933,7 +2933,7 @@ S
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //こんにちわ！　私の名はジル
 Hello! My name's Jill.
 <$12>
@@ -2958,7 +2958,7 @@ Nah.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //あら、猟犬の空きがないのね…
 Wait, you have too many dogs as it is!
 <$12>
@@ -2969,7 +2969,7 @@ Wait, you have too many dogs as it is!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //サンキュー！
 Thank you!
 <$12>
@@ -2980,7 +2980,7 @@ Thank you!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //画面イフェクト\nフェードアウト＿
 Transition FX\n
 Fadeout:＿
@@ -3042,7 +3042,7 @@ Wt
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //なぐられたい？\n
 Be ambushed?\n
 <$01>
@@ -3061,7 +3061,7 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //先頭の猟犬を殺します？\n
 Kill the alpha?\n
 <$01>
@@ -3080,7 +3080,7 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ステータス設定します\n
 Add status:\n
 <$01><$1D>
@@ -3115,7 +3115,7 @@ Poisoned
 
 
 //しない
-<$06>No
+No
 <$00>
 
 
@@ -3124,7 +3124,7 @@ Poisoned
 
 
 //します
-<$06>Yes
+Yes
 <$00>
 
 
@@ -3132,7 +3132,7 @@ Poisoned
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //戦闘設定します 現在 
 Arrange combat?
 <$1D>
@@ -3154,7 +3154,7 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //レベルアップしますか\n
 LVL up?\n
 <$01>
@@ -3173,7 +3173,7 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //特殊能力メニュー試験\n
 Skills menu test:\n
 <$01>
@@ -3197,7 +3197,7 @@ Exit
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //攻撃
 Attack
 <$1E>
@@ -3211,7 +3211,7 @@ Attack
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$15>
 //Wワープ設定\n
@@ -3302,10 +3302,10 @@ TO-O
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //戦闘選択
 Combat:
-
+<$06>
 //\n
 \n
 <$01>
@@ -3361,7 +3361,7 @@ Hume
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //エンディング
 Ending
 <$00>
@@ -3372,7 +3372,7 @@ Ending
 
 
 //\n
-<$06>\n
+\n
 <$01>
 //Ａ
 Ａ
@@ -3403,7 +3403,7 @@ Ending
 
 
 //\n
-<$06>\n
+\n
 <$01>
 //Ｇ
 Ｇ
@@ -3452,7 +3452,7 @@ Ending
 
 
 //動物全部登録しますか？\n
-<$06>File all animals?\n
+File all animals?\n
 <$01>
 //は＿い
 Yes
@@ -4137,7 +4137,7 @@ a06_07
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$05>
 //A07\n
@@ -14060,7 +14060,7 @@ e68_07
 
 #WRITE(PTR, $002A)
 //
-<$06><$15>
+<$15>
 //Yスケジュール
 YMemo＿
 <$00>
@@ -14070,7 +14070,7 @@ YMemo＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //スケジュールは何もありません
 There is nothing on schedule.
 <$12>
@@ -14082,7 +14082,7 @@ There is nothing on schedule.
 
 
 //成功終了
-<$06>Completed!
+Completed!
 <$00>
 
 
@@ -14091,7 +14091,7 @@ There is nothing on schedule.
 
 
 //期限切れ
-<$06>Expired!
+Expired!
 <$00>
 
 
@@ -14100,7 +14100,7 @@ There is nothing on schedule.
 
 
 //あと
-<$06>In＿
+In＿
 <$1E>
 //季節
 ＿seasons
@@ -14112,7 +14112,7 @@ There is nothing on schedule.
 
 
 //あと
-<$06>Deadline:＿
+Deadline:＿
 <$1E>
 //年
 Y/
@@ -14127,7 +14127,7 @@ S
 
 
 //あと
-<$06>In＿
+In＿
 <$1E>
 //年
 ＿years
@@ -14138,7 +14138,7 @@ S
 
 
 
-<$06><$16><$01>
+<$16><$01>
 //◇
 ◇
 <$0E><$1D><$02>
@@ -14152,7 +14152,7 @@ S
 
 
 //ファングを倒す
-<$06>Slay Fang
+Slay Fang
 <$00>
 
 
@@ -14161,7 +14161,7 @@ S
 
 
 //パンハイムからの依頼
-<$06>Assist Panheim
+Assist Panheim
 <$00>
 
 
@@ -14171,7 +14171,7 @@ S
 
 //<$1B>
 //カメの卵を手に入れる
-<$06>Snatch Turtle Eggs
+Snatch Turtle Eggs
 <$00>
 
 
@@ -14181,7 +14181,7 @@ S
 
 //<$1B>
 //プテラノの卵を手に入れる
-<$06>Snatch Pteranodon Eggs
+Snatch Pteranodon Eggs
 <$00>
 
 
@@ -14190,7 +14190,7 @@ S
 
 
 //遺産争いにケリをつける
-<$06>End the inheritance battle
+End the inheritance battle
 <$00>
 
 
@@ -14199,7 +14199,7 @@ S
 
 
 //ヤマダのために一肌脱ぐ
-<$06>Unload for Yamada
+Unload for Yamada
 <$00>
 
 
@@ -14208,7 +14208,7 @@ S
 
 
 //町のシンボルを見つけだす
-<$06>Find the village symbol
+Find the village symbol
 <$00>
 
 
@@ -14217,7 +14217,7 @@ S
 
 
 //ソフィアからの依頼
-<$06>Assist Sophia
+Assist Sophia
 <$00>
 
 
@@ -14226,7 +14226,7 @@ S
 
 
 //サチコ救出
-<$06>Rescue Sachiko
+Rescue Sachiko
 <$00>
 
 
@@ -14235,7 +14235,7 @@ S
 
 
 //ポロポロちゃんを助ける
-<$06>Save Nightshade
+Save Nightshade
 <$00>
 
 
@@ -14244,7 +14244,7 @@ S
 
 
 //アンジェラ捜し
-<$06>Find Angela
+Find Angela
 <$00>
 
 
@@ -14252,7 +14252,7 @@ S
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //カラゴラムのファングを倒し、その証拠を\nハーディアホテルのスペクターに渡す
 Defeat Fang in Karhagolem. Present proof to\n
 Spectre in Hardia Hotel.
@@ -14263,7 +14263,7 @@ Spectre in Hardia Hotel.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //マーブルポリスの
 Process meat from＿
 //<$1B>
@@ -14277,7 +14277,7 @@ Panheim in Hospico.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 Find up to 3＿
 //<$1B>
@@ -14291,7 +14291,7 @@ Park BB Ranch.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 Acquire 2＿
 //<$1B>
@@ -14305,7 +14305,7 @@ Battle Park BB Ranch.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「太郎の首輪」を見つけだし、ドギファの\nナターシャか、オーマン家３兄弟に渡す
 Locate Taro's Collar. Give it to Natasha or\n
 one of the 3 Aumann children in Dogyf\n
@@ -14318,7 +14318,7 @@ Heights.
 
 
 //６万
-<$06>60, 000
+60, 000
 <$00>
 
 
@@ -14327,10 +14327,10 @@ Heights.
 
 
 //あと
-<$06>another＿
-<$1E><$0F>
+another＿
+<$06><$1E><$0F>
 //000
-
+<$04>
 <$00>
 
 
@@ -14338,7 +14338,7 @@ Heights.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //Ｇファクトリーのヤマダのために\n
 Deposit＿
 <$1D>
@@ -14351,7 +14351,7 @@ Deposit＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //コシカタのシンボル「
 Find the＿
 //<$1B>
@@ -14365,7 +14365,7 @@ Return it to Poliska.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ソフィアのために、エターナの桜の木を\nどうにかして咲かせる
 Find out how to revive the sakura trees in\n
 Eterna for Sophia.
@@ -14376,7 +14376,7 @@ Eterna for Sophia.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //溶岩の中で育った動物の熱いウンチを\nエターナのソフィアに渡す
 Deliver Hot Dung from a lava-dwelling\n
 creature to Sophia in Eterna.
@@ -14387,7 +14387,7 @@ creature to Sophia in Eterna.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ラグナロッジのエモリに会いに行く
 Meet with Dr. Emori in Ragna Rim.
 <$00>
@@ -14397,13 +14397,13 @@ Meet with Dr. Emori in Ragna Rim.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「フロッピーと
 Take the Floppy Disc and＿
-
+<$06>
 //10
 10, 000
-
+<$04>
 //万￥」を持って、\nＧファクトリー入口１階、\n公衆電話の前に行く
 ￥ to the G Factory gate. Answer the payphone.
 <$00>
@@ -14413,13 +14413,13 @@ Take the Floppy Disc and＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「フロッピーと
 Take the Floppy Disc and＿
-
+<$06>
 //10
 10, 000
-
+<$04>
 //万￥」を持って、\nパラサイド入口１階、\n公衆電話の前に行く
 ￥ to the Paraside gate. Answer the payphone.
 <$00>
@@ -14429,13 +14429,13 @@ Take the Floppy Disc and＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「フロッピーと
 Take the Floppy Disc and＿
-
+<$06>
 //10
 10, 000
-
+<$04>
 //万￥」を持って、\nガレックスに行く
 ￥ to Galax.
 <$00>
@@ -14445,7 +14445,7 @@ Take the Floppy Disc and＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す
 Pick bloodberries in Flora Jam. Take them to\n
 Kevin and Nightshade in Rose Garden.
@@ -14456,7 +14456,7 @@ Kevin and Nightshade in Rose Garden.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //パラサイドの酒場にいるアンジェラを\n確認して、リナバレーのマリオに連絡する
 Look for Angela at the Paraside bar. Report\n
 your findings to Mario in Spurr Valley.
@@ -14467,7 +14467,7 @@ your findings to Mario in Spurr Valley.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //アンジェラを確認するために、\nオズポートホテルの酒場に行く
 Look for Angela at the OzPort Hotel bar.
 <$00>
@@ -14477,7 +14477,7 @@ Look for Angela at the OzPort Hotel bar.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //アンジェラを確認するために、\n西エリアのしけた町のホテルに行く
 Look for Angela at a hotel bar somewhere in\n
 West Area.
@@ -14488,7 +14488,7 @@ West Area.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //アンジェラを確認するために、\nドギファの舞台に行く
 Look for Angela at the theater stage in Dogyf\n
 Heights.
@@ -14499,7 +14499,7 @@ Heights.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リナバレーのマリオの母、\nアンジェラを追ってオズサットへ行く
 Chase Angela to OzSat! Mario will follow from\n
 Spurr Valley.

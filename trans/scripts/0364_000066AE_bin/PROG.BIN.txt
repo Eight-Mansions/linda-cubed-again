@@ -84,7 +84,7 @@ box.obj
 
 #WRITE(PTR, $001E)
 //庭園管理事務所
-<$06>Garden Services Office＿
+Garden Services Office＿
 <$00>
 
 
@@ -92,7 +92,7 @@ box.obj
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -108,7 +108,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -125,7 +125,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -142,7 +142,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -153,7 +153,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -164,7 +164,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -176,7 +176,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 //そういえば　昔、フローラ博士の\n助手で　アリスってコがいたっけ…
-<$06>Did you know that, long ago, Dr. Flora had an\n
+Did you know that, long ago, Dr. Flora had an\n
 assistant named Alice?
 <$12>
 \n
@@ -199,7 +199,7 @@ when Dr. Flora started talking to flowers.
 
 
 //このコが　フローラ博士の友だちで\nおしゃべりする花、ＭＣアリスさ！
-<$06>This cutie is Dr. Flora's beloved talking\n
+This cutie is Dr. Flora's beloved talking\n
 flower, MC Alice!
 <$12>
 \n
@@ -212,16 +212,16 @@ and brings life to the entire home!
 <CLEAR>
 //正価は
 One of these goes for＿
-
+<$06>
 //400
 400
-
+<$04>
 //￥だけど　最後の１鉢だし\n
 ￥, but since it's the last one,＿
-<$1D>
+<$1D><$06>
 //100
 100
-<$14>
+<$14><$04>
 //￥にしとくよ、もらってやってよ？\n
 ￥.\n
 <$01>
@@ -241,7 +241,7 @@ Leave
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //そうか…　残念だな…\nでもこれで　このコは、またしばらく\n僕だけのモノに　なったわけだ
 I see, that's too bad. It means she gets to\n
 hang out with me a little longer, I suppose.
@@ -253,15 +253,15 @@ hang out with me a little longer, I suppose.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$15>
 //b
 b
-
+<$06>
 //100
 100
-<$14>
+<$04><$14>
 //￥の　持ち合せのない\n男の所に　このコをお嫁にやっても\nきっと、幸せにしてもらえないものな
 ￥ is "too much"? Flowers or not, you'll never\n
 make your wife happy that way!
@@ -273,7 +273,7 @@ make your wife happy that way!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //確か　自宅はハーディアだったね\nちゃんと　届けとくから　お楽しみに！\n毎晩、かわいがってやってくれよ
 Splended! We'll deliver her to Hardia\n
 shortly. Give her lots of love!
@@ -293,7 +293,7 @@ shortly. Give her lots of love!
 
 
 //こんに
-<$06>HEL
+HEL
 <$00>
 
 
@@ -302,7 +302,7 @@ shortly. Give her lots of love!
 
 
 //ちわ！\n
-<$06>LO!＿
+LO!＿
 <$00>
 
 
@@ -311,7 +311,7 @@ shortly. Give her lots of love!
 
 
 //私、
-<$06>I'M!＿
+I'M!＿
 <$00>
 
 
@@ -320,7 +320,7 @@ shortly. Give her lots of love!
 
 
 //ＭＣ
-<$06>MC＿
+MC＿
 <$00>
 
 
@@ -329,7 +329,7 @@ shortly. Give her lots of love!
 
 
 //アリス！　
-<$06>ALICE!\n
+ALICE!\n
 <$00>
 
 
@@ -338,7 +338,7 @@ shortly. Give her lots of love!
 
 
 //よろし
-<$06>PLEASED TO＿
+PLEASED TO＿
 <$00>
 
 
@@ -347,7 +347,7 @@ shortly. Give her lots of love!
 
 
 //くね！
-<$06>MEET YOU!
+MEET YOU!
 <$00>
 
 
@@ -362,7 +362,7 @@ shortly. Give her lots of love!
 
 
 //水や肥料を　一切必要とせず\n１年中、美しい花を咲かせる夢のバラ
-<$06>These luscious roses bloom all year round, no\n
+These luscious roses bloom all year round, no\n
 water or fertilizer needed!
 <$12>
 \n
@@ -384,7 +384,7 @@ from their containers, evaquate immediately.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -400,7 +400,7 @@ SNothing was found.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -418,7 +418,7 @@ SKen found the＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -436,7 +436,7 @@ had to go back.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -455,7 +455,7 @@ SKen acquired＿
 
 
 //ボクの名は　ケビン！
-<$06>My name is Kevin!
+My name is Kevin!
 <$12>
 \n
 <CLEAR>
@@ -487,7 +487,7 @@ her here, I don't get lonely!
 
 
 //この公園の企画をした　フローラ博士に\n会ったことあるかい？\n
-<$06>Have you met Dr. Flora, the designer of this\n
+Have you met Dr. Flora, the designer of this\n
 park?\n
 <$01>
 //は＿い
@@ -506,7 +506,7 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //スゲェ美人でさ∥　その上、天才∥\nまだ、ハタチかそこらで　おまけに…
 She's a beauty with brains to boot! Somewhere\n
 in her 20s...
@@ -529,7 +529,7 @@ Hospico.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //じゃ　キスされたことは？\n
 Did you let her kiss you?\n
 <$01>
@@ -549,7 +549,7 @@ Nope!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここだけの話しだけど　彼女さ、\n肥料のフンの質の良し悪しを\n味で判断しちゃうんだよ…
 This stays between us, but she taste tests\n
 all our fertilizers to ensure their quality.
@@ -561,7 +561,7 @@ all our fertilizers to ensure their quality.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //あの先生の唇って　セクシーで不思議な\n香りがしたような気が　しない？\n
 Did her lips have a strangely musky scent to\n
 them?\n
@@ -582,7 +582,7 @@ Not at all!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //じゃ、とりあえず\nその時は　セーフだな
 Oh, good!\n
 You're safe!
@@ -594,7 +594,7 @@ You're safe!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //そんな気も　しちゃったわけか…
 Oh, dear. Oh, dear. Oh, dear...
 <$12>
@@ -606,7 +606,7 @@ Oh, dear. Oh, dear. Oh, dear...
 
 
 //あっ！　お兄ちゃん、\nボクが　ケビンだよ\n留守電を　聞いてくれたんだね
-<$06>Hi, I'm Kevin! You must be here because I\n
+Hi, I'm Kevin! You must be here because I\n
 called you on the phone.
 <$12>
 \n
@@ -652,13 +652,13 @@ Pay us to go!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //フローラジャムは　Ｂ
 Flora Jam is in Ｂ
-
+<$06>
 //-14
 -14
-
+<$04>
 //だよ\n必ず「鮮血の果実」を　見つけて\nなるべく早く　もどって来てね
 . Please pick the bloodberries and come back\n
 right away!
@@ -681,7 +681,7 @@ Just tell him I'm doing okay.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //お兄ちゃんたち……
 Hang on, Mister...
 <$12>
@@ -704,7 +704,7 @@ Well, you can't have her!
 
 
 //それが　鮮血の果実だね！\nありがとう　お兄ちゃん！
-<$06>Those look like Bloodberries! Oh, thank you!
+Those look like Bloodberries! Oh, thank you!
 <$12>
 <$00>
 
@@ -713,7 +713,7 @@ Well, you can't have her!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -729,7 +729,7 @@ SKen gave Kevin the Bloodberries.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ポロポロちゃん、出ておいで！
 Come out, Nightshade!
 <$12>
@@ -741,7 +741,7 @@ Come out, Nightshade!
 
 
 //これを　おあがり
-<$06>These are for you!
+These are for you!
 <$12>
 \n
 <CLEAR>
@@ -755,7 +755,7 @@ There! Now you'll be all better!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //そうそう…
 Okay...
 <$12>
@@ -771,7 +771,7 @@ Uhm...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //でも…
 But...
 <$12>
@@ -788,7 +788,7 @@ anything!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ママと相談して　決めたんだ
 I talked something over with Mommy.
 <$12>
@@ -805,7 +805,7 @@ safer with you.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ポロポロちゃん！\nこのお兄ちゃんの所へ　お行き
 You hear that, Nightshade?\n
 I want you to go with him!
@@ -818,7 +818,7 @@ I want you to go with him!
 
 
 //ダメなんだよ、ポロポロちゃん…\nボクたちは　一緒に行けないんだ！
-<$06>I'm sorry, Nightshade, but we can't go\n
+I'm sorry, Nightshade, but we can't go\n
 together.
 <$12>
 \n
@@ -840,7 +840,7 @@ I'm really sorry!
 
 
 //さっ　お兄ちゃん、\nポロポロちゃんを　よろしくね
-<$06>And that's that.\n
+And that's that.\n
 Take care of Nightshade for me!
 <$12>
 <$00>
@@ -850,7 +850,7 @@ Take care of Nightshade for me!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -870,7 +870,7 @@ into the trans-cargo unit.
 <$06>
 //TRANS-CARGO IN
 Now loading to TCU...
-
+<$04>
 //∥
 !
 <$12>
@@ -881,7 +881,7 @@ Now loading to TCU...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //バイバイ、ポロポロちゃん！
 So long, Nightshade!
 <$12>
@@ -893,7 +893,7 @@ So long, Nightshade!
 
 
 //赤い果実
-<$06>raspberries
+raspberries
 <$00>
 
 
@@ -902,7 +902,7 @@ So long, Nightshade!
 
 
 //白い果実
-<$06>snowberries
+snowberries
 <$00>
 
 
@@ -911,7 +911,7 @@ So long, Nightshade!
 
 
 //黒い果実
-<$06>blackberries
+blackberries
 <$00>
 
 
@@ -920,7 +920,7 @@ So long, Nightshade!
 
 
 //青い果実
-<$06>blueberries
+blueberries
 <$00>
 
 
@@ -929,7 +929,7 @@ So long, Nightshade!
 
 
 //お兄ちゃんの 持っているのは\n「
-<$06>Mister, these＿
+Mister, these＿
 <$1D>
 //」だよ\n似てるけど それじゃないんだ
 ＿might look similar, but they're not the\n
@@ -950,11 +950,11 @@ her!
 
 
 //フローラジャムは　Ｂ
-<$06>Flora Jam is in B
-
+Flora Jam is in B
+<$06>
 //-14
 -14
-
+<$04>
 //だよ
 .
 <$12>
@@ -982,7 +982,7 @@ as a reward.
 
 
 //ああ…\nお兄ちゃんか…\nもういいんだ…
-<$06>Oh, man... She can't take this...
+Oh, man... She can't take this...
 <$12>
 \n
 <CLEAR>
@@ -997,7 +997,7 @@ Nightshade can't take this anymore...
 
 
 //だからぁ…
-<$06>Oh, no...
+Oh, no...
 <$12>
 \n
 <CLEAR>
@@ -1012,7 +1012,7 @@ anything!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ポロポロちゃん、出ておいで！
 Come out, Nightshade!
 <$12>
@@ -1024,7 +1024,7 @@ Come out, Nightshade!
 
 
 //ポロポロちゃんのために\n生活力があって　繁殖力旺盛な\nおムコさんを　捜してあげてよね
-<$06>I hope you can find a husband big and strong\n
+I hope you can find a husband big and strong\n
 enough to keep up with Nightshade!
 <$12>
 <$00>
@@ -1035,7 +1035,7 @@ enough to keep up with Nightshade!
 
 
 //奥にいるのは　私の息子のケビン\n父親は　フローラジャムで\n長期、単身赴任中…
-<$06>My son, Kevin, lives with me. His father went\n
+My son, Kevin, lives with me. His father went\n
 to work far away, in Flora Jam.
 <$12>
 \n
@@ -1067,7 +1067,7 @@ break the news to him.
 
 
 //新しい星に着いたら　ケビンのために\n生活力があって　繁殖力旺盛な\n父親を　捜してあげなくっちゃね
-<$06>When we land on our new home, it's up to me\n
+When we land on our new home, it's up to me\n
 to find a lively father for Kevin. The boy\n
 needs siblings.
 <$12>
@@ -1079,7 +1079,7 @@ needs siblings.
 
 
 #WRITE(PTR, $0020)
-<$06><$1D>
+<$1D>
 //　
 
 <$1E>
@@ -1093,7 +1093,7 @@ x\n
 
 
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -1109,7 +1109,7 @@ danger!
 
 
 //……東
-<$06>...East
+...East
 <$00>
 
 
@@ -1118,7 +1118,7 @@ danger!
 
 
 //……西
-<$06>...West
+...West
 <$00>
 
 
@@ -1127,7 +1127,7 @@ danger!
 
 
 //……南
-<$06>...South
+...South
 <$00>
 
 
@@ -1136,7 +1136,7 @@ danger!
 
 
 //……北
-<$06>...North
+...North
 <$00>
 
 
@@ -1145,7 +1145,7 @@ danger!
 
 
 //…北東
-<$06>...North-east
+...North-east
 <$00>
 
 
@@ -1154,7 +1154,7 @@ danger!
 
 
 //…北西
-<$06>...North-west
+...North-west
 <$00>
 
 
@@ -1163,7 +1163,7 @@ danger!
 
 
 //…南東
-<$06>...South-east
+...South-east
 <$00>
 
 
@@ -1172,7 +1172,7 @@ danger!
 
 
 //…南西
-<$06>...South-west
+...South-west
 <$00>
 
 
@@ -1180,7 +1180,7 @@ danger!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -1192,7 +1192,7 @@ danger!
 
 
 //、…
-<$06>! That's where we'll find a＿
+! That's where we'll find a＿
 <$1D>
 //に行けば
 .
@@ -1204,7 +1204,7 @@ danger!
 
 
 //直進
-<$06>For
+For
 <$00>
 
 
@@ -1213,7 +1213,7 @@ danger!
 
 
 //右よ
-<$06>Right
+Right
 <$00>
 
 
@@ -1222,7 +1222,7 @@ danger!
 
 
 //左よ
-<$06>Left
+Left
 <$00>
 
 
@@ -1231,7 +1231,7 @@ danger!
 
 
 //後ろ
-<$06>Back
+Back
 <$00>
 
 
@@ -1239,7 +1239,7 @@ danger!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -1251,7 +1251,7 @@ danger!
 
 
 //、絶対に
-<$06>wards, got it? I'm sure we'll find a＿
+wards, got it? I'm sure we'll find a＿
 <$1D>
 //∥
 ＿there!
@@ -1262,7 +1262,7 @@ danger!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1277,7 +1277,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…ごめんね、\n今日は　勘がはたらかないわ…
 ...Sorry. I don't have it in me today.
 <$12>
@@ -1289,7 +1289,7 @@ SLinda used her woman's intuition...
 
 
 //運命の
-<$06>Fated＿
+Fated＿
 <$00>
 
 
@@ -1298,7 +1298,7 @@ SLinda used her woman's intuition...
 
 
 //新しい
-<$06>New＿
+New＿
 <$00>
 
 
@@ -1307,7 +1307,7 @@ SLinda used her woman's intuition...
 
 
 //素敵な
-<$06>Great＿
+Great＿
 <$00>
 
 
@@ -1316,7 +1316,7 @@ SLinda used her woman's intuition...
 
 
 //未知の
-<$06>Unknown＿
+Unknown＿
 <$00>
 
 
@@ -1325,7 +1325,7 @@ SLinda used her woman's intuition...
 
 
 //何か
-<$06>things＿
+things＿
 <$00>
 
 
@@ -1334,7 +1334,7 @@ SLinda used her woman's intuition...
 
 
 //発見
-<$06>discoveries＿
+discoveries＿
 <$00>
 
 
@@ -1343,7 +1343,7 @@ SLinda used her woman's intuition...
 
 
 //お宝
-<$06>treasures＿
+treasures＿
 <$00>
 
 
@@ -1352,7 +1352,7 @@ SLinda used her woman's intuition...
 
 
 //動物
-<$06>animals＿
+animals＿
 <$00>
 
 
@@ -1361,7 +1361,7 @@ SLinda used her woman's intuition...
 
 
 //に　出会える…
-<$06>could appear.
+could appear.
 <$00>
 
 
@@ -1370,7 +1370,7 @@ SLinda used her woman's intuition...
 
 
 //が　待ってる…
-<$06>await us...
+await us...
 <$00>
 
 
@@ -1379,7 +1379,7 @@ SLinda used her woman's intuition...
 
 
 //気がするわ∥
-<$06>are there.
+are there.
 <$00>
 
 
@@ -1388,7 +1388,7 @@ SLinda used her woman's intuition...
 
 
 //チャンスよ∥
-<$06>are in our grasp!
+are in our grasp!
 <$00>
 
 
@@ -1397,7 +1397,7 @@ SLinda used her woman's intuition...
 
 
 //今しかないわ
-<$06>could slip through our fingers!
+could slip through our fingers!
 <$00>
 
 
@@ -1406,7 +1406,7 @@ SLinda used her woman's intuition...
 
 
 //間違いなし∥
-<$06>are dead head!
+are dead head!
 <$00>
 
 
@@ -1415,7 +1415,7 @@ SLinda used her woman's intuition...
 
 
 //\n
-<$06>\n
+\n
 <$1D><$1D><$1D>
 //\n
 \n
@@ -1430,7 +1430,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信があるの∥
 I'm sure of it!
 <$12>
@@ -1441,7 +1441,7 @@ I'm sure of it!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信は　ないけどね…
 Although, I'm not totally certain...
 <$12>
@@ -1452,7 +1452,7 @@ Although, I'm not totally certain...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //絶対なんだから∥
 I'm absolutely certain!
 <$12>
@@ -1464,7 +1464,7 @@ I'm absolutely certain!
 
 
 //
-<$06><$15>
+<$15>
 //Yスケジュール
 YMemo＿
 <$00>
@@ -1474,7 +1474,7 @@ YMemo＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //スケジュールは何もありません
 There is nothing on schedule.
 <$12>
@@ -1486,7 +1486,7 @@ There is nothing on schedule.
 
 
 //成功終了
-<$06>Completed!
+Completed!
 <$00>
 
 
@@ -1495,7 +1495,7 @@ There is nothing on schedule.
 
 
 //期限切れ
-<$06>Expired!
+Expired!
 <$00>
 
 
@@ -1504,7 +1504,7 @@ There is nothing on schedule.
 
 
 //あと
-<$06>In＿
+In＿
 <$1E>
 //季節
 ＿seasons
@@ -1516,7 +1516,7 @@ There is nothing on schedule.
 
 
 //あと
-<$06>Deadline:＿
+Deadline:＿
 <$1E>
 //年
 Y/
@@ -1531,7 +1531,7 @@ S
 
 
 //あと
-<$06>In＿
+In＿
 <$1E>
 //年
 ＿years
@@ -1542,7 +1542,7 @@ S
 
 
 
-<$06><$16><$01>
+<$16><$01>
 //◇
 ◇
 <$0E><$1D><$02>
@@ -1556,7 +1556,7 @@ S
 
 
 //ファングを倒す
-<$06>Slay Fang
+Slay Fang
 <$00>
 
 
@@ -1565,7 +1565,7 @@ S
 
 
 //パンハイムからの依頼
-<$06>Assist Panheim
+Assist Panheim
 <$00>
 
 
@@ -1575,7 +1575,7 @@ S
 
 //<$1B>
 //カメの卵を手に入れる
-<$06>Snatch Turtle Eggs
+Snatch Turtle Eggs
 <$00>
 
 
@@ -1585,7 +1585,7 @@ S
 
 //<$1B>
 //プテラノの卵を手に入れる
-<$06>Snatch Pteranodon Eggs
+Snatch Pteranodon Eggs
 <$00>
 
 
@@ -1594,7 +1594,7 @@ S
 
 
 //遺産争いにケリをつける
-<$06>End the inheritance battle
+End the inheritance battle
 <$00>
 
 
@@ -1603,7 +1603,7 @@ S
 
 
 //ヤマダのために一肌脱ぐ
-<$06>Unload for Yamada
+Unload for Yamada
 <$00>
 
 
@@ -1612,7 +1612,7 @@ S
 
 
 //町のシンボルを見つけだす
-<$06>Find the village symbol
+Find the village symbol
 <$00>
 
 
@@ -1621,7 +1621,7 @@ S
 
 
 //ソフィアからの依頼
-<$06>Assist Sophia
+Assist Sophia
 <$00>
 
 
@@ -1630,7 +1630,7 @@ S
 
 
 //サチコ救出
-<$06>Rescue Sachiko
+Rescue Sachiko
 <$00>
 
 
@@ -1639,7 +1639,7 @@ S
 
 
 //ポロポロちゃんを助ける
-<$06>Save Nightshade
+Save Nightshade
 <$00>
 
 
@@ -1648,7 +1648,7 @@ S
 
 
 //アンジェラ捜し
-<$06>Find Angela
+Find Angela
 <$00>
 
 
@@ -1656,7 +1656,7 @@ S
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //カラゴラムのファングを倒し、その証拠を\nハーディアホテルのスペクターに渡す
 Defeat Fang in Karhagolem. Present proof to\n
 Spectre in Hardia Hotel.
@@ -1667,7 +1667,7 @@ Spectre in Hardia Hotel.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //マーブルポリスの
 Process meat from＿
 //<$1B>
@@ -1681,7 +1681,7 @@ Panheim in Hospico.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 Find up to 3＿
 //<$1B>
@@ -1695,7 +1695,7 @@ Park BB Ranch.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 Acquire 2＿
 //<$1B>
@@ -1709,7 +1709,7 @@ Battle Park BB Ranch.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「太郎の首輪」を見つけだし、ドギファの\nナターシャか、オーマン家３兄弟に渡す
 Locate Taro's Collar. Give it to Natasha or\n
 one of the 3 Aumann children in Dogyf\n
@@ -1722,7 +1722,7 @@ Heights.
 
 
 //６万
-<$06>60, 000
+60, 000
 <$00>
 
 
@@ -1731,10 +1731,10 @@ Heights.
 
 
 //あと
-<$06>another＿
-<$1E><$0F>
+another＿
+<$06><$1E><$0F>
 //000
-
+<$04>
 <$00>
 
 
@@ -1742,7 +1742,7 @@ Heights.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //Ｇファクトリーのヤマダのために\n
 Deposit＿
 <$1D>
@@ -1755,7 +1755,7 @@ Deposit＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //コシカタのシンボル「
 Find the＿
 //<$1B>
@@ -1769,7 +1769,7 @@ Return it to Poliska.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ソフィアのために、エターナの桜の木を\nどうにかして咲かせる
 Find out how to revive the sakura trees in\n
 Eterna for Sophia.
@@ -1780,7 +1780,7 @@ Eterna for Sophia.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //溶岩の中で育った動物の熱いウンチを\nエターナのソフィアに渡す
 Deliver Hot Dung from a lava-dwelling\n
 creature to Sophia in Eterna.
@@ -1791,7 +1791,7 @@ creature to Sophia in Eterna.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ラグナロッジのエモリに会いに行く
 Meet with Dr. Emori in Ragna Rim.
 <$00>
@@ -1801,13 +1801,13 @@ Meet with Dr. Emori in Ragna Rim.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「フロッピーと
 Take the Floppy Disc and＿
-
+<$06>
 //10
 10, 000
-
+<$04>
 //万￥」を持って、\nＧファクトリー入口１階、\n公衆電話の前に行く
 ￥ to the G Factory gate. Answer the payphone.
 <$00>
@@ -1817,13 +1817,13 @@ Take the Floppy Disc and＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「フロッピーと
 Take the Floppy Disc and＿
-
+<$06>
 //10
 10, 000
-
+<$04>
 //万￥」を持って、\nパラサイド入口１階、\n公衆電話の前に行く
 ￥ to the Paraside gate. Answer the payphone.
 <$00>
@@ -1833,13 +1833,13 @@ Take the Floppy Disc and＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「フロッピーと
 Take the Floppy Disc and＿
-
+<$06>
 //10
 10, 000
-
+<$04>
 //万￥」を持って、\nガレックスに行く
 ￥ to Galax.
 <$00>
@@ -1849,7 +1849,7 @@ Take the Floppy Disc and＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す
 Pick bloodberries in Flora Jam. Take them to\n
 Kevin and Nightshade in Rose Garden.
@@ -1860,7 +1860,7 @@ Kevin and Nightshade in Rose Garden.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //パラサイドの酒場にいるアンジェラを\n確認して、リナバレーのマリオに連絡する
 Look for Angela at the Paraside bar. Report\n
 your findings to Mario in Spurr Valley.
@@ -1871,7 +1871,7 @@ your findings to Mario in Spurr Valley.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //アンジェラを確認するために、\nオズポートホテルの酒場に行く
 Look for Angela at the OzPort Hotel bar.
 <$00>
@@ -1881,7 +1881,7 @@ Look for Angela at the OzPort Hotel bar.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //アンジェラを確認するために、\n西エリアのしけた町のホテルに行く
 Look for Angela at a hotel bar somewhere in\n
 West Area.
@@ -1892,7 +1892,7 @@ West Area.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //アンジェラを確認するために、\nドギファの舞台に行く
 Look for Angela at the theater stage in Dogyf\n
 Heights.
@@ -1903,7 +1903,7 @@ Heights.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リナバレーのマリオの母、\nアンジェラを追ってオズサットへ行く
 Chase Angela to OzSat! Mario will follow from\n
 Spurr Valley.

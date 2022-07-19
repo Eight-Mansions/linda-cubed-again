@@ -186,7 +186,7 @@ kao_n5.obj
 
 #WRITE(PTR, $0022)
 //第２病棟１Ｆ
-<$06>Ward 2 1F＿
+Ward 2 1F＿
 <$00>
 
 
@@ -194,7 +194,7 @@ kao_n5.obj
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -210,7 +210,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -227,7 +227,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -244,7 +244,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -255,7 +255,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -266,7 +266,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -277,12 +277,12 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
-
+<$06>
 //10
 Ten
-
+<$04>
 //年以上前になるかな…\nハッスルⅡっていう　興奮剤が\nハンターを中心に　流行したんだよ
 ＿or so years ago, a stimulant known as Hustle\n
 Ⅱ boomed among hunters.
@@ -316,7 +316,7 @@ Hunting is just that competitive...
 
 
 //今はこの病院も　患者より医者が\n多いくらいなんだけど　ハッスルⅡの\n全盛期は　凄まじいモンだったわよ
-<$06>This hospital has more doctors than patients\n
+This hospital has more doctors than patients\n
 now, but you should've seen it before!
 <$12>
 \n
@@ -324,10 +324,10 @@ now, but you should've seen it before!
 //だってベッドが足んなくて　ここの\n廊下に　患者が　
 When Hustle Ⅱ was legal, there weren't enough\n
 beds. We had maybe＿
-
+<$06>
 //200
 200
-
+<$04>
 //人くらい\nマットもなしで　ころがってたものね
 ＿patients on mats in the hall!
 <$12>
@@ -339,7 +339,7 @@ beds. We had maybe＿
 
 
 //ホスピタル　コーポレーションが\nこの町の　正式名称なんだってね
-<$06>The full official name\n
+The full official name\n
 of this complex is\n
 Hospital Corporation".
 <$12>
@@ -358,7 +358,7 @@ Kenya who truly share and hold it.
 
 
 //たいていの動物は　人間を見たら\n逃げてゆく…　動物は知ってるんだよ、\n人間だけが　満腹でも襲って来るって
-<$06>Most animals flee at the sight of humans,\n
+Most animals flee at the sight of humans,\n
 because they know that us humans will still\n
 attack them even if we don't need to.
 <$12>
@@ -370,7 +370,7 @@ attack them even if we don't need to.
 
 
 //「愛」だって　自販機や通販で\n買えそうな　このご時世に\nあんたたちは　面白いよ∥
-<$06>If "love" is bought from kiosks or\n
+If "love" is bought from kiosks or\n
 catalogues, you two must be shopping\n
 non-stop.
 <$12>
@@ -387,14 +387,14 @@ our love is on the house!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //オンナが　うらやましいよ\n
 I envy those who get to feel life form in\n
 their bellies over＿
-
+<$06>
 //10
 10
-
+<$04>
 //ヶ月も　自分の中で\n新しい生命が　育つのを実感できる
 ＿whole months.
 <$12>
@@ -418,7 +418,7 @@ life, I hope I'm born with a womb.
 
 
 //エリザベス社長って　いったけか…
-<$06>President Green's free as a bird now. I envy\n
+President Green's free as a bird now. I envy\n
 her.
 <$12>
 \n
@@ -435,12 +435,12 @@ world with her husband.
 
 
 //個体差はあるものの　人類のオスの\n精子の量は　今や
-<$06>The sperm count found in human males has, on\n
+The sperm count found in human males has, on\n
 average, decreased by 7/8 in the last＿
-
+<$06>
 //2000
 2000
-
+<$04>
 //年前の\n約８分の１にまで　減少してましてね
 ＿years.
 <$12>
@@ -455,10 +455,10 @@ of this.
 <CLEAR>
 //とうとう
 It was maybe＿
-
+<$06>
 //２、３
 2, 3＿
-
+<$04>
 //年前には　セックスレスの\n夫婦ほど　子供が多いという\nデータまで　発表されましたよ
 years ago when we saw data of sexless couples\n
 having the most children.
@@ -471,7 +471,7 @@ having the most children.
 
 
 //町の中のプールで　飼われている\n
-<$06>The＿
+The＿
 //<$1B>
 //ナマズの姿を　よく目に焼付けときな\nで、もしも外で　
 catfish we keep might be fun to look at, but\n
@@ -493,7 +493,7 @@ the strongest species on the planet!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //朝から晩まで　サチコ、サチコ、サチコ…\n一人娘がかわいいのは　わかるけど\nエモリ先生の場合　ちょっと異常ね
 From morning 'til night, Dr. Emori is all,\n
 "Sachiko this, Sachiko that". She's adorable,\n
@@ -521,7 +521,7 @@ May he rest in pieces.
 
 #WRITE(PTR, $0024)
 //第２病棟２Ｆ
-<$06>Ward 2 2F＿
+Ward 2 2F＿
 <$00>
 
 
@@ -529,7 +529,7 @@ May he rest in pieces.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -545,7 +545,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -562,7 +562,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -579,7 +579,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -590,7 +590,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -601,7 +601,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -613,7 +613,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 //赤ン坊もね、離乳した途端に\nウンチが　たまんなく臭くなる…\nあのニオイをかぐたびに　思うんだよ
-<$06>After babies are weened, the smell of their\n
+After babies are weened, the smell of their\n
 poop gets arguably worse.
 <$12>
 \n
@@ -637,7 +637,7 @@ It makes me want to clap and wish them,\n
 
 
 //エモリ・ラボの前の花壇は　いいよ\n心が　なごむというか…\n洗われるというかサ…
-<$06>The flowerbed in front of Emori's Lab is\n
+The flowerbed in front of Emori's Lab is\n
 lovely. It soothes my heart just looking at\n
 it.
 <$12>
@@ -655,7 +655,7 @@ flowers is such a lovely person.
 
 
 //ここの看護婦たちって　あなたに\n優しいでしょ？　理由、知りたい？\n
-<$06>Want to know why our nurses give you special\n
+Want to know why our nurses give you special\n
 treatment?\n
 <$01>
 //教えてくれよ！
@@ -674,7 +674,7 @@ Your boy's got game
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //昔、この病院に　２０代の若さで\n「聖母の右手」と　アダ名されるほどの\n腕のいい、美人の助産婦がいたの
 Ages ago, a young, gorgeous mid-wife in her\n
 20s worked here. She was incredibly skilled.
@@ -704,7 +704,7 @@ happens, that man was a ranger like you!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //正面右、屋上へ上がる階段の手前に\n洗面所があって、頭を冷やせるわよ\n蛇口から２０センチ上に　鏡もあるわ
 There's a bathroom by the stairs you can cool\n
 off and reflect in. It comes with a mirror.
@@ -717,7 +717,7 @@ off and reflect in. It comes with a mirror.
 
 
 //ビースチャンの赤ン坊には　ときどき\n角や尻尾、エラ、ウロコなんかの\n痕跡の残った子が　生まれるんだよ
-<$06>Occasionally, Beastian babies, usually boys,\n
+Occasionally, Beastian babies, usually boys,\n
 are born with horns, tails, gills or scales.
 <$12>
 \n
@@ -735,7 +735,7 @@ permanent.
 
 
 //あんたたちも　なるべく早く\n子供を　つくりなさいね
-<$06>You two should start a family as soon as you\n
+You two should start a family as soon as you\n
 can.
 <$12>
 \n
@@ -760,7 +760,7 @@ your childhoods.
 
 
 //「満腹バナナ」は　ダイエットにも\nいいって　ご婦人たちの間じゃ\nちょっとした　流行なのよ
-<$06>The Buffet Banana is all the rage right now,\n
+The Buffet Banana is all the rage right now,\n
 especially for women on diets.
 <$12>
 \n
@@ -776,7 +776,7 @@ mouth, each bite doubles in size!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //あぁ…兄ちゃん…\nサチコが…　俺のサチコが…\n誘拐されちまったんだ！
 Ohh, Brother...\n
 Sachiko... My Sachiko...was kidnapped!
@@ -787,7 +787,7 @@ Sachiko... My Sachiko...was kidnapped!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //犯人の要求は　エモリ先生の\n最新の研究の入った　ディスクと\n身代金１０万￥…
 The perp's demanding a digital copy of her\n
 father's research and 100,000￥.
@@ -798,7 +798,7 @@ father's research and 100,000￥.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //それと　受渡し役に　俺を\n指名してきたんだ…　なのに\n俺ときたら　この様だ！
 He also specified that I deliver the ransom\n
 alone, but I can hardly move.
@@ -809,7 +809,7 @@ alone, but I can hardly move.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……………………………………
 .........
 <$12>
@@ -820,7 +820,7 @@ alone, but I can hardly move.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //階段から　落っこちたんだよ！\nバナナの皮を　踏んづけてな…\nだから　頼みがあるんだ！
 I slipped on a banana peel running down the\n
 stairs. That's why I called you.
@@ -831,7 +831,7 @@ stairs. That's why I called you.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //兄ちゃんが　ネクになるんだ！
 I need you to become Nek!
 <$00>
@@ -841,7 +841,7 @@ I need you to become Nek!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //俺の代わりに　サチコを助けに\n行ってくれ！　一生のお願いだ！
 Go rescue Sachiko in my place!\n
 That is my lifelong wish!
@@ -853,7 +853,7 @@ That is my lifelong wish!
 
 
 //\n
-<$06>\n
+\n
 <$01>
 //任せておけ∥
 I will!
@@ -870,7 +870,7 @@ I can't!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //恩に着るよ、兄ちゃん！\nじゃ　服を取り替えよう！
 I owe you big time!\n
 All right, Brother, let's switch clothes!
@@ -881,7 +881,7 @@ All right, Brother, let's switch clothes!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ラグナロッジの　エモリ先生の\n所へ　すぐ向かってくれ、\nサチコのこと　頼んだゼ！
 Go meet Dr. Emori in Ragna Rim, and bring\n
 Sachiko home!
@@ -892,7 +892,7 @@ Sachiko home!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //くだらない冗談　言ってないで\n引き受けてあげなさいよ、ケン！
 This is no time for jokes.\n
 Promise you'll help, Ken!
@@ -905,7 +905,7 @@ Promise you'll help, Ken!
 
 #WRITE(PTR, $0026)
 //屋上出入口
-<$06>Rooftop Entry＿
+Rooftop Entry＿
 <$00>
 
 
@@ -913,7 +913,7 @@ Promise you'll help, Ken!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -929,7 +929,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -946,7 +946,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -963,7 +963,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -974,7 +974,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -985,7 +985,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -998,7 +998,7 @@ The Navi System(NaviS) can't be booted here!
 
 #WRITE(PTR, $0028)
 //第２病棟Ｂ１
-<$06>Ward 2 B1＿
+Ward 2 B1＿
 <$00>
 
 
@@ -1006,7 +1006,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -1022,7 +1022,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -1039,7 +1039,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -1056,7 +1056,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -1067,7 +1067,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -1078,7 +1078,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -1090,7 +1090,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 //遺族が　仏さんを引き取りに来たら\nなくなってたり　いつの間にか\n見知らぬ死体が　増えてたり…
-<$06>Bereaved families don't come to collect the\n
+Bereaved families don't come to collect the\n
 dead like they used to.
 <$12>
 \n
@@ -1118,7 +1118,7 @@ least. You should do it while you still can.
 
 
 //昔、この霊安室でね、\n奇跡を見たよ…
-<$06>Once, in this very morgue, I saw a miracle.
+Once, in this very morgue, I saw a miracle.
 <$12>
 \n
 <CLEAR>
@@ -1145,7 +1145,7 @@ From then on, everyone took to calling her\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1160,7 +1160,7 @@ SA naked female corpse lies here.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1178,7 +1178,7 @@ SKen found the＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1196,7 +1196,7 @@ had to go back.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1214,7 +1214,7 @@ SKen acquired＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1232,7 +1232,7 @@ SKen found the＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1250,7 +1250,7 @@ had to go back.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1270,7 +1270,7 @@ SKen acquired＿
 
 #WRITE(PTR, $002A)
 //個
-<$06>＿
+＿
 <$00>
 
 
@@ -1279,7 +1279,7 @@ SKen acquired＿
 
 
 //匹
-<$06>＿
+＿
 <$00>
 
 
@@ -1287,13 +1287,13 @@ SKen acquired＿
 
 
 
-<$06><$1D>
+<$1D>
 //を
 ＿x
 <$1D>
 //ます\n
 ＿\n
-<$19>
+<$06><$19>
 //1
 1
 <$01><$1A>
@@ -1305,7 +1305,7 @@ S
 <$19>
 //0
 0
-
+<$04>
 //／
 ／
 <$14><$1E>
@@ -1341,7 +1341,7 @@ S￥
 TCU (x
 <$1E>
 //034
-
+<$06>
 //)
 )
 <$00>
@@ -1351,7 +1351,7 @@ TCU (x
 
 
 
-<$06><$05>
+<$05>
 //γ
 A
 <$00>
@@ -1361,7 +1361,7 @@ A
 
 
 
-<$06><$05>
+<$05>
 //ζ
 D
 <$00>
@@ -1371,7 +1371,7 @@ D
 
 
 
-<$06><$1E>
+<$1E>
 //@019
 @019
 <$00>
@@ -1381,7 +1381,7 @@ D
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //セレクトボタンで解説が出ます
 SELECT: Details
 <$00>
@@ -1398,7 +1398,7 @@ SELECT: Details
 
 
 
-<$06><$16><$15>
+<$04><$16><$15>
 //W
 W
 <$01><$1D><$02>
@@ -1417,14 +1417,14 @@ W
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //トランスカーゴは　１枠につき\n
 The trans-cargo unit has\n
 a＿
-
+<$06>
 //99
 99
-
+<$04>
 //頭までしか　収容できません
 ＿species capacity!
 <$12>
@@ -1435,12 +1435,12 @@ a＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
-
+<$06>
 //トランスカーゴ
 The trans-cargo unit＿
-
+<$04>
 //がいっぱいです
 is full!
 <$12>
@@ -1451,7 +1451,7 @@ is full!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //道具がいっぱいです
 The item bag is full!
 <$12>
@@ -1463,7 +1463,7 @@ The item bag is full!
 
 
 //怪しい肉より　効果のハッキリした薬∥\n安心して　お使いになれます\n
-<$06>Why eat meat when you can take drugs?\n
+Why eat meat when you can take drugs?\n
 <$01>
 //購入する
 Shop
@@ -1487,7 +1487,7 @@ Exit
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //薬が切れたら、いつでも　どうぞ
 Whenever you want drugs, you know where to\n
 find us!
@@ -1500,7 +1500,7 @@ find us!
 
 
 //
-<$06><$15>
+<$15>
 //Y薬　屋／買　う
 YDrug／Buy
 <$00>
@@ -1511,7 +1511,7 @@ YDrug／Buy
 
 
 //
-<$06><$15>
+<$15>
 //Y薬　屋
 YDrug Counter
 <$00>
@@ -1522,7 +1522,7 @@ YDrug Counter
 
 
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -1537,7 +1537,7 @@ It smells strongly of antiseptic here.
 
 
 //……東
-<$06>...East
+...East
 <$00>
 
 
@@ -1546,7 +1546,7 @@ It smells strongly of antiseptic here.
 
 
 //……西
-<$06>...West
+...West
 <$00>
 
 
@@ -1555,7 +1555,7 @@ It smells strongly of antiseptic here.
 
 
 //……南
-<$06>...South
+...South
 <$00>
 
 
@@ -1564,7 +1564,7 @@ It smells strongly of antiseptic here.
 
 
 //……北
-<$06>...North
+...North
 <$00>
 
 
@@ -1573,7 +1573,7 @@ It smells strongly of antiseptic here.
 
 
 //…北東
-<$06>...North-east
+...North-east
 <$00>
 
 
@@ -1582,7 +1582,7 @@ It smells strongly of antiseptic here.
 
 
 //…北西
-<$06>...North-west
+...North-west
 <$00>
 
 
@@ -1591,7 +1591,7 @@ It smells strongly of antiseptic here.
 
 
 //…南東
-<$06>...South-east
+...South-east
 <$00>
 
 
@@ -1600,7 +1600,7 @@ It smells strongly of antiseptic here.
 
 
 //…南西
-<$06>...South-west
+...South-west
 <$00>
 
 
@@ -1608,7 +1608,7 @@ It smells strongly of antiseptic here.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -1620,7 +1620,7 @@ It smells strongly of antiseptic here.
 
 
 //、…
-<$06>! That's where we'll find a＿
+! That's where we'll find a＿
 <$1D>
 //に行けば
 .
@@ -1632,7 +1632,7 @@ It smells strongly of antiseptic here.
 
 
 //直進
-<$06>For
+For
 <$00>
 
 
@@ -1641,7 +1641,7 @@ It smells strongly of antiseptic here.
 
 
 //右よ
-<$06>Right
+Right
 <$00>
 
 
@@ -1650,7 +1650,7 @@ It smells strongly of antiseptic here.
 
 
 //左よ
-<$06>Left
+Left
 <$00>
 
 
@@ -1659,7 +1659,7 @@ It smells strongly of antiseptic here.
 
 
 //後ろ
-<$06>Back
+Back
 <$00>
 
 
@@ -1667,7 +1667,7 @@ It smells strongly of antiseptic here.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -1679,7 +1679,7 @@ It smells strongly of antiseptic here.
 
 
 //、絶対に
-<$06>wards, got it? I'm sure we'll find a＿
+wards, got it? I'm sure we'll find a＿
 <$1D>
 //∥
 ＿there!
@@ -1690,7 +1690,7 @@ It smells strongly of antiseptic here.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1705,7 +1705,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…ごめんね、\n今日は　勘がはたらかないわ…
 ...Sorry. I don't have it in me today.
 <$12>
@@ -1717,7 +1717,7 @@ SLinda used her woman's intuition...
 
 
 //運命の
-<$06>Fated＿
+Fated＿
 <$00>
 
 
@@ -1726,7 +1726,7 @@ SLinda used her woman's intuition...
 
 
 //新しい
-<$06>New＿
+New＿
 <$00>
 
 
@@ -1735,7 +1735,7 @@ SLinda used her woman's intuition...
 
 
 //素敵な
-<$06>Great＿
+Great＿
 <$00>
 
 
@@ -1744,7 +1744,7 @@ SLinda used her woman's intuition...
 
 
 //未知の
-<$06>Unknown＿
+Unknown＿
 <$00>
 
 
@@ -1753,7 +1753,7 @@ SLinda used her woman's intuition...
 
 
 //何か
-<$06>things＿
+things＿
 <$00>
 
 
@@ -1762,7 +1762,7 @@ SLinda used her woman's intuition...
 
 
 //発見
-<$06>discoveries＿
+discoveries＿
 <$00>
 
 
@@ -1771,7 +1771,7 @@ SLinda used her woman's intuition...
 
 
 //お宝
-<$06>treasures＿
+treasures＿
 <$00>
 
 
@@ -1780,7 +1780,7 @@ SLinda used her woman's intuition...
 
 
 //動物
-<$06>animals＿
+animals＿
 <$00>
 
 
@@ -1789,7 +1789,7 @@ SLinda used her woman's intuition...
 
 
 //に　出会える…
-<$06>could appear.
+could appear.
 <$00>
 
 
@@ -1798,7 +1798,7 @@ SLinda used her woman's intuition...
 
 
 //が　待ってる…
-<$06>await us...
+await us...
 <$00>
 
 
@@ -1807,7 +1807,7 @@ SLinda used her woman's intuition...
 
 
 //気がするわ∥
-<$06>are there.
+are there.
 <$00>
 
 
@@ -1816,7 +1816,7 @@ SLinda used her woman's intuition...
 
 
 //チャンスよ∥
-<$06>are in our grasp!
+are in our grasp!
 <$00>
 
 
@@ -1825,7 +1825,7 @@ SLinda used her woman's intuition...
 
 
 //今しかないわ
-<$06>could slip through our fingers!
+could slip through our fingers!
 <$00>
 
 
@@ -1834,7 +1834,7 @@ SLinda used her woman's intuition...
 
 
 //間違いなし∥
-<$06>are dead head!
+are dead head!
 <$00>
 
 
@@ -1843,7 +1843,7 @@ SLinda used her woman's intuition...
 
 
 //\n
-<$06>\n
+\n
 <$1D><$1D><$1D>
 //\n
 \n
@@ -1858,7 +1858,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信があるの∥
 I'm sure of it!
 <$12>
@@ -1869,7 +1869,7 @@ I'm sure of it!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信は　ないけどね…
 Although, I'm not totally certain...
 <$12>
@@ -1880,7 +1880,7 @@ Although, I'm not totally certain...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //絶対なんだから∥
 I'm absolutely certain!
 <$12>
@@ -1892,7 +1892,7 @@ I'm absolutely certain!
 
 
 //
-<$06><$15>
+<$15>
 //Yスケジュール
 YMemo＿
 <$00>
@@ -1902,7 +1902,7 @@ YMemo＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //スケジュールは何もありません
 There is nothing on schedule.
 <$12>
@@ -1914,7 +1914,7 @@ There is nothing on schedule.
 
 
 //成功終了
-<$06>Completed!
+Completed!
 <$00>
 
 
@@ -1923,7 +1923,7 @@ There is nothing on schedule.
 
 
 //期限切れ
-<$06>Expired!
+Expired!
 <$00>
 
 
@@ -1932,7 +1932,7 @@ There is nothing on schedule.
 
 
 //あと
-<$06>In＿
+In＿
 <$1E>
 //季節
 ＿seasons
@@ -1944,7 +1944,7 @@ There is nothing on schedule.
 
 
 //あと
-<$06>Deadline:＿
+Deadline:＿
 <$1E>
 //年
 Y/
@@ -1959,7 +1959,7 @@ S
 
 
 //あと
-<$06>In＿
+In＿
 <$1E>
 //年
 ＿years
@@ -1970,7 +1970,7 @@ S
 
 
 
-<$06><$16><$01>
+<$16><$01>
 //◇
 ◇
 <$0E><$1D><$02>
@@ -1984,7 +1984,7 @@ S
 
 
 //ファングを倒す
-<$06>Slay Fang
+Slay Fang
 <$00>
 
 
@@ -1993,7 +1993,7 @@ S
 
 
 //パンハイムからの依頼
-<$06>Assist Panheim
+Assist Panheim
 <$00>
 
 
@@ -2003,7 +2003,7 @@ S
 
 //<$1B>
 //カメの卵を手に入れる
-<$06>Snatch Turtle Eggs
+Snatch Turtle Eggs
 <$00>
 
 
@@ -2013,7 +2013,7 @@ S
 
 //<$1B>
 //プテラノの卵を手に入れる
-<$06>Snatch Pteranodon Eggs
+Snatch Pteranodon Eggs
 <$00>
 
 
@@ -2022,7 +2022,7 @@ S
 
 
 //遺産争いにケリをつける
-<$06>End the inheritance battle
+End the inheritance battle
 <$00>
 
 
@@ -2031,7 +2031,7 @@ S
 
 
 //ヤマダのために一肌脱ぐ
-<$06>Unload for Yamada
+Unload for Yamada
 <$00>
 
 
@@ -2040,7 +2040,7 @@ S
 
 
 //町のシンボルを見つけだす
-<$06>Find the village symbol
+Find the village symbol
 <$00>
 
 
@@ -2049,7 +2049,7 @@ S
 
 
 //ソフィアからの依頼
-<$06>Assist Sophia
+Assist Sophia
 <$00>
 
 
@@ -2058,7 +2058,7 @@ S
 
 
 //サチコ救出
-<$06>Rescue Sachiko
+Rescue Sachiko
 <$00>
 
 
@@ -2067,7 +2067,7 @@ S
 
 
 //ポロポロちゃんを助ける
-<$06>Save Nightshade
+Save Nightshade
 <$00>
 
 
@@ -2076,7 +2076,7 @@ S
 
 
 //アンジェラ捜し
-<$06>Find Angela
+Find Angela
 <$00>
 
 
@@ -2084,7 +2084,7 @@ S
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //カラゴラムのファングを倒し、その証拠を\nハーディアホテルのスペクターに渡す
 Defeat Fang in Karhagolem. Present proof to\n
 Spectre in Hardia Hotel.
@@ -2095,7 +2095,7 @@ Spectre in Hardia Hotel.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //マーブルポリスの
 Process meat from＿
 //<$1B>
@@ -2109,7 +2109,7 @@ Panheim in Hospico.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 Find up to 3＿
 //<$1B>
@@ -2123,7 +2123,7 @@ Park BB Ranch.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 Acquire 2＿
 //<$1B>
@@ -2137,7 +2137,7 @@ Battle Park BB Ranch.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「太郎の首輪」を見つけだし、ドギファの\nナターシャか、オーマン家３兄弟に渡す
 Locate Taro's Collar. Give it to Natasha or\n
 one of the 3 Aumann children in Dogyf\n
@@ -2150,7 +2150,7 @@ Heights.
 
 
 //６万
-<$06>60, 000
+60, 000
 <$00>
 
 
@@ -2159,10 +2159,10 @@ Heights.
 
 
 //あと
-<$06>another＿
-<$1E><$0F>
+another＿
+<$06><$1E><$0F>
 //000
-
+<$04>
 <$00>
 
 
@@ -2170,7 +2170,7 @@ Heights.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //Ｇファクトリーのヤマダのために\n
 Deposit＿
 <$1D>
@@ -2183,7 +2183,7 @@ Deposit＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //コシカタのシンボル「
 Find the＿
 //<$1B>
@@ -2197,7 +2197,7 @@ Return it to Poliska.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ソフィアのために、エターナの桜の木を\nどうにかして咲かせる
 Find out how to revive the sakura trees in\n
 Eterna for Sophia.
@@ -2208,7 +2208,7 @@ Eterna for Sophia.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //溶岩の中で育った動物の熱いウンチを\nエターナのソフィアに渡す
 Deliver Hot Dung from a lava-dwelling\n
 creature to Sophia in Eterna.
@@ -2219,7 +2219,7 @@ creature to Sophia in Eterna.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ラグナロッジのエモリに会いに行く
 Meet with Dr. Emori in Ragna Rim.
 <$00>
@@ -2229,13 +2229,13 @@ Meet with Dr. Emori in Ragna Rim.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「フロッピーと
 Take the Floppy Disc and＿
-
+<$06>
 //10
 10, 000
-
+<$04>
 //万￥」を持って、\nＧファクトリー入口１階、\n公衆電話の前に行く
 ￥ to the G Factory gate. Answer the payphone.
 <$00>
@@ -2245,13 +2245,13 @@ Take the Floppy Disc and＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「フロッピーと
 Take the Floppy Disc and＿
-
+<$06>
 //10
 10, 000
-
+<$04>
 //万￥」を持って、\nパラサイド入口１階、\n公衆電話の前に行く
 ￥ to the Paraside gate. Answer the payphone.
 <$00>
@@ -2261,13 +2261,13 @@ Take the Floppy Disc and＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「フロッピーと
 Take the Floppy Disc and＿
-
+<$06>
 //10
 10, 000
-
+<$04>
 //万￥」を持って、\nガレックスに行く
 ￥ to Galax.
 <$00>
@@ -2277,7 +2277,7 @@ Take the Floppy Disc and＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す
 Pick bloodberries in Flora Jam. Take them to\n
 Kevin and Nightshade in Rose Garden.
@@ -2288,7 +2288,7 @@ Kevin and Nightshade in Rose Garden.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //パラサイドの酒場にいるアンジェラを\n確認して、リナバレーのマリオに連絡する
 Look for Angela at the Paraside bar. Report\n
 your findings to Mario in Spurr Valley.
@@ -2299,7 +2299,7 @@ your findings to Mario in Spurr Valley.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //アンジェラを確認するために、\nオズポートホテルの酒場に行く
 Look for Angela at the OzPort Hotel bar.
 <$00>
@@ -2309,7 +2309,7 @@ Look for Angela at the OzPort Hotel bar.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //アンジェラを確認するために、\n西エリアのしけた町のホテルに行く
 Look for Angela at a hotel bar somewhere in\n
 West Area.
@@ -2320,7 +2320,7 @@ West Area.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //アンジェラを確認するために、\nドギファの舞台に行く
 Look for Angela at the theater stage in Dogyf\n
 Heights.
@@ -2331,7 +2331,7 @@ Heights.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リナバレーのマリオの母、\nアンジェラを追ってオズサットへ行く
 Chase Angela to OzSat! Mario will follow from\n
 Spurr Valley.

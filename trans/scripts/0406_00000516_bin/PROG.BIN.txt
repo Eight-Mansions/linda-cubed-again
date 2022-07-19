@@ -10,7 +10,7 @@
 #WRITE(PTR, $0018)
 #WRITE(PTR, $001A)
 //ヒューム
-<$06>Hume
+Hume
 <$00>
 
 
@@ -18,7 +18,7 @@
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ヒュームの攻撃∥\n鮮血まじりの　胃液が飛ぶ∥
 Hume sprays gastric juice and fresh blood\n
 everywhere!
@@ -29,7 +29,7 @@ everywhere!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ヒュームの攻撃∥\n鋭い牙が　獲物をねらう∥
 Hume's sharp fangs go in\n
 for the kill!
@@ -40,7 +40,7 @@ for the kill!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ヒュームは　アンの体内から\nドーパミンを　吸収した∥
 Hume drained dopamine from Ann's body!
 <$00>
@@ -50,7 +50,7 @@ Hume drained dopamine from Ann's body!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ヒュームの攻撃∥\n鉄拳パンチが　風を切る∥
 Hume throws a ferocious, wind-splitting\n
 punch!
@@ -202,7 +202,7 @@ m135_e.obj
 
 #WRITE(PTR, $001E)
 //単体攻撃Ａ
-<$06>MeleeA
+MeleeA
 <$00>
 
 
@@ -211,7 +211,7 @@ m135_e.obj
 
 
 //単体攻撃Ｂ
-<$06>MeleeB
+MeleeB
 <$00>
 
 
@@ -220,7 +220,7 @@ m135_e.obj
 
 
 //複数攻撃Ａ
-<$06>RangedＡ
+RangedＡ
 <$00>
 
 
@@ -229,7 +229,7 @@ m135_e.obj
 
 
 //複数攻撃Ｂ
-<$06>RangedB
+RangedB
 <$00>
 
 
@@ -238,7 +238,7 @@ m135_e.obj
 
 
 //味方強化他
-<$06>Buff
+Buff
 <$00>
 
 
@@ -247,7 +247,7 @@ m135_e.obj
 
 
 //敵を撹乱
-<$06>Sabotage
+Sabotage
 <$00>
 
 
@@ -256,7 +256,7 @@ m135_e.obj
 
 
 //怪物能力
-<$06>Creature
+Creature
 <$00>
 
 
@@ -265,7 +265,7 @@ m135_e.obj
 
 
 //人間能力
-<$06>Field
+Field
 <$00>
 
 
@@ -274,7 +274,7 @@ m135_e.obj
 
 
 //単体攻撃Ａ
-<$06>MeleeA
+MeleeA
 <$00>
 
 
@@ -283,7 +283,7 @@ m135_e.obj
 
 
 //単体攻撃Ｂ
-<$06>MeleeB
+MeleeB
 <$00>
 
 
@@ -292,7 +292,7 @@ m135_e.obj
 
 
 //複数攻撃
-<$06>Ranged
+Ranged
 <$00>
 
 
@@ -301,7 +301,7 @@ m135_e.obj
 
 
 //自己防衛
-<$06>Defense
+Defense
 <$00>
 
 
@@ -310,7 +310,7 @@ m135_e.obj
 
 
 //味方強化他
-<$06>Buff
+Buff
 <$00>
 
 
@@ -319,7 +319,7 @@ m135_e.obj
 
 
 //敵を撹乱
-<$06>Sabotage
+Sabotage
 <$00>
 
 
@@ -328,7 +328,7 @@ m135_e.obj
 
 
 //怪物能力
-<$06>Creature
+Creature
 <$00>
 
 
@@ -337,7 +337,7 @@ m135_e.obj
 
 
 //人間能力
-<$06>Field
+Field
 <$00>
 
 
@@ -345,7 +345,7 @@ m135_e.obj
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -361,7 +361,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -378,7 +378,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -395,7 +395,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -406,7 +406,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -417,7 +417,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -428,9 +428,9 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
-
+<$04>
 //地形設定＿
 Select Terrain:
 <$01><$1D><$0E>
@@ -450,7 +450,7 @@ Select Terrain:
 
 
 //草
-<$06>Grass
+Grass
 <$00>
 
 
@@ -459,7 +459,7 @@ Select Terrain:
 
 
 //土
-<$06>Soil
+Soil
 <$00>
 
 
@@ -468,7 +468,7 @@ Select Terrain:
 
 
 //森
-<$06>Forest
+Forest
 <$00>
 
 
@@ -477,7 +477,7 @@ Select Terrain:
 
 
 //砂
-<$06>Desert
+Desert
 <$00>
 
 
@@ -486,7 +486,7 @@ Select Terrain:
 
 
 //沼
-<$06>Marsh
+Marsh
 <$00>
 
 
@@ -495,7 +495,7 @@ Select Terrain:
 
 
 //水
-<$06>Fluid
+Fluid
 <$00>
 
 
@@ -504,7 +504,7 @@ Select Terrain:
 
 
 //氷
-<$06>Snowfield
+Snowfield
 <$00>
 
 
@@ -513,7 +513,7 @@ Select Terrain:
 
 
 //山
-<$06>Mountain
+Mountain
 <$00>
 
 
@@ -522,7 +522,7 @@ Select Terrain:
 
 
 //海
-<$06>Ocean
+Ocean
 <$00>
 
 
@@ -531,7 +531,7 @@ Select Terrain:
 
 
 //建
-<$06>Interior
+Interior
 <$00>
 
 
@@ -539,7 +539,7 @@ Select Terrain:
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //特殊能力の設定をします\n
 Assign skills:\n
 <$01>
@@ -607,7 +607,7 @@ All-0
 
 
 //メンバーチェンジ\n
-<$06>Party edit:\n
+Party edit:\n
 <$01>
 //外す＿
 Remove＿
@@ -644,7 +644,7 @@ Sumire
 
 
 //戦闘テストヒューム
-<$06>Combat Test Hume
+Combat Test Hume
 <$00>
 
 
@@ -652,7 +652,7 @@ Sumire
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$01>
 //ヒューム
@@ -666,7 +666,7 @@ Hume
 
 
 #WRITE(PTR, $0020)
-<$06><CLEAR>
+<CLEAR>
 //ヒュームが襲ってきた∥
 Hume attacks!
 <$12>
@@ -677,7 +677,7 @@ Hume attacks!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //今さら　逃げるわけには\nいかない∥Ψ
 Can't run away now!Ψ
 <$00>
@@ -688,7 +688,7 @@ Can't run away now!Ψ
 
 
 #WRITE(PTR, $0022)
-<$06><CLEAR>
+<CLEAR>
 //お客さん…\nホスピコの入り口に　並んでる\n哀れな猟犬の墓を　数えてごらん
 Sir, go look at the pet cemetary along the\n
 Hospico entrance.
@@ -714,7 +714,7 @@ don't you?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //猟犬の収容枠が　いっぱいです\nこれ以上、猟犬を増やせません
 You have reached the max amount of dogs you\n
 can own at one time.
@@ -726,12 +726,12 @@ can own at one time.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //登録料　
 The adoption fee is over\n
 <$15>
 //b
-<$1E><$14>
+<$06><$1E><$04><$14>
 //￥が足りません\n銀行で　ご都合ください
 ￥.\n
 Get a loan from the bank.
@@ -744,7 +744,7 @@ Get a loan from the bank.
 
 
 //その名前は　既に登録されています\n別の名前を　つけてください
-<$06>Sorry, that name is taken.\n
+Sorry, that name is taken.\n
 Choose a new name.
 <$12>
 <$00>
@@ -754,7 +754,7 @@ Choose a new name.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //猟犬
 Adopt＿
 <$1D>
@@ -808,7 +808,7 @@ S
 
 
 //個
-<$06>＿
+＿
 <$00>
 
 
@@ -817,7 +817,7 @@ S
 
 
 //匹
-<$06>＿
+＿
 <$00>
 
 
@@ -825,13 +825,13 @@ S
 
 
 
-<$06><$1D>
+<$1D>
 //を
 ＿x
 <$1D>
 //ます\n
 ＿\n
-<$19>
+<$06><$19>
 //1
 1
 <$01><$1A>
@@ -843,7 +843,7 @@ S
 <$19>
 //0
 0
-
+<$04>
 //／
 ／
 <$14><$1E>
@@ -879,7 +879,7 @@ S￥
 TCU (x
 <$1E>
 //034
-
+<$06>
 //)
 )
 <$00>
@@ -889,7 +889,7 @@ TCU (x
 
 
 
-<$06><$05>
+<$05>
 //γ
 A
 <$00>
@@ -899,7 +899,7 @@ A
 
 
 
-<$06><$05>
+<$05>
 //ζ
 D
 <$00>
@@ -909,7 +909,7 @@ D
 
 
 
-<$06><$1E>
+<$1E>
 //@019
 @019
 <$00>
@@ -919,7 +919,7 @@ D
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //セレクトボタンで解説が出ます
 SELECT: Details
 <$00>
@@ -936,7 +936,7 @@ SELECT: Details
 
 
 
-<$06><$16><$15>
+<$04><$16><$15>
 //W
 W
 <$01><$1D><$02>
@@ -955,14 +955,14 @@ W
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //トランスカーゴは　１枠につき\n
 The trans-cargo unit has\n
 a＿
-
+<$06>
 //99
 99
-
+<$04>
 //頭までしか　収容できません
 ＿species capacity!
 <$12>
@@ -973,12 +973,12 @@ a＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
-
+<$06>
 //トランスカーゴ
 The trans-cargo unit＿
-
+<$04>
 //がいっぱいです
 is full!
 <$12>
@@ -989,7 +989,7 @@ is full!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //道具がいっぱいです
 The item bag is full!
 <$12>
@@ -1000,7 +1000,7 @@ The item bag is full!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1D><$15>
 //Wは\nＡ級保護動物のため\n取り引きできません
@@ -1022,11 +1022,11 @@ trading is prohibited!
 
 
 
-<$06><$16><$01><$1D><$02>
+<$16><$04><$01><$1D><$02>
 //120
 <$0E><$02>
 //216
-<$1E>
+<$06><$1E><$04>
 //匹で
 x＿
 <$00>
@@ -1036,7 +1036,7 @@ x＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 Craft＿
 <$1D>
@@ -1058,14 +1058,14 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 Crafting a＿
 <$1D>
 //を作ります\n加工料金＿
 ＿\n
 will cost
-<$1D><$1E><$14>
+<$1D><$06><$1E><$04><$14>
 //￥\n
 ￥.\n
 <$01>
@@ -1084,7 +1084,7 @@ Wait
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //お金が足りません
 You can't afford this!
 <$12>
@@ -1095,7 +1095,7 @@ You can't afford this!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物が足りません
 You don't have the animals!
 <$12>
@@ -1106,13 +1106,13 @@ You don't have the animals!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //加工料金＿
 You can't afford the＿\n
 <$15>
 //b
 b
-<$1E><$14>
+<$06><$1E><$04><$14>
 //￥\nが足りません
 ￥ fee!
 <$12>
@@ -1143,7 +1143,7 @@ b
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //道具がいっぱいです
 The item bag is full!
 <$12>
@@ -1155,7 +1155,7 @@ The item bag is full!
 
 
 //
-<$06><$15>
+<$15>
 //Y野＿営／メニュー
 YCamp／Menu
 <$00>
@@ -1165,21 +1165,21 @@ YCamp／Menu
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
-
+<$06>
 //スタートボタン
 START:＿
-
+<$04>
 //でカーソルを「開始」に移動
 Highlight "Okay!"
 <$11>
 //240<CLEAR>もう１度
 240<CLEAR>(Again)
-
+<$06>
 //スタートボタン
 START:＿
-
+<$04>
 //で野営実行
 Begin camping!
 <$11>
@@ -1199,7 +1199,7 @@ Begin camping!
 
 
 
-<$06><$15>
+<$15>
 //W
 W
 <$1D><$02>
@@ -1221,7 +1221,7 @@ Watch
 
 
 
-<$06><$15>
+<$15>
 //W
 W
 <$01>
@@ -1235,7 +1235,7 @@ Okay!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //猟犬の収容枠が　いっぱいです\nこれ以上、猟犬を増やせません
 You have reached the max amount of dogs you\n
 can own at one time.
@@ -1247,7 +1247,7 @@ can own at one time.
 
 
 
-<$06><$01><$1D>
+<$01><$1D>
 //食料加工
 Butcher
 <$0E>
@@ -1270,7 +1270,7 @@ Trapper
 
 
 
-<$06><$01><$1D>
+<$01><$1D>
 //食料加工
 Butcher
 <$0E>
@@ -1293,7 +1293,7 @@ Warden
 
 
 
-<$06><$01><$1D>
+<$01><$1D>
 //食料加工
 Butcher
 <$0E>
@@ -1310,7 +1310,7 @@ Forger
 
 
 
-<$06><$01><$1D>
+<$01><$1D>
 //食料加工
 Butcher
 <$0E>
@@ -1322,7 +1322,7 @@ Butcher
 
 
 //＿寝る
-<$06>＿Sleep
+＿Sleep
 <$00>
 
 
@@ -1330,7 +1330,7 @@ Butcher
 
 
 
-<$06><$08>
+<$08>
 //7見張り
 7Watch
 <$00>
@@ -1340,7 +1340,7 @@ Butcher
 
 
 
-<$06><$08>
+<$08>
 //7食料加工
 7Butcher
 <$00>
@@ -1350,7 +1350,7 @@ Butcher
 
 
 
-<$06><$08>
+<$08>
 //7装備加工
 7Forger
 <$00>
@@ -1360,7 +1360,7 @@ Butcher
 
 
 
-<$06><$08>
+<$08>
 //7ワナ製作
 7Trapper
 <$00>
@@ -1370,7 +1370,7 @@ Butcher
 
 
 
-<$06><$08>
+<$08>
 //7猟犬調教
 7Tamer
 <$00>
@@ -1381,7 +1381,7 @@ Butcher
 
 
 //道具捨てる
-<$06>Trash items
+Trash items
 <$00>
 
 
@@ -1390,7 +1390,7 @@ Butcher
 
 
 //＿猟＿犬
-<$06>＿Dogs
+＿Dogs
 <$00>
 
 
@@ -1399,7 +1399,7 @@ Butcher
 
 
 //＿やめる
-<$06>＿Exit
+＿Exit
 <$00>
 
 
@@ -1407,15 +1407,15 @@ Butcher
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1D>
 //の\n
 's＿
-
+<$06>
 //HP 
 HP
-
+<$04>
 //全回復∥
 ＿recovered fully!
 <$12>
@@ -1426,15 +1426,15 @@ HP
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1D>
 //の\n
 's\n
-
+<$06>
 //HP 
 HP recovered by＿
-<$1E>
+<$04><$1E>
 //回復∥
 !
 <$12>
@@ -1445,15 +1445,15 @@ HP recovered by＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1D>
 //の\n
 's\n
-
+<$06>
 //BP 
 BP
-
+<$04>
 //全回復∥
 ＿recovered fully!
 <$12>
@@ -1464,15 +1464,15 @@ BP
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1D>
 //の\n
 's\n
-
+<$06>
 //BP 
 BP recovered by＿
-<$1E>
+<$04><$1E>
 //回復∥
 !
 <$12>
@@ -1484,7 +1484,7 @@ BP recovered by＿
 
 
 //
-<$06><$15>
+<$15>
 //Y野＿営／メニュー
 YCamp／Menu
 <$00>
@@ -1495,7 +1495,7 @@ YCamp／Menu
 
 
 //\n
-<$06>\n
+\n
 <$00>
 
 
@@ -1503,7 +1503,7 @@ YCamp／Menu
 
 
 
-<$06><$01><$1D><$02>
+<$01><$1D><$02>
 //70
 70
 <$0E>
@@ -1515,7 +1515,7 @@ YCamp／Menu
 
 
 //
-<$06><$15>
+<$15>
 //Y野＿営／食料加工
 YCamp/Butcher
 <$00>
@@ -1526,7 +1526,7 @@ YCamp/Butcher
 
 
 //
-<$06><$15>
+<$15>
 //Y野＿営／装備加工
 YCamp／Forger
 <$00>
@@ -1536,7 +1536,7 @@ YCamp／Forger
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //猟犬を収める　スペースがありません
 You have no space for dogs!
 <$12>
@@ -1547,7 +1547,7 @@ You have no space for dogs!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　ホスピコの入り口に眠る\n猟犬たちの顔を　思い出した…\nビシバシ調教が　できなくなった∥
 The faces of dogs buried in Hospico flashed\n
 through Linda's mind. The training ends here.
@@ -1560,7 +1560,7 @@ through Linda's mind. The training ends here.
 
 
 //
-<$06><$15>
+<$15>
 //Y野＿営／登＿録
 YCamp/Adopt
 <$00>
@@ -1571,7 +1571,7 @@ YCamp/Adopt
 
 
 //
-<$06><$15>
+<$15>
 //Y野営／道具捨てる
 YCamp/Trash items
 <$00>
@@ -1582,7 +1582,7 @@ YCamp/Trash items
 
 
 //
-<$06><$15>
+<$15>
 //Y野営／猟＿犬
 YCamp/Dogs
 <$00>
@@ -1592,7 +1592,7 @@ YCamp/Dogs
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //道具がいっぱいです
 The item bag is full!
 <$12>
@@ -1603,7 +1603,7 @@ The item bag is full!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ワナは一晩で　ひとつしか作れない
 Only 1 trap can be made per night.
 <$12>
@@ -1614,7 +1614,7 @@ Only 1 trap can be made per night.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは「自前のワナ」を\nひとつ作った∥
 Ken made a Handy Trap!
 <$12>
@@ -1625,7 +1625,7 @@ Ken made a Handy Trap!
 
 
 
-<$06><$1D>
+<$1D>
 //　
 
 <$1E>
@@ -1639,7 +1639,7 @@ x\n
 
 
 //
-<$06><$15>
+<$15>
 //Yホテル
 YHotel
 <$00>
@@ -1649,7 +1649,7 @@ YHotel
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //お気をつけて！
 Take care!
 <$12>
@@ -1660,7 +1660,7 @@ Take care!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //野宿は　危険ですよ
 Camping's dangerous, you know.
 <$12>
@@ -1671,11 +1671,11 @@ Camping's dangerous, you know.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //いらっしゃいませ！　
 Welcome! Would you like\n
 a room for＿
-<$1D><$1E><$14>
+<$1D><$06><$1E><$04><$14>
 //￥で\nお部屋が　用意できますよ\n
 ￥?\n
 <$01>
@@ -1701,7 +1701,7 @@ Exit
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //お金が　足りないようですね
 You can't afford this, can you.
 <$12>
@@ -1712,7 +1712,7 @@ You can't afford this, can you.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //お客様、戦えなくなった　猟犬のＨＰは\n宿泊や野営じゃ　戻りませんけど…\n
 I'm sorry, but dogs won't recover HP in\n
 hotels or camps.\n
@@ -1733,7 +1733,7 @@ Really?!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //さしでがましいことを　申し上げ\nたいへん　失礼いたしました\nでは　ごゆっくり
 Ah, I see. Please forgive my outburst.
 <$12>
@@ -1744,7 +1744,7 @@ Ah, I see. Please forgive my outburst.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //専門のお医者さまを　お捜しになって\nなるべく早く\n治療して　さしあげてください
 Yes. Always seek a vet treat your dogs.
 <$12>
@@ -1756,7 +1756,7 @@ Yes. Always seek a vet treat your dogs.
 
 
 //
-<$06><$15>
+<$15>
 //Yスケジュール
 YMemo＿
 <$00>
@@ -1766,7 +1766,7 @@ YMemo＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //スケジュールは何もありません
 There is nothing on schedule.
 <$12>
@@ -1778,7 +1778,7 @@ There is nothing on schedule.
 
 
 //成功終了
-<$06>Completed!
+Completed!
 <$00>
 
 
@@ -1787,7 +1787,7 @@ There is nothing on schedule.
 
 
 //期限切れ
-<$06>Expired!
+Expired!
 <$00>
 
 
@@ -1796,7 +1796,7 @@ There is nothing on schedule.
 
 
 //あと
-<$06>In＿
+In＿
 <$1E>
 //季節
 ＿seasons
@@ -1808,7 +1808,7 @@ There is nothing on schedule.
 
 
 //あと
-<$06>Deadline:＿
+Deadline:＿
 <$1E>
 //年
 Y/
@@ -1823,7 +1823,7 @@ S
 
 
 //あと
-<$06>In＿
+In＿
 <$1E>
 //年
 ＿years
@@ -1834,7 +1834,7 @@ S
 
 
 
-<$06><$16><$01>
+<$16><$01>
 //◇
 ◇
 <$0E><$1D><$02>
@@ -1848,7 +1848,7 @@ S
 
 
 //ファングを倒す
-<$06>Slay Fang
+Slay Fang
 <$00>
 
 
@@ -1857,7 +1857,7 @@ S
 
 
 //パンハイムからの依頼
-<$06>Assist Panheim
+Assist Panheim
 <$00>
 
 
@@ -1867,7 +1867,7 @@ S
 
 //<$1B>
 //カメの卵を手に入れる
-<$06>Snatch Turtle Eggs
+Snatch Turtle Eggs
 <$00>
 
 
@@ -1877,7 +1877,7 @@ S
 
 //<$1B>
 //プテラノの卵を手に入れる
-<$06>Snatch Pteranodon Eggs
+Snatch Pteranodon Eggs
 <$00>
 
 
@@ -1886,7 +1886,7 @@ S
 
 
 //遺産争いにケリをつける
-<$06>End the inheritance battle
+End the inheritance battle
 <$00>
 
 
@@ -1895,7 +1895,7 @@ S
 
 
 //ヤマダのために一肌脱ぐ
-<$06>Unload for Yamada
+Unload for Yamada
 <$00>
 
 
@@ -1904,7 +1904,7 @@ S
 
 
 //町のシンボルを見つけだす
-<$06>Find the village symbol
+Find the village symbol
 <$00>
 
 
@@ -1913,7 +1913,7 @@ S
 
 
 //ソフィアからの依頼
-<$06>Assist Sophia
+Assist Sophia
 <$00>
 
 
@@ -1922,7 +1922,7 @@ S
 
 
 //サチコ救出
-<$06>Rescue Sachiko
+Rescue Sachiko
 <$00>
 
 
@@ -1931,7 +1931,7 @@ S
 
 
 //ポロポロちゃんを助ける
-<$06>Save Nightshade
+Save Nightshade
 <$00>
 
 
@@ -1940,7 +1940,7 @@ S
 
 
 //アンジェラ捜し
-<$06>Find Angela
+Find Angela
 <$00>
 
 
@@ -1948,7 +1948,7 @@ S
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //カラゴラムのファングを倒し、その証拠を\nハーディアホテルのスペクターに渡す
 Defeat Fang in Karhagolem. Present proof to\n
 Spectre in Hardia Hotel.
@@ -1959,7 +1959,7 @@ Spectre in Hardia Hotel.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //マーブルポリスの
 Process meat from＿
 //<$1B>
@@ -1973,7 +1973,7 @@ Panheim in Hospico.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 Find up to 3＿
 //<$1B>
@@ -1987,7 +1987,7 @@ Park BB Ranch.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 Acquire 2＿
 //<$1B>
@@ -2001,7 +2001,7 @@ Battle Park BB Ranch.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「太郎の首輪」を見つけだし、ドギファの\nナターシャか、オーマン家３兄弟に渡す
 Locate Taro's Collar. Give it to Natasha or\n
 one of the 3 Aumann children in Dogyf\n
@@ -2014,7 +2014,7 @@ Heights.
 
 
 //６万
-<$06>60, 000
+60, 000
 <$00>
 
 
@@ -2023,10 +2023,10 @@ Heights.
 
 
 //あと
-<$06>another＿
-<$1E><$0F>
+another＿
+<$06><$1E><$0F>
 //000
-
+<$04>
 <$00>
 
 
@@ -2034,7 +2034,7 @@ Heights.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //Ｇファクトリーのヤマダのために\n
 Deposit＿
 <$1D>
@@ -2047,7 +2047,7 @@ Deposit＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //コシカタのシンボル「
 Find the＿
 //<$1B>
@@ -2061,7 +2061,7 @@ Return it to Poliska.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ソフィアのために、エターナの桜の木を\nどうにかして咲かせる
 Find out how to revive the sakura trees in\n
 Eterna for Sophia.
@@ -2072,7 +2072,7 @@ Eterna for Sophia.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //溶岩の中で育った動物の熱いウンチを\nエターナのソフィアに渡す
 Deliver Hot Dung from a lava-dwelling\n
 creature to Sophia in Eterna.
@@ -2083,7 +2083,7 @@ creature to Sophia in Eterna.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ラグナロッジのエモリに会いに行く
 Meet with Dr. Emori in Ragna Rim.
 <$00>
@@ -2093,13 +2093,13 @@ Meet with Dr. Emori in Ragna Rim.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「フロッピーと
 Take the Floppy Disc and＿
-
+<$06>
 //10
 10, 000
-
+<$04>
 //万￥」を持って、\nＧファクトリー入口１階、\n公衆電話の前に行く
 ￥ to the G Factory gate. Answer the payphone.
 <$00>
@@ -2109,13 +2109,13 @@ Take the Floppy Disc and＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「フロッピーと
 Take the Floppy Disc and＿
-
+<$06>
 //10
 10, 000
-
+<$04>
 //万￥」を持って、\nパラサイド入口１階、\n公衆電話の前に行く
 ￥ to the Paraside gate. Answer the payphone.
 <$00>
@@ -2125,13 +2125,13 @@ Take the Floppy Disc and＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「フロッピーと
 Take the Floppy Disc and＿
-
+<$06>
 //10
 10, 000
-
+<$04>
 //万￥」を持って、\nガレックスに行く
 ￥ to Galax.
 <$00>
@@ -2141,7 +2141,7 @@ Take the Floppy Disc and＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す
 Pick bloodberries in Flora Jam. Take them to\n
 Kevin and Nightshade in Rose Garden.
@@ -2152,7 +2152,7 @@ Kevin and Nightshade in Rose Garden.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //パラサイドの酒場にいるアンジェラを\n確認して、リナバレーのマリオに連絡する
 Look for Angela at the Paraside bar. Report\n
 your findings to Mario in Spurr Valley.
@@ -2163,7 +2163,7 @@ your findings to Mario in Spurr Valley.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //アンジェラを確認するために、\nオズポートホテルの酒場に行く
 Look for Angela at the OzPort Hotel bar.
 <$00>
@@ -2173,7 +2173,7 @@ Look for Angela at the OzPort Hotel bar.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //アンジェラを確認するために、\n西エリアのしけた町のホテルに行く
 Look for Angela at a hotel bar somewhere in\n
 West Area.
@@ -2184,7 +2184,7 @@ West Area.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //アンジェラを確認するために、\nドギファの舞台に行く
 Look for Angela at the theater stage in Dogyf\n
 Heights.
@@ -2195,7 +2195,7 @@ Heights.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リナバレーのマリオの母、\nアンジェラを追ってオズサットへ行く
 Chase Angela to OzSat! Mario will follow from\n
 Spurr Valley.

@@ -59,9 +59,9 @@ face4.obj
 
 
 #WRITE(PTR, $0058)
-<$06><CLEAR>
+<CLEAR>
 //
-<$01>
+<$04><$01>
 //道具
 Bag
 <$0E>
@@ -85,10 +85,10 @@ Dogs
 <$0E>
 //＿
 ＿
-<$01>
+<$01><$06>
 //T.C.
 TCU
-<$0E>
+<$0E><$04>
 //＿
 ＿
 <$01>
@@ -97,7 +97,7 @@ Info
 <$0E>
 //＿
 ＿
-<$01>
+<$01><$06>
 //ナビＳ
 NaviS
 <$0E><$12>
@@ -108,7 +108,7 @@ NaviS
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$01>
 //状＿態＿
@@ -134,8 +134,8 @@ Skills
 
 
 //\n
-<$06>\n
-<$01>
+\n
+<$06><$01>
 //スケジュール
 Memo
 <$02>
@@ -149,7 +149,7 @@ Memo
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$15>
 //W未登録で未捕獲＿…………………
@@ -192,7 +192,7 @@ KBLACK: Cannot be captured
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$15>
 //Wセレクトボタンで解説が出ます
@@ -217,7 +217,7 @@ WSELECT: Details
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$15>
 //W道具を使う・捨てることができます
@@ -229,7 +229,7 @@ WUse or trash items
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$15>
 //W装備を変更します
@@ -241,7 +241,7 @@ WChange part equipment
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$15>
 //W特殊能力を使います
@@ -253,7 +253,7 @@ WView and utilize party skills
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$15>
 //W一覧表示や隊列を変更することができます
@@ -265,7 +265,7 @@ WView status and change formation
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$15>
 //Wトランスカーゴ内の動物を見ます
@@ -277,7 +277,7 @@ WView animals in trans-cargo unit
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$15>
 //W動物図鑑や状態を見ることができます
@@ -289,7 +289,7 @@ WView animal bios and stats
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$15>
 //W地図を表示　ダンジョンでも使えます
@@ -301,7 +301,7 @@ WView world and dungeon maps
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$15>
 //WパーティのＨＰ等、状態を表示します
@@ -313,7 +313,7 @@ WView party HP, stats, etc.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$15>
 //Wポケット動物図鑑を見ます
@@ -325,7 +325,7 @@ WBoot the animal pocket bible
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$15>
 //W現在までに使用できる特殊能力の一覧です
@@ -337,7 +337,7 @@ WView list of usable skills
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$15>
 //Wイベントの進行状況を表示します
@@ -392,7 +392,7 @@ WView event progress
 
 
 #WRITE(PTR, $005A)
-<$06><CLEAR>
+<CLEAR>
 //野外で体力を回復する
 Recover health outdoors
 <$00>
@@ -402,7 +402,7 @@ Recover health outdoors
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自分で食料を作り出す
 Prepare your own food
 <$00>
@@ -412,7 +412,7 @@ Prepare your own food
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自分で装備を作り出す
 Craft your own equipment
 <$00>
@@ -422,7 +422,7 @@ Craft your own equipment
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //道具や動物の値段を見抜く
 Foresee item+animal prices
 <$00>
@@ -432,7 +432,7 @@ Foresee item+animal prices
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //夜襲を受けてもすぐ目が覚める
 Wake up immediately in an ambush
 <$00>
@@ -442,7 +442,7 @@ Wake up immediately in an ambush
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //何を食べてもゼンゼン平気
 Eat food without risk
 <$00>
@@ -452,7 +452,7 @@ Eat food without risk
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物の臭いをかぎわける
 Track nearby animals by scent
 <$00>
@@ -462,7 +462,7 @@ Track nearby animals by scent
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //何の根拠もない能力
 Use a woman's intuition
 <$00>
@@ -472,7 +472,7 @@ Use a woman's intuition
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物を捕獲するワナを作る
 Make traps to capture animals
 <$00>
@@ -482,7 +482,7 @@ Make traps to capture animals
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //特定の動物を調教して、猟犬にする
 Coax animals to serve as dogs
 <$00>
@@ -492,7 +492,7 @@ Coax animals to serve as dogs
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //鳥を呼びよせる
 Call like a bird
 <$00>
@@ -502,7 +502,7 @@ Call like a bird
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //植物の種類を見わける
 Identify various herbs
 <$00>
@@ -512,7 +512,7 @@ Identify various herbs
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物から姿を隠す
 Hide presence from animals
 <$00>
@@ -522,7 +522,7 @@ Hide presence from animals
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物をおびき寄せる
 Lure animals in
 <$00>
@@ -533,7 +533,7 @@ Lure animals in
 
 
 //野営
-<$06>Camp
+Camp
 <$00>
 
 
@@ -542,7 +542,7 @@ Lure animals in
 
 
 //食料加工
-<$06>Butcher
+Butcher
 <$00>
 
 
@@ -551,7 +551,7 @@ Lure animals in
 
 
 //装備加工
-<$06>Forger
+Forger
 <$00>
 
 
@@ -560,7 +560,7 @@ Lure animals in
 
 
 //値踏み
-<$06>Appraiser
+Appraiser
 <$00>
 
 
@@ -569,7 +569,7 @@ Lure animals in
 
 
 //飛び起き
-<$06>Night Owl
+Night Owl
 <$00>
 
 
@@ -578,7 +578,7 @@ Lure animals in
 
 
 //鉄の胃袋
-<$06>Glutton
+Glutton
 <$00>
 
 
@@ -588,7 +588,7 @@ Lure animals in
 
 //<$1B>
 //イヌの嗅覚
-<$06>Bloodhound
+Bloodhound
 <$00>
 
 
@@ -597,7 +597,7 @@ Lure animals in
 
 
 //女の勘
-<$06>Perceiver
+Perceiver
 <$00>
 
 
@@ -606,7 +606,7 @@ Lure animals in
 
 
 //ワナ製作
-<$06>Trapper
+Trapper
 <$00>
 
 
@@ -615,7 +615,7 @@ Lure animals in
 
 
 //ビシバシ調教
-<$06>Warden
+Warden
 <$00>
 
 
@@ -624,7 +624,7 @@ Lure animals in
 
 
 //口笛
-<$06>Whistler
+Whistler
 <$00>
 
 
@@ -633,7 +633,7 @@ Lure animals in
 
 
 //植物鑑定
-<$06>Botanist
+Botanist
 <$00>
 
 
@@ -642,7 +642,7 @@ Lure animals in
 
 
 //迷彩
-<$06>Masker
+Masker
 <$00>
 
 
@@ -651,7 +651,7 @@ Lure animals in
 
 
 //鳴きマネ
-<$06>Catcaller
+Catcaller
 <$00>
 
 
@@ -660,7 +660,7 @@ Lure animals in
 
 
 //（移動中）
-<$06>（Trek）
+（Trek）
 <$00>
 
 
@@ -669,7 +669,7 @@ Lure animals in
 
 
 //（野営時）
-<$06>(Camp)
+(Camp)
 <$00>
 
 
@@ -678,7 +678,7 @@ Lure animals in
 
 
 //（夜襲時）
-<$06>(Rest)
+(Rest)
 <$00>
 
 
@@ -687,7 +687,7 @@ Lure animals in
 
 
 //（常時）
-<$06>(Any)
+(Any)
 <$00>
 
 
@@ -696,7 +696,7 @@ Lure animals in
 
 
 //（メニュー右上）
-<$06>（Menu-R）
+（Menu-R）
 <$00>
 
 
@@ -705,7 +705,7 @@ Lure animals in
 
 
 //
-<$06><$15>
+<$15>
 //Y能力　
 YTech/
 <$1D>
@@ -723,7 +723,7 @@ YTech/
 
 
 
-<$06><$16><$01>
+<$16><$01>
 //○
 ○
 <$00>
@@ -733,7 +733,7 @@ YTech/
 
 
 
-<$06><$02>
+<$02>
 //168
 168
 <$0E>
@@ -745,10 +745,10 @@ YTech/
 
 
 #WRITE(PTR, $005C)
-<$06><$15>
+<$15>
 //W
 W
-
+<$04>
 //→
 →
 <$00>
@@ -759,7 +759,7 @@ W
 
 
 //→
-<$06>→
+→
 <$00>
 
 
@@ -768,7 +768,7 @@ W
 
 
 //↓
-<$06>↓
+↓
 <$00>
 
 
@@ -777,7 +777,7 @@ W
 
 
 //↑
-<$06>↑
+↑
 <$00>
 
 
@@ -785,10 +785,10 @@ W
 
 
 
-<$06><$15>
+<$15>
 //W
 W
-<$1D><$1D><$1E>
+<$04><$1D><$1D><$1E>
 //35
 35
 <$00>
@@ -798,7 +798,7 @@ W
 
 
 
-<$06><$15>
+<$15>
 //W
 W
 <$05>
@@ -812,7 +812,7 @@ W
 
 
 //→
-<$06>→
+→
 <$00>
 
 
@@ -832,7 +832,7 @@ W
 
 
 
-<$06><$15>
+<$15>
 //W
 W
 <$05><$1D><$1D><$1E>
@@ -843,9 +843,9 @@ W
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
-<$15>
+<$04><$15>
 //S攻撃力：
 SATK：
 <$15>
@@ -857,7 +857,7 @@ W
 <$09>
 //2\n
 2\n
-<$15>
+<$04><$15>
 //S守備力：
 SDEF：
 <$15>
@@ -869,7 +869,7 @@ W
 <$09>
 //2\n
 2\n
-<$15>
+<$04><$15>
 //S物理　火炎　冷気　電気\n
 SPHY FIR ICE ELC\n
 <$05><$15>
@@ -887,7 +887,7 @@ W
 <$0F><$1E><$09>
 //4\n
 4\n
-<$15>
+<$04><$15>
 //S液体　気体　光音　必殺\n
 SLQD GAS LGT DTH\n
 <$05><$15>
@@ -910,12 +910,12 @@ W
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$15>
 //W
 W
-<$01>
+<$04><$01>
 //＿＜＜
 ＿＜＜
 <$1D>
@@ -934,7 +934,7 @@ W
 
 
 
-<$06><$16><$01><$1D><$02>
+<$16><$01><$1D><$02>
 //112
 112
 <$0E>
@@ -946,10 +946,10 @@ W
 
 
 //
-<$06><$03>
+<$03>
 //0
 0
-<$16><$15>
+<$16><$04><$15>
 //b装備をはずす＿＿
 bREMOVE＿
 <$15>
@@ -963,7 +963,7 @@ W
 
 
 //
-<$06><$15>
+<$15>
 //Y装備　
 YGear/
 <$1D><$02>
@@ -976,7 +976,7 @@ YGear/
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //道具がいっぱいです
 The item bag is full!
 <$12>
@@ -989,7 +989,7 @@ The item bag is full!
 
 #WRITE(PTR, $005E)
 //遅＿い
-<$06>SLOW
+SLOW
 <$00>
 
 
@@ -998,7 +998,7 @@ The item bag is full!
 
 
 //普＿通
-<$06>DFLT
+DFLT
 <$00>
 
 
@@ -1007,7 +1007,7 @@ The item bag is full!
 
 
 //速＿い
-<$06>FAST
+FAST
 <$00>
 
 
@@ -1016,7 +1016,7 @@ The item bag is full!
 
 
 //最高速
-<$06>TRBO
+TRBO
 <$00>
 
 
@@ -1025,7 +1025,7 @@ The item bag is full!
 
 
 //遅＿い
-<$06>SLOW
+SLOW
 <$00>
 
 
@@ -1034,7 +1034,7 @@ The item bag is full!
 
 
 //普＿通
-<$06>DFLT
+DFLT
 <$00>
 
 
@@ -1043,7 +1043,7 @@ The item bag is full!
 
 
 //速＿い
-<$06>FAST
+FAST
 <$00>
 
 
@@ -1052,7 +1052,7 @@ The item bag is full!
 
 
 //最高速
-<$06>TRBO
+TRBO
 <$00>
 
 
@@ -1061,7 +1061,7 @@ The item bag is full!
 
 
 //ＯＮ＿
-<$06>ON
+ON
 <$00>
 
 
@@ -1070,7 +1070,7 @@ The item bag is full!
 
 
 //ＯＦＦ
-<$06>OFF
+OFF
 <$00>
 
 
@@ -1079,7 +1079,7 @@ The item bag is full!
 
 
 //表＿示
-<$06>SHOW
+SHOW
 <$00>
 
 
@@ -1088,7 +1088,7 @@ The item bag is full!
 
 
 //非表示
-<$06>HIDE
+HIDE
 <$00>
 
 
@@ -1097,7 +1097,7 @@ The item bag is full!
 
 
 //PAUSE
-<$06>＿-PAUSED-
+＿-PAUSED-
 <$00>
 
 
@@ -1105,7 +1105,7 @@ The item bag is full!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //文字表示：
 TxtSpd:＿
 <$01>
@@ -1116,7 +1116,7 @@ TxtSpd:＿
 
 
 
-<$06><$0E>
+<$0E>
 //\n戦闘表示：
 \n
 Combat:＿
@@ -1128,7 +1128,7 @@ Combat:＿
 
 
 
-<$06><$0E>
+<$0E>
 //\nマップ名：
 \n
 Map UI:＿
@@ -1147,11 +1147,11 @@ Map UI:＿
 
 
 //\n
-<$06>\n
-
+\n
+<$06>
 //ナレーション
 Story
-<$02>
+<$04><$02>
 //56：
 :＿
 <$01>
@@ -1168,7 +1168,7 @@ Story
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$15>
 //K留守番コール入電　
@@ -1203,7 +1203,7 @@ OK
 
 
 
-<$06><$15>
+<$15>
 //W逃走中
 WFled
 <$00>
@@ -1213,7 +1213,7 @@ WFled
 
 
 
-<$06><$15>
+<$15>
 //b戦闘不能
 bK.O.
 <$00>
@@ -1223,7 +1223,7 @@ bK.O.
 
 
 
-<$06><$15>
+<$15>
 //W異常なし
 WFine
 <$00>
@@ -1233,7 +1233,7 @@ WFine
 
 
 
-<$06><$15>
+<$15>
 //Mフェ
 MP
 <$00>
@@ -1243,7 +1243,7 @@ MP
 
 
 
-<$06><$15>
+<$15>
 //Y迷
 YC
 <$00>
@@ -1253,7 +1253,7 @@ YC
 
 
 
-<$06><$15>
+<$15>
 //S涙
 ST
 <$00>
@@ -1263,7 +1263,7 @@ ST
 
 
 
-<$06><$15>
+<$15>
 //G粘
 GS
 <$00>
@@ -1273,7 +1273,7 @@ GS
 
 
 
-<$06><$15>
+<$15>
 //M毒
 MV
 <$00>
@@ -1330,7 +1330,7 @@ S
 
 
 //
-<$06><$15>
+<$15>
 //Y　状　態　
 YStatus
 <$00>
@@ -1406,7 +1406,7 @@ YStatus
 
 
 #WRITE(PTR, $0062)
-<$06><CLEAR>
+<CLEAR>
 //水の中の戦闘でも不利にならない
 Prevents water disadvantage
 <$00>
@@ -1416,7 +1416,7 @@ Prevents water disadvantage
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //守りを捨て、全力で敵１体に攻撃
 Attack 1 foe, ignores defense
 <$00>
@@ -1426,7 +1426,7 @@ Attack 1 foe, ignores defense
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ＨＰを削り、正面の敵全てに大ダメージ
 Spend HP to attack the front
 <$00>
@@ -1436,7 +1436,7 @@ Spend HP to attack the front
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //敵１体にギ酸で攻撃（ダメージ継続）
 Burn 1 foe with acid(continuous)
 <$00>
@@ -1446,7 +1446,7 @@ Burn 1 foe with acid(continuous)
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //敵１体に小威力の火炎攻撃
 Attack 1 foe with small flame
 <$00>
@@ -1456,7 +1456,7 @@ Attack 1 foe with small flame
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //音波により敵１体を混乱させる
 Confuse 1 foe with sonic waves
 <$00>
@@ -1466,7 +1466,7 @@ Confuse 1 foe with sonic waves
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //呼吸を困難にし、敵１体の素早さ↓
 Choke 1 foe, lowering SPD
 <$00>
@@ -1476,7 +1476,7 @@ Choke 1 foe, lowering SPD
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //正面の地形に火を放つ（継続）
 Set front terrain ablaze(cont.)
 <$00>
@@ -1486,7 +1486,7 @@ Set front terrain ablaze(cont.)
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //追撃を受けず確実に逃走できる
 Ensure escape without pursuit
 <$00>
@@ -1496,7 +1496,7 @@ Ensure escape without pursuit
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //勇気を鼓舞し、自分の攻撃力↑
 Inspire courage, raising ATK
 <$00>
@@ -1506,7 +1506,7 @@ Inspire courage, raising ATK
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //守備力で攻撃、敵１体に体当り
 Attack 1 foe using DEF
 <$00>
@@ -1516,7 +1516,7 @@ Attack 1 foe using DEF
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //敵１体を踏みつけ、行動不能に（継続）
 Trample+bind 1 foe(continuous)
 <$00>
@@ -1526,7 +1526,7 @@ Trample+bind 1 foe(continuous)
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //辺り一面を火の海に変える（継続）
 Set entire terrain ablaze(cont.)
 <$00>
@@ -1536,7 +1536,7 @@ Set entire terrain ablaze(cont.)
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //味方１体の傷をなめ、ＨＰを回復
 Lick 1 ally's wounds, recover HP
 <$00>
@@ -1546,7 +1546,7 @@ Lick 1 ally's wounds, recover HP
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //敵１体の体力特性を自身にコピーする
 Copy 1 foe's stats
 <$00>
@@ -1556,7 +1556,7 @@ Copy 1 foe's stats
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //敵１体を抱き、電撃で行動不能に（継続）
 Bind 1 foe with electric hug(cont.)
 <$00>
@@ -1566,7 +1566,7 @@ Bind 1 foe with electric hug(cont.)
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //巨大な火柱で、敵１体を攻撃
 Burn 1 foe in mighty pillar of flame
 <$00>
@@ -1576,7 +1576,7 @@ Burn 1 foe in mighty pillar of flame
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //正面の敵全てを鋭い風で切り裂く攻撃
 Shred the front in sharp winds
 <$00>
@@ -1586,7 +1586,7 @@ Shred the front in sharp winds
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ＨＰが低下している時ほど強い攻撃
 Increase ATK when HP is low
 <$00>
@@ -1596,7 +1596,7 @@ Increase ATK when HP is low
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //正面の敵全てを竜巻で吹き飛ばす
 Blow away front in tornado
 <$00>
@@ -1606,7 +1606,7 @@ Blow away front in tornado
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //敵１体を丸飲み、その力を自分の力に
 Swallow 1 foe and absorb their power
 <$00>
@@ -1616,7 +1616,7 @@ Swallow 1 foe and absorb their power
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ステロイドで、味方１体の素早さ↑
 Raise 1 ally's SPD with steroids
 <$00>
@@ -1626,7 +1626,7 @@ Raise 1 ally's SPD with steroids
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //針状の体部で、敵１体に必殺の攻撃
 Maul 1 foe with deadly spines
 <$00>
@@ -1636,7 +1636,7 @@ Maul 1 foe with deadly spines
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //鎌状の体部で、敵１体を切り裂く攻撃
 Cut down 1 foe with sickles
 <$00>
@@ -1646,7 +1646,7 @@ Cut down 1 foe with sickles
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //正面の地形を砂地に変える（継続）
 Desertify front terrain(continuous)
 <$00>
@@ -1656,7 +1656,7 @@ Desertify front terrain(continuous)
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //毒を吹きかけ、敵の守備力↓
 Spray poison on foes, lower DEF
 <$00>
@@ -1666,7 +1666,7 @@ Spray poison on foes, lower DEF
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //臭いガスで、正面の敵全ての攻撃力↓
 Choke front with odorous gas, lower ATK
 <$00>
@@ -1676,7 +1676,7 @@ Choke front with odorous gas, lower ATK
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //皮フを硬化させ、自分の守備力↑
 Harden skin, raise DEF
 <$00>
@@ -1686,7 +1686,7 @@ Harden skin, raise DEF
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //糸をからめ、敵１体を行動不能に（継続）
 Tangle and bind 1 foe in web(cont.)
 <$00>
@@ -1696,7 +1696,7 @@ Tangle and bind 1 foe in web(cont.)
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //敵１体の急所を攻撃、ハズレも多い
 Attack 1 foe's weakpoint, low hit rate
 <$00>
@@ -1706,7 +1706,7 @@ Attack 1 foe's weakpoint, low hit rate
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自分のＨＰを大きく回復
 Greatly recover own HP
 <$00>
@@ -1716,7 +1716,7 @@ Greatly recover own HP
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //正面の敵全てに　弱い超音波の攻撃
 Attack front with small sonic wave
 <$00>
@@ -1726,7 +1726,7 @@ Attack front with small sonic wave
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //尻尾状の体部で、敵１体をたたく攻撃
 Attack 1 foe with tail
 <$00>
@@ -1736,7 +1736,7 @@ Attack 1 foe with tail
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //敵味方全てを電撃でしびれさせる攻撃
 Shock and numb all combatants
 <$00>
@@ -1746,7 +1746,7 @@ Shock and numb all combatants
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //正面の敵のＢＰ使用攻撃を封じる
 Attack front, disable BP usage
 <$00>
@@ -1756,7 +1756,7 @@ Attack front, disable BP usage
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //墨を吐き、正面の敵全ての命中率↓
 Spit ink at front, lower HIT
 <$00>
@@ -1766,7 +1766,7 @@ Spit ink at front, lower HIT
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //敵１体のＨＰを吸収、自分のＨＰを回復
 Absorb 1 foe's HP for healing
 <$00>
@@ -1776,7 +1776,7 @@ Absorb 1 foe's HP for healing
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //強い光で視覚を奪い、敵１体の素早さ↓
 Stun foes with glaring flash, lower SPD
 <$00>
@@ -1793,7 +1793,7 @@ Stun foes with glaring flash, lower SPD
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //敵１体を締め上げ行動不能に（継続）
 Constrict 1 foe(continuous)
 <$00>
@@ -1803,7 +1803,7 @@ Constrict 1 foe(continuous)
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //正面の敵全てを強力な冷気で攻撃
 Attack front with chilling breath
 <$00>
@@ -1813,7 +1813,7 @@ Attack front with chilling breath
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //正面の地形を雪原に変える（継続）
 Bury front terrain in snow(cont.)
 <$00>
@@ -1823,7 +1823,7 @@ Bury front terrain in snow(cont.)
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //敵１体の懐へ突撃、互いに数度の攻撃
 Charge 1 foe and engage in ram fight
 <$00>
@@ -1833,7 +1833,7 @@ Charge 1 foe and engage in ram fight
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //正面の敵全てを激しい吹雪で攻撃
 Attack front with heavy blizzard
 <$00>
@@ -1843,13 +1843,13 @@ Attack front with heavy blizzard
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //オスの動物に対する色仕掛け…
 Attempt to seduce male foes...
-
+<$06>
 //？？
 ???
-
+<$04>
 <$00>
 
 
@@ -1878,7 +1878,7 @@ Attempt to seduce male foes...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //仲間１体のＨＰ（少）・状態を回復
 Restory 1 ally's HP(sml)+Status
 <$00>
@@ -1888,7 +1888,7 @@ Restory 1 ally's HP(sml)+Status
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //うなり声で格下の敵を追い払う
 Scare off small foes with a growl
 <$00>
@@ -1898,7 +1898,7 @@ Scare off small foes with a growl
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //近くの動物を呼び集め、味方に加える
 Call nearby animals into battle
 <$00>
@@ -1908,7 +1908,7 @@ Call nearby animals into battle
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //猟犬に８種の命令（継続）を与える
 Give 8 commands to the dog (cont.)
 <$00>
@@ -1918,7 +1918,7 @@ Give 8 commands to the dog (cont.)
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //カーゴ内の動物を味方に加える
 Invite a TCU animal into battle
 <$00>
@@ -1928,7 +1928,7 @@ Invite a TCU animal into battle
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンがリンダを抱えて一緒に逃走する
 Grab Linda and flee together
 <$00>
@@ -2043,7 +2043,7 @@ Grab Linda and flee together
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //放電により敵１体に　大きなダメージ
 Electrocute 1 foe
 <$00>
@@ -2074,7 +2074,7 @@ Electrocute 1 foe
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //敵１体を連続して攻撃
 Attack 1 foe (continuous)
 <$00>
@@ -2126,7 +2126,7 @@ Attack 1 foe (continuous)
 
 
 
-<$06><$15>
+<$15>
 //W単体攻撃Ａ
 WMeleeA
 <$00>
@@ -2136,7 +2136,7 @@ WMeleeA
 
 
 
-<$06><$15>
+<$15>
 //W単体攻撃Ｂ
 WMeleeB
 <$00>
@@ -2146,7 +2146,7 @@ WMeleeB
 
 
 
-<$06><$15>
+<$15>
 //W複数攻撃Ａ
 WRangedＡ
 <$00>
@@ -2156,7 +2156,7 @@ WRangedＡ
 
 
 
-<$06><$15>
+<$15>
 //W複数攻撃Ｂ
 WRangedB
 <$00>
@@ -2166,7 +2166,7 @@ WRangedB
 
 
 
-<$06><$15>
+<$15>
 //W味方強化他
 WBuff
 <$00>
@@ -2176,7 +2176,7 @@ WBuff
 
 
 
-<$06><$15>
+<$15>
 //W攻撃補助
 WAssist
 <$00>
@@ -2186,7 +2186,7 @@ WAssist
 
 
 
-<$06><$15>
+<$15>
 //W怪物能力
 WCreature
 <$00>
@@ -2196,7 +2196,7 @@ WCreature
 
 
 
-<$06><$15>
+<$15>
 //W人間能力
 WField
 <$00>
@@ -2206,7 +2206,7 @@ WField
 
 
 
-<$06><$15>
+<$15>
 //W単体攻撃Ａ
 WMeleeA
 <$00>
@@ -2216,7 +2216,7 @@ WMeleeA
 
 
 
-<$06><$15>
+<$15>
 //W単体攻撃Ｂ
 WMeleeB
 <$00>
@@ -2226,7 +2226,7 @@ WMeleeB
 
 
 
-<$06><$15>
+<$15>
 //W複数攻撃
 WRanged
 <$00>
@@ -2236,7 +2236,7 @@ WRanged
 
 
 
-<$06><$15>
+<$15>
 //W自己防衛
 WDefense
 <$00>
@@ -2246,7 +2246,7 @@ WDefense
 
 
 
-<$06><$15>
+<$15>
 //W味方強化他
 WBuff
 <$00>
@@ -2256,7 +2256,7 @@ WBuff
 
 
 
-<$06><$15>
+<$15>
 //W攻撃補助
 WAssist
 <$00>
@@ -2266,7 +2266,7 @@ WAssist
 
 
 
-<$06><$15>
+<$15>
 //W怪物能力
 WCreature
 <$00>
@@ -2276,7 +2276,7 @@ WCreature
 
 
 
-<$06><$15>
+<$15>
 //W人間能力
 WField
 <$00>
@@ -2286,7 +2286,7 @@ WField
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //正面の敵全てに放射能を浴びせる攻撃
 Strike the front with radiation
 <$00>
@@ -2310,7 +2310,7 @@ Strike the front with radiation
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //正面の敵全てに効く最大級の風攻撃
 Strike the front with a tornado
 <$00>
@@ -2362,7 +2362,7 @@ Strike the front with a tornado
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //敵１体を一瞬で抹殺する光線攻撃
 Kill 1 foe with a beam shot
 <$00>
@@ -2372,7 +2372,7 @@ Kill 1 foe with a beam shot
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //？？？
 ???
 <$00>
@@ -2382,7 +2382,7 @@ Kill 1 foe with a beam shot
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //？？？
 ???
 <$00>
@@ -2392,7 +2392,7 @@ Kill 1 foe with a beam shot
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //？？？
 ???
 <$00>
@@ -2402,7 +2402,7 @@ Kill 1 foe with a beam shot
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //？？？
 ???
 <$00>
@@ -2412,7 +2412,7 @@ Kill 1 foe with a beam shot
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //？？？
 ???
 <$00>
@@ -2422,7 +2422,7 @@ Kill 1 foe with a beam shot
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //？？？
 ???
 <$00>
@@ -2432,7 +2432,7 @@ Kill 1 foe with a beam shot
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //？？？
 ???
 <$00>
@@ -2442,7 +2442,7 @@ Kill 1 foe with a beam shot
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //？？？
 ???
 <$00>
@@ -2459,7 +2459,7 @@ Kill 1 foe with a beam shot
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //敵１体にダメージ＋行動不能（継続）
 Damage+bind 1 foe(continuous)
 <$00>
@@ -2469,7 +2469,7 @@ Damage+bind 1 foe(continuous)
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //正面の敵全てに音波攻撃＋マヒ
 Sonic wave+paralysis to the front
 <$00>
@@ -2479,7 +2479,7 @@ Sonic wave+paralysis to the front
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //正面の敵全てに強力な音波を放つ攻撃
 Powerful sonic wave to the front
 <$00>
@@ -2489,7 +2489,7 @@ Powerful sonic wave to the front
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //正面の敵全てに毒攻撃（ダメージ継続）
 Poison attack to the front(cont.)
 <$00>
@@ -2500,7 +2500,7 @@ Poison attack to the front(cont.)
 
 
 //
-<$06><$15>
+<$15>
 //Y特殊能力　
 YSkills
 <$1D>
@@ -2519,7 +2519,7 @@ YSkills
 
 
 // 
-<$06>
+
 <$00>
 
 
@@ -2541,7 +2541,7 @@ W
 
 
 
-<$06><$09>
+<$09>
 //4??
 4??
 <$09>
@@ -2550,7 +2550,7 @@ W
 <$15>
 //W
 W
-<$01>
+<$04><$01>
 //？？？
 ???
 <$00>
@@ -2658,7 +2658,7 @@ W\n
 
 #WRITE(PTR, $0068)
 //使用制限不明
-<$06>Range of use unknown
+Range of use unknown
 <$00>
 
 
@@ -2667,7 +2667,7 @@ W\n
 
 
 //移動・戦闘中使用可
-<$06>For trek+combat use
+For trek+combat use
 <$00>
 
 
@@ -2676,7 +2676,7 @@ W\n
 
 
 //戦闘不能から回復
-<$06>K.O. recovery
+K.O. recovery
 <$00>
 
 
@@ -2685,7 +2685,7 @@ W\n
 
 
 //ＨＰ回復
-<$06>HP recovery
+HP recovery
 <$00>
 
 
@@ -2694,7 +2694,7 @@ W\n
 
 
 //戦闘中はギ酸
-<$06>Acid in combat
+Acid in combat
 <$00>
 
 
@@ -2703,7 +2703,7 @@ W\n
 
 
 //迷走
-<$06>Off course
+Off course
 <$00>
 
 
@@ -2712,7 +2712,7 @@ W\n
 
 
 //ＢＰ回復
-<$06>BP recovery
+BP recovery
 <$00>
 
 
@@ -2721,7 +2721,7 @@ W\n
 
 
 //ＢＰ０に
-<$06>BP to 0
+BP to 0
 <$00>
 
 
@@ -2730,7 +2730,7 @@ W\n
 
 
 //ＨＰの最大値ＵＰ
-<$06>Boost max HP
+Boost max HP
 <$00>
 
 
@@ -2739,7 +2739,7 @@ W\n
 
 
 //攻撃力の最大値ＵＰ
-<$06>Boost max ATK
+Boost max ATK
 <$00>
 
 
@@ -2748,7 +2748,7 @@ W\n
 
 
 //守備力の最大値ＵＰ
-<$06>Boost max DEF
+Boost max DEF
 <$00>
 
 
@@ -2757,7 +2757,7 @@ W\n
 
 
 //素早さの最大値ＵＰ
-<$06>Boost max SPD
+Boost max SPD
 <$00>
 
 
@@ -2766,7 +2766,7 @@ W\n
 
 
 //フェロモン
-<$06>Pheromones
+Pheromones
 <$00>
 
 
@@ -2775,7 +2775,7 @@ W\n
 
 
 //迷走
-<$06>Off course
+Off course
 <$00>
 
 
@@ -2784,7 +2784,7 @@ W\n
 
 
 //ＨＰ回復
-<$06>HP recovery
+HP recovery
 <$00>
 
 
@@ -2793,7 +2793,7 @@ W\n
 
 
 //毒
-<$06>Poison
+Poison
 <$00>
 
 
@@ -2802,7 +2802,7 @@ W\n
 
 
 //ＨＰ、ＢＰ全快
-<$06>HP+BP full recovery
+HP+BP full recovery
 <$00>
 
 
@@ -2811,7 +2811,7 @@ W\n
 
 
 //効果不明
-<$06>Effects unknown
+Effects unknown
 <$00>
 
 
@@ -2819,7 +2819,7 @@ W\n
 
 
 
-<$06><$1D>
+<$1D>
 //／薬用植物\n
 /Herb\n
 <$1D>
@@ -2836,7 +2836,7 @@ W\n
 
 
 
-<$06><$1D>
+<$1D>
 //／薬用植物\n効果不明／危険度不明\n
 /Herb\n
 Effects unknown／Risk:＿TBD\n
@@ -2848,7 +2848,7 @@ Effects unknown／Risk:＿TBD\n
 
 
 
-<$06><$1D>
+<$1D>
 //／医薬品\n効果不明／危険度不明\n
 /Drug\n
 Effects unknown／Risk:＿TBD\n
@@ -2860,7 +2860,7 @@ Effects unknown／Risk:＿TBD\n
 
 
 
-<$06><$1D>
+<$1D>
 //／医薬品\nＨＰ平均
 /Drug\n
 <$1E>
@@ -2874,7 +2874,7 @@ Effects unknown／Risk:＿TBD\n
 
 
 
-<$06><$1D>
+<$1D>
 //／医薬品\n攻撃力ＵＰ／危険度
 /Drug\n
 ATK boost／Risk:＿
@@ -2889,7 +2889,7 @@ For combat use only
 
 
 
-<$06><$1D>
+<$1D>
 //／医薬品\n状態異常の回復／危険度０％\n
 /Drug\n
 Status recovery／Risk:＿0%\n
@@ -2902,7 +2902,7 @@ Status recovery／Risk:＿0%\n
 
 
 //動物が寄ってくる
-<$06>Lures animals in
+Lures animals in
 <$00>
 
 
@@ -2911,7 +2911,7 @@ Status recovery／Risk:＿0%\n
 
 
 //全員のＨＰ、ＢＰ回復
-<$06>Party HP+BP recovery
+Party HP+BP recovery
 <$00>
 
 
@@ -2920,7 +2920,7 @@ Status recovery／Risk:＿0%\n
 
 
 //異常な臭いの中和
-<$06>Neutralizes strange odors
+Neutralizes strange odors
 <$00>
 
 
@@ -2929,7 +2929,7 @@ Status recovery／Risk:＿0%\n
 
 
 //据え置き型捕獲具
-<$06>Stationary capture device
+Stationary capture device
 <$00>
 
 
@@ -2938,7 +2938,7 @@ Status recovery／Risk:＿0%\n
 
 
 //動物に気づかれない
-<$06>Hides presence from animals
+Hides presence from animals
 <$00>
 
 
@@ -2947,7 +2947,7 @@ Status recovery／Risk:＿0%\n
 
 
 //移動中使用可
-<$06>For trek use
+For trek use
 <$00>
 
 
@@ -2956,7 +2956,7 @@ Status recovery／Risk:＿0%\n
 
 
 //洞窟等からの脱出
-<$06>Escape from caves, dungeons, etc.
+Escape from caves, dungeons, etc.
 <$00>
 
 
@@ -2965,7 +2965,7 @@ Status recovery／Risk:＿0%\n
 
 
 //移動中使用可　ワープ後は機能停止
-<$06>For trek use, breaks after warp
+For trek use, breaks after warp
 <$00>
 
 
@@ -2974,7 +2974,7 @@ Status recovery／Risk:＿0%\n
 
 
 //町への帰還
-<$06>Return to town
+Return to town
 <$00>
 
 
@@ -2983,7 +2983,7 @@ Status recovery／Risk:＿0%\n
 
 
 //地上の移動中使用可
-<$06>For outside trek use
+For outside trek use
 <$00>
 
 
@@ -2991,7 +2991,7 @@ Status recovery／Risk:＿0%\n
 
 
 
-<$06><$1D>
+<$1D>
 //／狩猟用品\n
 ／Hunting gear\n
 <$1D>
@@ -3009,7 +3009,7 @@ Status recovery／Risk:＿0%\n
 
 
 //バードライン無料
-<$06>Free birdline pass
+Free birdline pass
 <$00>
 
 
@@ -3018,7 +3018,7 @@ Status recovery／Risk:＿0%\n
 
 
 //バードライン利用時携帯
-<$06>Mobile birdline pager
+Mobile birdline pager
 <$00>
 
 
@@ -3027,7 +3027,7 @@ Status recovery／Risk:＿0%\n
 
 
 //ゴミ
-<$06>Trash
+Trash
 <$00>
 
 
@@ -3036,7 +3036,7 @@ Status recovery／Risk:＿0%\n
 
 
 //抽選までワクワク
-<$06>Save for the lottery!
+Save for the lottery!
 <$00>
 
 
@@ -3045,7 +3045,7 @@ Status recovery／Risk:＿0%\n
 
 
 //「地球」が載っている本
-<$06>Book about "Earth"
+Book about "Earth"
 <$00>
 
 
@@ -3054,7 +3054,7 @@ Status recovery／Risk:＿0%\n
 
 
 //プレゼント
-<$06>Present
+Present
 <$00>
 
 
@@ -3062,7 +3062,7 @@ Status recovery／Risk:＿0%\n
 
 
 
-<$06><$1D>
+<$1D>
 //／その他\n
 ／Other\n
 <$1D>
@@ -3076,7 +3076,7 @@ Status recovery／Risk:＿0%\n
 
 
 
-<$06><$1D>
+<$1D>
 //／動物の卵\nＨＰ平均５０回復／危険度０％\n
 ／Animal egg\n
 50＿avg HP recovery/Risk:＿0%\n
@@ -3088,7 +3088,7 @@ Status recovery／Risk:＿0%\n
 
 
 
-<$06><$1D>
+<$1D>
 //／食用肉類\n効果不明／危険度７５％\n
 ／Edible meat\n
 Effects unknown／Risk:＿75%
@@ -3100,7 +3100,7 @@ Effects unknown／Risk:＿75%
 
 
 
-<$06><$1D>
+<$1D>
 //／一般食品\nＨＰ回復／危険度０％\n
 ／Foodstuffs\n
 HP recovery／Risk:＿0%
@@ -3112,7 +3112,7 @@ HP recovery／Risk:＿0%
 
 
 
-<$06><$1D>
+<$1D>
 //／鍵\n特定の扉を解錠／危険度０％\n移動中のみ使用可
 ／Key\n
 Unlocks a door／Risk:＿0%\n
@@ -3124,7 +3124,7 @@ For trek use only
 
 
 
-<$06><$1D>
+<$1D>
 //／高級品\n金持ち気分\n移動中、たまに眺める
 ／Luxury item\n
 Makes you feel rich\n
@@ -3136,7 +3136,7 @@ No use, but still cool
 
 
 
-<$06><$1D>
+<$1D>
 //／貴重品\nなくすと後悔する
 ／Valuables\n
 Better not lose this!
@@ -3148,7 +3148,7 @@ Better not lose this!
 
 
 //\n人に渡す
-<$06>\n
+\n
 For delivery
 <$00>
 
@@ -3157,7 +3157,7 @@ For delivery
 
 
 
-<$06><$1D>
+<$1D>
 //／珍品\n効果不明\n
 ／Rare item\n
 Effects unknown\n
@@ -3169,7 +3169,7 @@ Effects unknown\n
 
 
 
-<$06><$1D>
+<$1D>
 //／動物の糞\n効果不明／危険度不明\n
 /Animal feces\n
 Effects unknown／Risk:＿Unknown\n
@@ -3181,7 +3181,7 @@ Effects unknown／Risk:＿Unknown\n
 
 
 
-<$06><$1D>
+<$1D>
 //／食用肉類\nＨＰ平均
 ／Meat\n
 <$1E>
@@ -3199,7 +3199,7 @@ For trek+combat use
 
 
 //特殊武器装備
-<$06>Unique weapon
+Unique weapon
 <$00>
 
 
@@ -3208,7 +3208,7 @@ For trek+combat use
 
 
 //武器装備
-<$06>Weapon
+Weapon
 <$00>
 
 
@@ -3216,7 +3216,7 @@ For trek+combat use
 
 
 
-<$06><$1D>
+<$1D>
 //／
 ／
 <$1D>
@@ -3238,7 +3238,7 @@ Equippable in trek+combat
 
 
 //胴体装備
-<$06>Bodywear
+Bodywear
 <$00>
 
 
@@ -3247,7 +3247,7 @@ Equippable in trek+combat
 
 
 //脚部装備
-<$06>Legwear
+Legwear
 <$00>
 
 
@@ -3256,7 +3256,7 @@ Equippable in trek+combat
 
 
 //頭部装備
-<$06>Headwear
+Headwear
 <$00>
 
 
@@ -3264,7 +3264,7 @@ Equippable in trek+combat
 
 
 
-<$06><$1D>
+<$1D>
 //／
 ／
 <$1D>
@@ -3285,7 +3285,7 @@ Equippable in trek+combat
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$15>
 //W未登録で未捕獲＿…………………
@@ -3328,7 +3328,7 @@ KBLACK: Cannot be captured
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 //
 <$05><$15>
@@ -3382,7 +3382,7 @@ SPD
 
 #WRITE(PTR, $006A)
 //
-<$06><$15>
+<$15>
 //Y道具
 YBag＿
 <$1D>
@@ -3393,7 +3393,7 @@ YBag＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //アイテムパックには　何もない
 The item bag is empty!
 <$12>
@@ -3404,7 +3404,7 @@ The item bag is empty!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$01>
 //使＿う
@@ -3435,7 +3435,7 @@ Trash
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$01>
 //食べる
@@ -3478,7 +3478,7 @@ Trash
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$01>
 //装＿備
@@ -3509,7 +3509,7 @@ Trash
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //電波受信機は\nここでは　起動しない
 The radar has no signal here.
 <$12>
@@ -3521,7 +3521,7 @@ The radar has no signal here.
 
 
 //ケンは　思い出の本を開いた…
-<$06>Ken opened the sentimental book...
+Ken opened the sentimental book...
 <$12>
 <$00>
 
@@ -3530,7 +3530,7 @@ The radar has no signal here.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //地球の写真が　載っている、\n子供の頃　リンダに\n何度も見せられた　雑誌だ
 It's a magazine with photos of Earth.\n
 Linda was glued to this as a kid.
@@ -3542,7 +3542,7 @@ Linda was glued to this as a kid.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1D>
 //は\n捨てられません
@@ -3556,7 +3556,7 @@ cannot be trashed.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 Trash＿
 <$1D>
@@ -3579,7 +3579,7 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは　
@@ -3598,7 +3598,7 @@ U's mouth and put in the＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 It tasted like＿
 <$1D>
@@ -3612,7 +3612,7 @@ It tasted like＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Tは　鼻をかんだ
@@ -3627,13 +3627,13 @@ T＿blew their nose.
 
 #WRITE(PTR, $006C)
 //
-<$06><$15>
+<$15>
 //Y
 Y
-
+<$06>
 //T.C.
 TCU＿
-<$1D>
+<$04><$1D>
 <$00>
 
 
@@ -3641,16 +3641,16 @@ TCU＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //トランスカーゴ（Ｔ
 There are no animals inside\n
-//
+//<$06>
 //.
-//
+//<$04>
 //Ｃ
-//
+//<$06>
 //.）
-
+<$04>
 //に\n動物は　収容されていない
 the trans-cargo unit(TCU).
 <$12>
@@ -3661,7 +3661,7 @@ the trans-cargo unit(TCU).
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$01>
 //入換え
@@ -3686,7 +3686,7 @@ Release
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 Release
 <$1D>
@@ -3717,7 +3717,7 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑の　有効範囲内に\n捕獲可能な動物は　存在しない
 There are no notable animals within range of\n
 the Animal Bible.
@@ -3729,7 +3729,7 @@ the Animal Bible.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「方向キー」デ動物ヲ選択シテクダサイ
 D-Pad: Select animal
 <$00>
@@ -3745,7 +3745,7 @@ D-Pad: Select animal
 
 
 
-<$06><$15>
+<$15>
 //b♂
 b♂
 <$14>
@@ -3756,7 +3756,7 @@ b♂
 
 
 
-<$06><$15>
+<$15>
 //R♀
 R♀
 <$14>
@@ -3767,7 +3767,7 @@ R♀
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$15>
 //K
@@ -3779,7 +3779,7 @@ K
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$15>
 //W
@@ -3791,13 +3791,13 @@ W
 
 
 
-<$06><$1D><$1D><$02>
+<$1D><$1D><$02>
 //174
 174
-
+<$06>
 //：
 ：＿
-
+<$04>
 <$00>
 
 
@@ -3806,11 +3806,11 @@ W
 
 
 //？？？？
-<$06>????
-<$1D>
+????
+<$1D><$06>
 //：
 ：＿
-
+<$04>
 <$00>
 
 
@@ -3819,7 +3819,7 @@ W
 
 
 //？？？
-<$06>???
+???
 <$00>
 
 
@@ -3827,7 +3827,7 @@ W
 
 
 
-<$06><$1D>
+<$1D>
 //タイプ
 ＿type
 <$00>
@@ -3838,7 +3838,7 @@ W
 
 
 //？？？
-<$06>???
+???
 <$00>
 
 
@@ -3847,11 +3847,11 @@ W
 
 
 //生息
-<$06>Habitat
-
+Habitat
+<$06>
 //:
 ：＿
-<$1D>
+<$04><$1D>
 <$00>
 
 
@@ -3859,7 +3859,7 @@ W
 
 
 
-<$06><$1E>
+<$1E>
 //034
 034
 <$00>
@@ -3872,7 +3872,7 @@ W
 <$06>
 //??
 ??
-
+<$04>
 <$00>
 
 
@@ -3881,15 +3881,15 @@ W
 
 
 //レベル
-<$06>LVL
-
+LVL
+<$06>
 //：
-<$1D>
+<$04><$1D>
 //＿希少価値
 ＿Class
-
+<$06>
 //：
-<$1D>
+<$04><$1D>
 <$00>
 
 
@@ -3897,7 +3897,7 @@ W
 
 
 
-<$06><$1E>
+<$1E>
 //034
 034
 <$00>
@@ -3910,7 +3910,7 @@ W
 <$06>
 //???
 ???
-
+<$04>
 <$00>
 
 
@@ -3918,7 +3918,7 @@ W
 
 
 
-<$06><$1E>
+<$1E>
 //034
 034
 <$00>
@@ -3931,7 +3931,7 @@ W
 <$06>
 //???
 ???
-
+<$04>
 <$00>
 
 
@@ -3939,7 +3939,7 @@ W
 
 
 
-<$06><$1E>
+<$1E>
 //034
 034
 <$00>
@@ -3952,7 +3952,7 @@ W
 <$06>
 //???
 ???
-
+<$04>
 <$00>
 
 
@@ -3961,24 +3961,24 @@ W
 
 
 //攻撃力
-<$06>ATK
-
+ATK
+<$06>
 //：
 :＿
-<$1D>
+<$04><$1D>
 //＿守備力
 ＿DEF
-
+<$06>
 //：
 ：＿
-<$1D>
+<$04><$1D>
 //\n素早さ
 \n
 SPD
-
+<$06>
 //：
 ：＿
-<$1D>
+<$04><$1D>
 //\n
 \n
 <$00>
@@ -3988,7 +3988,7 @@ SPD
 
 
 
-<$06><$1E>
+<$1E>
 //034
 034
 <$00>
@@ -4001,7 +4001,7 @@ SPD
 <$06>
 //???
 ???
-
+<$04>
 <$00>
 
 
@@ -4009,7 +4009,7 @@ SPD
 
 
 
-<$06><$1E>
+<$1E>
 //034
 034
 <$00>
@@ -4022,7 +4022,7 @@ SPD
 <$06>
 //???
 ???
-
+<$04>
 <$00>
 
 
@@ -4031,7 +4031,7 @@ SPD
 
 
 //特になし
-<$06>＿N/A
+＿N/A
 <$00>
 
 
@@ -4042,7 +4042,7 @@ SPD
 <$06>
 //???
 ???
-
+<$04>
 <$00>
 
 
@@ -4054,19 +4054,19 @@ SPD
 <$06>
 //：
 ：＿
-<$1D>
+<$04><$1D>
 //＿ＢＰ
-
+<$06>
 //：
 ：＿
-<$1D>
+<$04><$1D>
 //\n特殊能力
 \n
 Skills
-
+<$06>
 //：
 ：＿
-<$1D>
+<$04><$1D>
 <$00>
 
 
@@ -4074,7 +4074,7 @@ Skills
 
 
 
-<$06><$15>
+<$15>
 //W登録済み
 WFiled!
 <$00>
@@ -4084,7 +4084,7 @@ WFiled!
 
 
 
-<$06><$15>
+<$15>
 //Y未登録
 YNot filed
 <$14>
@@ -4095,7 +4095,7 @@ YNot filed
 
 
 
-<$06><$15>
+<$15>
 //R未捕獲
 RNot captured
 <$14>
@@ -4106,13 +4106,13 @@ RNot captured
 
 
 
-<$06><$1D>
+<$1D>
 //箱船
 Ark
-
+<$06>
 //：
 ：＿
-<$1D>
+<$04><$1D>
 <$00>
 
 
@@ -4120,7 +4120,7 @@ Ark
 
 
 
-<$06><$15>
+<$15>
 //W○ボタンで♂♀表示切り替え
 W○ button: View ♂/♀
 <$14>
@@ -4132,7 +4132,7 @@ W○ button: View ♂/♀
 
 
 #WRITE(PTR, $0070)
-<$06><$19>
+<$19>
 //1<CLEAR>
 <$1D>
 //は　野外で体力を\n回復する「野営」の\n能力を　身につけた∥
@@ -4145,7 +4145,7 @@ W○ button: View ♂/♀
 
 
 
-<$06><$19>
+<$19>
 //1<CLEAR>
 <$1D>
 //は　野営中に\n動物から　食料を自分で作る\n「食料加工」の能力を　身につけた∥
@@ -4158,7 +4158,7 @@ W○ button: View ♂/♀
 
 
 
-<$06><$19>
+<$19>
 //1<CLEAR>
 <$1D>
 //は　野営中に\n動物から　装備を自分で作る\n「装備加工」の能力を　身につけた∥
@@ -4171,7 +4171,7 @@ W○ button: View ♂/♀
 
 
 
-<$06><$19>
+<$19>
 //1<CLEAR>
 <$1D>
 //は　道具や動物の\n値段を見抜く「値踏み」の\n能力を　身につけた∥
@@ -4184,7 +4184,7 @@ W○ button: View ♂/♀
 
 
 
-<$06><$19>
+<$19>
 //1<CLEAR>
 <$1D>
 //は　夜襲を受けても\nすぐ目が覚める「飛び起き」の\n能力を　身につけた∥
@@ -4197,7 +4197,7 @@ W○ button: View ♂/♀
 
 
 
-<$06><$19>
+<$19>
 //1<CLEAR>
 <$1D>
 //は　何を食べても\nゼンゼン平気な「鉄の胃袋」の\n能力を　身につけた∥
@@ -4210,7 +4210,7 @@ W○ button: View ♂/♀
 
 
 
-<$06><$19>
+<$19>
 //1<CLEAR>
 <$1D>
 //は　動物の臭いを\nかぎわける「
@@ -4226,7 +4226,7 @@ Bloodhound skill!
 
 
 
-<$06><$19>
+<$19>
 //1<CLEAR>
 <$1D>
 ＿learned the＿
@@ -4240,7 +4240,7 @@ Perceiver skill!
 
 
 
-<$06><$19>
+<$19>
 //1<CLEAR>
 <$1D>
 ＿learned the＿
@@ -4254,7 +4254,7 @@ Trapper skill!
 
 
 
-<$06><$19>
+<$19>
 //1<CLEAR>
 <$1D>
 //は　野営中に　
@@ -4272,7 +4272,7 @@ Warden skill!
 
 //<$1B>
 //イヌかき
-<$06>Doggy paddle
+Doggy paddle
 <$00>
 
 
@@ -4280,7 +4280,7 @@ Warden skill!
 
 
 
-<$06><$19>
+<$19>
 //1<CLEAR>
 <$1D>
 //は　戦闘中の能力\n「
@@ -4296,12 +4296,12 @@ Warden skill!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1D>
 //は経験値
 ＿
-<$1E>
+<$06><$1E><$04>
 //獲得∥
 ＿EXP!
 <$12>
@@ -4312,12 +4312,12 @@ Warden skill!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Cは　
 C＿is now LVL＿
-<$1E>
+<$06><$1E><$04>
 //レベルになった
 !
 <$12>
@@ -4325,36 +4325,36 @@ C＿is now LVL＿
 <CLEAR>
 //最大
 Max＿
-
+<$06>
 //HP
 HP:
 <$1E>
 //@
 @
-
+<$04>
 //　攻撃力
 ATK:
-<$1E>
+<$06><$1E>
 //@
 @
-
+<$04>
 //\n守備力
 \n
 DEF:
-<$1E>
+<$06><$1E>
 //@
 @
-
+<$04>
 //　素早さ
 SPD:
-<$1E>
+<$06><$1E>
 //@
 @
-
+<$04>
 //\n最大
 \n
 Max＿
-
+<$06>
 //BP
 BP:
 <$1E>
@@ -4368,7 +4368,7 @@ BP:
 
 
 
-<$06><$19>
+<$19>
 //1<CLEAR>
 1<CLEAR>
 <$1D>
@@ -4382,7 +4382,7 @@ BP:
 
 
 
-<$06><$19>
+<$19>
 //1<CLEAR>
 1<CLEAR>
 <$1D>
@@ -4400,40 +4400,40 @@ a proper hunting dog.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Cは　
 C＿is now LVL＿
-<$1E>
+<$06><$1E><$04>
 //レベルになった
 !
 <$12>
 //\n最大
 Max＿
-
+<$06>
 //HP
 HP:
 <$1E>
 //@
 @
-
+<$04>
 //　攻撃力
 ATK:
-<$1E>
+<$06><$1E>
 //@
 @
-
+<$04>
 //\n守備力
 \n
 DEF:
-<$1E>
+<$06><$1E>
 //@
 @
-
+<$04>
 //　素早さ
 SPD:
-<$1E>
+<$06><$1E>
 //@
 @
 <$12>
@@ -4445,7 +4445,7 @@ SPD:
 
 
 #WRITE(PTR, $0072)
-<$06><CLEAR>
+<CLEAR>
 //
 <$15>
 //O［
@@ -4476,7 +4476,7 @@ O］
 
 
 
-<$06><$03>
+<$03>
 //98
 98
 <$16><$01>
@@ -4503,7 +4503,7 @@ End
 
 
 
-<$06><$16><$1D><$1D><$08>
+<$16><$04><$1D><$1D><$08>
 //22
 22
 <$05><$15>
@@ -4546,7 +4546,7 @@ ATK
 
 
 
-<$06><$02>
+<$02>
 //66
 66
 <$09>
@@ -4587,7 +4587,7 @@ EXP
 
 
 //
-<$06><$15>
+<$15>
 //Y猟犬
 YDogs＿
 <$1D>
@@ -4624,7 +4624,7 @@ YDogs＿
 
 
 
-<$06><$01>
+<$01>
 //入換え
 Swap
 <$0E>
@@ -4641,7 +4641,7 @@ Skills
 
 
 
-<$06><$01>
+<$01>
 //入換え
 Swap
 <$0E>
@@ -4664,7 +4664,7 @@ Skills
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 Release
 <$1D>
@@ -4687,7 +4687,7 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1D>
 //は　まだなにも能力を\n身につけていない
@@ -4709,7 +4709,7 @@ No
 
 //<$1B>
 //イヌかき
-<$06>Doggy paddle
+Doggy paddle
 <$00>
 
 

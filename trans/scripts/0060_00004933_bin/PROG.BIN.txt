@@ -120,7 +120,7 @@ m040.obj
 
 #WRITE(PTR, $001C)
 //ホスピコ
-<$06>Hospico＿
+Hospico＿
 <$00>
 
 
@@ -128,7 +128,7 @@ m040.obj
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -144,7 +144,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -161,7 +161,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -178,7 +178,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -189,7 +189,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -200,7 +200,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -212,7 +212,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 //猟犬
-<$06>Pet＿
+Pet＿
 <$1D>
 //の墓
 Cemetary＿
@@ -225,7 +225,7 @@ Cemetary＿
 
 
 //赤い屋根の建物が　３つあるでしょ？
-<$06>Do you see the three buildings with red\n
+Do you see the three buildings with red\n
 roofs?
 <$12>
 \n
@@ -254,7 +254,7 @@ human life expectancy by at least two years!
 
 
 //裏庭に　半分、地下にうまったような\n建物が見えるだろ…　今でもコシカタの\n「町長」が　収容されてるって噂だゼ
-<$06>Out back, you can see a building that looks\n
+Out back, you can see a building that looks\n
 half-way underground.
 <$12>
 \n
@@ -279,7 +279,7 @@ really survive?
 
 
 //ここは特別監視房です\n何かご用ですか？\n
-<$06>This is the surveillance ward. Can I help\n
+This is the surveillance ward. Can I help\n
 you?\n
 <$01>
 //「町長」に会う
@@ -297,7 +297,7 @@ I'm on a walk
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……コシカタの「町長」なんて\nここには　いやしません\nヘンな噂、たてないでくださいね
 ...The "elder" of Koshikata? He's not here.\n
 Please, don't feed baseless rumors.
@@ -309,7 +309,7 @@ Please, don't feed baseless rumors.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //健康に　いいですものね\nこの病院には　散歩の好きな方が\n多いんですよ
 Good! Many a folk take walks in this\n
 hospital. It's good for the body!
@@ -322,7 +322,7 @@ hospital. It's good for the body!
 
 
 //人間様の病院の敷地内に　犬の保健所が\nあるなんて…　いくら何でも\n不衛生きわまりないと　思うんだよね
-<$06>A dog vet on the premisis of a human\n
+A dog vet on the premisis of a human\n
 hospital? Tell me that's not unsanitary!
 <$12>
 \n
@@ -344,7 +344,7 @@ It won't be me!
 
 
 //また、猟犬の墓が　建ったね…
-<$06>Another dog grave to go with the litter.\n
+Another dog grave to go with the litter.\n
 After a while, you start to wonder, "What\n
 happened to this one?"
 <$12>
@@ -362,7 +362,7 @@ battle to save his own skin?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //死神到来の　こんな間際になってから\n箱船が　やって来たのは\n神様から人類への　挑戦かもねぇ…
 It's possible God brought the Astro Ark down\n
 to us years before the Grim Reaper's advent\n
@@ -387,13 +387,13 @@ the human race?
 
 
 //あなたは　ケンですね\n私は　院長のチェンです\nリンダは　ここの
-<$06>Oh, you must be Ken?\n
+Oh, you must be Ken?\n
 I am Director Chen. Linda is down here, in\n
 Room＿
-
+<$06>
 //102
 102
-
+<$04>
 //号室にいます
 .
 <$12>
@@ -420,7 +420,7 @@ SKen gave Director Chen the Memorin Z.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //そうそう、私は　レンジャー隊を\n呼びに行かなければ　ならないのです
 Without futher ado, I'll go call the Rangers\n
 now.
@@ -439,12 +439,12 @@ THIS IS AN EMERGENCY!
 
 
 //メモリンＺ…　メモリンＺがないと…\n
-<$06>Without...Memorin Z...\n
+Without...Memorin Z...\n
 He can't go to...Room＿
-
+<$06>
 //102
 102
-
+<$04>
 //号室には　行けないのです
 ...?
 <$12>
@@ -462,7 +462,7 @@ THIS IS AN EMERGENCY!
 
 
 //ネオケニアの出生率って　連邦内で\nダントツで　１番高いのよ
-<$06>The birthrate in Neo Kenya is ranked the\n
+The birthrate in Neo Kenya is ranked the\n
 highest in the Federation!
 <$12>
 \n
@@ -490,7 +490,7 @@ all, but we do!
 
 
 //また、こんどサッカーやる時は\n仲間に　入れてやるよ\nサンタの　お兄ちゃん∥
-<$06>You should join in next time we play soccer\n
+You should join in next time we play soccer\n
 too, Mr. Santa!
 <$12>
 <$00>
@@ -501,7 +501,7 @@ too, Mr. Santa!
 
 
 //あんたの彼女、記憶喪失なんだって？\nうらやましいよ…　あたしの人生なんて\n忘れちまいたいことばかりだもんね…
-<$06>Your girlfriend got amnesia? God, am I\n
+Your girlfriend got amnesia? God, am I\n
 jealous. What I wouldn't give to tune my life\n
 out.
 <$12>
@@ -512,7 +512,7 @@ out.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダのパパの　ヒュームが\nレンジャー隊を　免職になった原因は\nハッスルⅡに　手を出したせいよ
 Linda's dad, Hume, was kicked from the\n
 Rangers over his Hustle Ⅱ addiction.
@@ -538,7 +538,7 @@ ex-wife and kid to get by. Loser.
 
 #WRITE(PTR, $001E)
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -553,7 +553,7 @@ It smells strongly of antiseptic here.
 
 
 //……東
-<$06>...East
+...East
 <$00>
 
 
@@ -562,7 +562,7 @@ It smells strongly of antiseptic here.
 
 
 //……西
-<$06>...West
+...West
 <$00>
 
 
@@ -571,7 +571,7 @@ It smells strongly of antiseptic here.
 
 
 //……南
-<$06>...South
+...South
 <$00>
 
 
@@ -580,7 +580,7 @@ It smells strongly of antiseptic here.
 
 
 //……北
-<$06>...North
+...North
 <$00>
 
 
@@ -589,7 +589,7 @@ It smells strongly of antiseptic here.
 
 
 //…北東
-<$06>...North-east
+...North-east
 <$00>
 
 
@@ -598,7 +598,7 @@ It smells strongly of antiseptic here.
 
 
 //…北西
-<$06>...North-west
+...North-west
 <$00>
 
 
@@ -607,7 +607,7 @@ It smells strongly of antiseptic here.
 
 
 //…南東
-<$06>...South-east
+...South-east
 <$00>
 
 
@@ -616,7 +616,7 @@ It smells strongly of antiseptic here.
 
 
 //…南西
-<$06>...South-west
+...South-west
 <$00>
 
 
@@ -624,7 +624,7 @@ It smells strongly of antiseptic here.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -636,7 +636,7 @@ It smells strongly of antiseptic here.
 
 
 //、…
-<$06>! That's where we'll find a＿
+! That's where we'll find a＿
 <$1D>
 //に行けば
 .
@@ -648,7 +648,7 @@ It smells strongly of antiseptic here.
 
 
 //直進
-<$06>For
+For
 <$00>
 
 
@@ -657,7 +657,7 @@ It smells strongly of antiseptic here.
 
 
 //右よ
-<$06>Right
+Right
 <$00>
 
 
@@ -666,7 +666,7 @@ It smells strongly of antiseptic here.
 
 
 //左よ
-<$06>Left
+Left
 <$00>
 
 
@@ -675,7 +675,7 @@ It smells strongly of antiseptic here.
 
 
 //後ろ
-<$06>Back
+Back
 <$00>
 
 
@@ -683,7 +683,7 @@ It smells strongly of antiseptic here.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -695,7 +695,7 @@ It smells strongly of antiseptic here.
 
 
 //、絶対に
-<$06>wards, got it? I'm sure we'll find a＿
+wards, got it? I'm sure we'll find a＿
 <$1D>
 //∥
 ＿there!
@@ -706,7 +706,7 @@ It smells strongly of antiseptic here.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -721,7 +721,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…ごめんね、\n今日は　勘がはたらかないわ…
 ...Sorry. I don't have it in me today.
 <$12>
@@ -733,7 +733,7 @@ SLinda used her woman's intuition...
 
 
 //運命の
-<$06>Fated＿
+Fated＿
 <$00>
 
 
@@ -742,7 +742,7 @@ SLinda used her woman's intuition...
 
 
 //新しい
-<$06>New＿
+New＿
 <$00>
 
 
@@ -751,7 +751,7 @@ SLinda used her woman's intuition...
 
 
 //素敵な
-<$06>Great＿
+Great＿
 <$00>
 
 
@@ -760,7 +760,7 @@ SLinda used her woman's intuition...
 
 
 //未知の
-<$06>Unknown＿
+Unknown＿
 <$00>
 
 
@@ -769,7 +769,7 @@ SLinda used her woman's intuition...
 
 
 //何か
-<$06>things＿
+things＿
 <$00>
 
 
@@ -778,7 +778,7 @@ SLinda used her woman's intuition...
 
 
 //発見
-<$06>discoveries＿
+discoveries＿
 <$00>
 
 
@@ -787,7 +787,7 @@ SLinda used her woman's intuition...
 
 
 //お宝
-<$06>treasures＿
+treasures＿
 <$00>
 
 
@@ -796,7 +796,7 @@ SLinda used her woman's intuition...
 
 
 //動物
-<$06>animals＿
+animals＿
 <$00>
 
 
@@ -805,7 +805,7 @@ SLinda used her woman's intuition...
 
 
 //に　出会える…
-<$06>could appear.
+could appear.
 <$00>
 
 
@@ -814,7 +814,7 @@ SLinda used her woman's intuition...
 
 
 //が　待ってる…
-<$06>await us...
+await us...
 <$00>
 
 
@@ -823,7 +823,7 @@ SLinda used her woman's intuition...
 
 
 //気がするわ∥
-<$06>are there.
+are there.
 <$00>
 
 
@@ -832,7 +832,7 @@ SLinda used her woman's intuition...
 
 
 //チャンスよ∥
-<$06>are in our grasp!
+are in our grasp!
 <$00>
 
 
@@ -841,7 +841,7 @@ SLinda used her woman's intuition...
 
 
 //今しかないわ
-<$06>could slip through our fingers!
+could slip through our fingers!
 <$00>
 
 
@@ -850,7 +850,7 @@ SLinda used her woman's intuition...
 
 
 //間違いなし∥
-<$06>are dead head!
+are dead head!
 <$00>
 
 
@@ -859,7 +859,7 @@ SLinda used her woman's intuition...
 
 
 //\n
-<$06>\n
+\n
 <$1D><$1D><$1D>
 //\n
 \n
@@ -874,7 +874,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信があるの∥
 I'm sure of it!
 <$12>
@@ -885,7 +885,7 @@ I'm sure of it!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信は　ないけどね…
 Although, I'm not totally certain...
 <$12>
@@ -896,7 +896,7 @@ Although, I'm not totally certain...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //絶対なんだから∥
 I'm absolutely certain!
 <$12>

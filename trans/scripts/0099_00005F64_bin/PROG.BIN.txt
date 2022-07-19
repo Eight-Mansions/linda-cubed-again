@@ -78,7 +78,7 @@ c162_2.obj
 
 #WRITE(PTR, $001C)
 //リナバレー
-<$06>Spurr Valley＿
+Spurr Valley＿
 <$00>
 
 
@@ -86,7 +86,7 @@ c162_2.obj
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -102,7 +102,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -119,7 +119,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -136,7 +136,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -147,7 +147,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -158,7 +158,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -169,7 +169,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -186,7 +186,7 @@ SThe door is locked tight.
 
 
 //命を削ってまで　金が欲しいヤツには\nこのリナバレーほど　わかりやすい町は\n他には　ないと思うゼ
-<$06>Spurr Valley lives and breathes the mantra,\n
+Spurr Valley lives and breathes the mantra,\n
 "Make money or die tryin'." I've never felt\n
 so at home.
 <$12>
@@ -198,7 +198,7 @@ so at home.
 
 
 //スパームリナに入っても　階段を\n降りなきゃ　そんなに危険じゃないサ\nもちろん　金にもなんないけどね
-<$06>Spurr Marina's no danger if you take the safe\n
+Spurr Marina's no danger if you take the safe\n
 route, but you won't make bank nearly as hard\n
 that way.
 <$12>
@@ -217,7 +217,7 @@ there, you'll want a party collectively LVL\n
 
 
 //この谷底の奥の　小さな入口を\nくぐれば、そこが　スパームリナだ
-<$06>If you pass through the tiny exit below,\n
+If you pass through the tiny exit below,\n
 you'll find Spurr Marina.
 <$12>
 \n
@@ -235,7 +235,7 @@ penny!
 
 
 //谷底を流れてる白い川は　亜硫酸でね\nスパームリナから　流れ出してるのサ
-<$06>The white liquid flowing at the bottom of the\n
+The white liquid flowing at the bottom of the\n
 valley is sulphurous acid.
 <$12>
 \n
@@ -260,7 +260,7 @@ heavenly?
 
 
 //グリーン製薬って　代々、女社長と\n思ってたら　創業者は男なんだってな\nでも　３０かそこらで　死んだんだと
-<$06>Green Pharmaceuticals has had female\n
+Green Pharmaceuticals has had female\n
 presidents for decades, but was founded by a\n
 man.
 <$12>
@@ -279,7 +279,7 @@ over.
 
 
 //ここに　埋まってる連中は\nまだ　幸せなほうだよ…　とりあえず\n遺体は　発見できたわけだからねぇ
-<$06>I'm happy for the people buried here. At\n
+I'm happy for the people buried here. At\n
 least it means that their bodies were found.
 <$12>
 \n
@@ -296,7 +296,7 @@ closure than an empty plot.
 
 
 //ここが　この世の地獄の入口だ\n人それぞれ、事情もあるだろうし\n別に入るのを　止めやしない
-<$06>These are the Gates of Hell. Everyone has\n
+These are the Gates of Hell. Everyone has\n
 their own reasons for entering, but I won't\n
 stop you from going in.
 <$12>
@@ -321,7 +321,7 @@ Nope
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //生きて帰って来いよ
 Come back alive, friend.
 <$12>
@@ -332,7 +332,7 @@ Come back alive, friend.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //悪いことは言わない\nお守り代わりに　持って行きな
 Go get one, for good luck and your own good\n
 in general.
@@ -346,7 +346,7 @@ in general.
 
 #WRITE(PTR, $001E)
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -362,7 +362,7 @@ That stuff isn't good for you.
 
 
 //……東
-<$06>...East
+...East
 <$00>
 
 
@@ -371,7 +371,7 @@ That stuff isn't good for you.
 
 
 //……西
-<$06>...West
+...West
 <$00>
 
 
@@ -380,7 +380,7 @@ That stuff isn't good for you.
 
 
 //……南
-<$06>...South
+...South
 <$00>
 
 
@@ -389,7 +389,7 @@ That stuff isn't good for you.
 
 
 //……北
-<$06>...North
+...North
 <$00>
 
 
@@ -398,7 +398,7 @@ That stuff isn't good for you.
 
 
 //…北東
-<$06>...North-east
+...North-east
 <$00>
 
 
@@ -407,7 +407,7 @@ That stuff isn't good for you.
 
 
 //…北西
-<$06>...North-west
+...North-west
 <$00>
 
 
@@ -416,7 +416,7 @@ That stuff isn't good for you.
 
 
 //…南東
-<$06>...South-east
+...South-east
 <$00>
 
 
@@ -425,7 +425,7 @@ That stuff isn't good for you.
 
 
 //…南西
-<$06>...South-west
+...South-west
 <$00>
 
 
@@ -433,7 +433,7 @@ That stuff isn't good for you.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -445,7 +445,7 @@ That stuff isn't good for you.
 
 
 //、…
-<$06>! That's where we'll find a＿
+! That's where we'll find a＿
 <$1D>
 //に行けば
 .
@@ -457,7 +457,7 @@ That stuff isn't good for you.
 
 
 //直進
-<$06>For
+For
 <$00>
 
 
@@ -466,7 +466,7 @@ That stuff isn't good for you.
 
 
 //右よ
-<$06>Right
+Right
 <$00>
 
 
@@ -475,7 +475,7 @@ That stuff isn't good for you.
 
 
 //左よ
-<$06>Left
+Left
 <$00>
 
 
@@ -484,7 +484,7 @@ That stuff isn't good for you.
 
 
 //後ろ
-<$06>Back
+Back
 <$00>
 
 
@@ -492,7 +492,7 @@ That stuff isn't good for you.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -504,7 +504,7 @@ That stuff isn't good for you.
 
 
 //、絶対に
-<$06>wards, got it? I'm sure we'll find a＿
+wards, got it? I'm sure we'll find a＿
 <$1D>
 //∥
 ＿there!
@@ -515,7 +515,7 @@ That stuff isn't good for you.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -530,7 +530,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…ごめんね、\n今日は　勘がはたらかないわ…
 ...Sorry. I don't have it in me today.
 <$12>
@@ -542,7 +542,7 @@ SLinda used her woman's intuition...
 
 
 //運命の
-<$06>Fated＿
+Fated＿
 <$00>
 
 
@@ -551,7 +551,7 @@ SLinda used her woman's intuition...
 
 
 //新しい
-<$06>New＿
+New＿
 <$00>
 
 
@@ -560,7 +560,7 @@ SLinda used her woman's intuition...
 
 
 //素敵な
-<$06>Great＿
+Great＿
 <$00>
 
 
@@ -569,7 +569,7 @@ SLinda used her woman's intuition...
 
 
 //未知の
-<$06>Unknown＿
+Unknown＿
 <$00>
 
 
@@ -578,7 +578,7 @@ SLinda used her woman's intuition...
 
 
 //何か
-<$06>things＿
+things＿
 <$00>
 
 
@@ -587,7 +587,7 @@ SLinda used her woman's intuition...
 
 
 //発見
-<$06>discoveries＿
+discoveries＿
 <$00>
 
 
@@ -596,7 +596,7 @@ SLinda used her woman's intuition...
 
 
 //お宝
-<$06>treasures＿
+treasures＿
 <$00>
 
 
@@ -605,7 +605,7 @@ SLinda used her woman's intuition...
 
 
 //動物
-<$06>animals＿
+animals＿
 <$00>
 
 
@@ -614,7 +614,7 @@ SLinda used her woman's intuition...
 
 
 //に　出会える…
-<$06>could appear.
+could appear.
 <$00>
 
 
@@ -623,7 +623,7 @@ SLinda used her woman's intuition...
 
 
 //が　待ってる…
-<$06>await us...
+await us...
 <$00>
 
 
@@ -632,7 +632,7 @@ SLinda used her woman's intuition...
 
 
 //気がするわ∥
-<$06>are there.
+are there.
 <$00>
 
 
@@ -641,7 +641,7 @@ SLinda used her woman's intuition...
 
 
 //チャンスよ∥
-<$06>are in our grasp!
+are in our grasp!
 <$00>
 
 
@@ -650,7 +650,7 @@ SLinda used her woman's intuition...
 
 
 //今しかないわ
-<$06>could slip through our fingers!
+could slip through our fingers!
 <$00>
 
 
@@ -659,7 +659,7 @@ SLinda used her woman's intuition...
 
 
 //間違いなし∥
-<$06>are dead head!
+are dead head!
 <$00>
 
 
@@ -668,7 +668,7 @@ SLinda used her woman's intuition...
 
 
 //\n
-<$06>\n
+\n
 <$1D><$1D><$1D>
 //\n
 \n
@@ -683,7 +683,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信があるの∥
 I'm sure of it!
 <$12>
@@ -694,7 +694,7 @@ I'm sure of it!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信は　ないけどね…
 Although, I'm not totally certain...
 <$12>
@@ -705,7 +705,7 @@ Although, I'm not totally certain...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //絶対なんだから∥
 I'm absolutely certain!
 <$12>

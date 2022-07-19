@@ -103,7 +103,7 @@ M%03dF.OBJ
 
 
 //未登録動物ヒント∥\n名称＿＿：
-<$06>UNREGISTERED ANIMAL HINT!\n
+UNREGISTERED ANIMAL HINT!\n
 NAME＿＿：
 <$1D>
 //\n生息座標：
@@ -123,16 +123,16 @@ COORDINATES:＿
 
 
 #WRITE(PTR, $0026)
-<$06><$01>
+<$01>
 //◇
 ◇
 <$0E><$08>
 //4
 4
-
+<$06>
 //シナリオAB
 SCENARIO A/B
-
+<$04>
 //リンダ未回復\n
 Linda MIA\n
 <$01>
@@ -141,10 +141,10 @@ Linda MIA\n
 <$0E><$08>
 //4
 4
-
+<$06>
 //シナリオAB
 SCENARIO A/B
-
+<$04>
 //捕獲不足\n
 FAILURE\n
 <$01>
@@ -153,10 +153,10 @@ FAILURE\n
 <$0E><$08>
 //4
 4
-
+<$06>
 //シナリオCD
 SCENARIO C/D
-
+<$04>
 //捕獲不足\n
 FAILURE\n
 <$01>
@@ -165,10 +165,10 @@ FAILURE\n
 <$0E><$08>
 //4
 4
-
+<$06>
 //シナリオA
 SCENARIO A
-
+<$04>
 //クリア\n
 CLEAR\n
 <$01>
@@ -177,10 +177,10 @@ CLEAR\n
 <$0E><$08>
 //4
 4
-
+<$06>
 //シナリオB
 SCENARIO B
-
+<$04>
 //クリア\n
 CLEAR\n
 <$01>
@@ -189,16 +189,16 @@ CLEAR\n
 <$0E><$08>
 //4
 4
-
+<$06>
 //シナリオCD
 SCENARIO C/D
-
+<$04>
 //捕獲
 GOAL
-
+<$06>
 //80
 80
-
+<$04>
 //未満\n
 NOT REACHED\n
 <$01>
@@ -208,16 +208,16 @@ NOT REACHED\n
 <$0E><$08>
 //4
 4
-
+<$06>
 //シナリオCD
 SCENARIO C/D
-
+<$04>
 //捕獲
 GOAL
-
+<$06>
 //100
 100
-
+<$04>
 //未満\n
 NOT REACHED\n
 <$01>
@@ -227,16 +227,16 @@ NOT REACHED\n
 <$0E><$08>
 //4
 4
-
+<$06>
 //シナリオCD
 SCENARIO C/D
-
+<$04>
 //捕獲
 GOAL
-
+<$06>
 //110
 100
-
+<$04>
 //未満\n
 NOT REACHED\n
 <$01>
@@ -245,16 +245,16 @@ NOT REACHED\n
 <$0E><$08>
 //4
 4
-
+<$06>
 //シナリオCD
 SCENARIO C/D
-
+<$04>
 //捕獲
 GOAL
-
+<$06>
 //120
 120
-
+<$04>
 //未満\n
 SCENARIO C/D
 <$01>
@@ -263,10 +263,10 @@ SCENARIO C/D
 <$0E><$08>
 //4
 4
-
+<$06>
 //シナリオC
 SCENARIO C
-
+<$04>
 //完全捕獲\n
 COMPLETE\n
 <$01>
@@ -275,10 +275,10 @@ COMPLETE\n
 <$0E><$08>
 //4
 4
-
+<$06>
 //シナリオD
 SCENARIO D
-
+<$04>
 //完全捕獲
 COMPLETE
 <$00>

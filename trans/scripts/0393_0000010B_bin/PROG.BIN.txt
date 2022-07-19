@@ -449,7 +449,7 @@ meet2.obj
 
 
 #WRITE(PTR, $0078)
-<$06><CLEAR>
+<CLEAR>
 //
 <$1D>
 //‚Ì–éP‚¾a
@@ -463,7 +463,7 @@ raids the camp!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1D>
 //‚Æí“¬‚É‚È‚Á‚½
@@ -477,12 +477,12 @@ draws near!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
-
+<$06>
 //TRANS-CARGO
 The trans-cargo unit hasQ
-
+<$04>
 //‹ó‚«‚È‚µ\n‚·‚İ‚â‚©‚É@” ‘D‚Ö\n“®•¨‚ğ“o˜^‚µ‚Ä‚­‚¾‚³‚¢
 no spaces left.\n
 Go to the Astro Ark and file!
@@ -494,15 +494,15 @@ Go to the Astro Ark and file!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
-
+<$06>
 //TRANS-CARGO
 The trans-cargo unitQ
-
+<$04>
 //‹ó‚«@c‚è
 hasQ
-<$1E>
+<$06><$1E><$04>
 //˜g\n‚·‚İ‚â‚©‚É@” ‘D‚Ö\n“®•¨‚ğ@“o˜^‚µ‚Ä‚­‚¾‚³‚¢
 Qspaces left.\n
 Go to the Astro Ark and file!
@@ -514,7 +514,7 @@ Go to the Astro Ark and file!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //P‚Í”ò‚Ñ‹N‚«‚½
@@ -528,7 +528,7 @@ was prepared!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //C‚Í\n‹C‚ª‚Â‚¢‚½a
@@ -542,7 +542,7 @@ took notice!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1D>
 //@
@@ -550,10 +550,10 @@ took notice!
 <$1E>
 //“ª\n
 x)\n
-
+<$06>
 //TRANS-CARGO IN
 entered the TCU
-
+<$04>
 //a
 !
 <$12>
@@ -564,7 +564,7 @@ entered the TCU
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 Cannot fitQ
 <$1D>
@@ -573,10 +573,10 @@ Cannot fitQ
 <$1E>
 //“ª\n
 !\n
-
+<$06>
 //TRANS-CARGO 
 TCU isQ
-
+<$04>
 //‹ó‚«‚È‚µa\n
 full!\n
 <$01>
@@ -595,7 +595,7 @@ Give up
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 Give upQ
 <$1D>
@@ -618,7 +618,7 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 Release theQ
 <$1D>
@@ -648,7 +648,7 @@ No
 #WRITE(PTR, $0082)
 #WRITE(PTR, $0084)
 #WRITE(PTR, $0086)
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //C‚Í@¬—‚µ‚Ä‚¢‚é
@@ -664,7 +664,7 @@ is confused!
 
 #WRITE(PTR, $0088)
 //“ËŒ‚
-<$06>Rush
+Rush
 <$00>
 
 
@@ -673,7 +673,7 @@ is confused!
 
 
 //ŠÅŒì
-<$06>Nurse
+Nurse
 <$00>
 
 
@@ -682,7 +682,7 @@ is confused!
 
 
 //“Áê
-<$06>Special
+Special
 <$00>
 
 
@@ -690,7 +690,7 @@ is confused!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$01>
 //UŒ‚
@@ -735,7 +735,7 @@ Flee
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //C‚Í@‚Ü‚¾bl‰»‚Ì\n”\—Í‚ğ@g‚É‚Â‚¯‚Ä‚¢‚È‚¢ƒµ
@@ -749,7 +749,7 @@ Morph skills!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$01>
 //‚`ƒ‚[ƒh
@@ -790,7 +790,7 @@ H
 <$09>
 //-8 
 -8
-<$09>
+<$04><$09>
 //2
 2
 <$0E>
@@ -835,7 +835,7 @@ H
 <$09>
 //-8 
 -8
-<$09>
+<$04><$09>
 //2
 2
 <$0E>
@@ -846,7 +846,7 @@ H
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //‘fè‚É‚È‚è‚Ü‚·‚©H\n
 Go bare handed?\n
 <$01>
@@ -867,7 +867,7 @@ No
 
 
 //\r<CLEAR>
-<$06>\r<CLEAR>
+\r<CLEAR>
 <$1C>
 //A‚Í
 A\n
@@ -885,7 +885,7 @@ to go bare-handed!
 
 
 //UŒ‚
-<$06>Fight
+Fight
 <$00>
 
 
@@ -894,7 +894,7 @@ to go bare-handed!
 
 
 //–hŒä
-<$06>Guard
+Guard
 <$00>
 
 
@@ -902,7 +902,7 @@ to go bare-handed!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1D>
 //—ÍQ
@@ -932,7 +932,7 @@ No
 
 
 //\r<CLEAR>
-<$06>\r<CLEAR>
+\r<CLEAR>
 <$1C>
 //A‚Í\n
 A\n
@@ -950,7 +950,7 @@ back on!
 
 
 //\r<CLEAR>
-<$06><$1C>
+<$1C>
 //A‚Í@
 A\n
 took theQ
@@ -969,7 +969,7 @@ over theQ
 
 
 
-<$06><$01>
+<$01>
 //H‚×‚é
 Eat
 <$0E>
@@ -986,7 +986,7 @@ Toss
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í@
@@ -1006,7 +1006,7 @@ and threwQ
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í@
@@ -1025,7 +1025,7 @@ U's mouth and put in theQ
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$15>
 //Y‚`ƒ‚[ƒh@
@@ -1050,7 +1050,7 @@ Hand Bomb
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ƒŠƒ“ƒ_‚ğ@c‚µ‚Ä\n“¦‚°o‚·‚í‚¯‚É‚Í@‚¢‚©‚È‚¢aƒµ
 You can't flee\n
 without Linda!ƒµ
@@ -1061,7 +1061,7 @@ without Linda!ƒµ
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //C‚Í@‚Ü‚¾í“¬’†‚Ì\n“Áê”\—Í‚ğ@g‚É‚Â‚¯‚Ä‚¢‚È‚¢ƒµ
@@ -1075,7 +1075,7 @@ special skills!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ƒPƒ“‚Í@‚¯‚µ‚©‚¯‚É\n¸”s‚µ‚½aƒµ
 Ken failed\n
 his attempt!ƒµ
@@ -1086,7 +1086,7 @@ his attempt!ƒµ
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1D><$01>
 //ƒAƒCƒc‚ğ‚Ë‚ç‚¦
@@ -1144,7 +1144,7 @@ Time out!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í@—ÂŒ¢‚Ì“ü‚ê‘Ö‚¦‚ğs‚Á‚½a
@@ -1158,7 +1158,7 @@ with the dog!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //\r
 \r
 <$1C>
@@ -1176,7 +1176,7 @@ AQtold the dog,\n
 
 
 
-<$06><$1C>
+<$1C>
 //T‚ğ@‚Ë‚ç‚¦a
 T's all yours!
 <$00>
@@ -1187,7 +1187,7 @@ T's all yours!
 
 
 //‚İ‚ñ‚È@“¦‚°‚ëa
-<$06>Everyone, run!
+Everyone, run!
 <$00>
 
 
@@ -1196,7 +1196,7 @@ T's all yours!
 
 
 //ƒXƒL‚ğ@ì‚é‚Èa
-<$06>Be on guard!
+Be on guard!
 <$00>
 
 
@@ -1205,7 +1205,7 @@ T's all yours!
 
 
 //Ì‚Äg‚Å@‚©‚©‚êa
-<$06>Fight to the death!
+Fight to the death!
 <$00>
 
 
@@ -1214,7 +1214,7 @@ T's all yours!
 
 
 //‰´‚ğ@‚©‚Î‚¦a
-<$06>Cover me!
+Cover me!
 <$00>
 
 
@@ -1223,7 +1223,7 @@ T's all yours!
 
 
 //Ÿè‚É“¦‚°‚é‚È
-<$06>Don't run away!
+Don't run away!
 <$00>
 
 
@@ -1232,7 +1232,7 @@ T's all yours!
 
 
 //©—R‚Éí‚¦
-<$06>Fight freely!
+Fight freely!
 <$00>
 
 
@@ -1240,7 +1240,7 @@ T's all yours!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //w’è‚µ‚½“G‚P‘Ì‚ğ—ÂŒ¢‚ªW’†UŒ‚
 Dog will focus attacks on 1 foe.
 <$00>
@@ -1250,7 +1250,7 @@ Dog will focus attacks on 1 foe.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //—ÂŒ¢‚ª“¦‘–‚·‚é
 Dog will attempt to run.
 <$00>
@@ -1260,7 +1260,7 @@ Dog will attempt to run.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //—ÂŒ¢‚ÌUŒ‚‚ª‘OŒã¶‰E‚Ì“G‚É•ªU‚·‚é
 Dog will attack foes on all sides.
 <$00>
@@ -1270,7 +1270,7 @@ Dog will attack foes on all sides.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //—ÂŒ¢‚ªç‚è‚ğÌ‚ÄAUŒ‚‚É‘S—Í‚ğ’‚®
 Dog will attack without care.
 <$00>
@@ -1280,7 +1280,7 @@ Dog will attack without care.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //—ÂŒ¢‚ªã‚Á‚Ä‚¢‚é–¡•û‚ğ‚©‚Î‚¤
 Dog will protect weakened allies.
 <$00>
@@ -1290,7 +1290,7 @@ Dog will protect weakened allies.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //—ÂŒ¢‚ÍV‚½‚È–½—ßˆÈŠO‚Å“¦‚°‚È‚­‚È‚é
 Dog will not run unless ordered.
 <$00>
@@ -1300,7 +1300,7 @@ Dog will not run unless ordered.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //æ‚Éo‚µ‚½–½—ß‚ğæ‚èÁ‚·
 Revoke previously-issued order.
 <$00>
@@ -1310,7 +1310,7 @@ Revoke previously-issued order.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //í“¬’†‚É—\”õ‚Ì—ÂŒ¢‚Æ“ü‚ê‘Ö‚¦‚é
 Swap dogs on the frontlines.
 <$00>
@@ -1328,7 +1328,7 @@ Swap dogs on the frontlines.
 
 
 //»’n
-<$06>Desert
+Desert
 <$00>
 
 
@@ -1337,7 +1337,7 @@ Swap dogs on the frontlines.
 
 
 //…’†
-<$06>Underwater
+Underwater
 <$00>
 
 
@@ -1346,7 +1346,7 @@ Swap dogs on the frontlines.
 
 
 //•Xá
-<$06>Snow
+Snow
 <$00>
 
 
@@ -1355,7 +1355,7 @@ Swap dogs on the frontlines.
 
 
 //QQ
-<$06>QQ
+QQ
 <$00>
 
 
@@ -1364,7 +1364,7 @@ Swap dogs on the frontlines.
 
 
 //QQ
-<$06>QQ
+QQ
 <$00>
 
 
@@ -1415,7 +1415,7 @@ W
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //\r
 \r
 <$1C>
@@ -1425,10 +1425,10 @@ morphed into\n
 <$1D>
 //‚É\n
 !
-
+<$06>
 //MUTATION
 !
-
+<$04>
 //a
 !
 <$12>
@@ -1439,7 +1439,7 @@ morphed into\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Cu‚aƒ‚[ƒh‰ğœav
@@ -1453,7 +1453,7 @@ C:\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Cu‚aƒ‚[ƒh‹N“®\n‚RA‚QA‚PA‚f‚nav
@@ -1468,34 +1468,34 @@ C:\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
-
+<$06>
 //HP
 HP
 <$1E>
 //@
 @
-
+<$04>
 //@UŒ‚—Í
 ATK
-<$1E>
+<$06><$1E>
 //@
 @
-
+<$04>
 //\nç”õ—Í
 \n
 DEF
-<$1E>
+<$06><$1E>
 //@
 @
-
+<$04>
 //@‘f‘‚³
 SPD
-<$1E>
+<$06><$1E>
 //@
 @
-
+<$04>
 <$00>
 
 
@@ -1504,7 +1504,7 @@ SPD
 
 
 //æ§UŒ‚‚Ìƒ`ƒƒƒ“ƒXa\n
-<$06>You have the advantage!\n
+You have the advantage!\n
 <$00>
 
 
@@ -1513,7 +1513,7 @@ SPD
 
 
 //‚Ç‚¤‚·‚éH
-<$06>NEXT TURN:Q
+NEXT TURN:Q
 <$1C>
 //A\n
 A\n
@@ -1562,7 +1562,7 @@ ATK DEF SPD
 
 
 
-<$06><$05><$1B>
+<$05><$1B>
 //02
 02
 <$1D>
@@ -1573,7 +1573,7 @@ ATK DEF SPD
 
 
 
-<$06><$05><$1B>
+<$05><$1B>
 //01
 01
 <$1D>
@@ -1584,7 +1584,7 @@ ATK DEF SPD
 
 
 
-<$06><$1E>
+<$1E>
 //019
 019
 <$00>
@@ -1594,7 +1594,7 @@ ATK DEF SPD
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$05><$03>
 //4HP
@@ -1606,7 +1606,7 @@ ATK DEF SPD
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$05><$03>
 //4HP\nBP
@@ -1619,7 +1619,7 @@ BP
 
 
 
-<$06><$1E>
+<$1E>
 //019
 019
 <$00>
@@ -1630,7 +1630,7 @@ BP
 
 
 //ƒÒƒÓƒÔ
-<$06>ƒÒƒÓƒÔ
+ƒÒƒÓƒÔ
 <$00>
 
 
@@ -1644,7 +1644,7 @@ BP
 
 
 
-<$06><$1E>
+<$1E>
 //019
 019
 <$00>
@@ -1654,7 +1654,7 @@ BP
 
 
 
-<$06><$05>
+<$05>
 // 
 
 <$00>
@@ -1680,7 +1680,7 @@ BP
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1D>
 //‘¤ 
@@ -1707,7 +1707,7 @@ BP
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$15>
 //W
@@ -1765,7 +1765,7 @@ SƒÈ
 <$05>
 //\n
 \n
-
+<$04>
 <$00>
 
 
@@ -1781,7 +1781,7 @@ SƒÈ
 
 #WRITE(PTR, $0090)
 //lŠÔ‚Ìƒ^[ƒ“ %d %d
-<$06>Ally Turn %d %d
+Ally Turn %d %d
 <$00>
 
 
@@ -1790,7 +1790,7 @@ SƒÈ
 
 
 //—ÂŒ¢‚Ìƒ^[ƒ“ %d %d
-<$06>Dog Turn %d %d
+Dog Turn %d %d
 <$00>
 
 
@@ -1799,7 +1799,7 @@ SƒÈ
 
 
 //’‡ŠÔ“®•¨‚Ìƒ^[ƒ“ %d %d
-<$06>Animal Turn %d %d
+Animal Turn %d %d
 <$00>
 
 
@@ -1808,7 +1808,7 @@ SƒÈ
 
 
 //“G‚Ìƒ^[ƒ“ %d %d
-<$06>Enemy Turn %d %d
+Enemy Turn %d %d
 <$00>
 
 
@@ -1816,7 +1816,7 @@ SƒÈ
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í@‚Ç‚±‚©‚Ö\n“¦‚°‚Ä‚¢‚Á‚½a
@@ -1831,7 +1831,7 @@ the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //C‚Í\nƒM_‚É@N‚³‚ê‚Ä‚¢‚éa
@@ -1846,14 +1846,14 @@ by the acid!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //C‚Í\n–Ò“Å‚É–`‚³‚ê@ƒPƒCƒŒƒ“‚µ‚Ä‚¢‚éa\n
 C\n
 retched due to poison.\n
 TookQ
-<$1E>
+<$06><$1E><$04>
 //‚Ìƒ_ƒ[ƒWa
 Qdamage!
 <$00>
@@ -1863,7 +1863,7 @@ TookQ
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //C‚Í\n_Œ‡‚Å@‚ ‚¦‚¢‚Å‚¢‚éa
@@ -1877,7 +1877,7 @@ gasped for air!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //C‚Í\n‹­_‚É@N‚³‚ê‚Ä‚¢‚éa
@@ -1892,7 +1892,7 @@ by the acid!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //C‚Í\n©•ª‚ÌŠk‚É@•Â‚¶‚±‚à‚Á‚Ä‚¢‚éa
@@ -1906,7 +1906,7 @@ hid in its shell!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //C‚Í@“®‚¯‚È‚¢a
@@ -1920,7 +1920,7 @@ can't move!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //C‚Í@–°‚Á‚Ä‚¢‚éa
@@ -1934,7 +1934,7 @@ is fast asleep!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //C‚Í@¸_‚µ‚Ä‚¢‚éa
@@ -1948,7 +1948,7 @@ fainted!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //C‚Í@
@@ -1968,7 +1968,7 @@ a!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //C‚Í@
@@ -1985,7 +1985,7 @@ w!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //C‚Í@
@@ -2002,7 +2002,7 @@ w!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //C‚Í@
@@ -2019,7 +2019,7 @@ W!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //C‚Í@
@@ -2036,7 +2036,7 @@ W!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //C‚Í@
@@ -2053,7 +2053,7 @@ W!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //C‚Í@
@@ -2070,7 +2070,7 @@ W!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //C‚Í@
@@ -2087,7 +2087,7 @@ Y!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //C‚Í\n
@@ -2103,7 +2103,7 @@ a fell off!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //C‚Í@
@@ -2120,7 +2120,7 @@ Y!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //C‚Í@ƒRƒuƒ‰ƒcƒCƒXƒg‚Å\n
@@ -2136,7 +2136,7 @@ Y!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //C‚Í@
@@ -2153,7 +2153,7 @@ Y!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í\n
@@ -2170,7 +2170,7 @@ grabbed and swallowedQ
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //‰Š‚Í@‚³‚ç‚É@”R‚¦L‚ª‚Á‚½a
 The flames spread farther!
 <$12>
@@ -2181,7 +2181,7 @@ The flames spread farther!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚Í\n‰Š‚ÉÄ‚©‚ê‚Ä‚¢‚éa
@@ -2196,7 +2196,7 @@ is burned in the flames!
 
 
 #WRITE(PTR, $0092)
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚É\nƒ_ƒ[ƒW‚È‚µa
@@ -2210,16 +2210,16 @@ took no damage!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //G‚É\n
 G\n
 tookQ
-<$1E>
+<$06><$1E>
 // BP
 BP
-
+<$04>
 //ƒ_ƒ[ƒW
 Qdamage!
 <$12>
@@ -2231,7 +2231,7 @@ BP
 
 
 //‚Ì‹}Š‚ğ’¼Œ‚a
-<$06>'s vitals were hit!
+'s vitals were hit!
 <$00>
 
 
@@ -2240,7 +2240,7 @@ BP
 
 
 //‚É
-<$06>tookQ
+tookQ
 <$00>
 
 
@@ -2248,7 +2248,7 @@ BP
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //G
@@ -2256,7 +2256,7 @@ G
 <$1D>
 //\n
 \n
-<$1E>
+<$06><$1E><$04>
 //ƒ_ƒ[ƒW
 damage!
 <$12>
@@ -2268,11 +2268,11 @@ damage!
 
 
 //\n
-<$06>\n
-
+\n
+<$06>
 //HP 
 HP
-
+<$04>
 //‘S‰ñ•œa
 Qrecovered fully!
 <$00>
@@ -2283,11 +2283,11 @@ HP
 
 
 //\n
-<$06>\n
-
+\n
+<$06>
 //HP 
 HP recovered byQ
-<$1E>
+<$1E><$04>
 //‰ñ•œa
 !
 <$00>
@@ -2298,11 +2298,11 @@ HP recovered byQ
 
 
 //\n
-<$06>\n
-
+\n
+<$06>
 //BP 
 BP
-
+<$04>
 //‘S‰ñ•œa
 Qrecovered fully!
 <$12>
@@ -2314,11 +2314,11 @@ BP
 
 
 //\n
-<$06>\n
-
+\n
+<$06>
 //BP 
 BP recovered byQ
-<$1E>
+<$1E><$04>
 //‰ñ•œa
 !
 <$12>
@@ -2330,7 +2330,7 @@ BP recovered byQ
 
 
 //\n—­‚ß‚½—Í‚ğ@ˆê‹C‚É”š”­a
-<$06>\n
+\n
 Their power burst all at once!
 <$00>
 
@@ -2340,7 +2340,7 @@ Their power burst all at once!
 
 
 //\n—­‚ß‚½—Í‚ğ@ˆê‹C‚É”š”­a
-<$06>\n
+\n
 Their power burst all at once!
 <$00>
 
@@ -2355,7 +2355,7 @@ Their power burst all at once!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1D><$1C>
 //A‚ÌUŒ‚a
@@ -2368,12 +2368,12 @@ AQattacks!
 
 
 //\n—¬‚ê‚½ŒŒ‚ª@‹»•±‚ğŒÄ‚ñ‚¾a\nUŒ‚—Í
-<$06>\n
+\n
 The blood rush raised their ATK byQ
-<$1E>
+<$06><$1E>
 //@
 @!
-
+<$04>
 <$00>
 
 
@@ -2381,7 +2381,7 @@ The blood rush raised their ATK byQ
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //p‚Í\n
@@ -2398,7 +2398,7 @@ T!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚Í\n–³“G‚¾a
@@ -2412,7 +2412,7 @@ is invincible!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚Í\n‘f‘‚­@g‚ğ‚©‚í‚µ‚½a
@@ -2426,7 +2426,7 @@ quickly dodged the blow!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$15>
 //R
@@ -2446,7 +2446,7 @@ A's\n
 
 
 //\nƒM_‚Ì‘Á‰t@ƒWƒFƒbƒg•¬Ëa
-<$06>\n
+\n
 Acid fired out like a jet!
 <$00>
 
@@ -2456,7 +2456,7 @@ Acid fired out like a jet!
 
 
 //\n‰Î‚Ì•²‚ğ@•@‚©‚ç‚Ü‚«U‚µ‚½a
-<$06>\n
+\n
 Sparks flared out from their nose!
 <$00>
 
@@ -2466,7 +2466,7 @@ Sparks flared out from their nose!
 
 
 //\n”–‹C–¡‚Ìˆ«‚¢@Šïº‚ğ”­‚µ‚½a
-<$06>\n
+\n
 They let out a chilling scream!
 <$00>
 
@@ -2475,7 +2475,7 @@ They let out a chilling scream!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚Í@¬—‚µ‚½a
@@ -2489,7 +2489,7 @@ is confused!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í\n”¯‚Ì–Ñ‚ğ@U‚è—‚µ‚½a\n
@@ -2506,7 +2506,7 @@ a!
 
 
 //\n”’‚¢•²‚ğ@‚Ü‚«U‚ç‚µ‚½a
-<$06>\n
+\n
 White powder fell everywhere!
 <$00>
 
@@ -2515,7 +2515,7 @@ White powder fell everywhere!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚Í\nŒƒ‚µ‚­@ŠP‚«‚ñ‚¾a
@@ -2529,7 +2529,7 @@ coughed violently!
 
 
 //\nŒû‚©‚ç@‰Š‚ğ“f‚¢‚½a
-<$06>\n
+\n
 Fire shot from their mouth!
 <$00>
 
@@ -2538,7 +2538,7 @@ Fire shot from their mouth!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Ì‘O•û‚É\n‰Š‚ª@L‚ª‚Á‚½a
@@ -2552,7 +2552,7 @@ was pushed back by flames!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //K‚Ì‘«Œ³‚É\n‰Š‚ª@L‚ª‚Á‚½a
@@ -2566,7 +2566,7 @@ was walled in by flames!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Ì@
@@ -2581,7 +2581,7 @@ a!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í\n“®•¨‚½‚¿‚ğ@”ò‚Ñ‰z‚¦‚Ä\n–³–‚É@“¦‚°‰„‚Ñ‚½a
@@ -2595,7 +2595,7 @@ sprang over the animals and escaped!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í@©•ª‚Ì‹¹‚ğ\nŒƒ‚µ‚­@‘Å‚¿‚½‚½‚¢‚½a
@@ -2608,7 +2608,7 @@ pounded their chest!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚Í@‹»•±‚Ìâ’¸a
@@ -2622,7 +2622,7 @@ is thrilled!
 
 
 //\n
-<$06>\n
+\n
 <$1C>
 //aa
 a!
@@ -2634,7 +2634,7 @@ a!
 
 
 //\n‹r‚ğ@‘å‚«‚­U‚èã‚°‚½a\n
-<$06>\n
+\n
 They raised a leg...\n
 <$1C>
 //aa
@@ -2646,7 +2646,7 @@ a!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Ì@
@@ -2662,7 +2662,7 @@ Flames covered the ground!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í@‘Sg‚Ì–ÑŒŠ‚©‚ç\ng˜@‚Ì‰Š‚ğ@•¬‚«ã‚°‚½a
@@ -2675,7 +2675,7 @@ spewed red flames from every pore!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //•Ó‚èˆê–Ê@‰Î‚ÌŠC‚É‚È‚Á‚½a
 The entire area was in a sea of flames!
 <$12>
@@ -2686,7 +2686,7 @@ The entire area was in a sea of flames!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í\n
@@ -2702,7 +2702,7 @@ UQall over!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í\n
@@ -2718,7 +2718,7 @@ T's build.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Ì‘Ì‚Í\n
@@ -2734,7 +2734,7 @@ T's build!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Ì@
@@ -2752,7 +2752,7 @@ TQwas wrapped up!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Ì@
@@ -2771,7 +2771,7 @@ TQwas hugged!
 
 
 //\n‰Î‰Š‚Ì‘§‚ğ@“f‚¢‚½a
-<$06>\n
+\n
 Fire hurled out in the exhale!
 <$00>
 
@@ -2781,7 +2781,7 @@ Fire hurled out in the exhale!
 
 
 //\n
-<$06>\n
+\n
 <$1C>
 //aa
 a!
@@ -2792,7 +2792,7 @@ a!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í@–j‚ğ–c‚ç‚Ü‚¹‚Ä\n‰s‚­@‘§‚ğ“f‚¢‚½a\n
@@ -2808,7 +2808,7 @@ a!
 
 
 //\n—ƒ‚ª‹N‚±‚·@‹‘å‚È—³Šªa
-<$06>\n
+\n
 A hurricane whirled in its wings!
 <$00>
 
@@ -2817,7 +2817,7 @@ A hurricane whirled in its wings!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í@—¼˜r‚Ì”ò–Œ‚ğ@L‚°‚½a\n—ƒ‚ª‹N‚±‚·@‹‘å‚È—³Šªa
@@ -2830,7 +2830,7 @@ whirled a hurricane in their wings!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚Í\n‚Ó‚Á”ò‚ñ‚¾a
@@ -2844,7 +2844,7 @@ flew high!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //‘å‚«‚­Œû‚ğŠJ‚¢‚Ä@”—‚Á‚Ä—ˆ‚½a\n
 They approached with an open mouth.\n
 <$1C>
@@ -2857,7 +2857,7 @@ a!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚ÌŒû‚ª@¨‚Ü‚Å—ô‚¯‚½a\n
@@ -2872,7 +2872,7 @@ a!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í@
@@ -2887,41 +2887,41 @@ T!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Ì@
 A:Q
-
+<$06>
 //HP
 HP:Q
 <$1E>
 //@
 @
-
+<$04>
 //\nUŒ‚—Í
 \n
 ATK:Q
-<$1E>
+<$06><$1E>
 //@ 
 @
-
+<$04>
 //ç”õ—Í
 DEF:Q
-<$1E>
+<$06><$1E>
 //@
 @
-
+<$04>
 //\n‘f‘‚³
 \n
 SPD:Q
-<$1E>
+<$06><$1E>
 //@ BP
 @ BP:Q
 <$1E>
 //@
 @
-<$12>
+<$04><$12>
 <$00>
 
 
@@ -2929,7 +2929,7 @@ SPD:Q
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í@—D‚µ‚­\n
@@ -2948,7 +2948,7 @@ a!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚Í@‹»•±‚Ìâ’¸a
@@ -2962,7 +2962,7 @@ is thrilled!
 
 
 //\nK‚©‚ç¶‚¦‚½@•KE‚Ì“Åja
-<$06>\n
+\n
 A poisonous stringer grew from its tail!
 <$00>
 
@@ -2972,7 +2972,7 @@ A poisonous stringer grew from its tail!
 
 
 //\n˜r‚Ì‘åŠ™‚ª@‚È‚¬‚Í‚ç‚¤a
-<$06>\n
+\n
 Their scythe-like arm mowed across!
 <$00>
 
@@ -2981,7 +2981,7 @@ Their scythe-like arm mowed across!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚ÌÚœ‚ª\n˜r‚Ì“÷‚ğ”j‚Á‚Ä@”ò‚Ño‚µ‚½a\n
@@ -2996,7 +2996,7 @@ a!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í\nˆİ‘Ü‚É’™‚ß‚½»‚ğ@“f‚¢‚½a
@@ -3009,7 +3009,7 @@ spit out all the sand in its stomach!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //K‚Ì‘«Œ³‚Í\n»‚¾‚ç‚¯‚É‚È‚Á‚½a
@@ -3022,7 +3022,7 @@ K's feet are covered in sand!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Ì‘O•û‚Í\n»‚¾‚ç‚¯‚É‚È‚Á‚½a
@@ -3037,7 +3037,7 @@ only sees sand before them!
 
 
 //\n’ƒF‚Ì–A‚ğ@Œû‚©‚ç”ò‚Î‚µ‚½a
-<$06>\n
+\n
 Brown bubbles plopped from their mouth!
 <$00>
 
@@ -3046,7 +3046,7 @@ Brown bubbles plopped from their mouth!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚Ì‘Sg‚É\n’ƒF‚Ì”­]‚ª@L‚ª‚éa
@@ -3060,7 +3060,7 @@ let out a brown eruption all over!
 
 
 //\n‚±‚¤–å‚©‚ç@ˆ«L‚ğ•ú‚Á‚½a
-<$06>\n
+\n
 An awful strench bubbled from their anus.
 <$00>
 
@@ -3069,7 +3069,7 @@ An awful strench bubbled from their anus.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í@’¼’°‚É\nƒKƒX‚ğ@’™‚ß‚½a\nˆê‹C‚É•ú‚Â@
@@ -3084,7 +3084,7 @@ a!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚Í\nˆ«L‚É@Œƒ‚µ‚­šq“f‚µ‚½a
@@ -3097,7 +3097,7 @@ vomited violently from the foul stench!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í@”çƒt‚ğ\nd‰»‚³‚¹‚½a
@@ -3109,7 +3109,7 @@ A's skin hardened!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í@Œû‚©‚ç\n×‚¢…‚ğ@‚«o‚µ‚½a
@@ -3122,7 +3122,7 @@ shot a thin thread from their mouth!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚É\n…‚ª@‚©‚ç‚İ‚Â‚¢‚½a
@@ -3136,7 +3136,7 @@ was caught in the web!
 
 
 //\nK”ö‚Ìj‚ª@—D‰ë‚É—x‚éa
-<$06>\n
+\n
 Their tail needle swayed with grace.
 <$00>
 
@@ -3145,7 +3145,7 @@ Their tail needle swayed with grace.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Ì’Ü‚ª@Šl•¨‚ğ‹‚ß‚Ä\nƒ†ƒ‰ƒ†ƒ‰@—h‚ê‚éc\n
@@ -3160,7 +3160,7 @@ a!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í@”w’†‚Ì‰–b‚ğ\nƒGƒlƒ‹ƒM[‚É@•Ï‚¦‚½a
@@ -3175,7 +3175,7 @@ cycled their fat into energy!
 
 
 //\nŒÛ–Œ‚ğ”j‚é@
-<$06>\n
+\n
 They broke an eardrum.Q
 <$1C>
 //aa
@@ -3188,7 +3188,7 @@ a!
 
 
 //\nK”ö‚ğ@‹­‚­‘Å‚¿‚Â‚¯‚½a
-<$06>\n
+\n
 The tail took a direct hit!
 <$00>
 
@@ -3197,7 +3197,7 @@ The tail took a direct hit!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í@•IŠÖß‚ğŠO‚µ‚Ä\nK”ö‚Ì‚æ‚¤‚É@U‚è‰ñ‚µ‚½a
@@ -3211,11 +3211,11 @@ dislocated their elbow and swung their arm!
 
 
 //\n
-<$06>\n
-
+\n
+<$06>
 //100000
 100,000
-
+<$04>
 //ƒ{ƒ‹ƒg‚Ì@•ú“da
 Qvolts discharged!
 <$00>
@@ -3225,7 +3225,7 @@ dislocated their elbow and swung their arm!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í\n‚°‚ë‚°‚ë@–Â‚¢‚½a
@@ -3238,16 +3238,16 @@ croaked.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚Í\n“f‚«‹C‚ğ@‚à‚æ‚¨‚µ‚½a\n
 T\n
 felt nauseous.\n
-
+<$06>
 //BP
 BP
-
+<$04>
 //‚ğ••‚¶‚ç‚ê‚½a
 Qsealed!
 <$12>
@@ -3259,7 +3259,7 @@ BP
 
 
 //\nŒû‚©‚ç@ƒXƒ~‚ğ•¬‚¢‚½a
-<$06>\n
+\n
 Ink shot from their mouth!
 <$00>
 
@@ -3268,7 +3268,7 @@ Ink shot from their mouth!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚Ì\n–½’†—¦‚ª@”¼•ª‚É‚È‚Á‚½a
@@ -3281,7 +3281,7 @@ T's HIT was halved!
 
 
 //\n
-<$06>\n
+\n
 <$1C>
 //aa
 a!
@@ -3292,7 +3292,7 @@ a!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í@
@@ -3312,7 +3312,7 @@ a!
 
 
 //\n‘Sg‚ª@‰ö‚µ‚­Œõ‚Á‚½a
-<$06>\n
+\n
 Their body glowed eerily.
 <$00>
 
@@ -3321,7 +3321,7 @@ Their body glowed eerily.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í@‹¹‚Ìæ’[‚ğ\nŒƒ‚µ‚­@“_–Å‚³‚¹‚½a
@@ -3334,7 +3334,7 @@ flashed their chest boldly.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚Í\n–Ú‚ª@‚­‚ç‚ñ‚¾a
@@ -3347,7 +3347,7 @@ eyes went wild!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í\n©•ª‚ÌŠk‚É@•Â‚¶‚±‚à‚Á‚½a
@@ -3360,7 +3360,7 @@ hid themself in their shell!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í@ƒJƒ‹ƒVƒEƒ€‚ğ\n‘Ì•\‚ÉW‚ß‚Ä@Î‰»‚µ‚½a
@@ -3374,7 +3374,7 @@ hardened the calcium building on their body!
 
 
 //\n
-<$06>\n
+\n
 <$1C>
 //T‚É@‹ò‚ç‚¢‚Â‚¢‚½a\n
 T\n
@@ -3390,7 +3390,7 @@ aa!
 
 
 //\n
-<$06>\n
+\n
 <$1C>
 //aa
 a!
@@ -3402,7 +3402,7 @@ a!
 
 
 //\n
-<$06>\n
+\n
 <$1C>
 //A‚Í\n”’‚¢‘§‚ğ@‘å—Ê‚É“f‚¢‚½a
 A\n
@@ -3414,7 +3414,7 @@ exhaled a great white fog!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //K‚Ì‘«Œ³‚Í\ná‚É@‚¤‚¸‚Ü‚Á‚½a
@@ -3427,7 +3427,7 @@ K's feet were buried in snow!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Ì‘O•û‚Í\ná‚É@‚¤‚¸‚Ü‚Á‚½a
@@ -3440,7 +3440,7 @@ A's front was blocked by snow!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Ì‘O“ª•”‚É@‰s‚¢—²‹Na\n
@@ -3456,7 +3456,7 @@ a!
 
 
 //\n
-<$06>\n
+\n
 <$1C>
 //aa
 a!
@@ -3468,7 +3468,7 @@ a!
 
 
 //\n“ª‚ğ‚³‚°‚Ä@“ËŒ‚‚µ‚½a
-<$06>\n
+\n
 Crouched and dashed!
 <$00>
 
@@ -3478,7 +3478,7 @@ Crouched and dashed!
 
 
 //\nŒû‚©‚ç@á‚ğ“f‚¢‚½a
-<$06>\n
+\n
 A snow storm hurled from their mouth!
 <$00>
 
@@ -3487,7 +3487,7 @@ A snow storm hurled from their mouth!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í@u‚ `ƒ“v‚Æ\nØ‚È‚¢“f‘§‚ğ@‚à‚ç‚µ‚½c
@@ -3500,7 +3500,7 @@ A let out a loud moan...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚Í@Ô–Ê‚µ‚½c
@@ -3512,7 +3512,7 @@ T blushed...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í@‚É‚Á‚±‚èÎ‚Á‚Ä\n“Š‚°ƒLƒbƒX‚ğ@”ò‚Î‚µ‚½a
@@ -3524,7 +3524,7 @@ A smiled and blew a kiss!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í@‘å’_‚Èƒ|[ƒY‚Å\n‚¨K‚ğ@U‚Á‚½a
@@ -3537,7 +3537,7 @@ A lewdly thrust their hips!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚Í\n‚»‚Ì•”•ª‚É@Œ©‚Æ‚ê‚Ä‚¢‚éc
@@ -3549,7 +3549,7 @@ T couldn't look away...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í@¬ñ‚ğ‚©‚µ‚°‚Ä\nƒEƒCƒ“ƒN‚µ‚½a
@@ -3561,7 +3561,7 @@ A tilted their head and winked!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚Í\n‚Ü‚ñ‚Ü‚Æ@è‚È‚¸‚¯‚ç‚ê‚½a
@@ -3574,7 +3574,7 @@ T was successfully wooed!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í\n‰‹}è“–‚Ä‚ğ@‚İ‚½a
@@ -3587,7 +3587,7 @@ A attempted first aid!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í\nuƒO‚é‚ë‚ë‚ëv‚Æ\n’á‚­‚¤‚È‚Á‚½a
@@ -3600,7 +3600,7 @@ A let out a low growl!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í\nuƒO‚é‚é‚é@‚é[[[ƒ“v‚Æ\n‚Q“x@’·‚­–i‚¦‚½a
@@ -3612,7 +3612,7 @@ A growled loudly 2 times!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //uƒO‚é‚é‚é@‚é[[[ƒ“v‚Æ\n‚Q“x@’·‚­–i‚¦‚Ä\n
 A growled loudly 2 times!\n
 <$1C>
@@ -3626,7 +3626,7 @@ T appeared!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í@
@@ -3642,7 +3642,7 @@ T!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í@ƒŠƒ“ƒ_‚ğ\n•ø‚«‚©‚©‚¦‚Ä@“¦‚°‚½a
@@ -3655,7 +3655,7 @@ A picked up Linda and fled!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í@ƒŠƒ“ƒ_‚ğ\n‚Ğ‚«‚¸‚Á‚Ä@“¦‚°‚½a
@@ -3668,7 +3668,7 @@ A dragged Linda and fled!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚Ì‘Ì‚É\nŠÃ‚¢‚è‚ª@‚µ‚İ‚Â‚¢‚½c
@@ -3681,7 +3681,7 @@ T's body was stained in a sweet aroma...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1D>
 //‚Í\nu‚­ŠÔ‚É@•…‚Á‚½c
@@ -3694,7 +3694,7 @@ rotted away in an instant...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //‚µ‚©‚µ@“¹‹ï‘Ü‚Ì’†g‚Í\n­‚µ@”G‚ê‚½‚¾‚¯‚¾‚Á‚½ca
 The contents of the item bag got a bit wet.
 <$12>
@@ -3705,7 +3705,7 @@ The contents of the item bag got a bit wet.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í\n‚Q‘Ì‚É@•ª—ô‚µ‚½a
@@ -3717,7 +3717,7 @@ A split into 2!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚Í@‹»•±‚µ‚½a
@@ -3729,7 +3729,7 @@ T was roused!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //K‚Ì‘«Œ³‚Í\n…Z‚µ‚É‚È‚Á‚½a
@@ -3742,7 +3742,7 @@ K's feet were submerged in water!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚Ì‘Ì‚Í\nƒKƒ\ƒŠƒ“‚Å@¼‚Á‚½a
@@ -3756,7 +3756,7 @@ T's body was soaked in gasoline!
 
 
 //\n”RÄ«ª
-<$06>\n
+\n
 FLAMMABILITY ª
 <$12>
 <$00>
@@ -3766,7 +3766,7 @@ FLAMMABILITY ª
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚Ì‘Ì‚Í\n‰–…‚Å@¼‚Á‚½a
@@ -3780,7 +3780,7 @@ T's body was soaked in salt water!
 
 
 //\n“€Œ‹«ª
-<$06>\n
+\n
 FREEZABILITY ª
 <$12>
 <$00>
@@ -3790,7 +3790,7 @@ FREEZABILITY ª
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚Ì‘Ì‚Í\n…‚Å@¼‚Á‚½a
@@ -3804,7 +3804,7 @@ T's body was soaked in water!
 
 
 //\n’Ê“d«ª
-<$06>\n
+\n
 CONDUCTIVITY ª
 <$12>
 <$00>
@@ -3814,7 +3814,7 @@ CONDUCTIVITY ª
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚Í@–°‚Á‚½a
@@ -3827,7 +3827,7 @@ T slept!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í\n
@@ -3843,7 +3843,7 @@ T!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í\n–hŒä‚É@“O‚µ‚½a
@@ -3856,7 +3856,7 @@ A kept guarding!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Ì‘«Œ³‚Í\n‰Š‚É•ï‚Ü‚ê‚½a
@@ -3869,7 +3869,7 @@ A's feet were engulfed in flames!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //‰Š‚Í@‚³‚ç‚É@”R‚¦L‚ª‚Á‚½a
 The flames spread farther!
 <$12>
@@ -3880,7 +3880,7 @@ The flames spread farther!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚Í@¨–Â‚è‚ª‚µ‚Ä\n­‚µ@‚æ‚ë‚ß‚¢‚½c
@@ -3893,7 +3893,7 @@ T's ears rang, and they flinched...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚Ì“µ‚Ì‰œ‚Å\n”’‚¢ƒ‚ƒm‚ª@“_–Å‚µ‚½c
@@ -3906,7 +3906,7 @@ T felt a white flash before their eyes.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í\n
@@ -3923,7 +3923,7 @@ grabbed and swallowedQ
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ƒPƒ“‚Í@‚ ‚í‚Ä‚Ä\n“¹‹ï‘Ü‚ğ@‰B‚µ‚½a
 Ken promptly hid the item bag!
 <$12>
@@ -3934,7 +3934,7 @@ Ken promptly hid the item bag!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //•Ó‚è‚É@_‚¢L‚¢‚ª\n—§‚¿‚ß‚½c
 A foul odor hovered over the area...
 <$12>
@@ -3945,7 +3945,7 @@ A foul odor hovered over the area...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚à\nuƒO‚é‚ë@ƒO‚é‚ëv‚Æ\n• ‚ğ–Â‚ç‚µ‚½a
@@ -3958,7 +3958,7 @@ T let out a gutterly growl back.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚Í@‰Ì‚É‡‚í‚¹‚Ä\n
@@ -3973,7 +3973,7 @@ T got into rhythm and stripped off their
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚Í@›‘R‚Æ‚µ‚Ä\n•·‚«‚Ù‚ê‚½c
@@ -3986,7 +3986,7 @@ T melted in ecstasy...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í\n
@@ -4001,7 +4001,7 @@ A hid themself under
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í\n
@@ -4016,15 +4016,15 @@ T!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚Í\nˆÙí‚ÈƒJƒ†ƒ~‚É@‚¨‚»‚í‚ê‚½a\n
 T felt a bizarre itch!\n
-
+<$06>
 //BP
 BP
-
+<$04>
 //‚ğ@••‚¶‚ç‚ê‚½a
 is disabled!
 <$12>
@@ -4035,7 +4035,7 @@ is disabled!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Ì‘Sg‚ğ\n‡‚Ì‰t‘Ì‚ª@•ï‚İ‚ñ‚¾a
@@ -4049,7 +4049,7 @@ gel!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í@‘Sg‚ÌŠ¾‘B‚©‚ç\n‡‚Ì‘Ì‰t‚ğ@•¬o‚µ‚½a
@@ -4062,7 +4062,7 @@ A's sweat glands all sweated purple!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í\nƒkƒ‹ƒkƒ‹‚É@‚È‚Á‚½a
@@ -4075,7 +4075,7 @@ A became slimy!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //C‚Ìè‚Ì‚Ğ‚ç‚©‚ç\n‘MŒõ‚ª‘–‚éa
@@ -4089,7 +4089,7 @@ C's palms flashed white!
 
 
 //\nƒuƒ‹ƒuƒ‹‚Æ@A‚ğk‚í‚¹‚½\n¨‚ğ‚Â‚ñ‚´‚­@
-<$06>\n
+\n
 A tremble, a throat quiver, a split\n
 eardrum...
 <$1C>
@@ -4103,7 +4103,7 @@ a!
 
 
 //\n‚İ‚é‚İ‚é–c‚ç‚Ş@ƒŠƒ“ƒ_‚Ì‹¹\n
-<$06>\n
+\n
 Linda's swelling breasts fired!\n
 <$1C>
 //a@”­Ëa
@@ -4116,7 +4116,7 @@ a!
 
 
 //\n
-<$06>\n
+\n
 <$1C>
 //A‚Í@‹¹‚ğk‚í‚¹‚½\n
 A's breasts throbbed!\n
@@ -4131,7 +4131,7 @@ a!
 
 
 //\n–Ò“Å‚Ì‘Á‰t‚ğ@”­Ë‚µ‚½a
-<$06>\n
+\n
 They fired a deadly mucus!
 <$00>
 
@@ -4140,7 +4140,7 @@ They fired a deadly mucus!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚Ì
@@ -4152,7 +4152,7 @@ T'sTESTING
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚Ì
@@ -4164,7 +4164,7 @@ T'sTESTING
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚Ì
@@ -4176,7 +4176,7 @@ T'sTESTING
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í@
@@ -4195,12 +4195,12 @@ into theirQ
 
 
 //\nUŒ‚—Í
-<$06>\n
+\n
 ATK
-<$1E>
+<$06><$1E>
 //@
 @
-
+<$04>
 <$00>
 
 
@@ -4209,12 +4209,12 @@ ATK
 
 
 //\n‘f‘‚³
-<$06>\n
+\n
 SPD
-<$1E>
+<$06><$1E>
 //@
 @
-
+<$04>
 <$00>
 
 
@@ -4223,12 +4223,12 @@ SPD
 
 
 //\nç”õ—Í
-<$06>\n
+\n
 DEF
-<$1E>
+<$06><$1E>
 //@
 @
-
+<$04>
 <$00>
 
 
@@ -4236,7 +4236,7 @@ DEF
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚Ì\n‘Ì’²‚ª@Œ³‚É–ß‚Á‚½a
@@ -4250,7 +4250,7 @@ condition returned to normal!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚Í\n‰½‚Æ‚©@Š¬‚¦‚½a
@@ -4264,7 +4264,7 @@ held on!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //‚µ‚©‚µ@Œø‰Ê‚Í‚È‚©‚Á‚½a
 ...But it didn't work!
 <$12>
@@ -4275,7 +4275,7 @@ held on!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚É‚Í\nŒø‰Ê‚ª@‚È‚©‚Á‚½a
@@ -4289,7 +4289,7 @@ wasn't effected!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //E‚Í\nK”ö‚ğŠª‚¢‚Ä@“¦‚°o‚µ‚½a
@@ -4303,7 +4303,7 @@ turned tail and ran!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //E‚Í@“¦‚°‚½a
@@ -4316,7 +4316,7 @@ EQran away!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1D><$1C>
 //A‚Ì’ÇŒ‚a
@@ -4329,7 +4329,7 @@ EQpursued!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //G‚É\nƒ}ƒCƒiƒXEƒ_ƒ[ƒWa
@@ -4342,7 +4342,7 @@ negative damage!
 
 
 
-<$06><$1C>
+<$1C>
 //T‚Í\n‚Ì‚½‚¤‚¿‰ñ‚Á‚½a
 T\n
 writhed in pain!
@@ -4353,7 +4353,7 @@ writhed in pain!
 
 
 
-<$06><$1C>
+<$1C>
 //T‚Í@¸_‚µ‚½a
 T\n
 fainted!
@@ -4364,7 +4364,7 @@ fainted!
 
 
 
-<$06><$1C>
+<$1C>
 //T‚Í\n‚Ì‚½‚¤‚¿‰ñ‚Á‚Ä@‹ê‚µ‚ñ‚¾a
 T\n
 writhed and wailed!
@@ -4375,7 +4375,7 @@ writhed and wailed!
 
 
 
-<$06><$1C>
+<$1C>
 //T‚Ì‘Sg‚ª\nÄ‚¯‚½‚¾‚ê‚½a
 T\n
 whole body was hideously burned!
@@ -4386,7 +4386,7 @@ whole body was hideously burned!
 
 
 
-<$06><$1C>
+<$1C>
 //T‚É
 TQtook
 <$00>
@@ -4396,12 +4396,12 @@ TQtook
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1D>
 //\n
 \n
-<$1E>
+<$06><$1E><$04>
 //ƒ_ƒ[ƒW
 Qdamage!
 <$12>
@@ -4412,7 +4412,7 @@ TQtook
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$15>
 //R
@@ -4431,7 +4431,7 @@ G's\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$15>
 //R
@@ -4450,7 +4450,7 @@ G's\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$15>
 //R
@@ -4469,7 +4469,7 @@ G's\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //G‚Ì
@@ -4481,7 +4481,7 @@ G'sTESTQ
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //G‚Ì
@@ -4493,7 +4493,7 @@ G'sTESTQ
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //‰½Ò‚©‚ª@
 Something appeared toQ
 <$1D>
@@ -4506,7 +4506,7 @@ Something appeared toQ
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚ª@Œ»‚ê‚½a
@@ -4522,7 +4522,7 @@ TQappeared!
 #WRITE(PTR, $0096)
 #WRITE(PTR, $0098)
 #WRITE(PTR, $009A)
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //D‚Í\ní‚¤—Í‚ğ@¸‚Á‚½c
@@ -4536,7 +4536,7 @@ lost the strength to fight...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //D‚Í\n“y‚É•Ô‚Á‚½ca
@@ -4550,7 +4550,7 @@ returned to the soil...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //D‚Ì‘Ì‚Í\n”ò‚ÑU‚Á‚½ca
@@ -4564,7 +4564,7 @@ remnants scattered...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //D‚Í\n’ïR‚ğ@‚â‚ß‚½
@@ -4580,7 +4580,7 @@ stopped resisting.
 
 #WRITE(PTR, $009C)
 #WRITE(PTR, $009E)
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚Ìg‘Ì‚Í@­‚µ‚Ù‚Ä‚Á‚½
@@ -4593,7 +4593,7 @@ TQstruggled to breathe.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚ÌŒÄ‹z‚ª@r‚­‚È‚Á‚½
@@ -4606,7 +4606,7 @@ T's eyes wettened.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚Í@“µ‚ğ‚¤‚é‚Ü‚¹‚½
@@ -4619,7 +4619,7 @@ TQsighed in dismay.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚Í@‚¹‚Â‚È‚¢—­‘§‚ğ‚Â‚¢‚½
@@ -4632,7 +4632,7 @@ TQsighed deeply.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚Í@ƒ‚ƒWƒ‚ƒW‚µ‚½
@@ -4645,7 +4645,7 @@ TQfidgeted.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚Í@í‚¤—Í‚ğ\n‚Æ‚è‚à‚Ç‚µ‚½
@@ -4659,7 +4659,7 @@ found the strength to fight!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //T‚Í@g‘Ì‚ª\n‚µ‚Ñ‚ê‚Ä‚µ‚Ü‚Á‚½
@@ -4677,7 +4677,7 @@ T's body went numb.
 #WRITE(PTR, $00A4)
 #WRITE(PTR, $00A6)
 //¬—
-<$06>Confusion
+Confusion
 <$00>
 
 
@@ -4686,7 +4686,7 @@ T's body went numb.
 
 
 //–³“G
-<$06>Inbincibility
+Inbincibility
 <$00>
 
 
@@ -4695,7 +4695,7 @@ T's body went numb.
 
 
 //–½—ß
-<$06>Order
+Order
 <$00>
 
 
@@ -4704,7 +4704,7 @@ T's body went numb.
 
 
 //Œ¦…^Ã–°^¸_
-<$06>Web/Trance/Charm
+Web/Trance/Charm
 <$00>
 
 
@@ -4713,7 +4713,7 @@ T's body went numb.
 
 
 //–³·•Ê
-<$06>Freely
+Freely
 <$00>
 
 
@@ -4722,7 +4722,7 @@ T's body went numb.
 
 
 //‚°‚ë^_Œo
-<$06>Vomit^Nerves
+Vomit^Nerves
 <$00>
 
 
@@ -4731,7 +4731,7 @@ T's body went numb.
 
 
 //‡^•ÛŒìF
-<$06>Violet^Camouflage
+Violet^Camouflage
 <$00>
 
 
@@ -4740,7 +4740,7 @@ T's body went numb.
 
 
 //–û
-<$06>Oil
+Oil
 <$00>
 
 
@@ -4749,7 +4749,7 @@ T's body went numb.
 
 
 //‰–
-<$06>Salt
+Salt
 <$00>
 
 
@@ -4758,7 +4758,7 @@ T's body went numb.
 
 
 //…
-<$06>Fluid
+Fluid
 <$00>
 
 
@@ -4767,7 +4767,7 @@ T's body went numb.
 
 
 //UŒ‚—ÍŒø‰Ê
-<$06>ATK effect
+ATK effect
 <$00>
 
 
@@ -4776,7 +4776,7 @@ T's body went numb.
 
 
 //ç”õ—ÍŒø‰Ê
-<$06>DEF effect
+DEF effect
 <$00>
 
 
@@ -4785,7 +4785,7 @@ T's body went numb.
 
 
 //‚·‘‚³Œø‰Ê
-<$06>SPD effect
+SPD effect
 <$00>
 
 
@@ -4794,7 +4794,7 @@ T's body went numb.
 
 
 //–½’†—¦Œø‰Ê
-<$06>HIT effect
+HIT effect
 <$00>
 
 
@@ -4803,7 +4803,7 @@ T's body went numb.
 
 
 //ƒŠƒ“ƒ_•Ï‚°
-<$06>Linda Brain
+Linda Brain
 <$00>
 
 
@@ -4812,7 +4812,7 @@ T's body went numb.
 
 
 //‹Q‰ì
-<$06>Hunger
+Hunger
 <$00>
 
 
@@ -4820,7 +4820,7 @@ T's body went numb.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //C‚Ìu
@@ -4837,12 +4837,12 @@ C'sQ
 
 
 //\n’m”\ƒ`ƒFƒbƒN
-<$06>\n
+\n
 INT check:Q
-<$1E><$0F>
+<$06><$1E><$0F>
 //-
 -
-<$1E>
+<$1E><$04>
 <$00>
 
 
@@ -4851,9 +4851,9 @@ INT check:Q
 
 
 //\nÀsŠm—¦
-<$06>\n
+\n
 Probability
-<$1E>
+<$06><$1E><$04>
 <$00>
 
 
@@ -4862,7 +4862,7 @@ Probability
 
 
 //\nƒŒƒxƒ‹{‚RˆÈã
-<$06>\n
+\n
 LVL+3(or higher)
 <$00>
 
@@ -4871,7 +4871,7 @@ LVL+3(or higher)
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //C‚Ìs“®
@@ -4884,15 +4884,15 @@ C's action
 
 
 //\nƒ^[ƒQƒbƒg
-<$06>\n
+\n
 Target
-<$1E><$0F>
+<$06><$1E><$0F>
 //-
 -
 <$1E>
 //=
 =
-<$1C>
+<$04><$1C>
 //T
 T
 <$00>
@@ -4903,7 +4903,7 @@ T
 
 
 //\nW’†ƒ^[ƒQƒbƒg
-<$06>\n
+\n
 Focused target
 <$1C>
 //T
@@ -4916,7 +4916,7 @@ T
 
 
 //›
-<$06>›
+›
 <$00>
 
 
@@ -4925,7 +4925,7 @@ T
 
 
 //~
-<$06>~
+~
 <$00>
 
 
@@ -4934,7 +4934,7 @@ T
 
 
 //
-<$06>
+
 <$1D>
 <$00>
 
@@ -4951,7 +4951,7 @@ T
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //’ÊíUŒ‚
 Normal Attack
 <$00>
@@ -4963,7 +4963,7 @@ Normal Attack
 
 <$06>
 //BP
-
+<$04>
 //•s‘«
 Qtoo low!
 <$00>
@@ -4975,7 +4975,7 @@ Normal Attack
 
 <$06>
 //BP
-
+<$04>
 //‹Ö~
 Qblocked!
 <$00>
@@ -4986,7 +4986,7 @@ Normal Attack
 
 
 //\n‰°•aÒ
-<$06>\n
+\n
 Flinch
 <$00>
 
@@ -4996,7 +4996,7 @@ Flinch
 
 
 //\n–³“S–C
-<$06>\n
+\n
 Berserk
 <$00>
 
@@ -5006,7 +5006,7 @@ Berserk
 
 
 //\nƒoƒ‰ƒ“ƒX
-<$06>\n
+\n
 Balanced
 <$00>
 
@@ -5016,7 +5016,7 @@ Balanced
 
 
 //\n}‹³Ò
-<$06>\n
+\n
 Martyr
 <$00>
 
@@ -5026,7 +5026,7 @@ Martyr
 
 
 //\n—ÂŒ¢Œü‚«
-<$06>\n
+\n
 Dog facing=
 <$1D>
 <$00>
@@ -5037,7 +5037,7 @@ Dog facing=
 
 
 //\n—ÂŒ¢ƒ^[ƒQƒbƒg
-<$06>\n
+\n
 Dog target=
 <$1C>
 //T
@@ -5049,7 +5049,7 @@ Dog target=
 
 
 //\nƒPƒ““¦‚°‚½‚Ì‚Å“¦‚°‚éH
-<$06>\n
+\n
 Ken fled. Follow?
 <$00>
 
@@ -5059,7 +5059,7 @@ Ken fled. Follow?
 
 
 //\n“¦‚°‚é•s‰Â
-<$06>\n
+\n
 Can't get away!
 <$00>
 
@@ -5069,7 +5069,7 @@ Can't get away!
 
 
 //\n
-<$06>\n
+\n
 <$1D>
 //‚Ö“¦‚°‚é‰Â
 's your one shot!
@@ -5081,7 +5081,7 @@ Can't get away!
 
 
 //\n
-<$06>\n
+\n
 <$1D>
 <$00>
 
@@ -5091,7 +5091,7 @@ Can't get away!
 
 
 //\n–½—ß–³Œø
-<$06>Invalid command!
+Invalid command!
 <$00>
 
 
@@ -5099,7 +5099,7 @@ Can't get away!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //—×Ú“G
 Adjacent enemy
 <$00>
@@ -5109,7 +5109,7 @@ Adjacent enemy
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //“d‹C‰t‘ÌUŒ‚‚ÌŒø‰Ê”ÍˆÍŠg‘å
 Boosts electric/liquid efficacy.
 <$00>
@@ -5120,9 +5120,9 @@ Boosts electric/liquid efficacy.
 
 
 //\n’m”\ƒ`ƒFƒbƒN
-<$06>\n
+\n
 Intelligence check!
-<$1E>
+<$06><$1E><$04>
 <$00>
 
 
@@ -5137,7 +5137,7 @@ Intelligence check!
 
 
 //X
-<$06>X
+X
 <$00>
 
 
@@ -5146,7 +5146,7 @@ Intelligence check!
 
 
 #WRITE(PTR, $00A8)
-<$06><CLEAR>
+<CLEAR>
 //ç”õ—Í
 DEFQ
 <$1E>
@@ -5165,16 +5165,16 @@ a!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚ÌUŒ‚a\n
 A\n
 riskedQ
-
+<$06>
 //HP
 HP
-<$1E>
+<$04><$1E>
 //@\n
 @ toQ\n
 <$1C>
@@ -5187,7 +5187,7 @@ a!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚ÌUŒ‚a\n“ªã‚æ‚èU‚è‰º‚ë‚³‚ê‚é@ˆ«–‚‚Ì’Æ\n
@@ -5204,7 +5204,7 @@ a!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í\n
@@ -5220,7 +5220,7 @@ movedQ
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1D><$1C>
 //A‚Ì\n˜A‘±ƒAƒ^ƒbƒNa
@@ -5233,7 +5233,7 @@ attacked repeatedly!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í\n
@@ -5248,7 +5248,7 @@ A hid themself under
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //A‚Í@‚¨“¾ˆÓ‚Ì\n

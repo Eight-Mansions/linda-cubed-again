@@ -66,7 +66,7 @@ c124a2.obj
 
 #WRITE(PTR, $001C)
 //オークション会場
-<$06>Auction House＿
+Auction House＿
 <$00>
 
 
@@ -74,7 +74,7 @@ c124a2.obj
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -90,7 +90,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -107,7 +107,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -124,7 +124,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -135,7 +135,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -146,7 +146,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -157,7 +157,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //長らく　ご愛顧いただきました\nネブール名物、珍獣オークションも\n今シーズンをもちまして　終了です
 Thank you for joining for Nebul's deeply\n
 unique and deeply loved rare creature\n
@@ -176,7 +176,7 @@ Goodbye!
 
 
 //秋
-<$06>autumn
+autumn
 <$00>
 
 
@@ -185,7 +185,7 @@ Goodbye!
 
 
 //春
-<$06>spring
+spring
 <$00>
 
 
@@ -193,7 +193,7 @@ Goodbye!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //オークションは、１シーズンにつき\n１回だけ　開催されます
 We hold auctions once per season.
 <$12>
@@ -213,7 +213,7 @@ so come back next＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //オークションに　参加される方は\nカーゴの空きを作って\n申し込みください
 To those who wish to enter the auction,\n
 please make extra space in your trans-cargo\n
@@ -226,7 +226,7 @@ units beforehand.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //他では絶対、手に入らない動物が\nボタンひとつで　お客様の物になる…\nこんなに楽な方法は　ございません
 Animals you can't find anywhere else can be\n
 yours at the mere press of a button. Doesn't\n
@@ -245,7 +245,7 @@ but eh.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //掘り出しモノが出ると　いいですな
 If I can land a good deal, I'll be happy.
 <$12>
@@ -257,7 +257,7 @@ If I can land a good deal, I'll be happy.
 
 
 //秋
-<$06>autumn
+autumn
 <$00>
 
 
@@ -266,7 +266,7 @@ If I can land a good deal, I'll be happy.
 
 
 //春
-<$06>spring
+spring
 <$00>
 
 
@@ -274,7 +274,7 @@ If I can land a good deal, I'll be happy.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //次の
 Let's look forward to the＿
 <$1D>
@@ -288,7 +288,7 @@ Let's look forward to the＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //これで　このオークションも\n終わりかと思うと、\nなんとも　寂しい限りですな…
 And thus concludes the auction. It feels\n
 lonelier here already...
@@ -301,7 +301,7 @@ lonelier here already...
 
 
 //今日は　
-<$06>I only came with＿
+I only came with＿
 <$1E><$0F>
 //0000￥ぽっちしか\n持ち合せがないから　きっとダメね
 0000￥ today. Let's hope that's enough to\n
@@ -314,7 +314,7 @@ score.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //たまには　グロテスクな動物じゃなくて\nあなたみたいに　かわいくて若い\n男の子が　出てくれば…
 Filthy animals are one thing, but if they put\n
 a cute young man like you on the stage...
@@ -322,16 +322,16 @@ a cute young man like you on the stage...
 \n
 <CLEAR>
 //
-
+<$06>
 //100
 1,000,000
-
+<$04>
 //万￥でも　
 ￥, no, not even\n
-
+<$06>
 //200
 2,000,000
-
+<$04>
 //万￥でも\n競り落として　みせるんだけどねェ\nウフフフ…
 ￥ could stop me from getting a taste,\n
 heehee...
@@ -344,7 +344,7 @@ heehee...
 
 
 //オス
-<$06>♂
+♂
 <$00>
 
 
@@ -353,7 +353,7 @@ heehee...
 
 
 //メス
-<$06>♀
+♀
 <$00>
 
 
@@ -363,7 +363,7 @@ heehee...
 
 //<$1B>
 //ドラゴン
-<$06>Dragon
+Dragon
 <$00>
 
 
@@ -373,7 +373,7 @@ heehee...
 
 //<$1B>
 //プテラノ
-<$06>Pteranodon
+Pteranodon
 <$00>
 
 
@@ -383,7 +383,7 @@ heehee...
 
 //<$1B>
 //トリケラ
-<$06>Triceratops
+Triceratops
 <$00>
 
 
@@ -393,7 +393,7 @@ heehee...
 
 //<$1B>
 //アンコウ
-<$06>Anglerfish
+Anglerfish
 <$00>
 
 
@@ -401,7 +401,7 @@ heehee...
 
 
 
-<$06><$1D>
+<$1D>
 //の
 ＿nets the＿
 <$1D>
@@ -418,7 +418,7 @@ heehee...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //競売人としての　俺の夢はサ…
 My dream as an auctioneer?
 <$12>
@@ -437,7 +437,7 @@ animal or its price.
 
 
 //意外なほど　安く落札されることも\nあるし　その逆もよくある\nオークションのダイゴミですなあ
-<$06>The real thrill behind any auction is seeing\n
+The real thrill behind any auction is seeing\n
 high-tier items sold at low prices, and\n
 vice-versa.
 <$12>
@@ -448,7 +448,7 @@ vice-versa.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //落札した動物、１種類につき\n１頭は　逃がしてやることに\n決めてましてねェ
 I have an idea to release 1 animal from every\n
 species I successfully bid on.
@@ -467,7 +467,7 @@ get, the less I worry about such trifles.
 
 
 #WRITE(PTR, $001E)
-<$06><$1D>
+<$1D>
 //　
 
 <$1E>
@@ -481,7 +481,7 @@ x\n
 
 
 //オークション会場へ　ようこそ∥\n
-<$06>Welcome to the auction house!\n
+Welcome to the auction house!\n
 <$01>
 //参加する
 Join
@@ -517,7 +517,7 @@ bg_29_sp.tmz
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //またどこかの　暗闇の中で\n皆様に　お会いできる日を\n楽しみに　しています
 I look forward to seeing you again, wherever\n
 that shady underbelly of the cosmos may be.
@@ -534,7 +534,7 @@ Sayonara!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //お客様　お互いのために\nくれぐれも　この会場のことは\nご内密に　お願いしますよ
 We ask all patrons to keep the location and\n
 activities of this venue between yourselves.
@@ -547,7 +547,7 @@ activities of this venue between yourselves.
 
 
 //
-<$06><$15>
+<$15>
 //Yオークション
 YAuction
 <$00>
@@ -557,7 +557,7 @@ YAuction
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //紳士、淑女の皆様に　申し上げます∥\n本日のおすすめは　ズバリ　これです∥
 Greetings, ladies and gentlemen!\n
 We can't wait for you to see what's in store\n
@@ -570,7 +570,7 @@ today!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //長らく　ご愛顧いただきました\nネブール名物、珍獣オークションも\n今シーズンをもちまして　終了です
 This season marks the closure of Nebul's\n
 deeply unique and deeply loved rare creature\n
@@ -583,7 +583,7 @@ auction,
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //以上をもちまして　今シーズンの\nオークションは　終了です\nまたのご来場を　お待ち申し上げます
 And with that, we conclude this season's\n
 auction. We look forward to seeing you next\n
@@ -596,7 +596,7 @@ time!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //引き続き　オークションに\n参加なさいますか？\n
 Would you like to stay in the auction?\n
 <$01>
@@ -617,7 +617,7 @@ I'm done
 
 
 //超目玉
-<$06>showpiece
+showpiece
 <$00>
 
 
@@ -626,7 +626,7 @@ I'm done
 
 
 //珍動物
-<$06>rare animal
+rare animal
 <$00>
 
 
@@ -635,7 +635,7 @@ I'm done
 
 
 //推奨品
-<$06>hot item
+hot item
 <$00>
 
 
@@ -644,7 +644,7 @@ I'm done
 
 
 //超奇獣
-<$06>strange creature
+strange creature
 <$00>
 
 
@@ -653,7 +653,7 @@ I'm done
 
 
 //お買得
-<$06>bargain
+bargain
 <$00>
 
 
@@ -662,7 +662,7 @@ I'm done
 
 
 //希少品
-<$06>rare item
+rare item
 <$00>
 
 
@@ -670,7 +670,7 @@ I'm done
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //続いての　
 Our next＿
 <$1D>
@@ -690,7 +690,7 @@ M%03dF.OBJ
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1D>
 //＿
@@ -706,7 +706,7 @@ x＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ぜひ手に入れたい方は\n他のお客様に負けないように\n○ボタンを押し続けてください∥
 If you see something you want, keep pressing\n
 that ○ button so no one else gets it first!
@@ -718,10 +718,10 @@ that ○ button so no one else gets it first!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //では　
 Now starting at＿
-<$1D><$1E><$14>
+<$1D><$06><$1E><$14><$04>
 //￥から\nまいりましょう
 ￥!
 <$12>
@@ -732,7 +732,7 @@ Now starting at＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 
 <$1D>
@@ -741,7 +741,7 @@ Now starting at＿
 <$1E>
 //頭\n
 x\n
-<$1D><$1E><$14>
+<$1D><$06><$1E><$14><$04>
 //￥で　
 ￥ for the＿
 <$1D>
@@ -763,7 +763,7 @@ x\n
 
 
 //ＧＥＴ∥
-<$06>Congratulations!
+Congratulations!
 <$12>
 <$00>
 
@@ -772,7 +772,7 @@ x\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1D>
 //　
@@ -801,7 +801,7 @@ Ken:＿
 
 
 //
-<$06><$02>
+<$02>
 //200
 200
 <$03>
@@ -810,10 +810,10 @@ Ken:＿
 <$19>
 //1
 1
-<$1E><$19>
+<$06><$1E><$19>
 //0
 0
-
+<$04>
 <$00>
 
 
@@ -821,7 +821,7 @@ Ken:＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //この　奇獣は\nお気に召しませんでしたか？\n
 Did you not like these strange creatures?\n
 <$01>
@@ -842,7 +842,7 @@ No, I want out!
 
 
 //ケン様
-<$06>Ken
+Ken
 <$00>
 
 
@@ -851,7 +851,7 @@ No, I want out!
 
 
 //アホラ商会様
-<$06>Aholz Co.
+Aholz Co.
 <$00>
 
 
@@ -860,7 +860,7 @@ No, I want out!
 
 
 //Ｊ．Ｂリード様
-<$06>JB Reed
+JB Reed
 <$00>
 
 
@@ -869,7 +869,7 @@ No, I want out!
 
 
 //Ｍｒ．ヤン様
-<$06>Mr. Yang
+Mr. Yang
 <$00>
 
 
@@ -878,7 +878,7 @@ No, I want out!
 
 
 //ミツエＬｔｄ様
-<$06>Mitsue Ltd.
+Mitsue Ltd.
 <$00>
 
 
@@ -887,7 +887,7 @@ No, I want out!
 
 
 //パーマＪｒ．様
-<$06>Perm Jr.
+Perm Jr.
 <$00>
 
 
@@ -898,7 +898,7 @@ No, I want out!
 <$06>
 //C&G CORP
 C&G Corp.
-
+<$04>
 //様
 <$00>
 
@@ -908,7 +908,7 @@ C&G Corp.
 
 
 //七福連合様
-<$06>Team 777
+Team 777
 <$00>
 
 
@@ -923,7 +923,7 @@ C&G Corp.
 
 
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -938,7 +938,7 @@ None of the scents around here stand out.
 
 
 //……東
-<$06>...East
+...East
 <$00>
 
 
@@ -947,7 +947,7 @@ None of the scents around here stand out.
 
 
 //……西
-<$06>...West
+...West
 <$00>
 
 
@@ -956,7 +956,7 @@ None of the scents around here stand out.
 
 
 //……南
-<$06>...South
+...South
 <$00>
 
 
@@ -965,7 +965,7 @@ None of the scents around here stand out.
 
 
 //……北
-<$06>...North
+...North
 <$00>
 
 
@@ -974,7 +974,7 @@ None of the scents around here stand out.
 
 
 //…北東
-<$06>...North-east
+...North-east
 <$00>
 
 
@@ -983,7 +983,7 @@ None of the scents around here stand out.
 
 
 //…北西
-<$06>...North-west
+...North-west
 <$00>
 
 
@@ -992,7 +992,7 @@ None of the scents around here stand out.
 
 
 //…南東
-<$06>...South-east
+...South-east
 <$00>
 
 
@@ -1001,7 +1001,7 @@ None of the scents around here stand out.
 
 
 //…南西
-<$06>...South-west
+...South-west
 <$00>
 
 
@@ -1009,7 +1009,7 @@ None of the scents around here stand out.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -1021,7 +1021,7 @@ None of the scents around here stand out.
 
 
 //、…
-<$06>! That's where we'll find a＿
+! That's where we'll find a＿
 <$1D>
 //に行けば
 .
@@ -1033,7 +1033,7 @@ None of the scents around here stand out.
 
 
 //直進
-<$06>For
+For
 <$00>
 
 
@@ -1042,7 +1042,7 @@ None of the scents around here stand out.
 
 
 //右よ
-<$06>Right
+Right
 <$00>
 
 
@@ -1051,7 +1051,7 @@ None of the scents around here stand out.
 
 
 //左よ
-<$06>Left
+Left
 <$00>
 
 
@@ -1060,7 +1060,7 @@ None of the scents around here stand out.
 
 
 //後ろ
-<$06>Back
+Back
 <$00>
 
 
@@ -1068,7 +1068,7 @@ None of the scents around here stand out.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -1080,7 +1080,7 @@ None of the scents around here stand out.
 
 
 //、絶対に
-<$06>wards, got it? I'm sure we'll find a＿
+wards, got it? I'm sure we'll find a＿
 <$1D>
 //∥
 ＿there!
@@ -1091,7 +1091,7 @@ None of the scents around here stand out.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1106,7 +1106,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…ごめんね、\n今日は　勘がはたらかないわ…
 ...Sorry. I don't have it in me today.
 <$12>
@@ -1118,7 +1118,7 @@ SLinda used her woman's intuition...
 
 
 //運命の
-<$06>Fated＿
+Fated＿
 <$00>
 
 
@@ -1127,7 +1127,7 @@ SLinda used her woman's intuition...
 
 
 //新しい
-<$06>New＿
+New＿
 <$00>
 
 
@@ -1136,7 +1136,7 @@ SLinda used her woman's intuition...
 
 
 //素敵な
-<$06>Great＿
+Great＿
 <$00>
 
 
@@ -1145,7 +1145,7 @@ SLinda used her woman's intuition...
 
 
 //未知の
-<$06>Unknown＿
+Unknown＿
 <$00>
 
 
@@ -1154,7 +1154,7 @@ SLinda used her woman's intuition...
 
 
 //何か
-<$06>things＿
+things＿
 <$00>
 
 
@@ -1163,7 +1163,7 @@ SLinda used her woman's intuition...
 
 
 //発見
-<$06>discoveries＿
+discoveries＿
 <$00>
 
 
@@ -1172,7 +1172,7 @@ SLinda used her woman's intuition...
 
 
 //お宝
-<$06>treasures＿
+treasures＿
 <$00>
 
 
@@ -1181,7 +1181,7 @@ SLinda used her woman's intuition...
 
 
 //動物
-<$06>animals＿
+animals＿
 <$00>
 
 
@@ -1190,7 +1190,7 @@ SLinda used her woman's intuition...
 
 
 //に　出会える…
-<$06>could appear.
+could appear.
 <$00>
 
 
@@ -1199,7 +1199,7 @@ SLinda used her woman's intuition...
 
 
 //が　待ってる…
-<$06>await us...
+await us...
 <$00>
 
 
@@ -1208,7 +1208,7 @@ SLinda used her woman's intuition...
 
 
 //気がするわ∥
-<$06>are there.
+are there.
 <$00>
 
 
@@ -1217,7 +1217,7 @@ SLinda used her woman's intuition...
 
 
 //チャンスよ∥
-<$06>are in our grasp!
+are in our grasp!
 <$00>
 
 
@@ -1226,7 +1226,7 @@ SLinda used her woman's intuition...
 
 
 //今しかないわ
-<$06>could slip through our fingers!
+could slip through our fingers!
 <$00>
 
 
@@ -1235,7 +1235,7 @@ SLinda used her woman's intuition...
 
 
 //間違いなし∥
-<$06>are dead head!
+are dead head!
 <$00>
 
 
@@ -1244,7 +1244,7 @@ SLinda used her woman's intuition...
 
 
 //\n
-<$06>\n
+\n
 <$1D><$1D><$1D>
 //\n
 \n
@@ -1259,7 +1259,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信があるの∥
 I'm sure of it!
 <$12>
@@ -1270,7 +1270,7 @@ I'm sure of it!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信は　ないけどね…
 Although, I'm not totally certain...
 <$12>
@@ -1281,7 +1281,7 @@ Although, I'm not totally certain...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //絶対なんだから∥
 I'm absolutely certain!
 <$12>

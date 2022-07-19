@@ -72,7 +72,7 @@ m144.obj
 
 #WRITE(PTR, $0028)
 //ネブールタワー１Ｆ
-<$06>Nebul Outlook 1F＿
+Nebul Outlook 1F＿
 <$00>
 
 
@@ -80,7 +80,7 @@ m144.obj
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -96,7 +96,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -113,7 +113,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -130,7 +130,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -141,7 +141,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -152,7 +152,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -163,7 +163,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //皆さんが　よく忘れるのは\nトランクルームに　預けた荷物、\n季節ごとに入金してる　銀行の給料…
 What everyone usually forgets is their things\n
 in storage, collecting their salary from the\n
@@ -184,7 +184,7 @@ ticket.
 
 #WRITE(PTR, $002A)
 //ネブールタワー２Ｆ
-<$06>Nebir Tower 2F＿
+Nebir Tower 2F＿
 <$00>
 
 
@@ -192,7 +192,7 @@ ticket.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -208,7 +208,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -225,7 +225,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -242,7 +242,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -253,7 +253,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -264,7 +264,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -275,7 +275,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //実は、バードライン出資者って\nこの町の　商人たちなのよ\n知らなかったでしょう？
 Little known fact: the birdline financiers\n
 are this town's general merchants!
@@ -297,7 +297,7 @@ they're leagues easier to buy here.
 
 #WRITE(PTR, $002C)
 //ネブールタワー
-<$06>Nebul Outlook
+Nebul Outlook
 <$00>
 
 
@@ -305,7 +305,7 @@ they're leagues easier to buy here.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -321,7 +321,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -338,7 +338,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -355,7 +355,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -366,7 +366,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -377,7 +377,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -389,7 +389,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 //「犬喰い」と呼ばれる　植物のいる\n場所じゃ　猟犬は使わんほうがいいよ
-<$06>If you find a flower called the Dogeater,\n
+If you find a flower called the Dogeater,\n
 keep your dogs away!
 <$12>
 \n
@@ -407,7 +407,7 @@ dinner to those nasty plants.
 
 #WRITE(PTR, $002E)
 //個
-<$06>＿
+＿
 <$00>
 
 
@@ -416,7 +416,7 @@ dinner to those nasty plants.
 
 
 //匹
-<$06>＿
+＿
 <$00>
 
 
@@ -424,13 +424,13 @@ dinner to those nasty plants.
 
 
 
-<$06><$1D>
+<$1D>
 //を
 ＿x
 <$1D>
 //ます\n
 ＿\n
-<$19>
+<$06><$19>
 //1
 1
 <$01><$1A>
@@ -442,7 +442,7 @@ S
 <$19>
 //0
 0
-
+<$04>
 //／
 ／
 <$14><$1E>
@@ -478,7 +478,7 @@ S￥
 TCU (x
 <$1E>
 //034
-
+<$06>
 //)
 )
 <$00>
@@ -488,7 +488,7 @@ TCU (x
 
 
 
-<$06><$05>
+<$05>
 //γ
 A
 <$00>
@@ -498,7 +498,7 @@ A
 
 
 
-<$06><$05>
+<$05>
 //ζ
 D
 <$00>
@@ -508,7 +508,7 @@ D
 
 
 
-<$06><$1E>
+<$1E>
 //@019
 @019
 <$00>
@@ -518,7 +518,7 @@ D
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //セレクトボタンで解説が出ます
 SELECT: Details
 <$00>
@@ -535,7 +535,7 @@ SELECT: Details
 
 
 
-<$06><$16><$15>
+<$04><$16><$15>
 //W
 W
 <$01><$1D><$02>
@@ -554,14 +554,14 @@ W
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //トランスカーゴは　１枠につき\n
 The trans-cargo unit has\n
 a＿
-
+<$06>
 //99
 99
-
+<$04>
 //頭までしか　収容できません
 ＿species capacity!
 <$12>
@@ -572,12 +572,12 @@ a＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
-
+<$06>
 //トランスカーゴ
 The trans-cargo unit＿
-
+<$04>
 //がいっぱいです
 is full!
 <$12>
@@ -588,7 +588,7 @@ is full!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //道具がいっぱいです
 The item bag is full!
 <$12>
@@ -600,10 +600,10 @@ The item bag is full!
 
 
 //
-<$06><$15>
+<$15>
 //Y
 Y
-
+<$06>
 //バードライン／
 Birdline／
 <$1D>
@@ -615,7 +615,7 @@ Birdline／
 
 
 //今日は　どちらまで　おでかけですか？
-<$06>Hello! How will you travel today?
+Hello! How will you travel today?
 <$00>
 
 
@@ -623,7 +623,7 @@ Birdline／
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //脱出シャトル最終便、\n搭乗手続キ　間モナク　終了イタシマス\nオズサットヘ　オ急ギクダサイ
 THE LAST MIGRATION SHUTTLE WILL BEGIN\n
 BOARDING SOON. PLEASE CHECK IN AT OZSAT AND\n
@@ -642,7 +642,7 @@ BE CAREFUL WHEN TRAVELING TO THE SHUTTLE.
 
 
 //今日ハ　ドチラマデ　オデカケデスカ？
-<$06>HELLO! HOW WILL YOU TRAVEL TODAY?
+HELLO! HOW WILL YOU TRAVEL TODAY?
 <$00>
 
 
@@ -650,7 +650,7 @@ BE CAREFUL WHEN TRAVELING TO THE SHUTTLE.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1D>
 //\n
@@ -667,10 +667,10 @@ Buy
 <$0E>
 //／
 ／
-<$01>
+<$01><$06>
 //シュート
 Drop
-<$0E>
+<$04><$0E>
 //／
 ／
 <$01>
@@ -690,12 +690,12 @@ Exit
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //お客様、長い間ご愛顧いただきました\n本デスクは、一応の住民避難が終了する\n
 Birdline has always enjoyed serving you\n
 face-to-face, but our front desks will be\n
 closing in＿
-
+<$06>
 //19
 19
 <$1E>
@@ -714,7 +714,7 @@ Thank you for your loyal patronage!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ただ今、西エリア中部に\n大雪警報が　出されています\n道中くれぐれも　お気をつけて！
 A heavy snowfall warning has been issues in\n
 central West Area. Please be careful on your\n
@@ -727,7 +727,7 @@ journey.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //よい　ご旅行を！
 Happy travels!
 <$12>
@@ -738,7 +738,7 @@ Happy travels!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //旅の安全を約束する　バードラインを\n次も　ご利用下さいませ
 The birdline will take you to your\n
 destination.
@@ -750,7 +750,7 @@ destination.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //タダ今、西エリア中部ニ\n大雪警報ガ　出サレテイマス\n道中クレグレモ　オ気ヲツケテ！
 CENTRAL WEST AREA CURRENTLY FACES SEVERE\n
 SNOWFALL. BE CAREFUL IF VENTURING IN THAT\n
@@ -763,7 +763,7 @@ AREA!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //長ラクノ　ゴ愛顧、\n誠ニ　アリガトウ　ゴザイマシタ
 THANK YOU FOR LOYAL PATRONAGE!
 <$12>
@@ -774,7 +774,7 @@ THANK YOU FOR LOYAL PATRONAGE!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //銀行で　お金をご都合の上、\nまた　お越しください
 If you're in a pinch, take a loan from the\n
 bank and come back.
@@ -786,7 +786,7 @@ bank and come back.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //料金不足デス\nアキラメテ　クダサイ
 INSUFFICIENT FUNDS.\n
 PLEASE TRY AGAIN.
@@ -799,7 +799,7 @@ PLEASE TRY AGAIN.
 
 
 //赤
-<$06>RED
+RED
 <$00>
 
 
@@ -808,7 +808,7 @@ PLEASE TRY AGAIN.
 
 
 //青
-<$06>BLUE
+BLUE
 <$00>
 
 
@@ -817,7 +817,7 @@ PLEASE TRY AGAIN.
 
 
 //緑
-<$06>GREEN
+GREEN
 <$00>
 
 
@@ -825,7 +825,7 @@ PLEASE TRY AGAIN.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //それでは　
 Please wait on the＿
 <$1D>
@@ -839,7 +839,7 @@ Please wait on the＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ソレデハ　
 PLEASE WAIT ON THE＿
 <$1D>
@@ -853,7 +853,7 @@ PLEASE WAIT ON THE＿
 
 
 
-<$06><$1D>
+<$1D>
 //→\n
 →\n
 <$1D>
@@ -871,7 +871,7 @@ Transfer using this route.
 
 
 
-<$06><$1D>
+<$1D>
 //→
 →
 <$1D>
@@ -892,7 +892,7 @@ TRANSFER USING THIS ROUTE.
 
 
 
-<$06><$1D>
+<$1D>
 //←→
 ←→
 <$1D>
@@ -907,7 +907,7 @@ is currently closed.
 
 
 
-<$06><$1D>
+<$1D>
 //←→
 ←→
 <$1D>
@@ -922,7 +922,7 @@ IS CURRENTLY CLOSED.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //脱出シャトル最終便、\n搭乗手続キ　間モナク　終了イタシマス\nオズサットヘ　オ急ギクダサイ
 THE LAST MIGRATION SHUTTLE WILL BEGIN\n
 BOARDING SOON. PLEASE CHECK IN AT OZSAT AND\n
@@ -936,7 +936,7 @@ PREPARE FOR DEPARTURE.
 
 
 //お客様、そのエリアは私有地ですので\nシュートサービスはできません
-<$06>The drop service cannot be used to enter\n
+The drop service cannot be used to enter\n
 private property!
 <$12>
 <$00>
@@ -947,7 +947,7 @@ private property!
 
 
 //オ客様、ソノ　エリア私有地デスノデ\n「シュートサービス」ハデキマセン
-<$06>THE DROP SERVICE CANNOT BE USED TO ENTER\n
+THE DROP SERVICE CANNOT BE USED TO ENTER\n
 PRIVATE PROPERTY!
 <$12>
 <$00>
@@ -957,7 +957,7 @@ PRIVATE PROPERTY!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //シュートサービスは\nお客様のお好きな　場所へ落と…
 Our drop service can take you directly to＿
 <$11>
@@ -968,10 +968,10 @@ Our drop service can take you directly to＿
 <CLEAR>
 //サービス料は
 The service costs＿
-<$1D>
+<$1D><$06>
 //1480
 1480
-<$14>
+<$04><$14>
 //￥です\nご利用なさいますか？\n
 ￥.\n
 Would you like to use it?\n
@@ -992,13 +992,13 @@ Not now
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //シュートサービス料金　
 THE DROP SERVICE COSTS＿
-<$1D>
+<$1D><$06>
 //1480
 1480
-<$14>
+<$04><$14>
 //￥、\nゴ利用ニ　ナラレマスカ？\n
 ￥.\n
 WOULD YOU LIKE TO USE IT?\n
@@ -1025,7 +1025,7 @@ N10.TIM
 
 
 
-<$06><$05><$03>
+<$05><$03>
 //0
 <$02>
 //16M N O P Q R S T U V W X\n
@@ -1109,7 +1109,7 @@ N10.TIM
 
 
 
-<$06><$05><$03>
+<$05><$03>
 //0
 <$02>
 //16A B C D E F G H I J K L\n
@@ -1170,7 +1170,7 @@ N10.TIM
 
 
 //
-<$06><$05><$03>
+<$05><$03>
 //0
 <$02>
 //16A B C D E F G H I J K L\n
@@ -1231,13 +1231,13 @@ N10.TIM
 
 
 //
-<$06><$15>
+<$15>
 //Y
 Y
-
+<$06>
 //バードライン
 Birdline
-
+<$04>
 //／道具買う
 ／Buy
 <$00>
@@ -1247,9 +1247,9 @@ Birdline
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
-
+<$04>
 //行き先
 DESTINATION
 <$02>
@@ -1268,9 +1268,9 @@ DESTINATION
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
-
+<$04>
 //行き先
 DESTINATION
 <$02>
@@ -1410,7 +1410,7 @@ H-19
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1426,10 +1426,10 @@ S<CLEAR>.........!
 
 
 //
-<$06><$15>
+<$15>
 //Y
 Y
-
+<$06>
 //トランクルーム
 Storage
 <$00>
@@ -1439,7 +1439,7 @@ Storage
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //お客様の財産の安全を　保証する\nトランクルームでごさいます\n
 Keep your extra belongings\n
 safe in a storage unit!\n
@@ -1466,7 +1466,7 @@ Exit
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //お引き取りは　お早目に！
 Come back when you need anything!
 <$12>
@@ -1477,7 +1477,7 @@ Come back when you need anything!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //他の町の　トランクルームでも\n自由に出し入れが　可能です\nいや、便利な世の中に　なりましたね
 The ability to access your items from any\n
 town speaks for our world's unmatched\n
@@ -1491,10 +1491,10 @@ luxuries.
 
 
 //
-<$06><$15>
+<$15>
 //Y
 Y
-
+<$06>
 //トランクルームメニュー
 Storage Menu
 <$00>
@@ -1504,7 +1504,7 @@ Storage Menu
 
 
 
-<$06><$01>
+<$01>
 //預ける
 Store
 <$0E>
@@ -1527,7 +1527,7 @@ Exit
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$03>
 //32
@@ -1548,7 +1548,7 @@ Exit
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$03>
 //32
@@ -1570,13 +1570,13 @@ Exit
 
 
 //
-<$06><$15>
+<$15>
 //Y
 Y
-
+<$06>
 //トランクルーム
 Storage
-
+<$04>
 //／預ける
 ／Store
 <$00>
@@ -1586,7 +1586,7 @@ Storage
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1D>
 //は\n預かれません
@@ -1600,13 +1600,13 @@ Storage
 
 
 //
-<$06><$15>
+<$15>
 //Y
 Y
-
+<$06>
 //トランクルーム
 Storage
-
+<$04>
 //／引出す
 ／Take
 <$00>
@@ -1616,7 +1616,7 @@ Storage
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$02>
 //124Φ\n
@@ -1646,7 +1646,7 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$02>
 //128Φ\n
@@ -1666,7 +1666,7 @@ Do not remove the card\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$02>
 //102Φ\n
@@ -1681,7 +1681,7 @@ Do not remove the card\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //フォーマットが　終了しました∥
 Formatting complete!
 <$12>
@@ -1692,7 +1692,7 @@ Formatting complete!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$02>
 //102Φ\n
@@ -1711,7 +1711,7 @@ Formatting complete!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$02>
 //108Φ\n
@@ -1730,7 +1730,7 @@ Formatting complete!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$02>
 //102Φ\n
@@ -1746,7 +1746,7 @@ Formatting complete!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$02>
 //114Φ\n
@@ -1772,7 +1772,7 @@ Formatting complete!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //このスロットは　カード未挿入です\nゲームの記録が　できません
 No card found in this slot.\n
 Game will not be saved.
@@ -1783,7 +1783,7 @@ Game will not be saved.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //このスロットのカードを　使用するには\nフォーマットする必要があります
 The card in this slot must be formatted\n
 before use.
@@ -1794,7 +1794,7 @@ before use.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //このスロットのカードは\n故障している可能性があります…
 The card in this slot may be corrupt.
 <$00>
@@ -1804,7 +1804,7 @@ The card in this slot may be corrupt.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //このスロットのカードは　２ブロックの\n空きがないので、記録できません∥
 Cannot save to this card.\n
 Minimum of 2 blocks required!
@@ -1815,7 +1815,7 @@ Minimum of 2 blocks required!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ハロー∥　コチラ、テレホンサービス\nドノ　メニュー　ニ\nアクセス　シマスカ？
 YOU HAVE REACHED\n
 THE TELEPHONE SERVICE!\n
@@ -1828,7 +1828,7 @@ HOW CAN WE HELP YOU?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$01>
 //記録センター＿
@@ -1872,7 +1872,7 @@ Miss Helga＿
 
 
 //記録センター
-<$06>THE RANGER HQ REPORT CENTER
+THE RANGER HQ REPORT CENTER
 <$00>
 
 
@@ -1881,7 +1881,7 @@ Miss Helga＿
 
 
 //留守番コール
-<$06>RANGER HQ VOICEMAIL
+RANGER HQ VOICEMAIL
 <$00>
 
 
@@ -1890,7 +1890,7 @@ Miss Helga＿
 
 
 //ネオケニア銀行
-<$06>THE NEO KENYA BANK
+THE NEO KENYA BANK
 <$00>
 
 
@@ -1899,7 +1899,7 @@ Miss Helga＿
 
 
 //気象サテライト
-<$06>THE WEATHER SATELLITE
+THE WEATHER SATELLITE
 <$00>
 
 
@@ -1908,7 +1908,7 @@ Miss Helga＿
 
 
 //宝クジ抽選発表
-<$06>THE LOTTERY NETWORK
+THE LOTTERY NETWORK
 <$00>
 
 
@@ -1917,7 +1917,7 @@ Miss Helga＿
 
 
 //ヘルガの大予言
-<$06>THE NK PSYCHIC HOTLINE
+THE NK PSYCHIC HOTLINE
 <$00>
 
 
@@ -1925,7 +1925,7 @@ Miss Helga＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //タダイマ　
 NOW FORWARDING YOU TO\n
 <$1D>
@@ -1939,7 +1939,7 @@ NOW FORWARDING YOU TO\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //レンジャー隊本部、記録センターです\nジョブの進行状況を　記録しますか？\n
 This is the Ranger HQ report center.\n
 Save your game?\n
@@ -1966,7 +1966,7 @@ Hang up
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //留守番コールに　新しいメッセージが\n
 You have＿
 <$1E>
@@ -1979,7 +1979,7 @@ You have＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //レンジャー隊本部、留守番コールです\n
 This is Ranger HQ Voicemail.\n
 <$00>
@@ -1990,7 +1990,7 @@ This is Ranger HQ Voicemail.\n
 
 
 //留守番コールは　１件もありません
-<$06>You have no new messages.
+You have no new messages.
 <$12>
 <$00>
 
@@ -2000,7 +2000,7 @@ This is Ranger HQ Voicemail.\n
 
 
 //現在までの登録メッセージ　
-<$06>Stored messages:＿
+Stored messages:＿
 <$1E>
 //件
 .
@@ -2012,7 +2012,7 @@ This is Ranger HQ Voicemail.\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //新規登録メッセージが　
 You have＿
 <$1E>
@@ -2025,7 +2025,7 @@ You have＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //新規登録メッセージは　ありません
 You have no messages.
 <$00>
@@ -2036,7 +2036,7 @@ You have no messages.
 
 
 //\n
-<$06>\n
+\n
 <$01>
 //確認をする
 Listen
@@ -2060,7 +2060,7 @@ Hang up
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //皆様のネオケニア銀行です\n
 This is NK Bank!\n
 <$01>
@@ -2099,7 +2099,7 @@ Hang up
 
 
 // %8d
-<$06>%8d
+%8d
 <$00>
 
 
@@ -2107,13 +2107,13 @@ Hang up
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //現在の預金残高は
 Acct balance:＿
 <$15>
 //R
 R
-<$1D><$14>
+<$06><$1D><$04><$14>
 //￥です\n追加融資はできません
 ￥\n
 Loans unavailable.
@@ -2125,7 +2125,7 @@ Loans unavailable.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //現在の預金残高は
 Acct balance:＿
 <$1E>
@@ -2143,7 +2143,7 @@ Acct limit:＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //現在の預金残高は
 Acct Balance:＿
 <$1E>
@@ -2158,7 +2158,7 @@ Loans unavailable this billing period.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //現在の預金残高は　０￥\n取引きを　停止中です
 Balance:＿０￥\n
 Transactions suspended.
@@ -2170,7 +2170,7 @@ Transactions suspended.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //現在、返済はありません
 Account has no balance.\n
 Unable to withdraw.
@@ -2183,7 +2183,7 @@ Unable to withdraw.
 
 
 //次の
-<$06>next＿
+next＿
 <$1D>
 <$00>
 
@@ -2193,7 +2193,7 @@ Unable to withdraw.
 
 
 //今季節
-<$06>season
+season
 <$00>
 
 
@@ -2201,7 +2201,7 @@ Unable to withdraw.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //現在の返済残高は
 Loan balance:＿
 <$1E>
@@ -2223,7 +2223,7 @@ Payment due this＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //現在の返済残高は
 Loan balance:＿
 <$1E>
@@ -2243,7 +2243,7 @@ Transactions suspended.
 
 
 //  %8d
-<$06>%8d
+%8d
 <$00>
 
 
@@ -2263,9 +2263,9 @@ TUCHO_1.TMZ
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
-<$09>
+<$04><$09>
 //1
 1
 <$15>
@@ -2279,7 +2279,7 @@ H
 
 
 //引き出し
-<$06>W/drawal
+W/drawal
 <$00>
 
 
@@ -2287,7 +2287,7 @@ H
 
 
 
-<$06><$02>
+<$02>
 //64返＿済
 64Repayment
 <$00>
@@ -2297,7 +2297,7 @@ H
 
 
 
-<$06><$02>
+<$02>
 //64利＿子
 64Interest
 <$00>
@@ -2308,7 +2308,7 @@ H
 
 
 //預け入れ
-<$06>Deposit
+Deposit
 <$00>
 
 
@@ -2316,7 +2316,7 @@ H
 
 
 
-<$06><$02>
+<$02>
 //64給＿料
 64Wages
 <$00>
@@ -2326,7 +2326,7 @@ H
 
 
 
-<$06><$02>
+<$02>
 //64利＿息
 64Overhead
 <$00>
@@ -2337,7 +2337,7 @@ H
 
 
 //闘犬給金
-<$06>Arena Pay
+Arena Pay
 <$00>
 
 
@@ -2345,7 +2345,7 @@ H
 
 
 
-<$06><$02>
+<$02>
 //64賞＿金
 64Prize
 <$00>
@@ -2355,7 +2355,7 @@ H
 
 
 
-<$06><$02>
+<$02>
 //64賞＿与
 64Bonus
 <$00>
@@ -2366,23 +2366,23 @@ H
 
 
 //\n
-<$06>\n
+\n
 <$02>
 //8
 8
 <$1E>
 //34
 34
-
+<$06>
 //・
 ・
-<$1D><$02>
+<$04><$1D><$02>
 //58
 58
 <$1D><$02>
 //118
 118
-<$15>
+<$06><$15>
 //H
 H
 <$1D>
@@ -2393,7 +2393,7 @@ H
 
 
 
-<$06><$02>
+<$02>
 //202
 202
 <$1D><$1D><$15>
@@ -2406,7 +2406,7 @@ H
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //オズサット気象予報部発表\n各地の
 OzSAT Weather's global\n
 <$1D>
@@ -2420,7 +2420,7 @@ OzSAT Weather's global\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //東エリア増水確率＿
 East Area floods: ＿
 <$1E>
@@ -2442,7 +2442,7 @@ South Area floods:＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //なお西エリア中部に　大雪警報発令中\n野営の際は　凍死に注意！
 A snow hazard was also issued in central West\n
 Area. Don't camp there and risk hypothermia!
@@ -2454,21 +2454,21 @@ Area. Don't camp there and risk hypothermia!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 For＿
-<$1D>
+<$1D><$06>
 //100
-<$14>
+<$04><$14>
 //￥で　大きな夢を咲かせましょう∥\n
 ￥, dreams CAN come true!\n
 Join our＿
 <$1D>
 //の宝クジ、ただいま好評発売中∥\n１等賞金は　なんと　
 ＿Lottery for a chance at＿
-
+<$06>
 //100000
-
+<$04>
 //￥∥
 ￥!
 <$12>
@@ -2479,7 +2479,7 @@ Join our＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1D>
 //の宝クジ　当選番号発表∥
@@ -2492,19 +2492,19 @@ Join our＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //１等（
 1ST PRIZE:
-
+<$06>
 //100000
 100000
-
+<$04>
 //￥）
 ￥ -
 <$02>
 //120
 120
-
+<$06>
 //NO.
 NO.
 <$1E>
@@ -2518,18 +2518,18 @@ NO.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //２等（
 2ND PRIZE:
-
+<$06>
 // 50000
 50000
-
+<$04>
 //￥ - 
 ￥ -
 <$02>
 //120
-
+<$06>
 //NO.
 NO.
 <$1E>
@@ -2538,7 +2538,7 @@ NO.
 <$02>
 //120
 120
-
+<$06>
 //NO.
 NO.
 <$1E>
@@ -2552,55 +2552,55 @@ NO.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //３等（
 3RD PRIZE:
-
+<$06>
 // 10000
 10000
-
+<$04>
 //￥）
 ￥ -
 <$02>
 //120
 120
-
+<$06>
 //NO.
 NO.
 <$1E>
 //036\n
 036\n
-
+<$04>
 //４等（
 4TH PRIZE:
-
+<$06>
 //  1000
 1000
-
+<$04>
 //￥）
 ￥ -
 <$02>
 //120
 120
-
+<$06>
 //NO.X
 NO.X
 <$1E>
 //035\n
 035\n
-
+<$04>
 //５等（
 5TH PRIZE:
-
+<$06>
 //   100
 100
-
+<$04>
 //￥）
 ￥ -
 <$02>
 //120
 120
-
+<$06>
 //NO.XX
 NO.XX
 <$1E>
@@ -2614,7 +2614,7 @@ NO.XX
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //お引き替え有効期限　今
 Winners, you have through＿
 <$1D>
@@ -2629,7 +2629,7 @@ Winners, you have through＿
 
 
 //
-<$06><$15>
+<$15>
 //Y記録ファイル選択
 YFile Select
 <$00>
@@ -2639,7 +2639,7 @@ YFile Select
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //未登録ファイルです\n記録しますか？
 This file is empty.\n
 Create file now?
@@ -2650,7 +2650,7 @@ Create file now?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //すでに　記録されています\n上書きしますか？
 This file already exists.\n
 Overwrite save?
@@ -2662,7 +2662,7 @@ Overwrite save?
 
 
 //\n
-<$06>\n
+\n
 <$01>
 //は＿い
 Yes
@@ -2681,7 +2681,7 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$02>
 //100Φ\n
@@ -2707,7 +2707,7 @@ Do not remove the card\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$02>
 //104Φ\n
@@ -2725,7 +2725,7 @@ Do not remove the card\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //記録しましたΨ
 Game saved.
 <$00>
@@ -2738,7 +2738,7 @@ Game saved.
 <$06>
 //-NO CARD-
 -NO CARD-
-
+<$04>
 <$00>
 
 
@@ -2749,7 +2749,7 @@ Game saved.
 <$06>
 //-UNFORMAT-
 -NOT FORMATTED-
-
+<$04>
 <$00>
 
 
@@ -2760,7 +2760,7 @@ Game saved.
 <$06>
 //-ERROR-
 -ERROR-
-
+<$04>
 <$00>
 
 
@@ -2771,7 +2771,7 @@ Game saved.
 <$06>
 //-NO FREE-
 -NO FREE SPACE-
-
+<$04>
 <$00>
 
 
@@ -2785,7 +2785,7 @@ Game saved.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1D><$01>
 //◇
@@ -2811,7 +2811,7 @@ Game saved.
 
 
 //\n
-<$06>\n
+\n
 <$15>
 //W
 W
@@ -2829,7 +2829,7 @@ W
 
 
 //\n
-<$06>\n
+\n
 <$15>
 //W
 W
@@ -2853,19 +2853,19 @@ Hang up
 
 
 //
-<$06><$15>
+<$15>
 //Yスロット
 YSlot＿
-<$1E>
+<$1E><$06>
 //:
 :
-
+<$04>
 //記録
 ＿
-
+<$06>
 //ファイル
 ＿File＿
-
+<$04>
 //選択
 Select
 <$00>
@@ -2882,13 +2882,13 @@ Select
 
 
 
-<$06><$15>
+<$15>
 //b
 b
-<$01><$1E>
+<$01><$06><$1E>
 //.
 .
-<$0E>
+<$0E><$04>
 //    （未登録です）\n
 ＿＿（NOT IN USE）\n
 <$00>
@@ -2910,10 +2910,10 @@ b
 
 
 
-<$06><$15>
+<$15>
 //W
 W
-<$01><$1E>
+<$01><$06><$1E>
 //.
 .＿
 <$0E>
@@ -2922,10 +2922,10 @@ W
 <$1D>
 // 
 
-
+<$06>
 //199
 199
-<$1E>
+<$1E><$04>
 //年
 ,＿
 <$1D>
@@ -2934,10 +2934,10 @@ W
 <$1D><$02>
 //164
 164
-<$1E>
+<$06><$1E>
 //35
 35
-
+<$04>
 //種登録　難
 ＿filed (Mode＿
 <$1E>
@@ -2951,7 +2951,7 @@ W
 
 
 
-<$06><$15>
+<$15>
 //W
 W
 <$01>
@@ -2970,7 +2970,7 @@ W
 
 
 
-<$06><$15>
+<$15>
 //W
 W
 <$01>
@@ -2999,7 +2999,7 @@ Hang up
 
 
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -3014,7 +3014,7 @@ None of the scents around here stand out.
 
 
 //……東
-<$06>...East
+...East
 <$00>
 
 
@@ -3023,7 +3023,7 @@ None of the scents around here stand out.
 
 
 //……西
-<$06>...West
+...West
 <$00>
 
 
@@ -3032,7 +3032,7 @@ None of the scents around here stand out.
 
 
 //……南
-<$06>...South
+...South
 <$00>
 
 
@@ -3041,7 +3041,7 @@ None of the scents around here stand out.
 
 
 //……北
-<$06>...North
+...North
 <$00>
 
 
@@ -3050,7 +3050,7 @@ None of the scents around here stand out.
 
 
 //…北東
-<$06>...North-east
+...North-east
 <$00>
 
 
@@ -3059,7 +3059,7 @@ None of the scents around here stand out.
 
 
 //…北西
-<$06>...North-west
+...North-west
 <$00>
 
 
@@ -3068,7 +3068,7 @@ None of the scents around here stand out.
 
 
 //…南東
-<$06>...South-east
+...South-east
 <$00>
 
 
@@ -3077,7 +3077,7 @@ None of the scents around here stand out.
 
 
 //…南西
-<$06>...South-west
+...South-west
 <$00>
 
 
@@ -3085,7 +3085,7 @@ None of the scents around here stand out.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -3097,7 +3097,7 @@ None of the scents around here stand out.
 
 
 //、…
-<$06>! That's where we'll find a＿
+! That's where we'll find a＿
 <$1D>
 //に行けば
 .
@@ -3109,7 +3109,7 @@ None of the scents around here stand out.
 
 
 //直進
-<$06>For
+For
 <$00>
 
 
@@ -3118,7 +3118,7 @@ None of the scents around here stand out.
 
 
 //右よ
-<$06>Right
+Right
 <$00>
 
 
@@ -3127,7 +3127,7 @@ None of the scents around here stand out.
 
 
 //左よ
-<$06>Left
+Left
 <$00>
 
 
@@ -3136,7 +3136,7 @@ None of the scents around here stand out.
 
 
 //後ろ
-<$06>Back
+Back
 <$00>
 
 
@@ -3144,7 +3144,7 @@ None of the scents around here stand out.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -3156,7 +3156,7 @@ None of the scents around here stand out.
 
 
 //、絶対に
-<$06>wards, got it? I'm sure we'll find a＿
+wards, got it? I'm sure we'll find a＿
 <$1D>
 //∥
 ＿there!
@@ -3167,7 +3167,7 @@ None of the scents around here stand out.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -3182,7 +3182,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…ごめんね、\n今日は　勘がはたらかないわ…
 ...Sorry. I don't have it in me today.
 <$12>
@@ -3194,7 +3194,7 @@ SLinda used her woman's intuition...
 
 
 //運命の
-<$06>Fated＿
+Fated＿
 <$00>
 
 
@@ -3203,7 +3203,7 @@ SLinda used her woman's intuition...
 
 
 //新しい
-<$06>New＿
+New＿
 <$00>
 
 
@@ -3212,7 +3212,7 @@ SLinda used her woman's intuition...
 
 
 //素敵な
-<$06>Great＿
+Great＿
 <$00>
 
 
@@ -3221,7 +3221,7 @@ SLinda used her woman's intuition...
 
 
 //未知の
-<$06>Unknown＿
+Unknown＿
 <$00>
 
 
@@ -3230,7 +3230,7 @@ SLinda used her woman's intuition...
 
 
 //何か
-<$06>things＿
+things＿
 <$00>
 
 
@@ -3239,7 +3239,7 @@ SLinda used her woman's intuition...
 
 
 //発見
-<$06>discoveries＿
+discoveries＿
 <$00>
 
 
@@ -3248,7 +3248,7 @@ SLinda used her woman's intuition...
 
 
 //お宝
-<$06>treasures＿
+treasures＿
 <$00>
 
 
@@ -3257,7 +3257,7 @@ SLinda used her woman's intuition...
 
 
 //動物
-<$06>animals＿
+animals＿
 <$00>
 
 
@@ -3266,7 +3266,7 @@ SLinda used her woman's intuition...
 
 
 //に　出会える…
-<$06>could appear.
+could appear.
 <$00>
 
 
@@ -3275,7 +3275,7 @@ SLinda used her woman's intuition...
 
 
 //が　待ってる…
-<$06>await us...
+await us...
 <$00>
 
 
@@ -3284,7 +3284,7 @@ SLinda used her woman's intuition...
 
 
 //気がするわ∥
-<$06>are there.
+are there.
 <$00>
 
 
@@ -3293,7 +3293,7 @@ SLinda used her woman's intuition...
 
 
 //チャンスよ∥
-<$06>are in our grasp!
+are in our grasp!
 <$00>
 
 
@@ -3302,7 +3302,7 @@ SLinda used her woman's intuition...
 
 
 //今しかないわ
-<$06>could slip through our fingers!
+could slip through our fingers!
 <$00>
 
 
@@ -3311,7 +3311,7 @@ SLinda used her woman's intuition...
 
 
 //間違いなし∥
-<$06>are dead head!
+are dead head!
 <$00>
 
 
@@ -3320,7 +3320,7 @@ SLinda used her woman's intuition...
 
 
 //\n
-<$06>\n
+\n
 <$1D><$1D><$1D>
 //\n
 \n
@@ -3335,7 +3335,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信があるの∥
 I'm sure of it!
 <$12>
@@ -3346,7 +3346,7 @@ I'm sure of it!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信は　ないけどね…
 Although, I'm not totally certain...
 <$12>
@@ -3357,7 +3357,7 @@ Although, I'm not totally certain...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //絶対なんだから∥
 I'm absolutely certain!
 <$12>
@@ -3370,7 +3370,7 @@ I'm absolutely certain!
 
 #WRITE(PTR, $0030)
 //
-<$06><$15>
+<$15>
 //Y留守番コール
 YVoicemail
 <$00>
@@ -3380,7 +3380,7 @@ YVoicemail
 
 
 
-<$06><$01>
+<$01>
 //終了
 Exit
 <$0E>
@@ -3392,7 +3392,7 @@ Exit
 
 
 //「リンダの担
-<$06>＿Emori
+＿Emori
 <$00>
 
 
@@ -3401,7 +3401,7 @@ Exit
 
 
 //「……………
-<$06>＿???
+＿???
 <$00>
 
 
@@ -3410,7 +3410,7 @@ Exit
 
 
 //「隊長だ∥＿
-<$06>＿Captain
+＿Captain
 <$00>
 
 
@@ -3419,7 +3419,7 @@ Exit
 
 
 //「ケン∥＿今
-<$06>＿Captain
+＿Captain
 <$00>
 
 
@@ -3428,7 +3428,7 @@ Exit
 
 
 //「あー＿エモ
-<$06>＿Emori
+＿Emori
 <$00>
 
 
@@ -3437,7 +3437,7 @@ Exit
 
 
 //「パラサイド
-<$06>＿Elder
+＿Elder
 <$00>
 
 
@@ -3446,7 +3446,7 @@ Exit
 
 
 //「エモリだ…
-<$06>＿Emori
+＿Emori
 <$00>
 
 
@@ -3455,7 +3455,7 @@ Exit
 
 
 //「隊長だ！＿
-<$06>＿Captain
+＿Captain
 <$00>
 
 
@@ -3464,7 +3464,7 @@ Exit
 
 
 //「バカヤロー
-<$06>＿Captain
+＿Captain
 <$00>
 
 
@@ -3473,7 +3473,7 @@ Exit
 
 
 //「母さんだよ
-<$06>＿Meme
+＿Meme
 <$00>
 
 
@@ -3482,7 +3482,7 @@ Exit
 
 
 //「母さんだよ
-<$06>＿Meme
+＿Meme
 <$00>
 
 
@@ -3491,7 +3491,7 @@ Exit
 
 
 //「隊長だ！＿
-<$06>＿Captain
+＿Captain
 <$00>
 
 
@@ -3500,7 +3500,7 @@ Exit
 
 
 //「もしもし＿
-<$06>＿Nek
+＿Nek
 <$00>
 
 
@@ -3508,13 +3508,13 @@ Exit
 
 
 
-<$06><$1D><$01><$1E>
+<$1D><$01><$1E>
 //34
 34
-
+<$06>
 //.
 .
-<$0E><$1D>
+<$0E><$04><$1D>
 <$00>
 
 
@@ -3522,7 +3522,7 @@ Exit
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダの担当医の　エモリだ
 This is Emori, Linda's attending physician.
 <$00>
@@ -3532,7 +3532,7 @@ This is Emori, Linda's attending physician.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //体に関して言えば　リンダは\nもう大丈夫！　私が保証する！\nあとは　君の仕事だ∥
 Physically speaking, Linda's doing well.\n
 She's approved to leave at any time.
@@ -3543,7 +3543,7 @@ She's approved to leave at any time.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //いつでも　退院できるよ\nなるべく早く　迎えに\n来てあげてくれ
 From the moment you arrive to pick her up,\n
 her care is in your hands.
@@ -3554,7 +3554,7 @@ her care is in your hands.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //こういう時は「花束」を\n買ってきたほうが　いいね\n私の薬より　ずっと効果がある
 In such times, a bouquet from a loved one\n
 works better than any drug I could prescribe.
@@ -3565,7 +3565,7 @@ works better than any drug I could prescribe.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //じゃ　頼んだよ
 All right, see you soon!
 <$00>
@@ -3575,7 +3575,7 @@ All right, see you soon!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…………………
 ......
 <$12>
@@ -3591,7 +3591,7 @@ All right, see you soon!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケン………………
 Ken.........
 <$00>
@@ -3601,7 +3601,7 @@ Ken.........
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…………………………………
 ...............
 <$12>
@@ -3612,7 +3612,7 @@ Ken.........
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケン………………
 Ken.........
 <$00>
@@ -3622,7 +3622,7 @@ Ken.........
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //心配いらないから……\nひとりで　やってけるから……
 Don't worry, really.\n
 I'll get by on my own, so...
@@ -3633,7 +3633,7 @@ I'll get by on my own, so...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //だから　捜さないで……
 Don't look for me.
 <$00>
@@ -3643,7 +3643,7 @@ Don't look for me.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…………………
 .........
 <$12>
@@ -3654,7 +3654,7 @@ Don't look for me.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //バイバイ、ケン\n愛してるわ…
 Bye bye, Ken...\n
 I love you.
@@ -3665,7 +3665,7 @@ I love you.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //隊長だ∥
 Captain MacDonald, speaking!
 <$00>
@@ -3675,7 +3675,7 @@ Captain MacDonald, speaking!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダらしい女を\nドギファのホテルで　見たと\n連絡が入った∥
 We just got word that a woman resembling\n
 Linda checked into the hotel in Dogyf\n
@@ -3687,7 +3687,7 @@ Heights!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //未確認の情報だが　とりあえず\n急いで　当たってみてくれ
 We haven't sent anyone to confirm yet. I\n
 figured you'd like the honors.
@@ -3698,7 +3698,7 @@ figured you'd like the honors.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //わかってると　思うが\nドギファは　南エリアだ\nオズポートから　便が出ている
 Surely you know, but Dogyf Heights is in\n
 South Area. You can fly in from OzPort.
@@ -3709,7 +3709,7 @@ South Area. You can fly in from OzPort.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //それにしても　ドギファなんぞに\nリンダは　何の用があるんだ￠\nまあ、行けばわかるか…
 God knows what business Linda would have in\n
 that shady town, but hurry and find out!
@@ -3720,7 +3720,7 @@ that shady town, but hurry and find out!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //会えると　いいな…　以上だ
 I hope you get to see her. Over!
 <$00>
@@ -3730,7 +3730,7 @@ I hope you get to see her. Over!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケン∥　今度は　オズポートだ∥\nリンダは　空港オフィスで\n職員と　話し込んでいるらしい
 Ken! Linda's in OzPort!\n
 Heard she's giving the poor airport staff a\n
@@ -3742,7 +3742,7 @@ fresh Hell.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //とにかく　急行してフン捕まえろ\nこれ以上、ケガ人を出されちゃ\nかなわんからな
 Let's hope she doesn't hurt anyone else. Go\n
 catch her, pronto!
@@ -3753,7 +3753,7 @@ catch her, pronto!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケン∥　ここで　ビシッと\n決められないと　おまえ、一生\nリンダの尻に　敷かれるぞ∥
 Maybe you're scared, but you and Linda have\n
 been up each other's asses your whole life.
@@ -3764,7 +3764,7 @@ been up each other's asses your whole life.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…まあ　それも　いいけどな、\n同性として　健闘を祈る∥\n以上だ
 Maybe you're more sore about that than she\n
 is, but only you can patch this up. Over!
@@ -3775,7 +3775,7 @@ is, but only you can patch this up. Over!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //エモリだ…
 This is Emori.
 <$00>
@@ -3785,7 +3785,7 @@ This is Emori.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //今、私とサチコは　リンダの家に\n閉じこめられている…
 Sachiko and I are trapped in Linda's house\n
 right now.
@@ -3796,7 +3796,7 @@ right now.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……驚かないで　聞いてくれ
 Don't be upset.\n
 Please, listen.
@@ -3807,7 +3807,7 @@ Please, listen.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ミナゴの人たちの死体が\n墓から　ゾンビになって\n出てきて　暴れている
 The corpses buried in Minago are crawling out\n
 from the grave, like zombies.
@@ -3818,7 +3818,7 @@ from the grave, like zombies.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //原因は　まだつかめないが\nおそらく　私の責任だ…
 But I'm probably the one responsible for\n
 this.
@@ -3829,7 +3829,7 @@ this.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //だから　私は覚悟はできている\nしかし　サチコだけは\n何としても　助けてやってくれ
 If they want me, fine, but please! Come save\n
 my Sachiko!
@@ -3840,7 +3840,7 @@ my Sachiko!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //一生のお願いだ∥
 That is my lifelong wish!
 <$00>
@@ -3850,7 +3850,7 @@ That is my lifelong wish!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //隊長だ！
 Captain MacDonald, speaking!
 <$00>
@@ -3860,7 +3860,7 @@ Captain MacDonald, speaking!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //シャトルの　突然の爆発…\n賞金稼ぎ３名、謎の失踪…\n墓からゾンビが　コンニチワ…
 The shuttle explosion, the disappearance of\n
 the bounty hunters, the zombie outbreak...
@@ -3871,7 +3871,7 @@ the bounty hunters, the zombie outbreak...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ロクでもない　事件ばかり\n続いてるけど　そっちは\n変わりないか？
 All this shady stuff keeps going on. Anything\n
 new on your end? Some happy news, maybe?
@@ -3882,7 +3882,7 @@ new on your end? Some happy news, maybe?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ところで　ケン！　何だか\n知らんが、俺のメールボックスに\nおまえ宛の手紙が　来てるぞ
 Oh, that's right! Ken, an e-mail for you\n
 showed up in my inbox.
@@ -3893,7 +3893,7 @@ showed up in my inbox.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //差出人は「リリィ」って　女性だ\nどうせ、中身は　くだらない\n教材のチラシだろうよ
 The sender's a gal named "Ms. Lily"? I'm sure\n
 it's just spam, but...
@@ -3904,7 +3904,7 @@ it's just spam, but...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //でも　パスワードつきの\n親展だから　もしかしたら\nラブレターかもな
 ...it's password-protected. Your side piece\n
 wants to keep her love letter private.
@@ -3915,7 +3915,7 @@ wants to keep her love letter private.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //まあ、何かのついでに\n見にこいよ！　以上だ
 Well, come see what you can make of it. Over!
 <$00>
@@ -3925,7 +3925,7 @@ Well, come see what you can make of it. Over!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //母さんだよ\nヒュームとアンの　墓の掃除に\n行ったら　先客がいてね…
 This is your mother! I went to clean Hume and\n
 Ann's graves, and I met a girl there.
@@ -3936,7 +3936,7 @@ Ann's graves, and I met a girl there.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //声を掛けたら　そのお嬢さん、\nあんたの　知り合いだって\n言うじゃないの
 You know me, I ask her name, and all she\n
 could say was... she's an acquaintance of\n
@@ -3948,7 +3948,7 @@ YOURS!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //でサ、今　私と彼女とで家で\nお茶してるトコ、なんだけどね…\nなんていうか…
 So, you know me, I brought her back to the\n
 house for tea. But what should I do? What do\n
@@ -3960,7 +3960,7 @@ I say?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //名前も　教えてくれないし\nちょっと　様子がヘンなんだよ\n急いで　戻ってくれるかい？
 The girl's a little strange, Ken. She can't\n
 even give me her name. Can you fix this?
@@ -3971,7 +3971,7 @@ even give me her name. Can you fix this?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //母さんだよ、\n一応　知らせとくけどね\nスミレなら　家に戻ってるよ
 This is your mother! As you might have\n
 guessed, Sumire's back at the house.
@@ -3982,7 +3982,7 @@ guessed, Sumire's back at the house.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ヨシコも　一緒だよ\nあっ　そうそう　２号は\n「ヨシコ」に　したんだよ
 Yoshiko's here too!\n
 Oh, right. "Yoshiko" is what I named No. 2!
@@ -3993,7 +3993,7 @@ Oh, right. "Yoshiko" is what I named No. 2!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //こっちは　女三人で　楽しく\nご飯を　食べてるところだから\n何も心配な……\n<CLEAR>あぁぁぁ　ヨシコ∥\nそ、そんな…　ダメだよ…
 Don't worry. We're just eating lunch, having\n
 some girl time...\n
@@ -4006,7 +4006,7 @@ D-Don't do that, dear.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ごめんよ、ヨシコがウォッカと\n水を間違えて　飲んでね…\n大丈夫だよ、死にゃあしない
 Sorry. Yoshiko just mistook a LOT of vodka\n
 for water. But eh, it's not like she'll die.
@@ -4017,7 +4017,7 @@ for water. But eh, it's not like she'll die.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //まあ　とにかく　心配ないよ\nそういえば　スミレは料理が\n上手だよ、知ってたかい？
 Like I said, don't worry. But why didn't you\n
 tell me Sumire was such a great cook?!
@@ -4028,7 +4028,7 @@ tell me Sumire was such a great cook?!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //隊長だ！　ケン、すまん！\nリンダが　ホスピコから\nさらわれて　しまった
 Captain MacDonald, speaking!\n
 I've got bad news. Linda was kidnapped from\n
@@ -4040,7 +4040,7 @@ Hospico!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //手がかりは　今のところないが\nエモリらしき　人物を\n目撃したという者が　三人いる
 We've got no hard leads yet, but three\n
 witnesses think they saw Dr. Emori.
@@ -4051,7 +4051,7 @@ witnesses think they saw Dr. Emori.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //それと前後して　双子の看護婦を\n見たという証言も　一件だけある\n黒い髪の　美人だそうだ
 He was escorted by two nurses- "total babes"\n
 with jet black hair.
@@ -4062,7 +4062,7 @@ with jet black hair.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //とりあえず　これだけだ、\n本当にすまん！\n力をおとすなよ！　以上だ
 That's all for now. Again, I'm sorry. Just be\n
 strong, okay? Over!
@@ -4073,7 +4073,7 @@ strong, okay? Over!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //あー、エモリです\n術後の経過は　どうかな?
 This is Emori. How is life after surgery\n
 treating you two?
@@ -4084,7 +4084,7 @@ treating you two?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //久しぶりに　休暇をもらって\n自宅のほうに　今、いるんだがね…
 We just arrived home to Ragna Rim for a\n
 well-earned vacation, but...
@@ -4095,7 +4095,7 @@ well-earned vacation, but...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダさんの回復も　気になるし\n検診かたがた　遊びに来ないか？\n君たちなら　大歓迎だ！
 ...I can't shake Linda's recovery. Won't you\n
 come see us? You're more than welcome!
@@ -4106,13 +4106,13 @@ come see us? You're more than welcome!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ドギファの東、Ｊ
 We live east of Dogyf Heights, through the J
-
+<$06>
 //-17
 -17
-
+<$04>
 //の\nトンネルを　ぬけた先だ\n
 ＿tunnel. Watch out for＿
 //<$1B>
@@ -4125,7 +4125,7 @@ leopards.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //パラサイドの　ジジイじゃよ\nその後　仲良うやっとるようじゃの\n夫婦円満、何よりじゃ！
 It's your old friend from Paraside! Is the\n
 happy couple enjoying their honeymoon?
@@ -4136,7 +4136,7 @@ happy couple enjoying their honeymoon?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //一応　耳に入れとこうと思うてな\nおまえさんたちが　ホテルで会った\n例の賞金稼ぎじゃがな…
 Did you hear what happened to those bounty\n
 hunters you met in OzPort?
@@ -4147,7 +4147,7 @@ hunters you met in OzPort?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //やられたぞ
 They're dead.
 <$00>
@@ -4157,7 +4157,7 @@ They're dead.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「人形使い」ちゅうんは、\nわしより　エゲツナイようじゃ\n油断すると、死ぬるよ
 The puppet master got to them the moment they\n
 let their guard down.
@@ -4168,7 +4168,7 @@ let their guard down.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //バカヤロー！\nどこ、ほっつき歩いてんだ！
 You dingbat!\n
 Where are you goofing off now?!
@@ -4179,7 +4179,7 @@ Where are you goofing off now?!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //サチコ・エモリらしき人物を\n公園で見た、と通報があった\nすぐオズポートへ　向え！
 We just heard a woman resembling Sachiko\n
 Emori was seen in OzPort park!
@@ -4190,7 +4190,7 @@ Emori was seen in OzPort park!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //以上だ！　早く行け！
 Go check it out! Over!
 <$00>
@@ -4200,7 +4200,7 @@ Go check it out! Over!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //もしもし　私、誰だかわかる？
 Hello! Do you know who this is?
 <$00>
@@ -4210,7 +4210,7 @@ Hello! Do you know who this is?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //本物のエモリサチコよ\nついさっき　目が覚めたの
 This is the "real" Emori Sachiko.\n
 I just woke up.
@@ -4221,7 +4221,7 @@ I just woke up.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //お互い　話したいことが\n山ほど　あるはずよね…？
 We have much to discuss, I imagine.
 <$00>
@@ -4231,7 +4231,7 @@ We have much to discuss, I imagine.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ホスピコで　当分、\nリハビリしてるから\n来てくださる？
 I'm rehabilitating in Hospico still. Won't\n
 you come see me?
@@ -4242,7 +4242,7 @@ you come see me?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ずいぶん長い間、眠ってたから\n筋肉が落ちちゃって　ひとりで\nトイレにも　いけないの…
 I have muscle atrophy from my coma. I can't\n
 even use the restroom on my own.
@@ -4253,7 +4253,7 @@ even use the restroom on my own.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //全く　情けないったらないわ\nじゃ、会えるのを楽しみに\nしてるわ！　バイバイ
 It won't be too bad, especially if I get to\n
 meet you! Well, bye bye!
@@ -4265,7 +4265,7 @@ meet you! Well, bye bye!
 
 
 #WRITE(PTR, $0032)
-<$06><CLEAR>
+<CLEAR>
 //信じるもよし…　信じぬもよし……\nあなたと　人と　星の行く末の断片…\nヘルガの予言を　聞くがよかろうぞ
 Do you seek fate, love and the world? Call\n
 Miss Helga and believe.
@@ -4277,7 +4277,7 @@ Miss Helga and believe.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //「
 "
 <$1D>
@@ -4299,7 +4299,7 @@ Yes!＿
 
 
 //もうひとりの父
-<$06>Another father
+Another father
 <$00>
 
 
@@ -4308,7 +4308,7 @@ Yes!＿
 
 
 //鏡の中のあなた
-<$06>You in the mirror
+You in the mirror
 <$00>
 
 
@@ -4317,7 +4317,7 @@ Yes!＿
 
 
 //４体の人形
-<$06>Four puppets
+Four puppets
 <$00>
 
 
@@ -4326,7 +4326,7 @@ Yes!＿
 
 
 //幸せな子供
-<$06>A happy child
+A happy child
 <$00>
 
 
@@ -4335,7 +4335,7 @@ Yes!＿
 
 
 //奪われし片翼
-<$06>Stolen wings
+Stolen wings
 <$00>
 
 
@@ -4344,7 +4344,7 @@ Yes!＿
 
 
 //若き老婆
-<$06>A timeless woman
+A timeless woman
 <$00>
 
 
@@ -4353,7 +4353,7 @@ Yes!＿
 
 
 //碧の髪の女
-<$06>A green-haired girl
+A green-haired girl
 <$00>
 
 
@@ -4362,7 +4362,7 @@ Yes!＿
 
 
 //体の中の野獣
-<$06>The beast within
+The beast within
 <$00>
 
 
@@ -4371,7 +4371,7 @@ Yes!＿
 
 
 //失くした未来
-<$06>A lost future
+A lost future
 <$00>
 
 
@@ -4380,7 +4380,7 @@ Yes!＿
 
 
 //無知な女神たち
-<$06>Naiive goddesses
+Naiive goddesses
 <$00>
 
 
@@ -4389,7 +4389,7 @@ Yes!＿
 
 
 //陽気なサンタ
-<$06>A cheerful Santa
+A cheerful Santa
 <$00>
 
 
@@ -4398,7 +4398,7 @@ Yes!＿
 
 
 //呪われた過去
-<$06>A cursed past
+A cursed past
 <$00>
 
 
@@ -4407,7 +4407,7 @@ Yes!＿
 
 
 //１から３の悲劇
-<$06>Three tragedies in one
+Three tragedies in one
 <$00>
 
 
@@ -4416,7 +4416,7 @@ Yes!＿
 
 
 //罪のない子犬
-<$06>An innocent puppy
+An innocent puppy
 <$00>
 
 
@@ -4425,7 +4425,7 @@ Yes!＿
 
 
 //大いなる遺産
-<$06>Great expectations
+Great expectations
 <$00>
 
 
@@ -4434,7 +4434,7 @@ Yes!＿
 
 
 //もうひとつの体
-<$06>Someone else's body
+Someone else's body
 <$00>
 
 
@@ -4443,7 +4443,7 @@ Yes!＿
 
 
 //たくさんの卵
-<$06>A sea of eggs
+A sea of eggs
 <$00>
 
 
@@ -4452,7 +4452,7 @@ Yes!＿
 
 
 //古代の乗物
-<$06>The ancient vessel
+The ancient vessel
 <$00>
 
 
@@ -4461,7 +4461,7 @@ Yes!＿
 
 
 //欠けた片ワレ
-<$06>Missing pieces
+Missing pieces
 <$00>
 
 
@@ -4470,7 +4470,7 @@ Yes!＿
 
 
 //すべての肉
-<$06>All forms of flesh
+All forms of flesh
 <$00>
 
 
@@ -4479,7 +4479,7 @@ Yes!＿
 
 
 //赤、青、黒、金、銀
-<$06>Red, blue, black, gold, silver
+Red, blue, black, gold, silver
 <$00>
 
 
@@ -4488,7 +4488,7 @@ Yes!＿
 
 
 //悪魔の爪跡
-<$06>A demon in scars
+A demon in scars
 <$00>
 
 
@@ -4497,7 +4497,7 @@ Yes!＿
 
 
 //母なる者
-<$06>A mother-to-be
+A mother-to-be
 <$00>
 
 
@@ -4506,7 +4506,7 @@ Yes!＿
 
 
 //死せる町
-<$06>Village of the dead
+Village of the dead
 <$00>
 
 
@@ -4515,7 +4515,7 @@ Yes!＿
 
 
 //悲しい老人
-<$06>A sad, old man
+A sad, old man
 <$00>
 
 
@@ -4524,7 +4524,7 @@ Yes!＿
 
 
 //湖の家の住人
-<$06>He in the lakehouse
+He in the lakehouse
 <$00>
 
 
@@ -4533,7 +4533,7 @@ Yes!＿
 
 
 //あなたの恋人
-<$06>Your special someone
+Your special someone
 <$00>
 
 
@@ -4542,7 +4542,7 @@ Yes!＿
 
 
 //心の中の野獣
-<$06>Demons in the heart
+Demons in the heart
 <$00>
 
 
@@ -4551,7 +4551,7 @@ Yes!＿
 
 
 //閉じられた穴
-<$06>Fill the empty space
+Fill the empty space
 <$00>
 
 
@@ -4560,7 +4560,7 @@ Yes!＿
 
 
 //小さなやすらぎ
-<$06>Some piece of mind
+Some piece of mind
 <$00>
 
 
@@ -4569,7 +4569,7 @@ Yes!＿
 
 
 //大地の最果て
-<$06>The ends of the earth
+The ends of the earth
 <$00>
 
 
@@ -4578,7 +4578,7 @@ Yes!＿
 
 
 //若き挑戦者
-<$06>A young challenger
+A young challenger
 <$00>
 
 
@@ -4587,7 +4587,7 @@ Yes!＿
 
 
 //エデンにいざなう
-<$06>Eden beckons
+Eden beckons
 <$00>
 
 
@@ -4596,7 +4596,7 @@ Yes!＿
 
 
 //伴侶として迎える
-<$06>A warm welcome
+A warm welcome
 <$00>
 
 
@@ -4605,7 +4605,7 @@ Yes!＿
 
 
 //２１で取り戻す
-<$06>Catch 21
+Catch 21
 <$00>
 
 
@@ -4614,7 +4614,7 @@ Yes!＿
 
 
 //殺そうとして生かす
-<$06>Live and let die
+Live and let die
 <$00>
 
 
@@ -4623,7 +4623,7 @@ Yes!＿
 
 
 //二度、教会へ呼ぶ
-<$06>A second call to church
+A second call to church
 <$00>
 
 
@@ -4632,7 +4632,7 @@ Yes!＿
 
 
 //忘れてしまう
-<$06>Forget it all
+Forget it all
 <$00>
 
 
@@ -4641,7 +4641,7 @@ Yes!＿
 
 
 //地獄から救い出す
-<$06>Saveth thee from hell
+Saveth thee from hell
 <$00>
 
 
@@ -4650,7 +4650,7 @@ Yes!＿
 
 
 //自らのモノとする
-<$06>Make it yours
+Make it yours
 <$00>
 
 
@@ -4659,7 +4659,7 @@ Yes!＿
 
 
 //飼いならす
-<$06>Tame it
+Tame it
 <$00>
 
 
@@ -4668,7 +4668,7 @@ Yes!＿
 
 
 //代償に選ぶ
-<$06>Name your price
+Name your price
 <$00>
 
 
@@ -4677,7 +4677,7 @@ Yes!＿
 
 
 //長い散歩に連れ出す
-<$06>Give it your all
+Give it your all
 <$00>
 
 
@@ -4686,7 +4686,7 @@ Yes!＿
 
 
 //抱き寄せる
-<$06>Embrace it
+Embrace it
 <$00>
 
 
@@ -4695,7 +4695,7 @@ Yes!＿
 
 
 //笑い者にする
-<$06>Smile on
+Smile on
 <$00>
 
 
@@ -4704,7 +4704,7 @@ Yes!＿
 
 
 //食べようとする
-<$06>Eat your fill
+Eat your fill
 <$00>
 
 
@@ -4713,7 +4713,7 @@ Yes!＿
 
 
 //目覚めさせてしまう
-<$06>Open your eyes
+Open your eyes
 <$00>
 
 
@@ -4722,7 +4722,7 @@ Yes!＿
 
 
 //知らないと言う
-<$06>Plead the fifth
+Plead the fifth
 <$00>
 
 
@@ -4731,7 +4731,7 @@ Yes!＿
 
 
 //主人とする
-<$06>Be the very best
+Be the very best
 <$00>
 
 
@@ -4740,7 +4740,7 @@ Yes!＿
 
 
 //本当の名で呼ぶ
-<$06>Say her real name
+Say her real name
 <$00>
 
 
@@ -4749,7 +4749,7 @@ Yes!＿
 
 
 //いつか、出産する
-<$06>Someday, a due date
+Someday, a due date
 <$00>
 
 
@@ -4758,7 +4758,7 @@ Yes!＿
 
 
 //パーティへ招待する
-<$06>A party invitation
+A party invitation
 <$00>
 
 
@@ -4767,7 +4767,7 @@ Yes!＿
 
 
 //後戻りさせる
-<$06>Doubling back
+Doubling back
 <$00>
 
 
@@ -4776,7 +4776,7 @@ Yes!＿
 
 
 //永遠に捜し続ける
-<$06>Forever searching
+Forever searching
 <$00>
 
 
@@ -4785,7 +4785,7 @@ Yes!＿
 
 
 //全員に分配する
-<$06>Sharing is caring
+Sharing is caring
 <$00>
 
 
@@ -4794,7 +4794,7 @@ Yes!＿
 
 
 //いつか許す
-<$06>Someday, forgiveness
+Someday, forgiveness
 <$00>
 
 
@@ -4803,7 +4803,7 @@ Yes!＿
 
 
 //指折り数える
-<$06>Counting chickens
+Counting chickens
 <$00>
 
 
@@ -4812,7 +4812,7 @@ Yes!＿
 
 
 //直そうとする
-<$06>It can be healed
+It can be healed
 <$00>
 
 
@@ -4821,7 +4821,7 @@ Yes!＿
 
 
 //沈黙させる
-<$06>Stay silent
+Stay silent
 <$00>
 
 
@@ -4830,7 +4830,7 @@ Yes!＿
 
 
 //大切にする
-<$06>Cherish it
+Cherish it
 <$00>
 
 
@@ -4839,7 +4839,7 @@ Yes!＿
 
 
 //再生させる
-<$06>A revival
+A revival
 <$00>
 
 
@@ -4848,7 +4848,7 @@ Yes!＿
 
 
 //戸惑わせる
-<$06>Bewildering
+Bewildering
 <$00>
 
 
@@ -4857,7 +4857,7 @@ Yes!＿
 
 
 //養子にする
-<$06>An adoption
+An adoption
 <$00>
 
 
@@ -4866,7 +4866,7 @@ Yes!＿
 
 
 //神に会わせる
-<$06>Reunion with God
+Reunion with God
 <$00>
 
 
@@ -4876,7 +4876,7 @@ Yes!＿
 
 #WRITE(PTR, $0034)
 //『プテラノ鳥は　たいへん危険です\n＿オリに手や足を　入れないで下さい
-<$06>"DANGER! DO NOT PUT YOUR HAND IN THE\n
+"DANGER! DO NOT PUT YOUR HAND IN THE\n
 PTERANOBIRD CAGE!"
 <$12>
 \n
@@ -4896,7 +4896,7 @@ PTERANOBIRD CAGE!"
 
 #WRITE(PTR, $0036)
 //－Ｎ・Ｋ・ＮＥＷＳ－　［号外］\n大抜てき∥　最年少の\nレンジャー隊、隊長誕生∥
-<$06>－NK NEWS－\n
+－NK NEWS－\n
 BREAKING! YOUNGEST RANGER CAPTAIN IN NEO\n
 KENYAN HISTORY IS BORN
 <$12>
@@ -4927,7 +4927,7 @@ rock throughout his career.
 
 
 //－Ｎ・Ｋ・ＮＥＷＳ－　［号外］\n西エリアで　病原菌、大量流出か￠
-<$06>－NK NEWS－\n
+－NK NEWS－\n
 BREAKING! MASSIVE BACTERIAL OUTBREAK IN WEST\n
 AREA
 <$12>
@@ -4958,7 +4958,7 @@ prohibited.
 
 
 //－Ｎ・Ｋ・ＮＥＷＳ－　［号外］\nケン・チャレンジャー君（１６）\n箱船男性乗員に　勇気ある志願∥
-<$06>－NK NEWS－\n
+－NK NEWS－\n
 BREAKING! KEN CHALLENGER(16) BRAVELY\n
 VOLUNTEERS TO BOARD THE ASTRO ARK
 <$12>
@@ -4984,7 +4984,7 @@ support!
 
 
 //－Ｎ・Ｋ・ＮＥＷＳ－　［号外］\nミナゴで　大量惨殺事件∥
-<$06>－NK NEWS－\n
+－NK NEWS－\n
 BREAKING! MINAGO's MASS MURDER MYSTERY
 <$12>
 \n
@@ -5018,7 +5018,7 @@ Koshikata massacre 10 years ago?
 
 
 //－Ｎ・Ｋ・ＮＥＷＳ－　［号外］\n脱出用シャトル、謎の爆発∥
-<$06>－NK NEWS－\n
+－NK NEWS－\n
 BREAKING! SUSPICIOUS MIGRATION SHUTTLE\n
 EXPLOSION
 <$12>
@@ -5026,10 +5026,10 @@ EXPLOSION
 <CLEAR>
 //連邦本部より　派遣されていた\nカマー補佐官を乗せた　シャトルが\n航行中に爆発∥　死者
 A shuttle carrying＿
-
+<$06>
 //196
 196
-
+<$04>
 //名
 ＿passengers, including federal dispatch Jorge\n
 Camar, exploded over OzSAT upon liftoff.
@@ -5048,7 +5048,7 @@ it's believed a bomb was stowed on board.
 
 
 //－Ｎ・Ｋ・ＮＥＷＳ－　［号外］\nミナゴ住人のゾンビ（？）暴動∥
-<$06>－NK NEWS－\n
+－NK NEWS－\n
 BREAKING! MINAGO ZOMBIE OUTBREAK(???)
 <$12>
 \n
@@ -5073,17 +5073,17 @@ scene.
 
 
 //－Ｎ・Ｋ・ＮＥＷＳ－　［号外］\nガレックス、再爆発か￠
-<$06>－NK NEWS－\n
+－NK NEWS－\n
 BREAKING! GALAX, BLASTING OFF AGAIN
 <$12>
 \n
 <CLEAR>
 //Ｃ
 Ｃ
-
+<$06>
 //-21
 -21
-
+<$04>
 //エリア付近で　小規模な爆発が\n確認されたと　オズサット気象部より\n発表が　あった
 ＿is again off-limits after OzSAT's\n
 Meteorological Department detected a minor\n

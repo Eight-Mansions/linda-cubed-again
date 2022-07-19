@@ -162,7 +162,7 @@ width2.obj
 
 #WRITE(PTR, $0020)
 //軌道衛星オズサット１Ｆ
-<$06>OzSAT 1F＿
+OzSAT 1F＿
 <$00>
 
 
@@ -170,7 +170,7 @@ width2.obj
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -186,7 +186,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -203,7 +203,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -220,7 +220,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -231,7 +231,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -242,7 +242,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -254,12 +254,12 @@ The Navi System(NaviS) can't be booted here!
 
 
 //このワープ装置が　導入されて\n衛星軌道への搬出コストが　いきなり\n１／
-<$06>Once warp was introduced, we cut shipment\n
+Once warp was introduced, we cut shipment\n
 costs to OzSat down to nearly 1/
-
+<$06>
 //100000
 100,000
-
+<$04>
 //に　減ったんだってね
 ＿of what they once were!
 <$12>
@@ -289,7 +289,7 @@ choice and put it to use for once!
 
 
 //脱出船の予定は　残り
-<$06>There are＿
+There are＿
 <$1E>
 //2便…\nたったそれだけで　地上に残っている人、\n全員を回収できるのかなぁ
 2 remaining flights scheduled. We're so close\n
@@ -309,7 +309,7 @@ I don't want to jynx it, though. Nothing says\n
 
 
 //ターミナル衛星、オズサットへようこそ\n今日は　知人の見送りかしら？\n
-<$06>Welcome to OzSAT. Are you here to see someone\n
+Welcome to OzSAT. Are you here to see someone\n
 off?？\n
 <$01>
 //そんなトコだよ
@@ -328,7 +328,7 @@ No, I want animals.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //脱出船の発着場と　送迎デッキは\nこの上のフロアの　奥にあるわ
 You'll find both the dock and observation\n
 deck upstairs and to the back.
@@ -340,7 +340,7 @@ deck upstairs and to the back.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここにいる　珍しい動物と言えば\nラボの学者たちぐらいね\n変わったのが　そろってるわよ
 The only rare animals we have here are the\n
 scientists in the lab. They're all natural\n
@@ -354,7 +354,7 @@ oddities, if you ask me.
 
 
 //連邦には　だまされたけど\n私は負けないわ∥　どこでだって\n何度だって　やり直してみせるわ∥
-<$06>The Federation might've screwed me over, but\n
+The Federation might've screwed me over, but\n
 I won't let them keep me down. Nope, over my\n
 dead body!
 <$12>
@@ -372,7 +372,7 @@ over my dead body and settle the score then!
 
 
 //そういえば　箱船の中の井戸の底から\n面白いモノが　出たらしいわね\nある植物の　根の組織なんだけど…
-<$06>I meant to tell you...apparently, the root\n
+I meant to tell you...apparently, the root\n
 tissue of a strange plant was found at the\n
 bottom of the Astro Ark.
 <$12>
@@ -398,7 +398,7 @@ just like the two of you!
 
 #WRITE(PTR, $0022)
 //軌道衛星オズサット２Ｆ
-<$06>OzSAT 2F＿
+OzSAT 2F＿
 <$00>
 
 
@@ -406,7 +406,7 @@ just like the two of you!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -422,7 +422,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -439,7 +439,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -456,7 +456,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -467,7 +467,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -478,7 +478,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -490,7 +490,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 //私、こんなお腹だから　途中で\n産気づいたりしたら　困るでしょ
-<$06>It wouldn't be safe for me if my water broke\n
+It wouldn't be safe for me if my water broke\n
 aboard a shuttle.
 <$12>
 \n
@@ -507,7 +507,7 @@ because of his job. It's all so worrisome.
 
 
 //キミ、電話で天気予報を\n聞いたことあるかなぁ？\n
-<$06>Have you ever called for the weather\n
+Have you ever called for the weather\n
 forecast?\n
 <$01>
 //ありますよ
@@ -526,7 +526,7 @@ No
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //アレね、私がここから　ネオケニアの\n雲のかかり具合を　見ながら\n予報を　出してんのよ
 Really now! I issue those forecasts across\n
 Neo Kenya, right from this room!
@@ -544,7 +544,7 @@ gut. That works just as well, honestly.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //天気予報を　聞かないなんて\nキミまだまだ　ハンターとしては\nモウコハンが　とれてないガキね
 You don't check the weather? And you call\n
 yourself a hunter? Listen, my boy...
@@ -563,7 +563,7 @@ think of me and wish you'd called ahead!
 
 
 //この星の動物は　生態系から切り離すと\nすぐに　死んでしまうんじゃよ
-<$06>Once an animal leaves our planet's ecosystem,\n
+Once an animal leaves our planet's ecosystem,\n
 the animal dies.
 <$12>
 \n
@@ -580,7 +580,7 @@ you'd need to lug the entire planet with you.
 
 
 //ケン！　ここを通って　旅立っていった\n人たちの何人かが　あなたに\nメッセージを　残していったわ
-<$06>Ken! Some of the people who just departed\n
+Ken! Some of the people who just departed\n
 left a message of support for you.
 <$12>
 \n
@@ -594,7 +594,7 @@ Do you wish to hear it now?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //これからも　増えると思うから\n時間があるときに　見に来てね！
 I think such messages will increase, so check\n
 back from time to time!
@@ -607,7 +607,7 @@ back from time to time!
 
 
 //あんたも　見送る人がいるんだな？\nいや…　箱船に志願するなんて\n天涯孤独だとばかり　思ってたからな
-<$06>Will no one be here to see you two sail off?\n
+Will no one be here to see you two sail off?\n
 Probably not, huh...
 <$12>
 \n
@@ -624,11 +624,11 @@ profession.
 
 
 //この壁から　３ｍ
-<$06>If we went even 3m
-
+If we went even 3m
+<$06>
 //30
 30
-
+<$04>
 //㎝外じゃ私たちは　生きていけないのよねぇ\nよくよく　考えてみると…
 ㎝ beyond this barrier, we'd all die. You\n
 know, it's funny...
@@ -653,17 +653,17 @@ She died of alcoholism last year.
 
 
 //あと
-<$06>We were only＿
-
+We were only＿
+<$06>
 //20
 20
-
+<$04>
 //年、いや
 , no,＿
-
+<$06>
 //10
 10
-
+<$04>
 //年あれば\nこの星の動物の　体の組成を\n完全に　解明できたものを…
 ＿years away from unraveling the mysteris of\n
 Neo Kenya and its animal life.
@@ -687,7 +687,7 @@ is a second chance!
 
 
 //脱出シャトルに　お乗りの方は\n階段を降りて　搭乗口へ
-<$06>If you're here to board a migration shuttle,\n
+If you're here to board a migration shuttle,\n
 take these stairs down to the boarding gate.
 <$12>
 \n
@@ -703,7 +703,7 @@ observation deck just ahead.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //＊＜動物クイズ＞\n
 ＊＜Animal Quiz＞\What does a＿
 //<$1B>
@@ -732,7 +732,7 @@ the question might eat at you before long!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //＊ケン　リンダ！　動物集め\nギリギリまで　がんばれよ∥\nオレは　安全な場所へ行くけど
 ＊Good luck with catching all those animals,\n
 Ken and Linda! I'm on my way out!
@@ -744,7 +744,7 @@ Ken and Linda! I'm on my way out!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //＊帰ろう……　うちへ
 ＊Run home, Ken... Run home...
 <$12>
@@ -755,7 +755,7 @@ Ken and Linda! I'm on my way out!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //＊ケン　それからリンダ\n動物集めは　大変そうだけど\n順調に　いってますか？
 ＊Dear Ken and Linda,\n
 Animal hunting sounds tough.\n
@@ -768,7 +768,7 @@ Is everything going well?
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //＊長い旅に　なるだろうから\n箱船に乗る前には　必ず\nトイレを　済ませること！
 ＊It's going to be a long ride for you two.\n
 Make sure to use the restroom before boarding\n
@@ -786,16 +786,16 @@ the Astro Ark!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //＊
 ＊Did you know? If you make shoes using＿
 //<$1B>
 //ムカデからは　一度の加工で\n
 centipedes as a material, you get＿
-
+<$06>
 //100
 100
-
+<$04>
 //足のクツが　できるのよ∥\n………ウソだよよよ～ん！
 ＿pairs...
 <$12>
@@ -810,7 +810,7 @@ centipedes as a material, you get＿
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //＊コシカタの地下は　発見したかい？\n
 ＊Have you found the Koshikata underground?\n
 Watch out for those＿
@@ -825,16 +825,16 @@ catfish!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //＊
 ＊
 //<$1B>
 //バファロの生息地の\nナビ座標は　Ｇ
 Buffalo roam around G
-
+<$06>
 //－１４
 －１４
-
+<$04>
 //あたりだよ\nだまされたと思って　１度行ってみな
 ! Watch out for bullshit if you go!
 <$12>
@@ -850,7 +850,7 @@ Buffalo roam around G
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //＊野営しといて　実は全員が見張り！\n動物をおびき出すには　けっこう\n重宝な作戦だぜ！　覚えときな
 ＊A quick way to encounter new animals is to\n
 have EVERYONE keep watch when camping.
@@ -862,7 +862,7 @@ have EVERYONE keep watch when camping.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //＊宝くじの当り番号には　実は\n一定の法則が　あるんだ\n教えるから　メモを用意しな
 ＊There's a little trick for guessing the\n
 winning lottery numbers.
@@ -904,7 +904,7 @@ subtract it from your mind. Sike!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //＊ダークリバーの　底で\n珍しいのが　ウロウロしてたよ
 ＊Sometimes, you'll find the most unlikely\n
 animals scampering around the deeper parts of\n
@@ -925,7 +925,7 @@ cats!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //＊
 ＊If you want to know where＿
 //<$1B>
@@ -940,7 +940,7 @@ Madam.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //＊リンダ・カルトクイズ（初級）\nシナリオＢに　登場する\nサチコは　全部で何人？
 ＊Linda Quizzed (Again!)＊\n
 In Scenario B, how many Sachikos appear in\n
@@ -959,7 +959,7 @@ appearance next time you play Scenario B.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //＊リンダ・カルトクイズ（中級）\nゴメスが　一番好きなのは\n何ごっこ？
 ＊Linda Quizzed (Again!)＊\n
 What is Gomez' favorite animal to roleplay?
@@ -977,7 +977,7 @@ Paraside birdline counter.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //＊リンダ・カルトクイズ（上級）\nベン隊長の姓は　何？\n答は　ガレックスにあります
 ＊Linda Quizzed (Again!)＊\n
 Who inspired Captain Gene?\n
@@ -990,7 +990,7 @@ Who inspired Captain Gene?\n
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //＊俺たちが　引っ越した後には\n誰も　入らないけど…
 ＊No one's picking up after us once we move.\n
 However...
@@ -1011,16 +1011,16 @@ hermit crabs crawl out.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //＊ビースチャンの指輪は　全部で８つ\n半分集めれば　
 ＊If you managed to collect all 8 Beastian\n
 rings, wrestling a LVL＿
 There are 8 Beastian rings in total. If you\n
 manage to collect half of those, even at LVL
-
+<$06>
 //20
 20
-
+<$04>
 //レベルで\n
 ＿, defeating a＿
 //<$1B>
@@ -1034,13 +1034,13 @@ dragon would be cake!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //＊フローラ博士と　
 ＊If you kiss Dr. Flora＿
-
+<$06>
 //２５６
 256
-
+<$04>
 //回、\nキスすると「ウンチ鑑定」の能力が\n身につく
 ＿times, she'll give you the Scatologist\n
 skill.
@@ -1059,7 +1059,7 @@ the work!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //＊マキちゃんの相手ってサ\n結局、ヤマダでもポールでもなくて\nニシモリって　漫画家らしいよ
 ＊In the end, Maki-chan didn't pick Yamada or\n
 Paul! She's with a manga artist named\n
@@ -1078,7 +1078,7 @@ very best.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //＊
 ＊
 //<$1B>
@@ -1101,7 +1101,7 @@ around those areas.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //連邦が配布した　脱出プロジェクトの\n説明用のパンフには　ごたいそうな\nシャトルが　何機も写ってたわよね
 The migration flyers sent out by the\n
 Federation showed off some great looking\n
@@ -1127,7 +1127,7 @@ We can't trust the government with anything.
 
 #WRITE(PTR, $0024)
 //軌道衛星オズサット１Ｆ
-<$06>OzSAT 1F＿
+OzSAT 1F＿
 <$00>
 
 
@@ -1135,7 +1135,7 @@ We can't trust the government with anything.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -1151,7 +1151,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -1168,7 +1168,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -1185,7 +1185,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -1196,7 +1196,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -1207,7 +1207,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -1220,7 +1220,7 @@ The Navi System(NaviS) can't be booted here!
 
 #WRITE(PTR, $0026)
 //\n
-<$06>\n
+\n
 <$01>
 //は＿い
 Yes
@@ -1240,7 +1240,7 @@ No
 
 
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -1255,7 +1255,7 @@ None of the scents around here stand out.
 
 
 //……東
-<$06>...East
+...East
 <$00>
 
 
@@ -1264,7 +1264,7 @@ None of the scents around here stand out.
 
 
 //……西
-<$06>...West
+...West
 <$00>
 
 
@@ -1273,7 +1273,7 @@ None of the scents around here stand out.
 
 
 //……南
-<$06>...South
+...South
 <$00>
 
 
@@ -1282,7 +1282,7 @@ None of the scents around here stand out.
 
 
 //……北
-<$06>...North
+...North
 <$00>
 
 
@@ -1291,7 +1291,7 @@ None of the scents around here stand out.
 
 
 //…北東
-<$06>...North-east
+...North-east
 <$00>
 
 
@@ -1300,7 +1300,7 @@ None of the scents around here stand out.
 
 
 //…北西
-<$06>...North-west
+...North-west
 <$00>
 
 
@@ -1309,7 +1309,7 @@ None of the scents around here stand out.
 
 
 //…南東
-<$06>...South-east
+...South-east
 <$00>
 
 
@@ -1318,7 +1318,7 @@ None of the scents around here stand out.
 
 
 //…南西
-<$06>...South-west
+...South-west
 <$00>
 
 
@@ -1326,7 +1326,7 @@ None of the scents around here stand out.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -1338,7 +1338,7 @@ None of the scents around here stand out.
 
 
 //、…
-<$06>! That's where we'll find a＿
+! That's where we'll find a＿
 <$1D>
 //に行けば
 .
@@ -1350,7 +1350,7 @@ None of the scents around here stand out.
 
 
 //直進
-<$06>For
+For
 <$00>
 
 
@@ -1359,7 +1359,7 @@ None of the scents around here stand out.
 
 
 //右よ
-<$06>Right
+Right
 <$00>
 
 
@@ -1368,7 +1368,7 @@ None of the scents around here stand out.
 
 
 //左よ
-<$06>Left
+Left
 <$00>
 
 
@@ -1377,7 +1377,7 @@ None of the scents around here stand out.
 
 
 //後ろ
-<$06>Back
+Back
 <$00>
 
 
@@ -1385,7 +1385,7 @@ None of the scents around here stand out.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -1397,7 +1397,7 @@ None of the scents around here stand out.
 
 
 //、絶対に
-<$06>wards, got it? I'm sure we'll find a＿
+wards, got it? I'm sure we'll find a＿
 <$1D>
 //∥
 ＿there!
@@ -1408,7 +1408,7 @@ None of the scents around here stand out.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -1423,7 +1423,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…ごめんね、\n今日は　勘がはたらかないわ…
 ...Sorry. I don't have it in me today.
 <$12>
@@ -1435,7 +1435,7 @@ SLinda used her woman's intuition...
 
 
 //運命の
-<$06>Fated＿
+Fated＿
 <$00>
 
 
@@ -1444,7 +1444,7 @@ SLinda used her woman's intuition...
 
 
 //新しい
-<$06>New＿
+New＿
 <$00>
 
 
@@ -1453,7 +1453,7 @@ SLinda used her woman's intuition...
 
 
 //素敵な
-<$06>Great＿
+Great＿
 <$00>
 
 
@@ -1462,7 +1462,7 @@ SLinda used her woman's intuition...
 
 
 //未知の
-<$06>Unknown＿
+Unknown＿
 <$00>
 
 
@@ -1471,7 +1471,7 @@ SLinda used her woman's intuition...
 
 
 //何か
-<$06>things＿
+things＿
 <$00>
 
 
@@ -1480,7 +1480,7 @@ SLinda used her woman's intuition...
 
 
 //発見
-<$06>discoveries＿
+discoveries＿
 <$00>
 
 
@@ -1489,7 +1489,7 @@ SLinda used her woman's intuition...
 
 
 //お宝
-<$06>treasures＿
+treasures＿
 <$00>
 
 
@@ -1498,7 +1498,7 @@ SLinda used her woman's intuition...
 
 
 //動物
-<$06>animals＿
+animals＿
 <$00>
 
 
@@ -1507,7 +1507,7 @@ SLinda used her woman's intuition...
 
 
 //に　出会える…
-<$06>could appear.
+could appear.
 <$00>
 
 
@@ -1516,7 +1516,7 @@ SLinda used her woman's intuition...
 
 
 //が　待ってる…
-<$06>await us...
+await us...
 <$00>
 
 
@@ -1525,7 +1525,7 @@ SLinda used her woman's intuition...
 
 
 //気がするわ∥
-<$06>are there.
+are there.
 <$00>
 
 
@@ -1534,7 +1534,7 @@ SLinda used her woman's intuition...
 
 
 //チャンスよ∥
-<$06>are in our grasp!
+are in our grasp!
 <$00>
 
 
@@ -1543,7 +1543,7 @@ SLinda used her woman's intuition...
 
 
 //今しかないわ
-<$06>could slip through our fingers!
+could slip through our fingers!
 <$00>
 
 
@@ -1552,7 +1552,7 @@ SLinda used her woman's intuition...
 
 
 //間違いなし∥
-<$06>are dead head!
+are dead head!
 <$00>
 
 
@@ -1561,7 +1561,7 @@ SLinda used her woman's intuition...
 
 
 //\n
-<$06>\n
+\n
 <$1D><$1D><$1D>
 //\n
 \n
@@ -1576,7 +1576,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信があるの∥
 I'm sure of it!
 <$12>
@@ -1587,7 +1587,7 @@ I'm sure of it!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信は　ないけどね…
 Although, I'm not totally certain...
 <$12>
@@ -1598,7 +1598,7 @@ Although, I'm not totally certain...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //絶対なんだから∥
 I'm absolutely certain!
 <$12>

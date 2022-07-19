@@ -10,7 +10,7 @@
 #WRITE(PTR, $001A)
 #WRITE(PTR, $001C)
 //ゾンビ男
-<$06>Zombie Man
+Zombie Man
 <$00>
 
 
@@ -18,7 +18,7 @@
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aの攻撃∥\n道具袋を　ねらって\n長い舌が　伸びてきた∥
@@ -32,7 +32,7 @@ reached far to lap at the item bag!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aの攻撃∥\n煮えたぎる　胃液のシャワー∥
@@ -46,7 +46,7 @@ makes it rain with gastric acid.
 
 
 //ゾンビ女
-<$06>Zombie Woman
+Zombie Woman
 <$00>
 
 
@@ -54,7 +54,7 @@ makes it rain with gastric acid.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n遠くを　見ている…
@@ -68,7 +68,7 @@ stared into the distance.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n風の臭いに　おびえている…
@@ -82,7 +82,7 @@ trembles at a smell in the air.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは\n大きく　２度、鳴いた∥
@@ -96,7 +96,7 @@ called loudly 2 times!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$1C>
 //Aは　
@@ -114,7 +114,7 @@ T.
 
 
 //ヒューム
-<$06>Hume
+Hume
 <$00>
 
 
@@ -123,7 +123,7 @@ T.
 
 
 //アン
-<$06>Ann
+Ann
 <$00>
 
 
@@ -230,7 +230,7 @@ m127f.obj
 
 #WRITE(PTR, $0020)
 //ミナゴ
-<$06>Minago＿
+Minago＿
 <$00>
 
 
@@ -238,7 +238,7 @@ m127f.obj
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　口笛を吹いた
 Ken whistled.
 <$12>
@@ -254,7 +254,7 @@ Huge wings flapped in the distance...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ケンは　目立たないように\n気配を　殺した
 Ken masked the party to avoid detection.
 <$12>
@@ -271,7 +271,7 @@ stupid enough to fall for his antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //リンダは　動物たちの\n鳴きマネをした
 Linda mimicked a few animal calls.
 <$12>
@@ -288,7 +288,7 @@ stupid enough to fall for her antics!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //動物図鑑は\nここでは　起動しない
 The Animal Bible can't be booted here!
 <$12>
@@ -299,7 +299,7 @@ The Animal Bible can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ここでは　野営できない
 Camp can't be set up here!
 <$12>
@@ -310,7 +310,7 @@ Camp can't be set up here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //ナビシステム（ナビＳ）は\nここでは　起動しない
 The Navi System(NaviS) can't be booted here!
 <$12>
@@ -321,7 +321,7 @@ The Navi System(NaviS) can't be booted here!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -337,7 +337,7 @@ SNo one is here.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -353,7 +353,7 @@ SThe door is closed.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //バイバイ…　パパ、ママ
 Mom, Dad...\n
 Bye bye.
@@ -366,7 +366,7 @@ Bye bye.
 
 #WRITE(PTR, $0022)
 //……東
-<$06>...East
+...East
 <$00>
 
 
@@ -375,7 +375,7 @@ Bye bye.
 
 
 //……西
-<$06>...West
+...West
 <$00>
 
 
@@ -384,7 +384,7 @@ Bye bye.
 
 
 //……南
-<$06>...South
+...South
 <$00>
 
 
@@ -393,7 +393,7 @@ Bye bye.
 
 
 //……北
-<$06>...North
+...North
 <$00>
 
 
@@ -402,7 +402,7 @@ Bye bye.
 
 
 //…北東
-<$06>...North-east
+...North-east
 <$00>
 
 
@@ -411,7 +411,7 @@ Bye bye.
 
 
 //…北西
-<$06>...North-west
+...North-west
 <$00>
 
 
@@ -420,7 +420,7 @@ Bye bye.
 
 
 //…南東
-<$06>...South-east
+...South-east
 <$00>
 
 
@@ -429,7 +429,7 @@ Bye bye.
 
 
 //…南西
-<$06>...South-west
+...South-west
 <$00>
 
 
@@ -437,7 +437,7 @@ Bye bye.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -449,7 +449,7 @@ Bye bye.
 
 
 //、…
-<$06>! That's where we'll find a＿
+! That's where we'll find a＿
 <$1D>
 //に行けば
 .
@@ -461,7 +461,7 @@ Bye bye.
 
 
 //直進
-<$06>For
+For
 <$00>
 
 
@@ -470,7 +470,7 @@ Bye bye.
 
 
 //右よ
-<$06>Right
+Right
 <$00>
 
 
@@ -479,7 +479,7 @@ Bye bye.
 
 
 //左よ
-<$06>Left
+Left
 <$00>
 
 
@@ -488,7 +488,7 @@ Bye bye.
 
 
 //後ろ
-<$06>Back
+Back
 <$00>
 
 
@@ -496,7 +496,7 @@ Bye bye.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //……
 ......
 <$1D>
@@ -508,7 +508,7 @@ Bye bye.
 
 
 //、絶対に
-<$06>wards, got it? I'm sure we'll find a＿
+wards, got it? I'm sure we'll find a＿
 <$1D>
 //∥
 ＿there!
@@ -519,7 +519,7 @@ Bye bye.
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //
 <$19>
 //1
@@ -534,7 +534,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //…ごめんね、\n今日は　勘がはたらかないわ…
 ...Sorry. I don't have it in me today.
 <$12>
@@ -546,7 +546,7 @@ SLinda used her woman's intuition...
 
 
 //運命の
-<$06>Fated＿
+Fated＿
 <$00>
 
 
@@ -555,7 +555,7 @@ SLinda used her woman's intuition...
 
 
 //新しい
-<$06>New＿
+New＿
 <$00>
 
 
@@ -564,7 +564,7 @@ SLinda used her woman's intuition...
 
 
 //素敵な
-<$06>Great＿
+Great＿
 <$00>
 
 
@@ -573,7 +573,7 @@ SLinda used her woman's intuition...
 
 
 //未知の
-<$06>Unknown＿
+Unknown＿
 <$00>
 
 
@@ -582,7 +582,7 @@ SLinda used her woman's intuition...
 
 
 //何か
-<$06>things＿
+things＿
 <$00>
 
 
@@ -591,7 +591,7 @@ SLinda used her woman's intuition...
 
 
 //発見
-<$06>discoveries＿
+discoveries＿
 <$00>
 
 
@@ -600,7 +600,7 @@ SLinda used her woman's intuition...
 
 
 //お宝
-<$06>treasures＿
+treasures＿
 <$00>
 
 
@@ -609,7 +609,7 @@ SLinda used her woman's intuition...
 
 
 //動物
-<$06>animals＿
+animals＿
 <$00>
 
 
@@ -618,7 +618,7 @@ SLinda used her woman's intuition...
 
 
 //に　出会える…
-<$06>could appear.
+could appear.
 <$00>
 
 
@@ -627,7 +627,7 @@ SLinda used her woman's intuition...
 
 
 //が　待ってる…
-<$06>await us...
+await us...
 <$00>
 
 
@@ -636,7 +636,7 @@ SLinda used her woman's intuition...
 
 
 //気がするわ∥
-<$06>are there.
+are there.
 <$00>
 
 
@@ -645,7 +645,7 @@ SLinda used her woman's intuition...
 
 
 //チャンスよ∥
-<$06>are in our grasp!
+are in our grasp!
 <$00>
 
 
@@ -654,7 +654,7 @@ SLinda used her woman's intuition...
 
 
 //今しかないわ
-<$06>could slip through our fingers!
+could slip through our fingers!
 <$00>
 
 
@@ -663,7 +663,7 @@ SLinda used her woman's intuition...
 
 
 //間違いなし∥
-<$06>are dead head!
+are dead head!
 <$00>
 
 
@@ -672,7 +672,7 @@ SLinda used her woman's intuition...
 
 
 //\n
-<$06>\n
+\n
 <$1D><$1D><$1D>
 //\n
 \n
@@ -687,7 +687,7 @@ SLinda used her woman's intuition...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信があるの∥
 I'm sure of it!
 <$12>
@@ -698,7 +698,7 @@ I'm sure of it!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //自信は　ないけどね…
 Although, I'm not totally certain...
 <$12>
@@ -709,7 +709,7 @@ Although, I'm not totally certain...
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //絶対なんだから∥
 I'm absolutely certain!
 <$12>
@@ -721,7 +721,7 @@ I'm absolutely certain!
 
 
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -742,7 +742,7 @@ go for some＿
 
 
 //卵焼き
-<$06>fried eggs
+fried eggs
 <$00>
 
 
@@ -751,7 +751,7 @@ go for some＿
 
 
 //カレー
-<$06>curry
+curry
 <$00>
 
 
@@ -760,7 +760,7 @@ go for some＿
 
 
 //焼き肉
-<$06>Neo Korean BBQ
+Neo Korean BBQ
 <$00>
 
 
@@ -769,7 +769,7 @@ go for some＿
 
 
 //唐あげ
-<$06>karaage
+karaage
 <$00>
 
 
@@ -778,7 +778,7 @@ go for some＿
 
 
 //お菓子
-<$06>candy
+candy
 <$00>
 
 
@@ -787,7 +787,7 @@ go for some＿
 
 
 //バナナ
-<$06>banana
+banana
 <$00>
 
 
@@ -796,7 +796,7 @@ go for some＿
 
 
 //フライ
-<$06>Neo French fries
+Neo French fries
 <$00>
 
 
@@ -805,7 +805,7 @@ go for some＿
 
 
 //焼き魚
-<$06>grilled fish
+grilled fish
 <$00>
 
 
@@ -814,7 +814,7 @@ go for some＿
 
 
 //トマト
-<$06>tomato
+tomato
 <$00>
 
 
@@ -823,7 +823,7 @@ go for some＿
 
 
 //バター
-<$06>butter
+butter
 <$00>
 
 
@@ -832,7 +832,7 @@ go for some＿
 
 
 //ソース
-<$06>sauce
+sauce
 <$00>
 
 
@@ -841,7 +841,7 @@ go for some＿
 
 
 //スープ
-<$06>＿soup
+＿soup
 <$00>
 
 
@@ -850,7 +850,7 @@ go for some＿
 
 
 //ピラフ
-<$06>pilaf
+pilaf
 <$00>
 
 
@@ -859,7 +859,7 @@ go for some＿
 
 
 //バニラ
-<$06>vanilla
+vanilla
 <$00>
 
 
@@ -868,7 +868,7 @@ go for some＿
 
 
 //キムチ
-<$06>kimchi
+kimchi
 <$00>
 
 
@@ -877,7 +877,7 @@ go for some＿
 
 
 //チーズ
-<$06>cheese
+cheese
 <$00>
 
 
@@ -886,7 +886,7 @@ go for some＿
 
 
 //朝
-<$06>breakfast
+breakfast
 <$00>
 
 
@@ -895,7 +895,7 @@ go for some＿
 
 
 //昼
-<$06>lunch
+lunch
 <$00>
 
 
@@ -904,7 +904,7 @@ go for some＿
 
 
 //夕
-<$06>dinner
+dinner
 <$00>
 
 
@@ -913,7 +913,7 @@ go for some＿
 
 
 //クン、クンクン………？
-<$06>Sniff...sniff, sniff?
+Sniff...sniff, sniff?
 <$12>
 \n
 <CLEAR>
@@ -928,7 +928,7 @@ It smells strongly of antiseptic here.
 
 
 #WRITE(PTR, $0024)
-<$06><CLEAR>
+<CLEAR>
 //ゾンビが襲ってきた∥
 Zombie attacked!
 <$12>
@@ -939,7 +939,7 @@ Zombie attacked!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //今さら　逃げるわけには\nいかない∥Ψ
 Can't run away now!Ψ
 <$00>
@@ -950,7 +950,7 @@ Can't run away now!Ψ
 
 
 #WRITE(PTR, $0026)
-<$06><CLEAR>
+<CLEAR>
 //ヒュームとアンが襲ってきた∥
 Hume and Ann attacked!
 <$12>
@@ -961,7 +961,7 @@ Hume and Ann attacked!
 
 
 
-<$06><CLEAR>
+<CLEAR>
 //今さら　逃げるわけには\nいかない∥Ψ
 Can't run away now!Ψ
 <$00>
