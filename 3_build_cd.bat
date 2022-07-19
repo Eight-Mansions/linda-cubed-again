@@ -1,5 +1,8 @@
 del exe\SCPS_100.39
 copy exe\orig\SCPS_100.39 exe\SCPS_100.39
+
+tools\linda_cube_again_big_font_build.exe exe\orig\SCPS_100.39 exe\SCPS_100.39 font\big_font.bmp font\big_font.tbl
+
 tools\armips.exe code\linda_vwf.asm
 tools\linda_cube_again_font_build.exe font\font.bmp exe\SCPS_100.39
 
