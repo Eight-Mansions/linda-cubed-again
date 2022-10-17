@@ -1,6 +1,13 @@
 del exe\SCPS_100.39
 copy exe\orig\SCPS_100.39 exe\SCPS_100.39
 
+echo Building Linda Cube Again PSX code
+pushd code\linda
+pmake -e RELMODE=DEBUG clean
+mkdir Debug
+pmake -e RELMODE=DEBUG -e OUTFILE=main -e OPTIMIZE=2
+popd
+
 tools\linda_cube_again_big_font_build.exe exe\orig\SCPS_100.39 exe\SCPS_100.39 font\big_font.bmp font\big_font.tbl
 
 tools\armips.exe code\linda_vwf.asm

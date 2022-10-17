@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linda_obj2bmp", "linda_obj2bmp\linda_obj2bmp.csproj", "{91D54F22-6C11-463A-8179-1C7784D674AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91D54F22-6C11-463A-8179-1C7784D674AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91D54F22-6C11-463A-8179-1C7784D674AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91D54F22-6C11-463A-8179-1C7784D674AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91D54F22-6C11-463A-8179-1C7784D674AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4ABFA7D-D327-4E7A-968A-7AE5B4FCA53A}
+	EndGlobalSection
+EndGlobal
