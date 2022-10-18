@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="makefile" />
+    <ClCompile Include="code\font.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="code\platform.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="code\subtitle.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+    <ClCompile Include="code\text.cpp">
+      <Filter>code</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="code\core.h">
+      <Filter>code</Filter>
+    </ClInclude>
+    <ClInclude Include="code\font.h">
+      <Filter>code</Filter>
+    </ClInclude>
+    <ClInclude Include="code\platform.h">
+      <Filter>code</Filter>
+    </ClInclude>
+    <ClInclude Include="code\subtitle.h">
+      <Filter>code</Filter>
+    </ClInclude>
+    <ClInclude Include="code\text.h">
+      <Filter>code</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="code">
+      <UniqueIdentifier>{335758ed-2a34-4fb2-b1d0-11301fc00366}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
