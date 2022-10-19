@@ -634,14 +634,14 @@ No
 <$1D>
 //ます\n
 <$06><$19><$31><$01><$1A>
-//01
+01
 <$0E><$15><$53><$19><$30><$04>
 ///
  / 
 <$14><$1E>
-//034
+034
 <$15><$53><$1D><$14><$02>
-//112
+112
 <$19><$32><$1E>
 //40
 40
@@ -1244,7 +1244,7 @@ AMD
 //4、
 4、
 <$1D>
-//\n残り    
+//\n残り     
 \n 
 <$1E>
 //1季節
@@ -2878,9 +2878,9 @@ S West Area
 <$1C><$41>
 //は　優しく\n
 \npierced 
-<$1C>
-//Oの脚を　噛んだ∥\nアドレナリン注入∥
-O's leg with a surge of adrenaline!
+<$1C><$4F>
+//の脚を　噛んだ∥\nアドレナリン注入∥
+'s leg with a surge of adrenaline!
 <$12>
 <$00>
 
@@ -3751,10 +3751,10 @@ Linda lives in Minago, Q
 <$04>
 //だ\n
 .\nWatch out for 
-<$1B> 
+<$1B>
 //ダチョウや
 ostriches and 
-<$1B> 
+<$1B>
 //リスに　注意しながら\n東の川を　渡っていきな
 squirrels on the way!
 <$12>
@@ -5201,10 +5201,7 @@ Hang up
 <CLEAR>
 //現在の預金残高は
 Acct balance: 
-<$15>
-//R
-R
-<$06><$1D><$04><$14>
+<$15><$52><$06><$1D><$04><$14>
 //￥です\n追加融資はできません
 ￥\nLoans unavailable.
 <$12>
@@ -5280,7 +5277,7 @@ Loan balance:
 //40￥です\n季節利子
 40￥\nSsnl interest: 
 <$1E>
-//40￥\n返済期限
+//40￥\n返済期限　
 40￥\nPayment due this 
 <$1D>
 //、となっております
@@ -5330,9 +5327,7 @@ Loan balance:
 <$04><$09>
 //1
 1
-<$15>
-//H
-H
+<$15><$48>
 <$00>
 
 
@@ -5424,10 +5419,7 @@ Arena Pay
 <$1D><$02>
 //118
 118
-<$06><$15>
-//H
-H
-<$1D>
+<$06><$15><$48><$1D>
 <$00>
 
 
@@ -5436,9 +5428,7 @@ H
 <$02>
 //202
 202
-<$1D><$1D><$15>
-//H
-H
+<$1D><$1D><$15><$48>
 <$00>
 
 
@@ -5847,10 +5837,7 @@ Select
 
 //0031_0000360C_bin\PROG.BIN
 //000062DF
-<$15>
-//b
-b
-<$01><$06><$1E>
+<$15><$62><$01><$06><$1E>
 //.
 .
 <$0E><$04>
@@ -10312,9 +10299,9 @@ No
 <$02>
 //56
 56
-<$15>
-//K○ボタンで♂♀表示切り替え
-K○ button: ♂/♀
+<$15><$4B>
+//○ボタンで♂♀表示切り替え
+○ button: ♂/♀
 <$14>
 <$00>
 
@@ -12089,9 +12076,9 @@ Toy Ring
 
 //0038_00003A28_bin\PROG.BIN
 //00006D9C
-<$15>
-//R 売り切れ
-R SOLD OUT
+<$15><$52>
+// 売り切れ
+ SOLD OUT
 <$15><$57>
 <$00>
 
@@ -12105,9 +12092,7 @@ R SOLD OUT
 
 //0038_00003A28_bin\PROG.BIN
 //00006D9C
-<$15>
-//b
-b
+<$15><$62>
 <$00>
 
 
@@ -12116,7 +12101,8 @@ b
 <$1E>
 //39
 39
-<$15><$57>￥
+<$15><$57>
+//￥
 ￥
 <$00>
 
@@ -13003,7 +12989,7 @@ You currently owe
 //0038_00003A28_bin\PROG.BIN
 //0000765E
 <CLEAR>
-//現在の返済残高は
+//現在の返済残高は　
 Balance: 
 <$06><$1E><$04>
 //￥です\n返済額は　おいくらですか？\n持金
@@ -13304,13 +13290,12 @@ At least your item bag is full, am I right?
 <$02>
 //96［
 96［
-<$19><$31>
-<$01><$1E>
+<$19><$31><$01><$1E>
 //036
 036
-<$19>
-//0］\n４ケタの数字を　入力してください\nそれが　抽選ナンバーになります
-0］\nChoose any 4 digits you want.\nThis'll be your lottery number!
+<$19><$30>
+//］\n４ケタの数字を　入力してください\nそれが　抽選ナンバーになります
+］\nChoose any 4 digits you want.\nThis'll be your lottery number!
 <$00>
 
 
@@ -22778,7 +22763,8 @@ Raise 3 LVLs
 <$1D><$1E>
 //38
 38
-<$15><$57>￥\n
+<$15><$57>
+//￥\n
 ￥\n
 <$01>
 //性格の矯正
@@ -22792,7 +22778,8 @@ Personality Adjustment
 <$1D><$1E>
 //38
 38
-<$15><$57>￥\n
+<$15><$57>
+//￥\n
 ￥\n
 <$01>
 //特殊技能を習得
@@ -22806,7 +22793,8 @@ Skill Training
 <$1D><$1E>
 //38
 38
-<$15><$57>￥
+<$15><$57>
+//￥
 ￥
 <$00>
 
@@ -28908,9 +28896,9 @@ Dog
 //0000252F
 //猟犬
 Dog
-<$15>
-//R♀
-R♀
+<$15><$52>
+//♀
+♀
 <$14>
 <$00>
 
@@ -32840,6 +32828,7 @@ Spurr Valley
 <CLEAR>
 //
 <$19><$31>
+//
 <$15><$53>
 //カギがかかっているようだ\nビクともしない
 The door is locked tight.
@@ -33004,7 +32993,7 @@ There's only one way to find out, but that's the gamble bottom-feeders like us h
 //0100_00005FAB_bin\PROG.BIN
 //0000134A
 //この星は、いいよ
-This planet's great.
+This planet's great.\n
 There's still a lot of stuff it has to keep you on your toes. <$12>
 \n<CLEAR>
 //まだ、ドキドキすることが　いっぱい\nあるからよ…　ちょっと気を抜くと\n気軽に死神が　キスしに来やがんの
@@ -65640,9 +65629,9 @@ Gorillin
 //0000437C
 //ゴリラン
 Gorillin
-<$15>
-//R♀
-R♀
+<$15><$52>
+//♀
+♀
 <$14>
 <$00>
 
@@ -65662,9 +65651,9 @@ Gifrappe
 //0000437C
 //キリンドウ
 Gifrappe
-<$15>
-//R♀
-R♀
+<$15><$52>
+//♀
+♀
 <$14>
 <$00>
 
@@ -65684,9 +65673,9 @@ Dahlilulilo
 //0000437C
 //ダリアリ
 Dahlilulilo
-<$15>
-//R♀
-R♀
+<$15><$52>
+//♀
+♀
 <$14>
 <$00>
 
@@ -68040,7 +68029,7 @@ Did you come here knowing it was Garcia's hideout? Your life depends on your ans
 //◇
 ◇
 <$0E><$08>
-//4ガルシア？
+//4ガルシア？　
 4"Grr-cia"? Like a 
 <$1B>
 //イヌみたいな名だな\n
@@ -69250,7 +69239,7 @@ Soon, the birdline will be celebrating its
 th customer.
 <$12>
 \n<CLEAR>
-//それを記念して
+//それを記念して　
 To celebrate, that 
 <$06>
 //100000
@@ -70654,32 +70643,33 @@ Memo
 //0000642A
 <CLEAR>
 //
-<$15><$57>未登録で未捕獲 …………………
-W◇ 
-<$15>
-//R赤
-RRED: Neither captured nor filed
+<$15><$57>
+//未登録で未捕獲 …………………
+<$15><$52>
+//赤
+RED: Neither captured nor filed
 <$11>
 //240<CLEAR>
 240<CLEAR>
-<$15><$57>未登録で捕獲済み ………………
-W ◇ 
+<$15><$57>
+//未登録で捕獲済み ………………
 <$15><$59>
 //黄
 YELLOW: Captured, but not filed
 <$11>
 //240<CLEAR>
 240<CLEAR>
-<$15><$57>登録済み …………………………白
-W ◇ WHITE: Filed!
+<$15><$57>
+//登録済み …………………………白
+WHITE: Filed!
 <$11>
 //240<CLEAR>
 240<CLEAR>
-<$15><$57>絶対捕獲不可 ……………………
-W ◇ 
-<$15>
-//K黒
-KBLACK: Cannot be captured
+<$15><$57>
+//絶対捕獲不可 ……………………
+<$15><$4B>
+//黒
+BLACK: Cannot be captured
 <$11>
 //240
 240
@@ -70691,8 +70681,9 @@ KBLACK: Cannot be captured
 //0000642A
 <CLEAR>
 //
-<$15><$57>セレクトボタンで解説が出ます
-WSELECT: Details
+<$15><$57>
+//セレクトボタンで解説が出ます
+SELECT: Details
 <$11>
 //240<CLEAR>Ｌ/Ｒボタンで情報を切り換えます
 240<CLEAR>L/R: Change page
@@ -70706,8 +70697,9 @@ WSELECT: Details
 //0000642A
 <CLEAR>
 //
-<$15><$57>道具を使う・捨てることができます
-WUse or trash items
+<$15><$57>
+//道具を使う・捨てることができます
+Use or trash items
 <$00>
 
 
@@ -70715,8 +70707,9 @@ WUse or trash items
 //0000642A
 <CLEAR>
 //
-<$15><$57>装備を変更します
-WChange part equipment
+<$15><$57>
+//装備を変更します
+Change part equipment
 <$00>
 
 
@@ -70724,8 +70717,9 @@ WChange part equipment
 //0000642A
 <CLEAR>
 //
-<$15><$57>特殊能力を使います
-WView and utilize party skills
+<$15><$57>
+//特殊能力を使います
+View and utilize party skills
 <$00>
 
 
@@ -70733,8 +70727,9 @@ WView and utilize party skills
 //0000642A
 <CLEAR>
 //
-<$15><$57>一覧表示や隊列を変更することができます
-WView status and change formation
+<$15><$57>
+//一覧表示や隊列を変更することができます
+View status and change formation
 <$00>
 
 
@@ -70742,8 +70737,9 @@ WView status and change formation
 //0000642A
 <CLEAR>
 //
-<$15><$57>トランスカーゴ内の動物を見ます
-WView animals in trans-cargo unit
+<$15><$57>
+//トランスカーゴ内の動物を見ます
+View animals in trans-cargo unit
 <$00>
 
 
@@ -70751,8 +70747,9 @@ WView animals in trans-cargo unit
 //0000642A
 <CLEAR>
 //
-<$15><$57>動物図鑑や状態を見ることができます
-WView animal bios and stats
+<$15><$57>
+//動物図鑑や状態を見ることができます
+View animal bios and stats
 <$00>
 
 
@@ -70760,8 +70757,9 @@ WView animal bios and stats
 //0000642A
 <CLEAR>
 //
-<$15><$57>地図を表示　ダンジョンでも使えます
-WView world and dungeon maps
+<$15><$57>
+//地図を表示　ダンジョンでも使えます
+View world and dungeon maps
 <$00>
 
 
@@ -70769,8 +70767,9 @@ WView world and dungeon maps
 //0000642A
 <CLEAR>
 //
-<$15><$57>パーティのＨＰ等、状態を表示します
-WView party HP, stats, etc.
+<$15><$57>
+//パーティのＨＰ等、状態を表示します
+View party HP, stats, etc.
 <$00>
 
 
@@ -70778,8 +70777,9 @@ WView party HP, stats, etc.
 //0000642A
 <CLEAR>
 //
-<$15><$57>ポケット動物図鑑を見ます
-WBoot the animal pocket bible
+<$15><$57>
+//ポケット動物図鑑を見ます
+Boot the animal pocket bible
 <$00>
 
 
@@ -70787,8 +70787,9 @@ WBoot the animal pocket bible
 //0000642A
 <CLEAR>
 //
-<$15><$57>現在までに使用できる特殊能力の一覧です
-WView list of usable skills
+<$15><$57>
+//現在までに使用できる特殊能力の一覧です
+View list of usable skills
 <$00>
 
 
@@ -70796,8 +70797,9 @@ WView list of usable skills
 //0000642A
 <CLEAR>
 //
-<$15><$57>イベントの進行状況を表示します
-WView event progress
+<$15><$57>
+//イベントの進行状況を表示します
+View event progress
 <$00>
 
 
@@ -71076,9 +71078,7 @@ Tech/
 
 //0392_000000EF_bin\PROG.BIN
 //00006922
-<$15><$57>
-
-<$04>
+<$15><$57><$04>
 //→
 →
 <$00>
@@ -71107,9 +71107,7 @@ Tech/
 
 //0392_000000EF_bin\PROG.BIN
 //00006922
-<$15><$57>
-
-<$04><$1D><$1D><$1E>
+<$15><$57><$04><$1D><$1D><$1E>
 //35
 35
 <$00>
@@ -71117,9 +71115,7 @@ Tech/
 
 //0392_000000EF_bin\PROG.BIN
 //00006922
-<$15><$57>
-
-<$05>
+<$15><$57><$05>
 //→
 →
 <$00>
@@ -71139,9 +71135,7 @@ Tech/
 
 //0392_000000EF_bin\PROG.BIN
 //00006922
-<$15><$57>
-
-<$05><$1D><$1D><$1E>
+<$15><$57><$05><$1D><$1D><$1E>
 <$00>
 
 
@@ -71152,9 +71146,7 @@ Tech/
 <$04><$15><$53>
 //攻撃力：
 ATK：
-<$15><$57>
-
-<$1E>
+<$15><$57><$1E>
 //35
 35
 <$09>
@@ -71163,9 +71155,7 @@ ATK：
 <$04><$15><$53>
 //守備力：
 DEF：
-<$15><$57>
-
-<$1E>
+<$15><$57><$1E>
 //35
 35
 <$09>
@@ -71174,9 +71164,7 @@ DEF：
 <$04><$15><$53>
 //物理　火炎　冷気　電気\n
 PHY FIR ICE ELC\n
-<$05><$15><$57>
-
-<$1E><$08>
+<$05><$15><$57><$1E><$08>
 //28
 28
 <$0F><$1E><$08>
@@ -71191,9 +71179,7 @@ PHY FIR ICE ELC\n
 <$04><$15><$53>
 //液体　気体　光音　必殺\n
 LQD GAS LGT DTH\n
-<$05><$15><$57>
-
-<$1E><$08>
+<$05><$15><$57><$1E><$08>
 //28
 28
 <$0F><$1E><$08>
@@ -71210,9 +71196,7 @@ LQD GAS LGT DTH\n
 //00006922
 <CLEAR>
 //
-<$15><$57>
-
-<$04><$01>
+<$15><$57><$04><$01>
 // ＜＜
  ＜＜
 <$1D>
@@ -71242,9 +71226,9 @@ LQD GAS LGT DTH\n
 <$03>
 //0
 0
-<$16><$04><$15>
-//b装備をはずす  
-bREMOVE 
+<$16><$04><$15><$62>
+//装備をはずす  
+REMOVE 
 <$15><$57>
 
 <$00>
@@ -71376,9 +71360,9 @@ Story
 //00006A36
 <CLEAR>
 //
-<$15>
-//K留守番コール入電　
-KYou have a new voicemail! 
+<$15><$4B>
+//留守番コール入電　
+You have a new voicemail! 
 <$01><$83><$BA><$83><$BA><$0E>
 //　
 　
@@ -71406,31 +71390,33 @@ OK
 
 //0392_000000EF_bin\PROG.BIN
 //00006AF7
-<$15><$57>逃走中
+<$15><$57>
+//逃走中
 Fled
 <$00>
 
 
 //0392_000000EF_bin\PROG.BIN
 //00006AF7
-<$15>
-//b戦闘不能
-bK.O.
+<$15><$62>
+//戦闘不能
+K.O.
 <$00>
 
 
 //0392_000000EF_bin\PROG.BIN
 //00006AF7
-<$15><$57>異常なし
+<$15><$57>
+//異常なし
 Fine
 <$00>
 
 
 //0392_000000EF_bin\PROG.BIN
 //00006AF7
-<$15>
-//Mフェ
-MP
+<$15><$4D>
+//フェ
+P
 <$00>
 
 
@@ -71452,17 +71438,17 @@ T
 
 //0392_000000EF_bin\PROG.BIN
 //00006AF7
-<$15>
-//G粘
-GS
+<$15><$47>
+//粘
+S
 <$00>
 
 
 //0392_000000EF_bin\PROG.BIN
 //00006AF7
-<$15>
-//M毒
-MV
+<$15><$4D>
+//毒
+V
 <$00>
 
 
@@ -71470,15 +71456,11 @@ MV
 //00006AF7
 <$02>
 //208
-<$15><$53>
-//
-<$05>
+<$15><$53><$05>
 //HP
 <$1D><$1E>
 //19
-<$15><$53>
-//
-<$05>
+<$15><$53><$05>
 ///
 <$1D><$1E>
 //19
@@ -71496,9 +71478,7 @@ MV
 //BP
 <$1D><$1E>
 //19
-<$15><$53>
-//
-<$05>
+<$15><$53><$05>
 ///
 <$1D><$1E>
 //19
@@ -72109,9 +72089,7 @@ Skills
 <$09>
 //-4 
 -4 
-<$15><$57>
-
-<$04><$01>
+<$15><$57><$04><$01>
 //？？？
 ???
 <$00>
@@ -72135,7 +72113,8 @@ Skills
 // 
 <$15><$53><$05><$1D><$1D><$02>
 //258
-<$0E><$15><$57>\n
+<$0E><$15><$57>
+//\n
 <$00>
 
 
@@ -72869,9 +72848,9 @@ No
 <$1C><$41>
 //は　
  opened 
-<$1C>
-//Uの口に\n
-U's mouth and put in the 
+<$1C><$55>
+//の口に\n
+'s mouth and put in the 
 <$1D>
 //を　入れた∥
 !
@@ -72905,8 +72884,7 @@ It tasted like
 //0392_000000EF_bin\PROG.BIN
 //00007CC8
 //
-<$15><$59>
-<$06>
+<$15><$59><$06>
 //T.C.
 TCU 
 <$04><$1D>
@@ -73194,9 +73172,9 @@ Not filed
 
 //0392_000000EF_bin\PROG.BIN
 //00007D53
-<$15>
-//R未捕獲
-RNot captured
+<$15><$52>
+//未捕獲
+Not captured
 <$14>
 <$00>
 
@@ -74169,9 +74147,9 @@ has
 //000101DF
 <CLEAR>
 //
-<$1C>
-//Pは飛び起きた
-P\nwas prepared!
+<$1C><$50>
+//は飛び起きた
+\nwas prepared!
 <$12>
 <$00>
 
@@ -74991,10 +74969,7 @@ NEXT TURN:
 <$1C><$41>
 //\n
 \n
-<$15><$53>
-//
-S
-<$05>
+<$15><$53><$05>
 //γδε ζηθ ικλ
 ATK DEF SPD
 <$14>
@@ -75100,11 +75075,8 @@ ATK DEF SPD
 //000109C7
 <CLEAR>
 //
-<$15><$57>
-
-<$1C>
-//R\n
-R\n
+<$15><$57><$1C><$52>
+//\n
 <$05><$15><$53>
 //LV
 LV
@@ -75306,9 +75278,9 @@ C\nretched due to poison.\nTook
 <$1C><$43>
 //は　
 \ntrampled over 
-<$1C>
-//wに\n踏みつけられている∥
-w!
+<$1C><$77>
+//に\n踏みつけられている∥
+!
 <$12>
 <$00>
 
@@ -75320,9 +75292,9 @@ w!
 <$1C><$43>
 //は　
 \nkept trampling over 
-<$1C>
-//wを\n踏みつけている∥
-w!
+<$1C><$77>
+//を\n踏みつけている∥
+!
 <$12>
 <$00>
 
@@ -75334,7 +75306,7 @@ w!
 <$1C><$43>
 //は　
 \ngrabbed onto 
-<$1C><$77>
+<$1C><$57>
 //に\n抱かれている∥
 !
 <$12>
@@ -75348,7 +75320,7 @@ w!
 <$1C><$43>
 //は　
 \nhugged onto 
-<$1C><$77>
+<$1C><$57>
 //に\n巻きつかれている∥
 !
 <$12>
@@ -75362,7 +75334,7 @@ w!
 <$1C><$43>
 //は　
 \nshot electricity through 
-<$1C><$77>
+<$1C><$57>
 //を\n抱きしめたまま　電撃を放つ∥
 !
 <$12>
@@ -75376,7 +75348,7 @@ w!
 <$1C><$43>
 //は　
 \nused the hug to shock 
-<$1C><$77>
+<$1C><$57>
 //に\n巻きついたまま　電撃を放つ∥
 !
 <$12>
@@ -75629,9 +75601,9 @@ BP recovered by
 //00010D84
 <CLEAR>
 //
-<$1C>
-//pは\n
-p\nrisked their life to guard 
+<$1C><$70>
+//は\n
+\nrisked their life to guard 
 <$1C><$54>
 //への攻撃を\n身をていして　防いだ∥
 !
@@ -75665,10 +75637,7 @@ p\nrisked their life to guard
 //00010D84
 <CLEAR>
 //
-<$15>
-//R
-R
-<$1C><$41>
+<$15><$52><$1C><$41>
 //の\n
 's\n
 <$1D>
@@ -75762,9 +75731,9 @@ R
 //00010D84
 <CLEAR>
 //
-<$1C>
-//Kの足元に\n炎が　広がった∥
-K\nwas walled in by flames!
+<$1C><$4B>
+//の足元に\n炎が　広がった∥
+\nwas walled in by flames!
 <$12>
 <$00>
 
@@ -75872,9 +75841,9 @@ The entire area was in a sea of flames!
 <$1C><$41>
 //は\n
 \nlicked 
-<$1C>
-//Uの体をなめた∥
-U all over!
+<$1C><$55>
+//の体をなめた∥
+ all over!
 <$00>
 
 
@@ -76066,9 +76035,9 @@ DEF:
 <$1C><$41>
 //は　優しく\n
 \nbit
-<$1C>
-//Uの脚を　噛んだ∥\n
-U's leg!\n
+<$1C><$55>
+//の脚を　噛んだ∥\n
+'s leg!\n
 <$1C><$61>
 //∥
 !
@@ -76116,9 +76085,9 @@ U's leg!\n
 //00010D84
 <CLEAR>
 //
-<$1C>
-//Kの足元は\n砂だらけになった∥
-K's feet are covered in sand!
+<$1C><$4B>
+//の足元は\n砂だらけになった∥
+'s feet are covered in sand!
 <$12>
 <$00>
 
@@ -76416,9 +76385,9 @@ BP
 //00010D84
 <CLEAR>
 //
-<$1C>
-//Kの足元は\n雪に　うずまった∥
-K's feet were buried in snow!
+<$1C><$4B>
+//の足元は\n雪に　うずまった∥
+'s feet were buried in snow!
 <$12>
 <$00>
 
@@ -76669,9 +76638,9 @@ The contents of the item bag got a bit wet.
 //00010D84
 <CLEAR>
 //
-<$1C>
-//Kの足元は\n水浸しになった∥
-K's feet were submerged in water!
+<$1C><$4B>
+//の足元は\n水浸しになった∥
+'s feet were submerged in water!
 <$12>
 <$00>
 
@@ -77087,9 +77056,9 @@ into their
 //00010D84
 <CLEAR>
 //
-<$1C>
-//Eは\n尻尾を巻いて　逃げ出した∥
-E\nturned tail and ran!
+<$1C><$45>
+//は\n尻尾を巻いて　逃げ出した∥
+\nturned tail and ran!
 <$12>
 <$00>
 
@@ -77098,9 +77067,9 @@ E\nturned tail and ran!
 //00010D84
 <CLEAR>
 //
-<$1C>
-//Eは　逃げた∥
-E ran away!
+<$1C><$45>
+//は　逃げた∥
+ ran away!
 <$12>
 <$00>
 
@@ -77184,10 +77153,7 @@ A pursued!
 //00010D84
 <CLEAR>
 //
-<$15>
-//R
-R
-<$1C><$47>
+<$15><$52><$1C><$47>
 //の\n
 's\n
 <$1D>
@@ -77201,10 +77167,7 @@ R
 //00010D84
 <CLEAR>
 //
-<$15>
-//R
-R
-<$1C><$47>
+<$15><$52><$1C><$47>
 //の\n
 's\n
 <$1D>
@@ -77218,10 +77181,7 @@ R
 //00010D84
 <CLEAR>
 //
-<$15>
-//R
-R
-<$1C><$47>
+<$15><$52><$1C><$47>
 //の\n
 's\n
 <$1D>
@@ -77266,9 +77226,9 @@ Something appeared to
 //00012199
 <CLEAR>
 //
-<$1C>
-//Dは\n戦う力を　失った…
-D\nlost the strength to fight...
+<$1C><$44>
+//は\n戦う力を　失った…
+\nlost the strength to fight...
 <$12>
 <$00>
 
@@ -77277,9 +77237,9 @@ D\nlost the strength to fight...
 //00012199
 <CLEAR>
 //
-<$1C>
-//Dは\n土に返った…∥
-D\nreturned to the soil...
+<$1C><$44>
+//は\n土に返った…∥
+\nreturned to the soil...
 <$12>
 <$00>
 
@@ -77288,9 +77248,9 @@ D\nreturned to the soil...
 //00012199
 <CLEAR>
 //
-<$1C>
-//Dの体は\n飛び散った…∥
-D\nremnants scattered...
+<$1C><$44>
+//の体は\n飛び散った…∥
+\nremnants scattered...
 <$12>
 <$00>
 
@@ -77299,9 +77259,9 @@ D\nremnants scattered...
 //00012199
 <CLEAR>
 //
-<$1C>
-//Dは\n抵抗を　やめた
-D\nstopped resisting.
+<$1C><$44>
+//は\n抵抗を　やめた
+\nstopped resisting.
 <$12>
 <$00>
 
@@ -78279,8 +78239,7 @@ Light shift
 Light vacuum
 <$0E>
 //\n
-\n
-<$01><$15>
+<$01><$15><$62>
 //放電音１    
 Discharge 1
 <$0E>

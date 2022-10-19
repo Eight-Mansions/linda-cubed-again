@@ -125,7 +125,7 @@ going to die," so NOW they care?<$12>\n
 
 
 //ジルって名の　お嬢さんに頼めば\n<$1B>オオカミを　内緒で猟犬に\n登録してくれるゼ<$12>\n<CLEAR>この町にいることは　確かなんだが\nヤサが　どこにあるかは\n誰にも　わかんねえんだよな<$12><$00>
-There's a gal named Jill who tames wolves in secret.<$12>\n
+There's a gal named Jill who tames <$1B>wolves in secret.<$12>\n
 <CLEAR>She must live somewhere nearby, but no one has found\n
 her house.<$12><$00>
 
@@ -153,7 +153,7 @@ walk so much.<$12>\n
 //<CLEAR>…へぇ　じゃあ、帰りも間違えずに\nこっちの出口から　帰るんだよ<$12>\n<CLEAR>もう１つのほうを　出ちゃうと\n<$1B>サイとか<$1B>オオカミとか　危ない\n動物ばかりで　生きて還れないからねぇ<$12><$00>
 <CLEAR>...Well, make sure you take this exit on the way out.<$12>\n
 <CLEAR>If you go out through the other door, there's a lot of\n
-dangerous animals like rhinos and wolves, so you won't get\n
+dangerous animals like <$1B>rhinos and <$1B>wolves, so you won't get\n
 out alive!<$12><$00>
 
 
@@ -171,7 +171,7 @@ Bible, like "C", "F" or "B"?<$12>\n
 Class A trading was banned. But...Class As are hot sellers\n
 in this town!<$12>\n
 <CLEAR>"G" or "H", on the other hand, are disposable. Just like\n
-pigs, just like you or me...<$12><$00>
+<$1B>pigs, just like you or me...<$12><$00>
 
 
 //ビースチャンの伝説にも　人間は\nエデンを　追われて来たってのが\nあるらしいのよね<$12>\n<CLEAR>ただし、ビースチャンのエデンは\n雲の上じゃなくて\n地の底に　あるんだってサ<$12><$00>
@@ -289,7 +289,7 @@ wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
@@ -372,7 +372,7 @@ are dead head!<$00>
 
 
 //<$15>Yスケジュール<$00>
-<$15>YMemo <$00>
+<$15><$59>Memo <$00>
 
 
 //<CLEAR>スケジュールは何もありません<$12><$00>
@@ -412,11 +412,11 @@ Assist Panheim<$00>
 
 
 //<$1B>カメの卵を手に入れる<$00>
-Snatch Turtle Eggs<$00>
+<$1B>Snatch Turtle Eggs<$00>
 
 
 //<$1B>プテラノの卵を手に入れる<$00>
-Snatch Pteranodon Eggs<$00>
+<$1B>Snatch Pteranodon Eggs<$00>
 
 
 //遺産争いにケリをつける<$00>
@@ -453,17 +453,17 @@ Hardia Hotel.<$00>
 
 
 //<CLEAR>マーブルポリスの<$1B>ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す<$00>
-<CLEAR>Process meat from chickens in Marblopolis.Give them to\n
+<CLEAR>Process meat from <$1B>chickens in Marblopolis.Give them to\n
 Prof. Panheim in Hospico.<$00>
 
 
 //<CLEAR><$1B>カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す<$00>
-<CLEAR>Find up to 3 Turtle Eggs. Give them to Louis at the Battle\n
+<CLEAR>Find up to 3 <$1B>Turtle Eggs. Give them to Louis at the Battle\n
 Park BB Ranch.<$00>
 
 
 //<CLEAR><$1B>プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す<$00>
-<CLEAR>Acquire 2 Pteranodon Eggs. Give them to Bronco at the\n
+<CLEAR>Acquire 2 <$1B>Pteranodon Eggs. Give them to Bronco at the\n
 Battle Park BB Ranch.<$00>
 
 
@@ -485,7 +485,7 @@ another <$06><$1E><$0F><$04><$00>
 
 
 //<CLEAR>コシカタのシンボル「<$1B>トラの爪」を\n見つけだし、ポリスカに渡す<$00>
-<CLEAR>Find the Tiger Claw, Koshikata's village symbol. Return it\n
+<CLEAR>Find the <$1B>Tiger Claw, Koshikata's village symbol. Return it\n
 to Poliska.<$00>
 
 
@@ -552,8 +552,7 @@ to Mario in Spurr Valley.<$00>
 
 
 //<$1D>を<$1D>ます\n<$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04>／<$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S￥<$00>
-<$1D> x<$1D> \n
-<$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04> / <$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S￥<$00>
+<$1D> x<$1D><$06><$19><$31><$01><$1A>01<$0E><$15><$53><$19><$30><$04> / <$14><$1E>034<$15><$53><$1D><$14><$02>112<$19><$32><$1E>40<$19><$30><$15><$53>￥<$00>
 
 
 //<$06>T.C.(<$1E>034<$06>)<$00>
@@ -581,7 +580,7 @@ to Mario in Spurr Valley.<$00>
 
 
 //<$04><$16><$15>W<$01><$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
-<$04><$16><$15>W<$01><$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
+<$04><$16><$15><$57><$01><$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
 
 
 //<CLEAR>トランスカーゴは　１枠につき\n<$06>99<$04>頭までしか　収容できません<$12><$00>
@@ -609,7 +608,7 @@ I can't accept that!<$12><$00>
 
 
 //<$15>Y雑貨屋<$00>
-<$15>YItems<$00>
+<$15><$59>Items<$00>
 
 
 //<CLEAR>日用雑貨から　掘りだし物まで\nなんでも扱う　道具屋です\n<$01>取引する<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
@@ -618,7 +617,7 @@ I can't accept that!<$12><$00>
 
 
 //<$15>Y雑貨屋<$00>
-<$15>YItems<$00>
+<$15><$59>Items<$00>
 
 
 //<CLEAR>いい物　見つけたら\n売りにおいでよ<$12><$00>
@@ -626,7 +625,7 @@ I can't accept that!<$12><$00>
 
 
 //<$15>Y雑貨屋／メニュー<$00>
-<$15>YItems/Menu<$00>
+<$15><$59>Items/Menu<$00>
 
 
 //<$01>買＿う<$0E>\n<$01>売＿る<$0E>\n<$01>やめる<$0E><$00>
@@ -636,11 +635,11 @@ I can't accept that!<$12><$00>
 
 
 //<$15>Y雑貨屋／買＿う<$00>
-<$15>YItems/Buy<$00>
+<$15><$59>Items/Buy<$00>
 
 
 //<$15>Y雑貨屋／売＿る<$00>
-<$15>YItems/Sell<$00>
+<$15><$59>Items/Sell<$00>
 
 
 

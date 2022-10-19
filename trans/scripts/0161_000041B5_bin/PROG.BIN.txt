@@ -87,7 +87,7 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR>店で買った<$1B>イヌでも　そこらで\n捕まえた野犬でも　名前をつけて\n登録しちゃえば　あなたの猟犬∥<$12>\n<CLEAR>一瞬で完了する　調教の技が\n私たち、プロの証しね∥<$12><$00>
-<CLEAR>Whether you buy a dog in-store or catch it in the wild,\n
+<CLEAR>Whether you buy a <$1B>dog in-store or catch it in the wild,\n
 once you name it, it's yours!<$12>\n
 <CLEAR>What really proves one's mettel as a trainer is his ability\n
 to tame them on the spot.<$12><$00>
@@ -96,7 +96,7 @@ to tame them on the spot.<$12><$00>
 //<CLEAR>ヘボな猟犬でも　いないよりは\n何倍も心強いのは　確かね！<$12>\n<CLEAR>ウチで扱ってる<$1B>イヌは　どれも\n猟犬にするには　ピッタリよ！\n血統もいいし　味も最高∥<$12><$00>
 <CLEAR>Even a low-tier dog is better than nothing, even if just\n
 for emotional support.<$12>\n
-<CLEAR>The dogs we raise are perfect for hunting.<$12>\n
+<CLEAR>The <$1B>dogs we raise are perfect for hunting.<$12>\n
 <CLEAR>They've got great pedigree, and, in desperate measures,\n
 great flavor too!<$12><$00>
 
@@ -110,7 +110,7 @@ beings. Take good care of them.<$12><$00>
 
 #WRITE(PTR, $001E)
 //<$15>Y猟犬屋<$00>
-<$15>YDog Center<$00>
+<$15><$59>Dog Center<$00>
 
 
 //<CLEAR>お客さん…\nホスピコの入り口に　並んでる\n哀れな猟犬の墓を　数えてごらん<$12>\n<CLEAR>これ以上　あなたの猟犬を\n登録したところで、どうせまた\nあそこの墓が　増えるだけだものね<$12>\n<CLEAR>金の問題じゃないんだよ…\nわかるッ￠<$12><$00>
@@ -128,7 +128,7 @@ one time. <$12><$00>
 
 //<CLEAR>登録料　<$15>b<$06><$1E><$04><$14>￥が足りません\n銀行で　ご都合ください<$12><$00>
 <CLEAR>The adoption fee is over\n
-<$15><$06><$1E><$04><$14>￥.\n
+<$15><$62><$06><$1E><$04><$14>￥.\n
 Get a loan from the bank.<$12><$00>
 
 
@@ -147,11 +147,11 @@ Choose a new name.<$12><$00>
 
 
 //<$16><$01><$1D><$02>96<$0E>　<$15>S<$1E>18<$14><$04><$02>140<$01><$1D><$02>236<$0E>　<$15>S<$1E>18<$14><$00>
-<$16><$01><$1D><$02><$0E><$15><$1E><$14><$04><$02><$01><$1D><$02><$0E><$15><$1E><$14><$00>
+<$16><$01><$1D><$02><$0E><$15><$53><$1E><$14><$04><$02><$01><$1D><$02><$0E><$15><$53><$1E><$14><$00>
 
 
 //<$15>Y猟犬屋／メニュー<$00>
-<$15>YDog/Menu<$00>
+<$15><$59>Dog/Menu<$00>
 
 
 //<$01>買＿う<$0E>\n<$01>売＿る<$0E>\n<$01>登＿録<$0E>\n<$01>やめる<$0E><$00>
@@ -167,11 +167,11 @@ You cannot adopt any more dogs.<$12><$00>
 
 
 //<CLEAR><$1B>イヌを　お持ちじゃないようですね<$12><$00>
-<CLEAR>You don't have any dogs.<$12><$00>
+<CLEAR>You don't have any <$1B>dogs.<$12><$00>
 
 
 //<$15>Y猟犬屋／登＿録<$00>
-<$15>YDog/Tame<$00>
+<$15><$59>Dog/Tame<$00>
 
 
 //<CLEAR>猟犬は太古より　人間の良きパートナー\nぜひ　あなたも　１頭いかがですか？\n<$01>取引する<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
@@ -184,7 +184,7 @@ You cannot adopt any more dogs.<$12><$00>
 
 
 //<$15>Y猟犬屋／買＿う<$00>
-<$15>YDog/Buy<$00>
+<$15><$59>Dog/Buy<$00>
 
 
 //<CLEAR><$00>
@@ -192,11 +192,11 @@ You cannot adopt any more dogs.<$12><$00>
 
 
 //<$04><$16><$15>W<$01>猟犬LV<$1E>02<$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
-<$04><$16><$15>W<$01>Dog LVL <$1E>02<$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
+<$04><$16><$15><$57><$01>Dog LVL <$1E>02<$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
 
 
 //<$15>Y猟犬屋／売＿る<$00>
-<$15>YDog/Sell<$00>
+<$15><$59>Dog/Sell<$00>
 
 
 //<CLEAR>猟犬「<$1D>」を\n<$06><$1E><$04>￥で売りますか？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
@@ -205,7 +205,7 @@ You cannot adopt any more dogs.<$12><$00>
 
 
 //<$15>Y猟犬治療<$00>
-<$15>YVeterinarian<$00>
+<$15><$59>YVeterinarian<$00>
 
 
 //<CLEAR>かわいい猟犬が　傷ついた時は\n手遅れにならないうちに\nここへ　連れて来なさいね<$12><$00>
@@ -243,7 +243,7 @@ Bwame your daddy for being a wittle cheapskate.<$12><$00>
 
 
 //あぁ～傷に<$1B>ウジが　わいてるわよ<$00>
-Whoa～! Maggots in the wound!<$00>
+Whoa～! <$1B>Maggots in the wound!<$00>
 
 
 //肋骨と鎖骨が　折れてるだけね<$00>
@@ -439,7 +439,7 @@ wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>

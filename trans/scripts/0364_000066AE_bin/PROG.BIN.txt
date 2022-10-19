@@ -140,7 +140,7 @@ me a little longer, I suppose.<$12><$00>
 
 
 //<CLEAR><$15>b<$06>100<$04><$14>￥の　持ち合せのない\n男の所に　このコをお嫁にやっても\nきっと、幸せにしてもらえないものな<$12><$00>
-<CLEAR><$15>b<$06>100<$04><$14>￥ is "too much"? Flowers or not, you'll never make\n
+<CLEAR><$15><$62><$06>100<$04><$14>￥ is "too much"? Flowers or not, you'll never make\n
 your wife happy that way!<$12><$00>
 
 
@@ -196,24 +196,24 @@ containers, evaquate immediately.<$12><$00>
 
 
 //<CLEAR><$19>1<$15>S何も　見つからなかった<$14><$12><$00>
-<CLEAR><$19>1<$15>SNothing was found.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Nothing was found.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen found the <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Ken found the <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen acquired <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Ken acquired <$1D>!<$14><$12><$00>
 
 
 //ボクの名は　ケビン！<$12>\n<CLEAR>ペットは　メスの<$1B>クワガタの\nポロポロちゃんさ！\nパパに　もらったんだ<$12>\n<CLEAR>パパは　フローラジャムの\n警備のお仕事で　忙しくて\nずっと　帰って来ないけど…<$12>\n<CLEAR>ポロポロちゃんが　いるから\nボク、寂しくなんかないモン！<$12><$00>
 My name is Kevin!<$12>\n
-<CLEAR>This is my pet stag beetle, Nightshade! Daddy gave her to\n
+<CLEAR>This is my pet <$1B>stag beetle, Nightshade! Daddy gave her to\n
 me!<$12>\n
 <CLEAR>Daddy's a security guard at Flora Jam. He works a lot and\n
 doesn't get to come home very often.<$12>\n
@@ -262,7 +262,7 @@ You're safe!<$12><$00>
 Hi, I'm Kevin! You must be here because I called you on\n
 the phone.<$12>\n
 <CLEAR>Nightshade's not eating anything, and she won't move.<$12>\n
-<CLEAR>When I called Dr. Flora, she said female stag beetles need\n
+<CLEAR>When I called Dr. Flora, she said female <$1B>stag beetles need\n
 a specific nutrient to live.<$12>\n
 <CLEAR>A tree at Flora Jam grows bloodberries, and Nightshade\n
 needs some right away!<$12>\n
@@ -289,7 +289,7 @@ Those look like Bloodberries! Oh, thank you!<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは　ケビン少年に\n「鮮血の果実」を　手渡した<$12><$00>
-<CLEAR><$19>1<$15>SKen gave Kevin the Bloodberries.<$12><$00>
+<CLEAR><$19><$31><$15><$53>Ken gave Kevin the Bloodberries.<$12><$00>
 
 
 //<CLEAR>ポロポロちゃん、出ておいで！<$12><$00>
@@ -334,7 +334,7 @@ Take care of Nightshade for me!<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは　トランスカーゴに\nポロポロちゃんを　収容した<$12><$00>
-<CLEAR><$19>1<$15>SKen welcomed Nightshade\n
+<CLEAR><$19><$31><$15><$53>Ken welcomed Nightshade\n
 into the trans-cargo unit.<$12><$00>
 
 
@@ -400,7 +400,7 @@ My son, Kevin, lives with me. His father went to work far\n
 away, in Flora Jam.<$12>\n
 <CLEAR>That's how Kevin knows it, but actually, his father died\n
 long ago.<$12>\n
-<CLEAR>He shoved his own head between the antlers of a stag\n
+<CLEAR>He shoved his own head between the antlers of a <$1B>stag\n
 beetle. What a stupid way to go.<$12>\n
 <CLEAR>Our son is so young... I don't know how I'll break the news\n
 to him.<$12><$00>
@@ -487,7 +487,7 @@ wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
@@ -570,7 +570,7 @@ are dead head!<$00>
 
 
 //<$15>Yスケジュール<$00>
-<$15>YMemo <$00>
+<$15><$59>Memo <$00>
 
 
 //<CLEAR>スケジュールは何もありません<$12><$00>
@@ -610,11 +610,11 @@ Assist Panheim<$00>
 
 
 //<$1B>カメの卵を手に入れる<$00>
-Snatch Turtle Eggs<$00>
+<$1B>Snatch Turtle Eggs<$00>
 
 
 //<$1B>プテラノの卵を手に入れる<$00>
-Snatch Pteranodon Eggs<$00>
+<$1B>Snatch Pteranodon Eggs<$00>
 
 
 //遺産争いにケリをつける<$00>
@@ -651,17 +651,17 @@ Hardia Hotel.<$00>
 
 
 //<CLEAR>マーブルポリスの<$1B>ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す<$00>
-<CLEAR>Process meat from chickens in Marblopolis.Give them to\n
+<CLEAR>Process meat from <$1B>chickens in Marblopolis.Give them to\n
 Prof. Panheim in Hospico.<$00>
 
 
 //<CLEAR><$1B>カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す<$00>
-<CLEAR>Find up to 3 Turtle Eggs. Give them to Louis at the Battle\n
+<CLEAR>Find up to 3 <$1B>Turtle Eggs. Give them to Louis at the Battle\n
 Park BB Ranch.<$00>
 
 
 //<CLEAR><$1B>プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す<$00>
-<CLEAR>Acquire 2 Pteranodon Eggs. Give them to Bronco at the\n
+<CLEAR>Acquire 2 <$1B>Pteranodon Eggs. Give them to Bronco at the\n
 Battle Park BB Ranch.<$00>
 
 
@@ -683,7 +683,7 @@ another <$06><$1E><$0F><$04><$00>
 
 
 //<CLEAR>コシカタのシンボル「<$1B>トラの爪」を\n見つけだし、ポリスカに渡す<$00>
-<CLEAR>Find the Tiger Claw, Koshikata's village symbol. Return it\n
+<CLEAR>Find the <$1B>Tiger Claw, Koshikata's village symbol. Return it\n
 to Poliska.<$00>
 
 

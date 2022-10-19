@@ -100,8 +100,7 @@ They're all about meat!<$12><$00>
 
 
 //<$1D>を<$1D>ます\n<$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04>／<$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S￥<$00>
-<$1D> x<$1D> \n
-<$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04> / <$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S￥<$00>
+<$1D> x<$1D><$06><$19><$31><$01><$1A>01<$0E><$15><$53><$19><$30><$04> / <$14><$1E>034<$15><$53><$1D><$14><$02>112<$19><$32><$1E>40<$19><$30><$15><$53>￥<$00>
 
 
 //<$06>T.C.(<$1E>034<$06>)<$00>
@@ -129,7 +128,7 @@ They're all about meat!<$12><$00>
 
 
 //<$04><$16><$15>W<$01><$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
-<$04><$16><$15>W<$01><$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
+<$04><$16><$15><$57><$01><$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
 
 
 //<CLEAR>トランスカーゴは　１枠につき\n<$06>99<$04>頭までしか　収容できません<$12><$00>
@@ -157,7 +156,7 @@ I can't accept that!<$12><$00>
 
 
 //<CLEAR><$1D><$15>Wは\nＡ級保護動物のため\n取り引きできません<$12><$00>
-<CLEAR><$1D><$15>W cannot be traded.\n
+<CLEAR><$1D><$15><$57> cannot be traded.\n
 Class A species\n
 trading is prohibited!<$12><$00>
 
@@ -190,8 +189,7 @@ will cost<$1D><$06><$1E><$04><$14>￥.\n
 
 
 //<CLEAR>加工料金＿<$15>b<$06><$1E><$04><$14>￥\nが足りません<$12><$00>
-<CLEAR>You can't afford the \n
-<$15>b<$06><$1E><$04><$14>￥ fee!<$12><$00>
+<CLEAR><$15><$62><$06><$1E><$04><$14>￥ fee!<$12><$00>
 
 
 //<$02>240<$1E>018<$04><$00>
@@ -207,7 +205,7 @@ will cost<$1D><$06><$1E><$04><$14>￥.\n
 
 
 //<$15>Y肉＿屋<$00>
-<$15>YMeat Market<$00>
+<$15><$59>Meat Market<$00>
 
 
 //<CLEAR>毎度どーも！　食肉！　薬肉！　毒肉！\n今日は　何にしますか？\n<$01>取引する<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
@@ -217,7 +215,7 @@ You want meats? I've got meats!\n
 
 
 //<$15>Y肉＿屋<$00>
-<$15>YMeat Market<$00>
+<$15><$59>Meat Market<$00>
 
 
 //<CLEAR>腹が減った時、体の調子が悪い時、\nお気軽に　お立ち寄りください<$12><$00>
@@ -235,7 +233,7 @@ gear before selling it.<$12><$00>
 
 
 //<$15>Y肉＿屋／メニュー<$00>
-<$15>YMeat/Menu<$00>
+<$15><$59>Meat/Menu<$00>
 
 
 //<$01>買＿う<$0E>\n<$01>売＿る<$0E>\n<$01>作＿る<$0E>\n<$01>やめる<$0E><$00>
@@ -246,15 +244,15 @@ gear before selling it.<$12><$00>
 
 
 //<$15>Y肉＿屋／買＿う<$00>
-<$15>YMeat/Buy<$00>
+<$15><$59>Meat/Buy<$00>
 
 
 //<$15>Y肉＿屋／売＿る<$00>
-<$15>YMeat/Sell<$00>
+<$15><$59>Meat/Sell<$00>
 
 
 //<$15>Y肉＿屋／作＿る<$00>
-<$15>YMeat/Make<$00>
+<$15><$59>Meat/Make<$00>
 
 
 //……東<$00>
@@ -322,7 +320,7 @@ wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
@@ -486,7 +484,7 @@ dinner<$00>
 
 
 //<$15>Yスケジュール<$00>
-<$15>YMemo <$00>
+<$15><$59>Memo <$00>
 
 
 //<CLEAR>スケジュールは何もありません<$12><$00>
@@ -526,11 +524,11 @@ Assist Panheim<$00>
 
 
 //<$1B>カメの卵を手に入れる<$00>
-Snatch Turtle Eggs<$00>
+<$1B>Snatch Turtle Eggs<$00>
 
 
 //<$1B>プテラノの卵を手に入れる<$00>
-Snatch Pteranodon Eggs<$00>
+<$1B>Snatch Pteranodon Eggs<$00>
 
 
 //遺産争いにケリをつける<$00>
@@ -567,17 +565,17 @@ Hardia Hotel.<$00>
 
 
 //<CLEAR>マーブルポリスの<$1B>ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す<$00>
-<CLEAR>Process meat from chickens in Marblopolis.Give them to\n
+<CLEAR>Process meat from <$1B>chickens in Marblopolis.Give them to\n
 Prof. Panheim in Hospico.<$00>
 
 
 //<CLEAR><$1B>カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す<$00>
-<CLEAR>Find up to 3 Turtle Eggs. Give them to Louis at the Battle\n
+<CLEAR>Find up to 3 <$1B>Turtle Eggs. Give them to Louis at the Battle\n
 Park BB Ranch.<$00>
 
 
 //<CLEAR><$1B>プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す<$00>
-<CLEAR>Acquire 2 Pteranodon Eggs. Give them to Bronco at the\n
+<CLEAR>Acquire 2 <$1B>Pteranodon Eggs. Give them to Bronco at the\n
 Battle Park BB Ranch.<$00>
 
 
@@ -599,7 +597,7 @@ another <$06><$1E><$0F><$04><$00>
 
 
 //<CLEAR>コシカタのシンボル「<$1B>トラの爪」を\n見つけだし、ポリスカに渡す<$00>
-<CLEAR>Find the Tiger Claw, Koshikata's village symbol. Return it\n
+<CLEAR>Find the <$1B>Tiger Claw, Koshikata's village symbol. Return it\n
 to Poliska.<$00>
 
 

@@ -257,7 +257,7 @@ them, better get it soon.<$12><$00>
 
 //昔、ジルって　女の子が\n<$1B>オオカミに　さらわれてね…<$12>\n<CLEAR>生きてりゃ　ちょうど、あんたと\n同じくらいの年に　なってただろうに…\nかわいそうにね…<$12><$00>
 There once was a girl named Jill, but one day, she was\n
-snatched by a wolf.<$12>\n
+snatched by a <$1B>wolf.<$12>\n
 <CLEAR>The poor thing, she'd be right about your age now,\n
 were she still alive.<$12><$00>
 
@@ -297,12 +297,12 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR><$19>1<$15>S扉には「禁断の鍵」が\nかかっている<$14><$12><$00>
-<CLEAR><$19>1<$15>SThis door can't be opened\n
+<CLEAR><$19><$31><$15><$53>This door can't be opened\n
 without a Secret Key.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは、「禁断の鍵」を使った<$14><$12><$00>
-<CLEAR><$19>1<$15>SKen used the Secret Key!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Ken used the Secret Key!<$14><$12><$00>
 
 
 //昔、この町が　野犬の群れに\nおそわれたことが　あってね\n友だちの亭主と子供が　やられたわ<$12>\n<CLEAR>それ以来、夜の闇が近づく前に\nこの町じゃ　ゲートを閉じることに\nみんなで　決めたのよ<$12><$00>
@@ -313,15 +313,15 @@ evening before dark.<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen found the <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Ken found the <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen acquired <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Ken acquired <$1D>!<$14><$12><$00>
 
 
 //あなたたち！　教会では静かに∥\n大声をあげたり　走り回ったり…\nもう　子供じゃないんだから<$12><$00>
@@ -497,7 +497,7 @@ token of thanks.<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「黒の獣人像」を\n受け取った∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen received\n
+<CLEAR><$19><$31><$15><$53>Ken received\n
 the Black Beastman Doll!<$14><$12><$00>
 
 
@@ -677,7 +677,7 @@ wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
@@ -841,7 +841,7 @@ dinner<$00>
 
 
 //<$15>Yスケジュール<$00>
-<$15>YMemo <$00>
+<$15><$59>Memo <$00>
 
 
 //<CLEAR>スケジュールは何もありません<$12><$00>
@@ -881,11 +881,11 @@ Assist Panheim<$00>
 
 
 //<$1B>カメの卵を手に入れる<$00>
-Snatch Turtle Eggs<$00>
+<$1B>Snatch Turtle Eggs<$00>
 
 
 //<$1B>プテラノの卵を手に入れる<$00>
-Snatch Pteranodon Eggs<$00>
+<$1B>Snatch Pteranodon Eggs<$00>
 
 
 //遺産争いにケリをつける<$00>
@@ -922,17 +922,17 @@ Hardia Hotel.<$00>
 
 
 //<CLEAR>マーブルポリスの<$1B>ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す<$00>
-<CLEAR>Process meat from chickens in Marblopolis.Give them to\n
+<CLEAR>Process meat from <$1B>chickens in Marblopolis.Give them to\n
 Prof. Panheim in Hospico.<$00>
 
 
 //<CLEAR><$1B>カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す<$00>
-<CLEAR>Find up to 3 Turtle Eggs. Give them to Louis at the Battle\n
+<CLEAR>Find up to 3 <$1B>Turtle Eggs. Give them to Louis at the Battle\n
 Park BB Ranch.<$00>
 
 
 //<CLEAR><$1B>プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す<$00>
-<CLEAR>Acquire 2 Pteranodon Eggs. Give them to Bronco at the\n
+<CLEAR>Acquire 2 <$1B>Pteranodon Eggs. Give them to Bronco at the\n
 Battle Park BB Ranch.<$00>
 
 
@@ -954,7 +954,7 @@ another <$06><$1E><$0F><$04><$00>
 
 
 //<CLEAR>コシカタのシンボル「<$1B>トラの爪」を\n見つけだし、ポリスカに渡す<$00>
-<CLEAR>Find the Tiger Claw, Koshikata's village symbol. Return it\n
+<CLEAR>Find the <$1B>Tiger Claw, Koshikata's village symbol. Return it\n
 to Poliska.<$00>
 
 

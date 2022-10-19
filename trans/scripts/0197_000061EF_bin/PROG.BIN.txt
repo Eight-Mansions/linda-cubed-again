@@ -117,8 +117,8 @@ enough to fall for her antics!<$12><$00>
 
 
 //武器なら「<$1B>ヒョウサーベル」か\n「<$1B>ワニムチ」、そんで防御回りを\n<$1B>ハマグリか　<$1B>マイマイで固めりゃ…<$12>\n<CLEAR>この辺じゃ　いばっても許されるね<$12><$00>
-If you want to augment leopard sabers or crocodile picks,\n
-use clams or snails.<$12>\n
+If you want to augment <$1B>leopard sabers or <$1B>crocodile picks,\n
+use <$1B>clams or <$1B>snails.<$12>\n
 <CLEAR>Not a bad pearl of wisdom for where you're at, aye?<$12><$00>
 
 
@@ -189,7 +189,7 @@ alive!<$12><$00>
 
 #WRITE(PTR, $001E)
 //<$15>YＢＡＲ<$00>
-<$15>YBar<$00>
+<$15><$59>Bar<$00>
 
 
 //<CLEAR>何になさいます？　どれでも<$1D><$06><$1E><$04><$14>￥です\n<$01><$1D><$1D><$02>98<$0E>／<$01><$1D><$1D><$02>210<$0E>\n<$01><$1D><$1D><$02>98<$0E>／<$01>どれもいらない<$0E><$00>
@@ -421,7 +421,7 @@ wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>

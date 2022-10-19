@@ -84,13 +84,13 @@ Federation have that blood too.<$12>\n
 
 #WRITE(PTR, $001E)
 //<CLEAR><$1D><$15>Wは\nＡ級保護動物のため\n取り引きできません<$12><$00>
-<CLEAR><$1D><$15>W cannot be traded.\n
+<CLEAR><$1D><$15><$57> cannot be traded.\n
 Class A species\n
 trading is prohibited!<$12><$00>
 
 
 //<$15>Y解体屋<$00>
-<$15>YRipper<$00>
+<$15><$59>Ripper<$00>
 
 
 //中身は傷つけずに　動物の腹から\nお宝を取り出すのが　俺の特技でねぇ\n<$01>依頼する<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
@@ -137,7 +137,7 @@ I found!<$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>ケンは「<$1D>」を\n手にいれた∥<$14><$12><$00>
-<CLEAR><$19>1<$15>S<CLEAR>Ken took\n
+<CLEAR><$19><$31><$15><$53><CLEAR>Ken took\n
 <$1D>!<$14><$12><$00>
 
 
@@ -147,7 +147,7 @@ I found!<$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>ケンは　<$06><$1E><$04>￥を\n手にいれた∥<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Ken took\n
+<CLEAR><$19><$31><$15><$53><CLEAR>Ken took\n
 <$06><$1E><$04>￥!<$14><$12><$00>
 
 
@@ -254,7 +254,7 @@ wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>

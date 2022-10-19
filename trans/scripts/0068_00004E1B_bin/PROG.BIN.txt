@@ -168,8 +168,8 @@ everyone knows they're forgeries.<$12><$00>
 
 
 //<CLEAR>あのいまいましい　<$1B>サル公の弱点は、\nずばり火なんだよ！　で、お薦めなのが\n火を吹く　<$1B>トンボカッターさ！<$12>\n<CLEAR>アレを振り回すと　なぜか火が出る！\n噂じゃ、他の動物の武器にも　その手の\n優れモノが　けっこうあるらしいゼ<$12><$00>
-<CLEAR>If you see a fired up monkey, just use more fire! Get\n
-yourself a dragonfly cutter!<$12>\n
+<CLEAR>If you see a fired up <$1B>monkey, just use more fire! Get\n
+yourself a <$1B>dragonfly cutter!<$12>\n
 <CLEAR>Flames spew out when you swing it! Animal weapons are\n
 handier than you think! <$12><$00>
 
@@ -215,7 +215,7 @@ case, you're dead meat too!<$12><$00>
 
 #WRITE(PTR, $001E)
 //<$15>YＢＡＲ<$00>
-<$15>YBar<$00>
+<$15><$59>Bar<$00>
 
 
 //<CLEAR>何になさいます？　どれでも<$1D><$06><$1E><$04><$14>￥です\n<$01><$1D><$1D><$02>98<$0E>／<$01><$1D><$1D><$02>210<$0E>\n<$01><$1D><$1D><$02>98<$0E>／<$01>どれもいらない<$0E><$00>
@@ -302,7 +302,7 @@ in one gulp.<$12><$00>
 
 
 //<$15>Yホテル<$00>
-<$15>YHotel<$00>
+<$15><$59>Hotel<$00>
 
 
 //<CLEAR>お気をつけて！<$12><$00>
@@ -337,7 +337,7 @@ a room for <$1D><$06><$1E><$04><$14>￥?\n
 
 
 //<$15>Y犬名判断<$00>
-<$15>YDog Divination<$00>
+<$15><$59>Dog Divination<$00>
 
 
 
@@ -371,8 +371,8 @@ Which dog shall I look at?<$12><$00>
 
 
 //<CLEAR><$15>b<$06><$1E><$04><$14>￥の見料も　持ち合わせぬ\n飼い主のもとでは　どんな犬も\n「お先、真っ暗∥」に決まっとるわ<$12><$00>
-<CLEAR><$15>b<$06><$1E><$04><$14>￥ is too much? You wouldn't need to ask me. Your\n
-dogs' futures were already dark!<$12><$00>
+<CLEAR><$15><$62><$06><$1E><$04><$14>￥ is too much? You wouldn't need to ask me. Your dogs'\n
+futures were already dark!<$12><$00>
 
 
 //<CLEAR>他の猟犬も　占うかえ？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
@@ -640,7 +640,7 @@ wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>

@@ -10,74 +10,74 @@
 #WRITE(PTR, $0020)
 #WRITE(PTR, $0022)
 //<CLEAR><$1C>Aは\n<$1C>Kを　飛び越えて\n反対側に　着地した∥<$00>
-<CLEAR><$1C>A\n
-sprang over <$1C>K\n
+<CLEAR><$1C><$41>\n
+sprang over <$1C><$4B>\n
 and landed on the other side!<$00>
 
 
 //<CLEAR><$1C>Aは\n遠くを　見ている…<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 stared into the distance.<$12><$00>
 
 
 //<CLEAR><$1C>Aは\n風の臭いに　おびえている…<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 trembles at a smell in the air.<$12><$00>
 
 
 //<CLEAR><$1C>Aは\n大きく　２度、鳴いた∥<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 called loudly 2 times!<$12><$00>
 
 
 //<CLEAR><$1C>Aは　<$1C>Tを見て\nヨダレを　たらした∥<$12><$00>
-<CLEAR><$1C>A\n
-drooled at the sight of <$1C>T.<$12><$00>
+<CLEAR><$1C><$41>\n
+drooled at the sight of <$1C><$54>.<$12><$00>
 
 
 //<CLEAR><$1C>Aは\n力を溜めている∥<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 is gathering strength!<$12><$00>
 
 
 //<CLEAR><$1C>Aは\n遠くを　見ている…<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 stared into the distance.<$12><$00>
 
 
 //<CLEAR><$1C>Aは\n風の臭いに　おびえている…<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 trembles at a smell in the air.<$12><$00>
 
 
 //<CLEAR><$1C>Aは\n大きく　２度、鳴いた∥<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 called loudly 2 times!<$12><$00>
 
 
 //<CLEAR><$1C>Aは　<$1C>Tを見て\nヨダレを　たらした∥<$12><$00>
-<CLEAR><$1C>A\n
-drooled at the sight of <$1C>T.<$12><$00>
+<CLEAR><$1C><$41>\n
+drooled at the sight of <$1C><$54>.<$12><$00>
 
 
 //<CLEAR><$1C>Aは\n遠くを　見ている…<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 stared into the distance.<$12><$00>
 
 
 //<CLEAR><$1C>Aは\n風の臭いに　おびえている…<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 trembles at a smell in the air.<$12><$00>
 
 
 //<CLEAR><$1C>Aは\n大きく　２度、鳴いた∥<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 called loudly 2 times!<$12><$00>
 
 
 //<CLEAR><$1C>Aは　<$1C>Tを見て\nヨダレを　たらした∥<$12><$00>
-<CLEAR><$1C>A\n
-drooled at the sight of <$1C>T.<$12><$00>
+<CLEAR><$1C><$41>\n
+drooled at the sight of <$1C><$54>.<$12><$00>
 
 
 #WRITE(PTR, $0024)
@@ -230,15 +230,15 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen found the <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Ken found the <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen acquired <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Ken acquired <$1D>!<$14><$12><$00>
 
 
 #WRITE(PTR, $0028)
@@ -320,7 +320,7 @@ here, he stopped.<$12><$00>
 
 
 //<CLEAR><$15>W○ボタンで肉を投げます<$00>
-<CLEAR><$15>W○ button: Throw meat<$00>
+<CLEAR><$15><$57>○ button: Throw meat<$00>
 
 
 //町で出たゴミを　放り込むだけで\n必要な電力のおおかたを　こいつらが\n供給してくれると　いうわけじゃ<$12>\n<CLEAR>人口と　使用電力と　ゴミの量は\nほぼ比例するでな、無駄のない\nクリーンな　エネルギーじゃよ<$12><$00>
@@ -409,26 +409,26 @@ set Makeshift Trap.<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「貸しワナ」を調べた<$12>\n<CLEAR>まだ動物は　かかっていない\nケンは　がっかりしながら\n「貸しワナ」を　元に戻した<$12><$00>
-<CLEAR><$19><$15>SKen inspected the Rental Trap.<$12>\n
+<CLEAR><$19><$31><$15><$53>Ken inspected the Rental Trap.<$12>\n
 <CLEAR>No bites yet...\n
 Ken whistfully put down the Money Trap.<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「自前のワナ」を調べた<$12><$00>
-<CLEAR><$19><$15>SKen inspected the Makeshift Trap.<$12><$00>
+<CLEAR><$19><$31><$15><$53>Ken inspected the Makeshift Trap.<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sまだ動物はかかっていない\nケンは　がっかりしながら\n「自前のワナ」を　元に戻した<$12><$00>
-<CLEAR><$19><$15>No bites yet...\n
+<CLEAR><$19><$31><$15><$53>No bites yet...\n
 Ken whistfully put down the Makeshift Trap.<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sワナは\n壊されていた…<$12><$00>
-<CLEAR><$19><$15>SThe trap was destroyed...<$12><$00>
+<CLEAR><$19><$31><$15><$53>The trap was destroyed...<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sだが、トランスカーゴがいっぱいなので\nとりあえず　あきらめた…<$12><$00>
-<CLEAR><$19><$15>S/However, the TCU was already full, so Ken let it go.<$12><$00>
+<CLEAR><$19><$31><$15><$53>However, the TCU was already full, so Ken let it go.<$12><$00>
 
 
 //<CLEAR><$00>
@@ -511,7 +511,7 @@ wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>

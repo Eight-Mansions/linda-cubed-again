@@ -131,7 +131,7 @@ People who want that can't afford me anyways.<$12><$00>
 
 
 //<$15>Y猟犬訓練所<$00>
-<$15>YDog Training<$00>
+<$15><$59>Dog Training<$00>
 
 
 //<CLEAR>使えない猟犬を　あなた好みの\nカワイイ子に　調教し直します！\n<$00>
@@ -159,9 +159,9 @@ Kind of like me, hahaha!<$12><$00>
 
 
 //<CLEAR><$01>体力強化<$06>(<$04>3レベルＵＰ<$06>)<$04><$02>156<$0E><$02>220<$1D><$1E>38<$15>W￥\n<$01>性格の矯正<$02>156<$0E><$02>220<$1D><$1E>38<$15>W￥\n<$01>特殊技能を習得<$02>156<$0E><$02>220<$1D><$1E>38<$15>W￥<$00>
-<CLEAR><$01>Strength Training<$06>(<$04>Raise 3 LVLs<$06>)<$04><$02>156<$0E><$02>220<$1D><$1E>38<$15>W￥\n
-<$01>Personality Adjustment<$02>156<$0E><$02>220<$1D><$1E>38<$15>W￥\n
-<$01>Skill Training<$02>156<$0E><$02>220<$1D><$1E>38<$15>W￥<$00>
+<CLEAR><$01>Strength Training<$06>(<$04>Raise 3 LVLs<$06>)<$04><$02>156<$0E><$02>220<$1D><$1E>38<$15><$57>￥\n
+<$01>Personality Adjustment<$02>156<$0E><$02>220<$1D><$1E>38<$15><$57>￥\n
+<$01>Skill Training<$02>156<$0E><$02>220<$1D><$1E>38<$15><$57>￥<$00>
 
 
 //<CLEAR>猟犬の調教より　お金の数え方を\nあなたが先に　習ったほうが\nいいんじゃないですかね、小学校で<$12><$00>
@@ -238,7 +238,7 @@ Charge<$00>
 
 
 //<$1B>イヌかき<$00>
-Doggy paddle<$00>
+<$1B>Doggy paddle<$00>
 
 
 //<CLEAR>では…<$00>
@@ -323,7 +323,7 @@ times has tastier meat.<$12><$00>
 
 
 //<$15>Y猟犬訓練所<$00>
-<$15>YDog Training<$00>
+<$15><$59>Dog Training<$00>
 
 
 //記録の上じゃ　今までに登録されてる\n猟犬の最高レベルは　ドギファの\n太郎と次郎の<$06>36<$04>レベルが　第２位ね<$12>\n<CLEAR>栄光の第１位は　<$06>48<$04>レベル∥\nえーっと　名前は………<$12>\n<CLEAR>ケン∥　意外に平凡な名前ねぇ<$12><$00>
@@ -338,7 +338,7 @@ name in history!<$12><$00>
 
 #WRITE(PTR, $001E)
 //<$15>Y猟犬屋<$00>
-<$15>YDog Center<$00>
+<$15><$59>Dog Center<$00>
 
 
 //<CLEAR>お客さん…\nホスピコの入り口に　並んでる\n哀れな猟犬の墓を　数えてごらん<$12>\n<CLEAR>これ以上　あなたの猟犬を\n登録したところで、どうせまた\nあそこの墓が　増えるだけだものね<$12>\n<CLEAR>金の問題じゃないんだよ…\nわかるッ￠<$12><$00>
@@ -356,7 +356,7 @@ one time. <$12><$00>
 
 //<CLEAR>登録料　<$15>b<$06><$1E><$04><$14>￥が足りません\n銀行で　ご都合ください<$12><$00>
 <CLEAR>The adoption fee is over\n
-<$15><$06><$1E><$04><$14>￥.\n
+<$15><$62><$06><$1E><$04><$14>￥.\n
 Get a loan from the bank.<$12><$00>
 
 
@@ -375,11 +375,11 @@ Choose a new name.<$12><$00>
 
 
 //<$16><$01><$1D><$02>96<$0E>　<$15>S<$1E>18<$14><$04><$02>140<$01><$1D><$02>236<$0E>　<$15>S<$1E>18<$14><$00>
-<$16><$01><$1D><$02><$0E><$15><$1E><$14><$04><$02><$01><$1D><$02><$0E><$15><$1E><$14><$00>
+<$16><$01><$1D><$02><$0E><$15><$53><$1E><$14><$04><$02><$01><$1D><$02><$0E><$15><$53><$1E><$14><$00>
 
 
 //<$15>Y猟犬屋／メニュー<$00>
-<$15>YDog/Menu<$00>
+<$15><$59>Dog/Menu<$00>
 
 
 //<$01>買＿う<$0E>\n<$01>売＿る<$0E>\n<$01>登＿録<$0E>\n<$01>やめる<$0E><$00>
@@ -395,11 +395,11 @@ You cannot adopt any more dogs.<$12><$00>
 
 
 //<CLEAR><$1B>イヌを　お持ちじゃないようですね<$12><$00>
-<CLEAR>You don't have any dogs.<$12><$00>
+<CLEAR>You don't have any <$1B>dogs.<$12><$00>
 
 
 //<$15>Y猟犬屋／登＿録<$00>
-<$15>YDog/Tame<$00>
+<$15><$59>Dog/Tame<$00>
 
 
 //<CLEAR>猟犬は太古より　人間の良きパートナー\nぜひ　あなたも　１頭いかがですか？\n<$01>取引する<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
@@ -412,7 +412,7 @@ You cannot adopt any more dogs.<$12><$00>
 
 
 //<$15>Y猟犬屋／買＿う<$00>
-<$15>YDog/Buy<$00>
+<$15><$59>Dog/Buy<$00>
 
 
 //<CLEAR><$00>
@@ -420,11 +420,11 @@ You cannot adopt any more dogs.<$12><$00>
 
 
 //<$04><$16><$15>W<$01>猟犬LV<$1E>02<$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
-<$04><$16><$15>W<$01>Dog LVL <$1E>02<$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
+<$04><$16><$15><$57><$01>Dog LVL <$1E>02<$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
 
 
 //<$15>Y猟犬屋／売＿る<$00>
-<$15>YDog/Sell<$00>
+<$15><$59>Dog/Sell<$00>
 
 
 //<CLEAR>猟犬「<$1D>」を\n<$06><$1E><$04>￥で売りますか？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
@@ -433,7 +433,7 @@ You cannot adopt any more dogs.<$12><$00>
 
 
 //<$15>Y猟犬治療<$00>
-<$15>YVeterinarian<$00>
+<$15><$59>YVeterinarian<$00>
 
 
 //<CLEAR>かわいい猟犬が　傷ついた時は\n手遅れにならないうちに\nここへ　連れて来なさいね<$12><$00>
@@ -471,7 +471,7 @@ Bwame your daddy for being a wittle cheapskate.<$12><$00>
 
 
 //あぁ～傷に<$1B>ウジが　わいてるわよ<$00>
-Whoa～! Maggots in the wound!<$00>
+Whoa～! <$1B>Maggots in the wound!<$00>
 
 
 //肋骨と鎖骨が　折れてるだけね<$00>
@@ -656,7 +656,7 @@ wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
@@ -739,7 +739,7 @@ are dead head!<$00>
 
 
 //<$15>Yスケジュール<$00>
-<$15>YMemo <$00>
+<$15><$59>Memo <$00>
 
 
 //<CLEAR>スケジュールは何もありません<$12><$00>
@@ -779,11 +779,11 @@ Assist Panheim<$00>
 
 
 //<$1B>カメの卵を手に入れる<$00>
-Snatch Turtle Eggs<$00>
+<$1B>Snatch Turtle Eggs<$00>
 
 
 //<$1B>プテラノの卵を手に入れる<$00>
-Snatch Pteranodon Eggs<$00>
+<$1B>Snatch Pteranodon Eggs<$00>
 
 
 //遺産争いにケリをつける<$00>
@@ -820,17 +820,17 @@ Hardia Hotel.<$00>
 
 
 //<CLEAR>マーブルポリスの<$1B>ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す<$00>
-<CLEAR>Process meat from chickens in Marblopolis.Give them to\n
+<CLEAR>Process meat from <$1B>chickens in Marblopolis.Give them to\n
 Prof. Panheim in Hospico.<$00>
 
 
 //<CLEAR><$1B>カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す<$00>
-<CLEAR>Find up to 3 Turtle Eggs. Give them to Louis at the Battle\n
+<CLEAR>Find up to 3 <$1B>Turtle Eggs. Give them to Louis at the Battle\n
 Park BB Ranch.<$00>
 
 
 //<CLEAR><$1B>プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す<$00>
-<CLEAR>Acquire 2 Pteranodon Eggs. Give them to Bronco at the\n
+<CLEAR>Acquire 2 <$1B>Pteranodon Eggs. Give them to Bronco at the\n
 Battle Park BB Ranch.<$00>
 
 
@@ -852,7 +852,7 @@ another <$06><$1E><$0F><$04><$00>
 
 
 //<CLEAR>コシカタのシンボル「<$1B>トラの爪」を\n見つけだし、ポリスカに渡す<$00>
-<CLEAR>Find the Tiger Claw, Koshikata's village symbol. Return it\n
+<CLEAR>Find the <$1B>Tiger Claw, Koshikata's village symbol. Return it\n
 to Poliska.<$00>
 
 

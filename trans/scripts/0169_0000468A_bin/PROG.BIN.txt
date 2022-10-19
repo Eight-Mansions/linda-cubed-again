@@ -293,7 +293,7 @@ at all.<$12><$00>
 
 
 //<$15>Y動物博士<$00>
-<$15>YWildlife Expert <$00>
+<$15><$59>Wildlife Expert <$00>
 
 
 M%03dF.OBJ
@@ -420,7 +420,7 @@ wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
@@ -590,7 +590,7 @@ Sniff...sniff, sniff?<$12>\n
 
 #WRITE(PTR, $0022)
 //<$15>Y動物情報<$06>サービス<$00>
-<$15>YAnimal <$06>Search<$00>
+<$15><$59>Animal <$06>Search<$00>
 
 
 //<CLEAR>検索ナサイマスカ？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
@@ -624,7 +624,7 @@ Sniff...sniff, sniff?<$12>\n
 
 
 //<$03>164<$02>56<$15>K○ボタンで♂♀表示切り替え<$14><$00>
-<$03>164<$02>56<$15>K○ button: ♂/♀<$14><$00>
+<$03>164<$02>56<$15><$4B>○ button: ♂/♀<$14><$00>
 
 
 

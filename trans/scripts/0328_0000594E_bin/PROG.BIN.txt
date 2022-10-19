@@ -429,15 +429,15 @@ enough to fall for her antics!<$12><$00>
 //<CLEAR>ただの噂だけど、<$1E>年前の事件の\n町長が発狂した原因は　<$1B>トラの爪という\n町のお宝を　なくしたせいらしいな<$12>\n<CLEAR>もしかして　呪われてるのかもよ\nその「<$1B>トラの爪」とかいうヤツ…\n装備すると　死にたくなるとか…<$12><$00>
 <CLEAR>It was never confirmed, but they say the cause of the\n
 elder's tragic murder spree <$1E> years ago...<$12>\n
-<CLEAR>...was that he'd lost the village's treasure, called the  Tiger\n
+<CLEAR>...was that he'd lost the village's treasure, called the  <$1B>Tiger\n
 Claw.<$12>\n
 <CLEAR>Maybe it was haunted treasure, what do you think?<$12>\n
-<CLEAR>"BEWARE. HE WHO TOUCHES THE TIGER CLAW WILL BE CURSED\n
+<CLEAR>"BEWARE. HE WHO TOUCHES THE <$1B>TIGER CLAW WILL BE CURSED\n
 WITH INSATIABLE BLOODLUST."<$12><$00>
 
 
 //この町の宝といえば　「<$1B>トラの爪」よ！\n<$1B>トラ自体、珍しいから　商品としての\n価値も　もちろん高いけど…<$12>\n<CLEAR>それよりも　町のシンボルというか\n住人の心の支えとしての　意味のほうが\nはるかに　大切なわけ∥<$12>\n<CLEAR>まっ、ヨソ者には　私らの気持ちは\nわかんないだろうけどね<$12><$00>
-The Tiger Claw is Koshikata's treasure, largely sincetigers\n
+The <$1B>Tiger Claw is Koshikata's treasure, largely since<$1B>tigers\n
 are so rare.<$12>\n
 <CLEAR>Plus, it's worth a lot, but most importantly, it\n
 symbolizes our village's strength in numbers.<$12>\n
@@ -589,15 +589,15 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen found the <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Ken found the <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen acquired <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Ken acquired <$1D>!<$14><$12><$00>
 
 
 #WRITE(PTR, $003A)
@@ -635,15 +635,15 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen found the <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Ken found the <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen acquired <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Ken acquired <$1D>!<$14><$12><$00>
 
 
 //近頃、主人の様子が　おかしいのよ\nなんだか　イライラしてるみたいなの<$12>\n<CLEAR>おまけに　お義父さんまで\n風邪気味なのに　出歩いてばかり…\n心配なことだらけだわ<$12><$00>
@@ -706,14 +706,14 @@ According to the information I've gathered, cough! Cough!<$12>\n
 //お待ちしてましたぞ\nケンさん　そして、リンダさん\n私が電話さしあげた　ポリスカです<$12>\n<CLEAR>実は困ったことが　起きましてな…\nこの町のシンボルの武器「<$1B>トラの爪」が\n何者かに　盗まれたのです<$12>\n<CLEAR>ゴホッ　ゴホッ…\n失礼、風邪をこじらせましてな<$12><$00>
 I've been expecting you, Ken and Linda. I see you got my\n
 voicemail? I'm Poliska.<$12>\n
-<CLEAR>I called because our village's symbol, the Tiger Claw\n
+<CLEAR>I called because our village's symbol, the <$1B>Tiger Claw\n
 was very mysteriously stolen.<$12>\n
 <CLEAR>Cough! Cough...!\n
 Pardon me, I have a cold.<$12><$00>
 
 
 //<CLEAR><$1D>の秋までに　<$1B>トラの爪が戻らんと\n町長たる、私の息子パトルカが\n大恥を　かくことになる…<$12>\n<CLEAR>息子を　コシカタ最後の町長の名に\n恥じない男にしてやってくだされ\n<$01>引き受けた<$0E>／<$01>お礼は何？<$0E>／<$01>自分で捜せ<$0E><$00>
-<CLEAR><$1D> years have passed since that autumn when the Tiger Claw\n
+<CLEAR><$1D> years have passed since that autumn when the <$1B>Tiger Claw\n
 vanished.<$12>\n
 <CLEAR>My son, Patrolka, may forever be disgraced in the village\n
 over this.<$12>\n
@@ -746,7 +746,7 @@ animals.<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは　動物から姿を隠す\n「迷彩」の能力を\nポリスカから　習得した∥<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Ken learned the\n
+<CLEAR><$19><$31><$15><$53>Ken learned the\n
 Masker skill from Poliska!<$14><$12><$00>
 
 
@@ -755,7 +755,7 @@ Masker skill from Poliska!<$14><$12><$00>
 
 
 //<CLEAR>「<$1B>トラの爪」を見事、持ち帰られた\nそのあかつきには　先祖伝来の家宝\n「赤の獣人像」を　さしあげます<$12>\n<CLEAR>ゴホッ　ゴホッ…\n老い先、短かき年寄りの頼み\nどうか　お聞き届けくだされ<$12><$00>
-<CLEAR>The Tiger Claw you brought home was once passed down\n
+<CLEAR>The <$1B>Tiger Claw you brought home was once passed down\n
 as an ancestral heirloon.<$12>\n
 <CLEAR>Cough! Cough...! If you'd like the Red Beastman Doll, hear my\n
 request.<$12><$00>
@@ -767,7 +767,7 @@ hear my request.<$12><$00>
 
 
 //<CLEAR>実は　<$06>20<$04>年ほど前にも\n「<$1B>トラの爪」が　盗まれたことが\nありましてな…<$12>\n<CLEAR>その時の町長は　責任の重さに\n耐えかねて　あろうことか\n住民全員を　殺してしまったのです<$12>\n<CLEAR>ゴホッ　ゴホッ…<$12><$00>
-<CLEAR>It's been, I want to say, <$06>20<$04> years since the Tiger Claw\n
+<CLEAR>It's been, I want to say, <$06>20<$04> years since the <$1B>Tiger Claw\n
 was stolen.<$12>\n
 <CLEAR>The elder couldn't bear feeling responsible. He cracked\n
 and murdered the whole village.<$12>\n
@@ -776,7 +776,7 @@ and murdered the whole village.<$12>\n
 
 //<CLEAR><$1D>の秋までに「<$1B>トラの爪」を…\nどうか　よろしくお願いします\nゴホッ　ゴホッ　ゴホッ…<$12><$00>
 <CLEAR>I don't want it any later than <$1D>, autumn. Please, recover the\n
-Tiger Claw...\n
+<$1B>Tiger Claw...\n
 Cough! Cough!<$12><$00>
 
 
@@ -799,15 +799,15 @@ No more...!<$12><$00>
 
 
 //<CLEAR>そういや、「<$1B>トラの爪」は　どうした？\n持ってるんなら　渡してくれよ\n<$01>渡してあげる<$0E>／<$01>誰が渡すか∥<$0E><$00>
-<CLEAR>What happened to the Tiger Claw. Do you have it?!\n
+<CLEAR>What happened to the <$1B>Tiger Claw. Do you have it?!\n
 <$01>Here, it's yours<$0E> / <$01>Who wants it?<$0E><$00>
 
 
 //<CLEAR>町長は　やめちまったけど\n形見にもらっとくよ\nかまわないだろ？<$12>\n<CLEAR><$19>1<$15>Sケンは　パトルカに\n「<$1B>トラの爪」を　渡した<$14><$12><$00>
 <CLEAR>I've stepped down as elder, but taking it would give me\n
 closure. You don't mind, do you?<$12>\n
-<CLEAR><$19>1<$15>SKen gave Patrolka the\n
-Tiger Claw!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Ken gave Patrolka the\n
+<$1B>Tiger Claw!<$14><$12><$00>
 
 
 //<CLEAR>そうだよな…　俺になんか渡すよか\nおやじの墓前に　たむけてやってくれ<$12><$00>
@@ -831,7 +831,7 @@ was the end of it.<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「赤の獣人像」を\n受け取った<$14><$12><$00>
-<CLEAR><$19><$15>SKen received the\n
+<CLEAR><$19><$31><$15><$53>Ken received the\n
 Red Beastman Doll!<$14><$12><$00>
 
 
@@ -865,7 +865,7 @@ Here, it's all yours!<$12><$00>
 
 
 //<CLEAR>本当のことを言うと\n<$1B>トラの爪は　盗まれたんじゃないんだ<$12>\n<CLEAR>俺が　ある男のイカサマに気づかずに\n賭けに負けちまって　取られたのさ…<$12>\n<CLEAR>…………………………………<$12>\n<CLEAR>けッ∥　おやじのヤツ、そのことを\n百も承知で　あちこち駆けずり回ってよ\n挙句の果てに　死んじまってよぉ<$12><$00>
-<CLEAR>Truth be told, the Tiger Claw was never stolen.<$12>\n
+<CLEAR>Truth be told, the <$1B>Tiger Claw was never stolen.<$12>\n
 <CLEAR>I lost a bet against a squirrely rich guy, and he claimed\n
 it, fair and square.<$12>\n
 <CLEAR>............<$12>\n
@@ -1033,11 +1033,11 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR><$19>1<$15>S扉には鍵がかかっている<$14><$12><$00>
-<CLEAR><$19>1<$15>SThe door is locked.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>The door is locked.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「納戸の鍵」を使った<$14><$12><$00>
-<CLEAR><$19>1<$15>SKen used the Storage Key!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Ken used the Storage Key!<$14><$12><$00>
 
 
 //あと<$1E>年で　この世界は消えるってのに\nだからといって　それを知る前と\n別に何も変らない　生活をしてる…<$12>\n<CLEAR>ご飯はおいしいし　イイ女を見ると\nやっぱり振り向くし　お金も欲しい…\n人間って意外に　鈍感なのかもな<$12><$00>
@@ -1048,15 +1048,15 @@ touch sometimes.<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen found the <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Ken found the <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen acquired <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Ken acquired <$1D>!<$14><$12><$00>
 
 
 #WRITE(PTR, $0040)
@@ -1193,7 +1193,7 @@ wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
@@ -1276,7 +1276,7 @@ are dead head!<$00>
 
 
 //<$15>Yスケジュール<$00>
-<$15>YMemo <$00>
+<$15><$59>Memo <$00>
 
 
 //<CLEAR>スケジュールは何もありません<$12><$00>
@@ -1316,11 +1316,11 @@ Assist Panheim<$00>
 
 
 //<$1B>カメの卵を手に入れる<$00>
-Snatch Turtle Eggs<$00>
+<$1B>Snatch Turtle Eggs<$00>
 
 
 //<$1B>プテラノの卵を手に入れる<$00>
-Snatch Pteranodon Eggs<$00>
+<$1B>Snatch Pteranodon Eggs<$00>
 
 
 //遺産争いにケリをつける<$00>
@@ -1357,17 +1357,17 @@ Hardia Hotel.<$00>
 
 
 //<CLEAR>マーブルポリスの<$1B>ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す<$00>
-<CLEAR>Process meat from chickens in Marblopolis.Give them to\n
+<CLEAR>Process meat from <$1B>chickens in Marblopolis.Give them to\n
 Prof. Panheim in Hospico.<$00>
 
 
 //<CLEAR><$1B>カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す<$00>
-<CLEAR>Find up to 3 Turtle Eggs. Give them to Louis at the Battle\n
+<CLEAR>Find up to 3 <$1B>Turtle Eggs. Give them to Louis at the Battle\n
 Park BB Ranch.<$00>
 
 
 //<CLEAR><$1B>プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す<$00>
-<CLEAR>Acquire 2 Pteranodon Eggs. Give them to Bronco at the\n
+<CLEAR>Acquire 2 <$1B>Pteranodon Eggs. Give them to Bronco at the\n
 Battle Park BB Ranch.<$00>
 
 
@@ -1389,7 +1389,7 @@ another <$06><$1E><$0F><$04><$00>
 
 
 //<CLEAR>コシカタのシンボル「<$1B>トラの爪」を\n見つけだし、ポリスカに渡す<$00>
-<CLEAR>Find the Tiger Claw, Koshikata's village symbol. Return it\n
+<CLEAR>Find the <$1B>Tiger Claw, Koshikata's village symbol. Return it\n
 to Poliska.<$00>
 
 
@@ -1456,8 +1456,7 @@ to Mario in Spurr Valley.<$00>
 
 
 //<$1D>を<$1D>ます\n<$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04>／<$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S￥<$00>
-<$1D> x<$1D> \n
-<$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04> / <$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S￥<$00>
+<$1D> x<$1D><$06><$19><$31><$01><$1A>01<$0E><$15><$53><$19><$30><$04> / <$14><$1E>034<$15><$53><$1D><$14><$02>112<$19><$32><$1E>40<$19><$30><$15><$53>￥<$00>
 
 
 //<$06>T.C.(<$1E>034<$06>)<$00>
@@ -1485,7 +1484,7 @@ to Mario in Spurr Valley.<$00>
 
 
 //<$04><$16><$15>W<$01><$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
-<$04><$16><$15>W<$01><$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
+<$04><$16><$15><$57><$01><$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
 
 
 //<CLEAR>トランスカーゴは　１枠につき\n<$06>99<$04>頭までしか　収容できません<$12><$00>
@@ -1513,7 +1512,7 @@ I can't accept that!<$12><$00>
 
 
 //<CLEAR><$1D><$15>Wは\nＡ級保護動物のため\n取り引きできません<$12><$00>
-<CLEAR><$1D><$15>W cannot be traded.\n
+<CLEAR><$1D><$15><$57> cannot be traded.\n
 Class A species\n
 trading is prohibited!<$12><$00>
 
@@ -1546,8 +1545,7 @@ will cost<$1D><$06><$1E><$04><$14>￥.\n
 
 
 //<CLEAR>加工料金＿<$15>b<$06><$1E><$04><$14>￥\nが足りません<$12><$00>
-<CLEAR>You can't afford the \n
-<$15>b<$06><$1E><$04><$14>￥ fee!<$12><$00>
+<CLEAR><$15><$62><$06><$1E><$04><$14>￥ fee!<$12><$00>
 
 
 //<$02>240<$1E>018<$04><$00>
@@ -1563,7 +1561,7 @@ will cost<$1D><$06><$1E><$04><$14>￥.\n
 
 
 //<$15>Y肉＿屋<$00>
-<$15>YMeat Market<$00>
+<$15><$59>Meat Market<$00>
 
 
 //<CLEAR>毎度どーも！　食肉！　薬肉！　毒肉！\n今日は　何にしますか？\n<$01>取引する<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
@@ -1573,7 +1571,7 @@ You want meats? I've got meats!\n
 
 
 //<$15>Y肉＿屋<$00>
-<$15>YMeat Market<$00>
+<$15><$59>Meat Market<$00>
 
 
 //<CLEAR>腹が減った時、体の調子が悪い時、\nお気軽に　お立ち寄りください<$12><$00>
@@ -1591,7 +1589,7 @@ gear before selling it.<$12><$00>
 
 
 //<$15>Y肉＿屋／メニュー<$00>
-<$15>YMeat/Menu<$00>
+<$15><$59>Meat/Menu<$00>
 
 
 //<$01>買＿う<$0E>\n<$01>売＿る<$0E>\n<$01>作＿る<$0E>\n<$01>やめる<$0E><$00>
@@ -1602,15 +1600,15 @@ gear before selling it.<$12><$00>
 
 
 //<$15>Y肉＿屋／買＿う<$00>
-<$15>YMeat/Buy<$00>
+<$15><$59>Meat/Buy<$00>
 
 
 //<$15>Y肉＿屋／売＿る<$00>
-<$15>YMeat/Sell<$00>
+<$15><$59>Meat/Sell<$00>
 
 
 //<$15>Y肉＿屋／作＿る<$00>
-<$15>YMeat/Make<$00>
+<$15><$59>Meat/Make<$00>
 
 
 //<CLEAR>次は凄いヤツを　仕入れておきますから\nこりずに　また、どうぞ<$12><$00>
@@ -1618,7 +1616,7 @@ gear before selling it.<$12><$00>
 
 
 //<$15>Y装備屋／メニュー<$00>
-<$15>YEquipment/Menu<$00>
+<$15><$59>Equipment/Menu<$00>
 
 
 //<$01>買＿う<$0E>\n<$01>売＿る<$0E>\n<$01>作＿る<$0E>\n<$01>やめる<$0E><$00>
@@ -1629,19 +1627,19 @@ gear before selling it.<$12><$00>
 
 
 //<$15>Y装備屋／買＿う<$00>
-<$15>YEquipment/Buy<$00>
+<$15><$59>Equipment/Buy<$00>
 
 
 //<$15>Y装備屋／売＿る<$00>
-<$15>YEquipment/Sell<$00>
+<$15><$59>Equipment/Sell<$00>
 
 
 //<$15>Y装備屋／加＿工<$00>
-<$15>YEquipment/Craft<$00>
+<$15><$59>Equipment/Craft<$00>
 
 
 //<$15>Y装備屋<$00>
-<$15>YEquipment<$00>
+<$15><$59>Equipment<$00>
 
 
 //<CLEAR>頭のテッペンから、爪先まで\n装備のことなら　何でもご用命ください\n<$01>取引する<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
@@ -1651,7 +1649,7 @@ we've got you covered!\n
 
 
 //<$15>Y装備屋<$00>
-<$15>YEquipment<$00>
+<$15><$59>Equipment<$00>
 
 
 //<CLEAR>動物を売るときは　自分で\n食料や装備に　加工してから売ると、\n手間賃分だけ　ちょっとお得ですよ<$12><$00>
@@ -1669,7 +1667,7 @@ Watch your backs out there!<$12><$00>
 
 
 //<$15>Y動物商<$00>
-<$15>YAnimal Trader<$00>
+<$15><$59>Animal Trader<$00>
 
 
 //<CLEAR>余っている動物は　いませんですか？\n高額で　引き取りますよ<$00>
@@ -1682,7 +1680,7 @@ Watch your backs out there!<$12><$00>
 
 
 //<$15>Y動物商<$00>
-<$15>YAnimal Trader<$00>
+<$15><$59>Animal Trader<$00>
 
 
 //<CLEAR>珍しいのも　たまに入荷するから\nちょくちょく　覗いてみてよ<$12><$00>
@@ -1691,7 +1689,7 @@ back often!<$12><$00>
 
 
 //<$15>Y動物商／メニュー<$00>
-<$15>YAnimal/Menu<$00>
+<$15><$59>Animal/Menu<$00>
 
 
 //<$01>買＿う<$0E>\n<$01>売＿る<$0E>\n<$01>やめる<$0E><$00>
@@ -1701,15 +1699,15 @@ back often!<$12><$00>
 
 
 //<$15>Y動物商／買＿う<$00>
-<$15>YAnimal/Buy<$00>
+<$15><$59>Animal/Buy<$00>
 
 
 //<$15>Y動物商／売＿る<$00>
-<$15>YAnimal/Sell<$00>
+<$15><$59>Animal/Sell<$00>
 
 
 //<CLEAR><$1D><$15>Wは\nＡ級保護動物のため\n取り引きできません<$12><$00>
-<CLEAR><$1D><$15>W cannot be traded.\n
+<CLEAR><$1D><$15><$57> cannot be traded.\n
 Class A species\n
 trading is prohibited!<$12><$00>
 
@@ -1731,7 +1729,7 @@ TUCHO_1.TMZ
 
 
 //<CLEAR><$04><$09>1<$15>H<$00>
-<CLEAR><$04><$09>1<$15>H<$00>
+<CLEAR><$04><$09>1<$15><$48><$00>
 
 
 //引き出し<$00>
@@ -1772,11 +1770,11 @@ Arena Pay<$00>
 
 //\n<$02>8<$1E>34<$06>・<$04><$1D><$02>58<$1D><$02>118<$06><$15>H<$1D><$00>
 \n
-<$02>8<$1E>34<$06>・<$04><$1D><$02>58<$1D><$02>118<$06><$15>H<$1D><$00>
+<$02>8<$1E>34<$06>・<$04><$1D><$02>58<$1D><$02>118<$06><$15><$48><$1D><$00>
 
 
 //<$02>202<$1D><$1D><$15>H<$00>
-<$02>202<$1D><$1D><$15>H<$00>
+<$02>202<$1D><$1D><$15><$48><$00>
 
 
 //<CLEAR>いらっしゃいませ！　創立<$1E>周年\n皆様のネオケニア銀行です<$00>
@@ -1919,7 +1917,7 @@ Remember, repayment is due in <$1D>.<$12><$00>
 
 
 //<$15>Yホテル<$00>
-<$15>YHotel<$00>
+<$15><$59>Hotel<$00>
 
 
 //<CLEAR>お気をつけて！<$12><$00>
@@ -1954,7 +1952,7 @@ a room for <$1D><$06><$1E><$04><$14>￥?\n
 
 
 //<$15>YＢＡＲ<$00>
-<$15>YBar<$00>
+<$15><$59>Bar<$00>
 
 
 //<CLEAR>何になさいます？　どれでも<$1D><$06><$1E><$04><$14>￥です\n<$01><$1D><$1D><$02>98<$0E>／<$01><$1D><$1D><$02>210<$0E>\n<$01><$1D><$1D><$02>98<$0E>／<$01>どれもいらない<$0E><$00>
@@ -2046,7 +2044,7 @@ in one gulp.<$12><$00>
 
 
 //<$15>Y貸しワナ屋<$00>
-<$15>YTrapping Service<$00>
+<$15><$59>Trapping Service<$00>
 
 
 //<CLEAR>どんな獲物が　捕まっているか\nドキドキしながら　待つ今が\n一番、楽しゅうございますですね<$12><$00>
@@ -2080,7 +2078,7 @@ once you're ready.<$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>ケンは「貸しワナ」を受け取った<$14><$12><$00>
-<CLEAR><$19>1<$15>S<CLEAR>Ken received\n
+<CLEAR><$19><$31><$15><$53><CLEAR>Ken received\n
 the Rental Trap!<$14><$12><$00>
 
 
@@ -2197,7 +2195,7 @@ dinner<$00>
 
 #WRITE(PTR, $0046)
 //<$15>Y動物情報<$06>サービス<$00>
-<$15>YAnimal <$06>Search<$00>
+<$15><$59>Animal <$06>Search<$00>
 
 
 //<CLEAR>検索ナサイマスカ？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
@@ -2231,7 +2229,7 @@ dinner<$00>
 
 
 //<$03>164<$02>56<$15>K○ボタンで♂♀表示切り替え<$14><$00>
-<$03>164<$02>56<$15>K○ button: ♂/♀<$14><$00>
+<$03>164<$02>56<$15><$4B>○ button: ♂/♀<$14><$00>
 
 
 

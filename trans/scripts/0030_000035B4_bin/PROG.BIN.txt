@@ -10,22 +10,22 @@
 #WRITE(PTR, $0020)
 #WRITE(PTR, $0022)
 //<CLEAR><$1C>Aは\n地面を　掘り返している…<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 raked up the soil...<$12><$00>
 
 
 //<CLEAR><$1C>Aの攻撃\nドロリと　唾液をたらした…\n溶解スピット∥<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 attacked with a gooey, dissolving saliva!<$12><$00>
 
 
 //<CLEAR><$1C>Aの攻撃∥\n美しい鳴き声で　歌った∥<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 chirped a lovely song!<$12><$00>
 
 
 //<CLEAR><$1C>Aは　体内に\nドパーミンを　分泌した∥<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 secreted excess dopamine!<$12><$00>
 
 
@@ -426,7 +426,7 @@ It's been <$1E> year(s) and <$1E> season(s)<$00>
 
 //リンダのいるミナゴは、Ｑ<$06>-14<$04>だ\n<$1B>ダチョウや<$1B>リスに　注意しながら\n東の川を　渡っていきな<$12>\n<CLEAR>そうすりゃ　目と鼻の先だ\nじゃ、リンダによろしくな∥<$12><$00>
 Linda lives in Minago, Q<$06>-14<$04>.\n
-Watch out for ostriches and squirrels on the way!<$12>\n
+Watch out for <$1B>ostriches and <$1B>squirrels on the way!<$12>\n
 <CLEAR>Once you cross the eastern river\n
 and find the village,\n
 tell Linda I said, "Hi"!<$12><$00>
@@ -611,15 +611,15 @@ Power on!<$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen found the <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Ken found the <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen acquired <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Ken acquired <$1D>!<$14><$12><$00>
 
 
 #WRITE(PTR, $002C)
@@ -701,7 +701,7 @@ here, he stopped.<$12><$00>
 
 
 //<CLEAR><$15>W○ボタンで肉を投げます<$00>
-<CLEAR><$15>W○ button: Throw meat<$00>
+<CLEAR><$15><$57>○ button: Throw meat<$00>
 
 
 PICT01.TIM
@@ -779,12 +779,12 @@ THIS?!<$12><$00>
 
 
 //<CLEAR><$1B>ヒョウの毛は　少し硬いけど\n素足のツボを　チクチク刺激して\n健康にいいんだよナ<$12><$00>
-<CLEAR>Leopard fur's kinda rough, but maybe that's good for\n
+<CLEAR><$1B>Leopard fur's kinda rough, but maybe that's good for\n
 exfoliation.<$12><$00>
 
 
 //<CLEAR><$1B>ライオンの剥製か…\nどんなに　強くても\n結局、死んだらおしまいだよナ<$12><$00>
-<CLEAR>Just goes to show: Doesn't matter how tough you are if\n
+<CLEAR><$1B>Just goes to show: Doesn't matter how tough you are if\n
 you're dead.<$12><$00>
 
 
@@ -830,7 +830,7 @@ crisper?<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sダイヤの指輪がある<$14><$12><$00>
-<CLEAR><$19><$15>SIt's a Diamond Ring.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>It's a Diamond Ring.<$14><$12><$00>
 
 
 #WRITE(PTR, $002E)
@@ -910,26 +910,26 @@ set Makeshift Trap.<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「貸しワナ」を調べた<$12>\n<CLEAR>まだ動物は　かかっていない\nケンは　がっかりしながら\n「貸しワナ」を　元に戻した<$12><$00>
-<CLEAR><$19><$15>SKen inspected the Rental Trap.<$12>\n
+<CLEAR><$19><$31><$15><$53>Ken inspected the Rental Trap.<$12>\n
 <CLEAR>No bites yet...\n
 Ken whistfully put down the Money Trap.<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「自前のワナ」を調べた<$12><$00>
-<CLEAR><$19><$15>SKen inspected the Makeshift Trap.<$12><$00>
+<CLEAR><$19><$31><$15><$53>Ken inspected the Makeshift Trap.<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sまだ動物はかかっていない\nケンは　がっかりしながら\n「自前のワナ」を　元に戻した<$12><$00>
-<CLEAR><$19><$15>No bites yet...\n
+<CLEAR><$19><$31><$15><$53>No bites yet...\n
 Ken whistfully put down the Makeshift Trap.<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sワナは\n壊されていた…<$12><$00>
-<CLEAR><$19><$15>SThe trap was destroyed...<$12><$00>
+<CLEAR><$19><$31><$15><$53>The trap was destroyed...<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sだが、トランスカーゴがいっぱいなので\nとりあえず　あきらめた…<$12><$00>
-<CLEAR><$19><$15>S/However, the TCU was already full, so Ken let it go.<$12><$00>
+<CLEAR><$19><$31><$15><$53>However, the TCU was already full, so Ken let it go.<$12><$00>
 
 
 //<CLEAR><$00>
@@ -1010,7 +1010,7 @@ wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>

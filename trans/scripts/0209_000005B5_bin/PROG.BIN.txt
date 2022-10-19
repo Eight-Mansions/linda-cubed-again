@@ -202,8 +202,8 @@ OzPort Gate 1F <$00>
 
 //この町の周辺で　ご覧いただける動物は\n<$1B>イカ、<$1B>ダチョウです<$12>\n<CLEAR><$1B>イカは　近寄らない限り、危険は\nありませんが　念のためレベル６以上の\nガイドと　同行してください<$12><$00>
 Notable animals in the area are\n
-squids and ostriches.<$12>\n
-<CLEAR>Squids are only dangerous when provoked,\n
+<$1B>squids and <$1B>ostriches.<$12>\n
+<CLEAR><$1B>Squids are only dangerous when provoked,\n
 but we still recommend that tourists hire escorts LVL 6\n
 or higher.<$12><$00>
 
@@ -311,10 +311,10 @@ Hardia Gate 1F <$00>
 
 //この町の周辺で　見られる動物は\n<$1B>ブタ、<$1B>ダチョウです\n秋には<$1B>トンボの群れも楽しめます<$12>\n<CLEAR>観光のお客様は　レベル２以上の\nガイドか　ハンターとの\n外出を　おすすめします<$12>\n<CLEAR><$1B>イヌには　注意してくださいね<$12><$00>
 Notable animals in the area are\n
-pigs, ostriches and dragonflies.<$12>\n
+<$1B>pigs, <$1B>ostriches <$1B>and dragonflies.<$12>\n
 <CLEAR>We advise all tourists to hire\n
 an escort LVL 2 or higher.<$12>\n
-<CLEAR>Also, please watch your dogs!<$12><$00>
+<CLEAR><$1B>Also, please watch your dogs!<$12><$00>
 
 
 //<CLEAR>お預かりできるのは　全部で３２個\n肉、植物、卵などの　ナマモノは\n原則として　お預かりできません<$12>\n<CLEAR>お預かりした物は　全国のどこの\nトランクルームからも　お引き出しが\n可能となって　おります<$12><$00>
@@ -408,7 +408,7 @@ Minago Gate 1F <$00>
 
 //この町の周辺で　見られる動物は\n<$1B>ブタ、<$1B>リスです<$12>\n<CLEAR>観光のお客様は　レベル４以上の\nガイドか　ハンターとの\n外出を　おすすめします<$12>\n<CLEAR>南の海岸には　野犬の巣がありますので\n危険ですから　近づかないでください<$12><$00>
 Notable animals in the area are\n
-pigs and squirrels.<$12>\n
+<$1B>pigs and <$1B>squirrels.<$12>\n
 <CLEAR>We advise all tourists to hire an escort LVL 4 or higher.<$12>\n
 <CLEAR>Finally, there's a stray dogs' den along the southern coast.\n
 We advise you stay away.<$12><$00>
@@ -515,7 +515,7 @@ its bell tower!<$12><$00>
 
 
 //<CLEAR><$1B>プテラノ鳥の　仕入れと調教の方法は\n我社の　トップシークレットなの\n教えたりしたら　クビになっちゃうわ<$12>\n<CLEAR>でも　きっと、あなたには\n近いうちに　バレちゃうわね<$12><$00>
-<CLEAR>How we capture and tame our Pteranobirds remains a\n
+<CLEAR><$1B>How we capture and tame our Pteranobirds remains a\n
 strict company secret.<$12>\n
 <CLEAR>But that doesn't mean you can't find a way to do it too!<$12><$00>
 
@@ -563,8 +563,8 @@ Hospico Gate 1F <$00>
 
 //この町の周辺で　ご覧いただけるのは\n<$1B>カニ、<$1B>モグラ、<$1B>オコゼ、<$1B>サル<$12>\n<CLEAR>近寄らなければ　<$1B>サル以外の動物は\nとくに　危険はありません<$12>\n<CLEAR>ご心配の方は　７レベル以上の\nハンターか　ガイドを\nお雇いくださいませ<$12><$00>
 Notable animals in the area are\n
-crabs, moles, stonefish and monkeys.<$12>\n
-<CLEAR>Excluding the monkeys, animals nearby shouldn't approach\n
+<$1B>crabs, <$1B>moles, <$1B>stonefish and <$1B>monkeys.<$12>\n
+<CLEAR>Excluding the <$1B>monkeys, animals nearby shouldn't approach\n
 you.<$12>\n
 <CLEAR>If you're still nervous, hire an escort LVL 7 or higher.<$12><$00>
 
@@ -668,12 +668,12 @@ Paraside Gate 1F <$00>
 
 //この町の周辺で　見られる動物は\n<$1B>ウサギ、<$1B>モグラ、<$1B>カニです<$12>\n<CLEAR>観光のお客様は　レベル８以上の\nハンターと　ご契約の上、\n外出することを　おすすめします<$12><$00>
 Notable animals in the area are\n
-rabbits, moles and crabs.<$12>\n
+<$1B>rabbits, <$1B>moles and <$1B>crabs.<$12>\n
 <CLEAR>We advise all tourists to hire an escort LVL 8 or higher.<$12><$00>
 
 
 //<CLEAR><$1B>カニから作る装備は　けっこう、\nバランスも良くて　使えるらしいね<$12><$00>
-<CLEAR>Equipment crafted from crabs is usually real balanced\n
+<CLEAR><$1B>Equipment crafted from crabs is usually real balanced\n
 and versatile.<$12><$00>
 
 
@@ -757,9 +757,9 @@ Dogyf Heights Gate 1F <$00>
 
 
 //この町の東部では　<$1B>ヒョウ、湖では\n<$1B>ワニ、<$1B>ハマグリを　レベル<$06>15<$04>以上の\nガイドと一緒に　ご覧ください<$12>\n<CLEAR>西部の砂漠地帯では　<$1B>カラス、\n<$1B>ムカデ、<$1B>アルマジ、<$1B>ラクダ…<$12>\n<CLEAR>いずれも　たいへん危険ですので\nレベル<$06>17<$04>以上の　ハンターと猟犬を\n２頭以上、お連れください<$12><$00>
-East of town, the leopards, crocodiles and clams should only\n
+East of town, the <$1B>leopards, <$1B>crocodiles and <$1B>clams should only\n
 be fought with an escort LVL <$06>15<$04> or higher.<$12>\n
-<CLEAR>Out west, the crows, centipedes, armadillos and camels are\n
+<CLEAR>Out west, the <$1B>crows, <$1B>centipedes, <$1B>armadillos and <$1B>camels are\n
 also forces to be reckoned with.<$12>\n
 <CLEAR>We advise all tourists to hire an escort LVL <$06><$04> or higher.\n
 Bring a dog too.<$12><$00>
@@ -996,8 +996,7 @@ Rose Garden Gate 2F <$00>
 
 
 //<$1D>を<$1D>ます\n<$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04>／<$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S￥<$00>
-<$1D> x<$1D> \n
-<$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04> / <$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S￥<$00>
+<$1D> x<$1D><$06><$19><$31><$01><$1A>01<$0E><$15><$53><$19><$30><$04> / <$14><$1E>034<$15><$53><$1D><$14><$02>112<$19><$32><$1E>40<$19><$30><$15><$53>￥<$00>
 
 
 //<$06>T.C.(<$1E>034<$06>)<$00>
@@ -1025,7 +1024,7 @@ Rose Garden Gate 2F <$00>
 
 
 //<$04><$16><$15>W<$01><$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
-<$04><$16><$15>W<$01><$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
+<$04><$16><$15><$57><$01><$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
 
 
 //<CLEAR>トランスカーゴは　１枠につき\n<$06>99<$04>頭までしか　収容できません<$12><$00>
@@ -1042,7 +1041,7 @@ a <$06>99<$04> species capacity!<$12><$00>
 
 
 //<$15>Y<$06>バードライン／<$1D><$00>
-<$15>Y<$06>Birdline / <$1D><$00>
+<$15><$59><$06>Birdline / <$1D><$00>
 
 
 //今日は　どちらまで　おでかけですか？<$00>
@@ -1206,7 +1205,7 @@ N10.TIM
 
 
 //<$15>Y<$06>バードライン<$04>／道具買う<$00>
-<$15>Y<$06>Birdline<$04>/Buy<$00>
+<$15><$59><$06>Birdline<$04>/Buy<$00>
 
 
 //<CLEAR><$04>行き先<$02>72直行<$02>126乗継<$02>172座標<$00>
@@ -1304,11 +1303,11 @@ H-19
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>・・・・・・・・・・・・∥∥∥<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>.........!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR><CLEAR>.........!<$14><$12><$00>
 
 
 //<$15>Y<$06>トランクルーム<$00>
-<$15>Y<$06>Storage<$00>
+<$15><$59><$06>Storage<$00>
 
 
 //<CLEAR>お客様の財産の安全を　保証する\nトランクルームでごさいます\n<$01>利用する<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
@@ -1327,7 +1326,7 @@ for our world's unmatched luxuries.<$12><$00>
 
 
 //<$15>Y<$06>トランクルームメニュー<$00>
-<$15>Y<$06>Storage Menu<$00>
+<$15><$59><$06>Storage Menu<$00>
 
 
 //<$01>預ける<$0E>\n<$01>引出す<$0E>\n<$01>やめる<$0E><$00>
@@ -1345,7 +1344,7 @@ for our world's unmatched luxuries.<$12><$00>
 
 
 //<$15>Y<$06>トランクルーム<$04>／預ける<$00>
-<$15>Y<$06>Storage<$04>/Store<$00>
+<$15><$59><$06>Storage<$04>/Store<$00>
 
 
 //<CLEAR><$1D>は\n預かれません<$12><$00>
@@ -1353,7 +1352,7 @@ for our world's unmatched luxuries.<$12><$00>
 
 
 //<$15>Y<$06>トランクルーム<$04>／引出す<$00>
-<$15>Y<$06>Storage<$04>/Take<$00>
+<$15><$59><$06>Storage<$04>/Take<$00>
 
 
 //<CLEAR><$02>124Φ\n<$09>8<$02>3このカードはフォーマットされていません\n<$02>59フォーマットしますか？\n<$02>87<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
@@ -1500,7 +1499,7 @@ Stored messages: <$1E>.<$12><$00>
 
 
 //<CLEAR>現在の預金残高は<$15>R<$06><$1D><$04><$14>￥です\n追加融資はできません<$12><$00>
-<CLEAR>Acct balance: <$15>R<$06><$1D><$04><$14>￥\n
+<CLEAR>Acct balance: <$15><$52><$06><$1D><$04><$14>￥\n
 Loans unavailable.<$12><$00>
 
 
@@ -1561,7 +1560,7 @@ TUCHO_1.TMZ
 
 
 //<CLEAR><$04><$09>1<$15>H<$00>
-<CLEAR><$04><$09>1<$15>H<$00>
+<CLEAR><$04><$09>1<$15><$48><$00>
 
 
 //引き出し<$00>
@@ -1602,11 +1601,11 @@ Arena Pay<$00>
 
 //\n<$02>8<$1E>34<$06>・<$04><$1D><$02>58<$1D><$02>118<$06><$15>H<$1D><$00>
 \n
-<$02>8<$1E>34<$06>・<$04><$1D><$02>58<$1D><$02>118<$06><$15>H<$1D><$00>
+<$02>8<$1E>34<$06>・<$04><$1D><$02>58<$1D><$02>118<$06><$15><$48><$1D><$00>
 
 
 //<$02>202<$1D><$1D><$15>H<$00>
-<$02>202<$1D><$1D><$15>H<$00>
+<$02>202<$1D><$1D><$15><$48><$00>
 
 
 //<CLEAR>オズサット気象予報部発表\n各地の<$1D>の天気です<$12><$00>
@@ -1654,7 +1653,7 @@ Join our <$1D> Lottery for a chance at <$06>100000<$04>￥!<$12><$00>
 
 
 //<$15>Y記録ファイル選択<$00>
-<$15>YFile Select<$00>
+<$15><$59>File Select<$00>
 
 
 //<CLEAR>未登録ファイルです\n記録しますか？<$00>
@@ -1717,17 +1716,17 @@ Do not remove the card\n
 
 //\n<$15>W<$01>◇<$0E>　やめとく<$00>
 \n
-<$15>W<$01>◇<$0E> Exit<$00>
+<$15><$57><$01>◇<$0E> Exit<$00>
 
 
 //\n<$15>W<$01>◇<$0E>　メニューへ\n<$01>◇<$0E>　電話を切る<$00>
 \n
-<$15>W<$01>◇<$0E>Menu\n
+<$15><$57><$01>◇<$0E>Menu\n
 <$01>◇<$0E>Hang up<$00>
 
 
 //<$15>Yスロット<$1E><$06>:<$04>記録<$06>ファイル<$04>選択<$00>
-<$15>YSlot <$1E><$06>:<$04> <$06> File <$04>Select<$00>
+<$15><$59>Slot <$1E><$06>:<$04> <$06> File <$04>Select<$00>
 
 
 //<CLEAR><$00>
@@ -1735,7 +1734,7 @@ Do not remove the card\n
 
 
 //<$15>b<$01><$06><$1E>.<$0E><$04>    （未登録です）\n<$00>
-<$15>b<$01><$06><$1E>.<$0E><$04> (NOT IN USE)\n
+<$15><$62><$01><$06><$1E>.<$0E><$04> (NOT IN USE)\n
 <$00>
 
 
@@ -1748,16 +1747,16 @@ Do not remove the card\n
 
 
 //<$15>W<$01><$06><$1E>.<$0E> <$1D> <$06>199<$1E><$04>年<$1D>　<$1D><$02>164<$06><$1E>35<$04>種登録　難<$1E>\n<$00>
-<$15>W<$01><$06><$1E>. <$0E> <$1D> <$06>199<$1E><$04>, <$1D>　<$1D><$02>164<$06><$1E>35<$04> filed (Mode <$1E>)\n
+<$15><$57><$01><$06><$1E>. <$0E> <$1D> <$06>199<$1E><$04>, <$1D>　<$1D><$02>164<$06><$1E>35<$04> filed (Mode <$1E>)\n
 <$00>
 
 
 //<$15>W<$01>◇<$08>2<$0E>　やめとく<$00>
-<$15>W<$01>◇<$08>2<$0E> Exit<$00>
+<$15><$57><$01>◇<$08>2<$0E> Exit<$00>
 
 
 //<$15>W<$01>◇<$08>2<$0E>　メニューへ   <$01>◇<$08>2<$0E>　電話を切る<$00>
-<$15>W<$01>◇<$08>2<$0E> Menu   <$01>◇<$08>2<$0E> Hang up<$00>
+<$15><$57><$01>◇<$08>2<$0E> Menu   <$01>◇<$08>2<$0E> Hang up<$00>
 
 
 //<CLEAR>よい思い出を！<$12><$00>
@@ -1842,7 +1841,7 @@ wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
@@ -1991,7 +1990,7 @@ I know, because I just "reported" it.<$12><$00>
 
 #WRITE(PTR, $0066)
 //<$15>Y留守番コール<$00>
-<$15>YVoicemail<$00>
+<$15><$59>Voicemail<$00>
 
 
 //<$01>終了<$0E><$00>
@@ -2305,7 +2304,7 @@ You're more than welcome!<$00>
 
 //<CLEAR>ドギファの東、Ｊ<$06>-17<$04>の\nトンネルを　ぬけた先だ\n<$1B>ヒョウに気をつけて　来るんだよ<$00>
 <CLEAR>We live east of Dogyf Heights, through the J<$06>-17<$04> tunnel.\n
-Watch out for leopards.<$00>
+Watch out for <$1B>leopards.<$00>
 
 
 //<CLEAR>パラサイドの　ジジイじゃよ\nその後　仲良うやっとるようじゃの\n夫婦円満、何よりじゃ！<$00>

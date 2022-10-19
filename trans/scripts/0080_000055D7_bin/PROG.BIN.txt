@@ -10,28 +10,28 @@
 #WRITE(PTR, $001C)
 #WRITE(PTR, $001E)
 //<CLEAR><$1C>Aは\n雄たけびを　あげた∥<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 let out a battle cry!<$12><$00>
 
 
 //<CLEAR><$1C>Aは\n力を溜めている∥<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 is gathering strength!<$12><$00>
 
 
 //<CLEAR><$1C>Aは　丹念に\n<$1C>Tの全身を　なめた∥<$12><$00>
-<CLEAR><$1C>A\n
-licked <$1C>'s\n
+<CLEAR><$1C><$41>\n
+licked <$1C><$54>'s\n
 body intently.<$12><$00>
 
 
 //<CLEAR><$1C>Aは\n力を溜めている∥<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 is gathering strength!<$12><$00>
 
 
 //<CLEAR><$1C>Aは\n周囲の色に　体を染めた∥<$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 blended in with its surroundings.<$00>
 
 
@@ -48,13 +48,13 @@ blended in with its surroundings.<$00>
 
 
 //<CLEAR><$1C>Aは\n<$1D>度　鼻を鳴らした∥<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 snorted <$1D> times!<$12><$00>
 
 
 //<CLEAR><$1C>Aは　優しく\n<$1C>Oの脚を　噛んだ∥\nアドレナリン注入∥<$12><$00>
-<CLEAR><$1C>A\n
-pierced <$1C>O's leg with a surge of adrenaline!<$12><$00>
+<CLEAR><$1C><$41>\n
+pierced <$1C><$4F>'s leg with a surge of adrenaline!<$12><$00>
 
 
 //チンピラ<$00>
@@ -62,18 +62,18 @@ Delinquent<$00>
 
 
 //<CLEAR><$1C>Aは　丹念に\n<$1C>Tの全身を　なめた∥<$12><$00>
-<CLEAR><$1C>A\n
-licked <$1C>'s\n
+<CLEAR><$1C><$41>\n
+licked <$1C><$54>'s\n
 body intently.<$12><$00>
 
 
 //<CLEAR><$1C>Aの攻撃∥\nピンクの煙を　噴き出した∥<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 spewed pink smoke!<$12><$00>
 
 
 //<CLEAR><$1C>Aの攻撃∥\n窒息ガス噴射∥<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 released choking gas!<$12><$00>
 
 
@@ -82,12 +82,12 @@ Alley Cat<$00>
 
 
 //<CLEAR><$1C>Aの攻撃∥\n道具袋を　ねらって\n長い舌が　伸びてきた∥<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 reached far to lap at the item bag!<$12><$00>
 
 
 //<CLEAR><$1C>Aの攻撃∥\n美しい鳴き声で　歌った∥<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 chirped a lovely song!<$12><$00>
 
 
@@ -108,17 +108,17 @@ Greenhorn Killer<$00>
 
 
 //<CLEAR><$1C>Aは\n<$1D>度　鼻を鳴らした∥<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 snorted <$1D> times!<$12><$00>
 
 
 //<CLEAR><$1C>Aは\n動物を　けしかけた∥<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 stirred the animals!<$12><$00>
 
 
 //<CLEAR><$1C>Aは　体内に\nドパーミンを　分泌した∥<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 secreted excess dopamine!<$12><$00>
 
 
@@ -127,12 +127,12 @@ Standard Hunter<$00>
 
 
 //<CLEAR><$1C>Aの攻撃∥\n<$1C>a　噴出∥<$12><$00>
-<CLEAR><$1C>A\n
-spewed <$1C>a!<$12><$00>
+<CLEAR><$1C><$41>\n
+spewed <$1C><$61>!<$12><$00>
 
 
 //<CLEAR><$1C>Aの攻撃∥\n道具袋を　ねらって\n長い舌が　伸びてきた∥<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 reached far to lap at the item bag!<$12><$00>
 
 
@@ -153,24 +153,24 @@ Veteran<$00>
 
 
 //<CLEAR><$1C>Aは\n<$1D>度　鼻を鳴らした∥<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 snorted <$1D> times!<$12><$00>
 
 
 //<CLEAR><$1C>Aは\n動物を　けしかけた∥<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 stirred the animals!<$12><$00>
 
 
 //<CLEAR><$1C>Aは　丹念に\n<$1C>Tの全身を　なめた∥<$12><$00>
-<CLEAR><$1C>A\n
-licked <$1C>'s\n
+<CLEAR><$1C><$41>\n
+licked <$1C><$54>'s\n
 body intently.<$12><$00>
 
 
 //<CLEAR><$1C>Aは　丹念に\n<$1C>Tの全身を　なめた∥<$12><$00>
-<CLEAR><$1C>A\n
-licked <$1C>'s\n
+<CLEAR><$1C><$41>\n
+licked <$1C><$54>'s\n
 body intently.<$12><$00>
 
 
@@ -179,22 +179,22 @@ Class S Pro<$00>
 
 
 //<CLEAR><$1C>Aの攻撃∥\n青酸ガス　噴射∥<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 sprays hydrogen cyanide gas!<$12><$00>
 
 
 //<CLEAR><$1C>Aは\n力を溜めている∥<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 is gathering strength!<$12><$00>
 
 
 //<CLEAR><$1C>Aの攻撃∥\n瞳の奥の　かすかな光∥\n催眠ビーム∥<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 fires a hypnotic beam from their blank eyes.<$12><$00>
 
 
 //猟犬<$15>S♂<$14><$00>
-Dog<$15>S♂<$14><$00>
+Dog<$15><$53>♂<$14><$00>
 
 
 //１<$00>
@@ -210,56 +210,56 @@ Dog<$15>S♂<$14><$00>
 
 
 //<CLEAR><$1C>Aは\n<$1D>度　鼻を鳴らした∥<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 snorted <$1D> times!<$12><$00>
 
 
 //猟犬<$15>R♀<$14><$00>
-Dog<$15>R♀<$14><$00>
+Dog<$15><$52>♀<$14><$00>
 
 
 //<CLEAR><$1C>Aは\n遠くを　見ている…<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 stared into the distance.<$12><$00>
 
 
 //<CLEAR><$1C>Aは\n風の臭いに　おびえている…<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 trembles at a smell in the air.<$12><$00>
 
 
 //<CLEAR><$1C>Aは\n大きく　２度、鳴いた∥<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 called loudly 2 times!<$12><$00>
 
 
 //<CLEAR><$1C>Aは　<$1C>Tを見て\nヨダレを　たらした∥<$12><$00>
-<CLEAR><$1C>A\n
-drooled at the sight of <$1C>T.<$12><$00>
+<CLEAR><$1C><$41>\n
+drooled at the sight of <$1C><$54>.<$12><$00>
 
 
 //<CLEAR><$1C>Aは\n遠くを　見ている…<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 stared into the distance.<$12><$00>
 
 
 //<CLEAR><$1C>Aは\n風の臭いに　おびえている…<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 trembles at a smell in the air.<$12><$00>
 
 
 //<CLEAR><$1C>Aは\n大きく　２度、鳴いた∥<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 called loudly 2 times!<$12><$00>
 
 
 //<CLEAR><$1C>Aは　<$1C>Tを見て\nヨダレを　たらした∥<$12><$00>
-<CLEAR><$1C>A\n
-drooled at the sight of <$1C>T.<$12><$00>
+<CLEAR><$1C><$41>\n
+drooled at the sight of <$1C><$54>.<$12><$00>
 
 
 //猟犬<$15>S♂<$14><$00>
-Dog<$15>S♂<$14><$00>
+Dog<$15><$53>♂<$14><$00>
 
 
 //１<$00>
@@ -275,75 +275,75 @@ Dog<$15>S♂<$14><$00>
 
 
 //<CLEAR><$1C>Aは\n<$1D>度　鼻を鳴らした∥<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 snorted <$1D> times!<$12><$00>
 
 
 //<CLEAR><$1C>Aは\n雄たけびを　あげた∥<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 let out a battle cry!<$12><$00>
 
 
 //猟犬<$15>R♀<$14><$00>
-Dog<$15>R♀<$14><$00>
+Dog<$15><$52>♀<$14><$00>
 
 
 //<CLEAR><$1C>Aは\n遠くを　見ている…<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 stared into the distance.<$12><$00>
 
 
 //<CLEAR><$1C>Aは\n風の臭いに　おびえている…<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 trembles at a smell in the air.<$12><$00>
 
 
 //<CLEAR><$1C>Aは\n大きく　２度、鳴いた∥<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 called loudly 2 times!<$12><$00>
 
 
 //<CLEAR><$1C>Aは　<$1C>Tを見て\nヨダレを　たらした∥<$12><$00>
-<CLEAR><$1C>A\n
-drooled at the sight of <$1C>T.<$12><$00>
+<CLEAR><$1C><$41>\n
+drooled at the sight of <$1C><$54>.<$12><$00>
 
 
 //猟犬<$15>S♂<$14><$00>
-Dog<$15>S♂<$14><$00>
+Dog<$15><$53>♂<$14><$00>
 
 
 //<CLEAR><$1C>Aは\n遠くを　見ている…<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 stared into the distance.<$12><$00>
 
 
 //<CLEAR><$1C>Aは\n風の臭いに　おびえている…<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 trembles at a smell in the air.<$12><$00>
 
 
 //<CLEAR><$1C>Aは\n大きく　２度、鳴いた∥<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 called loudly 2 times!<$12><$00>
 
 
 //<CLEAR><$1C>Aは　<$1C>Tを見て\nヨダレを　たらした∥<$12><$00>
-<CLEAR><$1C>A\n
-drooled at the sight of <$1C>T.<$12><$00>
+<CLEAR><$1C><$41>\n
+drooled at the sight of <$1C><$54>.<$12><$00>
 
 
 //<CLEAR><$1C>Aは\n雄たけびを　あげた∥<$12><$00>
-<CLEAR><$1C>A\n
+<CLEAR><$1C><$41>\n
 let out a battle cry!<$12><$00>
 
 
 //<CLEAR><$1C>Aは　優しく\n<$1C>Oの脚を　噛んだ∥\nアドレナリン注入∥<$12><$00>
-<CLEAR><$1C>A\n
-pierced <$1C>O's leg with a surge of adrenaline!<$12><$00>
+<CLEAR><$1C><$41>\n
+pierced <$1C><$4F>'s leg with a surge of adrenaline!<$12><$00>
 
 
 //猟犬<$15>R♀<$14><$00>
-Dog<$15>R♀<$14><$00>
+Dog<$15><$52>♀<$14><$00>
 
 
 #WRITE(PTR, $0020)
@@ -550,15 +550,15 @@ enough to fall for her antics!<$12><$00>
 
 
 //<$15>Y第１リング／受付<$00>
-<$15>YRing 1/Reception<$00>
+<$15><$59>Ring 1/Reception<$00>
 
 
 //<$15>Y第２リング／受付<$00>
-<$15>YRing 2/Reception<$00>
+<$15><$59>Ring 2/Reception<$00>
 
 
 //<$15>Y第３リング／受付<$00>
-<$15>YRing 3/Reception<$00>
+<$15><$59>Ring 3/Reception<$00>
 
 
 //戦う男の　登竜門∥\n若人よ、この第１リングへ集え∥<$00>
@@ -567,7 +567,7 @@ are ye prepared for Ring 1?<$00>
 
 
 //<$1B>カメより硬く、<$1B>トラより強いものたちよ∥\nさあ　第２リングで　ヒーローになれ∥<$00>
-Tougher than a turtle, faster than a tiger, it's our Ring 2\n
+Tougher than a <$1B>turtle, faster than a <$1B>tiger, it's our Ring 2\n
 Hero!<$00>
 
 
@@ -634,7 +634,7 @@ stepping into the ring!<$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>ケンは「<$1D>」を\n受け取った<$14><$12><$00>
-<CLEAR><$19>1<$15>S<CLEAR>Ken received the <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Ken received the <$1D>!<$14><$12><$00>
 
 
 //楽<$00>
@@ -760,7 +760,7 @@ hot twin you can hook up with). <$12><$00>
 
 #WRITE(PTR, $0024)
 //<$15>YＢＡＲ<$00>
-<$15>YBar<$00>
+<$15><$59>Bar<$00>
 
 
 //<CLEAR>何になさいます？　どれでも<$1D><$06><$1E><$04><$14>￥です\n<$01><$1D><$1D><$02>98<$0E>／<$01><$1D><$1D><$02>210<$0E>\n<$01><$1D><$1D><$02>98<$0E>／<$01>どれもいらない<$0E><$00>
@@ -847,7 +847,7 @@ in one gulp.<$12><$00>
 
 
 //<$15>Yホテル<$00>
-<$15>YHotel<$00>
+<$15><$59>Hotel<$00>
 
 
 //<CLEAR>お気をつけて！<$12><$00>
@@ -1027,7 +1027,7 @@ wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>

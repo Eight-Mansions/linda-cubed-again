@@ -218,7 +218,7 @@ Elizabeth 's capsule with him.<$12>\n
 <CLEAR>Ah! That reminds me...<$12>\n
 <CLEAR>Here, I was told to give this to you if you ever came\n
 back.<$12>\n
-<CLEAR><$19>1<$15>SKen received the\n
+<CLEAR><$19><$31><$15><$53>Ken received the\n
 Blue Beastman Doll!<$00>
 
 
@@ -233,7 +233,7 @@ like that with each other!<$12><$00>
 
 //<CLEAR>ご旅行中に、奥様が　<$1B>イタチに\nひっかかれたんですって…<$12>\n<CLEAR>普通は少し熱が出て　治るんだけど\nアレルギーだったそうなのよ…\nずっと意識が　戻らないんだって…<$12>\n<CLEAR>おかわいそうな　パンハイム博士…\n「ハネムーン」のやり直しだって\n張り切ってらしたのに…<$12><$00>
 <CLEAR>While out on a trip together, Prof. Panheim's wife was\n
-scratched by a weasel.<$12>\n
+scratched by a <$1B>weasel.<$12>\n
 <CLEAR>Such scratches usually cause a fever and heal, but she's\n
 allergic- and now comatose.<$12>\n
 <CLEAR>I feel so bad for Prof. Panheim. Of all the lousy things to\n
@@ -277,7 +277,7 @@ facility, she'll... <$12>\n
 
 
 //<CLEAR>もし　君たちが　<$1B>ニワトリの肉を\n持ってきてくれたら　お礼の品が\n２つほど　あるんだがね<$12><$00>
-<CLEAR>If you can bring me the Chicken Filets, I'll give you 2 very\n
+<CLEAR>If you can bring me the <$1B>Chicken Filets, I'll give you 2 very\n
 useful items as a reward.<$12><$00>
 
 
@@ -287,13 +287,13 @@ Please, open those lovely eyes for me again...<$12><$00>
 
 
 //<CLEAR>そ、それは　<$1B>ニワトリの肉だね￠\nさすが本職は　仕事が早いね<$12><$00>
-<CLEAR>I-is that chicken meat?!\n
+<CLEAR>I-is that <$1B>chicken meat?!\n
 You rangers never let me down!<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは　<$1B>ニワトリの肉を２つ\n手渡した<$14><$12><$00>
-<CLEAR><$19><$15>SKen gave Prof. Panheim the\n
-Chicken Meat.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Ken gave Prof. Panheim the\n
+<$1B>Chicken Meat.<$14><$12><$00>
 
 
 //<CLEAR>さあ　わしのエリザベス！\nその花びらのような　おクチで\nこの薬を　飲んでおくれ∥<$12><$00>
@@ -319,7 +319,7 @@ as a token.<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「青の獣人像」を　受け取った！<$14><$12><$00>
-<CLEAR><$19><$15>SKen received the\n
+<CLEAR><$19><$31><$15><$53>Ken received the\n
 Blue Beastman Doll!<$14><$12><$00>
 
 
@@ -328,7 +328,7 @@ Blue Beastman Doll!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「シャニルＮｏ５」を\n押しつけられた！<$14><$12><$00>
-<CLEAR><$19>1<$15>SKen received the Chanel No. 5!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Ken received the Chanel No. 5!<$14><$12><$00>
 
 
 //<CLEAR>ククク…　アレの薬だよ\nよかったら　使ってみてくれ\nとりあえず　わしには効いたよ<$12><$00>
@@ -521,7 +521,7 @@ another trick of the trade:<$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>リンダは　植物の種類を見わける\n「植物鑑定」の能力を\nフローラから　習得した∥<$14><$12><$00>
-<CLEAR><$19>1<$15>S<CLEAR>Linda learned the\n
+<CLEAR><$19><$31><$15><$53><CLEAR><CLEAR>Linda learned the\n
 Botanist skill from Dr. Flora!<$14><$12><$00>
 
 
@@ -610,7 +610,7 @@ wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
@@ -693,7 +693,7 @@ are dead head!<$00>
 
 
 //<$15>Yスケジュール<$00>
-<$15>YMemo <$00>
+<$15><$59>Memo <$00>
 
 
 //<CLEAR>スケジュールは何もありません<$12><$00>
@@ -733,11 +733,11 @@ Assist Panheim<$00>
 
 
 //<$1B>カメの卵を手に入れる<$00>
-Snatch Turtle Eggs<$00>
+<$1B>Snatch Turtle Eggs<$00>
 
 
 //<$1B>プテラノの卵を手に入れる<$00>
-Snatch Pteranodon Eggs<$00>
+<$1B>Snatch Pteranodon Eggs<$00>
 
 
 //遺産争いにケリをつける<$00>
@@ -774,17 +774,17 @@ Hardia Hotel.<$00>
 
 
 //<CLEAR>マーブルポリスの<$1B>ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す<$00>
-<CLEAR>Process meat from chickens in Marblopolis.Give them to\n
+<CLEAR>Process meat from <$1B>chickens in Marblopolis.Give them to\n
 Prof. Panheim in Hospico.<$00>
 
 
 //<CLEAR><$1B>カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す<$00>
-<CLEAR>Find up to 3 Turtle Eggs. Give them to Louis at the Battle\n
+<CLEAR>Find up to 3 <$1B>Turtle Eggs. Give them to Louis at the Battle\n
 Park BB Ranch.<$00>
 
 
 //<CLEAR><$1B>プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す<$00>
-<CLEAR>Acquire 2 Pteranodon Eggs. Give them to Bronco at the\n
+<CLEAR>Acquire 2 <$1B>Pteranodon Eggs. Give them to Bronco at the\n
 Battle Park BB Ranch.<$00>
 
 
@@ -806,7 +806,7 @@ another <$06><$1E><$0F><$04><$00>
 
 
 //<CLEAR>コシカタのシンボル「<$1B>トラの爪」を\n見つけだし、ポリスカに渡す<$00>
-<CLEAR>Find the Tiger Claw, Koshikata's village symbol. Return it\n
+<CLEAR>Find the <$1B>Tiger Claw, Koshikata's village symbol. Return it\n
 to Poliska.<$00>
 
 

@@ -106,7 +106,7 @@ Interested?\n
 //<CLEAR>へへへ、息子に自慢するんだ\n「どーだ∥　父さんは、外じゃ\n強いんだよ∥」ってね<$12>\n<CLEAR><$19>1<$15>S<CLEAR>ケンは、「<$1D>」を渡して\n<$06><$1E><$04>￥を受け取った<$14><$12><$00>
 <CLEAR>Hehehe, my kids are going to be so proud of me.\n
 "Wow Dad, you're the greatest!"<$12>\n
-<CLEAR><$19>1<$15>S<CLEAR>Ken sold the <$1D> for\n
+<CLEAR><$19><$31><$15><$53><CLEAR>Ken sold the <$1D> for\n
 <$06><$1E><$04>￥!<$14><$12><$00>
 
 
@@ -151,7 +151,7 @@ enough to fall for her antics!<$12><$00>
 //外を歩いていて\n何かゴミみたいな　点々が\nピョンピョン　ついてきたら…<$12>\n<CLEAR>そいつが　<$1B>ノミだよ\nまッ、アレも一応　動物だから\n忘れずに　捕まえときナ<$12><$00>
 If you walk around outside with garbage in hand, you\n
 might attract bugs.<$12>\n
-<CLEAR>But you know, fleas are animals too, so if you see one, you'd\n
+<CLEAR>But you know, <$1B>fleas are animals too, so if you see one, you'd\n
 better catch it!<$12><$00>
 
 
@@ -231,10 +231,10 @@ enough to fall for her antics!<$12><$00>
 
 
 //どんなに強い猟犬も　しょせんは<$1B>イヌ、\n<$06>20<$04>レベルかそこらで　打ち止めね\n成長が　止まっちゃうわけ<$12>\n<CLEAR>世の中には　<$06>30<$04>レベルの猟犬も\nいるらしいけど　そいつらの正体は\nどうやら　<$1B>イヌじゃないらしいのよ<$12><$00>
-No matter how strong a dog is,a dog's max attainable LVL\n
+No matter how strong a dog is,<$1B>a dog's max attainable LVL\n
 is <$06>20<$04>. Then, they're growth stops for good.<$12>\n
 <CLEAR>Out there in the world is a four-legged friend that can\n
-reach LVL <$06>30<$04>, but technically, it's not a dog at all!<$12><$00>
+reach LVL <$06>30<$04>, but technically, it's not a <$1B>dog at all!<$12><$00>
 
 
 #WRITE(PTR, $002A)
@@ -384,7 +384,7 @@ wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>

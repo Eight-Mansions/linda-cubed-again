@@ -68,8 +68,7 @@ c125a0.obj
 
 
 //<$1D>を<$1D>ます\n<$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04>／<$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S￥<$00>
-<$1D> x<$1D> \n
-<$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04> / <$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S￥<$00>
+<$1D> x<$1D><$06><$19><$31><$01><$1A>01<$0E><$15><$53><$19><$30><$04> / <$14><$1E>034<$15><$53><$1D><$14><$02>112<$19><$32><$1E>40<$19><$30><$15><$53>￥<$00>
 
 
 //<$06>T.C.(<$1E>034<$06>)<$00>
@@ -97,7 +96,7 @@ c125a0.obj
 
 
 //<$04><$16><$15>W<$01><$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
-<$04><$16><$15>W<$01><$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
+<$04><$16><$15><$57><$01><$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
 
 
 //<CLEAR>トランスカーゴは　１枠につき\n<$06>99<$04>頭までしか　収容できません<$12><$00>
@@ -191,15 +190,14 @@ enough to fall for her antics!<$12><$00>
 <$01>Tech door<$0E><$01>Warp<$0E>\n
 <$01>Call<$0E><$01>Pager<$0E>\n
 <$01>Bird call<$0E><$01>Bird cry<$0E>\n
-<$01>Bird sound<$0E><$01><$15>bFine dog<$0E>\n
-<$01>Hurt dog<$15><$0E><$01>Trap set<$0E>\n
-<$01>Bubble pop<$0E><$01><$15>bHeartbeat<$15><$0E><$00>
+<$01>Bird sound<$0E><$01><$15><$62>Fine dog<$0E>\n
+<$01>Hurt dog<$15><$57><$0E><$01>Trap set<$0E>\n
+<$01>Bubble pop<$0E><$01><$15><$62>Heartbeat<$15><$57><$0E><$00>
 
 
 //<CLEAR><$01>ロック解除＿＿＿<$0E>　<$01><$15>bエスカレーター＿<$15>W<$0E>\n<$01>転送光でる＿＿＿<$0E>　<$01>転送光吸い込む＿<$0E>\n<$01><$15>b放電音１＿＿＿＿<$0E>　<$01>放電音２＿＿＿＿<$15>W<$0E>\n<$01>ドラム缶引きずり<$0E>　<$01>空港案内音＿＿＿<$0E>\n<$01>警告音＿＿＿＿＿<$0E>　<$01>スイングベンチ＿<$0E>\n<$01>長いキッス＿＿＿<$0E>　<$01>短いキッス＿＿＿<$0E>\n<$01>犬占い・怪しい音<$0E>　<$01>エレベータ移動音<$0E>\n<$01>エレベータ到着音<$0E>　<$01>落とし穴に落ちる<$0E><$00>
-<CLEAR><$01>Unlock<$0E><$01><$15>bEscalator<$15><$0E>\n
-<$01>Light shift<$0E><$01>Light vacuum<$0E>\n
-<$01><$15>bDischarge 1<$0E><$01>Discharge 2<$15><$0E>\n
+<CLEAR><$01>Unlock<$0E><$01><$15><$62>bEscalator<$15><$57><$0E>\n
+<$01>Light shift<$0E><$01>Light vacuum<$0E><$01><$15><$62>Discharge 1<$0E><$01>Discharge 2<$15><$57><$0E>\n
 <$01>Drumroll<$0E><$01>Airport<$0E>\n
 <$01>Alarm<$0E><$01>Bench swing<$0E>\n
 <$01>Long kiss<$0E><$01>Short kiss<$0E>\n
@@ -330,7 +328,7 @@ enough to fall for her antics!<$12><$00>
 
 
 //<$15>Y万＿屋／買＿う<$00>
-<$15>YItems/Buy<$00>
+<$15><$59>Items/Buy<$00>
 
 
 //<CLEAR>原始人のお話\n<$01>したい<$0E>／<$01>鐘の音<$0E>／<$01>やめる<$0E><$00>
@@ -512,7 +510,7 @@ one time. <$12><$00>
 
 //<CLEAR>登録料　<$15>b<$06><$1E><$04><$14>￥が足りません\n銀行で　ご都合ください<$12><$00>
 <CLEAR>The adoption fee is over\n
-<$15><$06><$1E><$04><$14>￥.\n
+<$15><$62><$06><$1E><$04><$14>￥.\n
 Get a loan from the bank.<$12><$00>
 
 
@@ -531,7 +529,7 @@ Choose a new name.<$12><$00>
 
 
 //<$16><$01><$1D><$02>96<$0E>　<$15>S<$1E>18<$14><$04><$02>140<$01><$1D><$02>236<$0E>　<$15>S<$1E>18<$14><$00>
-<$16><$01><$1D><$02><$0E><$15><$1E><$14><$04><$02><$01><$1D><$02><$0E><$15><$1E><$14><$00>
+<$16><$01><$1D><$02><$0E><$15><$53><$1E><$14><$04><$02><$01><$1D><$02><$0E><$15><$53><$1E><$14><$00>
 
 
 //<CLEAR>こんにちわ！　私の名はジル<$12>\n<CLEAR>タダで　動物を忠実な猟犬に\n登録できるけど、しちゃう？\n<$01>しちゃう！<$0E>／<$01>遠慮しとく<$0E><$00>
@@ -598,7 +596,7 @@ Yes<$00>
 
 
 //<CLEAR><$15>Wワープ設定\n<$05><$01><$1D>トア<$0E> <$01><$1D>トイ<$0E> <$01><$1D>トウ<$0E> <$01><$1D>トエ<$0E> <$01><$1D>トオ<$0E>\n<$01><$1D>RA<$0E> <$01><$1D>RB<$0E> <$01><$1D>RD<$0E> <$01><$1D>RE<$0E> <$01><$1D>RF<$0E>\n<$01><$1D>RG<$0E> <$01><$1D>RH<$0E> <$01><$1D>RI<$0E> <$01><$1D>RJ<$0E> <$01><$1D>RK<$0E>\n<$01><$1D>RL<$0E> <$01><$1D>RM<$0E> <$01><$1D>RN<$0E><$00>
-<CLEAR><$15>WWarp Select:\n
+<CLEAR><$15><$57>Warp Select:\n
 <$05><$01><$1D>TO-A<$0E><$01><$1D>TO-I<$0E><$01><$1D>TO-U<$0E><$01><$1D>TO-E<$0E><$01><$1D>TO-O<$0E>\n
 <$01><$1D><$0E><$01><$1D><$0E><$01><$1D><$0E><$01><$1D><$0E><$01><$1D><$0E>\n
 <$01><$1D><$0E><$01><$1D><$0E><$01><$1D><$0E><$01><$1D><$0E><$01><$1D><$0E>\n
@@ -6700,7 +6698,7 @@ e68_07
 
 #WRITE(PTR, $002A)
 //<$15>Yスケジュール<$00>
-<$15>YMemo <$00>
+<$15><$59>Memo <$00>
 
 
 //<CLEAR>スケジュールは何もありません<$12><$00>
@@ -6740,11 +6738,11 @@ Assist Panheim<$00>
 
 
 //<$1B>カメの卵を手に入れる<$00>
-Snatch Turtle Eggs<$00>
+<$1B>Snatch Turtle Eggs<$00>
 
 
 //<$1B>プテラノの卵を手に入れる<$00>
-Snatch Pteranodon Eggs<$00>
+<$1B>Snatch Pteranodon Eggs<$00>
 
 
 //遺産争いにケリをつける<$00>
@@ -6781,17 +6779,17 @@ Hardia Hotel.<$00>
 
 
 //<CLEAR>マーブルポリスの<$1B>ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す<$00>
-<CLEAR>Process meat from chickens in Marblopolis.Give them to\n
+<CLEAR>Process meat from <$1B>chickens in Marblopolis.Give them to\n
 Prof. Panheim in Hospico.<$00>
 
 
 //<CLEAR><$1B>カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す<$00>
-<CLEAR>Find up to 3 Turtle Eggs. Give them to Louis at the Battle\n
+<CLEAR>Find up to 3 <$1B>Turtle Eggs. Give them to Louis at the Battle\n
 Park BB Ranch.<$00>
 
 
 //<CLEAR><$1B>プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す<$00>
-<CLEAR>Acquire 2 Pteranodon Eggs. Give them to Bronco at the\n
+<CLEAR>Acquire 2 <$1B>Pteranodon Eggs. Give them to Bronco at the\n
 Battle Park BB Ranch.<$00>
 
 
@@ -6813,7 +6811,7 @@ another <$06><$1E><$0F><$04><$00>
 
 
 //<CLEAR>コシカタのシンボル「<$1B>トラの爪」を\n見つけだし、ポリスカに渡す<$00>
-<CLEAR>Find the Tiger Claw, Koshikata's village symbol. Return it\n
+<CLEAR>Find the <$1B>Tiger Claw, Koshikata's village symbol. Return it\n
 to Poliska.<$00>
 
 

@@ -128,16 +128,16 @@ survival skills out in the wilderness?<$12><$00>
 
 
 //バカな観光客が　可逆レーザー銃で\n<$1B>サイかなんかを　調子こいて\n撃ち殺して　遊んでたらサ…<$12>\n<CLEAR>突然、<$1B>サイの体が共鳴爆発を　起こして\n２０頭ばかしの<$1B>サイが　そのバカを\n巻き込んで　吹き飛んじまった<$12>\n<CLEAR>だから、ここの動物には　何があるか\nわかんねぇから　今どきのオモチャは\n危なくて　使えねぇっての<$12><$00>
-I saw this real stupid tourist shoot a rhino to death with his\n
+I saw this real stupid tourist shoot a <$1B>rhino to death with his\n
 laser gun.<$12>\n
-<CLEAR>Suddenly, the rhino's body detonated, and BAM! The rhino\n
+<CLEAR>Suddenly, the <$1B>rhino's body detonated, and BAM! The <$1B>rhino\n
 took the tourist out too!<$12>\n
 <CLEAR>Today's technology is too dangerous for people who don't\n
 know basic biochemistry.<$12><$00>
 
 
 //<CLEAR><$1B>ツバメは　海を渡る鳥でね\n捕まえるのは　ちょっと難儀だね<$12>\n<CLEAR>姿だけなら　Ｕ<$06>-07<$04>あたりで\n越冬するはずだから　遠くから\nいくらでも　眺めることができるよ<$12>\n<CLEAR>まっ　どうしても捕獲したいってのなら\n営巣地を　突き止めることだね\nたぶん西の最果ての　どっかだろうサ<$12><$00>
-<CLEAR>Swallows are birds that fly across the sea, which makes\n
+<CLEAR><$1B>Swallows are birds that fly across the sea, which makes\n
 them tricky to capture.<$12>\n
 <CLEAR>If you just want to see them, go to U<$06>-07<$04> in their\n
 hibernation period to see them from afar.<$12>\n
@@ -200,40 +200,40 @@ me as a Class A animal.<$12>\n
 
 
 //<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen found the <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Ken found the <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen acquired <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Ken acquired <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen found the <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Ken found the <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen acquired <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Ken acquired <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S鍵がかかっている<$14><$12><$00>
-<CLEAR><$19>1<$15>SIt's locked.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>It's locked.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「納戸の鍵」を使った<$14><$12><$00>
-<CLEAR><$19>1<$15>SKen used the Storage Key!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Ken used the Storage Key!<$14><$12><$00>
 
 
 #WRITE(PTR, $0022)
 //<$15>Yホテル<$00>
-<$15>YHotel<$00>
+<$15><$59>Hotel<$00>
 
 
 //<CLEAR>お気をつけて！<$12><$00>
@@ -337,7 +337,7 @@ wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>

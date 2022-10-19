@@ -166,8 +166,8 @@ bottom-feeders like us have to take.<$12><$00>
 
 
 //この星は、いいよ<$12>\n<CLEAR>まだ、ドキドキすることが　いっぱい\nあるからよ…　ちょっと気を抜くと\n気軽に死神が　キスしに来やがんの<$12>\n<CLEAR>どうせなら　骨のカケラも残さず\n自分よか　ずっと強いヤツに丸ごと\n喰われて　死にてぇよなぁ<$12><$00>
-This planet's great.There's still a lot of stuff it has to keep\n
-you on your toes. <$12>\n
+This planet's great.\n
+There's still a lot of stuff it has to keep you on your toes. <$12>\n
 <CLEAR>Leave your guard down a bit, and now the Grim Reaper is\n
 sneaking up to give her sweet kiss of death.<$12>\n
 <CLEAR>If I have no choice but to die, I'd like to be eaten up\n
@@ -183,9 +183,9 @@ will be back here in 6 months to do it all again.<$12><$00>
 
 //秋になると　西風に乗って\nＧ<$06>－01<$04>の半島の　近くの海に\n<$1B>ツバメの群れが　現れるんだ<$12>\n<CLEAR>彼らは　旅人なのさ\n俺たち人間と　同じようにね<$12>\n<CLEAR>違うのは　<$1B>ツバメには\n行く当てが　あるだろうけど、\n俺たちには　ねェってことくらいさ<$12><$00>
 Next autumn, ride the western sea to the G<$06>－01<$04> peninsula\n
-and watch the swallows.<$12>\n
+and watch the <$1B>swallows.<$12>\n
 <CLEAR>They're nomads, just like us.<$12>\n
-<CLEAR>The difference is, swallows have a good sense of where\n
+<CLEAR>The difference is, <$1B>swallows have a good sense of where\n
 they're going, while we humans don't.<$12><$00>
 
 
@@ -265,27 +265,27 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen found the <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Ken found the <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen acquired <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Ken acquired <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen found the <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Ken found the <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen acquired <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Ken acquired <$1D>!<$14><$12><$00>
 
 
 #WRITE(PTR, $002C)
@@ -371,10 +371,10 @@ hearts to customers to do well instead.<$12><$00>
 
 
 //<CLEAR>湖で<$1B>カメのわきへ　レンタ・<$1B>イルカから\n降りるのと、スパームリナの毒沼の中で\nひとりで　野営するのと…<$12>\n<CLEAR>パーティの　罰ゲームには\nどっちがいいかな？　あんた、どう思う？\n<$01><$1B>カメのわき<$0E>／<$01>毒沼で野営<$0E><$00>
-<CLEAR>If you had to pick between "crossingturtles on\n
-dolphinback", or "camping in Spurr Marina alone"...<$12>\n
+<CLEAR>If you had to pick between "crossing<$1B>turtles on\n
+<$1B>dolphinback", or "camping in Spurr Marina alone"...<$12>\n
 <CLEAR>Which one's the better penalty game, you think?\n
-<$01>//<$1B>Crossing turtles<$0E> / <$01>Camping alone<$0E><$00>
+<$01><$1B>Crossing turtles<$0E> / <$01>Camping alone<$0E><$00>
 
 
 //<CLEAR>じゃ、あんた\nシャレですむか　どうか\nちょっと　試して来てくんないか？<$12><$00>
@@ -445,7 +445,7 @@ bigger target than you would be camping outside.<$12><$00>
 
 #WRITE(PTR, $0032)
 //<$15>Yホテル<$00>
-<$15>YHotel<$00>
+<$15><$59>Hotel<$00>
 
 
 //<CLEAR>お気をつけて！<$12><$00>
@@ -480,7 +480,7 @@ a room for <$1D><$06><$1E><$04><$14>￥?\n
 
 
 //<$15>YＢＡＲ<$00>
-<$15>YBar<$00>
+<$15><$59>Bar<$00>
 
 
 //<CLEAR>何になさいます？　どれでも<$1D><$06><$1E><$04><$14>￥です\n<$01><$1D><$1D><$02>98<$0E>／<$01><$1D><$1D><$02>210<$0E>\n<$01><$1D><$1D><$02>98<$0E>／<$01>どれもいらない<$0E><$00>
@@ -669,7 +669,7 @@ wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>

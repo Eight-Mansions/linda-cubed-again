@@ -10,8 +10,8 @@
 #WRITE(PTR, $0024)
 #WRITE(PTR, $0026)
 //<CLEAR><$1C>Aは\n<$1C>Kを　飛び越えて\n反対側に　着地した∥<$00>
-<CLEAR><$1C>A\n
-sprang over <$1C>K\n
+<CLEAR><$1C><$41>\n
+sprang over <$1C><$4B>\n
 and landed on the other side!<$00>
 
 
@@ -177,12 +177,12 @@ wife with his own hands.<$12><$00>
 
 
 //この町、ご自慢の「<$1B>トラの爪」って\nスゴい希少価値の　武器なんだってね<$12>\n<CLEAR>材料になる<$1B>トラ自身、今じゃ\n数が少ないし、運良く見つけても\nオス<$06>10<$04>頭は　捕まえるのは無理よ<$12>\n<CLEAR>だって、<$1B>トラのオスって\n<$1B>ライオンの群れが　逃げ出すくらい\nケタ違いの　攻撃力って話なんだもん<$12><$00>
-The village's prized Tiger Claw is a rare and powerful\n
+The village's prized <$1B>Tiger Claw is a rare and powerful\n
 weapon.<$12>\n
-<CLEAR>Because Tigers are so rare now, it's nigh impossible to\n
+<CLEAR>Because <$1B>Tigers are so rare now, it's nigh impossible to\n
 catch the <$06>10<$04> needed to craft one.<$12>\n
-<CLEAR>It would be worth it, because tiger males hit far\n
-harder than their lion counterparts.<$12><$00>
+<CLEAR>It would be worth it, because <$1B>tiger males hit far\n
+harder than their <$1B>lion counterparts.<$12><$00>
 
 
 //どうだい？　私の犬、かわいいだろ？\nこのコたちは、鬼ごっこが好きでね\n<$01>俺も好きですよ<$0E>／<$01>俺は大嫌いだ∥<$0E><$00>
@@ -235,45 +235,45 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR><$19>1<$15>S扉には鍵がかかっている<$14><$12><$00>
-<CLEAR><$19>1<$15>SThe door is locked.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>The door is locked.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは、「教会の鍵」を使った<$14><$12><$00>
-<CLEAR><$19>1<$15>SKen used the Church Key.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Ken used the Church Key.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S何も　見つからなかった<$14><$12><$00>
-<CLEAR><$19>1<$15>SNothing was found.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Nothing was found.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen found the <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Ken found the <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen acquired <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Ken acquired <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen found the <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Ken found the <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen acquired <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Ken acquired <$1D>!<$14><$12><$00>
 
 
 //コシカタ復興<$06>10<$04>周年の　記念祭を\nやることに　決まったんだって！<$12>\n<CLEAR>例の事件のどさくさで　紛失してた\nこの町のお守りの品、「<$1B>トラの爪」も\n見つかったそうだし　盛り上がるわよ<$12><$00>
 The village wishes to hold a <$06>10<$04>th anniversary festival for\n
 the Koshikata restoration!<$12>\n
-<CLEAR>With the Tiger Claw found in the hustle and bustle too,\n
+<CLEAR>With the <$1B>Tiger Claw found in the hustle and bustle too,\n
 we're back to normal! <$12><$00>
 
 
@@ -312,23 +312,23 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR><$19>1<$15>S扉には鍵がかかっている<$14><$12><$00>
-<CLEAR><$19>1<$15>SThe door is locked.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>The door is locked.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは、「教会の鍵」を使った<$14><$12><$00>
-<CLEAR><$19>1<$15>SKen used the Church Key.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Ken used the Church Key.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen found the <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Ken found the <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen acquired <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Ken acquired <$1D>!<$14><$12><$00>
 
 
 //あたしら、ビースチャンや動物たちは\n大地の底で生まれて　井戸を通って\n地上に　上ってきたってね…<$12>\n<CLEAR>年寄りの中には　今でも本気で\nそう信じてる人が　いるみたいね<$12><$00>
@@ -520,31 +520,31 @@ here, he stopped.<$12><$00>
 
 
 //<CLEAR><$15>W○ボタンで肉を投げます<$00>
-<CLEAR><$15>W○ button: Throw meat<$00>
+<CLEAR><$15><$57>○ button: Throw meat<$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen found the <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Ken found the <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen acquired <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Ken acquired <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen found the <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Ken found the <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen acquired <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Ken acquired <$1D>!<$14><$12><$00>
 
 
 #WRITE(PTR, $0038)
@@ -614,7 +614,7 @@ wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
@@ -697,7 +697,7 @@ are dead head!<$00>
 
 
 //<$15>Yスケジュール<$00>
-<$15>YMemo <$00>
+<$15><$59>Memo <$00>
 
 
 //<CLEAR>スケジュールは何もありません<$12><$00>
@@ -737,11 +737,11 @@ Assist Panheim<$00>
 
 
 //<$1B>カメの卵を手に入れる<$00>
-Snatch Turtle Eggs<$00>
+<$1B>Snatch Turtle Eggs<$00>
 
 
 //<$1B>プテラノの卵を手に入れる<$00>
-Snatch Pteranodon Eggs<$00>
+<$1B>Snatch Pteranodon Eggs<$00>
 
 
 //遺産争いにケリをつける<$00>
@@ -778,17 +778,17 @@ Hardia Hotel.<$00>
 
 
 //<CLEAR>マーブルポリスの<$1B>ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す<$00>
-<CLEAR>Process meat from chickens in Marblopolis.Give them to\n
+<CLEAR>Process meat from <$1B>chickens in Marblopolis.Give them to\n
 Prof. Panheim in Hospico.<$00>
 
 
 //<CLEAR><$1B>カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す<$00>
-<CLEAR>Find up to 3 Turtle Eggs. Give them to Louis at the Battle\n
+<CLEAR>Find up to 3 <$1B>Turtle Eggs. Give them to Louis at the Battle\n
 Park BB Ranch.<$00>
 
 
 //<CLEAR><$1B>プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す<$00>
-<CLEAR>Acquire 2 Pteranodon Eggs. Give them to Bronco at the\n
+<CLEAR>Acquire 2 <$1B>Pteranodon Eggs. Give them to Bronco at the\n
 Battle Park BB Ranch.<$00>
 
 
@@ -810,7 +810,7 @@ another <$06><$1E><$0F><$04><$00>
 
 
 //<CLEAR>コシカタのシンボル「<$1B>トラの爪」を\n見つけだし、ポリスカに渡す<$00>
-<CLEAR>Find the Tiger Claw, Koshikata's village symbol. Return it\n
+<CLEAR>Find the <$1B>Tiger Claw, Koshikata's village symbol. Return it\n
 to Poliska.<$00>
 
 
@@ -939,7 +939,7 @@ I know, because I just "reported" it.<$12><$00>
 
 
 //<$15>Y貸しワナ屋<$00>
-<$15>YTrapping Service<$00>
+<$15><$59>Trapping Service<$00>
 
 
 //<CLEAR>どんな獲物が　捕まっているか\nドキドキしながら　待つ今が\n一番、楽しゅうございますですね<$12><$00>
@@ -973,7 +973,7 @@ once you're ready.<$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>ケンは「貸しワナ」を受け取った<$14><$12><$00>
-<CLEAR><$19>1<$15>S<CLEAR>Ken received\n
+<CLEAR><$19><$31><$15><$53><CLEAR>Ken received\n
 the Rental Trap!<$14><$12><$00>
 
 
@@ -1044,26 +1044,26 @@ set Makeshift Trap.<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「貸しワナ」を調べた<$12>\n<CLEAR>まだ動物は　かかっていない\nケンは　がっかりしながら\n「貸しワナ」を　元に戻した<$12><$00>
-<CLEAR><$19><$15>SKen inspected the Rental Trap.<$12>\n
+<CLEAR><$19><$31><$15><$53>Ken inspected the Rental Trap.<$12>\n
 <CLEAR>No bites yet...\n
 Ken whistfully put down the Money Trap.<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「自前のワナ」を調べた<$12><$00>
-<CLEAR><$19><$15>SKen inspected the Makeshift Trap.<$12><$00>
+<CLEAR><$19><$31><$15><$53>Ken inspected the Makeshift Trap.<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sまだ動物はかかっていない\nケンは　がっかりしながら\n「自前のワナ」を　元に戻した<$12><$00>
-<CLEAR><$19><$15>No bites yet...\n
+<CLEAR><$19><$31><$15><$53>No bites yet...\n
 Ken whistfully put down the Makeshift Trap.<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sワナは\n壊されていた…<$12><$00>
-<CLEAR><$19><$15>SThe trap was destroyed...<$12><$00>
+<CLEAR><$19><$31><$15><$53>The trap was destroyed...<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sだが、トランスカーゴがいっぱいなので\nとりあえず　あきらめた…<$12><$00>
-<CLEAR><$19><$15>S/However, the TCU was already full, so Ken let it go.<$12><$00>
+<CLEAR><$19><$31><$15><$53>However, the TCU was already full, so Ken let it go.<$12><$00>
 
 
 //<CLEAR><$00>

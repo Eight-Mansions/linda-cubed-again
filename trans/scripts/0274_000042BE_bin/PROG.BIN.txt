@@ -222,11 +222,11 @@ Fountain of Lovers?\n
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>ケンは　１￥を\n泉に投げ入れた！<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Ken tossed １￥ into the fountain!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Ken tossed １￥ into the fountain!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>ケンは　お金を投げるフリをした<$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Ken pretended to toss a coin.<$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Ken pretended to toss a coin.<$12><$00>
 
 
 //箱船の乗員の男のほう、結局のとこ\n志願者がなくて　レンジャー隊から\n出すことに　なりそうなんだってねぇ？<$12>\n<CLEAR>命、賭けるほど　イイ給料を\nもらってるわけでも　ないだろうに…\nたいへんだねぇ　あんたたちも…<$12><$00>
@@ -270,7 +270,7 @@ Please? Pretty please?\n
 
 
 //<CLEAR><$19>1<$15>Sケンは、猟犬「<$1D>」を手に入れた！<$14><$12><$00>
-<CLEAR><$19><$15>SKen acquired the dog, <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Ken acquired the dog, <$1D>!<$14><$12><$00>
 
 
 //<CLEAR>……………………<$12><$00>
@@ -305,7 +305,7 @@ his lonesome, so he stopped.<$12><$00>
 
 
 //<CLEAR><$19>1<$15>S鍵がかかっている\n留守のようだ<$14><$12><$00>
-<CLEAR><$19>1<$15>SThe door is locked.\n
+<CLEAR><$19><$31><$15><$53>The door is locked.\n
 Looks like no one's home.<$14><$12><$00>
 
 
@@ -330,7 +330,7 @@ Can you sign this for me?\n
 
 
 //<CLEAR><$19>1<$15>Sケンは色紙に　慣れないサインを\nそれらしく　書いてみた…<$14><$12>\n<CLEAR>ケン？　あぁぁぁぁ！　ひどい！\nあんた「ネクちゃん」の　ニセ者ね！<$12><$00>
-<CLEAR><$19><$15>SKen awkwardly scribbled his name on the signboard.<$14><$12>\n
+<CLEAR><$19><$31><$15><$53>Ken awkwardly scribbled his name on the signboard.<$14><$12>\n
 <CLEAR>"Ken"?! Augh, this sucks!\n
 You're just a cheap copycat of my Nekkie!<$12><$00>
 
@@ -560,7 +560,7 @@ wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
@@ -643,7 +643,7 @@ are dead head!<$00>
 
 
 //<$15>Yスケジュール<$00>
-<$15>YMemo <$00>
+<$15><$59>Memo <$00>
 
 
 //<CLEAR>スケジュールは何もありません<$12><$00>
@@ -683,11 +683,11 @@ Assist Panheim<$00>
 
 
 //<$1B>カメの卵を手に入れる<$00>
-Snatch Turtle Eggs<$00>
+<$1B>Snatch Turtle Eggs<$00>
 
 
 //<$1B>プテラノの卵を手に入れる<$00>
-Snatch Pteranodon Eggs<$00>
+<$1B>Snatch Pteranodon Eggs<$00>
 
 
 //遺産争いにケリをつける<$00>
@@ -724,17 +724,17 @@ Hardia Hotel.<$00>
 
 
 //<CLEAR>マーブルポリスの<$1B>ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す<$00>
-<CLEAR>Process meat from chickens in Marblopolis.Give them to\n
+<CLEAR>Process meat from <$1B>chickens in Marblopolis.Give them to\n
 Prof. Panheim in Hospico.<$00>
 
 
 //<CLEAR><$1B>カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す<$00>
-<CLEAR>Find up to 3 Turtle Eggs. Give them to Louis at the Battle\n
+<CLEAR>Find up to 3 <$1B>Turtle Eggs. Give them to Louis at the Battle\n
 Park BB Ranch.<$00>
 
 
 //<CLEAR><$1B>プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す<$00>
-<CLEAR>Acquire 2 Pteranodon Eggs. Give them to Bronco at the\n
+<CLEAR>Acquire 2 <$1B>Pteranodon Eggs. Give them to Bronco at the\n
 Battle Park BB Ranch.<$00>
 
 
@@ -756,7 +756,7 @@ another <$06><$1E><$0F><$04><$00>
 
 
 //<CLEAR>コシカタのシンボル「<$1B>トラの爪」を\n見つけだし、ポリスカに渡す<$00>
-<CLEAR>Find the Tiger Claw, Koshikata's village symbol. Return it\n
+<CLEAR>Find the <$1B>Tiger Claw, Koshikata's village symbol. Return it\n
 to Poliska.<$00>
 
 

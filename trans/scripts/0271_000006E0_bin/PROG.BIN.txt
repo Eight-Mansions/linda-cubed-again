@@ -821,7 +821,7 @@ wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
@@ -904,21 +904,20 @@ are dead head!<$00>
 
 
 //<CLEAR><$19>1<$15>S首の長い　獣人像がある<$14><$12><$00>
-<CLEAR><$19>1<$15>SIt's a long-necked Beastman statue.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>It's a long-necked Beastman statue.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S「獣人の首飾り」を　かけますか？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
-<CLEAR><$19><$15>SHang the Beastman Necklace?\n
+<CLEAR><$19><$31><$15><$53>SHang the Beastman Necklace?\n
 <$01>Yes<$0E> / <$01>No<$0E><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは　首の長い獣人像に\n「獣人の首飾り」を　かけた<$12><$00>
-<CLEAR><$19><$15>SKen placed the Beastman Necklace on the Beastman statue.<$12><$00>
+<CLEAR><$19><$31><$15><$53>Ken placed the Beastman Necklace on the Beastman statue.<$12><$00>
 
 
 //<CLEAR><$19>1<$15>S目の前の　獣人像には\n首飾りが　しっかりと　はまっている<$12><$00>
-<CLEAR><$19>1<$15>SThe Beastman statue has a necklace hanging from its\n
-neck.<$12><$00>
+<CLEAR><$19><$31><$15><$53>The Beastman statue has a necklace hanging from its neck.<$12><$00>
 
 
 //青い<$00>
@@ -942,27 +941,27 @@ Silver<$00>
 
 
 //<CLEAR><$19>1<$15>S<$1D>台座に　「<$1D>」が\nはまっている<$12><$00>
-<CLEAR><$19>1<$15>S<$1D>A <$1D> rests on the pedestal.<$12><$00>
+<CLEAR><$19><$31><$15><$53><$1D>A <$1D> rests on the pedestal.<$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<$1D>台座が　ある<$12><$00>
-<CLEAR><$19><$15><$1D> imprints mark the pedestal.<$12><$00>
+<CLEAR><$19><$31><$15><$53><$1D> imprints mark the pedestal.<$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<$1D>台座に　「<$1D>」を\nはめこみますか？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
-<CLEAR><$19><$15>S<$1D>...? Put the <$1D>\n
+<CLEAR><$19><$31><$15><$53><$1D>...? Put the <$1D>\n
 on this pedestal?\n
 <$01>Yes<$0E> / <$01>No<$0E><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは　<$1D>台座に\n「<$1D>」を　はめ込んだ<$12><$00>
-<CLEAR><$19><$15>SKen put the\n
+<CLEAR><$19><$31><$15><$53>Ken put the\n
 <$1D><$1D>\n
 on the pedestal.<$12><$00>
 
 
 //<$15>Yスケジュール<$00>
-<$15>YMemo <$00>
+<$15><$59>Memo <$00>
 
 
 //<CLEAR>スケジュールは何もありません<$12><$00>
@@ -1002,11 +1001,11 @@ Assist Panheim<$00>
 
 
 //<$1B>カメの卵を手に入れる<$00>
-Snatch Turtle Eggs<$00>
+<$1B>Snatch Turtle Eggs<$00>
 
 
 //<$1B>プテラノの卵を手に入れる<$00>
-Snatch Pteranodon Eggs<$00>
+<$1B>Snatch Pteranodon Eggs<$00>
 
 
 //遺産争いにケリをつける<$00>
@@ -1043,17 +1042,17 @@ Hardia Hotel.<$00>
 
 
 //<CLEAR>マーブルポリスの<$1B>ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す<$00>
-<CLEAR>Process meat from chickens in Marblopolis.Give them to\n
+<CLEAR>Process meat from <$1B>chickens in Marblopolis.Give them to\n
 Prof. Panheim in Hospico.<$00>
 
 
 //<CLEAR><$1B>カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す<$00>
-<CLEAR>Find up to 3 Turtle Eggs. Give them to Louis at the Battle\n
+<CLEAR>Find up to 3 <$1B>Turtle Eggs. Give them to Louis at the Battle\n
 Park BB Ranch.<$00>
 
 
 //<CLEAR><$1B>プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す<$00>
-<CLEAR>Acquire 2 Pteranodon Eggs. Give them to Bronco at the\n
+<CLEAR>Acquire 2 <$1B>Pteranodon Eggs. Give them to Bronco at the\n
 Battle Park BB Ranch.<$00>
 
 
@@ -1075,7 +1074,7 @@ another <$06><$1E><$0F><$04><$00>
 
 
 //<CLEAR>コシカタのシンボル「<$1B>トラの爪」を\n見つけだし、ポリスカに渡す<$00>
-<CLEAR>Find the Tiger Claw, Koshikata's village symbol. Return it\n
+<CLEAR>Find the <$1B>Tiger Claw, Koshikata's village symbol. Return it\n
 to Poliska.<$00>
 
 

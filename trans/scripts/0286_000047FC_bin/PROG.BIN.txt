@@ -123,15 +123,15 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen found the <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Ken found the <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen acquired <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Ken acquired <$1D>!<$14><$12><$00>
 
 
 //<CLEAR>ごめんなさいね　ケンちゃん\nうちの娘ったら　昔からいつも\nあなたにばかり面倒かけて…<$00>
@@ -218,23 +218,23 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen found the <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Ken found the <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen acquired <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Ken acquired <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S扉には「思い出の鍵」が\nかかっている<$14><$12><$00>
-<CLEAR><$19><$15>SA Precious Key is needed to open this door.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>A Precious Key is needed to open this door.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは、「思い出の鍵」を使った<$14><$12><$00>
-<CLEAR><$19><$15>SKen used the Precious Key.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Ken used the Precious Key.<$14><$12><$00>
 
 
 //見覚えのある写真が　ある<$12><$00>
@@ -248,7 +248,7 @@ PICT01.TIM
 
 
 //<$1B>クマのぬいぐるみが　ある<$12><$00>
-It's a teddy bear.<$12><$00>
+<$1B>It's a teddy bear.<$12><$00>
 
 
 //変わったデザインの\nウエディングドレスが　ある<$12><$00>
@@ -256,7 +256,7 @@ It's a wedding dress of exotic design.<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダの日記のようだ…\n開いてみますか？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$14><$00>
-<CLEAR><$19><$15>SThis must be Linda's diary. Read it?\n
+<CLEAR><$19><$31><$15><$53>This must be Linda's diary. Read it?\n
 <$01>Yes<$0E> / <$01>No<$0E><$14><$00>
 
 
@@ -414,7 +414,7 @@ Stored messages: <$1E>.<$12><$00>
 
 
 //<CLEAR>現在の預金残高は<$15>R<$06><$1D><$04><$14>￥です\n追加融資はできません<$12><$00>
-<CLEAR>Acct balance: <$15>R<$06><$1D><$04><$14>￥\n
+<CLEAR>Acct balance: <$15><$52><$06><$1D><$04><$14>￥\n
 Loans unavailable.<$12><$00>
 
 
@@ -475,7 +475,7 @@ TUCHO_1.TMZ
 
 
 //<CLEAR><$04><$09>1<$15>H<$00>
-<CLEAR><$04><$09>1<$15>H<$00>
+<CLEAR><$04><$09>1<$15><$48><$00>
 
 
 //引き出し<$00>
@@ -516,11 +516,11 @@ Arena Pay<$00>
 
 //\n<$02>8<$1E>34<$06>・<$04><$1D><$02>58<$1D><$02>118<$06><$15>H<$1D><$00>
 \n
-<$02>8<$1E>34<$06>・<$04><$1D><$02>58<$1D><$02>118<$06><$15>H<$1D><$00>
+<$02>8<$1E>34<$06>・<$04><$1D><$02>58<$1D><$02>118<$06><$15><$48><$1D><$00>
 
 
 //<$02>202<$1D><$1D><$15>H<$00>
-<$02>202<$1D><$1D><$15>H<$00>
+<$02>202<$1D><$1D><$15><$48><$00>
 
 
 //<CLEAR>オズサット気象予報部発表\n各地の<$1D>の天気です<$12><$00>
@@ -568,7 +568,7 @@ Join our <$1D> Lottery for a chance at <$06>100000<$04>￥!<$12><$00>
 
 
 //<$15>Y記録ファイル選択<$00>
-<$15>YFile Select<$00>
+<$15><$59>File Select<$00>
 
 
 //<CLEAR>未登録ファイルです\n記録しますか？<$00>
@@ -631,17 +631,17 @@ Do not remove the card\n
 
 //\n<$15>W<$01>◇<$0E>　やめとく<$00>
 \n
-<$15>W<$01>◇<$0E> Exit<$00>
+<$15><$57><$01>◇<$0E> Exit<$00>
 
 
 //\n<$15>W<$01>◇<$0E>　メニューへ\n<$01>◇<$0E>　電話を切る<$00>
 \n
-<$15>W<$01>◇<$0E>Menu\n
+<$15><$57><$01>◇<$0E>Menu\n
 <$01>◇<$0E>Hang up<$00>
 
 
 //<$15>Yスロット<$1E><$06>:<$04>記録<$06>ファイル<$04>選択<$00>
-<$15>YSlot <$1E><$06>:<$04> <$06> File <$04>Select<$00>
+<$15><$59>Slot <$1E><$06>:<$04> <$06> File <$04>Select<$00>
 
 
 //<CLEAR><$00>
@@ -649,7 +649,7 @@ Do not remove the card\n
 
 
 //<$15>b<$01><$06><$1E>.<$0E><$04>    （未登録です）\n<$00>
-<$15>b<$01><$06><$1E>.<$0E><$04> (NOT IN USE)\n
+<$15><$62><$01><$06><$1E>.<$0E><$04> (NOT IN USE)\n
 <$00>
 
 
@@ -662,16 +662,16 @@ Do not remove the card\n
 
 
 //<$15>W<$01><$06><$1E>.<$0E> <$1D> <$06>199<$1E><$04>年<$1D>　<$1D><$02>164<$06><$1E>35<$04>種登録　難<$1E>\n<$00>
-<$15>W<$01><$06><$1E>. <$0E> <$1D> <$06>199<$1E><$04>, <$1D>　<$1D><$02>164<$06><$1E>35<$04> filed (Mode <$1E>)\n
+<$15><$57><$01><$06><$1E>. <$0E> <$1D> <$06>199<$1E><$04>, <$1D>　<$1D><$02>164<$06><$1E>35<$04> filed (Mode <$1E>)\n
 <$00>
 
 
 //<$15>W<$01>◇<$08>2<$0E>　やめとく<$00>
-<$15>W<$01>◇<$08>2<$0E> Exit<$00>
+<$15><$57><$01>◇<$08>2<$0E> Exit<$00>
 
 
 //<$15>W<$01>◇<$08>2<$0E>　メニューへ   <$01>◇<$08>2<$0E>　電話を切る<$00>
-<$15>W<$01>◇<$08>2<$0E> Menu   <$01>◇<$08>2<$0E> Hang up<$00>
+<$15><$57><$01>◇<$08>2<$0E> Menu   <$01>◇<$08>2<$0E> Hang up<$00>
 
 
 //……東<$00>
@@ -739,7 +739,7 @@ wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
@@ -903,7 +903,7 @@ dinner<$00>
 
 
 //<$15>Yスケジュール<$00>
-<$15>YMemo <$00>
+<$15><$59>Memo <$00>
 
 
 //<CLEAR>スケジュールは何もありません<$12><$00>
@@ -943,11 +943,11 @@ Assist Panheim<$00>
 
 
 //<$1B>カメの卵を手に入れる<$00>
-Snatch Turtle Eggs<$00>
+<$1B>Snatch Turtle Eggs<$00>
 
 
 //<$1B>プテラノの卵を手に入れる<$00>
-Snatch Pteranodon Eggs<$00>
+<$1B>Snatch Pteranodon Eggs<$00>
 
 
 //遺産争いにケリをつける<$00>
@@ -984,17 +984,17 @@ Hardia Hotel.<$00>
 
 
 //<CLEAR>マーブルポリスの<$1B>ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す<$00>
-<CLEAR>Process meat from chickens in Marblopolis.Give them to\n
+<CLEAR>Process meat from <$1B>chickens in Marblopolis.Give them to\n
 Prof. Panheim in Hospico.<$00>
 
 
 //<CLEAR><$1B>カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す<$00>
-<CLEAR>Find up to 3 Turtle Eggs. Give them to Louis at the Battle\n
+<CLEAR>Find up to 3 <$1B>Turtle Eggs. Give them to Louis at the Battle\n
 Park BB Ranch.<$00>
 
 
 //<CLEAR><$1B>プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す<$00>
-<CLEAR>Acquire 2 Pteranodon Eggs. Give them to Bronco at the\n
+<CLEAR>Acquire 2 <$1B>Pteranodon Eggs. Give them to Bronco at the\n
 Battle Park BB Ranch.<$00>
 
 
@@ -1016,7 +1016,7 @@ another <$06><$1E><$0F><$04><$00>
 
 
 //<CLEAR>コシカタのシンボル「<$1B>トラの爪」を\n見つけだし、ポリスカに渡す<$00>
-<CLEAR>Find the Tiger Claw, Koshikata's village symbol. Return it\n
+<CLEAR>Find the <$1B>Tiger Claw, Koshikata's village symbol. Return it\n
 to Poliska.<$00>
 
 
@@ -1076,7 +1076,7 @@ to Mario in Spurr Valley.<$00>
 
 #WRITE(PTR, $0028)
 //<$15>Y留守番コール<$00>
-<$15>YVoicemail<$00>
+<$15><$59>Voicemail<$00>
 
 
 //<$01>終了<$0E><$00>
@@ -1158,23 +1158,23 @@ you're taking notes.<$12><$00>
 <CLEAR>Some years ago, an expedition was held in W<$06>-17<$04>. A temple,\n
 Marblopolis, was hotly discovered.<$12>\n
 <CLEAR>Recently, that temple's garden was overrun by wild\n
-chickens, and I need 2 or so's worth of meat.<$12>\n
+<$1B>chickens, and I need 2 or so's worth of meat.<$12>\n
 <CLEAR>Temple garden,\n
-2 pieces of chicken meat.<$12><$00>
+2 pieces of <$1B>chicken meat.<$12><$00>
 
 
 //<CLEAR>………………………<$12>\n<CLEAR>庭の、２羽の<$1B>ニワトリの肉だよ<$12>\n<CLEAR>いや別に　肉は３つでも　いいのだが\n君たちが　覚えやすいように　私なりに\n工夫して言ったつもりだったんだ…<$12><$00>
 <CLEAR>............<$12>\n
-<CLEAR>Temple garden, 2 pieces of chicken meat.<$12>\n
+<CLEAR>Temple garden, 2 pieces of <$1B>chicken meat.<$12>\n
 <CLEAR>I won't say no to 3, but I figure 2 is easy enough to\n
 remember.<$12><$00>
 
 
 //<CLEAR>………………………<$12>\n<CLEAR>実は　妻が病気でね…\n<$1B>ニワトリを　材料にすれば　イイ薬が\n作れそうな　気がするんだ…<$12>\n<CLEAR>ホスピコの　わしの研究所まで\n至急、<$1B>ニワトリの肉を２つ　よろしくね\nエターナじゃないよ…　いいね<$12><$00>
 <CLEAR>..................<$12>\n
-<CLEAR>If you must know, my wife is ill. With chicken, I hope to\n
+<CLEAR>If you must know, my wife is ill. With <$1B>chicken, I hope to\n
 concoct a viable cure for her.<$12>\n
-<CLEAR>My research lab is in Hospico. Bring the chicken there,\n
+<CLEAR>My research lab is in Hospico. Bring the <$1B>chicken there,\n
 not to Eterna. Am I clear?<$12><$00>
 
 

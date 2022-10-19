@@ -190,8 +190,8 @@ OzPort Gate 1F <$00>
 
 //この町の周辺で　ご覧いただける動物は\n<$1B>イカ、<$1B>ダチョウです<$12>\n<CLEAR><$1B>イカは　近寄らない限り、危険は\nありませんが　念のためレベル６以上の\nガイドと　同行してください<$12><$00>
 Notable animals in the area are\n
-squids and ostriches.<$12>\n
-<CLEAR>Squids are only dangerous when provoked,\n
+<$1B>squids and <$1B>ostriches.<$12>\n
+<CLEAR><$1B>Squids are only dangerous when provoked,\n
 but we still recommend that tourists hire escorts LVL 6\n
 or higher.<$12><$00>
 
@@ -310,10 +310,10 @@ Hardia Gate 1F <$00>
 
 //この町の周辺で　見られる動物は\n<$1B>ブタ、<$1B>ダチョウです\n秋には<$1B>トンボの群れも楽しめます<$12>\n<CLEAR>観光のお客様は　レベル２以上の\nガイドか　ハンターとの\n外出を　おすすめします<$12>\n<CLEAR><$1B>イヌには　注意してくださいね<$12><$00>
 Notable animals in the area are\n
-pigs, ostriches and dragonflies.<$12>\n
+<$1B>pigs, <$1B>ostriches <$1B>and dragonflies.<$12>\n
 <CLEAR>We advise all tourists to hire\n
 an escort LVL 2 or higher.<$12>\n
-<CLEAR>Also, please watch your dogs!<$12><$00>
+<CLEAR><$1B>Also, please watch your dogs!<$12><$00>
 
 
 //<CLEAR>お預かりできるのは　全部で３２個\n肉、植物、卵などの　ナマモノは\n原則として　お預かりできません<$12>\n<CLEAR>お預かりした物は　全国のどこの\nトランクルームからも　お引き出しが\n可能となって　おります<$12><$00>
@@ -444,7 +444,7 @@ Minago Gate 1F <$00>
 
 //この町の周辺で　見られる動物は\n<$1B>ブタ、<$1B>リスです<$12>\n<CLEAR>観光のお客様は　レベル４以上の\nガイドか　ハンターとの\n外出を　おすすめします<$12>\n<CLEAR>南の海岸には　野犬の巣がありますので\n危険ですから　近づかないでください<$12><$00>
 Notable animals in the area are\n
-pigs and squirrels.<$12>\n
+<$1B>pigs and <$1B>squirrels.<$12>\n
 <CLEAR>We advise all tourists to hire an escort LVL 4 or higher.<$12>\n
 <CLEAR>Finally, there's a stray dogs' den along the southern coast.\n
 We advise you stay away.<$12><$00>
@@ -516,7 +516,7 @@ its bell tower!<$12><$00>
 
 
 //<CLEAR><$1B>プテラノ鳥の　仕入れと調教の方法は\n我社の　トップシークレットなの\n教えたりしたら　クビになっちゃうわ<$12>\n<CLEAR>でも　きっと、あなたには\n近いうちに　バレちゃうわね<$12><$00>
-<CLEAR>How we capture and tame our Pteranobirds remains a\n
+<CLEAR><$1B>How we capture and tame our Pteranobirds remains a\n
 strict company secret.<$12>\n
 <CLEAR>But that doesn't mean you can't find a way to do it too!<$12><$00>
 
@@ -564,8 +564,8 @@ Hospico Gate 1F <$00>
 
 //この町の周辺で　ご覧いただけるのは\n<$1B>カニ、<$1B>モグラ、<$1B>オコゼ、<$1B>サル<$12>\n<CLEAR>近寄らなければ　<$1B>サル以外の動物は\nとくに　危険はありません<$12>\n<CLEAR>ご心配の方は　７レベル以上の\nハンターか　ガイドを\nお雇いくださいませ<$12><$00>
 Notable animals in the area are\n
-crabs, moles, stonefish and monkeys.<$12>\n
-<CLEAR>Excluding the monkeys, animals nearby shouldn't approach\n
+<$1B>crabs, <$1B>moles, <$1B>stonefish and <$1B>monkeys.<$12>\n
+<CLEAR>Excluding the <$1B>monkeys, animals nearby shouldn't approach\n
 you.<$12>\n
 <CLEAR>If you're still nervous, hire an escort LVL 7 or higher.<$12><$00>
 
@@ -669,12 +669,12 @@ Paraside Gate 1F <$00>
 
 //この町の周辺で　見られる動物は\n<$1B>ウサギ、<$1B>モグラ、<$1B>カニです<$12>\n<CLEAR>観光のお客様は　レベル８以上の\nハンターと　ご契約の上、\n外出することを　おすすめします<$12><$00>
 Notable animals in the area are\n
-rabbits, moles and crabs.<$12>\n
+<$1B>rabbits, <$1B>moles and <$1B>crabs.<$12>\n
 <CLEAR>We advise all tourists to hire an escort LVL 8 or higher.<$12><$00>
 
 
 //<CLEAR><$1B>カニから作る装備は　けっこう、\nバランスも良くて　使えるらしいね<$12><$00>
-<CLEAR>Equipment crafted from crabs is usually real balanced\n
+<CLEAR><$1B>Equipment crafted from crabs is usually real balanced\n
 and versatile.<$12><$00>
 
 
@@ -758,9 +758,9 @@ Battle Park Gate 1F <$00>
 
 
 //この町の南では\n<$1B>ノミ、<$1B>ウマ、<$1B>リス<$12>\n<CLEAR>北の湖沼地帯では　<$1B>カバ、<$1B>カメ\n雪が降れば　<$1B>シロクマも\nご覧いただくチャンスが　あります<$12>\n<CLEAR>南は　レベル<$06>10<$04>以上、北へは\nレベル<$06>14<$04>以上の　ハンターを\nぜひ　ご同行の上、おでかけください<$12><$00>
-To the south, you'll find fleas, horses, and squirrels.<$12>\n
-<CLEAR>In the northern wetlands, there are hippos and turtles. In\n
-winter, you might see polar bears.<$12>\n
+To the south, you'll find <$1B>fleas, <$1B>horses, and <$1B>squirrels.<$12>\n
+<CLEAR>In the northern wetlands, there are <$1B>hippos and <$1B>turtles. In\n
+winter, you might see <$1B>polar bears.<$12>\n
 <CLEAR>Hunters should be LVL <$06>10<$04> if heading south, and at least \n
 LVL <$06>14<$04> if heading north.<$12><$00>
 
@@ -861,7 +861,7 @@ Koshikata Gate 1F <$00>
 
 //<CLEAR>－Ｎ・Ｋ・ＮＥＷＳ－　［号外］\nコシカタの幻の秘宝「<$1B>トラの爪」、\nクリスマスに　特別一般公開決定∥<$12>\n<CLEAR>開かれた　ビースチャン社会の確立を\n目指す　コシカタ新町長カニバル氏\n（３２）の英断により、ついに実現∥<$12>\n<CLEAR>同日は　カニバル氏の第１子、第２子の\n出産予定日とも重なっており、３つの\nおめでたに　氏の喜びもひとしお∥<$12><$00>
 <CLEAR>－NK NEWS－\n
-BREAKING! KOSHIKATA UNVEILS PRIDED TIGER CLAW FOR XMAS\n
+BREAKING! KOSHIKATA UNVEILS PRIDED <$1B>TIGER CLAW FOR XMAS\n
 EXHIBIT<$12>\n
 <CLEAR>In efforts to reopen the Beastian village of Koshikata, the\n
 village's new elder, Cannibal(32)...<$12>\n
@@ -872,7 +872,7 @@ three treasures to show off!<$12><$00>
 
 
 //<CLEAR>バトルパークの手前に　珍しく\n<$1B>カメの群れが　陣取ってやがってよ\n危うく　やられるとこだったゼ<$12>\n<CLEAR>体力が落ちてるとか　手持ちの肉が\n足りなそうなら　この近所で野営して\nそれから行くほうが　無難だゼ<$12><$00>
-<CLEAR>A wild pack of turtles have taken over the area surrounding\n
+<CLEAR>A wild pack of <$1B>turtles have taken over the area surrounding\n
 Battle Park.<$12>\n
 <CLEAR>I barely escaped with my life! If you're weak, camp and do\n
 business out here instead.<$12><$00>
@@ -1052,13 +1052,13 @@ Eterna Gate 1F <$00>
 
 
 //この町の周辺では　<$1B>ハイエナ、<$1B>イタチ\n北部では　<$1B>シロクマを\n見ることが　できます<$12>\n<CLEAR>レベル<$06>13<$04>以上の　ガイドかハンターと\n外出することを　おすすめします<$12><$00>
-Around town, you might find hyenas or weasels, with polar\n
+Around town, you might find <$1B>hyenas or <$1B>weasels, with <$1B>polar\n
 bears to the north.<$12>\n
 <CLEAR>We advise all tourists to hire an escort LVL <$06>13<$04> or higher.<$12><$00>
 
 
 //<CLEAR><$1B>ペンギンをあなどると　痛い目にあうよ\n１体１体は　たいしたことないけど\n集団でふぶかれると、あの世行きだ<$12><$00>
-<CLEAR>Don't underestimate penguins. Get caught under a flock of\n
+<CLEAR>Don't underestimate <$1B>penguins. Get caught under a flock of\n
 them, and you're gone.<$12><$00>
 
 
@@ -1097,7 +1097,7 @@ Eterna Gate 2F <$00>
 
 
 //<CLEAR><$1B>イタチは　樹木に化けて\n手頃な獲物が　そばを通るまで\n１年でも２年でも　待ってるそうよ<$12><$00>
-<CLEAR>Weasels hide in trees, sometimes for a year or two, for the\n
+<CLEAR><$1B>Weasels hide in trees, sometimes for a year or two, for the\n
 right targets to approach.<$12><$00>
 
 
@@ -1178,7 +1178,7 @@ Spurr Valley Gate 2F <$00>
 
 //<CLEAR>昔は、口笛で<$1B>プテラノ鳥を　自由に呼ぶ\n人もいたって　ビースチャンの\n友だちが　そっと教えてくれたの…<$12>\n<CLEAR>そんなこと　みんなができた日には\nウチの会社なんて　倒産、間違いなしよ\nもう、心配で…　心配で………<$12>\n<CLEAR>思わず、笑っちゃった∥　アハハハ∥<$12><$00>
 <CLEAR>A Beastian friend of mine told me that long ago, there were\n
-people who were able to call for Pteranobirds by\n
+people who were able to call for <$1B>Pteranobirds by\n
 whistling.<$12>\n
 <CLEAR>If the day comes where everyone learns to do that, our\n
 company would definitely go under! Ah... Haha... Ha?<$12>\n
@@ -1195,8 +1195,7 @@ company would definitely go under! Ah... Haha... Ha?<$12>\n
 
 
 //<$1D>を<$1D>ます\n<$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04>／<$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S￥<$00>
-<$1D> x<$1D> \n
-<$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04> / <$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S￥<$00>
+<$1D> x<$1D><$06><$19><$31><$01><$1A>01<$0E><$15><$53><$19><$30><$04> / <$14><$1E>034<$15><$53><$1D><$14><$02>112<$19><$32><$1E>40<$19><$30><$15><$53>￥<$00>
 
 
 //<$06>T.C.(<$1E>034<$06>)<$00>
@@ -1224,7 +1223,7 @@ company would definitely go under! Ah... Haha... Ha?<$12>\n
 
 
 //<$04><$16><$15>W<$01><$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
-<$04><$16><$15>W<$01><$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
+<$04><$16><$15><$57><$01><$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
 
 
 //<CLEAR>トランスカーゴは　１枠につき\n<$06>99<$04>頭までしか　収容できません<$12><$00>
@@ -1241,7 +1240,7 @@ a <$06>99<$04> species capacity!<$12><$00>
 
 
 //<$15>Y<$06>バードライン／<$1D><$00>
-<$15>Y<$06>Birdline / <$1D><$00>
+<$15><$59><$06>Birdline / <$1D><$00>
 
 
 //今日は　どちらまで　おでかけですか？<$00>
@@ -1405,7 +1404,7 @@ N10.TIM
 
 
 //<$15>Y<$06>バードライン<$04>／道具買う<$00>
-<$15>Y<$06>Birdline<$04>/Buy<$00>
+<$15><$59><$06>Birdline<$04>/Buy<$00>
 
 
 //<CLEAR><$04>行き先<$02>72直行<$02>126乗継<$02>172座標<$00>
@@ -1503,11 +1502,11 @@ H-19
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>・・・・・・・・・・・・∥∥∥<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>.........!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR><CLEAR>.........!<$14><$12><$00>
 
 
 //<$15>Y<$06>トランクルーム<$00>
-<$15>Y<$06>Storage<$00>
+<$15><$59><$06>Storage<$00>
 
 
 //<CLEAR>お客様の財産の安全を　保証する\nトランクルームでごさいます\n<$01>利用する<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
@@ -1526,7 +1525,7 @@ for our world's unmatched luxuries.<$12><$00>
 
 
 //<$15>Y<$06>トランクルームメニュー<$00>
-<$15>Y<$06>Storage Menu<$00>
+<$15><$59><$06>Storage Menu<$00>
 
 
 //<$01>預ける<$0E>\n<$01>引出す<$0E>\n<$01>やめる<$0E><$00>
@@ -1544,7 +1543,7 @@ for our world's unmatched luxuries.<$12><$00>
 
 
 //<$15>Y<$06>トランクルーム<$04>／預ける<$00>
-<$15>Y<$06>Storage<$04>/Store<$00>
+<$15><$59><$06>Storage<$04>/Store<$00>
 
 
 //<CLEAR><$1D>は\n預かれません<$12><$00>
@@ -1552,7 +1551,7 @@ for our world's unmatched luxuries.<$12><$00>
 
 
 //<$15>Y<$06>トランクルーム<$04>／引出す<$00>
-<$15>Y<$06>Storage<$04>/Take<$00>
+<$15><$59><$06>Storage<$04>/Take<$00>
 
 
 //<CLEAR><$02>124Φ\n<$09>8<$02>3このカードはフォーマットされていません\n<$02>59フォーマットしますか？\n<$02>87<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
@@ -1699,7 +1698,7 @@ Stored messages: <$1E>.<$12><$00>
 
 
 //<CLEAR>現在の預金残高は<$15>R<$06><$1D><$04><$14>￥です\n追加融資はできません<$12><$00>
-<CLEAR>Acct balance: <$15>R<$06><$1D><$04><$14>￥\n
+<CLEAR>Acct balance: <$15><$52><$06><$1D><$04><$14>￥\n
 Loans unavailable.<$12><$00>
 
 
@@ -1760,7 +1759,7 @@ TUCHO_1.TMZ
 
 
 //<CLEAR><$04><$09>1<$15>H<$00>
-<CLEAR><$04><$09>1<$15>H<$00>
+<CLEAR><$04><$09>1<$15><$48><$00>
 
 
 //引き出し<$00>
@@ -1801,11 +1800,11 @@ Arena Pay<$00>
 
 //\n<$02>8<$1E>34<$06>・<$04><$1D><$02>58<$1D><$02>118<$06><$15>H<$1D><$00>
 \n
-<$02>8<$1E>34<$06>・<$04><$1D><$02>58<$1D><$02>118<$06><$15>H<$1D><$00>
+<$02>8<$1E>34<$06>・<$04><$1D><$02>58<$1D><$02>118<$06><$15><$48><$1D><$00>
 
 
 //<$02>202<$1D><$1D><$15>H<$00>
-<$02>202<$1D><$1D><$15>H<$00>
+<$02>202<$1D><$1D><$15><$48><$00>
 
 
 //<CLEAR>オズサット気象予報部発表\n各地の<$1D>の天気です<$12><$00>
@@ -1853,7 +1852,7 @@ Join our <$1D> Lottery for a chance at <$06>100000<$04>￥!<$12><$00>
 
 
 //<$15>Y記録ファイル選択<$00>
-<$15>YFile Select<$00>
+<$15><$59>File Select<$00>
 
 
 //<CLEAR>未登録ファイルです\n記録しますか？<$00>
@@ -1916,17 +1915,17 @@ Do not remove the card\n
 
 //\n<$15>W<$01>◇<$0E>　やめとく<$00>
 \n
-<$15>W<$01>◇<$0E> Exit<$00>
+<$15><$57><$01>◇<$0E> Exit<$00>
 
 
 //\n<$15>W<$01>◇<$0E>　メニューへ\n<$01>◇<$0E>　電話を切る<$00>
 \n
-<$15>W<$01>◇<$0E>Menu\n
+<$15><$57><$01>◇<$0E>Menu\n
 <$01>◇<$0E>Hang up<$00>
 
 
 //<$15>Yスロット<$1E><$06>:<$04>記録<$06>ファイル<$04>選択<$00>
-<$15>YSlot <$1E><$06>:<$04> <$06> File <$04>Select<$00>
+<$15><$59>Slot <$1E><$06>:<$04> <$06> File <$04>Select<$00>
 
 
 //<CLEAR><$00>
@@ -1934,7 +1933,7 @@ Do not remove the card\n
 
 
 //<$15>b<$01><$06><$1E>.<$0E><$04>    （未登録です）\n<$00>
-<$15>b<$01><$06><$1E>.<$0E><$04> (NOT IN USE)\n
+<$15><$62><$01><$06><$1E>.<$0E><$04> (NOT IN USE)\n
 <$00>
 
 
@@ -1947,16 +1946,16 @@ Do not remove the card\n
 
 
 //<$15>W<$01><$06><$1E>.<$0E> <$1D> <$06>199<$1E><$04>年<$1D>　<$1D><$02>164<$06><$1E>35<$04>種登録　難<$1E>\n<$00>
-<$15>W<$01><$06><$1E>. <$0E> <$1D> <$06>199<$1E><$04>, <$1D>　<$1D><$02>164<$06><$1E>35<$04> filed (Mode <$1E>)\n
+<$15><$57><$01><$06><$1E>. <$0E> <$1D> <$06>199<$1E><$04>, <$1D>　<$1D><$02>164<$06><$1E>35<$04> filed (Mode <$1E>)\n
 <$00>
 
 
 //<$15>W<$01>◇<$08>2<$0E>　やめとく<$00>
-<$15>W<$01>◇<$08>2<$0E> Exit<$00>
+<$15><$57><$01>◇<$08>2<$0E> Exit<$00>
 
 
 //<$15>W<$01>◇<$08>2<$0E>　メニューへ   <$01>◇<$08>2<$0E>　電話を切る<$00>
-<$15>W<$01>◇<$08>2<$0E> Menu   <$01>◇<$08>2<$0E> Hang up<$00>
+<$15><$57><$01>◇<$08>2<$0E> Menu   <$01>◇<$08>2<$0E> Hang up<$00>
 
 
 //<CLEAR>よい思い出を！<$12><$00>
@@ -2041,7 +2040,7 @@ wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
@@ -2125,7 +2124,7 @@ are dead head!<$00>
 
 #WRITE(PTR, $0076)
 //<$15>Y留守番コール<$00>
-<$15>YVoicemail<$00>
+<$15><$59>Voicemail<$00>
 
 
 //<$01>終了<$0E><$00>
@@ -2233,16 +2232,16 @@ you're taking notes.<$00>
 
 //<CLEAR>コシカタという　廃村の北、\nＡ<$06>-01<$04>エリアに　半島がある\nその一帯に生息しとる<$1B>ヤギ<$00>
 <CLEAR>Head northwest past the ghost village, Koshikata, to A<$06>-01<$04>, a\n
-peninsula inhabited by goats.<$00>
+peninsula inhabited by <$1B>goats.<$00>
 
 
 //<CLEAR>その<$1B>ヤギを　肉に加工して\n新鮮なうちに　わしの所へ\n持参したまえ　いいね<$00>
-<CLEAR>The area is flocked with goats. I need you to hunt a few\n
+<CLEAR>The area is flocked with <$1B>goats. I need you to hunt a few\n
 and process the meat. <$00>
 
 
 //<CLEAR>それと　メモリンＺの材料が\n<$1B>ヤギの肉だということは\n企業秘密でね、他言は困るよ<$00>
-<CLEAR>A key ingredient in Memorin Z is fresh Goat Filet. That's\n
+<CLEAR>A key ingredient in Memorin Z is fresh <$1B>Goat Filet. That's\n
 proprietary info, mind you.<$00>
 
 
@@ -2255,7 +2254,7 @@ proprietary info, mind you.<$00>
 
 
 //<CLEAR><$1B>ヤギは、雪の上じゃ\nとても　強いらしいよ\nまっ、気をつけて行きたまえ<$00>
-<CLEAR>The goats living in the snow are especially powerful. Do be\n
+<CLEAR>The <$1B>goats living in the snow are especially powerful. Do be\n
 careful.<$00>
 
 

@@ -209,12 +209,12 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR><$19>1<$15>S扉には「禁断の鍵」が\nかかっている<$14><$12><$00>
-<CLEAR><$19>1<$15>SThis door can't be opened\n
+<CLEAR><$19><$31><$15><$53>This door can't be opened\n
 without a Secret Key.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは、「禁断の鍵」を使った<$14><$12><$00>
-<CLEAR><$19>1<$15>SKen used the Secret Key!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Ken used the Secret Key!<$14><$12><$00>
 
 
 //昔、この町が　野犬の群れに\nおそわれたことが　あってね\n友だちの亭主と子供が　やられたわ<$12>\n<CLEAR>それ以来、夜の闇が近づく前に\nこの町じゃ　ゲートを閉じることに\nみんなで　決めたのよ<$12><$00>
@@ -225,15 +225,15 @@ evening before dark.<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen found the <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Ken found the <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen acquired <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Ken acquired <$1D>!<$14><$12><$00>
 
 
 #WRITE(PTR, $002E)
@@ -572,7 +572,7 @@ wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>

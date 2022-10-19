@@ -226,7 +226,7 @@ File Select<$00>
 
 //\n<$15>W<$01>◇<$0E>　難易度変更＿＿（現在設定難易度<$1E>）<$00>
 \n
-<$15>W<$01>◇<$0E> Difficulty (Mode <$1E>)<$00>
+<$15><$57><$01>◇<$0E> Difficulty (Mode <$1E>)<$00>
 
 
 //ファイル選択<$00>
@@ -284,7 +284,7 @@ YSlot <$1E><$06> File <$04>Select<$00>
 
 
 //<$15>b<$01><$06><$1E>.<$0E><$04>    （未登録です）\n<$00>
-<$15>b<$01><$06><$1E>.<$0E><$04> (NOT IN USE)\n
+<$15><$62><$01><$06><$1E>.<$0E><$04> (NOT IN USE)\n
 <$00>
 
 
@@ -297,13 +297,13 @@ YSlot <$1E><$06> File <$04>Select<$00>
 
 
 //<$15>W<$01><$06><$1E>.<$0E> <$1D> <$06>199<$1E><$04>年<$1D>　<$1D><$02>164<$06><$1E>35<$04>種登録　難<$1E>\n<$00>
-<$15>W<$01><$06><$1E>. <$0E> <$1D> <$06>199<$1E><$04>, <$1D>　<$1D><$02>164<$06><$1E>35<$04> filed (Mode <$1E>)\n
+<$15><$57><$01><$06><$1E>. <$0E> <$1D> <$06>199<$1E><$04>, <$1D>　<$1D><$02>164<$06><$1E>35<$04> filed (Mode <$1E>)\n
 <$00>
 
 
 //\n<$15>W<$01>◇<$08>2<$0E>　難易度変更＿＿（現在設定難易度<$1E>）<$00>
 \n
-<$15>W<$01>◇<$08>2<$0E> Difficulty (Mode <$1E>)<$00>
+<$15><$57><$01>◇<$08>2<$0E> Difficulty (Mode <$1E>)<$00>
 
 
 //<CLEAR>新しくゲームを　始めますか？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
@@ -328,7 +328,7 @@ Scenario<$00>
 //<CLEAR>Χ<$06>30<$04>種以上の動物を捕獲\nΧ箱船を発進させる\n＿＿設定難易度<$1E><$01>→→<$0E>＿<$01>確認<$0E><$00>
 <CLEAR>  Χ A minimum of <$06>30<$04> species\n
 is required to deploy the Astro Ark.\n
-  Mode <$1E> <$01>→→<$0E> <$01>OK!<$0E><$00>
+  Mode <$1E><$01>→→<$0E> <$01>OK!<$0E><$00>
 
 
 //<CLEAR>Χ<$06>50<$04>種以上の動物を捕獲\nΧ箱船を発進させる\n＿＿設定難易度<$1E><$01>→→<$0E>＿<$01>確認<$0E><$00>
@@ -469,7 +469,7 @@ Time flow: Slowest speed (Play for the story.)<$00>
 
 #WRITE(PTR, $0034)
 //<$15>Yスケジュール<$00>
-<$15>YMemo <$00>
+<$15><$59>Memo <$00>
 
 
 //<CLEAR>スケジュールは何もありません<$12><$00>
@@ -509,11 +509,11 @@ Assist Panheim<$00>
 
 
 //<$1B>カメの卵を手に入れる<$00>
-Snatch Turtle Eggs<$00>
+<$1B>Snatch Turtle Eggs<$00>
 
 
 //<$1B>プテラノの卵を手に入れる<$00>
-Snatch Pteranodon Eggs<$00>
+<$1B>Snatch Pteranodon Eggs<$00>
 
 
 //遺産争いにケリをつける<$00>
@@ -550,17 +550,17 @@ Hardia Hotel.<$00>
 
 
 //<CLEAR>マーブルポリスの<$1B>ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す<$00>
-<CLEAR>Process meat from chickens in Marblopolis.Give them to\n
+<CLEAR>Process meat from <$1B>chickens in Marblopolis.Give them to\n
 Prof. Panheim in Hospico.<$00>
 
 
 //<CLEAR><$1B>カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す<$00>
-<CLEAR>Find up to 3 Turtle Eggs. Give them to Louis at the Battle\n
+<CLEAR>Find up to 3 <$1B>Turtle Eggs. Give them to Louis at the Battle\n
 Park BB Ranch.<$00>
 
 
 //<CLEAR><$1B>プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す<$00>
-<CLEAR>Acquire 2 Pteranodon Eggs. Give them to Bronco at the\n
+<CLEAR>Acquire 2 <$1B>Pteranodon Eggs. Give them to Bronco at the\n
 Battle Park BB Ranch.<$00>
 
 
@@ -582,7 +582,7 @@ another <$06><$1E><$0F><$04><$00>
 
 
 //<CLEAR>コシカタのシンボル「<$1B>トラの爪」を\n見つけだし、ポリスカに渡す<$00>
-<CLEAR>Find the Tiger Claw, Koshikata's village symbol. Return it\n
+<CLEAR>Find the <$1B>Tiger Claw, Koshikata's village symbol. Return it\n
 to Poliska.<$00>
 
 

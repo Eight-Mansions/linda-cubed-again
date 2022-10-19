@@ -135,35 +135,35 @@ enough to fall for her antics!<$12><$00>
 
 
 //他の町の<$1B>ナマズより　色ツヤが\n妙に　いいと思わんかね？<$12>\n<CLEAR>なにしろ他じゃ　あまり喰わさん肉を\nこいつらは　タラフク喰っとるでなぁ\nヒヒヒヒヒヒ…<$12><$00>
-The sheen on the catfish here is finer than on those from\n
+The sheen on the <$1B>catfish here is finer than on those from\n
 other towns, don't you agree?<$12>\n
 <CLEAR>I bet they all have too much meat in their diets. I'm glad\n
 ours have a sense of refinement.<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen found the <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Ken found the <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen acquired <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Ken acquired <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>ケンは　<$1E>￥を\n手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Ken took\n
+<CLEAR><$19><$31><$15><$53><CLEAR>Ken took\n
 <$1E>￥!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S扉には鍵がかかっている<$14><$12><$00>
-<CLEAR><$19>1<$15>SThe door is locked.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>The door is locked.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは、「納戸の鍵」を使った<$14><$12><$00>
-<CLEAR><$19><$15>SKen used the Storage Key!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Ken used the Storage Key!<$14><$12><$00>
 
 
 #WRITE(PTR, $0022)
@@ -201,8 +201,8 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR>お望みなら　尻尾のない<$1B>ネズミとか\nおしゃべりが過ぎる　<$1B>イヌの解体も\nやれないことは　ないよ<$12>\n<CLEAR>もちろん　特別料金だけどね\n驚くほど　高かないサ<$12><$00>
-<CLEAR>If you ever want a tail-less rat, just ask. I'm not bad\n
-with dogs either.<$12>\n
+<CLEAR>If you ever want a tail-less <$1B>rat, just ask. I'm not bad\n
+with <$1B>dogs either.<$12>\n
 <CLEAR>I charge what a charge, but unless you want to do this\n
 yourself, the price is reasonable.<$12><$00>
 
@@ -253,7 +253,7 @@ There's a lot of people in this town who wouldn't pay 1￥\n
 for their dying parents, but would pay any amount for\n
 their dogs.<$12>\n
 <CLEAR>I should've become a doctor for animals rather than a\n
-doctor for humans...<$12><$00>
+doctor for humans<$1B>...<$12><$00>
 
 
 //<CLEAR>猟犬も死ぬのは　イヤらしくて\nヤバい時は　自分の判断で　逃げるわ…\n主人の都合も　聞かずにね<$12>\n<CLEAR>だから猟犬を　信頼し過ぎるのも\n考えもんってことよ…　どんなに\n利口なヤツでも　しょせん、犬ね<$12><$00>
@@ -272,13 +272,13 @@ materials from them if I won!<$12><$00>
 
 #WRITE(PTR, $0026)
 //<CLEAR><$1D><$15>Wは\nＡ級保護動物のため\n取り引きできません<$12><$00>
-<CLEAR><$1D><$15>W cannot be traded.\n
+<CLEAR><$1D><$15><$57> cannot be traded.\n
 Class A species\n
 trading is prohibited!<$12><$00>
 
 
 //<$15>Y解体屋<$00>
-<$15>YRipper<$00>
+<$15><$59>Ripper<$00>
 
 
 //中身は傷つけずに　動物の腹から\nお宝を取り出すのが　俺の特技でねぇ\n<$01>依頼する<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
@@ -325,7 +325,7 @@ I found!<$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>ケンは「<$1D>」を\n手にいれた∥<$14><$12><$00>
-<CLEAR><$19>1<$15>S<CLEAR>Ken took\n
+<CLEAR><$19><$31><$15><$53><CLEAR>Ken took\n
 <$1D>!<$14><$12><$00>
 
 
@@ -335,7 +335,7 @@ I found!<$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>ケンは　<$06><$1E><$04>￥を\n手にいれた∥<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Ken took\n
+<CLEAR><$19><$31><$15><$53><CLEAR>Ken took\n
 <$06><$1E><$04>￥!<$14><$12><$00>
 
 
@@ -378,7 +378,7 @@ Rare Ring<$00>
 
 
 //<$15>Y猟犬治療<$00>
-<$15>YVeterinarian<$00>
+<$15><$59>YVeterinarian<$00>
 
 
 //<CLEAR>かわいい猟犬が　傷ついた時は\n手遅れにならないうちに\nここへ　連れて来なさいね<$12><$00>
@@ -416,7 +416,7 @@ Bwame your daddy for being a wittle cheapskate.<$12><$00>
 
 
 //あぁ～傷に<$1B>ウジが　わいてるわよ<$00>
-Whoa～! Maggots in the wound!<$00>
+Whoa～! <$1B>Maggots in the wound!<$00>
 
 
 //肋骨と鎖骨が　折れてるだけね<$00>
@@ -467,7 +467,7 @@ or these wounds may reopen. <$12><$00>
 
 
 //<$15>Y猟犬屋<$00>
-<$15>YDog Center<$00>
+<$15><$59>Dog Center<$00>
 
 
 //<CLEAR>お客さん…\nホスピコの入り口に　並んでる\n哀れな猟犬の墓を　数えてごらん<$12>\n<CLEAR>これ以上　あなたの猟犬を\n登録したところで、どうせまた\nあそこの墓が　増えるだけだものね<$12>\n<CLEAR>金の問題じゃないんだよ…\nわかるッ￠<$12><$00>
@@ -485,7 +485,7 @@ one time. <$12><$00>
 
 //<CLEAR>登録料　<$15>b<$06><$1E><$04><$14>￥が足りません\n銀行で　ご都合ください<$12><$00>
 <CLEAR>The adoption fee is over\n
-<$15><$06><$1E><$04><$14>￥.\n
+<$15><$62><$06><$1E><$04><$14>￥.\n
 Get a loan from the bank.<$12><$00>
 
 
@@ -504,11 +504,11 @@ Choose a new name.<$12><$00>
 
 
 //<$16><$01><$1D><$02>96<$0E>　<$15>S<$1E>18<$14><$04><$02>140<$01><$1D><$02>236<$0E>　<$15>S<$1E>18<$14><$00>
-<$16><$01><$1D><$02><$0E><$15><$1E><$14><$04><$02><$01><$1D><$02><$0E><$15><$1E><$14><$00>
+<$16><$01><$1D><$02><$0E><$15><$53><$1E><$14><$04><$02><$01><$1D><$02><$0E><$15><$53><$1E><$14><$00>
 
 
 //<$15>Y猟犬屋／メニュー<$00>
-<$15>YDog/Menu<$00>
+<$15><$59>Dog/Menu<$00>
 
 
 //<$01>買＿う<$0E>\n<$01>売＿る<$0E>\n<$01>登＿録<$0E>\n<$01>やめる<$0E><$00>
@@ -524,11 +524,11 @@ You cannot adopt any more dogs.<$12><$00>
 
 
 //<CLEAR><$1B>イヌを　お持ちじゃないようですね<$12><$00>
-<CLEAR>You don't have any dogs.<$12><$00>
+<CLEAR>You don't have any <$1B>dogs.<$12><$00>
 
 
 //<$15>Y猟犬屋／登＿録<$00>
-<$15>YDog/Tame<$00>
+<$15><$59>Dog/Tame<$00>
 
 
 //<CLEAR>猟犬は太古より　人間の良きパートナー\nぜひ　あなたも　１頭いかがですか？\n<$01>取引する<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
@@ -541,7 +541,7 @@ You cannot adopt any more dogs.<$12><$00>
 
 
 //<$15>Y猟犬屋／買＿う<$00>
-<$15>YDog/Buy<$00>
+<$15><$59>Dog/Buy<$00>
 
 
 //<CLEAR><$00>
@@ -549,11 +549,11 @@ You cannot adopt any more dogs.<$12><$00>
 
 
 //<$04><$16><$15>W<$01>猟犬LV<$1E>02<$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
-<$04><$16><$15>W<$01>Dog LVL <$1E>02<$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
+<$04><$16><$15><$57><$01>Dog LVL <$1E>02<$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
 
 
 //<$15>Y猟犬屋／売＿る<$00>
-<$15>YDog/Sell<$00>
+<$15><$59>Dog/Sell<$00>
 
 
 //<CLEAR>猟犬「<$1D>」を\n<$06><$1E><$04>￥で売りますか？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
@@ -633,7 +633,7 @@ wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>

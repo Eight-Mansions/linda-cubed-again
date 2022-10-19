@@ -334,16 +334,16 @@ DUE TIME AND YOU TOO WILL UNDERSTAND.<$12><$00>
 
 
 //<$15>S♂<$00>
-<$15>S♂<$00>
+<$15><$53>♂<$00>
 
 
 //<$15>Y♀<$00>
-<$15>Y♀<$00>
+<$15><$59>♀<$00>
 
 
 #WRITE(PTR, $0054)
 //<$15>Y動物登録<$00>
-<$15>YAnimal Registry<$00>
+<$15><$59>Animal Registry<$00>
 
 
 //<$1D>は　「<$1D>」を\n体の中で　飼い始めた∥\n「<$1D>」ＧＥＴ∥<$12><$00>
@@ -457,7 +457,7 @@ wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
