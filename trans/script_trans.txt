@@ -752,7 +752,8 @@ The item bag is full!
 //000064EF
 <CLEAR>
 //
-<$1D><$15><$57>は\nＡ級保護動物のため\n取り引きできません
+<$1D><$15><$57>
+//は\nＡ級保護動物のため\n取り引きできません
  cannot be traded.\nClass A species\ntrading is prohibited!
 <$12>
 <$00>
@@ -867,9 +868,9 @@ You don't have the animals!
 //0000_0000072A_bin\PROG.BIN
 //000064EF
 //
-<$15>
-//Y野 営/メニュー
-YCamp/Menu
+<$15><$59>
+//野 営/メニュー
+Camp/Menu
 <$00>
 
 
@@ -1145,18 +1146,18 @@ BP recovered by
 //0000_0000072A_bin\PROG.BIN
 //000064EF
 //
-<$15>
-//Y野 営/食料加工
-YCamp/Butcher
+<$15><$59>
+//野 営/食料加工
+Camp/Butcher
 <$00>
 
 
 //0000_0000072A_bin\PROG.BIN
 //000064EF
 //
-<$15>
-//Y野 営/装備加工
-YCamp/Forger
+<$15><$59>
+//野 営/装備加工
+Camp/Forger
 <$00>
 
 
@@ -1181,27 +1182,27 @@ The faces of dogs buried in Hospico flashed through Linda's mind. The training e
 //0000_0000072A_bin\PROG.BIN
 //000064EF
 //
-<$15>
-//Y野 営/登 録
-YCamp/Adopt
+<$15><$59>
+//野 営/登 録
+Camp/Adopt
 <$00>
 
 
 //0000_0000072A_bin\PROG.BIN
 //000064EF
 //
-<$15>
-//Y野営/道具捨てる
-YCamp/Trash items
+<$15><$59>
+//野営/道具捨てる
+Camp/Trash items
 <$00>
 
 
 //0000_0000072A_bin\PROG.BIN
 //000064EF
 //
-<$15>
-//Y野営/猟 犬
-YCamp/Dogs
+<$15><$59>
+//野営/猟 犬
+Camp/Dogs
 <$00>
 
 
@@ -2274,7 +2275,7 @@ Aww, what was it, Ken? I want to hear you say it again. Pretty please?
 <CLEAR>
 //…もぉ！　何よ！\n
 ...You're kidding.\nLittle 
-//<$1B>
+<$1B>
 //タヌキ寝入りなんか　しちゃって\n…ねぇ、ちょっとぉ～……
 rat bastard fell asleep, huh. Oh, well...
 <$00>
@@ -4199,7 +4200,7 @@ But...what am I supposed to do with this? WHY'D I BUY THIS?!
 //00003D02
 <CLEAR>
 //
-//<$1B>
+<$1B>
 //ヒョウの毛は　少し硬いけど\n素足のツボを　チクチク刺激して\n健康にいいんだよナ
 Leopard fur's kinda rough, but maybe that's good for exfoliation.
 <$12>
@@ -4210,7 +4211,7 @@ Leopard fur's kinda rough, but maybe that's good for exfoliation.
 //00003D02
 <CLEAR>
 //
-//<$1B>
+<$1B>
 //ライオンの剥製か…\nどんなに　強くても\n結局、死んだらおしまいだよナ
 Just goes to show: Doesn't matter how tough you are if you're dead.
 <$12>
@@ -5644,9 +5645,9 @@ Winners, you have through
 //0031_0000360C_bin\PROG.BIN
 //000062DF
 //
-<$15>
-//Y記録ファイル選択
-YFile Select
+<$15><$59>
+//記録ファイル選択
+File Select
 <$00>
 
 
@@ -5824,9 +5825,9 @@ Hang up
 //0031_0000360C_bin\PROG.BIN
 //000062DF
 //
-<$15>
-//Yスロット
-YSlot 
+<$15><$59>
+//スロット
+Slot 
 <$1E><$06>
 //:
 :
@@ -5944,9 +5945,9 @@ b
 //0031_0000360C_bin\PROG.BIN
 //000075F4
 //
-<$15>
-//Y留守番コール
-YVoicemail
+<$15><$59>
+//留守番コール
+Voicemail
 <$00>
 
 
@@ -6133,7 +6134,7 @@ Head northwest past the ghost village, Koshikata, to A
 <$04>
 //エリアに　半島がある\nその一帯に生息しとる
 , a peninsula inhabited by 
-//<$1B>
+<$1B>
 //ヤギ
 goats.
 <$00>
@@ -6144,7 +6145,7 @@ goats.
 <CLEAR>
 //その
 The area is flocked with 
-//<$1B>
+<$1B>
 //ヤギを　肉に加工して\n新鮮なうちに　わしの所へ\n持参したまえ　いいね
 goats. I need you to hunt a few and process the meat. 
 <$00>
@@ -6155,7 +6156,7 @@ goats. I need you to hunt a few and process the meat.
 <CLEAR>
 //それと　メモリンＺの材料が\n
 A key ingredient in Memorin Z is fresh 
-//<$1B>
+<$1B>
 //ヤギの肉だということは\n企業秘密でね、他言は困るよ
 Goat Filet. That's proprietary info, mind you.
 <$00>
@@ -6182,7 +6183,7 @@ There's something I failed to warn you about.
 <CLEAR>
 //
 The 
-//<$1B>
+<$1B>
 //ヤギは、雪の上じゃ\nとても　強いらしいよ\nまっ、気をつけて行きたまえ
 goats living in the snow are especially powerful. Do be careful.
 <$00>
@@ -7379,18 +7380,18 @@ THE MASTER AND THE APPRENTICE ARE SYMBIOTIC. GIVE IT DUE TIME AND YOU TOO WILL U
 
 //0032_00003664_bin\PROG.BIN
 //00008CD9
-<$15>
-//Y♀
-Y♀
+<$15><$59>
+//♀
+♀
 <$00>
 
 
 //0032_00003664_bin\PROG.BIN
 //00009194
 //
-<$15>
-//Y動物登録
-YAnimal Registry
+<$15><$59>
+//動物登録
+Animal Registry
 <$00>
 
 
@@ -8878,18 +8879,18 @@ No one knows what'll be born from a bought egg. It's why I don't buy them.
 //0033_00003917_bin\PROG.BIN
 //000033EB
 //
-<$15>
-//Y卵　屋/買　う
-YEgg Seller/Buy
+<$15><$59>
+//卵　屋/買　う
+Egg Seller/Buy
 <$00>
 
 
 //0033_00003917_bin\PROG.BIN
 //000033EB
 //
-<$15>
-//Y卵　屋
-YEgg Seller
+<$15><$59>
+//卵　屋
+Egg Seller
 <$00>
 
 
@@ -9205,7 +9206,7 @@ If you ever miss my scent, bro, come back anytime.
 //00002481
 //ここの地下にさ　電気
 Think we'd die if we swam in the electric 
-//<$1B>
+<$1B>
 //ナマズ用の\nでかいプールが　あるんだってね\n泳いだら　死ぬかな？
 catfish pool underground?
 <$12>
@@ -9263,9 +9264,9 @@ Don't you worry, I'll have even better stock next time!
 //0034_0000396B_bin\PROG.BIN
 //00002698
 //
-<$15>
-//Y装備屋/メニュー
-YEquipment/Menu
+<$15><$59>
+//装備屋/メニュー
+Equipment/Menu
 <$00>
 
 
@@ -9299,36 +9300,36 @@ Exit
 //0034_0000396B_bin\PROG.BIN
 //00002698
 //
-<$15>
-//Y装備屋/買 う
-YEquipment/Buy
+<$15><$59>
+//装備屋/買 う
+Equipment/Buy
 <$00>
 
 
 //0034_0000396B_bin\PROG.BIN
 //00002698
 //
-<$15>
-//Y装備屋/売 る
-YEquipment/Sell
+<$15><$59>
+//装備屋/売 る
+Equipment/Sell
 <$00>
 
 
 //0034_0000396B_bin\PROG.BIN
 //00002698
 //
-<$15>
-//Y装備屋/加 工
-YEquipment/Craft
+<$15><$59>
+//装備屋/加 工
+Equipment/Craft
 <$00>
 
 
 //0034_0000396B_bin\PROG.BIN
 //00002698
 //
-<$15>
-//Y装備屋
-YEquipment
+<$15><$59>
+//装備屋
+Equipment
 <$00>
 
 
@@ -9386,9 +9387,9 @@ Thank you!\nWatch your backs out there!
 //0034_0000396B_bin\PROG.BIN
 //00002698
 //
-<$15>
-//Yホテル
-YHotel
+<$15><$59>
+//ホテル
+Hotel
 <$00>
 
 
@@ -9750,9 +9751,9 @@ You can get there by using the beam terminal on the third floor of the airport.
 //0035_00003988_bin\PROG.BIN
 //00002286
 //
-<$15>
-//Y動物商
-YAnimal Trader
+<$15><$59>
+//動物商
+Animal Trader
 <$00>
 
 
@@ -9799,9 +9800,9 @@ Occasionally, we'll get rare animals in stock, so check back often!
 //0035_00003988_bin\PROG.BIN
 //00002286
 //
-<$15>
-//Y動物商/メニュー
-YAnimal/Menu
+<$15><$59>
+//動物商/メニュー
+Animal/Menu
 <$00>
 
 
@@ -9829,27 +9830,27 @@ Exit
 //0035_00003988_bin\PROG.BIN
 //00002286
 //
-<$15>
-//Y動物商/買 う
-YAnimal/Buy
+<$15><$59>
+//動物商/買 う
+Animal/Buy
 <$00>
 
 
 //0035_00003988_bin\PROG.BIN
 //00002286
 //
-<$15>
-//Y動物商/売 る
-YAnimal/Sell
+<$15><$59>
+//動物商/売 る
+Animal/Sell
 <$00>
 
 
 //0035_00003988_bin\PROG.BIN
 //00002286
 //
-<$15>
-//Y託卵センター
-YEgg Center
+<$15><$59>
+//託卵センター
+Egg Center
 <$00>
 
 
@@ -10098,7 +10099,7 @@ round
 <CLEAR>
 //種をまかなきゃ　麦は実らず、\n卵を預けなきゃ　何年待っても\n
 In life, you reap what you sow. If you don't put out Pig Eggs, you'll never hatch 
-//<$1B>
+<$1B>
 //ブタ１頭も　産まれないよ
 pigs.
 <$12>
@@ -10233,9 +10234,9 @@ No matter how ugly animals are, the babies are sooo cute! I love my job!
 //0035_00003988_bin\PROG.BIN
 //00002C82
 //
-<$15>
-//Y動物情報
-YAnimal 
+<$15><$59>
+//動物情報
+Animal 
 <$06>
 //サービス
 Search
@@ -10669,9 +10670,9 @@ Don't believe me? Come back next summer and see if I'm still here.
 //0036_000039C4_bin\PROG.BIN
 //00001E69
 //
-<$15>
-//YＢＡＲ
-YBar
+<$15><$59>
+//ＢＡＲ
+Bar
 <$00>
 
 
@@ -11484,10 +11485,10 @@ They sell bad stuff because people eat bad stuff, until they end up in Hospico.
 <CLEAR>
 //肉の副作用が　こわい臆病者は\n一生、
 Those too scared to eat risky meat can live off 
-//<$1B>
+<$1B>
 //ブタと
 pig and 
-//<$1B>
+<$1B>
 //ウサギの肉だけ\n食ってりゃ　いいんだよ
 rabbit forever for all I care.
 <$12>
@@ -11587,7 +11588,7 @@ Someone'll ask how many dogs you have, to which you say, "wan"! Hahaha, get it?
 \n<CLEAR>
 //「
 Well, someone'll ask you to count lions, to which you say, 
-//<$1B>
+<$1B>
 //ライオンは　何頭いる￠」\n「シシ、１６頭∥」なんちゃって…
 lions, you say, "Shi...shi...shi...shi!"
 <$12>
@@ -11721,7 +11722,7 @@ Sometime this season, go to G-
 <$04>
 //の沖を　
 to watch 
-//<$1B>
+<$1B>
 //ツバメの群れが\n飛んで行くのが　見られるんだよね
 swallows flying west off the coast!
 <$12>
@@ -11747,7 +11748,7 @@ Sometime in spring, go to G-
 <$04>
 //の沖を\n
 to watch 
-//<$1B>
+<$1B>
 //ツバメの群れが 西へ飛んで行くのが\n見られるんだよね
 swallows flying west off the coast!
 <$12>
@@ -11758,7 +11759,7 @@ It might be a hot spot for tourists, but it ain't my thing.
 \n<CLEAR>
 //それより同じ海なら 今の時代、\n
 If you want a better idea, why not go 
-//<$1B>
+<$1B>
 //クジラ・ウォッチングだよね
 whale watching in those same waters?
 <$12>
@@ -12136,9 +12137,9 @@ b
 //0038_00003A28_bin\PROG.BIN
 //00006D9C
 //
-<$15>
-//Y婚礼用品店
-YBridal Shop
+<$15><$59>
+//婚礼用品店
+Bridal Shop
 <$00>
 
 
@@ -12388,7 +12389,7 @@ Beastian Pole
 
 //0038_00003A28_bin\PROG.BIN
 //000071C3
-//<$1B>
+<$1B>
 //ヒョウの敷物
 Leopard Rug
 <$00>
@@ -12396,7 +12397,7 @@ Leopard Rug
 
 //0038_00003A28_bin\PROG.BIN
 //000071C3
-//<$1B>
+<$1B>
 //ライオンの剥製
 Stuffed Lion
 <$00>
@@ -12461,9 +12462,9 @@ Refrigerator
 //0038_00003A28_bin\PROG.BIN
 //000071C3
 //
-<$15>
-//Yインテリアショップ
-YInterior Shop
+<$15><$59>
+//インテリアショップ
+Interior Shop
 <$00>
 
 
@@ -12610,9 +12611,9 @@ We'll have it delivered to the Astro Ark right away!
 //0038_00003A28_bin\PROG.BIN
 //0000765E
 //
-<$15>
-//Y肉 屋
-YMeat Market
+<$15><$59>
+//肉 屋
+Meat Market
 <$00>
 
 
@@ -12661,36 +12662,36 @@ Come back any time!
 //0038_00003A28_bin\PROG.BIN
 //0000765E
 //
-<$15>
-//Y肉 屋/メニュー
-YMeat/Menu
+<$15><$59>
+//肉 屋/メニュー
+Meat/Menu
 <$00>
 
 
 //0038_00003A28_bin\PROG.BIN
 //0000765E
 //
-<$15>
-//Y肉 屋/買 う
-YMeat/Buy
+<$15><$59>
+//肉 屋/買 う
+Meat/Buy
 <$00>
 
 
 //0038_00003A28_bin\PROG.BIN
 //0000765E
 //
-<$15>
-//Y肉 屋/売 る
-YMeat/Sell
+<$15><$59>
+//肉 屋/売 る
+Meat/Sell
 <$00>
 
 
 //0038_00003A28_bin\PROG.BIN
 //0000765E
 //
-<$15>
-//Y肉 屋/作 る
-YMeat/Make
+<$15><$59>
+//肉 屋/作 る
+Meat/Make
 <$00>
 
 
@@ -13094,9 +13095,9 @@ Remember, repayment is due in
 //0038_00003A28_bin\PROG.BIN
 //0000765E
 //
-<$15>
-//Y雑貨屋
-YItems
+<$15><$59>
+//雑貨屋
+Items
 <$00>
 
 
@@ -13136,35 +13137,35 @@ If you find anything cool, sell it to us!
 //0038_00003A28_bin\PROG.BIN
 //0000765E
 //
-<$15>
-//Y雑貨屋/メニュー
-YItems/Menu
+<$15><$59>
+//雑貨屋/メニュー
+Items/Menu
 <$00>
 
 
 //0038_00003A28_bin\PROG.BIN
 //0000765E
 //
-<$15>
-//Y雑貨屋/買 う
-YItems/Buy
+<$15><$59>
+//雑貨屋/買 う
+Items/Buy
 <$00>
 
 
 //0038_00003A28_bin\PROG.BIN
 //0000765E
 //
-<$15>
-//Y雑貨屋/売 る
-YItems/Sell
+<$15><$59>
+//雑貨屋/売 る
+Items/Sell
 <$00>
 
 
 //0038_00003A28_bin\PROG.BIN
 //00008D08
 //
-<$15>
-//Y宝クジ屋
+<$15><$59>
+//宝クジ屋
 YLottery Store
 <$00>
 
@@ -14298,14 +14299,14 @@ If you're seeing someone off, head to the observation deck just ahead.
 <CLEAR>
 //＊＜動物クイズ＞\n
 ＊＜Animal Quiz＞\What does a 
-//<$1B>
+<$1B>
 //パンダの好物は　何でしょう？\n１．笹　　２．パン　　３．人肉
 panda eat?\n１．bamboo　２．bread　３．human flesh
 <$12>
 \n<CLEAR>
 //＊答、ネオケニアには　
 ＊I've never seen a 
-//<$1B>
+<$1B>
 //パンダなんて\nいないので　わからない
 panda in Neo Kenya, so who knows!
 <$12>
@@ -14361,7 +14362,7 @@ panda in Neo Kenya, so who knows!
 <CLEAR>
 //＊
 ＊Did you know? If you make shoes using 
-//<$1B>
+<$1B>
 //ムカデからは　一度の加工で\n
 centipedes as a material, you get 
 <$06>
@@ -14383,7 +14384,7 @@ centipedes as a material, you get
 //＊コシカタの地下は　発見したかい？\n
 ＊Have you found the Koshikata underground?\n
 Watch out for those 
-//<$1B>
+<$1B>
 //ナマズには　くれぐれも注意しなよ
 catfish!
 <$12>
@@ -14395,7 +14396,7 @@ catfish!
 <CLEAR>
 //＊
 ＊
-//<$1B>
+<$1B>
 //バファロの生息地の\nナビ座標は　Ｇ
 Buffalo roam around G
 <$06>
@@ -14459,7 +14460,7 @@ Buffalo roam around G
 \n<CLEAR>
 //＊あれが　
 ＊That includes 
-//<$1B>
+<$1B>
 //ネコかもなぁ
 cats!
 <$12>
@@ -14471,7 +14472,7 @@ cats!
 <CLEAR>
 //＊
 ＊If you want to know where 
-//<$1B>
+<$1B>
 //バッタの居場所を　知りたいなら\nマダムに　聞いてごらん
 grasshoppers are, you'd better look for the Madam.
 <$12>
@@ -14522,7 +14523,7 @@ grasshoppers are, you'd better look for the Madam.
 \n<CLEAR>
 //＊
 ＊...there may be an extra resident living in the hole where 
-//<$1B>
+<$1B>
 //ヤドカリが　抜けた穴には\n別の入居者の予約が　あるらしいぜ
 hermit crabs crawl out.
 <$12>
@@ -14541,7 +14542,7 @@ There are 8 Beastian rings in total. If you manage to collect half of those, eve
 <$04>
 //レベルで\n
  , defeating a 
-//<$1B>
+<$1B>
 //ドラゴンを　倒すのも夢じゃない∥
 dragon would be cake!
 <$12>
@@ -14585,7 +14586,7 @@ dragon would be cake!
 <CLEAR>
 //＊
 ＊
-//<$1B>
+<$1B>
 //カメレオは　姿が見えないんだ！\n捕まえるには　おびきよせるか\nワナを　かけるか…
 Chameleons are invisible. To catch one, you can lure them, or set up traps in their habitat.
 <$12>
@@ -15738,7 +15739,7 @@ If you value your life, avoid Karhagolem.\nThat's south of here at Q
 \n<CLEAR>
 //あそこは　野犬の巣らしいゼ\nどうしても　猟犬が欲しいってんなら\n店で買った
 They animals there are too savage!\nIf you need backup, go catch a 
-//<$1B>
+<$1B>
 //イヌを　登録すればいいよ
 dog first!
 <$12>
@@ -15859,10 +15860,10 @@ All you have to do is get animals, right? You don't have to "catch" them, per se
 \n<CLEAR>
 //とりあえず、ウチで　
 Good! Then buy a 
-//<$1B>
+<$1B>
 //リスか\n
 squirrel or 
-//<$1B>
+<$1B>
 //ダチョウあたりを買って　試しに\n箱船に　登録してみなよ
 ostrich while you're here and file that!
 <$12>
@@ -15975,7 +15976,7 @@ Dog Center
 <CLEAR>
 //店で買った
 Whether you buy a 
-//<$1B>
+<$1B>
 //イヌでも　そこらで\n捕まえた野犬でも　名前をつけて\n登録しちゃえば　あなたの猟犬∥
 dog in-store or catch it in the wild, once you name it, it's yours!
 <$12>
@@ -15995,7 +15996,7 @@ Even a low-tier dog is better than nothing, even if just for emotional support.
 \n<CLEAR>
 //ウチで扱ってる
 The 
-//<$1B>
+<$1B>
 //イヌは　どれも\n猟犬にするには　ピッタリよ！\n血統もいいし　味も最高∥
 dogs we raise are perfect for hunting.
 <$12>
@@ -16021,18 +16022,18 @@ That's why it's so important to treat dogs like human beings. Take good care of 
 //0046_00003FA9_bin\PROG.BIN
 //0000143D
 //
-<$15>
-//Y猟犬屋
-YDog Center
+<$15><$59>
+//猟犬屋
+Dog Center
 <$00>
 
 
 //0046_00003FA9_bin\PROG.BIN
 //0000143D
 //
-<$15>
-//Y猟犬屋/メニュー
-YDog/Menu
+<$15><$59>
+//猟犬屋/メニュー
+Dog/Menu
 <$00>
 
 
@@ -16077,7 +16078,7 @@ You have reached the 32 dog adoption limit.\nYou cannot adopt any more dogs.
 <CLEAR>
 //
 You don't have any 
-//<$1B>
+<$1B>
 //イヌを　お持ちじゃないようですね
 dogs.
 <$12>
@@ -16087,9 +16088,9 @@ dogs.
 //0046_00003FA9_bin\PROG.BIN
 //0000143D
 //
-<$15>
-//Y猟犬屋/登 録
-YDog/Tame
+<$15><$59>
+//猟犬屋/登 録
+Dog/Tame
 <$00>
 
 
@@ -16120,9 +16121,9 @@ Exit
 //0046_00003FA9_bin\PROG.BIN
 //0000143D
 //
-<$15>
-//Y猟犬屋/買 う
-YDog/Buy
+<$15><$59>
+//猟犬屋/買 う
+Dog/Buy
 <$00>
 
 
@@ -16149,9 +16150,9 @@ Dog LVL
 //0046_00003FA9_bin\PROG.BIN
 //0000143D
 //
-<$15>
-//Y猟犬屋/売 る
-YDog/Sell
+<$15><$59>
+//猟犬屋/売 る
+Dog/Sell
 <$00>
 
 
@@ -16182,8 +16183,8 @@ No
 //0046_00003FA9_bin\PROG.BIN
 //0000143D
 //
-<$15>
-//Y猟犬治療
+<$15><$59>
+//猟犬治療
 YVeterinarian
 <$00>
 
@@ -16283,7 +16284,7 @@ Well, if you have another dog, I'll see them next!
 //0000143D
 //あぁ～傷に
 Whoa～! 
-//<$1B>
+<$1B>
 //ウジが　わいてるわよ
 Maggots in the wound!
 <$00>
@@ -18486,7 +18487,7 @@ Power Plant 1F
 //0000084D
 //囲いの向こう側の　
 Don't reach out to pet those 
-//<$1B>
+<$1B>
 //ナマズたちには\n手を出すんじゃないぞ！
 catfish over there.
 <$12>
@@ -18839,7 +18840,7 @@ After I married your father, you were the only son he ever brought home to adopt
 <CLEAR>
 //あんたみたいな　ドラ息子を\nふたりも　相手にするくらいなら\n
 And God bless, I'd rather wrestle a 
-//<$1B>
+<$1B>
 //ドラゴンと　戦うほうがマシさ
 dragon than raise a second drag on society.
 <$00>
@@ -19643,7 +19644,7 @@ My travel brochure says so! See?
 \n<CLEAR>
 //観光ガイドに　書いてあったわ！\nそういえば　ここのホテルのおやじ、\n
 I bet that's why the owner of the local inn is built like a 
-//<$1B>
+<$1B>
 //ゴリラに　似てたわね
 gorilla!
 <$12>
@@ -19889,7 +19890,7 @@ Ken used the Precious Key.
 
 //0053_000044E5_bin\PROG.BIN
 //0000327E
-//<$1B>
+<$1B>
 //クマのぬいぐるみが　ある
 It's a teddy bear.
 <$12>
@@ -20339,9 +20340,9 @@ What would you like to show me?
 //0054_0000451D_bin\PROG.BIN
 //0000179E
 //
-<$15>
-//Y動物博士
-YWildlife Expert 
+<$15><$59>
+//動物博士
+Wildlife Expert 
 <$00>
 
 
@@ -20771,9 +20772,9 @@ The thought makes me anxious.
 //0057_0000458D_bin\PROG.BIN
 //00001036
 //
-<$15>
-//Y解体屋
-YRipper
+<$15><$59>
+//解体屋
+Ripper
 <$00>
 
 
@@ -21105,7 +21106,7 @@ Meat Market
 <CLEAR>
 //あんたの御先祖が　
 Unless you come from a long line of 
-//<$1B>
+<$1B>
 //ハイエナなら\n話は別だが　腐った肉は\n口にしないほうが　いいよ
 hyenas, you should never eat Rotten Meat!
 <$12>
@@ -21659,10 +21660,10 @@ Ten
 \n<CLEAR>
 //ハッスルⅡ１粒で　
 A single drop of Hustle Ⅱ could boost your strength to take on a 
-//<$1B>
+<$1B>
 //サイや
 rhino or a 
-//<$1B>
+<$1B>
 //オオカミと\nタメ張れるほど　攻撃力が上がるんだ
 wolf!
 <$12>
@@ -22178,7 +22179,7 @@ Speaking of "claws"...
 \n<CLEAR>
 //キミが自分で作った　
 Might I suggest you make some gear using 
-//<$1B>
+<$1B>
 //カニ装備に\n身を固められる　頃には\nうまく話をつけておく、約束するよ
 crabs? Doctor's orders!
 <$12>
@@ -22325,7 +22326,7 @@ You're back? Didn't you JUST walk out to the backyard with Linda and the directo
 //0000277C
 //あんたが　
 Ken! While you were out chasing 
-//<$1B>
+<$1B>
 //ブタかなにかを　のん気に\n追っかけてる間に　とんでもないことが\n起きてたのよ、ケン！
 pigs, the unthinkable happened!
 <$12>
@@ -22562,18 +22563,18 @@ Whenever you want drugs, you know where to find us!
 //0062_0000499E_bin\PROG.BIN
 //0000493C
 //
-<$15>
-//Y薬　屋/買　う
-YDrug/Buy
+<$15><$59>
+//薬　屋/買　う
+Drug/Buy
 <$00>
 
 
 //0062_0000499E_bin\PROG.BIN
 //0000493C
 //
-<$15>
-//Y薬　屋
-YDrug Counter
+<$15><$59>
+//薬　屋
+Drug Counter
 <$00>
 
 
@@ -22691,9 +22692,9 @@ That means I'm not training dogs for families, understand? People who want that 
 //0063_000049EB_bin\PROG.BIN
 //000018C8
 //
-<$15>
-//Y猟犬訓練所
-YDog Training
+<$15><$59>
+//猟犬訓練所
+Dog Training
 <$00>
 
 
@@ -23041,7 +23042,7 @@ Charge
 
 //0063_000049EB_bin\PROG.BIN
 //000018C8
-//<$1B>
+<$1B>
 //イヌかき
 Doggy paddle
 <$00>
@@ -24062,13 +24063,13 @@ There's one lesson I want you to always remember when facing animals in combat:
 //00000EF2
 //昔は良かったよ…　ハッスルⅡが\n簡単に手に入ってさ…　わしでも\n水の中の
 I miss Hustle Ⅱ something serious.\nI could strangle a 
-//<$1B>
+<$1B>
 //ワニを　仕留められた…
 crocodile with my\nbare hands on the stuff.
 <$12>
 \n<CLEAR>
 //
-//<$1B>
+<$1B>
 //オオカミに囲まれても　負ける気が\nゼンゼンしなかったもんなぁ\n確かに副作用は　こわかったけど…
 Wolves could have me surrounded,\nand I wouldn't bat an eyelash!
 <$12>
@@ -24243,7 +24244,7 @@ Hats and equipment showing up must mean they ate some poor hunter or tourist dip
 //00002B40
 <CLEAR>
 //
-//<$1B>
+<$1B>
 //オコゼを相手にする時は、わざわざ\n不利な水に入ってまで　戦うなよ\n入る「フリ」で　充分、足りるのサ
 Stonefish are the worst to fight. If you want one, don't enter the water, whatever you do!
 <$12>
@@ -24258,7 +24259,7 @@ You won't suffer a combat disadvantage if you stand on land, so LURE them to you
 //00002B40
 <CLEAR>
 //
-//<$1B>
+<$1B>
 //カニは　駆け出しのハンターには\nもってこいの　動物だな\nレベル上げに良し、装備にしてよしサ
 Crabs are the perfect target for greenhorns for farming materials or raising their LVL.
 <$12>
@@ -24534,10 +24535,10 @@ Every one of them has a hunting permit to show, but everyone knows they're forge
 <CLEAR>
 //あのいまいましい　
 If you see a fired up 
-//<$1B>
+<$1B>
 //サル公の弱点は、\nずばり火なんだよ！　で、お薦めなのが\n火を吹く　
 monkey, just use more fire! Get yourself a 
-//<$1B>
+<$1B>
 //トンボカッターさ！
 dragonfly cutter!
 <$12>
@@ -24624,9 +24625,9 @@ On the other hand, it may piss the critter off, in which case, you're dead meat 
 //0068_00004E1B_bin\PROG.BIN
 //00002126
 //
-<$15>
-//Y犬名判断
-YDog Divination
+<$15><$59>
+//犬名判断
+Dog Divination
 <$00>
 
 
@@ -25188,7 +25189,7 @@ What?! Don't tell me!\nLinda, why are you dressed like that?!
 <CLEAR>
 //ははン、ベンの入れ知恵だろ？\n人を喰ったような　小細工は\nあの
 Hah! That was Ben's idea, wasn't it? Shoulda known. He's one kooky 
-//<$1B>
+<$1B>
 //タヌキの十八番だ！
 tanuki!
 <$00>
@@ -25685,7 +25686,7 @@ Junk Palace B1
 //00001D41
 //他の町の
 The sheen on the 
-//<$1B>
+<$1B>
 //ナマズより　色ツヤが\n妙に　いいと思わんかね？
 catfish here is finer than on those from other towns, don't you agree?
 <$12>
@@ -25713,10 +25714,10 @@ The door is locked.
 <CLEAR>
 //お望みなら　尻尾のない
 If you ever want a tail-less 
-//<$1B>
+<$1B>
 //ネズミとか\nおしゃべりが過ぎる　
 rat, just ask. I'm not bad with 
-//<$1B>
+<$1B>
 //イヌの解体も\nやれないことは　ないよ
 dogs either.
 <$12>
@@ -25748,7 +25749,7 @@ There's a lot of people in this town who wouldn't pay 1￥ for their dying parent
 \n<CLEAR>
 //私も　人間の医者じゃなくて\nお
 I should've become a doctor for animals rather than a doctor for humans
-//<$1B>
+<$1B>
 //イヌ様の医者に　なればよかった…\nトホホホ…
 ...
 <$12>
@@ -26032,7 +26033,7 @@ Nebul
 //00000973
 //ジルって名の　お嬢さんに頼めば\n
 There's a gal named Jill who tames 
-//<$1B>
+<$1B>
 //オオカミを　内緒で猟犬に\n登録してくれるゼ
 wolves in secret.
 <$12>
@@ -26102,10 +26103,10 @@ Direct flight into Nebul exist. Go to
 \n<CLEAR>
 //もう１つのほうを　出ちゃうと\n
 If you go out through the other door, there's a lot of dangerous animals like 
-//<$1B>
+<$1B>
 //サイとか
 rhinos and 
-//<$1B>
+<$1B>
 //オオカミとか　危ない\n動物ばかりで　生きて還れないからねぇ
 wolves, so you won't get out alive!
 <$12>
@@ -26156,7 +26157,7 @@ Class A animals are protected, so once the feds stepped in, Class A trading was 
 \n<CLEAR>
 //「Ｇ」や「Ｈ」は　クズだね\n
 "G" or "H", on the other hand, are disposable. Just like 
-//<$1B>
+<$1B>
 //ブタや私や　あんたのことサ…
 pigs, just like you or me...
 <$12>
@@ -26225,7 +26226,7 @@ Money is man's greatest weapon, but in the wild,
 <$04>
 //万￥の札たばも\n
 ￥ is no match for a 
-//<$1B>
+<$1B>
 //ウサギナイフの価値さえない…
 rabbit knife.
 <$12>
@@ -26430,9 +26431,9 @@ Ken used the Vault Key.
 //0073_000051F2_bin\PROG.BIN
 //000046ED
 //
-<$15>
-//Y貸しワナ屋
-YTrapping Service
+<$15><$59>
+//貸しワナ屋
+Trapping Service
 <$00>
 
 
@@ -26837,7 +26838,7 @@ Filthy animals are one thing, but if they put a cute young man like you on the s
 
 //0075_0000526D_bin\PROG.BIN
 //00000C1D
-//<$1B>
+<$1B>
 //ドラゴン
 Dragon
 <$00>
@@ -26845,7 +26846,7 @@ Dragon
 
 //0075_0000526D_bin\PROG.BIN
 //00000C1D
-//<$1B>
+<$1B>
 //プテラノ
 Pteranodon
 <$00>
@@ -26853,7 +26854,7 @@ Pteranodon
 
 //0075_0000526D_bin\PROG.BIN
 //00000C1D
-//<$1B>
+<$1B>
 //トリケラ
 Triceratops
 <$00>
@@ -26861,7 +26862,7 @@ Triceratops
 
 //0075_0000526D_bin\PROG.BIN
 //00000C1D
-//<$1B>
+<$1B>
 //アンコウ
 Anglerfish
 <$00>
@@ -26976,9 +26977,9 @@ We ask all patrons to keep the location and activities of this venue between you
 //0075_0000526D_bin\PROG.BIN
 //00001307
 //
-<$15>
-//Yオークション
-YAuction
+<$15><$59>
+//オークション
+Auction
 <$00>
 
 
@@ -27288,17 +27289,17 @@ Don't care to stay at an inn? Then why not hone your survival skills out in the 
 //00000B5E
 //バカな観光客が　可逆レーザー銃で\n
 I saw this real stupid tourist shoot a 
-//<$1B>
+<$1B>
 //サイかなんかを　調子こいて\n撃ち殺して　遊んでたらサ…
 rhino to death with his laser gun.
 <$12>
 \n<CLEAR>
 //突然、
 Suddenly, the 
-//<$1B>
+<$1B>
 //サイの体が共鳴爆発を　起こして\n２０頭ばかしの
 rhino's body detonated, and BAM! The 
-//<$1B>
+<$1B>
 //サイが　そのバカを\n巻き込んで　吹き飛んじまった
 rhino took the tourist out too!
 <$12>
@@ -27313,7 +27314,7 @@ Today's technology is too dangerous for people who don't know basic biochemistry
 //00000B5E
 <CLEAR>
 //
-//<$1B>
+<$1B>
 //ツバメは　海を渡る鳥でね\n捕まえるのは　ちょっと難儀だね
 Swallows are birds that fly across the sea, which makes them tricky to capture.
 <$12>
@@ -27456,7 +27457,7 @@ I'm fine
 //0000129F
 <CLEAR>
 //
-//<$1B>
+<$1B>
 //イヌじゃ　どんなに成長しても\nせいぜい　２０レベル止まりなのよね
 Dogs can only go up to LVL 20, regardless of how much he or she is trained.
 <$12>
@@ -27471,7 +27472,7 @@ For
 <$1D><$06><$1E><$04><$14>
 //￥で　
 , I can turn any 
-//<$1B>
+<$1B>
 //オオカミを忠実な猟犬に\n登録できるけど、しちゃう？\n
 wolf into a loyal dog.\n
 <$01>
@@ -27535,9 +27536,9 @@ Wait, you have too many dogs as it is!
 //0077_000052A7_bin\PROG.BIN
 //0000129F
 //
-<$15>
-//Yジ ル/登 録
-YJill/Adopt
+<$15><$59>
+//ジ ル/登 録
+Jill/Adopt
 <$00>
 
 
@@ -27628,7 +27629,7 @@ Little known fact: the birdline financiers are this town's general merchants!
 <$12>
 \n<CLEAR>
 //
-//<$1B>
+<$1B>
 //プテラノ鳥も　ネブールでなら\n割と簡単に　仕入れられるわよ
 With so many Pteranobirds around Nebul, they're leagues easier to buy here.
 <$12>
@@ -27657,9 +27658,7 @@ Like its name implies, a dog is as good as dinner to those nasty plants.
 //0078_000052BB_bin\PROG.BIN
 //0000470C
 //
-<$15>
-//Y
-Y
+<$15><$59>
 <$06>
 //バードライン/
 Birdline / 
@@ -28204,9 +28203,7 @@ Not now
 //0078_000052BB_bin\PROG.BIN
 //0000470C
 //
-<$15>
-//Y
-Y
+<$15><$59>
 <$06>
 //バードライン
 Birdline
@@ -28391,10 +28388,8 @@ DESTINATION
 //0078_000052BB_bin\PROG.BIN
 //0000470C
 //
-<$15>
-//Y
-Y
-<$06>
+<$15><$59>
+ <$06>
 //トランクルーム
 Storage
 <$00>
@@ -28445,9 +28440,7 @@ The ability to access your items from any town speaks for our world's unmatched 
 //0078_000052BB_bin\PROG.BIN
 //0000470C
 //
-<$15>
-//Y
-Y
+<$15><$59>
 <$06>
 //トランクルームメニュー
 Storage Menu
@@ -28516,9 +28509,7 @@ Exit
 //0078_000052BB_bin\PROG.BIN
 //0000470C
 //
-<$15>
-//Y
-Y
+<$15><$59>
 <$06>
 //トランクルーム
 Storage
@@ -28542,9 +28533,7 @@ Storage
 //0078_000052BB_bin\PROG.BIN
 //0000470C
 //
-<$15>
-//Y
-Y
+<$15><$59>
 <$06>
 //トランクルーム
 Storage
@@ -28846,7 +28835,7 @@ I heard they were secretly running a dangerous bacterial culture research facili
 //00000F87
 //「根こそぎのヒューム」って　ハンターが\n狩りをした後は　
 Hume, or "Father Deathmas" hunts so thoroughly, no creature stays stirring, not even a 
-//<$1B>
+<$1B>
 //ネズミ１匹いねぇ！\nヤツが絶滅させた　動物もいるはずだ
 rat.
 <$12>
@@ -29022,27 +29011,27 @@ Battle Tent
 //0080_000055D7_bin\PROG.BIN
 //00002CD3
 //
-<$15>
-//Y第１リング/受付
-YRing 1/Reception
+<$15><$59>
+//第１リング/受付
+Ring 1/Reception
 <$00>
 
 
 //0080_000055D7_bin\PROG.BIN
 //00002CD3
 //
-<$15>
-//Y第２リング/受付
-YRing 2/Reception
+<$15><$59>
+//第２リング/受付
+Ring 2/Reception
 <$00>
 
 
 //0080_000055D7_bin\PROG.BIN
 //00002CD3
 //
-<$15>
-//Y第３リング/受付
-YRing 3/Reception
+<$15><$59>
+//第３リング/受付
+Ring 3/Reception
 <$00>
 
 
@@ -29056,10 +29045,10 @@ He who walks the road to manhood,\nare ye prepared for Ring 1?
 //0080_000055D7_bin\PROG.BIN
 //00002CD3
 Tougher than a 
-//<$1B>
+<$1B>
 //カメより硬く、
 turtle, faster than a 
-//<$1B>
+<$1B>
 //トラより強いものたちよ∥\nさあ　第２リングで　ヒーローになれ∥
 tiger, it's our Ring 2 Hero!
 <$00>
@@ -29530,7 +29519,7 @@ Meat・Equipment
 //000020FD
 <CLEAR>
 //
-//<$1B>
+<$1B>
 //ヤギは、武器にしても　服にしても\nかなり使える　バランスのいい動物だ
 Goats are versatile animals that can be made into weapons or clothes.
 <$12>
@@ -29558,7 +29547,7 @@ Can you imagine a real carnivorous animal saying that? Don't make me laugh!
 //000020FD
 //「
 A 
-//<$1B>
+<$1B>
 //ノミパチンコ」ってのは\n威力のわりには値段も安くて\n超お買い得の武器だ∥
 Flea Pachinko is a great bargain! It's heavy-duty, but comes at a very light price! 
 <$12>
@@ -29599,7 +29588,7 @@ More often than not, I argue it's better to cut your losses and buy a new friend
 <CLEAR>
 //本当はまずいんだけど　
 It's a shady practice, but there's a certain someone who will tame 
-//<$1B>
+<$1B>
 //オオカミをね、\n内緒で猟犬に　登録しちゃう無茶な\n裏技を使う同業者も　いるらしいわ
 wolves under the table.
 <$12>
@@ -29865,9 +29854,9 @@ Ken used the Warehouse Key!
 //0083_0000565F_bin\PROG.BIN
 //00002899
 //
-<$15>
-//YＢＢ牧場
-YBB Ranch
+<$15><$59>
+//ＢＢ牧場
+BB Ranch
 <$00>
 
 
@@ -30252,7 +30241,7 @@ If you walk around outside with garbage in hand, you might attract bugs.
 \n<CLEAR>
 //そいつが　
 But you know, 
-//<$1B>
+<$1B>
 //ノミだよ\nまッ、アレも一応　動物だから\n忘れずに　捕まえときナ
 fleas are animals too, so if you see one, you'd better catch it!
 <$12>
@@ -30275,7 +30264,7 @@ What started as a hub for sharing hunting intel grew into the town you see here:
 //000010FC
 //どんなに強い猟犬も　しょせんは
 No matter how strong a dog is,
-//<$1B>
+<$1B>
 //イヌ、\n
 a dog's max attainable LVL is 
 <$06>
@@ -30294,7 +30283,7 @@ Out there in the world is a four-legged friend that can reach LVL
 <$04>
 //レベルの猟犬も\nいるらしいけど　そいつらの正体は\nどうやら　
 , but technically, it's not a 
-//<$1B>
+<$1B>
 //イヌじゃないらしいのよ
 dog at all!
 <$12>
@@ -31177,7 +31166,7 @@ MERRY XMAS! Green Pharmaceuticals runs the town of Eterna to bring health to all
 \n<CLEAR>
 //奥のエリザベス社長の　屋敷の１階では\n来訪者全員に　「
 We are now serving 
-//<$1B>
+<$1B>
 //ブタの腸詰」を\nさしあげて　おります
 Pig Sausage on the first floor of President Green's mansion.
 <$12>
@@ -31457,7 +31446,7 @@ You're welcome to a free meal! Just line up, men to the right, and women to the 
 //00003723
 //はい！　
 Here! Try this 
-//<$1B>
+<$1B>
 //ブタの腸詰です\nひとつで　たりない方は\nどんどん　おかわりしてくださいね
 Pig Sausage.\nIf one's not enough, feel free to get more!
 <$12>
@@ -31472,7 +31461,7 @@ Pig Sausage.\nIf one's not enough, feel free to get more!
 <$15><$53>
 //ケンは「
 Ken received the\n
-//<$1B>
+<$1B>
 //ブタの腸詰」を\n受け取った
 Pig Sausage.
 <$14><$12>
@@ -31499,10 +31488,10 @@ The man to our right would be happy to serve you a fresh meal!
 //00003723
 //タダ飯に　文句言うつもりはないけどね\n毎日、
 I'm not one to look a gift 
-//<$1B>
+<$1B>
 //ブタの腸詰じゃ　体臭まで\n
 Pig Sausage in the mouth, but stuffing this  
-//<$1B>
+<$1B>
 //ブタくさくなってくる　気がするよ
 pig meat every day just stinks!
 <$12>
@@ -32047,7 +32036,7 @@ Nek?\nAnd that's spelled, N-E-K?\nLet me think...
 <CLEAR>
 //Ｎ、Ｅ、Ｋ…Ｏなら　
 It reminds me of "N-E-K-O".\nThat's Japanese for "
-//<$1B>
+<$1B>
 //ネコね\nＡ級保護指定の動物でしょ\nさあ、どこにいるのかしらね
 cat," like the Class A animal species.
 <$00>
@@ -32278,7 +32267,7 @@ Oh, it's you! Ken, isn't it? Then you received my voicemail.\nI'm Mica Panheim.
 <CLEAR>
 //
 Do you have the 
-//<$1B>
+<$1B>
 //ヤギの肉は　まだかな？\nまあ、わしのほうには　別段\n急ぐ理由は　ないんだがね
 Goat Filets yet? It's not me who's in a hurry, remember.
 <$00>
@@ -32308,7 +32297,7 @@ Oh! Are those the meats? You're faster than I expected!
 <$15><$53>
 //ケンは　パンハイム博士に\n
 Ken gave Prof. Panheim the\n
-//<$1B>
+<$1B>
 //ヤギの肉を　手渡した
 Goat Filets.
 <$14><$12>
@@ -32703,10 +32692,10 @@ Meat Market 1F
 <CLEAR>
 //猟犬が　かわいけりゃ　
 If you love dogs, keep yours away from 
-//<$1B>
+<$1B>
 //ヘビや
 snakes and 
-//<$1B>
+<$1B>
 //タコには\n十分注意したほうが　いいな\nヤツら　犬が大好物なんだよ
 octopi. Unfortunately, they love dogs too!
 <$12>
@@ -32717,7 +32706,7 @@ octopi. Unfortunately, they love dogs too!
 //0000301F
 <CLEAR>
 //「
-//<$1B>
+<$1B>
 //ブタの腸詰」を　売りに来るヤツが\nけっこう、いるんだよな…\n商売だから　買うけどもね…
 Pig Sausage re-sellers come in almost too often from the soup kitchen. I do buy the sausage, but...
 <$12>
@@ -33083,7 +33072,7 @@ Next autumn, ride the western sea to the G
 <$04>
 //の半島の　近くの海に\n
  peninsula and watch the 
-//<$1B>
+<$1B>
 //ツバメの群れが　現れるんだ
 swallows.
 <$12>
@@ -33094,7 +33083,7 @@ They're nomads, just like us.
 \n<CLEAR>
 //違うのは　
 The difference is, 
-//<$1B>
+<$1B>
 //ツバメには\n行く当てが　あるだろうけど、\n俺たちには　ねェってことくらいさ
 swallows have a good sense of where they're going, while we humans don't.
 <$12>
@@ -33169,17 +33158,17 @@ They have to strip down and show their bare naked hearts to customers to do well
 <CLEAR>
 //湖で
 If you had to pick between "crossing
-//<$1B>
+<$1B>
 //カメのわきへ　レンタ・
 turtles on 
-//<$1B>
+<$1B>
 //イルカから\n降りるのと、スパームリナの毒沼の中で\nひとりで　野営するのと…
 dolphinback", or "camping in Spurr Marina alone"...
 <$12>
 \n<CLEAR>
 //パーティの　罰ゲームには\nどっちがいいかな？　あんた、どう思う？\n
 Which one's the better penalty game, you think?\n
-<$01>//<$1B>
+<$01><$1B>
 //カメのわき
 Crossing turtles
 <$0E>
@@ -33277,16 +33266,16 @@ You can make cash right quick once you learn which animals are walking paychecks
 <$12>
 \n<CLEAR>
 //
-//<$1B>
+<$1B>
 //イルカや
 Dolphins or 
-//<$1B>
+<$1B>
 //コアラは　ともかく\n
 koalas are valuable, but 
-//<$1B>
+<$1B>
 //ハイエナとか　
 hyenas and 
-//<$1B>
+<$1B>
 //ゾウモツになると\nけっこう　きついものがありますね…
 giblets(?) are a jackpot and a half!
 <$12>
@@ -33759,16 +33748,16 @@ OzPort Gate 1F
 //0000704E
 //この町の周辺で　ご覧いただける動物は\n
 Notable animals in the area are\n
-//<$1B>
+<$1B>
 //イカ、
 squids and 
-//<$1B>
+<$1B>
 //ダチョウです
 ostriches.
 <$12>
 \n<CLEAR>
 //
-//<$1B>
+<$1B>
 //イカは　近寄らない限り、危険は\nありませんが　念のためレベル６以上の\nガイドと　同行してください
 Squids are only dangerous when provoked,\nbut we still recommend that tourists hire escorts LVL 6 or higher.
 <$12>
@@ -33873,13 +33862,13 @@ Hardia Gate 1F
 //0000789E
 //この町の周辺で　見られる動物は\n
 Notable animals in the area are\n
-//<$1B>
+<$1B>
 //ブタ、
 pigs, 
-//<$1B>
+<$1B>
 //ダチョウです\n秋には
 ostriches 
-//<$1B>
+<$1B>
 //トンボの群れも楽しめます
 and dragonflies.
 <$12>
@@ -33889,7 +33878,7 @@ We advise all tourists to hire\nan escort LVL 2 or higher.
 <$12>
 \n<CLEAR>
 //
-//<$1B>
+<$1B>
 //イヌには　注意してくださいね
 Also, please watch your dogs!
 <$12>
@@ -34017,10 +34006,10 @@ Minago Gate 1F
 //00008248
 //この町の周辺で　見られる動物は\n
 Notable animals in the area are\n
-//<$1B>
+<$1B>
 //ブタ、
 pigs and 
-//<$1B>
+<$1B>
 //リスです
 squirrels.
 <$12>
@@ -34104,7 +34093,7 @@ We encourage all tourists to see our beautiful church and its bell tower!
 //0000878F
 <CLEAR>
 //
-//<$1B>
+<$1B>
 //プテラノ鳥の　仕入れと調教の方法は\n我社の　トップシークレットなの\n教えたりしたら　クビになっちゃうわ
 How we capture and tame our Pteranobirds remains a strict company secret.
 <$12>
@@ -34138,23 +34127,23 @@ Hospico Gate 1F
 //00008AF4
 //この町の周辺で　ご覧いただけるのは\n
 Notable animals in the area are\n
-//<$1B>
+<$1B>
 //カニ、
 crabs, 
-//<$1B>
+<$1B>
 //モグラ、
 moles, 
-//<$1B>
+<$1B>
 //オコゼ、
 stonefish and 
-//<$1B>
+<$1B>
 //サル
 monkeys.
 <$12>
 \n<CLEAR>
 //近寄らなければ　
 Excluding the 
-//<$1B>
+<$1B>
 //サル以外の動物は\nとくに　危険はありません
 monkeys, animals nearby shouldn't approach you.
 <$12>
@@ -34238,13 +34227,13 @@ Paraside Gate 1F
 //000091DC
 //この町の周辺で　見られる動物は\n
 Notable animals in the area are\n
-//<$1B>
+<$1B>
 //ウサギ、
 rabbits, 
-//<$1B>
+<$1B>
 //モグラ、
 moles and 
-//<$1B>
+<$1B>
 //カニです
 crabs.
 <$12>
@@ -34259,7 +34248,7 @@ We advise all tourists to hire an escort LVL 8 or higher.
 //000091DC
 <CLEAR>
 //
-//<$1B>
+<$1B>
 //カニから作る装備は　けっこう、\nバランスも良くて　使えるらしいね
 Equipment crafted from crabs is usually real balanced and versatile.
 <$12>
@@ -34306,26 +34295,26 @@ Battle Park Gate 1F
 //000096F3
 //この町の南では\n
 To the south, you'll find 
-//<$1B>
+<$1B>
 //ノミ、
 fleas, 
-//<$1B>
+<$1B>
 //ウマ、
 horses, and 
-//<$1B>
+<$1B>
 //リス
 squirrels.
 <$12>
 \n<CLEAR>
 //北の湖沼地帯では　
 In the northern wetlands, there are 
-//<$1B>
+<$1B>
 //カバ、
 hippos and 
-//<$1B>
+<$1B>
 //カメ\n雪が降れば　
 turtles. In winter, you might see 
-//<$1B>
+<$1B>
 //シロクマも\nご覧いただくチャンスが　あります
 polar bears.
 <$12>
@@ -34426,7 +34415,7 @@ Koshikata Gate 1F
 <CLEAR>
 //－Ｎ・Ｋ・ＮＥＷＳ－　［号外］\nコシカタの幻の秘宝「
 －NK NEWS－\nBREAKING! KOSHIKATA UNVEILS PRIDED 
-//<$1B>
+<$1B>
 //トラの爪」、\nクリスマスに　特別一般公開決定∥
 TIGER CLAW FOR XMAS EXHIBIT
 <$12>
@@ -34449,7 +34438,7 @@ That's also the due date for his expected twins, giving him three treasures to s
 <CLEAR>
 //バトルパークの手前に　珍しく\n
 A wild pack of 
-//<$1B>
+<$1B>
 //カメの群れが　陣取ってやがってよ\n危うく　やられるとこだったゼ
 turtles have taken over the area surrounding Battle Park.
 <$12>
@@ -34574,13 +34563,13 @@ Eterna Gate 1F
 //0000A7E8
 //この町の周辺では　
 Around town, you might find 
-//<$1B>
+<$1B>
 //ハイエナ、
 hyenas or 
-//<$1B>
+<$1B>
 //イタチ\n北部では　
 weasels, with 
-//<$1B>
+<$1B>
 //シロクマを\n見ることが　できます
 polar bears to the north.
 <$12>
@@ -34602,7 +34591,7 @@ We advise all tourists to hire an escort LVL
 <CLEAR>
 //
 Don't underestimate 
-//<$1B>
+<$1B>
 //ペンギンをあなどると　痛い目にあうよ\n１体１体は　たいしたことないけど\n集団でふぶかれると、あの世行きだ
 penguins. Get caught under a flock of them, and you're gone.
 <$12>
@@ -34620,7 +34609,7 @@ Eterna Gate 2F
 //0000AAA2
 <CLEAR>
 //
-//<$1B>
+<$1B>
 //イタチは　樹木に化けて\n手頃な獲物が　そばを通るまで\n１年でも２年でも　待ってるそうよ
 Weasels hide in trees, sometimes for a year or two, for the right targets to approach.
 <$12>
@@ -34659,7 +34648,7 @@ Spurr Valley Gate 2F
 <CLEAR>
 //昔は、口笛で
 A Beastian friend of mine told me that long ago, there were people who were able to call for 
-//<$1B>
+<$1B>
 //プテラノ鳥を　自由に呼ぶ\n人もいたって　ビースチャンの\n友だちが　そっと教えてくれたの…
 Pteranobirds by whistling.
 <$12>
@@ -34765,9 +34754,9 @@ Oh, right on! Enjoy your adventure then, and stay careful!
 //0104_00003468_bin\PROG.BIN
 //00000E67
 //
-<$15>
-//Yレンタ動物屋
-YAnimal Rental
+<$15><$59>
+//レンタ動物屋
+Animal Rental
 <$00>
 
 
@@ -34820,7 +34809,7 @@ We're sorry for the inconvenience, but please wait a little while and come back.
 <CLEAR>
 //凍てつく雪原も　レンタ・
 Safely traverse the snow by renting Kanta, the 
-//<$1B>
+<$1B>
 //シロクマの\nカン太君に乗れば　
 polar bear. Only 
 <$1D><$06>
@@ -34853,7 +34842,7 @@ Exit
 <CLEAR>
 //危険な水の中も　レンタ・
 Safely traverse the seas by renting Chinpei, the   
-//<$1B>
+<$1B>
 //イルカの\nチン平君に乗れば　
 dolphin. Only 
 <$1D><$06>
@@ -34953,14 +34942,14 @@ Chinpei will be waiting for you out in the lake! Jump on its back when you're re
 <CLEAR>
 //レンタ・
 Travel over ice and snow by renting Kanta, the 
-//<$1B>
+<$1B>
 //シロクマの　カン太君に乗れば\n歩きにくい雪や氷も　ラックラク！
 polar bear. Crunch, crunch!
 <$12>
 \n<CLEAR>
 //おまけに　カン太君はこの辺じゃ\n”顔”ですから、他の
 Kanta has such a dominating presence, the other 
-//<$1B>
+<$1B>
 //シロクマも\n道を譲りますよ、いやホントに
 polar bears yield to him!
 <$12>
@@ -34972,14 +34961,14 @@ polar bears yield to him!
 <CLEAR>
 //レンタ・
 Cross waters and wetlands by renting Chinpei, the 
-//<$1B>
+<$1B>
 //イルカの　チン平君に乗れば\n歩きにくい水中や湿地も　スイスイ！
 dolphin! Swoosh, swoosh!
 <$12>
 \n<CLEAR>
 //おまけに　チン平君は\nとてもマズそうですから、
 Plus, Chinpei's so untasty looking, even 
-//<$1B>
+<$1B>
 //カバさえ\n見向きもしません、いやホントに
 hippos won't eat him!
 <$12>
@@ -35000,7 +34989,7 @@ A man without money must walk on his own two feet. That's the undying law of thi
 <CLEAR>
 //まっ一度、湖で
 Well, okay! Have fun chasing 
-//<$1B>
+<$1B>
 //カメと\n追いかけっこを　してから\nまた　おいでくださいな
 turtles in the lake.\nSee you around!
 <$12>
@@ -35031,14 +35020,14 @@ You should go catch it!\nWhen you do, come back and tell me in secret what the a
 //00000E67
 //えーッ￠\n伝説の動物の正体は　
 What?! The legendary phantom animal is a 
-//<$1B>
+<$1B>
 //パンダってか？
 panda?!
 <$12>
 \n<CLEAR>
 //へえー∥　それは凄いわねえ∥\nよりによって　
 That's got to be a joke.\nA 
-//<$1B>
+<$1B>
 //パンダときましたか…
 PANDA, of all fuckin' things...
 <$12>
@@ -35054,14 +35043,14 @@ You have to be more creative than that. If you can't fib any better, a grown wom
 <CLEAR>
 //肉が腐ったら　早めに捨てなよ、\n
 Even Rotten Meat is useful, because 
-//<$1B>
+<$1B>
 //ハイエナが　ニオイをかぎつけて\nうれしそうに　寄って来るからね
 Hyenas are attracted to the scent!
 <$12>
 \n<CLEAR>
 //あんたの心が　多少腐ってても\n
 No one can sniff out a rotten heart, but 
-//<$1B>
+<$1B>
 //ハイエナには　わからないけどね、\n腐った肉のニオイには　敏感なのサ
 hyenas can smell Rotten Meat from kilometers away!
 <$12>
@@ -35072,7 +35061,7 @@ hyenas can smell Rotten Meat from kilometers away!
 //00000E67
 <CLEAR>
 //
-//<$1B>
+<$1B>
 //カワウソが　絶滅しちまったらしいね\nヘンな顔のヤツだったけど\nいなくなってみると　妙に寂しい…
 Otters are reportedly extinct now. They were ugly as hell, but I'm still gonna miss them.
 <$12>
@@ -35566,7 +35555,7 @@ Ah, I see...\nDid we say Tonkichi was going to be good around water? No, we didn
 <CLEAR>
 //焼けつく砂漠も　レンタ・
 Safely traverse the desert by renting Tonkichi, the 
-//<$1B>
+<$1B>
 //ラクダの\nトン吉君に乗れば　
 camel. Only 
 <$1D><$06>
@@ -35612,7 +35601,7 @@ Tonkichi will be waiting for you outside! Jump on when you're ready!
 <CLEAR>
 //レンタ・
 Rent a 
-//<$1B>
+<$1B>
 //ラクダの　トン吉君に乗れば\n人跡未踏の荒野も　なんのその！
 camel, and the world will be at your feet- err, hooves!
 <$12>
@@ -35643,14 +35632,14 @@ Tourists come in to rent Tonkichi solely to take photos of him on a desert backd
 <CLEAR>
 //レンタ・
 Cross waters and wetlands by renting Chinpei, the 
-//<$1B>
+<$1B>
 //イルカの　チン平君に乗れば\n歩きにくい水中や湿地も　スイスイ！
 dolphin!
 <$12>
 \n<CLEAR>
 //おまけに　チン平君は\nとてもマズそうですから、
 Plus, Chinpei's so untasty looking, even 
-//<$1B>
+<$1B>
 //ハイエナさえ\n見向きもしません、いやホントに
 hippos won't eat him!
 <$12>
@@ -35666,7 +35655,7 @@ The locals call those federal cretins who shamelessly flaunt their power
 \n<CLEAR>
 //「
 "
-//<$1B>
+<$1B>
 //カンガル野郎」ってね！
 kangaroos".
 <$12>
@@ -36697,7 +36686,7 @@ We live east of Dogyf Heights, through the J
 <$04>
 //の\nトンネルを　ぬけた先だ\n
  tunnel. Watch out for 
-//<$1B>
+<$1B>
 //ヒョウに気をつけて　来るんだよ
 leopards.
 <$00>
@@ -36872,7 +36861,7 @@ I can't believe the culprit behind yet another senseless murder spree hasn't bee
 \n<CLEAR>
 //
 Did someone idiot ronin walk a goddamn 
-//<$1B>
+<$1B>
 //ライオンか何かを　ペットにする気で\n町の中に持ち込んだ　バカがいたのよ
 tiger into town like some kind of pet?
 <$12>
@@ -37971,30 +37960,30 @@ Angela, sing for us one more time! For me, the human scum of the world who was t
 //000075CC
 //「
 "How do you say '
-//<$1B>
+<$1B>
 //ヒョウが驚いた∥　う
 pig' in French?\n
-//<$1B>
+<$1B>
 //ヒョウ∥」
 Pour qui!"
 <$12>
 \n<CLEAR>
 //「
 "How do you say '
-//<$1B>
+<$1B>
 //ヒョウが驚いたよ∥　う
 pig' in French?\n
-//<$1B>
+<$1B>
 //ヒョウ∥」
 Pour qui!"
 <$12>
 \n<CLEAR>
 //「
 "How do you say '
-//<$1B>
+<$1B>
 //ヒョウが　驚いたんだってば………\nでね、う
 pig' in..."\nOh, Goddammit!\n
-//<$1B>
+<$1B>
 //ヒョウ∥∥」
 "POUR QUI!"
 <$12>
@@ -38250,7 +38239,7 @@ If we could talk to animals, I wonder how they'd react to news of the Grim Reape
 \n<CLEAR>
 //とくに　
 Can you imagine the look on a 
-//<$1B>
+<$1B>
 //オコゼのひきつった顔…\n想像するだに　笑えるぞ
 stonefish's face? That'd be rich!
 <$12>
@@ -39092,7 +39081,7 @@ Get it? I distract him while you look around! It's fool-proof!
 //00004D38
 //リンダに　早く会いに行ってやれよ\nあまり待たせると　リンダの首が\n
 You'd better go see Linda soon.\nI'm surprised she's not a 
-//<$1B>
+<$1B>
 //キリンよか　長くなっちまうゼ！
 giraffe with the way\nshe sticks her neck out for you!
 <$12>
@@ -39598,9 +39587,9 @@ Okay, help yourself.
 //0162_000041CA_bin\PROG.BIN
 //00005E57
 //
-<$15>
-//Yパスワード
-YPassword
+<$15><$59>
+//パスワード
+Password
 <$00>
 
 
@@ -39797,14 +39786,13 @@ Z
 <$08>
 //14
 14
-<$15>
-//Y［
-Y［
+<$15><$59>
+//［
+［
 <$15><$57>
-W
-<$1D><$15>
-//Y］
-Y］
+<$1D><$15><$59>
+//］
+］
 <$00>
 
 
@@ -41262,13 +41250,13 @@ Twenty six people died that night, and zero had all their body parts.
 \n<CLEAR>
 //子
 It was like a little puppy-
-//<$1B>
+<$1B>
 //イヌのオリに　飢えた
 dog chewed em up.
 <$12>
 \n<CLEAR>
 A razor-toothed 
-//<$1B>
+<$1B>
 //ライオンを\n入れたとしても　もっとマシだったに\n違いないだろうゼ
 lion would have given\nthe villagers more merciful deaths.
 <$12>
@@ -44225,7 +44213,7 @@ Try to be around, oh...3 LVLs above your enemy, and battles will always go smoot
 <CLEAR>
 //よせばいいのに　最近、ゴメスの所に\n身のほど知らずの
 I keep clean, but people always talk about "
-//<$1B>
+<$1B>
 //ネズミが\nよく迷い込んで来る　みたいでね…
 rats" running rampant around Gomez's place.
 <$12>
@@ -44537,7 +44525,7 @@ Wrong guy!
 <CLEAR>
 //
 Our 
-//<$1B>
+<$1B>
 //ネズミを　逃がしてやったから\nそろそろ来る頃と　思うとったよ\nまぁ　ゆっくりして行きなされ
 rat has escaped, so you're right on time.\nWatch your step, and make yourself at home.
 <$12>
@@ -44573,7 +44561,7 @@ It was a joke! Just a joke, I swear! We were only having some fun!
 //00003EFC
 //ゲヘヘヘ…　きょうは
 Gehehe... Today's the 
-//<$1B>
+<$1B>
 //ネコ踊りかな
 Cat Dance festival, isn't it?
 <$12>
@@ -44594,7 +44582,7 @@ If we ever did break into a fight with a girl like that, we'd probably have our 
 
 //0184_00004FAE_bin\PROG.BIN
 //00003EFC
-//<$1B>
+<$1B>
 //ネズミごっこは　楽しいよ
 Rat play is so much fun.
 <$12>
@@ -44623,13 +44611,13 @@ You're WELCOME!\nHah-hah-hah!
 
 //0184_00004FAE_bin\PROG.BIN
 //00003EFC
-//<$1B>
+<$1B>
 //ネズミ、
 Rat, 
-//<$1B>
+<$1B>
 //ネコ、
 cat or 
-//<$1B>
+<$1B>
 //イヌ…\nきょうは　どれかなぁ？
 dog...\nWhich will it be today, boys?
 <$12>
@@ -44655,7 +44643,7 @@ But the Boss' jokes are way better than the Elder's too. At least I get to laugh
 //0184_00004FAE_bin\PROG.BIN
 //00003EFC
 The 
-//<$1B>
+<$1B>
 //ネコ踊りは　火を起こしたり\n準備が面倒だから　ヤだなぁ…
 Cat Dancing festival can cause a fire, and making preparations is tiring.
 <$12>
@@ -44674,7 +44662,7 @@ If you're ever kicked out of the rangers, you can be a proxy hunter with us!
 //00003EFC
 //きっと「
 The boss has been so pent-up lately, it might be a good day for 
-//<$1B>
+<$1B>
 //イヌごっこ」だと思うよ\n最近、ゴメス親分も　丸くなったしさ
 puppy play. 
 <$12>
@@ -44684,7 +44672,7 @@ puppy play.
 //0184_00004FAE_bin\PROG.BIN
 //00003EFC
 I hate cleaning up after 
-//<$1B>
+<$1B>
 //ネズミごっこは　後片付けが\nたいへんなんだよなぁ\nゆかも　汚れるし…
 rat play. The floor gets so dirty!
 <$12>
@@ -44695,7 +44683,7 @@ rat play. The floor gets so dirty!
 //00003EFC
 //男の
 I don't like to watch when a male 
-//<$1B>
+<$1B>
 //ニワトリが　卵を産むとこは\nなるべく　見たくないんだよな…
 chicken lays an egg.
 <$12>
@@ -44706,7 +44694,7 @@ chicken lays an egg.
 //00003EFC
 //「
 In my eyes, "
-//<$1B>
+<$1B>
 //イヌのマネ」あたりだと\n見てる俺らも　気が楽だよ
 puppy play" is a much funner for those watching.
 <$12>
@@ -44716,7 +44704,7 @@ puppy play" is a much funner for those watching.
 //0184_00004FAE_bin\PROG.BIN
 //00003EFC
 I hate how time consuming our 
-//<$1B>
+<$1B>
 //アンコウダンスや　ホタルダンスは\n手間がかかるわりに　すぐ終ることも\n多いから　あまり好きじゃないな
 anglerfish and firefly dances are, but we'll be done soon.
 <$12>
@@ -45342,7 +45330,7 @@ We're living, breathing humans, after all. That's as humiliating as it gets.
 <CLEAR>
 //そのほうがいいよ、さすがに\n
 Hmph. An amateur like you wouldn't appreciate my 
-//<$1B>
+<$1B>
 //ニワトリごっこは　素人が見るには\nきついモンが　あるしな
 chicken roleplay anyways. 
 <$12>
@@ -45903,7 +45891,7 @@ A tourist hotel on the western shore was abandoned half-way into contruction.
 \n<CLEAR>
 //問題はただひとつ、客が全員\n
 It looks beautiful, but alas, its only guests now are the 
-//<$1B>
+<$1B>
 //カラスだってことさ
 crows.
 <$12>
@@ -45953,7 +45941,7 @@ The funny part about that is, be he dog or man, it's the scaredy cats who live t
 <CLEAR>
 //「オオカミ少女のジル」って、調教師に\nかかれば　どう猛な
 "Wolfgirl Jill" is a fierce young tamer who can turn any 
-//<$1B>
+<$1B>
 //オオカミも\n猟犬に　変えられちゃうらしいよ
 wolf into a loyal hunting dog.
 <$12>
@@ -46132,7 +46120,7 @@ DGF Dojo B1
 <CLEAR>
 //タオルを投げれば　
 Throwing in the towel may save your 
-//<$1B>
+<$1B>
 //イヌの命を\n確実に　救うことができるわ∥\nただし　賞金はチャラ…
 dog's life, but your winnings go kaput.
 <$12>
@@ -46171,7 +46159,7 @@ Some owners can't help but care for their dogs, but it's a good way to fall into
 
 //0196_00006186_bin\PROG.BIN
 //00003F10
-//<$1B>
+<$1B>
 //イヌが戦ってる最中に　飼い主が\nできることは　応援と…
 The only thing the owner can do in a dogfight is show support.
 <$12>
@@ -46197,7 +46185,7 @@ You'll throw in the towel and lose the match, but doing so may save your dog's l
 //00003F10
 //闘犬場での番付が　三役以上になると\nそれだけで　お
 Participants with 
-//<$1B>
+<$1B>
 //イヌ様に　季節ごとに\n給金が　飼い主に支払われるのサ
 dogs 3rd-tier or higher can be paid seasonally.
 <$12>
@@ -46248,10 +46236,10 @@ I hear only one person's ever beat him so far. His name was, I think, "Bahn"? "B
 //00003F10
 //世の中にはヘンなヤツが　たまにいてサ\n
 Some weirdos in the world bring pet 
-//<$1B>
+<$1B>
 //イルカとか　
 dolphins or 
-//<$1B>
+<$1B>
 //ライオンを\nここへ　持ち込んどいて…
 lions to fight in the dojo.
 <$12>
@@ -46321,7 +46309,7 @@ But he loved each, Louise, Carol and Kate, from the bottom of his heart.
 \n<CLEAR>
 //
 There was no B-word he loved as much as his 
-//<$1B>
+<$1B>
 //イヌの次くらいにはね
 dog, though.
 <$12>
@@ -46863,9 +46851,9 @@ A see a "dogfight" for the inheritance breaking out between them any day now.
 //0196_00006186_bin\PROG.BIN
 //00005FCE
 //
-<$15>
-//Y闘犬場/受付
-YDGF Dojo/Reception
+<$15><$59>
+//闘犬場/受付
+DGF Dojo/Reception
 <$00>
 
 
@@ -46951,9 +46939,9 @@ Learning to bite isn't as gratifying if you can't bark about it too.
 //0196_00006186_bin\PROG.BIN
 //00005FCE
 //
-<$15>
-//Y闘犬場
-YDGF Dojo
+<$15><$59>
+//闘犬場
+DGF Dojo
 <$00>
 
 
@@ -47570,16 +47558,16 @@ DOG FIGHT!!
 //00000A49
 //武器なら「
 If you want to augment 
-//<$1B>
+<$1B>
 //ヒョウサーベル」か\n「
 leopard sabers or 
-//<$1B>
+<$1B>
 //ワニムチ」、そんで防御回りを\n
 crocodile picks, use 
-//<$1B>
+<$1B>
 //ハマグリか　
 clams or 
-//<$1B>
+<$1B>
 //マイマイで固めりゃ…
 snails.
 <$12>
@@ -47810,10 +47798,10 @@ The animals of this planet are all so nightmarish and grotesque.
 \n<CLEAR>
 //でも
 The only exception to the rule is the common 
-//<$1B>
+<$1B>
 //イヌだけは　なぜかマトモ！\nその理由はサ、
 dog, but there is a reason for why they look so "common".
-//<$1B>
+<$1B>
 //イヌは人間が　後から\n持ち込んだのが　野性化したからサ
 Originally, dogs must have been brought to Neo Kenya by humans. They only went wild after they arrived!
 <$12>
@@ -48195,7 +48183,7 @@ This doll has a red body and no legs, like a weird bath toy.
 <$15><$53>
 //片手を上げた　顔が
 This doll has its paw raised.\nIt resembles a 
-//<$1B>
+<$1B>
 //ネコに似た\n動物の人形が　ある
 cat.
 <$14><$12>
@@ -48835,7 +48823,7 @@ You can find them in Sand Hole, the cave due south of here.
 <CLEAR>
 //そこに「
 We need you to hunt 
-//<$1B>
+<$1B>
 //サソリ」が　いるのよ\nその肉が　４つほど必要なの
 scorpions, and bring us 4 Scorpion Filets.
 <$00>
@@ -48887,7 +48875,7 @@ I knew you'd say that. But in the end, I know you'll still help us. That's the p
 <CLEAR>
 //くれぐれも　注意してね\n
 Please be careful. A mutated, violent kind of 
-//<$1B>
+<$1B>
 //サソリには　ソックリで狂暴な\n突然変異種も　混じってるから
 scorpion also lives in the cave.
 <$00>
@@ -48922,7 +48910,7 @@ As he is now, he is only a pitiful man.
 <CLEAR>
 //南の洞くつの　
 We need 4 
-//<$1B>
+<$1B>
 //サソリの肉４つ
 Scorpion Filets from the southern cave.
 <$00>
@@ -48952,7 +48940,7 @@ Good work! On our end, we just finished making preparations for the transplant.
 <$15><$53>
 //ケンは　スミレに\n
 Ken gave Sumire the\n
-//<$1B>
+<$1B>
 //サソリの肉を\n４つ　手渡した
 Scorpion Filets.
 <$14><$12>
@@ -49004,7 +48992,7 @@ It seems a few cryo-preserved animals are frozen inside.
 <CLEAR>
 //終わったわよ、ケン！\nウソみたいに　早かったでしょ？\n
 The transplant is complete! Wasn't that fast? All thanks to the 
-//<$1B>
+<$1B>
 //サソリの肉のおかげよ！
 Scorpion Filets.
 <$00>
@@ -49694,7 +49682,7 @@ My name is Kevin!
 \n<CLEAR>
 //ペットは　メスの
 This is my pet 
-//<$1B>
+<$1B>
 //クワガタの\nポロポロちゃんさ！\nパパに　もらったんだ
 stag beetle, Nightshade! Daddy gave her to me!
 <$12>
@@ -50283,13 +50271,13 @@ Dogyf Heights Gate 1F
 //00008BA5
 //この町の東部では　
 East of town, the 
-//<$1B>
+<$1B>
 //ヒョウ、湖では\n
 leopards, 
-//<$1B>
+<$1B>
 //ワニ、
 crocodiles and 
-//<$1B>
+<$1B>
 //ハマグリを　レベル
 clams should only be fought with an escort LVL 
 <$06>
@@ -50302,16 +50290,16 @@ clams should only be fought with an escort LVL
 \n<CLEAR>
 //西部の砂漠地帯では　
 Out west, the 
-//<$1B>
+<$1B>
 //カラス、\n
 crows, 
-//<$1B>
+<$1B>
 //ムカデ、
 centipedes, 
-//<$1B>
+<$1B>
 //アルマジ、
 armadillos and 
-//<$1B>
+<$1B>
 //ラクダ…
 camels are also forces to be reckoned with.
 <$12>
@@ -50521,9 +50509,9 @@ Hume and Ann attacked!
 //0211_0000147F_bin\PROG.BIN
 //000069A3
 //
-<$15>
-//Yスケジュール
-YMemo 
+<$15><$59>
+//スケジュール
+Memo 
 <$00>
 
 
@@ -50590,7 +50578,7 @@ Assist Panheim
 
 //0211_0000147F_bin\PROG.BIN
 //000069A3
-//<$1B>
+<$1B>
 //カメの卵を手に入れる
 Snatch Turtle Eggs
 <$00>
@@ -50598,7 +50586,7 @@ Snatch Turtle Eggs
 
 //0211_0000147F_bin\PROG.BIN
 //000069A3
-//<$1B>
+<$1B>
 //プテラノの卵を手に入れる
 Snatch Pteranodon Eggs
 <$00>
@@ -50666,7 +50654,7 @@ Defeat Fang in Karhagolem. Present proof to Spectre in Hardia Hotel.
 <CLEAR>
 //マーブルポリスの
 Process meat from 
-//<$1B>
+<$1B>
 //ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す
 chickens in Marblopolis.Give them to Prof. Panheim in Hospico.
 <$00>
@@ -50677,7 +50665,7 @@ chickens in Marblopolis.Give them to Prof. Panheim in Hospico.
 <CLEAR>
 //
 Find up to 3 
-//<$1B>
+<$1B>
 //カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す
 Turtle Eggs. Give them to Louis at the Battle Park BB Ranch.
 <$00>
@@ -50688,7 +50676,7 @@ Turtle Eggs. Give them to Louis at the Battle Park BB Ranch.
 <CLEAR>
 //
 Acquire 2 
-//<$1B>
+<$1B>
 //プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す
 Pteranodon Eggs. Give them to Bronco at the Battle Park BB Ranch.
 <$00>
@@ -50735,7 +50723,7 @@ Deposit
 <CLEAR>
 //コシカタのシンボル「
 Find the 
-//<$1B>
+<$1B>
 //トラの爪」を\n見つけだし、ポリスカに渡す
 Tiger Claw, Koshikata's village symbol. Return it to Poliska.
 <$00>
@@ -51087,9 +51075,9 @@ Hmph, is that right?\nThen you come up with something!
 //0211_0000147F_bin\PROG.BIN
 //00007F81
 //
-<$15>
-//Y娘の名前
-YDaughter's Name
+<$15><$59>
+//娘の名前
+Daughter's Name
 <$00>
 
 
@@ -51320,7 +51308,7 @@ Good luck, Papa Bear!
 //00007090
 <CLEAR>
 //
-//<$1B>
+<$1B>
 //クワガタの　メスだかオスだかが\n警備員の　ささいなミスで\n絶滅しちまったらしいよ
 It seems some guard's hiccup doomed a certain insect species to extinction.
 <$12>
@@ -51726,14 +51714,14 @@ Some years ago, an expedition was held in W
 \n<CLEAR>
 //最近、その遺跡の神殿の庭園部に\n
 Recently, that temple's garden was overrun by wild 
-//<$1B>
+<$1B>
 //ニワトリが　突然、大量発生してね\nそいつの肉が　２つほど必要なのだ
 chickens, and I need 2 or so's worth of meat.
 <$12>
 \n<CLEAR>
 //庭の、２羽の、
 Temple garden,\n2 pieces of 
-//<$1B>
+<$1B>
 //ニワトリの肉だ…
 chicken meat.
 <$12>
@@ -51749,7 +51737,7 @@ chicken meat.
 \n<CLEAR>
 //庭の、２羽の
 Temple garden, 2 pieces of 
-//<$1B>
+<$1B>
 //ニワトリの肉だよ
 chicken meat.
 <$12>
@@ -51769,14 +51757,14 @@ I won't say no to 3, but I figure 2 is easy enough to remember.
 \n<CLEAR>
 //実は　妻が病気でね…\n
 If you must know, my wife is ill. With 
-//<$1B>
+<$1B>
 //ニワトリを　材料にすれば　イイ薬が\n作れそうな　気がするんだ…
 chicken, I hope to concoct a viable cure for her.
 <$12>
 \n<CLEAR>
 //ホスピコの　わしの研究所まで\n至急、
 My research lab is in Hospico. Bring the 
-//<$1B>
+<$1B>
 //ニワトリの肉を２つ　よろしくね\nエターナじゃないよ…　いいね
 chicken there, not to Eterna. Am I clear?
 <$12>
@@ -52415,13 +52403,13 @@ We're happy to have you any time you have money to blow!
 \n<CLEAR>
 //中には　大きな水溜まりが　いくつか\nあって　
 The large ponds inside are home to animals like 
-//<$1B>
+<$1B>
 //カニや
 crabs, 
-//<$1B>
+<$1B>
 //イカが　ウヨウヨいる\nそれと
 squids and even 
-//<$1B>
+<$1B>
 //ワニもいるから　気をつけな
 crocodiles!
 <$12>
@@ -53270,7 +53258,7 @@ The Federation wanted to have zero impact on the local ecosystems, but that didn
 \n<CLEAR>
 //たとえば動物の分布、ハーディアや\nオズポートの周辺って　
 Their meddling in Hardia/OzPort area animal trading, left us infested with 
-//<$1B>
+<$1B>
 //ブタばっかりに\nいつの間にか　なっちゃったもんね
 pigs.
 <$12>
@@ -53970,7 +53958,7 @@ Did they continue despite it, not wanting to waste their investments?
 //00000FFC
 //真偽のほどは　マユツバものじゃが、\n「
 Who knows if it's true, but I heard 
-//<$1B>
+<$1B>
 //アイアイ」という　動物には\n面妖な能力が　あるそうじゃ
 lemurs have an especially weird skill.
 <$12>
@@ -54010,14 +53998,14 @@ Wait a minute, Ken-bo, don't tell me he's a lemur in disguise!
 <CLEAR>
 //やあ、ケン坊！\n例の「
 Good news, Ken-bo!\nI finally tracked down the whereabouts of two 
-//<$1B>
+<$1B>
 //アイアイ」の居場所が\nついに　わかったぞ∥
 lemurs for you!
 <$12>
 \n<CLEAR>
 //じゃが、おまえさんの\nトランスカーゴには　
 You'll need to empty out space in your trans-cargo before you get to see the 
-//<$1B>
+<$1B>
 //アイアイを\n入れる空きが　ないようじゃな…
 lemurs.
 <$12>
@@ -54032,7 +54020,7 @@ I can't wait to show you!
 //00000FFC
 //やあ、ケン坊！　前におまえさんに話した\n「
 Hey, Ken-bo! We forgot to mention something about those 
-//<$1B>
+<$1B>
 //アイアイ」についてじゃが\n大事なコトを　言い忘れておったよ
 lemurs!
 <$12>
@@ -54047,14 +54035,14 @@ I'm old, you know. It's not my fault I forget these things!
 \n<CLEAR>
 //そうそう、
 Oh, yes, yes! 
-//<$1B>
+<$1B>
 //アイアイだ！
 Lemurs!
 <$12>
 \n<CLEAR>
 //実はわしらが　
 The truth is, my wife and I are both 
-//<$1B>
+<$1B>
 //アイアイなのじゃ！
 lemurs!
 <$12>
@@ -55450,7 +55438,7 @@ Their migration date is nigh too. If you want closure with them, better get it s
 //00001D94
 //昔、ジルって　女の子が\n
 There once was a girl named Jill, but one day, she was snatched by a 
-//<$1B>
+<$1B>
 //オオカミに　さらわれてね…
 wolf.
 <$12>
@@ -55880,10 +55868,10 @@ years ago when we saw data of sexless couples having the most children.
 //000019D3
 //町の中のプールで　飼われている\n
 The 
-//<$1B>
+<$1B>
 //ナマズの姿を　よく目に焼付けときな\nで、もしも外で　
 catfish we keep might be fun to look at, but if you see 
-//<$1B>
+<$1B>
 //ナマズを見たら…
 catfish outside...
 <$12>
@@ -56327,7 +56315,7 @@ Ms. Elizabeth looks so happy, so loved. I hope you two are like that with each o
 <CLEAR>
 //ご旅行中に、奥様が　
 While out on a trip together, Prof. Panheim's wife was scratched by a 
-//<$1B>
+<$1B>
 //イタチに\nひっかかれたんですって…
 weasel.
 <$12>
@@ -56420,7 +56408,7 @@ Please help her, Ken.
 <CLEAR>
 //もし　君たちが　
 If you can bring me the 
-//<$1B>
+<$1B>
 //ニワトリの肉を\n持ってきてくれたら　お礼の品が\n２つほど　あるんだがね
 Chicken Filets, I'll give you 2 very useful items as a reward.
 <$12>
@@ -56441,7 +56429,7 @@ Oh, my sweet Elizabeth...\nPlease, open those lovely eyes for me again...
 <CLEAR>
 //そ、それは　
 I-is that 
-//<$1B>
+<$1B>
 //ニワトリの肉だね￠\nさすが本職は　仕事が早いね
 chicken meat?!\nYou rangers never let me down!
 <$12>
@@ -56457,7 +56445,7 @@ chicken meat?!\nYou rangers never let me down!
 <$15><$53>
 //ケンは　
 Ken gave Prof. Panheim the\n
-//<$1B>
+<$1B>
 //ニワトリの肉を２つ\n手渡した
 Chicken Meat.
 <$14><$12>
@@ -56942,19 +56930,19 @@ If we got him to fight in Battle Park over at BB Ranch for you, we'd be pissing 
 //00001DC4
 <CLEAR>
 //
-//<$1B>
+<$1B>
 //ヤドカリと　
 Hermit crabs and 
-//<$1B>
+<$1B>
 //サザエってのは\nビースチャンでも　区別がつかないほど\n似てるらしいね
 turban shells are indistinguishable. Not even the sharp eyes of a Beastian can tell them apart.
 <$12>
 \n<CLEAR>
 //
-//<$1B>
+<$1B>
 //ヤドカリは確か　ここの南の\nヤマピットに　いるよな\n
 Hermit crabs can be found south of here, in Yama Pit.
-//<$1B>
+<$1B>
 //サザエってのは　どこにいるんだ?
 As for turban shells, who knows where they live?!
 <$12>
@@ -56992,7 +56980,7 @@ When I was a kid, Junk Palace was my playground!
 <CLEAR>
 //ゴメスに　
 You know how puppy play works, right? We used to get Gomez to act like a 
-//<$1B>
+<$1B>
 //イヌのマネを\nやらせて　よくいじめたもんだ
 dog and tease him for it.
 <$12>
@@ -57136,13 +57124,13 @@ Truly astounding! You have no pride whatsoever, don't you?■
 //00003FA2
 //ここで　手に入らない動物は\n商売にうま味がない　動物だけだ\n
 The animals you around here aren't worth much.\n
-//<$1B>
+<$1B>
 //ブタとか　
 Pigs, 
-//<$1B>
+<$1B>
 //ウサギとか　
 rabbits, 
-//<$1B>
+<$1B>
 //イカとか…
 squids, and humans...
 <$12>
@@ -57846,7 +57834,7 @@ Then again, women on the rag have interesting smells all their own.
 <CLEAR>
 //死神が来るまでの　短い間だけど\n
 It won't be long before the Grim Reaper strikes, so let's let the little 
-//<$1B>
+<$1B>
 //ミジンコちゃんたちには　命の春を\n堪能して　もらいたいわ…
 daphnias soak in springtime while they can.
 <$12>
@@ -57942,7 +57930,7 @@ It's like I'd been saying all along!
 \n<CLEAR>
 //見るがいい!!\n
 Take a good gander at the white, transluscent skin of the 
-//<$1B>
+<$1B>
 //ミジンコの　白く透き通った肌\n愛くるしい　つぶらな瞳を…
 Daphnia.
 <$12>
@@ -58026,7 +58014,7 @@ Marblopolis 1F
 //00007058
 //どっから　わいてきたんだか\n
 Only God knows where the cluck they came from, but these 
-//<$1B>
+<$1B>
 //ニワトリが　火遊びするおかげで\nちっとも　仕事になんねぇよ…
 chickens are interrupting my work!
 <$12>
@@ -58112,7 +58100,7 @@ It's obvious that no such animal exists! Even if it did, I wouldn't be the one t
 \n<CLEAR>
 //まっ、俺は確かめに　行かないけどな…\n紫色の獅子は　こわくはないが\n
 It's not the purple lions I'm worried about here. It's the damn 
-//<$1B>
+<$1B>
 //ニワトリだけは　苦手なんだなぁ
 chickens!
 <$12>
@@ -58163,7 +58151,7 @@ Yama Pit
 <CLEAR>
 //この洞くつの　奥のほうの岩には\nだまされんなよ\nあの岩は　
 Don't be fooled by the rocks deep in the cave. Some of those are 
-//<$1B>
+<$1B>
 //ヤドカリなんだよ
 hermit crabs!
 <$12>
@@ -58659,7 +58647,7 @@ That's why we call them "livestock".
 \n<CLEAR>
 //人間の大半は　家畜！\n
 Based on our own definition, though, humans are livestock too!
-//<$1B>
+<$1B>
 //ブタと同じ存在価値しか　ないわけだ
 Pigs and humans are worth the same, when you really think about it.
 <$12>
@@ -58720,7 +58708,7 @@ Hey, you're here! I'm glad to finally see you. I'm Louise, from the voicemail.
 \n<CLEAR>
 //さっそくだけど　要件を言うよ\n
 I'll keep it right and short. I need you to fetch me 
-//<$1B>
+<$1B>
 //カメの卵を　捜して来て欲しいんだ\nそうだね　３つもあれば十分だよ
 Turtle Eggs. Is 3 do-able?
 <$12>
@@ -58736,14 +58724,14 @@ My husband is bedridden, and the doctor said he mustn't go out to do this kind o
 <CLEAR>
 //本人も　薄々感づいてるらしくてね\n死ぬまでに　
 He doesn't want to die without tasting 
-//<$1B>
+<$1B>
 //カメの卵スープを\nもう一度　食べたいって　ぬかすんだ
 turtle egg soup one last time.
 <$12>
 \n<CLEAR>
 //どうだい？　
 Will you help? Fetch me some fresh 
-//<$1B>
+<$1B>
 //カメの卵捜し、\n引き受けてくれるんだろ？\n
 Turtle Eggs, and I'll do the rest.\n
 <$01>
@@ -58805,14 +58793,14 @@ We wouldn't mind giving a couple of those to you, if you'd like.
 <CLEAR>
 //
 Could you fetch 2 or 3 
-//<$1B>
+<$1B>
 //カメの卵２、３つ　捜してくるくらい\nあんたたちなら　造作もないことだろ？
 Turtle Eggs for me?
 <$12>
 \n<CLEAR>
 //ほら　グズグズしてると　うちの亭主が\n
 My husband's scared he'll never get to try 
-//<$1B>
+<$1B>
 //カメのスープを　食べれなくなるよ\n「死人に口なし」って　言うだろ？
 turtle egg soup. "Dead men eat no meals," you understand.
 <$12>
@@ -58824,7 +58812,7 @@ turtle egg soup. "Dead men eat no meals," you understand.
 <CLEAR>
 //なんとか　亭主が生きてるうちに\n間に合ったようだね\nさっ早く、
 My husband's hanging on as best he can. Let me see the 
-//<$1B>
+<$1B>
 //カメの卵を　およこしよ∥
 Turtle Eggs! Quickly!
 <$12>
@@ -58857,7 +58845,7 @@ This is it! Excellent work. Now I know why your names get around so much.
 <CLEAR>
 //あんた～！\nお待ちかねの　
 Look, dear! It's the 
-//<$1B>
+<$1B>
 //カメの卵スープだがね
 turtle egg soup you wanted.
 <$12>
@@ -58921,14 +58909,14 @@ Damn if I know how, but I feel better than ever! See? I'm fit as a fiddle again!
 //00002AC1
 <CLEAR>
 //
-//<$1B>
+<$1B>
 //カメの卵スープ…\n赤ワインにナツメグを少々入れて\n仕上げに　バジルをサッと…
 Turtle egg soup... A pinch of red wine and nutmeg, then top it a pluck of basil...
 <$12>
 \n<CLEAR>
 //あぁ…　
 Aah...\n
-//<$1B>
+<$1B>
 //カメの卵のスープ…
 Turtle egg soup...
 <$12>
@@ -58949,7 +58937,7 @@ Now that my husband is better, help yourselves to the animals downstairs.
 <CLEAR>
 //えっ￠　こんどは　
 What? Now he wants 
-//<$1B>
+<$1B>
 //プテラノの卵の\nオムレツだって∥
 Pteranodon egg omelettes?
 <$12>
@@ -58981,7 +58969,7 @@ I'll have her add bay leaves, black pepper, garlic-saffron aioli, ginger and my 
 <CLEAR>
 //あんたたち、どっかで「ゆで
 If you two ever cave in and taste boiled 
-//<$1B>
+<$1B>
 //キリン」を\n食べることがあったら　どんな味が\nしたか　教えて欲しいがね
 giraffe, promise you'll us what it tastes like!
 <$12>
@@ -59017,7 +59005,7 @@ Keeping your nutritional balance in mind, do the foods you eat taste good?
 <$12>
 \n<CLEAR>
 //
-//<$1B>
+<$1B>
 //ブタの腸詰ばかりじゃ\nここ一番で　力が出ないよ
 Pig Sausage should be a LAST resort, am I clear?!
 <$12>
@@ -59111,7 +59099,7 @@ I'm not too big a fan of
 <CLEAR>
 //おぬしが持ってきてくれた\n
 Thank you again for helping make that delicious 
-//<$1B>
+<$1B>
 //カメの卵のスープ…\nありゃ　うまかったぞ！
 turtle egg soup!
 <$12>
@@ -59143,20 +59131,20 @@ Oh! Oh! Oh! Oh! Oh!
 //0000384D
 <CLEAR>
 //
-//<$1B>
+<$1B>
 //プテラノの卵のオムレツ∥\nあれを食わんで　死にゃろうかい∥\n頼む∥　次は
 Pteranodon egg omelettes!\nThat's what I want to eat before I die! I need 
-//<$1B>
+<$1B>
 //プテラノの卵じゃ∥
 Pteranodon Eggs!
 <$12>
 \n<CLEAR>
 //
 Fetch me 
-//<$1B>
+<$1B>
 //プテラノの卵を持ってきてくれたら\n世間では　絶滅したことになっとる\n「
 Pteranodon Eggs, and I'll give you Neo Kenya's last known living 
-//<$1B>
+<$1B>
 //キリン」を１対、やってもええぞ！
 giraffes!
 <$12>
@@ -59168,7 +59156,7 @@ giraffes!
 <CLEAR>
 //おっ￠　その卵は…∥\n
 Wait, that egg...
-//<$1B>
+<$1B>
 //プテラノの卵じゃな∥\nとりあえず　先にいただいてと…
 That's a Pteranodon egg!\nYou've got to let me have that!
 <$12>
@@ -59187,7 +59175,7 @@ Ken surrendered the Jumbo Egg...
 <CLEAR>
 //実はな…　そろそろ、おぬしらが\n戻って来る頃合と　思ってな、\n
 Ahem...I didn't know when you'd be back, so I started thawing the 
-//<$1B>
+<$1B>
 //キリンの解凍を　始めたんじゃがな…
 giraffes.
 <$12>
@@ -59199,7 +59187,7 @@ giraffes.
 <CLEAR>
 //ちと、目盛りのセットを　誤ってなぁ\n
 But I must've messed up the thawing speed, and both 
-//<$1B>
+<$1B>
 //キリンを　ゆでてしまったんじゃ\n２頭とも　死んじまった…
 giraffes boiled to death.
 <$12>
@@ -59223,7 +59211,7 @@ According to Beastian legend, there's a way to reanimate the dead by using a Rib
 \n<CLEAR>
 //それさえあれば「ゆで
 If we find one, these boiled 
-//<$1B>
+<$1B>
 //キリン」も\n元気にステップ！　ランランランとな、\nなるはずじゃ∥　わしには自信がある
 giraffes may yet live! They'd beam with vitality, I'm sure!
 <$12>
@@ -59248,7 +59236,7 @@ Wait, what? You actually found a Ribhorn Flower?!
 <CLEAR>
 //…しても　トランスカーゴに\n２つ空きがないと　メス・オスの\n
 ...If your trans-cargo doesn't have 2 spaces for the male and female 
-//<$1B>
+<$1B>
 //キリンは　持ち帰れんぞ！
 giraffes, I can't give them to you!
 <$12>
@@ -59260,7 +59248,7 @@ giraffes, I can't give them to you!
 <CLEAR>
 //本当にあるとは　実は思ってなくてな…\n今晩あたり「ゆで
 I wasn't expecting this. My wife's been nagging me to let us eat Boiled
-//<$1B>
+<$1B>
 //キリン」の味見でもと\n女房と　話しておったとこよ…
 Giraffe tonight.
 <$12>
@@ -59318,7 +59306,7 @@ Ain't that something...
 \n<CLEAR>
 //ゆで
 What would go with 
-//<$1B>
+<$1B>
 //キリンは　どんな味がしたんかのぉ\nポン酢で…　いや、バターを乗せて…\nいやいや　マスタードでピリリと…
 giraffe anyways? Ponzu, nah. Butter, nope. Smothered in mustard, maybe? 
 <$12>
@@ -59360,7 +59348,7 @@ Here lies the great man who revived the village of Koshikata, Poliska Coppin.
 <CLEAR>
 //ポリスカの墓に「
 Offer the 
-//<$1B>
+<$1B>
 //トラの爪」を\n供えますか？\n
 Tiger Claw to Poliska's grave?\n
 <$01>
@@ -59383,9 +59371,10 @@ No
 <$19><$31>
 //
 <$15><$53>
-//<CLEAR>ケンは　ポリスカの墓に\n「
-<CLEAR>Ken laid the 
-//<$1B>
+<CLEAR>
+//ケンは　ポリスカの墓に\n「
+Ken laid the 
+<$1B>
 //トラの爪」を　そっと置いた
 Tiger Claw\nin front of Poliska's grave.
 <$14><$12>
@@ -59521,8 +59510,7 @@ Technical Merit:\n
 //.
 .
 <$1E><$11>
-//30 
-30  
+//30  
 <$1E>
 //.
 .
@@ -59639,14 +59627,14 @@ He had gone mad. So mad, even, that he killed his pregnant wife with his own han
 //00002603
 //この町、ご自慢の「
 The village's prized 
-//<$1B>
+<$1B>
 //トラの爪」って\nスゴい希少価値の　武器なんだってね
 Tiger Claw is a rare and powerful weapon.
 <$12>
 \n<CLEAR>
 //材料になる
 Because 
-//<$1B>
+<$1B>
 //トラ自身、今じゃ\n数が少ないし、運良く見つけても\nオス
 Tigers are so rare now, it's nigh impossible to catch the 
 <$06>
@@ -59659,10 +59647,10 @@ Tigers are so rare now, it's nigh impossible to catch the
 \n<CLEAR>
 //だって、
 It would be worth it, because 
-//<$1B>
+<$1B>
 //トラのオスって\n
 tiger males hit far harder than their 
-//<$1B>
+<$1B>
 //ライオンの群れが　逃げ出すくらい\nケタ違いの　攻撃力って話なんだもん
 lion counterparts.
 <$12>
@@ -59718,7 +59706,7 @@ th anniversary festival for the Koshikata restoration!
 \n<CLEAR>
 //例の事件のどさくさで　紛失してた\nこの町のお守りの品、「
 With the 
-//<$1B>
+<$1B>
 //トラの爪」も\n見つかったそうだし　盛り上がるわよ
 Tiger Claw found in the hustle and bustle too, we're back to normal! 
 <$12>
@@ -59854,7 +59842,7 @@ It was never confirmed, but they say the cause of the elder's tragic murder spre
 <$12>
 \n<CLEAR>
 ...was that he'd lost the village's treasure, called the  
-//<$1B>
+<$1B>
 //トラの爪という\n町のお宝を　なくしたせいらしいな
 Tiger Claw.
 <$12>
@@ -59864,7 +59852,7 @@ Maybe it was haunted treasure, what do you think?
 <$12>
 \n<CLEAR>
 "BEWARE. HE WHO TOUCHES THE 
-//<$1B>
+<$1B>
 //トラの爪」とかいうヤツ…\n装備すると　死にたくなるとか…
 TIGER CLAW WILL BE CURSED WITH INSATIABLE BLOODLUST."
 <$12>
@@ -59875,10 +59863,10 @@ TIGER CLAW WILL BE CURSED WITH INSATIABLE BLOODLUST."
 //00004597
 //この町の宝といえば　「
 The 
-//<$1B>
+<$1B>
 //トラの爪」よ！\n
 Tiger Claw is Koshikata's treasure, largely since
-//<$1B>
+<$1B>
 //トラ自体、珍しいから　商品としての\n価値も　もちろん高いけど…
 tigers are so rare.
 <$12>
@@ -60074,7 +60062,7 @@ I've been expecting you, Ken and Linda. I see you got my voicemail? I'm Poliska.
 \n<CLEAR>
 //実は困ったことが　起きましてな…\nこの町のシンボルの武器「
 I called because our village's symbol, the 
-//<$1B>
+<$1B>
 //トラの爪」が\n何者かに　盗まれたのです
 Tiger Claw was very mysteriously stolen.
 <$12>
@@ -60092,7 +60080,7 @@ Cough! Cough...!\nPardon me, I have a cold.
 <$1D>
 //の秋までに　
  years have passed since that autumn when the 
-//<$1B>
+<$1B>
 //トラの爪が戻らんと\n町長たる、私の息子パトルカが\n大恥を　かくことになる…
 Tiger Claw vanished.
 <$12>
@@ -60165,7 +60153,7 @@ Koshikata's counting on you!
 <CLEAR>
 //「
 The 
-//<$1B>
+<$1B>
 //トラの爪」を見事、持ち帰られた\nそのあかつきには　先祖伝来の家宝\n「赤の獣人像」を　さしあげます
 Tiger Claw you brought home was once passed down as an ancestral heirloon.
 <$12>
@@ -60196,7 +60184,7 @@ It's been, I want to say,
 <$04>
 //年ほど前にも\n「
  years since the 
-//<$1B>
+<$1B>
 //トラの爪」が　盗まれたことが\nありましてな…
 Tiger Claw was stolen.
 <$12>
@@ -60219,7 +60207,7 @@ I don't want it any later than
 <$1D>
 //の秋までに「
 , autumn. Please, recover the 
-//<$1B>
+<$1B>
 //トラの爪」を…\nどうか　よろしくお願いします\nゴホッ　ゴホッ　ゴホッ…
 Tiger Claw...\nCough! Cough!
 <$12>
@@ -60263,7 +60251,7 @@ No...!\nNo more...!
 <CLEAR>
 //そういや、「
 What happened to the 
-//<$1B>
+<$1B>
 //トラの爪」は　どうした？\n持ってるんなら　渡してくれよ\n
 Tiger Claw. Do you have it?!\n
 <$01>
@@ -60291,7 +60279,7 @@ I've stepped down as elder, but taking it would give me closure. You don't mind,
 <$15><$53>
 //ケンは　パトルカに\n「
 Ken gave Patrolka the\n
-//<$1B>
+<$1B>
 //トラの爪」を　渡した
 Tiger Claw!
 <$14><$12>
@@ -60409,7 +60397,7 @@ Well, if you say so!\nHere, it's all yours!
 <CLEAR>
 //本当のことを言うと\n
 Truth be told, the 
-//<$1B>
+<$1B>
 //トラの爪は　盗まれたんじゃないんだ
 Tiger Claw was never stolen.
 <$12>
@@ -60931,8 +60919,9 @@ I'll teach you a skill that helped numb the loneliness I've come to know in this
 //
 <$19><$31>
 <$15><$53>
-//<CLEAR>ケンは　言われるままに\n「口笛」の能力を\nヤマダから　習得した∥
-<CLEAR>Ken learned the\nWhistler skill from Yamada!
+<CLEAR>
+//ケンは　言われるままに\n「口笛」の能力を\nヤマダから　習得した∥
+Ken learned the\nWhistler skill from Yamada!
 <$14><$12>
 <$00>
 
@@ -60993,7 +60982,7 @@ I wish Nek's bride all the luck in the world! He's kiddish, but playful, kind...
 //0000101C
 //昔は春先になると　ここいらの湖畔で\n散歩がてら　
 In the old days, I'd always take walks by the lake every spring.
-//<$1B>
+<$1B>
 //カメの卵を採ったもんサ\n子供でも　
 Turtle Eggs'd be all over the place, so you could pluck up 
 <$06>
@@ -61532,10 +61521,10 @@ They were blooming just like this when my father, mother and I first landed on N
 \n<CLEAR>
 //父さんは山へ　ポチと
 Back then, my father would hunt 
-//<$1B>
+<$1B>
 //クマ狩りに\n母さんは川で　
 bears with Pup-pup, and my mother would wash 
-//<$1B>
+<$1B>
 //クマの肝を洗ってた\n…なつかしいですよ
 the innards in the river.
 <$12>
@@ -61584,8 +61573,9 @@ S
 //
 <$19><$31>
 <$15><$53>
-//<CLEAR>しかし、道具袋がいっぱいだ
-<CLEAR>Alas, the item bag was full.
+<CLEAR>
+//しかし、道具袋がいっぱいだ
+Alas, the item bag was full.
 <$14><$12>
 <$00>
 
@@ -61897,7 +61887,7 @@ Mario's a college grad working in Labor Management. He's saucy, but respects his
 
 //0341_0000608C_bin\PROG.BIN
 //000022AE
-//<$1B>
+<$1B>
 //ペンギン
 penguins
 <$00>
@@ -61919,7 +61909,7 @@ summer
 
 //0341_0000608C_bin\PROG.BIN
 //000022AE
-//<$1B>
+<$1B>
 //トド
 sea lions
 <$00>
@@ -62146,10 +62136,10 @@ Really? That's great!
 
 //0343_00006A74_bin\PROG.BIN
 //000056A1
-//<$1B>
+<$1B>
 //カエルや　
 Frogs and 
-//<$1B>
+<$1B>
 //クマに気をつけて\n帰るんだよ！
 bears outside might wanna change that, though, so stay safe!
 <$12>
@@ -62309,7 +62299,7 @@ North Tortugos B2
 //00008995
 //もしも　
 Just because you find a 
-//<$1B>
+<$1B>
 //カメの卵を見つけても\n持って帰ろうなんて　考えないほうが\n身のためだゼ
 turtle egg, doesn't mean you should take it.
 <$12>
@@ -62322,7 +62312,7 @@ The mamas you steal from will chase you to Hell and back.
 
 //0345_00006B2B_bin\PROG.BIN
 //00008995
-//<$1B>
+<$1B>
 //カメを捕まえるつもりなら　この中で\n勝負するのが　水がないだけ\n少しは　人間にも分があるな
 Turtles almost always have the advantage here. You need to keep them away from water if you want any edge.
 <$12>
@@ -62345,7 +62335,7 @@ Break a leg, champ!
 
 //0345_00006B2B_bin\PROG.BIN
 //00008995
-//<$1B>
+<$1B>
 //カメは、春に　この洞くつの奥で\n静かに卵を　産むんだよ\n俺ら卵泥棒の　生活のためにな
 Turtles lay their eggs quietly in thie depths of this cave every spring. Us thieves have to remember this stuff.
 <$12>
@@ -62355,14 +62345,14 @@ Turtles lay their eggs quietly in thie depths of this cave every spring. Us thie
 //0345_00006B2B_bin\PROG.BIN
 //00008C9E
 Are you here for 
-//<$1B>
+<$1B>
 //カメの卵を　取りに来たんなら\n左の岩場のむこうに　春には大きいのが\n見えるけど　こっちからは行けないゼ
 Turtle Eggs? Take a left and look for the rocky area.
 <$12>
 \n<CLEAR>
 //それと…　卵を盗られた
 If you're not careful, the 
-//<$1B>
+<$1B>
 //カメは\n地獄の底まで　追って来るって言うから\nせいぜい　気をつけるんだな
 turtles you steal from will chase you to Hell and back.
 <$12>
@@ -62502,7 +62492,7 @@ The ground around here often collapses, especially near the walls, so watch your
 \n<CLEAR>
 //万が一、下に落ちた時は\nすぐに　猟犬をしまい込みなよ！\n
 If you ever take a fall, hide your dogs, or 
-//<$1B>
+<$1B>
 //タコに　喰われたくないだろ
 octopussers will eat them!
 <$12>
@@ -62513,7 +62503,7 @@ octopussers will eat them!
 //00005C6F
 //この洞くつのどっかに　野盗どもが\nお宝を　隠したらしいんだよ\nもちろん、
 If bandits are hiding treasure in this cave like I've heard, it must be far from any 
-//<$1B>
+<$1B>
 //タコがいなかった頃にな…
 octopuss clutches.
 <$12>
@@ -62531,7 +62521,7 @@ Xoth
 //00004415
 //わしは　この眼で確かに\nこの奥の沼で\n
 Deep in the swamp, I saw a female 
-//<$1B>
+<$1B>
 //モリアオのメスを見た∥
 tree frog with my own eyes!
 <$12>
@@ -62584,14 +62574,14 @@ Swallom 1F
 //00005823
 //よく　見つけられたわね\n
 Well done, explorer! You found the 
-//<$1B>
+<$1B>
 //ツバメの　秘密のパラダイス、\nスワロームってのは　ここのコトよ
 swallows' paradise, Swallom!
 <$12>
 \n<CLEAR>
 //夏になったら　もう一度来てごらん\n天使みたいな
 When they come back in spring, it's also a paradise for us 
-//<$1B>
+<$1B>
 //ツバメが　いっぱい\nあたしたち卵泥棒も　パラダイスよ！
 swallow egg thieves!
 <$12>
@@ -62606,13 +62596,13 @@ Look over there! Did you see that? How charming!
 \n<CLEAR>
 //年増のメスが　若い
 The older female 
-//<$1B>
+<$1B>
 //ツバメを\n一生懸命、追いかけ回してるわ！
 swallow was chasing the younger males around!
 <$12>
 \n<CLEAR>
 Doesn't that make her a 
-//<$1B>
+<$1B>
 cougar? 
 <$12>
 <$00>
@@ -62622,14 +62612,14 @@ cougar?
 //00005823
 //この洞くつは　ほんの数年前までは\n
 Until a few years ago, this cave was a prime roosting place for 
-//<$1B>
+<$1B>
 //ツバメの　一大営巣地だったのよ
 swallows.
 <$12>
 \n<CLEAR>
 //それが　いつの頃からか\n
 You can blame all the egg-stealing  
-//<$1B>
+<$1B>
 //ネズミのヤツが　住みついて\n片っ端から　卵を盗むものだから…
 rats for scaring most of them off.
 <$12>
@@ -62640,7 +62630,7 @@ rats for scaring most of them off.
 //00005823
 <CLEAR>
 //
-//<$1B>
+<$1B>
 //ツバメも用心して　陸のほうに\n寄りつかなく　なっちゃってサ、\nこちとら　商売あがったりよ…
 Swallows are cautious, and don't like coming on land. It's almost bad for our business.
 <$12>
@@ -62651,14 +62641,14 @@ Swallows are cautious, and don't like coming on land. It's almost bad for our bu
 //00005823
 <CLEAR>
 //
-//<$1B>
+<$1B>
 //ツバメも用心して　陸のほうに\n寄りつかなく　なっちゃったのよ
 Swallows are cautious creatures, and don't like to travel over land.
 <$12>
 \n<CLEAR>
 //ほら、あそこ！　見える￠水の上で　固まっちゃってんでしょ？\nあれが
 Look hard enough, though, and you'll see 
-//<$1B>
+<$1B>
 //ツバメの群れよ
 swallows flying over water!
 <$12>
@@ -62676,14 +62666,14 @@ Swallom B1
 //000064F9
 //ここに
 It's only when I see the 
-//<$1B>
+<$1B>
 //ツバメが　戻ってきて始めて\nいつのまにか　春が過ぎていたことに\n気づいて　俺はいつも焦るんだ
 swallows return that I realize spring somehow flew past me.
 <$12>
 \n<CLEAR>
 //生まれた町に　帰るんなら\n春にしようって　決めてるもんでな\nあ～あ、今年も
 I've made it a habit to visit my birthplace only in spring, 
-//<$1B>
+<$1B>
 //ツバメが　来ちまった
 so I'll have to come back next year.
 <$12>
@@ -62694,7 +62684,7 @@ so I'll have to come back next year.
 //000064F9
 //俺は　帰る家がないからよぉ\nせめて
 I'm homeless, so I've made it my job to protect the 
-//<$1B>
+<$1B>
 //ツバメがいない間の　連中の巣を\n守るのが仕事かなって　思ってんだ
 swallows' nests!
 <$12>
@@ -62709,7 +62699,7 @@ And when spring comes around, I happily take their eggs as payment!
 //000064F9
 //せめて夏の間だけでも　
 Packs of
-//<$1B>
+<$1B>
 //ネズミの群れが\nそうだな…　
 rats scurry here between the summertime. If we could knock them down by a good 
 <$06>
@@ -62721,7 +62711,7 @@ rats scurry here between the summertime. If we could knock them down by a good
 <$12>
 \n<CLEAR>
 //
-//<$1B>
+<$1B>
 //ツバメも安心して　こっちに\n寄って来ると　思うんだがなあ
 Swallows might feel safe coming back here.
 <$12>
@@ -62732,7 +62722,7 @@ Swallows might feel safe coming back here.
 //000064F9
 //兄ちゃんたちの　おかげで\n
 Oh, boy! Thanks to you, the 
-//<$1B>
+<$1B>
 //ツバメが　巣に帰って来たんだってな
 swallows have returned to their nests!
 <$12>
@@ -62788,7 +62778,7 @@ On the east lake, K-
 \n<CLEAR>
 //
 If you can brave past the 
-//<$1B>
+<$1B>
 //ワニに勝つ自信が　あるのなら\n一度、見に行ってみなよ！　もしも、\nお宝があったら　分け前を頼むゼ
 crocodiles, you should take a look and get in on the treasure!
 <$12>
@@ -62852,7 +62842,7 @@ Don't forget, dogs raised for hunting and dogs raised for the dojo are not the s
 \n<CLEAR>
 //でも、自分の
 Worse than all that, though, is people who name their 
-//<$1B>
+<$1B>
 //イヌの名を「漢字」に\n変えてみたいってのも　飼い主としては\n当たり前の　欲望ではあるけどな
 dogs after anime characters...
 <$12>
@@ -63293,16 +63283,16 @@ Mr. Aumann loved hunting with his dog, Taro. They used to go to Dark River on we
 <$12>
 \n<CLEAR>
 //
-//<$1B>
+<$1B>
 //マイマイ、
 Snails, 
-//<$1B>
+<$1B>
 //コアラ、
 koalas, 
-//<$1B>
+<$1B>
 //ウニ…\n
 sea urchins, you name it. I think they even caught 
-//<$1B>
+<$1B>
 //ヒドラなんかも　獲ってきてたみたい
 hydras!
 <$12>
@@ -63318,7 +63308,7 @@ Let's get one thing straight. I, Bigul, am oldest. Taro's Collar should go to me
 \n<CLEAR>
 //おまえなんかには　
 I'll give you my dog, Jiro. Take him to the dojo, and you'll be happier than a 
-//<$1B>
+<$1B>
 //ブタに真珠だが…\nドギファ最強の闘犬「次郎」を\nくれてやろうじゃねえか∥
 pig in shit!
 <$12>
@@ -63494,7 +63484,7 @@ I'm impressed by your charitable endeavor of saving the animals!
 <CLEAR>
 //そういえば「
 You know what? If you're ever looking for a weapon like the  
-//<$1B>
+<$1B>
 //トラの爪」という武器を\nお捜しだと　ある筋から聞いたんだがね\nまだ　手にいれてないのなら…
 Tiger Claw, I can help you.
 <$12>
@@ -63526,7 +63516,7 @@ Life's about "give and take"!\nCome on, let's trade!
 <$15><$53>
 //ケンは「太郎の首輪」を渡して\n「
 Ken traded Taro's Collar\nfor the 
-//<$1B>
+<$1B>
 //トラの爪」を受け取った！
 Tiger Claw!
 <$14><$12>
@@ -64090,14 +64080,14 @@ If one of each, Hokuto and Minami...
 \n<CLEAR>
 //ダルマと
 Daruma and 
-//<$1B>
+<$1B>
 //ネコは　ないよね…\nそんな名にしたら　さすがに\nサチコも怒るよねぇ　ハハハ…
 Neko are out. Sachiko would never allow those, haha!
 <$12>
 \n<CLEAR>
 //ダルマと
 You know what a "ma-ne-ki ne-ko" is, right? It's a special  
-//<$1B>
+<$1B>
 //ネコか…
 cat that wants money.
 <$12>
@@ -64754,7 +64744,7 @@ Nightshade's not eating anything, and she won't move.
 \n<CLEAR>
 //フローラ博士に　電話で話したら\n
 When I called Dr. Flora, she said female 
-//<$1B>
+<$1B>
 //クワガタの　メス特有の\n栄養障害だろうって…
 stag beetles need a specific nutrient to live.
 <$12>
@@ -65065,7 +65055,7 @@ That's how Kevin knows it, but actually, his father died long ago.
 \n<CLEAR>
 //
 He shoved his own head between the antlers of a 
-//<$1B>
+<$1B>
 //クワガタのツノに　自分から\n頭を突っ込んでの　変死だったそうよ\nこの上ない間抜けな　死に方でしょ？
 stag beetle. What a stupid way to go.
 <$12>
@@ -65551,7 +65541,7 @@ I meant to ask: on the back of that collar, it says "Taro" in tiny letters...
 //000058B0
 //この先に　
 Be careful around the 
-//<$1B>
+<$1B>
 //アリさんの巣があるゼ\nメスは数が少ねぇから　慎重にいけよ
 ant nests up ahead. The females are quite scarce.
 <$12>
@@ -65562,7 +65552,7 @@ If your dogs kill a females by mistake, new ones should spawn, but it takes a wh
 \n<CLEAR>
 //ウジャウジャ出てくる　オスの
 Just push through the frothing male masses 'til you reach the 
-//<$1B>
+<$1B>
 //アリを\nかきわけて行けば　一番奥に\nギ酸で香しい　女王様の寝室があるよ
 ant queen's quarters.
 <$12>
@@ -65573,7 +65563,7 @@ ant queen's quarters.
 //000058B0
 //一応、忠告しといて　やるけどよ、\n
 Here's a word of advice, once you kill an 
-//<$1B>
+<$1B>
 //アリのメスは　殺しちまうと\nしばらくは　産まれねぇゼ
 ant female, they take butt-fucking forever to respawn.
 <$12>
@@ -65584,7 +65574,7 @@ Unless you like standing around like an masochistic idiot, leave and circle back
 \n<CLEAR>
 //だまされたと思って\n
 Take their eggs, leave 'em, do what you want. It won't make the 
-//<$1B>
+<$1B>
 //アリの卵でも　かえしてみることだな\n暇つぶしには　なるゼ
 ants spawn any quicker.
 <$12>
@@ -65595,7 +65585,7 @@ ants spawn any quicker.
 //000058B0
 //ギノスっていう　俺の弟子が\n
 I sent my pupil, Ginath, out to hunt 
-//<$1B>
+<$1B>
 //カニを捕まえに行って　獲物のほうは\n送って来たんだが　行方不明でよ
 crab and return with the spoils, but he never returned.
 <$12>
@@ -65831,14 +65821,14 @@ Flora Jam
 //00004906
 //私は　ガキの頃から\n
 I've loved 
-//<$1B>
+<$1B>
 //クワガタが　大好きでね…
 stag beetles since I was a kid.
 <$12>
 \n<CLEAR>
 //息子も　
 I wanted my son to like them soo, so I snuck a female 
-//<$1B>
+<$1B>
 //クワガタが好きになって\nくれればと思って　当局にナイショで\nメスを一匹、プレゼントしたんですよ
 stag beetle out of the park.
 <$12>
@@ -65865,7 +65855,7 @@ I hope Kevin and Nightshade grow big and strong.
 //0371_0000706D_bin\PROG.BIN
 //00004906
 If female 
-//<$1B>
+<$1B>
 //クワガタのメスたちは　この公園の\n木になる鮮血の果実を　食べないと\n病気になって　死んじまうだそうです
 stag beetles don't eat the bloodberries native here, they get sick and die.
 <$12>
@@ -65876,7 +65866,7 @@ The problem is, the weird animals Dr. Flora creates also like to eat bloodberrie
 \n<CLEAR>
 //連中が　食べ尽さないように\n見張ってないと、
 We have to be careful. If we lose all our bloodberries,  
-//<$1B>
+<$1B>
 //クワガタのメスが\n絶滅しちまうらしいんですよ
 stag beetles will go extinct!
 <$12>
@@ -65891,14 +65881,14 @@ All it took was one stupid accident for the guards to quit, and now we've got no
 \n<CLEAR>
 //いつのまにか　
 And before we knew it, the female 
-//<$1B>
+<$1B>
 //クワガタのメスのほうが\n絶滅してたようなんですよ
 stag beetle went extinct.
 <$12>
 \n<CLEAR>
 //元から　
 We knew from the start that there were less female 
-//<$1B>
+<$1B>
 //クワガタはメスの数が\nオスに比べて　絶対的に少ないから\n気づかなかった…
 stag beetles than there were males.
 <$12>
@@ -65917,14 +65907,14 @@ Didn you see a man by the gate entrance? He's a very...interesting person.
 \n<CLEAR>
 //
 He's really sweet on and affectionate with 
-//<$1B>
+<$1B>
 //クワガタも　おじさんには\nなついてるから　大丈夫ですよって\nおだててあげると…
 stag beetles, which is fine, but...
 <$12>
 \n<CLEAR>
 //
 
-//<$1B>
+<$1B>
 //クワガタのオスの　ツノの間に\n頭を　突っ込んでサ\nＶサイン出して　ヘラヘラ笑うの
 ...he also had a thing for sticking his head between their antlers and giving the V-sign.
 <$12>
@@ -65939,7 +65929,7 @@ Talk about stupid.
 //00004906
 //何が面白いんだか、
 We had this guy who's thing was to stick his head between antlers of male 
-//<$1B>
+<$1B>
 //クワガタのオスの\nツノの間に　頭を突っ込むのが趣味の\n警備員が　前にいたんだけど…
 stag beetles.
 <$12>
@@ -65972,7 +65962,7 @@ Well, the night before the accident, I ate too much and got this godawful gas.
 //で、「ブウ～」って…\n
 And I mean, "PBPBPRRBT!"\n
 Only, it must have been too loud for the 
-//<$1B>
+<$1B>
 //クワガタたちも　驚くほどの\n大きな音だった　みたいでサ
 stag beetle.
 <$12>
@@ -66819,7 +66809,7 @@ Don't boot
 
 //0375_00007177_bin\PROG.BIN
 //00005711
-//<$1B>
+<$1B>
 //ネズミ
 RAT
 <$00>
@@ -66827,7 +66817,7 @@ RAT
 
 //0375_00007177_bin\PROG.BIN
 //00005711
-//<$1B>
+<$1B>
 //イルカ
 DOLPHIN
 <$00>
@@ -66835,7 +66825,7 @@ DOLPHIN
 
 //0375_00007177_bin\PROG.BIN
 //00005711
-//<$1B>
+<$1B>
 //ウサギ
 RABBIT
 <$00>
@@ -66843,7 +66833,7 @@ RABBIT
 
 //0375_00007177_bin\PROG.BIN
 //00005711
-//<$1B>
+<$1B>
 //ヒョウ
 LEOPARD
 <$00>
@@ -66851,7 +66841,7 @@ LEOPARD
 
 //0375_00007177_bin\PROG.BIN
 //00005711
-//<$1B>
+<$1B>
 //モグラ
 MOLE
 <$00>
@@ -66859,7 +66849,7 @@ MOLE
 
 //0375_00007177_bin\PROG.BIN
 //00005711
-//<$1B>
+<$1B>
 //トンボ
 DRAGONFLY
 <$00>
@@ -66867,7 +66857,7 @@ DRAGONFLY
 
 //0375_00007177_bin\PROG.BIN
 //00005711
-//<$1B>
+<$1B>
 //ナマズ
 CATFISH
 <$00>
@@ -66875,7 +66865,7 @@ CATFISH
 
 //0375_00007177_bin\PROG.BIN
 //00005711
-//<$1B>
+<$1B>
 //ラクダ
 CAMEL
 <$00>
@@ -66883,7 +66873,7 @@ CAMEL
 
 //0375_00007177_bin\PROG.BIN
 //00005711
-//<$1B>
+<$1B>
 //オコゼ
 STONEFISH
 <$00>
@@ -66891,7 +66881,7 @@ STONEFISH
 
 //0375_00007177_bin\PROG.BIN
 //00005711
-//<$1B>
+<$1B>
 //イタチ
 WEASEL
 <$00>
@@ -66899,7 +66889,7 @@ WEASEL
 
 //0375_00007177_bin\PROG.BIN
 //00005711
-//<$1B>
+<$1B>
 //カラス
 CROW
 <$00>
@@ -66907,7 +66897,7 @@ CROW
 
 //0375_00007177_bin\PROG.BIN
 //00005711
-//<$1B>
+<$1B>
 //コアラ
 KOALA
 <$00>
@@ -66915,7 +66905,7 @@ KOALA
 
 //0375_00007177_bin\PROG.BIN
 //00005711
-//<$1B>
+<$1B>
 //ゴリラ
 GORILLA
 <$00>
@@ -66923,7 +66913,7 @@ GORILLA
 
 //0375_00007177_bin\PROG.BIN
 //00005711
-//<$1B>
+<$1B>
 //キツネ
 FOX
 <$00>
@@ -66931,7 +66921,7 @@ FOX
 
 //0375_00007177_bin\PROG.BIN
 //00005711
-//<$1B>
+<$1B>
 //クラゲ
 JELLYFISH
 <$00>
@@ -66939,7 +66929,7 @@ JELLYFISH
 
 //0375_00007177_bin\PROG.BIN
 //00005711
-//<$1B>
+<$1B>
 //アヒル
 DUCK
 <$00>
@@ -68085,7 +68075,7 @@ Did you come here knowing it was Garcia's hideout? Your life depends on your ans
 <$0E><$08>
 //4ガルシア？
 4"Grr-cia"? Like a 
-//<$1B>
+<$1B>
 //イヌみたいな名だな\n
 dog's name?\n
 <$01>
@@ -68109,7 +68099,7 @@ Wrong answer, pal!
 //0385_00006D9F_bin\PROG.BIN
 //00005A87
 You know what? I think we needed 
-//<$1B>
+<$1B>
 //ライギョのエサが\nちょうど　切れてたんだっけなあ
 snakehead bait anyways!
 <$12>
@@ -68124,7 +68114,7 @@ Since you're down here, I'll tell you something good.
 \n<CLEAR>
 //「
 The common 
-//<$1B>
+<$1B>
 //ペリカン」って動物は\nきれいな体の　ヤツの前にしか\n姿を　現さないらしいゼ
 pelican only appears in front of those it finds "desirable".
 <$12>
@@ -68177,7 +68167,7 @@ Now, I'll make you two truly desirable!
 \n<CLEAR>
 //
 ...Desirable enough to be 
-//<$1B>
+<$1B>
 //ライギョのエサに　ぴったりだ！
 snakehead bait!
 <$12>
@@ -69256,7 +69246,7 @@ The stunning church overlooking the pond will soothe your heart. Go take a look!
 //0000B78D
 //この町の周辺で　見られるのは\n
 Notable animals in the area are\n
-//<$1B>
+<$1B>
 //イタチくらいですね…　くさいだけの\n動物ですし、おすすめしかねます
 weasels, but please.\nLeave those little bitches alone.
 <$12>
@@ -70707,9 +70697,9 @@ RRED: Neither captured nor filed
 240<CLEAR>
 <$15><$57>未登録で捕獲済み ………………
 W ◇ 
-<$15>
-//Y黄
-YYELLOW: Captured, but not filed
+<$15><$59>
+//黄
+YELLOW: Captured, but not filed
 <$11>
 //240<CLEAR>
 240<CLEAR>
@@ -71000,7 +70990,7 @@ Glutton
 
 //0392_000000EF_bin\PROG.BIN
 //00006711
-//<$1B>
+<$1B>
 //イヌの嗅覚
 Bloodhound
 <$00>
@@ -71093,9 +71083,9 @@ Catcaller
 //0392_000000EF_bin\PROG.BIN
 //00006711
 //
-<$15>
-//Y能力　
-YTech/
+<$15><$59>
+//能力　
+Tech/
 <$1D>
 <$00>
 
@@ -71296,9 +71286,9 @@ bREMOVE
 //0392_000000EF_bin\PROG.BIN
 //00006922
 //
-<$15>
-//Y装備　
-YGear/
+<$15><$59>
+//装備　
+Gear/
 <$1D><$02>
 //84
 84
@@ -71479,9 +71469,9 @@ MP
 
 //0392_000000EF_bin\PROG.BIN
 //00006AF7
-<$15>
-//Y迷
-YC
+<$15><$59>
+//迷
+C
 <$00>
 
 
@@ -71552,9 +71542,9 @@ MV
 //0392_000000EF_bin\PROG.BIN
 //00006AF7
 //
-<$15>
-//Y　状　態　
-YStatus
+<$15><$59>
+//　状　態　
+Status
 <$00>
 
 
@@ -72115,9 +72105,9 @@ Poison attack to the front(cont.)
 //0392_000000EF_bin\PROG.BIN
 //00006B9A
 //
-<$15>
-//Y特殊能力　
-YSkills
+<$15><$59>
+//特殊能力　
+Skills
 <$1D>
 <$00>
 
@@ -72731,9 +72721,9 @@ SPD
 //0392_000000EF_bin\PROG.BIN
 //00007AFF
 //
-<$15>
-//Y道具
-YBag 
+<$15><$59>
+//道具
+Bag 
 <$1D>
 <$00>
 
@@ -72947,9 +72937,7 @@ It tasted like
 //0392_000000EF_bin\PROG.BIN
 //00007CC8
 //
-<$15>
-//Y
-Y
+<$15><$59>
 <$06>
 //T.C.
 TCU 
@@ -73231,9 +73219,9 @@ Filed!
 
 //0392_000000EF_bin\PROG.BIN
 //00007D53
-<$15>
-//Y未登録
-YNot filed
+<$15><$59>
+//未登録
+Not filed
 <$14>
 <$00>
 
@@ -73340,7 +73328,7 @@ Ark
 <$1D>
 //は　動物の臭いを\nかぎわける「
  learned the 
-//<$1B>
+<$1B>
 //イヌの嗅覚」の\n能力を　身につけた∥
 Bloodhound skill!
 <$12>
@@ -73378,7 +73366,7 @@ Trapper skill!
 <$1D>
 //は　野営中に　
  learned the 
-//<$1B>
+<$1B>
 //イヌを\n猟犬に変える「ビシバシ調教」の\n能力を　身につけた∥
 Warden skill!
 <$12>
@@ -73654,9 +73642,9 @@ EXP
 //0392_000000EF_bin\PROG.BIN
 //00008389
 //
-<$15>
-//Y猟犬
-YDogs 
+<$15><$59>
+//猟犬
+Dogs 
 <$1D>
 <$00>
 
@@ -74632,18 +74620,18 @@ Toss
 //0001036A
 <CLEAR>
 //
-<$15>
-//YＡモード　
-YA Mode
+<$15><$59>
+//Ａモード　
+A Mode
 <$14><$01>
 //応急手当て 
 First Aid
 <$0E>
 //\n
 \n
-<$15>
-//YＢモード　
-YB Mode
+<$15><$59>
+//Ｂモード　
+B Mode
 <$14><$01>
 //ハンドビーム
 Hand Bomb
