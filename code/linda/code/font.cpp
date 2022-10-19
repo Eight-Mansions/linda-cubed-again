@@ -114,6 +114,10 @@ u32 GetLetterWidth(const u32 letter)
 		u32 idx = letter - 0x20;
 		return widths[idx];
 	}
+	else if (letter == 0x8145)
+	{
+		return 0x03;
+	}
 	else
 	{
 		return 0x10;
