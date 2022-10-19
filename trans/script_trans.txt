@@ -645,10 +645,7 @@ No
 <$19><$32><$1E>
 //40
 40
-<$19>
-//0
-0
-<$15><$53>
+<$19><$30><$15><$53>
 //￥
 ￥
 <$00>
@@ -755,9 +752,8 @@ The item bag is full!
 //000064EF
 <CLEAR>
 //
-<$1D><$15>
-//Wは\nＡ級保護動物のため\n取り引きできません
-W cannot be traded.\nClass A species\ntrading is prohibited!
+<$1D><$15><$57>は\nＡ級保護動物のため\n取り引きできません
+ cannot be traded.\nClass A species\ntrading is prohibited!
 <$12>
 <$00>
 
@@ -1292,9 +1288,8 @@ AMD
 
 //0000_0000072A_bin\PROG.BIN
 //000064EF
-<$15>
-//W\n捕獲目標
-W\nAstro Ark 
+<$15><$57>\n捕獲目標
+\nAstro Ark 
 <$08>
 //4残り
 4Goal: 
@@ -1431,8 +1426,8 @@ wards, got it? I'm sure we'll find a
 //000064EF
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //リンダは　「女の勘」を\nはたらかせた∥
 Linda used her woman's intuition...
@@ -1677,8 +1672,8 @@ Ken set the Makeshift Trap.
 //000064EF
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ケンは「貸しワナ」を調べた
 Ken inspected the Rental Trap.
@@ -1694,8 +1689,8 @@ No bites yet...\nKen whistfully put down the Money Trap.
 //000064EF
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ケンは「自前のワナ」を調べた
 Ken inspected the Makeshift Trap.
@@ -1707,8 +1702,8 @@ Ken inspected the Makeshift Trap.
 //000064EF
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //まだ動物はかかっていない\nケンは　がっかりしながら\n「自前のワナ」を　元に戻した
 No bites yet...\nKen whistfully put down the Makeshift Trap.
@@ -1720,8 +1715,8 @@ No bites yet...\nKen whistfully put down the Makeshift Trap.
 //000064EF
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ワナは\n壊されていた…
 The trap was destroyed...
@@ -1733,8 +1728,8 @@ The trap was destroyed...
 //000064EF
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //だが、トランスカーゴがいっぱいなので\nとりあえず　あきらめた…
 However, the TCU was already full, so Ken let it go.
@@ -3122,8 +3117,8 @@ West Area
 //00006059
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ここで降りることはできない
 Can't get off here!
@@ -4014,8 +4009,8 @@ Oh, very well then.
 //000038D7
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ケンは「
 Ken found the 
@@ -4030,8 +4025,8 @@ Ken found the
 //000038D7
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //<CLEAR>だが、道具袋が一杯なので\n「
 <CLEAR>Sadly, the item bag was full, so the 
@@ -5798,10 +5793,7 @@ Game saved.
 //000062DF
 //\n
 \n
-<$15>
-//W
-W
-<$01>
+<$15><$57><$01>
 //◇
 ◇
 <$0E>
@@ -5814,10 +5806,7 @@ W
 //000062DF
 //\n
 \n
-<$15>
-//W
-W
-<$01>
+<$15><$57><$01>
 //◇
 ◇
 <$0E>
@@ -5881,10 +5870,7 @@ b
 
 //0031_0000360C_bin\PROG.BIN
 //000062DF
-<$15>
-//W
-W
-<$01><$06><$1E>
+<$15><$57><$01><$06><$1E>
 //.
 . 
 <$0E>
@@ -5920,10 +5906,7 @@ W
 
 //0031_0000360C_bin\PROG.BIN
 //000062DF
-<$15>
-//W
-W
-<$01>
+<$15><$57><$01>
 //◇
 ◇
 <$08>
@@ -5937,10 +5920,7 @@ W
 
 //0031_0000360C_bin\PROG.BIN
 //000062DF
-<$15>
-//W
-W
-<$01>
+<$15><$57><$01>
 //◇
 ◇
 <$08>
@@ -7958,8 +7938,8 @@ OzPort
 //00001B6A
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //たくさんの男女の名が　彫られている
 A myriad of couples' names can be read off the red cypress tree.
@@ -8134,16 +8114,16 @@ Aw, who am I kidding? There's no slipping into one of those on a ranger's salary
 //00001B6A
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ケンは　赤糸杉の幹を調べた
 Ken inspected the trunk of the red cypress tree.
 <$14><$12>
 \n<CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //腰の高さに　■に入った\nケンとリンダの名前を\n見つけた
 About waist-high, Ken found a　■ looped around the names "Ken + Linda".
@@ -8212,16 +8192,16 @@ Did I write anything else? It could help, so let's look!
 //00001B6A
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ケンは　赤糸杉の幹を調べた
 Ken inspected the trunk of the red cypress tree.
 <$14><$12>
 \n<CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //胸の高さに　■に入った\nポールとリンダの名前を\n見つけた
 About waist-high, Ken found a　■ looped around the names "Paul + Linda".
@@ -8257,16 +8237,16 @@ Haha! Who the hell is "Paul"? This must be some OTHER couple. Moving on!
 //00001B6A
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ケンは　赤糸杉の幹を調べた
 Ken inspected the trunk of the red cypress tree.
 <$14><$12>
 \n<CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //目の高さに　■に入った\nケンとサチコの名前を\n見つけてしまった
 About eye-level, Ken found a　■ looped around the names "Ken + Sachiko".
@@ -8319,16 +8299,16 @@ Hmph, moving on. Better keep our eyes peeled for this OTHER Ken.
 //00001B6A
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ケンは　赤糸杉の幹を調べた
 Ken inspected the trunk of the red cypress tree.
 <$14><$12>
 \n<CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //■に入った\nジーンとアンの名前が\nかすかに　読みとれた
 Ken found an ever so faint　■ looped around the names "Gene + Ann".
@@ -8356,16 +8336,16 @@ Imagine the drama if this was them before they got married... Just kidding!
 //00001B6A
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ケンは　赤糸杉の幹を調べた
 Ken inspected the trunk of the red cypress tree.
 <$14><$12>
 \n<CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //たくさんの名前が\n書かれているが　覚えのある\n名前は　見あたらなかった
 A myriad of unfamiliar names can be read off the red cypress tree.
@@ -8456,8 +8436,8 @@ Sweet! The shop should still be on the first floor of the Airport Hotel.
 //00001B6A
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ケンは赤糸杉の幹を調べた
 Ken inspected the trunk of the red cypress tree.
@@ -8469,8 +8449,8 @@ Ken inspected the trunk of the red cypress tree.
 //00001B6A
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //■に入った　ネクとリンダの名前を\n見つけた\n
 Ken found a　■ looped around the names "Nek + Linda".\n
@@ -8491,8 +8471,8 @@ Ignore it
 //00001B6A
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ケンは　ネクの名を削って\n自分の名を新たに彫った！
 Ken struck Nek's name from the tree and wrote "Ken"!
@@ -8504,8 +8484,8 @@ Ken struck Nek's name from the tree and wrote "Ken"!
 //00001B6A
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //■に入った　ケンとリンダの名前を\n見つけて　一安心した
 Ken found a lovingly　■ looped around the names "Ken  + Linda".\n
@@ -8751,8 +8731,8 @@ Gosh, I don't know what to say. I'd only picked this up, but I hope it works as 
 //000033EB
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //<CLEAR>ケンは　
 <CLEAR>Ken took\n
@@ -10130,72 +10110,64 @@ pigs.
 <CLEAR>
 //どれを引き取るんだい\n
 What will you pick up?\n
-<$01><$1D><$1D><$15>
-//W
-W
+<$01><$1D><$1D><$15><$57>
+
 <$02>
 //56
 56
 <$0E>
 ///
  / 
-<$01><$1D><$1D><$15>
-//W
-W
+<$01><$1D><$1D><$15><$57>
+
 <$02>
 //126
 126
 <$0E>
 ///
  / 
-<$01><$1D><$1D><$15>
-//W
-W
+<$01><$1D><$1D><$15><$57>
+
 <$02>
 //196
 196
 <$0E>
 ///
  / 
-<$01><$1D><$1D><$15>
-//W
-W
+<$01><$1D><$1D><$15><$57>
+
 <$02>
 //266
 266
 <$0E>
 //\n
 \n
-<$01><$1D><$1D><$15>
-//W
-W
+<$01><$1D><$1D><$15><$57>
+
 <$02>
 //56
 56
 <$0E>
 ///
  / 
-<$01><$1D><$1D><$15>
-//W
-W
+<$01><$1D><$1D><$15><$57>
+
 <$02>
 //126
 126
 <$0E>
 ///
  / 
-<$01><$1D><$1D><$15>
-//W
-W
+<$01><$1D><$1D><$15><$57>
+
 <$02>
 //196
 196
 <$0E>
 ///
  / 
-<$01><$1D><$1D><$15>
-//W
-W
+<$01><$1D><$1D><$15><$57>
+
 <$02>
 //266
 266
@@ -11175,8 +11147,8 @@ Bank・Shopping Mall
 //00004211
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //納戸には\n鍵がかかっている
 The storage room is locked.
@@ -11188,8 +11160,8 @@ The storage room is locked.
 //00004211
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ケンは、「納戸の鍵」を使った
 Ken used the Storage Key!
@@ -11985,9 +11957,7 @@ Thank you kindly!
 //000062DB
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //金庫室には\n鍵がかかっている
 The vault is locked.
@@ -11999,8 +11969,8 @@ The vault is locked.
 //000062DB
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ケンは、「金庫室の鍵」を使った
 Ken used the Vault Key!
@@ -12012,8 +11982,8 @@ Ken used the Vault Key!
 //000062DB
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //楽屋には\n鍵がかかっている
 The backstage door is locked.
@@ -12025,8 +11995,8 @@ The backstage door is locked.
 //000062DB
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ケンは、「楽屋の鍵」を使った
 Ken used the Backstage Key.
@@ -12134,8 +12104,7 @@ Toy Ring
 <$15>
 //R 売り切れ
 R SOLD OUT
-<$15>
-//W
+<$15><$57>
 <$00>
 
 
@@ -12159,9 +12128,8 @@ b
 <$1E>
 //39
 39
-<$15>
-//W￥
-W￥
+<$15><$57>￥
+￥
 <$00>
 
 
@@ -13348,9 +13316,7 @@ At least your item bag is full, am I right?
 <$02>
 //96［
 96［
-<$19>
-//1
-1
+<$19><$31>
 <$01><$1E>
 //036
 036
@@ -13385,8 +13351,8 @@ No
 //00008D08
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //<CLEAR>ケンは「
 <CLEAR>Ken received\n
@@ -13787,9 +13753,7 @@ N
 //00004937
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //首の長い　獣人像がある
 It's a long-necked Beastman statue.
@@ -13801,8 +13765,8 @@ It's a long-necked Beastman statue.
 //00004937
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //「獣人の首飾り」を　かけますか？\n
 SHang the Beastman Necklace?\n
@@ -13823,8 +13787,8 @@ No
 //00004937
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ケンは　首の長い獣人像に\n「獣人の首飾り」を　かけた
 Ken placed the Beastman Necklace on the Beastman statue.
@@ -13836,9 +13800,7 @@ Ken placed the Beastman Necklace on the Beastman statue.
 //00004937
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //目の前の　獣人像には\n首飾りが　しっかりと　はまっている
 The Beastman statue has a necklace hanging from its neck.
@@ -13885,9 +13847,7 @@ Silver
 //00004937
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //
 <$1D>
@@ -13904,8 +13864,8 @@ A
 //00004937
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //
 <$1D>
@@ -13919,8 +13879,8 @@ A
 //00004937
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //
 <$1D>
@@ -13946,8 +13906,8 @@ No
 //00004937
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ケンは　
 Ken put the\n
@@ -14847,8 +14807,8 @@ No
 //00001A3F
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //<CLEAR>ケンは　１￥を\n泉に投げ入れた！
 <CLEAR>Ken tossed １￥ into the fountain!
@@ -14860,8 +14820,8 @@ No
 //00001A3F
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //<CLEAR>ケンは　お金を投げるフリをした
 <CLEAR>Ken pretended to toss a coin.
@@ -14999,8 +14959,8 @@ I can't.
 //00001A3F
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ケンは、猟犬「
 Ken acquired the dog, 
@@ -16168,10 +16128,7 @@ YDog/Buy
 
 //0046_00003FA9_bin\PROG.BIN
 //0000143D
-<$04><$16><$15>
-//W
-W
-<$01>
+<$04><$16><$15><$57><$01>
 //猟犬LV
 Dog LVL 
 <$1E>
@@ -17046,8 +17003,8 @@ I figured you'd show.\nHere, take a seat.
 //0000687F
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ケンは　ホスピコで起きた\n殺人事件の　真相を\n隊長に　報告した
 Ken reported the truth behind the Hospico incident to Captain MacDonald.
@@ -17474,8 +17431,8 @@ Ranger HQ B1
 //00007B2F
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //本部地下倉庫には\n鍵がかかっている
 The HQ basement storage room is locked.
@@ -17487,8 +17444,8 @@ The HQ basement storage room is locked.
 //00007B2F
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ケンは　「本部地下の鍵」を使った
 Ken used the Basement Key.
@@ -17512,8 +17469,8 @@ No matter how rare a species is, or what Class A protections it may or may not h
 //00007B2F
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //<CLEAR>ケンは　
 <CLEAR>Ken took\n
@@ -17566,12 +17523,10 @@ Aren't I right, Ken?
 //00007B2F
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //壁に　血で\n「Ｌｏｖｅ　Ｆｏｒ　Ｅｖｅｒ」\nと書かれている…
-SOn the wall, the words "Love For Ever" are written in blood.
+On the wall, the words "Love For Ever" are written in blood.
 <$14><$12>
 <$00>
 
@@ -18177,9 +18132,7 @@ You two, take these.
 //00009591
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは　隊長から\n電波受信機を　受け取った
 Ken received the\nradar from Captain MacDonald.
@@ -19912,8 +19865,8 @@ Linda's House 2F
 //0000327E
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //扉には「思い出の鍵」が\nかかっている
 A Precious Key is needed to open this door.
@@ -19925,8 +19878,8 @@ A Precious Key is needed to open this door.
 //0000327E
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ケンは、「思い出の鍵」を使った
 Ken used the Precious Key.
@@ -19955,8 +19908,8 @@ It's a wedding dress of exotic design.
 //0000327E
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //リンダの日記のようだ…\n開いてみますか？\n
 This must be Linda's diary. Read it?\n
@@ -20152,8 +20105,8 @@ OUCH! OUCH!
 //0000327E
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ケンに　
 Ken took 
@@ -20648,9 +20601,7 @@ Church 3F
 //0000115B
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //扉には「禁断の鍵」が\nかかっている
 This door can't be opened\nwithout a Secret Key.
@@ -20662,9 +20613,7 @@ This door can't be opened\nwithout a Secret Key.
 //0000115B
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは、「禁断の鍵」を使った
 Ken used the Secret Key!
@@ -20939,9 +20888,7 @@ Look at this\n
 //00001036
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //<CLEAR>ケンは「
 <CLEAR>Ken took\n
@@ -20968,8 +20915,8 @@ Look at the\n
 //00001036
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //<CLEAR>ケンは　
 <CLEAR>Ken took\n
@@ -21374,9 +21321,7 @@ Hand me the Memorin Z before going in, please.
 <$12>
 \n<CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは　院長に\nメモリンＺを　渡した
 Ken gave Director Chen the Memorin Z.
@@ -21928,9 +21873,7 @@ Forgive me for asking, especially if you came all this way to see me, but...
 //0000277C
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは　リンダに　子供の頃から\n今までのことを　ありのままに\n時間を掛けて　話した…
 From childhood to present day, Ken took his time telling Linda all about their past.
@@ -22415,8 +22358,8 @@ Ward 2 B1
 //00003F0B
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //裸の女性の死体が　ある
 SA naked female corpse lies here.
@@ -22842,9 +22785,8 @@ Raise 3 LVLs
 <$1D><$1E>
 //38
 38
-<$15>
-//W￥\n
-W￥\n
+<$15><$57>￥\n
+￥\n
 <$01>
 //性格の矯正
 Personality Adjustment
@@ -22857,9 +22799,8 @@ Personality Adjustment
 <$1D><$1E>
 //38
 38
-<$15>
-//W￥\n
-W￥\n
+<$15><$57>￥\n
+￥\n
 <$01>
 //特殊技能を習得
 Skill Training
@@ -22872,9 +22813,8 @@ Skill Training
 <$1D><$1E>
 //38
 38
-<$15>
-//W￥
-W￥
+<$15><$57>￥
+￥
 <$00>
 
 
@@ -24169,9 +24109,7 @@ I hope it was only for the sentiment. Once the Grim Reaper hits, it'll all be de
 //00000EF2
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //壁に　落書きがある
 There is old graffiti on the wall.
@@ -25762,9 +25700,7 @@ I bet they all have too much meat in their diets. I'm glad ours have a sense of 
 //00001D41
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //扉には鍵がかかっている
 The door is locked.
@@ -26471,9 +26407,7 @@ Our re-collection fees can and will jump around to reflect that.
 //00003C41
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //鍵がかかっている
 It's locked.
@@ -26485,9 +26419,7 @@ It's locked.
 //00003C41
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは「金庫室の鍵」を使った
 Ken used the Vault Key.
@@ -26587,9 +26519,7 @@ Please make space in your item bag. We'll work with you once you're ready.
 //000046ED
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //<CLEAR>ケンは「貸しワナ」を受け取った
 <CLEAR>Ken received\nthe Rental Trap!
@@ -26684,9 +26614,7 @@ Tavern
 //0000084E
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //楽屋には　鍵が\nかかっている
 The dressing room is locked.
@@ -26698,9 +26626,7 @@ The dressing room is locked.
 //0000084E
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは「楽屋の鍵」を使った
 Ken used the Backstage Key!
@@ -27252,9 +27178,7 @@ x\nBid:
 <$03>
 //0
 0
-<$19>
-//1
-1
+<$19><$31>
 <$06><$1E><$19>
 //0
 0
@@ -27457,9 +27381,7 @@ But...such a girl doesn't exist.
 //00001035
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは「納戸の鍵」を使った
 Ken used the Storage Key!
@@ -28457,8 +28379,8 @@ DESTINATION
 //0000470C
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //<CLEAR>・・・・・・・・・・・・∥∥∥
 <CLEAR>.........!
@@ -29311,9 +29233,7 @@ And now, here is a
 //00002CD3
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //<CLEAR>ケンは「
 <CLEAR>Ken received the 
@@ -29934,9 +29854,7 @@ I got everything I wanted to have,\ndid everything I wanted to do,\nand die with
 //0000252A
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは、「倉庫の鍵」を使った
 Ken used the Warehouse Key!
@@ -30115,72 +30033,64 @@ You left no animals in our care.
 <CLEAR>
 //どれを引き取りますか？\n
 What are you taking?\n
-<$01><$1D><$1D><$15>
-//W
-W
+<$01><$1D><$1D><$15><$57>
+
 <$02>
 //56
 56
 <$0E>
 ///
  / 
-<$01><$1D><$1D><$15>
-//W
-W
+<$01><$1D><$1D><$15><$57>
+
 <$02>
 //126
 126
 <$0E>
 ///
  / 
-<$01><$1D><$1D><$15>
-//W
-W
+<$01><$1D><$1D><$15><$57>
+
 <$02>
 //196
 196
 <$0E>
 ///
  / 
-<$01><$1D><$1D><$15>
-//W
-W
+<$01><$1D><$1D><$15><$57>
+
 <$02>
 //266
 266
 <$0E>
 //\n
 \n
-<$01><$1D><$1D><$15>
-//W
-W
+<$01><$1D><$1D><$15><$57>
+
 <$02>
 //56
 56
 <$0E>
 ///
  / 
-<$01><$1D><$1D><$15>
-//W
-W
+<$01><$1D><$1D><$15><$57>
+
 <$02>
 //126
 126
 <$0E>
 ///
  / 
-<$01><$1D><$1D><$15>
-//W
-W
+<$01><$1D><$1D><$15><$57>
+
 <$02>
 //196
 196
 <$0E>
 ///
  / 
-<$01><$1D><$1D><$15>
-//W
-W
+<$01><$1D><$1D><$15><$57>
+
 <$02>
 //266
 266
@@ -30311,9 +30221,7 @@ Hehehe, my kids are going to be so proud of me.\n"Wow Dad, you're the greatest!"
 <$12>
 \n<CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //<CLEAR>ケンは、「
 <CLEAR>Ken sold the 
@@ -30428,9 +30336,7 @@ Koshikata
 //00001DEF
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //扉は硬く閉ざされている
 The door is shut tightly.
@@ -30597,9 +30503,7 @@ Say-a, Ken...\nAny chance you know where they went?
 //00001DEF
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //扉はサビついて開かない
 The door is rusted shut and will not open.
@@ -30643,9 +30547,7 @@ It smells like a bunch of dust.
 //00002864
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //扉は堅く閉ざされている
 The door is shut tight.
@@ -30657,9 +30559,7 @@ The door is shut tight.
 //00002940
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは、「教会の鍵」を使った
 Ken used the Church Key.
@@ -30671,9 +30571,7 @@ Ken used the Church Key.
 //00002940
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //何も　見つからなかった
 Nothing was found.
@@ -30902,9 +30800,7 @@ Warehouse 2
 //00000C98
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ものすごい臭いの　緑色の液体が\nブクブクと　泡だっている
 A foul smelling green liquid bubbles and foams.
@@ -31433,9 +31329,7 @@ Green Mansion 1F
 //00003723
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //鍵がかかっていて開かない
 This door is locked and will not open.
@@ -31447,9 +31341,7 @@ This door is locked and will not open.
 //00003723
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは、「お屋敷の鍵」を使った
 Ken used the Mansion Key!
@@ -31576,9 +31468,7 @@ Pig Sausage.\nIf one's not enough, feel free to get more!
 //00003723
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは「
 Ken received the\n
@@ -32414,9 +32304,7 @@ Oh! Are those the meats? You're faster than I expected!
 //000044ED
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは　パンハイム博士に\n
 Ken gave Prof. Panheim the\n
@@ -32560,9 +32448,7 @@ Here's the memory restoring serum, Memorin Z!
 //000044ED
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは　パンハイム博士から\nメモリンＺを　受け取った
 Ken received the\nMemorin Z from Prof. Panheim.
@@ -32590,9 +32476,7 @@ And here, Kenny-boy, is another merry present from me to you.
 //000044ED
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは　パンハイム博士から\nホレギンＣを　押しつけられた
 Ken received the\nHooligan Ｃ from Prof. Panheim.
@@ -32636,8 +32520,8 @@ Ah, hello!\nI have just the present for you. Please, take it.
 //000044ED
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ケンは　パンハイム博士から\n
 Ken received the\n
@@ -32999,9 +32883,7 @@ Spurr Valley
 //00000BDC
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //カギがかかっているようだ\nビクともしない
 The door is locked tight.
@@ -35227,9 +35109,7 @@ Pffthahaha! Gosh, I haven't felt this way since my first husband's funeral!
 //00005FA3
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //扉は溶接され　固く閉ざされている
 The door is welded shut.
@@ -35974,9 +35854,7 @@ W South Area
 //00006823
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //町は　粉々に破壊されている
 The complex is in ruins.
@@ -36307,18 +36185,14 @@ Touch your panel on the count of three! Here goes. 1! 2! 3!
 //00005834
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは右手を　リンダは左手を\n押しつけた
 Ken and Linda placed their hands on the panels...
 <$14><$12>
 \n<CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //しかし何もおこらなかった
 ...but nothing happened.
@@ -38198,8 +38072,8 @@ Impersonators will go as far as dyeing their hair green and donning traditional 
 //00002485
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //転送装置、使用不可
 SBEAM TERMINAL UNAVAILABLE
@@ -38880,9 +38754,7 @@ You don't have to thank me. We're friends now!
 //0000178E
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //鍵がかかっている\n留守のようだ
 The door is locked.\nLooks like no one's home.
@@ -39928,8 +39800,7 @@ Z
 <$15>
 //Y［
 Y［
-<$15>
-//W
+<$15><$57>
 W
 <$1D><$15>
 //Y］
@@ -40923,9 +40794,7 @@ It's hard to surprise me anymore, so don't leave anything out.
 //000056A0
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは　ミームに　これまでの\n経過を　かいつまんで話した
 Ken gave Meme a summary of everything that transpired.
@@ -46936,9 +46805,7 @@ Here, treat yourself.■
 //00004C67
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは　
 Ken found 
@@ -47584,8 +47451,8 @@ No
 //00005FCE
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //<CLEAR>ケンは　賞金
 <CLEAR>Ken received\n
@@ -47651,9 +47518,9 @@ Keep old name
 
 //0196_00006186_bin\PROG.BIN
 //00005FCE
-<$19>
-//1<CLEAR>第
-1<CLEAR>Give it 
+<$19><$31>
+//<CLEAR>第
+<CLEAR>Give it 
 <$1E>
 //2代目「
 up for 
@@ -48014,9 +47881,7 @@ Residence
 //0000091E
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //描きかけの　男の肖像画がある\nどこかで見た　顔だ
 A painted portrait of a man.\nWhy does he look so familiar?
@@ -48028,9 +47893,7 @@ A painted portrait of a man.\nWhy does he look so familiar?
 //0000091E
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは「研究室の鍵」を発見∥
 Ken found the Lab Key!
@@ -48042,9 +47905,7 @@ Ken found the Lab Key!
 //0000091E
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //<CLEAR>だが、道具袋がいっぱいなので\n「研究室の鍵」を\nとりあえず　あきら
 めた…
@@ -48057,9 +47918,7 @@ SHis item bag was too full,\nso he had to put the Lab Key back.
 //0000091E
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは「研究室の鍵」を\n手に入れた
 Ken acquired the Lab Key!
@@ -48307,9 +48166,7 @@ Laboratory
 //00001D3E
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //子供の頃から　今に至るまでの\nサチコの写真が　壁いっぱいに\n貼られている
 Photos of Sachiko throughout her childhood span the wall from floor to ceiling.
@@ -48321,9 +48178,7 @@ Photos of Sachiko throughout her childhood span the wall from floor to ceiling.
 //00001D3E
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //全身が赤い　手足のない\n奇形の人形が　ある
 This doll has a red body and no legs, like a weird bath toy.
@@ -48335,8 +48190,8 @@ This doll has a red body and no legs, like a weird bath toy.
 //00001D3E
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //片手を上げた　顔が
 This doll has its paw raised.\nIt resembles a 
@@ -48351,9 +48206,7 @@ cat.
 //00001D3E
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは、「研究室の鍵」を\n使った
 Ken used the Lab Key.
@@ -48684,9 +48537,7 @@ You two are going, of course? We'll see you there!
 //000029A3
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //頭の大きな　赤い人形が\n入っているようだ
 Atop the table sits a red doll with a large head.
@@ -48865,8 +48716,8 @@ Shelter B7
 //0000391E
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //エレベータが反応しない\n故障したようだ
 The elevator does not respond. It appears to be broken.
@@ -48878,8 +48729,8 @@ The elevator does not respond. It appears to be broken.
 //0000391E
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //装置は反応しない
 The apparatus does not respond.
@@ -49097,9 +48948,7 @@ Good work! On our end, we just finished making preparations for the transplant.
 //000044C2
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは　スミレに\n
 Ken gave Sumire the\n
@@ -49211,9 +49060,7 @@ Shit, are they okay?\nWhen I said, "killing it", I didn't mean  literally.
 //00004CA3
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //とりあえず　息はしている…
 She's still breathing for now.
@@ -49350,9 +49197,7 @@ hand
 //00004CA3
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは　リンダを　抱き起こして\nそっと　唇を
 Ken took Linda close and kissed her 
@@ -49462,9 +49307,7 @@ Now, why don't you tell me what all happened while I was asleep?
 //00004CA3
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは　リンダが倒れた後に\n起きたことを　話した
 Ken told Linda about everything that transpired during her hospital stay.
@@ -50099,9 +49942,7 @@ Parasite
 //0000221B
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //死んでいるようだ
 It appears dead.
@@ -50639,9 +50480,7 @@ Ann
 //00001615
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //誰もいないようだ
 No one is here.
@@ -50653,9 +50492,7 @@ No one is here.
 //00001615
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //扉は閉まっている
 The door is closed.
@@ -51741,9 +51578,7 @@ KEN, LINDA. NEVER GIVE UP AFTER CROSSING THE THRESHOLD INTO THE FUTURE.
 //00004B4D
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //扉は固く閉ざされている
 The door is shut tightly.
@@ -53266,8 +53101,8 @@ No, no, no!
 //00001911
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ケンは色紙に　慣れないサインを\nそれらしく　書いてみた…
 Ken awkwardly scribbled his name on the signboard.
@@ -53604,8 +53439,8 @@ This is the key to the secret room on the 3rd floor of Minago Church.
 //00001317
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ケンは「禁断の鍵」を　受け取った！
 Ken acquired the Secret Key!
@@ -53813,16 +53648,16 @@ Bet I'll never see something so stupid again 'til the day I die.
 //000040DD
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ケンは　バナナの皮を踏んづけて\n最悪の角度で　ころんだ∥
 Ken slipped on a banana peel, landing in the worst possible angle known to man.
 <$12>
 \n<CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //薄れゆく意識の中で　リンダの声と\n教会の鐘の音を　聞いた気がした…
 His world went black to the sounds of Linda's voice and distant church bells.
@@ -55672,8 +55507,8 @@ As a token of gratitude, I've personally prepared this small token of thanks.
 //00002AC5
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ケンは「黒の獣人像」を\n受け取った∥
 Ken received\nthe Black Beastman Doll!
@@ -56471,9 +56306,7 @@ Here, I was told to give this to you if you ever came back.
 <$12>
 \n<CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは「青の獣人像」を　受け取った！
 Ken received the\nBlue Beastman Doll!
@@ -56619,8 +56452,8 @@ chicken meat?!\nYou rangers never let me down!
 //000017F4
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ケンは　
 Ken gave Prof. Panheim the\n
@@ -56683,8 +56516,8 @@ See? That didn't feel like enough. Here, please accept this as a token.
 //000017F4
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ケンは「青の獣人像」を　受け取った！
 Ken received the\nBlue Beastman Doll!
@@ -56705,9 +56538,7 @@ And here's a little something else for your travels.
 //000017F4
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは「シャニルＮｏ５」を\n押しつけられた！
 Ken received the Chanel No. 5!
@@ -56915,9 +56746,7 @@ At least you're honest! Now, this is no magic, but here's another trick of the t
 //000023A3
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //<CLEAR>リンダは　植物の種類を見わける\n「植物鑑定」の能力を\nフローラから　習得した∥
 <CLEAR>Linda learned the\nBotanist skill from Dr. Flora!
@@ -57446,9 +57275,7 @@ th customer, which means you win a fantastic prize!
 //00004675
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //<CLEAR>ケンは「
 <CLEAR>Ken received the 
@@ -57905,9 +57732,7 @@ Karhagolem 1F
 //0000763A
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //「ファングの牙」だ！\nしかし、道具袋がいっぱいで\n入手できない
 Ken acquired Fang's Fang!\nHowever, the item bag was full,\nso he had to put it back.
@@ -57919,9 +57744,7 @@ Ken acquired Fang's Fang!\nHowever, the item bag was full,\nso he had to put it 
 //0000763A
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは、「ファングの牙」を\n手にいれた
 Ken acquired Fang's Fang!
@@ -58510,9 +58333,7 @@ How's about a special skill to remember me by?
 //000048E4
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //<CLEAR>リンダは　動物をおびき寄せる\n「鳴きマネ」の能力を\nモレクから　習得した∥
 <CLEAR>Linda learned the\nCatcaller skill!
@@ -58580,9 +58401,7 @@ Take a minute to clear your item bag\nby 1 space while I clear my head.
 //000048E4
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは「本部地下の鍵」を\n握らされた！
 Ken received the Basement Key!
@@ -59016,9 +58835,7 @@ Turtle Eggs! Quickly!
 //00002AC1
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは　大きな卵を奪われた！
 Ken was grabbed by his Big Eggs!
@@ -59357,9 +59174,7 @@ That's a Pteranodon egg!\nYou've got to let me have that!
 <$12>
 \n<CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは　巨大な卵を\n取り上げられた…∥
 Ken surrendered the Jumbo Egg...
@@ -59459,8 +59274,8 @@ Well, I can't go back on my word. Hand me the Ribhorn Flower. I won't eat it, pr
 <$12>
 \n<CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ケンは　「リボンの花」を\n手渡した
 Ken handed Bronco the Ribhorn Flower.
@@ -59565,8 +59380,8 @@ No
 //000010E8
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //<CLEAR>ケンは　ポリスカの墓に\n「
 <CLEAR>Ken laid the 
@@ -60327,8 +60142,8 @@ Ken, allow me to teach you a skill that will help you hide from animals.
 //00005291
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ケンは　動物から姿を隠す\n「迷彩」の能力を\nポリスカから　習得した∥
 <CLEAR>Ken learned the\nMasker skill from Poliska!
@@ -60472,9 +60287,7 @@ I've stepped down as elder, but taking it would give me closure. You don't mind,
 <$12>
 \n<CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは　パトルカに\n「
 Ken gave Patrolka the\n
@@ -60529,8 +60342,8 @@ He let out one last, "Cough! Cough," and dropped. And that was the end of it.
 //00005291
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ケンは「赤の獣人像」を\n受け取った
 Ken received the\nRed Beastman Doll!
@@ -60877,9 +60690,7 @@ Here. I used my bonus to buy this for her the day after our one date. I don't ne
 //00000FE6
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //リンダは「結納セット」を\nもらってしまった…
 Linda wound up with\nthe Wedding Gift...
@@ -61046,9 +60857,7 @@ Here. It's not much, but I hope it comes in handy.
 //0000238F
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは「ティッシュ」を　もらった
 Ken acquired the Tissues.
@@ -61095,9 +60904,7 @@ This too is for you!
 //0000238F
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは「花の種パック」を　もらった
 Ken acquired the Flowerseed Bag.
@@ -61122,9 +60929,7 @@ I'll teach you a skill that helped numb the loneliness I've come to know in this
 //0000238F
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //<CLEAR>ケンは　言われるままに\n「口笛」の能力を\nヤマダから　習得した∥
 <CLEAR>Ken learned the\nWhistler skill from Yamada!
@@ -61337,9 +61142,7 @@ And all he could whip out was, "If you don't marry me, I'll die!" What an obnoxi
 //00002278
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは、桜の木の根元を調べた
 Ken inspected the roots of the sakura tree...
@@ -61351,8 +61154,8 @@ Ken inspected the roots of the sakura tree...
 //00002278
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //<CLEAR>ケンは、「大判小判」を発見した
 <CLEAR>Ken dug up the Vintage Coin!
@@ -61364,9 +61167,7 @@ Ken inspected the roots of the sakura tree...
 //00002278
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //<CLEAR>しかし、何も発見出来なかった
 <CLEAR>...but he didn't find anything.
@@ -61467,9 +61268,7 @@ Oh...?\nIs that bright red poop for me?
 <$12>
 \n<CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ソフィアは　ケンから受け取った\n熱いウンチを　そこらにまいた
 Sophia took the Hot Dung from Ken and threw it everywhere.
@@ -61512,9 +61311,7 @@ Thank you again, Mister! Here, take this key. It unlocks the room with my saving
 //00002278
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは「お屋敷の鍵」を　受け取った！
 Ken received the Mansion Key！
@@ -61587,8 +61384,8 @@ Oh...?\nIs that
 //00002278
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ソフィアは　ケンから受け取った\n
 SSophia took the 
@@ -61613,8 +61410,8 @@ I'll take care of it from here.
 //00002278
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ケンは　
 Ken acquired\n
@@ -61770,9 +61567,7 @@ It'd be swell if something bloomed by next spring.
 //00002278
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //
 S
@@ -61787,9 +61582,7 @@ S
 //00002278
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //<CLEAR>しかし、道具袋がいっぱいだ
 <CLEAR>Alas, the item bag was full.
@@ -61801,8 +61594,8 @@ S
 //00002278
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //<CLEAR>ケンは　「
 S<Clear>Ken took\n
@@ -61834,9 +61627,7 @@ No
 //00002278
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは、「花の種パック」を開け\n種をまいてみた
 Ken opened the Flowerseed Bag\nand sewed its seeds in the soil.
@@ -62437,9 +62228,7 @@ Wuh-oh, my wallet's sick too, see? And the only drug that can save it is cash!
 //000056A1
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは　「
 Ken received the 
@@ -63368,9 +63157,7 @@ Wow! You're faster than I thought! Here, give me Taro's Collar!
 <$12>
 \n<CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは「太郎の首輪」を\nナターシャに　渡した
 Ken gave Taro's Collar\nto Natasha!
@@ -63424,8 +63211,8 @@ Well, I suppose I can give you this ring as a bonus!
 //00004DC7
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ケンは
 Ken received 
@@ -63546,9 +63333,7 @@ Only an idiot would turn down the champ, Jiro! Now, give me Taro's Collar!
 <$12>
 \n<CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは「太郎の首輪」を\n取り上げられた！
 Ken surrendered Taro's Collar!
@@ -63582,8 +63367,8 @@ Here's, Jiro! You'd better take good care of him.
 //00004DC7
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ケンは、猟犬「次郎」を手に入れた！
 Ken acquired\nthe dog, Jiro!
@@ -63641,9 +63426,7 @@ Why, Ken! You're so sweet to fetch Taro's Collar for me!■
 <$12>
 \n<CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは「太郎の首輪」を\n思わず　渡してしまった…
 Ken felt Taro's Collar get whisked out of his hand.
@@ -63664,9 +63447,7 @@ Here's the reward I promised. Save it for a down payment on a sizeable house.
 //00004DC7
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは　
 Ken received 
@@ -63741,9 +63522,7 @@ Life's about "give and take"!\nCome on, let's trade!
 //00004DC7
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは「太郎の首輪」を渡して\n「
 Ken traded Taro's Collar\nfor the 
@@ -63835,8 +63614,8 @@ But anyway, how can I help you?
 //00000ED5
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ケンは　リナバレーの息子のことを\nアンジェラに話した…
 Ken told Angela about her son in Spurr Valley.
@@ -64139,8 +63918,8 @@ We have work to do! First, here's the research and the money.
 //00001042
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ケンは「フロッピー」と\n身代金
 Ken received the\nFloppy Disc and 
@@ -64439,9 +64218,7 @@ You're going back on our deal NOW?! You little...!
 //00002DA8
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは、しかたなく\nフロッピーと身代金を置いた
 Ken reluctantly surrendered\nthe Floppy Disc and the ransom money.
@@ -65053,9 +64830,7 @@ Those look like Bloodberries! Oh, thank you!
 //00000FC6
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは　ケビン少年に\n「鮮血の果実」を　手渡した
 Ken gave Kevin the Bloodberries.
@@ -65160,9 +64935,7 @@ And that's that.\nTake care of Nightshade for me!
 //00000FC6
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //ケンは　トランスカーゴに\nポロポロちゃんを　収容した
 Ken welcomed Nightshade\ninto the trans-cargo unit.
@@ -65743,8 +65516,8 @@ Maybe you should empty your item bag.
 //000058B0
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ケンは「太郎の首輪」を\n受け取った∥
 Ken acquired Taro's Collar!
@@ -67183,8 +66956,8 @@ Annabis B1
 //00005FF2
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //丸い小さな　へこみがある
 There is a small, round cavity.
@@ -67196,8 +66969,8 @@ There is a small, round cavity.
 //00005FF2
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ケンは　「
 Ken fit the\n
@@ -67240,8 +67013,8 @@ Adamarde
 //00005FF2
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //<CLEAR>ケンは　
 <CLEAR>Ken absorbed\n
@@ -67297,8 +67070,8 @@ BP:
 //00005FF2
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //リンダは　「
 Ken fit the\n
@@ -67341,9 +67114,7 @@ Adamar
 //00005FF2
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //<CLEAR>リンダは　
 <CLEAR>Linda absorbed\n
@@ -67657,8 +67428,8 @@ Dogeater draws near!
 //00002A26
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //こちら側からは　開かないようだ…
 It doesn't open from this side.
@@ -67925,8 +67696,8 @@ Tri-cross 1F
 //00009CBA
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //目の前の獣人像には\n「
 The 
@@ -67941,9 +67712,7 @@ The
 //00009CBA
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //なんだか　嬉しそうだ
 It almost looks...happy.
@@ -67955,9 +67724,7 @@ It almost looks...happy.
 //00009CBA
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //頭に　奇妙な凹凸のある\n獣人像がある
 The bust of the statue looks like it's missing something.
@@ -67969,8 +67736,8 @@ The bust of the statue looks like it's missing something.
 //00009CBA
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //「
 The 
@@ -67994,8 +67761,8 @@ No
 //00009CBA
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ケンは　目の前の獣人像に\n「
 Ken put the\n
@@ -68246,32 +68013,28 @@ Ignore
 <$01><$1D><$0E>
 //\n　　
 \n　　
-<$01><$15>
-//W決定
-WOK!
+<$01><$15><$57>
+//決定
+OK!
 <$0E>
 <$00>
 
 
 //0385_00006D9F_bin\PROG.BIN
 //000054A0
-<$15>
-//W○
-W○
-<$15>
-//G●
-G●
+<$15><$57>
+//○
+<$15><$47>
+//●
 <$00>
 
 
 //0385_00006D9F_bin\PROG.BIN
 //000054A0
-<$15>
-//R●
-R●
-<$15>
-//W○
-W○
+<$15><$52>
+//●
+<$15><$57>
+//○
 <$00>
 
 
@@ -68279,9 +68042,7 @@ W○
 //00005A87
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //鍵がかかっていて開きそうにない
 The door is locked and likely will not open.
@@ -68293,9 +68054,7 @@ The door is locked and likely will not open.
 //00005A87
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //扉は開きそうにない
 The door likely will not open.
@@ -68402,8 +68161,8 @@ Hah! How bold of you to throw your life away so cheaply!
 //00005A87
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //ケンは　ガルシアに\n
 Ken surrendered\n
@@ -69000,8 +68759,8 @@ Have no f-fear, Ken!\nNo matter what happens,\nI'll be right behind you!
 //000033D8
 <CLEAR>
 //
-<$19>
-//1
+<$19><$31>
+//
 <$15><$53>
 //この船の　乗員の\nプライベートルームのようだ…\nなぜか　扉は開かない
 This looks like the control room. For some reason, the door won't open.
@@ -69167,9 +68926,7 @@ No
 //00004630
 <CLEAR>
 //
-<$19>
-//1
-1
+<$19><$31>
 <$15><$53>
 //色あせた写真が　ある\nよくわからないが\n人間が　写っているようだ…
 There's a photo. It's too faded to tell, but it looks like a human is in the picture.
@@ -69805,10 +69562,7 @@ File Select
 //0000641C
 //\n
 \n
-<$15>
-//W
-W
-<$01>
+<$15><$57><$01>
 //◇
 ◇
 <$0E>
@@ -69939,10 +69693,7 @@ Select
 //0000641C
 //\n
 \n
-<$15>
-//W
-W
-<$01>
+<$15><$57><$01>
 //◇
 ◇
 <$08>
@@ -70029,7 +69780,7 @@ No
 <$04>
 //種以上の動物を捕獲\nΧ箱船を発進させる\n  設定難易度
  species\nis required to deploy the Astro Ark.\n  Mode 
-<$1E> 
+<$1E>
 <$01>
 //→→
 →→
@@ -70946,8 +70697,7 @@ Memo
 //0000642A
 <CLEAR>
 //
-<$15>
-//W未登録で未捕獲 …………………
+<$15><$57>未登録で未捕獲 …………………
 W◇ 
 <$15>
 //R赤
@@ -70955,8 +70705,7 @@ RRED: Neither captured nor filed
 <$11>
 //240<CLEAR>
 240<CLEAR>
-<$15>
-//W未登録で捕獲済み ………………
+<$15><$57>未登録で捕獲済み ………………
 W ◇ 
 <$15>
 //Y黄
@@ -70964,14 +70713,12 @@ YYELLOW: Captured, but not filed
 <$11>
 //240<CLEAR>
 240<CLEAR>
-<$15>
-//W登録済み …………………………白
+<$15><$57>登録済み …………………………白
 W ◇ WHITE: Filed!
 <$11>
 //240<CLEAR>
 240<CLEAR>
-<$15>
-//W絶対捕獲不可 ……………………
+<$15><$57>絶対捕獲不可 ……………………
 W ◇ 
 <$15>
 //K黒
@@ -70987,8 +70734,7 @@ KBLACK: Cannot be captured
 //0000642A
 <CLEAR>
 //
-<$15>
-//Wセレクトボタンで解説が出ます
+<$15><$57>セレクトボタンで解説が出ます
 WSELECT: Details
 <$11>
 //240<CLEAR>Ｌ/Ｒボタンで情報を切り換えます
@@ -71003,8 +70749,7 @@ WSELECT: Details
 //0000642A
 <CLEAR>
 //
-<$15>
-//W道具を使う・捨てることができます
+<$15><$57>道具を使う・捨てることができます
 WUse or trash items
 <$00>
 
@@ -71013,8 +70758,7 @@ WUse or trash items
 //0000642A
 <CLEAR>
 //
-<$15>
-//W装備を変更します
+<$15><$57>装備を変更します
 WChange part equipment
 <$00>
 
@@ -71023,8 +70767,7 @@ WChange part equipment
 //0000642A
 <CLEAR>
 //
-<$15>
-//W特殊能力を使います
+<$15><$57>特殊能力を使います
 WView and utilize party skills
 <$00>
 
@@ -71033,8 +70776,7 @@ WView and utilize party skills
 //0000642A
 <CLEAR>
 //
-<$15>
-//W一覧表示や隊列を変更することができます
+<$15><$57>一覧表示や隊列を変更することができます
 WView status and change formation
 <$00>
 
@@ -71043,8 +70785,7 @@ WView status and change formation
 //0000642A
 <CLEAR>
 //
-<$15>
-//Wトランスカーゴ内の動物を見ます
+<$15><$57>トランスカーゴ内の動物を見ます
 WView animals in trans-cargo unit
 <$00>
 
@@ -71053,8 +70794,7 @@ WView animals in trans-cargo unit
 //0000642A
 <CLEAR>
 //
-<$15>
-//W動物図鑑や状態を見ることができます
+<$15><$57>動物図鑑や状態を見ることができます
 WView animal bios and stats
 <$00>
 
@@ -71063,8 +70803,7 @@ WView animal bios and stats
 //0000642A
 <CLEAR>
 //
-<$15>
-//W地図を表示　ダンジョンでも使えます
+<$15><$57>地図を表示　ダンジョンでも使えます
 WView world and dungeon maps
 <$00>
 
@@ -71073,8 +70812,7 @@ WView world and dungeon maps
 //0000642A
 <CLEAR>
 //
-<$15>
-//WパーティのＨＰ等、状態を表示します
+<$15><$57>パーティのＨＰ等、状態を表示します
 WView party HP, stats, etc.
 <$00>
 
@@ -71083,8 +70821,7 @@ WView party HP, stats, etc.
 //0000642A
 <CLEAR>
 //
-<$15>
-//Wポケット動物図鑑を見ます
+<$15><$57>ポケット動物図鑑を見ます
 WBoot the animal pocket bible
 <$00>
 
@@ -71093,8 +70830,7 @@ WBoot the animal pocket bible
 //0000642A
 <CLEAR>
 //
-<$15>
-//W現在までに使用できる特殊能力の一覧です
+<$15><$57>現在までに使用できる特殊能力の一覧です
 WView list of usable skills
 <$00>
 
@@ -71103,8 +70839,7 @@ WView list of usable skills
 //0000642A
 <CLEAR>
 //
-<$15>
-//Wイベントの進行状況を表示します
+<$15><$57>イベントの進行状況を表示します
 WView event progress
 <$00>
 
@@ -71384,9 +71119,8 @@ YTech/
 
 //0392_000000EF_bin\PROG.BIN
 //00006922
-<$15>
-//W
-W
+<$15><$57>
+
 <$04>
 //→
 →
@@ -71416,9 +71150,8 @@ W
 
 //0392_000000EF_bin\PROG.BIN
 //00006922
-<$15>
-//W
-W
+<$15><$57>
+
 <$04><$1D><$1D><$1E>
 //35
 35
@@ -71427,9 +71160,8 @@ W
 
 //0392_000000EF_bin\PROG.BIN
 //00006922
-<$15>
-//W
-W
+<$15><$57>
+
 <$05>
 //→
 →
@@ -71450,9 +71182,8 @@ W
 
 //0392_000000EF_bin\PROG.BIN
 //00006922
-<$15>
-//W
-W
+<$15><$57>
+
 <$05><$1D><$1D><$1E>
 <$00>
 
@@ -71464,9 +71195,8 @@ W
 <$04><$15><$53>
 //攻撃力：
 ATK：
-<$15>
-//W
-W
+<$15><$57>
+
 <$1E>
 //35
 35
@@ -71476,9 +71206,8 @@ W
 <$04><$15><$53>
 //守備力：
 DEF：
-<$15>
-//W
-W
+<$15><$57>
+
 <$1E>
 //35
 35
@@ -71488,9 +71217,8 @@ W
 <$04><$15><$53>
 //物理　火炎　冷気　電気\n
 PHY FIR ICE ELC\n
-<$05><$15>
-//W
-W
+<$05><$15><$57>
+
 <$1E><$08>
 //28
 28
@@ -71506,9 +71234,8 @@ W
 <$04><$15><$53>
 //液体　気体　光音　必殺\n
 LQD GAS LGT DTH\n
-<$05><$15>
-//W
-W
+<$05><$15><$57>
+
 <$1E><$08>
 //28
 28
@@ -71526,9 +71253,8 @@ W
 //00006922
 <CLEAR>
 //
-<$15>
-//W
-W
+<$15><$57>
+
 <$04><$01>
 // ＜＜
  ＜＜
@@ -71562,9 +71288,8 @@ W
 <$16><$04><$15>
 //b装備をはずす  
 bREMOVE 
-<$15>
-//W
-W
+<$15><$57>
+
 <$00>
 
 
@@ -71724,9 +71449,8 @@ OK
 
 //0392_000000EF_bin\PROG.BIN
 //00006AF7
-<$15>
-//W逃走中
-WFled
+<$15><$57>逃走中
+Fled
 <$00>
 
 
@@ -71740,9 +71464,8 @@ bK.O.
 
 //0392_000000EF_bin\PROG.BIN
 //00006AF7
-<$15>
-//W異常なし
-WFine
+<$15><$57>異常なし
+Fine
 <$00>
 
 
@@ -72257,81 +71980,71 @@ Attack 1 foe (continuous)
 
 //0392_000000EF_bin\PROG.BIN
 //00006B9A
-<$15>
-//W単体攻撃Ａ
-WMeleeA
+<$15><$57>単体攻撃Ａ
+MeleeA
 <$00>
 
 
 //0392_000000EF_bin\PROG.BIN
 //00006B9A
-<$15>
-//W単体攻撃Ｂ
-WMeleeB
+<$15><$57>単体攻撃Ｂ
+MeleeB
 <$00>
 
 
 //0392_000000EF_bin\PROG.BIN
 //00006B9A
-<$15>
-//W複数攻撃Ａ
-WRangedＡ
+<$15><$57>複数攻撃Ａ
+RangedＡ
 <$00>
 
 
 //0392_000000EF_bin\PROG.BIN
 //00006B9A
-<$15>
-//W複数攻撃Ｂ
-WRangedB
+<$15><$57>複数攻撃Ｂ
+RangedB
 <$00>
 
 
 //0392_000000EF_bin\PROG.BIN
 //00006B9A
-<$15>
-//W味方強化他
-WBuff
+<$15><$57>味方強化他
+Buff
 <$00>
 
 
 //0392_000000EF_bin\PROG.BIN
 //00006B9A
-<$15>
-//W攻撃補助
-WAssist
+<$15><$57>攻撃補助
+Assist
 <$00>
 
 
 //0392_000000EF_bin\PROG.BIN
 //00006B9A
-<$15>
-//W怪物能力
-WCreature
+<$15><$57>怪物能力
+Creature
 <$00>
 
 
 //0392_000000EF_bin\PROG.BIN
 //00006B9A
-<$15>
-//W人間能力
-WField
+<$15><$57>人間能力
+Field
 <$00>
 
 
 //0392_000000EF_bin\PROG.BIN
 //00006B9A
-<$15>
-//W複数攻撃
-WRanged
+<$15><$57>複数攻撃
+Ranged
 <$00>
 
 
 //0392_000000EF_bin\PROG.BIN
 //00006B9A
-<$15>
-//W自己防衛
-WDefense
+<$15><$57>自己防衛
+Defense
 <$00>
 
 
@@ -72417,8 +72130,7 @@ YSkills
 //018
 <$09>
 //-4　
-<$15>
-//W
+<$15><$57>
 <$04><$01><$1D>
 <$00>
 
@@ -72431,9 +72143,8 @@ YSkills
 <$09>
 //-4 
 -4 
-<$15>
-//W
-W
+<$15><$57>
+
 <$04><$01>
 //？？？
 ???
@@ -72466,8 +72177,7 @@ W
 //
 <$05><$1D><$1D><$02>
 //258
-<$0E><$15>
-//W\n
+<$0E><$15><$57>\n
 <$00>
 
 
@@ -73364,9 +73074,8 @@ K
 //00007D53
 <CLEAR>
 //
-<$15>
-//W
-W
+<$15><$57>
+
 <$00>
 
 
@@ -73515,9 +73224,8 @@ ATK
 
 //0392_000000EF_bin\PROG.BIN
 //00007D53
-<$15>
-//W登録済み
-WFiled!
+<$15><$57>登録済み
+Filed!
 <$00>
 
 
@@ -73553,17 +73261,16 @@ Ark
 
 //0392_000000EF_bin\PROG.BIN
 //00007D53
-<$15>
-//W○ボタンで♂♀表示切り替え
-W○ button: View ♂/♀
+<$15><$57>○ボタンで♂♀表示切り替え
+○ button: View ♂/♀
 <$14>
 <$00>
 
 
 //0392_000000EF_bin\PROG.BIN
 //00007F01
-<$19>
-//1<CLEAR>
+<$19><$31>
+//<CLEAR>
 <$1D>
 //は　野外で体力を\n回復する「野営」の\n能力を　身につけた∥
  learned the Camp skill!
@@ -73573,8 +73280,8 @@ W○ button: View ♂/♀
 
 //0392_000000EF_bin\PROG.BIN
 //00007F01
-<$19>
-//1<CLEAR>
+<$19><$31>
+//<CLEAR>
 <$1D>
 //は　野営中に\n動物から　食料を自分で作る\n「食料加工」の能力を　身につけた∥
  learned the Butcher skill!
@@ -73584,8 +73291,8 @@ W○ button: View ♂/♀
 
 //0392_000000EF_bin\PROG.BIN
 //00007F01
-<$19>
-//1<CLEAR>
+<$19><$31>
+//<CLEAR>
 <$1D>
 //は　野営中に\n動物から　装備を自分で作る\n「装備加工」の能力を　身につけた∥
  learned the Forger skill!
@@ -73595,8 +73302,8 @@ W○ button: View ♂/♀
 
 //0392_000000EF_bin\PROG.BIN
 //00007F01
-<$19>
-//1<CLEAR>
+<$19><$31>
+//<CLEAR>
 <$1D>
 //は　道具や動物の\n値段を見抜く「値踏み」の\n能力を　身につけた∥
  learned the Appraiser skill!
@@ -73606,8 +73313,8 @@ W○ button: View ♂/♀
 
 //0392_000000EF_bin\PROG.BIN
 //00007F01
-<$19>
-//1<CLEAR>
+<$19><$31>
+//<CLEAR>
 <$1D>
 //は　夜襲を受けても\nすぐ目が覚める「飛び起き」の\n能力を　身につけた∥
  learned the Night Owl skill!
@@ -73617,8 +73324,8 @@ W○ button: View ♂/♀
 
 //0392_000000EF_bin\PROG.BIN
 //00007F01
-<$19>
-//1<CLEAR>
+<$19><$31>
+//<CLEAR>
 <$1D>
 //は　何を食べても\nゼンゼン平気な「鉄の胃袋」の\n能力を　身につけた∥
  learned the Glutton skill!
@@ -73628,8 +73335,8 @@ W○ button: View ♂/♀
 
 //0392_000000EF_bin\PROG.BIN
 //00007F01
-<$19>
-//1<CLEAR>
+<$19><$31>
+//<CLEAR>
 <$1D>
 //は　動物の臭いを\nかぎわける「
  learned the 
@@ -73642,8 +73349,8 @@ Bloodhound skill!
 
 //0392_000000EF_bin\PROG.BIN
 //00007F01
-<$19>
-//1<CLEAR>
+<$19><$31>
+//<CLEAR>
 <$1D>
  learned the 
 //は　何の根拠もない\n「女の勘」の能力を\n身につけて　強気になった∥
@@ -73654,8 +73361,8 @@ Perceiver skill!
 
 //0392_000000EF_bin\PROG.BIN
 //00007F01
-<$19>
-//1<CLEAR>
+<$19><$31>
+//<CLEAR>
 <$1D>
  learned the 
 //は　野営中に\n動物捕獲用のワナを　自分で作る\n「ワナ製作」の能力を　身につけた∥
@@ -73666,8 +73373,8 @@ Trapper skill!
 
 //0392_000000EF_bin\PROG.BIN
 //00007F01
-<$19>
-//1<CLEAR>
+<$19><$31>
+//<CLEAR>
 <$1D>
 //は　野営中に　
  learned the 
@@ -73680,8 +73387,8 @@ Warden skill!
 
 //0392_000000EF_bin\PROG.BIN
 //00007F01
-<$19>
-//1<CLEAR>
+<$19><$31>
+//<CLEAR>
 <$1D>
 //は　戦闘中の能力\n「
  learned 
@@ -73759,9 +73466,9 @@ BP:
 
 //0392_000000EF_bin\PROG.BIN
 //00007F01
-<$19>
-//1<CLEAR>
-1<CLEAR>
+<$19><$31>
+//<CLEAR>
+<CLEAR>
 <$1D>
 //の　戦闘中の能力\n「お色気アタック」に\nさらに　みがきがかかった！
 's polished their Sex Appeal skill!
@@ -73771,9 +73478,9 @@ BP:
 
 //0392_000000EF_bin\PROG.BIN
 //00007F01
-<$19>
-//1<CLEAR>
-1<CLEAR>
+<$19><$31>
+//<CLEAR>
+<CLEAR>
 <$1D>
 //の「ビシバシ調教」は\n
 's Warden skills broke\n
@@ -73832,9 +73539,8 @@ HP:
 <$15>
 //O［
 O［
-<$15>
-//W
-W
+<$15><$57>
+
 <$1D><$15>
 //O］
 O］
@@ -75017,10 +74723,7 @@ Fight freely!
 <$0E>
 //　
 　
-<$15>
-//W
-W
-<$01>
+<$15><$57><$01>
 //猟犬の入れ替え
 Time out!
 <$0E>
@@ -75205,8 +74908,7 @@ Snow
 //-4
 <$08>
 //4
-<$15>
-//W
+<$15><$57>
 <$04><$01><$1D><$1D><$02>
 //134
 <$05>
@@ -75233,8 +74935,7 @@ Snow
 //-8 
 <$04><$1D><$09>
 //2
-<$0E><$15>
-//W
+<$0E><$15><$57>
 <$00>
 
 
@@ -75436,9 +75137,8 @@ ATK DEF SPD
 //000109C7
 <CLEAR>
 //
-<$15>
-//W
-W
+<$15><$57>
+
 <$1C>
 //R\n
 R\n
