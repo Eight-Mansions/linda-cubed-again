@@ -107,997 +107,380 @@ c144a.obj
 
 
 #WRITE(PTR, $001C)
-//酒＿場
-Tavern＿
-<$00>
+//酒＿場<$00>
+Tavern＿<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
+//<CLEAR><$19>1<$15>S楽屋には　鍵が\nかかっている<$14><$12><$00>
+<CLEAR><$19>1<$15>SThe dressing room is locked.<$14><$12><$00>
 
 
+//<CLEAR><$19>1<$15>Sケンは「楽屋の鍵」を使った<$14><$12><$00>
+<CLEAR><$19>1<$15>SKen used the Backstage Key!<$14><$12><$00>
 
 
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
+//レンジャー隊の中にも　けっこう\nこの町のお客さん、多いのよね<$12>\n<CLEAR>Ａ級保護指定の動物を　密猟者から\n巻き上げといて　売りに来るんだもん\nかなわないわよね<$12><$00>
+We get a lot of customers here, especially among you\n
+rangers.<$12>\n
+<CLEAR>Nothing says "doorbuster" like poachers rolling in fresh\n
+Class A animals.<$12><$00>
 
 
+//今回の　ミナゴの事件に対しての\nレンジャー隊の対応、\nあまりに　ノリが悪かない？<$12>\n<CLEAR>連邦あたりから　圧力かかってんじゃ\nないの？　おたくの隊長さんて、\nそういうのに　からきし弱そうだしサ<$12><$00>
+The rangers' response to the Minago incident is a little, I\n
+don't know...unimpressive, no?<$12>\n
+<CLEAR>I thought the Federation would be up in arms about\n
+this, so maybe it's your captain that's gone soft.<$12><$00>
 
 
+//正しいとか悪いとか　そんなことは\n後世の人に　判断してもらえばいい\n今、やりたいことを　今、やる∥<$12>\n<CLEAR>ややこしいこと、アレコレ考えていると\n気づいたら　じいさん、ばあさんに\nなっちまってるのが　人生なのサ<$12><$00>
+Don't let "right" and "wrong" run your life for you. Do what\n
+you want, when you want!<$12>\n
+<CLEAR>If you find yourself hemming and hawing all day, it'll be too\n
+late for you.<$12><$00>
 
 
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
+//■～　■～　■■～<$12><$00>
+■～　■～　■■～<$12><$00>
 
 
+//<CLEAR>私、アンジェラ！　ぼうやのために\n１曲、歌わせてくれる？\n<$01>聞かせてくれ<$0E>／<$01>次の機会にね<$0E><$00>
+<CLEAR>I'm Angela! Care for a song, sweetheart?\n
+<$01>Yes, please!<$0E>／<$01>Maybe next time.<$0E><$00>
 
 
+//<CLEAR>あら…　男と女の出会いには\n次は　ないかもしれなくてよ<$12><$00>
+<CLEAR>Ah, but in a star-crossed world like ours, are "next\n
+times" ever so certain?<$12><$00>
 
 
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
+//<CLEAR>チップは見栄を張るものよ■\n持金<$1E>40￥→チップ<$01><$1E>40￥<$00>
+<CLEAR>Don't forget to tip!■\n
+<$1E>40￥→<$01><$1E>40<$00>
 
 
+//<CLEAR><$06><$1E><$04>￥ね？\n<$01>とっといてよ<$0E>／<$01>やっぱ返して<$0E><$00>
+<CLEAR><$06><$1E><$04>￥？\n
+<$01>It's all yours!<$0E>／<$01>Sike!<$0E><$00>
 
 
+//アンジェラの歌って　ステキでしょ？\nぼうやも　リクエストしてちょうだい\nチップは「気持ち」でいいからサ<$12><$00>
+Angela's song is wonderful, isn't it? I say sit back, relax\n
+and never forget to tip.<$12><$00>
 
 
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
+//アンジェラの歌を聞くと　故郷のママを\n思い出して　泣けてくるんだよなぁ<$12><$00>
+Whenever I hear Angela sing, I remember my mother\n
+back home and I start crying.<$12><$00>
 
 
+//大したモンだよ、アンジェラは∥\n持ち歌１曲で　客を満足させられる\n歌手なんて　彼女だけだね<$12><$00>
+Angela's a huge deal! She's the only singer who can win a\n
+crowd over with any one song!<$12><$00>
 
 
+//アンジェラの歌声を　聞いているとサ\nいつの間にか　眠っちまうんだ…\nまるで　揺りカゴの中にいるみたいサ<$12><$00>
+When Angela sings, before I know it, I fall asleep. It's like\n
+I'm rocked by her lullaby.<$12><$00>
 
 
-<CLEAR>
-//
-<$19>
-//1
-1
-<$15>
-//S楽屋には　鍵が\nかかっている
-SThe dressing room is locked.
-<$14><$12>
-<$00>
+//死んだ　おふくろのニオイを\n思い出したくて　アンジェラの歌を\n俺は　聞きに来るんだ…<$12><$00>
+I came to listen to Angela's song. It helps me recall the smell\n
+of my late mother.<$12><$00>
 
 
+//人生から　逃げだしたくなった時\nアンジェラの歌が　恋しくなるのサ<$12><$00>
+In times I wanted to escape from my life, I knew I'd miss\n
+Angela's music.<$12><$00>
 
 
+//ママ…　俺のことを捨てたママ…\nアンジェラの歌を　聞いてる間だけは\nママのことを　許せる気がするよ<$12><$00>
+Mommy, why did you leave? Why is Angela's song the one\n
+thing that helps me forgive you?<$12><$00>
 
 
-<CLEAR>
-//
-<$19>
-//1
-1
-<$15>
-//Sケンは「楽屋の鍵」を使った
-SKen used the Backstage Key!
-<$14><$12>
-<$00>
+//アンジェラ∥　もう一回歌ってくれ∥\n俺にはもったいない　最高の母さんと\n人間のクズの　最低の俺のために…<$12><$00>
+Angela, sing for us one more time! For me, the human scum\n
+of the world who was too good for the greatest mother\n
+alive!<$12><$00>
 
 
-
-
-
-
-//レンジャー隊の中にも　けっこう\nこの町のお客さん、多いのよね
-We get a lot of customers here, especially\n
-among you rangers.
-<$12>
-\n
-<CLEAR>
-//Ａ級保護指定の動物を　密猟者から\n巻き上げといて　売りに来るんだもん\nかなわないわよね
-Nothing says "doorbuster" like poachers\n
-rolling in fresh Class A animals.
-<$12>
-<$00>
-
-
-
-
-
-
-//今回の　ミナゴの事件に対しての\nレンジャー隊の対応、\nあまりに　ノリが悪かない？
-The rangers' response to the Minago incident\n
-is a little, I don't know...unimpressive, no?
-<$12>
-\n
-<CLEAR>
-//連邦あたりから　圧力かかってんじゃ\nないの？　おたくの隊長さんて、\nそういうのに　からきし弱そうだしサ
-I thought the Federation would be up in arms\n
-about this, so maybe it's your captain that's\n
-gone soft.
-<$12>
-<$00>
-
-
-
-
-
-
-//正しいとか悪いとか　そんなことは\n後世の人に　判断してもらえばいい\n今、やりたいことを　今、やる∥
-Don't let "right" and "wrong" run your life\n
-for you. Do what you want, when you want!
-<$12>
-\n
-<CLEAR>
-//ややこしいこと、アレコレ考えていると\n気づいたら　じいさん、ばあさんに\nなっちまってるのが　人生なのサ
-If you find yourself hemming and hawing all\n
-day, it'll be too late for you.
-<$12>
-<$00>
-
-
-
-
-
-
-//■～　■～　■■～
-■～　■～　■■～
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//私、アンジェラ！　ぼうやのために\n１曲、歌わせてくれる？\n
-I'm Angela! Care for a song, sweetheart?\n
-<$01>
-//聞かせてくれ
-Yes, please!
-<$0E>
-//／
-／
-<$01>
-//次の機会にね
-Maybe next time.
-<$0E>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//あら…　男と女の出会いには\n次は　ないかもしれなくてよ
-Ah, but in a star-crossed world like ours,\n
-are "next times" ever so certain?
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//チップは見栄を張るものよ■\n持金
-Don't forget to tip!■\n
-<$1E>
-//40￥→チップ
-40￥→
-<$01><$1E>
-//40￥
-40
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$06><$1E><$04>
-//￥ね？\n
-￥？\n
-<$01>
-//とっといてよ
-It's all yours!
-<$0E>
-//／
-／
-<$01>
-//やっぱ返して
-Sike!
-<$0E>
-<$00>
-
-
-
-
-
-
-//アンジェラの歌って　ステキでしょ？\nぼうやも　リクエストしてちょうだい\nチップは「気持ち」でいいからサ
-Angela's song is wonderful, isn't it? I say\n
-sit back, relax and never forget to tip.
-<$12>
-<$00>
-
-
-
-
-
-
-//アンジェラの歌を聞くと　故郷のママを\n思い出して　泣けてくるんだよなぁ
-Whenever I hear Angela sing, I remember my\n
-mother back home and I start crying.
-<$12>
-<$00>
-
-
-
-
-
-
-//大したモンだよ、アンジェラは∥\n持ち歌１曲で　客を満足させられる\n歌手なんて　彼女だけだね
-Angela's a huge deal! She's the only singer\n
-who can win a crowd over with any one song!
-<$12>
-<$00>
-
-
-
-
-
-
-//アンジェラの歌声を　聞いているとサ\nいつの間にか　眠っちまうんだ…\nまるで　揺りカゴの中にいるみたいサ
-When Angela sings, before I know it, I fall\n
-asleep. It's like I'm rocked by her lullaby.
-<$12>
-<$00>
-
-
-
-
-
-
-//死んだ　おふくろのニオイを\n思い出したくて　アンジェラの歌を\n俺は　聞きに来るんだ…
-I came to listen to Angela's song. It helps\n
-me recall the smell of my late mother.
-<$12>
-<$00>
-
-
-
-
-
-
-//人生から　逃げだしたくなった時\nアンジェラの歌が　恋しくなるのサ
-In times I wanted to escape from my life, I\n
-knew I'd miss Angela's music.
-<$12>
-<$00>
-
-
-
-
-
-
-//ママ…　俺のことを捨てたママ…\nアンジェラの歌を　聞いてる間だけは\nママのことを　許せる気がするよ
-Mommy, why did you leave? Why is Angela's\n
-song the one thing that helps me forgive you?
-<$12>
-<$00>
-
-
-
-
-
-
-//アンジェラ∥　もう一回歌ってくれ∥\n俺にはもったいない　最高の母さんと\n人間のクズの　最低の俺のために…
-Angela, sing for us one more time! For me,\n
-the human scum of the world who was too good\n
-for the greatest mother alive!
-<$12>
-<$00>
-
-
-
-
-
-
-//西エリアの　細菌流出事故…\nあれさ、誰かが　グリーン製薬の工場を\n爆破したって　話があるんだよ
-There's word out that someone blew up the\n
-Green Pharmaceutical factory that leaked the\n
-bacterial outbreak in West Area.
-<$12>
-\n
-<CLEAR>
-//当然、犯人も死んでるだろうから\n不特定多数相手の　無理心中かも…？\nだとしたら　犯人は寂しがり屋だな
-Would the culprit dying on the scene make\n
-that a double-suicide? I can only imagine\n
-their loneliness leading up to that.
-<$12>
-<$00>
-
-
-
-
+//西エリアの　細菌流出事故…\nあれさ、誰かが　グリーン製薬の工場を\n爆破したって　話があるんだよ<$12>\n<CLEAR>当然、犯人も死んでるだろうから\n不特定多数相手の　無理心中かも…？\nだとしたら　犯人は寂しがり屋だな<$12><$00>
+There's word out that someone blew up the Green\n
+Pharmaceutical factory that leaked the bacterial\n
+outbreak in West Area.<$12>\n
+<CLEAR>Would the culprit dying on the scene make that a\n
+double-suicide? I can only imagine their loneliness leading\n
+up to that.<$12><$00>
 
 
 #WRITE(PTR, $001E)
-//
-<$15>
-//YＢＡＲ
-YBar
-<$00>
+//<$15>YＢＡＲ<$00>
+<$15>YBar<$00>
 
 
+//<CLEAR>何になさいます？　どれでも<$1D><$06><$1E><$04><$14>￥です\n<$01><$1D><$1D><$02>98<$0E>／<$01><$1D><$1D><$02>210<$0E>\n<$01><$1D><$1D><$02>98<$0E>／<$01>どれもいらない<$0E><$00>
+<CLEAR>For＿<$1D><$06><$1E><$04><$14>￥, what'll it be?\n
+<$01><$1D><$1D><$02>98<$0E>／<$01><$1D><$1D><$02>210<$0E>\n
+<$01><$1D><$1D><$02>98<$0E>／<$01>No thanks.<$0E><$00>
 
 
+//<CLEAR>また、どうぞ<$12><$00>
+<CLEAR>Come again!<$12><$00>
 
 
-<CLEAR>
-//何になさいます？　どれでも
-For＿
-<$1D><$06><$1E><$04><$14>
-//￥です\n
-￥, what'll it be?\n
-<$01><$1D><$1D><$02>
-//98
-98
-<$0E>
-//／
-／
-<$01><$1D><$1D><$02>
-//210
-210
-<$0E>
-//\n
+//<CLEAR>ぼうや…\nタダ酒は　後で高くつくのが\n大人の世界の常識だぜ<$12><$00>
+<CLEAR>Careful, kiddo. Everyone pays the price for cheap liquor\n
+sooner or later.<$12><$00>
+
+
+//<CLEAR>ケンは<$1D><$1D>を\nひといきに飲み干した<$12><$00>
+<CLEAR>Ken downed the\n
+<$1D><$1D>\n
+in one gulp.<$12><$00>
+
+
+//<CLEAR>ケンの\n<$06>HP <$04>全回復∥<$12><$00>
+<CLEAR>Ken's＿<$06>HP<$04>＿recovered fully!<$12><$00>
+
+
+//<CLEAR>ケンの\n<$06>HP <$1E><$04>回復∥<$12><$00>
+<CLEAR>Ken's＿<$06>HP recovered by＿<$1E><$04>!<$12><$00>
+
+
+//<CLEAR>もう　１杯いかがですか？\n<$01><$1D><$1D><$02>98<$0E>／<$01><$1D><$1D><$02>210<$0E>\n<$01><$1D><$1D><$02>98<$0E>／<$01>もう、いらない<$0E><$00>
+<CLEAR>Care for another?\n
+<$01><$1D><$1D><$02>98<$0E>／<$01><$1D><$1D><$02>210<$0E>\n
+<$01><$1D><$1D><$02>98<$0E>／<$01>No thanks.<$0E><$00>
+
+
+//ロック<$00>
+＿shot<$00>
+
+
+//ジュース<$00>
+＿juice<$00>
+
+
+//ミルク<$00>
+＿milk<$00>
+
+
+//スープ<$00>
+＿soup<$00>
+
+
+//パンチ<$00>
+＿punch<$00>
+
+
+//カクテル<$00>
+＿cocktail<$00>
+
+
+//茶<$00>
+＿tea<$00>
+
+
+//コーラ<$00>
+＿malt<$00>
+
+
+//ビール<$00>
+＿beer<$00>
+
+
+//サワー<$00>
+＿shake<$00>
+
+
+//ソーダ<$00>
+＿soda<$00>
+
+
+//焼酎<$00>
+＿shochu<$00>
+
+
+//クン、クンクン………？<$12>\n<CLEAR>とくに目新しい　ニオイは\nしないみたいよ<$12><$00>
+Sniff...sniff, sniff?<$12>\n
+<CLEAR>None of the scents around here stand out.<$12><$00>
+
+
+//……東<$00>
+...East<$00>
+
+
+//……西<$00>
+...West<$00>
+
+
+//……南<$00>
+...South<$00>
+
+
+//……北<$00>
+...North<$00>
+
+
+//…北東<$00>
+...North-east<$00>
+
+
+//…北西<$00>
+...North-west<$00>
+
+
+//…南東<$00>
+...South-east<$00>
+
+
+//…南西<$00>
+...South-west<$00>
+
+
+//<CLEAR>……<$1D><$00>
+<CLEAR>......<$1D><$00>
+
+
+//、…<$1D>に行けば<$00>
+! That's where we'll find a＿<$1D>.<$00>
+
+
+//直進<$00>
+For<$00>
+
+
+//右よ<$00>
+Right<$00>
+
+
+//左よ<$00>
+Left<$00>
+
+
+//後ろ<$00>
+Back<$00>
+
+
+//<CLEAR>……<$1D><$00>
+<CLEAR>......<$1D><$00>
+
+
+//、絶対に<$1D>∥<$00>
+wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
+
+
+//<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
+<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
+
+
+//<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
+<CLEAR>...Sorry. I don't have it in me today.<$12><$00>
+
+
+//運命の<$00>
+Fated＿<$00>
+
+
+//新しい<$00>
+New＿<$00>
+
+
+//素敵な<$00>
+Great＿<$00>
+
+
+//未知の<$00>
+Unknown＿<$00>
+
+
+//何か<$00>
+things＿<$00>
+
+
+//発見<$00>
+discoveries＿<$00>
+
+
+//お宝<$00>
+treasures＿<$00>
+
+
+//動物<$00>
+animals＿<$00>
+
+
+//に　出会える…<$00>
+could appear.<$00>
+
+
+//が　待ってる…<$00>
+await us...<$00>
+
+
+//気がするわ∥<$00>
+are there.<$00>
+
+
+//チャンスよ∥<$00>
+are in our grasp!<$00>
+
+
+//今しかないわ<$00>
+could slip through our fingers!<$00>
+
+
+//間違いなし∥<$00>
+are dead head!<$00>
+
+
+//\n<$1D><$1D><$1D>\n<$1D><$12>\n<CLEAR><$00>
 \n
-<$01><$1D><$1D><$02>
-//98
-98
-<$0E>
-//／
-／
-<$01>
-//どれもいらない
-No thanks.
-<$0E>
-<$00>
+<$1D><$1D><$1D>\n
+<$1D><$12>\n
+<CLEAR><$00>
 
 
+//<CLEAR>自信があるの∥<$12><$00>
+<CLEAR>I'm sure of it!<$12><$00>
 
 
+//<CLEAR>自信は　ないけどね…<$12><$00>
+<CLEAR>Although, I'm not totally certain...<$12><$00>
 
 
-<CLEAR>
-//また、どうぞ
-Come again!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ぼうや…\nタダ酒は　後で高くつくのが\n大人の世界の常識だぜ
-Careful, kiddo. Everyone pays the price for\n
-cheap liquor sooner or later.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ケンは
-Ken downed the\n
-<$1D><$1D>
-//を\nひといきに飲み干した
-\n
-in one gulp.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ケンの\n
-Ken's＿
-<$06>
-//HP 
-HP
-<$04>
-//全回復∥
-＿recovered fully!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ケンの\n
-Ken's＿
-<$06>
-//HP 
-HP recovered by＿
-<$1E><$04>
-//回復∥
-!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//もう　１杯いかがですか？\n
-Care for another?\n
-<$01><$1D><$1D><$02>
-//98
-98
-<$0E>
-//／
-／
-<$01><$1D><$1D><$02>
-//210
-210
-<$0E>
-//\n
-\n
-<$01><$1D><$1D><$02>
-//98
-98
-<$0E>
-//／
-／
-<$01>
-//もう、いらない
-No thanks.
-<$0E>
-<$00>
-
-
-
-
-
-
-//ロック
-＿shot
-<$00>
-
-
-
-
-
-
-//ジュース
-＿juice
-<$00>
-
-
-
-
-
-
-//ミルク
-＿milk
-<$00>
-
-
-
-
-
-
-//スープ
-＿soup
-<$00>
-
-
-
-
-
-
-//パンチ
-＿punch
-<$00>
-
-
-
-
-
-
-//カクテル
-＿cocktail
-<$00>
-
-
-
-
-
-
-//茶
-＿tea
-<$00>
-
-
-
-
-
-
-//コーラ
-＿malt
-<$00>
-
-
-
-
-
-
-//ビール
-＿beer
-<$00>
-
-
-
-
-
-
-//サワー
-＿shake
-<$00>
-
-
-
-
-
-
-//ソーダ
-＿soda
-<$00>
-
-
-
-
-
-
-//焼酎
-＿shochu
-<$00>
-
-
-
-
-
-
-//クン、クンクン………？
-Sniff...sniff, sniff?
-<$12>
-\n
-<CLEAR>
-//とくに目新しい　ニオイは\nしないみたいよ
-None of the scents around here stand out.
-<$12>
-<$00>
-
-
-
-
-
-
-//……東
-...East
-<$00>
-
-
-
-
-
-
-//……西
-...West
-<$00>
-
-
-
-
-
-
-//……南
-...South
-<$00>
-
-
-
-
-
-
-//……北
-...North
-<$00>
-
-
-
-
-
-
-//…北東
-...North-east
-<$00>
-
-
-
-
-
-
-//…北西
-...North-west
-<$00>
-
-
-
-
-
-
-//…南東
-...South-east
-<$00>
-
-
-
-
-
-
-//…南西
-...South-west
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//……
-......
-<$1D>
-<$00>
-
-
-
-
-
-
-//、…
-! That's where we'll find a＿
-<$1D>
-//に行けば
-.
-<$00>
-
-
-
-
-
-
-//直進
-For
-<$00>
-
-
-
-
-
-
-//右よ
-Right
-<$00>
-
-
-
-
-
-
-//左よ
-Left
-<$00>
-
-
-
-
-
-
-//後ろ
-Back
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//……
-......
-<$1D>
-<$00>
-
-
-
-
-
-
-//、絶対に
-wards, got it? I'm sure we'll find a＿
-<$1D>
-//∥
-＿there!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//Sリンダは　「女の勘」を\nはたらかせた∥
-SLinda used her woman's intuition...
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//…ごめんね、\n今日は　勘がはたらかないわ…
-...Sorry. I don't have it in me today.
-<$12>
-<$00>
-
-
-
-
-
-
-//運命の
-Fated＿
-<$00>
-
-
-
-
-
-
-//新しい
-New＿
-<$00>
-
-
-
-
-
-
-//素敵な
-Great＿
-<$00>
-
-
-
-
-
-
-//未知の
-Unknown＿
-<$00>
-
-
-
-
-
-
-//何か
-things＿
-<$00>
-
-
-
-
-
-
-//発見
-discoveries＿
-<$00>
-
-
-
-
-
-
-//お宝
-treasures＿
-<$00>
-
-
-
-
-
-
-//動物
-animals＿
-<$00>
-
-
-
-
-
-
-//に　出会える…
-could appear.
-<$00>
-
-
-
-
-
-
-//が　待ってる…
-await us...
-<$00>
-
-
-
-
-
-
-//気がするわ∥
-are there.
-<$00>
-
-
-
-
-
-
-//チャンスよ∥
-are in our grasp!
-<$00>
-
-
-
-
-
-
-//今しかないわ
-could slip through our fingers!
-<$00>
-
-
-
-
-
-
-//間違いなし∥
-are dead head!
-<$00>
-
-
-
-
-
-
-//\n
-\n
-<$1D><$1D><$1D>
-//\n
-\n
-<$1D><$12>
-\n
-<CLEAR>
-//
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//自信があるの∥
-I'm sure of it!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//自信は　ないけどね…
-Although, I'm not totally certain...
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//絶対なんだから∥
-I'm absolutely certain!
-<$12>
-<$00>
-
-
-
-
+//<CLEAR>絶対なんだから∥<$12><$00>
+<CLEAR>I'm absolutely certain!<$12><$00>
 
 
 

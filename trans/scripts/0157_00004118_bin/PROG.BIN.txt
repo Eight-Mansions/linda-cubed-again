@@ -77,1122 +77,442 @@ c128a2.obj
 
 
 #WRITE(PTR, $0022)
-//隊員住宅
-Barracks＿
-<$00>
+//隊員住宅<$00>
+Barracks＿<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
+//ＡＭＤ１９９９年　夏、死神衝突！\nちゃんと　覚えなさいよ<$12>\n<CLEAR>彼女とのデートの時間に　遅れても\n命まではとられないけど　こっちは\n遅れると　あの世行きなんだからね<$12><$00>
+Don't forget, the Grim Reaper's expected to hit Neo Kenya in\n
+the summer of AMD 1999!<$12>\n
+<CLEAR>If you want to get laid or off yourself\n
+on Neo Kenyan soil, you don't have much time.<$12><$00>
 
 
+//ケン、張りきって　動物を集めるのは\nいいけど　トランスカーゴの空きは\nいつも　把握しておけよ<$12>\n<CLEAR>メスオス別で３２種、各９９頭\nそれが　トランスカーゴに入れられる\n動物の数の　ＭＡＸだ<$12>\n<CLEAR>まあ、なるべく　捕獲した動物は\nこまめに　箱船に移すのが　いいな<$12><$00>
+In case you ever work solo, you'd better know the limits\n
+of your trans-cargo Unit(TCU).<$12>\n
+<CLEAR>The TCU can hold 32 species at a time, male or female, and\n
+has 99 spaces total.<$12>\n
+<CLEAR>Knowing that, be prepared to make frequent drop offs on\n
+the Astro Ark throughout your quest.<$12><$00>
 
 
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-//ＡＭＤ１９９９年　夏、死神衝突！\nちゃんと　覚えなさいよ
-Don't forget, the Grim Reaper's expected to\n
-hit Neo Kenya in the summer of AMD 1999!
-<$12>
-\n
-<CLEAR>
-//彼女とのデートの時間に　遅れても\n命まではとられないけど　こっちは\n遅れると　あの世行きなんだからね
-If you want to get laid or off yourself\n
-on Neo Kenyan soil, you don't have much time.
-<$12>
-<$00>
-
-
-
-
-
-
-//ケン、張りきって　動物を集めるのは\nいいけど　トランスカーゴの空きは\nいつも　把握しておけよ
-In case you ever work solo, you'd better know\n
-the limits of your trans-cargo Unit(TCU).
-<$12>
-\n
-<CLEAR>
-//メスオス別で３２種、各９９頭\nそれが　トランスカーゴに入れられる\n動物の数の　ＭＡＸだ
-The TCU can hold 32 species at a time, male\n
-or female, and has 99 spaces total.
-<$12>
-\n
-<CLEAR>
-//まあ、なるべく　捕獲した動物は\nこまめに　箱船に移すのが　いいな
-Knowing that, be prepared to make frequent\n
-drop offs on the Astro Ark throughout your\n
-quest.
-<$12>
-<$00>
-
-
-
-
-
-
-//南エリアの砂漠は　３０年ほど前まで\nなかったって　知ってたかよ
-Did you know that the desert in South Area\n
-didn't exist until 30 years ago?
-<$12>
-\n
-<CLEAR>
-//ガレックスって　連邦の研究施設に\n偉い学者さんを集めて　動物の研究を\nやらせてたらしいんだ
-Galax was a federal research complex where\n
-great scientists gathered to research\n
-animals.
-<$12>
-\n
-<CLEAR>
-//ある時　ある動物の尿に　試薬を\n入れた途端、「ド～～～～～ン∥」
-Then, one day, someone in the facility added\n
-a chemical reagent into an animals urine, and\n
-"KABOOM!"
-<$12>
-\n
-<CLEAR>
-//それまでの研究成果も　学者たちも\n一瞬にして消えて　廃虚と立入り禁止の\n砂漠地帯だけが　残った、てワケよ
-All of the scientists and their research were\n
-up in smoke that very instant.
-<$12>
-<$00>
-
-
-
-
+//南エリアの砂漠は　３０年ほど前まで\nなかったって　知ってたかよ<$12>\n<CLEAR>ガレックスって　連邦の研究施設に\n偉い学者さんを集めて　動物の研究を\nやらせてたらしいんだ<$12>\n<CLEAR>ある時　ある動物の尿に　試薬を\n入れた途端、「ド～～～～～ン∥」<$12>\n<CLEAR>それまでの研究成果も　学者たちも\n一瞬にして消えて　廃虚と立入り禁止の\n砂漠地帯だけが　残った、てワケよ<$12><$00>
+Did you know that the desert in South Area didn't exist until\n
+30 years ago?<$12>\n
+<CLEAR>Galax was a federal research complex where great\n
+scientists gathered to research animals.<$12>\n
+<CLEAR>Then, one day, someone in the facility added a chemical\n
+reagent into an animals urine, and "KABOOM!"<$12>\n
+<CLEAR>All of the scientists and their research were up in smoke\n
+that very instant.<$12><$00>
 
 
 #WRITE(PTR, $0024)
-//隊員住宅
-Barracks＿
-<$00>
+//隊員住宅<$00>
+Barracks＿<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
-
-
-
-
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-//×ボタンで「駆け足」が　できるわ\nでも　駆け足って　意外と体力を\n使うから　あまり無茶はできないわよ
+//×ボタンで「駆け足」が　できるわ\nでも　駆け足って　意外と体力を\n使うから　あまり無茶はできないわよ<$12>\n<CLEAR>駆け足で　動物に追いついて　それから\n自分の体力が　３０しか残ってないのに\n気づいたって　もう手遅れだからね<$12><$00>
 You can press the × button to dash.\n
 It does expend stamina(HP),\n
-so use it sparingly.
-<$12>
-\n
-<CLEAR>
-//駆け足で　動物に追いついて　それから\n自分の体力が　３０しか残ってないのに\n気づいたって　もう手遅れだからね
-You don't want to pounce an animal, only to\n
-realize you initiated combat with only 30 HP!
-<$12>
-<$00>
+so use it sparingly.<$12>\n
+<CLEAR>You don't want to pounce an animal, only to realize you\n
+initiated combat with only 30 HP!<$12><$00>
 
 
+//動物と戦うときの基本は　なるだけ\n背後から　行くことね\n間違っても　後ろはとられちゃダメ∥<$12>\n<CLEAR>後ろからなんて　ヒキョウだと思う？\n<$01>少しはね<$0E>／<$01>ゼンゼン<$0E><$00>
+One combat rule of thumb is, "Always take the animal\n
+from behind!"<$12>\n
+<CLEAR>How do you do it?\n
+<$01>Head-on, cowards!<$0E><$01>From behind<$0E><$00>
 
 
+//<CLEAR>少なくとも　動物は　そんな風には\n思ってないことだけは　確かだわよ<$12><$00>
+<CLEAR>Cowards? But animals do it from behind too, right? I'm\n
+sure they'd disagree.<$12><$00>
 
 
-//動物と戦うときの基本は　なるだけ\n背後から　行くことね\n間違っても　後ろはとられちゃダメ∥
-One combat rule of thumb is, "Always take the\n
-animal from behind!"
-<$12>
-\n
-<CLEAR>
-//後ろからなんて　ヒキョウだと思う？\n
-How do you do it?\n
-<$01>
-//少しはね
-Head-on, cowards!
-<$0E>
-//／
-<$01>
-//ゼンゼン
-From behind
-<$0E>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//少なくとも　動物は　そんな風には\n思ってないことだけは　確かだわよ
-Cowards? But animals do it from behind too,\n
-right? I'm sure they'd disagree.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//そう∥　それが自然なの∥\n私も「後ろから」のほうが　好きよ■\nリンダは　どうかしらね
-Yeah, I like doing it from behind too. What's\n
-Linda's stance on this?
-<$12>
-<$00>
-
-
-
-
+//<CLEAR>そう∥　それが自然なの∥\n私も「後ろから」のほうが　好きよ■\nリンダは　どうかしらね<$12><$00>
+<CLEAR>Yeah, I like doing it from behind too. What's Linda's stance\n
+on this?<$12><$00>
 
 
 #WRITE(PTR, $0026)
-//隊員住宅
-Barracks＿
-<$00>
+//隊員住宅<$00>
+Barracks＿<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
+//この町の「ハーディア」って\n名の由来　知ってる？\n<$01>もちろん∥<$0E>／<$01>知らないな<$0E><$00>
+Do you know where the name "Hardia" comes from?\n
+<$01>Of course!<$0E>／<$01>No idea<$0E><$00>
 
 
+//<CLEAR>そりゃそうよね、あなたの場合\n身にしみて　知ってるわけよね<$12><$00>
+<CLEAR>I thought so. I can tell just by looking at you.<$12><$00>
 
 
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
+//<CLEAR>どんな苦難にも　耐えられるようにって\n願いを込めて　レンジャー隊の本部を\n設置した時に　つけたらしいわよ<$12><$00>
+<CLEAR>The town got its name when the rangers first established\n
+their headquarters here.<$12><$00>
 
 
-
-
-
-
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-//この町の「ハーディア」って\n名の由来　知ってる？\n
-Do you know where the name "Hardia" comes\n
-from?\n
-<$01>
-//もちろん∥
-Of course!
-<$0E>
-//／
-／
-<$01>
-//知らないな
-No idea
-<$0E>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//そりゃそうよね、あなたの場合\n身にしみて　知ってるわけよね
-I thought so. I can tell just by looking at\n
-you.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//どんな苦難にも　耐えられるようにって\n願いを込めて　レンジャー隊の本部を\n設置した時に　つけたらしいわよ
-The town got its name when the rangers first\n
-established their headquarters here.
-<$12>
-<$00>
-
-
-
-
-
-
-//町を出たら　□ボタンを試してみな\nそこに映っているのが　東エリアだ\n今、俺たちがいる所だな
-If you leave town and press the □ button,\n
-you'll see a map of East Area.
-<$12>
-\n
-<CLEAR>
-//ネオケニアには　この東エリアに加え、\nナビ座標１２以西の　西エリアと\n南エリアの３つが　あるわけだ
-Neo Kenya has 3 open regions:\n
+//町を出たら　□ボタンを試してみな\nそこに映っているのが　東エリアだ\n今、俺たちがいる所だな<$12>\n<CLEAR>ネオケニアには　この東エリアに加え、\nナビ座標１２以西の　西エリアと\n南エリアの３つが　あるわけだ<$12><$00>
+If you leave town and press the □ button,  you'll see a\n
+map of East Area.<$12>\n
+<CLEAR>Neo Kenya has 3 open regions:\n
 East, West and South Area.\n
-West Area is 12 blocks left!
-<$12>
-<$00>
-
-
-
-
+West Area is 12 blocks left!<$12><$00>
 
 
 #WRITE(PTR, $0028)
-//隊員住宅
-Barracks＿
-<$00>
+//隊員住宅<$00>
+Barracks＿<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
-
-
-
-
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
 #WRITE(PTR, $002A)
-//クン、クンクン………？
-Sniff...sniff, sniff?
-<$12>
+//クン、クンクン………？<$12>\n<CLEAR><$1D>のニオイが　するね\nそういえば、<$1D>食まだだっけ…<$12><$00>
+Sniff...sniff, sniff?<$12>\n
+<CLEAR><$1D>＿scent's filling the air. You know, I could go for\n
+some＿<$1D>＿!<$12><$00>
+
+
+//卵焼き<$00>
+fried eggs<$00>
+
+
+//カレー<$00>
+curry<$00>
+
+
+//焼き肉<$00>
+Neo Korean BBQ<$00>
+
+
+//唐あげ<$00>
+karaage<$00>
+
+
+//お菓子<$00>
+candy<$00>
+
+
+//バナナ<$00>
+banana<$00>
+
+
+//フライ<$00>
+Neo French fries<$00>
+
+
+//焼き魚<$00>
+grilled fish<$00>
+
+
+//トマト<$00>
+tomato<$00>
+
+
+//バター<$00>
+butter<$00>
+
+
+//ソース<$00>
+sauce<$00>
+
+
+//スープ<$00>
+＿soup<$00>
+
+
+//ピラフ<$00>
+pilaf<$00>
+
+
+//バニラ<$00>
+vanilla<$00>
+
+
+//キムチ<$00>
+kimchi<$00>
+
+
+//チーズ<$00>
+cheese<$00>
+
+
+//朝<$00>
+breakfast<$00>
+
+
+//昼<$00>
+lunch<$00>
+
+
+//夕<$00>
+dinner<$00>
+
+
+//……東<$00>
+...East<$00>
+
+
+//……西<$00>
+...West<$00>
+
+
+//……南<$00>
+...South<$00>
+
+
+//……北<$00>
+...North<$00>
+
+
+//…北東<$00>
+...North-east<$00>
+
+
+//…北西<$00>
+...North-west<$00>
+
+
+//…南東<$00>
+...South-east<$00>
+
+
+//…南西<$00>
+...South-west<$00>
+
+
+//<CLEAR>……<$1D><$00>
+<CLEAR>......<$1D><$00>
+
+
+//、…<$1D>に行けば<$00>
+! That's where we'll find a＿<$1D>.<$00>
+
+
+//直進<$00>
+For<$00>
+
+
+//右よ<$00>
+Right<$00>
+
+
+//左よ<$00>
+Left<$00>
+
+
+//後ろ<$00>
+Back<$00>
+
+
+//<CLEAR>……<$1D><$00>
+<CLEAR>......<$1D><$00>
+
+
+//、絶対に<$1D>∥<$00>
+wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
+
+
+//<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
+<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
+
+
+//<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
+<CLEAR>...Sorry. I don't have it in me today.<$12><$00>
+
+
+//運命の<$00>
+Fated＿<$00>
+
+
+//新しい<$00>
+New＿<$00>
+
+
+//素敵な<$00>
+Great＿<$00>
+
+
+//未知の<$00>
+Unknown＿<$00>
+
+
+//何か<$00>
+things＿<$00>
+
+
+//発見<$00>
+discoveries＿<$00>
+
+
+//お宝<$00>
+treasures＿<$00>
+
+
+//動物<$00>
+animals＿<$00>
+
+
+//に　出会える…<$00>
+could appear.<$00>
+
+
+//が　待ってる…<$00>
+await us...<$00>
+
+
+//気がするわ∥<$00>
+are there.<$00>
+
+
+//チャンスよ∥<$00>
+are in our grasp!<$00>
+
+
+//今しかないわ<$00>
+could slip through our fingers!<$00>
+
+
+//間違いなし∥<$00>
+are dead head!<$00>
+
+
+//\n<$1D><$1D><$1D>\n<$1D><$12>\n<CLEAR><$00>
 \n
-<CLEAR>
-//
-<$1D>
-//のニオイが　するね\nそういえば、
-＿scent's filling the air. You know, I could\n
-go for some＿
-<$1D>
-//食まだだっけ…
-＿!
-<$12>
-<$00>
+<$1D><$1D><$1D>\n
+<$1D><$12>\n
+<CLEAR><$00>
 
 
+//<CLEAR>自信があるの∥<$12><$00>
+<CLEAR>I'm sure of it!<$12><$00>
 
 
+//<CLEAR>自信は　ないけどね…<$12><$00>
+<CLEAR>Although, I'm not totally certain...<$12><$00>
 
 
-//卵焼き
-fried eggs
-<$00>
-
-
-
-
-
-
-//カレー
-curry
-<$00>
-
-
-
-
-
-
-//焼き肉
-Neo Korean BBQ
-<$00>
-
-
-
-
-
-
-//唐あげ
-karaage
-<$00>
-
-
-
-
-
-
-//お菓子
-candy
-<$00>
-
-
-
-
-
-
-//バナナ
-banana
-<$00>
-
-
-
-
-
-
-//フライ
-Neo French fries
-<$00>
-
-
-
-
-
-
-//焼き魚
-grilled fish
-<$00>
-
-
-
-
-
-
-//トマト
-tomato
-<$00>
-
-
-
-
-
-
-//バター
-butter
-<$00>
-
-
-
-
-
-
-//ソース
-sauce
-<$00>
-
-
-
-
-
-
-//スープ
-＿soup
-<$00>
-
-
-
-
-
-
-//ピラフ
-pilaf
-<$00>
-
-
-
-
-
-
-//バニラ
-vanilla
-<$00>
-
-
-
-
-
-
-//キムチ
-kimchi
-<$00>
-
-
-
-
-
-
-//チーズ
-cheese
-<$00>
-
-
-
-
-
-
-//朝
-breakfast
-<$00>
-
-
-
-
-
-
-//昼
-lunch
-<$00>
-
-
-
-
-
-
-//夕
-dinner
-<$00>
-
-
-
-
-
-
-//……東
-...East
-<$00>
-
-
-
-
-
-
-//……西
-...West
-<$00>
-
-
-
-
-
-
-//……南
-...South
-<$00>
-
-
-
-
-
-
-//……北
-...North
-<$00>
-
-
-
-
-
-
-//…北東
-...North-east
-<$00>
-
-
-
-
-
-
-//…北西
-...North-west
-<$00>
-
-
-
-
-
-
-//…南東
-...South-east
-<$00>
-
-
-
-
-
-
-//…南西
-...South-west
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//……
-......
-<$1D>
-<$00>
-
-
-
-
-
-
-//、…
-! That's where we'll find a＿
-<$1D>
-//に行けば
-.
-<$00>
-
-
-
-
-
-
-//直進
-For
-<$00>
-
-
-
-
-
-
-//右よ
-Right
-<$00>
-
-
-
-
-
-
-//左よ
-Left
-<$00>
-
-
-
-
-
-
-//後ろ
-Back
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//……
-......
-<$1D>
-<$00>
-
-
-
-
-
-
-//、絶対に
-wards, got it? I'm sure we'll find a＿
-<$1D>
-//∥
-＿there!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//Sリンダは　「女の勘」を\nはたらかせた∥
-SLinda used her woman's intuition...
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//…ごめんね、\n今日は　勘がはたらかないわ…
-...Sorry. I don't have it in me today.
-<$12>
-<$00>
-
-
-
-
-
-
-//運命の
-Fated＿
-<$00>
-
-
-
-
-
-
-//新しい
-New＿
-<$00>
-
-
-
-
-
-
-//素敵な
-Great＿
-<$00>
-
-
-
-
-
-
-//未知の
-Unknown＿
-<$00>
-
-
-
-
-
-
-//何か
-things＿
-<$00>
-
-
-
-
-
-
-//発見
-discoveries＿
-<$00>
-
-
-
-
-
-
-//お宝
-treasures＿
-<$00>
-
-
-
-
-
-
-//動物
-animals＿
-<$00>
-
-
-
-
-
-
-//に　出会える…
-could appear.
-<$00>
-
-
-
-
-
-
-//が　待ってる…
-await us...
-<$00>
-
-
-
-
-
-
-//気がするわ∥
-are there.
-<$00>
-
-
-
-
-
-
-//チャンスよ∥
-are in our grasp!
-<$00>
-
-
-
-
-
-
-//今しかないわ
-could slip through our fingers!
-<$00>
-
-
-
-
-
-
-//間違いなし∥
-are dead head!
-<$00>
-
-
-
-
-
-
-//\n
-\n
-<$1D><$1D><$1D>
-//\n
-\n
-<$1D><$12>
-\n
-<CLEAR>
-//
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//自信があるの∥
-I'm sure of it!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//自信は　ないけどね…
-Although, I'm not totally certain...
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//絶対なんだから∥
-I'm absolutely certain!
-<$12>
-<$00>
-
-
-
-
+//<CLEAR>絶対なんだから∥<$12><$00>
+<CLEAR>I'm absolutely certain!<$12><$00>
 
 

@@ -341,3941 +341,1381 @@ z116_120.obj
 
 
 #WRITE(PTR, $0030)
-//肉屋・動物商
-Meat・Animal＿
-<$00>
+//肉屋・動物商<$00>
+Meat・Animal＿<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
+//<CLEAR>昔、「肉のロシアンルーレット」って\n遊びが　流行したんだけど　あまりに\n危険なんで　すぐに禁止になったっけ<$12>\n<CLEAR>俺も一度だけ　やったよ\n１週間も　ジンマシンだらけでよ\n相手の奴なんか　<$06>12<$04>歳でハゲだぜ∥<$12>\n<CLEAR>確か「ヒューム」って名だったな\n今でも　ハゲてんのかなぁ…<$12><$00>
+<CLEAR>Once upon a time, a game called "Meat Russian Roulette" was\n
+all the rage in Neo Kenya.<$12>\n
+<CLEAR>It was real unsanitary though. The Federation banned it\n
+almost immediately.<$12>\n
+<CLEAR>I played ONCE and got hives for a week. One guy got\n
+permanent baldness at the age of＿<$06>12<$04>!<$12>\n
+<CLEAR>Pretty sure that guy's name was "Hume". Shoot, I wonder if\n
+he's still bald.<$12><$00>
 
 
-
-
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//昔、「肉のロシアンルーレット」って\n遊びが　流行したんだけど　あまりに\n危険なんで　すぐに禁止になったっけ
-Once upon a time, a game called "Meat Russian\n
-Roulette" was all the rage in Neo Kenya.
-<$12>
-\n
-<CLEAR>
-It was real unsanitary though. The Federation\n
-banned it almost immediately.
-<$12>
-\n
-<CLEAR>
-//俺も一度だけ　やったよ\n１週間も　ジンマシンだらけでよ\n相手の奴なんか　
-I played ONCE and got hives for a week. One\n
-guy got permanent baldness at the age of＿
-<$06>
-//12
-12
-<$04>
-//歳でハゲだぜ∥
-!
-<$12>
-\n
-<CLEAR>
-//確か「ヒューム」って名だったな\n今でも　ハゲてんのかなぁ…
-Pretty sure that guy's name was "Hume".\n
-Shoot, I wonder if he's still bald.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//「納戸の鍵」っていう　鍵があれば\nいろんな所の扉を　あけられるのサ\nそいつの隠し場所は…
-We'd be able to open all sorts of doors if we\n
-only had that Storage Key.
-<$12>
-\n
-<CLEAR>
-//……………………
-............
-<$12>
-\n
-<CLEAR>
-//…知ってたら、俺が先に行って\nもう、使い倒してるわな
-If I'd known about it sooner, I'dve used the\n
-Hell out of it.
-<$12>
-<$00>
-
-
-
-
+//<CLEAR>「納戸の鍵」っていう　鍵があれば\nいろんな所の扉を　あけられるのサ\nそいつの隠し場所は…<$12>\n<CLEAR>……………………<$12>\n<CLEAR>…知ってたら、俺が先に行って\nもう、使い倒してるわな<$12><$00>
+<CLEAR>We'd be able to open all sorts of doors if we only had\n
+that Storage Key.<$12>\n
+<CLEAR>............<$12>\n
+<CLEAR>If I'd known about it sooner, I'dve used the Hell out of it.<$12><$00>
 
 
 #WRITE(PTR, $0032)
-//装備屋
-Equipment Dealer
-<$00>
+//装備屋<$00>
+Equipment Dealer<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
+//<CLEAR>ただの噂だけど、<$1E>年前の事件の\n町長が発狂した原因は　<$1B>トラの爪という\n町のお宝を　なくしたせいらしいな<$12>\n<CLEAR>もしかして　呪われてるのかもよ\nその「<$1B>トラの爪」とかいうヤツ…\n装備すると　死にたくなるとか…<$12><$00>
+<CLEAR>It was never confirmed, but they say the cause of the\n
+elder's tragic murder spree＿<$1E>＿years ago...<$12>\n
+<CLEAR>...was that he'd lost the village's treasure, called the＿\n
+Tiger Claw.<$12>\n
+<CLEAR>Maybe it was haunted treasure, what do you think?<$12>\n
+<CLEAR>"BEWARE. HE WHO TOUCHES THE＿TIGER CLAW WILL BE\n
+CURSED WITH INSATIABLE BLOODLUST."<$12><$00>
 
 
-
-
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ただの噂だけど、
-It was never confirmed, but they say the\n
-cause of the elder's tragic murder spree＿
-<$1E>
-//年前の事件の\n町長が発狂した原因は　
-＿years ago...
-<$12>
-\n
-<CLEAR>
-...was that he'd lost the village's treasure,\n
-called the＿
-//<$1B>
-//トラの爪という\n町のお宝を　なくしたせいらしいな
-Tiger Claw.
-<$12>
-\n
-<CLEAR>
-//もしかして　呪われてるのかもよ\nその「
-Maybe it was haunted treasure, what do you\n
-think?
-<$12>
-\n
-<CLEAR>
-"BEWARE. HE WHO TOUCHES THE＿
-//<$1B>
-//トラの爪」とかいうヤツ…\n装備すると　死にたくなるとか…
-TIGER CLAW WILL BE CURSED WITH INSATIABLE\n
-BLOODLUST."
-<$12>
-<$00>
-
-
-
-
-
-
-//この町の宝といえば　「
-The＿
-//<$1B>
-//トラの爪」よ！\n
-Tiger Claw is Koshikata's treasure, largely\n
-since
-//<$1B>
-//トラ自体、珍しいから　商品としての\n価値も　もちろん高いけど…
-tigers are so rare.
-<$12>
-\n
-<CLEAR>
-//それよりも　町のシンボルというか\n住人の心の支えとしての　意味のほうが\nはるかに　大切なわけ∥
-Plus, it's worth a lot, but most importantly,\n
-it symbolizes our village's strength in\n
-numbers.
-<$12>
-\n
-<CLEAR>
-//まっ、ヨソ者には　私らの気持ちは\nわかんないだろうけどね
-Well, you're not from here, so you probably\n
-wouldn't understand what it means to us.
-<$12>
-<$00>
-
-
-
-
+//この町の宝といえば　「<$1B>トラの爪」よ！\n<$1B>トラ自体、珍しいから　商品としての\n価値も　もちろん高いけど…<$12>\n<CLEAR>それよりも　町のシンボルというか\n住人の心の支えとしての　意味のほうが\nはるかに　大切なわけ∥<$12>\n<CLEAR>まっ、ヨソ者には　私らの気持ちは\nわかんないだろうけどね<$12><$00>
+The＿Tiger Claw is Koshikata's treasure, largely\n
+sincetigers are so rare.<$12>\n
+<CLEAR>Plus, it's worth a lot, but most importantly, it\n
+symbolizes our village's strength in numbers.<$12>\n
+<CLEAR>Well, you're not from here, so you probably wouldn't\n
+understand what it means to us.<$12><$00>
 
 
 #WRITE(PTR, $0034)
-//ワナ貸し
-Trapping Service＿
-<$00>
+//ワナ貸し<$00>
+Trapping Service＿<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
+//<CLEAR>動物を追いかけ回して　命懸けで\n捕まえるなんて　もう時代遅れ！\n何事も　スマートにいかないとね！<$12>\n<CLEAR>これからのトレンドは　ワナ∥\n当店の貸しワナを使えば　お子様でも\n安全に　動物を捕まえられますです<$12><$00>
+<CLEAR>Chasing animals at risk to your own life is so out of fashion!\n
+Work smarter, not harder!<$12>\n
+<CLEAR>The traps here are all the rage! Even children can use them\n
+for safe hunting!<$12><$00>
 
 
+//<CLEAR>ハンターとしての　レベルが高い\nお客様は　それだけ回収の困難な場所に\nワナを仕掛けることが　多ございます<$12>\n<CLEAR>当然、貸しワナの料金のほうも\nほんの少しだけ　割高ということに\nさせていただいて　おりますです<$12><$00>
+<CLEAR>Hunters at high LVLs often leave Rental Traps where it's\n
+harder to re-collect them.<$12>\n
+<CLEAR>Our re-collection fees can and will jump around to reflect\n
+that.<$12><$00>
 
 
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
+//雇われている俺が　言うのも何だけど…\nここの店主、人の足下を見て\nエゲツない値段を　ふっかけてくるぜ<$12>\n<CLEAR>まっ、借りなきゃ　いいんだけどナ\n俺もそのほうが　仕事が減って\n楽できて　助かるしよ<$12><$00>
+I work here, so I guess I shouldn't mention this, but when\n
+we say we accomodate your every need...<$12>\n
+<CLEAR>...we mean our boss inflates our prices after sizing up\n
+each and every customer as they walk in.<$12>\n
+<CLEAR>But if you're smart, which is why you're here, then you know\n
+you can take out loans to compensate.<$12><$00>
 
 
+//あんたが　ワナを地平の果てや\n洞くつの最下層に　仕掛けようと\n俺が　<$06>100<$04>％回収してきてやるゼ∥<$12>\n<CLEAR>獲物が　かかってるか、どうかは\n俺の知ったこっちゃ　ないけどもよ<$12><$00>
+I'll collect any rental trap you set, from the end of the\n
+world to the deepest depths of a cave. That's our <$06>100<$04>％\n
+guarantee!<$12>\n
+<CLEAR>The one thing I can't guarantee is that the trap you set will\n
+have caught anything by the time I collect it.<$12><$00>
 
 
-
-
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//動物を追いかけ回して　命懸けで\n捕まえるなんて　もう時代遅れ！\n何事も　スマートにいかないとね！
-Chasing animals at risk to your own life is\n
-so out of fashion! Work smarter, not harder!
-<$12>
-\n
-<CLEAR>
-//これからのトレンドは　ワナ∥\n当店の貸しワナを使えば　お子様でも\n安全に　動物を捕まえられますです
-The traps here are all the rage! Even\n
-children can use them for safe hunting!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ハンターとしての　レベルが高い\nお客様は　それだけ回収の困難な場所に\nワナを仕掛けることが　多ございます
-Hunters at high LVLs often leave Rental Traps\n
-where it's harder to re-collect them.
-<$12>
-\n
-<CLEAR>
-//当然、貸しワナの料金のほうも\nほんの少しだけ　割高ということに\nさせていただいて　おりますです
-Our re-collection fees can and will jump\n
-around to reflect that.
-<$12>
-<$00>
-
-
-
-
-
-
-//雇われている俺が　言うのも何だけど…\nここの店主、人の足下を見て\nエゲツない値段を　ふっかけてくるぜ
-I work here, so I guess I shouldn't mention\n
-this, but when we say we accomodate your\n
-every need...
-<$12>
-\n
-<CLEAR>
-...we mean our boss inflates our prices after\n
-sizing up each and every customer as they\n
-walk in.
-<$12>
-\n
-<CLEAR>
-//まっ、借りなきゃ　いいんだけどナ\n俺もそのほうが　仕事が減って\n楽できて　助かるしよ
-But if you're smart, which is why you're\n
-here, then you know you can take out loans to\n
-compensate.
-<$12>
-<$00>
-
-
-
-
-
-
-//あんたが　ワナを地平の果てや\n洞くつの最下層に　仕掛けようと\n俺が　
-I'll collect any rental trap you set, from\n
-the end of the world to the deepest depths of\n
-a cave. That's our
-<$06>
-//100
-100
-<$04>
-//％回収してきてやるゼ∥
-％ guarantee!
-<$12>
-\n
-<CLEAR>
-//獲物が　かかってるか、どうかは\n俺の知ったこっちゃ　ないけどもよ
-The one thing I can't guarantee is that the\n
-trap you set will have caught anything by the\n
-time I collect it.
-<$12>
-<$00>
-
-
-
-
-
-
-//うちの亭主に　ぼられるのが\nイヤなら、自前のワナを\n早く作れるように　なることだね
-If you don't like my husband's rental prices,\n
-go compare it with a handy trap you've made\n
-yourself.
-<$12>
-\n
-<CLEAR>
-//でも　うちの亭主が作るワナは\n他の誰にもマネできない　一級品だ！\n芸術的に　凶悪だもん
-Of course my husband's high quality traps are\n
-highly priced. The man can trap anything.
-<$12>
-\n
-<CLEAR>
-//もがけばもがくほど　逃げられなくなる\n掛かった私が言うんだから　本当サ
-The more his pray struggles, the less it can\n
-escape. Seriously.
-<$12>
-\n
-<CLEAR>
-//………逃げ出したいよ
-...I can relate.
-<$12>
-<$00>
-
-
-
-
+//うちの亭主に　ぼられるのが\nイヤなら、自前のワナを\n早く作れるように　なることだね<$12>\n<CLEAR>でも　うちの亭主が作るワナは\n他の誰にもマネできない　一級品だ！\n芸術的に　凶悪だもん<$12>\n<CLEAR>もがけばもがくほど　逃げられなくなる\n掛かった私が言うんだから　本当サ<$12>\n<CLEAR>………逃げ出したいよ<$12><$00>
+If you don't like my husband's rental prices, go compare it\n
+with a handy trap you've made yourself.<$12>\n
+<CLEAR>Of course my husband's high quality traps are highly\n
+priced. The man can trap anything.<$12>\n
+<CLEAR>The more his pray struggles, the less it can escape.\n
+Seriously.<$12>\n
+<CLEAR>...I can relate.<$12><$00>
 
 
 #WRITE(PTR, $0036)
-//空き家
-Vacant House＿
-<$00>
+//空き家<$00>
+Vacant House＿<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
-
-
-
-
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
 #WRITE(PTR, $0038)
-//空き家Ｂ１
-Vacant House B1＿
-<$00>
+//空き家Ｂ１<$00>
+Vacant House B1＿<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
+//<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
+<CLEAR><$19><$15>SKen found the＿<$1D>!<$14><$12><$00>
 
 
+//<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
+<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the＿<$1D>had to go back.<$14><$12><$00>
 
 
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//Sケンは「
-SKen found the＿
-<$1D>
-//」を発見∥
-!
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//S<CLEAR>だが、道具袋が一杯なので\n「
-S<CLEAR>Sadly, the item bag was full, so the＿
-<$1D>
-//」を\nとりあえず　あきらめた…
-had to go back.
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//S<CLEAR>「
-SKen acquired＿
-<$1D>
-//」を　手に入れた∥
-!
-<$14><$12>
-<$00>
-
-
-
-
+//<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
+<CLEAR><$19><$15>SKen acquired＿<$1D>!<$14><$12><$00>
 
 
 #WRITE(PTR, $003A)
-//町長の家
-Elder's House＿
-<$00>
+//町長の家<$00>
+Elder's House＿<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
+//<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
+<CLEAR><$19><$15>SKen found the＿<$1D>!<$14><$12><$00>
 
 
+//<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
+<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the＿<$1D>had to go back.<$14><$12><$00>
 
 
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
+//<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
+<CLEAR><$19><$15>SKen acquired＿<$1D>!<$14><$12><$00>
 
 
+//近頃、主人の様子が　おかしいのよ\nなんだか　イライラしてるみたいなの<$12>\n<CLEAR>おまけに　お義父さんまで\n風邪気味なのに　出歩いてばかり…\n心配なことだらけだわ<$12><$00>
+My husband has been acting strange lately, like he's\n
+irritated about something.<$12>\n
+<CLEAR>My father-in-law too has been walking around with that\n
+awful cold. I worry for them.<$12><$00>
 
 
+//うちも　もうすぐ移住なのよ\n荷物の整理とか　知人へのあいさつとか\nやることがたくさんあって　タイヘン<$12>\n<CLEAR>でも　忙しいほうがいいの\n時間があると　お義父さんのことを\n思い出して　悲しくなっちゃうから<$12><$00>
+There's a lot of packing and networking and red tape\n
+involved with moving to a new planet.<$12>\n
+<CLEAR>Being busy beats being bored. I think that ennui's\n
+what affected my father in law the most.<$12><$00>
 
 
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//Sケンは「
-SKen found the＿
-<$1D>
-//」を発見∥
-!
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//S<CLEAR>だが、道具袋が一杯なので\n「
-S<CLEAR>Sadly, the item bag was full, so the＿
-<$1D>
-//」を\nとりあえず　あきらめた…
-had to go back.
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//S<CLEAR>「
-SKen acquired＿
-<$1D>
-//」を　手に入れた∥
-!
-<$14><$12>
-<$00>
-
-
-
-
-
-
-//近頃、主人の様子が　おかしいのよ\nなんだか　イライラしてるみたいなの
-My husband has been acting strange lately,\n
-like he's irritated about something.
-<$12>
-\n
-<CLEAR>
-//おまけに　お義父さんまで\n風邪気味なのに　出歩いてばかり…\n心配なことだらけだわ
-My father-in-law too has been walking around\n
-with that awful cold. I worry for them.
-<$12>
-<$00>
-
-
-
-
-
-
-//うちも　もうすぐ移住なのよ\n荷物の整理とか　知人へのあいさつとか\nやることがたくさんあって　タイヘン
-There's a lot of packing and networking and\n
-red tape involved with moving to a new\n
-planet.
-<$12>
-\n
-<CLEAR>
-//でも　忙しいほうがいいの\n時間があると　お義父さんのことを\n思い出して　悲しくなっちゃうから
-Being busy beats being bored. I think that\n
-ennui's what affected my father in law the\n
-most.
-<$12>
-<$00>
-
-
-
-
-
-
-//あたちのパパは　エライのよ\nこの町の　チョウチョウさんなの
+//あたちのパパは　エライのよ\nこの町の　チョウチョウさんなの<$12>\n<CLEAR>でも　羽はないのね<$12><$00>
 My daddy's the best!\n
-He's the elder of this village.
-<$12>
-\n
-<CLEAR>
-//でも　羽はないのね
-But I don't think he's old.
-<$12>
-<$00>
+He's the elder of this village.<$12>\n
+<CLEAR>But I don't think he's old.<$12><$00>
 
 
+//おじいちゃんは　空へのぼって\nいったんだって…<$12>\n<CLEAR>でも　羽はないのね<$12><$00>
+I heard my grandaddy went up to the sky now.<$12>\n
+<CLEAR>But he doesn't have wings...<$12><$00>
 
 
+//<CLEAR>申し訳…　ゴホッ…\nない…　ゴホッ…∥　ゴホッ…∥<$12><$00>
+<CLEAR>Please...excuse me...\n
+Cough! Cough, cough...<$12><$00>
 
 
-//おじいちゃんは　空へのぼって\nいったんだって…
-I heard my grandaddy went up to the sky now.
-<$12>
-\n
-<CLEAR>
-//でも　羽はないのね
-But he doesn't have wings...
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//申し訳…　ゴホッ…\nない…　ゴホッ…∥　ゴホッ…∥
-Please...excuse me...\n
-Cough! Cough, cough...
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ゴホッ　ゴホッ…
-Cough! Cough!
-<$12>
-\n
-<CLEAR>
-//ケ、ケンさんですかな？\nゴホッ…　ゴホッ…\nわしが　ゴホッ∥　ポリスカです
-Are...are you Ken?\n
+//<CLEAR>ゴホッ　ゴホッ…<$12>\n<CLEAR>ケ、ケンさんですかな？\nゴホッ…　ゴホッ…\nわしが　ゴホッ∥　ポリスカです<$12>\n<CLEAR>ゴホッ　ゴホッ…<$12>\n<CLEAR>呼びつけておいて　ゴホッ…∥\n何ですが…<$12>\n<CLEAR>今朝から　ゴホッ…\n咳が　ゴホッ…　止まらな…\nゴホッ…　ゴホッ…∥<$12>\n<CLEAR>これでは　話も…　ゴホッ∥\nゴホッ…　ゴホッ…<$12>\n<CLEAR>明日また　ゴホッ…\n来てく…　ゴホッ…　ゴホッ…<$12>\n<CLEAR>申し訳…　ゴホッ…\nない…　ゴホッ…∥　ゴホッ…∥<$12><$00>
+<CLEAR>Cough! Cough!<$12>\n
+<CLEAR>Are...are you Ken?\n
 Cough! Cough, cough...\n
-I'm...cough! I'm Poliska.
-<$12>
-\n
-<CLEAR>
-//ゴホッ　ゴホッ…
-Cough! Cough!
-<$12>
-\n
-<CLEAR>
-//呼びつけておいて　ゴホッ…∥\n何ですが…
-I wish...cough!\n
-I could talk, but...cough!
-<$12>
-\n
-<CLEAR>
-//今朝から　ゴホッ…\n咳が　ゴホッ…　止まらな…\nゴホッ…　ゴホッ…∥
-I've had- cough!\n
+I'm...cough! I'm Poliska.<$12>\n
+<CLEAR>Cough! Cough!<$12>\n
+<CLEAR>I wish...cough!\n
+I could talk, but...cough!<$12>\n
+<CLEAR>I've had- cough!\n
 This cough- cough!\n
-All morning- cough! Cough...
-<$12>
-\n
-<CLEAR>
-//これでは　話も…　ゴホッ∥\nゴホッ…　ゴホッ…
-And I can't- cough!\n
+All morning- cough! Cough...<$12>\n
+<CLEAR>And I can't- cough!\n
 Talk- cough!\n
-At all...
-<$12>
-\n
-<CLEAR>
-//明日また　ゴホッ…\n来てく…　ゴホッ…　ゴホッ…
-Can you- cough!\n
-Come back tomorrow- cough!
-<$12>
-\n
-<CLEAR>
-//申し訳…　ゴホッ…\nない…　ゴホッ…∥　ゴホッ…∥
-Excuse me- cough!\n
+At all...<$12>\n
+<CLEAR>Can you- cough!\n
+Come back tomorrow- cough!<$12>\n
+<CLEAR>Excuse me- cough!\n
 Cough, cough...\n
-Cough!
-<$12>
-<$00>
+Cough!<$12><$00>
 
 
-
-
-
-
-//ゴホッ　ゴホッ…\n私の集めた情報では…\nゴホッ　ゴホッ…　ゴホッ…
+//ゴホッ　ゴホッ…\n私の集めた情報では…\nゴホッ　ゴホッ…　ゴホッ…<$12>\n<CLEAR>コラルコラーナという所が　どうやら\n盗賊団のアジトらしいのじゃ…\nゴホッ　ゴホッ…<$12><$00>
 Cough, cough...\n
-According to the information I've gathered,\n
-cough! Cough!
-<$12>
-\n
-<CLEAR>
-//コラルコラーナという所が　どうやら\n盗賊団のアジトらしいのじゃ…\nゴホッ　ゴホッ…
-There's a bandit hideout hidden in Coral\n
-Khorana. Cough!
-<$12>
-<$00>
+According to the information I've gathered, cough! Cough!<$12>\n
+<CLEAR>There's a bandit hideout hidden in Coral Khorana. Cough!<$12><$00>
 
 
+//お待ちしてましたぞ\nケンさん　そして、リンダさん\n私が電話さしあげた　ポリスカです<$12>\n<CLEAR>実は困ったことが　起きましてな…\nこの町のシンボルの武器「<$1B>トラの爪」が\n何者かに　盗まれたのです<$12>\n<CLEAR>ゴホッ　ゴホッ…\n失礼、風邪をこじらせましてな<$12><$00>
+I've been expecting you, Ken and Linda. I see you got my\n
+voicemail? I'm Poliska.<$12>\n
+<CLEAR>I called because our village's symbol, the＿Tiger Claw\n
+was very mysteriously stolen.<$12>\n
+<CLEAR>Cough! Cough...!\n
+Pardon me, I have a cold.<$12><$00>
 
 
+//<CLEAR><$1D>の秋までに　<$1B>トラの爪が戻らんと\n町長たる、私の息子パトルカが\n大恥を　かくことになる…<$12>\n<CLEAR>息子を　コシカタ最後の町長の名に\n恥じない男にしてやってくだされ\n<$01>引き受けた<$0E>／<$01>お礼は何？<$0E>／<$01>自分で捜せ<$0E><$00>
+<CLEAR><$1D>＿years have passed since that autumn when the＿Tiger\n
+Claw vanished.<$12>\n
+<CLEAR>My son, Patrolka, may forever be disgraced in the village\n
+over this.<$12>\n
+<CLEAR>Help my son redeem himself as the final Koshikata elder.\n
+<$01>Okay<$0E>／<$01>And my reward?<$0E>／<$01>You do it<$0E><$00>
 
 
-//お待ちしてましたぞ\nケンさん　そして、リンダさん\n私が電話さしあげた　ポリスカです
-I've been expecting you, Ken and Linda. I see\n
-you got my voicemail? I'm Poliska.
-<$12>
-\n
-<CLEAR>
-//実は困ったことが　起きましてな…\nこの町のシンボルの武器「
-I called because our village's symbol, the＿
-//<$1B>
-//トラの爪」が\n何者かに　盗まれたのです
-Tiger Claw was very mysteriously stolen.
-<$12>
-\n
-<CLEAR>
-//ゴホッ　ゴホッ…\n失礼、風邪をこじらせましてな
-Cough! Cough...!\n
-Pardon me, I have a cold.
-<$12>
-<$00>
+//こんど<$00>
+This fall,<$00>
 
 
+//１年後<$00>
+Next fall,<$00>
 
 
+//２年後<$00>
+Two falls from now,<$00>
 
 
-<CLEAR>
-//
-<$1D>
-//の秋までに　
-＿years have passed since that autumn when\n
-the＿
-//<$1B>
-//トラの爪が戻らんと\n町長たる、私の息子パトルカが\n大恥を　かくことになる…
-Tiger Claw vanished.
-<$12>
-\n
-<CLEAR>
-My son, Patrolka, may forever be disgraced in\n
-the village over this.
-<$12>
-\n
-<CLEAR>
-//息子を　コシカタ最後の町長の名に\n恥じない男にしてやってくだされ\n
-Help my son redeem himself as the final\n
-Koshikata elder.\n
-<$01>
-//引き受けた
-Okay
-<$0E>
-//／
-／
-<$01>
-//お礼は何？
-And my reward?
-<$0E>
-//／
-／
-<$01>
-//自分で捜せ
-You do it
-<$0E>
-<$00>
+//３年後<$00>
+Three falls from now,<$00>
 
 
+//<CLEAR>ありがたい！　さすが噂に違わぬ\n勇気に　あふるる方じゃ！\n～ゴホッ　ゴホッ<$12>\n<CLEAR>その気持ちに応えて　少しだけ\nお礼の先払いを　いたしましょうぞ<$12>\n<CLEAR>先祖伝来の　狩猟の技\n「迷彩」をケンさんに\nご伝授いたしましょう<$12><$00>
+<CLEAR>Thank you! The tales of your bravery ring true!\n
+Cough! Cough!<$12>\n
+<CLEAR>I feel the need to repay you somehow...<$12>\n
+<CLEAR>Ken, allow me to teach you a skill that will help you hide from\n
+animals.<$12><$00>
 
 
+//<CLEAR><$19>1<$15>Sケンは　動物から姿を隠す\n「迷彩」の能力を\nポリスカから　習得した∥<$14><$12><$00>
+<CLEAR><$19><$15>S<CLEAR>Ken learned the\n
+Masker skill from Poliska!<$14><$12><$00>
 
 
-//こんど
-This fall,
-<$00>
+//<CLEAR>どうか　よろしくお願いします<$12><$00>
+<CLEAR>Koshikata's counting on you!<$12><$00>
 
 
+//<CLEAR>「<$1B>トラの爪」を見事、持ち帰られた\nそのあかつきには　先祖伝来の家宝\n「赤の獣人像」を　さしあげます<$12>\n<CLEAR>ゴホッ　ゴホッ…\n老い先、短かき年寄りの頼み\nどうか　お聞き届けくだされ<$12><$00>
+<CLEAR>The＿Tiger Claw you brought home was once passed\n
+down as an ancestral heirloon.<$12>\n
+<CLEAR>Cough! Cough...! If you'd like the Red Beastman Doll, hear my\n
+request.<$12><$00>
 
 
+//<CLEAR>そ、そんな…　ゴホッ　ゴホッ…\n老い先、短かき年寄りの頼み\nどうか　お聞き届けくだされ<$12><$00>
+<CLEAR>Cough! Cough! Pl-Please... If you'd like the Red Beastman Doll,\n
+hear my request.<$12><$00>
 
 
-//１年後
-Next fall,
-<$00>
+//<CLEAR>実は　<$06>20<$04>年ほど前にも\n「<$1B>トラの爪」が　盗まれたことが\nありましてな…<$12>\n<CLEAR>その時の町長は　責任の重さに\n耐えかねて　あろうことか\n住民全員を　殺してしまったのです<$12>\n<CLEAR>ゴホッ　ゴホッ…<$12><$00>
+<CLEAR>It's been, I want to say,＿<$06>20<$04>＿years since the＿Tiger\n
+Claw was stolen.<$12>\n
+<CLEAR>The elder couldn't bear feeling responsible. He cracked\n
+and murdered the whole village.<$12>\n
+<CLEAR>Cough! Cough!<$12><$00>
 
 
+//<CLEAR><$1D>の秋までに「<$1B>トラの爪」を…\nどうか　よろしくお願いします\nゴホッ　ゴホッ　ゴホッ…<$12><$00>
+<CLEAR>I don't want it any later than＿<$1D>, autumn. Please, recover\n
+the＿Tiger Claw...\n
+Cough! Cough!<$12><$00>
 
 
+//……うるせぇんだよ！<$12><$00>
+Be quiet!<$12><$00>
 
 
-//２年後
-Two falls from now,
-<$00>
+//あぁ　俺がバカだったんだ…<$12><$00>
+Augh, I'm such a fool...<$12><$00>
 
 
-
-
-
-
-//３年後
-Three falls from now,
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ありがたい！　さすが噂に違わぬ\n勇気に　あふるる方じゃ！\n～ゴホッ　ゴホッ
-Thank you! The tales of your bravery ring\n
-true!\n
-Cough! Cough!
-<$12>
-\n
-<CLEAR>
-//その気持ちに応えて　少しだけ\nお礼の先払いを　いたしましょうぞ
-I feel the need to repay you somehow...
-<$12>
-\n
-<CLEAR>
-//先祖伝来の　狩猟の技\n「迷彩」をケンさんに\nご伝授いたしましょう
-Ken, allow me to teach you a skill that will\n
-help you hide from animals.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//Sケンは　動物から姿を隠す\n「迷彩」の能力を\nポリスカから　習得した∥
-S<CLEAR>Ken learned the\n
-Masker skill from Poliska!
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//どうか　よろしくお願いします
-Koshikata's counting on you!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//「
-The＿
-//<$1B>
-//トラの爪」を見事、持ち帰られた\nそのあかつきには　先祖伝来の家宝\n「赤の獣人像」を　さしあげます
-Tiger Claw you brought home was once passed\n
-down as an ancestral heirloon.
-<$12>
-\n
-<CLEAR>
-//ゴホッ　ゴホッ…\n老い先、短かき年寄りの頼み\nどうか　お聞き届けくだされ
-Cough! Cough...! If you'd like the Red\n
-Beastman Doll, hear my request.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//そ、そんな…　ゴホッ　ゴホッ…\n老い先、短かき年寄りの頼み\nどうか　お聞き届けくだされ
-Cough! Cough! Pl-Please... If you'd like the\n
-Red Beastman Doll, hear my request.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//実は　
-It's been, I want to say,＿
-<$06>
-//20
-20
-<$04>
-//年ほど前にも\n「
-＿years since the＿
-//<$1B>
-//トラの爪」が　盗まれたことが\nありましてな…
-Tiger Claw was stolen.
-<$12>
-\n
-<CLEAR>
-//その時の町長は　責任の重さに\n耐えかねて　あろうことか\n住民全員を　殺してしまったのです
-The elder couldn't bear feeling responsible.\n
-He cracked and murdered the whole village.
-<$12>
-\n
-<CLEAR>
-//ゴホッ　ゴホッ…
-Cough! Cough!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-I don't want it any later than＿
-<$1D>
-//の秋までに「
-, autumn. Please, recover the＿
-//<$1B>
-//トラの爪」を…\nどうか　よろしくお願いします\nゴホッ　ゴホッ　ゴホッ…
-Tiger Claw...\n
-Cough! Cough!
-<$12>
-<$00>
-
-
-
-
-
-
-//……うるせぇんだよ！
-Be quiet!
-<$12>
-<$00>
-
-
-
-
-
-
-//あぁ　俺がバカだったんだ…
-Augh, I'm such a fool...
-<$12>
-<$00>
-
-
-
-
-
-
-//ちくしょぉ…　ちくしょぉぉぉ…
+//ちくしょぉ…　ちくしょぉぉぉ…<$12><$00>
 Damn it all...\n
-Damn it allllll...
-<$12>
-<$00>
+Damn it allllll...<$12><$00>
 
 
-
-
-
-
-//もう……　ダメだ………
+//もう……　ダメだ………<$12><$00>
 No...!\n
-No more...!
-<$12>
-<$00>
+No more...!<$12><$00>
 
 
+//<CLEAR>そういや、「<$1B>トラの爪」は　どうした？\n持ってるんなら　渡してくれよ\n<$01>渡してあげる<$0E>／<$01>誰が渡すか∥<$0E><$00>
+<CLEAR>What happened to the＿Tiger Claw. Do you have it?!\n
+<$01>Here, it's yours<$0E>／<$01>Who wants it?<$0E><$00>
 
 
+//<CLEAR>町長は　やめちまったけど\n形見にもらっとくよ\nかまわないだろ？<$12>\n<CLEAR><$19>1<$15>Sケンは　パトルカに\n「<$1B>トラの爪」を　渡した<$14><$12><$00>
+<CLEAR>I've stepped down as elder, but taking it would give me\n
+closure. You don't mind, do you?<$12>\n
+<CLEAR><$19>1<$15>SKen gave Patrolka the\n
+Tiger Claw!<$14><$12><$00>
 
 
-<CLEAR>
-//そういや、「
-What happened to the＿
-//<$1B>
-//トラの爪」は　どうした？\n持ってるんなら　渡してくれよ\n
-Tiger Claw. Do you have it?!\n
-<$01>
-//渡してあげる
-Here, it's yours
-<$0E>
-//／
-／
-<$01>
-//誰が渡すか∥
-Who wants it?
-<$0E>
-<$00>
+//<CLEAR>そうだよな…　俺になんか渡すよか\nおやじの墓前に　たむけてやってくれ<$12><$00>
+<CLEAR>I see. If you're dead-set on giving it to my old man, leave it\n
+on his grave.<$12><$00>
 
 
+//<CLEAR>そうそう…　おやじからこれを\nあんたたちに　預かってたんだ<$12><$00>
+<CLEAR>All right. My old man wanted me to hold this for you.<$12><$00>
 
 
+//<CLEAR>あぁ　おやじが話してたのは\nあんたたちだね？　おやじなら\n風邪をこじらせてね　死んじまったよ<$12>\n<CLEAR>意外に　あっけなかったな…\n「ゴホッ…　ゴホッ……」って\n２度せき込んで　それで終わりさ<$12><$00>
+<CLEAR>You spoke with my old man, right? Well, his cold got worse\n
+and he died.<$12>\n
+<CLEAR>He let out one last, "Cough! Cough," and dropped. And that\n
+was the end of it.<$12><$00>
 
 
-<CLEAR>
-//町長は　やめちまったけど\n形見にもらっとくよ\nかまわないだろ？
-I've stepped down as elder, but taking it\n
-would give me closure. You don't mind, do\n
-you?
-<$12>
-\n
-<CLEAR>
-//
-<$19>
-//1
-1
-<$15>
-//Sケンは　パトルカに\n「
-SKen gave Patrolka the\n
-//<$1B>
-//トラの爪」を　渡した
-Tiger Claw!
-<$14><$12>
-<$00>
+//<CLEAR>でも、道具袋いっぱいじゃ\nしようがないゼ<$12><$00>
+<CLEAR>"However, the item bag was full."<$12><$00>
 
 
+//<CLEAR><$19>1<$15>Sケンは「赤の獣人像」を\n受け取った<$14><$12><$00>
+<CLEAR><$19><$15>SKen received the\n
+Red Beastman Doll!<$14><$12><$00>
 
 
+//<CLEAR>確かに　渡したよ<$12><$00>
+<CLEAR>There, now we're even.<$12><$00>
 
 
-<CLEAR>
-//そうだよな…　俺になんか渡すよか\nおやじの墓前に　たむけてやってくれ
-I see. If you're dead-set on giving it to my\n
-old man, leave it on his grave.
-<$12>
-<$00>
+//<CLEAR>そういや　おやじから「赤の獣人像」を\nあんたたちに　預ってたんだっけな<$12><$00>
+<CLEAR>Maybe the Red Beastman Doll my father left me is\n
+better off with you.<$12><$00>
 
 
-
-
-
-
-<CLEAR>
-//そうそう…　おやじからこれを\nあんたたちに　預かってたんだ
-All right. My old man wanted me to hold this\n
-for you.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//あぁ　おやじが話してたのは\nあんたたちだね？　おやじなら\n風邪をこじらせてね　死んじまったよ
-You spoke with my old man, right? Well, his\n
-cold got worse and he died.
-<$12>
-\n
-<CLEAR>
-//意外に　あっけなかったな…\n「ゴホッ…　ゴホッ……」って\n２度せき込んで　それで終わりさ
-He let out one last, "Cough! Cough," and\n
-dropped. And that was the end of it.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//でも、道具袋いっぱいじゃ\nしようがないゼ
-"However, the item bag was full."
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//Sケンは「赤の獣人像」を\n受け取った
-SKen received the\n
-Red Beastman Doll!
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//確かに　渡したよ
-There, now we're even.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//そういや　おやじから「赤の獣人像」を\nあんたたちに　預ってたんだっけな
-Maybe the Red Beastman Doll my father left me\n
-is better off with you.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//けっこうな値打ちモンらしいなぁ\nで、いくらで　引き取ってくれる？\n持金
-It looks mighty valuable...\n
+//<CLEAR>けっこうな値打ちモンらしいなぁ\nで、いくらで　引き取ってくれる？\n持金<$1E>40￥→値段<$01><$1E>40￥<$00>
+<CLEAR>It looks mighty valuable...\n
 How much would you pay for it?\n
-<$1E>
-//40￥→値段
-40￥→
-<$01><$1E>
-//40￥
-40￥
-<$00>
+<$1E>40￥→<$01><$1E>40￥<$00>
 
 
+//<CLEAR>たったの　<$1E>40￥かよ\nうちの家宝も　安く見られたもんだな\nハハハハハハハハ…<$12><$00>
+<CLEAR>Wow, only <$1E>40￥?\n
+Way to look at a family heirloom, hahaha!<$12><$00>
 
 
+//<CLEAR>でも、道具袋いっぱいじゃ\nしようがないゼ<$12><$00>
+<CLEAR>"However, the item bag was full."<$12><$00>
 
 
-<CLEAR>
-//たったの　
-Wow, only
-<$1E>
-//40￥かよ\nうちの家宝も　安く見られたもんだな\nハハハハハハハハ…
-40￥?\n
-Way to look at a family heirloom, hahaha!
-<$12>
-<$00>
+//<CLEAR>まっ　いいだろうさ\nほら、持っていきな！<$12><$00>
+<CLEAR>Well, if you say so!\n
+Here, it's all yours!<$12><$00>
 
 
+//<CLEAR>本当のことを言うと\n<$1B>トラの爪は　盗まれたんじゃないんだ<$12>\n<CLEAR>俺が　ある男のイカサマに気づかずに\n賭けに負けちまって　取られたのさ…<$12>\n<CLEAR>…………………………………<$12>\n<CLEAR>けッ∥　おやじのヤツ、そのことを\n百も承知で　あちこち駆けずり回ってよ\n挙句の果てに　死んじまってよぉ<$12><$00>
+<CLEAR>Truth be told, the＿Tiger Claw was never stolen.<$12>\n
+<CLEAR>I lost a bet against a squirrely rich guy, and he claimed\n
+it, fair and square.<$12>\n
+<CLEAR>............<$12>\n
+<CLEAR>Damn old man, always twisting the narrative to save me when\n
+he couldn't save himself.<$12><$00>
 
 
-
-
-<CLEAR>
-//でも、道具袋いっぱいじゃ\nしようがないゼ
-"However, the item bag was full."
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//まっ　いいだろうさ\nほら、持っていきな！
-Well, if you say so!\n
-Here, it's all yours!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//本当のことを言うと\n
-Truth be told, the＿
-//<$1B>
-//トラの爪は　盗まれたんじゃないんだ
-Tiger Claw was never stolen.
-<$12>
-\n
-<CLEAR>
-//俺が　ある男のイカサマに気づかずに\n賭けに負けちまって　取られたのさ…
-I lost a bet against a squirrely rich guy,\n
-and he claimed it, fair and square.
-<$12>
-\n
-<CLEAR>
-//…………………………………
-............
-<$12>
-\n
-<CLEAR>
-//けッ∥　おやじのヤツ、そのことを\n百も承知で　あちこち駆けずり回ってよ\n挙句の果てに　死んじまってよぉ
-Damn old man, always twisting the narrative\n
-to save me when he couldn't save himself.
-<$12>
-<$00>
-
-
-
-
-
-
-//おやじ………
-Old man...
-<$12>
-<$00>
-
-
-
-
+//おやじ………<$12><$00>
+Old man...<$12><$00>
 
 
 #WRITE(PTR, $003C)
-//ホテル１Ｆ
-Hotel 1F＿
-<$00>
+//ホテル１Ｆ<$00>
+Hotel 1F＿<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
+//<CLEAR>この町の復興の原動力は　もちろん\nポリスカさんが　宝クジを当てた\n賞金なんですがね…<$12>\n<CLEAR>実は、それ以外にも　ＥＧＦって\n団体からも　莫大な資金が\nなぜか、提供されたらしいですよ<$12><$00>
+<CLEAR>The initial green light for getting the village restored was\n
+Poliska winning the lottery.<$12>\n
+<CLEAR>But, if you want to know what the real "green" light was,\n
+then actually...<$12>\n
+<CLEAR>...it was Koshikata receiving massive, unexplained donations\n
+by the Elizabeth Green Foundation!<$12><$00>
 
 
+//<CLEAR>野営するなら　町の近くが\n動物も少ないから　比較的安全ですよ\n町の中のホテルと　同じくらいにはね<$12><$00>
+<CLEAR>If you camp right along the outskirts of the village, it's\n
+about as safe as staying in the hotel.<$12><$00>
 
 
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
+//<CLEAR>アンジェラの歌を　聞きに来たんなら\n残念だけど　一足違いだったね…\nさっき　終ったところさ<$12>\n<CLEAR>どうしても　アンジェラの声を\nもう一度　聞きたいってんなら\nドギファに　行くしかないね<$12>\n<CLEAR>ただし　ドギファの舞台が　この星での\n本当の最終ステージらしいから\n急いで　行ったほうがいいよ<$12><$00>
+<CLEAR>If you came to hear Angela sing, I'm afraid you just missed\n
+her performance.<$12>\n
+<CLEAR>If you want to hear her sing once more, you'll want to\n
+hurry to Dogyf Heights.<$12>\n
+<CLEAR>Her show out there could very well be her last on this\n
+planet. You should go!<$12><$00>
 
 
+//<CLEAR>この町も　殺人事件があったり\n廃村になったり　また、復興したり\nいろいろ　あったけど…<$12>\n<CLEAR>それも　あと少しで　全部きれいに\n灰になっちゃうんだね…\nそのほうが　いいのかもしれないね…<$12><$00>
+<CLEAR>This village too went from a murder site, to a ghost village\n
+to a miracle story.<$12>\n
+<CLEAR>A miracle almost too pure, it might as well remain ashes.\n
+Ashes, to ashes, to ashes.<$12><$00>
 
 
+//こんなイナカでもね、看護婦の\nお姉さんに　お酌してもらいたくて\nわざわざ足を運ぶ　お客も多くてね<$12>\n<CLEAR>結局みんな　いい年になるとさ…\n心が病気に　なってることに\n薄々、気づいてんだよね<$12><$00>
+Lots of people visit this bummy village to get bottle\n
+service from these cute nurses.<$12>\n
+<CLEAR>With age does come illness, but...also a thin slice of\n
+refinement.<$12><$00>
 
 
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
+//ホステスに　スチュワーデスの制服を\n着せてみたら　けっこう　それ目当てに\n来るお客が　増えてサ<$12>\n<CLEAR>アテンション　プリーーズってなもんよ\n何がうけるか、わかんねえな<$12><$00>
+Dressing our waitresses up as cute sterwardesses has paid\n
+off, and more people come in.<$12>\n
+<CLEAR>"Attention, please! Unknown turbulance ahead!" <$12><$00>
 
 
+//ほら、もっとお酒　飲まなきゃ\n病気が　治らないわよ\nなんなら　お注射してあげようか？<$12><$00>
+Your illness won't be cured unless you drink more. A man\n
+needs his shots.<$12><$00>
 
 
+//ほら、もっとお酒　飲んで∥\n私がちゃんと　雲の上まで\n連れてって　あげるから<$12><$00>
+The more you drink, the less you heal. Either way, you're\n
+one step closer to heaven.<$12><$00>
 
 
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
+//もう　飲めない…\nこれ以上飲んだら　本物の病院に\n行かなきゃ　なんなくなるよ…<$12><$00>
+I'm at my limit! If I drink any more, I might have to see a\n
+REAL doctor!<$12><$00>
 
 
-
-
-
-
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//この町の復興の原動力は　もちろん\nポリスカさんが　宝クジを当てた\n賞金なんですがね…
-The initial green light for getting the\n
-village restored was Poliska winning the\n
-lottery.
-<$12>
-\n
-<CLEAR>
-But, if you want to know what the real\n
-"green" light was, then actually...
-<$12>
-\n
-<CLEAR>
-//実は、それ以外にも　ＥＧＦって\n団体からも　莫大な資金が\nなぜか、提供されたらしいですよ
-...it was Koshikata receiving massive,\n
-unexplained donations by the Elizabeth Green\n
-Foundation!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//野営するなら　町の近くが\n動物も少ないから　比較的安全ですよ\n町の中のホテルと　同じくらいにはね
-If you camp right along the outskirts of the\n
-village, it's about as safe as staying in the\n
-hotel.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//アンジェラの歌を　聞きに来たんなら\n残念だけど　一足違いだったね…\nさっき　終ったところさ
-If you came to hear Angela sing, I'm afraid\n
-you just missed her performance.
-<$12>
-\n
-<CLEAR>
-//どうしても　アンジェラの声を\nもう一度　聞きたいってんなら\nドギファに　行くしかないね
-If you want to hear her sing once more,\n
-you'll want to hurry to Dogyf Heights.
-<$12>
-\n
-<CLEAR>
-//ただし　ドギファの舞台が　この星での\n本当の最終ステージらしいから\n急いで　行ったほうがいいよ
-Her show out there could very well be her\n
-last on this planet. You should go!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//この町も　殺人事件があったり\n廃村になったり　また、復興したり\nいろいろ　あったけど…
-This village too went from a murder site, to\n
-a ghost village to a miracle story.
-<$12>
-\n
-<CLEAR>
-//それも　あと少しで　全部きれいに\n灰になっちゃうんだね…\nそのほうが　いいのかもしれないね…
-A miracle almost too pure, it might as well\n
-remain ashes. Ashes, to ashes, to ashes.
-<$12>
-<$00>
-
-
-
-
-
-
-//こんなイナカでもね、看護婦の\nお姉さんに　お酌してもらいたくて\nわざわざ足を運ぶ　お客も多くてね
-Lots of people visit this bummy village to\n
-get bottle service from these cute nurses.
-<$12>
-\n
-<CLEAR>
-//結局みんな　いい年になるとさ…\n心が病気に　なってることに\n薄々、気づいてんだよね
-With age does come illness, but...also a thin\n
-slice of refinement.
-<$12>
-<$00>
-
-
-
-
-
-
-//ホステスに　スチュワーデスの制服を\n着せてみたら　けっこう　それ目当てに\n来るお客が　増えてサ
-Dressing our waitresses up as cute\n
-sterwardesses has paid off, and more people\n
-come in.
-<$12>
-\n
-<CLEAR>
-//アテンション　プリーーズってなもんよ\n何がうけるか、わかんねえな
-"Attention, please! Unknown turbulance\n
-ahead!"
-<$12>
-<$00>
-
-
-
-
-
-
-//ほら、もっとお酒　飲まなきゃ\n病気が　治らないわよ\nなんなら　お注射してあげようか？
-Your illness won't be cured unless you drink\n
-more. A man needs his shots.
-<$12>
-<$00>
-
-
-
-
-
-
-//ほら、もっとお酒　飲んで∥\n私がちゃんと　雲の上まで\n連れてって　あげるから
-The more you drink, the less you heal. Either\n
-way, you're one step closer to heaven.
-<$12>
-<$00>
-
-
-
-
-
-
-//もう　飲めない…\nこれ以上飲んだら　本物の病院に\n行かなきゃ　なんなくなるよ…
-I'm at my limit! If I drink any more, I might\n
-have to see a REAL doctor!
-<$12>
-<$00>
-
-
-
-
-
-
-//もう　飲めない…\nこれ以上飲んだら　雲の上どころか\n天国行きに　なっちまうって…
+//もう　飲めない…\nこれ以上飲んだら　雲の上どころか\n天国行きに　なっちまうって…<$12><$00>
 Urk, I can't drink anymore...\n
-Beer is proof God loves us, but I don't wanna\n
-see him so soon!
-<$12>
-<$00>
+Beer is proof God loves us, but I don't wanna see him so\n
+soon! <$12><$00>
 
 
+//お酒なんて　飲み過ぎたところで\nせいぜいが　死ぬだけだもん\nどうってこと　ないわよ！<$12>\n<CLEAR>お薬はダメよ！　飲み過ぎたら\nいい年して　死ねなくなっちゃって\nみっともないだけ！　醜悪でしょ？<$12><$00>
+No matter how much I drink, no alcohol is going to kill me!<$12>\n
+<CLEAR>Drugs'll kill you! At least with alcohol, you can be a hot\n
+mess forever! Or is that worse?<$12><$00>
 
 
+//スチュワーデスの格好に　だまされて\nおかわり自由だと　勘違いする客が\n多いから　売り上げは順調だわね<$12><$00>
+Some customers see the waitress' stewardess outfits and\n
+assume the refills they get are free.<$12>\n
+<CLEAR>This place makes a killing, racking up costs before letting\n
+guests see their tab.<$12><$00>
 
 
-//お酒なんて　飲み過ぎたところで\nせいぜいが　死ぬだけだもん\nどうってこと　ないわよ！
-No matter how much I drink, no alcohol is\n
-going to kill me!
-<$12>
-\n
-<CLEAR>
-//お薬はダメよ！　飲み過ぎたら\nいい年して　死ねなくなっちゃって\nみっともないだけ！　醜悪でしょ？
-Drugs'll kill you! At least with alcohol, you\n
-can be a hot mess forever! Or is that worse?
-<$12>
-<$00>
+//看護婦さんに　酒をすすめられると\nアルコール中毒に　なんないと\n申し分けない気が　しますな～<$12><$00>
+When a nurse recommends me alcohol, it's like I don't have\n
+an alcoholism issue!<$12><$00>
 
 
-
-
-
-
-//スチュワーデスの格好に　だまされて\nおかわり自由だと　勘違いする客が\n多いから　売り上げは順調だわね
-Some customers see the waitress' stewardess\n
-outfits and assume the refills they get are\n
-free.
-<$12>
-\n
-<CLEAR>
-This place makes a killing, racking up costs\n
-before letting guests see their tab.
-<$12>
-<$00>
-
-
-
-
-
-
-//看護婦さんに　酒をすすめられると\nアルコール中毒に　なんないと\n申し分けない気が　しますな～
-When a nurse recommends me alcohol, it's like\n
-I don't have an alcoholism issue!
-<$12>
-<$00>
-
-
-
-
-
-
-//まっ　何ですなあ、酒の相手としては\n地に足がついてない　女あたりが\nちょうど良いと　いうことですかな
-Hm, do women with their heads in the clouds\n
-make for better drinking partners?
-<$12>
-<$00>
-
-
-
-
+//まっ　何ですなあ、酒の相手としては\n地に足がついてない　女あたりが\nちょうど良いと　いうことですかな<$12><$00>
+Hm, do women with their heads in the clouds make for\n
+better drinking partners?<$12><$00>
 
 
 #WRITE(PTR, $003E)
-//ホテル２Ｆ
-Hotel 2F＿
-<$00>
+//ホテル２Ｆ<$00>
+Hotel 2F＿<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
+//<CLEAR><$19>1<$15>S扉には鍵がかかっている<$14><$12><$00>
+<CLEAR><$19>1<$15>SThe door is locked.<$14><$12><$00>
 
 
+//<CLEAR><$19>1<$15>Sケンは「納戸の鍵」を使った<$14><$12><$00>
+<CLEAR><$19>1<$15>SKen used the Storage Key!<$14><$12><$00>
 
 
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
+//あと<$1E>年で　この世界は消えるってのに\nだからといって　それを知る前と\n別に何も変らない　生活をしてる…<$12>\n<CLEAR>ご飯はおいしいし　イイ女を見ると\nやっぱり振り向くし　お金も欲しい…\n人間って意外に　鈍感なのかもな<$12><$00>
+Even with the world disappearing in＿<$1E>＿years, I'm still\n
+running on my old routines.<$12>\n
+<CLEAR>Eat good food, look at pretty women.... Humans are so out of\n
+touch sometimes.<$12><$00>
 
 
+//<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
+<CLEAR><$19><$15>SKen found the＿<$1D>!<$14><$12><$00>
 
 
+//<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
+<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the＿<$1D>had to go back.<$14><$12><$00>
 
 
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-1
-<$15>
-//S扉には鍵がかかっている
-SThe door is locked.
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-1
-<$15>
-//Sケンは「納戸の鍵」を使った
-SKen used the Storage Key!
-<$14><$12>
-<$00>
-
-
-
-
-
-
-//あと
-Even with the world disappearing in＿
-<$1E>
-//年で　この世界は消えるってのに\nだからといって　それを知る前と\n別に何も変らない　生活をしてる…
-＿years, I'm still running on my old routines.
-<$12>
-\n
-<CLEAR>
-//ご飯はおいしいし　イイ女を見ると\nやっぱり振り向くし　お金も欲しい…\n人間って意外に　鈍感なのかもな
-Eat good food, look at pretty women....\n
-Humans are so out of touch sometimes.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//Sケンは「
-SKen found the＿
-<$1D>
-//」を発見∥
-!
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//S<CLEAR>だが、道具袋が一杯なので\n「
-S<CLEAR>Sadly, the item bag was full, so the＿
-<$1D>
-//」を\nとりあえず　あきらめた…
-had to go back.
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//S<CLEAR>「
-SKen acquired＿
-<$1D>
-//」を　手に入れた∥
-!
-<$14><$12>
-<$00>
-
-
-
-
+//<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
+<CLEAR><$19><$15>SKen acquired＿<$1D>!<$14><$12><$00>
 
 
 #WRITE(PTR, $0040)
-//テント
-Tent＿
-<$00>
+//テント<$00>
+Tent＿<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
-
-
-
-
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
 #WRITE(PTR, $0042)
-//テント
-Tent＿
-<$00>
+//テント<$00>
+Tent＿<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
-
-
-
-
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
 #WRITE(PTR, $0044)
-//……東
-...East
-<$00>
+//……東<$00>
+...East<$00>
 
 
+//……西<$00>
+...West<$00>
 
 
+//……南<$00>
+...South<$00>
 
 
-//……西
-...West
-<$00>
+//……北<$00>
+...North<$00>
 
 
+//…北東<$00>
+...North-east<$00>
 
 
+//…北西<$00>
+...North-west<$00>
 
 
-//……南
-...South
-<$00>
+//…南東<$00>
+...South-east<$00>
 
 
+//…南西<$00>
+...South-west<$00>
 
 
+//<CLEAR>……<$1D><$00>
+<CLEAR>......<$1D><$00>
 
 
-//……北
-...North
-<$00>
+//、…<$1D>に行けば<$00>
+! That's where we'll find a＿<$1D>.<$00>
 
 
+//直進<$00>
+For<$00>
 
 
+//右よ<$00>
+Right<$00>
 
 
-//…北東
-...North-east
-<$00>
+//左よ<$00>
+Left<$00>
 
 
+//後ろ<$00>
+Back<$00>
 
 
+//<CLEAR>……<$1D><$00>
+<CLEAR>......<$1D><$00>
 
 
-//…北西
-...North-west
-<$00>
+//、絶対に<$1D>∥<$00>
+wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
 
 
+//<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
+<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
 
 
+//<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
+<CLEAR>...Sorry. I don't have it in me today.<$12><$00>
 
 
-//…南東
-...South-east
-<$00>
+//運命の<$00>
+Fated＿<$00>
 
 
+//新しい<$00>
+New＿<$00>
 
 
+//素敵な<$00>
+Great＿<$00>
 
 
-//…南西
-...South-west
-<$00>
+//未知の<$00>
+Unknown＿<$00>
 
 
+//何か<$00>
+things＿<$00>
 
 
+//発見<$00>
+discoveries＿<$00>
 
 
-<CLEAR>
-//……
-......
-<$1D>
-<$00>
+//お宝<$00>
+treasures＿<$00>
 
 
+//動物<$00>
+animals＿<$00>
 
 
+//に　出会える…<$00>
+could appear.<$00>
 
 
-//、…
-! That's where we'll find a＿
-<$1D>
-//に行けば
-.
-<$00>
+//が　待ってる…<$00>
+await us...<$00>
 
 
+//気がするわ∥<$00>
+are there.<$00>
 
 
+//チャンスよ∥<$00>
+are in our grasp!<$00>
 
 
-//直進
-For
-<$00>
+//今しかないわ<$00>
+could slip through our fingers!<$00>
 
 
+//間違いなし∥<$00>
+are dead head!<$00>
 
 
-
-
-//右よ
-Right
-<$00>
-
-
-
-
-
-
-//左よ
-Left
-<$00>
-
-
-
-
-
-
-//後ろ
-Back
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//……
-......
-<$1D>
-<$00>
-
-
-
-
-
-
-//、絶対に
-wards, got it? I'm sure we'll find a＿
-<$1D>
-//∥
-＿there!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//Sリンダは　「女の勘」を\nはたらかせた∥
-SLinda used her woman's intuition...
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//…ごめんね、\n今日は　勘がはたらかないわ…
-...Sorry. I don't have it in me today.
-<$12>
-<$00>
-
-
-
-
-
-
-//運命の
-Fated＿
-<$00>
-
-
-
-
-
-
-//新しい
-New＿
-<$00>
-
-
-
-
-
-
-//素敵な
-Great＿
-<$00>
-
-
-
-
-
-
-//未知の
-Unknown＿
-<$00>
-
-
-
-
-
-
-//何か
-things＿
-<$00>
-
-
-
-
-
-
-//発見
-discoveries＿
-<$00>
-
-
-
-
-
-
-//お宝
-treasures＿
-<$00>
-
-
-
-
-
-
-//動物
-animals＿
-<$00>
-
-
-
-
-
-
-//に　出会える…
-could appear.
-<$00>
-
-
-
-
-
-
-//が　待ってる…
-await us...
-<$00>
-
-
-
-
-
-
-//気がするわ∥
-are there.
-<$00>
-
-
-
-
-
-
-//チャンスよ∥
-are in our grasp!
-<$00>
-
-
-
-
-
-
-//今しかないわ
-could slip through our fingers!
-<$00>
-
-
-
-
-
-
-//間違いなし∥
-are dead head!
-<$00>
-
-
-
-
-
-
-//\n
+//\n<$1D><$1D><$1D>\n<$1D><$12>\n<CLEAR><$00>
 \n
-<$1D><$1D><$1D>
-//\n
-\n
-<$1D><$12>
-\n
-<CLEAR>
-//
-<$00>
+<$1D><$1D><$1D>\n
+<$1D><$12>\n
+<CLEAR><$00>
 
 
+//<CLEAR>自信があるの∥<$12><$00>
+<CLEAR>I'm sure of it!<$12><$00>
 
 
+//<CLEAR>自信は　ないけどね…<$12><$00>
+<CLEAR>Although, I'm not totally certain...<$12><$00>
 
 
-<CLEAR>
-//自信があるの∥
-I'm sure of it!
-<$12>
-<$00>
+//<CLEAR>絶対なんだから∥<$12><$00>
+<CLEAR>I'm absolutely certain!<$12><$00>
 
 
+//<$15>Yスケジュール<$00>
+<$15>YMemo＿<$00>
 
 
+//<CLEAR>スケジュールは何もありません<$12><$00>
+<CLEAR>There is nothing on schedule.<$12><$00>
 
 
-<CLEAR>
-//自信は　ないけどね…
-Although, I'm not totally certain...
-<$12>
-<$00>
+//成功終了<$00>
+Completed!<$00>
 
 
+//期限切れ<$00>
+Expired!<$00>
 
 
+//あと<$1E>季節<$00>
+In＿<$1E>＿seasons<$00>
 
 
-<CLEAR>
-//絶対なんだから∥
-I'm absolutely certain!
-<$12>
-<$00>
+//あと<$1E>年<$1E>季節<$00>
+Deadline:＿<$1E>Y/<$1E>S<$00>
 
 
+//あと<$1E>年<$00>
+In＿<$1E>＿years<$00>
 
 
+//<$16><$01>◇<$0E><$1D><$02>190<$1D><$00>
+<$16><$01>◇<$0E><$1D><$02><$1D><$00>
 
 
-//
-<$15>
-//Yスケジュール
-YMemo＿
-<$00>
+//ファングを倒す<$00>
+Slay Fang<$00>
 
 
+//パンハイムからの依頼<$00>
+Assist Panheim<$00>
 
 
+//<$1B>カメの卵を手に入れる<$00>
+Snatch Turtle Eggs<$00>
 
 
-<CLEAR>
-//スケジュールは何もありません
-There is nothing on schedule.
-<$12>
-<$00>
+//<$1B>プテラノの卵を手に入れる<$00>
+Snatch Pteranodon Eggs<$00>
 
 
+//遺産争いにケリをつける<$00>
+End the inheritance battle<$00>
 
 
+//ヤマダのために一肌脱ぐ<$00>
+Unload for Yamada<$00>
 
 
-//成功終了
-Completed!
-<$00>
+//町のシンボルを見つけだす<$00>
+Find the village symbol<$00>
 
 
+//ソフィアからの依頼<$00>
+Assist Sophia<$00>
 
 
+//サチコ救出<$00>
+Rescue Sachiko<$00>
 
 
-//期限切れ
-Expired!
-<$00>
+//ポロポロちゃんを助ける<$00>
+Save Nightshade<$00>
 
 
+//アンジェラ捜し<$00>
+Find Angela<$00>
 
 
+//<CLEAR>カラゴラムのファングを倒し、その証拠を\nハーディアホテルのスペクターに渡す<$00>
+<CLEAR>Defeat Fang in Karhagolem. Present proof to Spectre in\n
+Hardia Hotel.<$00>
 
 
-//あと
-In＿
-<$1E>
-//季節
-＿seasons
-<$00>
+//<CLEAR>マーブルポリスの<$1B>ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す<$00>
+<CLEAR>Process meat from＿chickens in Marblopolis.Give them to\n
+Prof. Panheim in Hospico.<$00>
 
 
+//<CLEAR><$1B>カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す<$00>
+<CLEAR>Find up to 3＿Turtle Eggs. Give them to Louis at the Battle\n
+Park BB Ranch.<$00>
 
 
+//<CLEAR><$1B>プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す<$00>
+<CLEAR>Acquire 2＿Pteranodon Eggs. Give them to Bronco at the\n
+Battle Park BB Ranch.<$00>
 
 
-//あと
-Deadline:＿
-<$1E>
-//年
-Y/
-<$1E>
-//季節
-S
-<$00>
+//<CLEAR>「太郎の首輪」を見つけだし、ドギファの\nナターシャか、オーマン家３兄弟に渡す<$00>
+<CLEAR>Locate Taro's Collar. Give it to Natasha or one of the 3\n
+Aumann children in Dogyf Heights.<$00>
 
 
+//６万<$00>
+60, 000<$00>
 
 
+//あと<$06><$1E><$0F>000<$04><$00>
+another＿<$06><$1E><$0F><$04><$00>
 
 
-//あと
-In＿
-<$1E>
-//年
-＿years
-<$00>
+//<CLEAR>Ｇファクトリーのヤマダのために\n<$1D>￥を預金する<$00>
+<CLEAR>Deposit＿<$1D>￥ in an account to Yamada in G Factory.<$00>
 
 
+//<CLEAR>コシカタのシンボル「<$1B>トラの爪」を\n見つけだし、ポリスカに渡す<$00>
+<CLEAR>Find the＿Tiger Claw, Koshikata's village symbol. Return it\n
+to Poliska.<$00>
 
 
+//<CLEAR>ソフィアのために、エターナの桜の木を\nどうにかして咲かせる<$00>
+<CLEAR>Find out how to revive the sakura trees in Eterna for\n
+Sophia.<$00>
 
 
-<$16><$01>
-//◇
-◇
-<$0E><$1D><$02>
-//190
-<$1D>
-<$00>
+//<CLEAR>溶岩の中で育った動物の熱いウンチを\nエターナのソフィアに渡す<$00>
+<CLEAR>Deliver Hot Dung from a lava-dwelling creature to Sophia in\n
+Eterna.<$00>
 
 
+//<CLEAR>ラグナロッジのエモリに会いに行く<$00>
+<CLEAR>Meet with Dr. Emori in Ragna Rim.<$00>
 
 
+//<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nＧファクトリー入口１階、\n公衆電話の前に行く<$00>
+<CLEAR>Take the Floppy Disc and＿<$06>10, 000<$04>￥ to the G Factory\n
+gate. Answer the payphone.<$00>
 
 
-//ファングを倒す
-Slay Fang
-<$00>
+//<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nパラサイド入口１階、\n公衆電話の前に行く<$00>
+<CLEAR>Take the Floppy Disc and＿<$06>10, 000<$04>￥ to the Paraside gate.\n
+Answer the payphone.<$00>
 
 
+//<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nガレックスに行く<$00>
+<CLEAR>Take the Floppy Disc and＿<$06>10, 000<$04>￥ to Galax.<$00>
 
 
+//<CLEAR>ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す<$00>
+<CLEAR>Pick bloodberries in Flora Jam. Take them to Kevin and\n
+Nightshade in Rose Garden.<$00>
 
 
-//パンハイムからの依頼
-Assist Panheim
-<$00>
+//<CLEAR>パラサイドの酒場にいるアンジェラを\n確認して、リナバレーのマリオに連絡する<$00>
+<CLEAR>Look for Angela at the Paraside bar. Report your findings\n
+to Mario in Spurr Valley.<$00>
 
 
+//<CLEAR>アンジェラを確認するために、\nオズポートホテルの酒場に行く<$00>
+<CLEAR>Look for Angela at the OzPort Hotel bar.<$00>
 
 
+//<CLEAR>アンジェラを確認するために、\n西エリアのしけた町のホテルに行く<$00>
+<CLEAR>Look for Angela at a hotel bar somewhere in West Area.<$00>
 
 
-//<$1B>
-//カメの卵を手に入れる
-Snatch Turtle Eggs
-<$00>
+//<CLEAR>アンジェラを確認するために、\nドギファの舞台に行く<$00>
+<CLEAR>Look for Angela at the theater stage in Dogyf Heights.<$00>
 
 
+//<CLEAR>リナバレーのマリオの母、\nアンジェラを追ってオズサットへ行く<$00>
+<CLEAR>Chase Angela to OzSat! Mario will follow from Spurr Valley.<$00>
 
 
+//個<$00>
+＿<$00>
 
 
-//<$1B>
-//プテラノの卵を手に入れる
-Snatch Pteranodon Eggs
-<$00>
+//匹<$00>
+＿<$00>
 
 
+//<$1D>を<$1D>ます\n<$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04>／<$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S￥<$00>
+<$1D>＿x<$1D>＿\n
+<$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04>／<$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S￥<$00>
 
 
+//<$06>T.C.(<$1E>034<$06>)<$00>
+<$06>TCU (x<$1E><$06>)<$00>
 
 
-//遺産争いにケリをつける
-End the inheritance battle
-<$00>
+//<$05>γ<$00>
+<$05>A<$00>
 
 
+//<$05>ζ<$00>
+<$05>D<$00>
 
 
+//<$1E>@019<$00>
+<$1E>@019<$00>
 
 
-//ヤマダのために一肌脱ぐ
-Unload for Yamada
-<$00>
+//<CLEAR>セレクトボタンで解説が出ます<$00>
+<CLEAR>SELECT: Details<$00>
 
 
+//<CLEAR><$00>
+<CLEAR><$00>
 
 
+//<$04><$16><$15>W<$01><$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
+<$04><$16><$15>W<$01><$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
 
 
-//町のシンボルを見つけだす
-Find the village symbol
-<$00>
+//<CLEAR>トランスカーゴは　１枠につき\n<$06>99<$04>頭までしか　収容できません<$12><$00>
+<CLEAR>The trans-cargo unit has\n
+a＿<$06>99<$04>＿species capacity!<$12><$00>
 
 
+//<CLEAR><$06>トランスカーゴ<$04>がいっぱいです<$12><$00>
+<CLEAR><$06>The trans-cargo unit＿<$04>is full!<$12><$00>
 
 
+//<CLEAR>道具がいっぱいです<$12><$00>
+<CLEAR>The item bag is full!<$12><$00>
 
 
-//ソフィアからの依頼
-Assist Sophia
-<$00>
+//<CLEAR><$1D>は\nお引き取りできません<$12><$00>
+<CLEAR><$1D>?\n
+I can't accept that!<$12><$00>
 
 
+//<CLEAR><$1D>を\n<$06><$1E><$04>￥で売りますか？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
+<CLEAR>Sell＿<$1D>＿for\n
+<$06><$1E><$04>￥?\n
+<$01>Yes<$0E>／<$01>No<$0E><$00>
 
 
-
-
-//サチコ救出
-Rescue Sachiko
-<$00>
-
-
-
-
-
-
-//ポロポロちゃんを助ける
-Save Nightshade
-<$00>
-
-
-
-
-
-
-//アンジェラ捜し
-Find Angela
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//カラゴラムのファングを倒し、その証拠を\nハーディアホテルのスペクターに渡す
-Defeat Fang in Karhagolem. Present proof to\n
-Spectre in Hardia Hotel.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//マーブルポリスの
-Process meat from＿
-//<$1B>
-//ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す
-chickens in Marblopolis.Give them to Prof.\n
-Panheim in Hospico.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-Find up to 3＿
-//<$1B>
-//カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す
-Turtle Eggs. Give them to Louis at the Battle\n
-Park BB Ranch.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-Acquire 2＿
-//<$1B>
-//プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す
-Pteranodon Eggs. Give them to Bronco at the\n
-Battle Park BB Ranch.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//「太郎の首輪」を見つけだし、ドギファの\nナターシャか、オーマン家３兄弟に渡す
-Locate Taro's Collar. Give it to Natasha or\n
-one of the 3 Aumann children in Dogyf\n
-Heights.
-<$00>
-
-
-
-
-
-
-//６万
-60, 000
-<$00>
-
-
-
-
-
-
-//あと
-another＿
-<$06><$1E><$0F>
-//000
-<$04>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//Ｇファクトリーのヤマダのために\n
-Deposit＿
-<$1D>
-//￥を預金する
-￥ in an account to Yamada in G Factory.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//コシカタのシンボル「
-Find the＿
-//<$1B>
-//トラの爪」を\n見つけだし、ポリスカに渡す
-Tiger Claw, Koshikata's village symbol.\n
-Return it to Poliska.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ソフィアのために、エターナの桜の木を\nどうにかして咲かせる
-Find out how to revive the sakura trees in\n
-Eterna for Sophia.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//溶岩の中で育った動物の熱いウンチを\nエターナのソフィアに渡す
-Deliver Hot Dung from a lava-dwelling\n
-creature to Sophia in Eterna.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ラグナロッジのエモリに会いに行く
-Meet with Dr. Emori in Ragna Rim.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//「フロッピーと
-Take the Floppy Disc and＿
-<$06>
-//10
-10, 000
-<$04>
-//万￥」を持って、\nＧファクトリー入口１階、\n公衆電話の前に行く
-￥ to the G Factory gate. Answer the payphone.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//「フロッピーと
-Take the Floppy Disc and＿
-<$06>
-//10
-10, 000
-<$04>
-//万￥」を持って、\nパラサイド入口１階、\n公衆電話の前に行く
-￥ to the Paraside gate. Answer the payphone.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//「フロッピーと
-Take the Floppy Disc and＿
-<$06>
-//10
-10, 000
-<$04>
-//万￥」を持って、\nガレックスに行く
-￥ to Galax.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す
-Pick bloodberries in Flora Jam. Take them to\n
-Kevin and Nightshade in Rose Garden.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//パラサイドの酒場にいるアンジェラを\n確認して、リナバレーのマリオに連絡する
-Look for Angela at the Paraside bar. Report\n
-your findings to Mario in Spurr Valley.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//アンジェラを確認するために、\nオズポートホテルの酒場に行く
-Look for Angela at the OzPort Hotel bar.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//アンジェラを確認するために、\n西エリアのしけた町のホテルに行く
-Look for Angela at a hotel bar somewhere in\n
-West Area.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//アンジェラを確認するために、\nドギファの舞台に行く
-Look for Angela at the theater stage in Dogyf\n
-Heights.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//リナバレーのマリオの母、\nアンジェラを追ってオズサットへ行く
-Chase Angela to OzSat! Mario will follow from\n
-Spurr Valley.
-<$00>
-
-
-
-
-
-
-//個
-＿
-<$00>
-
-
-
-
-
-
-//匹
-＿
-<$00>
-
-
-
-
-
-
-<$1D>
-//を
-＿x
-<$1D>
-//ます\n
-＿\n
-<$06><$19>
-//1
-1
-<$01><$1A>
-//01
-01
-<$0E><$15>
-//S
-S
-<$19>
-//0
-0
-<$04>
-//／
-／
-<$14><$1E>
-//034
-034
-<$15>
-//S
-S
-<$1D><$14><$02>
-//112
-112
-<$19>
-//2
-2
-<$1E>
-//40
-40
-<$19>
-//0
-0
-<$15>
-//S￥
-S￥
-<$00>
-
-
-
-
-
-
-<$06>
-//T.C.(
-TCU (x
-<$1E>
-//034
-<$06>
-//)
-)
-<$00>
-
-
-
-
-
-
-<$05>
-//γ
-A
-<$00>
-
-
-
-
-
-
-<$05>
-//ζ
-D
-<$00>
-
-
-
-
-
-
-<$1E>
-//@019
-@019
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//セレクトボタンで解説が出ます
-SELECT: Details
-<$00>
-
-
-
-
-
-
-<CLEAR>
-
-<$00>
-
-
-
-
-<$04><$16><$15>
-//W
-W
-<$01><$1D><$02>
-//116
-116
-<$0E><$02>
-//216
-216
-<$1D><$1E>
-//39￥
-39￥
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//トランスカーゴは　１枠につき\n
-The trans-cargo unit has\n
-a＿
-<$06>
-//99
-99
-<$04>
-//頭までしか　収容できません
-＿species capacity!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$06>
-//トランスカーゴ
-The trans-cargo unit＿
-<$04>
-//がいっぱいです
-is full!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//道具がいっぱいです
-The item bag is full!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1D>
-//は\nお引き取りできません
-?\n
-I can't accept that!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-Sell＿
-<$1D>
-//を\n
-＿for\n
-<$06><$1E><$04>
-//￥で売りますか？\n
-￥?\n
-<$01>
-//は＿い
-Yes
-<$0E>
-//／
-／
-<$01>
-//いいえ
-No
-<$0E>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1D><$15>
-//Wは\nＡ級保護動物のため\n取り引きできません
-W＿cannot be traded.\n
+//<CLEAR><$1D><$15>Wは\nＡ級保護動物のため\n取り引きできません<$12><$00>
+<CLEAR><$1D><$15>W＿cannot be traded.\n
 Class A species\n
-trading is prohibited!
-<$12>
-<$00>
+trading is prohibited!<$12><$00>
 
 
+//<CLEAR><$00>
+<CLEAR><$00>
 
 
+//<$16><$04><$01><$1D><$02>120<$0E><$02>216<$06><$1E><$04>匹で<$00>
+<$16><$04><$01><$1D><$02><$0E><$02><$06><$1E><$04>x＿<$00>
 
 
-<CLEAR>
+//<CLEAR><$1D>を作ります\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
+<CLEAR>Craft＿<$1D>?\n
+<$01>Yes<$0E><$01>No<$0E><$00>
 
-<$00>
 
+//<CLEAR><$1D>を作ります\n加工料金＿<$1D><$06><$1E><$04><$14>￥\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
+<CLEAR>Crafting a＿<$1D>＿\n
+will cost<$1D><$06><$1E><$04><$14>￥.\n
+<$01>Okay<$0E><$01>Wait<$0E><$00>
 
 
+//<CLEAR>お金が足りません<$12><$00>
+<CLEAR>You can't afford this!<$12><$00>
 
-<$16><$04><$01><$1D><$02>
-//120
-<$0E><$02>
-//216
-<$06><$1E><$04>
-//匹で
-x＿
-<$00>
 
+//<CLEAR>動物が足りません<$12><$00>
+<CLEAR>You don't have the animals!<$12><$00>
 
 
+//<CLEAR>加工料金＿<$15>b<$06><$1E><$04><$14>￥\nが足りません<$12><$00>
+<CLEAR>You can't afford the＿\n
+<$15>b<$06><$1E><$04><$14>￥ fee!<$12><$00>
 
 
+//<$02>240<$1E>018<$04><$00>
+<$02><$1E><$04><$00>
 
-<CLEAR>
-//
-Craft＿
-<$1D>
-//を作ります\n
-?\n
-<$01>
-//は＿い
-Yes
-<$0E>
-//／
-<$01>
-//いいえ
-No
-<$0E>
-<$00>
 
+//<$02>100<$1E>018<$04><$00>
+<$02><$1E><$04><$00>
 
 
+//<CLEAR>道具がいっぱいです<$12><$00>
+<CLEAR>The item bag is full!<$12><$00>
 
 
+//<$15>Y肉＿屋<$00>
+<$15>YMeat Market<$00>
 
-<CLEAR>
-//
-Crafting a＿
-<$1D>
-//を作ります\n加工料金＿
-＿\n
-will cost
-<$1D><$06><$1E><$04><$14>
-//￥\n
-￥.\n
-<$01>
-//は＿い
-Okay
-<$0E>
-//／
-<$01>
-//いいえ
-Wait
-<$0E>
-<$00>
 
-
-
-
-
-
-<CLEAR>
-//お金が足りません
-You can't afford this!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//動物が足りません
-You don't have the animals!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//加工料金＿
-You can't afford the＿\n
-<$15>
-//b
-b
-<$06><$1E><$04><$14>
-//￥\nが足りません
-￥ fee!
-<$12>
-<$00>
-
-
-
-
-
-
-<$02>
-240
-<$1E>
-018
-<$04>
-<$00>
-
-
-
-
-<$02>
-100
-<$1E>
-018
-<$04>
-<$00>
-
-
-
-
-<CLEAR>
-//道具がいっぱいです
-The item bag is full!
-<$12>
-<$00>
-
-
-
-
-
-
-//
-<$15>
-//Y肉＿屋
-YMeat Market
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//毎度どーも！　食肉！　薬肉！　毒肉！\n今日は　何にしますか？\n
-Good day, Sir!\n
+//<CLEAR>毎度どーも！　食肉！　薬肉！　毒肉！\n今日は　何にしますか？\n<$01>取引する<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
+<CLEAR>Good day, Sir!\n
 You want meats? I've got meats!\n
-<$01>
-//取引する
-Shop
-<$0E>
-//／
-／
-<$01>
-//雑談する
-Chat
-<$0E>
-//／
-／
-<$01>
-//やめとく
-Exit
-<$0E>
-<$00>
+<$01>Shop<$0E>／<$01>Chat<$0E>／<$01>Exit<$0E><$00>
 
 
+//<$15>Y肉＿屋<$00>
+<$15>YMeat Market<$00>
 
 
+//<CLEAR>腹が減った時、体の調子が悪い時、\nお気軽に　お立ち寄りください<$12><$00>
+<CLEAR>Whether you're hungry or weary,\n
+I'm here to serve you!<$12><$00>
 
 
-//
-<$15>
-//Y肉＿屋
-YMeat Market
-<$00>
+//<CLEAR>動物を売るときは　自分で\n食料や装備に　加工してから売ると、\n手間賃分だけ　ちょっとお得ですよ<$12><$00>
+<CLEAR>You'll make more money if you process an animal into food or\n
+gear before selling it.<$12><$00>
 
 
+//<CLEAR>アレが　ナニの時にも　どーぞ∥<$12><$00>
+<CLEAR>Come back any time!<$12><$00>
 
 
+//<$15>Y肉＿屋／メニュー<$00>
+<$15>YMeat／Menu<$00>
 
 
-<CLEAR>
-//腹が減った時、体の調子が悪い時、\nお気軽に　お立ち寄りください
-Whether you're hungry or weary,\n
-I'm here to serve you!
-<$12>
-<$00>
+//<$01>買＿う<$0E>\n<$01>売＿る<$0E>\n<$01>作＿る<$0E>\n<$01>やめる<$0E><$00>
+<$01>Buy<$0E>\n
+<$01>Sell<$0E>\n
+<$01>Make<$0E>\n
+<$01>Exit<$0E><$00>
 
 
+//<$15>Y肉＿屋／買＿う<$00>
+<$15>YMeat／Buy<$00>
 
 
+//<$15>Y肉＿屋／売＿る<$00>
+<$15>YMeat／Sell<$00>
 
 
-<CLEAR>
-//動物を売るときは　自分で\n食料や装備に　加工してから売ると、\n手間賃分だけ　ちょっとお得ですよ
-You'll make more money if you process an\n
-animal into food or gear before selling it.
-<$12>
-<$00>
+//<$15>Y肉＿屋／作＿る<$00>
+<$15>YMeat／Make<$00>
 
 
+//<CLEAR>次は凄いヤツを　仕入れておきますから\nこりずに　また、どうぞ<$12><$00>
+<CLEAR>Don't you worry, I'll have even better stock next time!<$12><$00>
 
 
+//<$15>Y装備屋／メニュー<$00>
+<$15>YEquipment／Menu<$00>
 
 
-<CLEAR>
-//アレが　ナニの時にも　どーぞ∥
-Come back any time!
-<$12>
-<$00>
+//<$01>買＿う<$0E>\n<$01>売＿る<$0E>\n<$01>作＿る<$0E>\n<$01>やめる<$0E><$00>
+<$01>Buy<$0E>\n
+<$01>Sell<$0E>\n
+<$01>Make<$0E>\n
+<$01>Exit<$0E><$00>
 
 
+//<$15>Y装備屋／買＿う<$00>
+<$15>YEquipment／Buy<$00>
 
 
+//<$15>Y装備屋／売＿る<$00>
+<$15>YEquipment／Sell<$00>
 
 
-//
-<$15>
-//Y肉＿屋／メニュー
-YMeat／Menu
-<$00>
+//<$15>Y装備屋／加＿工<$00>
+<$15>YEquipment／Craft<$00>
 
 
+//<$15>Y装備屋<$00>
+<$15>YEquipment<$00>
 
 
-
-
-<$01>
-//買＿う
-Buy
-<$0E>
-//\n
-\n
-<$01>
-//売＿る
-Sell
-<$0E>
-//\n
-\n
-<$01>
-//作＿る
-Make
-<$0E>
-//\n
-\n
-<$01>
-//やめる
-Exit
-<$0E>
-<$00>
-
-
-
-
-
-
-//
-<$15>
-//Y肉＿屋／買＿う
-YMeat／Buy
-<$00>
-
-
-
-
-
-
-//
-<$15>
-//Y肉＿屋／売＿る
-YMeat／Sell
-<$00>
-
-
-
-
-
-
-//
-<$15>
-//Y肉＿屋／作＿る
-YMeat／Make
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//次は凄いヤツを　仕入れておきますから\nこりずに　また、どうぞ
-Don't you worry, I'll have even better stock\n
-next time!
-<$12>
-<$00>
-
-
-
-
-
-
-//
-<$15>
-//Y装備屋／メニュー
-YEquipment／Menu
-<$00>
-
-
-
-
-
-
-<$01>
-//買＿う
-Buy
-<$0E>
-//\n
-\n
-<$01>
-//売＿る
-Sell
-<$0E>
-//\n
-\n
-<$01>
-//作＿る
-Make
-<$0E>
-//\n
-\n
-<$01>
-//やめる
-Exit
-<$0E>
-<$00>
-
-
-
-
-
-
-//
-<$15>
-//Y装備屋／買＿う
-YEquipment／Buy
-<$00>
-
-
-
-
-
-
-//
-<$15>
-//Y装備屋／売＿る
-YEquipment／Sell
-<$00>
-
-
-
-
-
-
-//
-<$15>
-//Y装備屋／加＿工
-YEquipment／Craft
-<$00>
-
-
-
-
-
-
-//
-<$15>
-//Y装備屋
-YEquipment
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//頭のテッペンから、爪先まで\n装備のことなら　何でもご用命ください\n
-From head to toe,\n
+//<CLEAR>頭のテッペンから、爪先まで\n装備のことなら　何でもご用命ください\n<$01>取引する<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
+<CLEAR>From head to toe,\n
 we've got you covered!\n
-<$01>
-//取引する
-Shop
-<$0E>
-//／
-／
-<$01>
-//雑談する
-Chat
-<$0E>
-//／
-／
-<$01>
-//やめとく
-Exit
-<$0E>
-<$00>
+<$01>Shop<$0E>／<$01>Chat<$0E>／<$01>Exit<$0E><$00>
 
 
+//<$15>Y装備屋<$00>
+<$15>YEquipment<$00>
 
 
+//<CLEAR>動物を売るときは　自分で\n食料や装備に　加工してから売ると、\n手間賃分だけ　ちょっとお得ですよ<$12><$00>
+<CLEAR>You'll make more money if you process an animal into food or\n
+gear before selling it.<$12><$00>
 
 
-//
-<$15>
-//Y装備屋
-YEquipment
-<$00>
+//<CLEAR>装備のつけ忘れに　ご注意を！<$12><$00>
+<CLEAR>Don't forget to equip your new gear!<$12><$00>
 
 
+//<CLEAR>ありがとうございました\nお気をつけて！<$12><$00>
+<CLEAR>Thank you!\n
+Watch your backs out there!<$12><$00>
 
 
+//<$15>Y動物商<$00>
+<$15>YAnimal Trader<$00>
 
 
-<CLEAR>
-//動物を売るときは　自分で\n食料や装備に　加工してから売ると、\n手間賃分だけ　ちょっとお得ですよ
-You'll make more money if you process an\n
-animal into food or gear before selling it.
-<$12>
-<$00>
+//<CLEAR>余っている動物は　いませんですか？\n高額で　引き取りますよ<$00>
+<CLEAR>Not satisfied with your animal collection? Let's trade!<$00>
 
 
-
-
-
-
-<CLEAR>
-//装備のつけ忘れに　ご注意を！
-Don't forget to equip your new gear!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ありがとうございました\nお気をつけて！
-Thank you!\n
-Watch your backs out there!
-<$12>
-<$00>
-
-
-
-
-
-
-//
-<$15>
-//Y動物商
-YAnimal Trader
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//余っている動物は　いませんですか？\n高額で　引き取りますよ
-Not satisfied with your animal collection?\n
-Let's trade!
-<$00>
-
-
-
-
-
-
-//\n
+//\n<$01>取引する<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
 \n
-<$01>
-//取引する
-Shop
-<$0E>
-//／
-／
-<$01>
-//雑談する
-Chat
-<$0E>
-//／
-／
-<$01>
-//やめとく
-Exit
-<$0E>
-<$00>
+<$01>Shop<$0E>／<$01>Chat<$0E>／<$01>Exit<$0E><$00>
 
 
+//<$15>Y動物商<$00>
+<$15>YAnimal Trader<$00>
 
 
+//<CLEAR>珍しいのも　たまに入荷するから\nちょくちょく　覗いてみてよ<$12><$00>
+<CLEAR>Occasionally, we'll get rare animals in stock, so check\n
+back often!<$12><$00>
 
 
-//
-<$15>
-//Y動物商
-YAnimal Trader
-<$00>
+//<$15>Y動物商／メニュー<$00>
+<$15>YAnimal／Menu<$00>
 
 
+//<$01>買＿う<$0E>\n<$01>売＿る<$0E>\n<$01>やめる<$0E><$00>
+<$01>Buy<$0E>\n
+<$01>Sell<$0E>\n
+<$01>Exit<$0E><$00>
 
 
+//<$15>Y動物商／買＿う<$00>
+<$15>YAnimal／Buy<$00>
 
 
-<CLEAR>
-//珍しいのも　たまに入荷するから\nちょくちょく　覗いてみてよ
-Occasionally, we'll get rare animals in\n
-stock, so check back often!
-<$12>
-<$00>
+//<$15>Y動物商／売＿る<$00>
+<$15>YAnimal／Sell<$00>
 
 
-
-
-
-
-//
-<$15>
-//Y動物商／メニュー
-YAnimal／Menu
-<$00>
-
-
-
-
-
-
-<$01>
-//買＿う
-Buy
-<$0E>
-//\n
-\n
-<$01>
-//売＿る
-Sell
-<$0E>
-//\n
-\n
-<$01>
-//やめる
-Exit
-<$0E>
-<$00>
-
-
-
-
-
-
-//
-<$15>
-//Y動物商／買＿う
-YAnimal／Buy
-<$00>
-
-
-
-
-
-
-//
-<$15>
-//Y動物商／売＿る
-YAnimal／Sell
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1D><$15>
-//Wは\nＡ級保護動物のため\n取り引きできません
-W＿cannot be traded.\n
+//<CLEAR><$1D><$15>Wは\nＡ級保護動物のため\n取り引きできません<$12><$00>
+<CLEAR><$1D><$15>W＿cannot be traded.\n
 Class A species\n
-trading is prohibited!
-<$12>
-<$00>
+trading is prohibited!<$12><$00>
 
 
-
-
-
-
-//  %8d
-%8d
-<$00>
-
-
-
-
+//  %8d<$00>
+  %8d<$00>
 
 
 TUCHO_0.TMZ
@@ -4290,1527 +1730,508 @@ TUCHO_1.TMZ
 
 
 
-<CLEAR>
-//
-<$04><$09>
-//1
-1
-<$15>
-//H
-H
-<$00>
+//<CLEAR><$04><$09>1<$15>H<$00>
+<CLEAR><$04><$09>1<$15>H<$00>
 
 
+//引き出し<$00>
+W/drawal<$00>
 
 
+//<$02>64返＿済<$00>
+<$02>64Repayment<$00>
 
 
-//引き出し
-W/drawal
-<$00>
+//<$02>64利＿子<$00>
+<$02>64Interest<$00>
 
 
+//預け入れ<$00>
+Deposit<$00>
 
 
+//<$02>64給＿料<$00>
+<$02>64Wages<$00>
 
 
-<$02>
-//64返＿済
-64Repayment
-<$00>
+//<$02>64利＿息<$00>
+<$02>64Overhead<$00>
 
 
+//闘犬給金<$00>
+Arena Pay<$00>
 
 
+//<$02>64賞＿金<$00>
+<$02>64Prize<$00>
 
 
-<$02>
-//64利＿子
-64Interest
-<$00>
+//<$02>64賞＿与<$00>
+<$02>64Bonus<$00>
 
 
-
-
-
-
-//預け入れ
-Deposit
-<$00>
-
-
-
-
-
-
-<$02>
-//64給＿料
-64Wages
-<$00>
-
-
-
-
-
-
-<$02>
-//64利＿息
-64Overhead
-<$00>
-
-
-
-
-
-
-//闘犬給金
-Arena Pay
-<$00>
-
-
-
-
-
-
-<$02>
-//64賞＿金
-64Prize
-<$00>
-
-
-
-
-
-
-<$02>
-//64賞＿与
-64Bonus
-<$00>
-
-
-
-
-
-
-//\n
+//\n<$02>8<$1E>34<$06>・<$04><$1D><$02>58<$1D><$02>118<$06><$15>H<$1D><$00>
 \n
-<$02>
-//8
-8
-<$1E>
-//34
-34
-<$06>
-//・
-・
-<$04><$1D><$02>
-//58
-58
-<$1D><$02>
-//118
-118
-<$06><$15>
-//H
-H
-<$1D>
-<$00>
+<$02>8<$1E>34<$06>・<$04><$1D><$02>58<$1D><$02>118<$06><$15>H<$1D><$00>
 
 
+//<$02>202<$1D><$1D><$15>H<$00>
+<$02>202<$1D><$1D><$15>H<$00>
 
 
+//<CLEAR>いらっしゃいませ！　創立<$1E>周年\n皆様のネオケニア銀行です<$00>
+<CLEAR>Serving Neo Kenya＿<$1E>＿years strong,\n
+this is Neo Kenya Bank!<$00>
 
 
-<$02>
-//202
-202
-<$1D><$1D><$15>
-//H
-H
-<$00>
+//<CLEAR>いらっしゃいませ！　皆様の心の中に\n永遠に生き続ける　ネオケニア銀行です<$00>
+<CLEAR>Serving Neo Kenya forever in our\n
+hearts, this is Neo Kenya Bank!<$00>
 
 
+//<CLEAR>他に　ご用はございますか？<$00>
+<CLEAR>Can I help with anything else?<$00>
 
 
-
-
-<CLEAR>
-//いらっしゃいませ！　創立
-Serving Neo Kenya＿
-<$1E>
-//周年\n皆様のネオケニア銀行です
-＿years strong,\n
-this is Neo Kenya Bank!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//いらっしゃいませ！　皆様の心の中に\n永遠に生き続ける　ネオケニア銀行です
-Serving Neo Kenya forever in our\n
-hearts, this is Neo Kenya Bank!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//他に　ご用はございますか？
-Can I help with anything else?
-<$00>
-
-
-
-
-
-
-//\n
+//\n<$01>引出<$0E><$06>／<$04><$01>入金<$0E><$06>／<$04><$01>融資<$0E><$06>／<$04><$01>返済<$0E><$06>／<$04><$01>通帳<$0E><$06>／<$04><$01>雑談<$0E><$06>／<$04><$01>帰る<$0E><$00>
 \n
-<$01>
-//引出
-Withdraw
-<$0E><$06>
-//／
-／
-<$04><$01>
-//入金
-Deposit
-<$0E><$06>
-//／
-／
-<$04><$01>
-//融資
-Loan
-<$0E><$06>
-//／
-／
-<$04><$01>
-//返済
-Repay
-<$0E><$06>
-//／
-／
-<$04><$01>
-//通帳
-Statement
-<$0E><$06>
-//／
-／
-<$04><$01>
-//雑談
-Chat
-<$0E><$06>
-//／
-／
-<$04><$01>
-//帰る
-Exit
-<$0E>
-<$00>
+<$01>Withdraw<$0E><$06>／<$04><$01>Deposit<$0E><$06>／<$04><$01>Loan<$0E><$06>／<$04><$01>Repay<$0E><$06>／<$04><$01>Statement<$0E><$06>／<$04><$01>Chat<$0E><$06>／<$04><$01>Exit<$0E><$00>
 
 
+//<CLEAR>お金が心細いときは　使い道のない\n半端な動物を　処分するか、当行の\n安心低利の融資を　ご利用ください<$12><$00>
+<CLEAR>If you need extra money, consider selling animals or taking\n
+low-interest loans.<$12><$00>
 
 
+//<CLEAR>給料の受取りを　お忘れなく！<$12><$00>
+<CLEAR>Don't forget your paystub!<$12><$00>
 
 
-<CLEAR>
-//お金が心細いときは　使い道のない\n半端な動物を　処分するか、当行の\n安心低利の融資を　ご利用ください
-If you need extra money, consider selling\n
-animals or taking low-interest loans.
-<$12>
-<$00>
+//<CLEAR>またの御利用を　お待ち申し上げます<$12><$00>
+<CLEAR>We look forward to your next visit.<$12><$00>
 
 
+//<CLEAR>長らくの御愛顧\nありがとう　ございました<$12><$00>
+<CLEAR>Thank you for your loyal patronage.<$12><$00>
 
 
+//<CLEAR>現在、お客様の口座は　勝手ながら\n取引きを　停止させていただいております\nお早目の返済を　お願い致します<$12><$00>
+<CLEAR>Your account is currently suspended until outstanding\n
+balances are repaid.<$12><$00>
 
 
-<CLEAR>
-//給料の受取りを　お忘れなく！
-Don't forget your paystub!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//またの御利用を　お待ち申し上げます
-We look forward to your next visit.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//長らくの御愛顧\nありがとう　ございました
-Thank you for your loyal patronage.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//現在、お客様の口座は　勝手ながら\n取引きを　停止させていただいております\nお早目の返済を　お願い致します
-Your account is currently suspended until\n
-outstanding balances are repaid.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//現在の預金残高は　
-Balance:＿
-<$06><$1E><$04>
-//￥です\n入金額は　おいくらですか？\n持金
-￥.\n
+//<CLEAR>現在の預金残高は　<$06><$1E><$04>￥です\n入金額は　おいくらですか？\n持金<$1E>40￥→入金<$01><$1E>40￥<$00>
+<CLEAR>Balance:＿<$06><$1E><$04>￥.\n
 How much will you deposit?\n
-<$1E>
-//40￥→入金
-40￥→
-<$01><$1E>
-//40￥
-40
-<$00>
+<$1E>40￥→<$01><$1E>40<$00>
 
 
+//<CLEAR><$06><$1E><$04>￥の入金ですね\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
+<CLEAR><$06><$1E><$04>￥, is that correct?\n
+<$01>Yes<$0E>／<$01>No<$0E><$00>
 
 
+//<CLEAR>現在の預金残高は　<$06><$1E><$04>￥です<$12><$00>
+<CLEAR>Balance:＿<$06><$1E><$04>￥.<$12><$00>
 
 
-<CLEAR>
-//
-<$06><$1E><$04>
-//￥の入金ですね\n
-￥, is that correct?\n
-<$01>
-//は＿い
-Yes
-<$0E>
-//／
-／
-<$01>
-//いいえ
-No
-<$0E>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//現在の預金残高は　
-Balance:＿
-<$06><$1E><$04>
-//￥です
-￥.
-<$12>
-<$00>
-
-
-
-
-
-
-//\nそれでも　お引出しになりたい？？\nそれは　強盗って言うんですよ
+//\nそれでも　お引出しになりたい？？\nそれは　強盗って言うんですよ<$12><$00>
 \n
-Withdrawing more than that? That's what we\n
-call "robbery".
-<$12>
-<$00>
+Withdrawing more than that? That's what we call\n
+"robbery".<$12><$00>
 
 
+//<CLEAR>まっ　珍しかないですけどね…<$12><$00>
+<CLEAR>Hmm, how often do we see this...<$12><$00>
 
 
-
-
-<CLEAR>
-//まっ　珍しかないですけどね…
-Hmm, how often do we see this...
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//現在の預金残高は　
-Balance:＿
-<$06><$1E><$04>
-//￥です\n引出額は　おいくらですか？\n持金
-￥\n
+//<CLEAR>現在の預金残高は　<$06><$1E><$04>￥です\n引出額は　おいくらですか？\n持金<$1E>40￥←引出<$01><$1E>40￥<$00>
+<CLEAR>Balance:＿<$06><$1E><$04>￥\n
 How much will you withdraw?\n
-<$1E>
-//40￥←引出
-40￥←
-<$01><$1E>
-//40￥
-40
-<$00>
+<$1E>40￥←<$01><$1E>40<$00>
 
 
+//<CLEAR><$06><$1E><$04>￥のお引出しですね\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
+<CLEAR><$06><$1E><$04>￥ will be withdrawn.\n
+<$01>Yes<$0E>／<$01>No<$0E><$00>
 
 
+//<CLEAR>現在の預金残高は　<$06><$1E><$04>￥です\n追加融資は　お受けできかねます\nご了承ください<$12><$00>
+<CLEAR>Balance:＿<$06><$1E><$04>￥\n
+Additional loans cannot be taken.<$12><$00>
 
 
-<CLEAR>
-//
-<$06><$1E><$04>
-//￥のお引出しですね\n
-￥ will be withdrawn.\n
-<$01>
-//は＿い
-Yes
-<$0E>
-//／
-／
-<$01>
-//いいえ
-No
-<$0E>
-<$00>
+//<CLEAR>現在の返済残高は　<$06><$1E><$04>￥です\n追加融資は　お受けできかねます\nご了承ください<$12><$00>
+<CLEAR>Balance:＿<$06><$1E><$04>￥\n
+Additional loans cannot be taken.<$12><$00>
 
 
+//<CLEAR>死神衝突まで　１年を切りましたので\n融資は　終了させていただきました\nご了承ください<$12><$00>
+<CLEAR>With less than a year before the Grim Reaper's impact, all\n
+loans have been terminated.<$12><$00>
 
 
-
-
-<CLEAR>
-//現在の預金残高は　
-Balance:＿
-<$06><$1E><$04>
-//￥です\n追加融資は　お受けできかねます\nご了承ください
-￥\n
-Additional loans cannot be taken.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//現在の返済残高は　
-Balance:＿
-<$06><$1E><$04>
-//￥です\n追加融資は　お受けできかねます\nご了承ください
-￥\n
-Additional loans cannot be taken.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//死神衝突まで　１年を切りましたので\n融資は　終了させていただきました\nご了承ください
-With less than a year before the Grim\n
-Reaper's impact, all loans have been\n
-terminated.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//現在の融資枠は　最大
-Loan limit:＿
-<$06><$1E><$04>
-//￥です\n融資希望額は　おいくらですか？\n持金
-￥\n
+//<CLEAR>現在の融資枠は　最大<$06><$1E><$04>￥です\n融資希望額は　おいくらですか？\n持金<$1E>40￥←融資<$01><$1E>40￥<$00>
+<CLEAR>Loan limit:＿<$06><$1E><$04>￥\n
 How much will you borrow?\n
-<$1E>
-//40￥←融資
-40￥←
-<$01><$1E>
-//40￥
-40
-<$00>
+<$1E>40￥←<$01><$1E>40<$00>
 
 
+//<CLEAR>融資額＿<$1E>40￥ですと　融資条件は\n季節利子<$1E>40￥　返済期限は来年<$1D>\n<$01>それでＯＫ<$0E>／<$01>融資額変更<$0E>／<$01>やめとく！<$0E><$00>
+<CLEAR>Great! That's＿<$1E>40￥ with seasonal interest.\n
+Repayment starts at＿<$1E>40￥ due next＿<$1D>.\n
+<$01>OK!<$0E>／<$01>Back<$0E>／<$01>Exit<$0E><$00>
 
 
+//<CLEAR>返済残高　<$06><$1E><$04>￥です<$12><$00>
+<CLEAR>You currently owe＿ <$06><$1E><$04>￥.<$12><$00>
 
 
-<CLEAR>
-//融資額＿
-Great! That's＿
-<$1E>
-//40￥ですと　融資条件は\n季節利子
-40￥ with seasonal interest.\n
-Repayment starts at＿
-<$1E>
-//40￥　返済期限は来年
-40￥ due next＿
-<$1D>
-.
-//\n
-\n
-<$01>
-//それでＯＫ
-OK!
-<$0E>
-//／
-／
-<$01>
-//融資額変更
-Back
-<$0E>
-//／
-／
-<$01>
-//やめとく！
-Exit
-<$0E>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//返済残高　
-You currently owe＿
-<$06><$1E><$04>
-//￥です
-￥.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//現在の返済残高は
-Balance:＿
-<$06><$1E><$04>
-//￥です\n返済額は　おいくらですか？\n持金
-￥\n
+//<CLEAR>現在の返済残高は　<$06><$1E><$04>￥です\n返済額は　おいくらですか？\n持金<$1E>40￥→返済<$01><$1E>40￥<$00>
+<CLEAR>Balance:＿<$06><$1E><$04>￥\n
 What will you repay?\n
-<$1E>
-//40￥→返済
-40￥→
-<$01><$1E>
-//40￥
-40￥
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$06><$1E><$04>
-//￥の返済ですね\n
-￥ will be repaid.\n
-<$01>
-//は＿い
-Yes
-<$0E>
-//／
-／
-<$01>
-//いいえ
-No
-<$0E>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//返済は　すべて完了しました\nありがとう　こざいます！
-All loans have been repaid.\n
-Thank you!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//返済残高は
-Balance:＿
-<$1E>
-//40￥\n季節利子は
-40￥\n
-Seasonal interest:＿
-<$1E>
-//40￥\n
-40￥\n
-<$00>
-
-
-
-
-
-
-//返済期限は今季節です　お急ぎください
-Remember, repayment is due this season.
-<$12>
-<$00>
-
-
-
-
-
-
-//返済期限は次の
-Remember, repayment is due in＿
-<$1D>
-//です　お忘れなく
-.
-<$12>
-<$00>
-
-
-
-
-
-
-//
-<$15>
-//Yホテル
-YHotel
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//お気をつけて！
-Take care!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//野宿は　危険ですよ
-Camping's dangerous, you know.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//いらっしゃいませ！　
-Welcome! Would you like\n
-a room for＿
-<$1D><$06><$1E><$04><$14>
-//￥で\nお部屋が　用意できますよ\n
-￥?\n
-<$01>
-//宿泊する
-Stay
-<$0E>
-//／
-／
-<$01>
-//雑談する
-Chat
-<$0E>
-//／
-／
-<$01>
-//やめとく
-Exit
-<$0E>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//お金が　足りないようですね
-You can't afford this, can you.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//お客様、戦えなくなった　猟犬のＨＰは\n宿泊や野営じゃ　戻りませんけど…\n
-I'm sorry, but dogs won't recover HP in\n
-hotels or camps.\n
-<$01>
-//知ってるよ
-I know that
-<$0E>
-//／
-／
-<$01>
-//ホントかよ
-Really?!
-<$0E>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//さしでがましいことを　申し上げ\nたいへん　失礼いたしました\nでは　ごゆっくり
-Ah, I see. Please forgive my outburst.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//専門のお医者さまを　お捜しになって\nなるべく早く\n治療して　さしあげてください
-Yes. Always seek a vet treat your dogs.
-<$12>
-<$00>
-
-
-
-
-
-
-//
-<$15>
-//YＢＡＲ
-YBar
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//何になさいます？　どれでも
-For＿
-<$1D><$06><$1E><$04><$14>
-//￥です\n
-￥, what'll it be?\n
-<$01><$1D><$1D><$02>
-//98
-98
-<$0E>
-//／
-／
-<$01><$1D><$1D><$02>
-//210
-210
-<$0E>
-//\n
-\n
-<$01><$1D><$1D><$02>
-//98
-98
-<$0E>
-//／
-／
-<$01>
-//どれもいらない
-No thanks.
-<$0E>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//また、どうぞ
-Come again!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ぼうや…\nタダ酒は　後で高くつくのが\n大人の世界の常識だぜ
-Careful, kiddo. Everyone pays the price for\n
-cheap liquor sooner or later.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ケンは
-Ken downed the\n
-<$1D><$1D>
-//を\nひといきに飲み干した
-\n
-in one gulp.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ケンの\n
-Ken's＿
-<$06>
-//HP 
-HP
-<$04>
-//全回復∥
-＿recovered fully!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ケンの\n
-Ken's＿
-<$06>
-//HP 
-HP recovered by＿
-<$1E><$04>
-//回復∥
-!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//もう　１杯いかがですか？\n
-Care for another?\n
-<$01><$1D><$1D><$02>
-//98
-98
-<$0E>
-//／
-／
-<$01><$1D><$1D><$02>
-//210
-210
-<$0E>
-//\n
-\n
-<$01><$1D><$1D><$02>
-//98
-98
-<$0E>
-//／
-／
-<$01>
-//もう、いらない
-No thanks.
-<$0E>
-<$00>
-
-
-
-
-
-
-//ロック
-＿shot
-<$00>
-
-
-
-
-
-
-//ジュース
-＿juice
-<$00>
-
-
-
-
-
-
-//ミルク
-＿milk
-<$00>
-
-
+<$1E>40￥→<$01><$1E>40￥<$00>
 
 
+//<CLEAR><$06><$1E><$04>￥の返済ですね\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
+<CLEAR><$06><$1E><$04>￥ will be repaid.\n
+<$01>Yes<$0E>／<$01>No<$0E><$00>
 
 
-//スープ
-＿soup
-<$00>
-
-
-
-
-
-
-//パンチ
-＿punch
-<$00>
-
-
-
-
-
-
-//カクテル
-＿cocktail
-<$00>
-
-
-
-
-
-
-//茶
-＿tea
-<$00>
-
-
-
-
-
-
-//コーラ
-＿malt
-<$00>
-
-
-
-
-
-
-//ビール
-＿beer
-<$00>
-
-
-
-
-
-
-//サワー
-＿shake
-<$00>
-
-
-
-
-
-
-//ソーダ
-＿soda
-<$00>
-
-
-
-
-
-
-//焼酎
-＿shochu
-<$00>
-
-
-
-
-
-
-<$1D>
-//　
-
-<$1E>
-//頭\n
-x\n
-<$00>
-
-
-
-
-
-
-//
-<$15>
-//Y貸しワナ屋
-YTrapping Service
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//どんな獲物が　捕まっているか\nドキドキしながら　待つ今が\n一番、楽しゅうございますですね
-That drumroll before finding out what you\n
-caught is the most exciting part about\n
-checking traps!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//いくら当店の「貸しワナ」が　優秀でも\n仕掛けなきゃ　獲物は永久に\n掛かりませんですよ…
-You miss 100% of the shots you don't take. If\n
-you rent a trap, don't forget to set it up!
-<$12>
-<$00>
+//<CLEAR>返済は　すべて完了しました\nありがとう　こざいます！<$12><$00>
+<CLEAR>All loans have been repaid.\n
+Thank you!<$12><$00>
 
 
-
-
-
-
-//当店自慢の「貸しワナ」で\n危険な動物も　安全にあなたのモノに∥\n
-Our service is great for safely snaring\n
-animals!\n
-<$01>
-//借りる＿
-Rent trap＿
-<$0E>
-//／
-／
-<$01>
-//雑談する
-Chat
-<$0E>
-//／
-／
-<$01>
-//やめとく
-Exit
-<$0E>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1D><$06><$1E><$04><$14>
-//￥　頂戴します\n
-￥ will be charged.\n
-<$01>
-//は＿い
-Yes
-<$0E>
-//／
-／
-<$01>
-//いいえ
-No
-<$0E>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//銀行で　お金を都合してください\nお待ちしておりますです
-Get money from the bank and come back. We'll\n
-work with you once you're ready.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//道具袋を　１つ空けてください\nお待ちしておりますです
-Please make space in your item bag. We'll\n
-work with you once you're ready.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-1
-<$15>
-//S<CLEAR>ケンは「貸しワナ」を受け取った
-S<CLEAR>Ken received\n
-the Rental Trap!
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//お客様は　ワナを仕掛けるだけ！\n回収のほうは　当店の無料サービス∥\n季節が変わったら　御来店ください
-Go set that trap. We'll retrieve it, so come\n
-back next season to see what you get!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//もうしわけありませんお客様
-We regret to inform you that nothing was\n
-found in the trap.
-<$12>
-\n
-<CLEAR>
-//貸しワナには何もかかっていませんでした\nまたのご利用をお待ちしています
-If you'd like try our services again, we'll\n
-work with you once you're ready.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//お待ちしておりましたよ∥　お客様∥\n今回の獲物は…
-We've been expecting you!\n
-This time, we found...
-<$12>
+//<CLEAR>返済残高は<$1E>40￥\n季節利子は<$1E>40￥\n<$00>
+<CLEAR>Balance:＿<$1E>40￥\n
+Seasonal interest:＿<$1E>40￥\n
 <$00>
 
 
+//返済期限は今季節です　お急ぎください<$12><$00>
+Remember, repayment is due this season.<$12><$00>
 
 
-
-
-<CLEAR>
-//…あらら\nカーゴを　２つ空けてください\nお待ちしておりますです
-Uh-oh! Someone needs to empty out his\n
-trans-cargo unit! Do so, and we'll work with\n
-you once you're ready.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-
-<$00>
+//返済期限は次の<$1D>です　お忘れなく<$12><$00>
+Remember, repayment is due in＿<$1D>.<$12><$00>
 
 
+//<$15>Yホテル<$00>
+<$15>YHotel<$00>
 
 
-//以上で　ごさいます
-That's all for now!
-<$12>
-\n
-<CLEAR>
-//またの御利用のほど　よろしく\nお願い致しますです
-Thank you for using our services!
-<$12>
-<$00>
+//<CLEAR>お気をつけて！<$12><$00>
+<CLEAR>Take care!<$12><$00>
 
 
+//<CLEAR>野宿は　危険ですよ<$12><$00>
+<CLEAR>Camping's dangerous, you know.<$12><$00>
 
 
+//<CLEAR>いらっしゃいませ！　<$1D><$06><$1E><$04><$14>￥で\nお部屋が　用意できますよ\n<$01>宿泊する<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
+<CLEAR>Welcome! Would you like\n
+a room for＿<$1D><$06><$1E><$04><$14>￥?\n
+<$01>Stay<$0E>／<$01>Chat<$0E>／<$01>Exit<$0E><$00>
 
 
-//クン、クンクン………？
-Sniff...sniff, sniff?
-<$12>
-\n
-<CLEAR>
-//
-<$1D>
-//のニオイが　するね\nそういえば、
-＿scent's filling the air. You know, I could\n
-go for some＿
-<$1D>
-//食まだだっけ…
-＿!
-<$12>
-<$00>
+//<CLEAR>お金が　足りないようですね<$12><$00>
+<CLEAR>You can't afford this, can you.<$12><$00>
 
 
+//<CLEAR>お客様、戦えなくなった　猟犬のＨＰは\n宿泊や野営じゃ　戻りませんけど…\n<$01>知ってるよ<$0E>／<$01>ホントかよ<$0E><$00>
+<CLEAR>I'm sorry, but dogs won't recover HP in hotels or camps.\n
+<$01>I know that<$0E>／<$01>Really?!<$0E><$00>
 
 
+//<CLEAR>さしでがましいことを　申し上げ\nたいへん　失礼いたしました\nでは　ごゆっくり<$12><$00>
+<CLEAR>Ah, I see. Please forgive my outburst.<$12><$00>
 
 
-//卵焼き
-fried eggs
-<$00>
+//<CLEAR>専門のお医者さまを　お捜しになって\nなるべく早く\n治療して　さしあげてください<$12><$00>
+<CLEAR>Yes. Always seek a vet treat your dogs.<$12><$00>
 
 
+//<$15>YＢＡＲ<$00>
+<$15>YBar<$00>
 
 
+//<CLEAR>何になさいます？　どれでも<$1D><$06><$1E><$04><$14>￥です\n<$01><$1D><$1D><$02>98<$0E>／<$01><$1D><$1D><$02>210<$0E>\n<$01><$1D><$1D><$02>98<$0E>／<$01>どれもいらない<$0E><$00>
+<CLEAR>For＿<$1D><$06><$1E><$04><$14>￥, what'll it be?\n
+<$01><$1D><$1D><$02>98<$0E>／<$01><$1D><$1D><$02>210<$0E>\n
+<$01><$1D><$1D><$02>98<$0E>／<$01>No thanks.<$0E><$00>
 
 
-//カレー
-curry
-<$00>
+//<CLEAR>また、どうぞ<$12><$00>
+<CLEAR>Come again!<$12><$00>
 
 
+//<CLEAR>ぼうや…\nタダ酒は　後で高くつくのが\n大人の世界の常識だぜ<$12><$00>
+<CLEAR>Careful, kiddo. Everyone pays the price for cheap liquor\n
+sooner or later.<$12><$00>
 
 
+//<CLEAR>ケンは<$1D><$1D>を\nひといきに飲み干した<$12><$00>
+<CLEAR>Ken downed the\n
+<$1D><$1D>\n
+in one gulp.<$12><$00>
 
 
-//焼き肉
-Neo Korean BBQ
-<$00>
+//<CLEAR>ケンの\n<$06>HP <$04>全回復∥<$12><$00>
+<CLEAR>Ken's＿<$06>HP<$04>＿recovered fully!<$12><$00>
 
 
+//<CLEAR>ケンの\n<$06>HP <$1E><$04>回復∥<$12><$00>
+<CLEAR>Ken's＿<$06>HP recovered by＿<$1E><$04>!<$12><$00>
 
 
+//<CLEAR>もう　１杯いかがですか？\n<$01><$1D><$1D><$02>98<$0E>／<$01><$1D><$1D><$02>210<$0E>\n<$01><$1D><$1D><$02>98<$0E>／<$01>もう、いらない<$0E><$00>
+<CLEAR>Care for another?\n
+<$01><$1D><$1D><$02>98<$0E>／<$01><$1D><$1D><$02>210<$0E>\n
+<$01><$1D><$1D><$02>98<$0E>／<$01>No thanks.<$0E><$00>
 
 
-//唐あげ
-karaage
-<$00>
+//ロック<$00>
+＿shot<$00>
 
 
+//ジュース<$00>
+＿juice<$00>
 
 
+//ミルク<$00>
+＿milk<$00>
 
 
-//お菓子
-candy
-<$00>
+//スープ<$00>
+＿soup<$00>
 
 
+//パンチ<$00>
+＿punch<$00>
 
 
+//カクテル<$00>
+＿cocktail<$00>
 
 
-//バナナ
-banana
-<$00>
+//茶<$00>
+＿tea<$00>
 
 
+//コーラ<$00>
+＿malt<$00>
 
 
+//ビール<$00>
+＿beer<$00>
 
 
-//フライ
-Neo French fries
-<$00>
+//サワー<$00>
+＿shake<$00>
 
 
+//ソーダ<$00>
+＿soda<$00>
 
 
+//焼酎<$00>
+＿shochu<$00>
 
 
-//焼き魚
-grilled fish
+//<$1D>　<$1E>頭\n<$00>
+<$1D>　<$1E>x\n
 <$00>
-
-
 
 
+//<$15>Y貸しワナ屋<$00>
+<$15>YTrapping Service<$00>
 
 
-//トマト
-tomato
-<$00>
+//<CLEAR>どんな獲物が　捕まっているか\nドキドキしながら　待つ今が\n一番、楽しゅうございますですね<$12><$00>
+<CLEAR>That drumroll before finding out what you caught is the\n
+most exciting part about checking traps!<$12><$00>
 
 
+//<CLEAR>いくら当店の「貸しワナ」が　優秀でも\n仕掛けなきゃ　獲物は永久に\n掛かりませんですよ…<$12><$00>
+<CLEAR>You miss 100% of the shots you don't take. If you rent a\n
+trap, don't forget to set it up!<$12><$00>
 
 
+//当店自慢の「貸しワナ」で\n危険な動物も　安全にあなたのモノに∥\n<$01>借りる＿<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
+Our service is great for safely snaring animals!\n
+<$01>Rent trap＿<$0E>／<$01>Chat<$0E>／<$01>Exit<$0E><$00>
 
 
-//バター
-butter
-<$00>
+//<CLEAR><$1D><$06><$1E><$04><$14>￥　頂戴します\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
+<CLEAR><$1D><$06><$1E><$04><$14>￥ will be charged.\n
+<$01>Yes<$0E>／<$01>No<$0E><$00>
 
 
+//<CLEAR>銀行で　お金を都合してください\nお待ちしておりますです<$12><$00>
+<CLEAR>Get money from the bank and come back. We'll work with\n
+you once you're ready.<$12><$00>
 
 
+//<CLEAR>道具袋を　１つ空けてください\nお待ちしておりますです<$12><$00>
+<CLEAR>Please make space in your item bag. We'll work with you\n
+once you're ready.<$12><$00>
 
 
-//ソース
-sauce
-<$00>
+//<CLEAR><$19>1<$15>S<CLEAR>ケンは「貸しワナ」を受け取った<$14><$12><$00>
+<CLEAR><$19>1<$15>S<CLEAR>Ken received\n
+the Rental Trap!<$14><$12><$00>
 
 
+//<CLEAR>お客様は　ワナを仕掛けるだけ！\n回収のほうは　当店の無料サービス∥\n季節が変わったら　御来店ください<$12><$00>
+<CLEAR>Go set that trap. We'll retrieve it, so come back next\n
+season to see what you get!<$12><$00>
 
 
+//<CLEAR>もうしわけありませんお客様<$12>\n<CLEAR>貸しワナには何もかかっていませんでした\nまたのご利用をお待ちしています<$12><$00>
+<CLEAR>We regret to inform you that nothing was found in the trap.<$12>\n
+<CLEAR>If you'd like try our services again, we'll work with you once\n
+you're ready.<$12><$00>
 
 
-//スープ
-＿soup
-<$00>
+//<CLEAR>お待ちしておりましたよ∥　お客様∥\n今回の獲物は…<$12><$00>
+<CLEAR>We've been expecting you!\n
+This time, we found...<$12><$00>
 
 
+//<CLEAR>…あらら\nカーゴを　２つ空けてください\nお待ちしておりますです<$12><$00>
+<CLEAR>Uh-oh! Someone needs to empty out his trans-cargo unit! Do\n
+so, and we'll work with you once you're ready.<$12><$00>
 
 
+//<CLEAR><$00>
+<CLEAR><$00>
 
 
-//ピラフ
-pilaf
-<$00>
+//以上で　ごさいます<$12>\n<CLEAR>またの御利用のほど　よろしく\nお願い致しますです<$12><$00>
+That's all for now!<$12>\n
+<CLEAR>Thank you for using our services!<$12><$00>
 
 
+//クン、クンクン………？<$12>\n<CLEAR><$1D>のニオイが　するね\nそういえば、<$1D>食まだだっけ…<$12><$00>
+Sniff...sniff, sniff?<$12>\n
+<CLEAR><$1D>＿scent's filling the air. You know, I could go for\n
+some＿<$1D>＿!<$12><$00>
 
 
+//卵焼き<$00>
+fried eggs<$00>
 
 
-//バニラ
-vanilla
-<$00>
+//カレー<$00>
+curry<$00>
 
 
+//焼き肉<$00>
+Neo Korean BBQ<$00>
 
 
+//唐あげ<$00>
+karaage<$00>
 
 
-//キムチ
-kimchi
-<$00>
+//お菓子<$00>
+candy<$00>
 
 
+//バナナ<$00>
+banana<$00>
 
 
+//フライ<$00>
+Neo French fries<$00>
 
 
-//チーズ
-cheese
-<$00>
+//焼き魚<$00>
+grilled fish<$00>
 
 
+//トマト<$00>
+tomato<$00>
 
 
+//バター<$00>
+butter<$00>
 
 
-//朝
-breakfast
-<$00>
+//ソース<$00>
+sauce<$00>
 
 
+//スープ<$00>
+＿soup<$00>
 
 
+//ピラフ<$00>
+pilaf<$00>
 
 
-//昼
-lunch
-<$00>
+//バニラ<$00>
+vanilla<$00>
 
 
+//キムチ<$00>
+kimchi<$00>
 
 
+//チーズ<$00>
+cheese<$00>
 
 
-//夕
-dinner
-<$00>
+//朝<$00>
+breakfast<$00>
 
 
+//昼<$00>
+lunch<$00>
 
 
+//夕<$00>
+dinner<$00>
 
 
 #WRITE(PTR, $0046)
-//
-<$15>
-//Y動物情報
-YAnimal＿
-<$06>
-//サービス
-Search
-<$00>
+//<$15>Y動物情報<$06>サービス<$00>
+<$15>YAnimal＿<$06>Search<$00>
 
 
+//<CLEAR>検索ナサイマスカ？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
+<CLEAR>USE THE SEARCH ENGINE?\n
+<$01>Yes<$0E>／<$01>No<$0E><$00>
 
 
+//<CLEAR><$00>
+<CLEAR><$00>
 
 
-<CLEAR>
-//検索ナサイマスカ？\n
-USE THE SEARCH ENGINE?\n
-<$01>
-//は＿い
-Yes
-<$0E>
-//／
-／
-<$01>
-//いいえ
-No
-<$0E>
-<$00>
+//<$01><$1D><$0E><$00>
+<$01><$1D><$0E><$00>
 
 
+//<CLEAR><$00>
+<CLEAR><$00>
 
 
+// <$00>
+ <$00>
 
 
-<CLEAR>
-
-<$00>
-
+//<$16><$01><$1D><$02>56<$0E>　<$01><$1D><$02>120<$0E>　<$01><$1D><$02>184<$0E>　<$01><$1D><$02>248<$0E><$00>
+<$16><$01><$1D><$02>56<$0E>　<$01><$1D><$02>120<$0E>　<$01><$1D><$02>184<$0E>　<$01><$1D><$02>248<$0E><$00>
 
 
-
-<$01><$1D><$0E>
-<$00>
-
-
+//<CLEAR><$02>20<$03>8写真資料\n<$02>34なし<$00>
+<CLEAR><$02>20<$03>8REF:\n
+<$02>34N/A<$00>
 
 
-<CLEAR>
-
-<$00>
-
-
-
-
-// 
-
-<$00>
-
-
-
-
-
-
-<$16><$01><$1D><$02>
-//56
-56
-<$0E>
-//　
-
-<$01><$1D><$02>
-//120
-120
-<$0E>
-//　
-
-<$01><$1D><$02>
-//184
-184
-<$0E>
-//　
-
-<$01><$1D><$02>
-//248
-248
-<$0E>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$02>
-//20
-20
-<$03>
-//8写真資料\n
-8REF:\n
-<$02>
-//34なし
-34N/A
-<$00>
-
-
-
-
-
-
-<$03>
-//164
-164
-<$02>
-//56
-56
-<$15>
-//K○ボタンで♂♀表示切り替え
-K○ button: ♂/♀
-<$14>
-<$00>
-
-
-
-
+//<$03>164<$02>56<$15>K○ボタンで♂♀表示切り替え<$14><$00>
+<$03>164<$02>56<$15>K○ button: ♂/♀<$14><$00>
 
 
 

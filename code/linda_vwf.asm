@@ -14,6 +14,9 @@
 .org 0x8004c9e8
 	j GetLetWidthForLargeLetter
 	
+.org 0x8004c970
+	j GetLetWidthForLargeLetterSJIS
+	
 .org 0x800489d0
 	j GetCurWidthForLargeLetter
 	nop
@@ -54,6 +57,16 @@ GetLetWidth:
 	
 GetLetWidthForLargeLetter:
 	lhu a0, 0x002c(sp)
+	nop
+	jal GetLetterWidth
+	nop
+	
+	la t0, curLetWidth
+	j 0x8004ca4c
+	sb v0, 0(t0)
+	
+GetLetWidthForLargeLetterSJIS:
+	lhu a0, 0x002e(sp)
 	nop
 	jal GetLetterWidth
 	nop

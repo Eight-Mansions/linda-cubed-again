@@ -209,2268 +209,827 @@ kao_s5.obj
 
 
 #WRITE(PTR, $0024)
-//第２病棟１Ｆ
-Ward 2 1F＿
-<$00>
+//第２病棟１Ｆ<$00>
+Ward 2 1F＿<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
+//<CLEAR><$06>10<$04>年以上前になるかな…\nハッスルⅡっていう　興奮剤が\nハンターを中心に　流行したんだよ<$12>\n<CLEAR>ハッスルⅡ１粒で　<$1B>サイや<$1B>オオカミと\nタメ張れるほど　攻撃力が上がるんだ<$12>\n<CLEAR>みんな競うように　飲みまくった…\n副作用で　精神も肉体も　ボロボロに\nなることが　わかった後でもな<$12><$00>
+<CLEAR><$06>Ten<$04>＿or so years ago, a stimulant known as Hustle Ⅱ\n
+boomed among hunters. <$12>\n
+<CLEAR>A single drop of Hustle Ⅱ could boost your strength to\n
+take on a＿rhino or a＿wolf!<$12>\n
+<CLEAR>Everyone was downing it, even after learning that it fries\n
+the brain and body.\n
+<CLEAR>Hunting is just that competitive...<$12><$00>
 
 
+//今はこの病院も　患者より医者が\n多いくらいなんだけど　ハッスルⅡの\n全盛期は　凄まじいモンだったわよ<$12>\n<CLEAR>だってベッドが足んなくて　ここの\n廊下に　患者が　<$06>200<$04>人くらい\nマットもなしで　ころがってたものね<$12><$00>
+This hospital has more doctors than patients now, but you\n
+should've seen it before!<$12>\n
+<CLEAR>When Hustle Ⅱ was legal, there weren't enough beds. We\n
+had maybe＿<$06>200<$04>＿patients on mats in the hall!<$12><$00>
 
 
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
+//世界中で一番　美しいカーブは\n間違いなく　妊婦のお腹のカーブだよ<$12>\n<CLEAR>とくに　出産１ヶ月前あたりが良いなぁ\nその中でも　最高に美しいのは　亀腹∥\nあれは　まさしく「神の技」だ<$12><$00>
+The most beautiful curve in the world is that of a\n
+pregnant woman's belly.<$12>\n
+<CLEAR>The curve is especially pleasing to the eye in that last\n
+month. <$12>\n
+<CLEAR>In second place, I like the curves on a handpan. Curves!\n
+Curves are God's gift!<$12><$00>
 
 
+//洞くつの中の動物たちは　普通は\n季節に影響を　うけることはない<$12>\n<CLEAR>ただ例外的に　特定の季節だけ\n洞くつを　住み家にする変わりダネも\n何種類かは　いるみたいだな<$12><$00>
+Animals living in caves don't normally respond to changes in\n
+the seasons.<$12>\n
+<CLEAR>That said, there are some species that only move into caves\n
+during certain seasons.<$12><$00>
 
 
+//町の中では　時間のことは\n考えなくていい！　だから、焦らず\nいろんな人の話を　聞きな<$12>\n<CLEAR>ただ、話の中身には　最初から\n期待しないほうが　無難だな\n噂、ウソ、自慢、愚痴、中傷ばかりサ<$12><$00>
+When in town, time doesn't matter! Take your time and get to\n
+know people!<$12>\n
+<CLEAR>Of course, don't expect much at first besides everyone\n
+moaning and groaning about the world.<$12><$00>
 
 
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$06>
-//10
-Ten
-<$04>
-//年以上前になるかな…\nハッスルⅡっていう　興奮剤が\nハンターを中心に　流行したんだよ
-＿or so years ago, a stimulant known as Hustle\n
-Ⅱ boomed among hunters.
-<$12>
-\n
-<CLEAR>
-//ハッスルⅡ１粒で　
-A single drop of Hustle Ⅱ could boost your\n
-strength to take on a＿
-//<$1B>
-//サイや
-rhino or a＿
-//<$1B>
-//オオカミと\nタメ張れるほど　攻撃力が上がるんだ
-wolf!
-<$12>
-\n
-<CLEAR>
-//みんな競うように　飲みまくった…\n副作用で　精神も肉体も　ボロボロに\nなることが　わかった後でもな
-Everyone was downing it, even after learning\n
-that it fries the brain and body.
-\n
-<CLEAR>
-Hunting is just that competitive...
-<$12>
-<$00>
-
-
-
-
-
-
-//今はこの病院も　患者より医者が\n多いくらいなんだけど　ハッスルⅡの\n全盛期は　凄まじいモンだったわよ
-This hospital has more doctors than patients\n
-now, but you should've seen it before!
-<$12>
-\n
-<CLEAR>
-//だってベッドが足んなくて　ここの\n廊下に　患者が　
-When Hustle Ⅱ was legal, there weren't enough\n
-beds. We had maybe＿
-<$06>
-//200
-200
-<$04>
-//人くらい\nマットもなしで　ころがってたものね
-＿patients on mats in the hall!
-<$12>
-<$00>
-
-
-
-
-
-
-//世界中で一番　美しいカーブは\n間違いなく　妊婦のお腹のカーブだよ
-The most beautiful curve in the world is that\n
-of a pregnant woman's belly.
-<$12>
-\n
-<CLEAR>
-The curve is especially pleasing to the eye\n
-in that last month.
-<$12>
-\n
-<CLEAR>
-//とくに　出産１ヶ月前あたりが良いなぁ\nその中でも　最高に美しいのは　亀腹∥\nあれは　まさしく「神の技」だ
-In second place, I like the curves on a\n
-handpan. Curves! Curves are God's gift!
-<$12>
-<$00>
-
-
-
-
-
-
-//洞くつの中の動物たちは　普通は\n季節に影響を　うけることはない
-Animals living in caves don't normally\n
-respond to changes in the seasons.
-<$12>
-\n
-<CLEAR>
-//ただ例外的に　特定の季節だけ\n洞くつを　住み家にする変わりダネも\n何種類かは　いるみたいだな
-That said, there are some species that only\n
-move into caves during certain seasons.
-<$12>
-<$00>
-
-
-
-
-
-
-//町の中では　時間のことは\n考えなくていい！　だから、焦らず\nいろんな人の話を　聞きな
-When in town, time doesn't matter! Take your\n
-time and get to know people!
-<$12>
-\n
-<CLEAR>
-//ただ、話の中身には　最初から\n期待しないほうが　無難だな\n噂、ウソ、自慢、愚痴、中傷ばかりサ
-Of course, don't expect much at first besides\n
-everyone moaning and groaning about the\n
-world.
-<$12>
-<$00>
-
-
-
-
-
-
-//ヒー　ヒー　フー、ヒー　ヒー　フー\nヒー　ヒー　フーで　いいんだよね？\n
+//ヒー　ヒー　フー、ヒー　ヒー　フー\nヒー　ヒー　フーで　いいんだよね？\n<$01>その通りです！<$0E>／<$01>何ですかソレ？<$0E><$00>
 Hee! Hee! Hoo! Hee! Hee! Hoo!\n
 Am I doing it right?\n
-<$01>
-//その通りです！
-Yep!
-<$0E>
-//／
-／
-<$01>
-//何ですかソレ？
-Doing what right?
-<$0E>
-<$00>
+<$01>Yep!<$0E>／<$01>Doing what right?<$0E><$00>
 
 
+//<CLEAR>いくら練習しても　本番じゃ\nなかなか　うまくできないんだよね<$12><$00>
+<CLEAR>No matter how hard I practice, there's no telling how I'll do\n
+in the real thing.<$12><$00>
 
 
+//<CLEAR>ヒー　ヒー　フッフだっけ？<$12><$00>
+<CLEAR>Going, "Hee! Hee! Hoo," duh!<$12><$00>
 
 
-<CLEAR>
-//いくら練習しても　本番じゃ\nなかなか　うまくできないんだよね
-No matter how hard I practice, there's no\n
-telling how I'll do in the real thing.
-<$12>
-<$00>
+//犯罪者になるなら　私ら妊婦と\nレンジャー隊は　うってつけだよね\nなにしろ誰も　顔を覚えてくれない<$12>\n<CLEAR>妊婦はお腹、レンジャー隊は制服…\nそれしか　見えなくなるらしいね\n不思議だよね？<$12><$00>
+If you ever want to commit a crime, become a ranger or\n
+get pregnant first.<$12>\n
+<CLEAR>No one remembers our faces, because all they see are\n
+bellies and uniforms. Silly, right?<$12><$00>
 
 
+//サチコさんの話を　よく聞いとくと\n退院後の　リンダさんの身の振り方の\nヒントになるんじゃないかと　思うよ<$12>\n<CLEAR>……あんたが　面倒みるんだろ？<$12><$00>
+If you ask Sachiko, she may give you good advice for after\n
+Linda's discharged.<$12>\n
+<CLEAR>You're going to be looking after Linda, aren't you?<$12><$00>
 
 
+//男親の心理は　非常に複雑でね\n子供が　自分に似ていれば似てたで\n何だか　心地が悪いし…<$12>\n<CLEAR>似てなければ　似てないで\nこれもまた　いろいろ勝手に考える…<$12>\n<CLEAR>見苦しいですな<$12><$00>
+New fathers have their own mental hangups, like being\n
+overly sensitive to their childs' looks.<$12>\n
+<CLEAR>If a child resembles them too much, they can get\n
+distrubed by the mirror image.<$12>\n
+<CLEAR>But, if the child isn't similar enough, the father can reject\n
+the child altogether.<$12>\n
+<CLEAR>It's too bad, really.<$12><$00>
 
 
-<CLEAR>
-//ヒー　ヒー　フッフだっけ？
-Going, "Hee! Hee! Hoo," duh!
-<$12>
-<$00>
-
-
-
-
-
-
-//犯罪者になるなら　私ら妊婦と\nレンジャー隊は　うってつけだよね\nなにしろ誰も　顔を覚えてくれない
-If you ever want to commit a crime, become a\n
-ranger or get pregnant first.
-<$12>
-\n
-<CLEAR>
-//妊婦はお腹、レンジャー隊は制服…\nそれしか　見えなくなるらしいね\n不思議だよね？
-No one remembers our faces, because all they\n
-see are bellies and uniforms. Silly, right?
-<$12>
-<$00>
-
-
-
-
-
-
-//サチコさんの話を　よく聞いとくと\n退院後の　リンダさんの身の振り方の\nヒントになるんじゃないかと　思うよ
-If you ask Sachiko, she may give you good\n
-advice for after Linda's discharged.
-<$12>
-\n
-<CLEAR>
-//……あんたが　面倒みるんだろ？
-You're going to be looking after Linda,\n
-aren't you?
-<$12>
-<$00>
-
-
-
-
-
-
-//男親の心理は　非常に複雑でね\n子供が　自分に似ていれば似てたで\n何だか　心地が悪いし…
-New fathers have their own mental hangups,\n
-like being overly sensitive to their childs'\n
-looks.
-<$12>
-\n
-<CLEAR>
-//似てなければ　似てないで\nこれもまた　いろいろ勝手に考える…
-If a child resembles them too much, they can\n
-get distrubed by the mirror image.
-<$12>
-\n
-<CLEAR>
-But, if the child isn't similar enough, the\n
-father can reject the child altogether.
-<$12>
-\n
-<CLEAR>
-//見苦しいですな
-It's too bad, really.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//サンタの衣装じゃ　ないからって\n私の目は　ごまかせないよ
-You might not be wearing a santa costume this\n
-time, but my eyes don't fool me.
-<$12>
-\n
-<CLEAR>
-//あんた、こないだサチコちゃんと\n親しげに話してた　人だろ？\nよしなよ、二股かけるのは
-You're the one who made a move on Sachiko,\n
-weren't you? You filthy two-timer!
-<$12>
-<$00>
-
-
-
-
+//<CLEAR>サンタの衣装じゃ　ないからって\n私の目は　ごまかせないよ<$12>\n<CLEAR>あんた、こないだサチコちゃんと\n親しげに話してた　人だろ？\nよしなよ、二股かけるのは<$12><$00>
+<CLEAR>You might not be wearing a santa costume this time,\n
+but my eyes don't fool me.<$12>\n
+<CLEAR>You're the one who made a move on Sachiko, weren't you?\n
+You filthy two-timer!<$12><$00>
 
 
 #WRITE(PTR, $0026)
-//第２病棟２Ｆ
-Ward 2 2F＿
-<$00>
+//第２病棟２Ｆ<$00>
+Ward 2 2F＿<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
+
+
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
+
+
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
+
+
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
+
+
+//院長先生に　聞いたんだけど　<$1E>2年前\nリンダさんて　新生児室の隣りの\nあの部屋で　生まれたんだってね<$12><$00>
+Director Chen told me that Linda was delivered in the room\n
+next to the nursery some＿<$1E>2 years earlier.<$12><$00>
+
+
+//フローラ博士のトコの　花って\n人間の言葉を　マネして\nしゃべるのよ…<$12>\n<CLEAR>あんな花で　花屋をつくったら\nにぎやかだろうけど　お客は\n気味悪がって　逃げ出しちゃうわね<$12><$00>
+The flowers in Dr. Flora's lab can mimic human speech.<$12>\n
+<CLEAR>But who wants flowers like that? Can't sell them. That\n
+liveliness will scare customers away.<$12><$00>
+
+
+//<CLEAR>私を訪ねていらした方に\nこんなことを　聞くのは\nとても失礼なんですが…<$00>
+<CLEAR>Forgive me for asking, especially if you came all this way to\n
+see me, but...<$00>
+
+
+//<CLEAR>あなたは　どなたですか？\n私と　どういう関係の方ですか？\n面倒でも　教えてください<$00>
+<CLEAR>...who are you? Are we related somehow? I hate to bother\n
+you, but please tell me.<$00>
+
+
+//<CLEAR><$19>1<$15>Sケンは　リンダに　子供の頃から\n今までのことを　ありのままに\n時間を掛けて　話した…<$14><$12><$00>
+<CLEAR><$19>1<$15>From childhood to present day, Ken took his time telling\n
+Linda all about their past.<$14><$12><$00>
+
+
+//<CLEAR>そうでしたか…<$00>
+<CLEAR>I see...<$00>
+
+
+//<CLEAR>あなたは　私の幼なじみ\nなのですね…　それから…\nあの…　つまり…<$00>
+<CLEAR>So, you're my childhood friend? My...life partner?<$00>
+
+
+//<CLEAR>私の事実上の婚約者…\nだったわけですね…<$00>
+<CLEAR>It almost sounds like...we're engaged, huh.<$00>
+
+
+//<CLEAR>ごめんなさい…<$00>
+<CLEAR>I'm so sorry.<$00>
+
+
+//<CLEAR>あなたは　親切だし　とても\nいい方だということは\nわかるのですが…<$00>
+<CLEAR>I can tell from your patience that you're a good person.<$00>
+
+
+//<CLEAR>本当に　ごめんなさい！\n正直なところ　全く\n思い出せないんです！<$00>
+<CLEAR>But I can't remember any of this! Not even my soulmate's\n
+face!<$00>
+
+
+//<CLEAR>恋人の顔も　覚えてないなんて…\nお腹立ちですよね？<$00>
+<CLEAR>God, you must hate me right now...<$00>
+
+
+//\n<$01>当たりめぇだ<$0E>／<$01>気にするなよ<$0E><$00>
 \n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+<$01>Yeah, I do!<$0E><$01>Don't worry<$0E><$00>
 
 
+//<CLEAR>本当にごめんなさい…\nでも　もし、いやじゃなければ\nまた　会いに来てください<$00>
+<CLEAR>If it's...not any trouble, would you come see me again?<$00>
 
 
+//<CLEAR>こんにちは！　ケンさん！<$00>
+<CLEAR>Hello, Ken!<$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
+//<CLEAR>先日、あなたから聞いた話を\nあれから　ひとりで思い出して\n私なりに　考えてみたんです<$00>
+<CLEAR>After our talk the other day, I've been thinking on my\n
+own about the story you told me.<$00>
+
+
+//<CLEAR>私ね、ヘンな話ですけど…\n記憶をなくす前の　もうひとりの\n私を　好きになりました<$00>
+<CLEAR>Now, this is a strange thing to say, surely, but I've come\n
+to like the other me, before she lost her memory.<$00>
+
+
+//<CLEAR>だって　ケンさん！　あなたを\n選んだ　もうひとりの私って\n見る目が　ありますものね！<$00>
+<CLEAR>I mean, to set her sights on a guy like you, the other me\n
+has impeccable taste.<$00>
+
+
+//<CLEAR>………………■<$12><$00>
+<CLEAR>.........■<$12><$00>
+
+
+//<CLEAR>また、ぜひいらしてください\n私、ずっと待ってますから…■<$00>
+<CLEAR>Please come and see me again.\n
+I'll be right here, waiting...■<$00>
+
+
+//<CLEAR>ケンさん！　私、もうすぐ\n退院して　いいそうなんです！\nそれで　あの…<$00>
+<CLEAR>Hello again! I heard I'll be discharged soon. Isn't that\n
+great?!<$00>
+
+
+//<CLEAR>もしも…<$00>
+<CLEAR>I was wondering...<$00>
+
+
+//<CLEAR>もしも　このまま　私の記憶が\n戻らなかったとしても　私…<$00>
+<CLEAR>Even if my memory doesn't come back, would you...<$00>
+
+
+//<CLEAR>あなたと　箱船に乗りたいんです\n連れてってもらえますか？<$00>
+<CLEAR>Would you still take me with you on the Astro Ark?<$00>
+
+
+//\n<$01>いいとも！<$0E>／<$01>ダメだよ！<$0E><$00>
 \n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
+<$01>Absolutely!<$0E>／<$01>No way<$0E><$00>
 
 
+//<CLEAR>あぁ…　よかった<$00>
+<CLEAR>Oh, I'm so happy!<$00>
 
 
+//<CLEAR>私、このままずっと　記憶が\n回復しなくても、神様を\n恨んだりしません<$00>
+<CLEAR>Even if my memories never come back, I can't be angry\n
+at God now.<$00>
 
 
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
+//<CLEAR>…感謝します∥<$00>
+<CLEAR>...I'm so lucky!<$00>
 
 
+//<CLEAR>…そうですよね\n私、１日も早く　記憶が\n戻るように　頑張りますから…<$00>
+<CLEAR>Still, I'll work my hardest to get my memories back\n
+someday.<$00>
 
 
+//<CLEAR>退院したら　お祝いに\nデートしてくださいね！<$00>
+<CLEAR>Once I'm out of this hospital, let's go on a date to\n
+celebrate!<$00>
 
 
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-//院長先生に　聞いたんだけど　
-Director Chen told me that Linda was\n
-delivered in the room next to the nursery\n
-some＿
-<$1E>
-//2年前\nリンダさんて　新生児室の隣りの\nあの部屋で　生まれたんだってね
-2 years earlier.
-<$12>
-<$00>
-
-
-
-
-
-
-//フローラ博士のトコの　花って\n人間の言葉を　マネして\nしゃべるのよ…
-The flowers in Dr. Flora's lab can mimic\n
-human speech.
-<$12>
-\n
-<CLEAR>
-//あんな花で　花屋をつくったら\nにぎやかだろうけど　お客は\n気味悪がって　逃げ出しちゃうわね
-But who wants flowers like that? Can't sell\n
-them. That liveliness will scare customers\n
-away.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//私を訪ねていらした方に\nこんなことを　聞くのは\nとても失礼なんですが…
-Forgive me for asking, especially if you came\n
-all this way to see me, but...
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//あなたは　どなたですか？\n私と　どういう関係の方ですか？\n面倒でも　教えてください
-...who are you? Are we related somehow? I\n
-hate to bother you, but please tell me.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-1
-<$15>
-//Sケンは　リンダに　子供の頃から\n今までのことを　ありのままに\n時間を掛けて　話した…
-From childhood to present day, Ken took his\n
-time telling Linda all about their past.
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//そうでしたか…
-I see...
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//あなたは　私の幼なじみ\nなのですね…　それから…\nあの…　つまり…
-So, you're my childhood friend? My...life\n
-partner?
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//私の事実上の婚約者…\nだったわけですね…
-It almost sounds like...we're engaged, huh.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ごめんなさい…
-I'm so sorry.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//あなたは　親切だし　とても\nいい方だということは\nわかるのですが…
-I can tell from your patience that you're a\n
-good person.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//本当に　ごめんなさい！\n正直なところ　全く\n思い出せないんです！
-But I can't remember any of this! Not even my\n
-soulmate's face!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//恋人の顔も　覚えてないなんて…\nお腹立ちですよね？
-God, you must hate me right now...
-<$00>
-
-
-
-
-
-
-//\n
-\n
-<$01>
-//当たりめぇだ
-Yeah, I do!
-<$0E>
-//／
-<$01>
-//気にするなよ
-Don't worry
-<$0E>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//本当にごめんなさい…\nでも　もし、いやじゃなければ\nまた　会いに来てください
-If it's...not any trouble, would you come see\n
-me again?
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//こんにちは！　ケンさん！
-Hello, Ken!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//先日、あなたから聞いた話を\nあれから　ひとりで思い出して\n私なりに　考えてみたんです
-After our talk the other day, I've been\n
-thinking on my own about the story you told\n
-me.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//私ね、ヘンな話ですけど…\n記憶をなくす前の　もうひとりの\n私を　好きになりました
-Now, this is a strange thing to say, surely,\n
-but I've come to like the other me, before\n
-she lost her memory.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//だって　ケンさん！　あなたを\n選んだ　もうひとりの私って\n見る目が　ありますものね！
-I mean, to set her sights on a guy like you,\n
-the other me has impeccable taste.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//………………■
-.........■
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//また、ぜひいらしてください\n私、ずっと待ってますから…■
-Please come and see me again.\n
-I'll be right here, waiting...■
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ケンさん！　私、もうすぐ\n退院して　いいそうなんです！\nそれで　あの…
-Hello again! I heard I'll be discharged soon.\n
-Isn't that great?!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//もしも…
-I was wondering...
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//もしも　このまま　私の記憶が\n戻らなかったとしても　私…
-Even if my memory doesn't come back, would\n
-you...
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//あなたと　箱船に乗りたいんです\n連れてってもらえますか？
-Would you still take me with you on the Astro\n
-Ark?
-<$00>
-
-
-
-
-
-
-//\n
-\n
-<$01>
-//いいとも！
-Absolutely!
-<$0E>
-//／
-／
-<$01>
-//ダメだよ！
-No way
-<$0E>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//あぁ…　よかった
-Oh, I'm so happy!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//私、このままずっと　記憶が\n回復しなくても、神様を\n恨んだりしません
-Even if my memories never come back, I can't\n
-be angry at God now.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//…感謝します∥
-...I'm so lucky!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//…そうですよね\n私、１日も早く　記憶が\n戻るように　頑張りますから…
-Still, I'll work my hardest to get my\n
-memories back someday.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//退院したら　お祝いに\nデートしてくださいね！
-Once I'm out of this hospital, let's go on a\n
-date to celebrate!
-<$00>
-
-
-
-
-
-
-//キミが　ケン君だね？　私はここの\n院長のチェンだ！　よろしくね\nさっそくだけど　リンダの容体だが…
+//キミが　ケン君だね？　私はここの\n院長のチェンだ！　よろしくね\nさっそくだけど　リンダの容体だが…<$12>\n<CLEAR>少し衰弱しているものの　身体の方は\nとくに異常は　見られない\nじきに　健康を取り戻すはずだ<$12><$00>
 Ah, you must be Ken!\n
-I'm Director Chen! Now, about Linda's\n
-condition...
-<$12>
-\n
-<CLEAR>
-//少し衰弱しているものの　身体の方は\nとくに異常は　見られない\nじきに　健康を取り戻すはずだ
-She's a little weak, but it's nothing severe.\n
-Physically, she'll recover in no time.
-<$12>
-<$00>
+I'm Director Chen! Now, about Linda's condition...<$12>\n
+<CLEAR>She's a little weak, but it's nothing severe. Physically,\n
+she'll recover in no time.<$12><$00>
 
 
+//メモリンＺは　まだ手に入らないかな…\nなるべく早く　投与をはじめたいんだ<$12><$00>
+Once the Memorin Z is available, we'll treat Linda first\n
+thing<$12><$00>
 
 
+//<CLEAR>やはりキミのことも　覚えてないか…<$12>\n<CLEAR>記憶喪失というのはね、いまだに\n一般には　決定的な治療法が\n確立されてない　病のひとつでね…<$12>\n<CLEAR>ただ、幸いにして　このネオケニアには\n記憶喪失に効く　薬があるんだよ\n今は　ここには　ないのだけれどね…<$12><$00>
+<CLEAR>So, she didn't remember you after all.<$12>\n
+<CLEAR>Because amnesia's such a varying disease, there is no set\n
+cure.Fortunately, however...<$12>\n
+<CLEAR>There is one drug elsewhere in Neo Kenya made to treat\n
+memory loss.<$12><$00>
 
 
-//メモリンＺは　まだ手に入らないかな…\nなるべく早く　投与をはじめたいんだ
-Once the Memorin Z is available, we'll treat\n
-Linda first thing
-<$12>
-<$00>
+//<CLEAR>グリーン製薬には　あるはずなんだ\nエターナまで行って　グリーン製薬の\n社長に　かけあってみて欲しいんだ！<$12>\n<CLEAR>…いや、本来は　私が行くべきなんだが\nあそこの社長、どーも苦手でね…\n苦手な理由は　会えば、わかると思う<$12><$00>
+<CLEAR>It's from Green Pharmaceuticals, in Eterna. I'll have to call\n
+up President Green!<$12>\n
+<CLEAR>I'd go in person, but... Oh, that's no excuse. If you meet\n
+her, you'll see for yourself.<$12><$00>
 
 
+//<CLEAR>交渉がうまくいけば　いずれキミにも\nひと働きしてもらうコトに　なるはずだ\nせいぜい腕を　磨いておいてくれ∥<$12><$00>
+<CLEAR>Let's hope she'll work with us. Until we get a reply, work\n
+hard and hone your skills!<$12><$00>
 
 
+//<CLEAR>ちょっと　いろいろ　あってね…\n薬を手に入れるには　面倒な手続きやら\nやっかいな根回しに　時間がかかる<$12><$00>
+<CLEAR>Ultimately, it takes a long time to get our claws on a good\n
+drug for these rare cases.<$12><$00>
 
 
-<CLEAR>
-//やはりキミのことも　覚えてないか…
-So, she didn't remember you after all.
-<$12>
-\n
-<CLEAR>
-//記憶喪失というのはね、いまだに\n一般には　決定的な治療法が\n確立されてない　病のひとつでね…
-Because amnesia's such a varying disease,\n
-there is no set cure.
-Fortunately, however...
-<$12>
-\n
-<CLEAR>
-//ただ、幸いにして　このネオケニアには\n記憶喪失に効く　薬があるんだよ\n今は　ここには　ないのだけれどね…
-There is one drug elsewhere in Neo Kenya made\n
-to treat memory loss.
-<$12>
-<$00>
+//<CLEAR>そうだナ…<$12>\n<CLEAR>キミが自分で作った　<$1B>カニ装備に\n身を固められる　頃には\nうまく話をつけておく、約束するよ<$12><$00>
+<CLEAR>Speaking of "claws"...<$12>\n
+<CLEAR>Might I suggest you make some gear using＿crabs?\n
+Doctor's orders!<$12><$00>
 
 
+//<CLEAR>やあ、ケン君！　喜びたまえ！\n交渉は　予想よりずっと楽だったよ\nこれもキミたちが　有名なおかげだよ<$12>\n<CLEAR>すぐに　エターナに飛んでくれ！<$12>\n<CLEAR>先方の社長の　強いご希望でね、\nぜひキミに　会いたいそうなんだ<$12>\n<CLEAR>…有名人は　つらいねェ<$12>\n<CLEAR>少し変わった　趣味をしているが、\n困っている人には　親切な人だ\nキミの頼みなら、きっと聞いてくれる<$12><$00>
+<CLEAR>Rejoice, Ken! You two Astro Ark pilots must be popular.\n
+Negotiations went almost TOO well!<$12>\n
+<CLEAR>Fly to Eterna as soon as you can!<$12>\n
+<CLEAR>Certainly, the president of the Elizabeth Green Foundation\n
+will want to meet you in person. <$12>\n
+<CLEAR>...Even if just to satisfy her own noblesse oblige.<$12>\n
+<CLEAR>She's an...interesting lady, but is always piqued to help\n
+those in need.<$12><$00>
 
 
+//<CLEAR>やっかいなのは…　リンダは\n記憶を　なくしたようなんだよ\n何か強いショックを　受けたらしい…<$12>\n<CLEAR>まっ、とにかく　ここで待ってるから\n彼女に　会ってみてくれ！\n今後のことは　その後で話そう<$12><$00>
+<CLEAR>There is one concern. I fear the shock of Linda's\n
+experience gave her amnesia.<$12>\n
+<CLEAR>Now, I've made you wait long enough. We can talk later.\n
+Come, say hello to Linda!<$12><$00>
 
 
-<CLEAR>
-//グリーン製薬には　あるはずなんだ\nエターナまで行って　グリーン製薬の\n社長に　かけあってみて欲しいんだ！
-It's from Green Pharmaceuticals, in Eterna.\n
-I'll have to call up President Green!
-<$12>
-\n
-<CLEAR>
-//…いや、本来は　私が行くべきなんだが\nあそこの社長、どーも苦手でね…\n苦手な理由は　会えば、わかると思う
-I'd go in person, but... Oh, that's no\n
-excuse. If you meet her, you'll see for\n
-yourself.
-<$12>
-<$00>
+//<CLEAR>薬の名は　確か「メモリンＺ」だ\nエターナの　グリーン製薬の社長に\nもらって来てくれ！　頼んだよ！<$12><$00>
+<CLEAR>The serum Linda needs is Memorin Z. Go speak with\n
+President Green in Eterna to get it.<$12><$00>
 
 
+//<CLEAR>それと、時間の許す限り　毎日でも\nリンダに面会してくれ！　記憶回復には\n繰り返し　刺激を与えるのが効くんだ<$12><$00>
+<CLEAR>Also, do try to visit Linda whenever you can! Habits are\n
+good for memory redevelopment.<$12><$00>
 
 
+//リンダさんに　お見舞いね？\nそこの新生児室の隣りの　部屋ですよ\nお大事に<$12><$00>
+Here to visit Linda? She's in the left-most room, right next\n
+to the nursery.<$12><$00>
 
 
-<CLEAR>
-//交渉がうまくいけば　いずれキミにも\nひと働きしてもらうコトに　なるはずだ\nせいぜい腕を　磨いておいてくれ∥
-Let's hope she'll work with us. Until we get\n
-a reply, work hard and hone your skills!
-<$12>
-<$00>
+//<CLEAR>リンダさんのパパが　あまりに\n大きな声で　泣いたもんだから\n今でも　覚えてたらしいわ<$12><$00>
+<CLEAR>Even now, the staff never forgets how loudly Linda's father\n
+cried when she was born.<$12><$00>
 
 
-
-
-
-
-<CLEAR>
-//ちょっと　いろいろ　あってね…\n薬を手に入れるには　面倒な手続きやら\nやっかいな根回しに　時間がかかる
-Ultimately, it takes a long time to get our\n
-claws on a good drug for these rare cases.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//そうだナ…
-Speaking of "claws"...
-<$12>
-\n
-<CLEAR>
-//キミが自分で作った　
-Might I suggest you make some gear using＿
-//<$1B>
-//カニ装備に\n身を固められる　頃には\nうまく話をつけておく、約束するよ
-crabs? Doctor's orders!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//やあ、ケン君！　喜びたまえ！\n交渉は　予想よりずっと楽だったよ\nこれもキミたちが　有名なおかげだよ
-Rejoice, Ken! You two Astro Ark pilots must\n
-be popular. Negotiations went almost TOO\n
-well!
-<$12>
-\n
-<CLEAR>
-//すぐに　エターナに飛んでくれ！
-Fly to Eterna as soon as you can!
-<$12>
-\n
-<CLEAR>
-//先方の社長の　強いご希望でね、\nぜひキミに　会いたいそうなんだ
-Certainly, the president of the Elizabeth\n
-Green Foundation will want to meet you in\n
-person.
-<$12>
-\n
-<CLEAR>
-//…有名人は　つらいねェ
-...Even if just to satisfy her own noblesse\n
-oblige.
-<$12>
-\n
-<CLEAR>
-//少し変わった　趣味をしているが、\n困っている人には　親切な人だ\nキミの頼みなら、きっと聞いてくれる
-She's an...interesting lady, but is always\n
-piqued to help those in need.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//やっかいなのは…　リンダは\n記憶を　なくしたようなんだよ\n何か強いショックを　受けたらしい…
-There is one concern. I fear the shock of\n
-Linda's experience gave her amnesia.
-<$12>
-\n
-<CLEAR>
-//まっ、とにかく　ここで待ってるから\n彼女に　会ってみてくれ！\n今後のことは　その後で話そう
-Now, I've made you wait long enough. We can\n
-talk later. Come, say hello to Linda!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//薬の名は　確か「メモリンＺ」だ\nエターナの　グリーン製薬の社長に\nもらって来てくれ！　頼んだよ！
-The serum Linda needs is Memorin Z. Go speak\n
-with President Green in Eterna to get it.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//それと、時間の許す限り　毎日でも\nリンダに面会してくれ！　記憶回復には\n繰り返し　刺激を与えるのが効くんだ
-Also, do try to visit Linda whenever you can!\n
-Habits are good for memory redevelopment.
-<$12>
-<$00>
-
-
-
-
-
-
-//リンダさんに　お見舞いね？\nそこの新生児室の隣りの　部屋ですよ\nお大事に
-Here to visit Linda? She's in the left-most\n
-room, right next to the nursery.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//リンダさんのパパが　あまりに\n大きな声で　泣いたもんだから\n今でも　覚えてたらしいわ
-Even now, the staff never forgets how loudly\n
-Linda's father cried when she was born.
-<$12>
-<$00>
-
-
-
-
-
-
-//サチコにはもう会ったかい？\n
+//サチコにはもう会ったかい？\n<$01>会いました<$0E>／<$01>まだです…<$0E><$00>
 Have you met Sachiko yet?\n
-<$01>
-//会いました
-I have
-<$0E>
-//／
-<$01>
-//まだです…
-Not yet
-<$0E>
-<$00>
+<$01>I have<$0E><$01>Not yet<$0E><$00>
 
 
+//<CLEAR>あの南エリア全土が　焦土になった\n衛星落下事故の　たったひとりの\n生き残り、それが　サチコなんだよ<$12>\n<CLEAR>リンダがね、精神的に安定したのは\n彼女と話を　するようになってからだよ\n本当に優しい　天使みたいなコさ<$12><$00>
+<CLEAR>Some time ago, all of South Area was razed to the ground.\n
+Young Sachiko was the only survivor.<$12>\n
+<CLEAR>Linda's condition only stabilized after meeting Sachiko.\n
+That doll's a miracle worker!<$12><$00>
 
 
+//<CLEAR>この病院には　リンダの他にも\n記憶をなくした　若い娘がいるんだよ\nサチコって　見習い看護婦でね、<$12>\n<CLEAR>同じ境遇だし　年も同じくらいだから\nリンダの世話を　やらせてるんだけど…\n確かそのへんに　いたはずだよ<$12><$00>
+<CLEAR>Besides Linda, there's another girl in this hospital with\n
+amnesia: Sachiko!<$12>\n
+<CLEAR>Sachiko arrived around the time Linda did, and has been\n
+taking care of her personally.<$12><$00>
 
 
-<CLEAR>
-//あの南エリア全土が　焦土になった\n衛星落下事故の　たったひとりの\n生き残り、それが　サチコなんだよ
-Some time ago, all of South Area was razed to\n
-the ground. Young Sachiko was the only\n
-survivor.
-<$12>
-\n
-<CLEAR>
-//リンダがね、精神的に安定したのは\n彼女と話を　するようになってからだよ\n本当に優しい　天使みたいなコさ
-Linda's condition only stabilized after\n
-meeting Sachiko. That doll's a miracle\n
-worker!
-<$12>
-<$00>
+//リンダはね、ここへ来てから\n５分おきくらいに　指の１本１本、\n爪の中まで　手を洗うんだよ<$12>\n<CLEAR>まるで　見えない血でも\nついてるみたいに　夢中で洗うんだ<$12><$00>
+Since she came here, Linda's insisted on washing her hands\n
+every five minutes.<$12>\n
+<CLEAR>She goes nail by nail, finger by finger, like she's\n
+washing off invisible blood.<$12><$00>
 
 
+//リンダと院長先生なら　裏庭の方へ\n散歩に行った？　…はずよねぇ？\nあなたも　一緒だった？　…でしょ？<$12><$00>
+You're back? Didn't you JUST walk out to the backyard\n
+with Linda and the director?<$12><$00>
 
 
-
-
-<CLEAR>
-//この病院には　リンダの他にも\n記憶をなくした　若い娘がいるんだよ\nサチコって　見習い看護婦でね、
-Besides Linda, there's another girl in this\n
-hospital with amnesia: Sachiko!
-<$12>
-\n
-<CLEAR>
-//同じ境遇だし　年も同じくらいだから\nリンダの世話を　やらせてるんだけど…\n確かそのへんに　いたはずだよ
-Sachiko arrived around the time Linda did,\n
-and has been taking care of her personally.
-<$12>
-<$00>
-
-
-
-
-
-
-//リンダはね、ここへ来てから\n５分おきくらいに　指の１本１本、\n爪の中まで　手を洗うんだよ
-Since she came here, Linda's insisted on\n
-washing her hands every five minutes.
-<$12>
-\n
-<CLEAR>
-//まるで　見えない血でも\nついてるみたいに　夢中で洗うんだ
-She goes nail by nail, finger by finger, like\n
-she's washing off invisible blood.
-<$12>
-<$00>
-
-
-
-
-
-
-//リンダと院長先生なら　裏庭の方へ\n散歩に行った？　…はずよねぇ？\nあなたも　一緒だった？　…でしょ？
-You're back? Didn't you JUST walk out to the\n
-backyard with Linda and the director?
-<$12>
-<$00>
-
-
-
-
-
-
-//あんたが　
-Ken! While you were out chasing＿
-//<$1B>
-//ブタかなにかを　のん気に\n追っかけてる間に　とんでもないことが\n起きてたのよ、ケン！
-pigs, the unthinkable happened!
-<$12>
-\n
-<CLEAR>
-//ミナゴの住民全員が　一夜で消えて\n唯一、残ってたのが　あんたの大切な\nリンダひとり…
-The people of Minago all vanished overnight.\n
-Your dear Linda was the only one left.
-<$12>
-\n
-<CLEAR>
-//なんで　こんなことになったか、\n住人はどこへ消えたか、なぜリンダだけ\n残ったか…　皆目、わからずじまいよ
-Why did this happen? Where'd everyone go? And\n
-why did only Linda remain?!
-<$12>
-<$00>
-
-
-
-
+//あんたが　<$1B>ブタかなにかを　のん気に\n追っかけてる間に　とんでもないことが\n起きてたのよ、ケン！<$12>\n<CLEAR>ミナゴの住民全員が　一夜で消えて\n唯一、残ってたのが　あんたの大切な\nリンダひとり…<$12>\n<CLEAR>なんで　こんなことになったか、\n住人はどこへ消えたか、なぜリンダだけ\n残ったか…　皆目、わからずじまいよ<$12><$00>
+Ken! While you were out chasing＿pigs, the unthinkable\n
+happened!<$12>\n
+<CLEAR>The people of Minago all vanished overnight. Your dear Linda\n
+was the only one left.<$12>\n
+<CLEAR>Why did this happen? Where'd everyone go? And why did only\n
+Linda remain?!<$12><$00>
 
 
 #WRITE(PTR, $0028)
-//屋上出入口
-Rooftop Entry＿
-<$00>
+//屋上出入口<$00>
+Rooftop Entry＿<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
-
-
-
-
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
 #WRITE(PTR, $002A)
-//第２病棟Ｂ１
-Ward 2 B1＿
-<$00>
+//第２病棟Ｂ１<$00>
+Ward 2 B1＿<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
+//<CLEAR><$19>1<$15>S裸の女性の死体が　ある<$14><$12><$00>
+<CLEAR><$19><$15>SA naked female corpse lies here.<$14><$12><$00>
 
 
+//<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
+<CLEAR><$19><$15>SKen found the＿<$1D>!<$14><$12><$00>
 
 
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
+//<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
+<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the＿<$1D>had to go back.<$14><$12><$00>
 
 
+//<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
+<CLEAR><$19><$15>SKen acquired＿<$1D>!<$14><$12><$00>
 
 
+//<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
+<CLEAR><$19><$15>SKen found the＿<$1D>!<$14><$12><$00>
 
 
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
+//<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
+<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the＿<$1D>had to go back.<$14><$12><$00>
 
 
+//<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
+<CLEAR><$19><$15>SKen acquired＿<$1D>!<$14><$12><$00>
 
 
+//亡くなった　エモリ博士が\nクローン臓器を　開発するまでは\nよく　死体が盗まれたもんさ<$12>\n<CLEAR>最近は減ったけど　ビースチャンの\n若い女の死体は　今でも人気が\nあるようで　時どきなくなるよ…<$12><$00>
+Cadavers used to be stolen all the time before the late\n
+Dr. Emori developed organ cloning.<$12>\n
+<CLEAR>Thefts have declined since, but young, female Beastian\n
+cadavers remain popular targets.<$12><$00>
 
 
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//S裸の女性の死体が　ある
-SA naked female corpse lies here.
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//Sケンは「
-SKen found the＿
-<$1D>
-//」を発見∥
-!
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//S<CLEAR>だが、道具袋が一杯なので\n「
-S<CLEAR>Sadly, the item bag was full, so the＿
-<$1D>
-//」を\nとりあえず　あきらめた…
-had to go back.
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//S<CLEAR>「
-SKen acquired＿
-<$1D>
-//」を　手に入れた∥
-!
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//Sケンは「
-SKen found the＿
-<$1D>
-//」を発見∥
-!
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//S<CLEAR>だが、道具袋が一杯なので\n「
-S<CLEAR>Sadly, the item bag was full, so the＿
-<$1D>
-//」を\nとりあえず　あきらめた…
-had to go back.
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//S<CLEAR>「
-SKen acquired＿
-<$1D>
-//」を　手に入れた∥
-!
-<$14><$12>
-<$00>
-
-
-
-
-
-
-//亡くなった　エモリ博士が\nクローン臓器を　開発するまでは\nよく　死体が盗まれたもんさ
-Cadavers used to be stolen all the time\n
-before the late Dr. Emori developed organ\n
-cloning.
-<$12>
-\n
-<CLEAR>
-//最近は減ったけど　ビースチャンの\n若い女の死体は　今でも人気が\nあるようで　時どきなくなるよ…
-Thefts have declined since, but young, female\n
-Beastian cadavers remain popular targets.
-<$12>
-<$00>
-
-
-
-
-
-
-//クリスマスの前に　若い女の死体が\n決まって消えてた頃が　あったよ…
-There was a period where a young woman's\n
-corpse would always go missing just before\n
-Xmas.
-<$12>
-\n
-<CLEAR>
-//きっと、犯人はサンタクロースさ∥
-I'll bet good money Santa Clause did it.
-<$12>
-\n
-<CLEAR>
-//だって　サンタの大きな袋って\n女ひとりくらい　楽々、入りそうだろ？\nで、独身の若い男に　プレゼント∥
-He's got a massive bag, right? Some single\n
-young scrub must've wanted a "chill" GF.
-<$12>
-\n
-<CLEAR>
-//だけど　その男は貧乏で\n七面鳥のかわりに　焼いて食べるのさ…\nどう？　俺の考えた「聖夜物語」は
-If she's already dead, he doesn't have to\n
-celebrate "banks-giving" and buy dinner!
-<$12>
-<$00>
-
-
-
-
+//クリスマスの前に　若い女の死体が\n決まって消えてた頃が　あったよ…<$12>\n<CLEAR>きっと、犯人はサンタクロースさ∥<$12>\n<CLEAR>だって　サンタの大きな袋って\n女ひとりくらい　楽々、入りそうだろ？\nで、独身の若い男に　プレゼント∥<$12>\n<CLEAR>だけど　その男は貧乏で\n七面鳥のかわりに　焼いて食べるのさ…\nどう？　俺の考えた「聖夜物語」は<$12><$00>
+There was a period where a young woman's corpse would\n
+always go missing just before Xmas.<$12>\n
+<CLEAR>I'll bet good money Santa Clause did it.<$12>\n
+<CLEAR>He's got a massive bag, right? Some single young scrub\n
+must've wanted a "chill" GF.<$12>\n
+<CLEAR>If she's already dead, he doesn't have to celebrate\n
+"banks-giving" and buy dinner!<$12><$00>
 
 
 #WRITE(PTR, $002C)
-<CLEAR>
-//はじめまして\n私、ここの見習い看護婦で\nサチコっていいます
-How do you do? I'm Sachiko. I'm shadowing\n
-here to become a nurse.
-<$00>
+//<CLEAR>はじめまして\n私、ここの見習い看護婦で\nサチコっていいます<$00>
+<CLEAR>How do you do? I'm Sachiko. I'm shadowing here to become\n
+a nurse.<$00>
 
 
+//<CLEAR>実は　私もね、名前以外は\n昔のこと　覚えてないんです<$00>
+<CLEAR>Beyond my name, I can't remember anything about my\n
+past either.<$00>
 
 
+//<CLEAR>でも　ほら　ちゃんと普通に\n働いてますし　生活もできます<$00>
+<CLEAR>But look! I'm working hard and living a normal life.<$00>
 
 
-<CLEAR>
-//実は　私もね、名前以外は\n昔のこと　覚えてないんです
-Beyond my name, I can't remember anything\n
-about my past either.
-<$00>
+//<CLEAR>だから　リンダさんも　たとえ\n記憶が戻らなくても　大丈夫！\nでも　戻るといいですね！<$00>
+<CLEAR>I hope Linda gets her memories back, but if not, she\n
+can still be herself.<$00>
 
 
+//<CLEAR>リンダさんって　幸せですよね\nあなたみたいな　素敵な彼氏が\nいつも　そばにいてくれて…<$00>
+<CLEAR>Linda's so lucky to have a kind, caring boyfriend like you\n
+at her side.<$00>
 
 
+//<CLEAR>私も　箱船の乗員に\n立候補すれば　よかったわ…<$00>
+<CLEAR>If only I'd volunteered to pilot the Astro Ark too...<$00>
 
 
-<CLEAR>
-//でも　ほら　ちゃんと普通に\n働いてますし　生活もできます
-But look! I'm working hard and living a\n
-normal life.
-<$00>
+//<CLEAR>…なーんて　冗談ですよ\nほら、早くリンダさんに\n会いに行ってあげて<$00>
+<CLEAR>...I'm only teasing!\n
+Now, go see Linda!<$00>
 
 
+//<CLEAR>私、正看護婦の試験に\nパスしたんです！<$00>
+<CLEAR>I passed my nursing certification exam!<$00>
 
 
+//<CLEAR>だけど　注射だけは　まだ\n苦手なんです\nだから　注射の時は　心の中で<$00>
+<CLEAR>I'm still not good at injecting needles, but when I do it, I\n
+think to myself...<$00>
 
 
-<CLEAR>
-//だから　リンダさんも　たとえ\n記憶が戻らなくても　大丈夫！\nでも　戻るといいですね！
-I hope Linda gets her memories back, but if\n
-not, she can still be herself.
-<$00>
+//<CLEAR>「３、２、１、射て」って\n自分に言うことに　してるんです\n患者さんには　秘密ですけどね<$00>
+<CLEAR>"3, 2, 1, FIRE!" Of course, I can't let my patients hear that.<$00>
 
 
+//<CLEAR>正看護婦になったら　急に\n仕事が増えちゃって…\nもうひとり　私が欲しいくらい<$00>
+<CLEAR>Once I was certified, I was quickly given more duties. It\n
+makes me wish I had a twin!<$00>
 
 
+//<CLEAR>記憶が回復したそうですね\n本当に　良かったですね<$00>
+<CLEAR>I see your memory's back!\n
+I'm so happy for you!<$00>
 
 
-<CLEAR>
-//リンダさんって　幸せですよね\nあなたみたいな　素敵な彼氏が\nいつも　そばにいてくれて…
-Linda's so lucky to have a kind, caring\n
-boyfriend like you at her side.
-<$00>
+//<CLEAR>そうそう\nおふたりに報告しなきゃ\n私にも　恋人ができたんです<$00>
+<CLEAR>I have good news to tell you too! I found myself a crush!<$00>
 
 
+//<CLEAR>リンダさんのマネして\n女の私から　告白しちゃったの<$00>
+<CLEAR>I thought I'd follow Linda's example and confess, like girls\n
+do.<$00>
 
 
+//<CLEAR>「サチコで　どーだ！」って\nちょっと　ヘンな言い方だけど\n通じたみたいなんです…<$00>
+<CLEAR>"Why not me?!"\n
+I sputtered, which is...truly absurd, but I think it got\n
+through.<$00>
 
 
-<CLEAR>
-//私も　箱船の乗員に\n立候補すれば　よかったわ…
-If only I'd volunteered to pilot the Astro\n
-Ark too...
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//…なーんて　冗談ですよ\nほら、早くリンダさんに\n会いに行ってあげて
-...I'm only teasing!\n
-Now, go see Linda!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//私、正看護婦の試験に\nパスしたんです！
-I passed my nursing certification exam!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//だけど　注射だけは　まだ\n苦手なんです\nだから　注射の時は　心の中で
-I'm still not good at injecting needles, but\n
-when I do it, I think to myself...
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//「３、２、１、射て」って\n自分に言うことに　してるんです\n患者さんには　秘密ですけどね
-"3, 2, 1, FIRE!" Of course, I can't let my\n
-patients hear that.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//正看護婦になったら　急に\n仕事が増えちゃって…\nもうひとり　私が欲しいくらい
-Once I was certified, I was quickly given\n
-more duties. It makes me wish I had a twin!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//記憶が回復したそうですね\n本当に　良かったですね
-I see your memory's back!\n
-I'm so happy for you!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//そうそう\nおふたりに報告しなきゃ\n私にも　恋人ができたんです
-I have good news to tell you too! I found\n
-myself a crush!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//リンダさんのマネして\n女の私から　告白しちゃったの
-I thought I'd follow Linda's example and\n
-confess, like girls do.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//「サチコで　どーだ！」って\nちょっと　ヘンな言い方だけど\n通じたみたいなんです…
-"Why not me?!"\n
-I sputtered, which is...truly absurd, but I\n
-think it got through.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//リンダさん！\nお互い　幸せになりましょうね
-All in all, Linda, may each of us find true\n
-happiness!
-<$00>
-
-
-
-
+//<CLEAR>リンダさん！\nお互い　幸せになりましょうね<$00>
+<CLEAR>All in all, Linda, may each of us find true happiness!<$00>
 
 
 #WRITE(PTR, $002E)
-//個
-＿
-<$00>
+//個<$00>
+＿<$00>
 
 
+//匹<$00>
+＿<$00>
 
 
+//<$1D>を<$1D>ます\n<$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04>／<$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S￥<$00>
+<$1D>＿x<$1D>＿\n
+<$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04>／<$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S￥<$00>
 
 
-//匹
-＿
-<$00>
+//<$06>T.C.(<$1E>034<$06>)<$00>
+<$06>TCU (x<$1E><$06>)<$00>
 
 
+//<$05>γ<$00>
+<$05>A<$00>
 
 
+//<$05>ζ<$00>
+<$05>D<$00>
 
 
-<$1D>
-//を
-＿x
-<$1D>
-//ます\n
-＿\n
-<$06><$19>
-//1
-1
-<$01><$1A>
-//01
-01
-<$0E><$15>
-//S
-S
-<$19>
-//0
-0
-<$04>
-//／
-／
-<$14><$1E>
-//034
-034
-<$15>
-//S
-S
-<$1D><$14><$02>
-//112
-112
-<$19>
-//2
-2
-<$1E>
-//40
-40
-<$19>
-//0
-0
-<$15>
-//S￥
-S￥
-<$00>
+//<$1E>@019<$00>
+<$1E>@019<$00>
 
 
+//<CLEAR>セレクトボタンで解説が出ます<$00>
+<CLEAR>SELECT: Details<$00>
 
 
+//<CLEAR><$00>
+<CLEAR><$00>
 
 
-<$06>
-//T.C.(
-TCU (x
-<$1E>
-//034
-<$06>
-//)
-)
-<$00>
+//<$04><$16><$15>W<$01><$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
+<$04><$16><$15>W<$01><$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
 
 
+//<CLEAR>トランスカーゴは　１枠につき\n<$06>99<$04>頭までしか　収容できません<$12><$00>
+<CLEAR>The trans-cargo unit has\n
+a＿<$06>99<$04>＿species capacity!<$12><$00>
 
 
+//<CLEAR><$06>トランスカーゴ<$04>がいっぱいです<$12><$00>
+<CLEAR><$06>The trans-cargo unit＿<$04>is full!<$12><$00>
 
 
-<$05>
-//γ
-A
-<$00>
+//<CLEAR>道具がいっぱいです<$12><$00>
+<CLEAR>The item bag is full!<$12><$00>
 
 
-
-
-
-
-<$05>
-//ζ
-D
-<$00>
-
-
-
-
-
-
-<$1E>
-//@019
-@019
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//セレクトボタンで解説が出ます
-SELECT: Details
-<$00>
-
-
-
-
-
-
-<CLEAR>
-
-<$00>
-
-
-
-
-<$04><$16><$15>
-//W
-W
-<$01><$1D><$02>
-//116
-116
-<$0E><$02>
-//216
-216
-<$1D><$1E>
-//39￥
-39￥
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//トランスカーゴは　１枠につき\n
-The trans-cargo unit has\n
-a＿
-<$06>
-//99
-99
-<$04>
-//頭までしか　収容できません
-＿species capacity!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$06>
-//トランスカーゴ
-The trans-cargo unit＿
-<$04>
-//がいっぱいです
-is full!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//道具がいっぱいです
-The item bag is full!
-<$12>
-<$00>
-
-
-
-
-
-
-//怪しい肉より　効果のハッキリした薬∥\n安心して　お使いになれます\n
+//怪しい肉より　効果のハッキリした薬∥\n安心して　お使いになれます\n<$01>購入する<$0E>／<$01>雑談する<$0E>／<$01>いらない<$0E><$00>
 Why eat meat when you can take drugs?\n
-<$01>
-//購入する
-Shop
-<$0E>
-//／
-／
-<$01>
-//雑談する
-Chat
-<$0E>
-//／
-／
-<$01>
-//いらない
-Exit
-<$0E>
-<$00>
+<$01>Shop<$0E>／<$01>Chat<$0E>／<$01>Exit<$0E><$00>
 
 
+//<CLEAR>薬が切れたら、いつでも　どうぞ<$12><$00>
+<CLEAR>Whenever you want drugs, you know where to find us!<$12><$00>
 
 
+//<$15>Y薬　屋／買　う<$00>
+<$15>YDrug／Buy<$00>
 
 
-<CLEAR>
-//薬が切れたら、いつでも　どうぞ
-Whenever you want drugs, you know where to\n
-find us!
-<$12>
-<$00>
+//<$15>Y薬　屋<$00>
+<$15>YDrug Counter<$00>
 
 
+//クン、クンクン………？<$12>\n<CLEAR>消毒液のニオイが\nプンプンするね<$12><$00>
+Sniff...sniff, sniff?<$12>\n
+<CLEAR>It smells strongly of antiseptic here.<$12><$00>
 
 
+//……東<$00>
+...East<$00>
 
 
-//
-<$15>
-//Y薬　屋／買　う
-YDrug／Buy
-<$00>
+//……西<$00>
+...West<$00>
 
 
+//……南<$00>
+...South<$00>
 
 
+//……北<$00>
+...North<$00>
 
 
-//
-<$15>
-//Y薬　屋
-YDrug Counter
-<$00>
+//…北東<$00>
+...North-east<$00>
 
 
+//…北西<$00>
+...North-west<$00>
 
 
+//…南東<$00>
+...South-east<$00>
 
 
-//クン、クンクン………？
-Sniff...sniff, sniff?
-<$12>
+//…南西<$00>
+...South-west<$00>
+
+
+//<CLEAR>……<$1D><$00>
+<CLEAR>......<$1D><$00>
+
+
+//、…<$1D>に行けば<$00>
+! That's where we'll find a＿<$1D>.<$00>
+
+
+//直進<$00>
+For<$00>
+
+
+//右よ<$00>
+Right<$00>
+
+
+//左よ<$00>
+Left<$00>
+
+
+//後ろ<$00>
+Back<$00>
+
+
+//<CLEAR>……<$1D><$00>
+<CLEAR>......<$1D><$00>
+
+
+//、絶対に<$1D>∥<$00>
+wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
+
+
+//<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
+<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
+
+
+//<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
+<CLEAR>...Sorry. I don't have it in me today.<$12><$00>
+
+
+//運命の<$00>
+Fated＿<$00>
+
+
+//新しい<$00>
+New＿<$00>
+
+
+//素敵な<$00>
+Great＿<$00>
+
+
+//未知の<$00>
+Unknown＿<$00>
+
+
+//何か<$00>
+things＿<$00>
+
+
+//発見<$00>
+discoveries＿<$00>
+
+
+//お宝<$00>
+treasures＿<$00>
+
+
+//動物<$00>
+animals＿<$00>
+
+
+//に　出会える…<$00>
+could appear.<$00>
+
+
+//が　待ってる…<$00>
+await us...<$00>
+
+
+//気がするわ∥<$00>
+are there.<$00>
+
+
+//チャンスよ∥<$00>
+are in our grasp!<$00>
+
+
+//今しかないわ<$00>
+could slip through our fingers!<$00>
+
+
+//間違いなし∥<$00>
+are dead head!<$00>
+
+
+//\n<$1D><$1D><$1D>\n<$1D><$12>\n<CLEAR><$00>
 \n
-<CLEAR>
-//消毒液のニオイが\nプンプンするね
-It smells strongly of antiseptic here.
-<$12>
-<$00>
+<$1D><$1D><$1D>\n
+<$1D><$12>\n
+<CLEAR><$00>
 
 
+//<CLEAR>自信があるの∥<$12><$00>
+<CLEAR>I'm sure of it!<$12><$00>
 
 
+//<CLEAR>自信は　ないけどね…<$12><$00>
+<CLEAR>Although, I'm not totally certain...<$12><$00>
 
 
-//……東
-...East
-<$00>
-
-
-
-
-
-
-//……西
-...West
-<$00>
-
-
-
-
-
-
-//……南
-...South
-<$00>
-
-
-
-
-
-
-//……北
-...North
-<$00>
-
-
-
-
-
-
-//…北東
-...North-east
-<$00>
-
-
-
-
-
-
-//…北西
-...North-west
-<$00>
-
-
-
-
-
-
-//…南東
-...South-east
-<$00>
-
-
-
-
-
-
-//…南西
-...South-west
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//……
-......
-<$1D>
-<$00>
-
-
-
-
-
-
-//、…
-! That's where we'll find a＿
-<$1D>
-//に行けば
-.
-<$00>
-
-
-
-
-
-
-//直進
-For
-<$00>
-
-
-
-
-
-
-//右よ
-Right
-<$00>
-
-
-
-
-
-
-//左よ
-Left
-<$00>
-
-
-
-
-
-
-//後ろ
-Back
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//……
-......
-<$1D>
-<$00>
-
-
-
-
-
-
-//、絶対に
-wards, got it? I'm sure we'll find a＿
-<$1D>
-//∥
-＿there!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//Sリンダは　「女の勘」を\nはたらかせた∥
-SLinda used her woman's intuition...
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//…ごめんね、\n今日は　勘がはたらかないわ…
-...Sorry. I don't have it in me today.
-<$12>
-<$00>
-
-
-
-
-
-
-//運命の
-Fated＿
-<$00>
-
-
-
-
-
-
-//新しい
-New＿
-<$00>
-
-
-
-
-
-
-//素敵な
-Great＿
-<$00>
-
-
-
-
-
-
-//未知の
-Unknown＿
-<$00>
-
-
-
-
-
-
-//何か
-things＿
-<$00>
-
-
-
-
-
-
-//発見
-discoveries＿
-<$00>
-
-
-
-
-
-
-//お宝
-treasures＿
-<$00>
-
-
-
-
-
-
-//動物
-animals＿
-<$00>
-
-
-
-
-
-
-//に　出会える…
-could appear.
-<$00>
-
-
-
-
-
-
-//が　待ってる…
-await us...
-<$00>
-
-
-
-
-
-
-//気がするわ∥
-are there.
-<$00>
-
-
-
-
-
-
-//チャンスよ∥
-are in our grasp!
-<$00>
-
-
-
-
-
-
-//今しかないわ
-could slip through our fingers!
-<$00>
-
-
-
-
-
-
-//間違いなし∥
-are dead head!
-<$00>
-
-
-
-
-
-
-//\n
-\n
-<$1D><$1D><$1D>
-//\n
-\n
-<$1D><$12>
-\n
-<CLEAR>
-//
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//自信があるの∥
-I'm sure of it!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//自信は　ないけどね…
-Although, I'm not totally certain...
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//絶対なんだから∥
-I'm absolutely certain!
-<$12>
-<$00>
-
-
-
-
+//<CLEAR>絶対なんだから∥<$12><$00>
+<CLEAR>I'm absolutely certain!<$12><$00>
 
 
 

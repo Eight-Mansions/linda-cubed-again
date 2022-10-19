@@ -1,7 +1,7 @@
 #include "font.h"
 
 const u8 widths[] = {
-	0x04, // space
+	0x04, //  
 	0x02, // !
 	
 	0x04, // "
@@ -73,7 +73,7 @@ const u8 widths[] = {
 	0x06, // Z
 	0x05, // [
 
-	0x08, // backslash
+	0x10, // /
 	
 	0x05, // ]
 

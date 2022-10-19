@@ -137,414 +137,148 @@ kao_n4.obj
 
 
 #WRITE(PTR, $001E)
-//ハーディア
-Hardia＿
-<$00>
+//ハーディア<$00>
+Hardia＿<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
-
-
-
-
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-//この家もずいぶん　ガタがきちまったな\nリンダんちが　東のミナゴに\n引っ越して　もう何年になるんだろ…
+//この家もずいぶん　ガタがきちまったな\nリンダんちが　東のミナゴに\n引っ越して　もう何年になるんだろ…<$12>\n<CLEAR>なつかしいよ、あの頃が…　おまえも\n俺も　リンダに　コブラツイストを\nかけられてよく、ベソかいたっけ<$12><$00>
 Wow, this house is worn to hell.\n
-Say, how many years ago was it that Linda\n
-moved to Minago?
-<$12>
-\n
-<CLEAR>
-//なつかしいよ、あの頃が…　おまえも\n俺も　リンダに　コブラツイストを\nかけられてよく、ベソかいたっけ
-Do you remember how she'd lock us in a Cobra\n
-Twist until we were wet in the face?
-<$12>
-\n
-<CLEAR>
-Boy, those were the days.
-<$12>
-<$00>
+Say, how many years ago was it that Linda moved to Minago?<$12>\n
+<CLEAR>Do you remember how she'd lock us in a Cobra Twist\n
+until we were wet in the face?<$12>\n
+<CLEAR>Boy, those were the days.<$12><$00>
 
 
+//リンダのママって　若い頃は\n相当、もてたんだってな…<$12>\n<CLEAR>聞くところによると、おまえとリンダの\nおやじってサ、「恋のライバル」\nだったって　聞いたゼ<$12><$00>
+Linda's mom, Ann, was real popular back in her day.<$12>\n
+<CLEAR>From what I heard, your dad and Linda's were in a rom-com\n
+triangle over her.<$12><$00>
 
 
-
-
-//リンダのママって　若い頃は\n相当、もてたんだってな…
-Linda's mom, Ann, was real popular back in\n
-her day.
-<$12>
-\n
-<CLEAR>
-//聞くところによると、おまえとリンダの\nおやじってサ、「恋のライバル」\nだったって　聞いたゼ
-From what I heard, your dad and Linda's were\n
-in a rom-com triangle over her.
-<$12>
-<$00>
-
-
-
-
-
-
-//ひとりだけ　トンズラこくなんて\n虫のイイこと、隊長が許すわけねぇだろ\n観念して　本部の２階まで行きな
+//ひとりだけ　トンズラこくなんて\n虫のイイこと、隊長が許すわけねぇだろ\n観念して　本部の２階まで行きな<$12><$00>
 The captain says anyone who bails on\n
 today's meeting is a dead man.\n
-Better get to HQ!
-<$12>
-<$00>
+Better get to HQ!<$12><$00>
 
 
+//知ってるだろうけど　箱船は\nこの町のゲートの真ん前に　鎮座してる！\n入口は　南側にあったはずだ<$12>\n<CLEAR>気がかわらな…　いや、忘れないうちに\n箱船の中の装置に「乗員の登録」を\n済ませちまいな<$12><$00>
+In case you forgot, the Astro Ark is due south beyond\n
+the town gate.\n
+You can't miss it!<$12>\n
+<CLEAR>Your first job is to hop aboard and register yourself\n
+as the male pilot. <$12><$00>
 
 
-
-
-//知ってるだろうけど　箱船は\nこの町のゲートの真ん前に　鎮座してる！\n入口は　南側にあったはずだ
-In case you forgot, the Astro Ark is due\n
-south beyond the town gate.\n
-You can't miss it!
-<$12>
-\n
-<CLEAR>
-//気がかわらな…　いや、忘れないうちに\n箱船の中の装置に「乗員の登録」を\n済ませちまいな
-Your first job is to hop aboard and register\n
-yourself as the male pilot.
-<$12>
-<$00>
-
-
-
-
-
-
-//「若い男性隊員は　通すな！」って\n隊長の命令でね、きのうの夜から\nずっと　ここで立ちんぼさ
+//「若い男性隊員は　通すな！」って\n隊長の命令でね、きのうの夜から\nずっと　ここで立ちんぼさ<$12>\n<CLEAR>おめえが　本部の２階へ行って\n「Ｙｅｓ」って　一言いってくれりゃ\n家へ帰って　おネンネできるんだがな<$12><$00>
 We got strict orders from\n
 the captain last night:\n
-"Let NO males pass!"
-<$12>
-\n
-<CLEAR>
-//おめえが　本部の２階へ行って\n「Ｙｅｓ」って　一言いってくれりゃ\n家へ帰って　おネンネできるんだがな
-<$12>
-\n
-<CLEAR>
-We've been stuck standing here ever since,\n
-but I'll warn you, from one man to another...
-<$12>
-\n
-<CLEAR>
-...anyone dumb enough to say "yes" at today's\n
-briefing can kiss their old life goodbye!
-<$12>
-<$00>
+"Let NO males pass!"<$12>\n
+<CLEAR><$12>\n
+<CLEAR>We've been stuck standing here ever since, but I'll\n
+warn you, from one man to another...<$12>\n
+<CLEAR>...anyone dumb enough to say "yes" at today's briefing\n
+can kiss their old life goodbye!<$12><$00>
 
 
+//＿＿＿＿■恋人たちの泉■<$12>\n<CLEAR>恋人の名前を　心の中で３度呼んでから\n＿＿泉にお金を　投げ入れて下さい\n＿きっとあなたの願いが　かないます<$12><$00>
+"■＿FOUNTAIN OF LOVERS＿■"<$12>\n
+<CLEAR>"SAY THEIR NAME 3 TIMES IN YOUR HEART.\n
+TOSS A COIN IN, AND 'TIL DEATH DO YOU PART!"<$12><$00>
 
 
-
-
-//＿＿＿＿■恋人たちの泉■
-"■＿FOUNTAIN OF LOVERS＿■"
-<$12>
-\n
-<CLEAR>
-//恋人の名前を　心の中で３度呼んでから\n＿＿泉にお金を　投げ入れて下さい\n＿きっとあなたの願いが　かないます
-"SAY THEIR NAME 3 TIMES IN YOUR HEART.\n
-TOSS A COIN IN, AND 'TIL DEATH DO YOU PART!"
-<$12>
-<$00>
-
-
-
-
-
-
-//恋人たちの泉がある\nお金を投げ入れますか？\n
+//恋人たちの泉がある\nお金を投げ入れますか？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
 Toss a coin into the\n
 Fountain of Lovers?\n
-<$01>
-//は＿い
-Yes
-<$0E>
-//／
-／
-<$01>
-//いいえ
-No
-<$0E>
-<$00>
+<$01>Yes<$0E>／<$01>No<$0E><$00>
 
 
+//<CLEAR><$19>1<$15>S<CLEAR>ケンは　１￥を\n泉に投げ入れた！<$14><$12><$00>
+<CLEAR><$19><$15>S<CLEAR>Ken tossed １￥ into the fountain!<$14><$12><$00>
 
 
+//<CLEAR><$19>1<$15>S<CLEAR>ケンは　お金を投げるフリをした<$12><$00>
+<CLEAR><$19><$15>S<CLEAR>Ken pretended to toss a coin.<$12><$00>
 
 
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//S<CLEAR>ケンは　１￥を\n泉に投げ入れた！
-S<CLEAR>Ken tossed １￥ into the fountain!
-<$14><$12>
-<$00>
+//箱船の乗員の男のほう、結局のとこ\n志願者がなくて　レンジャー隊から\n出すことに　なりそうなんだってねぇ？<$12>\n<CLEAR>命、賭けるほど　イイ給料を\nもらってるわけでも　ないだろうに…\nたいへんだねぇ　あんたたちも…<$12><$00>
+I heard the search for a male Astro Ark pilot was going so\n
+poorly, they're planning to select one from among you\n
+rangers.<$12>\n
+<CLEAR>I feel so bad for you boys. They weren't pay you well\n
+enough to putting your lives on the line so much to begin\n
+with.<$12><$00>
 
 
+//あと<$1E>季節<$00>
+In＿<$1E>＿seasons<$00>
 
 
+//あと<$1E>年<$00>
+In＿<$1E>＿years<$00>
 
 
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//S<CLEAR>ケンは　お金を投げるフリをした
-S<CLEAR>Ken pretended to toss a coin.
-<$12>
-<$00>
+//あと<$1E>年と<$1E>季節<$00>
+In＿<$1E>＿years and＿<$1E>＿seasons<$00>
 
 
+//…\nこの町も人通りが　めっきり減ったねぇ<$12><$00>
+...this place will be a ghost town.<$12><$00>
 
 
+//…　あっちのほうは\nどうじゃい？　間に合いそうかい？<$12><$00>
+...how are things going? Will you reach your goal?<$12><$00>
 
 
-//箱船の乗員の男のほう、結局のとこ\n志願者がなくて　レンジャー隊から\n出すことに　なりそうなんだってねぇ？
-I heard the search for a male Astro Ark pilot\n
-was going so poorly, they're planning to\n
-select one from among you rangers.
-<$12>
-\n
-<CLEAR>
-//命、賭けるほど　イイ給料を\nもらってるわけでも　ないだろうに…\nたいへんだねぇ　あんたたちも…
-I feel so bad for you boys. They weren't pay\n
-you well enough to putting your lives on the\n
-line so much to begin with.
-<$12>
-<$00>
-
-
-
-
-
-
-//あと
-In＿
-<$1E>
-//季節
-＿seasons
-<$00>
-
-
-
-
-
-
-//あと
-In＿
-<$1E>
-//年
-＿years
-<$00>
-
-
-
-
-
-
-//あと
-In＿
-<$1E>
-//年と
-＿years and＿
-<$1E>
-//季節
-＿seasons
-<$00>
-
-
-
-
-
-
-//…\nこの町も人通りが　めっきり減ったねぇ
-...this place will be a ghost town.
-<$12>
-<$00>
-
-
-
-
-
-
-//…　あっちのほうは\nどうじゃい？　間に合いそうかい？
-...how are things going? Will you reach your\n
-goal?
-<$12>
-<$00>
-
-
-
-
-
-
-//私の家、もうすぐ移住なんだって…\nそれで　ケン兄ちゃんに\nお願いがあるの
+//私の家、もうすぐ移住なんだって…\nそれで　ケン兄ちゃんに\nお願いがあるの<$12><$00>
 Ken! I heard my family's moving real soon,\n
-so I have a favor to ask.
-<$12>
-<$00>
+so I have a favor to ask.<$12><$00>
 
 
-
-
-
-
-<CLEAR>
-//この子、「
-Take care of our doggy,＿
-<$1D>
-//」っていうの\nケン兄ちゃんに　もらって欲しいの\n
-, for me.\n
+//<CLEAR>この子、「<$1D>」っていうの\nケン兄ちゃんに　もらって欲しいの\n<$01>いいとも∥<$0E>／<$01>面倒だなぁ<$0E><$00>
+<CLEAR>Take care of our doggy,＿<$1D>, for me.\n
 Please? Pretty please?\n
-<$01>
-//いいとも∥
-Sure!
-<$0E>
-//／
-／
-<$01>
-//面倒だなぁ
-I can't.
-<$0E>
-<$00>
+<$01>Sure!<$0E>／<$01>I can't.<$0E><$00>
 
 
+//<CLEAR><$19>1<$15>Sケンは、猟犬「<$1D>」を手に入れた！<$14><$12><$00>
+<CLEAR><$19><$15>SKen acquired the dog,＿<$1D>!<$14><$12><$00>
 
 
+//<CLEAR>……………………<$12><$00>
+<CLEAR>.........<$12><$00>
 
 
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//Sケンは、猟犬「
-SKen acquired the dog,＿
-<$1D>
-//」を手に入れた！
-!
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//……………………
-.........
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-Take good care of our＿
-<$1D>
-//のこと　かわいがってね
-!
-<$12>
-<$00>
-
-
-
-
+//<CLEAR><$1D>のこと　かわいがってね<$12><$00>
+<CLEAR>Take good care of our＿<$1D>!<$12><$00>
 
 
 
@@ -553,1332 +287,532 @@ Take good care of our＿
 
 
 
-//クーン、クーン……
-Sniff, sniff...
-<$12>
-<$00>
+//クーン、クーン……<$12><$00>
+Sniff, sniff...<$12><$00>
 
 
+//この町は　レンジャー隊の本部が\nあるせいか　治安には　問題ないが\n他の町は　そうはいかないよ<$12>\n<CLEAR>人のことを　だまくらかして\n自分だけ得しようって　そればかり\n考えている　エゲツない連中が多いんだ<$12><$00>
+Hardia's safe because you rangers all live here. No other\n
+town has that.<$12>\n
+<CLEAR>There are too many "ME FIRST" types in the world who don't\n
+care about other people.<$12><$00>
 
 
+//<CLEAR>ケンは　ブランコに乗ろうとした…<$12>\n<CLEAR>しかし、そんなノン気なことを\nしている場合では　ないと\n気づいてやめた<$12><$00>
+<CLEAR>Ken tried sitting on the swing...<$12>\n
+<CLEAR>Then, he felt that was a weird thing for a guy to do by\n
+his lonesome, so he stopped.<$12><$00>
 
 
-//この町は　レンジャー隊の本部が\nあるせいか　治安には　問題ないが\n他の町は　そうはいかないよ
-Hardia's safe because you rangers all live\n
-here. No other town has that.
-<$12>
-\n
-<CLEAR>
-//人のことを　だまくらかして\n自分だけ得しようって　そればかり\n考えている　エゲツない連中が多いんだ
-There are too many "ME FIRST" types in the\n
-world who don't care about other people.
-<$12>
-<$00>
+//<CLEAR><$19>1<$15>S鍵がかかっている\n留守のようだ<$14><$12><$00>
+<CLEAR><$19>1<$15>SThe door is locked.\n
+Looks like no one's home.<$14><$12><$00>
 
 
+//<CLEAR>だいぶ　足の具合、いいみたいだな！\nそれにしても　あのボロ屋が、よくも\nあそこまで　リフォームできたもんだ<$12><$00>
+<CLEAR>While that worn down house is still standing, it needs a\n
+heavy renovation.<$12><$00>
 
 
+//<CLEAR>リンダの男の趣味が　悪いのは\nママゆずりってトコだな<$12><$00>
+<CLEAR>Linda must've gotten her bad taste in men from her mom.<$12><$00>
 
 
-<CLEAR>
-//ケンは　ブランコに乗ろうとした…
-Ken tried sitting on the swing...
-<$12>
-\n
-<CLEAR>
-//しかし、そんなノン気なことを\nしている場合では　ないと\n気づいてやめた
-Then, he felt that was a weird thing for a\n
-guy to do by his lonesome, so he stopped.
-<$12>
-<$00>
+//要は動物が手に入れば　いいんだろ？\n店で買おうが、捕まえようが同じだろ？\nなら　楽な方がいいに　決まってるねぇ<$12><$00>
+You either have an animal, or you don't! Who cares whether\n
+you caught it or bought it?!<$12><$00>
 
 
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-1
-<$15>
-//S鍵がかかっている\n留守のようだ
-SThe door is locked.\n
-Looks like no one's home.
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//だいぶ　足の具合、いいみたいだな！\nそれにしても　あのボロ屋が、よくも\nあそこまで　リフォームできたもんだ
-While that worn down house is still standing,\n
-it needs a heavy renovation.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//リンダの男の趣味が　悪いのは\nママゆずりってトコだな
-Linda must've gotten her bad taste in men\n
-from her mom.
-<$12>
-<$00>
-
-
-
-
-
-
-//要は動物が手に入れば　いいんだろ？\n店で買おうが、捕まえようが同じだろ？\nなら　楽な方がいいに　決まってるねぇ
-You either have an animal, or you don't! Who\n
-cares whether you caught it or bought it?!
-<$12>
-<$00>
-
-
-
-
-
-
-//あたし、あなたのファンなんですぅ■\nサインを　お願いできますか？\n
+//あたし、あなたのファンなんですぅ■\nサインを　お願いできますか？\n<$01>いいよ<$0E>／<$01>ヤだよ<$0E><$00>
 I'm your biggest fan!■\n
 Can you sign this for me?\n
-<$01>
-//いいよ
-Ho, ho, ho!
-<$0E>
-//／
-<$01>
-//ヤだよ
-No, no, no!
-<$0E>
-<$00>
+<$01>Ho, ho, ho!<$0E><$01>No, no, no!<$0E><$00>
 
 
+//<CLEAR><$19>1<$15>Sケンは色紙に　慣れないサインを\nそれらしく　書いてみた…<$14><$12>\n<CLEAR>ケン？　あぁぁぁぁ！　ひどい！\nあんた「ネクちゃん」の　ニセ者ね！<$12><$00>
+<CLEAR><$19><$15>SKen awkwardly scribbled his name on the signboard.<$14><$12>\n
+<CLEAR>"Ken"?! Augh, this sucks!\n
+You're just a cheap copycat of my Nekkie!<$12><$00>
 
 
+//<CLEAR>ケチンボねぇ…<$12><$00>
+<CLEAR>Dirty, old Scrooge...<$12><$00>
 
 
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//Sケンは色紙に　慣れないサインを\nそれらしく　書いてみた…
-SKen awkwardly scribbled his name on the\n
-signboard.
-<$14><$12>
-\n
-<CLEAR>
-//ケン？　あぁぁぁぁ！　ひどい！\nあんた「ネクちゃん」の　ニセ者ね！
-"Ken"?! Augh, this sucks!\n
-You're just a cheap copycat of my Nekkie!
-<$12>
-<$00>
+//あっ∥　ニセ者野郎∥\n若い女の子を　だますのって\nそんなに楽しいの？　最低だわね！<$12><$00>
+Hold it right there, imposter! How dare you prey on a cute\n
+girl like me?! Bastard!<$12><$00>
 
 
+//ケン、おまえが　やろうとしてる\n動物集めだけどよ、集める順番には\nこだわらないほうが　いいと思うなぁ<$12>\n<CLEAR>やたら強い動物とか　いい加減な情報、\nわけのわかんない物、そういうのは\n全部、後回しにしちまいな<$12><$00>
+I hope you're not fretting too hard over the order in which\n
+you collect animals.<$12>\n
+<CLEAR>You don't have time to pussyfoot around certain animals\n
+over fickle data.<$12><$00>
 
 
+//<CLEAR>あのさ、さっきのことだけど…<$00>
+<CLEAR>The...girl I was talking about...<$00>
 
 
-<CLEAR>
-//ケチンボねぇ…
-Dirty, old Scrooge...
-<$12>
-<$00>
+//<CLEAR>サチコ…<$00>
+<CLEAR>Her name's Sachiko.<$00>
 
 
+//<CLEAR>エモリ　サチコっていうんだ<$00>
+<CLEAR>Emori Sachiko.<$00>
 
 
+//<CLEAR>控えめで　清楚でさ…\n花が風に揺れるみたいに\n笑うんだよ…<$00>
+<CLEAR>She's so lady-like. And her laugh flutters like a flower in the\n
+breeze.<$00>
 
 
-//あっ∥　ニセ者野郎∥\n若い女の子を　だますのって\nそんなに楽しいの？　最低だわね！
-Hold it right there, imposter! How dare you\n
-prey on a cute girl like me?! Bastard!
-<$12>
-<$00>
+//<CLEAR>そうとう、重傷みたいね…<$00>
+<CLEAR>Wow, he's serious about this!<$00>
 
 
+//<CLEAR>お兄ちゃんとしては\nどうする？<$00>
+<CLEAR>Well, your his big brother.\n
+What are you going to do?<$00>
 
 
+//<$01>◇<$0E><$08>4助けてやりたいとは　思うけどね\n<$01>◇<$0E><$08>4とりあえず、暖かく見守るわけよ\n<$01>◇<$0E><$08>4もしかして、今の俺の弟のネク？<$00>
+<$01>◇<$0E><$08>4I want to help, but how?\n
+<$01>◇<$0E><$08>4Let's watch for now.\n
+<$01>◇<$0E><$08>4Are Nek and I, like, twins?<$00>
 
 
-//ケン、おまえが　やろうとしてる\n動物集めだけどよ、集める順番には\nこだわらないほうが　いいと思うなぁ
-I hope you're not fretting too hard over the\n
-order in which you collect animals.
-<$12>
-\n
-<CLEAR>
-//やたら強い動物とか　いい加減な情報、\nわけのわかんない物、そういうのは\n全部、後回しにしちまいな
-You don't have time to pussyfoot around\n
-certain animals over fickle data.
-<$12>
-<$00>
+//<CLEAR>まあ！　お優しいのねぇ<$00>
+<CLEAR>Aww, you're so amiable!<$00>
 
 
+//<CLEAR>そうよ！　ケンがケガしたのを\nＮ・Ｋ・ＮＥＷＳで　知って\n名乗り出て　くれたのよ<$00>
+<CLEAR>Yep! He showed up after your "tragic downfall" aired on the\n
+NK News.<$00>
 
 
+//<CLEAR>あんな格好してるけど\nグリーン製薬の　跡取り息子！\nすごーーーい　資産家なの<$00>
+<CLEAR>Oddly enough, he's the son and heir of Green\n
+Pharmaceuticals! So he's LOADED!<$00>
 
 
-<CLEAR>
-//あのさ、さっきのことだけど…
-The...girl I was talking about...
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//サチコ…
-Her name's Sachiko.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//エモリ　サチコっていうんだ
-Emori Sachiko.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//控えめで　清楚でさ…\n花が風に揺れるみたいに\n笑うんだよ…
-She's so lady-like. And her laugh flutters\n
-like a flower in the breeze.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//そうとう、重傷みたいね…
-Wow, he's serious about this!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//お兄ちゃんとしては\nどうする？
-Well, your his big brother.\n
-What are you going to do?
-<$00>
-
-
-
-
-
-
-<$01>
-//◇
-◇
-<$0E><$08>
-//4助けてやりたいとは　思うけどね\n
-4I want to help, but how?\n
-<$01>
-//◇
-◇
-<$0E><$08>
-//4とりあえず、暖かく見守るわけよ\n
-4Let's watch for now.\n
-<$01>
-//◇
-◇
-<$0E><$08>
-//4もしかして、今の俺の弟のネク？
-4Are Nek and I, like, twins?
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//まあ！　お優しいのねぇ
-Aww, you're so amiable!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//そうよ！　ケンがケガしたのを\nＮ・Ｋ・ＮＥＷＳで　知って\n名乗り出て　くれたのよ
-Yep! He showed up after your "tragic\n
-downfall" aired on the NK News.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//あんな格好してるけど\nグリーン製薬の　跡取り息子！\nすごーーーい　資産家なの
-Oddly enough, he's the son and heir of Green\n
-Pharmaceuticals! So he's LOADED!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ケンが　最高の治療を\n受けられたのも　ネクのおかげ！\nいい弟をもって　幸せでしょ？
-Nek threw a ton of money into your medical\n
-treatment. You're lucky to have him.
-<$00>
-
-
-
-
+//<CLEAR>ケンが　最高の治療を\n受けられたのも　ネクのおかげ！\nいい弟をもって　幸せでしょ？<$00>
+<CLEAR>Nek threw a ton of money into your medical treatment.\n
+You're lucky to have him.<$00>
 
 
 #WRITE(PTR, $0020)
-<CLEAR>
-//ねぇ、ケン…\nお願いが　あるの
-Say, Ken...\n
-I have a request.
-<$00>
+//<CLEAR>ねぇ、ケン…\nお願いが　あるの<$00>
+<CLEAR>Say, Ken...\n
+I have a request.<$00>
 
 
-
-
-
-
-<CLEAR>
-//私たちに　子供が生まれたら\nこんなブランコを\n作ってあげて
-When we have kids, will you build them a\n
-swing like this one?
-<$00>
-
-
-
-
+//<CLEAR>私たちに　子供が生まれたら\nこんなブランコを\n作ってあげて<$00>
+<CLEAR>When we have kids, will you build them a swing like this\n
+one?<$00>
 
 
 #WRITE(PTR, $0022)
-//クン、クンクン………？
-Sniff...sniff, sniff?
-<$12>
+//クン、クンクン………？<$12>\n<CLEAR><$1D>のニオイが　するね\nそういえば、<$1D>食まだだっけ…<$12><$00>
+Sniff...sniff, sniff?<$12>\n
+<CLEAR><$1D>＿scent's filling the air. You know, I could go for\n
+some＿<$1D>＿!<$12><$00>
+
+
+//卵焼き<$00>
+fried eggs<$00>
+
+
+//カレー<$00>
+curry<$00>
+
+
+//焼き肉<$00>
+Neo Korean BBQ<$00>
+
+
+//唐あげ<$00>
+karaage<$00>
+
+
+//お菓子<$00>
+candy<$00>
+
+
+//バナナ<$00>
+banana<$00>
+
+
+//フライ<$00>
+Neo French fries<$00>
+
+
+//焼き魚<$00>
+grilled fish<$00>
+
+
+//トマト<$00>
+tomato<$00>
+
+
+//バター<$00>
+butter<$00>
+
+
+//ソース<$00>
+sauce<$00>
+
+
+//スープ<$00>
+＿soup<$00>
+
+
+//ピラフ<$00>
+pilaf<$00>
+
+
+//バニラ<$00>
+vanilla<$00>
+
+
+//キムチ<$00>
+kimchi<$00>
+
+
+//チーズ<$00>
+cheese<$00>
+
+
+//朝<$00>
+breakfast<$00>
+
+
+//昼<$00>
+lunch<$00>
+
+
+//夕<$00>
+dinner<$00>
+
+
+//……東<$00>
+...East<$00>
+
+
+//……西<$00>
+...West<$00>
+
+
+//……南<$00>
+...South<$00>
+
+
+//……北<$00>
+...North<$00>
+
+
+//…北東<$00>
+...North-east<$00>
+
+
+//…北西<$00>
+...North-west<$00>
+
+
+//…南東<$00>
+...South-east<$00>
+
+
+//…南西<$00>
+...South-west<$00>
+
+
+//<CLEAR>……<$1D><$00>
+<CLEAR>......<$1D><$00>
+
+
+//、…<$1D>に行けば<$00>
+! That's where we'll find a＿<$1D>.<$00>
+
+
+//直進<$00>
+For<$00>
+
+
+//右よ<$00>
+Right<$00>
+
+
+//左よ<$00>
+Left<$00>
+
+
+//後ろ<$00>
+Back<$00>
+
+
+//<CLEAR>……<$1D><$00>
+<CLEAR>......<$1D><$00>
+
+
+//、絶対に<$1D>∥<$00>
+wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
+
+
+//<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
+<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
+
+
+//<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
+<CLEAR>...Sorry. I don't have it in me today.<$12><$00>
+
+
+//運命の<$00>
+Fated＿<$00>
+
+
+//新しい<$00>
+New＿<$00>
+
+
+//素敵な<$00>
+Great＿<$00>
+
+
+//未知の<$00>
+Unknown＿<$00>
+
+
+//何か<$00>
+things＿<$00>
+
+
+//発見<$00>
+discoveries＿<$00>
+
+
+//お宝<$00>
+treasures＿<$00>
+
+
+//動物<$00>
+animals＿<$00>
+
+
+//に　出会える…<$00>
+could appear.<$00>
+
+
+//が　待ってる…<$00>
+await us...<$00>
+
+
+//気がするわ∥<$00>
+are there.<$00>
+
+
+//チャンスよ∥<$00>
+are in our grasp!<$00>
+
+
+//今しかないわ<$00>
+could slip through our fingers!<$00>
+
+
+//間違いなし∥<$00>
+are dead head!<$00>
+
+
+//\n<$1D><$1D><$1D>\n<$1D><$12>\n<CLEAR><$00>
 \n
-<CLEAR>
-//
-<$1D>
-//のニオイが　するね\nそういえば、
-＿scent's filling the air. You know, I could\n
-go for some＿
-<$1D>
-//食まだだっけ…
-＿!
-<$12>
-<$00>
+<$1D><$1D><$1D>\n
+<$1D><$12>\n
+<CLEAR><$00>
 
 
+//<CLEAR>自信があるの∥<$12><$00>
+<CLEAR>I'm sure of it!<$12><$00>
 
 
+//<CLEAR>自信は　ないけどね…<$12><$00>
+<CLEAR>Although, I'm not totally certain...<$12><$00>
 
 
-//卵焼き
-fried eggs
-<$00>
+//<CLEAR>絶対なんだから∥<$12><$00>
+<CLEAR>I'm absolutely certain!<$12><$00>
 
 
+//<$15>Yスケジュール<$00>
+<$15>YMemo＿<$00>
 
 
+//<CLEAR>スケジュールは何もありません<$12><$00>
+<CLEAR>There is nothing on schedule.<$12><$00>
 
 
-//カレー
-curry
-<$00>
+//成功終了<$00>
+Completed!<$00>
 
 
+//期限切れ<$00>
+Expired!<$00>
 
 
+//あと<$1E>季節<$00>
+In＿<$1E>＿seasons<$00>
 
 
-//焼き肉
-Neo Korean BBQ
-<$00>
+//あと<$1E>年<$1E>季節<$00>
+Deadline:＿<$1E>Y/<$1E>S<$00>
 
 
+//あと<$1E>年<$00>
+In＿<$1E>＿years<$00>
 
 
+//<$16><$01>◇<$0E><$1D><$02>190<$1D><$00>
+<$16><$01>◇<$0E><$1D><$02><$1D><$00>
 
 
-//唐あげ
-karaage
-<$00>
+//ファングを倒す<$00>
+Slay Fang<$00>
 
 
+//パンハイムからの依頼<$00>
+Assist Panheim<$00>
 
 
+//<$1B>カメの卵を手に入れる<$00>
+Snatch Turtle Eggs<$00>
 
 
-//お菓子
-candy
-<$00>
+//<$1B>プテラノの卵を手に入れる<$00>
+Snatch Pteranodon Eggs<$00>
 
 
+//遺産争いにケリをつける<$00>
+End the inheritance battle<$00>
 
 
+//ヤマダのために一肌脱ぐ<$00>
+Unload for Yamada<$00>
 
 
-//バナナ
-banana
-<$00>
+//町のシンボルを見つけだす<$00>
+Find the village symbol<$00>
 
 
+//ソフィアからの依頼<$00>
+Assist Sophia<$00>
 
 
+//サチコ救出<$00>
+Rescue Sachiko<$00>
 
 
-//フライ
-Neo French fries
-<$00>
+//ポロポロちゃんを助ける<$00>
+Save Nightshade<$00>
 
 
+//アンジェラ捜し<$00>
+Find Angela<$00>
 
 
+//<CLEAR>カラゴラムのファングを倒し、その証拠を\nハーディアホテルのスペクターに渡す<$00>
+<CLEAR>Defeat Fang in Karhagolem. Present proof to Spectre in\n
+Hardia Hotel.<$00>
 
 
-//焼き魚
-grilled fish
-<$00>
+//<CLEAR>マーブルポリスの<$1B>ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す<$00>
+<CLEAR>Process meat from＿chickens in Marblopolis.Give them to\n
+Prof. Panheim in Hospico.<$00>
 
 
+//<CLEAR><$1B>カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す<$00>
+<CLEAR>Find up to 3＿Turtle Eggs. Give them to Louis at the Battle\n
+Park BB Ranch.<$00>
 
 
+//<CLEAR><$1B>プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す<$00>
+<CLEAR>Acquire 2＿Pteranodon Eggs. Give them to Bronco at the\n
+Battle Park BB Ranch.<$00>
 
 
-//トマト
-tomato
-<$00>
+//<CLEAR>「太郎の首輪」を見つけだし、ドギファの\nナターシャか、オーマン家３兄弟に渡す<$00>
+<CLEAR>Locate Taro's Collar. Give it to Natasha or one of the 3\n
+Aumann children in Dogyf Heights.<$00>
 
 
+//６万<$00>
+60, 000<$00>
 
 
+//あと<$06><$1E><$0F>000<$04><$00>
+another＿<$06><$1E><$0F><$04><$00>
 
 
-//バター
-butter
-<$00>
+//<CLEAR>Ｇファクトリーのヤマダのために\n<$1D>￥を預金する<$00>
+<CLEAR>Deposit＿<$1D>￥ in an account to Yamada in G Factory.<$00>
 
 
+//<CLEAR>コシカタのシンボル「<$1B>トラの爪」を\n見つけだし、ポリスカに渡す<$00>
+<CLEAR>Find the＿Tiger Claw, Koshikata's village symbol. Return it\n
+to Poliska.<$00>
 
 
+//<CLEAR>ソフィアのために、エターナの桜の木を\nどうにかして咲かせる<$00>
+<CLEAR>Find out how to revive the sakura trees in Eterna for\n
+Sophia.<$00>
 
 
-//ソース
-sauce
-<$00>
+//<CLEAR>溶岩の中で育った動物の熱いウンチを\nエターナのソフィアに渡す<$00>
+<CLEAR>Deliver Hot Dung from a lava-dwelling creature to Sophia in\n
+Eterna.<$00>
 
 
+//<CLEAR>ラグナロッジのエモリに会いに行く<$00>
+<CLEAR>Meet with Dr. Emori in Ragna Rim.<$00>
 
 
+//<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nＧファクトリー入口１階、\n公衆電話の前に行く<$00>
+<CLEAR>Take the Floppy Disc and＿<$06>10, 000<$04>￥ to the G Factory\n
+gate. Answer the payphone.<$00>
 
 
-//スープ
-＿soup
-<$00>
+//<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nパラサイド入口１階、\n公衆電話の前に行く<$00>
+<CLEAR>Take the Floppy Disc and＿<$06>10, 000<$04>￥ to the Paraside gate.\n
+Answer the payphone.<$00>
 
 
+//<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nガレックスに行く<$00>
+<CLEAR>Take the Floppy Disc and＿<$06>10, 000<$04>￥ to Galax.<$00>
 
 
+//<CLEAR>ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す<$00>
+<CLEAR>Pick bloodberries in Flora Jam. Take them to Kevin and\n
+Nightshade in Rose Garden.<$00>
 
 
-//ピラフ
-pilaf
-<$00>
+//<CLEAR>パラサイドの酒場にいるアンジェラを\n確認して、リナバレーのマリオに連絡する<$00>
+<CLEAR>Look for Angela at the Paraside bar. Report your findings\n
+to Mario in Spurr Valley.<$00>
 
 
+//<CLEAR>アンジェラを確認するために、\nオズポートホテルの酒場に行く<$00>
+<CLEAR>Look for Angela at the OzPort Hotel bar.<$00>
 
 
+//<CLEAR>アンジェラを確認するために、\n西エリアのしけた町のホテルに行く<$00>
+<CLEAR>Look for Angela at a hotel bar somewhere in West Area.<$00>
 
 
-//バニラ
-vanilla
-<$00>
+//<CLEAR>アンジェラを確認するために、\nドギファの舞台に行く<$00>
+<CLEAR>Look for Angela at the theater stage in Dogyf Heights.<$00>
 
 
-
-
-
-
-//キムチ
-kimchi
-<$00>
-
-
-
-
-
-
-//チーズ
-cheese
-<$00>
-
-
-
-
-
-
-//朝
-breakfast
-<$00>
-
-
-
-
-
-
-//昼
-lunch
-<$00>
-
-
-
-
-
-
-//夕
-dinner
-<$00>
-
-
-
-
-
-
-//……東
-...East
-<$00>
-
-
-
-
-
-
-//……西
-...West
-<$00>
-
-
-
-
-
-
-//……南
-...South
-<$00>
-
-
-
-
-
-
-//……北
-...North
-<$00>
-
-
-
-
-
-
-//…北東
-...North-east
-<$00>
-
-
-
-
-
-
-//…北西
-...North-west
-<$00>
-
-
-
-
-
-
-//…南東
-...South-east
-<$00>
-
-
-
-
-
-
-//…南西
-...South-west
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//……
-......
-<$1D>
-<$00>
-
-
-
-
-
-
-//、…
-! That's where we'll find a＿
-<$1D>
-//に行けば
-.
-<$00>
-
-
-
-
-
-
-//直進
-For
-<$00>
-
-
-
-
-
-
-//右よ
-Right
-<$00>
-
-
-
-
-
-
-//左よ
-Left
-<$00>
-
-
-
-
-
-
-//後ろ
-Back
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//……
-......
-<$1D>
-<$00>
-
-
-
-
-
-
-//、絶対に
-wards, got it? I'm sure we'll find a＿
-<$1D>
-//∥
-＿there!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//Sリンダは　「女の勘」を\nはたらかせた∥
-SLinda used her woman's intuition...
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//…ごめんね、\n今日は　勘がはたらかないわ…
-...Sorry. I don't have it in me today.
-<$12>
-<$00>
-
-
-
-
-
-
-//運命の
-Fated＿
-<$00>
-
-
-
-
-
-
-//新しい
-New＿
-<$00>
-
-
-
-
-
-
-//素敵な
-Great＿
-<$00>
-
-
-
-
-
-
-//未知の
-Unknown＿
-<$00>
-
-
-
-
-
-
-//何か
-things＿
-<$00>
-
-
-
-
-
-
-//発見
-discoveries＿
-<$00>
-
-
-
-
-
-
-//お宝
-treasures＿
-<$00>
-
-
-
-
-
-
-//動物
-animals＿
-<$00>
-
-
-
-
-
-
-//に　出会える…
-could appear.
-<$00>
-
-
-
-
-
-
-//が　待ってる…
-await us...
-<$00>
-
-
-
-
-
-
-//気がするわ∥
-are there.
-<$00>
-
-
-
-
-
-
-//チャンスよ∥
-are in our grasp!
-<$00>
-
-
-
-
-
-
-//今しかないわ
-could slip through our fingers!
-<$00>
-
-
-
-
-
-
-//間違いなし∥
-are dead head!
-<$00>
-
-
-
-
-
-
-//\n
-\n
-<$1D><$1D><$1D>
-//\n
-\n
-<$1D><$12>
-\n
-<CLEAR>
-//
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//自信があるの∥
-I'm sure of it!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//自信は　ないけどね…
-Although, I'm not totally certain...
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//絶対なんだから∥
-I'm absolutely certain!
-<$12>
-<$00>
-
-
-
-
-
-
-//
-<$15>
-//Yスケジュール
-YMemo＿
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//スケジュールは何もありません
-There is nothing on schedule.
-<$12>
-<$00>
-
-
-
-
-
-
-//成功終了
-Completed!
-<$00>
-
-
-
-
-
-
-//期限切れ
-Expired!
-<$00>
-
-
-
-
-
-
-//あと
-In＿
-<$1E>
-//季節
-＿seasons
-<$00>
-
-
-
-
-
-
-//あと
-Deadline:＿
-<$1E>
-//年
-Y/
-<$1E>
-//季節
-S
-<$00>
-
-
-
-
-
-
-//あと
-In＿
-<$1E>
-//年
-＿years
-<$00>
-
-
-
-
-
-
-<$16><$01>
-//◇
-◇
-<$0E><$1D><$02>
-//190
-<$1D>
-<$00>
-
-
-
-
-
-
-//ファングを倒す
-Slay Fang
-<$00>
-
-
-
-
-
-
-//パンハイムからの依頼
-Assist Panheim
-<$00>
-
-
-
-
-
-
-//<$1B>
-//カメの卵を手に入れる
-Snatch Turtle Eggs
-<$00>
-
-
-
-
-
-
-//<$1B>
-//プテラノの卵を手に入れる
-Snatch Pteranodon Eggs
-<$00>
-
-
-
-
-
-
-//遺産争いにケリをつける
-End the inheritance battle
-<$00>
-
-
-
-
-
-
-//ヤマダのために一肌脱ぐ
-Unload for Yamada
-<$00>
-
-
-
-
-
-
-//町のシンボルを見つけだす
-Find the village symbol
-<$00>
-
-
-
-
-
-
-//ソフィアからの依頼
-Assist Sophia
-<$00>
-
-
-
-
-
-
-//サチコ救出
-Rescue Sachiko
-<$00>
-
-
-
-
-
-
-//ポロポロちゃんを助ける
-Save Nightshade
-<$00>
-
-
-
-
-
-
-//アンジェラ捜し
-Find Angela
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//カラゴラムのファングを倒し、その証拠を\nハーディアホテルのスペクターに渡す
-Defeat Fang in Karhagolem. Present proof to\n
-Spectre in Hardia Hotel.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//マーブルポリスの
-Process meat from＿
-//<$1B>
-//ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す
-chickens in Marblopolis.Give them to Prof.\n
-Panheim in Hospico.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-Find up to 3＿
-//<$1B>
-//カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す
-Turtle Eggs. Give them to Louis at the Battle\n
-Park BB Ranch.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-Acquire 2＿
-//<$1B>
-//プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す
-Pteranodon Eggs. Give them to Bronco at the\n
-Battle Park BB Ranch.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//「太郎の首輪」を見つけだし、ドギファの\nナターシャか、オーマン家３兄弟に渡す
-Locate Taro's Collar. Give it to Natasha or\n
-one of the 3 Aumann children in Dogyf\n
-Heights.
-<$00>
-
-
-
-
-
-
-//６万
-60, 000
-<$00>
-
-
-
-
-
-
-//あと
-another＿
-<$06><$1E><$0F>
-//000
-<$04>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//Ｇファクトリーのヤマダのために\n
-Deposit＿
-<$1D>
-//￥を預金する
-￥ in an account to Yamada in G Factory.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//コシカタのシンボル「
-Find the＿
-//<$1B>
-//トラの爪」を\n見つけだし、ポリスカに渡す
-Tiger Claw, Koshikata's village symbol.\n
-Return it to Poliska.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ソフィアのために、エターナの桜の木を\nどうにかして咲かせる
-Find out how to revive the sakura trees in\n
-Eterna for Sophia.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//溶岩の中で育った動物の熱いウンチを\nエターナのソフィアに渡す
-Deliver Hot Dung from a lava-dwelling\n
-creature to Sophia in Eterna.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ラグナロッジのエモリに会いに行く
-Meet with Dr. Emori in Ragna Rim.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//「フロッピーと
-Take the Floppy Disc and＿
-<$06>
-//10
-10, 000
-<$04>
-//万￥」を持って、\nＧファクトリー入口１階、\n公衆電話の前に行く
-￥ to the G Factory gate. Answer the payphone.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//「フロッピーと
-Take the Floppy Disc and＿
-<$06>
-//10
-10, 000
-<$04>
-//万￥」を持って、\nパラサイド入口１階、\n公衆電話の前に行く
-￥ to the Paraside gate. Answer the payphone.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//「フロッピーと
-Take the Floppy Disc and＿
-<$06>
-//10
-10, 000
-<$04>
-//万￥」を持って、\nガレックスに行く
-￥ to Galax.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す
-Pick bloodberries in Flora Jam. Take them to\n
-Kevin and Nightshade in Rose Garden.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//パラサイドの酒場にいるアンジェラを\n確認して、リナバレーのマリオに連絡する
-Look for Angela at the Paraside bar. Report\n
-your findings to Mario in Spurr Valley.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//アンジェラを確認するために、\nオズポートホテルの酒場に行く
-Look for Angela at the OzPort Hotel bar.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//アンジェラを確認するために、\n西エリアのしけた町のホテルに行く
-Look for Angela at a hotel bar somewhere in\n
-West Area.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//アンジェラを確認するために、\nドギファの舞台に行く
-Look for Angela at the theater stage in Dogyf\n
-Heights.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//リナバレーのマリオの母、\nアンジェラを追ってオズサットへ行く
-Chase Angela to OzSat! Mario will follow from\n
-Spurr Valley.
-<$00>
-
-
-
-
+//<CLEAR>リナバレーのマリオの母、\nアンジェラを追ってオズサットへ行く<$00>
+<CLEAR>Chase Angela to OzSat! Mario will follow from Spurr Valley.<$00>
 
 
 

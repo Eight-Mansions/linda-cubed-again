@@ -209,1275 +209,472 @@ kao_s9.obj
 
 
 #WRITE(PTR, $0022)
-//第２病棟１Ｆ
-Ward 2 1F＿
-<$00>
+//第２病棟１Ｆ<$00>
+Ward 2 1F＿<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
+//<CLEAR><$06>10<$04>年以上前になるかな…\nハッスルⅡっていう　興奮剤が\nハンターを中心に　流行したんだよ<$12>\n<CLEAR>ハッスルⅡ１粒で　<$1B>サイや<$1B>オオカミと\nタメ張れるほど　攻撃力が上がるんだ<$12>\n<CLEAR>みんな競うように　飲みまくった…\n副作用で　精神も肉体も　ボロボロに\nなることが　わかった後でもな<$12><$00>
+<CLEAR><$06>Ten<$04>＿or so years ago, a stimulant known as Hustle Ⅱ\n
+boomed among hunters. <$12>\n
+<CLEAR>A single drop of Hustle Ⅱ could boost your strength to\n
+take on a＿rhino or a＿wolf!<$12>\n
+<CLEAR>Everyone was downing it, even after learning that it fries\n
+the brain and body.\n
+<CLEAR>Hunting is just that competitive...<$12><$00>
 
 
+//世界中で一番　美しいカーブは\n間違いなく　妊婦のお腹のカーブだよ<$12>\n<CLEAR>とくに　出産１ヶ月前あたりが良いなぁ\nその中でも　最高に美しいのは　亀腹∥\nあれは　まさしく「神の技」だ<$12><$00>
+The most beautiful curve in the world is that of a\n
+pregnant woman's belly.<$12>\n
+<CLEAR>The curve is especially pleasing to the eye in that last\n
+month. <$12>\n
+<CLEAR>In second place, I like the curves on a handpan. Curves!\n
+Curves are God's gift!<$12><$00>
 
 
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$06>
-//10
-Ten
-<$04>
-//年以上前になるかな…\nハッスルⅡっていう　興奮剤が\nハンターを中心に　流行したんだよ
-＿or so years ago, a stimulant known as Hustle\n
-Ⅱ boomed among hunters.
-<$12>
-\n
-<CLEAR>
-//ハッスルⅡ１粒で　
-A single drop of Hustle Ⅱ could boost your\n
-strength to take on a＿
-//<$1B>
-//サイや
-rhino or a＿
-//<$1B>
-//オオカミと\nタメ張れるほど　攻撃力が上がるんだ
-wolf!
-<$12>
-\n
-<CLEAR>
-//みんな競うように　飲みまくった…\n副作用で　精神も肉体も　ボロボロに\nなることが　わかった後でもな
-Everyone was downing it, even after learning\n
-that it fries the brain and body.
-\n
-<CLEAR>
-Hunting is just that competitive...
-<$12>
-<$00>
-
-
-
-
-
-
-//世界中で一番　美しいカーブは\n間違いなく　妊婦のお腹のカーブだよ
-The most beautiful curve in the world is that\n
-of a pregnant woman's belly.
-<$12>
-\n
-<CLEAR>
-The curve is especially pleasing to the eye\n
-in that last month.
-<$12>
-\n
-<CLEAR>
-//とくに　出産１ヶ月前あたりが良いなぁ\nその中でも　最高に美しいのは　亀腹∥\nあれは　まさしく「神の技」だ
-In second place, I like the curves on a\n
-handpan. Curves! Curves are God's gift!
-<$12>
-<$00>
-
-
-
-
-
-
-//ホスピタル　コーポレーションが\nこの町の　正式名称なんだってね
+//ホスピタル　コーポレーションが\nこの町の　正式名称なんだってね<$12>\n<CLEAR>筆頭株主は　もちろん連邦なんだけど\nネオケニアの住人全員が　一応、\n株主ってことに　なってるらしいわ<$12><$00>
 The full official name\n
 of this complex is\n
-Hospital Corporation".
-<$12>
-\n
-<CLEAR>
-//筆頭株主は　もちろん連邦なんだけど\nネオケニアの住人全員が　一応、\n株主ってことに　なってるらしいわ
-The Federation is the largest shareholder\n
-over the complex, but it's the people of Neo\n
-Kenya who truly share and hold it.
-<$12>
-<$00>
+Hospital Corporation".<$12>\n
+<CLEAR>The Federation is the largest shareholder over the complex,\n
+but it's the people of Neo Kenya who truly share and hold\n
+it.<$12><$00>
 
 
+//たいていの動物は　人間を見たら\n逃げてゆく…　動物は知ってるんだよ、\n人間だけが　満腹でも襲って来るって<$12><$00>
+Most animals flee at the sight of humans, because they\n
+know that us humans will still attack them even if we don't\n
+need to.<$12><$00>
 
 
+//洞くつの中の動物たちは　普通は\n季節に影響を　うけることはない<$12>\n<CLEAR>ただ例外的に　特定の季節だけ\n洞くつを　住み家にする変わりダネも\n何種類かは　いるみたいだな<$12><$00>
+Animals living in caves don't normally respond to changes in\n
+the seasons.<$12>\n
+<CLEAR>That said, there are some species that only move into caves\n
+during certain seasons.<$12><$00>
 
 
-//たいていの動物は　人間を見たら\n逃げてゆく…　動物は知ってるんだよ、\n人間だけが　満腹でも襲って来るって
-Most animals flee at the sight of humans,\n
-because they know that us humans will still\n
-attack them even if we don't need to.
-<$12>
-<$00>
+//町の中では　時間のことは\n考えなくていい！　だから、焦らず\nいろんな人の話を　聞きな<$12>\n<CLEAR>ただ、話の中身には　最初から\n期待しないほうが　無難だな\n噂、ウソ、自慢、愚痴、中傷ばかりサ<$12><$00>
+When in town, time doesn't matter! Take your time and get to\n
+know people!<$12>\n
+<CLEAR>Of course, don't expect much at first besides everyone\n
+moaning and groaning about the world.<$12><$00>
 
 
-
-
-
-
-//洞くつの中の動物たちは　普通は\n季節に影響を　うけることはない
-Animals living in caves don't normally\n
-respond to changes in the seasons.
-<$12>
-\n
-<CLEAR>
-//ただ例外的に　特定の季節だけ\n洞くつを　住み家にする変わりダネも\n何種類かは　いるみたいだな
-That said, there are some species that only\n
-move into caves during certain seasons.
-<$12>
-<$00>
-
-
-
-
-
-
-//町の中では　時間のことは\n考えなくていい！　だから、焦らず\nいろんな人の話を　聞きな
-When in town, time doesn't matter! Take your\n
-time and get to know people!
-<$12>
-\n
-<CLEAR>
-//ただ、話の中身には　最初から\n期待しないほうが　無難だな\n噂、ウソ、自慢、愚痴、中傷ばかりサ
-Of course, don't expect much at first besides\n
-everyone moaning and groaning about the\n
-world.
-<$12>
-<$00>
-
-
-
-
-
-
-//ヒー　ヒー　フー、ヒー　ヒー　フー\nヒー　ヒー　フーで　いいんだよね？\n
+//ヒー　ヒー　フー、ヒー　ヒー　フー\nヒー　ヒー　フーで　いいんだよね？\n<$01>その通りです！<$0E>／<$01>何ですかソレ？<$0E><$00>
 Hee! Hee! Hoo! Hee! Hee! Hoo!\n
 Am I doing it right?\n
-<$01>
-//その通りです！
-Yep!
-<$0E>
-//／
-／
-<$01>
-//何ですかソレ？
-Doing what right?
-<$0E>
-<$00>
+<$01>Yep!<$0E>／<$01>Doing what right?<$0E><$00>
 
 
+//<CLEAR>いくら練習しても　本番じゃ\nなかなか　うまくできないんだよね<$12><$00>
+<CLEAR>No matter how hard I practice, there's no telling how I'll do\n
+in the real thing.<$12><$00>
 
 
+//<CLEAR>ヒー　ヒー　フッフだっけ？<$12><$00>
+<CLEAR>Going, "Hee! Hee! Hoo," duh!<$12><$00>
 
 
-<CLEAR>
-//いくら練習しても　本番じゃ\nなかなか　うまくできないんだよね
-No matter how hard I practice, there's no\n
-telling how I'll do in the real thing.
-<$12>
-<$00>
+//昔は死体なら何でも　盗まれた頃が\nあって　地下の霊安室の出入りも\nきびしいチェックが　あったらしいよ<$12>\n<CLEAR>今は　そうでもないね<$12>\n<CLEAR>いかにも　盗みたくなるようなのしか\nなくならない…　まっ、だいたいは\nわかるな、こいつは盗まれるなってね<$12><$00>
+In the old days, when corpses were all getting stolen...<$12>\n
+<CLEAR>...there'd be strict checks of the underground tunnels to\n
+and form the morgue.<$12>\n
+<CLEAR>But not anymore. It's like they WANT us to steal corpses,\n
+you know? Like...this one...<$12><$00>
 
 
-
-
-
-
-<CLEAR>
-//ヒー　ヒー　フッフだっけ？
-Going, "Hee! Hee! Hoo," duh!
-<$12>
-<$00>
-
-
-
-
-
-
-//昔は死体なら何でも　盗まれた頃が\nあって　地下の霊安室の出入りも\nきびしいチェックが　あったらしいよ
-In the old days, when corpses were all\n
-getting stolen...
-<$12>
-\n
-<CLEAR>
-//今は　そうでもないね
-...there'd be strict checks of the\n
-underground tunnels to and form the morgue.
-<$12>
-\n
-<CLEAR>
-//いかにも　盗みたくなるようなのしか\nなくならない…　まっ、だいたいは\nわかるな、こいつは盗まれるなってね
-But not anymore. It's like they WANT us to\n
-steal corpses, you know? Like...this one...
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//いつも　最善を尽くし\nできることは　すべてやる！\nエモリ先生の　モットーなんですって
-"I do all I can! That's all I can do!"\n
-That's Dr. Emori's motto for you.
-<$12>
-\n
-<CLEAR>
-//口で言うだけなら　簡単だけど\nそれを　本気で実践してるのは\nあの先生くらいのものね
-It's easy to say, but hard to emulate as\n
-dutily as he does.
-<$12>
-\n
-<CLEAR>
-//見かけは　気弱そうだけど、\n緊急時の決断は　誰より迅速で正確!\nエモリ先生は　まさに医者の鏡だわ
-He makes critical decisions faster and\n
-clearer than anyone. He's a doctor guru, man!
-<$12>
-<$00>
-
-
-
-
+//<CLEAR>いつも　最善を尽くし\nできることは　すべてやる！\nエモリ先生の　モットーなんですって<$12>\n<CLEAR>口で言うだけなら　簡単だけど\nそれを　本気で実践してるのは\nあの先生くらいのものね<$12>\n<CLEAR>見かけは　気弱そうだけど、\n緊急時の決断は　誰より迅速で正確!\nエモリ先生は　まさに医者の鏡だわ<$12><$00>
+<CLEAR>"I do all I can! That's all I can do!"\n
+That's Dr. Emori's motto for you.<$12>\n
+<CLEAR>It's easy to say, but hard to emulate as dutily as he\n
+does.<$12>\n
+<CLEAR>He makes critical decisions faster and clearer than anyone.\n
+He's  a doctor guru, man!<$12><$00>
 
 
 #WRITE(PTR, $0024)
-//第２病棟２Ｆ
-Ward 2 2F＿
-<$00>
+//第２病棟２Ｆ<$00>
+Ward 2 2F＿<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
+//院長先生に　聞いたんだけど　<$1E>2年前\nリンダさんて　新生児室の隣りの\nあの部屋で　生まれたんだってね<$12><$00>
+Director Chen told me that Linda was delivered in the room\n
+next to the nursery some＿<$1E>2 years earlier.<$12><$00>
 
 
+//赤ン坊もね、離乳した途端に\nウンチが　たまんなく臭くなる…\nあのニオイをかぐたびに　思うんだよ<$12>\n<CLEAR>あぁ、このコも　もう天使じゃない\n後戻りのできない　人間になった…<$12>\n<CLEAR>おめでとう…ってね<$12><$00>
+After babies are weened, the smell of their poop gets\n
+arguably worse.<$12>\n
+<CLEAR>That's when you realize, "Oh, this little baby's no longer\n
+some angel, but a full-fledged human."<$12>\n
+<CLEAR>It makes me want to clap and wish them, "Congratulations!"<$12><$00>
 
 
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
+//フローラ博士のトコの　花って\n人間の言葉を　マネして\nしゃべるのよ…<$12>\n<CLEAR>あんな花で　花屋をつくったら\nにぎやかだろうけど　お客は\n気味悪がって　逃げ出しちゃうわね<$12><$00>
+The flowers in Dr. Flora's lab can mimic human speech.<$12>\n
+<CLEAR>But who wants flowers like that? Can't sell them. That\n
+liveliness will scare customers away.<$12><$00>
 
 
+//エモリ・ラボの前の花壇は　いいよ\n心が　なごむというか…\n洗われるというかサ…<$12>\n<CLEAR>やっぱ　花壇を造ってる人の\n心が　きれいだからだろうなぁ<$12><$00>
+The flowerbed in front of Emori's Lab is lovely. It\n
+soothes my heart just looking at it.<$12>\n
+<CLEAR>It must be because the girl who grows those flowers is\n
+such a lovely person.<$12><$00>
 
 
+//<CLEAR>ケン…　ケン…<$00>
+<CLEAR>Ken... Ken...!<$00>
 
 
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
+//<CLEAR>この赤ちゃんたちみたいに\nケンも　お母さんから\n産まれてきたんでしょ…<$00>
+<CLEAR>You were born from inside your mother, as were these\n
+infants.<$00>
 
 
+//<CLEAR>でも　私たちは　違ったわ…\n私たちは　本物じゃないから<$00>
+<CLEAR>"I", however, am different.\n
+"I" am not real.<$00>
 
 
+//<CLEAR>本物のサチコは　箱船の乗員に\n落選したことを　知らされて\n発作的に　自殺したの<$00>
+<CLEAR>The real Sachiko jumped after her pilot application was\n
+rejected.<$00>
 
 
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
+//<CLEAR>そうよ…<$00>
+<CLEAR>Indeed...<$00>
 
 
+//<CLEAR>ミナゴの教会から\n最初に　飛び降りたのが\n本物のサチコ<$00>
+<CLEAR>The real Sachiko was the first to jump from the roof of\n
+Minago church.<$00>
 
 
+//<CLEAR>私たちは　そのサチコの\n細胞の核から　合成されただけの\nデミ・クローンなの<$00>
+<CLEAR>My sisters and I are demi-clones, synthetically created from\n
+her  cells.<$00>
 
 
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
+//<CLEAR>たぶんお父様が　リンダさんや\n選考員の方たちに　復讐を誓った\nその日が　私たちの誕生日<$00>
+<CLEAR>Our "birthday" was the day Father swore vengeance on\n
+Linda and the selection committee.<$00>
 
 
+//<CLEAR>ねぇ　ケン…　教えてくれる？<$00>
+<CLEAR>Ken...can you tell me something?<$00>
 
 
+//<CLEAR>私…<$00>
+<CLEAR>Who am "I"?<$00>
 
 
-//院長先生に　聞いたんだけど　
-Director Chen told me that Linda was\n
-delivered in the room next to the nursery\n
-some＿
-<$1E>
-//2年前\nリンダさんて　新生児室の隣りの\nあの部屋で　生まれたんだってね
-2 years earlier.
-<$12>
-<$00>
+//<CLEAR>私は　いったい誰なの￠<$00>
+<CLEAR>Who in the world am "I"?!<$00>
 
 
+//<CLEAR>エモリ<$08><$06>・<$04>ラボは　この建物の東側、\n娘のサチコさんが造った　花壇が目印だ\n行けば　すぐ　わかるよ<$12><$00>
+<CLEAR>Dr. Emori's<$08><$06>＿<$04>lab is outside and to the immediate right.<$12>\n
+<CLEAR>Look for the flowerbed his daughter,\n
+Sachiko, tends to, and you're there.<$12><$00>
 
 
+//<CLEAR>詳しいことは　エモリ先生から\n直接聞く方が　いいだろう\nリンダも　エモリ・ラボに入院中だ…<$12><$00>
+<CLEAR>For details, you're better off asking Dr. Emori himself.\n
+Linda's undergoing treatment in his lab.<$12><$00>
 
 
-//赤ン坊もね、離乳した途端に\nウンチが　たまんなく臭くなる…\nあのニオイをかぐたびに　思うんだよ
-After babies are weened, the smell of their\n
-poop gets arguably worse.
-<$12>
-\n
-<CLEAR>
-//あぁ、このコも　もう天使じゃない\n後戻りのできない　人間になった…
-That's when you realize, "Oh, this little\n
-baby's no longer some angel, but a\n
-full-fledged human."
-<$12>
-\n
-<CLEAR>
-//おめでとう…ってね
-It makes me want to clap and wish them,\n
-"Congratulations!"
-<$12>
-<$00>
-
-
-
-
-
-
-//フローラ博士のトコの　花って\n人間の言葉を　マネして\nしゃべるのよ…
-The flowers in Dr. Flora's lab can mimic\n
-human speech.
-<$12>
-\n
-<CLEAR>
-//あんな花で　花屋をつくったら\nにぎやかだろうけど　お客は\n気味悪がって　逃げ出しちゃうわね
-But who wants flowers like that? Can't sell\n
-them. That liveliness will scare customers\n
-away.
-<$12>
-<$00>
-
-
-
-
-
-
-//エモリ・ラボの前の花壇は　いいよ\n心が　なごむというか…\n洗われるというかサ…
-The flowerbed in front of Emori's Lab is\n
-lovely. It soothes my heart just looking at\n
-it.
-<$12>
-\n
-<CLEAR>
-//やっぱ　花壇を造ってる人の\n心が　きれいだからだろうなぁ
-It must be because the girl who grows those\n
-flowers is such a lovely person.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ケン…　ケン…
-Ken... Ken...!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//この赤ちゃんたちみたいに\nケンも　お母さんから\n産まれてきたんでしょ…
-You were born from inside your mother, as\n
-were these infants.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//でも　私たちは　違ったわ…\n私たちは　本物じゃないから
-"I", however, am different.\n
-"I" am not real.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//本物のサチコは　箱船の乗員に\n落選したことを　知らされて\n発作的に　自殺したの
-The real Sachiko jumped after her pilot\n
-application was rejected.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//そうよ…
-Indeed...
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ミナゴの教会から\n最初に　飛び降りたのが\n本物のサチコ
-The real Sachiko was the first to jump from\n
-the roof of Minago church.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//私たちは　そのサチコの\n細胞の核から　合成されただけの\nデミ・クローンなの
-My sisters and I are demi-clones,\n
-synthetically created from her cells.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//たぶんお父様が　リンダさんや\n選考員の方たちに　復讐を誓った\nその日が　私たちの誕生日
-Our "birthday" was the day Father swore\n
-vengeance on Linda and the selection\n
-committee.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ねぇ　ケン…　教えてくれる？
-Ken...can you tell me something?
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//私…
-Who am "I"?
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//私は　いったい誰なの￠
-Who in the world am "I"?!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//エモリ
-Dr. Emori's
-<$08><$06>
-//・
-＿
-<$04>
-//ラボは　この建物の東側、\n娘のサチコさんが造った　花壇が目印だ\n行けば　すぐ　わかるよ
-lab is outside and to the immediate right.
-<$12>
-\n
-<CLEAR>
-Look for the flowerbed his daughter,\n
-Sachiko, tends to, and you're there.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//詳しいことは　エモリ先生から\n直接聞く方が　いいだろう\nリンダも　エモリ・ラボに入院中だ…
-For details, you're better off asking Dr.\n
-Emori himself. Linda's undergoing treatment\n
-in his lab.
-<$12>
-<$00>
-
-
-
-
-
-
-//気がついたかね？　ケン君\nここは　ホスピコの第２病棟だ\n私は　院長のチェンだ！　よろしくね
+//気がついたかね？　ケン君\nここは　ホスピコの第２病棟だ\n私は　院長のチェンだ！　よろしくね<$12>\n<CLEAR>それにしても　ひどいことになったね…\n生き残ったのは　キミとリンダだけだ…\n犯人は　今のところ捕まっていない<$12>\n<CLEAR>ところで　リンダの容体だが\n手術は　万事、うまくいったと\nエモリ先生から　報告を受けている<$12><$00>
 Ah, you must be Ken!\n
-I'm Director Chen, and this is Ward 2 of\n
-Hospico!
-<$12>
+I'm Director Chen, and this is Ward 2 of Hospico!<$12>\n
+<CLEAR>You're lucky to survive such a tragedy. You and Linda were\n
+the only two found alive, and the assailant has yet to be\n
+caught.<$12>\n
+<CLEAR>On that, I did receive Dr. Emori's report. Linda's treatment\n
+was successful!<$12><$00>
+
+
+//<CLEAR>さぁ、ひとりで歩けるようなら\nキミのほうは　退院だ<$12><$00>
+<CLEAR>Now, if you can walk on your own, you're free to go!<$12><$00>
+
+
+//心配なのは　わかるが、\n今、キミが彼女にしてやれることは\n何もないんだ…<$12>\n<CLEAR>大丈夫∥　リンダが産まれた\nこの同じベッドで　死なせやしない∥\nリンダのママが　守ってくれるはずだ<$12><$00>
+You must be worried. While, there's nothing you can do\n
+for her now, she'll be fine.<$12>\n
+<CLEAR>By her mother's grace, Linda will not die in the same bed\n
+she was born in!<$12><$00>
+
+
+//すまん…　催眠ガスでやられた…<$12><$00>
+They got me with sleeping gas...<$12><$00>
+
+
+//かなうなら　キミとリンダの子も\nこの同じベッドで　私の手で\n取り上げさせてくれよ！<$12><$00>
+Just maybe, I'll get to pick up and hold and yours and\n
+Linda's baby here too!<$12><$00>
+
+
+//エモリ・ラボは　この建物の東側に\nありますよ！　娘さんが造ってる\n花壇が　１年中きれいよ<$12><$00>
+Emori's Lab is out to the right. The doctor's daughter\n
+stays here all year round to tend to his flower garden!<$12><$00>
+
+
+//<CLEAR>リンダさんを　取り上げた助産婦が\n「聖母の右手」と呼ばれるほどの\n腕前の人だったらしいんだけど…<$12>\n<CLEAR>その方の　最後の仕事だったんだって！\nそれで　印象に残ってたらしいわ<$12><$00>
+<CLEAR>The midwife who delivered Linda was hailed for her great\n
+skill as "the Surgeon Mary". <$12>\n
+<CLEAR>I heard that was her last job here, but she left a huge\n
+impression on me.<$12><$00>
+
+
+//生き残ったあんたに　こんなことを\n言うのは酷だけどサ、どうして\nあんたたちだけ　殺されなかったか…<$12>\n<CLEAR>犯人はおいしい物を　最後に\n食べるクセのある　子供のような\n性格なんじゃ　ないのかねぇ<$12><$00>
+I know it's wrong to say this to a survivor, but why were\n
+you and Linda spared?<$12>\n
+<CLEAR>Maybe the assailant has a childish personality and wanted\n
+to "save the best for last"?<$12><$00>
+
+
+//スー、スー<$12><$00>
+Zzz...zzz...<$12><$00>
+
+
+//<CLEAR>ケンと　リンダさんでしょ？\n会いたかったわ∥\nはじめまして∥<$00>
+<CLEAR>You must be Ken and Linda! It's great to finally meet you!<$00>
+
+
+//<CLEAR>エモリサチコです<$00>
+<CLEAR>I'm Emori Sachiko.<$00>
+
+
+//<CLEAR>…やっぱり　あなたたちには\n本当のことを　言うわ…<$00>
+<CLEAR>...Actually, I suppose you deserve the whole truth.<$00>
+
+
+//<CLEAR>私もね…　１号や２号と同じ\nデミ・クローンなの<$00>
+<CLEAR>Like No. 1 amd No. 2, I too am a demi-clone.<$00>
+
+
+//<CLEAR>本物のサチコは　自殺した後\nしばらく　植物状態患者のまま\n小康状態が　続いたんだけど…<$00>
+<CLEAR>After the "real" Sachiko jumped, she slept in a vegetative\n
+coma for some time.<$00>
+
+
+//<CLEAR>ある朝、気づいたら死んでたの<$00>
+<CLEAR>Then, one morning, I came in and discovered that she had\n
+finally died.<$00>
+
+
+//<CLEAR>みんなで　クジを引いたわ\n誰が　代役になるかのね<$00>
+<CLEAR>My sisters and I drew lots to determine who would stand in\n
+for her.<$00>
+
+
+//<CLEAR>だって　お父様が　あまりに\nかわいそうだったから…<$00>
+<CLEAR>We all felt sorry for Father, you understand.<$00>
+
+
+//<CLEAR>…………………<$12><$00>
+<CLEAR>.........<$12><$00>
+
+
+//<CLEAR>でも　もう、何もかも\n終わったんでしょ？<$00>
+<CLEAR>And it's all over now, isn't it.<$00>
+
+
+//<CLEAR>思考を共鳴しようと　しても\n１号からも　２号からも\n何も　伝わってこなくなったわ<$00>
+<CLEAR>My thoughts would synchronize with No. 1 and No. 2's, but\n
+now I feel nothing.<$00>
+
+
+//<CLEAR>１号から　最後に感じたのは\n柔らかで暖かい　波動だった\n言葉に直すなら…　そうね…<$00>
+<CLEAR>The last I felt was a warm and tender wave from No. 1. To\n
+put it in words...<$00>
+
+
+//<CLEAR>「ありがとう」　もしくは…\n「愛してる」が　近いかなぁ<$00>
+<CLEAR>...I'd say it was along the lines of "thank you," or rather, "I\n
+love you".<$00>
+
+
+//<CLEAR>確かに伝えたわよ　ケン！<$00>
+<CLEAR>I had to tell you that, Ken.<$00>
+
+
+//<CLEAR>１度に　たくさん　話したら\n何だか　疲れちゃった…<$00>
+<CLEAR>We've only spoken this once, but I'm already so tired...<$00>
+
+
+//<CLEAR>本当は　もうひとつだけ\n聞いて欲しいことが　あるの\nでも今日は　やめとくわ…<$00>
+<CLEAR>There was more I wanted to say, honestly, but I'll stop\n
+for today.<$00>
+
+
+//<CLEAR>待って、ケン！\nやっぱり　今\n話しておきたいわ！<$00>
+<CLEAR>Wait, Ken! I want to say it after all!<$00>
+
+
+//<CLEAR>でも　リンダさんには\n席を　はずしてもらいたいの…<$00>
+<CLEAR>I'd...prefer it if Linda waited outside.<$00>
+
+
+//\n<$01>別にいいけど…<$0E>／<$01>それはまずいよ<$0E><$00>
 \n
-<CLEAR>
-//それにしても　ひどいことになったね…\n生き残ったのは　キミとリンダだけだ…\n犯人は　今のところ捕まっていない
-You're lucky to survive such a tragedy. You\n
-and Linda were the only two found alive, and\n
-the assailant has yet to be caught.
-<$12>
+<$01>Fine by me<$0E>／<$01>She'll kill me<$0E><$00>
+
+
+//<CLEAR>あら、私のことなら\n気にしなくていいわよ\nじゃ　外で待ってるから<$00>
+<CLEAR>Yeah, I'm cool with that!\n
+See you outside, Kenster.<$00>
+
+
+//<CLEAR>ごめんなさいね…\nでも　あなたと私たちだけの\n秘密に　したかったの…<$00>
+<CLEAR>I'm sorry.\n
+I want to keep this between us.<$00>
+
+
+//<CLEAR>ケン…　あなたも　双子の兄弟が\nいる、いいえ…　いたでしょ？<$00>
+<CLEAR>Ken, you have a twin too, right? Or rather, you did?<$00>
+
+
+//\n<$01>あぁ、いたよ<$0E>／<$01>いやしないよ<$0E><$00>
 \n
-<CLEAR>
-//ところで　リンダの容体だが\n手術は　万事、うまくいったと\nエモリ先生から　報告を受けている
-On that, I did receive Dr. Emori's report.\n
-Linda's treatment was successful!
-<$12>
-<$00>
+<$01>Yes, I do<$0E>／<$01>What? Since when?!<$0E><$00>
 
 
+//<CLEAR>なぜ　私が　そんなことを\n知ってるか　不思議でしょ？\n今、説明するわ<$00>
+<CLEAR>You must find it odd that I know that. Allow me to explain.<$00>
 
 
+//<CLEAR>いいえ　いたわ！　なぜ　私が\nそう言い切れるか…\n今、説明するわ<$00>
+<CLEAR>Since forever! And how do I know that? Allow me to explain.<$00>
 
 
-<CLEAR>
-//さぁ、ひとりで歩けるようなら\nキミのほうは　退院だ
-Now, if you can walk on your own, you're free\n
-to go!
-<$12>
-<$00>
+//<CLEAR>驚かないで　よく聞いて！<$00>
+<CLEAR>This might sound weird, but hear me out.<$00>
 
 
+//<CLEAR>ケン、あなたの双子の兄弟…\n彼が　私たちの本当の父なの∥\n私たちは　彼から生まれたの∥<$00>
+<CLEAR>Ken, your twin brother is my real father. My sisters and\n
+I were born from him.<$00>
 
 
+//<CLEAR>数年前、お父様の命令で\n旧タイプのクローンが　数人\n西エリアに　調査に出たのよ<$00>
+<CLEAR>Some years ago, Father sent several proto-clones on a\n
+West Area field survey.<$00>
 
 
-//心配なのは　わかるが、\n今、キミが彼女にしてやれることは\n何もないんだ…
-You must be worried. While, there's nothing\n
-you can do for her now, she'll be fine.
-<$12>
-\n
-<CLEAR>
-//大丈夫∥　リンダが産まれた\nこの同じベッドで　死なせやしない∥\nリンダのママが　守ってくれるはずだ
-By her mother's grace, Linda will not die in\n
-the same bed she was born in!
-<$12>
-<$00>
+//<CLEAR>その中の１体が　彼を\n発見した…　もちろん彼も\n細菌に侵されて　死んでいたわ<$00>
+<CLEAR>They found your brother, but of course, he'd already\n
+died in the bacterial outbreak.<$00>
 
 
+//<CLEAR>ただ　彼は違った…　他の死体が\n朽ちて　腐臭にまみれるなかで\n奇跡のように　清潔だったの<$00>
+<CLEAR>Still, he was different. Unlike the other corpses, his body\n
+miraculously didn't rot.<$00>
 
 
+//<CLEAR>彼の体から　未知の酵素が\n数種見つかったわ、でも結局\nその秘密までは　解けなかった<$00>
+<CLEAR>We never uncovered why, but several unidentifiable\n
+enzymes helped preserve the corpse.<$00>
 
 
-//すまん…　催眠ガスでやられた…
-They got me with sleeping gas...
-<$12>
-<$00>
+//<CLEAR>次に　彼をクローンとして\n再生しようと　お父様は考えたわ\nだけど　それも失敗<$00>
+<CLEAR>Father considered reanimating him as a clone, but it didn't\n
+work out.<$00>
 
 
+//<CLEAR>ただし　細胞のレベルでは\nサチコの遺伝子を　乗せることで\n実用品が　完成したのよ<$00>
+<CLEAR>Instead, Father combined Sachiko's DNA with his specific\n
+cell sequence.<$00>
 
 
+//<CLEAR>あなたの目の前に　いるわ<$00>
+<CLEAR>You can see the success of that right here!<$00>
 
 
-//かなうなら　キミとリンダの子も\nこの同じベッドで　私の手で\n取り上げさせてくれよ！
-Just maybe, I'll get to pick up and hold and\n
-yours and Linda's baby here too!
-<$12>
-<$00>
+//<CLEAR>……………ウフフフ<$00>
+<CLEAR>...Tee hee hee!<$00>
 
 
+//<CLEAR>…………………アハハハハ<$00>
+<CLEAR>Ahahaha!<$00>
 
 
+//<CLEAR>今の話、全部ウソ∥\nケン、あなたの困った顔が\n見たくなっただけなの<$00>
+<CLEAR>You seriously fell for all that, Ken?! You should see your\n
+face!<$00>
 
 
-//エモリ・ラボは　この建物の東側に\nありますよ！　娘さんが造ってる\n花壇が　１年中きれいよ
-Emori's Lab is out to the right. The doctor's\n
-daughter stays here all year round to tend to\n
-his flower garden!
-<$12>
-<$00>
+//<CLEAR>ねぇ、ケン…<$00>
+<CLEAR>So, Ken...<$00>
 
 
+//<CLEAR>キスしていいでしょ？<$00>
+<CLEAR>May I kiss you?<$00>
 
 
-
-
-<CLEAR>
-//リンダさんを　取り上げた助産婦が\n「聖母の右手」と呼ばれるほどの\n腕前の人だったらしいんだけど…
-The midwife who delivered Linda was hailed\n
-for her great skill as "the Surgeon Mary".
-<$12>
-\n
-<CLEAR>
-//その方の　最後の仕事だったんだって！\nそれで　印象に残ってたらしいわ
-I heard that was her last job here, but she\n
-left a huge impression on me.
-<$12>
-<$00>
-
-
-
-
-
-
-//生き残ったあんたに　こんなことを\n言うのは酷だけどサ、どうして\nあんたたちだけ　殺されなかったか…
-I know it's wrong to say this to a survivor,\n
-but why were you and Linda spared?
-<$12>
-\n
-<CLEAR>
-//犯人はおいしい物を　最後に\n食べるクセのある　子供のような\n性格なんじゃ　ないのかねぇ
-Maybe the assailant has a childish\n
-personality and wanted to "save the best for\n
-last"?
-<$12>
-<$00>
-
-
-
-
-
-
-//スー、スー
-Zzz...zzz...
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ケンと　リンダさんでしょ？\n会いたかったわ∥\nはじめまして∥
-You must be Ken and Linda! It's great to\n
-finally meet you!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//エモリサチコです
-I'm Emori Sachiko.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//…やっぱり　あなたたちには\n本当のことを　言うわ…
-...Actually, I suppose you deserve the whole\n
-truth.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//私もね…　１号や２号と同じ\nデミ・クローンなの
-Like No. 1 amd No. 2, I too am a demi-clone.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//本物のサチコは　自殺した後\nしばらく　植物状態患者のまま\n小康状態が　続いたんだけど…
-After the "real" Sachiko jumped, she slept in\n
-a vegetative coma for some time.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ある朝、気づいたら死んでたの
-Then, one morning, I came in and discovered\n
-that she had finally died.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//みんなで　クジを引いたわ\n誰が　代役になるかのね
-My sisters and I drew lots to determine who\n
-would stand in for her.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//だって　お父様が　あまりに\nかわいそうだったから…
-We all felt sorry for Father, you understand.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//…………………
-.........
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//でも　もう、何もかも\n終わったんでしょ？
-And it's all over now, isn't it.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//思考を共鳴しようと　しても\n１号からも　２号からも\n何も　伝わってこなくなったわ
-My thoughts would synchronize with No. 1 and\n
-No. 2's, but now I feel nothing.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//１号から　最後に感じたのは\n柔らかで暖かい　波動だった\n言葉に直すなら…　そうね…
-The last I felt was a warm and tender wave\n
-from No. 1. To put it in words...
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//「ありがとう」　もしくは…\n「愛してる」が　近いかなぁ
-...I'd say it was along the lines of "thank\n
-you," or rather, "I love you".
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//確かに伝えたわよ　ケン！
-I had to tell you that, Ken.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//１度に　たくさん　話したら\n何だか　疲れちゃった…
-We've only spoken this once, but I'm already\n
-so tired...
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//本当は　もうひとつだけ\n聞いて欲しいことが　あるの\nでも今日は　やめとくわ…
-There was more I wanted to say, honestly, but\n
-I'll stop for today.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//待って、ケン！\nやっぱり　今\n話しておきたいわ！
-Wait, Ken! I want to say it after all!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//でも　リンダさんには\n席を　はずしてもらいたいの…
-I'd...prefer it if Linda waited outside.
-<$00>
-
-
-
-
-
-
-//\n
-\n
-<$01>
-//別にいいけど…
-Fine by me
-<$0E>
-//／
-／
-<$01>
-//それはまずいよ
-She'll kill me
-<$0E>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//あら、私のことなら\n気にしなくていいわよ\nじゃ　外で待ってるから
-Yeah, I'm cool with that!\n
-See you outside, Kenster.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ごめんなさいね…\nでも　あなたと私たちだけの\n秘密に　したかったの…
-I'm sorry.\n
-I want to keep this between us.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ケン…　あなたも　双子の兄弟が\nいる、いいえ…　いたでしょ？
-Ken, you have a twin too, right? Or rather,\n
-you did?
-<$00>
-
-
-
-
-
-
-//\n
-\n
-<$01>
-//あぁ、いたよ
-Yes, I do
-<$0E>
-//／
-／
-<$01>
-//いやしないよ
-What? Since when?!
-<$0E>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//なぜ　私が　そんなことを\n知ってるか　不思議でしょ？\n今、説明するわ
-You must find it odd that I know that. Allow\n
-me to explain.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//いいえ　いたわ！　なぜ　私が\nそう言い切れるか…\n今、説明するわ
-Since forever! And how do I know that? Allow\n
-me to explain.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//驚かないで　よく聞いて！
-This might sound weird, but hear me out.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ケン、あなたの双子の兄弟…\n彼が　私たちの本当の父なの∥\n私たちは　彼から生まれたの∥
-Ken, your twin brother is my real father. My\n
-sisters and I were born from him.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//数年前、お父様の命令で\n旧タイプのクローンが　数人\n西エリアに　調査に出たのよ
-Some years ago, Father sent several\n
-proto-clones on a West Area field survey.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//その中の１体が　彼を\n発見した…　もちろん彼も\n細菌に侵されて　死んでいたわ
-They found your brother, but of course, he'd\n
-already died in the bacterial outbreak.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ただ　彼は違った…　他の死体が\n朽ちて　腐臭にまみれるなかで\n奇跡のように　清潔だったの
-Still, he was different. Unlike the other\n
-corpses, his body miraculously didn't rot.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//彼の体から　未知の酵素が\n数種見つかったわ、でも結局\nその秘密までは　解けなかった
-We never uncovered why, but several\n
-unidentifiable enzymes helped preserve the\n
-corpse.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//次に　彼をクローンとして\n再生しようと　お父様は考えたわ\nだけど　それも失敗
-Father considered reanimating him as a clone,\n
-but it didn't work out.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ただし　細胞のレベルでは\nサチコの遺伝子を　乗せることで\n実用品が　完成したのよ
-Instead, Father combined Sachiko's DNA with\n
-his specific cell sequence.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//あなたの目の前に　いるわ
-You can see the success of that right here!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//……………ウフフフ
-...Tee hee hee!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//…………………アハハハハ
-Ahahaha!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//今の話、全部ウソ∥\nケン、あなたの困った顔が\n見たくなっただけなの
-You seriously fell for all that, Ken?! You\n
-should see your face!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ねぇ、ケン…
-So, Ken...
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//キスしていいでしょ？
-May I kiss you?
-<$00>
-
-
-
-
-
-
-<$01>
-//Ｙｅｓ
-Yes
-<$0E>
-//／
-／
-<$01>
-//Ｙｅｓ
-Yes
-<$0E>
-//／
-／
-<$01>
-//Ｙｅｓ
-Yes
-<$0E>
-//／
-／
-<$01>
-//Ｙｅｓ
-Yes
-<$0E>
-//\n
-\n
-<$01>
-//Ｙｅｓ
-Yes
-<$0E>
-//／
-／
-<$01>
-//Ｙｅｓ
-Yes
-<$0E>
-//／
-／
-<$01>
-//Ｙｅｓ
-Yes
-<$0E>
-//／
-／
-<$01>
-//Ｙｅｓ
-Yes
-<$0E>
-//\n
-\n
-<$01>
-//Ｙｅｓ
-Yes
-<$0E>
-//／
-／
-<$01>
-//Ｙｅｓ
-Yes
-<$0E>
-//／
-／
-<$01>
-//Ｙｅｓ
-Yes
-<$0E>
-//／
-／
-<$01>
-//Ｙｅｓ
-Yes
-<$0E>
-<$00>
-
-
-
-
+//<$01>Ｙｅｓ<$0E>／<$01>Ｙｅｓ<$0E>／<$01>Ｙｅｓ<$0E>／<$01>Ｙｅｓ<$0E>\n<$01>Ｙｅｓ<$0E>／<$01>Ｙｅｓ<$0E>／<$01>Ｙｅｓ<$0E>／<$01>Ｙｅｓ<$0E>\n<$01>Ｙｅｓ<$0E>／<$01>Ｙｅｓ<$0E>／<$01>Ｙｅｓ<$0E>／<$01>Ｙｅｓ<$0E><$00>
+<$01>Yes<$0E>／<$01>Yes<$0E>／<$01>Yes<$0E>／<$01>Yes<$0E>\n
+<$01>Yes<$0E>／<$01>Yes<$0E>／<$01>Yes<$0E>／<$01>Yes<$0E>\n
+<$01>Yes<$0E>／<$01>Yes<$0E>／<$01>Yes<$0E>／<$01>Yes<$0E><$00>
 
 
 pict23.tim
@@ -1486,1123 +683,395 @@ pict23.tim
 
 
 
-<CLEAR>
-//ねえ　ケン、あなたって\nいい人？　それとも　悪い人？
-Ken, would you say that person was "good"? Or\n
-"evil"?
-<$00>
+//<CLEAR>ねえ　ケン、あなたって\nいい人？　それとも　悪い人？<$00>
+<CLEAR>Ken, would you say that person was "good"? Or "evil"?<$00>
 
 
-
-
-
-
-//\n
+//\n<$01>いい人<$0E>／<$01>悪い人<$0E><$00>
 \n
-<$01>
-//いい人
-Good
-<$0E>
-//／
-／
-<$01>
-//悪い人
-Evil
-<$0E>
-<$00>
+<$01>Good<$0E>／<$01>Evil<$0E><$00>
 
 
+//<CLEAR>そうね…\nそういうことに\nしておいて　あげるわ<$00>
+<CLEAR>Ah-hah...\n
+I'll keep that in mind.<$00>
 
 
+//<CLEAR>じゃ　今日はありがとう\nとても　楽しかったわ∥<$00>
+<CLEAR>Well, thank you for today.\n
+I really enjoyed this!<$00>
 
 
-<CLEAR>
-//そうね…\nそういうことに\nしておいて　あげるわ
-Ah-hah...\n
-I'll keep that in mind.
-<$00>
+//<CLEAR>そう…　残念ね…\nでも　仕方ないわね<$00>
+<CLEAR>I see...\n
+That's too bad, then.<$00>
 
 
+//<CLEAR>待ちくたびれちゃったわよ\n……ねぇ、ケン∥　ちょっと∥\nその頬の赤いの　何よぉ∥<$00>
+<CLEAR>Took your sweet time, eh?\n
+Wait, what's that red mark on your face?!<$00>
 
 
+//<CLEAR>…………………<$12><$00>
+<CLEAR>.........<$12><$00>
 
 
-<CLEAR>
-//じゃ　今日はありがとう\nとても　楽しかったわ∥
-Well, thank you for today.\n
-I really enjoyed this!
-<$00>
+//<CLEAR>まあ　いいわ…\n今日だけは　スミレとヨシコに\n免じて　大目に見たげる…<$00>
+<CLEAR>Eh, for Yoshiko and Sumire, I'll let it slide just this once.<$00>
 
 
-
-
-
-
-<CLEAR>
-//そう…　残念ね…\nでも　仕方ないわね
-I see...\n
-That's too bad, then.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//待ちくたびれちゃったわよ\n……ねぇ、ケン∥　ちょっと∥\nその頬の赤いの　何よぉ∥
-Took your sweet time, eh?\n
-Wait, what's that red mark on your face?!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//…………………
-.........
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//まあ　いいわ…\n今日だけは　スミレとヨシコに\n免じて　大目に見たげる…
-Eh, for Yoshiko and Sumire, I'll let it slide\n
-just this once.
-<$00>
-
-
-
-
-
-
-//たいした　ケガもないくせに　３日も\n意識不明なんて　ずいぶんハラハラ\nさせてくれるじゃない、ケン？
+//たいした　ケガもないくせに　３日も\n意識不明なんて　ずいぶんハラハラ\nさせてくれるじゃない、ケン？<$12><$00>
 What took you, you drama-whore?!\n
-You were out for 3 days?!
-<$12>
-<$00>
+You were out for 3 days?!<$12><$00>
 
 
-
-
-
-
-<CLEAR>
-//あの晩　ミナゴで起きた事件の\nあらましを　簡単に耳に入れとくわね
-I'll give you the quick on what happened in\n
-Minago that night.
-<$12>
-\n
-<CLEAR>
-//あなたとリンダ以外は　ミナゴの住民、\n及び観光客数名、全員死亡！\n殺人の手口は　残虐この上なし…
-Besides you and Linda, everyone in the\n
-village, even some tourists, were murdered!
-<$12>
-\n
-<CLEAR>
-//詳しいことは　ミナゴで\n吐きそうになりながら　後片づけしてる\n運の悪い隊員たちに　聞いてよ
-It was so brutal too, some greenhorns on the\n
-cleanup crew threw up all over the scene!
-<$12>
-<$00>
-
-
-
-
+//<CLEAR>あの晩　ミナゴで起きた事件の\nあらましを　簡単に耳に入れとくわね<$12>\n<CLEAR>あなたとリンダ以外は　ミナゴの住民、\n及び観光客数名、全員死亡！\n殺人の手口は　残虐この上なし…<$12>\n<CLEAR>詳しいことは　ミナゴで\n吐きそうになりながら　後片づけしてる\n運の悪い隊員たちに　聞いてよ<$12><$00>
+<CLEAR>I'll give you the quick on what happened in Minago that night.<$12>\n
+<CLEAR>Besides you and Linda, everyone in the village, even some\n
+tourists, were murdered!<$12>\n
+<CLEAR>It was so brutal too, some greenhorns on the cleanup\n
+crew threw up all over the scene! <$12><$00>
 
 
 #WRITE(PTR, $0026)
-//屋上出入口
-Rooftop Entry＿
-<$00>
+//屋上出入口<$00>
+Rooftop Entry＿<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
-
-
-
-
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
 #WRITE(PTR, $0028)
-//第２病棟Ｂ１
-Ward 2 B1＿
-<$00>
+//第２病棟Ｂ１<$00>
+Ward 2 B1＿<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
+//遺族が　仏さんを引き取りに来たら\nなくなってたり　いつの間にか\n見知らぬ死体が　増えてたり…<$12>\n<CLEAR>この霊安室には　散歩好きが多くてな…\nそりゃ確かに　散歩は健康に\nいいそうだけど　今さら遅いよなぁ<$12><$00>
+Bereaved families don't come to collect the dead like they\n
+used to.<$12>\n
+<CLEAR>The number of bodies left unaccounted for have shot\n
+up.<$12><$12>\n
+<CLEAR>Meanwhile, the number of people taking strolls around this\n
+morgue have shot up too.<$12>\n
+<CLEAR>Walking is very good for your health, at least. You should do\n
+it while you still can.<$12><$00>
 
 
+//昔、この霊安室でね、\n奇跡を見たよ…<$12>\n<CLEAR>殺されてから　半日あまりも過ぎた\n妊婦の死体が　子供を産んだのサ<$12>\n<CLEAR>奇跡といえば　その時の助産婦も\n凄かったな！　右手１本で　死体の\n腹から赤ン坊ふたり、引きずり出した<$12>\n<CLEAR>その時からその助産婦は　誰ともなく\nこう呼ばれるように　なったんだ、\n「聖母の右手」とね∥<$12><$00>
+Once, in this very morgue, I saw a miracle.<$12>\n
+<CLEAR>A pregnant woman, who died less than a day prior, gave\n
+birth to twins.<$12>\n
+<CLEAR>The midwife was miraculous too. She plucked those 2 boys\n
+out with just her right hand.<$12>\n
+<CLEAR>From then on, everyone took to calling her "the Surgeon\n
+Mary".<$12><$00>
 
 
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
+//<CLEAR><$19>1<$15>S裸の女性の死体が　ある<$14><$12><$00>
+<CLEAR><$19><$15>SA naked female corpse lies here.<$14><$12><$00>
 
 
+//<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
+<CLEAR><$19><$15>SKen found the＿<$1D>!<$14><$12><$00>
 
 
+//<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
+<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the＿<$1D>had to go back.<$14><$12><$00>
 
 
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
+//<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
+<CLEAR><$19><$15>SKen acquired＿<$1D>!<$14><$12><$00>
 
 
+//<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
+<CLEAR><$19><$15>SKen found the＿<$1D>!<$14><$12><$00>
 
 
+//<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
+<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the＿<$1D>had to go back.<$14><$12><$00>
 
 
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-//遺族が　仏さんを引き取りに来たら\nなくなってたり　いつの間にか\n見知らぬ死体が　増えてたり…
-Bereaved families don't come to collect the\n
-dead like they used to.
-<$12>
-\n
-<CLEAR>
-The number of bodies left unaccounted for\n
-have shot up.
-<$12>
-<$12>
-\n
-<CLEAR>
-//この霊安室には　散歩好きが多くてな…\nそりゃ確かに　散歩は健康に\nいいそうだけど　今さら遅いよなぁ
-Meanwhile, the number of people taking\n
-strolls around this morgue have shot up too.
-<$12>
-\n
-<CLEAR>
-Walking is very good for your health, at\n
-least. You should do it while you still can.
-<$12>
-<$00>
-
-
-
-
-
-
-//昔、この霊安室でね、\n奇跡を見たよ…
-Once, in this very morgue, I saw a miracle.
-<$12>
-\n
-<CLEAR>
-//殺されてから　半日あまりも過ぎた\n妊婦の死体が　子供を産んだのサ
-A pregnant woman, who died less than a day\n
-prior, gave birth to twins.
-<$12>
-\n
-<CLEAR>
-//奇跡といえば　その時の助産婦も\n凄かったな！　右手１本で　死体の\n腹から赤ン坊ふたり、引きずり出した
-The midwife was miraculous too. She plucked\n
-those 2 boys out with just her right hand.
-<$12>
-\n
-<CLEAR>
-//その時からその助産婦は　誰ともなく\nこう呼ばれるように　なったんだ、\n「聖母の右手」とね∥
-From then on, everyone took to calling her\n
-"the Surgeon Mary".
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//S裸の女性の死体が　ある
-SA naked female corpse lies here.
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//Sケンは「
-SKen found the＿
-<$1D>
-//」を発見∥
-!
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//S<CLEAR>だが、道具袋が一杯なので\n「
-S<CLEAR>Sadly, the item bag was full, so the＿
-<$1D>
-//」を\nとりあえず　あきらめた…
-had to go back.
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//S<CLEAR>「
-SKen acquired＿
-<$1D>
-//」を　手に入れた∥
-!
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//Sケンは「
-SKen found the＿
-<$1D>
-//」を発見∥
-!
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//S<CLEAR>だが、道具袋が一杯なので\n「
-S<CLEAR>Sadly, the item bag was full, so the＿
-<$1D>
-//」を\nとりあえず　あきらめた…
-had to go back.
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//S<CLEAR>「
-SKen acquired＿
-<$1D>
-//」を　手に入れた∥
-!
-<$14><$12>
-<$00>
-
-
-
-
+//<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
+<CLEAR><$19><$15>SKen acquired＿<$1D>!<$14><$12><$00>
 
 
 #WRITE(PTR, $002A)
-//個
-＿
-<$00>
+//個<$00>
+＿<$00>
 
 
+//匹<$00>
+＿<$00>
 
 
+//<$1D>を<$1D>ます\n<$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04>／<$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S￥<$00>
+<$1D>＿x<$1D>＿\n
+<$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04>／<$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S￥<$00>
 
 
-//匹
-＿
-<$00>
+//<$06>T.C.(<$1E>034<$06>)<$00>
+<$06>TCU (x<$1E><$06>)<$00>
 
 
+//<$05>γ<$00>
+<$05>A<$00>
 
 
+//<$05>ζ<$00>
+<$05>D<$00>
 
 
-<$1D>
-//を
-＿x
-<$1D>
-//ます\n
-＿\n
-<$06><$19>
-//1
-1
-<$01><$1A>
-//01
-01
-<$0E><$15>
-//S
-S
-<$19>
-//0
-0
-<$04>
-//／
-／
-<$14><$1E>
-//034
-034
-<$15>
-//S
-S
-<$1D><$14><$02>
-//112
-112
-<$19>
-//2
-2
-<$1E>
-//40
-40
-<$19>
-//0
-0
-<$15>
-//S￥
-S￥
-<$00>
+//<$1E>@019<$00>
+<$1E>@019<$00>
 
 
+//<CLEAR>セレクトボタンで解説が出ます<$00>
+<CLEAR>SELECT: Details<$00>
 
 
+//<CLEAR><$00>
+<CLEAR><$00>
 
 
-<$06>
-//T.C.(
-TCU (x
-<$1E>
-//034
-<$06>
-//)
-)
-<$00>
+//<$04><$16><$15>W<$01><$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
+<$04><$16><$15>W<$01><$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
 
 
+//<CLEAR>トランスカーゴは　１枠につき\n<$06>99<$04>頭までしか　収容できません<$12><$00>
+<CLEAR>The trans-cargo unit has\n
+a＿<$06>99<$04>＿species capacity!<$12><$00>
 
 
+//<CLEAR><$06>トランスカーゴ<$04>がいっぱいです<$12><$00>
+<CLEAR><$06>The trans-cargo unit＿<$04>is full!<$12><$00>
 
 
-<$05>
-//γ
-A
-<$00>
+//<CLEAR>道具がいっぱいです<$12><$00>
+<CLEAR>The item bag is full!<$12><$00>
 
 
-
-
-
-
-<$05>
-//ζ
-D
-<$00>
-
-
-
-
-
-
-<$1E>
-//@019
-@019
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//セレクトボタンで解説が出ます
-SELECT: Details
-<$00>
-
-
-
-
-
-
-<CLEAR>
-
-<$00>
-
-
-
-
-<$04><$16><$15>
-//W
-W
-<$01><$1D><$02>
-//116
-116
-<$0E><$02>
-//216
-216
-<$1D><$1E>
-//39￥
-39￥
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//トランスカーゴは　１枠につき\n
-The trans-cargo unit has\n
-a＿
-<$06>
-//99
-99
-<$04>
-//頭までしか　収容できません
-＿species capacity!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$06>
-//トランスカーゴ
-The trans-cargo unit＿
-<$04>
-//がいっぱいです
-is full!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//道具がいっぱいです
-The item bag is full!
-<$12>
-<$00>
-
-
-
-
-
-
-//怪しい肉より　効果のハッキリした薬∥\n安心して　お使いになれます\n
+//怪しい肉より　効果のハッキリした薬∥\n安心して　お使いになれます\n<$01>購入する<$0E>／<$01>雑談する<$0E>／<$01>いらない<$0E><$00>
 Why eat meat when you can take drugs?\n
-<$01>
-//購入する
-Shop
-<$0E>
-//／
-／
-<$01>
-//雑談する
-Chat
-<$0E>
-//／
-／
-<$01>
-//いらない
-Exit
-<$0E>
-<$00>
+<$01>Shop<$0E>／<$01>Chat<$0E>／<$01>Exit<$0E><$00>
 
 
+//<CLEAR>薬が切れたら、いつでも　どうぞ<$12><$00>
+<CLEAR>Whenever you want drugs, you know where to find us!<$12><$00>
 
 
+//<$15>Y薬　屋／買　う<$00>
+<$15>YDrug／Buy<$00>
 
 
-<CLEAR>
-//薬が切れたら、いつでも　どうぞ
-Whenever you want drugs, you know where to\n
-find us!
-<$12>
-<$00>
+//<$15>Y薬　屋<$00>
+<$15>YDrug Counter<$00>
 
 
+//クン、クンクン………？<$12>\n<CLEAR>消毒液のニオイが\nプンプンするね<$12><$00>
+Sniff...sniff, sniff?<$12>\n
+<CLEAR>It smells strongly of antiseptic here.<$12><$00>
 
 
+//……東<$00>
+...East<$00>
 
 
-//
-<$15>
-//Y薬　屋／買　う
-YDrug／Buy
-<$00>
+//……西<$00>
+...West<$00>
 
 
+//……南<$00>
+...South<$00>
 
 
+//……北<$00>
+...North<$00>
 
 
-//
-<$15>
-//Y薬　屋
-YDrug Counter
-<$00>
+//…北東<$00>
+...North-east<$00>
 
 
+//…北西<$00>
+...North-west<$00>
 
 
+//…南東<$00>
+...South-east<$00>
 
 
-//クン、クンクン………？
-Sniff...sniff, sniff?
-<$12>
+//…南西<$00>
+...South-west<$00>
+
+
+//<CLEAR>……<$1D><$00>
+<CLEAR>......<$1D><$00>
+
+
+//、…<$1D>に行けば<$00>
+! That's where we'll find a＿<$1D>.<$00>
+
+
+//直進<$00>
+For<$00>
+
+
+//右よ<$00>
+Right<$00>
+
+
+//左よ<$00>
+Left<$00>
+
+
+//後ろ<$00>
+Back<$00>
+
+
+//<CLEAR>……<$1D><$00>
+<CLEAR>......<$1D><$00>
+
+
+//、絶対に<$1D>∥<$00>
+wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
+
+
+//<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
+<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
+
+
+//<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
+<CLEAR>...Sorry. I don't have it in me today.<$12><$00>
+
+
+//運命の<$00>
+Fated＿<$00>
+
+
+//新しい<$00>
+New＿<$00>
+
+
+//素敵な<$00>
+Great＿<$00>
+
+
+//未知の<$00>
+Unknown＿<$00>
+
+
+//何か<$00>
+things＿<$00>
+
+
+//発見<$00>
+discoveries＿<$00>
+
+
+//お宝<$00>
+treasures＿<$00>
+
+
+//動物<$00>
+animals＿<$00>
+
+
+//に　出会える…<$00>
+could appear.<$00>
+
+
+//が　待ってる…<$00>
+await us...<$00>
+
+
+//気がするわ∥<$00>
+are there.<$00>
+
+
+//チャンスよ∥<$00>
+are in our grasp!<$00>
+
+
+//今しかないわ<$00>
+could slip through our fingers!<$00>
+
+
+//間違いなし∥<$00>
+are dead head!<$00>
+
+
+//\n<$1D><$1D><$1D>\n<$1D><$12>\n<CLEAR><$00>
 \n
-<CLEAR>
-//消毒液のニオイが\nプンプンするね
-It smells strongly of antiseptic here.
-<$12>
-<$00>
+<$1D><$1D><$1D>\n
+<$1D><$12>\n
+<CLEAR><$00>
 
 
+//<CLEAR>自信があるの∥<$12><$00>
+<CLEAR>I'm sure of it!<$12><$00>
 
 
+//<CLEAR>自信は　ないけどね…<$12><$00>
+<CLEAR>Although, I'm not totally certain...<$12><$00>
 
 
-//……東
-...East
-<$00>
-
-
-
-
-
-
-//……西
-...West
-<$00>
-
-
-
-
-
-
-//……南
-...South
-<$00>
-
-
-
-
-
-
-//……北
-...North
-<$00>
-
-
-
-
-
-
-//…北東
-...North-east
-<$00>
-
-
-
-
-
-
-//…北西
-...North-west
-<$00>
-
-
-
-
-
-
-//…南東
-...South-east
-<$00>
-
-
-
-
-
-
-//…南西
-...South-west
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//……
-......
-<$1D>
-<$00>
-
-
-
-
-
-
-//、…
-! That's where we'll find a＿
-<$1D>
-//に行けば
-.
-<$00>
-
-
-
-
-
-
-//直進
-For
-<$00>
-
-
-
-
-
-
-//右よ
-Right
-<$00>
-
-
-
-
-
-
-//左よ
-Left
-<$00>
-
-
-
-
-
-
-//後ろ
-Back
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//……
-......
-<$1D>
-<$00>
-
-
-
-
-
-
-//、絶対に
-wards, got it? I'm sure we'll find a＿
-<$1D>
-//∥
-＿there!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//Sリンダは　「女の勘」を\nはたらかせた∥
-SLinda used her woman's intuition...
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//…ごめんね、\n今日は　勘がはたらかないわ…
-...Sorry. I don't have it in me today.
-<$12>
-<$00>
-
-
-
-
-
-
-//運命の
-Fated＿
-<$00>
-
-
-
-
-
-
-//新しい
-New＿
-<$00>
-
-
-
-
-
-
-//素敵な
-Great＿
-<$00>
-
-
-
-
-
-
-//未知の
-Unknown＿
-<$00>
-
-
-
-
-
-
-//何か
-things＿
-<$00>
-
-
-
-
-
-
-//発見
-discoveries＿
-<$00>
-
-
-
-
-
-
-//お宝
-treasures＿
-<$00>
-
-
-
-
-
-
-//動物
-animals＿
-<$00>
-
-
-
-
-
-
-//に　出会える…
-could appear.
-<$00>
-
-
-
-
-
-
-//が　待ってる…
-await us...
-<$00>
-
-
-
-
-
-
-//気がするわ∥
-are there.
-<$00>
-
-
-
-
-
-
-//チャンスよ∥
-are in our grasp!
-<$00>
-
-
-
-
-
-
-//今しかないわ
-could slip through our fingers!
-<$00>
-
-
-
-
-
-
-//間違いなし∥
-are dead head!
-<$00>
-
-
-
-
-
-
-//\n
-\n
-<$1D><$1D><$1D>
-//\n
-\n
-<$1D><$12>
-\n
-<CLEAR>
-//
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//自信があるの∥
-I'm sure of it!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//自信は　ないけどね…
-Although, I'm not totally certain...
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//絶対なんだから∥
-I'm absolutely certain!
-<$12>
-<$00>
-
-
-
-
+//<CLEAR>絶対なんだから∥<$12><$00>
+<CLEAR>I'm absolutely certain!<$12><$00>
 
 
 

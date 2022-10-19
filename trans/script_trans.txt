@@ -5803,13 +5803,12 @@ Game saved.
 //0031_0000360C_bin\PROG.BIN
 //000062DF
 <CLEAR>
-//
 <$1D><$01>
 //
 
 <$0E>
 //@ƒXƒƒbƒg‚P
-QSlot ‚P
+ Slot ‚P
 <$1D>
 //\n
 \n
@@ -5818,7 +5817,7 @@ Game saved.
 
 <$0E>
 //@ƒXƒƒbƒg‚Q
-QSlot 2
+ Slot 2
 <$1D>
 <$00>
 
@@ -5892,7 +5891,7 @@ b
 .
 <$0E><$04>
 //    i–¢“o˜^‚Å‚·j\n
-QQiNOT IN USEj\n
+(NOT IN USE)\n
 <$00>
 
 
@@ -69807,10 +69806,10 @@ W
 
 <$0E>
 //@“ïˆÕ“x•ÏXQQiŒ»İİ’è“ïˆÕ“x
-QDifficultyiModeQ
+ DifficultyiMode 
 <$1E>
 //j
-j
+)
 <$00>
 
 
@@ -69944,10 +69943,10 @@ W
 2
 <$0E>
 //@“ïˆÕ“x•ÏXQQiŒ»İİ’è“ïˆÕ“x
-@DifficultyiModeQ
+@Difficulty ( Mode 
 <$1E>
 //j
-j
+)
 <$00>
 
 
@@ -69961,7 +69960,7 @@ Start new game?\n
 Yes
 <$0E>
 //^
-^
+ / 
 <$01>
 //‚¢‚¢‚¦
 No
@@ -69980,13 +69979,13 @@ Scenario
 //0000641C
 <CLEAR>
 //ƒVƒiƒŠƒI‚b‚ğ@‘åÎ‚¢‚µ‚È‚ª‚ç\n—V‚Ô‚½‚ß‚É@‚`‚a‚ğæ‚ÉƒNƒŠƒA‚µ‚æ‚¤\n
-Scenario C is best enjoyed\nafter clearing both A +  B!\n
+Scenario C is best enjoyed\nafter clearing both A + B!\n
 <$01>
 //‘å‚«‚È‚¨¢˜b‚¾
 I'm ready!
 <$0E>
 //^
-^
+ / 
 <$01>
 //‚¶‚áAŒã‰ñ‚µ‚¾
 Ugh, fine...
@@ -70004,7 +70003,7 @@ If this is a replay, would you like to skip cutscenes?\n
 Yes
 <$0E>
 //^
-^
+ / 
 <$01>
 //‚n‚e‚e
 No
@@ -70016,19 +70015,20 @@ No
 //0000641C
 <CLEAR>
 //ƒ´
-ƒ´QA minimum ofQ
+ƒ´ A minimum of 
 <$06>
 //30
 30
 <$04>
 //íˆÈã‚Ì“®•¨‚ğ•ßŠl\nƒ´” ‘D‚ğ”­i‚³‚¹‚é\nQQİ’è“ïˆÕ“x
-Qspecies\nis required to deploy the Astro Ark.\nQQModeQ
-<$1E><$01>
+ species\nis required to deploy the Astro Ark.\nQQMode 
+<$1E> 
+<$01>
 //¨¨
 ¨¨
 <$0E>
 //Q
-Q
+
 <$01>
 //Šm”F
 OK!
@@ -70040,19 +70040,20 @@ OK!
 //0000641C
 <CLEAR>
 //ƒ´
-ƒ´QA minimum ofQ
+ƒ´ A minimum of 
 <$06>
 //50
 50
 <$04>
 //íˆÈã‚Ì“®•¨‚ğ•ßŠl\nƒ´” ‘D‚ğ”­i‚³‚¹‚é\nQQİ’è“ïˆÕ“x
-Qspecies\nis required to deploy the Astro Ark.\nQQModeQ
-<$1E><$01>
+ species\nis required to deploy the Astro Ark.\nQQMode 
+<$1E> 
+<$01>
 //¨¨
 ¨¨
 <$0E>
 //Q
-Q
+ 
 <$01>
 //Šm”F
 OK!
@@ -70064,37 +70065,37 @@ OK!
 //0000641C
 <CLEAR>
 //ƒ´
-ƒ´QA minimum ofQ
+ƒ´ A minimum of 
 <$06>
 //100
 100
 <$04>
 //íˆÈã‚Ì“®•¨‚ğ•ßŠl\nQÅ’á
-Qspecies\n(NotQ
+ species\n(Not 
 <$06>
 //70
 70
 <$04>
 //íA‚Å‚«‚ê‚Î
-, notQ
+, not 
 <$06>
 //90
 90
 <$04>
 //íA\nQ©–‚Å‚«‚é‚Ì‚Í
-,Q
+, 
 <$06>
 //100
 100!)
 <$04>
 //í‚©‚ç\nƒ´” ‘D‚ğ”­i‚³‚¹‚é\nQQİ’è“ïˆÕ“x
-\nis required to deploy the Astro Ark.\nQQModeQ
+\nis required to deploy the Astro Ark.\nQQMode 
 <$1E><$01>
-//¨¨dd
+//¨¨
 ¨¨
 <$0E>
 //Q
-Q
+ 
 <$01>
 //Šm”F
 OK!

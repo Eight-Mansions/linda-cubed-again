@@ -41,979 +41,386 @@ c196.obj
 
 
 #WRITE(PTR, $001C)
-//解体屋
-Ripper＿
-<$00>
+//解体屋<$00>
+Ripper＿<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
-
-
-
-
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//私らビースチャンは　体の中に\n先祖から受け継いだ　獣の血が\n流れていることが　誇りさ
-We Beastians are proud of the animal blood we\n
-inherited from our ancestors.
-<$12>
-\n
-<CLEAR>
-//連邦が送り込んできた　移住民にも\n獣の血が流れている人が　多いようだね\n心の中に、ドス黒いのがね
-But it seems a lot of outsiders coaxed here\n
-by the Federation have that blood too.
-<$12>
-\n
-<CLEAR>
-The thought makes me anxious.
-<$12>
-<$00>
-
-
-
-
+//<CLEAR>私らビースチャンは　体の中に\n先祖から受け継いだ　獣の血が\n流れていることが　誇りさ<$12>\n<CLEAR>連邦が送り込んできた　移住民にも\n獣の血が流れている人が　多いようだね\n心の中に、ドス黒いのがね<$12><$00>
+<CLEAR>We Beastians are proud of the animal blood we inherited\n
+from our ancestors.<$12>\n
+<CLEAR>But it seems a lot of outsiders coaxed here by the\n
+Federation have that blood too.<$12>\n
+<CLEAR>The thought makes me anxious.<$12><$00>
 
 
 #WRITE(PTR, $001E)
-<CLEAR>
-//
-<$1D><$15>
-//Wは\nＡ級保護動物のため\n取り引きできません
-W＿cannot be traded.\n
+//<CLEAR><$1D><$15>Wは\nＡ級保護動物のため\n取り引きできません<$12><$00>
+<CLEAR><$1D><$15>W＿cannot be traded.\n
 Class A species\n
-trading is prohibited!
-<$12>
-<$00>
+trading is prohibited!<$12><$00>
 
 
+//<$15>Y解体屋<$00>
+<$15>YRipper<$00>
 
 
-
-
-//
-<$15>
-//Y解体屋
-YRipper
-<$00>
-
-
-
-
-
-
-//中身は傷つけずに　動物の腹から\nお宝を取り出すのが　俺の特技でねぇ\n
+//中身は傷つけずに　動物の腹から\nお宝を取り出すのが　俺の特技でねぇ\n<$01>依頼する<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
 I can cleanly cut treasure\n
 out from animal bellies.\n
-<$01>
-//依頼する
-Rip
-<$0E>
-//／
-／
-<$01>
-//雑談する
-Chat
-<$0E>
-//／
-／
-<$01>
-//やめとく
-Exit
-<$0E>
-<$00>
+<$01>Rip<$0E>／<$01>Chat<$0E>／<$01>Exit<$0E><$00>
 
 
+//<CLEAR>意外にね…　客は女が多いんですねぇ\n月に１度　必ず来る人もいますねぇ<$12><$00>
+<CLEAR>Surprisingly...a lot of my clients are women. There are\n
+customers who visit once a month as well.<$12><$00>
 
 
+//<CLEAR>バラしてみて　何か出ても出なくても\nそいつの肉は　俺の手間賃ですゼ\nさぁ、どいつから　いきましょうねぇ<$12><$00>
+<CLEAR>Even if there's no loot,\n
+I keep the animal cadaver as payment, understand?<$12><$00>
 
 
-<CLEAR>
-//意外にね…　客は女が多いんですねぇ\n月に１度　必ず来る人もいますねぇ
-Surprisingly...a lot of my clients are women.\n
-There are customers who visit once a month as\n
-well.
-<$12>
-<$00>
+//<CLEAR>で、どいつの腹から　裂きましょうねぇ\n個人的には　かわいい子供の動物を\n解体するのが　好きなんですがねぇ<$12><$00>
+<CLEAR>So, what am I ripping today?\n
+Personally, I like working on cute animal babies.<$12><$00>
 
 
+//<CLEAR>おっと、道具袋がいっぱいじゃ\nなんか出てきても渡せないねぇ<$12><$00>
+<CLEAR>Uh-oh! I can't give you treasure when you're item bag's\n
+full!<$12><$00>
 
 
+//<$1D>でいいんだね？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
+Rip open the＿<$1D>?\n
+<$01>Yes<$0E>／<$01>No<$0E><$00>
 
 
-<CLEAR>
-//バラしてみて　何か出ても出なくても\nそいつの肉は　俺の手間賃ですゼ\nさぁ、どいつから　いきましょうねぇ
-Even if there's no loot,\n
-I keep the animal cadaver as payment,\n
-understand?
-<$12>
-<$00>
+//<CLEAR>グヘヘヘ………………<$12>\n<CLEAR>グヘヘヘヘヘ………………<$12>\n<CLEAR>グヘヘヘヘヘヘヘ………………<$12><$00>
+<CLEAR>Hee...<$12>\n
+<CLEAR>Hee hee hee...<$12>\n
+<CLEAR>Hee hee hee hee hee...<$12><$00>
 
 
+//<CLEAR><$1D>を見つけたゼ<$12><$00>
+<CLEAR>Look at this\n
+<$1D>\n
+I found!<$12><$00>
 
 
+//<CLEAR><$19>1<$15>S<CLEAR>ケンは「<$1D>」を\n手にいれた∥<$14><$12><$00>
+<CLEAR><$19>1<$15>S<CLEAR>Ken took\n
+<$1D>!<$14><$12><$00>
 
 
-<CLEAR>
-//で、どいつの腹から　裂きましょうねぇ\n個人的には　かわいい子供の動物を\n解体するのが　好きなんですがねぇ
-So, what am I ripping today?\n
-Personally, I like working on cute animal\n
-babies.
-<$12>
-<$00>
+//<CLEAR><$06><$1E><$04>￥を見つけたゼ<$12><$00>
+<CLEAR>Look at the\n
+<$06><$1E><$04>￥＿I found!<$12><$00>
 
 
+//<CLEAR><$19>1<$15>S<CLEAR>ケンは　<$06><$1E><$04>￥を\n手にいれた∥<$14><$12><$00>
+<CLEAR><$19><$15>S<CLEAR>Ken took\n
+<$06><$1E><$04>￥!<$14><$12><$00>
 
 
+//<CLEAR><$1D>を　見つけられると\n思ったけど　何もないねぇ<$12><$00>
+<CLEAR>I thought I saw a＿\n
+<$1D>＿in there,\n
+but I was wrong.<$12><$00>
 
 
-<CLEAR>
-//おっと、道具袋がいっぱいじゃ\nなんか出てきても渡せないねぇ
-Uh-oh! I can't give you treasure when you're\n
-item bag's full!
-<$12>
-<$00>
+//大判小判<$00>
+Vintage Coin<$00>
 
 
+//超大金塊<$00>
+Jumbo Bullion<$00>
 
 
+//大金塊<$00>
+Big Bullion<$00>
 
 
-Rip open the＿
-<$1D>
-//でいいんだね？\n
-?\n
-<$01>
-//は＿い
-Yes
-<$0E>
-//／
-／
-<$01>
-//いいえ
-No
-<$0E>
-<$00>
+//金塊<$00>
+Bullion<$00>
 
 
+//噂の獣人像<$00>
+Beastman Doll<$00>
 
 
+//王者のメダル<$00>
+Champion Medal<$00>
 
 
-<CLEAR>
-//グヘヘヘ………………
-Hee...
-<$12>
+//珍しい指輪<$00>
+Rare Ring<$00>
+
+
+//１０万￥<$00>
+100,000￥ wad<$00>
+
+
+//……東<$00>
+...East<$00>
+
+
+//……西<$00>
+...West<$00>
+
+
+//……南<$00>
+...South<$00>
+
+
+//……北<$00>
+...North<$00>
+
+
+//…北東<$00>
+...North-east<$00>
+
+
+//…北西<$00>
+...North-west<$00>
+
+
+//…南東<$00>
+...South-east<$00>
+
+
+//…南西<$00>
+...South-west<$00>
+
+
+//<CLEAR>……<$1D><$00>
+<CLEAR>......<$1D><$00>
+
+
+//、…<$1D>に行けば<$00>
+! That's where we'll find a＿<$1D>.<$00>
+
+
+//直進<$00>
+For<$00>
+
+
+//右よ<$00>
+Right<$00>
+
+
+//左よ<$00>
+Left<$00>
+
+
+//後ろ<$00>
+Back<$00>
+
+
+//<CLEAR>……<$1D><$00>
+<CLEAR>......<$1D><$00>
+
+
+//、絶対に<$1D>∥<$00>
+wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
+
+
+//<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
+<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
+
+
+//<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
+<CLEAR>...Sorry. I don't have it in me today.<$12><$00>
+
+
+//運命の<$00>
+Fated＿<$00>
+
+
+//新しい<$00>
+New＿<$00>
+
+
+//素敵な<$00>
+Great＿<$00>
+
+
+//未知の<$00>
+Unknown＿<$00>
+
+
+//何か<$00>
+things＿<$00>
+
+
+//発見<$00>
+discoveries＿<$00>
+
+
+//お宝<$00>
+treasures＿<$00>
+
+
+//動物<$00>
+animals＿<$00>
+
+
+//に　出会える…<$00>
+could appear.<$00>
+
+
+//が　待ってる…<$00>
+await us...<$00>
+
+
+//気がするわ∥<$00>
+are there.<$00>
+
+
+//チャンスよ∥<$00>
+are in our grasp!<$00>
+
+
+//今しかないわ<$00>
+could slip through our fingers!<$00>
+
+
+//間違いなし∥<$00>
+are dead head!<$00>
+
+
+//\n<$1D><$1D><$1D>\n<$1D><$12>\n<CLEAR><$00>
 \n
-<CLEAR>
-//グヘヘヘヘヘ………………
-Hee hee hee...
-<$12>
-\n
-<CLEAR>
-//グヘヘヘヘヘヘヘ………………
-Hee hee hee hee hee...
-<$12>
-<$00>
+<$1D><$1D><$1D>\n
+<$1D><$12>\n
+<CLEAR><$00>
 
 
+//<CLEAR>自信があるの∥<$12><$00>
+<CLEAR>I'm sure of it!<$12><$00>
 
 
+//<CLEAR>自信は　ないけどね…<$12><$00>
+<CLEAR>Although, I'm not totally certain...<$12><$00>
 
 
-<CLEAR>
-//
-Look at this\n
-<$1D>
-//を見つけたゼ
-\n
-I found!
-<$12>
-<$00>
+//<CLEAR>絶対なんだから∥<$12><$00>
+<CLEAR>I'm absolutely certain!<$12><$00>
 
 
+//クン、クンクン………？<$12>\n<CLEAR><$1D>のニオイが　するね\nそういえば、<$1D>食まだだっけ…<$12><$00>
+Sniff...sniff, sniff?<$12>\n
+<CLEAR><$1D>＿scent's filling the air. You know, I could go for\n
+some＿<$1D>＿!<$12><$00>
 
 
+//卵焼き<$00>
+fried eggs<$00>
 
 
-<CLEAR>
-//
-<$19>
-//1
-1
-<$15>
-//S<CLEAR>ケンは「
-S<CLEAR>Ken took\n
-<$1D>
-//」を\n手にいれた∥
-!
-<$14><$12>
-<$00>
+//カレー<$00>
+curry<$00>
 
 
+//焼き肉<$00>
+Neo Korean BBQ<$00>
 
 
+//唐あげ<$00>
+karaage<$00>
 
 
-<CLEAR>
-//
-Look at the\n
-<$06><$1E><$04>
-//￥を見つけたゼ
-￥＿I found!
-<$12>
-<$00>
+//お菓子<$00>
+candy<$00>
 
 
+//バナナ<$00>
+banana<$00>
 
 
+//フライ<$00>
+Neo French fries<$00>
 
 
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//S<CLEAR>ケンは　
-S<CLEAR>Ken took\n
-<$06><$1E><$04>
-//￥を\n手にいれた∥
-￥!
-<$14><$12>
-<$00>
+//焼き魚<$00>
+grilled fish<$00>
 
 
+//トマト<$00>
+tomato<$00>
 
 
+//バター<$00>
+butter<$00>
 
 
-<CLEAR>
-//
-I thought I saw a＿\n
-<$1D>
-//を　見つけられると\n思ったけど　何もないねぇ
-＿in there,\n
-but I was wrong.
-<$12>
-<$00>
+//ソース<$00>
+sauce<$00>
 
 
+//スープ<$00>
+＿soup<$00>
 
 
+//ピラフ<$00>
+pilaf<$00>
 
 
-//大判小判
-Vintage Coin
-<$00>
+//バニラ<$00>
+vanilla<$00>
 
 
+//キムチ<$00>
+kimchi<$00>
 
 
+//チーズ<$00>
+cheese<$00>
 
 
-//超大金塊
-Jumbo Bullion
-<$00>
+//朝<$00>
+breakfast<$00>
 
 
+//昼<$00>
+lunch<$00>
 
 
+//夕<$00>
+dinner<$00>
 
 
-//大金塊
-Big Bullion
-<$00>
-
-
-
-
-
-
-//金塊
-Bullion
-<$00>
-
-
-
-
-
-
-//噂の獣人像
-Beastman Doll
-<$00>
-
-
-
-
-
-
-//王者のメダル
-Champion Medal
-<$00>
-
-
-
-
-
-
-//珍しい指輪
-Rare Ring
-<$00>
-
-
-
-
-
-
-//１０万￥
-100,000￥ wad
-<$00>
-
-
-
-
-
-
-//……東
-...East
-<$00>
-
-
-
-
-
-
-//……西
-...West
-<$00>
-
-
-
-
-
-
-//……南
-...South
-<$00>
-
-
-
-
-
-
-//……北
-...North
-<$00>
-
-
-
-
-
-
-//…北東
-...North-east
-<$00>
-
-
-
-
-
-
-//…北西
-...North-west
-<$00>
-
-
-
-
-
-
-//…南東
-...South-east
-<$00>
-
-
-
-
-
-
-//…南西
-...South-west
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//……
-......
-<$1D>
-<$00>
-
-
-
-
-
-
-//、…
-! That's where we'll find a＿
-<$1D>
-//に行けば
-.
-<$00>
-
-
-
-
-
-
-//直進
-For
-<$00>
-
-
-
-
-
-
-//右よ
-Right
-<$00>
-
-
-
-
-
-
-//左よ
-Left
-<$00>
-
-
-
-
-
-
-//後ろ
-Back
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//……
-......
-<$1D>
-<$00>
-
-
-
-
-
-
-//、絶対に
-wards, got it? I'm sure we'll find a＿
-<$1D>
-//∥
-＿there!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//Sリンダは　「女の勘」を\nはたらかせた∥
-SLinda used her woman's intuition...
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//…ごめんね、\n今日は　勘がはたらかないわ…
-...Sorry. I don't have it in me today.
-<$12>
-<$00>
-
-
-
-
-
-
-//運命の
-Fated＿
-<$00>
-
-
-
-
-
-
-//新しい
-New＿
-<$00>
-
-
-
-
-
-
-//素敵な
-Great＿
-<$00>
-
-
-
-
-
-
-//未知の
-Unknown＿
-<$00>
-
-
-
-
-
-
-//何か
-things＿
-<$00>
-
-
-
-
-
-
-//発見
-discoveries＿
-<$00>
-
-
-
-
-
-
-//お宝
-treasures＿
-<$00>
-
-
-
-
-
-
-//動物
-animals＿
-<$00>
-
-
-
-
-
-
-//に　出会える…
-could appear.
-<$00>
-
-
-
-
-
-
-//が　待ってる…
-await us...
-<$00>
-
-
-
-
-
-
-//気がするわ∥
-are there.
-<$00>
-
-
-
-
-
-
-//チャンスよ∥
-are in our grasp!
-<$00>
-
-
-
-
-
-
-//今しかないわ
-could slip through our fingers!
-<$00>
-
-
-
-
-
-
-//間違いなし∥
-are dead head!
-<$00>
-
-
-
-
-
-
-//\n
-\n
-<$1D><$1D><$1D>
-//\n
-\n
-<$1D><$12>
-\n
-<CLEAR>
-//
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//自信があるの∥
-I'm sure of it!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//自信は　ないけどね…
-Although, I'm not totally certain...
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//絶対なんだから∥
-I'm absolutely certain!
-<$12>
-<$00>
-
-
-
-
-
-
-//クン、クンクン………？
-Sniff...sniff, sniff?
-<$12>
-\n
-<CLEAR>
-//
-<$1D>
-//のニオイが　するね\nそういえば、
-＿scent's filling the air. You know, I could\n
-go for some＿
-<$1D>
-//食まだだっけ…
-＿!
-<$12>
-<$00>
-
-
-
-
-
-
-//卵焼き
-fried eggs
-<$00>
-
-
-
-
-
-
-//カレー
-curry
-<$00>
-
-
-
-
-
-
-//焼き肉
-Neo Korean BBQ
-<$00>
-
-
-
-
-
-
-//唐あげ
-karaage
-<$00>
-
-
-
-
-
-
-//お菓子
-candy
-<$00>
-
-
-
-
-
-
-//バナナ
-banana
-<$00>
-
-
-
-
-
-
-//フライ
-Neo French fries
-<$00>
-
-
-
-
-
-
-//焼き魚
-grilled fish
-<$00>
-
-
-
-
-
-
-//トマト
-tomato
-<$00>
-
-
-
-
-
-
-//バター
-butter
-<$00>
-
-
-
-
-
-
-//ソース
-sauce
-<$00>
-
-
-
-
-
-
-//スープ
-＿soup
-<$00>
-
-
-
-
-
-
-//ピラフ
-pilaf
-<$00>
-
-
-
-
-
-
-//バニラ
-vanilla
-<$00>
-
-
-
-
-
-
-//キムチ
-kimchi
-<$00>
-
-
-
-
-
-
-//チーズ
-cheese
-<$00>
-
-
-
-
-
-
-//朝
-breakfast
-<$00>
-
-
-
-
-
-
-//昼
-lunch
-<$00>
-
-
-
-
-
-
-//夕
-dinner
-<$00>
-
-
-
-
-
-
-//クン、クンクン………？
-Sniff...sniff, sniff?
-<$12>
-\n
-<CLEAR>
-//消毒液のニオイが\nプンプンするね
-It smells strongly of antiseptic here.
-<$12>
-<$00>
-
-
-
-
+//クン、クンクン………？<$12>\n<CLEAR>消毒液のニオイが\nプンプンするね<$12><$00>
+Sniff...sniff, sniff?<$12>\n
+<CLEAR>It smells strongly of antiseptic here.<$12><$00>
 
 
 

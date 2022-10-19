@@ -161,1452 +161,524 @@ width2.obj
 
 
 #WRITE(PTR, $0020)
-//軌道衛星オズサット１Ｆ
-OzSAT 1F＿
-<$00>
+//軌道衛星オズサット１Ｆ<$00>
+OzSAT 1F＿<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
+//このワープ装置が　導入されて\n衛星軌道への搬出コストが　いきなり\n１／<$06>100000<$04>に　減ったんだってね<$12>\n<CLEAR>これも　あなたの背中のカーゴと\n同じで元は、例の遺跡のいわゆる\n「掘出し物」らしいわ<$12>\n<CLEAR>つまり　原理はよくわからないけど\nとりあえず　便利だから使ってる、\n連邦お得意の　現実的対応ってヤツね<$12><$00>
+Once warp was introduced, we cut shipment costs to OzSat\n
+down to nearly 1/<$06>100,000<$04>＿of what they once were!<$12>\n
+<CLEAR>The primary concept behind warp travel is close that of\n
+the TCU you've got on your back.<$12>\n
+<CLEAR>I heard the inspiration was found in some temple "treasure\n
+trove". Wish I knew more.<$12>\n
+<CLEAR>I'm just glad the Federation made a practical choice and put\n
+it to use for once!<$12><$00>
 
 
+//脱出船の予定は　残り<$1E>2便…\nたったそれだけで　地上に残っている人、\n全員を回収できるのかなぁ<$12>\n<CLEAR>積み残しが　でなきゃいいけど\n連邦の計画って　机上のプランばかりで\nたいてい途中で　破たんするんだよ<$12><$00>
+There are＿<$1E>2 remaining flights scheduled. We're so close to\n
+getting everyone out of here.<$12>\n
+<CLEAR>I don't want to jynx it, though. Nothing says "half assed"\n
+like a federal project.<$12><$00>
 
 
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
+//ターミナル衛星、オズサットへようこそ\n今日は　知人の見送りかしら？\n<$01>そんなトコだよ<$0E>／<$01>動物を捜しにね<$0E><$00>
+Welcome to OzSAT. Are you here to see someone off?？\n
+<$01>Sure<$0E>／<$01>No, I want animals.<$0E><$00>
 
 
+//<CLEAR>脱出船の発着場と　送迎デッキは\nこの上のフロアの　奥にあるわ<$12><$00>
+<CLEAR>You'll find both the dock and observation deck upstairs\n
+and to the back.<$12><$00>
 
 
+//<CLEAR>ここにいる　珍しい動物と言えば\nラボの学者たちぐらいね\n変わったのが　そろってるわよ<$12><$00>
+<CLEAR>The only rare animals we have here are the scientists in the\n
+lab. They're all natural oddities, if you ask me.<$12><$00>
 
 
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
+//連邦には　だまされたけど\n私は負けないわ∥　どこでだって\n何度だって　やり直してみせるわ∥<$12>\n<CLEAR>たとえ　私ができなくても…\n私の子が　きっと　やってくれる\nそういう子を　育ててみせるわ∥<$12><$00>
+The Federation might've screwed me over, but I won't let\n
+them keep me down. Nope, over my dead body!<$12>\n
+<CLEAR>And if somehow they do? My child will march over my dead\n
+body and settle the score then!<$12><$00>
 
 
-
-
-
-
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-//このワープ装置が　導入されて\n衛星軌道への搬出コストが　いきなり\n１／
-Once warp was introduced, we cut shipment\n
-costs to OzSat down to nearly 1/
-<$06>
-//100000
-100,000
-<$04>
-//に　減ったんだってね
-＿of what they once were!
-<$12>
-\n
-<CLEAR>
-//これも　あなたの背中のカーゴと\n同じで元は、例の遺跡のいわゆる\n「掘出し物」らしいわ
-The primary concept behind warp travel is\n
-close that of the TCU you've got on your\n
-back.
-<$12>
-\n
-<CLEAR>
-//つまり　原理はよくわからないけど\nとりあえず　便利だから使ってる、\n連邦お得意の　現実的対応ってヤツね
-I heard the inspiration was found in some\n
-temple "treasure trove". Wish I knew more.
-<$12>
-\n
-<CLEAR>
-I'm just glad the Federation made a practical\n
-choice and put it to use for once!
-<$12>
-<$00>
-
-
-
-
-
-
-//脱出船の予定は　残り
-There are＿
-<$1E>
-//2便…\nたったそれだけで　地上に残っている人、\n全員を回収できるのかなぁ
-2 remaining flights scheduled. We're so close\n
-to getting everyone out of here.
-<$12>
-\n
-<CLEAR>
-//積み残しが　でなきゃいいけど\n連邦の計画って　机上のプランばかりで\nたいてい途中で　破たんするんだよ
-I don't want to jynx it, though. Nothing says\n
-"half assed" like a federal project.
-<$12>
-<$00>
-
-
-
-
-
-
-//ターミナル衛星、オズサットへようこそ\n今日は　知人の見送りかしら？\n
-Welcome to OzSAT. Are you here to see someone\n
-off?？\n
-<$01>
-//そんなトコだよ
-Sure
-<$0E>
-//／
-／
-<$01>
-//動物を捜しにね
-No, I want animals.
-<$0E>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//脱出船の発着場と　送迎デッキは\nこの上のフロアの　奥にあるわ
-You'll find both the dock and observation\n
-deck upstairs and to the back.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ここにいる　珍しい動物と言えば\nラボの学者たちぐらいね\n変わったのが　そろってるわよ
-The only rare animals we have here are the\n
-scientists in the lab. They're all natural\n
-oddities, if you ask me.
-<$12>
-<$00>
-
-
-
-
-
-
-//連邦には　だまされたけど\n私は負けないわ∥　どこでだって\n何度だって　やり直してみせるわ∥
-The Federation might've screwed me over, but\n
-I won't let them keep me down. Nope, over my\n
-dead body!
-<$12>
-\n
-<CLEAR>
-//たとえ　私ができなくても…\n私の子が　きっと　やってくれる\nそういう子を　育ててみせるわ∥
-And if somehow they do? My child will march\n
-over my dead body and settle the score then!
-<$12>
-<$00>
-
-
-
-
-
-
-//そういえば　箱船の中の井戸の底から\n面白いモノが　出たらしいわね\nある植物の　根の組織なんだけど…
-I meant to tell you...apparently, the root\n
-tissue of a strange plant was found at the\n
-bottom of the Astro Ark.
-<$12>
-\n
-<CLEAR>
-//この星のものじゃ　ないのよ\nつまり箱船は　過去にも　どこかへ\n飛んだことが　あるってことね
-The plant doesn't belong to Neo Kenya,\n
-meaning that ship has been to other planets\n
-at some point in the past.
-<$12>
-\n
-<CLEAR>
-//とりあえず　本当に動くらしいことが\nわかって　あなたたちも　仕事に\n張り合いが　出たでしょ￠
-That thing can really shake a tail feather,\n
-just like the two of you!
-<$12>
-<$00>
-
-
-
-
+//そういえば　箱船の中の井戸の底から\n面白いモノが　出たらしいわね\nある植物の　根の組織なんだけど…<$12>\n<CLEAR>この星のものじゃ　ないのよ\nつまり箱船は　過去にも　どこかへ\n飛んだことが　あるってことね<$12>\n<CLEAR>とりあえず　本当に動くらしいことが\nわかって　あなたたちも　仕事に\n張り合いが　出たでしょ￠<$12><$00>
+I meant to tell you...apparently, the root tissue of a strange\n
+plant was found at the bottom of the Astro Ark.<$12>\n
+<CLEAR>The plant doesn't belong to Neo Kenya, meaning that ship\n
+has been to other planets at some point in the past.<$12>\n
+<CLEAR>That thing can really shake a tail feather, just like the two\n
+of you!<$12><$00>
 
 
 #WRITE(PTR, $0022)
-//軌道衛星オズサット２Ｆ
-OzSAT 2F＿
-<$00>
+//軌道衛星オズサット２Ｆ<$00>
+OzSAT 2F＿<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
+//私、こんなお腹だから　途中で\n産気づいたりしたら　困るでしょ<$12>\n<CLEAR>だから主人だけ、仕事の関係で\n先に　行くことになったのよ\n少し不安だけど　仕方ないわ<$12><$00>
+It wouldn't be safe for me if my water broke aboard\n
+a shuttle.<$12>\n
+<CLEAR>What's more, my husband had to go ahead of me\n
+because of his job. It's all so worrisome.<$12><$00>
 
 
+//キミ、電話で天気予報を\n聞いたことあるかなぁ？\n<$01>ありますよ<$0E>／<$01>ないですね<$0E><$00>
+Have you ever called for the weather forecast?\n
+<$01>Yes<$0E>／<$01>No<$0E><$00>
 
 
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
+//<CLEAR>アレね、私がここから　ネオケニアの\n雲のかかり具合を　見ながら\n予報を　出してんのよ<$12>\n<CLEAR>よくわかんない時は　クツを投げて\n決めることもあるけど　それにしては\nけっこう　当たるでしょ？<$12><$00>
+<CLEAR>Really now! I issue those forecasts across Neo Kenya, right\n
+from this room!<$12>\n
+<CLEAR>When I'm not sure, usually I just follow my gut. That works\n
+just as well, honestly.<$12><$00>
 
 
+//<CLEAR>天気予報を　聞かないなんて\nキミまだまだ　ハンターとしては\nモウコハンが　とれてないガキね<$12>\n<CLEAR>１度、雪にでも降られて　痛い目を\nみれば　天気予報のありがたさが\n骨のズイまで　わかってよ！<$12><$00>
+<CLEAR>You don't check the weather? And you call yourself a\n
+hunter? Listen, my boy...<$12>\n
+<CLEAR>If a snow storm gets in your eyes, you'll think of me and\n
+wish you'd called ahead!<$12><$00>
 
 
+//この星の動物は　生態系から切り離すと\nすぐに　死んでしまうんじゃよ<$12>\n<CLEAR>もし　ここの動物を　生かして\n別の場所へ移そうとすると　星ごと\n持っていくしか　なかろうな<$12><$00>
+Once an animal leaves our planet's ecosystem, the animal\n
+dies.<$12>\n
+<CLEAR>If you wanted to move an animal somehere, you'd need to lug\n
+the entire planet with you.<$12><$00>
 
 
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
+//ケン！　ここを通って　旅立っていった\n人たちの何人かが　あなたに\nメッセージを　残していったわ<$12>\n<CLEAR>今、ご覧になる？<$00>
+Ken! Some of the people who just departed left a message of\n
+support for you.<$12>\n
+<CLEAR>Do you wish to hear it now?<$00>
 
 
+//<CLEAR>これからも　増えると思うから\n時間があるときに　見に来てね！<$12><$00>
+<CLEAR>I think such messages will increase, so check back from\n
+time to time!<$12><$00>
 
 
+//あんたも　見送る人がいるんだな？\nいや…　箱船に志願するなんて\n天涯孤独だとばかり　思ってたからな<$12><$00>
+Will no one be here to see you two sail off? Probably\n
+not, huh...<$12>\n
+<CLEAR>You'll be a pilot for the rest of your life, but that\n
+sounds like such a lonely profession.<$12><$00>
 
 
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
+//この壁から　３ｍ<$06>30<$04>㎝外じゃ私たちは　生きていけないのよねぇ\nよくよく　考えてみると…<$12>\n<CLEAR>人間て、けっこう無理してるわよねぇ\n『クセだもん　しょうがない』って\nママなら　言いそうだけど…<$12>\n<CLEAR>アル中で　去年、死んじゃったけどね<$12><$00>
+If we went even 3m<$06>30<$04>㎝ beyond this barrier, we'd all\n
+die. You know, it's funny...<$12>\n
+<CLEAR>Humans are so helpless, aren't we? I remember her\n
+saying, "Yeah, but we always pull through."<$12>\n
+<CLEAR>She died of alcoholism last year.<$12><$00>
 
 
+//あと<$06>20<$04>年、いや<$06>10<$04>年あれば\nこの星の動物の　体の組成を\n完全に　解明できたものを…<$12>\n<CLEAR>タイムマシンが　あったらなぁ…<$12>\n<CLEAR>もう一度　わしに、いや人類に\nチャンスを　誰かくれんかぁ<$12><$00>
+We were only＿<$06>20<$04>, no,＿<$06>10<$04>＿years away from unraveling\n
+the mysteris of Neo Kenya and its animal life.<$12>\n
+<CLEAR>I wish I had a time machine...<$12>\n
+<CLEAR>Please, God!＿All I want- all humanity wants is a second\n
+chance!<$12><$00>
 
 
+//脱出シャトルに　お乗りの方は\n階段を降りて　搭乗口へ<$12>\n<CLEAR>お見送りのお客様は　正面の\n送迎デッキへ　お願いします<$12><$00>
+If you're here to board a migration shuttle, take these\n
+stairs down to the boarding gate.<$12>\n
+<CLEAR>If you're seeing someone off, head to the observation\n
+deck just ahead.<$12><$00>
 
 
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
+//<CLEAR>＊＜動物クイズ＞\n<$1B>パンダの好物は　何でしょう？\n１．笹　　２．パン　　３．人肉<$12>\n<CLEAR>＊答、ネオケニアには　<$1B>パンダなんて\nいないので　わからない<$12>\n<CLEAR>＊ちなみに　このクイズ自身は\n３の人肉が　好物なんだよねぇ\n『人を喰った』クイズなんちゃって∥<$12><$00>
+<CLEAR>＊＜Animal Quiz＞\What does a＿panda eat?\n
+１．bamboo　２．bread　３．human flesh<$12>\n
+<CLEAR>＊I've never seen a＿panda in Neo Kenya, so who knows!<$12>\n
+<CLEAR>＊As for the quiz, I'd say "No. 3", because the question\n
+might eat at you before long!<$12><$00>
 
 
+//<CLEAR>＊ケン　リンダ！　動物集め\nギリギリまで　がんばれよ∥\nオレは　安全な場所へ行くけど<$12><$00>
+<CLEAR>＊Good luck with catching all those animals, Ken and Linda!\n
+I'm on my way out!<$12><$00>
 
 
+//<CLEAR>＊帰ろう……　うちへ<$12><$00>
+<CLEAR>＊Run home, Ken... Run home...<$12><$00>
 
 
-//私、こんなお腹だから　途中で\n産気づいたりしたら　困るでしょ
-It wouldn't be safe for me if my water broke\n
-aboard a shuttle.
-<$12>
-\n
-<CLEAR>
-//だから主人だけ、仕事の関係で\n先に　行くことになったのよ\n少し不安だけど　仕方ないわ
-What's more, my husband had to go ahead of me\n
-because of his job. It's all so worrisome.
-<$12>
-<$00>
-
-
-
-
-
-
-//キミ、電話で天気予報を\n聞いたことあるかなぁ？\n
-Have you ever called for the weather\n
-forecast?\n
-<$01>
-//ありますよ
-Yes
-<$0E>
-//／
-／
-<$01>
-//ないですね
-No
-<$0E>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//アレね、私がここから　ネオケニアの\n雲のかかり具合を　見ながら\n予報を　出してんのよ
-Really now! I issue those forecasts across\n
-Neo Kenya, right from this room!
-<$12>
-\n
-<CLEAR>
-//よくわかんない時は　クツを投げて\n決めることもあるけど　それにしては\nけっこう　当たるでしょ？
-When I'm not sure, usually I just follow my\n
-gut. That works just as well, honestly.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//天気予報を　聞かないなんて\nキミまだまだ　ハンターとしては\nモウコハンが　とれてないガキね
-You don't check the weather? And you call\n
-yourself a hunter? Listen, my boy...
-<$12>
-\n
-<CLEAR>
-//１度、雪にでも降られて　痛い目を\nみれば　天気予報のありがたさが\n骨のズイまで　わかってよ！
-If a snow storm gets in your eyes, you'll\n
-think of me and wish you'd called ahead!
-<$12>
-<$00>
-
-
-
-
-
-
-//この星の動物は　生態系から切り離すと\nすぐに　死んでしまうんじゃよ
-Once an animal leaves our planet's ecosystem,\n
-the animal dies.
-<$12>
-\n
-<CLEAR>
-//もし　ここの動物を　生かして\n別の場所へ移そうとすると　星ごと\n持っていくしか　なかろうな
-If you wanted to move an animal somehere,\n
-you'd need to lug the entire planet with you.
-<$12>
-<$00>
-
-
-
-
-
-
-//ケン！　ここを通って　旅立っていった\n人たちの何人かが　あなたに\nメッセージを　残していったわ
-Ken! Some of the people who just departed\n
-left a message of support for you.
-<$12>
-\n
-<CLEAR>
-//今、ご覧になる？
-Do you wish to hear it now?
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//これからも　増えると思うから\n時間があるときに　見に来てね！
-I think such messages will increase, so check\n
-back from time to time!
-<$12>
-<$00>
-
-
-
-
-
-
-//あんたも　見送る人がいるんだな？\nいや…　箱船に志願するなんて\n天涯孤独だとばかり　思ってたからな
-Will no one be here to see you two sail off?\n
-Probably not, huh...
-<$12>
-\n
-<CLEAR>
-You'll be a pilot for the rest of your life,\n
-but that sounds like such a lonely\n
-profession.
-<$12>
-<$00>
-
-
-
-
-
-
-//この壁から　３ｍ
-If we went even 3m
-<$06>
-//30
-30
-<$04>
-//㎝外じゃ私たちは　生きていけないのよねぇ\nよくよく　考えてみると…
-㎝ beyond this barrier, we'd all die. You\n
-know, it's funny...
-<$12>
-\n
-<CLEAR>
-//人間て、けっこう無理してるわよねぇ\n『クセだもん　しょうがない』って\nママなら　言いそうだけど…
-Humans are so helpless, aren't we? I remember\n
-her saying, "Yeah, but we always pull\n
-through."
-<$12>
-\n
-<CLEAR>
-//アル中で　去年、死んじゃったけどね
-She died of alcoholism last year.
-<$12>
-<$00>
-
-
-
-
-
-
-//あと
-We were only＿
-<$06>
-//20
-20
-<$04>
-//年、いや
-, no,＿
-<$06>
-//10
-10
-<$04>
-//年あれば\nこの星の動物の　体の組成を\n完全に　解明できたものを…
-＿years away from unraveling the mysteris of\n
-Neo Kenya and its animal life.
-<$12>
-\n
-<CLEAR>
-//タイムマシンが　あったらなぁ…
-I wish I had a time machine...
-<$12>
-\n
-<CLEAR>
-//もう一度　わしに、いや人類に\nチャンスを　誰かくれんかぁ
-Please, God!＿All I want- all humanity wants\n
-is a second chance!
-<$12>
-<$00>
-
-
-
-
-
-
-//脱出シャトルに　お乗りの方は\n階段を降りて　搭乗口へ
-If you're here to board a migration shuttle,\n
-take these stairs down to the boarding gate.
-<$12>
-\n
-<CLEAR>
-//お見送りのお客様は　正面の\n送迎デッキへ　お願いします
-If you're seeing someone off, head to the\n
-observation deck just ahead.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//＊＜動物クイズ＞\n
-＊＜Animal Quiz＞\What does a＿
-//<$1B>
-//パンダの好物は　何でしょう？\n１．笹　　２．パン　　３．人肉
-panda eat?\n
-１．bamboo　２．bread　３．human flesh
-<$12>
-\n
-<CLEAR>
-//＊答、ネオケニアには　
-＊I've never seen a＿
-//<$1B>
-//パンダなんて\nいないので　わからない
-panda in Neo Kenya, so who knows!
-<$12>
-\n
-<CLEAR>
-//＊ちなみに　このクイズ自身は\n３の人肉が　好物なんだよねぇ\n『人を喰った』クイズなんちゃって∥
-＊As for the quiz, I'd say "No. 3", because\n
-the question might eat at you before long!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//＊ケン　リンダ！　動物集め\nギリギリまで　がんばれよ∥\nオレは　安全な場所へ行くけど
-＊Good luck with catching all those animals,\n
-Ken and Linda! I'm on my way out!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//＊帰ろう……　うちへ
-＊Run home, Ken... Run home...
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//＊ケン　それからリンダ\n動物集めは　大変そうだけど\n順調に　いってますか？
-＊Dear Ken and Linda,\n
+//<CLEAR>＊ケン　それからリンダ\n動物集めは　大変そうだけど\n順調に　いってますか？<$12><$00>
+<CLEAR>＊Dear Ken and Linda,\n
 Animal hunting sounds tough.\n
-Is everything going well?
-<$12>
-<$00>
+Is everything going well?<$12><$00>
 
 
+//<CLEAR>＊長い旅に　なるだろうから\n箱船に乗る前には　必ず\nトイレを　済ませること！<$12>\n<CLEAR>＊手も洗えよ<$12><$00>
+<CLEAR>＊It's going to be a long ride for you two. Make sure to\n
+use the restroom before boarding the Astro Ark!<$12>\n
+<CLEAR>＊And wash your hands!<$12><$00>
 
 
+//<CLEAR>＊<$1B>ムカデからは　一度の加工で\n<$06>100<$04>足のクツが　できるのよ∥\n………ウソだよよよ～ん！<$12><$00>
+<CLEAR>＊Did you know? If you make shoes using＿centipedes as\n
+a material, you get＿<$06>100<$04>＿pairs...<$12>\n
+<CLEAR>...Ouch! Okay, okay, I was joking!<$12><$00>
 
 
-<CLEAR>
-//＊長い旅に　なるだろうから\n箱船に乗る前には　必ず\nトイレを　済ませること！
-＊It's going to be a long ride for you two.\n
-Make sure to use the restroom before boarding\n
-the Astro Ark!
-<$12>
-\n
-<CLEAR>
-//＊手も洗えよ
-＊And wash your hands!
-<$12>
-<$00>
+//<CLEAR>＊コシカタの地下は　発見したかい？\n<$1B>ナマズには　くれぐれも注意しなよ<$12><$00>
+<CLEAR>＊Have you found the Koshikata underground?\n
+Watch out for those＿catfish!<$12><$00>
 
 
+//<CLEAR>＊<$1B>バファロの生息地の\nナビ座標は　Ｇ<$06>－１４<$04>あたりだよ\nだまされたと思って　１度行ってみな<$12>\n<CLEAR>＊だまされたと　思うだけかもね<$12><$00>
+<CLEAR>＊Buffalo roam around G<$06>－１４<$04>! Watch out for\n
+bullshit if you go!<$12>\n
+<CLEAR>＊This message isn't bullshit. We promise.<$12><$00>
 
 
+//<CLEAR>＊野営しといて　実は全員が見張り！\n動物をおびき出すには　けっこう\n重宝な作戦だぜ！　覚えときな<$12><$00>
+<CLEAR>＊A quick way to encounter new animals is to have\n
+EVERYONE keep watch when camping.<$12><$00>
 
 
-<CLEAR>
-//＊
-＊Did you know? If you make shoes using＿
-//<$1B>
-//ムカデからは　一度の加工で\n
-centipedes as a material, you get＿
-<$06>
-//100
-100
-<$04>
-//足のクツが　できるのよ∥\n………ウソだよよよ～ん！
-＿pairs...
-<$12>
-\n
-<CLEAR>
-...Ouch! Okay, okay, I was joking!
-<$12>
-<$00>
+//<CLEAR>＊宝くじの当り番号には　実は\n一定の法則が　あるんだ\n教えるから　メモを用意しな<$12>\n<CLEAR>＊１）　自分の経験値の末尾４ケタＡを\nその逆数Ｂで割る<$12>\n<CLEAR>＊２）　その答に　現在のレベルＣを\n足して　８で割る<$12>\n<CLEAR>＊３）　その余りＤに　もう一度\n末尾４ケタＡを　足す<$12>\n<CLEAR>＊ここまでは　わかったかな？\nメモの最後には　忘れず\nこう付け加えろよ！<$12>\n<CLEAR>＊４）　この手の　うますぎる話Ｅに\n引っかからないように<$12><$00>
+<CLEAR>＊There's a little trick for guessing the winning lottery\n
+numbers.<$12>\n
+<CLEAR>＊１）　Take the last 4 digits of your EXP, A, and\n
+divide by its multiplicative inverse, B.<$12>\n
+<CLEAR>＊２）　Take that answer, then add your LVL, C, on\n
+top of that. Then, divide by 8.<$12>\n
+<CLEAR>＊３）　Take that answer, D, and add the 4 digits\n
+from A onto it one more time!<$12>\n
+<CLEAR>＊Did you get all that? I hope you were taking notes. Oh!\n
+And one last thing!<$12>\n
+<CLEAR>＊４）　When you hear a B.S. story like this, E,\n
+subtract it from your mind. Sike!<$12><$00>
 
 
+//<CLEAR>＊ダークリバーの　底で\n珍しいのが　ウロウロしてたよ<$12>\n<CLEAR>＊あれが　<$1B>ネコかもなぁ<$12><$00>
+<CLEAR>＊Sometimes, you'll find the most unlikely animals scampering\n
+around the deeper parts of Dark River.<$12>\n
+<CLEAR>＊That includes＿cats!<$12><$00>
 
 
+//<CLEAR>＊<$1B>バッタの居場所を　知りたいなら\nマダムに　聞いてごらん<$12><$00>
+<CLEAR>＊If you want to know where＿grasshoppers are, you'd\n
+better look for the Madam.<$12><$00>
 
 
-<CLEAR>
-//＊コシカタの地下は　発見したかい？\n
-＊Have you found the Koshikata underground?\n
-Watch out for those＿
-//<$1B>
-//ナマズには　くれぐれも注意しなよ
-catfish!
-<$12>
-<$00>
+//<CLEAR>＊リンダ・カルトクイズ（初級）\nシナリオＢに　登場する\nサチコは　全部で何人？<$12>\n<CLEAR>＊答が５人に足りない人は　もう一度\nシナリオＢを　初めから\nゆっくりと　やってみよう∥<$12><$00>
+<CLEAR>＊Linda Quizzed (Again!)＊\n
+In Scenario B, how many Sachikos appear in total?<$12>\n
+<CLEAR>＊If you're lost, check off each "Sachiko" appearance next\n
+time you play Scenario B.<$12><$00>
 
 
+//<CLEAR>＊リンダ・カルトクイズ（中級）\nゴメスが　一番好きなのは\n何ごっこ？<$12>\n<CLEAR>＊答は　パラサイドのバードラインの\nカウンターの女に　聞きましょう<$12><$00>
+<CLEAR>＊Linda Quizzed (Again!)＊\n
+What is Gomez' favorite animal to roleplay?<$12>\n
+<CLEAR>＊If you're lost, go ask the woman at the Paraside\n
+birdline counter.<$12><$00>
 
 
-
-
-<CLEAR>
-//＊
-＊
-//<$1B>
-//バファロの生息地の\nナビ座標は　Ｇ
-Buffalo roam around G
-<$06>
-//－１４
-－１４
-<$04>
-//あたりだよ\nだまされたと思って　１度行ってみな
-! Watch out for bullshit if you go!
-<$12>
-\n
-<CLEAR>
-//＊だまされたと　思うだけかもね
-＊This message isn't bullshit. We promise.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//＊野営しといて　実は全員が見張り！\n動物をおびき出すには　けっこう\n重宝な作戦だぜ！　覚えときな
-＊A quick way to encounter new animals is to\n
-have EVERYONE keep watch when camping.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//＊宝くじの当り番号には　実は\n一定の法則が　あるんだ\n教えるから　メモを用意しな
-＊There's a little trick for guessing the\n
-winning lottery numbers.
-<$12>
-\n
-<CLEAR>
-//＊１）　自分の経験値の末尾４ケタＡを\nその逆数Ｂで割る
-＊１）　Take the last 4 digits of your EXP, A,\n
-and divide by its multiplicative inverse, B.
-<$12>
-\n
-<CLEAR>
-//＊２）　その答に　現在のレベルＣを\n足して　８で割る
-＊２）　Take that answer, then add your LVL, C,\n
-on top of that. Then, divide by 8.
-<$12>
-\n
-<CLEAR>
-//＊３）　その余りＤに　もう一度\n末尾４ケタＡを　足す
-＊３）　Take that answer, D, and add the 4 digits\n
-from A onto it one more time!
-<$12>
-\n
-<CLEAR>
-//＊ここまでは　わかったかな？\nメモの最後には　忘れず\nこう付け加えろよ！
-＊Did you get all that? I hope you were taking\n
-notes. Oh! And one last thing!
-<$12>
-\n
-<CLEAR>
-//＊４）　この手の　うますぎる話Ｅに\n引っかからないように
-＊４）　When you hear a B.S. story like this, E,\n
-subtract it from your mind. Sike!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//＊ダークリバーの　底で\n珍しいのが　ウロウロしてたよ
-＊Sometimes, you'll find the most unlikely\n
-animals scampering around the deeper parts of\n
-Dark River.
-<$12>
-\n
-<CLEAR>
-//＊あれが　
-＊That includes＿
-//<$1B>
-//ネコかもなぁ
-cats!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//＊
-＊If you want to know where＿
-//<$1B>
-//バッタの居場所を　知りたいなら\nマダムに　聞いてごらん
-grasshoppers are, you'd better look for the\n
-Madam.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//＊リンダ・カルトクイズ（初級）\nシナリオＢに　登場する\nサチコは　全部で何人？
-＊Linda Quizzed (Again!)＊\n
-In Scenario B, how many Sachikos appear in\n
-total?
-<$12>
-\n
-<CLEAR>
-//＊答が５人に足りない人は　もう一度\nシナリオＢを　初めから\nゆっくりと　やってみよう∥
-＊If you're lost, check off each "Sachiko"\n
-appearance next time you play Scenario B.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//＊リンダ・カルトクイズ（中級）\nゴメスが　一番好きなのは\n何ごっこ？
-＊Linda Quizzed (Again!)＊\n
-What is Gomez' favorite animal to roleplay?
-<$12>
-\n
-<CLEAR>
-//＊答は　パラサイドのバードラインの\nカウンターの女に　聞きましょう
-＊If you're lost, go ask the woman at the\n
-Paraside birdline counter.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//＊リンダ・カルトクイズ（上級）\nベン隊長の姓は　何？\n答は　ガレックスにあります
-＊Linda Quizzed (Again!)＊\n
+//<CLEAR>＊リンダ・カルトクイズ（上級）\nベン隊長の姓は　何？\n答は　ガレックスにあります<$12><$00>
+<CLEAR>＊Linda Quizzed (Again!)＊\n
 Who inspired Captain Gene?\n
-＊If you're lost, go to Galax!
-<$12>
-<$00>
+＊If you're lost, go to Galax!<$12><$00>
 
 
+//<CLEAR>＊俺たちが　引っ越した後には\n誰も　入らないけど…<$12>\n<CLEAR>＊<$1B>ヤドカリが　抜けた穴には\n別の入居者の予約が　あるらしいぜ<$12><$00>
+<CLEAR>＊No one's picking up after us once we move. However...<$12>\n
+<CLEAR>＊...there may be an extra resident living in the hole\n
+where＿hermit crabs crawl out.<$12><$00>
 
 
+//<CLEAR>＊ビースチャンの指輪は　全部で８つ\n半分集めれば　<$06>20<$04>レベルで\n<$1B>ドラゴンを　倒すのも夢じゃない∥<$12><$00>
+<CLEAR>＊If you managed to collect all 8 Beastian rings, wrestling\n
+a LVL＿There are 8 Beastian rings in total. If you manage\n
+to collect half of those, even at LVL <$06>20<$04>＿, defeating\n
+a＿dragon would be cake!<$12><$00>
 
 
-<CLEAR>
-//＊俺たちが　引っ越した後には\n誰も　入らないけど…
-＊No one's picking up after us once we move.\n
-However...
-<$12>
-\n
-<CLEAR>
-//＊
-＊...there may be an extra resident living in\n
-the hole where＿
-//<$1B>
-//ヤドカリが　抜けた穴には\n別の入居者の予約が　あるらしいぜ
-hermit crabs crawl out.
-<$12>
-<$00>
+//<CLEAR>＊フローラ博士と　<$06>２５６<$04>回、\nキスすると「ウンチ鑑定」の能力が\n身につく<$12>\n<CLEAR>＊…かどうかは　怪しいけど\nキスは　上手になるんじゃない？<$12><$00>
+<CLEAR>＊If you kiss Dr. Flora＿<$06>256<$04>＿times, she'll give you the\n
+Scatologist skill.<$12>\n
+<CLEAR>＊...Well, even if you don't learn that, you'll still be a\n
+much better kisser for all the work!<$12><$00>
 
 
+//<CLEAR>＊マキちゃんの相手ってサ\n結局、ヤマダでもポールでもなくて\nニシモリって　漫画家らしいよ<$12>\n<CLEAR>＊まっ、とりあえず\n末永く　お幸せにってトコだな<$12><$00>
+<CLEAR>＊In the end, Maki-chan didn't pick Yamada or Paul! She's\n
+with a manga artist named Nishimori.<$12>\n
+<CLEAR>＊Well, as long as she's happy, I wish her the very best.<$12><$00>
 
 
+//<CLEAR>＊<$1B>カメレオは　姿が見えないんだ！\n捕まえるには　おびきよせるか\nワナを　かけるか…<$12>\n<CLEAR>＊勘を頼りに　そこらを走るかだな<$12><$00>
+<CLEAR>＊Chameleons are invisible. To catch one, you can lure\n
+them, or set up traps in their habitat.<$12>\n
+<CLEAR>＊Then again, they run on their keen perception, so trust\n
+your gut and just run around those areas.<$12><$00>
 
 
-<CLEAR>
-//＊ビースチャンの指輪は　全部で８つ\n半分集めれば　
-＊If you managed to collect all 8 Beastian\n
-rings, wrestling a LVL＿
-There are 8 Beastian rings in total. If you\n
-manage to collect half of those, even at LVL
-<$06>
-//20
-20
-<$04>
-//レベルで\n
-＿, defeating a＿
-//<$1B>
-//ドラゴンを　倒すのも夢じゃない∥
-dragon would be cake!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//＊フローラ博士と　
-＊If you kiss Dr. Flora＿
-<$06>
-//２５６
-256
-<$04>
-//回、\nキスすると「ウンチ鑑定」の能力が\n身につく
-＿times, she'll give you the Scatologist\n
-skill.
-<$12>
-\n
-<CLEAR>
-//＊…かどうかは　怪しいけど\nキスは　上手になるんじゃない？
-＊...Well, even if you don't learn that,\n
-you'll still be a much better kisser for all\n
-the work!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//＊マキちゃんの相手ってサ\n結局、ヤマダでもポールでもなくて\nニシモリって　漫画家らしいよ
-＊In the end, Maki-chan didn't pick Yamada or\n
-Paul! She's with a manga artist named\n
-Nishimori.
-<$12>
-\n
-<CLEAR>
-//＊まっ、とりあえず\n末永く　お幸せにってトコだな
-＊Well, as long as she's happy, I wish her the\n
-very best.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//＊
-＊
-//<$1B>
-//カメレオは　姿が見えないんだ！\n捕まえるには　おびきよせるか\nワナを　かけるか…
-Chameleons are invisible. To catch one, you\n
-can lure them, or set up traps in their\n
-habitat.
-<$12>
-\n
-<CLEAR>
-//＊勘を頼りに　そこらを走るかだな
-＊Then again, they run on their keen\n
-perception, so trust your gut and just run\n
-around those areas.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//連邦が配布した　脱出プロジェクトの\n説明用のパンフには　ごたいそうな\nシャトルが　何機も写ってたわよね
-The migration flyers sent out by the\n
-Federation showed off some great looking\n
-shuttles.
-<$12>
-\n
-<CLEAR>
-//ところが　いざ脱出が始まったら、\n時代遅れの　シャトルが１機…\nそれも貨物船を　急いで改造したヤツ
-However, when the project finally started,\n
-they threw this old hunker together instead.
-<$12>
-\n
-<CLEAR>
-//だから連邦は　信用できないってぇの
-We can't trust the government with anything.
-<$12>
-<$00>
-
-
-
-
+//<CLEAR>連邦が配布した　脱出プロジェクトの\n説明用のパンフには　ごたいそうな\nシャトルが　何機も写ってたわよね<$12>\n<CLEAR>ところが　いざ脱出が始まったら、\n時代遅れの　シャトルが１機…\nそれも貨物船を　急いで改造したヤツ<$12>\n<CLEAR>だから連邦は　信用できないってぇの<$12><$00>
+<CLEAR>The migration flyers sent out by the Federation showed\n
+off some great looking shuttles.<$12>\n
+<CLEAR>However, when the project finally started, they threw this\n
+old hunker together instead.<$12>\n
+<CLEAR>We can't trust the government with anything.<$12><$00>
 
 
 #WRITE(PTR, $0024)
-//軌道衛星オズサット１Ｆ
-OzSAT 1F＿
-<$00>
+//軌道衛星オズサット１Ｆ<$00>
+OzSAT 1F＿<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
-
-
-
-
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
 #WRITE(PTR, $0026)
-//\n
+//\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
 \n
-<$01>
-//は＿い
-Yes
-<$0E>
-//／
-／
-
-<$01>
-//いいえ
-No
-<$0E>
-<$00>
+<$01>Yes<$0E>／<$01>No<$0E><$00>
 
 
+//クン、クンクン………？<$12>\n<CLEAR>とくに目新しい　ニオイは\nしないみたいよ<$12><$00>
+Sniff...sniff, sniff?<$12>\n
+<CLEAR>None of the scents around here stand out.<$12><$00>
 
 
+//……東<$00>
+...East<$00>
 
 
-//クン、クンクン………？
-Sniff...sniff, sniff?
-<$12>
+//……西<$00>
+...West<$00>
+
+
+//……南<$00>
+...South<$00>
+
+
+//……北<$00>
+...North<$00>
+
+
+//…北東<$00>
+...North-east<$00>
+
+
+//…北西<$00>
+...North-west<$00>
+
+
+//…南東<$00>
+...South-east<$00>
+
+
+//…南西<$00>
+...South-west<$00>
+
+
+//<CLEAR>……<$1D><$00>
+<CLEAR>......<$1D><$00>
+
+
+//、…<$1D>に行けば<$00>
+! That's where we'll find a＿<$1D>.<$00>
+
+
+//直進<$00>
+For<$00>
+
+
+//右よ<$00>
+Right<$00>
+
+
+//左よ<$00>
+Left<$00>
+
+
+//後ろ<$00>
+Back<$00>
+
+
+//<CLEAR>……<$1D><$00>
+<CLEAR>......<$1D><$00>
+
+
+//、絶対に<$1D>∥<$00>
+wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
+
+
+//<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
+<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
+
+
+//<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
+<CLEAR>...Sorry. I don't have it in me today.<$12><$00>
+
+
+//運命の<$00>
+Fated＿<$00>
+
+
+//新しい<$00>
+New＿<$00>
+
+
+//素敵な<$00>
+Great＿<$00>
+
+
+//未知の<$00>
+Unknown＿<$00>
+
+
+//何か<$00>
+things＿<$00>
+
+
+//発見<$00>
+discoveries＿<$00>
+
+
+//お宝<$00>
+treasures＿<$00>
+
+
+//動物<$00>
+animals＿<$00>
+
+
+//に　出会える…<$00>
+could appear.<$00>
+
+
+//が　待ってる…<$00>
+await us...<$00>
+
+
+//気がするわ∥<$00>
+are there.<$00>
+
+
+//チャンスよ∥<$00>
+are in our grasp!<$00>
+
+
+//今しかないわ<$00>
+could slip through our fingers!<$00>
+
+
+//間違いなし∥<$00>
+are dead head!<$00>
+
+
+//\n<$1D><$1D><$1D>\n<$1D><$12>\n<CLEAR><$00>
 \n
-<CLEAR>
-//とくに目新しい　ニオイは\nしないみたいよ
-None of the scents around here stand out.
-<$12>
-<$00>
+<$1D><$1D><$1D>\n
+<$1D><$12>\n
+<CLEAR><$00>
 
 
+//<CLEAR>自信があるの∥<$12><$00>
+<CLEAR>I'm sure of it!<$12><$00>
 
 
+//<CLEAR>自信は　ないけどね…<$12><$00>
+<CLEAR>Although, I'm not totally certain...<$12><$00>
 
 
-//……東
-...East
-<$00>
-
-
-
-
-
-
-//……西
-...West
-<$00>
-
-
-
-
-
-
-//……南
-...South
-<$00>
-
-
-
-
-
-
-//……北
-...North
-<$00>
-
-
-
-
-
-
-//…北東
-...North-east
-<$00>
-
-
-
-
-
-
-//…北西
-...North-west
-<$00>
-
-
-
-
-
-
-//…南東
-...South-east
-<$00>
-
-
-
-
-
-
-//…南西
-...South-west
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//……
-......
-<$1D>
-<$00>
-
-
-
-
-
-
-//、…
-! That's where we'll find a＿
-<$1D>
-//に行けば
-.
-<$00>
-
-
-
-
-
-
-//直進
-For
-<$00>
-
-
-
-
-
-
-//右よ
-Right
-<$00>
-
-
-
-
-
-
-//左よ
-Left
-<$00>
-
-
-
-
-
-
-//後ろ
-Back
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//……
-......
-<$1D>
-<$00>
-
-
-
-
-
-
-//、絶対に
-wards, got it? I'm sure we'll find a＿
-<$1D>
-//∥
-＿there!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//Sリンダは　「女の勘」を\nはたらかせた∥
-SLinda used her woman's intuition...
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//…ごめんね、\n今日は　勘がはたらかないわ…
-...Sorry. I don't have it in me today.
-<$12>
-<$00>
-
-
-
-
-
-
-//運命の
-Fated＿
-<$00>
-
-
-
-
-
-
-//新しい
-New＿
-<$00>
-
-
-
-
-
-
-//素敵な
-Great＿
-<$00>
-
-
-
-
-
-
-//未知の
-Unknown＿
-<$00>
-
-
-
-
-
-
-//何か
-things＿
-<$00>
-
-
-
-
-
-
-//発見
-discoveries＿
-<$00>
-
-
-
-
-
-
-//お宝
-treasures＿
-<$00>
-
-
-
-
-
-
-//動物
-animals＿
-<$00>
-
-
-
-
-
-
-//に　出会える…
-could appear.
-<$00>
-
-
-
-
-
-
-//が　待ってる…
-await us...
-<$00>
-
-
-
-
-
-
-//気がするわ∥
-are there.
-<$00>
-
-
-
-
-
-
-//チャンスよ∥
-are in our grasp!
-<$00>
-
-
-
-
-
-
-//今しかないわ
-could slip through our fingers!
-<$00>
-
-
-
-
-
-
-//間違いなし∥
-are dead head!
-<$00>
-
-
-
-
-
-
-//\n
-\n
-<$1D><$1D><$1D>
-//\n
-\n
-<$1D><$12>
-\n
-<CLEAR>
-//
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//自信があるの∥
-I'm sure of it!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//自信は　ないけどね…
-Although, I'm not totally certain...
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//絶対なんだから∥
-I'm absolutely certain!
-<$12>
-<$00>
-
-
-
-
+//<CLEAR>絶対なんだから∥<$12><$00>
+<CLEAR>I'm absolutely certain!<$12><$00>
 
 
 

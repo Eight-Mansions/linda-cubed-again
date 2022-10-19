@@ -77,1126 +77,428 @@ mf097.obj
 
 
 #WRITE(PTR, $0020)
-//エモリ・ラボ
-Emori's Lab＿
-<$00>
+//エモリ・ラボ<$00>
+Emori's Lab＿<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
-
-
-
-
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-//人工衛星が　落ちて来るなんてねぇ…\nあんな理不尽な死が　エモリ先生を\n突然、おそうなんて…
-An artificial satellite fell and hit Dr.\n
-Emori. Of all people too, it sucks it was\n
-him.
-<$12>
-\n
-<CLEAR>
-//人工子宮、クローン臓器…　彼の研究は\n理不尽な死から　人類を守るために\n成されたモノばかりなのに…
-He was saving countless lives with his work\n
-on artificial wombs and organ cloning.
-<$12>
-<$00>
-
-
-
-
+//人工衛星が　落ちて来るなんてねぇ…\nあんな理不尽な死が　エモリ先生を\n突然、おそうなんて…<$12>\n<CLEAR>人工子宮、クローン臓器…　彼の研究は\n理不尽な死から　人類を守るために\n成されたモノばかりなのに…<$12><$00>
+An artificial satellite fell and hit Dr. Emori. Of all people too,\n
+it sucks it was him.<$12>\n
+<CLEAR>He was saving countless lives with his work on artificial\n
+wombs and organ cloning.<$12><$00>
 
 
 #WRITE(PTR, $0022)
-//パンハイム・ラボ
-Panheim's Lab＿
-<$00>
+//パンハイム・ラボ<$00>
+Panheim's Lab＿<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
-
-
-
-
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-//ここは　パンハイム博士の研究室です\n…と言っても　博士が　こちらに\nお見えになるのは　１年に１、２度…
-This is Prof. Panheim's lab, but he's only\n
-here for consultation once or twice a year.
-<$12>
-\n
-<CLEAR>
-//たいていは　エターナの研究室の方に\nいらっしゃいますわ　博士にご用なら\nそちらへ　おでかけくださいな
-If you need to see him, he's mostly likely at\n
-the lab he goes to in Eterna.
-<$12>
-\n
-<CLEAR>
-//人に会うのが　お好きじゃないから\n会っていただけるか　どうかは\n保証しかねますけどね…
-He's not much of a people person, so even if\n
-you do go there, good luck finding him.
-<$12>
-<$00>
-
-
-
-
+//ここは　パンハイム博士の研究室です\n…と言っても　博士が　こちらに\nお見えになるのは　１年に１、２度…<$12>\n<CLEAR>たいていは　エターナの研究室の方に\nいらっしゃいますわ　博士にご用なら\nそちらへ　おでかけくださいな<$12>\n<CLEAR>人に会うのが　お好きじゃないから\n会っていただけるか　どうかは\n保証しかねますけどね…<$12><$00>
+This is Prof. Panheim's lab, but he's only here for\n
+consultation once or twice a year.<$12>\n
+<CLEAR>If you need to see him, he's mostly likely at the lab he\n
+goes to in Eterna.<$12>\n
+<CLEAR>He's not much of a people person, so even if you do go\n
+there, good luck finding him.<$12><$00>
 
 
 #WRITE(PTR, $0024)
-//フローラ・ラボ
-Flora's Lab＿
-<$00>
+//フローラ・ラボ<$00>
+Flora's Lab＿<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
+
+
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
+
+
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
+
+
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
+
+
+//<CLEAR>あら、もう帰っちゃうの？\nお別れのキスくらいしてちょうだい\n<$01>喜んで■<$0E>／<$01>はいはい<$0E>／<$01>イヤです<$0E><$00>
+<CLEAR>Aww, leaving so soon? Can I have a goodbye kiss at\n
+least?\n
+<$01>With pleasure■<$0E>／<$01>Sure<$0E>／<$01>No way!<$0E><$00>
+
+
+//<CLEAR>チュッ■■<$00>
+<CLEAR>Smooch!■■<$00>
+
+
+//<CLEAR>それじゃ　私から…<$00>
+<CLEAR>But it's from me, so...<$00>
+
+
+//\nチュッ■■<$00>
 \n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+Smooch!■■<$00>
 
 
+//まあ∥　<$1D>∥\n<$06><$1E><$04>￥でぜひ、ゆずってちょうだい∥\n<$01>いいですよ<$0E>／<$01>ダメですね<$0E><$00>
+Here, try this＿<$1D>!\n
+It only costs＿<$06><$1E><$04>￥!\n
+<$01>YOOOO!<$0E>／<$01>NOOOO!<$0E><$00>
 
 
+//<CLEAR>ありがとう∥　いい肥料ができそうよ\nまた　いいのがあったら　お願いね！<$12><$00>
+<CLEAR>Thank you! I think it'll make for excellent fertilizer! Hope\n
+you like it!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
+//<CLEAR>ごめんなさいね…\n大切なモノとは知らずに\n無理、言って<$12><$00>
+<CLEAR>Sorry... This stuff just comes out so naturally. I'll watch my\n
+mouth from now on.<$12><$00>
 
 
+//私は　<$00>
+I'M!　<$00>
 
 
-
-
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//あら、もう帰っちゃうの？\nお別れのキスくらいしてちょうだい\n
-Aww, leaving so soon? Can I have a goodbye\n
-kiss at least?\n
-<$01>
-//喜んで■
-With pleasure■
-<$0E>
-//／
-／
-<$01>
-//はいはい
-Sure
-<$0E>
-//／
-／
-<$01>
-//イヤです
-No way!
-<$0E>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//チュッ■■
-Smooch!■■
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//それじゃ　私から…
-But it's from me, so...
-<$00>
-
-
-
-
-
-
-//\nチュッ■■
-\n
-Smooch!■■
-<$00>
-
-
-
-
-
-
-//まあ∥　
-Here, try this＿
-<$1D>
-//∥\n
-!\n
-It only costs＿
-<$06><$1E><$04>
-//￥でぜひ、ゆずってちょうだい∥\n
-￥!\n
-<$01>
-//いいですよ
-YOOOO!
-<$0E>
-//／
-／
-<$01>
-//ダメですね
-NOOOO!
-<$0E>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ありがとう∥　いい肥料ができそうよ\nまた　いいのがあったら　お願いね！
-Thank you! I think it'll make for excellent\n
-fertilizer! Hope you like it!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ごめんなさいね…\n大切なモノとは知らずに\n無理、言って
-Sorry... This stuff just comes out so\n
-naturally. I'll watch my mouth from now on.
-<$12>
-<$00>
-
-
-
-
-
-
-//私は　
-I'M!
-<$00>
-
-
-
-
-
-
-//アリス\n
+//アリス\n<$00>
 ALICE!\n
 <$00>
 
 
+//フローラ<$00>
+I'M THE! <$00>
 
 
+//博士が　<$00>
+ONLY FRIEND!　<$00>
 
 
-//フローラ
-I'M THE!
-<$00>
+//何でも<$00>
+DR. FLORA!　<$00>
 
 
-
-
-
-
-//博士が　
-ONLY FRIEND!
-<$00>
-
-
-
-
-
-
-//何でも
-DR. FLORA!
-<$00>
-
-
-
-
-
-
-//話せる\n
+//話せる\n<$00>
 HAS!\n
 <$00>
 
 
+//たった<$00>
+TO!　<$00>
 
 
+//１人の　<$00>
+TALK ABOUT!　<$00>
 
 
-//たった
-TO!
-<$00>
+//お友だち<$00>
+ANYTHING WITH!<$00>
 
 
+//<$12><$00>
+<$12><$00>
 
 
-
-
-//１人の　
-TALK ABOUT!
-<$00>
-
-
-
-
-
-
-//お友だち
-ANYTHING WITH!
-<$00>
-
-
-
-
-
-
-<$12>
-<$00>
-
-
-
-
-//あら、コンニチワ！　私、フローラ！\n人間と話すのなんて　久しぶりだから\nなんだかドキドキしちゃうわね
+//あら、コンニチワ！　私、フローラ！\n人間と話すのなんて　久しぶりだから\nなんだかドキドキしちゃうわね<$12><$00>
 Why, hello! I'm Flora!\n
-It's been a while since I last spoke with a\n
-human. How enticing!
-<$12>
-<$00>
+It's been a while since I last spoke with a human. How\n
+enticing!<$12><$00>
 
 
+//<CLEAR>おしゃべりな花たちとの　会話も\n楽しいけど　彼らの話題ときたら\nお天気の話ばかりなのよ<$12><$00>
+<CLEAR>While I love talking with flowers, they do only seem to\n
+bring up the weather.<$12><$00>
 
 
-
-
-<CLEAR>
-//おしゃべりな花たちとの　会話も\n楽しいけど　彼らの話題ときたら\nお天気の話ばかりなのよ
-While I love talking with flowers, they do\n
-only seem to bring up the weather.
-<$12>
-<$00>
-
-
-
-
-
-
-//ちょっと、アンケートに答えてくれる\nこれから言う果物の中で\n何が一番、君は好きかしら？
+//ちょっと、アンケートに答えてくれる\nこれから言う果物の中で\n何が一番、君は好きかしら？<$00>
 Say, care to help me with a survey?\n
-Which fruits would you say you like best?
-<$00>
-
-
-
-
-
-
-<$01>
-//バナナ
-Bananas
-<$0E>
-//／
-／
-<$01>
-//レモン
-Lemons
-<$0E>
-//／
-／
-<$01>
-//リンゴ
-Apples
-<$0E>
-//／
-／
-<$01>
-//キウイ
-Kiwis
-<$0E>
-//\n
-\n
-<$01>
-//マンゴ
-Mangos
-<$0E>
-//／
-／
-<$01>
-//イチゴ
-Strawberries
-<$0E>
-//／
-／
-<$01>
-//スイカ
-Watermelons
-<$0E>
-//／
-／
-<$01>
-//ミカン
-Oranges
-<$0E>
-//\n
-\n
-<$01>
-//パイン
-Pineapples
-<$0E>
-//／
-／
-<$01>
-//アンズ
-Apricots
-<$0E>
-//／
-／
-<$01>
-//ブドウ
-Grapes
-<$0E>
-//／
-／
-<$01>
-//メロン
-Cantaloupes
-<$0E>
-<$00>
+Which fruits would you say you like best?<$00>
 
 
+//<$01>バナナ<$0E>／<$01>レモン<$0E>／<$01>リンゴ<$0E>／<$01>キウイ<$0E>\n<$01>マンゴ<$0E>／<$01>イチゴ<$0E>／<$01>スイカ<$0E>／<$01>ミカン<$0E>\n<$01>パイン<$0E>／<$01>アンズ<$0E>／<$01>ブドウ<$0E>／<$01>メロン<$0E><$00>
+<$01>Bananas<$0E>／<$01>Lemons<$0E>／<$01>Apples<$0E>／<$01>Kiwis<$0E>\n
+<$01>Mangos<$0E>／<$01>Strawberries<$0E>／<$01>Watermelons<$0E>／<$01>Oranges<$0E>\n
+<$01>Pineapples<$0E>／<$01>Apricots<$0E>／<$01>Grapes<$0E>／<$01>Cantaloupes<$0E><$00>
 
 
+//<CLEAR>やっぱり、バナナよね∥\nイメージに　ピッタリだわ∥\n君って　バナナ少年って感じだもん■<$12><$00>
+<CLEAR>Bananas? Really? That suits you so well, we should call you\n
+Bananaman!<$12><$00>
 
 
-<CLEAR>
-//やっぱり、バナナよね∥\nイメージに　ピッタリだわ∥\n君って　バナナ少年って感じだもん■
-Bananas? Really? That suits you so well, we\n
-should call you Bananaman!
-<$12>
-<$00>
+//レモン<$00>
+Lemons<$00>
 
 
+//リンゴ<$00>
+Apples<$00>
 
 
+//キウイ<$00>
+Kiwis<$00>
 
 
-//レモン
-Lemons
-<$00>
+//マンゴ<$00>
+Mangos<$00>
 
 
+//イチゴ<$00>
+Strawberries<$00>
 
 
+//スイカ<$00>
+Watermelons<$00>
 
 
-//リンゴ
-Apples
-<$00>
+//ミカン<$00>
+Oranges<$00>
 
 
+//パイン<$00>
+Pineapples<$00>
 
 
+//アンズ<$00>
+Apricots<$00>
 
 
-//キウイ
-Kiwis
-<$00>
+//ブドウ<$00>
+Grapes<$00>
 
 
+//メロン<$00>
+Cantaloupes<$00>
 
 
-
-
-//マンゴ
-Mangos
-<$00>
-
-
-
-
-
-
-//イチゴ
-Strawberries
-<$00>
-
-
-
-
-
-
-//スイカ
-Watermelons
-<$00>
-
-
-
-
-
-
-//ミカン
-Oranges
-<$00>
-
-
-
-
-
-
-//パイン
-Pineapples
-<$00>
-
-
-
-
-
-
-//アンズ
-Apricots
-<$00>
-
-
-
-
-
-
-//ブドウ
-Grapes
-<$00>
-
-
-
-
-
-
-//メロン
-Cantaloupes
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//え～　
-What?＿
-<$1D>
-//なの￠\nでも今日から　バナナにしなさいよ\n君って　バナナ少年って感じだもん■
-?!\n
+//<CLEAR>え～　<$1D>なの￠\nでも今日から　バナナにしなさいよ\n君って　バナナ少年って感じだもん■<$12><$00>
+<CLEAR>What?＿<$1D>?!\n
 No, no, no, Bananaman!\n
-From now on, you like bananas!
-<$12>
-<$00>
-
-
-
-
+From now on, you like bananas!<$12><$00>
 
 
 #WRITE(PTR, $0026)
-//クン、クンクン………？
-Sniff...sniff, sniff?
-<$12>
+//クン、クンクン………？<$12>\n<CLEAR>消毒液のニオイが\nプンプンするね<$12><$00>
+Sniff...sniff, sniff?<$12>\n
+<CLEAR>It smells strongly of antiseptic here.<$12><$00>
+
+
+//……東<$00>
+...East<$00>
+
+
+//……西<$00>
+...West<$00>
+
+
+//……南<$00>
+...South<$00>
+
+
+//……北<$00>
+...North<$00>
+
+
+//…北東<$00>
+...North-east<$00>
+
+
+//…北西<$00>
+...North-west<$00>
+
+
+//…南東<$00>
+...South-east<$00>
+
+
+//…南西<$00>
+...South-west<$00>
+
+
+//<CLEAR>……<$1D><$00>
+<CLEAR>......<$1D><$00>
+
+
+//、…<$1D>に行けば<$00>
+! That's where we'll find a＿<$1D>.<$00>
+
+
+//直進<$00>
+For<$00>
+
+
+//右よ<$00>
+Right<$00>
+
+
+//左よ<$00>
+Left<$00>
+
+
+//後ろ<$00>
+Back<$00>
+
+
+//<CLEAR>……<$1D><$00>
+<CLEAR>......<$1D><$00>
+
+
+//、絶対に<$1D>∥<$00>
+wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
+
+
+//<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
+<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
+
+
+//<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
+<CLEAR>...Sorry. I don't have it in me today.<$12><$00>
+
+
+//運命の<$00>
+Fated＿<$00>
+
+
+//新しい<$00>
+New＿<$00>
+
+
+//素敵な<$00>
+Great＿<$00>
+
+
+//未知の<$00>
+Unknown＿<$00>
+
+
+//何か<$00>
+things＿<$00>
+
+
+//発見<$00>
+discoveries＿<$00>
+
+
+//お宝<$00>
+treasures＿<$00>
+
+
+//動物<$00>
+animals＿<$00>
+
+
+//に　出会える…<$00>
+could appear.<$00>
+
+
+//が　待ってる…<$00>
+await us...<$00>
+
+
+//気がするわ∥<$00>
+are there.<$00>
+
+
+//チャンスよ∥<$00>
+are in our grasp!<$00>
+
+
+//今しかないわ<$00>
+could slip through our fingers!<$00>
+
+
+//間違いなし∥<$00>
+are dead head!<$00>
+
+
+//\n<$1D><$1D><$1D>\n<$1D><$12>\n<CLEAR><$00>
 \n
-<CLEAR>
-//消毒液のニオイが\nプンプンするね
-It smells strongly of antiseptic here.
-<$12>
-<$00>
+<$1D><$1D><$1D>\n
+<$1D><$12>\n
+<CLEAR><$00>
 
 
+//<CLEAR>自信があるの∥<$12><$00>
+<CLEAR>I'm sure of it!<$12><$00>
 
 
+//<CLEAR>自信は　ないけどね…<$12><$00>
+<CLEAR>Although, I'm not totally certain...<$12><$00>
 
 
-//……東
-...East
-<$00>
-
-
-
-
-
-
-//……西
-...West
-<$00>
-
-
-
-
-
-
-//……南
-...South
-<$00>
-
-
-
-
-
-
-//……北
-...North
-<$00>
-
-
-
-
-
-
-//…北東
-...North-east
-<$00>
-
-
-
-
-
-
-//…北西
-...North-west
-<$00>
-
-
-
-
-
-
-//…南東
-...South-east
-<$00>
-
-
-
-
-
-
-//…南西
-...South-west
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//……
-......
-<$1D>
-<$00>
-
-
-
-
-
-
-//、…
-! That's where we'll find a＿
-<$1D>
-//に行けば
-.
-<$00>
-
-
-
-
-
-
-//直進
-For
-<$00>
-
-
-
-
-
-
-//右よ
-Right
-<$00>
-
-
-
-
-
-
-//左よ
-Left
-<$00>
-
-
-
-
-
-
-//後ろ
-Back
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//……
-......
-<$1D>
-<$00>
-
-
-
-
-
-
-//、絶対に
-wards, got it? I'm sure we'll find a＿
-<$1D>
-//∥
-＿there!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//Sリンダは　「女の勘」を\nはたらかせた∥
-SLinda used her woman's intuition...
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//…ごめんね、\n今日は　勘がはたらかないわ…
-...Sorry. I don't have it in me today.
-<$12>
-<$00>
-
-
-
-
-
-
-//運命の
-Fated＿
-<$00>
-
-
-
-
-
-
-//新しい
-New＿
-<$00>
-
-
-
-
-
-
-//素敵な
-Great＿
-<$00>
-
-
-
-
-
-
-//未知の
-Unknown＿
-<$00>
-
-
-
-
-
-
-//何か
-things＿
-<$00>
-
-
-
-
-
-
-//発見
-discoveries＿
-<$00>
-
-
-
-
-
-
-//お宝
-treasures＿
-<$00>
-
-
-
-
-
-
-//動物
-animals＿
-<$00>
-
-
-
-
-
-
-//に　出会える…
-could appear.
-<$00>
-
-
-
-
-
-
-//が　待ってる…
-await us...
-<$00>
-
-
-
-
-
-
-//気がするわ∥
-are there.
-<$00>
-
-
-
-
-
-
-//チャンスよ∥
-are in our grasp!
-<$00>
-
-
-
-
-
-
-//今しかないわ
-could slip through our fingers!
-<$00>
-
-
-
-
-
-
-//間違いなし∥
-are dead head!
-<$00>
-
-
-
-
-
-
-//\n
-\n
-<$1D><$1D><$1D>
-//\n
-\n
-<$1D><$12>
-\n
-<CLEAR>
-//
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//自信があるの∥
-I'm sure of it!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//自信は　ないけどね…
-Although, I'm not totally certain...
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//絶対なんだから∥
-I'm absolutely certain!
-<$12>
-<$00>
-
-
-
-
+//<CLEAR>絶対なんだから∥<$12><$00>
+<CLEAR>I'm absolutely certain!<$12><$00>
 
 
 

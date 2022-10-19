@@ -269,1837 +269,619 @@ z116_120.obj
 
 
 #WRITE(PTR, $0020)
-//ＢＢ牧場１Ｆ
-BB Ranch 1F＿
-<$00>
+//ＢＢ牧場１Ｆ<$00>
+BB Ranch 1F＿<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
+//<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
+<CLEAR><$19><$15>SKen found the＿<$1D>!<$14><$12><$00>
 
 
+//<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
+<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the＿<$1D>had to go back.<$14><$12><$00>
 
 
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
+//<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
+<CLEAR><$19><$15>SKen acquired＿<$1D>!<$14><$12><$00>
 
 
+//<CLEAR>動物の姿が　人間の鈍感な眼に\n映らないからといって　そこに動物が\nいないという理由には　ならないよ<$12>\n<CLEAR>ヤツらは　岩や木にソックリに\n化けてることもあるし　岩や木が\nヤツらに　ソックリなこともあるのサ<$12><$00>
+<CLEAR>Just because an animal can't be seen with naked eye\n
+doesn't mean the animal isn't there.<$12>\n
+<CLEAR>Sometimes, they blend in with rocks and trees. Other\n
+times, they ARE rocks and trees.<$12><$00>
 
 
+//<CLEAR>あんたら男の衆は　戦うことで\n言葉の通じん動物とも　お互いを\n知り合うことができて　ええよねぇ<$12>\n<CLEAR>それに引き換え　あたしら、おばさんは\n食べることで　わかろうとするから\nこんな体形に　なるわけだがね<$12>\n<CLEAR>さっ、今日のお昼は　どの動物と\nわかりあってみたろうかしら！\nルン、ルン！<$12><$00>
+<CLEAR>It's funny how people socialize here, fighting via animals who\n
+don't use our language.<$12>\n
+<CLEAR>Our aunt tries to make up for that and get to know said\n
+animals by eating them.<$12>\n
+<CLEAR>Tut-tut, I wonder what animal she'll get to know for lunch\n
+today! <$12><$00>
 
 
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//Sケンは「
-SKen found the＿
-<$1D>
-//」を発見∥
-!
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//S<CLEAR>だが、道具袋が一杯なので\n「
-S<CLEAR>Sadly, the item bag was full, so the＿
-<$1D>
-//」を\nとりあえず　あきらめた…
-had to go back.
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//S<CLEAR>「
-SKen acquired＿
-<$1D>
-//」を　手に入れた∥
-!
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//動物の姿が　人間の鈍感な眼に\n映らないからといって　そこに動物が\nいないという理由には　ならないよ
-Just because an animal can't be seen with\n
-naked eye doesn't mean the animal isn't\n
-there.
-<$12>
-\n
-<CLEAR>
-//ヤツらは　岩や木にソックリに\n化けてることもあるし　岩や木が\nヤツらに　ソックリなこともあるのサ
-Sometimes, they blend in with rocks and\n
-trees. Other times, they ARE rocks and trees.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//あんたら男の衆は　戦うことで\n言葉の通じん動物とも　お互いを\n知り合うことができて　ええよねぇ
-It's funny how people socialize here,\n
-fighting via animals who don't use our\n
-language.
-<$12>
-\n
-<CLEAR>
-//それに引き換え　あたしら、おばさんは\n食べることで　わかろうとするから\nこんな体形に　なるわけだがね
-Our aunt tries to make up for that and get to\n
-know said animals by eating them.
-<$12>
-\n
-<CLEAR>
-//さっ、今日のお昼は　どの動物と\nわかりあってみたろうかしら！\nルン、ルン！
-Tut-tut, I wonder what animal she'll get to\n
-know for lunch today!
-<$12>
-<$00>
-
-
-
-
-
-
-//遠慮することはない！　動物との\n戦いじゃ　容赦なく１番弱そうなのを\n集中して　たたいていけ
-Don't hold back when fighting animals. Focus\n
-on the weakest looking one with no mercy!
-<$12>
-\n
-<CLEAR>
-//どうせ、むこうも　そうしてる
-Because, and I'm sure you know this, the\n
-opponent will be doing the same thing.
-<$12>
-<$00>
-
-
-
-
+//遠慮することはない！　動物との\n戦いじゃ　容赦なく１番弱そうなのを\n集中して　たたいていけ<$12>\n<CLEAR>どうせ、むこうも　そうしてる<$12><$00>
+Don't hold back when fighting animals. Focus on the\n
+weakest looking one with no mercy!<$12>\n
+<CLEAR>Because, and I'm sure you know this, the opponent will be\n
+doing the same thing.<$12><$00>
 
 
 #WRITE(PTR, $0022)
-//ＢＢ牧場Ｂ１
-BB Ranch B1＿
-<$00>
+//ＢＢ牧場Ｂ１<$00>
+BB Ranch B1＿<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
-
-
-
-
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//わしは　ここの経営者で\nブロンコと　いう者じゃよ
-I'm Bronco, the ranch head of BB Ranch.
-<$12>
-\n
-<CLEAR>
-//若い頃、苦労したおかげで　今じゃ\n自慢するわけじゃないが　この星じゃ\n指折りの　大金持ちじゃ！
-I'm not bragging, of course, but in my day,\n
-my hard work made me the richest man on the\n
-planet!
-<$12>
-\n
-<CLEAR>
-//欲しい物は　すべて手にいれた∥\nやりたいことは　みんなやった∥\nいつ死んでも　悔いはないのぉ
-I got everything I wanted to have,\n
+//<CLEAR>わしは　ここの経営者で\nブロンコと　いう者じゃよ<$12>\n<CLEAR>若い頃、苦労したおかげで　今じゃ\n自慢するわけじゃないが　この星じゃ\n指折りの　大金持ちじゃ！<$12>\n<CLEAR>欲しい物は　すべて手にいれた∥\nやりたいことは　みんなやった∥\nいつ死んでも　悔いはないのぉ<$12><$00>
+<CLEAR>I'm Bronco, the ranch head of BB Ranch.<$12>\n
+<CLEAR>I'm not bragging, of course, but in my day, my hard\n
+work made me the richest man on the planet!<$12>\n
+<CLEAR>I got everything I wanted to have,\n
 did everything I wanted to do,\n
-and die without ever tasting regret!
-<$12>
-<$00>
+and die without ever tasting regret!<$12><$00>
 
 
+//<CLEAR><$19>1<$15>S扉には鍵がかかっている<$14><$12><$00>
+<CLEAR><$19>1<$15>SThe door is locked.<$14><$12><$00>
 
 
+//<CLEAR><$19>1<$15>Sケンは、「倉庫の鍵」を使った<$14><$12><$00>
+<CLEAR><$19>1<$15>SKen used the Warehouse Key!<$14><$12><$00>
 
 
-<CLEAR>
-//
-<$19>
-//1
-1
-<$15>
-//S扉には鍵がかかっている
-SThe door is locked.
-<$14><$12>
-<$00>
+//<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
+<CLEAR><$19><$15>SKen found the＿<$1D>!<$14><$12><$00>
 
 
+//<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
+<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the＿<$1D>had to go back.<$14><$12><$00>
 
 
-
-
-<CLEAR>
-//
-<$19>
-//1
-1
-<$15>
-//Sケンは、「倉庫の鍵」を使った
-SKen used the Warehouse Key!
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//Sケンは「
-SKen found the＿
-<$1D>
-//」を発見∥
-!
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//S<CLEAR>だが、道具袋が一杯なので\n「
-S<CLEAR>Sadly, the item bag was full, so the＿
-<$1D>
-//」を\nとりあえず　あきらめた…
-had to go back.
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//S<CLEAR>「
-SKen acquired＿
-<$1D>
-//」を　手に入れた∥
-!
-<$14><$12>
-<$00>
-
-
-
-
+//<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
+<CLEAR><$19><$15>SKen acquired＿<$1D>!<$14><$12><$00>
 
 
 #WRITE(PTR, $0024)
-<$1D>
-//　
-
-<$1E>
-//頭\n
-x\n
+//<$1D>　<$1E>頭\n<$00>
+<$1D>　<$1E>x\n
 <$00>
 
 
+//個<$00>
+＿<$00>
 
 
+//匹<$00>
+＿<$00>
 
 
-//個
-＿
-<$00>
+//<$1D>を<$1D>ます\n<$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04>／<$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S￥<$00>
+<$1D>＿x<$1D>＿\n
+<$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04>／<$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S￥<$00>
 
 
+//<$06>T.C.(<$1E>034<$06>)<$00>
+<$06>TCU (x<$1E><$06>)<$00>
 
 
+//<$05>γ<$00>
+<$05>A<$00>
 
 
-//匹
-＿
-<$00>
+//<$05>ζ<$00>
+<$05>D<$00>
 
 
+//<$1E>@019<$00>
+<$1E>@019<$00>
 
 
+//<CLEAR>セレクトボタンで解説が出ます<$00>
+<CLEAR>SELECT: Details<$00>
 
 
-<$1D>
-//を
-＿x
-<$1D>
-//ます\n
-＿\n
-<$06><$19>
-//1
-1
-<$01><$1A>
-//01
-01
-<$0E><$15>
-//S
-S
-<$19>
-//0
-0
-<$04>
-//／
-／
-<$14><$1E>
-//034
-034
-<$15>
-//S
-S
-<$1D><$14><$02>
-//112
-112
-<$19>
-//2
-2
-<$1E>
-//40
-40
-<$19>
-//0
-0
-<$15>
-//S￥
-S￥
-<$00>
+//<CLEAR><$00>
+<CLEAR><$00>
 
 
+//<$04><$16><$15>W<$01><$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
+<$04><$16><$15>W<$01><$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
 
 
+//<CLEAR>トランスカーゴは　１枠につき\n<$06>99<$04>頭までしか　収容できません<$12><$00>
+<CLEAR>The trans-cargo unit has\n
+a＿<$06>99<$04>＿species capacity!<$12><$00>
 
 
-<$06>
-//T.C.(
-TCU (x
-<$1E>
-//034
-<$06>
-//)
-)
-<$00>
+//<CLEAR><$06>トランスカーゴ<$04>がいっぱいです<$12><$00>
+<CLEAR><$06>The trans-cargo unit＿<$04>is full!<$12><$00>
 
 
+//<CLEAR>道具がいっぱいです<$12><$00>
+<CLEAR>The item bag is full!<$12><$00>
 
 
+//<$15>Y動物商<$00>
+<$15>YAnimal Trader<$00>
 
 
-<$05>
-//γ
-A
-<$00>
+//<CLEAR>余っている動物は　いませんですか？\n高額で　引き取りますよ<$00>
+<CLEAR>Not satisfied with your animal collection? Let's trade!<$00>
 
 
-
-
-
-
-<$05>
-//ζ
-D
-<$00>
-
-
-
-
-
-
-<$1E>
-//@019
-@019
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//セレクトボタンで解説が出ます
-SELECT: Details
-<$00>
-
-
-
-
-
-
-<CLEAR>
-
-<$00>
-
-
-
-
-<$04><$16><$15>
-//W
-W
-<$01><$1D><$02>
-//116
-116
-<$0E><$02>
-//216
-216
-<$1D><$1E>
-//39￥
-39￥
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//トランスカーゴは　１枠につき\n
-The trans-cargo unit has\n
-a＿
-<$06>
-//99
-99
-<$04>
-//頭までしか　収容できません
-＿species capacity!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$06>
-//トランスカーゴ
-The trans-cargo unit＿
-<$04>
-//がいっぱいです
-is full!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//道具がいっぱいです
-The item bag is full!
-<$12>
-<$00>
-
-
-
-
-
-
-//
-<$15>
-//Y動物商
-YAnimal Trader
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//余っている動物は　いませんですか？\n高額で　引き取りますよ
-Not satisfied with your animal collection?\n
-Let's trade!
-<$00>
-
-
-
-
-
-
-//\n
+//\n<$01>取引する<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
 \n
-<$01>
-//取引する
-Shop
-<$0E>
-//／
-／
-<$01>
-//雑談する
-Chat
-<$0E>
-//／
-／
-<$01>
-//やめとく
-Exit
-<$0E>
-<$00>
+<$01>Shop<$0E>／<$01>Chat<$0E>／<$01>Exit<$0E><$00>
 
 
+//<$15>Y動物商<$00>
+<$15>YAnimal Trader<$00>
 
 
+//<CLEAR>珍しいのも　たまに入荷するから\nちょくちょく　覗いてみてよ<$12><$00>
+<CLEAR>Occasionally, we'll get rare animals in stock, so check\n
+back often!<$12><$00>
 
 
-//
-<$15>
-//Y動物商
-YAnimal Trader
-<$00>
+//<$15>Y動物商／メニュー<$00>
+<$15>YAnimal／Menu<$00>
 
 
+//<$01>買＿う<$0E>\n<$01>売＿る<$0E>\n<$01>やめる<$0E><$00>
+<$01>Buy<$0E>\n
+<$01>Sell<$0E>\n
+<$01>Exit<$0E><$00>
 
 
+//<$15>Y動物商／買＿う<$00>
+<$15>YAnimal／Buy<$00>
 
 
-<CLEAR>
-//珍しいのも　たまに入荷するから\nちょくちょく　覗いてみてよ
-Occasionally, we'll get rare animals in\n
-stock, so check back often!
-<$12>
-<$00>
+//<$15>Y動物商／売＿る<$00>
+<$15>YAnimal／Sell<$00>
 
 
-
-
-
-
-//
-<$15>
-//Y動物商／メニュー
-YAnimal／Menu
-<$00>
-
-
-
-
-
-
-<$01>
-//買＿う
-Buy
-<$0E>
-//\n
-\n
-<$01>
-//売＿る
-Sell
-<$0E>
-//\n
-\n
-<$01>
-//やめる
-Exit
-<$0E>
-<$00>
-
-
-
-
-
-
-//
-<$15>
-//Y動物商／買＿う
-YAnimal／Buy
-<$00>
-
-
-
-
-
-
-//
-<$15>
-//Y動物商／売＿る
-YAnimal／Sell
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1D><$15>
-//Wは\nＡ級保護動物のため\n取り引きできません
-W＿cannot be traded.\n
+//<CLEAR><$1D><$15>Wは\nＡ級保護動物のため\n取り引きできません<$12><$00>
+<CLEAR><$1D><$15>W＿cannot be traded.\n
 Class A species\n
-trading is prohibited!
-<$12>
-<$00>
+trading is prohibited!<$12><$00>
 
 
+//<$15>YＢＢ牧場<$00>
+<$15>YBB Ranch<$00>
 
 
+//<CLEAR>預けた動物が増える∥　ＢＢ牧場は\nあなたの財産形成を　お手伝いします\n<$01>預ける<$0E>／<$01>引取る<$0E>／<$01>説＿明<$0E>／<$01>やめる<$0E><$00>
+<CLEAR>Leave your animals with BB Ranch, and watch them multiply!\n
+<$01>Dropoff<$0E>／<$01>Pickup<$0E>／<$01>Explain<$0E>／<$01>Exit<$0E><$00>
 
 
-//
-<$15>
-//YＢＢ牧場
-YBB Ranch
-<$00>
+//<CLEAR>申し分けありません！　ただいま\n牧場の施設は　フル稼働中でして\nこれ以上は　お預かりできません<$12><$00>
+<CLEAR>Please excuse us, but BB Ranch's stables are currently\n
+full!<$12><$00>
 
 
+//<CLEAR>次の春には　この牧場も\n店じまいなんですよ<$12>\n<CLEAR>今、お預かりしても　子供の顔を\nお見せすることは　できませんから…\n残念ですが<$12><$00>
+<CLEAR>I hate to say it, but next spring, BB Ranch will be\n
+closed...<$12>\n
+<CLEAR>We won't be able to present you with any babies\n
+born in our custody.<$12><$00>
 
 
+//<CLEAR>春が待ち遠しいですね<$12><$00>
+<CLEAR>Sure can't wait for spring, can you?<$12><$00>
 
 
-<CLEAR>
-//預けた動物が増える∥　ＢＢ牧場は\nあなたの財産形成を　お手伝いします\n
-Leave your animals with BB Ranch, and watch\n
-them multiply!\n
-<$01>
-//預ける
-Dropoff
-<$0E>
-//／
-／
-<$01>
-//引取る
-Pickup
-<$0E>
-//／
-／
-<$01>
-//説＿明
-Explain
-<$0E>
-//／
-／
-<$01>
-//やめる
-Exit
-<$0E>
-<$00>
+//<CLEAR>宝クジよりはるかに確実に\nもうかりますよ<$12><$00>
+<CLEAR>You're more likely to strike big here than you are at the\n
+lottery.<$12><$00>
 
 
+//<CLEAR>お手持ちの動物の　メスオス１対と\n飼育費用を　最初にいただきます<$12>\n<CLEAR>あとは「春」を　待つだけです\nよほど運が悪くなければ　たくさんの\nかわいい子供たちに　会えるはずです<$12><$00>
+<CLEAR>Leave 1 male and 1 female with us, pay a breeding fee,\n
+and wait for spring.<$12>\n
+<CLEAR>If you're lucky, you'll be met with darling babies upon\n
+your return for pickup!<$12><$00>
 
 
+//<CLEAR>どの動物の夫婦を\nお預かりいたしましょうか？<$12><$00>
+<CLEAR>Which animal couple should stay with us?<$12><$00>
 
 
-<CLEAR>
-//申し分けありません！　ただいま\n牧場の施設は　フル稼働中でして\nこれ以上は　お預かりできません
-Please excuse us, but BB Ranch's stables are\n
-currently full!
-<$12>
-<$00>
+//オスメス対の動物を\nお願いします<$12><$00>
+We need 1 male and 1 female per couple.<$12><$00>
 
 
+//<$1D>なら飼育費用は\n<$1D><$06><$1E><$04><$14>￥かかりますね\n<$01>契約する<$0E>／<$01>やめとく<$0E><$00>
+<$1D>＿breeding comes with a＿<$1D><$06><$1E><$04><$14>￥ fee.\n
+<$01>Pay<$0E>／<$01>Exit<$0E><$00>
 
 
+//<CLEAR>残念ながら\n飼育費用が足りません<$12><$00>
+<CLEAR>Unfortunately, you cannot afford our breeding fee.<$12><$00>
 
 
-<CLEAR>
-//次の春には　この牧場も\n店じまいなんですよ
-I hate to say it, but next spring, BB Ranch\n
-will be closed...
-<$12>
+//<CLEAR>他にも、お預かりしましょうか？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
+<CLEAR>Should we continue with our care?\n
+<$01>Yes<$0E>／<$01>No<$0E><$00>
+
+
+//未契約<$00>
+-EMPTY-<$00>
+
+
+//<CLEAR>お預かりしている動物は\nありません<$12><$00>
+<CLEAR>You left no animals in our care.<$12><$00>
+
+
+//<CLEAR>どれを引き取りますか？\n<$01><$1D><$1D><$15>W<$02>56<$0E>／<$01><$1D><$1D><$15>W<$02>126<$0E>／<$01><$1D><$1D><$15>W<$02>196<$0E>／<$01><$1D><$1D><$15>W<$02>266<$0E>\n<$01><$1D><$1D><$15>W<$02>56<$0E>／<$01><$1D><$1D><$15>W<$02>126<$0E>／<$01><$1D><$1D><$15>W<$02>196<$0E>／<$01><$1D><$1D><$15>W<$02>266<$0E><$00>
+<CLEAR>What are you taking?\n
+<$01><$1D><$1D><$15>W<$02>56<$0E>／<$01><$1D><$1D><$15>W<$02>126<$0E>／<$01><$1D><$1D><$15>W<$02>196<$0E>／<$01><$1D><$1D><$15>W<$02>266<$0E>\n
+<$01><$1D><$1D><$15>W<$02>56<$0E>／<$01><$1D><$1D><$15>W<$02>126<$0E>／<$01><$1D><$1D><$15>W<$02>196<$0E>／<$01><$1D><$1D><$15>W<$02>266<$0E><$00>
+
+
+//<CLEAR><$1D>は\nまだ繁殖期を迎えていません\n次の春以降に、お越しください<$12><$00>
+<CLEAR><$1D>＿breeding is not available this season. Please come\n
+back sometime after next spring.<$12><$00>
+
+
+//<CLEAR>トランスカーゴに\n２つ　空きを作って\nもう一度　おたずねください<$12><$00>
+<CLEAR>Please make 2 spaces in your trans-cargo unit and try\n
+again.<$12><$00>
+
+
+//<CLEAR>さて、<$1D>は…………………<$12><$00>
+<CLEAR>Let's see, for the＿<$1D>＿couple...........<$12><$00>
+
+
+//<CLEAR>夫婦仲が　よろしくないようで\n残念ながら　失敗でした\nこの夫婦は　お返しいたします<$12><$00>
+<CLEAR>...the couple seemingly did not relate well. Unfortunately, the\n
+breeding failed, so you can have them back.<$12><$00>
+
+
+//<CLEAR>夫婦仲が　よろしくないようで\n残念ながら　失敗でした<$12>\n<CLEAR>いやあ、アレで動物の世界も\nいろいろと　大変みたいですね…<$12>\n<CLEAR>ウチなんかも　女房がねェ…<$12>\n<CLEAR>結婚した途端、もォ…<$12>\n<CLEAR>ホントねェ…　大変なんだよねェ…<$12>\n<CLEAR>…というわけで、\nこの夫婦は　お返しいたします<$12><$00>
+<CLEAR>...the couple seemingly did not relate well. Unfortunately, the\n
+breeding failed.<$12>\n
+<CLEAR>The animal kingdom is a treacherous one, for sure...<$12>\n
+<CLEAR>I mean, shoot, look at my wife...<$12>\n
+<CLEAR>Right after we were married too...<$12>\n
+<CLEAR>It's real...treacherous stuff, ain't it...<$12>\n
+<CLEAR>...Anyways, you can have them back.<$12><$00>
+
+
+//<CLEAR><$00>
+<CLEAR><$00>
+
+
+//お返しします<$12><$00>
+Here you go.<$12><$00>
+
+
+//クン、クンクン………？<$12>\n<CLEAR><$1D>のニオイが　するね\nそういえば、<$1D>食まだだっけ…<$12><$00>
+Sniff...sniff, sniff?<$12>\n
+<CLEAR><$1D>＿scent's filling the air. You know, I could go for\n
+some＿<$1D>＿!<$12><$00>
+
+
+//卵焼き<$00>
+fried eggs<$00>
+
+
+//カレー<$00>
+curry<$00>
+
+
+//焼き肉<$00>
+Neo Korean BBQ<$00>
+
+
+//唐あげ<$00>
+karaage<$00>
+
+
+//お菓子<$00>
+candy<$00>
+
+
+//バナナ<$00>
+banana<$00>
+
+
+//フライ<$00>
+Neo French fries<$00>
+
+
+//焼き魚<$00>
+grilled fish<$00>
+
+
+//トマト<$00>
+tomato<$00>
+
+
+//バター<$00>
+butter<$00>
+
+
+//ソース<$00>
+sauce<$00>
+
+
+//スープ<$00>
+＿soup<$00>
+
+
+//ピラフ<$00>
+pilaf<$00>
+
+
+//バニラ<$00>
+vanilla<$00>
+
+
+//キムチ<$00>
+kimchi<$00>
+
+
+//チーズ<$00>
+cheese<$00>
+
+
+//朝<$00>
+breakfast<$00>
+
+
+//昼<$00>
+lunch<$00>
+
+
+//夕<$00>
+dinner<$00>
+
+
+//……東<$00>
+...East<$00>
+
+
+//……西<$00>
+...West<$00>
+
+
+//……南<$00>
+...South<$00>
+
+
+//……北<$00>
+...North<$00>
+
+
+//…北東<$00>
+...North-east<$00>
+
+
+//…北西<$00>
+...North-west<$00>
+
+
+//…南東<$00>
+...South-east<$00>
+
+
+//…南西<$00>
+...South-west<$00>
+
+
+//<CLEAR>……<$1D><$00>
+<CLEAR>......<$1D><$00>
+
+
+//、…<$1D>に行けば<$00>
+! That's where we'll find a＿<$1D>.<$00>
+
+
+//直進<$00>
+For<$00>
+
+
+//右よ<$00>
+Right<$00>
+
+
+//左よ<$00>
+Left<$00>
+
+
+//後ろ<$00>
+Back<$00>
+
+
+//<CLEAR>……<$1D><$00>
+<CLEAR>......<$1D><$00>
+
+
+//、絶対に<$1D>∥<$00>
+wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
+
+
+//<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
+<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
+
+
+//<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
+<CLEAR>...Sorry. I don't have it in me today.<$12><$00>
+
+
+//運命の<$00>
+Fated＿<$00>
+
+
+//新しい<$00>
+New＿<$00>
+
+
+//素敵な<$00>
+Great＿<$00>
+
+
+//未知の<$00>
+Unknown＿<$00>
+
+
+//何か<$00>
+things＿<$00>
+
+
+//発見<$00>
+discoveries＿<$00>
+
+
+//お宝<$00>
+treasures＿<$00>
+
+
+//動物<$00>
+animals＿<$00>
+
+
+//に　出会える…<$00>
+could appear.<$00>
+
+
+//が　待ってる…<$00>
+await us...<$00>
+
+
+//気がするわ∥<$00>
+are there.<$00>
+
+
+//チャンスよ∥<$00>
+are in our grasp!<$00>
+
+
+//今しかないわ<$00>
+could slip through our fingers!<$00>
+
+
+//間違いなし∥<$00>
+are dead head!<$00>
+
+
+//\n<$1D><$1D><$1D>\n<$1D><$12>\n<CLEAR><$00>
 \n
-<CLEAR>
-//今、お預かりしても　子供の顔を\nお見せすることは　できませんから…\n残念ですが
-We won't be able to present you with any\n
-babies born in our custody.
-<$12>
-<$00>
+<$1D><$1D><$1D>\n
+<$1D><$12>\n
+<CLEAR><$00>
 
 
+//<CLEAR>自信があるの∥<$12><$00>
+<CLEAR>I'm sure of it!<$12><$00>
 
 
+//<CLEAR>自信は　ないけどね…<$12><$00>
+<CLEAR>Although, I'm not totally certain...<$12><$00>
 
 
-<CLEAR>
-//春が待ち遠しいですね
-Sure can't wait for spring, can you?
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//宝クジよりはるかに確実に\nもうかりますよ
-You're more likely to strike big here than\n
-you are at the lottery.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//お手持ちの動物の　メスオス１対と\n飼育費用を　最初にいただきます
-Leave 1 male and 1 female with us, pay a\n
-breeding fee, and wait for spring.
-<$12>
-\n
-<CLEAR>
-//あとは「春」を　待つだけです\nよほど運が悪くなければ　たくさんの\nかわいい子供たちに　会えるはずです
-If you're lucky, you'll be met with darling\n
-babies upon your return for pickup!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//どの動物の夫婦を\nお預かりいたしましょうか？
-Which animal couple should stay with us?
-<$12>
-<$00>
-
-
-
-
-
-
-//オスメス対の動物を\nお願いします
-We need 1 male and 1 female per couple.
-<$12>
-<$00>
-
-
-
-
-
-
-<$1D>
-//なら飼育費用は\n
-＿breeding comes with a＿
-<$1D><$06><$1E><$04><$14>
-//￥かかりますね\n
-￥ fee.\n
-<$01>
-//契約する
-Pay
-<$0E>
-//／
-／
-<$01>
-//やめとく
-Exit
-<$0E>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//残念ながら\n飼育費用が足りません
-Unfortunately, you cannot afford our breeding\n
-fee.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//他にも、お預かりしましょうか？\n
-Should we continue with our care?\n
-<$01>
-//は＿い
-Yes
-<$0E>
-//／
-／
-<$01>
-//いいえ
-No
-<$0E>
-<$00>
-
-
-
-
-
-
-//未契約
--EMPTY-
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//お預かりしている動物は\nありません
-You left no animals in our care.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//どれを引き取りますか？\n
-What are you taking?\n
-<$01><$1D><$1D><$15>
-//W
-W
-<$02>
-//56
-56
-<$0E>
-//／
-／
-<$01><$1D><$1D><$15>
-//W
-W
-<$02>
-//126
-126
-<$0E>
-//／
-／
-<$01><$1D><$1D><$15>
-//W
-W
-<$02>
-//196
-196
-<$0E>
-//／
-／
-<$01><$1D><$1D><$15>
-//W
-W
-<$02>
-//266
-266
-<$0E>
-//\n
-\n
-<$01><$1D><$1D><$15>
-//W
-W
-<$02>
-//56
-56
-<$0E>
-//／
-／
-<$01><$1D><$1D><$15>
-//W
-W
-<$02>
-//126
-126
-<$0E>
-//／
-／
-<$01><$1D><$1D><$15>
-//W
-W
-<$02>
-//196
-196
-<$0E>
-//／
-／
-<$01><$1D><$1D><$15>
-//W
-W
-<$02>
-//266
-266
-<$0E>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1D>
-//は\nまだ繁殖期を迎えていません\n次の春以降に、お越しください
-＿breeding is not available this season.\n
-Please come back sometime after next spring.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//トランスカーゴに\n２つ　空きを作って\nもう一度　おたずねください
-Please make 2 spaces in your trans-cargo unit\n
-and try again.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//さて、
-Let's see, for the＿
-<$1D>
-//は…………………
-＿couple...........
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//夫婦仲が　よろしくないようで\n残念ながら　失敗でした\nこの夫婦は　お返しいたします
-...the couple seemingly did not relate well.\n
-Unfortunately, the breeding failed, so you\n
-can have them back.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//夫婦仲が　よろしくないようで\n残念ながら　失敗でした
-...the couple seemingly did not relate well.\n
-Unfortunately, the breeding failed.
-<$12>
-\n
-<CLEAR>
-//いやあ、アレで動物の世界も\nいろいろと　大変みたいですね…
-The animal kingdom is a treacherous one, for\n
-sure...
-<$12>
-\n
-<CLEAR>
-//ウチなんかも　女房がねェ…
-I mean, shoot, look at my wife...
-<$12>
-\n
-<CLEAR>
-//結婚した途端、もォ…
-Right after we were married too...
-<$12>
-\n
-<CLEAR>
-//ホントねェ…　大変なんだよねェ…
-It's real...treacherous stuff, ain't it...
-<$12>
-\n
-<CLEAR>
-//…というわけで、\nこの夫婦は　お返しいたします
-...Anyways, you can have them back.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-
-<$00>
-
-
-
-
-//お返しします
-Here you go.
-<$12>
-<$00>
-
-
-
-
-
-
-//クン、クンクン………？
-Sniff...sniff, sniff?
-<$12>
-\n
-<CLEAR>
-//
-<$1D>
-//のニオイが　するね\nそういえば、
-＿scent's filling the air. You know, I could\n
-go for some＿
-<$1D>
-//食まだだっけ…
-＿!
-<$12>
-<$00>
-
-
-
-
-
-
-//卵焼き
-fried eggs
-<$00>
-
-
-
-
-
-
-//カレー
-curry
-<$00>
-
-
-
-
-
-
-//焼き肉
-Neo Korean BBQ
-<$00>
-
-
-
-
-
-
-//唐あげ
-karaage
-<$00>
-
-
-
-
-
-
-//お菓子
-candy
-<$00>
-
-
-
-
-
-
-//バナナ
-banana
-<$00>
-
-
-
-
-
-
-//フライ
-Neo French fries
-<$00>
-
-
-
-
-
-
-//焼き魚
-grilled fish
-<$00>
-
-
-
-
-
-
-//トマト
-tomato
-<$00>
-
-
-
-
-
-
-//バター
-butter
-<$00>
-
-
-
-
-
-
-//ソース
-sauce
-<$00>
-
-
-
-
-
-
-//スープ
-＿soup
-<$00>
-
-
-
-
-
-
-//ピラフ
-pilaf
-<$00>
-
-
-
-
-
-
-//バニラ
-vanilla
-<$00>
-
-
-
-
-
-
-//キムチ
-kimchi
-<$00>
-
-
-
-
-
-
-//チーズ
-cheese
-<$00>
-
-
-
-
-
-
-//朝
-breakfast
-<$00>
-
-
-
-
-
-
-//昼
-lunch
-<$00>
-
-
-
-
-
-
-//夕
-dinner
-<$00>
-
-
-
-
-
-
-//……東
-...East
-<$00>
-
-
-
-
-
-
-//……西
-...West
-<$00>
-
-
-
-
-
-
-//……南
-...South
-<$00>
-
-
-
-
-
-
-//……北
-...North
-<$00>
-
-
-
-
-
-
-//…北東
-...North-east
-<$00>
-
-
-
-
-
-
-//…北西
-...North-west
-<$00>
-
-
-
-
-
-
-//…南東
-...South-east
-<$00>
-
-
-
-
-
-
-//…南西
-...South-west
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//……
-......
-<$1D>
-<$00>
-
-
-
-
-
-
-//、…
-! That's where we'll find a＿
-<$1D>
-//に行けば
-.
-<$00>
-
-
-
-
-
-
-//直進
-For
-<$00>
-
-
-
-
-
-
-//右よ
-Right
-<$00>
-
-
-
-
-
-
-//左よ
-Left
-<$00>
-
-
-
-
-
-
-//後ろ
-Back
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//……
-......
-<$1D>
-<$00>
-
-
-
-
-
-
-//、絶対に
-wards, got it? I'm sure we'll find a＿
-<$1D>
-//∥
-＿there!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//Sリンダは　「女の勘」を\nはたらかせた∥
-SLinda used her woman's intuition...
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//…ごめんね、\n今日は　勘がはたらかないわ…
-...Sorry. I don't have it in me today.
-<$12>
-<$00>
-
-
-
-
-
-
-//運命の
-Fated＿
-<$00>
-
-
-
-
-
-
-//新しい
-New＿
-<$00>
-
-
-
-
-
-
-//素敵な
-Great＿
-<$00>
-
-
-
-
-
-
-//未知の
-Unknown＿
-<$00>
-
-
-
-
-
-
-//何か
-things＿
-<$00>
-
-
-
-
-
-
-//発見
-discoveries＿
-<$00>
-
-
-
-
-
-
-//お宝
-treasures＿
-<$00>
-
-
-
-
-
-
-//動物
-animals＿
-<$00>
-
-
-
-
-
-
-//に　出会える…
-could appear.
-<$00>
-
-
-
-
-
-
-//が　待ってる…
-await us...
-<$00>
-
-
-
-
-
-
-//気がするわ∥
-are there.
-<$00>
-
-
-
-
-
-
-//チャンスよ∥
-are in our grasp!
-<$00>
-
-
-
-
-
-
-//今しかないわ
-could slip through our fingers!
-<$00>
-
-
-
-
-
-
-//間違いなし∥
-are dead head!
-<$00>
-
-
-
-
-
-
-//\n
-\n
-<$1D><$1D><$1D>
-//\n
-\n
-<$1D><$12>
-\n
-<CLEAR>
-//
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//自信があるの∥
-I'm sure of it!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//自信は　ないけどね…
-Although, I'm not totally certain...
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//絶対なんだから∥
-I'm absolutely certain!
-<$12>
-<$00>
-
-
-
-
+//<CLEAR>絶対なんだから∥<$12><$00>
+<CLEAR>I'm absolutely certain!<$12><$00>
 
 
 #WRITE(PTR, $0026)
-//
-<$15>
-//Y動物情報
-YAnimal＿
-<$06>
-//サービス
-Search
-<$00>
+//<$15>Y動物情報<$06>サービス<$00>
+<$15>YAnimal＿<$06>Search<$00>
 
 
+//<CLEAR>検索ナサイマスカ？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
+<CLEAR>USE THE SEARCH ENGINE?\n
+<$01>Yes<$0E>／<$01>No<$0E><$00>
 
 
+//<CLEAR><$00>
+<CLEAR><$00>
 
 
-<CLEAR>
-//検索ナサイマスカ？\n
-USE THE SEARCH ENGINE?\n
-<$01>
-//は＿い
-Yes
-<$0E>
-//／
-／
-<$01>
-//いいえ
-No
-<$0E>
-<$00>
+//<$01><$1D><$0E><$00>
+<$01><$1D><$0E><$00>
 
 
+//<CLEAR><$00>
+<CLEAR><$00>
 
 
+// <$00>
+ <$00>
 
 
-<CLEAR>
-
-<$00>
-
+//<$16><$01><$1D><$02>56<$0E>　<$01><$1D><$02>120<$0E>　<$01><$1D><$02>184<$0E>　<$01><$1D><$02>248<$0E><$00>
+<$16><$01><$1D><$02>56<$0E>　<$01><$1D><$02>120<$0E>　<$01><$1D><$02>184<$0E>　<$01><$1D><$02>248<$0E><$00>
 
 
-
-<$01><$1D><$0E>
-<$00>
-
-
+//<CLEAR><$02>20<$03>8写真資料\n<$02>34なし<$00>
+<CLEAR><$02>20<$03>8REF:\n
+<$02>34N/A<$00>
 
 
-<CLEAR>
-
-<$00>
-
-
-
-
-// 
-
-<$00>
-
-
-
-
-
-
-<$16><$01><$1D><$02>
-//56
-56
-<$0E>
-//　
-
-<$01><$1D><$02>
-//120
-120
-<$0E>
-//　
-
-<$01><$1D><$02>
-//184
-184
-<$0E>
-//　
-
-<$01><$1D><$02>
-//248
-248
-<$0E>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$02>
-//20
-20
-<$03>
-//8写真資料\n
-8REF:\n
-<$02>
-//34なし
-34N/A
-<$00>
-
-
-
-
-
-
-<$03>
-//164
-164
-<$02>
-//56
-56
-<$15>
-//K○ボタンで♂♀表示切り替え
-K○ button: ♂/♀
-<$14>
-<$00>
-
-
-
-
+//<$03>164<$02>56<$15>K○ボタンで♂♀表示切り替え<$14><$00>
+<$03>164<$02>56<$15>K○ button: ♂/♀<$14><$00>
 
 
 

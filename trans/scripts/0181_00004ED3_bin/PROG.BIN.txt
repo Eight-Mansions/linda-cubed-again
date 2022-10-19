@@ -83,992 +83,367 @@ c174a1.obj
 
 
 #WRITE(PTR, $001C)
-//パラサイド
-Paraside＿
-<$00>
+//パラサイド<$00>
+Paraside＿<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
+//<CLEAR>恵まれない私のために　ひとつ\nご寄付をお願いしますよ、ダンナ様！<$00>
+<CLEAR>If you donate to charity, then you can call me Charity!<$00>
 
 
+//<CLEAR>何かイイことが　ありそうなフリだけの\n寄付より　絶対に何もない　私への\n寄付のほうが　潔いってモンですよ<$12><$00>
+<CLEAR>Why donate to some corporation when you could donate to\n
+me, someone who ACTUALLY needs the money?<$12><$00>
 
 
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
+//代行ハンターに　金をもらって\n依頼料を倍くらいに　教えるヤツが\nいるらしいから　気をつけな<$12>\n<CLEAR>でも　この町のルールじゃ\nだまされるヤツが　悪いんだけどな<$12><$00>
+I've heard some proxy hunters are doubling their initial\n
+hunting rates to pocket more than their catches is worth.<$12>\n
+<CLEAR>According to the unwritten rules of this town, it's your fault\n
+if you get swindled.<$12><$00>
 
 
+//奥のでかい建物が　通称ジャンクパレス！\n考えもなしに　何度も建て増しを\n繰り返したせいで　中は迷路みてぇだ<$12>\n<CLEAR>入ったきり　迷って出られないほど\n複雑じゃないが　別の理由で　二度と\n帰って来れないヤツは　跡を絶たねぇ<$12><$00>
+The big, colorful structure just ahead is what we call\n
+Junk Palace!<$12>\n
+<CLEAR>Everyone kept building on what started as a small heap,\n
+until whoops! We were looking at a maze.<$12>\n
+<CLEAR>Getting in isn't so bad, but imagine once you're in that\n
+someone blocks your exit with trash!<$12><$00>
 
 
+//動物との戦闘で　最も大切なことを\n教えよう！　しっかりと心に刻んどけ<$12>\n<CLEAR>「何を犠牲にしても　まず　自分が\n生き残ることを　最優先に考えるクセを\nつける！」　これが１番だ∥<$12><$00>
+There's one lesson I want you to always remember when\n
+facing animals in combat:<$12>\n
+<CLEAR>"Whilst some sacrifices must be made, thou shalt never\n
+sacrifice thyself!"<$12><$00>
 
 
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//恵まれない私のために　ひとつ\nご寄付をお願いしますよ、ダンナ様！
-If you donate to charity, then you can call\n
-me Charity!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//何かイイことが　ありそうなフリだけの\n寄付より　絶対に何もない　私への\n寄付のほうが　潔いってモンですよ
-Why donate to some corporation when you could\n
-donate to me, someone who ACTUALLY needs the\n
-money?
-<$12>
-<$00>
-
-
-
-
-
-
-//代行ハンターに　金をもらって\n依頼料を倍くらいに　教えるヤツが\nいるらしいから　気をつけな
-I've heard some proxy hunters are doubling\n
-their initial hunting rates to pocket more\n
-than their catches is worth.
-<$12>
-\n
-<CLEAR>
-//でも　この町のルールじゃ\nだまされるヤツが　悪いんだけどな
-According to the unwritten rules of this\n
-town, it's your fault if you get swindled.
-<$12>
-<$00>
-
-
-
-
-
-
-//奥のでかい建物が　通称ジャンクパレス！\n考えもなしに　何度も建て増しを\n繰り返したせいで　中は迷路みてぇだ
-The big, colorful structure just ahead is\n
-what we call Junk Palace!
-<$12>
-\n
-<CLEAR>
-Everyone kept building on what started as a\n
-small heap, until whoops! We were looking at\n
-a maze.
-<$12>
-\n
-<CLEAR>
-//入ったきり　迷って出られないほど\n複雑じゃないが　別の理由で　二度と\n帰って来れないヤツは　跡を絶たねぇ
-Getting in isn't so bad, but imagine once\n
-you're in that someone blocks your exit with\n
-trash!
-<$12>
-<$00>
-
-
-
-
-
-
-//動物との戦闘で　最も大切なことを\n教えよう！　しっかりと心に刻んどけ
-There's one lesson I want you to always\n
-remember when facing animals in combat:
-<$12>
-\n
-<CLEAR>
-//「何を犠牲にしても　まず　自分が\n生き残ることを　最優先に考えるクセを\nつける！」　これが１番だ∥
-"Whilst some sacrifices must be made, thou\n
-shalt never sacrifice thyself!"
-<$12>
-<$00>
-
-
-
-
-
-
-//昔は良かったよ…　ハッスルⅡが\n簡単に手に入ってさ…　わしでも\n水の中の
+//昔は良かったよ…　ハッスルⅡが\n簡単に手に入ってさ…　わしでも\n水の中の<$1B>ワニを　仕留められた…<$12>\n<CLEAR><$1B>オオカミに囲まれても　負ける気が\nゼンゼンしなかったもんなぁ\n確かに副作用は　こわかったけど…<$12>\n<CLEAR>あの頃のわしは　輝いとったと思うよ<$12><$00>
 I miss Hustle Ⅱ something serious.\n
-I could strangle a＿
-//<$1B>
-//ワニを　仕留められた…
-crocodile with my\n
-bare hands on the stuff.
-<$12>
-\n
-<CLEAR>
-//
-//<$1B>
-//オオカミに囲まれても　負ける気が\nゼンゼンしなかったもんなぁ\n確かに副作用は　こわかったけど…
-Wolves could have me surrounded,\n
-and I wouldn't bat an eyelash!
-<$12>
-\n
-<CLEAR>
-//あの頃のわしは　輝いとったと思うよ
-I mean, yeah of course it gave me side\n
-effects, but...it also gave me my prime.
-<$12>
-<$00>
+I could strangle a＿crocodile with my\n
+bare hands on the stuff.<$12>\n
+<CLEAR>Wolves could have me surrounded,\n
+and I wouldn't bat an eyelash!<$12>\n
+<CLEAR>I mean, yeah of course it gave me side effects, but...it\n
+also gave me my prime.<$12><$00>
 
 
+//ヒュームと　ゴメスの部隊が共同で\n狩りをした後は　生態系まで\n変わっちまうって　評判だったよ<$12>\n<CLEAR>金になる動物は　一切いなくなるんだ！\nやつらのおかげで　絶滅した動物は\n２種や３種じゃ　きかないだろうよ<$12><$00>
+It's common sentiment here that Hume and Gomez hunting\n
+together changed the ecosystem.<$12>\n
+<CLEAR>They made a good 2 or 3 species extinct, and left no\n
+animals with market value for us!They wiped out the\n
+populations of any animals with real market value. I'll bet\n
+they rendered more than a couple species extinct.<$12><$00>
 
 
+//ネオケニアから　離れる時に\n町の奥の壁に　落書きを残していく人が\nけっこう、いるんだよね<$12>\n<CLEAR>記念か何かの　つもりなんだろうけど\n「死神」が落ちてきたら　町ごと、\n消し飛ぶんだから　残りゃしないのに<$12><$00>
+Quite a few folks left graffiti on the town's rear wall\n
+before migrating from Neo Kenya.<$12>\n
+<CLEAR>I hope it was only for the sentiment. Once the Grim Reaper\n
+hits, it'll all be destroyed.<$12><$00>
 
 
-//ヒュームと　ゴメスの部隊が共同で\n狩りをした後は　生態系まで\n変わっちまうって　評判だったよ
-It's common sentiment here that Hume and\n
-Gomez hunting together changed the ecosystem.
-<$12>
-\n
-<CLEAR>
-//金になる動物は　一切いなくなるんだ！\nやつらのおかげで　絶滅した動物は\n２種や３種じゃ　きかないだろうよ
-They made a good 2 or 3 species extinct, and\n
-left no animals with market value for us!
-
-They wiped out the populations of any animals\n
-with real market value. I'll bet they\n
-rendered more than a couple species extinct.
-<$12>
-<$00>
+//<CLEAR><$19>1<$15>S壁に　落書きがある<$14><$12><$00>
+<CLEAR><$19>1<$15>SThere is old graffiti on the wall.<$14><$12><$00>
 
 
+//<CLEAR>わーい！　おれもこの落書きで\nスタッフロールに　のるゾ∥<$12><$00>
+<CLEAR>"Check out THIS masterpiece! They should put me in the\n
+game credits for this!"<$12><$00>
 
 
-
-
-//ネオケニアから　離れる時に\n町の奥の壁に　落書きを残していく人が\nけっこう、いるんだよね
-Quite a few folks left graffiti on the town's\n
-rear wall before migrating from Neo Kenya.
-<$12>
-\n
-<CLEAR>
-//記念か何かの　つもりなんだろうけど\n「死神」が落ちてきたら　町ごと、\n消し飛ぶんだから　残りゃしないのに
-I hope it was only for the sentiment. Once\n
-the Grim Reaper hits, it'll all be destroyed.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-1
-<$15>
-//S壁に　落書きがある
-SThere is old graffiti on the wall.
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//わーい！　おれもこの落書きで\nスタッフロールに　のるゾ∥
-"Check out THIS masterpiece! They should put\n
-me in the game credits for this!"
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//紀子、好きだぁ～っ∥\n結婚しような∥　愛してる■\n＿＿＿＿＿＿＿＿＿＿ユタカ
-"Itoko, I love you!\n
+//<CLEAR>紀子、好きだぁ～っ∥\n結婚しような∥　愛してる■\n＿＿＿＿＿＿＿＿＿＿ユタカ<$12><$00>
+<CLEAR>"Itoko, I love you!\n
 Let's get married and be together!■\n
-＿＿＿＿＿＿-Yutaka"
-<$12>
-<$00>
+＿＿＿＿＿＿-Yutaka"<$12><$00>
 
 
-
-
-
-
-<CLEAR>
-//１．０＿＿さ＿＿こ＿＿む＿＿て＿＿の\n１．５＿＿ぃ＿＿ゃ＿＿っ＿＿ぁ＿＿ょ\n２．０＿＿・＿＿・＿＿・＿＿・＿＿・
-"UVLUINCAOUIFUIM\n
+//<CLEAR>１．０＿＿さ＿＿こ＿＿む＿＿て＿＿の\n１．５＿＿ぃ＿＿ゃ＿＿っ＿＿ぁ＿＿ょ\n２．０＿＿・＿＿・＿＿・＿＿・＿＿・<$12><$00>
+<CLEAR>"UVLUINCAOUIFUIM\n
 TNALUKHEWADREC\n
-MYHKIYKAOUIHANT"
-<$12>
-<$00>
-
-
-
-
+MYHKIYKAOUIHANT"<$12><$00>
 
 
 #WRITE(PTR, $001E)
-//\n
+//\n<$00>
 \n
 <$00>
 
 
+//<$01>寄付する<$0E>／<$01>雑談する<$0E>／<$01>ヤだよ！<$0E><$00>
+<$01>Donate<$0E>／<$01>Chat<$0E>／<$01>No way!<$0E><$00>
 
 
+//<CLEAR>あたしに有り金を　全部渡したその足で\nＬ－<$06>22<$04>辺りを　散歩してごらん\nきっと珍しいヤツに　出くわすよ<$12><$00>
+<CLEAR>There's some fellers around L-<$06>22<$04>＿who only approach\n
+those they find desirable.<$12><$00>
 
 
-<$01>
-//寄付する
-Donate
-<$0E>
-//／
-／
-<$01>
-//雑談する
-Chat
-<$0E>
-//／
-／
-<$01>
-//ヤだよ！
-No way!
-<$0E>
-<$00>
+//<CLEAR>間違っても　Ｌ－<$06>24<$04>やＧ－<$06>14<$04>で\n野宿なんかしないほうが　身のためだよ\nこわいヤツが　夢に出て来るってサ<$12><$00>
+<CLEAR>Whatever you do, don't camp around L-<$06>24<$04>＿or G-<$06>14<$04>.\n
+Weirdos bump in the night out there, if you catch my drift.<$12><$00>
 
 
+//<CLEAR>いつも神様は　あなたの行動を\n見ていらっしゃいますよ…<$12><$00>
+<CLEAR>God's always watching, you know.<$12><$00>
 
 
-
-
-<CLEAR>
-//あたしに有り金を　全部渡したその足で\nＬ－
-There's some fellers around L-
-<$06>
-//22
-22
-<$04>
-//辺りを　散歩してごらん\nきっと珍しいヤツに　出くわすよ
-＿who only approach those they find desirable.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//間違っても　Ｌ－
-Whatever you do, don't camp around L-
-<$06>
-//24
-24
-<$04>
-//やＧ－
-＿or G-
-<$06>
-//14
-14
-<$04>
-//で\n野宿なんかしないほうが　身のためだよ\nこわいヤツが　夢に出て来るってサ
-. Weirdos bump in the night out there, if you\n
-catch my drift.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//いつも神様は　あなたの行動を\n見ていらっしゃいますよ…
-God's always watching, you know.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ありがとうございます\n優しい気持ちを　入れてください\n持金
-Thank you so much!\n
+//<CLEAR>ありがとうございます\n優しい気持ちを　入れてください\n持金<$1E>40￥→寄付<$01><$1E>40￥<$00>
+<CLEAR>Thank you so much!\n
 How much will you donate?\n
-<$1E>
-//40￥→寄付
-40￥→
-<$01><$1E>
-//40￥
-40
-<$00>
+<$1E>40￥→<$01><$1E>40<$00>
 
 
+//<CLEAR><$06><$1E><$04>￥の寄付ですね\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
+<CLEAR>You'll donate＿<$06><$1E><$04>￥?\n
+<$01>Yes<$0E>／<$01>No<$0E><$00>
 
 
+//<CLEAR>最近、多いんですよ…\n持金を全部、寄付される方…<$12>\n<CLEAR>あなた、まだ若いんだから\nヘンな気を　起こさないでくださいね<$12><$00>
+<CLEAR>I've seen a lot of people donating everything they have\n
+lately.<$12>\n
+<CLEAR>You're still young, so don't feel strange or guilty about\n
+participating.<$12><$00>
 
 
-<CLEAR>
-//
-You'll donate＿
-<$06><$1E><$04>
-//￥の寄付ですね\n
-￥?\n
-<$01>
-//は＿い
-Yes
-<$0E>
-//／
-／
-<$01>
-//いいえ
-No
-<$0E>
-<$00>
+//<CLEAR>ダンナ、いつもわりいねぇ\n拾いモンだけど　お礼がわりに\nこれ、受け取ってくんナ<$12><$00>
+<CLEAR>Gosh, I don't know what to say. I'd only picked this up,\n
+but I hope it works as a "thank you".<$12><$00>
 
 
+//<CLEAR><$19>1<$15>S<CLEAR>ケンは　<$1D>を手に入れた∥<$14><$12><$00>
+<CLEAR><$19><$15>S<CLEAR>Ken took\n
+<$1D>!<$14><$12><$00>
 
 
+//<CLEAR>じゃ、引き続き寄付のほう　よろしく!\n…と言っても　もう何もでねぇけどナ<$12>\nた、ぶ、ん…<$12><$00>
+<CLEAR>Well, it always helps, so please continue to donate when you\n
+can.<$12>\n
+(Not "if", "when"...)<$12><$00>
 
 
-<CLEAR>
-//最近、多いんですよ…\n持金を全部、寄付される方…
-I've seen a lot of people donating everything\n
-they have lately.
-<$12>
+//<CLEAR>あなたに　神様からの祝福が\nありますように<$12><$00>
+<CLEAR>God bless you.<$12><$00>
+
+
+//<CLEAR>あなたと　あなたの家族に\n神様からのご加護が　ありますように<$12><$00>
+<CLEAR>God bless you and your family.<$12><$00>
+
+
+//<CLEAR>あなたと　あなたの家族\nそして　子孫にも　未来永劫、\n幸あらんことを　お祈りします<$12><$00>
+<CLEAR>God bless you, your family, your children and your\n
+childrens' children.<$12><$00>
+
+
+//<CLEAR>今、あなたが寄付したお金を\nどうやって　かせいだかについては…<$12>\n<CLEAR>きっと　神様も見てなかったことに\nしてくださると　思いますよ\n良かったですね<$12><$00>
+<CLEAR>Ask yourself, how'd you get the money you donated just\n
+now?<$12>\n
+<CLEAR>God's giving someone a little special treatment, I'll bet. But\n
+that's good too!<$12><$00>
+
+
+//<CLEAR>どうも<$12>\n………………………………？\nえっ￠　神様のご加護？<$12>\n<CLEAR>そんなモンなくったって　こんな大金を\nポンと　寄付できるような方なんだから\n十分、幸せなはずですよ<$12>\n<CLEAR>足りなきゃ　<$06>100000<$04>￥で\nお売りしましょうか？<$12><$00>
+<CLEAR>My goodness!<$12>\n
+Is this...what they call "a gift from God"?<$12>\n
+<CLEAR>To see someone who- by all rights- wouldn't have much\n
+be so generous brings me to tears!<$12>\n
+<CLEAR>Is＿<$06>100,000<$04>￥ a fair price to you?<$12><$00>
+
+
+//<CLEAR>本当に　ありがとうございました∥\nあなたのお気持ちは　しっかりと…<$12>\n「記録」しておきましたよ<$12><$00>
+<CLEAR>Thank you so much! Your generosity will be remembered\n
+for all time.<$12>\n
+I know, because I just "reported" it.<$12><$00>
+
+
+//クン、クンクン………？<$12>\n<CLEAR>ここには　少なくとも<$1E>1人！\nいいえ…　<$1E>1人はいるわよ…<$12>\n<CLEAR>お風呂と縁のない人<$12><$00>
+Sniff...sniff, sniff?<$12>\n
+<CLEAR>There's not＿<$1E>1 soul here!\n
+Wait... No, there's at least＿<$1E>1.<$12>\n
+<CLEAR>It's whatever they reek of that isn't human.<$12><$00>
+
+
+//……東<$00>
+...East<$00>
+
+
+//……西<$00>
+...West<$00>
+
+
+//……南<$00>
+...South<$00>
+
+
+//……北<$00>
+...North<$00>
+
+
+//…北東<$00>
+...North-east<$00>
+
+
+//…北西<$00>
+...North-west<$00>
+
+
+//…南東<$00>
+...South-east<$00>
+
+
+//…南西<$00>
+...South-west<$00>
+
+
+//<CLEAR>……<$1D><$00>
+<CLEAR>......<$1D><$00>
+
+
+//、…<$1D>に行けば<$00>
+! That's where we'll find a＿<$1D>.<$00>
+
+
+//直進<$00>
+For<$00>
+
+
+//右よ<$00>
+Right<$00>
+
+
+//左よ<$00>
+Left<$00>
+
+
+//後ろ<$00>
+Back<$00>
+
+
+//<CLEAR>……<$1D><$00>
+<CLEAR>......<$1D><$00>
+
+
+//、絶対に<$1D>∥<$00>
+wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
+
+
+//<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
+<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
+
+
+//<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
+<CLEAR>...Sorry. I don't have it in me today.<$12><$00>
+
+
+//運命の<$00>
+Fated＿<$00>
+
+
+//新しい<$00>
+New＿<$00>
+
+
+//素敵な<$00>
+Great＿<$00>
+
+
+//未知の<$00>
+Unknown＿<$00>
+
+
+//何か<$00>
+things＿<$00>
+
+
+//発見<$00>
+discoveries＿<$00>
+
+
+//お宝<$00>
+treasures＿<$00>
+
+
+//動物<$00>
+animals＿<$00>
+
+
+//に　出会える…<$00>
+could appear.<$00>
+
+
+//が　待ってる…<$00>
+await us...<$00>
+
+
+//気がするわ∥<$00>
+are there.<$00>
+
+
+//チャンスよ∥<$00>
+are in our grasp!<$00>
+
+
+//今しかないわ<$00>
+could slip through our fingers!<$00>
+
+
+//間違いなし∥<$00>
+are dead head!<$00>
+
+
+//\n<$1D><$1D><$1D>\n<$1D><$12>\n<CLEAR><$00>
 \n
-<CLEAR>
-//あなた、まだ若いんだから\nヘンな気を　起こさないでくださいね
-You're still young, so don't feel strange or\n
-guilty about participating.
-<$12>
-<$00>
+<$1D><$1D><$1D>\n
+<$1D><$12>\n
+<CLEAR><$00>
 
 
+//<CLEAR>自信があるの∥<$12><$00>
+<CLEAR>I'm sure of it!<$12><$00>
 
 
+//<CLEAR>自信は　ないけどね…<$12><$00>
+<CLEAR>Although, I'm not totally certain...<$12><$00>
 
 
-<CLEAR>
-//ダンナ、いつもわりいねぇ\n拾いモンだけど　お礼がわりに\nこれ、受け取ってくんナ
-Gosh, I don't know what to say. I'd only\n
-picked this up, but I hope it works as a\n
-"thank you".
-<$12>
-<$00>
+//<CLEAR>絶対なんだから∥<$12><$00>
+<CLEAR>I'm absolutely certain!<$12><$00>
 
 
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//S<CLEAR>ケンは　
-S<CLEAR>Ken took\n
-<$1D>
-//を手に入れた∥
-!
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//じゃ、引き続き寄付のほう　よろしく!\n…と言っても　もう何もでねぇけどナ
-Well, it always helps, so please continue to\n
-donate when you can.
-<$12>
-//\nた、ぶ、ん…
+//\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
 \n
-(Not "if", "when"...)
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//あなたに　神様からの祝福が\nありますように
-God bless you.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//あなたと　あなたの家族に\n神様からのご加護が　ありますように
-God bless you and your family.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//あなたと　あなたの家族\nそして　子孫にも　未来永劫、\n幸あらんことを　お祈りします
-God bless you, your family, your children and\n
-your childrens' children.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//今、あなたが寄付したお金を\nどうやって　かせいだかについては…
-Ask yourself, how'd you get the money you\n
-donated just now?
-<$12>
-\n
-<CLEAR>
-//きっと　神様も見てなかったことに\nしてくださると　思いますよ\n良かったですね
-God's giving someone a little special\n
-treatment, I'll bet. But that's good too!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//どうも
-My goodness!
-<$12>
-//\n………………………………？\nえっ￠　神様のご加護？
-\n
-Is this...what they call "a gift from God"?
-<$12>
-\n
-<CLEAR>
-//そんなモンなくったって　こんな大金を\nポンと　寄付できるような方なんだから\n十分、幸せなはずですよ
-To see someone who- by all rights- wouldn't\n
-have much be so generous brings me to tears!
-<$12>
-\n
-<CLEAR>
-//足りなきゃ　
-Is＿
-<$06>
-//100000
-100,000
-<$04>
-//￥で\nお売りしましょうか？
-￥ a fair price to you?
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//本当に　ありがとうございました∥\nあなたのお気持ちは　しっかりと…
-Thank you so much! Your generosity will be\n
-remembered for all time.
-<$12>
-//\n「記録」しておきましたよ
-\n
-I know, because I just "reported" it.
-<$12>
-<$00>
-
-
-
-
-
-
-//クン、クンクン………？
-Sniff...sniff, sniff?
-<$12>
-\n
-<CLEAR>
-//ここには　少なくとも
-There's not＿
-<$1E>
-//1人！\nいいえ…　
-1 soul here!\n
-Wait... No, there's at least＿
-<$1E>
-//1人はいるわよ…
-1.
-<$12>
-\n
-<CLEAR>
-//お風呂と縁のない人
-It's whatever they reek of that isn't human.
-<$12>
-<$00>
-
-
-
-
-
-
-//……東
-...East
-<$00>
-
-
-
-
-
-
-//……西
-...West
-<$00>
-
-
-
-
-
-
-//……南
-...South
-<$00>
-
-
-
-
-
-
-//……北
-...North
-<$00>
-
-
-
-
-
-
-//…北東
-...North-east
-<$00>
-
-
-
-
-
-
-//…北西
-...North-west
-<$00>
-
-
-
-
-
-
-//…南東
-...South-east
-<$00>
-
-
-
-
-
-
-//…南西
-...South-west
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//……
-......
-<$1D>
-<$00>
-
-
-
-
-
-
-//、…
-! That's where we'll find a＿
-<$1D>
-//に行けば
-.
-<$00>
-
-
-
-
-
-
-//直進
-For
-<$00>
-
-
-
-
-
-
-//右よ
-Right
-<$00>
-
-
-
-
-
-
-//左よ
-Left
-<$00>
-
-
-
-
-
-
-//後ろ
-Back
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//……
-......
-<$1D>
-<$00>
-
-
-
-
-
-
-//、絶対に
-wards, got it? I'm sure we'll find a＿
-<$1D>
-//∥
-＿there!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//Sリンダは　「女の勘」を\nはたらかせた∥
-SLinda used her woman's intuition...
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//…ごめんね、\n今日は　勘がはたらかないわ…
-...Sorry. I don't have it in me today.
-<$12>
-<$00>
-
-
-
-
-
-
-//運命の
-Fated＿
-<$00>
-
-
-
-
-
-
-//新しい
-New＿
-<$00>
-
-
-
-
-
-
-//素敵な
-Great＿
-<$00>
-
-
-
-
-
-
-//未知の
-Unknown＿
-<$00>
-
-
-
-
-
-
-//何か
-things＿
-<$00>
-
-
-
-
-
-
-//発見
-discoveries＿
-<$00>
-
-
-
-
-
-
-//お宝
-treasures＿
-<$00>
-
-
-
-
-
-
-//動物
-animals＿
-<$00>
-
-
-
-
-
-
-//に　出会える…
-could appear.
-<$00>
-
-
-
-
-
-
-//が　待ってる…
-await us...
-<$00>
-
-
-
-
-
-
-//気がするわ∥
-are there.
-<$00>
-
-
-
-
-
-
-//チャンスよ∥
-are in our grasp!
-<$00>
-
-
-
-
-
-
-//今しかないわ
-could slip through our fingers!
-<$00>
-
-
-
-
-
-
-//間違いなし∥
-are dead head!
-<$00>
-
-
-
-
-
-
-//\n
-\n
-<$1D><$1D><$1D>
-//\n
-\n
-<$1D><$12>
-\n
-<CLEAR>
-//
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//自信があるの∥
-I'm sure of it!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//自信は　ないけどね…
-Although, I'm not totally certain...
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//絶対なんだから∥
-I'm absolutely certain!
-<$12>
-<$00>
-
-
-
-
-
-
-//\n
-\n
-<$01>
-//は＿い
-Yes
-<$0E>
-//／
-／
-
-<$01>
-//いいえ
-No
-<$0E>
-<$00>
-
-
-
-
+<$01>Yes<$0E>／<$01>No<$0E><$00>
 
 
 

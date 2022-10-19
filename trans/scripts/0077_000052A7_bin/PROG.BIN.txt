@@ -47,1156 +47,406 @@ c120a2.obj
 
 
 #WRITE(PTR, $0020)
-//テント
-Tent＿
-<$00>
+//テント<$00>
+Tent＿<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
-
-
-
-
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-//東の出口から出て　東へ行くと\nＵ
-If you take the east exit to U
-<$06>
-//-10
--10
-<$04>
-//に　ダイケイブという\n大きな洞窟が　あってサ
-, you'll find Great Cave!
-<$12>
-\n
-<CLEAR>
-//奥のほうには　花が群生している\n場所があって　春と秋には\n薬になる貴重な花も　咲くらしいよ
-Flowers grow in the heart of the cave,\n
-especially in spring and in autumn.
-<$12>
-\n
-<CLEAR>
-You're bound to find flowers there with great\n
-medicinal properties!
-<$12>
-<$00>
-
-
-
-
+//東の出口から出て　東へ行くと\nＵ<$06>-10<$04>に　ダイケイブという\n大きな洞窟が　あってサ<$12>\n<CLEAR>奥のほうには　花が群生している\n場所があって　春と秋には\n薬になる貴重な花も　咲くらしいよ<$12><$00>
+If you take the east exit to U<$06>-10<$04>, you'll find Great Cave!<$12>\n
+<CLEAR>Flowers grow in the heart of the cave, especially in spring\n
+and in autumn.<$12>\n
+<CLEAR>You're bound to find flowers there with great medicinal\n
+properties!<$12><$00>
 
 
 #WRITE(PTR, $0022)
-//テント
-Tent＿
-<$00>
+//テント<$00>
+Tent＿<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
-
-
-
-
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
 #WRITE(PTR, $0024)
-//オオカミ少女の家
-Wolfgirl's House＿
-<$00>
+//オオカミ少女の家<$00>
+Wolfgirl's House＿<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
+//こんにちわ！　私の名はジル<$12>\n<CLEAR>みんなは　オオカミ少女って呼ぶけどね\nうそつきじゃないのよ\n他の女の子と　同じくらいしかね<$12><$00>
+Hello! My name's Jill.<$12>\n
+<CLEAR>Everyone calls me a "wolfgirl" like I'm feral or something,\n
+but I'm just like any other girl!<$12><$00>
 
 
-
-
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-//こんにちわ！　私の名はジル
-Hello! My name's Jill.
-<$12>
-\n
-<CLEAR>
-//みんなは　オオカミ少女って呼ぶけどね\nうそつきじゃないのよ\n他の女の子と　同じくらいしかね
-Everyone calls me a "wolfgirl" like I'm feral\n
-or something, but I'm just like any other\n
-girl!
-<$12>
-<$00>
-
-
-
-
-
-
-//頼りになる猟犬、欲しくない？\n
+//頼りになる猟犬、欲しくない？\n<$01>そりゃ欲しい<$0E>／<$01>間に合ってる<$0E><$00>
 Do you want a more reliable dog?\n
-<$01>
-//そりゃ欲しい
-Who doesn't?
-<$0E>
-//／
-／
-<$01>
-//間に合ってる
-I'm fine
-<$0E>
-<$00>
+<$01>Who doesn't?<$0E>／<$01>I'm fine<$0E><$00>
 
 
+//<CLEAR><$1B>イヌじゃ　どんなに成長しても\nせいぜい　２０レベル止まりなのよね<$12><$00>
+<CLEAR>Dogs can only go up to LVL 20, regardless of how much he\n
+or she is trained.<$12><$00>
 
 
+//<CLEAR><$1D><$06><$1E><$04><$14>￥で　<$1B>オオカミを忠実な猟犬に\n登録できるけど、しちゃう？\n<$01>しちゃう！<$0E>／<$01>遠慮しとく<$0E><$00>
+<CLEAR>For＿<$1D><$06><$1E><$04><$14>, I can turn any＿wolf into a loyal dog.\n
+<$01>Okay!<$0E>／<$01>No thanks<$0E><$00>
 
 
-<CLEAR>
-//
-//<$1B>
-//イヌじゃ　どんなに成長しても\nせいぜい　２０レベル止まりなのよね
-Dogs can only go up to LVL 20, regardless of\n
-how much he or she is trained.
-<$12>
-<$00>
+//<CLEAR>お金、足んないみたいですね…\nあなたの調教なら　タダでいいわよ\n<$01>調教して～！<$0E>／<$01>冗談じゃねえ<$0E><$00>
+<CLEAR>Even if you don't have money, I provide free training.\n
+<$01>I'll take it!<$0E>／<$01>You're kidding!<$0E><$00>
 
 
+//<CLEAR>うそよ<$12><$00>
+<CLEAR>Hey, don't look at me like that!<$12><$00>
 
 
+//<CLEAR>あら、残念ね<$12><$00>
+<CLEAR>Aww, that's too bad.<$12><$00>
 
 
-<CLEAR>
-//
-For＿
-<$1D><$06><$1E><$04><$14>
-//￥で　
-, I can turn any＿
-//<$1B>
-//オオカミを忠実な猟犬に\n登録できるけど、しちゃう？\n
-wolf into a loyal dog.\n
-<$01>
-//しちゃう！
-Okay!
-<$0E>
-//／
-／
-<$01>
-//遠慮しとく
-No thanks
-<$0E>
-<$00>
+//<CLEAR>あら、猟犬の空きがないのね…<$12><$00>
+<CLEAR>Wait, you have too many dogs as it is!<$12><$00>
 
 
+//<$15>Yジ＿ル／登＿録<$00>
+<$15>YJill/Adopt<$00>
 
 
-
-
-<CLEAR>
-//お金、足んないみたいですね…\nあなたの調教なら　タダでいいわよ\n
-Even if you don't have money, I provide free\n
-training.\n
-<$01>
-//調教して～！
-I'll take it!
-<$0E>
-//／
-／
-<$01>
-//冗談じゃねえ
-You're kidding!
-<$0E>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//うそよ
-Hey, don't look at me like that!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//あら、残念ね
-Aww, that's too bad.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//あら、猟犬の空きがないのね…
-Wait, you have too many dogs as it is!
-<$12>
-<$00>
-
-
-
-
-
-
-//
-<$15>
-//Yジ＿ル／登＿録
-YJill/Adopt
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//サンキュー！
-Thank you!
-<$12>
-<$00>
-
-
-
-
+//<CLEAR>サンキュー！<$12><$00>
+<CLEAR>Thank you!<$12><$00>
 
 
 #WRITE(PTR, $0026)
-//
-<$15>
-//Y猟犬屋
-YDog Center
-<$00>
+//<$15>Y猟犬屋<$00>
+<$15>YDog Center<$00>
 
 
+//<CLEAR>お客さん…\nホスピコの入り口に　並んでる\n哀れな猟犬の墓を　数えてごらん<$12>\n<CLEAR>これ以上　あなたの猟犬を\n登録したところで、どうせまた\nあそこの墓が　増えるだけだものね<$12>\n<CLEAR>金の問題じゃないんだよ…\nわかるッ￠<$12><$00>
+<CLEAR>Sir, go look at the pet cemetary along the Hospico entrance.<$12>\n
+<CLEAR>We keep that cemetary's growth down by capping the\n
+number of dogs each client can adopt.<$12>\n
+<CLEAR>You may have the money, but you've unfortunately hit\n
+that limit. You understand, don't you?<$12><$00>
 
 
+//<CLEAR>猟犬の収容枠が　いっぱいです\nこれ以上、猟犬を増やせません<$12><$00>
+<CLEAR>You have reached the max amount of dogs you can own at\n
+one time. <$12><$00>
 
 
-<CLEAR>
-//お客さん…\nホスピコの入り口に　並んでる\n哀れな猟犬の墓を　数えてごらん
-Sir, go look at the pet cemetary along the\n
-Hospico entrance.
-<$12>
-\n
-<CLEAR>
-//これ以上　あなたの猟犬を\n登録したところで、どうせまた\nあそこの墓が　増えるだけだものね
-We keep that cemetary's growth down by\n
-capping the number of dogs each client can\n
-adopt.
-<$12>
-\n
-<CLEAR>
-//金の問題じゃないんだよ…\nわかるッ￠
-You may have the money, but you've\n
-unfortunately hit that limit. You understand,\n
-don't you?
-<$12>
-<$00>
+//<CLEAR>登録料　<$15>b<$06><$1E><$04><$14>￥が足りません\n銀行で　ご都合ください<$12><$00>
+<CLEAR>The adoption fee is over\n
+<$15><$06><$1E><$04><$14>￥.\n
+Get a loan from the bank.<$12><$00>
 
 
-
-
-
-
-<CLEAR>
-//猟犬の収容枠が　いっぱいです\nこれ以上、猟犬を増やせません
-You have reached the max amount of dogs you\n
-can own at one time.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//登録料　
-The adoption fee is over\n
-<$15>
-//b
-<$06><$1E><$04><$14>
-//￥が足りません\n銀行で　ご都合ください
-￥.\n
-Get a loan from the bank.
-<$12>
-<$00>
-
-
-
-
-
-
-//その名前は　既に登録されています\n別の名前を　つけてください
+//その名前は　既に登録されています\n別の名前を　つけてください<$12><$00>
 Sorry, that name is taken.\n
-Choose a new name.
-<$12>
-<$00>
+Choose a new name.<$12><$00>
 
 
+//<CLEAR>猟犬<$1D>を登録します\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
+<CLEAR>Adopt＿<$1D>?\n
+<$01>Yes<$0E><$01>No<$0E><$00>
 
 
+//<CLEAR><$00>
+<CLEAR><$00>
 
 
-<CLEAR>
-//猟犬
-Adopt＿
-<$1D>
-//を登録します\n
-?\n
-<$01>
-//は＿い
-Yes
-<$0E>
-//／
-<$01>
-//いいえ
-No
-<$0E>
-<$00>
+//<$16><$01><$1D><$02>96<$0E>　<$15>S<$1E>18<$14><$04><$02>140<$01><$1D><$02>236<$0E>　<$15>S<$1E>18<$14><$00>
+<$16><$01><$1D><$02><$0E><$15><$1E><$14><$04><$02><$01><$1D><$02><$0E><$15><$1E><$14><$00>
 
 
+//<$15>Y猟犬屋／メニュー<$00>
+<$15>YDog／Menu<$00>
 
 
+//<$01>買＿う<$0E>\n<$01>売＿る<$0E>\n<$01>登＿録<$0E>\n<$01>やめる<$0E><$00>
+<$01>Buy<$0E>\n
+<$01>Sell<$0E>\n
+<$01>Tame<$0E>\n
+<$01>Exit<$0E><$00>
 
 
-<CLEAR>
-
-<$00>
-
-
+//<CLEAR>猟犬登録の制限３２匹を越えました\nよって、登録できません<$12><$00>
+<CLEAR>You have reached the 32 dog adoption limit.\n
+You cannot adopt any more dogs.<$12><$00>
 
 
-<$16><$01><$1D><$02>
-96
-<$0E>
-　
-<$15>
-S
-<$1E>
-18
-<$14><$04><$02>
-140
-<$01><$1D><$02>
-236
-<$0E>
-　
-<$15>
-S
-<$1E>
-18
-<$14>
-<$00>
+//<CLEAR><$1B>イヌを　お持ちじゃないようですね<$12><$00>
+<CLEAR>You don't have any＿dogs.<$12><$00>
 
 
+//<$15>Y猟犬屋／登＿録<$00>
+<$15>YDog／Tame<$00>
 
 
-//
-<$15>
-//Y猟犬屋／メニュー
-YDog／Menu
-<$00>
+//<CLEAR>猟犬は太古より　人間の良きパートナー\nぜひ　あなたも　１頭いかがですか？\n<$01>取引する<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
+<CLEAR>Dogs have been man's best friend since ancient times.\n
+<$01>Shop<$0E>／<$01>Chat<$0E>／<$01>Exit<$0E><$00>
 
 
+//<CLEAR>またの御利用を　お待ち申し上げます<$12><$00>
+<CLEAR>We look forward to your next visit.<$12><$00>
 
 
+//<$15>Y猟犬屋／買＿う<$00>
+<$15>YDog／Buy<$00>
 
 
-<$01>
-//買＿う
-Buy
-<$0E>
-//\n
+//<CLEAR><$00>
+<CLEAR><$00>
+
+
+//<$04><$16><$15>W<$01>猟犬LV<$1E>02<$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
+<$04><$16><$15>W<$01>Dog LVL＿<$1E>02<$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
+
+
+//<$15>Y猟犬屋／売＿る<$00>
+<$15>YDog／Sell<$00>
+
+
+//<CLEAR>猟犬「<$1D>」を\n<$06><$1E><$04>￥で売りますか？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
+<CLEAR>Sell＿<$1D>＿ for＿<$06><$1E><$04>￥?\n
+<$01>Yes<$0E>／<$01>No<$0E><$00>
+
+
+//クン、クンクン………？<$12>\n<CLEAR>とくに目新しい　ニオイは\nしないみたいよ<$12><$00>
+Sniff...sniff, sniff?<$12>\n
+<CLEAR>None of the scents around here stand out.<$12><$00>
+
+
+//……東<$00>
+...East<$00>
+
+
+//……西<$00>
+...West<$00>
+
+
+//……南<$00>
+...South<$00>
+
+
+//……北<$00>
+...North<$00>
+
+
+//…北東<$00>
+...North-east<$00>
+
+
+//…北西<$00>
+...North-west<$00>
+
+
+//…南東<$00>
+...South-east<$00>
+
+
+//…南西<$00>
+...South-west<$00>
+
+
+//<CLEAR>……<$1D><$00>
+<CLEAR>......<$1D><$00>
+
+
+//、…<$1D>に行けば<$00>
+! That's where we'll find a＿<$1D>.<$00>
+
+
+//直進<$00>
+For<$00>
+
+
+//右よ<$00>
+Right<$00>
+
+
+//左よ<$00>
+Left<$00>
+
+
+//後ろ<$00>
+Back<$00>
+
+
+//<CLEAR>……<$1D><$00>
+<CLEAR>......<$1D><$00>
+
+
+//、絶対に<$1D>∥<$00>
+wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
+
+
+//<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
+<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
+
+
+//<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
+<CLEAR>...Sorry. I don't have it in me today.<$12><$00>
+
+
+//運命の<$00>
+Fated＿<$00>
+
+
+//新しい<$00>
+New＿<$00>
+
+
+//素敵な<$00>
+Great＿<$00>
+
+
+//未知の<$00>
+Unknown＿<$00>
+
+
+//何か<$00>
+things＿<$00>
+
+
+//発見<$00>
+discoveries＿<$00>
+
+
+//お宝<$00>
+treasures＿<$00>
+
+
+//動物<$00>
+animals＿<$00>
+
+
+//に　出会える…<$00>
+could appear.<$00>
+
+
+//が　待ってる…<$00>
+await us...<$00>
+
+
+//気がするわ∥<$00>
+are there.<$00>
+
+
+//チャンスよ∥<$00>
+are in our grasp!<$00>
+
+
+//今しかないわ<$00>
+could slip through our fingers!<$00>
+
+
+//間違いなし∥<$00>
+are dead head!<$00>
+
+
+//\n<$1D><$1D><$1D>\n<$1D><$12>\n<CLEAR><$00>
 \n
-<$01>
-//売＿る
-Sell
-<$0E>
-//\n
-\n
-<$01>
-//登＿録
-Tame
-<$0E>
-//\n
-\n
-<$01>
-//やめる
-Exit
-<$0E>
-<$00>
+<$1D><$1D><$1D>\n
+<$1D><$12>\n
+<CLEAR><$00>
 
 
+//<CLEAR>自信があるの∥<$12><$00>
+<CLEAR>I'm sure of it!<$12><$00>
 
 
+//<CLEAR>自信は　ないけどね…<$12><$00>
+<CLEAR>Although, I'm not totally certain...<$12><$00>
 
 
-<CLEAR>
-//猟犬登録の制限３２匹を越えました\nよって、登録できません
-You have reached the 32 dog adoption limit.\n
-You cannot adopt any more dogs.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-You don't have any＿
-//<$1B>
-//イヌを　お持ちじゃないようですね
-dogs.
-<$12>
-<$00>
-
-
-
-
-
-
-//
-<$15>
-//Y猟犬屋／登＿録
-YDog／Tame
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//猟犬は太古より　人間の良きパートナー\nぜひ　あなたも　１頭いかがですか？\n
-Dogs have been man's best friend since\n
-ancient times.\n
-<$01>
-//取引する
-Shop
-<$0E>
-//／
-／
-<$01>
-//雑談する
-Chat
-<$0E>
-//／
-／
-<$01>
-//やめとく
-Exit
-<$0E>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//またの御利用を　お待ち申し上げます
-We look forward to your next visit.
-<$12>
-<$00>
-
-
-
-
-
-
-//
-<$15>
-//Y猟犬屋／買＿う
-YDog／Buy
-<$00>
-
-
-
-
-
-
-<CLEAR>
-
-<$00>
-
-
-
-
-<$04><$16><$15>
-//W
-W
-<$01>
-//猟犬LV
-Dog LVL＿
-<$1E>
-//02
-02
-<$1D><$02>
-//116
-116
-<$0E><$02>
-//216
-216
-<$1D><$1E>
-//39￥
-39￥
-<$00>
-
-
-
-
-
-
-//
-<$15>
-//Y猟犬屋／売＿る
-YDog／Sell
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//猟犬「
-Sell＿
-<$1D>
-//」を\n
-＿ for＿
-<$06><$1E><$04>
-//￥で売りますか？\n
-￥?\n
-<$01>
-//は＿い
-Yes
-<$0E>
-//／
-／
-<$01>
-//いいえ
-No
-<$0E>
-<$00>
-
-
-
-
-
-
-//クン、クンクン………？
-Sniff...sniff, sniff?
-<$12>
-\n
-<CLEAR>
-//とくに目新しい　ニオイは\nしないみたいよ
-None of the scents around here stand out.
-<$12>
-<$00>
-
-
-
-
-
-
-//……東
-...East
-<$00>
-
-
-
-
-
-
-//……西
-...West
-<$00>
-
-
-
-
-
-
-//……南
-...South
-<$00>
-
-
-
-
-
-
-//……北
-...North
-<$00>
-
-
-
-
-
-
-//…北東
-...North-east
-<$00>
-
-
-
-
-
-
-//…北西
-...North-west
-<$00>
-
-
-
-
-
-
-//…南東
-...South-east
-<$00>
-
-
-
-
-
-
-//…南西
-...South-west
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//……
-......
-<$1D>
-<$00>
-
-
-
-
-
-
-//、…
-! That's where we'll find a＿
-<$1D>
-//に行けば
-.
-<$00>
-
-
-
-
-
-
-//直進
-For
-<$00>
-
-
-
-
-
-
-//右よ
-Right
-<$00>
-
-
-
-
-
-
-//左よ
-Left
-<$00>
-
-
-
-
-
-
-//後ろ
-Back
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//……
-......
-<$1D>
-<$00>
-
-
-
-
-
-
-//、絶対に
-wards, got it? I'm sure we'll find a＿
-<$1D>
-//∥
-＿there!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//Sリンダは　「女の勘」を\nはたらかせた∥
-SLinda used her woman's intuition...
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//…ごめんね、\n今日は　勘がはたらかないわ…
-...Sorry. I don't have it in me today.
-<$12>
-<$00>
-
-
-
-
-
-
-//運命の
-Fated＿
-<$00>
-
-
-
-
-
-
-//新しい
-New＿
-<$00>
-
-
-
-
-
-
-//素敵な
-Great＿
-<$00>
-
-
-
-
-
-
-//未知の
-Unknown＿
-<$00>
-
-
-
-
-
-
-//何か
-things＿
-<$00>
-
-
-
-
-
-
-//発見
-discoveries＿
-<$00>
-
-
-
-
-
-
-//お宝
-treasures＿
-<$00>
-
-
-
-
-
-
-//動物
-animals＿
-<$00>
-
-
-
-
-
-
-//に　出会える…
-could appear.
-<$00>
-
-
-
-
-
-
-//が　待ってる…
-await us...
-<$00>
-
-
-
-
-
-
-//気がするわ∥
-are there.
-<$00>
-
-
-
-
-
-
-//チャンスよ∥
-are in our grasp!
-<$00>
-
-
-
-
-
-
-//今しかないわ
-could slip through our fingers!
-<$00>
-
-
-
-
-
-
-//間違いなし∥
-are dead head!
-<$00>
-
-
-
-
-
-
-//\n
-\n
-<$1D><$1D><$1D>
-//\n
-\n
-<$1D><$12>
-\n
-<CLEAR>
-//
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//自信があるの∥
-I'm sure of it!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//自信は　ないけどね…
-Although, I'm not totally certain...
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//絶対なんだから∥
-I'm absolutely certain!
-<$12>
-<$00>
-
-
-
-
+//<CLEAR>絶対なんだから∥<$12><$00>
+<CLEAR>I'm absolutely certain!<$12><$00>
 
 

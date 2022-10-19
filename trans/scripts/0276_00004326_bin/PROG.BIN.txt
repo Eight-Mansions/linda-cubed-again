@@ -113,2183 +113,814 @@ c180a0.obj
 
 
 #WRITE(PTR, $001E)
-//ホテル１Ｆ
-Hotel 1F＿
-<$00>
+//ホテル１Ｆ<$00>
+Hotel 1F＿<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
+//冬場はエサが少ないから　町のそばまで\n強い動物が　来てることがあるんだ\n油断は　禁物だよ<$12><$00>
+With little to hunt in winter, stronger animals tend to creep\n
+closer to towns.<$12><$00>
 
 
+//春先の　子連れのメスには\n手を出さないほうが　お利口だよ\n自分の命を　捨てて来るからね<$12><$00>
+Don't approach females in the early spring. They'll defend\n
+their cubs to the death.<$12><$00>
 
 
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
+//夏は　群れが大きくなってるから\n狩りには　もってこいの季節だね<$12>\n<CLEAR>ただ、欲をかくと　ベテランですら\n逃げ時を見誤って　大ケガする\n季節でも　あるわけなんだけどね<$12><$00>
+Flocks grow in size in the summer, making it the ideal hunting\n
+season.<$12>\n
+<CLEAR>Even veteran hunters get greedy and pay the price. (But\n
+THAT happens every season!)<$12><$00>
 
 
-
-
-
-
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-//冬場はエサが少ないから　町のそばまで\n強い動物が　来てることがあるんだ\n油断は　禁物だよ
-With little to hunt in winter, stronger\n
-animals tend to creep closer to towns.
-<$12>
-<$00>
-
-
-
-
-
-
-//春先の　子連れのメスには\n手を出さないほうが　お利口だよ\n自分の命を　捨てて来るからね
-Don't approach females in the early spring.\n
-They'll defend their cubs to the death.
-<$12>
-<$00>
-
-
-
-
-
-
-//夏は　群れが大きくなってるから\n狩りには　もってこいの季節だね
-Flocks grow in size in the summer, making it\n
-the ideal hunting season.
-<$12>
-\n
-<CLEAR>
-//ただ、欲をかくと　ベテランですら\n逃げ時を見誤って　大ケガする\n季節でも　あるわけなんだけどね
-Even veteran hunters get greedy and pay the\n
-price. (But THAT happens every season!)
-<$12>
-<$00>
-
-
-
-
-
-
-//秋は　サカリのついたオスに\n十分に　注意することだね\n連中、まともじゃないんだから
+//秋は　サカリのついたオスに\n十分に　注意することだね\n連中、まともじゃないんだから<$12><$00>
 Be careful around animals in heat.\n
-Males are often more aggressive in autumn\n
-because of it.
-<$12>
-<$00>
+Males are often more aggressive in autumn because of it.<$12><$00>
 
 
+//<CLEAR>４レベルかそこらで「野営」を\n覚えると　ここも用なしでしょうけど\n気分転換に　泊まりに来てくださいよ<$12><$00>
+<CLEAR>Even after you learn the Camp skill at LVL 4, hotels remain\n
+a great change of pace.<$12><$00>
 
 
+//この星、一番の不思議といえば\n何といっても「ビースチャン」だな<$12>\n<CLEAR>なにしろ　この星が発見された時に\n既にここにいた　正真正銘の人類、\nいわば　先住民なわけだが…<$12>\n<CLEAR>彼らの祖先が　いかな方法で　この星に\nたどりついたのか　全くわからんのだ\n連中、自動車すら知らんのだからなぁ<$12><$00>
+The humans we call Beastians are the biggest mystery on\n
+this planet.<$12>\n
+<CLEAR>They're "indigenous", already inhabiting this planet\n
+before its discovery.<$12>\n
+<CLEAR>No one knows if (or how) Beastians landed on Neo Kenya.\n
+They didn't even have cars!<$12><$00>
 
 
-<CLEAR>
-//４レベルかそこらで「野営」を\n覚えると　ここも用なしでしょうけど\n気分転換に　泊まりに来てくださいよ
-Even after you learn the Camp skill at LVL 4,\n
-hotels remain a great change of pace.
-<$12>
-<$00>
+//<CLEAR>月光の下で　お互いのぬくもりを\n確かめながらの　野営ってのも\nオツなもの　なんでしょうが…<$12>\n<CLEAR>たまに場所をかえるのも　イイらしくて\n家があるのに　ワザワザ泊まりにくる\nご夫婦も　いたりするんですよ<$12><$00>
+<CLEAR>Ah, sleeping in the moonlight, with nothing but the warmth\n
+of the one you love...<$12>\n
+<CLEAR>Nothing beats a house, but camping gives couples a\n
+good change of scenery. So romantique!<$12><$00>
 
 
+//<CLEAR>あの…\nはじめまして、スペクターです\nわざわざ　すみません…<$12>\n<CLEAR>足が　ちょっと不自由なものですから\n座ったままで　失礼します…<$12>\n<CLEAR>あの…　野犬の群れのリーダーで\n「ファング」と　呼ばれている\n犬を　ご存知ですか…？<$12>\n<CLEAR>実は　お願いというのは　ファングを\n倒して欲しいのです！<$12><$00>
+<CLEAR>Uhm... My name is Spectre. I'm sorry for bothering you.<$12>\n
+<CLEAR>And I'm sorry for not standing too. I have a bit of a\n
+bad leg.<$12>\n
+<CLEAR>Uhm... Have you heard of a pack of dogs with an alpha named\n
+"Fang"?<$12>\n
+<CLEAR>Actually, I was hoping I could ask you to kill Fang for me.<$12><$00>
 
 
+//<CLEAR>あの犬の犠牲者は　増えるばかりです\n私の主人と　二人の息子も\nファングに　なぶり殺しにされました<$12>\n<CLEAR>できれば　私が　この手で…∥\nだけど　見ての通り、私はこんな体…<$12>\n<CLEAR>お願いです！　あいつを、ファングを\n地獄へ　突き落としてやって∥\n<$01>任せなさい<$0E>／<$01>お礼は何？<$0E>／<$01>お断りです<$0E><$00>
+<CLEAR>Fang reaps more victims by the day. He mauled my\n
+husband and two sons to death.<$12>\n
+<CLEAR>I'd kill that dog with my bare hands, if I could. But, as you\n
+can see, I can't.<$12>\n
+<CLEAR>I'm begging you! Send Fang to Hell where he belongs!\n
+<$01>Okay!<$0E>／<$01>And my reward?<$0E>／<$01>I can't.<$0E><$00>
 
-
-//この星、一番の不思議といえば\n何といっても「ビースチャン」だな
-The humans we call Beastians are the biggest\n
-mystery on this planet.
-<$12>
-\n
-<CLEAR>
-//なにしろ　この星が発見された時に\n既にここにいた　正真正銘の人類、\nいわば　先住民なわけだが…
-They're "indigenous", already inhabiting this\n
-planet before its discovery.
-<$12>
-\n
-<CLEAR>
-//彼らの祖先が　いかな方法で　この星に\nたどりついたのか　全くわからんのだ\n連中、自動車すら知らんのだからなぁ
-No one knows if (or how) Beastians landed on\n
-Neo Kenya. They didn't even have cars!
-<$12>
-<$00>
 
+//<CLEAR>ありがとう　ございます∥\nあの…　お礼といっては　何ですが…<$12><$00>
+<CLEAR>Thank you so much!\n
+Uhm... As for your reward...<$12><$00>
 
 
+//<CLEAR>それくらいしか　私には…<$12><$00>
+<CLEAR>I don't have a lot, but...<$12><$00>
 
 
+//<CLEAR>…と言っても　ダメでしょうね\nでも　頼れるのは…<$12>\n<CLEAR>あなた方だけなの…∥<$12><$00>
+<CLEAR>...still, won't you do it?\n
+I'm counting on you...<$12>\n
+<CLEAR>You're my only hope!<$12><$00>
 
-<CLEAR>
-//月光の下で　お互いのぬくもりを\n確かめながらの　野営ってのも\nオツなもの　なんでしょうが…
-Ah, sleeping in the moonlight, with nothing\n
-but the warmth of the one you love...
-<$12>
-\n
-<CLEAR>
-//たまに場所をかえるのも　イイらしくて\n家があるのに　ワザワザ泊まりにくる\nご夫婦も　いたりするんですよ
-Nothing beats a house, but camping gives\n
-couples a good change of scenery. So\n
-romantique!
-<$12>
-<$00>
 
+//<CLEAR>ファングを討ち取った　証拠の品と\n引き換えに　ミナゴの教会の３階にある\n「禁断の部屋」の鍵をさしあげます<$12><$00>
+<CLEAR>Prove Fang's death, and you'll get the key to the secret\n
+room in Minago church.<$12><$00>
 
 
+//<CLEAR>あの…　お願いします\nファングの息の根を　止めて∥\n地獄へ　突き落としてやって∥<$12>\n<CLEAR>頼れるのは　あなた方しか　いないの<$12><$00>
+<CLEAR>Uhm... Please, put a stop to Fang. Send that dog to Hell!<$12>\n
+<CLEAR>I'll never rest with him alive.\n
+You're my only hope!<$12><$00>
 
 
+//<CLEAR>あの…<$12>\n<CLEAR>もしかして　その大きな牙は…￠<$12>\n<CLEAR>………………………∥<$12>\n<CLEAR>ヤったんですね！　ヤったんですね∥∥\nファングは　もう、この世には\nいないのですね∥<$12>\n<CLEAR>あぁぁぁ…\nこれで　主人と子供も　浮かばれる…\n本当にありがとう∥　ありがとう∥<$12>\n<CLEAR>あの…<$12>\n<CLEAR>これは　ミナゴの教会の３階にある\n「禁断の部屋」の鍵です\nどうか　受け取ってください！<$12><$00>
+<CLEAR>Uhm...<$12>\n
+<CLEAR>This fang, could it be...?<$12>\n
+<CLEAR>......!<$12>\n
+<CLEAR>You did it?! YOU DID IT!\n
+At last, Fang is gone from the world!<$12>\n
+<CLEAR>Aaah, now my husband and sons can rest in peace. I'm so,\n
+so grateful!<$12>\n
+<CLEAR>Uhm...<$12>\n
+<CLEAR>This is the key to the secret room on the 3rd floor of\n
+Minago Church.<$12><$00>
 
-<CLEAR>
-//あの…\nはじめまして、スペクターです\nわざわざ　すみません…
-Uhm... My name is Spectre. I'm sorry for\n
-bothering you.
-<$12>
-\n
-<CLEAR>
-//足が　ちょっと不自由なものですから\n座ったままで　失礼します…
-And I'm sorry for not standing too. I have a\n
-bit of a bad leg.
-<$12>
-\n
-<CLEAR>
-//あの…　野犬の群れのリーダーで\n「ファング」と　呼ばれている\n犬を　ご存知ですか…？
-Uhm... Have you heard of a pack of dogs with\n
-an alpha named "Fang"?
-<$12>
-\n
-<CLEAR>
-//実は　お願いというのは　ファングを\n倒して欲しいのです！
-Actually, I was hoping I could ask you to\n
-kill Fang for me.
-<$12>
-<$00>
 
+//<CLEAR><$19>1<$15>Sケンは「禁断の鍵」を　受け取った！<$14><$12><$00>
+<CLEAR><$19><$15>SKen acquired the Secret Key!<$14><$12><$00>
 
 
+//<CLEAR>…………………………<$12>\n<CLEAR>くくくくく…　ファング…<$12><$00>
+<CLEAR>......<$12>\n
+<CLEAR>Oh, Fang...\n
+Hee hee hee...<$12><$00>
 
 
+//<CLEAR>ちょっと　お客さん∥<$12><$00>
+<CLEAR>Please wait, Sir!<$12><$00>
 
-<CLEAR>
-//あの犬の犠牲者は　増えるばかりです\n私の主人と　二人の息子も\nファングに　なぶり殺しにされました
-Fang reaps more victims by the day. He mauled\n
-my husband and two sons to death.
-<$12>
-\n
-<CLEAR>
-//できれば　私が　この手で…∥\nだけど　見ての通り、私はこんな体…
-I'd kill that dog with my bare hands, if I\n
-could. But, as you can see, I can't.
-<$12>
-\n
-<CLEAR>
-//お願いです！　あいつを、ファングを\n地獄へ　突き落としてやって∥\n
-I'm begging you! Send Fang to Hell where he\n
-belongs!\n
-<$01>
-//任せなさい
-Okay!
-<$0E>
-//／
-／
-<$01>
-//お礼は何？
-And my reward?
-<$0E>
-//／
-／
-<$01>
-//お断りです
-I can't.
-<$0E>
-<$00>
 
+//<CLEAR>最近　ちょくちょく　奥の客室に\n出入りしてるみたいだけどサ…\nあのサ…、言いにくいんだけどね…<$12><$00>
+<CLEAR>Forgive me if this is dark, but I noticed you going in and\n
+out of a certain room.<$12><$00>
 
 
-
-
-
-<CLEAR>
-//ありがとう　ございます∥\nあの…　お礼といっては　何ですが…
-Thank you so much!\n
-Uhm... As for your reward...
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//それくらいしか　私には…
-I don't have a lot, but...
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//…と言っても　ダメでしょうね\nでも　頼れるのは…
-...still, won't you do it?\n
-I'm counting on you...
-<$12>
-\n
-<CLEAR>
-//あなた方だけなの…∥
-You're my only hope!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ファングを討ち取った　証拠の品と\n引き換えに　ミナゴの教会の３階にある\n「禁断の部屋」の鍵をさしあげます
-Prove Fang's death, and you'll get the key to\n
-the secret room in Minago church.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//あの…　お願いします\nファングの息の根を　止めて∥\n地獄へ　突き落としてやって∥
-Uhm... Please, put a stop to Fang. Send that\n
-dog to Hell!
-<$12>
-\n
-<CLEAR>
-//頼れるのは　あなた方しか　いないの
-I'll never rest with him alive.\n
-You're my only hope!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//あの…
-Uhm...
-<$12>
-\n
-<CLEAR>
-//もしかして　その大きな牙は…￠
-This fang, could it be...?
-<$12>
-\n
-<CLEAR>
-//………………………∥
-......!
-<$12>
-\n
-<CLEAR>
-//ヤったんですね！　ヤったんですね∥∥\nファングは　もう、この世には\nいないのですね∥
-You did it?! YOU DID IT!\n
-At last, Fang is gone from the world!
-<$12>
-\n
-<CLEAR>
-//あぁぁぁ…\nこれで　主人と子供も　浮かばれる…\n本当にありがとう∥　ありがとう∥
-Aaah, now my husband and sons can rest in\n
-peace. I'm so, so grateful!
-<$12>
-\n
-<CLEAR>
-//あの…
-Uhm...
-<$12>
-\n
-<CLEAR>
-//これは　ミナゴの教会の３階にある\n「禁断の部屋」の鍵です\nどうか　受け取ってください！
-This is the key to the secret room on the 3rd\n
-floor of Minago Church.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//Sケンは「禁断の鍵」を　受け取った！
-SKen acquired the Secret Key!
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//…………………………
-......
-<$12>
-\n
-<CLEAR>
-//くくくくく…　ファング…
-Oh, Fang...\n
-Hee hee hee...
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ちょっと　お客さん∥
-Please wait, Sir!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//最近　ちょくちょく　奥の客室に\n出入りしてるみたいだけどサ…\nあのサ…、言いにくいんだけどね…
-Forgive me if this is dark, but I noticed you\n
-going in and out of a certain room.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//奥の部屋、出るんだよ　女の幽霊がサ…\n野犬の群れに　ダンナと子供を\n目の前で　食い殺されたんだって…
-That room is haunted by the ghost of a woman\n
-whose family was killed by a wild dog.
-<$12>
-\n
-<CLEAR>
-//自分は幸い、足をかまれただけで\n済んだらしいんだけど　その後\nあの部屋で　首を吊ってくれてよぉ…
-She only made off with a leg wound in that\n
-attack, but she hung herself in that room.
-<$12>
-\n
-<CLEAR>
-//ミナゴの教会の尼僧だとか　聞いたけど\nまーだ　成仏できないらしくて…\nまいるよな、まったく…！
-I heard she was a nun in Minago. Sadly, I\n
-doubt her soul will ever rest in peace.
-<$12>
-<$00>
-
-
-
-
+//<CLEAR>奥の部屋、出るんだよ　女の幽霊がサ…\n野犬の群れに　ダンナと子供を\n目の前で　食い殺されたんだって…<$12>\n<CLEAR>自分は幸い、足をかまれただけで\n済んだらしいんだけど　その後\nあの部屋で　首を吊ってくれてよぉ…<$12>\n<CLEAR>ミナゴの教会の尼僧だとか　聞いたけど\nまーだ　成仏できないらしくて…\nまいるよな、まったく…！<$12><$00>
+<CLEAR>That room is haunted by the ghost of a woman whose\n
+family was killed by a wild dog.<$12>\n
+<CLEAR>She only made off with a leg wound in that attack, but she\n
+hung herself in that room.<$12>\n
+<CLEAR>I heard she was a nun in Minago. Sadly, I doubt her soul\n
+will ever rest in peace.<$12><$00>
 
 
 #WRITE(PTR, $0020)
-//ホテル２Ｆ酒場
-Hotel 2F Bar＿
-<$00>
+//ホテル２Ｆ酒場<$00>
+Hotel 2F Bar＿<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
+//<CLEAR>多少、力がつくまでは　南の方…\nとくに　Ｑ<$06>-17<$04>のカラゴラムには\n近づくなよ！　まだ命は惜しいだろ？<$12>\n<CLEAR>あそこは　野犬の巣らしいゼ\nどうしても　猟犬が欲しいってんなら\n店で買った<$1B>イヌを　登録すればいいよ<$12><$00>
+<CLEAR>If you value your life, avoid Karhagolem.\n
+That's south of here at Q<$06>-17<$04>!<$12>\n
+<CLEAR>They animals there are too savage!\n
+If you need backup, go catch a＿dog first!<$12><$00>
 
 
+//■～　■～　■■～<$12><$00>
+■～　■～　■■～<$12><$00>
 
 
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
+//<CLEAR>私、アンジェラ！　ぼうやのために\n１曲、歌わせてくれる？\n<$01>聞かせてくれ<$0E>／<$01>次の機会にね<$0E><$00>
+<CLEAR>I'm Angela! Care for a song, sweetheart?\n
+<$01>Yes, please!<$0E>／<$01>Maybe next time.<$0E><$00>
 
 
+//<CLEAR>あら…　男と女の出会いには\n次は　ないかもしれなくてよ<$12><$00>
+<CLEAR>Ah, but in a star-crossed world like ours, are "next\n
+times" ever so certain?<$12><$00>
 
 
+//<CLEAR>チップは見栄を張るものよ■\n持金<$1E>40￥→チップ<$01><$1E>40￥<$00>
+<CLEAR>Don't forget to tip!■\n
+<$1E>40￥→<$01><$1E>40<$00>
 
 
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
+//<CLEAR><$06><$1E><$04>￥ね？\n<$01>とっといてよ<$0E>／<$01>やっぱ返して<$0E><$00>
+<CLEAR><$06><$1E><$04>￥？\n
+<$01>It's all yours!<$0E>／<$01>Sike!<$0E><$00>
 
 
+//アンジェラの歌って　ステキでしょ？\nぼうやも　リクエストしてちょうだい\nチップは「気持ち」でいいからサ<$12><$00>
+Angela's song is wonderful, isn't it? I say sit back, relax\n
+and never forget to tip.<$12><$00>
 
 
+//アンジェラの歌を聞くと　故郷のママを\n思い出して　泣けてくるんだよなぁ<$12><$00>
+Whenever I hear Angela sing, I remember my mother\n
+back home and I start crying.<$12><$00>
 
 
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
+//大したモンだよ、アンジェラは∥\n持ち歌１曲で　客を満足させられる\n歌手なんて　彼女だけだね<$12><$00>
+Angela's a huge deal! She's the only singer who can win a\n
+crowd over with any one song!<$12><$00>
 
 
+//アンジェラの歌声を　聞いているとサ\nいつの間にか　眠っちまうんだ…\nまるで　揺りカゴの中にいるみたいサ<$12><$00>
+When Angela sings, before I know it, I fall asleep. It's like\n
+I'm rocked by her lullaby.<$12><$00>
 
 
+//死んだ　おふくろのニオイを\n思い出したくて　アンジェラの歌を\n俺は　聞きに来るんだ…<$12><$00>
+I came to listen to Angela's song. It helps me recall the smell\n
+of my late mother.<$12><$00>
 
 
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
+//人生から　逃げだしたくなった時\nアンジェラの歌が　恋しくなるのサ<$12><$00>
+In times I wanted to escape from my life, I knew I'd miss\n
+Angela's music.<$12><$00>
 
 
+//ママ…　俺のことを捨てたママ…\nアンジェラの歌を　聞いてる間だけは\nママのことを　許せる気がするよ<$12><$00>
+Mommy, why did you leave? Why is Angela's song the one\n
+thing that helps me forgive you?<$12><$00>
 
 
+//アンジェラ∥　もう一回歌ってくれ∥\n俺にはもったいない　最高の母さんと\n人間のクズの　最低の俺のために…<$12><$00>
+Angela, sing for us one more time! For me, the human scum\n
+of the world who was too good for the greatest mother\n
+alive!<$12><$00>
 
 
-<CLEAR>
-//多少、力がつくまでは　南の方…\nとくに　Ｑ
-If you value your life, avoid Karhagolem.\n
-That's south of here at Q
-<$06>
-//-17
--17
-<$04>
-//のカラゴラムには\n近づくなよ！　まだ命は惜しいだろ？
-!
-<$12>
-\n
-<CLEAR>
-//あそこは　野犬の巣らしいゼ\nどうしても　猟犬が欲しいってんなら\n店で買った
-They animals there are too savage!\n
-If you need backup, go catch a＿
-//<$1B>
-//イヌを　登録すればいいよ
-dog first!
-<$12>
-<$00>
-
-
-
-
-
-
-//■～　■～　■■～
-■～　■～　■■～
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//私、アンジェラ！　ぼうやのために\n１曲、歌わせてくれる？\n
-I'm Angela! Care for a song, sweetheart?\n
-<$01>
-//聞かせてくれ
-Yes, please!
-<$0E>
-//／
-／
-<$01>
-//次の機会にね
-Maybe next time.
-<$0E>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//あら…　男と女の出会いには\n次は　ないかもしれなくてよ
-Ah, but in a star-crossed world like ours,\n
-are "next times" ever so certain?
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//チップは見栄を張るものよ■\n持金
-Don't forget to tip!■\n
-<$1E>
-//40￥→チップ
-40￥→
-<$01><$1E>
-//40￥
-40
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$06><$1E><$04>
-//￥ね？\n
-￥？\n
-<$01>
-//とっといてよ
-It's all yours!
-<$0E>
-//／
-／
-<$01>
-//やっぱ返して
-Sike!
-<$0E>
-<$00>
-
-
-
-
-
-
-//アンジェラの歌って　ステキでしょ？\nぼうやも　リクエストしてちょうだい\nチップは「気持ち」でいいからサ
-Angela's song is wonderful, isn't it? I say\n
-sit back, relax and never forget to tip.
-<$12>
-<$00>
-
-
-
-
-
-
-//アンジェラの歌を聞くと　故郷のママを\n思い出して　泣けてくるんだよなぁ
-Whenever I hear Angela sing, I remember my\n
-mother back home and I start crying.
-<$12>
-<$00>
-
-
-
-
-
-
-//大したモンだよ、アンジェラは∥\n持ち歌１曲で　客を満足させられる\n歌手なんて　彼女だけだね
-Angela's a huge deal! She's the only singer\n
-who can win a crowd over with any one song!
-<$12>
-<$00>
-
-
-
-
-
-
-//アンジェラの歌声を　聞いているとサ\nいつの間にか　眠っちまうんだ…\nまるで　揺りカゴの中にいるみたいサ
-When Angela sings, before I know it, I fall\n
-asleep. It's like I'm rocked by her lullaby.
-<$12>
-<$00>
-
-
-
-
-
-
-//死んだ　おふくろのニオイを\n思い出したくて　アンジェラの歌を\n俺は　聞きに来るんだ…
-I came to listen to Angela's song. It helps\n
-me recall the smell of my late mother.
-<$12>
-<$00>
-
-
-
-
-
-
-//人生から　逃げだしたくなった時\nアンジェラの歌が　恋しくなるのサ
-In times I wanted to escape from my life, I\n
-knew I'd miss Angela's music.
-<$12>
-<$00>
-
-
-
-
-
-
-//ママ…　俺のことを捨てたママ…\nアンジェラの歌を　聞いてる間だけは\nママのことを　許せる気がするよ
-Mommy, why did you leave? Why is Angela's\n
-song the one thing that helps me forgive you?
-<$12>
-<$00>
-
-
-
-
-
-
-//アンジェラ∥　もう一回歌ってくれ∥\n俺にはもったいない　最高の母さんと\n人間のクズの　最低の俺のために…
-Angela, sing for us one more time! For me,\n
-the human scum of the world who was too good\n
-for the greatest mother alive!
-<$12>
-<$00>
-
-
-
-
-
-
-//あれ？　あんた　階段から落っこちて\n死んだって…　ま、まさか幽霊？\n
+//あれ？　あんた　階段から落っこちて\n死んだって…　ま、まさか幽霊？\n<$01>幽霊だぞォ～<$0E>／<$01>足ならあるよ<$0E><$00>
 Ken?! How are you standing?! Are you a ghost?\n
-<$01>
-//幽霊だぞォ～
-Yes! Boo～!
-<$0E>
-//／
-<$01>
-//足ならあるよ
-Ghosts don't have legs.
-<$0E>
-<$00>
+<$01>Yes! Boo～!<$0E><$01>Ghosts don't have legs.<$0E><$00>
 
 
+//<CLEAR>あっ　そう！　どっちでもいいけど\n私が　ここで　サボってること\n隊長には　内緒にしといてね<$12>\n<CLEAR>よろしく∥<$12><$00>
+<CLEAR>Oh, gotcha! Well, anyhow, I'm playing hookie. Don't tell the\n
+captain, okay?<$12>\n
+<CLEAR>Or I won't stand...a ghost of a chance!<$12><$00>
 
 
-
-
-<CLEAR>
-//あっ　そう！　どっちでもいいけど\n私が　ここで　サボってること\n隊長には　内緒にしといてね
-Oh, gotcha! Well, anyhow, I'm playing hookie.\n
-Don't tell the captain, okay?
-<$12>
-\n
-<CLEAR>
-//よろしく∥
-Or I won't stand...a ghost of a chance!
-<$12>
-<$00>
-
-
-
-
-
-
-//「ファング」って名を\n耳にしたことは　あるかい？
-Have you heard the name "Fang" before?
-<$12>
-\n
-<CLEAR>
-//この辺りの野犬の　ボスでな\nずるくて　凶暴、決して捕まらないと\n悪いほうに　三拍子そろっとる奴さ
-Fang is the sly, ruthless alpha in a stray\n
-pack of dogs lurking the area.
-<$12>
-\n
-<CLEAR>
-//数年前にも　ミナゴの家族が\n惨殺されてな…　誰のどこだか、もう…\nありゃ　本当にひどかったよ…
-I don't recall whom, but Fang mauled a Minago\n
-family years back. Isn't that awful?
-<$12>
-<$00>
-
-
-
-
+//「ファング」って名を\n耳にしたことは　あるかい？<$12>\n<CLEAR>この辺りの野犬の　ボスでな\nずるくて　凶暴、決して捕まらないと\n悪いほうに　三拍子そろっとる奴さ<$12>\n<CLEAR>数年前にも　ミナゴの家族が\n惨殺されてな…　誰のどこだか、もう…\nありゃ　本当にひどかったよ…<$12><$00>
+Have you heard the name "Fang" before?<$12>\n
+<CLEAR>Fang is the sly, ruthless alpha in a stray pack of dogs\n
+lurking the area.<$12>\n
+<CLEAR>I don't recall whom, but Fang mauled a Minago family years\n
+back. Isn't that awful?<$12><$00>
 
 
 #WRITE(PTR, $0022)
-//
-<$15>
-//Yホテル
-YHotel
-<$00>
+//<$15>Yホテル<$00>
+<$15>YHotel<$00>
 
 
+//<CLEAR>お気をつけて！<$12><$00>
+<CLEAR>Take care!<$12><$00>
 
 
+//<CLEAR>野宿は　危険ですよ<$12><$00>
+<CLEAR>Camping's dangerous, you know.<$12><$00>
 
 
-<CLEAR>
-//お気をつけて！
-Take care!
-<$12>
-<$00>
+//<CLEAR>いらっしゃいませ！　<$1D><$06><$1E><$04><$14>￥で\nお部屋が　用意できますよ\n<$01>宿泊する<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
+<CLEAR>Welcome! Would you like\n
+a room for＿<$1D><$06><$1E><$04><$14>￥?\n
+<$01>Stay<$0E>／<$01>Chat<$0E>／<$01>Exit<$0E><$00>
 
 
+//<CLEAR>お金が　足りないようですね<$12><$00>
+<CLEAR>You can't afford this, can you.<$12><$00>
 
 
+//<CLEAR>お客様、戦えなくなった　猟犬のＨＰは\n宿泊や野営じゃ　戻りませんけど…\n<$01>知ってるよ<$0E>／<$01>ホントかよ<$0E><$00>
+<CLEAR>I'm sorry, but dogs won't recover HP in hotels or camps.\n
+<$01>I know that<$0E>／<$01>Really?!<$0E><$00>
 
 
-<CLEAR>
-//野宿は　危険ですよ
-Camping's dangerous, you know.
-<$12>
-<$00>
+//<CLEAR>さしでがましいことを　申し上げ\nたいへん　失礼いたしました\nでは　ごゆっくり<$12><$00>
+<CLEAR>Ah, I see. Please forgive my outburst.<$12><$00>
 
 
+//<CLEAR>専門のお医者さまを　お捜しになって\nなるべく早く\n治療して　さしあげてください<$12><$00>
+<CLEAR>Yes. Always seek a vet treat your dogs.<$12><$00>
 
 
+//<$15>YＢＡＲ<$00>
+<$15>YBar<$00>
 
 
-<CLEAR>
-//いらっしゃいませ！　
-Welcome! Would you like\n
-a room for＿
-<$1D><$06><$1E><$04><$14>
-//￥で\nお部屋が　用意できますよ\n
-￥?\n
-<$01>
-//宿泊する
-Stay
-<$0E>
-//／
-／
-<$01>
-//雑談する
-Chat
-<$0E>
-//／
-／
-<$01>
-//やめとく
-Exit
-<$0E>
-<$00>
+//<CLEAR>何になさいます？　どれでも<$1D><$06><$1E><$04><$14>￥です\n<$01><$1D><$1D><$02>98<$0E>／<$01><$1D><$1D><$02>210<$0E>\n<$01><$1D><$1D><$02>98<$0E>／<$01>どれもいらない<$0E><$00>
+<CLEAR>For＿<$1D><$06><$1E><$04><$14>￥, what'll it be?\n
+<$01><$1D><$1D><$02>98<$0E>／<$01><$1D><$1D><$02>210<$0E>\n
+<$01><$1D><$1D><$02>98<$0E>／<$01>No thanks.<$0E><$00>
 
 
+//<CLEAR>また、どうぞ<$12><$00>
+<CLEAR>Come again!<$12><$00>
 
 
+//<CLEAR>ぼうや…\nタダ酒は　後で高くつくのが\n大人の世界の常識だぜ<$12><$00>
+<CLEAR>Careful, kiddo. Everyone pays the price for cheap liquor\n
+sooner or later.<$12><$00>
 
 
-<CLEAR>
-//お金が　足りないようですね
-You can't afford this, can you.
-<$12>
-<$00>
+//<CLEAR>ケンは<$1D><$1D>を\nひといきに飲み干した<$12><$00>
+<CLEAR>Ken downed the\n
+<$1D><$1D>\n
+in one gulp.<$12><$00>
 
 
+//<CLEAR>ケンの\n<$06>HP <$04>全回復∥<$12><$00>
+<CLEAR>Ken's＿<$06>HP<$04>＿recovered fully!<$12><$00>
 
 
+//<CLEAR>ケンの\n<$06>HP <$1E><$04>回復∥<$12><$00>
+<CLEAR>Ken's＿<$06>HP recovered by＿<$1E><$04>!<$12><$00>
 
 
-<CLEAR>
-//お客様、戦えなくなった　猟犬のＨＰは\n宿泊や野営じゃ　戻りませんけど…\n
-I'm sorry, but dogs won't recover HP in\n
-hotels or camps.\n
-<$01>
-//知ってるよ
-I know that
-<$0E>
-//／
-／
-<$01>
-//ホントかよ
-Really?!
-<$0E>
-<$00>
+//<CLEAR>もう　１杯いかがですか？\n<$01><$1D><$1D><$02>98<$0E>／<$01><$1D><$1D><$02>210<$0E>\n<$01><$1D><$1D><$02>98<$0E>／<$01>もう、いらない<$0E><$00>
+<CLEAR>Care for another?\n
+<$01><$1D><$1D><$02>98<$0E>／<$01><$1D><$1D><$02>210<$0E>\n
+<$01><$1D><$1D><$02>98<$0E>／<$01>No thanks.<$0E><$00>
 
 
+//ロック<$00>
+＿shot<$00>
 
 
+//ジュース<$00>
+＿juice<$00>
 
 
-<CLEAR>
-//さしでがましいことを　申し上げ\nたいへん　失礼いたしました\nでは　ごゆっくり
-Ah, I see. Please forgive my outburst.
-<$12>
-<$00>
+//ミルク<$00>
+＿milk<$00>
 
 
+//スープ<$00>
+＿soup<$00>
 
 
+//パンチ<$00>
+＿punch<$00>
 
 
-<CLEAR>
-//専門のお医者さまを　お捜しになって\nなるべく早く\n治療して　さしあげてください
-Yes. Always seek a vet treat your dogs.
-<$12>
-<$00>
+//カクテル<$00>
+＿cocktail<$00>
 
 
+//茶<$00>
+＿tea<$00>
 
 
+//コーラ<$00>
+＿malt<$00>
 
 
-//
-<$15>
-//YＢＡＲ
-YBar
-<$00>
+//ビール<$00>
+＿beer<$00>
 
 
+//サワー<$00>
+＿shake<$00>
 
 
+//ソーダ<$00>
+＿soda<$00>
 
 
-<CLEAR>
-//何になさいます？　どれでも
-For＿
-<$1D><$06><$1E><$04><$14>
-//￥です\n
-￥, what'll it be?\n
-<$01><$1D><$1D><$02>
-//98
-98
-<$0E>
-//／
-／
-<$01><$1D><$1D><$02>
-//210
-210
-<$0E>
-//\n
+//焼酎<$00>
+＿shochu<$00>
+
+
+//クン、クンクン………？<$12>\n<CLEAR><$1D>のニオイが　するね\nそういえば、<$1D>食まだだっけ…<$12><$00>
+Sniff...sniff, sniff?<$12>\n
+<CLEAR><$1D>＿scent's filling the air. You know, I could go for\n
+some＿<$1D>＿!<$12><$00>
+
+
+//卵焼き<$00>
+fried eggs<$00>
+
+
+//カレー<$00>
+curry<$00>
+
+
+//焼き肉<$00>
+Neo Korean BBQ<$00>
+
+
+//唐あげ<$00>
+karaage<$00>
+
+
+//お菓子<$00>
+candy<$00>
+
+
+//バナナ<$00>
+banana<$00>
+
+
+//フライ<$00>
+Neo French fries<$00>
+
+
+//焼き魚<$00>
+grilled fish<$00>
+
+
+//トマト<$00>
+tomato<$00>
+
+
+//バター<$00>
+butter<$00>
+
+
+//ソース<$00>
+sauce<$00>
+
+
+//スープ<$00>
+＿soup<$00>
+
+
+//ピラフ<$00>
+pilaf<$00>
+
+
+//バニラ<$00>
+vanilla<$00>
+
+
+//キムチ<$00>
+kimchi<$00>
+
+
+//チーズ<$00>
+cheese<$00>
+
+
+//朝<$00>
+breakfast<$00>
+
+
+//昼<$00>
+lunch<$00>
+
+
+//夕<$00>
+dinner<$00>
+
+
+//……東<$00>
+...East<$00>
+
+
+//……西<$00>
+...West<$00>
+
+
+//……南<$00>
+...South<$00>
+
+
+//……北<$00>
+...North<$00>
+
+
+//…北東<$00>
+...North-east<$00>
+
+
+//…北西<$00>
+...North-west<$00>
+
+
+//…南東<$00>
+...South-east<$00>
+
+
+//…南西<$00>
+...South-west<$00>
+
+
+//<CLEAR>……<$1D><$00>
+<CLEAR>......<$1D><$00>
+
+
+//、…<$1D>に行けば<$00>
+! That's where we'll find a＿<$1D>.<$00>
+
+
+//直進<$00>
+For<$00>
+
+
+//右よ<$00>
+Right<$00>
+
+
+//左よ<$00>
+Left<$00>
+
+
+//後ろ<$00>
+Back<$00>
+
+
+//<CLEAR>……<$1D><$00>
+<CLEAR>......<$1D><$00>
+
+
+//、絶対に<$1D>∥<$00>
+wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
+
+
+//<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
+<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
+
+
+//<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
+<CLEAR>...Sorry. I don't have it in me today.<$12><$00>
+
+
+//運命の<$00>
+Fated＿<$00>
+
+
+//新しい<$00>
+New＿<$00>
+
+
+//素敵な<$00>
+Great＿<$00>
+
+
+//未知の<$00>
+Unknown＿<$00>
+
+
+//何か<$00>
+things＿<$00>
+
+
+//発見<$00>
+discoveries＿<$00>
+
+
+//お宝<$00>
+treasures＿<$00>
+
+
+//動物<$00>
+animals＿<$00>
+
+
+//に　出会える…<$00>
+could appear.<$00>
+
+
+//が　待ってる…<$00>
+await us...<$00>
+
+
+//気がするわ∥<$00>
+are there.<$00>
+
+
+//チャンスよ∥<$00>
+are in our grasp!<$00>
+
+
+//今しかないわ<$00>
+could slip through our fingers!<$00>
+
+
+//間違いなし∥<$00>
+are dead head!<$00>
+
+
+//\n<$1D><$1D><$1D>\n<$1D><$12>\n<CLEAR><$00>
 \n
-<$01><$1D><$1D><$02>
-//98
-98
-<$0E>
-//／
-／
-<$01>
-//どれもいらない
-No thanks.
-<$0E>
-<$00>
+<$1D><$1D><$1D>\n
+<$1D><$12>\n
+<CLEAR><$00>
 
 
+//<CLEAR>自信があるの∥<$12><$00>
+<CLEAR>I'm sure of it!<$12><$00>
 
 
+//<CLEAR>自信は　ないけどね…<$12><$00>
+<CLEAR>Although, I'm not totally certain...<$12><$00>
 
 
-<CLEAR>
-//また、どうぞ
-Come again!
-<$12>
-<$00>
+//<CLEAR>絶対なんだから∥<$12><$00>
+<CLEAR>I'm absolutely certain!<$12><$00>
 
 
+//<$15>Yスケジュール<$00>
+<$15>YMemo＿<$00>
 
 
+//<CLEAR>スケジュールは何もありません<$12><$00>
+<CLEAR>There is nothing on schedule.<$12><$00>
 
 
-<CLEAR>
-//ぼうや…\nタダ酒は　後で高くつくのが\n大人の世界の常識だぜ
-Careful, kiddo. Everyone pays the price for\n
-cheap liquor sooner or later.
-<$12>
-<$00>
+//成功終了<$00>
+Completed!<$00>
 
 
+//期限切れ<$00>
+Expired!<$00>
 
 
+//あと<$1E>季節<$00>
+In＿<$1E>＿seasons<$00>
 
 
-<CLEAR>
-//ケンは
-Ken downed the\n
-<$1D><$1D>
-//を\nひといきに飲み干した
-\n
-in one gulp.
-<$12>
-<$00>
+//あと<$1E>年<$1E>季節<$00>
+Deadline:＿<$1E>Y/<$1E>S<$00>
 
 
+//あと<$1E>年<$00>
+In＿<$1E>＿years<$00>
 
 
+//<$16><$01>◇<$0E><$1D><$02>190<$1D><$00>
+<$16><$01>◇<$0E><$1D><$02><$1D><$00>
 
 
-<CLEAR>
-//ケンの\n
-Ken's＿
-<$06>
-//HP 
-HP
-<$04>
-//全回復∥
-＿recovered fully!
-<$12>
-<$00>
+//ファングを倒す<$00>
+Slay Fang<$00>
 
 
+//パンハイムからの依頼<$00>
+Assist Panheim<$00>
 
 
+//<$1B>カメの卵を手に入れる<$00>
+Snatch Turtle Eggs<$00>
 
 
-<CLEAR>
-//ケンの\n
-Ken's＿
-<$06>
-//HP 
-HP recovered by＿
-<$1E><$04>
-//回復∥
-!
-<$12>
-<$00>
+//<$1B>プテラノの卵を手に入れる<$00>
+Snatch Pteranodon Eggs<$00>
 
 
+//遺産争いにケリをつける<$00>
+End the inheritance battle<$00>
 
 
+//ヤマダのために一肌脱ぐ<$00>
+Unload for Yamada<$00>
 
 
-<CLEAR>
-//もう　１杯いかがですか？\n
-Care for another?\n
-<$01><$1D><$1D><$02>
-//98
-98
-<$0E>
-//／
-／
-<$01><$1D><$1D><$02>
-//210
-210
-<$0E>
-//\n
-\n
-<$01><$1D><$1D><$02>
-//98
-98
-<$0E>
-//／
-／
-<$01>
-//もう、いらない
-No thanks.
-<$0E>
-<$00>
+//町のシンボルを見つけだす<$00>
+Find the village symbol<$00>
 
 
+//ソフィアからの依頼<$00>
+Assist Sophia<$00>
 
 
+//サチコ救出<$00>
+Rescue Sachiko<$00>
 
 
-//ロック
-＿shot
-<$00>
+//ポロポロちゃんを助ける<$00>
+Save Nightshade<$00>
 
 
+//アンジェラ捜し<$00>
+Find Angela<$00>
 
 
+//<CLEAR>カラゴラムのファングを倒し、その証拠を\nハーディアホテルのスペクターに渡す<$00>
+<CLEAR>Defeat Fang in Karhagolem. Present proof to Spectre in\n
+Hardia Hotel.<$00>
 
 
-//ジュース
-＿juice
-<$00>
+//<CLEAR>マーブルポリスの<$1B>ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す<$00>
+<CLEAR>Process meat from＿chickens in Marblopolis.Give them to\n
+Prof. Panheim in Hospico.<$00>
 
 
+//<CLEAR><$1B>カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す<$00>
+<CLEAR>Find up to 3＿Turtle Eggs. Give them to Louis at the Battle\n
+Park BB Ranch.<$00>
 
 
+//<CLEAR><$1B>プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す<$00>
+<CLEAR>Acquire 2＿Pteranodon Eggs. Give them to Bronco at the\n
+Battle Park BB Ranch.<$00>
 
 
-//ミルク
-＿milk
-<$00>
+//<CLEAR>「太郎の首輪」を見つけだし、ドギファの\nナターシャか、オーマン家３兄弟に渡す<$00>
+<CLEAR>Locate Taro's Collar. Give it to Natasha or one of the 3\n
+Aumann children in Dogyf Heights.<$00>
 
 
+//６万<$00>
+60, 000<$00>
 
 
+//あと<$06><$1E><$0F>000<$04><$00>
+another＿<$06><$1E><$0F><$04><$00>
 
 
-//スープ
-＿soup
-<$00>
+//<CLEAR>Ｇファクトリーのヤマダのために\n<$1D>￥を預金する<$00>
+<CLEAR>Deposit＿<$1D>￥ in an account to Yamada in G Factory.<$00>
 
 
+//<CLEAR>コシカタのシンボル「<$1B>トラの爪」を\n見つけだし、ポリスカに渡す<$00>
+<CLEAR>Find the＿Tiger Claw, Koshikata's village symbol. Return it\n
+to Poliska.<$00>
 
 
+//<CLEAR>ソフィアのために、エターナの桜の木を\nどうにかして咲かせる<$00>
+<CLEAR>Find out how to revive the sakura trees in Eterna for\n
+Sophia.<$00>
 
 
-//パンチ
-＿punch
-<$00>
+//<CLEAR>溶岩の中で育った動物の熱いウンチを\nエターナのソフィアに渡す<$00>
+<CLEAR>Deliver Hot Dung from a lava-dwelling creature to Sophia in\n
+Eterna.<$00>
 
 
+//<CLEAR>ラグナロッジのエモリに会いに行く<$00>
+<CLEAR>Meet with Dr. Emori in Ragna Rim.<$00>
 
 
+//<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nＧファクトリー入口１階、\n公衆電話の前に行く<$00>
+<CLEAR>Take the Floppy Disc and＿<$06>10, 000<$04>￥ to the G Factory\n
+gate. Answer the payphone.<$00>
 
 
-//カクテル
-＿cocktail
-<$00>
+//<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nパラサイド入口１階、\n公衆電話の前に行く<$00>
+<CLEAR>Take the Floppy Disc and＿<$06>10, 000<$04>￥ to the Paraside gate.\n
+Answer the payphone.<$00>
 
 
+//<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nガレックスに行く<$00>
+<CLEAR>Take the Floppy Disc and＿<$06>10, 000<$04>￥ to Galax.<$00>
 
 
+//<CLEAR>ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す<$00>
+<CLEAR>Pick bloodberries in Flora Jam. Take them to Kevin and\n
+Nightshade in Rose Garden.<$00>
 
 
-//茶
-＿tea
-<$00>
+//<CLEAR>パラサイドの酒場にいるアンジェラを\n確認して、リナバレーのマリオに連絡する<$00>
+<CLEAR>Look for Angela at the Paraside bar. Report your findings\n
+to Mario in Spurr Valley.<$00>
 
 
+//<CLEAR>アンジェラを確認するために、\nオズポートホテルの酒場に行く<$00>
+<CLEAR>Look for Angela at the OzPort Hotel bar.<$00>
 
 
+//<CLEAR>アンジェラを確認するために、\n西エリアのしけた町のホテルに行く<$00>
+<CLEAR>Look for Angela at a hotel bar somewhere in West Area.<$00>
 
 
-//コーラ
-＿malt
-<$00>
+//<CLEAR>アンジェラを確認するために、\nドギファの舞台に行く<$00>
+<CLEAR>Look for Angela at the theater stage in Dogyf Heights.<$00>
 
 
-
-
-
-
-//ビール
-＿beer
-<$00>
-
-
-
-
-
-
-//サワー
-＿shake
-<$00>
-
-
-
-
-
-
-//ソーダ
-＿soda
-<$00>
-
-
-
-
-
-
-//焼酎
-＿shochu
-<$00>
-
-
-
-
-
-
-//クン、クンクン………？
-Sniff...sniff, sniff?
-<$12>
-\n
-<CLEAR>
-//
-<$1D>
-//のニオイが　するね\nそういえば、
-＿scent's filling the air. You know, I could\n
-go for some＿
-<$1D>
-//食まだだっけ…
-＿!
-<$12>
-<$00>
-
-
-
-
-
-
-//卵焼き
-fried eggs
-<$00>
-
-
-
-
-
-
-//カレー
-curry
-<$00>
-
-
-
-
-
-
-//焼き肉
-Neo Korean BBQ
-<$00>
-
-
-
-
-
-
-//唐あげ
-karaage
-<$00>
-
-
-
-
-
-
-//お菓子
-candy
-<$00>
-
-
-
-
-
-
-//バナナ
-banana
-<$00>
-
-
-
-
-
-
-//フライ
-Neo French fries
-<$00>
-
-
-
-
-
-
-//焼き魚
-grilled fish
-<$00>
-
-
-
-
-
-
-//トマト
-tomato
-<$00>
-
-
-
-
-
-
-//バター
-butter
-<$00>
-
-
-
-
-
-
-//ソース
-sauce
-<$00>
-
-
-
-
-
-
-//スープ
-＿soup
-<$00>
-
-
-
-
-
-
-//ピラフ
-pilaf
-<$00>
-
-
-
-
-
-
-//バニラ
-vanilla
-<$00>
-
-
-
-
-
-
-//キムチ
-kimchi
-<$00>
-
-
-
-
-
-
-//チーズ
-cheese
-<$00>
-
-
-
-
-
-
-//朝
-breakfast
-<$00>
-
-
-
-
-
-
-//昼
-lunch
-<$00>
-
-
-
-
-
-
-//夕
-dinner
-<$00>
-
-
-
-
-
-
-//……東
-...East
-<$00>
-
-
-
-
-
-
-//……西
-...West
-<$00>
-
-
-
-
-
-
-//……南
-...South
-<$00>
-
-
-
-
-
-
-//……北
-...North
-<$00>
-
-
-
-
-
-
-//…北東
-...North-east
-<$00>
-
-
-
-
-
-
-//…北西
-...North-west
-<$00>
-
-
-
-
-
-
-//…南東
-...South-east
-<$00>
-
-
-
-
-
-
-//…南西
-...South-west
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//……
-......
-<$1D>
-<$00>
-
-
-
-
-
-
-//、…
-! That's where we'll find a＿
-<$1D>
-//に行けば
-.
-<$00>
-
-
-
-
-
-
-//直進
-For
-<$00>
-
-
-
-
-
-
-//右よ
-Right
-<$00>
-
-
-
-
-
-
-//左よ
-Left
-<$00>
-
-
-
-
-
-
-//後ろ
-Back
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//……
-......
-<$1D>
-<$00>
-
-
-
-
-
-
-//、絶対に
-wards, got it? I'm sure we'll find a＿
-<$1D>
-//∥
-＿there!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//Sリンダは　「女の勘」を\nはたらかせた∥
-SLinda used her woman's intuition...
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//…ごめんね、\n今日は　勘がはたらかないわ…
-...Sorry. I don't have it in me today.
-<$12>
-<$00>
-
-
-
-
-
-
-//運命の
-Fated＿
-<$00>
-
-
-
-
-
-
-//新しい
-New＿
-<$00>
-
-
-
-
-
-
-//素敵な
-Great＿
-<$00>
-
-
-
-
-
-
-//未知の
-Unknown＿
-<$00>
-
-
-
-
-
-
-//何か
-things＿
-<$00>
-
-
-
-
-
-
-//発見
-discoveries＿
-<$00>
-
-
-
-
-
-
-//お宝
-treasures＿
-<$00>
-
-
-
-
-
-
-//動物
-animals＿
-<$00>
-
-
-
-
-
-
-//に　出会える…
-could appear.
-<$00>
-
-
-
-
-
-
-//が　待ってる…
-await us...
-<$00>
-
-
-
-
-
-
-//気がするわ∥
-are there.
-<$00>
-
-
-
-
-
-
-//チャンスよ∥
-are in our grasp!
-<$00>
-
-
-
-
-
-
-//今しかないわ
-could slip through our fingers!
-<$00>
-
-
-
-
-
-
-//間違いなし∥
-are dead head!
-<$00>
-
-
-
-
-
-
-//\n
-\n
-<$1D><$1D><$1D>
-//\n
-\n
-<$1D><$12>
-\n
-<CLEAR>
-//
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//自信があるの∥
-I'm sure of it!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//自信は　ないけどね…
-Although, I'm not totally certain...
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//絶対なんだから∥
-I'm absolutely certain!
-<$12>
-<$00>
-
-
-
-
-
-
-//
-<$15>
-//Yスケジュール
-YMemo＿
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//スケジュールは何もありません
-There is nothing on schedule.
-<$12>
-<$00>
-
-
-
-
-
-
-//成功終了
-Completed!
-<$00>
-
-
-
-
-
-
-//期限切れ
-Expired!
-<$00>
-
-
-
-
-
-
-//あと
-In＿
-<$1E>
-//季節
-＿seasons
-<$00>
-
-
-
-
-
-
-//あと
-Deadline:＿
-<$1E>
-//年
-Y/
-<$1E>
-//季節
-S
-<$00>
-
-
-
-
-
-
-//あと
-In＿
-<$1E>
-//年
-＿years
-<$00>
-
-
-
-
-
-
-<$16><$01>
-//◇
-◇
-<$0E><$1D><$02>
-//190
-<$1D>
-<$00>
-
-
-
-
-
-
-//ファングを倒す
-Slay Fang
-<$00>
-
-
-
-
-
-
-//パンハイムからの依頼
-Assist Panheim
-<$00>
-
-
-
-
-
-
-//<$1B>
-//カメの卵を手に入れる
-Snatch Turtle Eggs
-<$00>
-
-
-
-
-
-
-//<$1B>
-//プテラノの卵を手に入れる
-Snatch Pteranodon Eggs
-<$00>
-
-
-
-
-
-
-//遺産争いにケリをつける
-End the inheritance battle
-<$00>
-
-
-
-
-
-
-//ヤマダのために一肌脱ぐ
-Unload for Yamada
-<$00>
-
-
-
-
-
-
-//町のシンボルを見つけだす
-Find the village symbol
-<$00>
-
-
-
-
-
-
-//ソフィアからの依頼
-Assist Sophia
-<$00>
-
-
-
-
-
-
-//サチコ救出
-Rescue Sachiko
-<$00>
-
-
-
-
-
-
-//ポロポロちゃんを助ける
-Save Nightshade
-<$00>
-
-
-
-
-
-
-//アンジェラ捜し
-Find Angela
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//カラゴラムのファングを倒し、その証拠を\nハーディアホテルのスペクターに渡す
-Defeat Fang in Karhagolem. Present proof to\n
-Spectre in Hardia Hotel.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//マーブルポリスの
-Process meat from＿
-//<$1B>
-//ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す
-chickens in Marblopolis.Give them to Prof.\n
-Panheim in Hospico.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-Find up to 3＿
-//<$1B>
-//カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す
-Turtle Eggs. Give them to Louis at the Battle\n
-Park BB Ranch.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-Acquire 2＿
-//<$1B>
-//プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す
-Pteranodon Eggs. Give them to Bronco at the\n
-Battle Park BB Ranch.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//「太郎の首輪」を見つけだし、ドギファの\nナターシャか、オーマン家３兄弟に渡す
-Locate Taro's Collar. Give it to Natasha or\n
-one of the 3 Aumann children in Dogyf\n
-Heights.
-<$00>
-
-
-
-
-
-
-//６万
-60, 000
-<$00>
-
-
-
-
-
-
-//あと
-another＿
-<$06><$1E><$0F>
-//000
-<$04>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//Ｇファクトリーのヤマダのために\n
-Deposit＿
-<$1D>
-//￥を預金する
-￥ in an account to Yamada in G Factory.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//コシカタのシンボル「
-Find the＿
-//<$1B>
-//トラの爪」を\n見つけだし、ポリスカに渡す
-Tiger Claw, Koshikata's village symbol.\n
-Return it to Poliska.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ソフィアのために、エターナの桜の木を\nどうにかして咲かせる
-Find out how to revive the sakura trees in\n
-Eterna for Sophia.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//溶岩の中で育った動物の熱いウンチを\nエターナのソフィアに渡す
-Deliver Hot Dung from a lava-dwelling\n
-creature to Sophia in Eterna.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ラグナロッジのエモリに会いに行く
-Meet with Dr. Emori in Ragna Rim.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//「フロッピーと
-Take the Floppy Disc and＿
-<$06>
-//10
-10, 000
-<$04>
-//万￥」を持って、\nＧファクトリー入口１階、\n公衆電話の前に行く
-￥ to the G Factory gate. Answer the payphone.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//「フロッピーと
-Take the Floppy Disc and＿
-<$06>
-//10
-10, 000
-<$04>
-//万￥」を持って、\nパラサイド入口１階、\n公衆電話の前に行く
-￥ to the Paraside gate. Answer the payphone.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//「フロッピーと
-Take the Floppy Disc and＿
-<$06>
-//10
-10, 000
-<$04>
-//万￥」を持って、\nガレックスに行く
-￥ to Galax.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す
-Pick bloodberries in Flora Jam. Take them to\n
-Kevin and Nightshade in Rose Garden.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//パラサイドの酒場にいるアンジェラを\n確認して、リナバレーのマリオに連絡する
-Look for Angela at the Paraside bar. Report\n
-your findings to Mario in Spurr Valley.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//アンジェラを確認するために、\nオズポートホテルの酒場に行く
-Look for Angela at the OzPort Hotel bar.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//アンジェラを確認するために、\n西エリアのしけた町のホテルに行く
-Look for Angela at a hotel bar somewhere in\n
-West Area.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//アンジェラを確認するために、\nドギファの舞台に行く
-Look for Angela at the theater stage in Dogyf\n
-Heights.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//リナバレーのマリオの母、\nアンジェラを追ってオズサットへ行く
-Chase Angela to OzSat! Mario will follow from\n
-Spurr Valley.
-<$00>
-
-
-
-
+//<CLEAR>リナバレーのマリオの母、\nアンジェラを追ってオズサットへ行く<$00>
+<CLEAR>Chase Angela to OzSat! Mario will follow from Spurr Valley.<$00>
 
 
 

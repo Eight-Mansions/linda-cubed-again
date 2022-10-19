@@ -108,344 +108,109 @@ width3.obj
 
 
 #WRITE(PTR, $002C)
-<CLEAR>
-//
-<$02>
-//124Φ\n
-<$09>
-//8
-<$02>
-//3このカードはフォーマットされていません\n
-3This card is not formatted.\n
-<$02>
-//59フォーマットしますか？\n
-59Format this card?
-<$02>
-//87
-<$01>
-//は＿い
-Yes
-<$0E>
-//／
-<$01>
-//いいえ
-No
-<$0E>
-<$00>
+//<CLEAR><$02>124Φ\n<$09>8<$02>3このカードはフォーマットされていません\n<$02>59フォーマットしますか？\n<$02>87<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
+<CLEAR><$02><$09><$02>3This card is not formatted.\n
+<$02>59Format this card?<$02><$01>Yes<$0E><$01>No<$0E><$00>
 
 
-
-
-
-
-<CLEAR>
-//
-<$02>
-//128Φ\n
-<$09>
-//8
-<$02>
-//38ただいま　フォーマット中です∥\n電源を切ったり、メモリーカードを抜いたり\n
-38Formatting in progress...\n
+//<CLEAR><$02>128Φ\n<$09>8<$02>38ただいま　フォーマット中です∥\n電源を切ったり、メモリーカードを抜いたり\n<$02>77しないでください∥<$00>
+<CLEAR><$02><$09><$02>38Formatting in progress...\n
 Do not remove the card\n
-<$02>
-//77しないでください∥
-77or turn off the console.
-<$00>
+<$02>77or turn off the console.<$00>
 
 
+//<CLEAR><$02>102Φ\n<$09>8フォーマットできませんでした…<$12><$00>
+<CLEAR><$02><$09>8Formatting failed...<$12><$00>
 
 
+//<CLEAR>フォーマットが　終了しました∥<$12><$00>
+<CLEAR>Formatting complete!<$12><$00>
 
 
-<CLEAR>
-//
-<$02>
-//102Φ\n
-<$09>
-//8フォーマットできませんでした…
-8Formatting failed...
-<$12>
-<$00>
+//<CLEAR><$02>102Φ\n<$09>8<$02>3メモリーカードを　チェック中です\n<$02>31しばらく　お待ちください<$00>
+<CLEAR><$02><$09><$02>3Checking memory card.\n
+<$02>31Please wait...<$00>
 
 
+//<CLEAR><$02>108Φ\n<$09>8<$02>30このゲームを快適に遊ぶために\n<$02>2メモリーカードの使用をお奨めしますΨ<$00>
+<CLEAR><$02><$09><$02>30A memory card is recommended\n
+<$02>2to fully enjoy the game.<$00>
 
 
+//<CLEAR><$02>102Φ\n<$09>8<$02>35このスロットのカードは\n故障している可能性があります…Ψ<$00>
+<CLEAR><$02><$09><$02>35The card in this slot may be corrupt.<$00>
 
 
-<CLEAR>
-//フォーマットが　終了しました∥
-Formatting complete!
-<$12>
-<$00>
+//<CLEAR><$02>114Φ\n<$09>6このスロットのカードは　２ブロックの\n<$02>12空きがないので、記録できません∥\n<$02>47別のカードを入れるか、\n<$02>40メモリーカード管理画面で\n<$02>19不要なデータを消してくださいΨ<$00>
+<CLEAR><$02><$09>6Cannot save to this card.\n
+<$02>12Minimum of 2 blocks required!<$02>47Insert a new card or\n
+<$02>40remove excess storage\n
+<$02>19data from this card.<$00>
 
 
+//<CLEAR>このスロットは　カード未挿入です\nゲームの記録が　できません<$00>
+<CLEAR>No card found in this slot.\n
+Game will not be saved.<$00>
 
 
+//<CLEAR>このスロットのカードを　使用するには\nフォーマットする必要があります<$00>
+<CLEAR>The card in this slot must be formatted before use.<$00>
 
 
-<CLEAR>
-//
-<$02>
-//102Φ\n
-<$09>
-//8
-<$02>
-//3メモリーカードを　チェック中です\n
-3Checking memory card.\n
-<$02>
-//31しばらく　お待ちください
-31Please wait...
-<$00>
+//<CLEAR>このスロットのカードは\n故障している可能性があります…<$00>
+<CLEAR>The card in this slot may be corrupt.<$00>
 
 
+//<CLEAR>このスロットのカードは　２ブロックの\n空きがないので、記録できません∥<$00>
+<CLEAR>Cannot save to this card.\n
+Minimum of 2 blocks required!<$00>
 
 
+//メニュー選択<$00>
+Main Menu<$00>
 
 
-<CLEAR>
-//
-<$02>
-//108Φ\n
-<$09>
-//8
-<$02>
-//30このゲームを快適に遊ぶために\n
-30A memory card is recommended\n
-<$02>
-//2メモリーカードの使用をお奨めしますΨ
-2to fully enjoy the game.
-<$00>
+//<CLEAR><$02>21<$1D>ＳＴＡＲＴ\n<$1D>ＣＯＮＴＩＮＵＥ\n<$1D>ＰＲＯＬＯＧＵＥ\n<$02>21<$1D>難易度調整<$00>
+<CLEAR><$02>21<$1D>START\n
+<$1D>CONTINUE\n
+<$1D>PROLOGUE\n
+<$02>21<$1D>DIFFICULTY<$00>
 
 
+//<CLEAR><$00>
+<CLEAR><$00>
 
 
+//ファイル選択<$00>
+File Select<$00>
 
 
-<CLEAR>
-//
-<$02>
-//102Φ\n
-<$09>
-//8
-<$02>
-//35このスロットのカードは\n故障している可能性があります…Ψ
-35The card in this slot may be corrupt.
-<$00>
+//<CLEAR><$02>124Φ\n<$09>8<$02>45ただいま、読み込み中です∥\n<$02>24電源を切ったり、メモリーカードに\n<$02>45触れたりしないでください∥<$00>
+<CLEAR><$02>124Φ\n
+<$09>8<$02>45Loading in progress...\n
+<$02>24Do not remove the card\n
+<$02>45or turn off the console.<$00>
 
 
+//<CLEAR><$02>124Φ\n<$09>8<$02>38読み込みできませんでした…\n<$02>10データが壊れている可能性がありますΨ<$00>
+<CLEAR><$02>124Φ\n
+<$09>8<$02>38Load failed...<$02>10The data may be corrupt.<$00>
 
 
+//<$06>-NO CARD-<$04><$00>
+<$06>-NO CARD-<$04><$00>
 
 
-<CLEAR>
-//
-<$02>
-//114Φ\n
-<$09>
-//6このスロットのカードは　２ブロックの\n
-6Cannot save to this card.\n
-<$02>
-//12空きがないので、記録できません∥\n
-12Minimum of 2 blocks required!
-<$02>
-//47別のカードを入れるか、\n
-47Insert a new card or\n
-<$02>
-//40メモリーカード管理画面で\n
-40remove excess storage\n
-<$02>
-//19不要なデータを消してくださいΨ
-19data from this card.
-<$00>
+//<$06>-UNFORMAT-<$04><$00>
+<$06>-NOT FORMATTED-<$04><$00>
 
 
+//<$06>-ERROR-<$04><$00>
+<$06>-ERROR-<$04><$00>
 
 
-
-
-<CLEAR>
-//このスロットは　カード未挿入です\nゲームの記録が　できません
-No card found in this slot.\n
-Game will not be saved.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//このスロットのカードを　使用するには\nフォーマットする必要があります
-The card in this slot must be formatted\n
-before use.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//このスロットのカードは\n故障している可能性があります…
-The card in this slot may be corrupt.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//このスロットのカードは　２ブロックの\n空きがないので、記録できません∥
-Cannot save to this card.\n
-Minimum of 2 blocks required!
-<$00>
-
-
-
-
-
-
-//メニュー選択
-Main Menu
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$02>
-//21
-21
-<$1D>
-//ＳＴＡＲＴ\n
-START\n
-<$1D>
-//ＣＯＮＴＩＮＵＥ\n
-CONTINUE\n
-<$1D>
-//ＰＲＯＬＯＧＵＥ\n
-PROLOGUE\n
-<$02>
-//21
-21
-<$1D>
-//難易度調整
-DIFFICULTY
-<$00>
-
-
-
-
-
-
-<CLEAR>
-
-<$00>
-
-
-
-
-//ファイル選択
-File Select
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$02>
-//124Φ\n
-124Φ\n
-<$09>
-//8
-8
-<$02>
-//45ただいま、読み込み中です∥\n
-45Loading in progress...\n
-<$02>
-//24電源を切ったり、メモリーカードに\n
-24Do not remove the card\n
-<$02>
-//45触れたりしないでください∥
-45or turn off the console.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$02>
-//124Φ\n
-124Φ\n
-<$09>
-//8
-8
-<$02>
-//38読み込みできませんでした…\n
-38Load failed...
-<$02>
-//10データが壊れている可能性がありますΨ
-10The data may be corrupt.
-<$00>
-
-
-
-
-
-
-<$06>
-//-NO CARD-
--NO CARD-
-<$04>
-<$00>
-
-
-
-
-
-
-<$06>
-//-UNFORMAT-
--NOT FORMATTED-
-<$04>
-<$00>
-
-
-
-
-
-
-<$06>
-//-ERROR-
--ERROR-
-<$04>
-<$00>
-
-
-
-
-
-
-<$06>
-//-NO FREE-
--NO FREE SPACE-
-<$04>
-<$00>
-
-
-
-
+//<$06>-NO FREE-<$04><$00>
+<$06>-NO FREE SPACE-<$04><$00>
 
 
 
@@ -454,162 +219,53 @@ File Select
 
 
 
-<CLEAR>
-//
-<$1D><$01>
-//◇
-◇
-<$0E>
-//　スロット１
-＿Slot １
-<$1D>
-//\n
+//<CLEAR><$1D><$01>◇<$0E>　スロット１<$1D>\n<$1D><$01>◇<$0E>　スロット２<$1D><$00>
+<CLEAR><$1D><$01>◇<$0E> Slot １<$1D>\n
+<$1D><$01>◇<$0E> Slot 2<$1D><$00>
+
+
+//\n<$15>W<$01>◇<$0E>　難易度変更＿＿（現在設定難易度<$1E>）<$00>
 \n
-<$1D><$01>
-//◇
-◇
-<$0E>
-//　スロット２
-＿Slot 2
-<$1D>
-<$00>
+<$15>W<$01>◇<$0E> Difficulty（Mode <$1E>)<$00>
 
 
+//ファイル選択<$00>
+File Select<$00>
 
 
+//<CLEAR><$02>116Φ\n<$09>8<$02>28このゲームを快適に遊ぶために\nメモリーカードの使用をお奨めしますΨ<$00>
+<CLEAR><$02>116Φ\n
+<$09>8<$02>28A memory card is recommended to fully enjoy the game.<$00>
 
 
-//\n
+//<CLEAR><$02>109Φ\n<$09>8<$02>21メモリーカードに２ブロックの\n空きがないので、記録できません∥Ψ<$00>
+<CLEAR><$02>109Φ\n
+<$09>8<$02>21Cannot save game.\n
+Minimum of 2 blocks required!<$00>
+
+
+//<CLEAR><$02>109Φ\n<$09>8<$02>7スロット１のカードに２ブロックの\n空きがないので、記録できません∥Ψ<$00>
+<CLEAR><$02><$09><$02>7Cannot save to Slot 1's card.\n
+Minimum of 2 blocks required!<$00>
+
+
+//<CLEAR><$02>109Φ\n<$09>8<$02>7スロット２のカードに２ブロックの\n空きがないので、記録できません∥Ψ<$00>
+<CLEAR><$02><$09><$02>7Cannot save to Slot 2's card.\n
+Minimum of 2 blocks required!<$00>
+
+
+//<CLEAR><$02>102Φ<$09>8<$00>
+<CLEAR><$02><$09><$00>
+
+
+//\nスロット１のカードは\n故障している可能性があります…<$00>
 \n
-<$15>
-//W
-W
-<$01>
-//◇
-◇
-<$0E>
-//　難易度変更＿＿（現在設定難易度
-＿Difficulty（Mode＿
-<$1E>
-//）
-）
-<$00>
+The card in Slot 1 may be corrupt.<$00>
 
 
-
-
-
-
-//ファイル選択
-File Select
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$02>
-//116Φ\n
-116Φ\n
-<$09>
-//8
-8
-<$02>
-//28このゲームを快適に遊ぶために\nメモリーカードの使用をお奨めしますΨ
-28A memory card is recommended to fully enjoy\n
-the game.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$02>
-//109Φ\n
-109Φ\n
-<$09>
-//8
-8
-<$02>
-//21メモリーカードに２ブロックの\n空きがないので、記録できません∥Ψ
-21Cannot save game.\n
-Minimum of 2 blocks required!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$02>
-//109Φ\n
-<$09>
-//8
-<$02>
-//7スロット１のカードに２ブロックの\n空きがないので、記録できません∥Ψ
-7Cannot save to Slot 1's card.\n
-Minimum of 2 blocks required!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$02>
-//109Φ\n
-<$09>
-//8
-<$02>
-//7スロット２のカードに２ブロックの\n空きがないので、記録できません∥Ψ
-7Cannot save to Slot 2's card.\n
-Minimum of 2 blocks required!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-
-<$02>
-102Φ
-<$09>
-8
-<$00>
-
-
-
-
-//\nスロット１のカードは\n故障している可能性があります…
+//\nスロット２のカードは\n故障している可能性があります…<$00>
 \n
-The card in Slot 1 may be corrupt.
-<$00>
-
-
-
-
-
-
-//\nスロット２のカードは\n故障している可能性があります…
-\n
-The card in Slot 2 may be corrupt.
-<$00>
-
-
-
-
+The card in Slot 2 may be corrupt.<$00>
 
 
 Ψ
@@ -618,1481 +274,371 @@ The card in Slot 2 may be corrupt.
 
 
 
-<CLEAR>
-//メモリーカードチェック中\nしばらくお待ちください
-Checking memory card.\n
-Please wait...
+//<CLEAR>メモリーカードチェック中\nしばらくお待ちください<$00>
+<CLEAR>Checking memory card.\n
+Please wait...<$00>
+
+
+//スロット<$1E>:<$06>ファイル<$04>選択<$00>
+YSlot＿<$1E><$06>＿File＿<$04>Select<$00>
+
+
+//<$15>b<$01><$06><$1E>.<$0E><$04>    （未登録です）\n<$00>
+<$15>b<$01><$06><$1E>.<$0E><$04>(NOT IN USE)\n
 <$00>
 
 
+//<$1D><$00>
+<$1D><$00>
 
 
+//<$06><$1D><$04><$00>
+<$06><$1D><$04><$00>
 
 
-//スロット
-YSlot＿
-<$1E>
-//:
-<$06>
-//ファイル
-＿File＿
-<$04>
-//選択
-Select
+//<$15>W<$01><$06><$1E>.<$0E> <$1D> <$06>199<$1E><$04>年<$1D>　<$1D><$02>164<$06><$1E>35<$04>種登録　難<$1E>\n<$00>
+<$15>W<$01><$06><$1E>.＿<$0E> <$1D> <$06>199<$1E><$04>,＿<$1D>　<$1D><$02>164<$06><$1E>35<$04>＿filed (Mode＿<$1E>)\n
 <$00>
 
 
-
-
-
-
-<$15>
-//b
-b
-<$01><$06><$1E>
-//.
-.
-<$0E><$04>
-//    （未登録です）\n
-＿＿（NOT IN USE）\n
-<$00>
-
-
-
-
-
-
-<$1D>
-<$00>
-
-
-
-
-<$06><$1D><$04>
-<$00>
-
-
-
-
-<$15>
-//W
-W
-<$01><$06><$1E>
-//.
-.＿
-<$0E>
-// 
-
-<$1D>
-// 
-
-<$06>
-//199
-199
-<$1E><$04>
-//年
-,＿
-<$1D>
-//　
-
-<$1D><$02>
-//164
-164
-<$06><$1E>
-//35
-35
-<$04>
-//種登録　難
-＿filed (Mode＿
-<$1E>
-)
-//\n
+//\n<$15>W<$01>◇<$08>2<$0E>　難易度変更＿＿（現在設定難易度<$1E>）<$00>
 \n
-<$00>
+<$15>W<$01>◇<$08>2<$0E>　Difficulty ( Mode <$1E>)<$00>
 
 
+//<CLEAR>新しくゲームを　始めますか？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
+<CLEAR>Start new game?\n
+<$01>Yes<$0E> / <$01>No<$0E><$00>
 
 
+//シナリオ選択<$00>
+Scenario<$00>
 
 
-//\n
-\n
-<$15>
-//W
-W
-<$01>
-//◇
-◇
-<$08>
-//2
-2
-<$0E>
-//　難易度変更＿＿（現在設定難易度
-Difficulty（Mode＿
-<$1E>
-//）
-）
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//新しくゲームを　始めますか？\n
-Start new game?\n
-<$01>
-//は＿い
-Yes
-<$0E>
-//／
-／
-<$01>
-//いいえ
-No
-<$0E>
-<$00>
-
-
-
-
-
-
-//シナリオ選択
-Scenario
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//シナリオＣを　大笑いしながら\n遊ぶために　ＡＢを先にクリアしよう\n
-Scenario C is best enjoyed\n
+//<CLEAR>シナリオＣを　大笑いしながら\n遊ぶために　ＡＢを先にクリアしよう\n<$01>大きなお世話だ<$0E>／<$01>じゃ、後回しだ<$0E><$00>
+<CLEAR>Scenario C is best enjoyed\n
 after clearing both A + B!\n
-<$01>
-//大きなお世話だ
-I'm ready!
-<$0E>
-//／
-／
-<$01>
-//じゃ、後回しだ
-Ugh, fine...
-<$0E>
-<$00>
+<$01>I'm ready!<$0E> / <$01>Ugh, fine...<$0E><$00>
 
 
+//<CLEAR>２回目以降のプレイじゃ　声があると\n少しダルいと思うぞ、どうする？\nナレーション　<$01>ＯＮ＿<$0E>／<$01>ＯＦＦ<$0E><$00>
+<CLEAR>If this is a replay, would you like to skip cutscenes?\n
+<$01>Yes<$0E> / <$01>No<$0E><$00>
 
 
-
-
-<CLEAR>
-//２回目以降のプレイじゃ　声があると\n少しダルいと思うぞ、どうする？\nナレーション　
-If this is a replay, would you like to skip\n
-cutscenes?\n
-<$01>
-//ＯＮ＿
-Yes
-<$0E>
-//／
-／
-<$01>
-//ＯＦＦ
-No
-<$0E>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//Χ
-Χ＿A minimum of＿
-<$06>
-//30
-30
-<$04>
-//種以上の動物を捕獲\nΧ箱船を発進させる\n＿＿設定難易度
-＿species\n
+//<CLEAR>Χ<$06>30<$04>種以上の動物を捕獲\nΧ箱船を発進させる\n＿＿設定難易度<$1E><$01>→→<$0E>＿<$01>確認<$0E><$00>
+<CLEAR>Χ A minimum of <$06>30<$04> species\n
 is required to deploy the Astro Ark.\n
-＿＿Mode＿
-<$1E><$01>
-//→→
-→→
-<$0E>
-//＿
-＿
-<$01>
-//確認
-OK!
-<$0E>
-<$00>
+＿＿Mode <$1E> <$01>→→<$0E><$01>OK!<$0E><$00>
 
 
-
-
-
-
-<CLEAR>
-//Χ
-Χ＿A minimum of＿
-<$06>
-//50
-50
-<$04>
-//種以上の動物を捕獲\nΧ箱船を発進させる\n＿＿設定難易度
-＿species\n
+//<CLEAR>Χ<$06>50<$04>種以上の動物を捕獲\nΧ箱船を発進させる\n＿＿設定難易度<$1E><$01>→→<$0E>＿<$01>確認<$0E><$00>
+<CLEAR>Χ A minimum of <$06>50<$04> species\n
 is required to deploy the Astro Ark.\n
-＿＿Mode＿
-<$1E><$01>
-//→→
-→→
-<$0E>
-//＿
-＿
-<$01>
-//確認
-OK!
-<$0E>
-<$00>
+＿＿Mode <$1E> <$01>→→<$0E> <$01>OK!<$0E><$00>
 
 
-
-
-
-
-<CLEAR>
-//Χ
-Χ＿A minimum of＿
-<$06>
-//100
-100
-<$04>
-//種以上の動物を捕獲\n＿最低
-＿species\n
-(Not＿
-<$06>
-//70
-70
-<$04>
-//種、できれば
-, not＿
-<$06>
-//90
-90
-<$04>
-//種、\n＿自慢できるのは
-,＿
-<$06>
-//100
-100!)
-<$04>
-//種から\nΧ箱船を発進させる\n＿＿設定難易度
-\n
+//<CLEAR>Χ<$06>100<$04>種以上の動物を捕獲\n＿最低<$06>70<$04>種、できれば<$06>90<$04>種、\n＿自慢できるのは<$06>100<$04>種から\nΧ箱船を発進させる\n＿＿設定難易度<$1E><$01>→→<$0E>＿<$01>確認<$0E><$00>
+<CLEAR>Χ A minimum of <$06>100<$04> species\n
+(Not <$06>70<$04>, not <$06>90<$04>, <$06>100!)<$04>\n
 is required to deploy the Astro Ark.\n
-＿＿Mode＿
-<$1E><$01>
-//→→dd
-→→
-<$0E>
-//＿
-＿
-<$01>
-//確認
-OK!
-<$0E>
-<$00>
+＿＿Mode <$1E><$01>→→<$0E> <$01>OK!<$0E><$00>
 
 
+//<CLEAR>シナリオＤは　動物捕獲レース∥\n競技のルールとして、難易度は\n『難２』に固定されています<$12><$00>
+<CLEAR>Scenario D is a race against time! Difficulty is locked on\n
+Mode 2.<$12><$00>
 
 
+//<CLEAR>Χ不可能への挑戦∥\n＿１年間で<$06>100<$04>種以上の\n＿動物を捕獲\nΧ箱船を発進させる\n＿＿設定難易度<$1E><$01>→→<$0E>＿<$01>確認<$0E><$00>
+<CLEAR>Defy all odds and capture＿ <$06><$04>＿species in 1 year!\n
+Mode＿<$1E><$01>→→<$0E>＿<$01>Ok!<$0E><$00>
 
 
-<CLEAR>
-//シナリオＤは　動物捕獲レース∥\n競技のルールとして、難易度は\n『難２』に固定されています
-Scenario D is a race against time! Difficulty\n
-is locked on Mode 2.
-<$12>
-<$00>
+//難易度調整<$00>
+Difficulty<$00>
 
 
-
-
-
-
-<CLEAR>
-//Χ不可能への挑戦∥\n＿１年間で
-Defy all odds and capture＿
-<$06>
-//100
-<$04>
-//種以上の\n＿動物を捕獲\nΧ箱船を発進させる\n＿＿設定難易度
-＿species in 1 year!\n
-Mode＿
-<$1E><$01>
-//→→
-→→
-<$0E>
-//＿
-＿
-<$01>
-//確認
-Ok!
-<$0E>
-<$00>
-
-
-
-
-
-
-//難易度調整
-Difficulty
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$01>
-//［難１］
-[MODE 1]
-<$0E>
-//　季節経過時間：速　←　→　遅\n絶体絶命の極限状態こそ俺の人生\n
-\n
+//<CLEAR><$01>［難１］<$0E>　季節経過時間：速　←　→　遅\n絶体絶命の極限状態こそ俺の人生\n<$09>6<$01>［難２］<$0E>　季節経過時間：速　←　→　遅\n適度な緊張、ゲームデザイナー推奨\n<$09>6<$01>［難３］<$0E>　季節経過時間：速　←　→　遅\nヌルゲー好きのあなたにピッタリ\n<$09>6<$01>［難４］<$0E>　季節経過時間：速　←　→　遅\n骨のズイまで残さずしゃぶりたい<$00>
+<CLEAR><$01>[MODE 1]<$0E>\n
 Time flow: Fastest speed (For the masochists.)\n
-<$09>
-//6
-6
-<$01>
-//［難２］
-[MODE 2]
-<$0E>
-//　季節経過時間：速　←　→　遅\n適度な緊張、ゲームデザイナー推奨\n
-\n
+<$09>6<$01>[MODE 2]<$0E>\n
 Time flow: Standard speed (Recommended by staff.)\n
-<$09>
-//6
-6
-<$01>
-//［難３］
-[MODE 3]
-<$0E>
-//　季節経過時間：速　←　→　遅\nヌルゲー好きのあなたにピッタリ\n
-\n
+<$09>6<$01>[MODE 3]<$0E>\n
 Time flow: Slow speed (A cozy game experience.)\n
-<$09>
-//6
-6
-<$01>
-//［難４］
-[MODE 4]
-<$0E>
-//　季節経過時間：速　←　→　遅\n骨のズイまで残さずしゃぶりたい
-\n
-Time flow: Slowest speed (Play for the story.)
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//＜デバッグメニュー＞\n
-＜Debug Menu＞\n
-<$01>
-//シナリオスタート
-Scenario-Start
-<$0E>
-//\n
-\n
-<$01>
-//テストブロック＿
-Test Block
-<$0E>
-//\n
-\n
-<$01>
-//好きな所へ＿＿＿
-View Locales
-<$0E>
-//\n
-\n
-<$01>
-//シナリオ途中から
-Scenario-Mid
-<$0E>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$01>
-//東エリア
-East Area
-<$0E>
-//／
-<$01>
-//西エリア＿
-West Area
-<$0E>
-//\n
-\n
-<$01>
-//南エリア
-South Area
-<$0E>
-//／
-<$01>
-//地下エデン
-Eden
-<$0E>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$01>
-//オズポート＿＿
-OzPort
-<$0E>
-//　
-
-<$01>
-//ハーディア＿＿
-Hardia
-<$0E>
-//\n
-\n
-<$01>
-//ミナゴ＿＿＿＿
-Minago
-<$0E>
-//　
-
-<$01>
-//ホスピコ＿＿＿
-Hospico
-<$0E>
-//\n
-\n
-<$01>
-//パラサイド＿＿
-Paraside
-<$0E>
-//　
-
-<$01>
-//ネブール＿＿＿
-Nebul
-<$0E>
-//\n
-\n
-<$01>
-//ネブロード＿＿
-Nebul Cavity
-<$0E>
-//　
-
-<$01>
-//ルリナスタワー
-Llinas' Tower
-<$0E>
-//\n
-\n
-<$01>
-//ダイケイブ＿＿
-Great Cave
-<$0E>
-//　
-
-<$01>
-//カラゴラム＿＿
-Karhagolem
-<$0E>
-//\n
-\n
-<$01>
-//マーブルポリス
-Marblopolis
-<$0E>
-//　
-
-<$01>
-//ヤマピット＿＿
-Yama Pit
-<$0E>
-//\n
-\n
-<$01>
-//ダグポンド＿＿
-Dug Pond
-<$0E>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$01>
-//バトルパーク＿
-Battle Park
-<$0E>
-//　
-
-<$01>
-//コシカタ＿＿
-Koshikata
-<$0E>
-//\n
-\n
-<$01>
-//Ｇファクトリー
-G Factory
-<$0E>
-//　
-
-<$01>
-//エターナ＿＿
-Eterna
-<$0E>
-//\n
-\n
-<$01>
-//リナバレー＿＿
-Spurr Valley
-<$0E>
-//　
-
-<$01>
-//スパームリナ
-Spurr Marina
-<$0E>
-//\n
-\n
-<$01>
-//ノースカメノス
-North Tortugos
-<$0E>
-//　
-
-<$01>
-//ウルマＡ＿＿
-Urma A
-<$0E>
-//\n
-\n
-<$01>
-//ウルマＢ＿＿＿
-Urma B
-<$0E>
-//　
-
-<$01>
-//ウルマＣ＿＿
-Urma C
-<$0E>
-//\n
-\n
-<$01>
-//ウルマＤ＿＿＿
-Urma D
-<$0E>
-//　
-
-<$01>
-//シャナイ＿＿
-Shehnai
-<$0E>
-//\n
-\n
-<$01>
-//ザス＿＿＿＿＿
-Xoth
-<$0E>
-//　
-
-<$01>
-//スワローム＿
-Swallom
-<$0E>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$01>
-//ドギファ＿＿＿
-Dogyf Heights
-<$0E>
-//　
-
-<$01>
-//ラグナロッジ＿
-Ragna Rim
-<$0E>
-//\n
-\n
-<$01>
-//ガレックス＿＿
-Galax
-<$0E>
-//　
-
-<$01>
-//ローズガーデン
-Rose Garden
-<$0E>
-//\n
-\n
-<$01>
-//コラルコラーナ
-Coral Khorana
-<$0E>
-//　
-
-<$01>
-//カカーナホテル
-Hotel Kakahna
-<$0E>
-//\n
-\n
-<$01>
-//サンドホール＿
-Sand Hole
-<$0E>
-//　
-
-<$01>
-//サマキア＿＿＿
-Samakia
-<$0E>
-//\n
-\n
-<$01>
-//ダークリバー北
-N Dark River
-<$0E>
-//　
-
-<$01>
-//ダークリバー南
-S Dark River
-<$0E>
-//\n
-\n
-<$01>
-//フローラジャム
-Flora Jam
-<$0E>
-//　
-
-<$01>
-//ホーリーホール
-Holy Hole
-<$0E>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$01>
-//アナビス＿＿＿
-Annabis
-<$0E>
-//　
-
-<$01>
-//メルトポット＿
-Melting Pot
-<$0E>
-//\n
-\n
-<$01>
-//プテラノテラス
-Pterano Terrace
-<$0E>
-//　
-
-<$01>
-//ガピア＿＿＿＿
-Gapia
-<$0E>
-//\n
-\n
-<$01>
-//小アナビス＿＿
-C. Annabis
-<$0E>
-//　
-
-<$01>
-//トリクロスＡ＿
-Tri-cross A
-<$0E>
-//\n
-\n
-<$01>
-//トリクロスＢ＿
-Tri-cross B
-<$0E>
-//　
-
-<$01>
-//トリクロスＣ＿
-Tri-cross C
-<$0E>
-//\n
-\n
-<$01>
-//トリクロスＤ＿
-Tri-cross D
-<$0E>
-//　
-
-<$01>
-//トリクロスＥ＿
-Tri-cross E
-<$0E>
-//\n
-\n
-<$01>
-//トリクロスＦ＿
-Tri-cross F
-<$0E>
-//　
-
-<$01>
-//トリクロスＧ＿
-Tri-cross G
-<$0E>
-//\n
-\n
-<$01>
-//フォンタナ＿＿
-Fontana
-<$0E>
-//　
-
-<$01>
-//旧箱船＿＿＿＿
-Arkyard
-<$0E>
-<$00>
-
-
-
-
+<$09>6<$01>[MODE 4]<$0E>\n
+Time flow: Slowest speed (Play for the story.)<$00>
+
+
+//<CLEAR>＜デバッグメニュー＞\n<$01>シナリオスタート<$0E>\n<$01>テストブロック＿<$0E>\n<$01>好きな所へ＿＿＿<$0E>\n<$01>シナリオ途中から<$0E><$00>
+<CLEAR>＜Debug Menu＞\n
+<$01>Scenario-Start<$0E>\n
+<$01>Test Block<$0E>\n
+<$01>View Locales<$0E>\n
+<$01>Scenario-Mid<$0E><$00>
+
+
+//<CLEAR><$01>東エリア<$0E>／<$01>西エリア＿<$0E>\n<$01>南エリア<$0E>／<$01>地下エデン<$0E><$00>
+<CLEAR><$01>East Area<$0E><$01>West Area<$0E>\n
+<$01>South Area<$0E><$01>Eden<$0E><$00>
+
+
+//<CLEAR><$01>オズポート＿＿<$0E>　<$01>ハーディア＿＿<$0E>\n<$01>ミナゴ＿＿＿＿<$0E>　<$01>ホスピコ＿＿＿<$0E>\n<$01>パラサイド＿＿<$0E>　<$01>ネブール＿＿＿<$0E>\n<$01>ネブロード＿＿<$0E>　<$01>ルリナスタワー<$0E>\n<$01>ダイケイブ＿＿<$0E>　<$01>カラゴラム＿＿<$0E>\n<$01>マーブルポリス<$0E>　<$01>ヤマピット＿＿<$0E>\n<$01>ダグポンド＿＿<$0E><$00>
+<CLEAR><$01>OzPort<$0E>　<$01>Hardia<$0E>\n
+<$01>Minago<$0E>　<$01>Hospico<$0E>\n
+<$01>Paraside<$0E>　<$01>Nebul<$0E>\n
+<$01>Nebul Cavity<$0E>　<$01>Llinas' Tower<$0E>\n
+<$01>Great Cave<$0E>　<$01>Karhagolem<$0E>\n
+<$01>Marblopolis<$0E>　<$01>Yama Pit<$0E>\n
+<$01>Dug Pond<$0E><$00>
+
+
+//<CLEAR><$01>バトルパーク＿<$0E>　<$01>コシカタ＿＿<$0E>\n<$01>Ｇファクトリー<$0E>　<$01>エターナ＿＿<$0E>\n<$01>リナバレー＿＿<$0E>　<$01>スパームリナ<$0E>\n<$01>ノースカメノス<$0E>　<$01>ウルマＡ＿＿<$0E>\n<$01>ウルマＢ＿＿＿<$0E>　<$01>ウルマＣ＿＿<$0E>\n<$01>ウルマＤ＿＿＿<$0E>　<$01>シャナイ＿＿<$0E>\n<$01>ザス＿＿＿＿＿<$0E>　<$01>スワローム＿<$0E><$00>
+<CLEAR><$01>Battle Park<$0E>　<$01>Koshikata<$0E>\n
+<$01>G Factory<$0E>　<$01>Eterna<$0E>\n
+<$01>Spurr Valley<$0E>　<$01>Spurr Marina<$0E>\n
+<$01>North Tortugos<$0E>　<$01>Urma A<$0E>\n
+<$01>Urma B<$0E>　<$01>Urma C<$0E>\n
+<$01>Urma D<$0E>　<$01>Shehnai<$0E>\n
+<$01>Xoth<$0E>　<$01>Swallom<$0E><$00>
+
+
+//<CLEAR><$01>ドギファ＿＿＿<$0E>　<$01>ラグナロッジ＿<$0E>\n<$01>ガレックス＿＿<$0E>　<$01>ローズガーデン<$0E>\n<$01>コラルコラーナ<$0E>　<$01>カカーナホテル<$0E>\n<$01>サンドホール＿<$0E>　<$01>サマキア＿＿＿<$0E>\n<$01>ダークリバー北<$0E>　<$01>ダークリバー南<$0E>\n<$01>フローラジャム<$0E>　<$01>ホーリーホール<$0E><$00>
+<CLEAR><$01>Dogyf Heights<$0E>　<$01>Ragna Rim<$0E>\n
+<$01>Galax<$0E>　<$01>Rose Garden<$0E>\n
+<$01>Coral Khorana<$0E>　<$01>Hotel Kakahna<$0E>\n
+<$01>Sand Hole<$0E>　<$01>Samakia<$0E>\n
+<$01>N Dark River<$0E>　<$01>S Dark River<$0E>\n
+<$01>Flora Jam<$0E>　<$01>Holy Hole<$0E><$00>
+
+
+//<CLEAR><$01>アナビス＿＿＿<$0E>　<$01>メルトポット＿<$0E>\n<$01>プテラノテラス<$0E>　<$01>ガピア＿＿＿＿<$0E>\n<$01>小アナビス＿＿<$0E>　<$01>トリクロスＡ＿<$0E>\n<$01>トリクロスＢ＿<$0E>　<$01>トリクロスＣ＿<$0E>\n<$01>トリクロスＤ＿<$0E>　<$01>トリクロスＥ＿<$0E>\n<$01>トリクロスＦ＿<$0E>　<$01>トリクロスＧ＿<$0E>\n<$01>フォンタナ＿＿<$0E>　<$01>旧箱船＿＿＿＿<$0E><$00>
+<CLEAR><$01>Annabis<$0E>　<$01>Melting Pot<$0E>\n
+<$01>Pterano Terrace<$0E>　<$01>Gapia<$0E>\n
+<$01>C. Annabis<$0E>　<$01>Tri-cross A<$0E>\n
+<$01>Tri-cross B<$0E>　<$01>Tri-cross C<$0E>\n
+<$01>Tri-cross D<$0E>　<$01>Tri-cross E<$0E>\n
+<$01>Tri-cross F<$0E>　<$01>Tri-cross G<$0E>\n
+<$01>Fontana<$0E>　<$01>Arkyard<$0E><$00>
 
 
 #WRITE(PTR, $002E)
-<CLEAR>
-//
-<$01>
-//ホスピコへ行け＿
-Visit Hospico＿
-<$0E>
-//\n
-\n
-<$01>
-//ヤギ持ってこい＿
-Hunt Goats＿
-<$0E>
-//\n
-\n
-<$01>
-//薬が出来た＿＿＿
-Drug complete!＿
-<$0E>
-//\n
-\n
-<$01>
-//１０２号室にて＿
-Find Room 102＿
-<$0E>
-//\n
-\n
-<$01>
-//リンダが消えた＿
-Linda's gone＿
-<$0E>
-//\n
-\n
-<$01>
-//家に帰ってこい＿
-Return home＿
-<$0E>
-//\n
-\n
-<$01>
-//パラサイドへ来い
-Visit Paraside＿
-<$0E>
-//\n
-\n
-<$01>
-//コシカタへ来い＿
-Visit Koshikata＿
-<$0E>
-//\n
-\n
-<$01>
-//戻ってこい＿＿＿
-Regroup＿
-<$0E>
-//\n
-\n
-<$01>
-//いざ、エターナへ
-To Eterna＿
-<$0E>
-//\n
-\n
-<$01>
-//Ｇファクトリーへ
-To G Factory＿
-<$0E>
-<$00>
-
-
-
-
+//<CLEAR><$01>ホスピコへ行け＿<$0E>\n<$01>ヤギ持ってこい＿<$0E>\n<$01>薬が出来た＿＿＿<$0E>\n<$01>１０２号室にて＿<$0E>\n<$01>リンダが消えた＿<$0E>\n<$01>家に帰ってこい＿<$0E>\n<$01>パラサイドへ来い<$0E>\n<$01>コシカタへ来い＿<$0E>\n<$01>戻ってこい＿＿＿<$0E>\n<$01>いざ、エターナへ<$0E>\n<$01>Ｇファクトリーへ<$0E><$00>
+<CLEAR><$01>Visit Hospico＿<$0E>\n
+<$01>Hunt Goats＿<$0E>\n
+<$01>Drug complete!＿<$0E>\n
+<$01>Find Room 102＿<$0E>\n
+<$01>Linda's gone＿<$0E>\n
+<$01>Return home＿<$0E>\n
+<$01>Visit Paraside＿<$0E>\n
+<$01>Visit Koshikata＿<$0E>\n
+<$01>Regroup＿<$0E>\n
+<$01>To Eterna＿<$0E>\n
+<$01>To G Factory＿<$0E><$00>
 
 
 #WRITE(PTR, $0030)
-<CLEAR>
-//
-<$01>
-//ミナゴ襲撃前夜＿＿
-Massacre's eve＿
-<$0E>
-//\n
-\n
-<$01>
-//迎えに来い＿＿＿＿
-Visitation＿
-<$0E>
-//\n
-\n
-<$01>
-//オズポートへ来い＿
-Visit OzPort＿
-<$0E>
-//\n
-\n
-<$01>
-//パラサイドにて＿＿
-In Paraside＿
-<$0E>
-//\n
-\n
-<$01>
-//スマイリーに会え＿
-Meet Smilly＿
-<$0E>
-//\n
-\n
-<$01>
-//ミナゴに助けに来て
-Rescue Minago＿
-<$0E>
-//\n
-\n
-<$01>
-//メールを見に来い＿
-Check e-mail＿
-<$0E>
-//\n
-\n
-<$01>
-//エモリラボへ突撃＿
-Storm Emori's lab＿
-<$0E>
-//\n
-\n
-<$01>
-//ハーディアへ帰れ＿
-Return to Hardia＿
-<$0E>
-//\n
-\n
-<$01>
-//ラグナロッジへ＿＿
-To Ragna Rim＿
-<$0E>
-//\n
-\n
-<$01>
-//ガレックスへ＿＿＿
-To Galax＿
-<$0E>
-//\n
-\n
-<$01>
-//ホスピコで待つ＿＿
-Visit Hospico＿
-<$0E>
-<$00>
-
-
-
-
+//<CLEAR><$01>ミナゴ襲撃前夜＿＿<$0E>\n<$01>迎えに来い＿＿＿＿<$0E>\n<$01>オズポートへ来い＿<$0E>\n<$01>パラサイドにて＿＿<$0E>\n<$01>スマイリーに会え＿<$0E>\n<$01>ミナゴに助けに来て<$0E>\n<$01>メールを見に来い＿<$0E>\n<$01>エモリラボへ突撃＿<$0E>\n<$01>ハーディアへ帰れ＿<$0E>\n<$01>ラグナロッジへ＿＿<$0E>\n<$01>ガレックスへ＿＿＿<$0E>\n<$01>ホスピコで待つ＿＿<$0E><$00>
+<CLEAR><$01>Massacre's eve＿<$0E>\n
+<$01>Visitation＿<$0E>\n
+<$01>Visit OzPort＿<$0E>\n
+<$01>In Paraside＿<$0E>\n
+<$01>Meet Smilly＿<$0E>\n
+<$01>Rescue Minago＿<$0E>\n
+<$01>Check e-mail＿<$0E>\n
+<$01>Storm Emori's lab＿<$0E>\n
+<$01>Return to Hardia＿<$0E>\n
+<$01>To Ragna Rim＿<$0E>\n
+<$01>To Galax＿<$0E>\n
+<$01>Visit Hospico＿<$0E><$00>
 
 
 #WRITE(PTR, $0032)
-<CLEAR>
-//
-<$01>
-//◇
-◇
-<$0E><$08>
-//4ケン復活後\n
-4Ken recovers\n
-<$01>
-//Ａ
-<$0E><$08>
-//4幽霊女\n
-2Ghost woman\n
-<$01>
-//Ｂ
-<$0E><$08>
-//4庭２羽ニワトリ\n
-4Two chickens
-<$01>
-//Ｃ
-<$0E><$08>
-//4カメの卵スープ\n
-4Turtle egg soup
-<$01>
-//Ｅ
-<$0E><$08>
-//4遺産争い\n
-4Inheritance\n
-<$01>
-//Ｆ
-<$0E><$08>
-//4預金獲得ノルマ\n
-4Bank quota\n
-<$01>
-//Ｇ
-<$0E><$08>
-//4町のシンボル\n
-4Village symbol\n
-<$01>
-//Ｈ
-<$0E><$08>
-//4桜とウンチ\n
-4Sakura poop\n
-<$01>
-//Ｊ
-<$0E><$08>
-//4ミナゴ教会にて\n
-4Church meeting\n
-<$01>
-//Ｊ
-<$0E><$08>
-//4サチコ誘拐\n
-4Sachiko kidnapped!\n
-<$01>
-//Ｋ
-<$0E><$08>
-//4アンジェラ捜し\n
-4Angela search\n
-<$01>
-//１
-<$0E><$08>
-//4結婚終了後\n
-4Honeymooners\n
-<$01>
-//Ｙ
-<$0E><$08>
-//4クワガタ少年
-4Stag beetle boy
-<$00>
-
-
-
-
+//<CLEAR><$01>◇<$0E><$08>4ケン復活後\n<$01>Ａ<$0E><$08>4幽霊女\n<$01>Ｂ<$0E><$08>4庭２羽ニワトリ\n<$01>Ｃ<$0E><$08>4カメの卵スープ\n<$01>Ｅ<$0E><$08>4遺産争い\n<$01>Ｆ<$0E><$08>4預金獲得ノルマ\n<$01>Ｇ<$0E><$08>4町のシンボル\n<$01>Ｈ<$0E><$08>4桜とウンチ\n<$01>Ｊ<$0E><$08>4ミナゴ教会にて\n<$01>Ｊ<$0E><$08>4サチコ誘拐\n<$01>Ｋ<$0E><$08>4アンジェラ捜し\n<$01>１<$0E><$08>4結婚終了後\n<$01>Ｙ<$0E><$08>4クワガタ少年<$00>
+<CLEAR><$01>◇<$0E><$08>4Ken recovers\n
+<$01><$0E><$08>2Ghost woman\n
+<$01><$0E><$08>4Two chickens<$01><$0E><$08>4Turtle egg soup<$01><$0E><$08>4Inheritance\n
+<$01><$0E><$08>4Bank quota\n
+<$01><$0E><$08>4Village symbol\n
+<$01><$0E><$08>4Sakura poop\n
+<$01><$0E><$08>4Church meeting\n
+<$01><$0E><$08>4Sachiko kidnapped!\n
+<$01><$0E><$08>4Angela search\n
+<$01><$0E><$08>4Honeymooners\n
+<$01><$0E><$08>4Stag beetle boy<$00>
 
 
 #WRITE(PTR, $0034)
-//
-<$15>
-//Yスケジュール
-YMemo＿
-<$00>
+//<$15>Yスケジュール<$00>
+<$15>YMemo＿<$00>
 
 
+//<CLEAR>スケジュールは何もありません<$12><$00>
+<CLEAR>There is nothing on schedule.<$12><$00>
 
 
+//成功終了<$00>
+Completed!<$00>
 
 
-<CLEAR>
-//スケジュールは何もありません
-There is nothing on schedule.
-<$12>
-<$00>
+//期限切れ<$00>
+Expired!<$00>
 
 
+//あと<$1E>季節<$00>
+In＿<$1E>＿seasons<$00>
 
 
+//あと<$1E>年<$1E>季節<$00>
+Deadline:＿<$1E>Y/<$1E>S<$00>
 
 
-//成功終了
-Completed!
-<$00>
+//あと<$1E>年<$00>
+In＿<$1E>＿years<$00>
 
 
+//<$16><$01>◇<$0E><$1D><$02>190<$1D><$00>
+<$16><$01>◇<$0E><$1D><$02><$1D><$00>
 
 
+//ファングを倒す<$00>
+Slay Fang<$00>
 
 
-//期限切れ
-Expired!
-<$00>
+//パンハイムからの依頼<$00>
+Assist Panheim<$00>
 
 
+//<$1B>カメの卵を手に入れる<$00>
+Snatch Turtle Eggs<$00>
 
 
+//<$1B>プテラノの卵を手に入れる<$00>
+Snatch Pteranodon Eggs<$00>
 
 
-//あと
-In＿
-<$1E>
-//季節
-＿seasons
-<$00>
+//遺産争いにケリをつける<$00>
+End the inheritance battle<$00>
 
 
+//ヤマダのために一肌脱ぐ<$00>
+Unload for Yamada<$00>
 
 
+//町のシンボルを見つけだす<$00>
+Find the village symbol<$00>
 
 
-//あと
-Deadline:＿
-<$1E>
-//年
-Y/
-<$1E>
-//季節
-S
-<$00>
+//ソフィアからの依頼<$00>
+Assist Sophia<$00>
 
 
+//サチコ救出<$00>
+Rescue Sachiko<$00>
 
 
+//ポロポロちゃんを助ける<$00>
+Save Nightshade<$00>
 
 
-//あと
-In＿
-<$1E>
-//年
-＿years
-<$00>
+//アンジェラ捜し<$00>
+Find Angela<$00>
 
 
+//<CLEAR>カラゴラムのファングを倒し、その証拠を\nハーディアホテルのスペクターに渡す<$00>
+<CLEAR>Defeat Fang in Karhagolem. Present proof to Spectre in\n
+Hardia Hotel.<$00>
 
 
+//<CLEAR>マーブルポリスの<$1B>ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す<$00>
+<CLEAR>Process meat from＿chickens in Marblopolis.Give them to\n
+Prof. Panheim in Hospico.<$00>
 
 
-<$16><$01>
-//◇
-◇
-<$0E><$1D><$02>
-//190
-<$1D>
-<$00>
+//<CLEAR><$1B>カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す<$00>
+<CLEAR>Find up to 3＿Turtle Eggs. Give them to Louis at the Battle\n
+Park BB Ranch.<$00>
 
 
+//<CLEAR><$1B>プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す<$00>
+<CLEAR>Acquire 2＿Pteranodon Eggs. Give them to Bronco at the\n
+Battle Park BB Ranch.<$00>
 
 
+//<CLEAR>「太郎の首輪」を見つけだし、ドギファの\nナターシャか、オーマン家３兄弟に渡す<$00>
+<CLEAR>Locate Taro's Collar. Give it to Natasha or one of the 3\n
+Aumann children in Dogyf Heights.<$00>
 
 
-//ファングを倒す
-Slay Fang
-<$00>
+//６万<$00>
+60, 000<$00>
 
 
+//あと<$06><$1E><$0F>000<$04><$00>
+another＿<$06><$1E><$0F><$04><$00>
 
 
+//<CLEAR>Ｇファクトリーのヤマダのために\n<$1D>￥を預金する<$00>
+<CLEAR>Deposit＿<$1D>￥ in an account to Yamada in G Factory.<$00>
 
 
-//パンハイムからの依頼
-Assist Panheim
-<$00>
+//<CLEAR>コシカタのシンボル「<$1B>トラの爪」を\n見つけだし、ポリスカに渡す<$00>
+<CLEAR>Find the＿Tiger Claw, Koshikata's village symbol. Return it\n
+to Poliska.<$00>
 
 
+//<CLEAR>ソフィアのために、エターナの桜の木を\nどうにかして咲かせる<$00>
+<CLEAR>Find out how to revive the sakura trees in Eterna for\n
+Sophia.<$00>
 
 
+//<CLEAR>溶岩の中で育った動物の熱いウンチを\nエターナのソフィアに渡す<$00>
+<CLEAR>Deliver Hot Dung from a lava-dwelling creature to Sophia in\n
+Eterna.<$00>
 
 
-//<$1B>
-//カメの卵を手に入れる
-Snatch Turtle Eggs
-<$00>
+//<CLEAR>ラグナロッジのエモリに会いに行く<$00>
+<CLEAR>Meet with Dr. Emori in Ragna Rim.<$00>
 
 
+//<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nＧファクトリー入口１階、\n公衆電話の前に行く<$00>
+<CLEAR>Take the Floppy Disc and＿<$06>10, 000<$04>￥ to the G Factory\n
+gate. Answer the payphone.<$00>
 
 
+//<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nパラサイド入口１階、\n公衆電話の前に行く<$00>
+<CLEAR>Take the Floppy Disc and＿<$06>10, 000<$04>￥ to the Paraside gate.\n
+Answer the payphone.<$00>
 
 
-//<$1B>
-//プテラノの卵を手に入れる
-Snatch Pteranodon Eggs
-<$00>
+//<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nガレックスに行く<$00>
+<CLEAR>Take the Floppy Disc and＿<$06>10, 000<$04>￥ to Galax.<$00>
 
 
+//<CLEAR>ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す<$00>
+<CLEAR>Pick bloodberries in Flora Jam. Take them to Kevin and\n
+Nightshade in Rose Garden.<$00>
 
 
+//<CLEAR>パラサイドの酒場にいるアンジェラを\n確認して、リナバレーのマリオに連絡する<$00>
+<CLEAR>Look for Angela at the Paraside bar. Report your findings\n
+to Mario in Spurr Valley.<$00>
 
 
-//遺産争いにケリをつける
-End the inheritance battle
-<$00>
+//<CLEAR>アンジェラを確認するために、\nオズポートホテルの酒場に行く<$00>
+<CLEAR>Look for Angela at the OzPort Hotel bar.<$00>
 
 
+//<CLEAR>アンジェラを確認するために、\n西エリアのしけた町のホテルに行く<$00>
+<CLEAR>Look for Angela at a hotel bar somewhere in West Area.<$00>
 
 
+//<CLEAR>アンジェラを確認するために、\nドギファの舞台に行く<$00>
+<CLEAR>Look for Angela at the theater stage in Dogyf Heights.<$00>
 
 
-//ヤマダのために一肌脱ぐ
-Unload for Yamada
-<$00>
-
-
-
-
-
-
-//町のシンボルを見つけだす
-Find the village symbol
-<$00>
-
-
-
-
-
-
-//ソフィアからの依頼
-Assist Sophia
-<$00>
-
-
-
-
-
-
-//サチコ救出
-Rescue Sachiko
-<$00>
-
-
-
-
-
-
-//ポロポロちゃんを助ける
-Save Nightshade
-<$00>
-
-
-
-
-
-
-//アンジェラ捜し
-Find Angela
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//カラゴラムのファングを倒し、その証拠を\nハーディアホテルのスペクターに渡す
-Defeat Fang in Karhagolem. Present proof to\n
-Spectre in Hardia Hotel.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//マーブルポリスの
-Process meat from＿
-//<$1B>
-//ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す
-chickens in Marblopolis.Give them to Prof.\n
-Panheim in Hospico.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-Find up to 3＿
-//<$1B>
-//カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す
-Turtle Eggs. Give them to Louis at the Battle\n
-Park BB Ranch.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-Acquire 2＿
-//<$1B>
-//プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す
-Pteranodon Eggs. Give them to Bronco at the\n
-Battle Park BB Ranch.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//「太郎の首輪」を見つけだし、ドギファの\nナターシャか、オーマン家３兄弟に渡す
-Locate Taro's Collar. Give it to Natasha or\n
-one of the 3 Aumann children in Dogyf\n
-Heights.
-<$00>
-
-
-
-
-
-
-//６万
-60, 000
-<$00>
-
-
-
-
-
-
-//あと
-another＿
-<$06><$1E><$0F>
-//000
-<$04>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//Ｇファクトリーのヤマダのために\n
-Deposit＿
-<$1D>
-//￥を預金する
-￥ in an account to Yamada in G Factory.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//コシカタのシンボル「
-Find the＿
-//<$1B>
-//トラの爪」を\n見つけだし、ポリスカに渡す
-Tiger Claw, Koshikata's village symbol.\n
-Return it to Poliska.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ソフィアのために、エターナの桜の木を\nどうにかして咲かせる
-Find out how to revive the sakura trees in\n
-Eterna for Sophia.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//溶岩の中で育った動物の熱いウンチを\nエターナのソフィアに渡す
-Deliver Hot Dung from a lava-dwelling\n
-creature to Sophia in Eterna.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ラグナロッジのエモリに会いに行く
-Meet with Dr. Emori in Ragna Rim.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//「フロッピーと
-Take the Floppy Disc and＿
-<$06>
-//10
-10, 000
-<$04>
-//万￥」を持って、\nＧファクトリー入口１階、\n公衆電話の前に行く
-￥ to the G Factory gate. Answer the payphone.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//「フロッピーと
-Take the Floppy Disc and＿
-<$06>
-//10
-10, 000
-<$04>
-//万￥」を持って、\nパラサイド入口１階、\n公衆電話の前に行く
-￥ to the Paraside gate. Answer the payphone.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//「フロッピーと
-Take the Floppy Disc and＿
-<$06>
-//10
-10, 000
-<$04>
-//万￥」を持って、\nガレックスに行く
-￥ to Galax.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す
-Pick bloodberries in Flora Jam. Take them to\n
-Kevin and Nightshade in Rose Garden.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//パラサイドの酒場にいるアンジェラを\n確認して、リナバレーのマリオに連絡する
-Look for Angela at the Paraside bar. Report\n
-your findings to Mario in Spurr Valley.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//アンジェラを確認するために、\nオズポートホテルの酒場に行く
-Look for Angela at the OzPort Hotel bar.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//アンジェラを確認するために、\n西エリアのしけた町のホテルに行く
-Look for Angela at a hotel bar somewhere in\n
-West Area.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//アンジェラを確認するために、\nドギファの舞台に行く
-Look for Angela at the theater stage in Dogyf\n
-Heights.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//リナバレーのマリオの母、\nアンジェラを追ってオズサットへ行く
-Chase Angela to OzSat! Mario will follow from\n
-Spurr Valley.
-<$00>
-
-
-
-
+//<CLEAR>リナバレーのマリオの母、\nアンジェラを追ってオズサットへ行く<$00>
+<CLEAR>Chase Angela to OzSat! Mario will follow from Spurr Valley.<$00>
 
 
 #WRITE(PTR, $0036)

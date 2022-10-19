@@ -9,2782 +9,848 @@
 #WRITE(PTR, $0034)
 #WRITE(PTR, $0036)
 #WRITE(PTR, $0038)
-<CLEAR>
-//攻撃を選択してください\n
-Attack select:\n
-<$05><$01>
-//054
-054
-<$0E>
-// 
+//<CLEAR>攻撃を選択してください\n<$05><$01>054<$0E> <$01>055<$0E> <$01>056<$0E> <$01>057<$0E> <$01>058<$0E> <$01>059<$0E>\n<$01>060<$0E> <$01>061<$0E> <$01>062<$0E> <$01>063<$0E> <$01>064<$0E> <$01>065<$0E><$00>
+<CLEAR>Attack select:\n
+<$05><$01>054<$0E> <$01>055<$0E> <$01>056<$0E> <$01>057<$0E> <$01>058<$0E> <$01>059<$0E><$01>060<$0E> <$01>061<$0E> <$01>062<$0E> <$01>063<$0E> <$01>064<$0E> <$01>065<$0E><$00>
 
-<$01>
-//055
-055
-<$0E>
-// 
-
-<$01>
-//056
-056
-<$0E>
-// 
 
-<$01>
-//057
-057
-<$0E>
-// 
+//<CLEAR><$1C>Aの攻撃∥\n尿を　まきちらした<$12><$00>
+<CLEAR><$1C>A\n
+sprayed urine everywhere!<$12><$00>
 
-<$01>
-//058
-058
-<$0E>
-// 
 
-<$01>
-//059
-059
-<$0E>
-//\n
-<$01>
-//060
-060
-<$0E>
-// 
+//<CLEAR><$1C>Aの攻撃∥\n道具袋を　ねらって\n長い舌が　伸びてきた∥<$12><$00>
+<CLEAR><$1C>A\n
+reached far to lap at the item bag!<$12><$00>
 
-<$01>
-//061
-061
-<$0E>
-// 
 
-<$01>
-//062
-062
-<$0E>
-// 
+//<CLEAR><$1C>Aは\n遠くを　見ている…<$12><$00>
+<CLEAR><$1C>A\n
+stared into the distance.<$12><$00>
 
-<$01>
-//063
-063
-<$0E>
-// 
 
-<$01>
-//064
-064
-<$0E>
-// 
+//<CLEAR><$1C>Aは\n風の臭いに　おびえている…<$12><$00>
+<CLEAR><$1C>A\n
+trembles at a smell in the air.<$12><$00>
 
-<$01>
-//065
-065
-<$0E>
-<$00>
 
+//<CLEAR><$1C>Aは\n大きく　２度、鳴いた∥<$12><$00>
+<CLEAR><$1C>A\n
+called loudly 2 times!<$12><$00>
 
 
+//<CLEAR><$1C>Aは　<$1C>Tを見て\nヨダレを　たらした∥<$12><$00>
+<CLEAR><$1C>A\n
+drooled at the sight of＿<$1C>T.<$12><$00>
 
 
+//<CLEAR><$1C>Aは\n遠くを　見ている…<$12><$00>
+<CLEAR><$1C>A\n
+stared into the distance.<$12><$00>
 
-<CLEAR>
-//
-<$1C>
-//Aの攻撃∥\n尿を　まきちらした
-A\n
-sprayed urine everywhere!
-<$12>
-<$00>
 
+//<CLEAR><$1C>Aは\n風の臭いに　おびえている…<$12><$00>
+<CLEAR><$1C>A\n
+trembles at a smell in the air.<$12><$00>
 
 
+//<CLEAR><$1C>Aは\n大きく　２度、鳴いた∥<$12><$00>
+<CLEAR><$1C>A\n
+called loudly 2 times!<$12><$00>
 
 
+//<CLEAR><$1C>Aは　<$1C>Tを見て\nヨダレを　たらした∥<$12><$00>
+<CLEAR><$1C>A\n
+drooled at the sight of＿<$1C>T.<$12><$00>
 
-<CLEAR>
-//
-<$1C>
-//Aの攻撃∥\n道具袋を　ねらって\n長い舌が　伸びてきた∥
-A\n
-reached far to lap at the item bag!
-<$12>
-<$00>
 
+//<CLEAR><$1C>Aは\n雄たけびを　あげた∥<$12><$00>
+<CLEAR><$1C>A\n
+let out a battle cry!<$12><$00>
 
 
+//<CLEAR><$1C>Aは\n大量の尿を　噴き出した∥<$12><$00>
+<CLEAR><$1C>A\n
+drowned the area in urine!<$12><$00>
 
 
+//<CLEAR><$1C>Aの攻撃∥\n<$1C>a　噴出∥<$12><$00>
+<CLEAR><$1C>A\n
+spewed＿<$1C>a!<$12><$00>
 
-<CLEAR>
-//
-<$1C>
-//Aは\n遠くを　見ている…
-A\n
-stared into the distance.
-<$12>
-<$00>
 
+//<CLEAR><$1C>Aは\n大きく息を　吸い込んで\nそのまま　破裂した∥<$12><$00>
+<CLEAR><$1C>A\n
+took a deep breath and exploded!<$12><$00>
 
 
+//<CLEAR><$1C>Aの攻撃\nドロリと　唾液をたらした…\n溶解スピット∥<$12><$00>
+<CLEAR><$1C>A\n
+attacked with a gooey, dissolving saliva!<$12><$00>
 
 
+//<CLEAR><$1C>Aは\nガソリンを　浴びせた∥<$12><$00>
+<CLEAR><$1C>A\n
+poured gasoline all over themself!<$12><$00>
 
-<CLEAR>
-//
-<$1C>
-//Aは\n風の臭いに　おびえている…
-A\n
-trembles at a smell in the air.
-<$12>
-<$00>
 
+//<CLEAR><$1C>Aは\n塩水を　浴びせた∥<$12><$00>
+<CLEAR><$1C>A\n
+basked in the salt water!<$12><$00>
 
 
+//<CLEAR><$05><$01>066<$0E> <$01>067<$0E> <$01>068<$0E> <$01>069<$0E> <$01>070<$0E> <$01>071<$0E>\n<$01>072<$0E> <$01>073<$0E> <$01>074<$0E> <$01>075<$0E> <$01>076<$0E> <$01>077<$0E>\n<$01>078<$0E> <$01>079<$0E> <$01>080<$0E> <$01>081<$0E> <$01>082<$0E> <$01>083<$0E><$00>
+<CLEAR><$05><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$00>
 
 
+//<CLEAR><$1C>Aは\n水を　浴びせた∥<$12><$00>
+<CLEAR><$1C>A\n
+basked in the water!<$12><$00>
 
-<CLEAR>
-//
-<$1C>
-//Aは\n大きく　２度、鳴いた∥
-A\n
-called loudly 2 times!
-<$12>
-<$00>
 
+//<CLEAR><$1C>Aの攻撃∥\n瞳の奥の　かすかな光∥\n催眠ビーム∥<$12><$00>
+<CLEAR><$1C>A\n
+fires a hypnotic beam from their blank eyes.<$12><$00>
 
 
+//<CLEAR><$1C>Aの攻撃∥\n窒息ガス噴射∥<$12><$00>
+<CLEAR><$1C>A\n
+released choking gas!<$12><$00>
 
 
+//<CLEAR><$1C>Aは\n<$1C>Kを　飛び越えて\n反対側に　着地した∥<$00>
+<CLEAR><$1C>A\n
+sprang over＿<$1C>K\n
+and landed on the other side!<$00>
 
-<CLEAR>
-//
-<$1C>
-//Aは　
-A\n
-drooled at the sight of＿
-<$1C>
-//Tを見て\nヨダレを　たらした∥
-T.
-<$12>
-<$00>
 
+//<CLEAR><$1C>Aは\n周囲の色に　体を染めた∥<$00>
+<CLEAR><$1C>A\n
+blended in with its surroundings.<$00>
 
 
+//１<$00>
+1<$00>
 
 
+//２<$00>
+2<$00>
 
-<CLEAR>
-//
-<$1C>
-//Aは\n遠くを　見ている…
-A\n
-stared into the distance.
-<$12>
-<$00>
 
+//３<$00>
+3<$00>
 
 
+//<CLEAR><$1C>Aは\n<$1D>度　鼻を鳴らした∥<$12><$00>
+<CLEAR><$1C>A\n
+snorted＿<$1D>＿times!<$12><$00>
 
 
+//１<$00>
+1<$00>
 
-<CLEAR>
-//
-<$1C>
-//Aは\n風の臭いに　おびえている…
-A\n
-trembles at a smell in the air.
-<$12>
-<$00>
 
+//２<$00>
+2<$00>
 
 
+//３<$00>
+3<$00>
 
 
+//<CLEAR><$1C>Aは\n<$1D>度　のどを鳴らした∥<$12><$00>
+<CLEAR><$1C>A\n
+growled＿<$1D>＿times!<$12><$00>
 
-<CLEAR>
-//
-<$1C>
-//Aは\n大きく　２度、鳴いた∥
-A\n
-called loudly 2 times!
-<$12>
-<$00>
 
+//<CLEAR><$1C>Aは　丹念に\n<$1C>Tの全身を　なめた∥<$12><$00>
+<CLEAR><$1C>A\n
+licked＿<$1C>'s\n
+body intently.<$12><$00>
 
 
+//<CLEAR><$1C>Aは　体内に\nドパーミンを　分泌した∥<$12><$00>
+<CLEAR><$1C>A\n
+secreted excess dopamine!<$12><$00>
 
 
+//<CLEAR><$1C>Aの攻撃∥\n全身から　高熱を放った∥<$00>
+<CLEAR><$1C>A's\n
+body temperature rose sharply!<$00>
 
-<CLEAR>
-//
-<$1C>
-//Aは　
-A\n
-drooled at the sight of＿
-<$1C>
-//Tを見て\nヨダレを　たらした∥
-T.
-<$12>
-<$00>
 
+//<CLEAR><$1C>Aの攻撃∥\n衝撃タックル∥<$12><$00>
+<CLEAR><$1C>A\n
+made a blunt tackle!<$12><$00>
 
 
+//<CLEAR><$1C>Aは\n遠くを　見ている…<$12><$00>
+<CLEAR><$1C>A\n
+stared into the distance.<$12><$00>
 
 
+//<CLEAR><$1C>Aは\n風の臭いに　おびえている…<$12><$00>
+<CLEAR><$1C>A\n
+trembles at a smell in the air.<$12><$00>
 
-<CLEAR>
-//
-<$1C>
-//Aは\n雄たけびを　あげた∥
-A\n
-let out a battle cry!
-<$12>
-<$00>
 
+//<CLEAR><$1C>Aは\n大きく　２度、鳴いた∥<$12><$00>
+<CLEAR><$1C>A\n
+called loudly 2 times!<$12><$00>
 
 
+//<CLEAR><$1C>Aは　<$1C>Tを見て\nヨダレを　たらした∥<$12><$00>
+<CLEAR><$1C>A\n
+drooled at the sight of＿<$1C>T.<$12><$00>
 
 
+//<CLEAR><$1C>Aの攻撃∥\n迷走ガス　噴射∥<$12><$00>
+<CLEAR><$1C>A\n
+released dizzy gas!<$12><$00>
 
-<CLEAR>
-//
-<$1C>
-//Aは\n大量の尿を　噴き出した∥
-A\n
-drowned the area in urine!
-<$12>
-<$00>
 
+//<CLEAR><$05><$01>084<$0E> <$01>085<$0E> <$01>086<$0E> <$01>087<$0E> <$01>088<$0E> <$01>089<$0E>\n<$01>090<$0E> <$01>091<$0E> <$01>092<$0E> <$01>093<$0E> <$01>094<$0E> <$01>096<$0E>\n<$01>097<$0E> <$01>098<$0E> <$01>099<$0E> <$01>100<$0E> <$01>101<$0E><$00>
+<CLEAR><$05><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$00>
 
 
+//<CLEAR><$1C>Aは\n力を溜めている∥<$12><$00>
+<CLEAR><$1C>A\n
+is gathering strength!<$12><$00>
 
 
+//<CLEAR><$1C>Aの攻撃∥\n強力な光を　全身から放った∥\n残像スパーク∥<$12><$00>
+<CLEAR><$1C>A∥\n
+unleashed palinopsic flashes from its body!<$12><$00>
 
-<CLEAR>
-//
-<$1C>
-//Aの攻撃∥\n
-A\n
-spewed＿
-<$1C>
-//a　噴出∥
-a!
-<$12>
-<$00>
 
+//<CLEAR><$1C>Aの攻撃∥\n道具袋を　ねらって\n長い舌が　伸びてきた∥<$12><$00>
+<CLEAR><$1C>A\n
+reached far to lap at the item bag!<$12><$00>
 
 
+//<CLEAR><$1C>Aは\nベトベトの　吐シャ物を\nぶちまけた∥<$12><$00>
+<CLEAR><$1C>A\n
+hurled a sticky pile of vomit!<$12><$00>
 
 
+//<CLEAR><$1C>Aの攻撃∥\n「グるろ　グるろ」と\n腹を鳴らした∥<$12><$00>
+<CLEAR><$1C>A\n
+attacked, growling from the pit of its stomach!<$12><$00>
 
-<CLEAR>
-//
-<$1C>
-//Aは\n大きく息を　吸い込んで\nそのまま　破裂した∥
-A\n
-took a deep breath and exploded!
-<$12>
-<$00>
 
+//<CLEAR><$1C>Aの攻撃∥\n美しい鳴き声で　歌った∥<$12><$00>
+<CLEAR><$1C>A\n
+chirped a lovely song!<$12><$00>
 
 
+//<CLEAR><$1C>Aは　ホルモンの\n分泌を変化させた∥\nＧＥＮＤＥＲ　ＣＨＡＮＧＥ∥<$00>
+<CLEAR><$1C>A\n
+felt a strong hormonal shift, changing genders!<$00>
 
 
+//<CLEAR><$1C>Aは　優しく\n<$1C>Oの脚を　噛んだ∥\nアドレナリン注入∥<$12><$00>
+<CLEAR><$1C>A\n
+pierced＿<$1C>O's leg with a surge of adrenaline!<$12><$00>
 
-<CLEAR>
-//
-<$1C>
-//Aの攻撃\nドロリと　唾液をたらした…\n溶解スピット∥
-A\n
-attacked with a gooey, dissolving saliva!
-<$12>
-<$00>
 
+//<CLEAR><$1C>Aの攻撃∥\n氷塊ランチャー　発射∥<$12><$00>
+<CLEAR><$1C>A\n
+catapulted a great ice block!<$12><$00>
 
 
+//<CLEAR><$1C>Aの攻撃∥\n青酸ガス　噴射∥<$12><$00>
+<CLEAR><$1C>A\n
+sprays hydrogen cyanide gas!<$12><$00>
 
 
+//<CLEAR><$1C>Aの攻撃∥\n放射能プラズマ　爆発∥<$12><$00>
+<CLEAR><$1C>A\n
+attacked with a radioactive explosion!<$12><$00>
 
-<CLEAR>
-//
-<$1C>
-//Aは\nガソリンを　浴びせた∥
-A\n
-poured gasoline all over themself!
-<$12>
-<$00>
 
+//<CLEAR><$1C>Aの攻撃∥\n口から　溶岩を噴いた∥<$12><$00>
+<CLEAR><$1C>A\n
+shot lava from its mouth!<$12><$00>
 
 
+//<CLEAR><$1C>Aの攻撃∥\n煮えたぎる　胃液のシャワー∥<$00>
+<CLEAR><$1C>A\n
+makes it rain with gastric acid.<$00>
 
 
+//<CLEAR><$1C>Aの攻撃∥\n真空ハリケーン∥<$12><$00>
+<CLEAR><$1C>A\n
+unleashes a vacuum-like hurricane!<$12><$00>
 
-<CLEAR>
-//
-<$1C>
-//Aは\n塩水を　浴びせた∥
-A\n
-basked in the salt water!
-<$12>
-<$00>
 
+//<CLEAR><$1C>Aの攻撃∥\n全身から　高熱を発した∥\n赤熱ヒート∥<$12><$00>
+<CLEAR><$1C>A\n
+attacked with a burning inner heat!<$12><$00>
 
 
+//<CLEAR><$1C>Aの攻撃∥\nピンクの煙を　噴き出した∥<$12><$00>
+<CLEAR><$1C>A\n
+spewed＿pink smoke!<$12><$00>
 
 
+//<CLEAR><$05><$01>102<$0E> <$01>103<$0E> <$01>104<$0E> <$01>105<$0E> <$01>117<$0E> <$01>118<$0E> <$01>119<$0E> \n<$01>144<$0E> <$01>145<$0E><$00>
+<CLEAR><$05><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$00>
 
-<CLEAR>
 
-<$05><$01>
-066
-<$0E>
- 
-<$01>
-067
-<$0E>
- 
-<$01>
-068
-<$0E>
- 
-<$01>
-069
-<$0E>
- 
-<$01>
-070
-<$0E>
- 
-<$01>
-071
-<$0E>
-\n
-<$01>
-072
-<$0E>
- 
-<$01>
-073
-<$0E>
- 
-<$01>
-074
-<$0E>
- 
-<$01>
-075
-<$0E>
- 
-<$01>
-076
-<$0E>
- 
-<$01>
-077
-<$0E>
-\n
-<$01>
-078
-<$0E>
- 
-<$01>
-079
-<$0E>
- 
-<$01>
-080
-<$0E>
- 
-<$01>
-081
-<$0E>
- 
-<$01>
-082
-<$0E>
- 
-<$01>
-083
-<$0E>
-<$00>
+//<CLEAR><$1C>Aは\n遠くを　見ている…<$12><$00>
+<CLEAR><$1C>A\n
+stared into the distance.<$12><$00>
 
 
+//<CLEAR><$1C>Aは\n風の臭いに　おびえている…<$12><$00>
+<CLEAR><$1C>A\n
+trembles at a smell in the air.<$12><$00>
 
 
-<CLEAR>
-//
-<$1C>
-//Aは\n水を　浴びせた∥
-A\n
-basked in the water!
-<$12>
-<$00>
+//<CLEAR><$1C>Aは\n大きく　２度、鳴いた∥<$12><$00>
+<CLEAR><$1C>A\n
+called loudly 2 times!<$12><$00>
 
 
+//<CLEAR><$1C>Aは　<$1C>Tを見て\nヨダレを　たらした∥<$12><$00>
+<CLEAR><$1C>A\n
+drooled at the sight of＿<$1C>T.<$12><$00>
 
 
+//<CLEAR><$1C>Aは\n遠くを　見ている…<$12><$00>
+<CLEAR><$1C>A\n
+stared into the distance.<$12><$00>
 
 
-<CLEAR>
-//
-<$1C>
-//Aの攻撃∥\n瞳の奥の　かすかな光∥\n催眠ビーム∥
-A\n
-fires a hypnotic beam from their blank eyes.
-<$12>
-<$00>
+//<CLEAR><$1C>Aは\n風の臭いに　おびえている…<$12><$00>
+<CLEAR><$1C>A\n
+trembles at a smell in the air.<$12><$00>
 
 
+//<CLEAR><$1C>Aは\n大きく　２度、鳴いた∥<$12><$00>
+<CLEAR><$1C>A\n
+called loudly 2 times!<$12><$00>
 
 
+//<CLEAR><$1C>Aは　<$1C>Tを見て\nヨダレを　たらした∥<$12><$00>
+<CLEAR><$1C>A\n
+drooled at the sight of＿<$1C>T.<$12><$00>
 
 
-<CLEAR>
-//
-<$1C>
-//Aの攻撃∥\n窒息ガス噴射∥
-A\n
-released choking gas!
-<$12>
-<$00>
+//<CLEAR><$1C>Aは\n地面を　掘り返している…<$12><$00>
+<CLEAR><$1C>A\n
+raked up the soil...<$12><$00>
 
 
+//<CLEAR><$05><$01>000<$0E> <$01>001<$0E> <$01>002<$0E> <$01>003<$0E> <$01>004<$0E> <$01>005<$0E>\n<$01>006<$0E> <$01>007<$0E> <$01>008<$0E> <$01>009<$0E> <$01>010<$0E> <$01>011<$0E>\n<$01>012<$0E> <$01>013<$0E> <$01>014<$0E> <$01>015<$0E> <$01>016<$0E> <$01>017<$0E><$00>
+<CLEAR><$05><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$00>
 
 
+//<CLEAR><$05><$01>018<$0E> <$01>019<$0E> <$01>020<$0E> <$01>021<$0E> <$01>022<$0E> <$01>023<$0E>\n<$01>024<$0E> <$01>025<$0E> <$01>026<$0E> <$01>027<$0E> <$01>028<$0E> <$01>029<$0E>\n<$01>030<$0E> <$01>031<$0E> <$01>032<$0E> <$01>033<$0E> <$01>034<$0E> <$01>035<$0E><$00>
+<CLEAR><$05><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$00>
 
 
-<CLEAR>
-//
-<$1C>
-//Aは\n
-A\n
-sprang over＿
-<$1C>
-//Kを　飛び越えて\n反対側に　着地した∥
-K\n
-and landed on the other side!
-<$00>
+//<CLEAR><$05><$01>036<$0E> <$01>037<$0E> <$01>038<$0E> <$01>039<$0E> <$01>040<$0E> <$01>041<$0E>\n<$01>042<$0E> <$01>043<$0E> <$01>048<$0E> <$01>049<$0E><$00>
+<CLEAR><$05><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$00>
 
 
+//<CLEAR><$1C>Aの攻撃∥\n瞳の奥の　かすかな光∥\n催眠ビーム∥<$12><$00>
+<CLEAR><$1C>A\n
+fires a hypnotic beam from their blank eyes.<$12><$00>
 
 
+//<CLEAR><$1C>Aの攻撃∥\n強力な光を　全身から放った∥\n残像スパーク∥<$12><$00>
+<CLEAR><$1C>A∥\n
+unleashed palinopsic flashes from its body!<$12><$00>
 
 
-<CLEAR>
-//
-<$1C>
-//Aは\n周囲の色に　体を染めた∥
-A\n
-blended in with its surroundings.
-<$00>
+//<CLEAR><$1C>Aの攻撃∥\nピンクの煙を　噴き出した∥<$12><$00>
+<CLEAR><$1C>A\n
+spewed＿pink smoke!<$12><$00>
 
 
+//<CLEAR><$1C>Aは\n<$1C>Kを　飛び越えて\n反対側に　着地した∥<$00>
+<CLEAR><$1C>A\n
+sprang over＿<$1C>K\n
+and landed on the other side!<$00>
 
 
+//<CLEAR><$1C>Aは\n<$1C>Kを　飛び越えて\n反対側に　着地した∥<$00>
+<CLEAR><$1C>A\n
+sprang over＿<$1C>K\n
+and landed on the other side!<$00>
 
 
-//１
-1
-<$00>
+//１<$00>
+1<$00>
 
 
+//２<$00>
+2<$00>
 
 
+//３<$00>
+3<$00>
 
 
-//２
-2
-<$00>
+//<CLEAR><$1C>Aは\n<$1D>度　のどを鳴らした∥<$12><$00>
+<CLEAR><$1C>A\n
+growled＿<$1D>＿times!<$12><$00>
 
 
+//<CLEAR><$1C>Aは\n<$1C>Kを　飛び越えて\n反対側に　着地した∥<$00>
+<CLEAR><$1C>A\n
+sprang over＿<$1C>K\n
+and landed on the other side!<$00>
 
 
+//１<$00>
+1<$00>
 
 
-//３
-3
-<$00>
+//２<$00>
+2<$00>
 
 
+//３<$00>
+3<$00>
 
 
+//<CLEAR><$1C>Aは\n<$1D>度　のどを鳴らした∥<$12><$00>
+<CLEAR><$1C>A\n
+growled＿<$1D>＿times!<$12><$00>
 
 
-<CLEAR>
-//
-<$1C>
-//Aは\n
-A\n
-snorted＿
-<$1D>
-//度　鼻を鳴らした∥
-＿times!
-<$12>
-<$00>
+//<CLEAR><$1C>Aは\nベトベトの　吐シャ物を\nぶちまけた∥<$12><$00>
+<CLEAR><$1C>A\n
+hurled a sticky pile of vomit!<$12><$00>
 
 
+//<CLEAR><$1C>Aは\n遠くを　見ている…<$12><$00>
+<CLEAR><$1C>A\n
+stared into the distance.<$12><$00>
 
 
+//<CLEAR><$1C>Aは\n風の臭いに　おびえている…<$12><$00>
+<CLEAR><$1C>A\n
+trembles at a smell in the air.<$12><$00>
 
 
-//１
-1
-<$00>
+//<CLEAR><$1C>Aは\n大きく　２度、鳴いた∥<$12><$00>
+<CLEAR><$1C>A\n
+called loudly 2 times!<$12><$00>
 
 
+//<CLEAR><$1C>Aは　<$1C>Tを見て\nヨダレを　たらした∥<$12><$00>
+<CLEAR><$1C>A\n
+drooled at the sight of＿<$1C>T.<$12><$00>
 
 
+//<CLEAR><$1C>Aは\nベトベトの　吐シャ物を\nぶちまけた∥<$12><$00>
+<CLEAR><$1C>A\n
+hurled a sticky pile of vomit!<$12><$00>
 
 
-//２
-2
-<$00>
+//<CLEAR><$1C>Aは\n遠くを　見ている…<$12><$00>
+<CLEAR><$1C>A\n
+stared into the distance.<$12><$00>
 
 
+//<CLEAR><$1C>Aは\n風の臭いに　おびえている…<$12><$00>
+<CLEAR><$1C>A\n
+trembles at a smell in the air.<$12><$00>
 
 
+//<CLEAR><$1C>Aは\n大きく　２度、鳴いた∥<$12><$00>
+<CLEAR><$1C>A\n
+called loudly 2 times!<$12><$00>
 
 
-//３
-3
-<$00>
+//<CLEAR><$1C>Aは　<$1C>Tを見て\nヨダレを　たらした∥<$12><$00>
+<CLEAR><$1C>A\n
+drooled at the sight of＿<$1C>T.<$12><$00>
 
 
+//１<$00>
+1<$00>
 
 
+//２<$00>
+2<$00>
 
 
-<CLEAR>
-//
-<$1C>
-//Aは\n
-A\n
-growled＿
-<$1D>
-//度　のどを鳴らした∥
-＿times!
-<$12>
-<$00>
+//３<$00>
+3<$00>
 
 
+//<CLEAR><$1C>Aは\n<$1D>度　鼻を鳴らした∥<$12><$00>
+<CLEAR><$1C>A\n
+snorted＿<$1D>＿times!<$12><$00>
 
 
+//<CLEAR><$1C>Aは\n塩水を　浴びせた∥<$12><$00>
+<CLEAR><$1C>A\n
+basked in the salt water!<$12><$00>
 
 
-<CLEAR>
-//
-<$1C>
-//Aは　丹念に\n
-A\n
-licked＿
-<$1C>
-//Tの全身を　なめた∥
-'s\n
-body intently.
-<$12>
-<$00>
+//<CLEAR><$1C>Aの攻撃∥\n氷塊ランチャー　発射∥<$12><$00>
+<CLEAR><$1C>A\n
+catapulted a great ice block!<$12><$00>
 
 
+//<CLEAR><$1C>Aは\n遠くを　見ている…<$12><$00>
+<CLEAR><$1C>A\n
+stared into the distance.<$12><$00>
 
 
+//<CLEAR><$1C>Aは\n風の臭いに　おびえている…<$12><$00>
+<CLEAR><$1C>A\n
+trembles at a smell in the air.<$12><$00>
 
 
-<CLEAR>
-//
-<$1C>
-//Aは　体内に\nドパーミンを　分泌した∥
-A\n
-secreted excess dopamine!
-<$12>
-<$00>
+//<CLEAR><$1C>Aは\n大きく　２度、鳴いた∥<$12><$00>
+<CLEAR><$1C>A\n
+called loudly 2 times!<$12><$00>
 
 
+//<CLEAR><$1C>Aは　<$1C>Tを見て\nヨダレを　たらした∥<$12><$00>
+<CLEAR><$1C>A\n
+drooled at the sight of＿<$1C>T.<$12><$00>
 
 
+//<CLEAR><$1C>Aは\n雄たけびを　あげた∥<$12><$00>
+<CLEAR><$1C>A\n
+let out a battle cry!<$12><$00>
 
 
-<CLEAR>
-//
-<$1C>
-//Aの攻撃∥\n全身から　高熱を放った∥
-A's\n
-body temperature rose sharply!
-<$00>
+//<CLEAR><$1C>Aの攻撃∥\n<$1C>a　噴出∥<$12><$00>
+<CLEAR><$1C>A\n
+spewed＿<$1C>a!<$12><$00>
 
 
+//<CLEAR><$1C>Aの攻撃∥\n窒息ガス噴射∥<$12><$00>
+<CLEAR><$1C>A\n
+released choking gas!<$12><$00>
 
 
+//<CLEAR><$1C>Aの攻撃∥\n道具袋を　ねらって\n長い舌が　伸びてきた∥<$12><$00>
+<CLEAR><$1C>A\n
+reached far to lap at the item bag!<$12><$00>
 
 
-<CLEAR>
-//
-<$1C>
-//Aの攻撃∥\n衝撃タックル∥
-A\n
-made a blunt tackle!
-<$12>
-<$00>
+//<CLEAR><$1C>Aの攻撃∥\nピンクの煙を　噴き出した∥<$12><$00>
+<CLEAR><$1C>A\n
+spewed＿pink smoke!<$12><$00>
 
 
+//<CLEAR><$1C>Aは\n遠くを　見ている…<$12><$00>
+<CLEAR><$1C>A\n
+stared into the distance.<$12><$00>
 
 
+//<CLEAR><$1C>Aは\n風の臭いに　おびえている…<$12><$00>
+<CLEAR><$1C>A\n
+trembles at a smell in the air.<$12><$00>
 
 
-<CLEAR>
-//
-<$1C>
-//Aは\n遠くを　見ている…
-A\n
-stared into the distance.
-<$12>
-<$00>
+//<CLEAR><$1C>Aは\n大きく　２度、鳴いた∥<$12><$00>
+<CLEAR><$1C>A\n
+called loudly 2 times!<$12><$00>
 
 
+//<CLEAR><$1C>Aは　<$1C>Tを見て\nヨダレを　たらした∥<$12><$00>
+<CLEAR><$1C>A\n
+drooled at the sight of＿<$1C>T.<$12><$00>
 
 
+//<CLEAR><$1C>Aは\n塩水を　浴びせた∥<$12><$00>
+<CLEAR><$1C>A\n
+basked in the salt water!<$12><$00>
 
 
-<CLEAR>
-//
-<$1C>
-//Aは\n風の臭いに　おびえている…
-A\n
-trembles at a smell in the air.
-<$12>
-<$00>
+//<CLEAR><$1C>Aの攻撃\nドロリと　唾液をたらした…\n溶解スピット∥<$12><$00>
+<CLEAR><$1C>A\n
+attacked with a gooey, dissolving saliva!<$12><$00>
 
 
+//<CLEAR><$1C>Aは\n周囲の色に　体を染めた∥<$00>
+<CLEAR><$1C>A\n
+blended in with its surroundings.<$00>
 
 
+//<CLEAR><$1C>Aは\n周囲の色に　体を染めた∥<$00>
+<CLEAR><$1C>A\n
+blended in with its surroundings.<$00>
 
 
-<CLEAR>
-//
-<$1C>
-//Aは\n大きく　２度、鳴いた∥
-A\n
-called loudly 2 times!
-<$12>
-<$00>
+//<CLEAR><$1C>Aの攻撃∥\n煮えたぎる　胃液のシャワー∥<$00>
+<CLEAR><$1C>A\n
+makes it rain with gastric acid.<$00>
 
 
+//<CLEAR><$1C>Aは\n大量の尿を　噴き出した∥<$12><$00>
+<CLEAR><$1C>A\n
+drowned the area in urine!<$12><$00>
 
 
+//１<$00>
+1<$00>
 
 
-<CLEAR>
-//
-<$1C>
-//Aは　
-A\n
-drooled at the sight of＿
-<$1C>
-//Tを見て\nヨダレを　たらした∥
-T.
-<$12>
-<$00>
+//２<$00>
+2<$00>
 
 
+//３<$00>
+3<$00>
 
 
+//<CLEAR><$1C>Aは\n<$1D>度　のどを鳴らした∥<$12><$00>
+<CLEAR><$1C>A\n
+growled＿<$1D>＿times!<$12><$00>
 
 
-<CLEAR>
-//
-<$1C>
-//Aの攻撃∥\n迷走ガス　噴射∥
-A\n
-released dizzy gas!
-<$12>
-<$00>
+//<CLEAR><$1C>Aは\n大量の尿を　噴き出した∥<$12><$00>
+<CLEAR><$1C>A\n
+drowned the area in urine!<$12><$00>
 
 
+//<CLEAR><$1C>Aの攻撃∥\n瞳の奥の　かすかな光∥\n催眠ビーム∥<$12><$00>
+<CLEAR><$1C>A\n
+fires a hypnotic beam from their blank eyes.<$12><$00>
 
 
+//<CLEAR><$1C>Aは\n遠くを　見ている…<$12><$00>
+<CLEAR><$1C>A\n
+stared into the distance.<$12><$00>
 
 
-<CLEAR>
+//<CLEAR><$1C>Aは\n風の臭いに　おびえている…<$12><$00>
+<CLEAR><$1C>A\n
+trembles at a smell in the air.<$12><$00>
 
-<$05><$01>
-084
-<$0E>
- 
-<$01>
-085
-<$0E>
- 
-<$01>
-086
-<$0E>
- 
-<$01>
-087
-<$0E>
- 
-<$01>
-088
-<$0E>
- 
-<$01>
-089
-<$0E>
-\n
-<$01>
-090
-<$0E>
- 
-<$01>
-091
-<$0E>
- 
-<$01>
-092
-<$0E>
- 
-<$01>
-093
-<$0E>
- 
-<$01>
-094
-<$0E>
- 
-<$01>
-096
-<$0E>
-\n
-<$01>
-097
-<$0E>
- 
-<$01>
-098
-<$0E>
- 
-<$01>
-099
-<$0E>
- 
-<$01>
-100
-<$0E>
- 
-<$01>
-101
-<$0E>
-<$00>
 
+//<CLEAR><$1C>Aは\n大きく　２度、鳴いた∥<$12><$00>
+<CLEAR><$1C>A\n
+called loudly 2 times!<$12><$00>
 
 
+//<CLEAR><$1C>Aは　<$1C>Tを見て\nヨダレを　たらした∥<$12><$00>
+<CLEAR><$1C>A\n
+drooled at the sight of＿<$1C>T.<$12><$00>
 
-<CLEAR>
-//
-<$1C>
-//Aは\n力を溜めている∥
-A\n
-is gathering strength!
-<$12>
-<$00>
 
+//<CLEAR><$1C>Aは\n<$1C>Kを　飛び越えて\n反対側に　着地した∥<$00>
+<CLEAR><$1C>A\n
+sprang over＿<$1C>K\n
+and landed on the other side!<$00>
 
 
+//<CLEAR><$1C>Aは\n遠くを　見ている…<$12><$00>
+<CLEAR><$1C>A\n
+stared into the distance.<$12><$00>
 
 
+//<CLEAR><$1C>Aは\n風の臭いに　おびえている…<$12><$00>
+<CLEAR><$1C>A\n
+trembles at a smell in the air.<$12><$00>
 
-<CLEAR>
-//
-<$1C>
-//Aの攻撃∥\n強力な光を　全身から放った∥\n残像スパーク∥
-A∥\n
-unleashed palinopsic flashes from its body!
-<$12>
-<$00>
 
+//<CLEAR><$1C>Aは\n大きく　２度、鳴いた∥<$12><$00>
+<CLEAR><$1C>A\n
+called loudly 2 times!<$12><$00>
 
 
+//<CLEAR><$1C>Aは　<$1C>Tを見て\nヨダレを　たらした∥<$12><$00>
+<CLEAR><$1C>A\n
+drooled at the sight of＿<$1C>T.<$12><$00>
 
 
+//<CLEAR><$1C>Aは\n<$1C>Kを　飛び越えて\n反対側に　着地した∥<$00>
+<CLEAR><$1C>A\n
+sprang over＿<$1C>K\n
+and landed on the other side!<$00>
 
-<CLEAR>
-//
-<$1C>
-//Aの攻撃∥\n道具袋を　ねらって\n長い舌が　伸びてきた∥
-A\n
-reached far to lap at the item bag!
-<$12>
-<$00>
 
+//<CLEAR><$1C>Aは　体内に\nドパーミンを　分泌した∥<$12><$00>
+<CLEAR><$1C>A\n
+secreted excess dopamine!<$12><$00>
 
 
+//<CLEAR><$1C>Aの攻撃∥\n<$1C>a　噴出∥<$12><$00>
+<CLEAR><$1C>A\n
+spewed＿<$1C>a!<$12><$00>
 
 
+//<CLEAR><$1C>Aは\n遠くを　見ている…<$12><$00>
+<CLEAR><$1C>A\n
+stared into the distance.<$12><$00>
 
-<CLEAR>
-//
-<$1C>
-//Aは\nベトベトの　吐シャ物を\nぶちまけた∥
-A\n
-hurled a sticky pile of vomit!
-<$12>
-<$00>
 
+//<CLEAR><$1C>Aは\n風の臭いに　おびえている…<$12><$00>
+<CLEAR><$1C>A\n
+trembles at a smell in the air.<$12><$00>
 
 
+//<CLEAR><$1C>Aは\n大きく　２度、鳴いた∥<$12><$00>
+<CLEAR><$1C>A\n
+called loudly 2 times!<$12><$00>
 
 
+//<CLEAR><$1C>Aは　<$1C>Tを見て\nヨダレを　たらした∥<$12><$00>
+<CLEAR><$1C>A\n
+drooled at the sight of＿<$1C>T.<$12><$00>
 
-<CLEAR>
-//
-<$1C>
-//Aの攻撃∥\n「グるろ　グるろ」と\n腹を鳴らした∥
-A\n
-attacked, growling from the pit of its\n
-stomach!
-<$12>
-<$00>
 
+//<CLEAR><$1C>Aは\n大きく息を　吸い込んで\nそのまま　破裂した∥<$12><$00>
+<CLEAR><$1C>A\n
+took a deep breath and exploded!<$12><$00>
 
 
+//<CLEAR><$1C>Aの攻撃∥\n迷走ガス　噴射∥<$12><$00>
+<CLEAR><$1C>A\n
+released dizzy gas!<$12><$00>
 
 
+//１<$00>
+1<$00>
 
-<CLEAR>
-//
-<$1C>
-//Aの攻撃∥\n美しい鳴き声で　歌った∥
-A\n
-chirped a lovely song!
-<$12>
-<$00>
 
+//２<$00>
+2<$00>
 
 
+//３<$00>
+3<$00>
 
 
+//<CLEAR><$1C>Aは\n<$1D>度　鼻を鳴らした∥<$12><$00>
+<CLEAR><$1C>A\n
+snorted＿<$1D>＿times!<$12><$00>
 
-<CLEAR>
-//
-<$1C>
-//Aは　ホルモンの\n分泌を変化させた∥\nＧＥＮＤＥＲ　ＣＨＡＮＧＥ∥
-A\n
-felt a strong hormonal shift, changing\n
-genders!
-<$00>
 
+//<CLEAR><$1C>Aは\n遠くを　見ている…<$12><$00>
+<CLEAR><$1C>A\n
+stared into the distance.<$12><$00>
 
 
+//<CLEAR><$1C>Aは\n風の臭いに　おびえている…<$12><$00>
+<CLEAR><$1C>A\n
+trembles at a smell in the air.<$12><$00>
 
 
+//<CLEAR><$1C>Aは\n大きく　２度、鳴いた∥<$12><$00>
+<CLEAR><$1C>A\n
+called loudly 2 times!<$12><$00>
 
-<CLEAR>
-//
-<$1C>
-//Aは　優しく\n
-A\n
-pierced＿
-<$1C>
-//Oの脚を　噛んだ∥\nアドレナリン注入∥
-O's leg with a surge of adrenaline!
-<$12>
-<$00>
 
+//<CLEAR><$1C>Aは　<$1C>Tを見て\nヨダレを　たらした∥<$12><$00>
+<CLEAR><$1C>A\n
+drooled at the sight of＿<$1C>T.<$12><$00>
 
 
+//<CLEAR><$1C>Aは\n大きく息を　吸い込んで\nそのまま　破裂した∥<$12><$00>
+<CLEAR><$1C>A\n
+took a deep breath and exploded!<$12><$00>
 
 
+//<CLEAR><$1C>Aの攻撃∥\n迷走ガス　噴射∥<$12><$00>
+<CLEAR><$1C>A\n
+released dizzy gas!<$12><$00>
 
-<CLEAR>
-//
-<$1C>
-//Aの攻撃∥\n氷塊ランチャー　発射∥
-A\n
-catapulted a great ice block!
-<$12>
-<$00>
 
+//<CLEAR><$1C>Aの攻撃∥\n瞳の奥の　かすかな光∥\n催眠ビーム∥<$12><$00>
+<CLEAR><$1C>A\n
+fires a hypnotic beam from their blank eyes.<$12><$00>
 
 
+//<CLEAR><$1C>Aは\n力を溜めている∥<$12><$00>
+<CLEAR><$1C>A\n
+is gathering strength!<$12><$00>
 
 
+//<CLEAR><$1C>Aは\nベトベトの　吐シャ物を\nぶちまけた∥<$12><$00>
+<CLEAR><$1C>A\n
+hurled a sticky pile of vomit!<$12><$00>
 
-<CLEAR>
-//
-<$1C>
-//Aの攻撃∥\n青酸ガス　噴射∥
-A\n
-sprays hydrogen cyanide gas!
-<$12>
-<$00>
 
+//１<$00>
+1<$00>
 
 
+//２<$00>
+2<$00>
 
 
+//３<$00>
+3<$00>
 
-<CLEAR>
-//
-<$1C>
-//Aの攻撃∥\n放射能プラズマ　爆発∥
-A\n
-attacked with a radioactive explosion!
-<$12>
-<$00>
 
+//<CLEAR><$1C>Aは\n<$1D>度　のどを鳴らした∥<$12><$00>
+<CLEAR><$1C>A\n
+growled＿<$1D>＿times!<$12><$00>
 
 
+//<CLEAR><$1C>Aは\n力を溜めている∥<$12><$00>
+<CLEAR><$1C>A\n
+is gathering strength!<$12><$00>
 
 
+//<CLEAR><$1C>Aは\n遠くを　見ている…<$12><$00>
+<CLEAR><$1C>A\n
+stared into the distance.<$12><$00>
 
-<CLEAR>
-//
-<$1C>
-//Aの攻撃∥\n口から　溶岩を噴いた∥
-A\n
-shot lava from its mouth!
-<$12>
-<$00>
 
+//<CLEAR><$1C>Aは\n風の臭いに　おびえている…<$12><$00>
+<CLEAR><$1C>A\n
+trembles at a smell in the air.<$12><$00>
 
 
+//<CLEAR><$1C>Aは\n大きく　２度、鳴いた∥<$12><$00>
+<CLEAR><$1C>A\n
+called loudly 2 times!<$12><$00>
 
 
+//<CLEAR><$1C>Aは　<$1C>Tを見て\nヨダレを　たらした∥<$12><$00>
+<CLEAR><$1C>A\n
+drooled at the sight of＿<$1C>T.<$12><$00>
 
-<CLEAR>
-//
-<$1C>
-//Aの攻撃∥\n煮えたぎる　胃液のシャワー∥
-A\n
-makes it rain with gastric acid.
-<$00>
 
+//１<$00>
+1<$00>
 
 
+//２<$00>
+2<$00>
 
 
+//３<$00>
+3<$00>
 
-<CLEAR>
-//
-<$1C>
-//Aの攻撃∥\n真空ハリケーン∥
-A\n
-unleashes a vacuum-like hurricane!
-<$12>
-<$00>
 
+//<CLEAR><$1C>Aは\n<$1D>度　のどを鳴らした∥<$12><$00>
+<CLEAR><$1C>A\n
+growled＿<$1D>＿times!<$12><$00>
 
 
+//<CLEAR><$1C>Aの攻撃∥\n煮えたぎる　胃液のシャワー∥<$00>
+<CLEAR><$1C>A\n
+makes it rain with gastric acid.<$00>
 
 
+//<CLEAR><$1C>Aは　優しく\n<$1C>Oの脚を　噛んだ∥\nアドレナリン注入∥<$12><$00>
+<CLEAR><$1C>A\n
+pierced＿<$1C>O's leg with a surge of adrenaline!<$12><$00>
 
-<CLEAR>
-//
-<$1C>
-//Aの攻撃∥\n全身から　高熱を発した∥\n赤熱ヒート∥
-A\n
-attacked with a burning inner heat!
-<$12>
-<$00>
 
+//<CLEAR><$1C>Aは　ホルモンの\n分泌を変化させた∥\nＧＥＮＤＥＲ　ＣＨＡＮＧＥ∥<$00>
+<CLEAR><$1C>A\n
+felt a strong hormonal shift, changing genders!<$00>
 
 
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aの攻撃∥\nピンクの煙を　噴き出した∥
-A\n
-spewed＿pink smoke!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-
-<$05><$01>
-102
-<$0E>
- 
-<$01>
-103
-<$0E>
- 
-<$01>
-104
-<$0E>
- 
-<$01>
-105
-<$0E>
- 
-<$01>
-117
-<$0E>
- 
-<$01>
-118
-<$0E>
- 
-<$01>
-119
-<$0E>
- \n
-<$01>
-144
-<$0E>
- 
-<$01>
-145
-<$0E>
-<$00>
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n遠くを　見ている…
-A\n
-stared into the distance.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n風の臭いに　おびえている…
-A\n
-trembles at a smell in the air.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n大きく　２度、鳴いた∥
-A\n
-called loudly 2 times!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは　
-A\n
-drooled at the sight of＿
-<$1C>
-//Tを見て\nヨダレを　たらした∥
-T.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n遠くを　見ている…
-A\n
-stared into the distance.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n風の臭いに　おびえている…
-A\n
-trembles at a smell in the air.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n大きく　２度、鳴いた∥
-A\n
-called loudly 2 times!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは　
-A\n
-drooled at the sight of＿
-<$1C>
-//Tを見て\nヨダレを　たらした∥
-T.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n地面を　掘り返している…
-A\n
-raked up the soil...
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-
-<$05><$01>
-000
-<$0E>
- 
-<$01>
-001
-<$0E>
- 
-<$01>
-002
-<$0E>
- 
-<$01>
-003
-<$0E>
- 
-<$01>
-004
-<$0E>
- 
-<$01>
-005
-<$0E>
-\n
-<$01>
-006
-<$0E>
- 
-<$01>
-007
-<$0E>
- 
-<$01>
-008
-<$0E>
- 
-<$01>
-009
-<$0E>
- 
-<$01>
-010
-<$0E>
- 
-<$01>
-011
-<$0E>
-\n
-<$01>
-012
-<$0E>
- 
-<$01>
-013
-<$0E>
- 
-<$01>
-014
-<$0E>
- 
-<$01>
-015
-<$0E>
- 
-<$01>
-016
-<$0E>
- 
-<$01>
-017
-<$0E>
-<$00>
-
-
-
-
-<CLEAR>
-
-<$05><$01>
-018
-<$0E>
- 
-<$01>
-019
-<$0E>
- 
-<$01>
-020
-<$0E>
- 
-<$01>
-021
-<$0E>
- 
-<$01>
-022
-<$0E>
- 
-<$01>
-023
-<$0E>
-\n
-<$01>
-024
-<$0E>
- 
-<$01>
-025
-<$0E>
- 
-<$01>
-026
-<$0E>
- 
-<$01>
-027
-<$0E>
- 
-<$01>
-028
-<$0E>
- 
-<$01>
-029
-<$0E>
-\n
-<$01>
-030
-<$0E>
- 
-<$01>
-031
-<$0E>
- 
-<$01>
-032
-<$0E>
- 
-<$01>
-033
-<$0E>
- 
-<$01>
-034
-<$0E>
- 
-<$01>
-035
-<$0E>
-<$00>
-
-
-
-
-<CLEAR>
-
-<$05><$01>
-036
-<$0E>
- 
-<$01>
-037
-<$0E>
- 
-<$01>
-038
-<$0E>
- 
-<$01>
-039
-<$0E>
- 
-<$01>
-040
-<$0E>
- 
-<$01>
-041
-<$0E>
-\n
-<$01>
-042
-<$0E>
- 
-<$01>
-043
-<$0E>
- 
-<$01>
-048
-<$0E>
- 
-<$01>
-049
-<$0E>
-<$00>
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aの攻撃∥\n瞳の奥の　かすかな光∥\n催眠ビーム∥
-A\n
-fires a hypnotic beam from their blank eyes.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aの攻撃∥\n強力な光を　全身から放った∥\n残像スパーク∥
-A∥\n
-unleashed palinopsic flashes from its body!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aの攻撃∥\nピンクの煙を　噴き出した∥
-A\n
-spewed＿pink smoke!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n
-A\n
-sprang over＿
-<$1C>
-//Kを　飛び越えて\n反対側に　着地した∥
-K\n
-and landed on the other side!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n
-A\n
-sprang over＿
-<$1C>
-//Kを　飛び越えて\n反対側に　着地した∥
-K\n
-and landed on the other side!
-<$00>
-
-
-
-
-
-
-//１
-1
-<$00>
-
-
-
-
-
-
-//２
-2
-<$00>
-
-
-
-
-
-
-//３
-3
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n
-A\n
-growled＿
-<$1D>
-//度　のどを鳴らした∥
-＿times!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n
-A\n
-sprang over＿
-<$1C>
-//Kを　飛び越えて\n反対側に　着地した∥
-K\n
-and landed on the other side!
-<$00>
-
-
-
-
-
-
-//１
-1
-<$00>
-
-
-
-
-
-
-//２
-2
-<$00>
-
-
-
-
-
-
-//３
-3
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n
-A\n
-growled＿
-<$1D>
-//度　のどを鳴らした∥
-＿times!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\nベトベトの　吐シャ物を\nぶちまけた∥
-A\n
-hurled a sticky pile of vomit!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n遠くを　見ている…
-A\n
-stared into the distance.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n風の臭いに　おびえている…
-A\n
-trembles at a smell in the air.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n大きく　２度、鳴いた∥
-A\n
-called loudly 2 times!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは　
-A\n
-drooled at the sight of＿
-<$1C>
-//Tを見て\nヨダレを　たらした∥
-T.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\nベトベトの　吐シャ物を\nぶちまけた∥
-A\n
-hurled a sticky pile of vomit!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n遠くを　見ている…
-A\n
-stared into the distance.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n風の臭いに　おびえている…
-A\n
-trembles at a smell in the air.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n大きく　２度、鳴いた∥
-A\n
-called loudly 2 times!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは　
-A\n
-drooled at the sight of＿
-<$1C>
-//Tを見て\nヨダレを　たらした∥
-T.
-<$12>
-<$00>
-
-
-
-
-
-
-//１
-1
-<$00>
-
-
-
-
-
-
-//２
-2
-<$00>
-
-
-
-
-
-
-//３
-3
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n
-A\n
-snorted＿
-<$1D>
-//度　鼻を鳴らした∥
-＿times!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n塩水を　浴びせた∥
-A\n
-basked in the salt water!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aの攻撃∥\n氷塊ランチャー　発射∥
-A\n
-catapulted a great ice block!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n遠くを　見ている…
-A\n
-stared into the distance.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n風の臭いに　おびえている…
-A\n
-trembles at a smell in the air.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n大きく　２度、鳴いた∥
-A\n
-called loudly 2 times!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは　
-A\n
-drooled at the sight of＿
-<$1C>
-//Tを見て\nヨダレを　たらした∥
-T.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n雄たけびを　あげた∥
-A\n
-let out a battle cry!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aの攻撃∥\n
-A\n
-spewed＿
-<$1C>
-//a　噴出∥
-a!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aの攻撃∥\n窒息ガス噴射∥
-A\n
-released choking gas!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aの攻撃∥\n道具袋を　ねらって\n長い舌が　伸びてきた∥
-A\n
-reached far to lap at the item bag!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aの攻撃∥\nピンクの煙を　噴き出した∥
-A\n
-spewed＿pink smoke!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n遠くを　見ている…
-A\n
-stared into the distance.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n風の臭いに　おびえている…
-A\n
-trembles at a smell in the air.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n大きく　２度、鳴いた∥
-A\n
-called loudly 2 times!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは　
-A\n
-drooled at the sight of＿
-<$1C>
-//Tを見て\nヨダレを　たらした∥
-T.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n塩水を　浴びせた∥
-A\n
-basked in the salt water!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aの攻撃\nドロリと　唾液をたらした…\n溶解スピット∥
-A\n
-attacked with a gooey, dissolving saliva!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n周囲の色に　体を染めた∥
-A\n
-blended in with its surroundings.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n周囲の色に　体を染めた∥
-A\n
-blended in with its surroundings.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aの攻撃∥\n煮えたぎる　胃液のシャワー∥
-A\n
-makes it rain with gastric acid.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n大量の尿を　噴き出した∥
-A\n
-drowned the area in urine!
-<$12>
-<$00>
-
-
-
-
-
-
-//１
-1
-<$00>
-
-
-
-
-
-
-//２
-2
-<$00>
-
-
-
-
-
-
-//３
-3
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n
-A\n
-growled＿
-<$1D>
-//度　のどを鳴らした∥
-＿times!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n大量の尿を　噴き出した∥
-A\n
-drowned the area in urine!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aの攻撃∥\n瞳の奥の　かすかな光∥\n催眠ビーム∥
-A\n
-fires a hypnotic beam from their blank eyes.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n遠くを　見ている…
-A\n
-stared into the distance.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n風の臭いに　おびえている…
-A\n
-trembles at a smell in the air.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n大きく　２度、鳴いた∥
-A\n
-called loudly 2 times!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは　
-A\n
-drooled at the sight of＿
-<$1C>
-//Tを見て\nヨダレを　たらした∥
-T.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n
-A\n
-sprang over＿
-<$1C>
-//Kを　飛び越えて\n反対側に　着地した∥
-K\n
-and landed on the other side!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n遠くを　見ている…
-A\n
-stared into the distance.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n風の臭いに　おびえている…
-A\n
-trembles at a smell in the air.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n大きく　２度、鳴いた∥
-A\n
-called loudly 2 times!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは　
-A\n
-drooled at the sight of＿
-<$1C>
-//Tを見て\nヨダレを　たらした∥
-T.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n
-A\n
-sprang over＿
-<$1C>
-//Kを　飛び越えて\n反対側に　着地した∥
-K\n
-and landed on the other side!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは　体内に\nドパーミンを　分泌した∥
-A\n
-secreted excess dopamine!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aの攻撃∥\n
-A\n
-spewed＿
-<$1C>
-//a　噴出∥
-a!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n遠くを　見ている…
-A\n
-stared into the distance.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n風の臭いに　おびえている…
-A\n
-trembles at a smell in the air.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n大きく　２度、鳴いた∥
-A\n
-called loudly 2 times!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは　
-A\n
-drooled at the sight of＿
-<$1C>
-//Tを見て\nヨダレを　たらした∥
-T.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n大きく息を　吸い込んで\nそのまま　破裂した∥
-A\n
-took a deep breath and exploded!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aの攻撃∥\n迷走ガス　噴射∥
-A\n
-released dizzy gas!
-<$12>
-<$00>
-
-
-
-
-
-
-//１
-1
-<$00>
-
-
-
-
-
-
-//２
-2
-<$00>
-
-
-
-
-
-
-//３
-3
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n
-A\n
-snorted＿
-<$1D>
-//度　鼻を鳴らした∥
-＿times!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n遠くを　見ている…
-A\n
-stared into the distance.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n風の臭いに　おびえている…
-A\n
-trembles at a smell in the air.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n大きく　２度、鳴いた∥
-A\n
-called loudly 2 times!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは　
-A\n
-drooled at the sight of＿
-<$1C>
-//Tを見て\nヨダレを　たらした∥
-T.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n大きく息を　吸い込んで\nそのまま　破裂した∥
-A\n
-took a deep breath and exploded!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aの攻撃∥\n迷走ガス　噴射∥
-A\n
-released dizzy gas!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aの攻撃∥\n瞳の奥の　かすかな光∥\n催眠ビーム∥
-A\n
-fires a hypnotic beam from their blank eyes.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n力を溜めている∥
-A\n
-is gathering strength!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\nベトベトの　吐シャ物を\nぶちまけた∥
-A\n
-hurled a sticky pile of vomit!
-<$12>
-<$00>
-
-
-
-
-
-
-//１
-1
-<$00>
-
-
-
-
-
-
-//２
-2
-<$00>
-
-
-
-
-
-
-//３
-3
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n
-A\n
-growled＿
-<$1D>
-//度　のどを鳴らした∥
-＿times!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n力を溜めている∥
-A\n
-is gathering strength!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n遠くを　見ている…
-A\n
-stared into the distance.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n風の臭いに　おびえている…
-A\n
-trembles at a smell in the air.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n大きく　２度、鳴いた∥
-A\n
-called loudly 2 times!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは　
-A\n
-drooled at the sight of＿
-<$1C>
-//Tを見て\nヨダレを　たらした∥
-T.
-<$12>
-<$00>
-
-
-
-
-
-
-//１
-1
-<$00>
-
-
-
-
-
-
-//２
-2
-<$00>
-
-
-
-
-
-
-//３
-3
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは\n
-A\n
-growled＿
-<$1D>
-//度　のどを鳴らした∥
-＿times!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aの攻撃∥\n煮えたぎる　胃液のシャワー∥
-A\n
-makes it rain with gastric acid.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは　優しく\n
-A\n
-pierced＿
-<$1C>
-//Oの脚を　噛んだ∥\nアドレナリン注入∥
-O's leg with a surge of adrenaline!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aは　ホルモンの\n分泌を変化させた∥\nＧＥＮＤＥＲ　ＣＨＡＮＧＥ∥
-A\n
-felt a strong hormonal shift, changing\n
-genders!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1C>
-//Aの攻撃∥\n尿を　まきちらした
-A\n
-sprayed urine everywhere!
-<$12>
-<$00>
-
-
-
-
+//<CLEAR><$1C>Aの攻撃∥\n尿を　まきちらした<$12><$00>
+<CLEAR><$1C>A\n
+sprayed urine everywhere!<$12><$00>
 
 
 #WRITE(PTR, $003A)
@@ -3029,536 +1095,180 @@ m075m.obj
 
 
 #WRITE(PTR, $003C)
-//単体攻撃Ａ
-MeleeA
-<$00>
+//単体攻撃Ａ<$00>
+MeleeA<$00>
 
 
+//単体攻撃Ｂ<$00>
+MeleeB<$00>
 
 
+//複数攻撃Ａ<$00>
+RangedＡ<$00>
 
 
-//単体攻撃Ｂ
-MeleeB
-<$00>
+//複数攻撃Ｂ<$00>
+RangedB<$00>
 
 
+//味方強化他<$00>
+Buff<$00>
 
 
+//敵を撹乱<$00>
+Sabotage<$00>
 
 
-//複数攻撃Ａ
-RangedＡ
-<$00>
+//怪物能力<$00>
+Creature<$00>
 
 
+//人間能力<$00>
+Field<$00>
 
 
+//単体攻撃Ａ<$00>
+MeleeA<$00>
 
 
-//複数攻撃Ｂ
-RangedB
-<$00>
+//単体攻撃Ｂ<$00>
+MeleeB<$00>
 
 
+//複数攻撃<$00>
+Ranged<$00>
 
 
+//自己防衛<$00>
+Defense<$00>
 
 
-//味方強化他
-Buff
-<$00>
+//味方強化他<$00>
+Buff<$00>
 
 
+//敵を撹乱<$00>
+Sabotage<$00>
 
 
+//怪物能力<$00>
+Creature<$00>
 
 
-//敵を撹乱
-Sabotage
-<$00>
+//人間能力<$00>
+Field<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-//怪物能力
-Creature
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-//人間能力
-Field
-<$00>
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
+//<CLEAR><$04>地形設定＿<$01><$1D><$0E>\n＿＿＿＿<$01><$1D><$0E><$01><$1D><$0E><$01><$1D><$0E>\n＿＿＿＿＿<$01><$1D><$0E><$00>
+<CLEAR><$04>Select Terrain:<$01><$1D><$0E>\n
+＿＿＿＿<$01><$1D><$0E><$01><$1D><$0E><$01><$1D><$0E>\n
+＿＿＿＿<$01><$1D><$0E><$00>
 
 
+//草<$00>
+Grass<$00>
 
 
-//単体攻撃Ａ
-MeleeA
-<$00>
+//土<$00>
+Soil<$00>
 
 
+//森<$00>
+Forest<$00>
 
 
+//砂<$00>
+Desert<$00>
 
 
-//単体攻撃Ｂ
-MeleeB
-<$00>
+//沼<$00>
+Marsh<$00>
 
 
+//水<$00>
+Fluid<$00>
 
 
+//氷<$00>
+Snowfield<$00>
 
 
-//複数攻撃
-Ranged
-<$00>
+//山<$00>
+Mountain<$00>
 
 
+//海<$00>
+Ocean<$00>
 
 
+//建<$00>
+Interior<$00>
 
 
-//自己防衛
-Defense
-<$00>
+//<CLEAR>特殊能力の設定をします\n<$01>ケ＿ン<$0E>／<$01>全部１<$0E>／<$01>全部０<$0E>\n<$01>リンダ<$0E>／<$01>全部１<$0E>／<$01>全部０<$0E><$00>
+<CLEAR>Assign skills:\n
+<$01>Ken<$0E>／<$01>All-1<$0E>／<$01>All-0<$0E>\n
+<$01>Linda<$0E>／<$01>All-1<$0E>／<$01>All-0<$0E><$00>
 
 
+//<CLEAR><$04><$00>
+<CLEAR><$04><$00>
 
 
+//<$01><$19><$1E><$1D><$1D><$19>0<$02><$1E><$0E><$00>
+<$01><$19><$1E><$1D><$1D><$19><$02><$1E><$0E><$00>
 
 
-//味方強化他
-Buff
-<$00>
+//<$19><$1E><$1D><$1D><$19>0<$00>
+<$19><$1E><$1D><$1D><$19><$00>
 
 
-
-
-
-
-//敵を撹乱
-Sabotage
-<$00>
-
-
-
-
-
-
-//怪物能力
-Creature
-<$00>
-
-
-
-
-
-
-//人間能力
-Field
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$04>
-//地形設定＿
-Select Terrain:
-<$01><$1D><$0E>
-//\n＿＿＿＿
-\n
-＿＿＿＿
-<$01><$1D><$0E><$01><$1D><$0E><$01><$1D><$0E>
-//\n＿＿＿＿＿
-\n
-＿＿＿＿
-<$01><$1D><$0E>
-<$00>
-
-
-
-
-
-
-//草
-Grass
-<$00>
-
-
-
-
-
-
-//土
-Soil
-<$00>
-
-
-
-
-
-
-//森
-Forest
-<$00>
-
-
-
-
-
-
-//砂
-Desert
-<$00>
-
-
-
-
-
-
-//沼
-Marsh
-<$00>
-
-
-
-
-
-
-//水
-Fluid
-<$00>
-
-
-
-
-
-
-//氷
-Snowfield
-<$00>
-
-
-
-
-
-
-//山
-Mountain
-<$00>
-
-
-
-
-
-
-//海
-Ocean
-<$00>
-
-
-
-
-
-
-//建
-Interior
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//特殊能力の設定をします\n
-Assign skills:\n
-<$01>
-//ケ＿ン
-Ken
-<$0E>
-//／
-／
-<$01>
-//全部１
-All-1
-<$0E>
-//／
-／
-<$01>
-//全部０
-All-0
-<$0E>
-//\n
-\n
-<$01>
-//リンダ
-Linda
-<$0E>
-//／
-／
-<$01>
-//全部１
-All-1
-<$0E>
-//／
-／
-<$01>
-//全部０
-All-0
-<$0E>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-
-<$04>
-<$00>
-
-
-
-
-<$01><$19><$1E><$1D><$1D><$19>
-0
-<$02><$1E><$0E>
-<$00>
-
-
-
-
-<$19><$1E><$1D><$1D><$19>
-0
-<$00>
-
-
-
-
-//メンバーチェンジ\n
+//メンバーチェンジ\n<$01>外す＿<$0E>　<$01>リンダ<$0E>　<$01>ヒューム<$0E>\n<$01>サチコ<$0E>　<$01>スミレ<$0E><$00>
 Party edit:\n
-<$01>
-//外す＿
-Remove＿
-<$0E>
-//　
-
-<$01>
-//リンダ
-Linda
-<$0E>
-//　
-
-<$01>
-//ヒューム
-Hume
-<$0E>
-//\n
-\n
-<$01>
-//サチコ
-Sachiko
-<$0E>
-//　
-
-<$01>
-//スミレ
-Sumire
-<$0E>
-<$00>
+<$01>Remove＿<$0E>　<$01>Linda<$0E>　<$01>Hume<$0E>\n
+<$01>Sachiko<$0E>　<$01>Sumire<$0E><$00>
 
 
+//戦闘テスト61-75<$00>
+Combat Test 061-075<$00>
 
 
-
-
-//戦闘テスト61-75
-Combat Test 061-075
-<$00>
-
-
-
-
-
-
-<CLEAR>
-
-<$05><$01>
-TEST
-<$0E>
- 
-<$01>
-061
-<$0E>
- 
-<$01>
-062
-<$0E>
- 
-<$01>
-063
-<$0E>
- 
-<$01>
-064
-<$0E>
- 
-<$01>
-065
-<$0E>
-\n     
-<$01>
-066
-<$0E>
- 
-<$01>
-067
-<$0E>
- 
-<$01>
-068
-<$0E>
- 
-<$01>
-069
-<$0E>
- 
-<$01>
-070
-<$0E>
-\n     
-<$01>
-071
-<$0E>
- 
-<$01>
-072
-<$0E>
- 
-<$01>
-073
-<$0E>
- 
-<$01>
-074
-<$0E>
- 
-<$01>
-075
-<$0E>
-<$00>
-
-
+//<CLEAR><$05><$01>TEST<$0E> <$01>061<$0E> <$01>062<$0E> <$01>063<$0E> <$01>064<$0E> <$01>065<$0E>\n     <$01>066<$0E> <$01>067<$0E> <$01>068<$0E> <$01>069<$0E> <$01>070<$0E>\n     <$01>071<$0E> <$01>072<$0E> <$01>073<$0E> <$01>074<$0E> <$01>075<$0E><$00>
+<CLEAR><$05><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$00>
 
 
 #WRITE(PTR, $003E)
-//戦闘テスト！
-COMBAT TEST!
-<$12>
-<$00>
-
-
-
-
+//戦闘テスト！<$12><$00>
+COMBAT TEST!<$12><$00>
 
 
 #WRITE(PTR, $0040)
@@ -3577,1522 +1287,507 @@ COMBAT TEST!
 #WRITE(PTR, $005A)
 #WRITE(PTR, $005C)
 #WRITE(PTR, $005E)
-<CLEAR>
-//お客さん…\nホスピコの入り口に　並んでる\n哀れな猟犬の墓を　数えてごらん
-Sir, go look at the pet cemetary along the\n
-Hospico entrance.
-<$12>
-\n
-<CLEAR>
-//これ以上　あなたの猟犬を\n登録したところで、どうせまた\nあそこの墓が　増えるだけだものね
-We keep that cemetary's growth down by\n
-capping the number of dogs each client can\n
-adopt.
-<$12>
-\n
-<CLEAR>
-//金の問題じゃないんだよ…\nわかるッ￠
-You may have the money, but you've\n
-unfortunately hit that limit. You understand,\n
-don't you?
-<$12>
-<$00>
+//<CLEAR>お客さん…\nホスピコの入り口に　並んでる\n哀れな猟犬の墓を　数えてごらん<$12>\n<CLEAR>これ以上　あなたの猟犬を\n登録したところで、どうせまた\nあそこの墓が　増えるだけだものね<$12>\n<CLEAR>金の問題じゃないんだよ…\nわかるッ￠<$12><$00>
+<CLEAR>Sir, go look at the pet cemetary along the Hospico entrance.<$12>\n
+<CLEAR>We keep that cemetary's growth down by capping the\n
+number of dogs each client can adopt.<$12>\n
+<CLEAR>You may have the money, but you've unfortunately hit\n
+that limit. You understand, don't you?<$12><$00>
 
 
+//<CLEAR>猟犬の収容枠が　いっぱいです\nこれ以上、猟犬を増やせません<$12><$00>
+<CLEAR>You have reached the max amount of dogs you can own at\n
+one time. <$12><$00>
 
 
+//<CLEAR>登録料　<$15>b<$06><$1E><$04><$14>￥が足りません\n銀行で　ご都合ください<$12><$00>
+<CLEAR>The adoption fee is over\n
+<$15><$06><$1E><$04><$14>￥.\n
+Get a loan from the bank.<$12><$00>
 
 
-<CLEAR>
-//猟犬の収容枠が　いっぱいです\nこれ以上、猟犬を増やせません
-You have reached the max amount of dogs you\n
-can own at one time.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//登録料　
-The adoption fee is over\n
-<$15>
-//b
-<$06><$1E><$04><$14>
-//￥が足りません\n銀行で　ご都合ください
-￥.\n
-Get a loan from the bank.
-<$12>
-<$00>
-
-
-
-
-
-
-//その名前は　既に登録されています\n別の名前を　つけてください
+//その名前は　既に登録されています\n別の名前を　つけてください<$12><$00>
 Sorry, that name is taken.\n
-Choose a new name.
-<$12>
-<$00>
+Choose a new name.<$12><$00>
 
 
+//<CLEAR>猟犬<$1D>を登録します\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
+<CLEAR>Adopt＿<$1D>?\n
+<$01>Yes<$0E><$01>No<$0E><$00>
 
 
+//<CLEAR><$00>
+<CLEAR><$00>
 
 
-<CLEAR>
-//猟犬
-Adopt＿
-<$1D>
-//を登録します\n
-?\n
-<$01>
-//は＿い
-Yes
-<$0E>
-//／
-<$01>
-//いいえ
-No
-<$0E>
-<$00>
+//<$16><$01><$1D><$02>96<$0E>　<$15>S<$1E>18<$14><$04><$02>140<$01><$1D><$02>236<$0E>　<$15>S<$1E>18<$14><$00>
+<$16><$01><$1D><$02><$0E><$15><$1E><$14><$04><$02><$01><$1D><$02><$0E><$15><$1E><$14><$00>
 
 
+//個<$00>
+＿<$00>
 
 
+//匹<$00>
+＿<$00>
 
 
-<CLEAR>
+//<$1D>を<$1D>ます\n<$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04>／<$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S￥<$00>
+<$1D>＿x<$1D>＿\n
+<$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04>／<$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S￥<$00>
 
-<$00>
 
+//<$06>T.C.(<$1E>034<$06>)<$00>
+<$06>TCU (x<$1E><$06>)<$00>
 
 
+//<$05>γ<$00>
+<$05>A<$00>
 
-<$16><$01><$1D><$02>
-96
-<$0E>
-　
-<$15>
-S
-<$1E>
-18
-<$14><$04><$02>
-140
-<$01><$1D><$02>
-236
-<$0E>
-　
-<$15>
-S
-<$1E>
-18
-<$14>
-<$00>
 
+//<$05>ζ<$00>
+<$05>D<$00>
 
 
+//<$1E>@019<$00>
+<$1E>@019<$00>
 
-//個
-＿
-<$00>
 
+//<CLEAR>セレクトボタンで解説が出ます<$00>
+<CLEAR>SELECT: Details<$00>
 
 
+//<CLEAR><$00>
+<CLEAR><$00>
 
 
+//<$04><$16><$15>W<$01><$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
+<$04><$16><$15>W<$01><$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
 
-//匹
-＿
-<$00>
 
+//<CLEAR>トランスカーゴは　１枠につき\n<$06>99<$04>頭までしか　収容できません<$12><$00>
+<CLEAR>The trans-cargo unit has\n
+a＿<$06>99<$04>＿species capacity!<$12><$00>
 
 
+//<CLEAR><$06>トランスカーゴ<$04>がいっぱいです<$12><$00>
+<CLEAR><$06>The trans-cargo unit＿<$04>is full!<$12><$00>
 
 
+//<CLEAR>道具がいっぱいです<$12><$00>
+<CLEAR>The item bag is full!<$12><$00>
 
-<$1D>
-//を
-＿x
-<$1D>
-//ます\n
-＿\n
-<$06><$19>
-//1
-1
-<$01><$1A>
-//01
-01
-<$0E><$15>
-//S
-S
-<$19>
-//0
-0
-<$04>
-//／
-／
-<$14><$1E>
-//034
-034
-<$15>
-//S
-S
-<$1D><$14><$02>
-//112
-112
-<$19>
-//2
-2
-<$1E>
-//40
-40
-<$19>
-//0
-0
-<$15>
-//S￥
-S￥
-<$00>
 
-
-
-
-
-
-<$06>
-//T.C.(
-TCU (x
-<$1E>
-//034
-<$06>
-//)
-)
-<$00>
-
-
-
-
-
-
-<$05>
-//γ
-A
-<$00>
-
-
-
-
-
-
-<$05>
-//ζ
-D
-<$00>
-
-
-
-
-
-
-<$1E>
-//@019
-@019
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//セレクトボタンで解説が出ます
-SELECT: Details
-<$00>
-
-
-
-
-
-
-<CLEAR>
-
-<$00>
-
-
-
-
-<$04><$16><$15>
-//W
-W
-<$01><$1D><$02>
-//116
-116
-<$0E><$02>
-//216
-216
-<$1D><$1E>
-//39￥
-39￥
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//トランスカーゴは　１枠につき\n
-The trans-cargo unit has\n
-a＿
-<$06>
-//99
-99
-<$04>
-//頭までしか　収容できません
-＿species capacity!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$06>
-//トランスカーゴ
-The trans-cargo unit＿
-<$04>
-//がいっぱいです
-is full!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//道具がいっぱいです
-The item bag is full!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1D><$15>
-//Wは\nＡ級保護動物のため\n取り引きできません
-W＿cannot be traded.\n
+//<CLEAR><$1D><$15>Wは\nＡ級保護動物のため\n取り引きできません<$12><$00>
+<CLEAR><$1D><$15>W＿cannot be traded.\n
 Class A species\n
-trading is prohibited!
-<$12>
-<$00>
+trading is prohibited!<$12><$00>
 
 
+//<CLEAR><$00>
+<CLEAR><$00>
 
 
+//<$16><$04><$01><$1D><$02>120<$0E><$02>216<$06><$1E><$04>匹で<$00>
+<$16><$04><$01><$1D><$02><$0E><$02><$06><$1E><$04>x＿<$00>
 
 
-<CLEAR>
+//<CLEAR><$1D>を作ります\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
+<CLEAR>Craft＿<$1D>?\n
+<$01>Yes<$0E><$01>No<$0E><$00>
 
-<$00>
 
+//<CLEAR><$1D>を作ります\n加工料金＿<$1D><$06><$1E><$04><$14>￥\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
+<CLEAR>Crafting a＿<$1D>＿\n
+will cost<$1D><$06><$1E><$04><$14>￥.\n
+<$01>Okay<$0E><$01>Wait<$0E><$00>
 
 
+//<CLEAR>お金が足りません<$12><$00>
+<CLEAR>You can't afford this!<$12><$00>
 
-<$16><$04><$01><$1D><$02>
-//120
-<$0E><$02>
-//216
-<$06><$1E><$04>
-//匹で
-x＿
-<$00>
 
+//<CLEAR>動物が足りません<$12><$00>
+<CLEAR>You don't have the animals!<$12><$00>
 
 
+//<CLEAR>加工料金＿<$15>b<$06><$1E><$04><$14>￥\nが足りません<$12><$00>
+<CLEAR>You can't afford the＿\n
+<$15>b<$06><$1E><$04><$14>￥ fee!<$12><$00>
 
 
+//<$02>240<$1E>018<$04><$00>
+<$02><$1E><$04><$00>
 
-<CLEAR>
-//
-Craft＿
-<$1D>
-//を作ります\n
-?\n
-<$01>
-//は＿い
-Yes
-<$0E>
-//／
-<$01>
-//いいえ
-No
-<$0E>
-<$00>
 
+//<$02>100<$1E>018<$04><$00>
+<$02><$1E><$04><$00>
 
 
+//<CLEAR>道具がいっぱいです<$12><$00>
+<CLEAR>The item bag is full!<$12><$00>
 
 
+//<$15>Y野＿営／メニュー<$00>
+<$15>YCamp／Menu<$00>
 
-<CLEAR>
-//
-Crafting a＿
-<$1D>
-//を作ります\n加工料金＿
-＿\n
-will cost
-<$1D><$06><$1E><$04><$14>
-//￥\n
-￥.\n
-<$01>
-//は＿い
-Okay
-<$0E>
-//／
-<$01>
-//いいえ
-Wait
-<$0E>
-<$00>
 
+//<CLEAR><$06>スタートボタン<$04>でカーソルを「開始」に移動<$11>240<CLEAR>もう１度<$06>スタートボタン<$04>で野営実行<$11>240<$07><$00>
+<CLEAR><$06>START:＿<$04>Highlight "Okay!"<$11>240<CLEAR>(Again)<$06>START:＿<$04>Begin camping!<$11><$07><$00>
 
 
+//<CLEAR><$00>
+<CLEAR><$00>
 
 
+//<$15>W<$1D><$02>50<$01><$1D>寝＿る＿<$0E>　<$01><$1D>見張り＿<$0E><$00>
+<$15>W<$1D><$02><$01><$1D>Sleep<$0E>　<$01><$1D>Watch<$0E><$00>
 
-<CLEAR>
-//お金が足りません
-You can't afford this!
-<$12>
-<$00>
 
+//<$15>W<$01>野営開始<$0E><$00>
+<$15>W<$01>Okay!<$0E><$00>
 
 
+//<CLEAR>猟犬の収容枠が　いっぱいです\nこれ以上、猟犬を増やせません<$12><$00>
+<CLEAR>You have reached the max amount of dogs you can own at\n
+one time. <$12><$00>
 
 
+//<$01><$1D>食料加工<$0E>　<$01><$1D>装備加工<$0E>　<$01><$1D>ワナ製作<$0E><$00>
+<$01><$1D>Butcher<$0E>　<$01><$1D>Forger<$0E>　<$01><$1D>Trapper<$0E><$00>
 
-<CLEAR>
-//動物が足りません
-You don't have the animals!
-<$12>
-<$00>
 
+//<$01><$1D>食料加工<$0E>　<$01><$1D>装備加工<$0E>　<$01><$1D>ビシバシ<$0E><$00>
+<$01><$1D>Butcher<$0E>　<$01><$1D>Forger<$0E>　<$01><$1D>Warden<$0E><$00>
 
 
+//<$01><$1D>食料加工<$0E>　<$01><$1D>装備加工<$0E><$00>
+<$01><$1D>Butcher<$0E>　<$01><$1D>Forger<$0E><$00>
 
 
+//<$01><$1D>食料加工<$0E><$00>
+<$01><$1D>Butcher<$0E><$00>
 
-<CLEAR>
-//加工料金＿
-You can't afford the＿\n
-<$15>
-//b
-b
-<$06><$1E><$04><$14>
-//￥\nが足りません
-￥ fee!
-<$12>
-<$00>
 
+//＿寝る<$00>
+＿Sleep<$00>
 
 
+//<$08>7見張り<$00>
+<$08>7Watch<$00>
 
 
+//<$08>7食料加工<$00>
+<$08>7Butcher<$00>
 
-<$02>
-240
-<$1E>
-018
-<$04>
-<$00>
 
+//<$08>7装備加工<$00>
+<$08>7Forger<$00>
 
 
+//<$08>7ワナ製作<$00>
+<$08>7Trapper<$00>
 
-<$02>
-100
-<$1E>
-018
-<$04>
-<$00>
 
+//<$08>7猟犬調教<$00>
+<$08>7Tamer<$00>
 
 
+//道具捨てる<$00>
+Trash items<$00>
 
-<CLEAR>
-//道具がいっぱいです
-The item bag is full!
-<$12>
-<$00>
 
+//＿猟＿犬<$00>
+＿Dogs<$00>
 
 
+//＿やめる<$00>
+＿Exit<$00>
 
 
+//<CLEAR><$1D>の\n<$06>HP <$04>全回復∥<$12><$00>
+<CLEAR><$1D>'s＿<$06>HP<$04>＿recovered fully!<$12><$00>
 
-//
-<$15>
-//Y野＿営／メニュー
-YCamp／Menu
-<$00>
 
+//<CLEAR><$1D>の\n<$06>HP <$04><$1E>回復∥<$12><$00>
+<CLEAR><$1D>'s\n
+<$06>HP recovered by＿<$04><$1E>!<$12><$00>
 
 
+//<CLEAR><$1D>の\n<$06>BP <$04>全回復∥<$12><$00>
+<CLEAR><$1D>'s\n
+<$06>BP<$04>＿recovered fully!<$12><$00>
 
 
+//<CLEAR><$1D>の\n<$06>BP <$04><$1E>回復∥<$12><$00>
+<CLEAR><$1D>'s\n
+<$06>BP recovered by＿<$04><$1E>!<$12><$00>
 
-<CLEAR>
-//
-<$06>
-//スタートボタン
-START:＿
-<$04>
-//でカーソルを「開始」に移動
-Highlight "Okay!"
-<$11>
-//240<CLEAR>もう１度
-240<CLEAR>(Again)
-<$06>
-//スタートボタン
-START:＿
-<$04>
-//で野営実行
-Begin camping!
-<$11>
-//240
-<$07>
-<$00>
 
+//<$15>Y野＿営／メニュー<$00>
+<$15>YCamp／Menu<$00>
 
 
-
-
-
-<CLEAR>
-
-<$00>
-
-
-
-
-<$15>
-//W
-W
-<$1D><$02>
-//50
-<$01><$1D>
-//寝＿る＿
-Sleep
-<$0E>
-//　
-
-<$01><$1D>
-//見張り＿
-Watch
-<$0E>
-<$00>
-
-
-
-
-
-
-<$15>
-//W
-W
-<$01>
-//野営開始
-Okay!
-<$0E>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//猟犬の収容枠が　いっぱいです\nこれ以上、猟犬を増やせません
-You have reached the max amount of dogs you\n
-can own at one time.
-<$12>
-<$00>
-
-
-
-
-
-
-<$01><$1D>
-//食料加工
-Butcher
-<$0E>
-//　
-
-<$01><$1D>
-//装備加工
-Forger
-<$0E>
-//　
-
-<$01><$1D>
-//ワナ製作
-Trapper
-<$0E>
-<$00>
-
-
-
-
-
-
-<$01><$1D>
-//食料加工
-Butcher
-<$0E>
-//　
-
-<$01><$1D>
-//装備加工
-Forger
-<$0E>
-//　
-
-<$01><$1D>
-//ビシバシ
-Warden
-<$0E>
-<$00>
-
-
-
-
-
-
-<$01><$1D>
-//食料加工
-Butcher
-<$0E>
-//　
-
-<$01><$1D>
-//装備加工
-Forger
-<$0E>
-<$00>
-
-
-
-
-
-
-<$01><$1D>
-//食料加工
-Butcher
-<$0E>
-<$00>
-
-
-
-
-
-
-//＿寝る
-＿Sleep
-<$00>
-
-
-
-
-
-
-<$08>
-//7見張り
-7Watch
-<$00>
-
-
-
-
-
-
-<$08>
-//7食料加工
-7Butcher
-<$00>
-
-
-
-
-
-
-<$08>
-//7装備加工
-7Forger
-<$00>
-
-
-
-
-
-
-<$08>
-//7ワナ製作
-7Trapper
-<$00>
-
-
-
-
-
-
-<$08>
-//7猟犬調教
-7Tamer
-<$00>
-
-
-
-
-
-
-//道具捨てる
-Trash items
-<$00>
-
-
-
-
-
-
-//＿猟＿犬
-＿Dogs
-<$00>
-
-
-
-
-
-
-//＿やめる
-＿Exit
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1D>
-//の\n
-'s＿
-<$06>
-//HP 
-HP
-<$04>
-//全回復∥
-＿recovered fully!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1D>
-//の\n
-'s\n
-<$06>
-//HP 
-HP recovered by＿
-<$04><$1E>
-//回復∥
-!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1D>
-//の\n
-'s\n
-<$06>
-//BP 
-BP
-<$04>
-//全回復∥
-＿recovered fully!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1D>
-//の\n
-'s\n
-<$06>
-//BP 
-BP recovered by＿
-<$04><$1E>
-//回復∥
-!
-<$12>
-<$00>
-
-
-
-
-
-
-//
-<$15>
-//Y野＿営／メニュー
-YCamp／Menu
-<$00>
-
-
-
-
-
-
-//\n
+//\n<$00>
 \n
 <$00>
 
 
+//<$01><$1D><$02>70<$0E><$00>
+<$01><$1D><$02>70<$0E><$00>
 
 
+//<$15>Y野＿営／食料加工<$00>
+<$15>YCamp/Butcher<$00>
 
 
-<$01><$1D><$02>
-//70
-70
-<$0E>
+//<$15>Y野＿営／装備加工<$00>
+<$15>YCamp／Forger<$00>
+
+
+//<CLEAR>猟犬を収める　スペースがありません<$12><$00>
+<CLEAR>You have no space for dogs!<$12><$00>
+
+
+//<CLEAR>リンダは　ホスピコの入り口に眠る\n猟犬たちの顔を　思い出した…\nビシバシ調教が　できなくなった∥<$12><$00>
+<CLEAR>The faces of dogs buried in Hospico flashed through\n
+Linda's mind. The training ends here.<$12><$00>
+
+
+//<$15>Y野＿営／登＿録<$00>
+<$15>YCamp/Adopt<$00>
+
+
+//<$15>Y野営／道具捨てる<$00>
+<$15>YCamp/Trash items<$00>
+
+
+//<$15>Y野営／猟＿犬<$00>
+<$15>YCamp/Dogs<$00>
+
+
+//<CLEAR>道具がいっぱいです<$12><$00>
+<CLEAR>The item bag is full!<$12><$00>
+
+
+//<CLEAR>ワナは一晩で　ひとつしか作れない<$12><$00>
+<CLEAR>Only 1 trap can be made per night.<$12><$00>
+
+
+//<CLEAR>ケンは「自前のワナ」を\nひとつ作った∥<$12><$00>
+<CLEAR>Ken made a Handy Trap!<$12><$00>
+
+
+//<$1D>　<$1E>頭\n<$00>
+<$1D>　<$1E>x\n
 <$00>
 
 
+//<$15>Yホテル<$00>
+<$15>YHotel<$00>
 
 
+//<CLEAR>お気をつけて！<$12><$00>
+<CLEAR>Take care!<$12><$00>
 
 
-//
-<$15>
-//Y野＿営／食料加工
-YCamp/Butcher
-<$00>
+//<CLEAR>野宿は　危険ですよ<$12><$00>
+<CLEAR>Camping's dangerous, you know.<$12><$00>
 
 
+//<CLEAR>いらっしゃいませ！　<$1D><$06><$1E><$04><$14>￥で\nお部屋が　用意できますよ\n<$01>宿泊する<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
+<CLEAR>Welcome! Would you like\n
+a room for＿<$1D><$06><$1E><$04><$14>￥?\n
+<$01>Stay<$0E>／<$01>Chat<$0E>／<$01>Exit<$0E><$00>
 
 
+//<CLEAR>お金が　足りないようですね<$12><$00>
+<CLEAR>You can't afford this, can you.<$12><$00>
 
 
-//
-<$15>
-//Y野＿営／装備加工
-YCamp／Forger
-<$00>
+//<CLEAR>お客様、戦えなくなった　猟犬のＨＰは\n宿泊や野営じゃ　戻りませんけど…\n<$01>知ってるよ<$0E>／<$01>ホントかよ<$0E><$00>
+<CLEAR>I'm sorry, but dogs won't recover HP in hotels or camps.\n
+<$01>I know that<$0E>／<$01>Really?!<$0E><$00>
 
 
+//<CLEAR>さしでがましいことを　申し上げ\nたいへん　失礼いたしました\nでは　ごゆっくり<$12><$00>
+<CLEAR>Ah, I see. Please forgive my outburst.<$12><$00>
 
 
+//<CLEAR>専門のお医者さまを　お捜しになって\nなるべく早く\n治療して　さしあげてください<$12><$00>
+<CLEAR>Yes. Always seek a vet treat your dogs.<$12><$00>
 
 
-<CLEAR>
-//猟犬を収める　スペースがありません
-You have no space for dogs!
-<$12>
-<$00>
+//<$15>Yスケジュール<$00>
+<$15>YMemo＿<$00>
 
 
+//<CLEAR>スケジュールは何もありません<$12><$00>
+<CLEAR>There is nothing on schedule.<$12><$00>
 
 
+//成功終了<$00>
+Completed!<$00>
 
 
-<CLEAR>
-//リンダは　ホスピコの入り口に眠る\n猟犬たちの顔を　思い出した…\nビシバシ調教が　できなくなった∥
-The faces of dogs buried in Hospico flashed\n
-through Linda's mind. The training ends here.
-<$12>
-<$00>
+//期限切れ<$00>
+Expired!<$00>
 
 
+//あと<$1E>季節<$00>
+In＿<$1E>＿seasons<$00>
 
 
+//あと<$1E>年<$1E>季節<$00>
+Deadline:＿<$1E>Y/<$1E>S<$00>
 
 
-//
-<$15>
-//Y野＿営／登＿録
-YCamp/Adopt
-<$00>
+//あと<$1E>年<$00>
+In＿<$1E>＿years<$00>
 
 
+//<$16><$01>◇<$0E><$1D><$02>190<$1D><$00>
+<$16><$01>◇<$0E><$1D><$02><$1D><$00>
 
 
+//ファングを倒す<$00>
+Slay Fang<$00>
 
 
-//
-<$15>
-//Y野営／道具捨てる
-YCamp/Trash items
-<$00>
+//パンハイムからの依頼<$00>
+Assist Panheim<$00>
 
 
+//<$1B>カメの卵を手に入れる<$00>
+Snatch Turtle Eggs<$00>
 
 
+//<$1B>プテラノの卵を手に入れる<$00>
+Snatch Pteranodon Eggs<$00>
 
 
-//
-<$15>
-//Y野営／猟＿犬
-YCamp/Dogs
-<$00>
+//遺産争いにケリをつける<$00>
+End the inheritance battle<$00>
 
 
+//ヤマダのために一肌脱ぐ<$00>
+Unload for Yamada<$00>
 
 
+//町のシンボルを見つけだす<$00>
+Find the village symbol<$00>
 
 
-<CLEAR>
-//道具がいっぱいです
-The item bag is full!
-<$12>
-<$00>
+//ソフィアからの依頼<$00>
+Assist Sophia<$00>
 
 
+//サチコ救出<$00>
+Rescue Sachiko<$00>
 
 
+//ポロポロちゃんを助ける<$00>
+Save Nightshade<$00>
 
 
-<CLEAR>
-//ワナは一晩で　ひとつしか作れない
-Only 1 trap can be made per night.
-<$12>
-<$00>
+//アンジェラ捜し<$00>
+Find Angela<$00>
 
 
+//<CLEAR>カラゴラムのファングを倒し、その証拠を\nハーディアホテルのスペクターに渡す<$00>
+<CLEAR>Defeat Fang in Karhagolem. Present proof to Spectre in\n
+Hardia Hotel.<$00>
 
 
+//<CLEAR>マーブルポリスの<$1B>ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す<$00>
+<CLEAR>Process meat from＿chickens in Marblopolis.Give them to\n
+Prof. Panheim in Hospico.<$00>
 
 
-<CLEAR>
-//ケンは「自前のワナ」を\nひとつ作った∥
-Ken made a Handy Trap!
-<$12>
-<$00>
+//<CLEAR><$1B>カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す<$00>
+<CLEAR>Find up to 3＿Turtle Eggs. Give them to Louis at the Battle\n
+Park BB Ranch.<$00>
 
 
+//<CLEAR><$1B>プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す<$00>
+<CLEAR>Acquire 2＿Pteranodon Eggs. Give them to Bronco at the\n
+Battle Park BB Ranch.<$00>
 
 
+//<CLEAR>「太郎の首輪」を見つけだし、ドギファの\nナターシャか、オーマン家３兄弟に渡す<$00>
+<CLEAR>Locate Taro's Collar. Give it to Natasha or one of the 3\n
+Aumann children in Dogyf Heights.<$00>
 
 
-<$1D>
-//　
+//６万<$00>
+60, 000<$00>
 
-<$1E>
-//頭\n
-x\n
-<$00>
 
+//あと<$06><$1E><$0F>000<$04><$00>
+another＿<$06><$1E><$0F><$04><$00>
 
 
+//<CLEAR>Ｇファクトリーのヤマダのために\n<$1D>￥を預金する<$00>
+<CLEAR>Deposit＿<$1D>￥ in an account to Yamada in G Factory.<$00>
 
 
+//<CLEAR>コシカタのシンボル「<$1B>トラの爪」を\n見つけだし、ポリスカに渡す<$00>
+<CLEAR>Find the＿Tiger Claw, Koshikata's village symbol. Return it\n
+to Poliska.<$00>
 
-//
-<$15>
-//Yホテル
-YHotel
-<$00>
 
+//<CLEAR>ソフィアのために、エターナの桜の木を\nどうにかして咲かせる<$00>
+<CLEAR>Find out how to revive the sakura trees in Eterna for\n
+Sophia.<$00>
 
 
+//<CLEAR>溶岩の中で育った動物の熱いウンチを\nエターナのソフィアに渡す<$00>
+<CLEAR>Deliver Hot Dung from a lava-dwelling creature to Sophia in\n
+Eterna.<$00>
 
 
+//<CLEAR>ラグナロッジのエモリに会いに行く<$00>
+<CLEAR>Meet with Dr. Emori in Ragna Rim.<$00>
 
-<CLEAR>
-//お気をつけて！
-Take care!
-<$12>
-<$00>
 
+//<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nＧファクトリー入口１階、\n公衆電話の前に行く<$00>
+<CLEAR>Take the Floppy Disc and＿<$06>10, 000<$04>￥ to the G Factory\n
+gate. Answer the payphone.<$00>
 
 
+//<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nパラサイド入口１階、\n公衆電話の前に行く<$00>
+<CLEAR>Take the Floppy Disc and＿<$06>10, 000<$04>￥ to the Paraside gate.\n
+Answer the payphone.<$00>
 
 
+//<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nガレックスに行く<$00>
+<CLEAR>Take the Floppy Disc and＿<$06>10, 000<$04>￥ to Galax.<$00>
 
-<CLEAR>
-//野宿は　危険ですよ
-Camping's dangerous, you know.
-<$12>
-<$00>
 
+//<CLEAR>ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す<$00>
+<CLEAR>Pick bloodberries in Flora Jam. Take them to Kevin and\n
+Nightshade in Rose Garden.<$00>
 
 
+//<CLEAR>パラサイドの酒場にいるアンジェラを\n確認して、リナバレーのマリオに連絡する<$00>
+<CLEAR>Look for Angela at the Paraside bar. Report your findings\n
+to Mario in Spurr Valley.<$00>
 
 
+//<CLEAR>アンジェラを確認するために、\nオズポートホテルの酒場に行く<$00>
+<CLEAR>Look for Angela at the OzPort Hotel bar.<$00>
 
-<CLEAR>
-//いらっしゃいませ！　
-Welcome! Would you like\n
-a room for＿
-<$1D><$06><$1E><$04><$14>
-//￥で\nお部屋が　用意できますよ\n
-￥?\n
-<$01>
-//宿泊する
-Stay
-<$0E>
-//／
-／
-<$01>
-//雑談する
-Chat
-<$0E>
-//／
-／
-<$01>
-//やめとく
-Exit
-<$0E>
-<$00>
 
+//<CLEAR>アンジェラを確認するために、\n西エリアのしけた町のホテルに行く<$00>
+<CLEAR>Look for Angela at a hotel bar somewhere in West Area.<$00>
 
 
+//<CLEAR>アンジェラを確認するために、\nドギファの舞台に行く<$00>
+<CLEAR>Look for Angela at the theater stage in Dogyf Heights.<$00>
 
 
-
-<CLEAR>
-//お金が　足りないようですね
-You can't afford this, can you.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//お客様、戦えなくなった　猟犬のＨＰは\n宿泊や野営じゃ　戻りませんけど…\n
-I'm sorry, but dogs won't recover HP in\n
-hotels or camps.\n
-<$01>
-//知ってるよ
-I know that
-<$0E>
-//／
-／
-<$01>
-//ホントかよ
-Really?!
-<$0E>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//さしでがましいことを　申し上げ\nたいへん　失礼いたしました\nでは　ごゆっくり
-Ah, I see. Please forgive my outburst.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//専門のお医者さまを　お捜しになって\nなるべく早く\n治療して　さしあげてください
-Yes. Always seek a vet treat your dogs.
-<$12>
-<$00>
-
-
-
-
-
-
-//
-<$15>
-//Yスケジュール
-YMemo＿
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//スケジュールは何もありません
-There is nothing on schedule.
-<$12>
-<$00>
-
-
-
-
-
-
-//成功終了
-Completed!
-<$00>
-
-
-
-
-
-
-//期限切れ
-Expired!
-<$00>
-
-
-
-
-
-
-//あと
-In＿
-<$1E>
-//季節
-＿seasons
-<$00>
-
-
-
-
-
-
-//あと
-Deadline:＿
-<$1E>
-//年
-Y/
-<$1E>
-//季節
-S
-<$00>
-
-
-
-
-
-
-//あと
-In＿
-<$1E>
-//年
-＿years
-<$00>
-
-
-
-
-
-
-<$16><$01>
-//◇
-◇
-<$0E><$1D><$02>
-//190
-<$1D>
-<$00>
-
-
-
-
-
-
-//ファングを倒す
-Slay Fang
-<$00>
-
-
-
-
-
-
-//パンハイムからの依頼
-Assist Panheim
-<$00>
-
-
-
-
-
-
-//<$1B>
-//カメの卵を手に入れる
-Snatch Turtle Eggs
-<$00>
-
-
-
-
-
-
-//<$1B>
-//プテラノの卵を手に入れる
-Snatch Pteranodon Eggs
-<$00>
-
-
-
-
-
-
-//遺産争いにケリをつける
-End the inheritance battle
-<$00>
-
-
-
-
-
-
-//ヤマダのために一肌脱ぐ
-Unload for Yamada
-<$00>
-
-
-
-
-
-
-//町のシンボルを見つけだす
-Find the village symbol
-<$00>
-
-
-
-
-
-
-//ソフィアからの依頼
-Assist Sophia
-<$00>
-
-
-
-
-
-
-//サチコ救出
-Rescue Sachiko
-<$00>
-
-
-
-
-
-
-//ポロポロちゃんを助ける
-Save Nightshade
-<$00>
-
-
-
-
-
-
-//アンジェラ捜し
-Find Angela
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//カラゴラムのファングを倒し、その証拠を\nハーディアホテルのスペクターに渡す
-Defeat Fang in Karhagolem. Present proof to\n
-Spectre in Hardia Hotel.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//マーブルポリスの
-Process meat from＿
-//<$1B>
-//ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す
-chickens in Marblopolis.Give them to Prof.\n
-Panheim in Hospico.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-Find up to 3＿
-//<$1B>
-//カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す
-Turtle Eggs. Give them to Louis at the Battle\n
-Park BB Ranch.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-Acquire 2＿
-//<$1B>
-//プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す
-Pteranodon Eggs. Give them to Bronco at the\n
-Battle Park BB Ranch.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//「太郎の首輪」を見つけだし、ドギファの\nナターシャか、オーマン家３兄弟に渡す
-Locate Taro's Collar. Give it to Natasha or\n
-one of the 3 Aumann children in Dogyf\n
-Heights.
-<$00>
-
-
-
-
-
-
-//６万
-60, 000
-<$00>
-
-
-
-
-
-
-//あと
-another＿
-<$06><$1E><$0F>
-//000
-<$04>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//Ｇファクトリーのヤマダのために\n
-Deposit＿
-<$1D>
-//￥を預金する
-￥ in an account to Yamada in G Factory.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//コシカタのシンボル「
-Find the＿
-//<$1B>
-//トラの爪」を\n見つけだし、ポリスカに渡す
-Tiger Claw, Koshikata's village symbol.\n
-Return it to Poliska.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ソフィアのために、エターナの桜の木を\nどうにかして咲かせる
-Find out how to revive the sakura trees in\n
-Eterna for Sophia.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//溶岩の中で育った動物の熱いウンチを\nエターナのソフィアに渡す
-Deliver Hot Dung from a lava-dwelling\n
-creature to Sophia in Eterna.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ラグナロッジのエモリに会いに行く
-Meet with Dr. Emori in Ragna Rim.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//「フロッピーと
-Take the Floppy Disc and＿
-<$06>
-//10
-10, 000
-<$04>
-//万￥」を持って、\nＧファクトリー入口１階、\n公衆電話の前に行く
-￥ to the G Factory gate. Answer the payphone.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//「フロッピーと
-Take the Floppy Disc and＿
-<$06>
-//10
-10, 000
-<$04>
-//万￥」を持って、\nパラサイド入口１階、\n公衆電話の前に行く
-￥ to the Paraside gate. Answer the payphone.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//「フロッピーと
-Take the Floppy Disc and＿
-<$06>
-//10
-10, 000
-<$04>
-//万￥」を持って、\nガレックスに行く
-￥ to Galax.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す
-Pick bloodberries in Flora Jam. Take them to\n
-Kevin and Nightshade in Rose Garden.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//パラサイドの酒場にいるアンジェラを\n確認して、リナバレーのマリオに連絡する
-Look for Angela at the Paraside bar. Report\n
-your findings to Mario in Spurr Valley.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//アンジェラを確認するために、\nオズポートホテルの酒場に行く
-Look for Angela at the OzPort Hotel bar.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//アンジェラを確認するために、\n西エリアのしけた町のホテルに行く
-Look for Angela at a hotel bar somewhere in\n
-West Area.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//アンジェラを確認するために、\nドギファの舞台に行く
-Look for Angela at the theater stage in Dogyf\n
-Heights.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//リナバレーのマリオの母、\nアンジェラを追ってオズサットへ行く
-Chase Angela to OzSat! Mario will follow from\n
-Spurr Valley.
-<$00>
-
-
-
-
+//<CLEAR>リナバレーのマリオの母、\nアンジェラを追ってオズサットへ行く<$00>
+<CLEAR>Chase Angela to OzSat! Mario will follow from Spurr Valley.<$00>
 
 
 

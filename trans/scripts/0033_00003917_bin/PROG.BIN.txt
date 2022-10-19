@@ -149,690 +149,252 @@ kao_l33.obj
 
 
 #WRITE(PTR, $001C)
-//オズポート
-OzPort＿
-<$00>
+//オズポート<$00>
+OzPort＿<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
+//<CLEAR><$19>1<$15>Sたくさんの男女の名が　彫られている<$14><$12><$00>
+<CLEAR><$19><$15>SA myriad of couples' names can be read off the red\n
+cypress tree.<$14><$12><$00>
 
 
+//<CLEAR>恵まれない私のために　ひとつ\nご寄付をお願いしますよ、ダンナ様！<$00>
+<CLEAR>If you donate to charity, then you can call me Charity!<$00>
 
 
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
+//<CLEAR>何かイイことが　ありそうなフリだけの\n寄付より　絶対に何もない　私への\n寄付のほうが　潔いってモンですよ<$12><$00>
+<CLEAR>Why donate to some corporation when you could donate to\n
+me, someone who ACTUALLY needs the money?<$12><$00>
 
 
-
-
-
-
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//Sたくさんの男女の名が　彫られている
-SA myriad of couples' names can be read off\n
-the red cypress tree.
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//恵まれない私のために　ひとつ\nご寄付をお願いしますよ、ダンナ様！
-If you donate to charity, then you can call\n
-me Charity!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//何かイイことが　ありそうなフリだけの\n寄付より　絶対に何もない　私への\n寄付のほうが　潔いってモンですよ
-Why donate to some corporation when you could\n
-donate to me, someone who ACTUALLY needs the\n
-money?
-<$12>
-<$00>
-
-
-
-
-
-
-//公園内での　キャッチボール、たき火等\n他人の迷惑になる行為を　禁じます\n＿＿＿＿＿＿＿＿オズポート公園管理局
+//公園内での　キャッチボール、たき火等\n他人の迷惑になる行為を　禁じます\n＿＿＿＿＿＿＿＿オズポート公園管理局<$12><$00>
 "NUISANCE ACTIVITIES\n
 (BALL GAMES, BONFIRES, ETC) ARE BANNED!"\n
-＿-OZPORT PARK STAFF
-<$12>
-<$00>
+＿-OZPORT PARK STAFF<$12><$00>
 
 
+//赤糸杉\nこの木に　恋人の名を刻むと　想いが\nかなうという伝説が　ありますが…<$12>\n<CLEAR>むやみに　木を傷つけると\n枯れてしまう原因に　なります<$12>\n<CLEAR>絶対　やめてください\n＿\n＿＿＿＿＿＿＿＿オズポート公園管理局<$12><$00>
+"LOVERS WHO ENGRAVE THEIR NAMES ON OUR FAMOUS RED\n
+CYPRESS LIVE HAPPILY EVER AFTER."<$12>\n
+<CLEAR>"WHETHER THAT LEGEND IS TRUE OR NOT, IT IS NOT A GOOD\n
+REASON TO HURT AND KILL OUR TREES."<$12>\n
+<CLEAR>"WE ASK THE PUBLIC TO CEASE AND DESIST."!\n
+＿-OZPORT PARK STAFF<$12><$00>
 
 
+//レンジャー隊の本部の　記録係のコ！\n彼女の雑談って　いろんな噂話が聞けて\n面白いよな？　半分はウソだけどさ<$12>\n<CLEAR>しかし…　内勤の女ってサ、\n何でみんな　噂好きなんだろ？\n仕事の十倍は　精力を傾けてるよな<$12><$00>
+You know the lady at HQ who documents reports? She\n
+always has the latest gossip.<$12>\n
+<CLEAR>Half of it's gotta be B.S., so why does she spend so much\n
+time spreading rumors?<$12>\n
+<CLEAR>She'd get a lot more work done if she channeled that energy\n
+elsewhere.<$12><$00>
 
 
-//赤糸杉\nこの木に　恋人の名を刻むと　想いが\nかなうという伝説が　ありますが…
-"LOVERS WHO ENGRAVE THEIR NAMES ON OUR FAMOUS\n
-RED CYPRESS LIVE HAPPILY EVER AFTER."
-<$12>
+//自然の中の　夜の静寂は\n女を　おしゃべりにさせるんだよ<$12>\n<CLEAR>だから　彼女の本音を　聞きたけりゃ\n野営するのが　一番だね\nまぁ　試してみなよ<$12><$00>
+There's something about quiet nights under the stars that\n
+makes women wanna open up.<$12>\n
+<CLEAR>Camping's a great way to talk and hear a woman's true\n
+feelings. You should try it!<$12><$00>
+
+
+//どんなにひもじくても　外で見つけた\n花を口にするような　バカなマネは\nよしたほうが　安全だぜ<$12>\n<CLEAR>確かに　そこらの売薬よか　元気に\nしてくれる花も　たまにはあるらしいが\nきれいな花には　トゲがあるのが常さ<$12><$00>
+I don't care how hungry you are, eating flowers out of the\n
+dirt is downright nasty.<$12>\n
+<CLEAR>Some have nutritional benefits, sure, but some thorny\n
+flowers are better for the eyes!<$12><$00>
+
+
+//ＡＭＤ　１、９、９、９、年　夏　…\nこの星の最後に　ふさわしい\n単純であっけない　数字の並びだわね<$12><$00>
+This planet will die in the summer of AMD 1999. I too enjoy\n
+topping things off with a bang, but damn... <$12><$00>
+
+
+//町の中を走っても　体力は減らないわ\nただ　ほんの少しばかり、泥棒と\n間違えられることが　増えるかしらね<$12>\n<CLEAR>トンネルの中も　駆け足ＯＫよ\n何十往復でも　してちょうだい！<$12><$00>
+Running in town doesn't deplete stamina, but you may be\n
+mistaken for a thief.<$12>\n
+<CLEAR>In tunnels, however, you're socially free to run as many\n
+laps as you want!<$12><$00>
+
+
+//<CLEAR>この季節に　洞くつの奥へ潜って\n見慣れない丸いモノを　見つけたら\nそいつは　動物の卵だよ<$12>\n<CLEAR>水辺の砂地、草むら、\nもちろん巣の中も　よーく捜せよ<$12>\n<CLEAR>親の目を　盗んでナ<$12><$00>
+<CLEAR>If you go diving around this time, you might find little round\n
+animal eggs!<$12>\n
+<CLEAR>They're in the sandy soil of the waterfronts, in the grass,\n
+anywhere you look!<$12>\n
+<CLEAR>Once you see them, you get to steal them from their\n
+parents! Isn't that fun!<$12><$00>
+
+
+//<CLEAR>何が出てくるか　わかんない卵に\n大金払うマヌケな商人は　いやしない！\n卵はかえしてから　売らなきゃ損だ∥<$12>\n<CLEAR>そこで　役に立つのが　ウチの\n「ビッグママ」だ∥\nまぁ　話の種に見てってくれよ<$12><$00>
+<CLEAR>Traders ain't stupid enough to pay high price for an egg\n
+they don't know what's gonna come out of it!<$12>\n
+<CLEAR>You gotta make sure to incubate the eggs through Big\n
+Mama first before selling them.<$12><$00>
+
+
+//<CLEAR>あの高級花嫁衣裳の　お値段って\nいったい<$08>4おいくらなのかしら<$08>-2？<$08>-4<$00>
+<CLEAR>I wonder how much they charge for that＿<$08>4luxury gown in\n
+there<$08>-2...<$08><$00>
+
+
+//<CLEAR>女に　生まれたからには\n一度は　袖を通してみたいわ！<$00>
+<CLEAR>What little girl wouldn't kill to put her hands through those\n
+silky sleeves?<$00>
+
+
+//<CLEAR>…なーんてね\nレンジャー隊の　給料じゃ\n無理よねェ<$00>
+<CLEAR>Aw, who am I kidding? There's no slipping into one of those\n
+on a ranger's salary!<$00>
+
+
+//<CLEAR><$19>1<$15>Sケンは　赤糸杉の幹を調べた<$14><$12>\n<CLEAR><$19>1<$15>S腰の高さに　■に入った\nケンとリンダの名前を\n見つけた<$14><$12><$00>
+<CLEAR><$19><$15>SKen inspected the trunk of the red cypress tree.<$14><$12>\n
+<CLEAR><$19><$15>SAbout waist-high, Ken found a　■ looped around the\n
+names "Ken + Linda".<$14><$12><$00>
+
+
+//<CLEAR>これを書いたの　私よね？<$00>
+<CLEAR>I carved this for us, right?<$00>
+
+
+//\n<$01>そんな気もする<$0E>／<$01>たぶん、俺だよ<$0E><$00>
 \n
-<CLEAR>
-//むやみに　木を傷つけると\n枯れてしまう原因に　なります
-"WHETHER THAT LEGEND IS TRUE OR NOT, IT IS\n
-NOT A GOOD REASON TO HURT AND KILL OUR\n
-TREES."
-<$12>
-\n
-<CLEAR>
-//絶対　やめてください\n＿\n＿＿＿＿＿＿＿＿オズポート公園管理局
-"WE ASK THE PUBLIC TO CEASE AND DESIST."!\n
-＿-OZPORT PARK STAFF
-<$12>
-<$00>
+<$01>Most likely.<$0E><$01>I thought I did!<$0E><$00>
 
 
+//<CLEAR>だって　あの時　ケンたら\nまだ　自分の名前も\n書けなかったのよ<$00>
+<CLEAR>Right! At that time, you couldn't figure out how to write your\n
+own name yet.<$00>
 
 
+//<CLEAR>…そう、私が書いたんだわ！<$00>
+<CLEAR>So...I did the honors instead!<$00>
 
 
-//レンジャー隊の本部の　記録係のコ！\n彼女の雑談って　いろんな噂話が聞けて\n面白いよな？　半分はウソだけどさ
-You know the lady at HQ who documents\n
-reports? She always has the latest gossip.
-<$12>
-\n
-<CLEAR>
-//しかし…　内勤の女ってサ、\n何でみんな　噂好きなんだろ？\n仕事の十倍は　精力を傾けてるよな
-Half of it's gotta be B.S., so why does she\n
-spend so much time spreading rumors?
-<$12>
-\n
-<CLEAR>
-She'd get a lot more work done if she\n
-channeled that energy elsewhere.
-<$12>
-<$00>
+//<CLEAR>…ねぇ　ケン、わかる？\n私　思い出したのよ∥\nまだ　ほんの少しだけど！<$00>
+<CLEAR>See, Ken? I remembered something! Maybe not much,\n
+but it's something!<$00>
 
 
+//<CLEAR>他にも何か　書いてないかなぁ！\nもっと　思い出せそうな気がする\nねぇ　一緒に捜して！<$00>
+<CLEAR>Did I write anything else? It could help, so let's look!<$00>
 
 
+//<CLEAR><$19>1<$15>Sケンは　赤糸杉の幹を調べた<$14><$12>\n<CLEAR><$19>1<$15>S胸の高さに　■に入った\nポールとリンダの名前を\n見つけた<$14><$12><$00>
+<CLEAR><$19><$15>SKen inspected the trunk of the red cypress tree.<$14><$12>\n
+<CLEAR><$19><$15>SAbout waist-high, Ken found a　■ looped around the\n
+names "Paul + Linda".<$14><$12><$00>
 
 
-//自然の中の　夜の静寂は\n女を　おしゃべりにさせるんだよ
-There's something about quiet nights under\n
-the stars that makes women wanna open up.
-<$12>
-\n
-<CLEAR>
-//だから　彼女の本音を　聞きたけりゃ\n野営するのが　一番だね\nまぁ　試してみなよ
-Camping's a great way to talk and hear a\n
-woman's true feelings. You should try it!
-<$12>
-<$00>
+//<CLEAR>…これも　私なのかしら？<$00>
+<CLEAR>Did...Did I write this too?<$00>
 
 
+//<CLEAR>……………あっ∥<$00>
+<CLEAR>......Uhm!<$00>
 
 
+//<CLEAR>ゼンゼン　思い出せないから\nきっと　別人よね\nさあ、次！　次を捜しましょ<$00>
+<CLEAR>Haha! Who the hell is "Paul"? This must be some OTHER\n
+couple. Moving on!<$00>
 
 
-//どんなにひもじくても　外で見つけた\n花を口にするような　バカなマネは\nよしたほうが　安全だぜ
-I don't care how hungry you are, eating\n
-flowers out of the dirt is downright nasty.
-<$12>
-\n
-<CLEAR>
-//確かに　そこらの売薬よか　元気に\nしてくれる花も　たまにはあるらしいが\nきれいな花には　トゲがあるのが常さ
-Some have nutritional benefits, sure, but\n
-some thorny flowers are better for the eyes!
-<$12>
-<$00>
+//<CLEAR><$19>1<$15>Sケンは　赤糸杉の幹を調べた<$14><$12>\n<CLEAR><$19>1<$15>S目の高さに　■に入った\nケンとサチコの名前を\n見つけてしまった<$14><$12><$00>
+<CLEAR><$19><$15>SKen inspected the trunk of the red cypress tree.<$14><$12>\n
+<CLEAR><$19><$15>SAbout eye-level, Ken found a　■ looped around the\n
+names "Ken + Sachiko".<$14><$12><$00>
 
 
+//<CLEAR>ねぇ　ケン…　この星じゃ\nケンもサチコも　とても\n珍しい名前よね？<$00>
+<CLEAR>You know, "Ken" and "Sachiko" are both mighty rare\n
+names on this planet.<$00>
 
 
+//<CLEAR>ホスピコに　サチコっていう\nお人形みたいに　かわいい\n看護婦さんが　いるのよね<$00>
+<CLEAR>This "Sachiko" must be that cute, doll-like nurse in\n
+Hospico...<$00>
 
 
-//ＡＭＤ　１、９、９、９、年　夏　…\nこの星の最後に　ふさわしい\n単純であっけない　数字の並びだわね
-This planet will die in the summer of AMD\n
-1999. I too enjoy topping things off with a\n
-bang, but damn...
-<$12>
-<$00>
+//<CLEAR>でも　別人よね￠<$00>
+<CLEAR>...but who's the "Ken", hmm?<$00>
 
 
+//<CLEAR>………………<$12><$00>
+<CLEAR>.........<$12><$00>
 
 
+//<CLEAR>さあ　他のを捜しましょうか？\nもうひとつくらい　別人の\nケンの名前が　見つかるかもね<$00>
+<CLEAR>Hmph, moving on. Better keep our eyes peeled for this\n
+OTHER Ken.<$00>
 
 
-//町の中を走っても　体力は減らないわ\nただ　ほんの少しばかり、泥棒と\n間違えられることが　増えるかしらね
-Running in town doesn't deplete stamina, but\n
-you may be mistaken for a thief.
-<$12>
-\n
-<CLEAR>
-//トンネルの中も　駆け足ＯＫよ\n何十往復でも　してちょうだい！
-In tunnels, however, you're socially free to\n
-run as many laps as you want!
-<$12>
-<$00>
+//<CLEAR><$19>1<$15>Sケンは　赤糸杉の幹を調べた<$14><$12>\n<CLEAR><$19>1<$15>S■に入った\nジーンとアンの名前が\nかすかに　読みとれた<$14><$12><$00>
+<CLEAR><$19><$15>SKen inspected the trunk of the red cypress tree.<$14><$12>\n
+<CLEAR><$19><$15>SKen found an ever so faint　■ looped around the names\n
+"Gene + Ann".<$14><$12><$00>
 
 
+//<CLEAR>別人の名前ばかり見つかるわね\nアンは　私のママの名前だし\nジーンは　ケンのパパでしょ？<$00>
+<CLEAR>What a coincidence! My mom's name is Ann, and your dad's\n
+name was Gene.<$00>
 
 
+//<CLEAR>それとも　結婚前に\nワケありだったのかなぁ…\nあっ、冗談よ　ごめんね<$00>
+<CLEAR>Imagine the drama if this was them before they got\n
+married... Just kidding!<$00>
 
 
-<CLEAR>
-//この季節に　洞くつの奥へ潜って\n見慣れない丸いモノを　見つけたら\nそいつは　動物の卵だよ
-If you go diving around this time, you might\n
-find little round animal eggs!
-<$12>
-\n
-<CLEAR>
-//水辺の砂地、草むら、\nもちろん巣の中も　よーく捜せよ
-They're in the sandy soil of the waterfronts,\n
-in the grass, anywhere you look!
-<$12>
-\n
-<CLEAR>
-//親の目を　盗んでナ
-Once you see them, you get to steal them from\n
-their parents! Isn't that fun!
-<$12>
-<$00>
+//<CLEAR><$19>1<$15>Sケンは　赤糸杉の幹を調べた<$14><$12>\n<CLEAR><$19>1<$15>Sたくさんの名前が\n書かれているが　覚えのある\n名前は　見あたらなかった<$14><$12><$00>
+<CLEAR><$19><$15>SKen inspected the trunk of the red cypress tree.<$14><$12>\n
+<CLEAR><$19><$15>A myriad of unfamiliar names can be read off the red\n
+cypress tree.<$14><$12><$00>
 
 
+//<CLEAR>そういえば、ケン<$00>
+<CLEAR>This reminds me...<$00>
 
 
+//<CLEAR>この木に　名前を彫った後\n記念にって　その辺の店で\n指輪を　買ってくれたよね<$00>
+<CLEAR>After I carved our names, you bought me a ring from a\n
+nearby store.<$00>
 
 
-<CLEAR>
-//何が出てくるか　わかんない卵に\n大金払うマヌケな商人は　いやしない！\n卵はかえしてから　売らなきゃ損だ∥
-Traders ain't stupid enough to pay high price\n
-for an egg they don't know what's gonna come\n
-out of it!
-<$12>
-\n
-<CLEAR>
-//そこで　役に立つのが　ウチの\n「ビッグママ」だ∥\nまぁ　話の種に見てってくれよ
-You gotta make sure to incubate the eggs\n
-through Big Mama first before selling them.
-<$12>
-<$00>
+//<CLEAR>確か　値段は２￥！<$00>
+<CLEAR>It cost you a whopping ２￥!<$00>
 
 
-
-
-
-
-<CLEAR>
-//あの高級花嫁衣裳の　お値段って\nいったい
-I wonder how much they charge for that＿
-<$08>
-//4おいくらなのかしら
-4luxury gown in there
-<$08>
-//-2？
--2...
-<$08>
-//-4
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//女に　生まれたからには\n一度は　袖を通してみたいわ！
-What little girl wouldn't kill to put her\n
-hands through those silky sleeves?
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//…なーんてね\nレンジャー隊の　給料じゃ\n無理よねェ
-Aw, who am I kidding? There's no slipping\n
-into one of those on a ranger's salary!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//Sケンは　赤糸杉の幹を調べた
-SKen inspected the trunk of the red cypress\n
-tree.
-<$14><$12>
-\n
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//S腰の高さに　■に入った\nケンとリンダの名前を\n見つけた
-SAbout waist-high, Ken found a　■ looped\n
-around the names "Ken + Linda".
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//これを書いたの　私よね？
-I carved this for us, right?
-<$00>
-
-
-
-
-
-
-//\n
-\n
-<$01>
-//そんな気もする
-Most likely.
-<$0E>
-//／
-<$01>
-//たぶん、俺だよ
-I thought I did!
-<$0E>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//だって　あの時　ケンたら\nまだ　自分の名前も\n書けなかったのよ
-Right! At that time, you couldn't figure out\n
-how to write your own name yet.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//…そう、私が書いたんだわ！
-So...I did the honors instead!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//…ねぇ　ケン、わかる？\n私　思い出したのよ∥\nまだ　ほんの少しだけど！
-See, Ken? I remembered something! Maybe not\n
-much, but it's something!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//他にも何か　書いてないかなぁ！\nもっと　思い出せそうな気がする\nねぇ　一緒に捜して！
-Did I write anything else? It could help, so\n
-let's look!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//Sケンは　赤糸杉の幹を調べた
-SKen inspected the trunk of the red cypress\n
-tree.
-<$14><$12>
-\n
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//S胸の高さに　■に入った\nポールとリンダの名前を\n見つけた
-SAbout waist-high, Ken found a　■ looped\n
-around the names "Paul + Linda".
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//…これも　私なのかしら？
-Did...Did I write this too?
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//……………あっ∥
-......Uhm!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ゼンゼン　思い出せないから\nきっと　別人よね\nさあ、次！　次を捜しましょ
-Haha! Who the hell is "Paul"? This must be\n
-some OTHER couple. Moving on!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//Sケンは　赤糸杉の幹を調べた
-SKen inspected the trunk of the red cypress\n
-tree.
-<$14><$12>
-\n
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//S目の高さに　■に入った\nケンとサチコの名前を\n見つけてしまった
-SAbout eye-level, Ken found a　■ looped around\n
-the names "Ken + Sachiko".
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ねぇ　ケン…　この星じゃ\nケンもサチコも　とても\n珍しい名前よね？
-You know, "Ken" and "Sachiko" are both mighty\n
-rare names on this planet.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ホスピコに　サチコっていう\nお人形みたいに　かわいい\n看護婦さんが　いるのよね
-This "Sachiko" must be that cute, doll-like\n
-nurse in Hospico...
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//でも　別人よね￠
-...but who's the "Ken", hmm?
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//………………
-.........
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//さあ　他のを捜しましょうか？\nもうひとつくらい　別人の\nケンの名前が　見つかるかもね
-Hmph, moving on. Better keep our eyes peeled\n
-for this OTHER Ken.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//Sケンは　赤糸杉の幹を調べた
-SKen inspected the trunk of the red cypress\n
-tree.
-<$14><$12>
-\n
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//S■に入った\nジーンとアンの名前が\nかすかに　読みとれた
-SKen found an ever so faint　■ looped around\n
-the names "Gene + Ann".
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//別人の名前ばかり見つかるわね\nアンは　私のママの名前だし\nジーンは　ケンのパパでしょ？
-What a coincidence! My mom's name is Ann, and\n
-your dad's name was Gene.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//それとも　結婚前に\nワケありだったのかなぁ…\nあっ、冗談よ　ごめんね
-Imagine the drama if this was them before\n
-they got married... Just kidding!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//Sケンは　赤糸杉の幹を調べた
-SKen inspected the trunk of the red cypress\n
-tree.
-<$14><$12>
-\n
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//Sたくさんの名前が\n書かれているが　覚えのある\n名前は　見あたらなかった
-A myriad of unfamiliar names can be read off\n
-the red cypress tree.
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//そういえば、ケン
-This reminds me...
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//この木に　名前を彫った後\n記念にって　その辺の店で\n指輪を　買ってくれたよね
-After I carved our names, you bought me a\n
-ring from a nearby store.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//確か　値段は２￥！
-It cost you a whopping ２￥!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ほら、これよ　見て！
-But I made the money stretch, see? I've got\n
-it right here!
-<$00>
-
-
-
-
+//<CLEAR>ほら、これよ　見て！<$00>
+<CLEAR>But I made the money stretch, see? I've got it right here!<$00>
 
 
 PICT16.TIM
@@ -841,1222 +403,426 @@ PICT16.TIM
 
 
 
-<CLEAR>
-//小さくなったから　１２の時に\nペンダントに　してもらったの
-My finger outgrew it by the time I hit 12, so\n
-I made it into a pendant.
-<$00>
+//<CLEAR>小さくなったから　１２の時に\nペンダントに　してもらったの<$00>
+<CLEAR>My finger outgrew it by the time I hit 12, so I made it into\n
+a pendant.<$00>
 
 
+//<CLEAR>…今日も　同じの買ってくれる？\nきっと何か　思い出せるわ！<$00>
+<CLEAR>Could you buy me a new one today too? For my memory?<$00>
 
 
-
-
-<CLEAR>
-//…今日も　同じの買ってくれる？\nきっと何か　思い出せるわ！
-Could you buy me a new one today too? For my\n
-memory?
-<$00>
-
-
-
-
-
-
-//\n
+//\n<$01>見るだけだよ<$0E>／<$01>２￥のヤツね<$0E><$00>
 \n
-<$01>
-//見るだけだよ
-Cheap-ass...
-<$0E>
-//／
-<$01>
-//２￥のヤツね
-For ２￥, sure!
-<$0E>
-<$00>
+<$01>Cheap-ass...<$0E><$01>For ２￥, sure!<$0E><$00>
 
 
+//<CLEAR>いいわよ！\n確か　空港ホテルの１階の\nショップだったはずよ<$00>
+<CLEAR>Sweet! The shop should still be on the first floor of the\n
+Airport Hotel.<$00>
 
 
+//<CLEAR><$19>1<$15>Sケンは赤糸杉の幹を調べた<$14><$12><$00>
+<CLEAR><$19><$15>SKen inspected the trunk of the red cypress tree.<$14><$12><$00>
 
 
-<CLEAR>
-//いいわよ！\n確か　空港ホテルの１階の\nショップだったはずよ
-Sweet! The shop should still be on the first\n
-floor of the Airport Hotel.
-<$00>
+//<CLEAR><$19>1<$15>S■に入った　ネクとリンダの名前を\n見つけた\n<$01>ケンの名に戻す<$0E>／<$01>このままにする<$0E><$14><$00>
+<CLEAR><$19><$15>Ken found a　■ looped around the names "Nek + Linda".\n
+<$01>Change "Nek" to "Ken"<$0E><$01>Ignore it<$0E><$14><$00>
 
 
+//<CLEAR><$19>1<$15>Sケンは　ネクの名を削って\n自分の名を新たに彫った！<$14><$12><$00>
+<CLEAR><$19><$15>SKen struck Nek's name from the tree and wrote "Ken"!<$14><$12><$00>
 
 
+//<CLEAR><$19>1<$15>S■に入った　ケンとリンダの名前を\n見つけて　一安心した<$14><$12><$00>
+<CLEAR><$19><$15>Ken found a lovingly　■ looped around the names "Ken \n
++ Linda".\n
+<$14><$12><$00>
 
 
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//Sケンは赤糸杉の幹を調べた
-SKen inspected the trunk of the red cypress\n
-tree.
-<$14><$12>
-<$00>
+//ＷＥＬＣＯＭＥ　ＮＥＯＫＥＮＹＡか…\nここへ来る時は　誰もが歓迎されるけど\n出て行く時は　見送りもなしさ…<$12><$00>
+"WELCOME NEO KENYA"... We greet people who come here,\n
+but don't want to say bye, do we?<$12><$00>
 
 
+//脱出船の空席待ちの　浮浪者たちが\n勝手に公園で生活を　始めちゃって\nなんだか　ヤな感じ！<$12>\n<CLEAR>あんた、レンジャー隊でしょ？\n注意して　来なさいよ∥<$12><$00>
+Droves of vagrants camp here now, hoping to snatch \n
+unclaimed shuttle seats.<$12>\n
+<CLEAR>Well?! You're a ranger, aren't you? Do something about\n
+them!<$12><$00>
 
 
+//その大木の幹に　好きな相手の名と\n自分の名を彫ると　必ず、ふたりは\n結ばれるって　言われているわ<$12>\n<CLEAR>もちろん　そんなの迷信だけど\n嫌いなヤツが　私の名を彫っていると\n気持ち悪いから　時々見に来てんのよ<$12><$00>
+Couples who carve their names into that red cypress tree\n
+are said to be bound forever.<$12>\n
+<CLEAR>It's only superstition, of course, but I still come to check\n
+the tree occasionally.<$12>\n
+<CLEAR>I don't want to find my name carved here by some person\n
+I hate!<$12><$00>
 
 
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//S■に入った　ネクとリンダの名前を\n見つけた\n
-Ken found a　■ looped around the names "Nek +\n
-Linda".\n
-<$01>
-//ケンの名に戻す
-Change "Nek" to "Ken"
-<$0E>
-//／
-<$01>
-//このままにする
-Ignore it
-<$0E><$14>
-<$00>
+//あんた、さっき　他人の名前を消して\nその上に　自分の名前を彫ったでしょ？\nなかなか　やるわね、ネク！<$12><$00>
+That was ballsy, Nek, scraping a name off the tree and\n
+carving yours over it!<$12><$00>
 
 
+//軌道上のオズサットと　つないでいるのが\nそこのタワーから　空に向かって\n射ち出される　虹色の光さ<$12>\n<CLEAR>ドームの外から　その様子を目にすると\nまるで　この町が　虹のたもとに\nあるように　見えるんだ<$12>\n<CLEAR>それで　お話にちなんで　オズポートの\n名前が　ついたそうだけど…　ここで\n夢をかなえた奴なんて　いやしねぇよ<$12><$00>
+The rainbow light emitting from the top of the spire\n
+follows OzSAT in orbit.<$12>\n
+<CLEAR>If you look at OzPort from outside the dome, it looks like\n
+we're at the foot of a rainbow.<$12>\n
+<CLEAR>Lack of generous wizards aside, that's where the "Oz" in\n
+the city's name stems from!<$12><$00>
 
 
+//ビースチャンの町で　また騒動が\n起きたんだってね…　町中の人間が\n一夜で　消えたって聞いたわよ<$12>\n<CLEAR>どうせ町をあげて　狩りにでも\n行ってましたとかいう　オチだわよ<$12>\n<CLEAR>だって　ビースチャンでしょ？\n私たちの常識は　通用しないわ<$12><$00>
+So, disaster befell yet another Beastian village, and its\n
+citizens vanished overnight.<$12>\n
+<CLEAR>Wouldn't it be funny if they were all out hunting together?<$12>\n
+<CLEAR>I mean, they're Beastian, right? Humans like us would at\n
+least leave a note!<$12><$00>
 
 
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//Sケンは　ネクの名を削って\n自分の名を新たに彫った！
-SKen struck Nek's name from the tree and\n
-wrote "Ken"!
-<$14><$12>
-<$00>
+//あ～　お腹、減った…<$12>\n<CLEAR>エターナの　エリザベス様のお屋敷に\n行けば　誰にでも　食べ物を\n恵んでくださるそうよ…<$12><$00>
+Ahh! My hunger's finally...dying....<$12>\n
+<CLEAR>Go to Ms. Elizabeth's mansion in Eterna. Her grace leaves\n
+no mouth unfed.<$12><$00>
 
 
+//この赤糸杉ってのは　幹に彫られた\n男女の名前の数だけ　他人の恋路を\n何十年も　見守ってきたわけだよなぁ<$12>\n<CLEAR>俺が赤糸杉なら　バカバカしくて\n三日で枯れちまうな、きっと<$12><$00>
+Ol' Red has safeguarded love for as many years as there\n
+are names carved into her trunk.<$12>\n
+<CLEAR>If I were a tree, I would've up and died in less than a week.<$12><$00>
 
 
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//S■に入った　ケンとリンダの名前を\n見つけて　一安心した
-Ken found a lovingly　■ looped around the\n
-names "Ken + Linda".\n
-<$14><$12>
-<$00>
-
-
-
-
-
-
-//ＷＥＬＣＯＭＥ　ＮＥＯＫＥＮＹＡか…\nここへ来る時は　誰もが歓迎されるけど\n出て行く時は　見送りもなしさ…
-"WELCOME NEO KENYA"... We greet people who\n
-come here, but don't want to say bye, do we?
-<$12>
-<$00>
-
-
-
-
-
-
-//脱出船の空席待ちの　浮浪者たちが\n勝手に公園で生活を　始めちゃって\nなんだか　ヤな感じ！
-Droves of vagrants camp here now, hoping to\n
-snatch unclaimed shuttle seats.
-<$12>
-\n
-<CLEAR>
-//あんた、レンジャー隊でしょ？\n注意して　来なさいよ∥
-Well?! You're a ranger, aren't you? Do\n
-something about them!
-<$12>
-<$00>
-
-
-
-
-
-
-//その大木の幹に　好きな相手の名と\n自分の名を彫ると　必ず、ふたりは\n結ばれるって　言われているわ
-Couples who carve their names into that red\n
-cypress tree are said to be bound forever.
-<$12>
-\n
-<CLEAR>
-//もちろん　そんなの迷信だけど\n嫌いなヤツが　私の名を彫っていると\n気持ち悪いから　時々見に来てんのよ
-It's only superstition, of course, but I\n
-still come to check the tree occasionally.
-<$12>
-\n
-<CLEAR>
-I don't want to find my name carved here by\n
-some person I hate!
-<$12>
-<$00>
-
-
-
-
-
-
-//あんた、さっき　他人の名前を消して\nその上に　自分の名前を彫ったでしょ？\nなかなか　やるわね、ネク！
-That was ballsy, Nek, scraping a name off the\n
-tree and carving yours over it!
-<$12>
-<$00>
-
-
-
-
-
-
-//軌道上のオズサットと　つないでいるのが\nそこのタワーから　空に向かって\n射ち出される　虹色の光さ
-The rainbow light emitting from the top of\n
-the spire follows OzSAT in orbit.
-<$12>
-\n
-<CLEAR>
-//ドームの外から　その様子を目にすると\nまるで　この町が　虹のたもとに\nあるように　見えるんだ
-If you look at OzPort from outside the dome,\n
-it looks like we're at the foot of a rainbow.
-<$12>
-\n
-<CLEAR>
-//それで　お話にちなんで　オズポートの\n名前が　ついたそうだけど…　ここで\n夢をかなえた奴なんて　いやしねぇよ
-Lack of generous wizards aside, that's where\n
-the "Oz" in the city's name stems from!
-<$12>
-<$00>
-
-
-
-
-
-
-//ビースチャンの町で　また騒動が\n起きたんだってね…　町中の人間が\n一夜で　消えたって聞いたわよ
-So, disaster befell yet another Beastian\n
-village, and its citizens vanished overnight.
-<$12>
-\n
-<CLEAR>
-//どうせ町をあげて　狩りにでも\n行ってましたとかいう　オチだわよ
-Wouldn't it be funny if they were all out\n
-hunting together?
-<$12>
-\n
-<CLEAR>
-//だって　ビースチャンでしょ？\n私たちの常識は　通用しないわ
-I mean, they're Beastian, right? Humans like\n
-us would at least leave a note!
-<$12>
-<$00>
-
-
-
-
-
-
-//あ～　お腹、減った…
-Ahh! My hunger's finally...dying....
-<$12>
-\n
-<CLEAR>
-//エターナの　エリザベス様のお屋敷に\n行けば　誰にでも　食べ物を\n恵んでくださるそうよ…
-Go to Ms. Elizabeth's mansion in Eterna. Her\n
-grace leaves no mouth unfed.
-<$12>
-<$00>
-
-
-
-
-
-
-//この赤糸杉ってのは　幹に彫られた\n男女の名前の数だけ　他人の恋路を\n何十年も　見守ってきたわけだよなぁ
-Ol' Red has safeguarded love for as many\n
-years as there are names carved into her\n
-trunk.
-<$12>
-\n
-<CLEAR>
-//俺が赤糸杉なら　バカバカしくて\n三日で枯れちまうな、きっと
-If I were a tree, I would've up and died in\n
-less than a week.
-<$12>
-<$00>
-
-
-
-
-
-
-//赤糸杉の幹を　調べてみな！\n知った名前のひとつやふたつは\nたいてい　見つけられる
-Go give the red cypress tree's trunk a read.\n
-You might recognize a name or two.
-<$12>
-\n
-<CLEAR>
-//名前を彫った本人を　からかうには\nもってこいの　おいしいネタが\nひとつ、増えるってもんよ
-It never hurts to find juicy dirt on people\n
-you know. It may come in handy someday!
-<$12>
-<$00>
-
-
-
-
+//赤糸杉の幹を　調べてみな！\n知った名前のひとつやふたつは\nたいてい　見つけられる<$12>\n<CLEAR>名前を彫った本人を　からかうには\nもってこいの　おいしいネタが\nひとつ、増えるってもんよ<$12><$00>
+Go give the red cypress tree's trunk a read. You might\n
+recognize a name or two.<$12>\n
+<CLEAR>It never hurts to find juicy dirt on people you know. It may\n
+come in handy someday! <$12><$00>
 
 
 #WRITE(PTR, $001E)
-//\n
+//\n<$00>
 \n
 <$00>
 
 
+//<$01>寄付する<$0E>／<$01>雑談する<$0E>／<$01>ヤだよ！<$0E><$00>
+<$01>Donate<$0E>／<$01>Chat<$0E>／<$01>No way!<$0E><$00>
 
 
+//<CLEAR>あたしに有り金を　全部渡したその足で\nＬ－<$06>22<$04>辺りを　散歩してごらん\nきっと珍しいヤツに　出くわすよ<$12><$00>
+<CLEAR>There's some fellers around L-<$06>22<$04>＿who only approach\n
+those they find desirable.<$12><$00>
 
 
-<$01>
-//寄付する
-Donate
-<$0E>
-//／
-／
-<$01>
-//雑談する
-Chat
-<$0E>
-//／
-／
-<$01>
-//ヤだよ！
-No way!
-<$0E>
-<$00>
+//<CLEAR>間違っても　Ｌ－<$06>24<$04>やＧ－<$06>14<$04>で\n野宿なんかしないほうが　身のためだよ\nこわいヤツが　夢に出て来るってサ<$12><$00>
+<CLEAR>Whatever you do, don't camp around L-<$06>24<$04>＿or G-<$06>14<$04>.\n
+Weirdos bump in the night out there, if you catch my drift.<$12><$00>
 
 
+//<CLEAR>いつも神様は　あなたの行動を\n見ていらっしゃいますよ…<$12><$00>
+<CLEAR>God's always watching, you know.<$12><$00>
 
 
-
-
-<CLEAR>
-//あたしに有り金を　全部渡したその足で\nＬ－
-There's some fellers around L-
-<$06>
-//22
-22
-<$04>
-//辺りを　散歩してごらん\nきっと珍しいヤツに　出くわすよ
-＿who only approach those they find desirable.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//間違っても　Ｌ－
-Whatever you do, don't camp around L-
-<$06>
-//24
-24
-<$04>
-//やＧ－
-＿or G-
-<$06>
-//14
-14
-<$04>
-//で\n野宿なんかしないほうが　身のためだよ\nこわいヤツが　夢に出て来るってサ
-. Weirdos bump in the night out there, if you\n
-catch my drift.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//いつも神様は　あなたの行動を\n見ていらっしゃいますよ…
-God's always watching, you know.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ありがとうございます\n優しい気持ちを　入れてください\n持金
-Thank you so much!\n
+//<CLEAR>ありがとうございます\n優しい気持ちを　入れてください\n持金<$1E>40￥→寄付<$01><$1E>40￥<$00>
+<CLEAR>Thank you so much!\n
 How much will you donate?\n
-<$1E>
-//40￥→寄付
-40￥→
-<$01><$1E>
-//40￥
-40
-<$00>
+<$1E>40￥→<$01><$1E>40<$00>
 
 
+//<CLEAR><$06><$1E><$04>￥の寄付ですね\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
+<CLEAR>You'll donate＿<$06><$1E><$04>￥?\n
+<$01>Yes<$0E>／<$01>No<$0E><$00>
 
 
+//<CLEAR>最近、多いんですよ…\n持金を全部、寄付される方…<$12>\n<CLEAR>あなた、まだ若いんだから\nヘンな気を　起こさないでくださいね<$12><$00>
+<CLEAR>I've seen a lot of people donating everything they have\n
+lately.<$12>\n
+<CLEAR>You're still young, so don't feel strange or guilty about\n
+participating.<$12><$00>
 
 
-<CLEAR>
-//
-You'll donate＿
-<$06><$1E><$04>
-//￥の寄付ですね\n
-￥?\n
-<$01>
-//は＿い
-Yes
-<$0E>
-//／
-／
-<$01>
-//いいえ
-No
-<$0E>
-<$00>
+//<CLEAR>ダンナ、いつもわりいねぇ\n拾いモンだけど　お礼がわりに\nこれ、受け取ってくんナ<$12><$00>
+<CLEAR>Gosh, I don't know what to say. I'd only picked this up,\n
+but I hope it works as a "thank you".<$12><$00>
 
 
+//<CLEAR><$19>1<$15>S<CLEAR>ケンは　<$1D>を手に入れた∥<$14><$12><$00>
+<CLEAR><$19><$15>S<CLEAR>Ken took\n
+<$1D>!<$14><$12><$00>
 
 
+//<CLEAR>じゃ、引き続き寄付のほう　よろしく!\n…と言っても　もう何もでねぇけどナ<$12>\nた、ぶ、ん…<$12><$00>
+<CLEAR>Well, it always helps, so please continue to donate when you\n
+can.<$12>\n
+(Not "if", "when"...)<$12><$00>
 
 
-<CLEAR>
-//最近、多いんですよ…\n持金を全部、寄付される方…
-I've seen a lot of people donating everything\n
-they have lately.
-<$12>
+//<CLEAR>あなたに　神様からの祝福が\nありますように<$12><$00>
+<CLEAR>God bless you.<$12><$00>
+
+
+//<CLEAR>あなたと　あなたの家族に\n神様からのご加護が　ありますように<$12><$00>
+<CLEAR>God bless you and your family.<$12><$00>
+
+
+//<CLEAR>あなたと　あなたの家族\nそして　子孫にも　未来永劫、\n幸あらんことを　お祈りします<$12><$00>
+<CLEAR>God bless you, your family, your children and your\n
+childrens' children.<$12><$00>
+
+
+//<CLEAR>今、あなたが寄付したお金を\nどうやって　かせいだかについては…<$12>\n<CLEAR>きっと　神様も見てなかったことに\nしてくださると　思いますよ\n良かったですね<$12><$00>
+<CLEAR>Ask yourself, how'd you get the money you donated just\n
+now?<$12>\n
+<CLEAR>God's giving someone a little special treatment, I'll bet. But\n
+that's good too!<$12><$00>
+
+
+//<CLEAR>どうも<$12>\n………………………………？\nえっ￠　神様のご加護？<$12>\n<CLEAR>そんなモンなくったって　こんな大金を\nポンと　寄付できるような方なんだから\n十分、幸せなはずですよ<$12>\n<CLEAR>足りなきゃ　<$06>100000<$04>￥で\nお売りしましょうか？<$12><$00>
+<CLEAR>My goodness!<$12>\n
+Is this...what they call "a gift from God"?<$12>\n
+<CLEAR>To see someone who- by all rights- wouldn't have much\n
+be so generous brings me to tears!<$12>\n
+<CLEAR>Is＿<$06>100,000<$04>￥ a fair price to you?<$12><$00>
+
+
+//<CLEAR>本当に　ありがとうございました∥\nあなたのお気持ちは　しっかりと…<$12>\n「記録」しておきましたよ<$12><$00>
+<CLEAR>Thank you so much! Your generosity will be remembered\n
+for all time.<$12>\n
+I know, because I just "reported" it.<$12><$00>
+
+
+//個<$00>
+＿<$00>
+
+
+//匹<$00>
+＿<$00>
+
+
+//<$1D>を<$1D>ます\n<$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04>／<$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S￥<$00>
+<$1D>＿x<$1D>＿\n
+<$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04>／<$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S￥<$00>
+
+
+//<$06>T.C.(<$1E>034<$06>)<$00>
+<$06>TCU (x<$1E><$06>)<$00>
+
+
+//<$05>γ<$00>
+<$05>A<$00>
+
+
+//<$05>ζ<$00>
+<$05>D<$00>
+
+
+//<$1E>@019<$00>
+<$1E>@019<$00>
+
+
+//<CLEAR>セレクトボタンで解説が出ます<$00>
+<CLEAR>SELECT: Details<$00>
+
+
+//<CLEAR><$00>
+<CLEAR><$00>
+
+
+//<$04><$16><$15>W<$01><$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
+<$04><$16><$15>W<$01><$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
+
+
+//<CLEAR>トランスカーゴは　１枠につき\n<$06>99<$04>頭までしか　収容できません<$12><$00>
+<CLEAR>The trans-cargo unit has\n
+a＿<$06>99<$04>＿species capacity!<$12><$00>
+
+
+//<CLEAR><$06>トランスカーゴ<$04>がいっぱいです<$12><$00>
+<CLEAR><$06>The trans-cargo unit＿<$04>is full!<$12><$00>
+
+
+//<CLEAR>道具がいっぱいです<$12><$00>
+<CLEAR>The item bag is full!<$12><$00>
+
+
+//<CLEAR>不思議な　不思議な　不思議な卵\n話のネタに　おひとつどーだい？\n<$01>取引する<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
+<CLEAR>Oh eggs, what secrets lie inside your little shells?\n
+<$01>Shop<$0E>／<$01>Chat<$0E>／<$01>Exit<$0E><$00>
+
+
+//<CLEAR>じゃ、来年の春に　よろしく！<$12><$00>
+<CLEAR>Okay, see you next spring!<$12><$00>
+
+
+//<CLEAR>まぁ、買ったところで\n何が生まれるか　分からんし\n俺なら　買わないけどね<$12><$00>
+<CLEAR>No one knows what'll be born from a bought egg. It's\n
+why I don't buy them.<$12><$00>
+
+
+//<$15>Y卵　屋／買　う<$00>
+<$15>YEgg Seller／Buy<$00>
+
+
+//<$15>Y卵　屋<$00>
+<$15>YEgg Seller<$00>
+
+
+//クン、クンクン………？<$12>\n<CLEAR>ここには　少なくとも<$1E>1人！\nいいえ…　<$1E>1人はいるわよ…<$12>\n<CLEAR>お風呂と縁のない人<$12><$00>
+Sniff...sniff, sniff?<$12>\n
+<CLEAR>There's not＿<$1E>1 soul here!\n
+Wait... No, there's at least＿<$1E>1.<$12>\n
+<CLEAR>It's whatever they reek of that isn't human.<$12><$00>
+
+
+//……東<$00>
+...East<$00>
+
+
+//……西<$00>
+...West<$00>
+
+
+//……南<$00>
+...South<$00>
+
+
+//……北<$00>
+...North<$00>
+
+
+//…北東<$00>
+...North-east<$00>
+
+
+//…北西<$00>
+...North-west<$00>
+
+
+//…南東<$00>
+...South-east<$00>
+
+
+//…南西<$00>
+...South-west<$00>
+
+
+//<CLEAR>……<$1D><$00>
+<CLEAR>......<$1D><$00>
+
+
+//、…<$1D>に行けば<$00>
+! That's where we'll find a＿<$1D>.<$00>
+
+
+//直進<$00>
+For<$00>
+
+
+//右よ<$00>
+Right<$00>
+
+
+//左よ<$00>
+Left<$00>
+
+
+//後ろ<$00>
+Back<$00>
+
+
+//<CLEAR>……<$1D><$00>
+<CLEAR>......<$1D><$00>
+
+
+//、絶対に<$1D>∥<$00>
+wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
+
+
+//<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
+<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
+
+
+//<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
+<CLEAR>...Sorry. I don't have it in me today.<$12><$00>
+
+
+//運命の<$00>
+Fated＿<$00>
+
+
+//新しい<$00>
+New＿<$00>
+
+
+//素敵な<$00>
+Great＿<$00>
+
+
+//未知の<$00>
+Unknown＿<$00>
+
+
+//何か<$00>
+things＿<$00>
+
+
+//発見<$00>
+discoveries＿<$00>
+
+
+//お宝<$00>
+treasures＿<$00>
+
+
+//動物<$00>
+animals＿<$00>
+
+
+//に　出会える…<$00>
+could appear.<$00>
+
+
+//が　待ってる…<$00>
+await us...<$00>
+
+
+//気がするわ∥<$00>
+are there.<$00>
+
+
+//チャンスよ∥<$00>
+are in our grasp!<$00>
+
+
+//今しかないわ<$00>
+could slip through our fingers!<$00>
+
+
+//間違いなし∥<$00>
+are dead head!<$00>
+
+
+//\n<$1D><$1D><$1D>\n<$1D><$12>\n<CLEAR><$00>
 \n
-<CLEAR>
-//あなた、まだ若いんだから\nヘンな気を　起こさないでくださいね
-You're still young, so don't feel strange or\n
-guilty about participating.
-<$12>
-<$00>
+<$1D><$1D><$1D>\n
+<$1D><$12>\n
+<CLEAR><$00>
 
 
+//<CLEAR>自信があるの∥<$12><$00>
+<CLEAR>I'm sure of it!<$12><$00>
 
 
+//<CLEAR>自信は　ないけどね…<$12><$00>
+<CLEAR>Although, I'm not totally certain...<$12><$00>
 
 
-<CLEAR>
-//ダンナ、いつもわりいねぇ\n拾いモンだけど　お礼がわりに\nこれ、受け取ってくんナ
-Gosh, I don't know what to say. I'd only\n
-picked this up, but I hope it works as a\n
-"thank you".
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//S<CLEAR>ケンは　
-S<CLEAR>Ken took\n
-<$1D>
-//を手に入れた∥
-!
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//じゃ、引き続き寄付のほう　よろしく!\n…と言っても　もう何もでねぇけどナ
-Well, it always helps, so please continue to\n
-donate when you can.
-<$12>
-//\nた、ぶ、ん…
-\n
-(Not "if", "when"...)
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//あなたに　神様からの祝福が\nありますように
-God bless you.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//あなたと　あなたの家族に\n神様からのご加護が　ありますように
-God bless you and your family.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//あなたと　あなたの家族\nそして　子孫にも　未来永劫、\n幸あらんことを　お祈りします
-God bless you, your family, your children and\n
-your childrens' children.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//今、あなたが寄付したお金を\nどうやって　かせいだかについては…
-Ask yourself, how'd you get the money you\n
-donated just now?
-<$12>
-\n
-<CLEAR>
-//きっと　神様も見てなかったことに\nしてくださると　思いますよ\n良かったですね
-God's giving someone a little special\n
-treatment, I'll bet. But that's good too!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//どうも
-My goodness!
-<$12>
-//\n………………………………？\nえっ￠　神様のご加護？
-\n
-Is this...what they call "a gift from God"?
-<$12>
-\n
-<CLEAR>
-//そんなモンなくったって　こんな大金を\nポンと　寄付できるような方なんだから\n十分、幸せなはずですよ
-To see someone who- by all rights- wouldn't\n
-have much be so generous brings me to tears!
-<$12>
-\n
-<CLEAR>
-//足りなきゃ　
-Is＿
-<$06>
-//100000
-100,000
-<$04>
-//￥で\nお売りしましょうか？
-￥ a fair price to you?
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//本当に　ありがとうございました∥\nあなたのお気持ちは　しっかりと…
-Thank you so much! Your generosity will be\n
-remembered for all time.
-<$12>
-//\n「記録」しておきましたよ
-\n
-I know, because I just "reported" it.
-<$12>
-<$00>
-
-
-
-
-
-
-//個
-＿
-<$00>
-
-
-
-
-
-
-//匹
-＿
-<$00>
-
-
-
-
-
-
-<$1D>
-//を
-＿x
-<$1D>
-//ます\n
-＿\n
-<$06><$19>
-//1
-1
-<$01><$1A>
-//01
-01
-<$0E><$15>
-//S
-S
-<$19>
-//0
-0
-<$04>
-//／
-／
-<$14><$1E>
-//034
-034
-<$15>
-//S
-S
-<$1D><$14><$02>
-//112
-112
-<$19>
-//2
-2
-<$1E>
-//40
-40
-<$19>
-//0
-0
-<$15>
-//S￥
-S￥
-<$00>
-
-
-
-
-
-
-<$06>
-//T.C.(
-TCU (x
-<$1E>
-//034
-<$06>
-//)
-)
-<$00>
-
-
-
-
-
-
-<$05>
-//γ
-A
-<$00>
-
-
-
-
-
-
-<$05>
-//ζ
-D
-<$00>
-
-
-
-
-
-
-<$1E>
-//@019
-@019
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//セレクトボタンで解説が出ます
-SELECT: Details
-<$00>
-
-
-
-
-
-
-<CLEAR>
-
-<$00>
-
-
-
-
-<$04><$16><$15>
-//W
-W
-<$01><$1D><$02>
-//116
-116
-<$0E><$02>
-//216
-216
-<$1D><$1E>
-//39￥
-39￥
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//トランスカーゴは　１枠につき\n
-The trans-cargo unit has\n
-a＿
-<$06>
-//99
-99
-<$04>
-//頭までしか　収容できません
-＿species capacity!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$06>
-//トランスカーゴ
-The trans-cargo unit＿
-<$04>
-//がいっぱいです
-is full!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//道具がいっぱいです
-The item bag is full!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//不思議な　不思議な　不思議な卵\n話のネタに　おひとつどーだい？\n
-Oh eggs, what secrets lie inside your little\n
-shells?\n
-<$01>
-//取引する
-Shop
-<$0E>
-//／
-／
-<$01>
-//雑談する
-Chat
-<$0E>
-//／
-／
-<$01>
-//やめとく
-Exit
-<$0E>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//じゃ、来年の春に　よろしく！
-Okay, see you next spring!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//まぁ、買ったところで\n何が生まれるか　分からんし\n俺なら　買わないけどね
-No one knows what'll be born from a bought\n
-egg. It's why I don't buy them.
-<$12>
-<$00>
-
-
-
-
-
-
-//
-<$15>
-//Y卵　屋／買　う
-YEgg Seller／Buy
-<$00>
-
-
-
-
-
-
-//
-<$15>
-//Y卵　屋
-YEgg Seller
-<$00>
-
-
-
-
-
-
-//クン、クンクン………？
-Sniff...sniff, sniff?
-<$12>
-\n
-<CLEAR>
-//ここには　少なくとも
-There's not＿
-<$1E>
-//1人！\nいいえ…　
-1 soul here!\n
-Wait... No, there's at least＿
-<$1E>
-//1人はいるわよ…
-1.
-<$12>
-\n
-<CLEAR>
-//お風呂と縁のない人
-It's whatever they reek of that isn't human.
-<$12>
-<$00>
-
-
-
-
-
-
-//……東
-...East
-<$00>
-
-
-
-
-
-
-//……西
-...West
-<$00>
-
-
-
-
-
-
-//……南
-...South
-<$00>
-
-
-
-
-
-
-//……北
-...North
-<$00>
-
-
-
-
-
-
-//…北東
-...North-east
-<$00>
-
-
-
-
-
-
-//…北西
-...North-west
-<$00>
-
-
-
-
-
-
-//…南東
-...South-east
-<$00>
-
-
-
-
-
-
-//…南西
-...South-west
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//……
-......
-<$1D>
-<$00>
-
-
-
-
-
-
-//、…
-! That's where we'll find a＿
-<$1D>
-//に行けば
-.
-<$00>
-
-
-
-
-
-
-//直進
-For
-<$00>
-
-
-
-
-
-
-//右よ
-Right
-<$00>
-
-
-
-
-
-
-//左よ
-Left
-<$00>
-
-
-
-
-
-
-//後ろ
-Back
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//……
-......
-<$1D>
-<$00>
-
-
-
-
-
-
-//、絶対に
-wards, got it? I'm sure we'll find a＿
-<$1D>
-//∥
-＿there!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//Sリンダは　「女の勘」を\nはたらかせた∥
-SLinda used her woman's intuition...
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//…ごめんね、\n今日は　勘がはたらかないわ…
-...Sorry. I don't have it in me today.
-<$12>
-<$00>
-
-
-
-
-
-
-//運命の
-Fated＿
-<$00>
-
-
-
-
-
-
-//新しい
-New＿
-<$00>
-
-
-
-
-
-
-//素敵な
-Great＿
-<$00>
-
-
-
-
-
-
-//未知の
-Unknown＿
-<$00>
-
-
-
-
-
-
-//何か
-things＿
-<$00>
-
-
-
-
-
-
-//発見
-discoveries＿
-<$00>
-
-
-
-
-
-
-//お宝
-treasures＿
-<$00>
-
-
-
-
-
-
-//動物
-animals＿
-<$00>
-
-
-
-
-
-
-//に　出会える…
-could appear.
-<$00>
-
-
-
-
-
-
-//が　待ってる…
-await us...
-<$00>
-
-
-
-
-
-
-//気がするわ∥
-are there.
-<$00>
-
-
-
-
-
-
-//チャンスよ∥
-are in our grasp!
-<$00>
-
-
-
-
-
-
-//今しかないわ
-could slip through our fingers!
-<$00>
-
-
-
-
-
-
-//間違いなし∥
-are dead head!
-<$00>
-
-
-
-
-
-
-//\n
-\n
-<$1D><$1D><$1D>
-//\n
-\n
-<$1D><$12>
-\n
-<CLEAR>
-//
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//自信があるの∥
-I'm sure of it!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//自信は　ないけどね…
-Although, I'm not totally certain...
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//絶対なんだから∥
-I'm absolutely certain!
-<$12>
-<$00>
-
-
-
-
+//<CLEAR>絶対なんだから∥<$12><$00>
+<CLEAR>I'm absolutely certain!<$12><$00>
 
 
 

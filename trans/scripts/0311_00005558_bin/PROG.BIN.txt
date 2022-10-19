@@ -59,975 +59,321 @@ m144.obj
 
 
 #WRITE(PTR, $0028)
-//ネブールタワー１Ｆ
-Nebul Outlook 1F＿
-<$00>
+//ネブールタワー１Ｆ<$00>
+Nebul Outlook 1F＿<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
+//<CLEAR>トランクルームで　預かれる\n物品の数は　最大３２個<$12>\n<CLEAR>このワクの半分以上を　王者のベルトで\nうめたツワモノが　昔、いたらしいよ<$12><$00>
+<CLEAR>The maxinum number of items you can put in storage is\n
+32.<$12>\n
+<CLEAR>I remember this one guy who filled it more than half-way\n
+with Champion Belts.<$12><$00>
 
 
-
-
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//トランクルームで　預かれる\n物品の数は　最大３２個
-The maxinum number of items you can put in\n
-storage is 32.
-<$12>
-\n
-<CLEAR>
-//このワクの半分以上を　王者のベルトで\nうめたツワモノが　昔、いたらしいよ
-I remember this one guy who filled it more\n
-than half-way with Champion Belts.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//もちろん　そいつの猟犬の名前は\n１０頭とも　漢字だったそうだ
-All 10 of his dogs had anime names,\n
-which...doesn't surprise me with DGF\n
-die-hards.
-<$12>
-\n
-<CLEAR>
-//どうせ目的を　はき違えるなら\nそこまで行くのが「男」ってモンだな
-Maybe that was the "himitsu" to his success!
-<$12>
-<$00>
-
-
-
-
+//<CLEAR>もちろん　そいつの猟犬の名前は\n１０頭とも　漢字だったそうだ<$12>\n<CLEAR>どうせ目的を　はき違えるなら\nそこまで行くのが「男」ってモンだな<$12><$00>
+<CLEAR>All 10 of his dogs had anime names, which...doesn't surprise\n
+me with DGF die-hards.<$12>\n
+<CLEAR>Maybe that was the "himitsu" to his success!<$12><$00>
 
 
 #WRITE(PTR, $002A)
-//ネブールタワー２Ｆ
-Nebir Tower 2F＿
-<$00>
+//ネブールタワー２Ｆ<$00>
+Nebir Tower 2F＿<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
-
-
-
-
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//実は、バードライン出資者って\nこの町の　商人たちなのよ\n知らなかったでしょう？
-Little known fact: the birdline financiers\n
-are this town's general merchants!
-<$12>
-\n
-<CLEAR>
-//
-//<$1B>
-//プテラノ鳥も　ネブールでなら\n割と簡単に　仕入れられるわよ
-With so many Pteranobirds around Nebul,\n
-they're leagues easier to buy here.
-<$12>
-<$00>
-
-
-
-
+//<CLEAR>実は、バードライン出資者って\nこの町の　商人たちなのよ\n知らなかったでしょう？<$12>\n<CLEAR><$1B>プテラノ鳥も　ネブールでなら\n割と簡単に　仕入れられるわよ<$12><$00>
+<CLEAR>Little known fact: the birdline financiers are this town's\n
+general merchants!<$12>\n
+<CLEAR>With so many Pteranobirds around Nebul, they're\n
+leagues easier to buy here.<$12><$00>
 
 
 #WRITE(PTR, $002C)
-//ネブールタワー
-Nebul Outlook
-<$00>
+//ネブールタワー<$00>
+Nebul Outlook<$00>
 
 
+//<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
+<CLEAR>Ken whistled.<$12>\n
+<CLEAR>Huge wings flapped in the distance...<$12><$00>
 
 
+//<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Ken masked the party to avoid detection.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for his antics!<$12><$00>
 
 
-<CLEAR>
-//ケンは　口笛を吹いた
-Ken whistled.
-<$12>
-\n
-<CLEAR>
-//外で　大きな羽音が\n聞こえたような　気がした…
-Huge wings flapped in the distance...
-<$12>
-<$00>
+//<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
+<CLEAR>Linda mimicked a few animal calls.<$12>\n
+<CLEAR>However, none of the animals in the area were stupid\n
+enough to fall for her antics!<$12><$00>
 
 
+//<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
+<CLEAR>The Animal Bible can't be booted here!<$12><$00>
 
 
+//<CLEAR>ここでは　野営できない<$12><$00>
+<CLEAR>Camp can't be set up here!<$12><$00>
 
 
-<CLEAR>
-//ケンは　目立たないように\n気配を　殺した
-Ken masked the party to avoid detection.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for his antics!
-<$12>
-<$00>
+//<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
-
-
-
-
-<CLEAR>
-//リンダは　動物たちの\n鳴きマネをした
-Linda mimicked a few animal calls.
-<$12>
-\n
-<CLEAR>
-//しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…
-However, none of the animals in the area were\n
-stupid enough to fall for her antics!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//動物図鑑は\nここでは　起動しない
-The Animal Bible can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ここでは　野営できない
-Camp can't be set up here!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ナビシステム（ナビＳ）は\nここでは　起動しない
-The Navi System(NaviS) can't be booted here!
-<$12>
-<$00>
-
-
-
-
-
-
-//あんたたちの　若い力をもってしても\nこれから先、乗り越えられない壁に\n必ず、ぶち当たるじゃろう
-Even with your vigor, there will surely be\n
-walls in the future you cannot cross.
-<$12>
-\n
-<CLEAR>
-//そういう時は　無理してケガするより\n壁に添って　歩いてみるのもエエぞ\n意外と大きな穴が　見つかるもんじゃ
-Don't get yourself hurt forcing yourself to\n
-climb over those walls. Walk along their\n
-sides.
-<$12>
-\n
-<CLEAR>
-Who knows? You might just find an\n
-interestingly large and convenient hole!
-<$12>
-<$00>
-
-
-
-
+//あんたたちの　若い力をもってしても\nこれから先、乗り越えられない壁に\n必ず、ぶち当たるじゃろう<$12>\n<CLEAR>そういう時は　無理してケガするより\n壁に添って　歩いてみるのもエエぞ\n意外と大きな穴が　見つかるもんじゃ<$12><$00>
+Even with your vigor, there will surely be walls in the\n
+future you cannot cross.<$12>\n
+<CLEAR>Don't get yourself hurt forcing yourself to climb over\n
+those walls. Walk along their sides.<$12>\n
+<CLEAR>Who knows? You might just find an interestingly large and\n
+convenient hole!<$12><$00>
 
 
 #WRITE(PTR, $002E)
-//個
-＿
-<$00>
+//個<$00>
+＿<$00>
 
 
+//匹<$00>
+＿<$00>
 
 
+//<$1D>を<$1D>ます\n<$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04>／<$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S￥<$00>
+<$1D>＿x<$1D>＿\n
+<$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04>／<$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S￥<$00>
 
 
-//匹
-＿
-<$00>
+//<$06>T.C.(<$1E>034<$06>)<$00>
+<$06>TCU (x<$1E><$06>)<$00>
 
 
+//<$05>γ<$00>
+<$05>A<$00>
 
 
+//<$05>ζ<$00>
+<$05>D<$00>
 
 
-<$1D>
-//を
-＿x
-<$1D>
-//ます\n
-＿\n
-<$06><$19>
-//1
-1
-<$01><$1A>
-//01
-01
-<$0E><$15>
-//S
-S
-<$19>
-//0
-0
-<$04>
-//／
-／
-<$14><$1E>
-//034
-034
-<$15>
-//S
-S
-<$1D><$14><$02>
-//112
-112
-<$19>
-//2
-2
-<$1E>
-//40
-40
-<$19>
-//0
-0
-<$15>
-//S￥
-S￥
-<$00>
+//<$1E>@019<$00>
+<$1E>@019<$00>
 
 
+//<CLEAR>セレクトボタンで解説が出ます<$00>
+<CLEAR>SELECT: Details<$00>
 
 
+//<CLEAR><$00>
+<CLEAR><$00>
 
 
-<$06>
-//T.C.(
-TCU (x
-<$1E>
-//034
-<$06>
-//)
-)
-<$00>
+//<$04><$16><$15>W<$01><$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
+<$04><$16><$15>W<$01><$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
 
 
+//<CLEAR>トランスカーゴは　１枠につき\n<$06>99<$04>頭までしか　収容できません<$12><$00>
+<CLEAR>The trans-cargo unit has\n
+a＿<$06>99<$04>＿species capacity!<$12><$00>
 
 
+//<CLEAR><$06>トランスカーゴ<$04>がいっぱいです<$12><$00>
+<CLEAR><$06>The trans-cargo unit＿<$04>is full!<$12><$00>
 
 
-<$05>
-//γ
-A
-<$00>
+//<CLEAR>道具がいっぱいです<$12><$00>
+<CLEAR>The item bag is full!<$12><$00>
 
 
+//<$15>Y<$06>バードライン／<$1D><$00>
+<$15>Y<$06>Birdline／<$1D><$00>
 
 
+//今日は　どちらまで　おでかけですか？<$00>
+Hello! How will you travel today?<$00>
 
 
-<$05>
-//ζ
-D
-<$00>
+//<CLEAR>脱出シャトル最終便、\n搭乗手続キ　間モナク　終了イタシマス\nオズサットヘ　オ急ギクダサイ<$12>\n<CLEAR>ゴ利用ノ際ハ　クレグレモ\nゴ注意クダサイ<$12><$00>
+<CLEAR>THE LAST MIGRATION SHUTTLE WILL BEGIN BOARDING SOON.\n
+PLEASE CHECK IN AT OZSAT AND PREPARE FOR DEPARTURE.<$12>\n
+<CLEAR>BE CAREFUL WHEN TRAVELING TO THE SHUTTLE.<$12><$00>
 
 
+//今日ハ　ドチラマデ　オデカケデスカ？<$00>
+HELLO! HOW WILL YOU TRAVEL TODAY?<$00>
 
 
+//<CLEAR><$1D>\n<$01>利用<$0E>／<$01>販売<$0E>／<$01><$06>シュート<$04><$0E>／<$01>雑談<$0E>／<$01>帰る<$0E><$00>
+<CLEAR><$1D>\n
+<$01>Fly<$0E>／<$01>Buy<$0E>／<$01><$06>Drop<$04><$0E>／<$01>Chat<$0E>／<$01>Exit<$0E><$00>
 
 
-<$1E>
-//@019
-@019
-<$00>
+//<CLEAR>お客様、長い間ご愛顧いただきました\n本デスクは、一応の住民避難が終了する\n<$06>19<$1E>34年をもって閉鎖いたします<$12>\n<CLEAR>ご愛顧いただき、\nありがとうございました<$12><$00>
+<CLEAR>Birdline has always enjoyed serving you face-to-face, but\n
+our front desks will be closing in＿<$06>19<$1E>34.<$12>\n
+<CLEAR>Thank you for your loyal patronage!<$12><$00>
 
 
+//<CLEAR>ただ今、西エリア中部に\n大雪警報が　出されています\n道中くれぐれも　お気をつけて！<$12><$00>
+<CLEAR>A heavy snowfall warning has been issues in central West\n
+Area. Please be careful on your journey.<$12><$00>
 
 
+//<CLEAR>よい　ご旅行を！<$12><$00>
+<CLEAR>Happy travels!<$12><$00>
 
 
-<CLEAR>
-//セレクトボタンで解説が出ます
-SELECT: Details
-<$00>
+//<CLEAR>旅の安全を約束する　バードラインを\n次も　ご利用下さいませ<$12><$00>
+<CLEAR>The birdline will take you to your destination.<$12><$00>
 
 
+//<CLEAR>タダ今、西エリア中部ニ\n大雪警報ガ　出サレテイマス\n道中クレグレモ　オ気ヲツケテ！<$12><$00>
+<CLEAR>CENTRAL WEST AREA CURRENTLY FACES SEVERE SNOWFALL. BE\n
+CAREFUL IF VENTURING IN THAT AREA!<$12><$00>
 
 
+//<CLEAR>長ラクノ　ゴ愛顧、\n誠ニ　アリガトウ　ゴザイマシタ<$12><$00>
+<CLEAR>THANK YOU FOR LOYAL PATRONAGE!<$12><$00>
 
 
-<CLEAR>
+//<CLEAR>銀行で　お金をご都合の上、\nまた　お越しください<$12><$00>
+<CLEAR>If you're in a pinch, take a loan from the bank and come\n
+back.<$12><$00>
 
-<$00>
 
+//<CLEAR>料金不足デス\nアキラメテ　クダサイ<$12><$00>
+<CLEAR>INSUFFICIENT FUNDS.\n
+PLEASE TRY AGAIN.<$12><$00>
 
 
+//赤<$00>
+RED<$00>
 
-<$04><$16><$15>
-//W
-W
-<$01><$1D><$02>
-//116
-116
-<$0E><$02>
-//216
-216
-<$1D><$1E>
-//39￥
-39￥
-<$00>
 
+//青<$00>
+BLUE<$00>
 
 
+//緑<$00>
+GREEN<$00>
 
 
+//<CLEAR>それでは　<$1D>色のプラットホームへ\nお立ちになって　お待ちください<$12><$00>
+<CLEAR>Please wait on the＿<$1D>＿platform.<$12><$00>
 
-<CLEAR>
-//トランスカーゴは　１枠につき\n
-The trans-cargo unit has\n
-a＿
-<$06>
-//99
-99
-<$04>
-//頭までしか　収容できません
-＿species capacity!
-<$12>
-<$00>
 
+//<CLEAR>ソレデハ　<$1D>色ノ　プラットホームヘ\nオ立チニナッテ　オ待チクダサイ<$12><$00>
+<CLEAR>PLEASE WAIT ON THE＿<$1D>＿PLATFORM.<$12><$00>
 
 
+//<$1D>→\n<$1D>→<$1D>\nこのルートで　お乗り継ぎください<$12><$00>
+<$1D>→\n
+<$1D>→<$1D>\n
+Transfer using this route.<$12><$00>
 
 
+//<$1D>→<$1D>→\n<$1D>→<$1D>\nこのルートで　お乗り継ぎください<$12><$00>
+<$1D>→<$1D>→\n
+<$1D>→<$1D>\n
+TRANSFER USING THIS ROUTE.<$12><$00>
 
-<CLEAR>
-//
-<$06>
-//トランスカーゴ
-The trans-cargo unit＿
-<$04>
-//がいっぱいです
-is full!
-<$12>
-<$00>
 
+//<$1D>←→<$1D>は\n現在、閉鎖中です<$12><$00>
+<$1D>←→<$1D>\n
+is currently closed.<$12><$00>
 
 
+//<$1D>←→<$1D>ハ\n現在、閉鎖中デス<$12><$00>
+<$1D>←→<$1D>\n
+IS CURRENTLY CLOSED.<$12><$00>
 
 
+//<CLEAR>脱出シャトル最終便、\n搭乗手続キ　間モナク　終了イタシマス\nオズサットヘ　オ急ギクダサイ<$12><$00>
+<CLEAR>THE LAST MIGRATION SHUTTLE WILL BEGIN BOARDING SOON.\n
+PLEASE CHECK IN AT OZSAT AND PREPARE FOR DEPARTURE.<$12><$00>
 
-<CLEAR>
-//道具がいっぱいです
-The item bag is full!
-<$12>
-<$00>
 
+//お客様、そのエリアは私有地ですので\nシュートサービスはできません<$12><$00>
+The drop service cannot be used to enter private\n
+property!<$12><$00>
 
 
+//オ客様、ソノ　エリア私有地デスノデ\n「シュートサービス」ハデキマセン<$12><$00>
+THE DROP SERVICE CANNOT BE USED TO ENTER PRIVATE\n
+PROPERTY!<$12><$00>
 
 
-
-//
-<$15>
-//Y
-Y
-<$06>
-//バードライン／
-Birdline／
-<$1D>
-<$00>
-
-
-
-
-
-
-//今日は　どちらまで　おでかけですか？
-Hello! How will you travel today?
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//脱出シャトル最終便、\n搭乗手続キ　間モナク　終了イタシマス\nオズサットヘ　オ急ギクダサイ
-THE LAST MIGRATION SHUTTLE WILL BEGIN\n
-BOARDING SOON. PLEASE CHECK IN AT OZSAT AND\n
-PREPARE FOR DEPARTURE.
-<$12>
-\n
-<CLEAR>
-//ゴ利用ノ際ハ　クレグレモ\nゴ注意クダサイ
-BE CAREFUL WHEN TRAVELING TO THE SHUTTLE.
-<$12>
-<$00>
-
-
-
-
-
-
-//今日ハ　ドチラマデ　オデカケデスカ？
-HELLO! HOW WILL YOU TRAVEL TODAY?
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1D>
-//\n
-\n
-<$01>
-//利用
-Fly
-<$0E>
-//／
-／
-<$01>
-//販売
-Buy
-<$0E>
-//／
-／
-<$01><$06>
-//シュート
-Drop
-<$04><$0E>
-//／
-／
-<$01>
-//雑談
-Chat
-<$0E>
-//／
-／
-<$01>
-//帰る
-Exit
-<$0E>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//お客様、長い間ご愛顧いただきました\n本デスクは、一応の住民避難が終了する\n
-Birdline has always enjoyed serving you\n
-face-to-face, but our front desks will be\n
-closing in＿
-<$06>
-//19
-19
-<$1E>
-//34年をもって閉鎖いたします
-34.
-<$12>
-\n
-<CLEAR>
-//ご愛顧いただき、\nありがとうございました
-Thank you for your loyal patronage!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ただ今、西エリア中部に\n大雪警報が　出されています\n道中くれぐれも　お気をつけて！
-A heavy snowfall warning has been issues in\n
-central West Area. Please be careful on your\n
-journey.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//よい　ご旅行を！
-Happy travels!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//旅の安全を約束する　バードラインを\n次も　ご利用下さいませ
-The birdline will take you to your\n
-destination.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//タダ今、西エリア中部ニ\n大雪警報ガ　出サレテイマス\n道中クレグレモ　オ気ヲツケテ！
-CENTRAL WEST AREA CURRENTLY FACES SEVERE\n
-SNOWFALL. BE CAREFUL IF VENTURING IN THAT\n
-AREA!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//長ラクノ　ゴ愛顧、\n誠ニ　アリガトウ　ゴザイマシタ
-THANK YOU FOR LOYAL PATRONAGE!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//銀行で　お金をご都合の上、\nまた　お越しください
-If you're in a pinch, take a loan from the\n
-bank and come back.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//料金不足デス\nアキラメテ　クダサイ
-INSUFFICIENT FUNDS.\n
-PLEASE TRY AGAIN.
-<$12>
-<$00>
-
-
-
-
-
-
-//赤
-RED
-<$00>
-
-
-
-
-
-
-//青
-BLUE
-<$00>
-
-
-
-
-
-
-//緑
-GREEN
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//それでは　
-Please wait on the＿
-<$1D>
-//色のプラットホームへ\nお立ちになって　お待ちください
-＿platform.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ソレデハ　
-PLEASE WAIT ON THE＿
-<$1D>
-//色ノ　プラットホームヘ\nオ立チニナッテ　オ待チクダサイ
-＿PLATFORM.
-<$12>
-<$00>
-
-
-
-
-
-
-<$1D>
-//→\n
-→\n
-<$1D>
-//→
-→
-<$1D>
-//\nこのルートで　お乗り継ぎください
-\n
-Transfer using this route.
-<$12>
-<$00>
-
-
-
-
-
-
-<$1D>
-//→
-→
-<$1D>
-//→\n
-→\n
-<$1D>
-//→
-→
-<$1D>
-//\nこのルートで　お乗り継ぎください
-\n
-TRANSFER USING THIS ROUTE.
-<$12>
-<$00>
-
-
-
-
-
-
-<$1D>
-//←→
-←→
-<$1D>
-//は\n現在、閉鎖中です
-\n
-is currently closed.
-<$12>
-<$00>
-
-
-
-
-
-
-<$1D>
-//←→
-←→
-<$1D>
-//ハ\n現在、閉鎖中デス
-\n
-IS CURRENTLY CLOSED.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//脱出シャトル最終便、\n搭乗手続キ　間モナク　終了イタシマス\nオズサットヘ　オ急ギクダサイ
-THE LAST MIGRATION SHUTTLE WILL BEGIN\n
-BOARDING SOON. PLEASE CHECK IN AT OZSAT AND\n
-PREPARE FOR DEPARTURE.
-<$12>
-<$00>
-
-
-
-
-
-
-//お客様、そのエリアは私有地ですので\nシュートサービスはできません
-The drop service cannot be used to enter\n
-private property!
-<$12>
-<$00>
-
-
-
-
-
-
-//オ客様、ソノ　エリア私有地デスノデ\n「シュートサービス」ハデキマセン
-THE DROP SERVICE CANNOT BE USED TO ENTER\n
-PRIVATE PROPERTY!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//シュートサービスは\nお客様のお好きな　場所へ落と…
-Our drop service can take you directly to＿
-<$11>
-//30\nお連れするサービスです
-30coordinates you specify.
-<$12>
-\n
-<CLEAR>
-//サービス料は
-The service costs＿
-<$1D><$06>
-//1480
-1480
-<$04><$14>
-//￥です\nご利用なさいますか？\n
-￥.\n
+//<CLEAR>シュートサービスは\nお客様のお好きな　場所へ落と…<$11>30\nお連れするサービスです<$12>\n<CLEAR>サービス料は<$1D><$06>1480<$04><$14>￥です\nご利用なさいますか？\n<$01>いいとも<$0E>／<$01>また今度<$0E><$00>
+<CLEAR>Our drop service can take you directly to＿<$11>30coordinates\n
+you specify.<$12>\n
+<CLEAR>The service costs＿<$1D><$06>1480<$04><$14>￥.\n
 Would you like to use it?\n
-<$01>
-//いいとも
-Yes
-<$0E>
-//／
-／
-<$01>
-//また今度
-Not now
-<$0E>
-<$00>
+<$01>Yes<$0E>／<$01>Not now<$0E><$00>
 
 
-
-
-
-
-<CLEAR>
-//シュートサービス料金　
-THE DROP SERVICE COSTS＿
-<$1D><$06>
-//1480
-1480
-<$04><$14>
-//￥、\nゴ利用ニ　ナラレマスカ？\n
-￥.\n
+//<CLEAR>シュートサービス料金　<$1D><$06>1480<$04><$14>￥、\nゴ利用ニ　ナラレマスカ？\n<$01>いいとも<$0E>／<$01>また今度<$0E><$00>
+<CLEAR>THE DROP SERVICE COSTS＿<$1D><$06>1480<$04><$14>￥.\n
 WOULD YOU LIKE TO USE IT?\n
-<$01>
-//いいとも
-Yes
-<$0E>
-//／
-／
-<$01>
-//また今度
-Not now
-<$0E>
-<$00>
-
-
-
-
+<$01>Yes<$0E>／<$01>Not now<$0E><$00>
 
 
 N10.TIM
@@ -1036,265 +382,42 @@ N10.TIM
 
 
 
-<$05><$03>
-//0
-<$02>
-//16M N O P Q R S T U V W X\n
-16M N O P Q R S T U V W X\n
-<$03>
-//8
-8
-<$05>
-//07\n
-07\n
-<$03>
-//24
-24
-<$05>
-//08\n
-08\n
-<$03>
-//40
-40
-<$05>
-//09\n
-09\n
-<$03>
-//56
-56
-<$05>
-//10\n
-10\n
-<$03>
-//72
-72
-<$05>
-//11\n
-11\n
-<$03>
-//88
-88
-<$05>
-//12\n
-12\n
-<$03>
-//104
-104
-<$05>
-//13\n
-13\n
-<$03>
-//120
-120
-<$05>
-//14\n
-14\n
-<$03>
-//136
-136
-<$05>
-//15\n
-15\n
-<$03>
-//152
-152
-<$05>
-//16\n
-16\n
-<$03>
-//168
-168
-<$05>
-//17\n
-17\n
-<$03>
-//184
-184
-<$05>
-//18
-18
-<$00>
+//<$05><$03>0<$02>16M N O P Q R S T U V W X\n<$03>8<$05>07\n<$03>24<$05>08\n<$03>40<$05>09\n<$03>56<$05>10\n<$03>72<$05>11\n<$03>88<$05>12\n<$03>104<$05>13\n<$03>120<$05>14\n<$03>136<$05>15\n<$03>152<$05>16\n<$03>168<$05>17\n<$03>184<$05>18<$00>
+<$05><$03><$02>16M  N  O  P  Q  R  S  T  U  V  W  X\n
+<$03>8<$05>07\n
+<$03>24<$05>08\n
+<$03>40<$05>09\n
+<$03>56<$05>10\n
+<$03>72<$05>11\n
+<$03>88<$05>12\n
+<$03>104<$05>13\n
+<$03>120<$05>14\n
+<$03>136<$05>15\n
+<$03>152<$05>16\n
+<$03>168<$05>17\n
+<$03>184<$05>18<$00>
 
 
+//<$05><$03>0<$02>16A B C D E F G H I J K L\n<$03>8<$05>01\n<$03>24<$05>02\n<$03>40<$05>03\n<$03>56<$05>04\n<$03>72<$05>05\n<$03>88<$05>06\n<$03>104<$05>07\n<$03>120<$05>08\n<$03>136<$05>09\n<$03>152<$05>10\n<$03>168<$05>11\n<$03>184<$05>12<$00>
+<$05><$03><$02>16A  B  C  D  E  F  G  H  I  J  K  L\n
+<$03><$05><$03><$05><$03><$05><$03><$05><$03><$05><$03><$05><$03><$05><$03><$05><$03><$05><$03><$05><$03><$05><$03><$05><$00>
 
 
+//<$05><$03>0<$02>16A B C D E F G H I J K L\n<$03>8<$05>13\n<$03>24<$05>14\n<$03>40<$05>15\n<$03>56<$05>16\n<$03>72<$05>17\n<$03>88<$05>18\n<$03>104<$05>19\n<$03>120<$05>20\n<$03>136<$05>21\n<$03>152<$05>22\n<$03>168<$05>23\n<$03>184<$05>24<$00>
+<$05><$03><$02>16A  B  C  D  E  F  G  H  I  J  K  L\n
+<$03><$05><$03><$05><$03><$05><$03><$05><$03><$05><$03><$05><$03><$05><$03><$05><$03><$05><$03><$05><$03><$05><$03><$05><$00>
 
 
-<$05><$03>
-//0
-<$02>
-//16A B C D E F G H I J K L\n
-16A B C D E F G H I J K L\n
-<$03>
-//8
-<$05>
-//01\n
-<$03>
-//24
-<$05>
-//02\n
-<$03>
-//40
-<$05>
-//03\n
-<$03>
-//56
-<$05>
-//04\n
-<$03>
-//72
-<$05>
-//05\n
-<$03>
-//88
-<$05>
-//06\n
-<$03>
-//104
-<$05>
-//07\n
-<$03>
-//120
-<$05>
-//08\n
-<$03>
-//136
-<$05>
-//09\n
-<$03>
-//152
-<$05>
-//10\n
-<$03>
-//168
-<$05>
-//11\n
-<$03>
-//184
-<$05>
-//12
-<$00>
+//<$15>Y<$06>バードライン<$04>／道具買う<$00>
+<$15>Y<$06>Birdline<$04>／Buy<$00>
 
 
+//<CLEAR><$04>行き先<$02>72直行<$02>126乗継<$02>172座標<$00>
+<CLEAR><$04>DESTINATION<$02>72NONSTOP<$02>126TRANSFER<$02>172COORD<$00>
 
 
-
-
-//
-<$05><$03>
-//0
-<$02>
-//16A B C D E F G H I J K L\n
-16A B C D E F G H I J K L\n
-<$03>
-//8
-<$05>
-//13\n
-<$03>
-//24
-<$05>
-//14\n
-<$03>
-//40
-<$05>
-//15\n
-<$03>
-//56
-<$05>
-//16\n
-<$03>
-//72
-<$05>
-//17\n
-<$03>
-//88
-<$05>
-//18\n
-<$03>
-//104
-<$05>
-//19\n
-<$03>
-//120
-<$05>
-//20\n
-<$03>
-//136
-<$05>
-//21\n
-<$03>
-//152
-<$05>
-//22\n
-<$03>
-//168
-<$05>
-//23\n
-<$03>
-//184
-<$05>
-//24
-<$00>
-
-
-
-
-
-
-//
-<$15>
-//Y
-Y
-<$06>
-//バードライン
-Birdline
-<$04>
-//／道具買う
-／Buy
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$04>
-//行き先
-DESTINATION
-<$02>
-//72直行
-72NONSTOP
-<$02>
-//126乗継
-126TRANSFER
-<$02>
-//172座標
-172COORD
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$04>
-//行き先
-DESTINATION
-<$02>
-//72直行
-72NONSTOP
-<$02>
-//126座標
-126COORD
-<$00>
-
-
-
-
+//<CLEAR><$04>行き先<$02>72直行<$02>126座標<$00>
+<CLEAR><$04>DESTINATION<$02>72NONSTOP<$02>126COORD<$00>
 
 
 P-10
@@ -1375,936 +498,269 @@ H-19
 
 
 
-<$16><$09>
-14
-<$06><$1D><$02>
-64
-<$1D><$01><$1E>
-36
-<$14>
-￥
-<$0E><$06>
- 
-<$1D><$01><$1E>
-36
-<$14>
-￥
-<$0E><$02>
-172
-<$09>
-4
-<$05><$1D><$09>
--4
-<$04>
-<$00>
+//<$16><$09>14<$06><$1D><$02>64<$1D><$01><$1E>36<$14>￥<$0E><$06> <$1D><$01><$1E>36<$14>￥<$0E><$02>172<$09>4<$05><$1D><$09>-4<$04><$00>
+<$16><$09><$06><$1D><$02><$1D><$01><$1E><$14><$0E><$06><$1D><$01><$1E><$14><$0E><$02><$09><$05><$1D><$09><$04><$00>
 
 
+//<$16><$09>14<$06><$1D><$02>64<$1D><$01><$1E>36<$14>￥<$0E><$02>126<$09>4<$05><$1D><$09>-4<$04><$00>
+<$16><$09><$06><$1D><$02><$1D><$01><$1E><$14><$0E><$02><$09><$05><$1D><$09><$04><$00>
 
 
-<$16><$09>
-14
-<$06><$1D><$02>
-64
-<$1D><$01><$1E>
-36
-<$14>
-￥
-<$0E><$02>
-126
-<$09>
-4
-<$05><$1D><$09>
--4
-<$04>
-<$00>
+//<CLEAR><$19>1<$15>S<CLEAR>・・・・・・・・・・・・∥∥∥<$14><$12><$00>
+<CLEAR><$19><$15>S<CLEAR>.........!<$14><$12><$00>
 
 
+//<CLEAR>おめでとうございます∥<$12>\n<CLEAR>あなたがバードライン開設以来\nなんと、<$06>100000<$04>人目のお客様です∥\n記念の品をお受け取りください∥<$12><$00>
+<CLEAR>CONGRATULATIONS!<$12>\n
+<CLEAR>You are the birdline's lucky <$06>100,000<$04>th customer, which\n
+means you win a fantastic prize!<$12><$00>
 
 
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//S<CLEAR>・・・・・・・・・・・・∥∥∥
-S<CLEAR>.........!
-<$14><$12>
-<$00>
+//<CLEAR><$19>1<$15>S<CLEAR>ケンは「<$1D>」と\n「<$1D>」を受け取った∥<$14><$12><$00>
+<CLEAR><$19>1<$15>S<CLEAR>Ken received the＿<$1D>＿and the＿<$1D>!<$14><$12><$00>
 
 
+//<$15>Y<$06>トランクルーム<$00>
+<$15>Y<$06>Storage<$00>
 
 
-
-
-<CLEAR>
-//おめでとうございます∥
-CONGRATULATIONS!
-<$12>
-\n
-<CLEAR>
-//あなたがバードライン開設以来\nなんと、
-You are the birdline's lucky
-<$06>
-//100000
-100,000
-<$04>
-//人目のお客様です∥\n記念の品をお受け取りください∥
-th customer, which means you win a fantastic\n
-prize!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-1
-<$15>
-//S<CLEAR>ケンは「
-S<CLEAR>Ken received the＿
-<$1D>
-//」と\n「
-＿and the＿
-<$1D>
-//」を受け取った∥
-!
-<$14><$12>
-<$00>
-
-
-
-
-
-
-//
-<$15>
-//Y
-Y
-<$06>
-//トランクルーム
-Storage
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//お客様の財産の安全を　保証する\nトランクルームでごさいます\n
-Keep your extra belongings\n
+//<CLEAR>お客様の財産の安全を　保証する\nトランクルームでごさいます\n<$01>利用する<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
+<CLEAR>Keep your extra belongings\n
 safe in a storage unit!\n
-<$01>
-//利用する
-Use
-<$0E>
-//／
-／
-<$01>
-//雑談する
-Chat
-<$0E>
-//／
-／
-<$01>
-//やめとく
-Exit
-<$0E>
-<$00>
+<$01>Use<$0E>／<$01>Chat<$0E>／<$01>Exit<$0E><$00>
 
 
+//<CLEAR>お引き取りは　お早目に！<$12><$00>
+<CLEAR>Come back when you need anything!<$12><$00>
 
 
+//<CLEAR>他の町の　トランクルームでも\n自由に出し入れが　可能です\nいや、便利な世の中に　なりましたね<$12><$00>
+<CLEAR>The ability to access your items from any town speaks\n
+for our world's unmatched luxuries.<$12><$00>
 
 
-<CLEAR>
-//お引き取りは　お早目に！
-Come back when you need anything!
-<$12>
-<$00>
+//<$15>Y<$06>トランクルームメニュー<$00>
+<$15>Y<$06>Storage Menu<$00>
 
 
+//<$01>預ける<$0E>\n<$01>引出す<$0E>\n<$01>やめる<$0E><$00>
+<$01>Store<$0E>\n
+<$01>Take<$0E>\n
+<$01>Exit<$0E><$00>
 
 
+//<CLEAR><$03>32<$02>80預り<$1E>034個＿空き<$1E>034個<$00>
+<CLEAR><$03>32<$02>80Taken:＿<$1E>034,＿Free:＿<$1E>034＿<$00>
 
 
-<CLEAR>
-//他の町の　トランクルームでも\n自由に出し入れが　可能です\nいや、便利な世の中に　なりましたね
-The ability to access your items from any\n
-town speaks for our world's unmatched\n
-luxuries.
-<$12>
-<$00>
+//<CLEAR><$03>32<$02>80道具<$1E>034個＿空き<$1E>034個<$00>
+<CLEAR><$03>32<$02>80In bag:＿<$1E>034,＿Free:＿<$1E>034＿<$00>
 
 
+//<$15>Y<$06>トランクルーム<$04>／預ける<$00>
+<$15>Y<$06>Storage<$04>／Store<$00>
 
 
+//<CLEAR><$1D>は\n預かれません<$12><$00>
+<CLEAR><$1D>＿will not be stored.<$12><$00>
 
 
-//
-<$15>
-//Y
-Y
-<$06>
-//トランクルームメニュー
-Storage Menu
-<$00>
+//<$15>Y<$06>トランクルーム<$04>／引出す<$00>
+<$15>Y<$06>Storage<$04>／Take<$00>
 
 
+//<CLEAR><$02>124Φ\n<$09>8<$02>3このカードはフォーマットされていません\n<$02>59フォーマットしますか？\n<$02>87<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
+<CLEAR><$02><$09><$02>3This card is not formatted.\n
+<$02>59Format this card?<$02><$01>Yes<$0E><$01>No<$0E><$00>
 
 
-
-
-<$01>
-//預ける
-Store
-<$0E>
-//\n
-\n
-<$01>
-//引出す
-Take
-<$0E>
-//\n
-\n
-<$01>
-//やめる
-Exit
-<$0E>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$03>
-//32
-32
-<$02>
-//80預り
-80Taken:＿
-<$1E>
-//034個＿空き
-034,＿Free:＿
-<$1E>
-//034個
-034＿
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$03>
-//32
-32
-<$02>
-//80道具
-80In bag:＿
-<$1E>
-//034個＿空き
-034,＿Free:＿
-<$1E>
-//034個
-034＿
-<$00>
-
-
-
-
-
-
-//
-<$15>
-//Y
-Y
-<$06>
-//トランクルーム
-Storage
-<$04>
-//／預ける
-／Store
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1D>
-//は\n預かれません
-＿will not be stored.
-<$12>
-<$00>
-
-
-
-
-
-
-//
-<$15>
-//Y
-Y
-<$06>
-//トランクルーム
-Storage
-<$04>
-//／引出す
-／Take
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$02>
-//124Φ\n
-<$09>
-//8
-<$02>
-//3このカードはフォーマットされていません\n
-3This card is not formatted.\n
-<$02>
-//59フォーマットしますか？\n
-59Format this card?
-<$02>
-//87
-<$01>
-//は＿い
-Yes
-<$0E>
-//／
-<$01>
-//いいえ
-No
-<$0E>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$02>
-//128Φ\n
-<$09>
-//8
-<$02>
-//38ただいま　フォーマット中です∥\n電源を切ったり、メモリーカードを抜いたり\n
-38Formatting in progress...\n
+//<CLEAR><$02>128Φ\n<$09>8<$02>38ただいま　フォーマット中です∥\n電源を切ったり、メモリーカードを抜いたり\n<$02>77しないでください∥<$00>
+<CLEAR><$02><$09><$02>38Formatting in progress...\n
 Do not remove the card\n
-<$02>
-//77しないでください∥
-77or turn off the console.
-<$00>
+<$02>77or turn off the console.<$00>
 
 
+//<CLEAR><$02>102Φ\n<$09>8フォーマットできませんでした…<$12><$00>
+<CLEAR><$02><$09>8Formatting failed...<$12><$00>
 
 
+//<CLEAR>フォーマットが　終了しました∥<$12><$00>
+<CLEAR>Formatting complete!<$12><$00>
 
 
-<CLEAR>
-//
-<$02>
-//102Φ\n
-<$09>
-//8フォーマットできませんでした…
-8Formatting failed...
-<$12>
-<$00>
+//<CLEAR><$02>102Φ\n<$09>8<$02>3メモリーカードを　チェック中です\n<$02>31しばらく　お待ちください<$00>
+<CLEAR><$02><$09><$02>3Checking memory card.\n
+<$02>31Please wait...<$00>
 
 
+//<CLEAR><$02>108Φ\n<$09>8<$02>30このゲームを快適に遊ぶために\n<$02>2メモリーカードの使用をお奨めしますΨ<$00>
+<CLEAR><$02><$09><$02>30A memory card is recommended\n
+<$02>2to fully enjoy the game.<$00>
 
 
+//<CLEAR><$02>102Φ\n<$09>8<$02>35このスロットのカードは\n故障している可能性があります…Ψ<$00>
+<CLEAR><$02><$09><$02>35The card in this slot may be corrupt.<$00>
 
 
-<CLEAR>
-//フォーマットが　終了しました∥
-Formatting complete!
-<$12>
-<$00>
+//<CLEAR><$02>114Φ\n<$09>6このスロットのカードは　２ブロックの\n<$02>12空きがないので、記録できません∥\n<$02>47別のカードを入れるか、\n<$02>40メモリーカード管理画面で\n<$02>19不要なデータを消してくださいΨ<$00>
+<CLEAR><$02><$09>6Cannot save to this card.\n
+<$02>12Minimum of 2 blocks required!<$02>47Insert a new card or\n
+<$02>40remove excess storage\n
+<$02>19data from this card.<$00>
 
 
+//<CLEAR>このスロットは　カード未挿入です\nゲームの記録が　できません<$00>
+<CLEAR>No card found in this slot.\n
+Game will not be saved.<$00>
 
 
+//<CLEAR>このスロットのカードを　使用するには\nフォーマットする必要があります<$00>
+<CLEAR>The card in this slot must be formatted before use.<$00>
 
 
-<CLEAR>
-//
-<$02>
-//102Φ\n
-<$09>
-//8
-<$02>
-//3メモリーカードを　チェック中です\n
-3Checking memory card.\n
-<$02>
-//31しばらく　お待ちください
-31Please wait...
-<$00>
+//<CLEAR>このスロットのカードは\n故障している可能性があります…<$00>
+<CLEAR>The card in this slot may be corrupt.<$00>
 
 
+//<CLEAR>このスロットのカードは　２ブロックの\n空きがないので、記録できません∥<$00>
+<CLEAR>Cannot save to this card.\n
+Minimum of 2 blocks required!<$00>
 
 
-
-
-<CLEAR>
-//
-<$02>
-//108Φ\n
-<$09>
-//8
-<$02>
-//30このゲームを快適に遊ぶために\n
-30A memory card is recommended\n
-<$02>
-//2メモリーカードの使用をお奨めしますΨ
-2to fully enjoy the game.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$02>
-//102Φ\n
-<$09>
-//8
-<$02>
-//35このスロットのカードは\n故障している可能性があります…Ψ
-35The card in this slot may be corrupt.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$02>
-//114Φ\n
-<$09>
-//6このスロットのカードは　２ブロックの\n
-6Cannot save to this card.\n
-<$02>
-//12空きがないので、記録できません∥\n
-12Minimum of 2 blocks required!
-<$02>
-//47別のカードを入れるか、\n
-47Insert a new card or\n
-<$02>
-//40メモリーカード管理画面で\n
-40remove excess storage\n
-<$02>
-//19不要なデータを消してくださいΨ
-19data from this card.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//このスロットは　カード未挿入です\nゲームの記録が　できません
-No card found in this slot.\n
-Game will not be saved.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//このスロットのカードを　使用するには\nフォーマットする必要があります
-The card in this slot must be formatted\n
-before use.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//このスロットのカードは\n故障している可能性があります…
-The card in this slot may be corrupt.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//このスロットのカードは　２ブロックの\n空きがないので、記録できません∥
-Cannot save to this card.\n
-Minimum of 2 blocks required!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ハロー∥　コチラ、テレホンサービス\nドノ　メニュー　ニ\nアクセス　シマスカ？
-YOU HAVE REACHED\n
+//<CLEAR>ハロー∥　コチラ、テレホンサービス\nドノ　メニュー　ニ\nアクセス　シマスカ？<$12><$00>
+<CLEAR>YOU HAVE REACHED\n
 THE TELEPHONE SERVICE!\n
-HOW CAN WE HELP YOU?
-<$12>
-<$00>
+HOW CAN WE HELP YOU?<$12><$00>
 
 
+//<CLEAR><$01>記録センター＿<$0E>／<$01>留守番コール＿<$0E>\n<$01>ネオケニア銀行<$0E>／<$01>気象サテライト<$0E>\n<$01>宝クジ抽選発表<$0E>／<$01>ヘルガの大予言<$0E><$00>
+<CLEAR><$01>Save game＿<$0E>／<$01>Voicemail＿<$0E>\n
+<$01>NK Bank＿<$0E>／<$01>Forecast＿<$0E>\n
+<$01>Lottery＿<$0E>／<$01>Miss Helga＿<$0E><$00>
 
 
+//記録センター<$00>
+THE RANGER HQ REPORT CENTER<$00>
 
 
-<CLEAR>
-//
-<$01>
-//記録センター＿
-Save game＿
-<$0E>
-//／
-／
-<$01>
-//留守番コール＿
-Voicemail＿
-<$0E>
-//\n
-\n
-<$01>
-//ネオケニア銀行
-NK Bank＿
-<$0E>
-//／
-／
-<$01>
-//気象サテライト
-Forecast＿
-<$0E>
-//\n
-\n
-<$01>
-//宝クジ抽選発表
-Lottery＿
-<$0E>
-//／
-／
-<$01>
-//ヘルガの大予言
-Miss Helga＿
-<$0E>
-<$00>
+//留守番コール<$00>
+RANGER HQ VOICEMAIL<$00>
 
 
+//ネオケニア銀行<$00>
+THE NEO KENYA BANK<$00>
 
 
+//気象サテライト<$00>
+THE WEATHER SATELLITE<$00>
 
 
-//記録センター
-THE RANGER HQ REPORT CENTER
-<$00>
+//宝クジ抽選発表<$00>
+THE LOTTERY NETWORK<$00>
 
 
+//ヘルガの大予言<$00>
+THE NK PSYCHIC HOTLINE<$00>
 
 
+//<CLEAR>タダイマ　<$1D>　ヲ\nヨビダシテイマス…　…　…　…<$12><$00>
+<CLEAR>NOW FORWARDING YOU TO\n
+<$1D>...<$12><$00>
 
 
-//留守番コール
-RANGER HQ VOICEMAIL
-<$00>
-
-
-
-
-
-
-//ネオケニア銀行
-THE NEO KENYA BANK
-<$00>
-
-
-
-
-
-
-//気象サテライト
-THE WEATHER SATELLITE
-<$00>
-
-
-
-
-
-
-//宝クジ抽選発表
-THE LOTTERY NETWORK
-<$00>
-
-
-
-
-
-
-//ヘルガの大予言
-THE NK PSYCHIC HOTLINE
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//タダイマ　
-NOW FORWARDING YOU TO\n
-<$1D>
-//　ヲ\nヨビダシテイマス…　…　…　…
-...
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//レンジャー隊本部、記録センターです\nジョブの進行状況を　記録しますか？\n
-This is the Ranger HQ report center.\n
+//<CLEAR>レンジャー隊本部、記録センターです\nジョブの進行状況を　記録しますか？\n<$01>記録を残す<$0E>／<$01>メニューへ<$0E>／<$01>電話を切る<$0E><$00>
+<CLEAR>This is the Ranger HQ report center.\n
 Save your game?\n
-<$01>
-//記録を残す
-Save＿
-<$0E>
-//／
-／
-<$01>
-//メニューへ
-Menu＿
-<$0E>
-//／
-／
-<$01>
-//電話を切る
-Hang up
-<$0E>
+<$01>Save＿<$0E>／<$01>Menu＿<$0E>／<$01>Hang up<$0E><$00>
+
+
+//<CLEAR>留守番コールに　新しいメッセージが\n<$1E>件入っています　確認しますか？<$00>
+<CLEAR>You have＿<$1E>＿new message(s)! Listen now?<$00>
+
+
+//<CLEAR>レンジャー隊本部、留守番コールです\n<$00>
+<CLEAR>This is Ranger HQ Voicemail.\n
 <$00>
 
 
+//留守番コールは　１件もありません<$12><$00>
+You have no new messages.<$12><$00>
 
 
+//現在までの登録メッセージ　<$1E>件<$12><$00>
+Stored messages:＿<$1E>.<$12><$00>
 
 
-<CLEAR>
-//留守番コールに　新しいメッセージが\n
-You have＿
-<$1E>
-//件入っています　確認しますか？
-＿new message(s)! Listen now?
-<$00>
+//<CLEAR>新規登録メッセージが　<$1E>件あります<$00>
+<CLEAR>You have＿<$1E>＿new message(s).<$00>
 
 
+//<CLEAR>新規登録メッセージは　ありません<$00>
+<CLEAR>You have no messages.<$00>
 
 
-
-
-<CLEAR>
-//レンジャー隊本部、留守番コールです\n
-This is Ranger HQ Voicemail.\n
-<$00>
-
-
-
-
-
-
-//留守番コールは　１件もありません
-You have no new messages.
-<$12>
-<$00>
-
-
-
-
-
-
-//現在までの登録メッセージ　
-Stored messages:＿
-<$1E>
-//件
-.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//新規登録メッセージが　
-You have＿
-<$1E>
-//件あります
-＿new message(s).
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//新規登録メッセージは　ありません
-You have no messages.
-<$00>
-
-
-
-
-
-
-//\n
+//\n<$01>確認をする<$0E>／<$01>メニューへ<$0E>／<$01>電話を切る<$0E><$00>
 \n
-<$01>
-//確認をする
-Listen
-<$0E>
-//／
-／
-<$01>
-//メニューへ
-Menu
-<$0E>
-//／
-／
-<$01>
-//電話を切る
-Hang up
-<$0E>
-<$00>
+<$01>Listen<$0E>／<$01>Menu<$0E>／<$01>Hang up<$0E><$00>
 
 
+//<CLEAR>皆様のネオケニア銀行です\n<$01>預金残高＿<$0E>／<$01>返済残高＿<$0E>／<$01>通帳を見る<$0E>\n<$01>メニューへ<$0E>／<$01>電話を切る<$0E><$00>
+<CLEAR>This is NK Bank!\n
+<$01>Deposit<$0E>／<$01>Withdraw<$0E>／<$01>Statement<$0E>\n
+<$01>Menu<$0E>／<$01>Hang up<$0E><$00>
 
 
+// %8d<$00>
+ %8d<$00>
 
 
-<CLEAR>
-//皆様のネオケニア銀行です\n
-This is NK Bank!\n
-<$01>
-//預金残高＿
-Deposit
-<$0E>
-//／
-／
-<$01>
-//返済残高＿
-Withdraw
-<$0E>
-//／
-／
-<$01>
-//通帳を見る
-Statement
-<$0E>
-//\n
-\n
-<$01>
-//メニューへ
-Menu
-<$0E>
-//／
-／
-<$01>
-//電話を切る
-Hang up
-<$0E>
-<$00>
+//<CLEAR>現在の預金残高は<$15>R<$06><$1D><$04><$14>￥です\n追加融資はできません<$12><$00>
+<CLEAR>Acct balance:＿<$15>R<$06><$1D><$04><$14>￥\n
+Loans unavailable.<$12><$00>
 
 
+//<CLEAR>現在の預金残高は<$1E>41￥です\n融資枠は　最大<$1E>40￥です<$12><$00>
+<CLEAR>Acct balance:＿<$1E>41￥\n
+Acct limit:＿<$1E>40￥<$12><$00>
 
 
+//<CLEAR>現在の預金残高は<$1E>41￥です\n返済期間中は　追加融資はできません<$12><$00>
+<CLEAR>Acct Balance:＿<$1E>41￥\n
+Loans unavailable this billing period.<$12><$00>
 
 
-// %8d
-%8d
-<$00>
+//<CLEAR>現在の預金残高は　０￥\n取引きを　停止中です<$12><$00>
+<CLEAR>Balance:＿０￥\n
+Transactions suspended.<$12><$00>
 
 
+//<CLEAR>現在、返済はありません<$12><$00>
+<CLEAR>Account has no balance.\n
+Unable to withdraw.<$12><$00>
 
 
+//次の<$1D><$00>
+next＿<$1D><$00>
 
 
-<CLEAR>
-//現在の預金残高は
-Acct balance:＿
-<$15>
-//R
-R
-<$06><$1D><$04><$14>
-//￥です\n追加融資はできません
-￥\n
-Loans unavailable.
-<$12>
-<$00>
+//今季節<$00>
+season<$00>
 
 
+//<CLEAR>現在の返済残高は<$1E>40￥です\n季節利子<$1E>40￥\n返済期限　<$1D>、となっております<$12><$00>
+<CLEAR>Loan balance:＿<$1E>40￥\n
+Ssnl interest:＿<$1E>40￥\n
+Payment due this＿<$1D>.<$12><$00>
 
 
+//<CLEAR>現在の返済残高は<$1E>40￥です\n季節利子<$1E>40￥\n預金口座の取引きは　停止中です<$12><$00>
+<CLEAR>Loan balance:＿<$1E>40￥\n
+Ssnl interest:＿<$1E>40￥\n
+Transactions suspended.<$12><$00>
 
 
-<CLEAR>
-//現在の預金残高は
-Acct balance:＿
-<$1E>
-//41￥です\n融資枠は　最大
-41￥\n
-Acct limit:＿
-<$1E>
-//40￥です
-40￥
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//現在の預金残高は
-Acct Balance:＿
-<$1E>
-//41￥です\n返済期間中は　追加融資はできません
-41￥\n
-Loans unavailable this billing period.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//現在の預金残高は　０￥\n取引きを　停止中です
-Balance:＿０￥\n
-Transactions suspended.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//現在、返済はありません
-Account has no balance.\n
-Unable to withdraw.
-<$12>
-<$00>
-
-
-
-
-
-
-//次の
-next＿
-<$1D>
-<$00>
-
-
-
-
-
-
-//今季節
-season
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//現在の返済残高は
-Loan balance:＿
-<$1E>
-//40￥です\n季節利子
-40￥\n
-Ssnl interest:＿
-<$1E>
-//40￥\n返済期限
-40￥\n
-Payment due this＿
-<$1D>
-//、となっております
-.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//現在の返済残高は
-Loan balance:＿
-<$1E>
-//40￥です\n季節利子
-40￥\n
-Ssnl interest:＿
-<$1E>
-//40￥\n預金口座の取引きは　停止中です
-40￥\n
-Transactions suspended.
-<$12>
-<$00>
-
-
-
-
-
-
-//  %8d
-%8d
-<$00>
-
-
-
-
+//  %8d<$00>
+  %8d<$00>
 
 
 TUCHO_0.TMZ
@@ -2319,520 +775,148 @@ TUCHO_1.TMZ
 
 
 
-<CLEAR>
-//
-<$04><$09>
-//1
-1
-<$15>
-//H
-H
-<$00>
+//<CLEAR><$04><$09>1<$15>H<$00>
+<CLEAR><$04><$09>1<$15>H<$00>
 
 
+//引き出し<$00>
+W/drawal<$00>
 
 
+//<$02>64返＿済<$00>
+<$02>64Repayment<$00>
 
 
-//引き出し
-W/drawal
-<$00>
+//<$02>64利＿子<$00>
+<$02>64Interest<$00>
 
 
+//預け入れ<$00>
+Deposit<$00>
 
 
+//<$02>64給＿料<$00>
+<$02>64Wages<$00>
 
 
-<$02>
-//64返＿済
-64Repayment
-<$00>
+//<$02>64利＿息<$00>
+<$02>64Overhead<$00>
 
 
+//闘犬給金<$00>
+Arena Pay<$00>
 
 
+//<$02>64賞＿金<$00>
+<$02>64Prize<$00>
 
 
-<$02>
-//64利＿子
-64Interest
-<$00>
+//<$02>64賞＿与<$00>
+<$02>64Bonus<$00>
 
 
-
-
-
-
-//預け入れ
-Deposit
-<$00>
-
-
-
-
-
-
-<$02>
-//64給＿料
-64Wages
-<$00>
-
-
-
-
-
-
-<$02>
-//64利＿息
-64Overhead
-<$00>
-
-
-
-
-
-
-//闘犬給金
-Arena Pay
-<$00>
-
-
-
-
-
-
-<$02>
-//64賞＿金
-64Prize
-<$00>
-
-
-
-
-
-
-<$02>
-//64賞＿与
-64Bonus
-<$00>
-
-
-
-
-
-
-//\n
+//\n<$02>8<$1E>34<$06>・<$04><$1D><$02>58<$1D><$02>118<$06><$15>H<$1D><$00>
 \n
-<$02>
-//8
-8
-<$1E>
-//34
-34
-<$06>
-//・
-・
-<$04><$1D><$02>
-//58
-58
-<$1D><$02>
-//118
-118
-<$06><$15>
-//H
-H
-<$1D>
-<$00>
+<$02>8<$1E>34<$06>・<$04><$1D><$02>58<$1D><$02>118<$06><$15>H<$1D><$00>
 
 
+//<$02>202<$1D><$1D><$15>H<$00>
+<$02>202<$1D><$1D><$15>H<$00>
 
 
+//<CLEAR>オズサット気象予報部発表\n各地の<$1D>の天気です<$12><$00>
+<CLEAR>OzSAT Weather's global\n
+<$1D>＿forecast:<$12><$00>
 
 
-<$02>
-//202
-202
-<$1D><$1D><$15>
-//H
-H
-<$00>
+//<CLEAR>東エリア増水確率＿<$1E>34％\n西エリア降雪確率＿<$1E>34％\n南エリア増水確率＿<$1E>34％<$12><$00>
+<CLEAR>East Area floods: ＿<$1E>34％\n
+West Area snow:＿<$1E>34％\n
+South Area floods:＿<$1E>34％<$12><$00>
 
 
+//<CLEAR>なお西エリア中部に　大雪警報発令中\n野営の際は　凍死に注意！<$12><$00>
+<CLEAR>A snow hazard was also issued in central West Area. Don't\n
+camp there and risk hypothermia!<$12><$00>
 
 
+//<CLEAR><$1D><$06>100<$04><$14>￥で　大きな夢を咲かせましょう∥\n<$1D>の宝クジ、ただいま好評発売中∥\n１等賞金は　なんと　<$06>100000<$04>￥∥<$12><$00>
+<CLEAR>For＿<$1D><$06><$04><$14>￥, dreams CAN come true!\n
+Join our＿<$1D>＿Lottery for a chance at＿<$06><$04>￥!<$12><$00>
 
 
-<CLEAR>
-//オズサット気象予報部発表\n各地の
-OzSAT Weather's global\n
-<$1D>
-//の天気です
-＿forecast:
-<$12>
-<$00>
+//<CLEAR><$1D>の宝クジ　当選番号発表∥<$12><$00>
+<CLEAR><$1D>＿Lottery winners have been announced!<$12><$00>
 
 
+//<CLEAR>１等（<$06>100000<$04>￥）<$02>120<$06>NO.<$1E>036<$12><$00>
+<CLEAR>1ST PRIZE: <$06>100000<$04>￥ - <$02>120<$06>NO.<$1E>036<$12><$00>
 
 
+//<CLEAR>２等（<$06> 50000<$04>￥）<$02>120<$06>NO.<$1E>036\n<$02>120<$06>NO.<$1E>036<$12><$00>
+<CLEAR>2ND PRIZE: <$06> 50000<$04>￥ - <$02><$06>NO.<$1E>036\n
+<$02>120<$06>NO.<$1E>036<$12><$00>
 
 
-<CLEAR>
-//東エリア増水確率＿
-East Area floods: ＿
-<$1E>
-//34％\n西エリア降雪確率＿
-34％\n
-West Area snow:＿
-<$1E>
-//34％\n南エリア増水確率＿
-34％\n
-South Area floods:＿
-<$1E>
-//34％
-34％
-<$12>
-<$00>
+//<CLEAR>３等（<$06> 10000<$04>￥）<$02>120<$06>NO.<$1E>036\n<$04>４等（<$06>  1000<$04>￥）<$02>120<$06>NO.X<$1E>035\n<$04>５等（<$06>   100<$04>￥）<$02>120<$06>NO.XX<$1E>034<$12><$00>
+<CLEAR>3RD PRIZE: <$06> 10000<$04>￥ - <$02>120<$06>NO.<$1E>036\n
+<$04>4TH PRIZE: <$06>  1000<$04>￥ - <$02>120<$06>NO.X<$1E>035\n
+<$04>5TH PRIZE: <$06>   100<$04>￥ - <$02>120<$06>NO.XX<$1E>034<$12><$00>
 
 
+//<CLEAR>お引き替え有効期限　今<$1D>のみ∥<$12><$00>
+<CLEAR>Winners, you have through＿<$1D>＿to redeem your prizes!<$12><$00>
 
 
+//<$15>Y記録ファイル選択<$00>
+<$15>YFile Select<$00>
 
 
-<CLEAR>
-//なお西エリア中部に　大雪警報発令中\n野営の際は　凍死に注意！
-A snow hazard was also issued in central West\n
-Area. Don't camp there and risk hypothermia!
-<$12>
-<$00>
+//<CLEAR>未登録ファイルです\n記録しますか？<$00>
+<CLEAR>This file is empty.\n
+Create file now?<$00>
 
 
+//<CLEAR>すでに　記録されています\n上書きしますか？<$00>
+<CLEAR>This file already exists.\n
+Overwrite save?<$00>
 
 
-
-
-<CLEAR>
-//
-For＿
-<$1D><$06>
-//100
-<$04><$14>
-//￥で　大きな夢を咲かせましょう∥\n
-￥, dreams CAN come true!\n
-Join our＿
-<$1D>
-//の宝クジ、ただいま好評発売中∥\n１等賞金は　なんと　
-＿Lottery for a chance at＿
-<$06>
-//100000
-<$04>
-//￥∥
-￥!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$1D>
-//の宝クジ　当選番号発表∥
-＿Lottery winners have been announced!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//１等（
-1ST PRIZE:
-<$06>
-//100000
-100000
-<$04>
-//￥）
-￥ -
-<$02>
-//120
-120
-<$06>
-//NO.
-NO.
-<$1E>
-//036
-036
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//２等（
-2ND PRIZE:
-<$06>
-// 50000
-50000
-<$04>
-//￥ - 
-￥ -
-<$02>
-//120
-<$06>
-//NO.
-NO.
-<$1E>
-//036\n
-036\n
-<$02>
-//120
-120
-<$06>
-//NO.
-NO.
-<$1E>
-//036
-036
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//３等（
-3RD PRIZE:
-<$06>
-// 10000
-10000
-<$04>
-//￥）
-￥ -
-<$02>
-//120
-120
-<$06>
-//NO.
-NO.
-<$1E>
-//036\n
-036\n
-<$04>
-//４等（
-4TH PRIZE:
-<$06>
-//  1000
-1000
-<$04>
-//￥）
-￥ -
-<$02>
-//120
-120
-<$06>
-//NO.X
-NO.X
-<$1E>
-//035\n
-035\n
-<$04>
-//５等（
-5TH PRIZE:
-<$06>
-//   100
-100
-<$04>
-//￥）
-￥ -
-<$02>
-//120
-120
-<$06>
-//NO.XX
-NO.XX
-<$1E>
-//034
-034
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//お引き替え有効期限　今
-Winners, you have through＿
-<$1D>
-//のみ∥
-＿to redeem your prizes!
-<$12>
-<$00>
-
-
-
-
-
-
-//
-<$15>
-//Y記録ファイル選択
-YFile Select
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//未登録ファイルです\n記録しますか？
-This file is empty.\n
-Create file now?
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//すでに　記録されています\n上書きしますか？
-This file already exists.\n
-Overwrite save?
-<$00>
-
-
-
-
-
-
-//\n
+//\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
 \n
-<$01>
-//は＿い
-Yes
-<$0E>
-//／
-／
-
-<$01>
-//いいえ
-No
-<$0E>
-<$00>
+<$01>Yes<$0E>／<$01>No<$0E><$00>
 
 
-
-
-
-
-<CLEAR>
-//
-<$02>
-//100Φ\n
-100Φ\n
-<$09>
-//8
-8
-<$02>
-//35ただいま、記録中です∥\n電源を切ったり、メモリーカードに\n
-35Saving in progress...\n
+//<CLEAR><$02>100Φ\n<$09>8<$02>35ただいま、記録中です∥\n電源を切ったり、メモリーカードに\n<$02>21触れたりしないでください∥<$00>
+<CLEAR><$02>100Φ\n
+<$09>8<$02>35Saving in progress...\n
 Do not remove the card\n
-<$02>
-//77しないでください∥
-77or turn off the console.
-
-<$02>
-//21触れたりしないでください∥
-21Do not interrupt.
-<$00>
+<$02>77or turn off the console.<$02>21Do not interrupt.<$00>
 
 
+//<CLEAR><$02>104Φ\n<$09>12<$02>36記録できませんでした…Ψ<$00>
+<CLEAR><$02>104Φ\n
+<$09>12<$02>36Save failed...Ψ<$00>
 
 
+//<CLEAR>記録しましたΨ<$00>
+<CLEAR>Game saved.<$00>
 
 
-<CLEAR>
-//
-<$02>
-//104Φ\n
-104Φ\n
-<$09>
-//12
-12
-<$02>
-//36記録できませんでした…Ψ
-36Save failed...Ψ
-<$00>
+//<$06>-NO CARD-<$04><$00>
+<$06>-NO CARD-<$04><$00>
 
 
+//<$06>-UNFORMAT-<$04><$00>
+<$06>-NOT FORMATTED-<$04><$00>
 
 
+//<$06>-ERROR-<$04><$00>
+<$06>-ERROR-<$04><$00>
 
 
-<CLEAR>
-//記録しましたΨ
-Game saved.
-<$00>
-
-
-
-
-
-
-<$06>
-//-NO CARD-
--NO CARD-
-<$04>
-<$00>
-
-
-
-
-
-
-<$06>
-//-UNFORMAT-
--NOT FORMATTED-
-<$04>
-<$00>
-
-
-
-
-
-
-<$06>
-//-ERROR-
--ERROR-
-<$04>
-<$00>
-
-
-
-
-
-
-<$06>
-//-NO FREE-
--NO FREE SPACE-
-<$04>
-<$00>
-
-
-
-
+//<$06>-NO FREE-<$04><$00>
+<$06>-NO FREE SPACE-<$04><$00>
 
 
 
@@ -2841,2616 +925,998 @@ Game saved.
 
 
 
-<CLEAR>
-//
-<$1D><$01>
-//◇
-◇
-<$0E>
-//　スロット１
-＿Slot １
-<$1D>
-//\n
+//<CLEAR><$1D><$01>◇<$0E>　スロット１<$1D>\n<$1D><$01>◇<$0E>　スロット２<$1D><$00>
+<CLEAR><$1D><$01>◇<$0E> Slot １<$1D>\n
+<$1D><$01>◇<$0E> Slot 2<$1D><$00>
+
+
+//\n<$15>W<$01>◇<$0E>　やめとく<$00>
 \n
-<$1D><$01>
-//◇
-◇
-<$0E>
-//　スロット２
-＿Slot 2
-<$1D>
-<$00>
+<$15>W<$01>◇<$0E>＿Exit<$00>
 
 
-
-
-
-
-//\n
+//\n<$15>W<$01>◇<$0E>　メニューへ\n<$01>◇<$0E>　電話を切る<$00>
 \n
-<$15>
-//W
-W
-<$01>
-//◇
-◇
-<$0E>
-//　やめとく
-＿Exit
+<$15>W<$01>◇<$0E>　Menu\n
+<$01>◇<$0E>　Hang up<$00>
+
+
+//<$15>Yスロット<$1E><$06>:<$04>記録<$06>ファイル<$04>選択<$00>
+<$15>YSlot＿<$1E><$06>:<$04>＿<$06>＿File＿<$04>Select<$00>
+
+
+//<CLEAR><$00>
+<CLEAR><$00>
+
+
+//<$15>b<$01><$06><$1E>.<$0E><$04>    （未登録です）\n<$00>
+<$15>b<$01><$06><$1E>.<$0E><$04>(NOT IN USE)\n
 <$00>
 
 
+//<$1D><$00>
+<$1D><$00>
 
 
+//<$06><$1D><$04><$00>
+<$06><$1D><$04><$00>
 
 
-//\n
+//<$15>W<$01><$06><$1E>.<$0E> <$1D> <$06>199<$1E><$04>年<$1D>　<$1D><$02>164<$06><$1E>35<$04>種登録　難<$1E>\n<$00>
+<$15>W<$01><$06><$1E>.＿<$0E> <$1D> <$06>199<$1E><$04>,＿<$1D>　<$1D><$02>164<$06><$1E>35<$04>＿filed (Mode＿<$1E>)\n
+<$00>
+
+
+//<$15>W<$01>◇<$08>2<$0E>　やめとく<$00>
+<$15>W<$01>◇<$08>2<$0E>＿Exit<$00>
+
+
+//<$15>W<$01>◇<$08>2<$0E>　メニューへ   <$01>◇<$08>2<$0E>　電話を切る<$00>
+<$15>W<$01>◇<$08>2<$0E> Menu   <$01>◇<$08>2<$0E> Hang up<$00>
+
+
+//クン、クンクン………？<$12>\n<CLEAR>とくに目新しい　ニオイは\nしないみたいよ<$12><$00>
+Sniff...sniff, sniff?<$12>\n
+<CLEAR>None of the scents around here stand out.<$12><$00>
+
+
+//……東<$00>
+...East<$00>
+
+
+//……西<$00>
+...West<$00>
+
+
+//……南<$00>
+...South<$00>
+
+
+//……北<$00>
+...North<$00>
+
+
+//…北東<$00>
+...North-east<$00>
+
+
+//…北西<$00>
+...North-west<$00>
+
+
+//…南東<$00>
+...South-east<$00>
+
+
+//…南西<$00>
+...South-west<$00>
+
+
+//<CLEAR>……<$1D><$00>
+<CLEAR>......<$1D><$00>
+
+
+//、…<$1D>に行けば<$00>
+! That's where we'll find a＿<$1D>.<$00>
+
+
+//直進<$00>
+For<$00>
+
+
+//右よ<$00>
+Right<$00>
+
+
+//左よ<$00>
+Left<$00>
+
+
+//後ろ<$00>
+Back<$00>
+
+
+//<CLEAR>……<$1D><$00>
+<CLEAR>......<$1D><$00>
+
+
+//、絶対に<$1D>∥<$00>
+wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
+
+
+//<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
+<CLEAR><$19><$15>SLinda used her woman's intuition...<$14><$12><$00>
+
+
+//<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
+<CLEAR>...Sorry. I don't have it in me today.<$12><$00>
+
+
+//運命の<$00>
+Fated＿<$00>
+
+
+//新しい<$00>
+New＿<$00>
+
+
+//素敵な<$00>
+Great＿<$00>
+
+
+//未知の<$00>
+Unknown＿<$00>
+
+
+//何か<$00>
+things＿<$00>
+
+
+//発見<$00>
+discoveries＿<$00>
+
+
+//お宝<$00>
+treasures＿<$00>
+
+
+//動物<$00>
+animals＿<$00>
+
+
+//に　出会える…<$00>
+could appear.<$00>
+
+
+//が　待ってる…<$00>
+await us...<$00>
+
+
+//気がするわ∥<$00>
+are there.<$00>
+
+
+//チャンスよ∥<$00>
+are in our grasp!<$00>
+
+
+//今しかないわ<$00>
+could slip through our fingers!<$00>
+
+
+//間違いなし∥<$00>
+are dead head!<$00>
+
+
+//\n<$1D><$1D><$1D>\n<$1D><$12>\n<CLEAR><$00>
 \n
-<$15>
-//W
-W
-<$01>
-//◇
-◇
-<$0E>
-//　メニューへ\n
-Menu\n
-<$01>
-//◇
-◇
-<$0E>
-//　電話を切る
-Hang up
-<$00>
+<$1D><$1D><$1D>\n
+<$1D><$12>\n
+<CLEAR><$00>
 
 
+//<CLEAR>自信があるの∥<$12><$00>
+<CLEAR>I'm sure of it!<$12><$00>
 
 
+//<CLEAR>自信は　ないけどね…<$12><$00>
+<CLEAR>Although, I'm not totally certain...<$12><$00>
 
 
-//
-<$15>
-//Yスロット
-YSlot＿
-<$1E><$06>
-//:
-:
-<$04>
-//記録
-＿
-<$06>
-//ファイル
-＿File＿
-<$04>
-//選択
-Select
-<$00>
+//<CLEAR>絶対なんだから∥<$12><$00>
+<CLEAR>I'm absolutely certain!<$12><$00>
 
 
+//<$15>Yスケジュール<$00>
+<$15>YMemo＿<$00>
 
 
+//<CLEAR>スケジュールは何もありません<$12><$00>
+<CLEAR>There is nothing on schedule.<$12><$00>
 
 
-<CLEAR>
+//成功終了<$00>
+Completed!<$00>
 
-<$00>
 
+//期限切れ<$00>
+Expired!<$00>
 
 
+//あと<$1E>季節<$00>
+In＿<$1E>＿seasons<$00>
 
-<$15>
-//b
-b
-<$01><$06><$1E>
-//.
-.
-<$0E><$04>
-//    （未登録です）\n
-＿＿（NOT IN USE）\n
-<$00>
 
+//あと<$1E>年<$1E>季節<$00>
+Deadline:＿<$1E>Y/<$1E>S<$00>
 
 
+//あと<$1E>年<$00>
+In＿<$1E>＿years<$00>
 
 
+//<$16><$01>◇<$0E><$1D><$02>190<$1D><$00>
+<$16><$01>◇<$0E><$1D><$02><$1D><$00>
 
-<$1D>
-<$00>
 
+//ファングを倒す<$00>
+Slay Fang<$00>
 
 
+//パンハイムからの依頼<$00>
+Assist Panheim<$00>
 
-<$06><$1D><$04>
-<$00>
 
+//<$1B>カメの卵を手に入れる<$00>
+Snatch Turtle Eggs<$00>
 
 
+//<$1B>プテラノの卵を手に入れる<$00>
+Snatch Pteranodon Eggs<$00>
 
-<$15>
-//W
-W
-<$01><$06><$1E>
-//.
-.＿
-<$0E>
-// 
 
-<$1D>
-// 
+//遺産争いにケリをつける<$00>
+End the inheritance battle<$00>
 
-<$06>
-//199
-199
-<$1E><$04>
-//年
-,＿
-<$1D>
-//　
 
-<$1D><$02>
-//164
-164
-<$06><$1E>
-//35
-35
-<$04>
-//種登録　難
-＿filed (Mode＿
-<$1E>
-)
-//\n
-\n
-<$00>
+//ヤマダのために一肌脱ぐ<$00>
+Unload for Yamada<$00>
 
 
+//町のシンボルを見つけだす<$00>
+Find the village symbol<$00>
 
 
+//ソフィアからの依頼<$00>
+Assist Sophia<$00>
 
 
-<$15>
-//W
-W
-<$01>
-//◇
-◇
-<$08>
-//2
-2
-<$0E>
-//　やめとく
-＿Exit
-<$00>
+//サチコ救出<$00>
+Rescue Sachiko<$00>
 
 
+//ポロポロちゃんを助ける<$00>
+Save Nightshade<$00>
 
 
+//アンジェラ捜し<$00>
+Find Angela<$00>
 
 
-<$15>
-//W
-W
-<$01>
-//◇
-◇
-<$08>
-//2
-2
-<$0E>
-//　メニューへ   
-Menu
-<$01>
-//◇
-◇
-<$08>
-//2
-2
-<$0E>
-//　電話を切る
-Hang up
-<$00>
+//<CLEAR>カラゴラムのファングを倒し、その証拠を\nハーディアホテルのスペクターに渡す<$00>
+<CLEAR>Defeat Fang in Karhagolem. Present proof to Spectre in\n
+Hardia Hotel.<$00>
 
 
+//<CLEAR>マーブルポリスの<$1B>ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す<$00>
+<CLEAR>Process meat from＿chickens in Marblopolis.Give them to\n
+Prof. Panheim in Hospico.<$00>
 
 
+//<CLEAR><$1B>カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す<$00>
+<CLEAR>Find up to 3＿Turtle Eggs. Give them to Louis at the Battle\n
+Park BB Ranch.<$00>
 
 
-//クン、クンクン………？
-Sniff...sniff, sniff?
-<$12>
-\n
-<CLEAR>
-//とくに目新しい　ニオイは\nしないみたいよ
-None of the scents around here stand out.
-<$12>
-<$00>
+//<CLEAR><$1B>プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す<$00>
+<CLEAR>Acquire 2＿Pteranodon Eggs. Give them to Bronco at the\n
+Battle Park BB Ranch.<$00>
 
 
+//<CLEAR>「太郎の首輪」を見つけだし、ドギファの\nナターシャか、オーマン家３兄弟に渡す<$00>
+<CLEAR>Locate Taro's Collar. Give it to Natasha or one of the 3\n
+Aumann children in Dogyf Heights.<$00>
 
 
+//６万<$00>
+60, 000<$00>
 
 
-//……東
-...East
-<$00>
+//あと<$06><$1E><$0F>000<$04><$00>
+another＿<$06><$1E><$0F><$04><$00>
 
 
+//<CLEAR>Ｇファクトリーのヤマダのために\n<$1D>￥を預金する<$00>
+<CLEAR>Deposit＿<$1D>￥ in an account to Yamada in G Factory.<$00>
 
 
+//<CLEAR>コシカタのシンボル「<$1B>トラの爪」を\n見つけだし、ポリスカに渡す<$00>
+<CLEAR>Find the＿Tiger Claw, Koshikata's village symbol. Return it\n
+to Poliska.<$00>
 
 
-//……西
-...West
-<$00>
+//<CLEAR>ソフィアのために、エターナの桜の木を\nどうにかして咲かせる<$00>
+<CLEAR>Find out how to revive the sakura trees in Eterna for\n
+Sophia.<$00>
 
 
+//<CLEAR>溶岩の中で育った動物の熱いウンチを\nエターナのソフィアに渡す<$00>
+<CLEAR>Deliver Hot Dung from a lava-dwelling creature to Sophia in\n
+Eterna.<$00>
 
 
+//<CLEAR>ラグナロッジのエモリに会いに行く<$00>
+<CLEAR>Meet with Dr. Emori in Ragna Rim.<$00>
 
 
-//……南
-...South
-<$00>
+//<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nＧファクトリー入口１階、\n公衆電話の前に行く<$00>
+<CLEAR>Take the Floppy Disc and＿<$06>10, 000<$04>￥ to the G Factory\n
+gate. Answer the payphone.<$00>
 
 
+//<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nパラサイド入口１階、\n公衆電話の前に行く<$00>
+<CLEAR>Take the Floppy Disc and＿<$06>10, 000<$04>￥ to the Paraside gate.\n
+Answer the payphone.<$00>
 
 
+//<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nガレックスに行く<$00>
+<CLEAR>Take the Floppy Disc and＿<$06>10, 000<$04>￥ to Galax.<$00>
 
 
-//……北
-...North
-<$00>
+//<CLEAR>ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す<$00>
+<CLEAR>Pick bloodberries in Flora Jam. Take them to Kevin and\n
+Nightshade in Rose Garden.<$00>
 
 
+//<CLEAR>パラサイドの酒場にいるアンジェラを\n確認して、リナバレーのマリオに連絡する<$00>
+<CLEAR>Look for Angela at the Paraside bar. Report your findings\n
+to Mario in Spurr Valley.<$00>
 
 
+//<CLEAR>アンジェラを確認するために、\nオズポートホテルの酒場に行く<$00>
+<CLEAR>Look for Angela at the OzPort Hotel bar.<$00>
 
 
-//…北東
-...North-east
-<$00>
+//<CLEAR>アンジェラを確認するために、\n西エリアのしけた町のホテルに行く<$00>
+<CLEAR>Look for Angela at a hotel bar somewhere in West Area.<$00>
 
 
+//<CLEAR>アンジェラを確認するために、\nドギファの舞台に行く<$00>
+<CLEAR>Look for Angela at the theater stage in Dogyf Heights.<$00>
 
 
-
-
-//…北西
-...North-west
-<$00>
-
-
-
-
-
-
-//…南東
-...South-east
-<$00>
-
-
-
-
-
-
-//…南西
-...South-west
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//……
-......
-<$1D>
-<$00>
-
-
-
-
-
-
-//、…
-! That's where we'll find a＿
-<$1D>
-//に行けば
-.
-<$00>
-
-
-
-
-
-
-//直進
-For
-<$00>
-
-
-
-
-
-
-//右よ
-Right
-<$00>
-
-
-
-
-
-
-//左よ
-Left
-<$00>
-
-
-
-
-
-
-//後ろ
-Back
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//……
-......
-<$1D>
-<$00>
-
-
-
-
-
-
-//、絶対に
-wards, got it? I'm sure we'll find a＿
-<$1D>
-//∥
-＿there!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-<$19>
-//1
-<$15>
-//Sリンダは　「女の勘」を\nはたらかせた∥
-SLinda used her woman's intuition...
-<$14><$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//…ごめんね、\n今日は　勘がはたらかないわ…
-...Sorry. I don't have it in me today.
-<$12>
-<$00>
-
-
-
-
-
-
-//運命の
-Fated＿
-<$00>
-
-
-
-
-
-
-//新しい
-New＿
-<$00>
-
-
-
-
-
-
-//素敵な
-Great＿
-<$00>
-
-
-
-
-
-
-//未知の
-Unknown＿
-<$00>
-
-
-
-
-
-
-//何か
-things＿
-<$00>
-
-
-
-
-
-
-//発見
-discoveries＿
-<$00>
-
-
-
-
-
-
-//お宝
-treasures＿
-<$00>
-
-
-
-
-
-
-//動物
-animals＿
-<$00>
-
-
-
-
-
-
-//に　出会える…
-could appear.
-<$00>
-
-
-
-
-
-
-//が　待ってる…
-await us...
-<$00>
-
-
-
-
-
-
-//気がするわ∥
-are there.
-<$00>
-
-
-
-
-
-
-//チャンスよ∥
-are in our grasp!
-<$00>
-
-
-
-
-
-
-//今しかないわ
-could slip through our fingers!
-<$00>
-
-
-
-
-
-
-//間違いなし∥
-are dead head!
-<$00>
-
-
-
-
-
-
-//\n
-\n
-<$1D><$1D><$1D>
-//\n
-\n
-<$1D><$12>
-\n
-<CLEAR>
-//
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//自信があるの∥
-I'm sure of it!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//自信は　ないけどね…
-Although, I'm not totally certain...
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//絶対なんだから∥
-I'm absolutely certain!
-<$12>
-<$00>
-
-
-
-
-
-
-//
-<$15>
-//Yスケジュール
-YMemo＿
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//スケジュールは何もありません
-There is nothing on schedule.
-<$12>
-<$00>
-
-
-
-
-
-
-//成功終了
-Completed!
-<$00>
-
-
-
-
-
-
-//期限切れ
-Expired!
-<$00>
-
-
-
-
-
-
-//あと
-In＿
-<$1E>
-//季節
-＿seasons
-<$00>
-
-
-
-
-
-
-//あと
-Deadline:＿
-<$1E>
-//年
-Y/
-<$1E>
-//季節
-S
-<$00>
-
-
-
-
-
-
-//あと
-In＿
-<$1E>
-//年
-＿years
-<$00>
-
-
-
-
-
-
-<$16><$01>
-//◇
-◇
-<$0E><$1D><$02>
-//190
-<$1D>
-<$00>
-
-
-
-
-
-
-//ファングを倒す
-Slay Fang
-<$00>
-
-
-
-
-
-
-//パンハイムからの依頼
-Assist Panheim
-<$00>
-
-
-
-
-
-
-//<$1B>
-//カメの卵を手に入れる
-Snatch Turtle Eggs
-<$00>
-
-
-
-
-
-
-//<$1B>
-//プテラノの卵を手に入れる
-Snatch Pteranodon Eggs
-<$00>
-
-
-
-
-
-
-//遺産争いにケリをつける
-End the inheritance battle
-<$00>
-
-
-
-
-
-
-//ヤマダのために一肌脱ぐ
-Unload for Yamada
-<$00>
-
-
-
-
-
-
-//町のシンボルを見つけだす
-Find the village symbol
-<$00>
-
-
-
-
-
-
-//ソフィアからの依頼
-Assist Sophia
-<$00>
-
-
-
-
-
-
-//サチコ救出
-Rescue Sachiko
-<$00>
-
-
-
-
-
-
-//ポロポロちゃんを助ける
-Save Nightshade
-<$00>
-
-
-
-
-
-
-//アンジェラ捜し
-Find Angela
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//カラゴラムのファングを倒し、その証拠を\nハーディアホテルのスペクターに渡す
-Defeat Fang in Karhagolem. Present proof to\n
-Spectre in Hardia Hotel.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//マーブルポリスの
-Process meat from＿
-//<$1B>
-//ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す
-chickens in Marblopolis.Give them to Prof.\n
-Panheim in Hospico.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-Find up to 3＿
-//<$1B>
-//カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す
-Turtle Eggs. Give them to Louis at the Battle\n
-Park BB Ranch.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//
-Acquire 2＿
-//<$1B>
-//プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す
-Pteranodon Eggs. Give them to Bronco at the\n
-Battle Park BB Ranch.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//「太郎の首輪」を見つけだし、ドギファの\nナターシャか、オーマン家３兄弟に渡す
-Locate Taro's Collar. Give it to Natasha or\n
-one of the 3 Aumann children in Dogyf\n
-Heights.
-<$00>
-
-
-
-
-
-
-//６万
-60, 000
-<$00>
-
-
-
-
-
-
-//あと
-another＿
-<$06><$1E><$0F>
-//000
-<$04>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//Ｇファクトリーのヤマダのために\n
-Deposit＿
-<$1D>
-//￥を預金する
-￥ in an account to Yamada in G Factory.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//コシカタのシンボル「
-Find the＿
-//<$1B>
-//トラの爪」を\n見つけだし、ポリスカに渡す
-Tiger Claw, Koshikata's village symbol.\n
-Return it to Poliska.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ソフィアのために、エターナの桜の木を\nどうにかして咲かせる
-Find out how to revive the sakura trees in\n
-Eterna for Sophia.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//溶岩の中で育った動物の熱いウンチを\nエターナのソフィアに渡す
-Deliver Hot Dung from a lava-dwelling\n
-creature to Sophia in Eterna.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ラグナロッジのエモリに会いに行く
-Meet with Dr. Emori in Ragna Rim.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//「フロッピーと
-Take the Floppy Disc and＿
-<$06>
-//10
-10, 000
-<$04>
-//万￥」を持って、\nＧファクトリー入口１階、\n公衆電話の前に行く
-￥ to the G Factory gate. Answer the payphone.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//「フロッピーと
-Take the Floppy Disc and＿
-<$06>
-//10
-10, 000
-<$04>
-//万￥」を持って、\nパラサイド入口１階、\n公衆電話の前に行く
-￥ to the Paraside gate. Answer the payphone.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//「フロッピーと
-Take the Floppy Disc and＿
-<$06>
-//10
-10, 000
-<$04>
-//万￥」を持って、\nガレックスに行く
-￥ to Galax.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す
-Pick bloodberries in Flora Jam. Take them to\n
-Kevin and Nightshade in Rose Garden.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//パラサイドの酒場にいるアンジェラを\n確認して、リナバレーのマリオに連絡する
-Look for Angela at the Paraside bar. Report\n
-your findings to Mario in Spurr Valley.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//アンジェラを確認するために、\nオズポートホテルの酒場に行く
-Look for Angela at the OzPort Hotel bar.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//アンジェラを確認するために、\n西エリアのしけた町のホテルに行く
-Look for Angela at a hotel bar somewhere in\n
-West Area.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//アンジェラを確認するために、\nドギファの舞台に行く
-Look for Angela at the theater stage in Dogyf\n
-Heights.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//リナバレーのマリオの母、\nアンジェラを追ってオズサットへ行く
-Chase Angela to OzSat! Mario will follow from\n
-Spurr Valley.
-<$00>
-
-
-
-
+//<CLEAR>リナバレーのマリオの母、\nアンジェラを追ってオズサットへ行く<$00>
+<CLEAR>Chase Angela to OzSat! Mario will follow from Spurr Valley.<$00>
 
 
 #WRITE(PTR, $0030)
-//
-<$15>
-//Y留守番コール
-YVoicemail
-<$00>
+//<$15>Y留守番コール<$00>
+<$15>YVoicemail<$00>
 
 
+//<$01>終了<$0E><$00>
+<$01>Exit<$0E><$00>
 
 
+//「あの…＿＿<$00>
+＿Spectre<$00>
 
 
-<$01>
-//終了
-Exit
-<$0E>
-<$00>
+//「もしもし…<$00>
+＿Panheim<$00>
 
 
+//「あたしゃ、<$00>
+＿Louise<$00>
 
 
+//「こんにちは<$00>
+＿Natasha<$00>
 
 
-//「あの…＿＿
-＿Spectre
-<$00>
+//「いつもお世<$00>
+＿Yamada<$00>
 
 
+//「あんたを男<$00>
+＿Poliska<$00>
 
 
+//「私、ソフィ<$00>
+＿Sophia<$00>
 
 
-//「もしもし…
-＿Panheim
-<$00>
+//「もしもし＿<$00>
+＿Nek<$00>
 
 
+//「もしもし＿<$00>
+＿Nek<$00>
 
 
+//「隊長だ！＿<$00>
+＿Captain<$00>
 
 
-//「あたしゃ、
-＿Louise
-<$00>
+//「俺、リナバ<$00>
+＿Mario<$00>
 
 
+//「ケン、母さ<$00>
+＿Meme<$00>
 
 
+//「ボク、ロー<$00>
+Kevin<$00>
 
 
-//「こんにちは
-＿Natasha
-<$00>
+//<$1D><$01><$1E>34<$06>.<$0E><$04><$1D><$00>
+<$1D><$01><$1E>34<$06>.<$0E><$04><$1D><$00>
 
 
+//<CLEAR>あの…\n私、スペクターといいます\nハーディアの　ホテルにいます…<$12>\n<CLEAR>あの…\n折り入って　お頼みしたいことが…<$12>\n<CLEAR>何かのついでで　結構ですから\nご足労願えますか…\n一番、奥の部屋です<$12>\n<CLEAR>あの…\nきっと　来てください\nお待ちしていますから…<$12><$00>
+<CLEAR>Uhm... You can call me Spectre.\n
+I'm in the Hardia Hotel.<$12>\n
+<CLEAR>Uhm... I've got a favor to ask you.<$12>\n
+<CLEAR>If you can help, it'd be swell if you came up to see me.<$12>\n
+<CLEAR>Uhm... Do come, please. I'll be waiting.<$12><$00>
 
 
+//<CLEAR>もしもし…　グリーン製薬で\n開発部長を　やっていた\nパンハイムという者だがね<$12>\n<CLEAR>君たちの評判を　伝え聞いてね…\nワラにもすがる思いで　電話したんだよ\nメモの用意は　いいかね？<$12><$00>
+<CLEAR>Greetings. This is Green Pharmaceuticals' Head of\n
+Development, Panheim.<$12>\n
+<CLEAR>Your reputation precedes you, and I need your help. I hope\n
+you're taking notes.<$12><$00>
 
 
-//「いつもお世
-＿Yamada
-<$00>
+//<CLEAR>Ｗ<$06>-17<$04>エリアに　採石場がある\n数年前、マーブルポリスという遺跡が\n発見されて　話題になった場所だ<$12>\n<CLEAR>最近、その遺跡の神殿の庭園部に\n<$1B>ニワトリが　突然、大量発生してね\nそいつの肉が　２つほど必要なのだ<$12>\n<CLEAR>庭の、２羽の、<$1B>ニワトリの肉だ…<$12><$00>
+<CLEAR>Some years ago, an expedition was held in W<$06>-17<$04>. A temple,\n
+Marblopolis, was hotly discovered.<$12>\n
+<CLEAR>Recently, that temple's garden was overrun by\n
+wild＿chickens, and I need 2 or so's worth of meat.<$12>\n
+<CLEAR>Temple garden,\n
+2 pieces of＿chicken meat.<$12><$00>
 
 
+//<CLEAR>………………………<$12>\n<CLEAR>庭の、２羽の<$1B>ニワトリの肉だよ<$12>\n<CLEAR>いや別に　肉は３つでも　いいのだが\n君たちが　覚えやすいように　私なりに\n工夫して言ったつもりだったんだ…<$12><$00>
+<CLEAR>............<$12>\n
+<CLEAR>Temple garden, 2 pieces of＿chicken meat.<$12>\n
+<CLEAR>I won't say no to 3, but I figure 2 is easy enough to\n
+remember.<$12><$00>
 
 
+//<CLEAR>………………………<$12>\n<CLEAR>実は　妻が病気でね…\n<$1B>ニワトリを　材料にすれば　イイ薬が\n作れそうな　気がするんだ…<$12>\n<CLEAR>ホスピコの　わしの研究所まで\n至急、<$1B>ニワトリの肉を２つ　よろしくね\nエターナじゃないよ…　いいね<$12><$00>
+<CLEAR>..................<$12>\n
+<CLEAR>If you must know, my wife is ill. With＿chicken, I hope to\n
+concoct a viable cure for her.<$12>\n
+<CLEAR>My research lab is in Hospico. Bring the＿chicken there,\n
+not to Eterna. Am I clear?<$12><$00>
 
 
-//「あんたを男
-＿Poliska
-<$00>
+//<CLEAR>あたしゃ、バトルパークで養殖牧場を\n経営しとる　ブロンコの妻で\nルイーズというだがね<$12>\n<CLEAR>あんた、動物のことに　えらい\n詳しいそうだがね！　その腕を見込んで\nひとつ、頼まれてくれんか<$12>\n<CLEAR>病床の亭主の　最後の望みを\nかなえてやりたい　けなげな妻の願い、\nまさか　断わったりできんよねぇ！<$12>\n<CLEAR>よろしく頼んますよ！\n待っとるでね<$12><$00>
+<CLEAR>Hello? I'm Louise, My husband, Bronco, is the head of BB\n
+Ranch, Battle Park.<$12>\n
+<CLEAR>I've heard of your work, and wish to see that skill for\n
+myself, if you're free.<$12>\n
+<CLEAR>My husband is on his deathbed. As his wife, I can't let\n
+his dying wish pass him by.<$12>\n
+<CLEAR>I look forward to hearing from you!<$12><$00>
 
 
+//<CLEAR>こんにちは！　私、ナターシャ\nまだ　駆け出しなんだけどさ\nこれでも一応、一級弁護士さんよ<$12>\n<CLEAR>ちょいと面倒なことに　なっていてね\nあなたたちに　手伝って欲しいことが\nあるのよ！　ギャラははずむわよ！<$12><$00>
+<CLEAR>Hello! I'm Natasha, a newbie lawyer who still knows her\n
+stuff. Pleased to meet you!<$12>\n
+<CLEAR>I've hit a snag on the job and could use your help. I'll pay\n
+you, obviously!<$12><$00>
 
 
+//<CLEAR>あなたたちに　ピッタンコの仕事だと\n思うんだ！　興味があったら\nドギファまで　出向いてくれる？<$12>\n<CLEAR>闘犬場の胴元…じゃなくて\n社長の家の　一番、奥にいるわ！\nおいしいアルバイトよ　必ず来てね！<$12>\n<CLEAR>あっ、それから　ここの家の子供…\n子供といっても　大人なんだけどさ\nろくなモンじゃないから　注意してね<$12><$00>
+<CLEAR>You two sounded perfect for the job. If you're in, meet\n
+me in Dogyf Heights.<$12>\n
+<CLEAR>My office is in the home of the late DGF Dojo proprietor. Real\n
+fancy!<$12>\n
+<CLEAR>Oh, but just a heads up. His three adult children? All\n
+snooty pains in the ass.<$12><$00>
 
 
-//「私、ソフィ
-＿Sophia
-<$00>
+//<CLEAR>いつも　お世話になっております\n私、ネオケニア銀行Ｇファクトリー支店\nヤマダという者です<$12>\n<CLEAR>ただいま　ご預金のお客様に\nもれなく粗品を\n進呈中でございます<$12>\n<CLEAR>ご預金の予定が　ございましたら\nぜひとも　Ｇファクトリー支店\nヤマダまで　お申しつけください<$12>\n<CLEAR>バトルパーク、Ｇファクトリー間は\nバードラインで　<$06>80<$04>￥∥\nぜひ一度　ご来店くださいませ<$12><$00>
+<CLEAR>Hello, faithful patron! This is Yamada, from Neo Kenya Bank's\n
+G Factory outlet.<$12>\n
+<CLEAR>I'm calling to tell you we're offering great rewards to all\n
+who make a deposit!<$12>\n
+<CLEAR>If you'd like to make a deposit and see, come speak to me,\n
+Yamada, in G Factory.<$12>\n
+<CLEAR>From Battle Park, the birdline to G Factory is\n
+only＿<$06>80<$04>￥! Hope to see you soon!<$12><$00>
 
 
+//<CLEAR>あんたを男と見込んで　ぜひとも\n力を貸して欲しいことが　ありましてな\nコシカタまで　来てくださらんか<$12>\n<CLEAR>申し遅れました…\n私は　コシカタの町長パトルカの\n父で　ポリスカといいます<$12>\n<CLEAR>どうか　よろしくお願いします\nゴホッ　ゴホッ…<$12><$00>
+<CLEAR>I've heard of your work, and could use your help. Can we\n
+meet in Koshikata, please?<$12>\n
+<CLEAR>Cough! Forgot to introduce myself. I'm Poliska, father of the\n
+Koshikata elder, Patrolka.<$12>\n
+<CLEAR>Do come if you can. Cough! Cough!<$12><$00>
 
 
+//<CLEAR>私、ソフィア！\nエターナの　グリーン製薬の\n元の社長さんの屋敷って、わかるよね？<$12>\n<CLEAR>今は　私とおじいちゃんと\nパパとママの４人で　住んでいるの<$12>\n<CLEAR>おじいちゃんのことで　お兄ちゃんに\nお願いがあるの！\n中庭で待ってるから　きっと来てね<$12>\n<CLEAR>きっとだよ！<$12><$00>
+<CLEAR>I'm Sophia! Do you know the old Green mansion? It's this\n
+huge building in Eterna!<$12>\n
+<CLEAR>I live there with my grandpa, dad and mom now. Just the\n
+four of us!<$12>\n
+<CLEAR>Mister, I have a request regarding my grandpa. Meet me in\n
+the courtyard, okay?<$12>\n
+<CLEAR>It's really important!<$12><$00>
 
 
-//「もしもし＿
-＿Nek
-<$00>
+//<CLEAR>もしもし　兄ちゃん…\n俺だよ　オ・レ！<$00>
+<CLEAR>Why hello, Brother! It's me.\n
+Good ol' St. Nek!<$00>
 
 
+//<CLEAR>兄ちゃんたちに　友だちを… \nいや、俺の大切な人を\n紹介したいんだ<$00>
+<CLEAR>I want you to meet my friend-\n
+Scratch that, my "special someone". <$00>
 
 
+//<CLEAR>ゲームをしよう！<$00>
+<CLEAR>So, let the game begin!<$00>
 
 
-//「もしもし＿
-＿Nek
-<$00>
+//<CLEAR>賞品は　俺の熱いキス１年分！<$00>
+<CLEAR>The prize is a year's dosage of kisses for me!<$00>
 
 
+//<CLEAR>…なんて　いらねぇよな<$00>
+<CLEAR>...not from you, though.<$00>
 
 
+//<CLEAR>場所はミナゴの教会\nこの世で　たった二人っきりの\n兄弟の誘いだ、来てくれるよね<$00>
+<CLEAR>At last, I get to show off to my only brother in the whole,\n
+wide world!<$00>
 
 
-//「隊長だ！＿
-＿Captain
-<$00>
+//<CLEAR>もしもし　兄ちゃん…\n俺だよ　オ・レ！<$00>
+<CLEAR>Why hello, Brother! It's me.\n
+Good ol' St. Nek!<$00>
 
 
+//<CLEAR>サチコのウエディングドレス、\n俺が見立ててやったんだゼ\nそれが　スゲーかわいいんだ<$00>
+<CLEAR>You've gotta see Sachiko's wedding dress! Finding "the one"\n
+took forever, but it was worth it!<$00>
 
 
+//<CLEAR>そしたらサチコの奴、\n俺がドレスを　買うたびに\nこう　言うのさ<$00>
+<CLEAR>And Sachiko, man! When we went to buy it, she said the\n
+darndest things.<$00>
 
 
-//「俺、リナバ
-＿Mario
-<$00>
-
-
-
-
-
-
-//「ケン、母さ
-＿Meme
-<$00>
-
-
-
-
-
-
-//「ボク、ロー
-Kevin
-<$00>
-
-
-
-
-
-
-<$1D><$01><$1E>
-//34
-34
-<$06>
-//.
-.
-<$0E><$04><$1D>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//あの…\n私、スペクターといいます\nハーディアの　ホテルにいます…
-Uhm... You can call me Spectre.\n
-I'm in the Hardia Hotel.
-<$12>
-\n
-<CLEAR>
-//あの…\n折り入って　お頼みしたいことが…
-Uhm... I've got a favor to ask you.
-<$12>
-\n
-<CLEAR>
-//何かのついでで　結構ですから\nご足労願えますか…\n一番、奥の部屋です
-If you can help, it'd be swell if you came up\n
-to see me.
-<$12>
-\n
-<CLEAR>
-//あの…\nきっと　来てください\nお待ちしていますから…
-Uhm... Do come, please. I'll be waiting.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//もしもし…　グリーン製薬で\n開発部長を　やっていた\nパンハイムという者だがね
-Greetings. This is Green Pharmaceuticals'\n
-Head of Development, Panheim.
-<$12>
-\n
-<CLEAR>
-//君たちの評判を　伝え聞いてね…\nワラにもすがる思いで　電話したんだよ\nメモの用意は　いいかね？
-Your reputation precedes you, and I need your\n
-help. I hope you're taking notes.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//Ｗ
-Some years ago, an expedition was held in W
-<$06>
-//-17
--17
-<$04>
-//エリアに　採石場がある\n数年前、マーブルポリスという遺跡が\n発見されて　話題になった場所だ
-. A temple, Marblopolis, was hotly\n
-discovered.
-<$12>
-\n
-<CLEAR>
-//最近、その遺跡の神殿の庭園部に\n
-Recently, that temple's garden was overrun by\n
-wild＿
-//<$1B>
-//ニワトリが　突然、大量発生してね\nそいつの肉が　２つほど必要なのだ
-chickens, and I need 2 or so's worth of meat.
-<$12>
-\n
-<CLEAR>
-//庭の、２羽の、
-Temple garden,\n
-2 pieces of＿
-//<$1B>
-//ニワトリの肉だ…
-chicken meat.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//………………………
-............
-<$12>
-\n
-<CLEAR>
-//庭の、２羽の
-Temple garden, 2 pieces of＿
-//<$1B>
-//ニワトリの肉だよ
-chicken meat.
-<$12>
-\n
-<CLEAR>
-//いや別に　肉は３つでも　いいのだが\n君たちが　覚えやすいように　私なりに\n工夫して言ったつもりだったんだ…
-I won't say no to 3, but I figure 2 is easy\n
-enough to remember.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//………………………
-..................
-<$12>
-\n
-<CLEAR>
-//実は　妻が病気でね…\n
-If you must know, my wife is ill. With＿
-//<$1B>
-//ニワトリを　材料にすれば　イイ薬が\n作れそうな　気がするんだ…
-chicken, I hope to concoct a viable cure for\n
-her.
-<$12>
-\n
-<CLEAR>
-//ホスピコの　わしの研究所まで\n至急、
-My research lab is in Hospico. Bring the＿
-//<$1B>
-//ニワトリの肉を２つ　よろしくね\nエターナじゃないよ…　いいね
-chicken there, not to Eterna. Am I clear?
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//あたしゃ、バトルパークで養殖牧場を\n経営しとる　ブロンコの妻で\nルイーズというだがね
-Hello? I'm Louise, My husband, Bronco, is the\n
-head of BB Ranch, Battle Park.
-<$12>
-\n
-<CLEAR>
-//あんた、動物のことに　えらい\n詳しいそうだがね！　その腕を見込んで\nひとつ、頼まれてくれんか
-I've heard of your work, and wish to see that\n
-skill for myself, if you're free.
-<$12>
-\n
-<CLEAR>
-//病床の亭主の　最後の望みを\nかなえてやりたい　けなげな妻の願い、\nまさか　断わったりできんよねぇ！
-My husband is on his deathbed. As his wife, I\n
-can't let his dying wish pass him by.
-<$12>
-\n
-<CLEAR>
-//よろしく頼んますよ！\n待っとるでね
-I look forward to hearing from you!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//こんにちは！　私、ナターシャ\nまだ　駆け出しなんだけどさ\nこれでも一応、一級弁護士さんよ
-Hello! I'm Natasha, a newbie lawyer who still\n
-knows her stuff. Pleased to meet you!
-<$12>
-\n
-<CLEAR>
-//ちょいと面倒なことに　なっていてね\nあなたたちに　手伝って欲しいことが\nあるのよ！　ギャラははずむわよ！
-I've hit a snag on the job and could use your\n
-help. I'll pay you, obviously!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//あなたたちに　ピッタンコの仕事だと\n思うんだ！　興味があったら\nドギファまで　出向いてくれる？
-You two sounded perfect for the job. If\n
-you're in, meet me in Dogyf Heights.
-<$12>
-\n
-<CLEAR>
-//闘犬場の胴元…じゃなくて\n社長の家の　一番、奥にいるわ！\nおいしいアルバイトよ　必ず来てね！
-My office is in the home of the late DGF Dojo\n
-proprietor. Real fancy!
-<$12>
-\n
-<CLEAR>
-//あっ、それから　ここの家の子供…\n子供といっても　大人なんだけどさ\nろくなモンじゃないから　注意してね
-Oh, but just a heads up. His three adult\n
-children? All snooty pains in the ass.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//いつも　お世話になっております\n私、ネオケニア銀行Ｇファクトリー支店\nヤマダという者です
-Hello, faithful patron! This is Yamada, from\n
-Neo Kenya Bank's G Factory outlet.
-<$12>
-\n
-<CLEAR>
-//ただいま　ご預金のお客様に\nもれなく粗品を\n進呈中でございます
-I'm calling to tell you we're offering great\n
-rewards to all who make a deposit!
-<$12>
-\n
-<CLEAR>
-//ご預金の予定が　ございましたら\nぜひとも　Ｇファクトリー支店\nヤマダまで　お申しつけください
-If you'd like to make a deposit and see, come\n
-speak to me, Yamada, in G Factory.
-<$12>
-\n
-<CLEAR>
-//バトルパーク、Ｇファクトリー間は\nバードラインで　
-From Battle Park, the birdline to G Factory\n
-is only＿
-<$06>
-//80
-80
-<$04>
-//￥∥\nぜひ一度　ご来店くださいませ
-￥! Hope to see you soon!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//あんたを男と見込んで　ぜひとも\n力を貸して欲しいことが　ありましてな\nコシカタまで　来てくださらんか
-I've heard of your work, and could use your\n
-help. Can we meet in Koshikata, please?
-<$12>
-\n
-<CLEAR>
-//申し遅れました…\n私は　コシカタの町長パトルカの\n父で　ポリスカといいます
-Cough! Forgot to introduce myself. I'm\n
-Poliska, father of the Koshikata elder,\n
-Patrolka.
-<$12>
-\n
-<CLEAR>
-//どうか　よろしくお願いします\nゴホッ　ゴホッ…
-Do come if you can. Cough! Cough!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//私、ソフィア！\nエターナの　グリーン製薬の\n元の社長さんの屋敷って、わかるよね？
-I'm Sophia! Do you know the old Green\n
-mansion? It's this huge building in Eterna!
-<$12>
-\n
-<CLEAR>
-//今は　私とおじいちゃんと\nパパとママの４人で　住んでいるの
-I live there with my grandpa, dad and mom\n
-now. Just the four of us!
-<$12>
-\n
-<CLEAR>
-//おじいちゃんのことで　お兄ちゃんに\nお願いがあるの！\n中庭で待ってるから　きっと来てね
-Mister, I have a request regarding my\n
-grandpa. Meet me in the courtyard, okay?
-<$12>
-\n
-<CLEAR>
-//きっとだよ！
-It's really important!
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//もしもし　兄ちゃん…\n俺だよ　オ・レ！
-Why hello, Brother! It's me.\n
-Good ol' St. Nek!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//兄ちゃんたちに　友だちを… \nいや、俺の大切な人を\n紹介したいんだ
-I want you to meet my friend-\n
-Scratch that, my "special someone".
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//ゲームをしよう！
-So, let the game begin!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//賞品は　俺の熱いキス１年分！
-The prize is a year's dosage of kisses for\n
-me!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//…なんて　いらねぇよな
-...not from you, though.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//場所はミナゴの教会\nこの世で　たった二人っきりの\n兄弟の誘いだ、来てくれるよね
-At last, I get to show off to my only brother\n
-in the whole, wide world!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//もしもし　兄ちゃん…\n俺だよ　オ・レ！
-Why hello, Brother! It's me.\n
-Good ol' St. Nek!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//サチコのウエディングドレス、\n俺が見立ててやったんだゼ\nそれが　スゲーかわいいんだ
-You've gotta see Sachiko's wedding dress!\n
-Finding "the one" took forever, but it was\n
-worth it!
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//そしたらサチコの奴、\n俺がドレスを　買うたびに\nこう　言うのさ
-And Sachiko, man! When we went to buy it, she\n
-said the darndest things.
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//「似合う？　ネク」\n「ありがとう　ネク」\n「愛しているわ、ネク」
-"How do I look, Nek?"\n
+//<CLEAR>「似合う？　ネク」\n「ありがとう　ネク」\n「愛しているわ、ネク」<$00>
+<CLEAR>"How do I look, Nek?"\n
 "Thank you, Nek!"\n
-"I love you, Nek!"
-<$00>
+"I love you, Nek!"<$00>
 
 
+//<CLEAR>ネク、ネク、ネク、ネク、ネクーッ！<$00>
+<CLEAR>"Nek, Nek, Nek, Nek, Nek!"<$00>
 
 
+//<CLEAR>あぁ…　俺って\n何て　幸せ者なんだろ！<$00>
+<CLEAR>Seriously, I'm the luckiest man alive!<$00>
 
 
-<CLEAR>
-//ネク、ネク、ネク、ネク、ネクーッ！
-"Nek, Nek, Nek, Nek, Nek!"
-<$00>
+//<CLEAR>隊長だ！<$12>\n<CLEAR>おまえが　この電話をどこで\n聞いているのか　知らんが\n今すぐ　ホスピコへ行け∥<$12>\n<CLEAR>サチコさんがな…<$12>\n<CLEAR>サチコさんが…<$12>\n<CLEAR>とにかく　ホスピコへ急行しろ∥\n個人病室に　ネクがいるはずだ\nわかったな∥　それと…<$12>\n<CLEAR>何があっても　気を確かに\n持つんだぞ∥　今、言えるのは\nそれだけだ…　以上だ<$12><$00>
+<CLEAR>Captain MacDonald, speaking!<$12>\n
+<CLEAR>Wherever you are, once you get this call, get your ass to\n
+Hospico!<$12>\n
+<CLEAR>It's Sachiko.<$12>\n
+<CLEAR>She's...!<$12>\n
+<CLEAR>Just hurry to Hospico, got it? Nek should have a room. And\n
+one more thing...<$12>\n
+<CLEAR>No matter what, keep your head in the game. That's all I've\n
+got to say. Over!<$12><$00>
 
 
+//俺、リナバレーの労務管理局で\n働いてる　マリオってんだ<$12>\n<CLEAR>こんなこと頼める義理は　ないんだけど\n俺のおふくろを　捜して欲しいんだよ<$12>\n<CLEAR>ガキの頃に　おふくろは死んだって\n聞かされてたんだけど　おやじのヤツ、\n死ぬ間際に　ゲロしやがってさ…<$12>\n<CLEAR>生きてるとわかると　無性に会いたくて\n何も手につかなくてさ…\nいい大人が　バカみたいだよなぁ<$12>\n<CLEAR>もしも　捜してくれる気があったら\n悪いけど　リナバレーまで来てくれよ<$12><$00>
+This is Mario. I work in Labor Management out in Spurr\n
+Valley.<$12>\n
+<CLEAR>I hate to bother you with this, but I need help finding\n
+my mother.<$12>\n
+<CLEAR>Growing up, I was told she died. Then, on my father's\n
+deathbed, he told me otherwise.<$12>\n
+<CLEAR>I want to meet and get to know her, but I don't know\n
+where to start. I'm mortified.<$12>\n
+<CLEAR>If you wouldn't mind looking, come meet me in Spurr Valley.<$12><$00>
 
 
+//ケン、母さんだよ<$12>\n<CLEAR>おまえが　この電話を聞いてる頃には\n母さんの乗った　脱出シャトルは\nこの太陽系には　いないはずだ<$12>\n<CLEAR>ケン、リンダと仲良くやるんだよ<$12>\n<CLEAR>それと…<$12>\n<CLEAR>おまえが　いてくれて\n本当に楽しかったよ∥<$12>\n<CLEAR>……ありがとうね<$12><$00>
+Ken, this is your mother!<$12>\n
+<CLEAR>By the time you hear this, the shuttle I'm on will be in\n
+another solar system.<$12>\n
+<CLEAR>Ken, get along with Linda.<$12>\n
+<CLEAR>And...<$12>\n
+<CLEAR>...and know that I truly enjoyed the time I had with you!<$12>\n
+<CLEAR>Thank you.<$12><$00>
 
 
-<CLEAR>
-//あぁ…　俺って\n何て　幸せ者なんだろ！
-Seriously, I'm the luckiest man alive!
-<$00>
+//<CLEAR>隊長だ∥<$12>\n<CLEAR>ミームのことは俺に任せてくれ∥\nじゃあな、達者で暮らせよ∥\n…以上だ<$12><$00>
+<CLEAR>Captain MacDonald, speaking!<$12>\n
+<CLEAR>Guess who left with Meme! We'll catch you on the flip-side,\n
+okay? Until then...Over!<$12><$00>
 
 
-
-
-
-
-<CLEAR>
-//隊長だ！
-Captain MacDonald, speaking!
-<$12>
-\n
-<CLEAR>
-//おまえが　この電話をどこで\n聞いているのか　知らんが\n今すぐ　ホスピコへ行け∥
-Wherever you are, once you get this call, get\n
-your ass to Hospico!
-<$12>
-\n
-<CLEAR>
-//サチコさんがな…
-It's Sachiko.
-<$12>
-\n
-<CLEAR>
-//サチコさんが…
-She's...!
-<$12>
-\n
-<CLEAR>
-//とにかく　ホスピコへ急行しろ∥\n個人病室に　ネクがいるはずだ\nわかったな∥　それと…
-Just hurry to Hospico, got it? Nek should\n
-have a room. And one more thing...
-<$12>
-\n
-<CLEAR>
-//何があっても　気を確かに\n持つんだぞ∥　今、言えるのは\nそれだけだ…　以上だ
-No matter what, keep your head in the game.\n
-That's all I've got to say. Over!
-<$12>
-<$00>
-
-
-
-
-
-
-//俺、リナバレーの労務管理局で\n働いてる　マリオってんだ
-This is Mario. I work in Labor Management out\n
-in Spurr Valley.
-<$12>
-\n
-<CLEAR>
-//こんなこと頼める義理は　ないんだけど\n俺のおふくろを　捜して欲しいんだよ
-I hate to bother you with this, but I need\n
-help finding my mother.
-<$12>
-\n
-<CLEAR>
-//ガキの頃に　おふくろは死んだって\n聞かされてたんだけど　おやじのヤツ、\n死ぬ間際に　ゲロしやがってさ…
-Growing up, I was told she died. Then, on my\n
-father's deathbed, he told me otherwise.
-<$12>
-\n
-<CLEAR>
-//生きてるとわかると　無性に会いたくて\n何も手につかなくてさ…\nいい大人が　バカみたいだよなぁ
-I want to meet and get to know her, but I\n
-don't know where to start. I'm mortified.
-<$12>
-\n
-<CLEAR>
-//もしも　捜してくれる気があったら\n悪いけど　リナバレーまで来てくれよ
-If you wouldn't mind looking, come meet me in\n
-Spurr Valley.
-<$12>
-<$00>
-
-
-
-
-
-
-//ケン、母さんだよ
-Ken, this is your mother!
-<$12>
-\n
-<CLEAR>
-//おまえが　この電話を聞いてる頃には\n母さんの乗った　脱出シャトルは\nこの太陽系には　いないはずだ
-By the time you hear this, the shuttle I'm on\n
-will be in another solar system.
-<$12>
-\n
-<CLEAR>
-//ケン、リンダと仲良くやるんだよ
-Ken, get along with Linda.
-<$12>
-\n
-<CLEAR>
-//それと…
-And...
-<$12>
-\n
-<CLEAR>
-//おまえが　いてくれて\n本当に楽しかったよ∥
-...and know that I truly enjoyed the time I\n
-had with you!
-<$12>
-\n
-<CLEAR>
-//……ありがとうね
-Thank you.
-<$12>
-<$00>
-
-
-
-
-
-
-<CLEAR>
-//隊長だ∥
-Captain MacDonald, speaking!
-<$12>
-\n
-<CLEAR>
-//ミームのことは俺に任せてくれ∥\nじゃあな、達者で暮らせよ∥\n…以上だ
-Guess who left with Meme! We'll catch you on\n
-the flip-side, okay? Until then...Over!
-<$12>
-<$00>
-
-
-
-
-
-
-//ボク、ローズガーデンに住んでる\n「ケビン」っていいます
+//ボク、ローズガーデンに住んでる\n「ケビン」っていいます<$12>\n<CLEAR>あの…<$12>\n<CLEAR>ボクのペットの\nポロポロちゃんの　様子が\nなんだか　おかしいんだ<$12>\n<CLEAR>助けてよ、お兄ちゃん!<$12><$00>
 Hi, my name's Kevin.\n
-I live in Rose Garden.
-<$12>
-\n
-<CLEAR>
-//あの…
-Uhm...
-<$12>
-\n
-<CLEAR>
-//ボクのペットの\nポロポロちゃんの　様子が\nなんだか　おかしいんだ
-I have a pet named Nightshade, and she\n
-doesn't look so good.
-<$12>
-\n
-<CLEAR>
-//助けてよ、お兄ちゃん!
-Please help her!
-<$12>
-<$00>
-
-
-
-
+I live in Rose Garden.<$12>\n
+<CLEAR>Uhm...<$12>\n
+<CLEAR>I have a pet named Nightshade, and she doesn't look so\n
+good.<$12>\n
+<CLEAR>Please help her!<$12><$00>
 
 
 #WRITE(PTR, $0032)
-<CLEAR>
-//信じるもよし…　信じぬもよし……\nあなたと　人と　星の行く末の断片…\nヘルガの予言を　聞くがよかろうぞ
-Do you seek fate, love and the world? Call\n
-Miss Helga and believe.
-<$12>
-<$00>
+//<CLEAR>信じるもよし…　信じぬもよし……\nあなたと　人と　星の行く末の断片…\nヘルガの予言を　聞くがよかろうぞ<$12><$00>
+<CLEAR>Do you seek fate, love and the world? Call Miss Helga and\n
+believe.<$12><$00>
 
 
+//<CLEAR>「<$1D>は\n<$1D>を\n<$1D>であろうぞ」<$12><$00>
+<CLEAR>"<$1D>...\n
+<$1D>?\n
+Yes!＿<$1D>!"<$12><$00>
 
 
+//もうひとりの父<$00>
+Another father<$00>
 
 
-<CLEAR>
-//「
-"
-<$1D>
-//は\n
-...\n
-<$1D>
-//を\n
-?\n
-Yes!＿
-<$1D>
-//であろうぞ」
-!"
-<$12>
-<$00>
+//鏡の中のあなた<$00>
+You in the mirror<$00>
 
 
+//４体の人形<$00>
+Four puppets<$00>
 
 
+//幸せな子供<$00>
+A happy child<$00>
 
 
-//もうひとりの父
-Another father
-<$00>
+//奪われし片翼<$00>
+Stolen wings<$00>
 
 
+//若き老婆<$00>
+A timeless woman<$00>
 
 
+//碧の髪の女<$00>
+A green-haired girl<$00>
 
 
-//鏡の中のあなた
-You in the mirror
-<$00>
+//体の中の野獣<$00>
+The beast within<$00>
 
 
+//失くした未来<$00>
+A lost future<$00>
 
 
+//無知な女神たち<$00>
+Naiive goddesses<$00>
 
 
-//４体の人形
-Four puppets
-<$00>
+//陽気なサンタ<$00>
+A cheerful Santa<$00>
 
 
+//呪われた過去<$00>
+A cursed past<$00>
 
 
+//１から３の悲劇<$00>
+Three tragedies in one<$00>
 
 
-//幸せな子供
-A happy child
-<$00>
+//罪のない子犬<$00>
+An innocent puppy<$00>
 
 
+//大いなる遺産<$00>
+Great expectations<$00>
 
 
+//もうひとつの体<$00>
+Someone else's body<$00>
 
 
-//奪われし片翼
-Stolen wings
-<$00>
+//たくさんの卵<$00>
+A sea of eggs<$00>
 
 
+//古代の乗物<$00>
+The ancient vessel<$00>
 
 
+//欠けた片ワレ<$00>
+Missing pieces<$00>
 
 
-//若き老婆
-A timeless woman
-<$00>
+//すべての肉<$00>
+All forms of flesh<$00>
 
 
+//赤、青、黒、金、銀<$00>
+Red, blue, black, gold, silver<$00>
 
 
+//悪魔の爪跡<$00>
+A demon in scars<$00>
 
 
-//碧の髪の女
-A green-haired girl
-<$00>
+//母なる者<$00>
+A mother-to-be<$00>
 
 
+//死せる町<$00>
+Village of the dead<$00>
 
 
+//悲しい老人<$00>
+A sad, old man<$00>
 
 
-//体の中の野獣
-The beast within
-<$00>
+//湖の家の住人<$00>
+He in the lakehouse<$00>
 
 
+//あなたの恋人<$00>
+Your special someone<$00>
 
 
+//心の中の野獣<$00>
+Demons in the heart<$00>
 
 
-//失くした未来
-A lost future
-<$00>
+//閉じられた穴<$00>
+Fill the empty space<$00>
 
 
+//小さなやすらぎ<$00>
+Some piece of mind<$00>
 
 
+//大地の最果て<$00>
+The ends of the earth<$00>
 
 
-//無知な女神たち
-Naiive goddesses
-<$00>
+//若き挑戦者<$00>
+A young challenger<$00>
 
 
+//エデンにいざなう<$00>
+Eden beckons<$00>
 
 
+//伴侶として迎える<$00>
+A warm welcome<$00>
 
 
-//陽気なサンタ
-A cheerful Santa
-<$00>
+//２１で取り戻す<$00>
+Catch 21<$00>
 
 
+//殺そうとして生かす<$00>
+Live and let die<$00>
 
 
+//二度、教会へ呼ぶ<$00>
+A second call to church<$00>
 
 
-//呪われた過去
-A cursed past
-<$00>
+//忘れてしまう<$00>
+Forget it all<$00>
 
 
+//地獄から救い出す<$00>
+Saveth thee from hell<$00>
 
 
+//自らのモノとする<$00>
+Make it yours<$00>
 
 
-//１から３の悲劇
-Three tragedies in one
-<$00>
+//飼いならす<$00>
+Tame it<$00>
 
 
+//代償に選ぶ<$00>
+Name your price<$00>
 
 
+//長い散歩に連れ出す<$00>
+Give it your all<$00>
 
 
-//罪のない子犬
-An innocent puppy
-<$00>
+//抱き寄せる<$00>
+Embrace it<$00>
 
 
+//笑い者にする<$00>
+Smile on<$00>
 
 
+//食べようとする<$00>
+Eat your fill<$00>
 
 
-//大いなる遺産
-Great expectations
-<$00>
+//目覚めさせてしまう<$00>
+Open your eyes<$00>
 
 
+//知らないと言う<$00>
+Plead the fifth<$00>
 
 
+//主人とする<$00>
+Be the very best<$00>
 
 
-//もうひとつの体
-Someone else's body
-<$00>
+//本当の名で呼ぶ<$00>
+Say her real name<$00>
 
 
+//いつか、出産する<$00>
+Someday, a due date<$00>
 
 
+//パーティへ招待する<$00>
+A party invitation<$00>
 
 
-//たくさんの卵
-A sea of eggs
-<$00>
+//後戻りさせる<$00>
+Doubling back<$00>
 
 
+//永遠に捜し続ける<$00>
+Forever searching<$00>
 
 
+//全員に分配する<$00>
+Sharing is caring<$00>
 
 
-//古代の乗物
-The ancient vessel
-<$00>
+//いつか許す<$00>
+Someday, forgiveness<$00>
 
 
+//指折り数える<$00>
+Counting chickens<$00>
 
 
+//直そうとする<$00>
+It can be healed<$00>
 
 
-//欠けた片ワレ
-Missing pieces
-<$00>
+//沈黙させる<$00>
+Stay silent<$00>
 
 
+//大切にする<$00>
+Cherish it<$00>
 
 
+//再生させる<$00>
+A revival<$00>
 
 
-//すべての肉
-All forms of flesh
-<$00>
+//戸惑わせる<$00>
+Bewildering<$00>
 
 
+//養子にする<$00>
+An adoption<$00>
 
 
-
-
-//赤、青、黒、金、銀
-Red, blue, black, gold, silver
-<$00>
-
-
-
-
-
-
-//悪魔の爪跡
-A demon in scars
-<$00>
-
-
-
-
-
-
-//母なる者
-A mother-to-be
-<$00>
-
-
-
-
-
-
-//死せる町
-Village of the dead
-<$00>
-
-
-
-
-
-
-//悲しい老人
-A sad, old man
-<$00>
-
-
-
-
-
-
-//湖の家の住人
-He in the lakehouse
-<$00>
-
-
-
-
-
-
-//あなたの恋人
-Your special someone
-<$00>
-
-
-
-
-
-
-//心の中の野獣
-Demons in the heart
-<$00>
-
-
-
-
-
-
-//閉じられた穴
-Fill the empty space
-<$00>
-
-
-
-
-
-
-//小さなやすらぎ
-Some piece of mind
-<$00>
-
-
-
-
-
-
-//大地の最果て
-The ends of the earth
-<$00>
-
-
-
-
-
-
-//若き挑戦者
-A young challenger
-<$00>
-
-
-
-
-
-
-//エデンにいざなう
-Eden beckons
-<$00>
-
-
-
-
-
-
-//伴侶として迎える
-A warm welcome
-<$00>
-
-
-
-
-
-
-//２１で取り戻す
-Catch 21
-<$00>
-
-
-
-
-
-
-//殺そうとして生かす
-Live and let die
-<$00>
-
-
-
-
-
-
-//二度、教会へ呼ぶ
-A second call to church
-<$00>
-
-
-
-
-
-
-//忘れてしまう
-Forget it all
-<$00>
-
-
-
-
-
-
-//地獄から救い出す
-Saveth thee from hell
-<$00>
-
-
-
-
-
-
-//自らのモノとする
-Make it yours
-<$00>
-
-
-
-
-
-
-//飼いならす
-Tame it
-<$00>
-
-
-
-
-
-
-//代償に選ぶ
-Name your price
-<$00>
-
-
-
-
-
-
-//長い散歩に連れ出す
-Give it your all
-<$00>
-
-
-
-
-
-
-//抱き寄せる
-Embrace it
-<$00>
-
-
-
-
-
-
-//笑い者にする
-Smile on
-<$00>
-
-
-
-
-
-
-//食べようとする
-Eat your fill
-<$00>
-
-
-
-
-
-
-//目覚めさせてしまう
-Open your eyes
-<$00>
-
-
-
-
-
-
-//知らないと言う
-Plead the fifth
-<$00>
-
-
-
-
-
-
-//主人とする
-Be the very best
-<$00>
-
-
-
-
-
-
-//本当の名で呼ぶ
-Say her real name
-<$00>
-
-
-
-
-
-
-//いつか、出産する
-Someday, a due date
-<$00>
-
-
-
-
-
-
-//パーティへ招待する
-A party invitation
-<$00>
-
-
-
-
-
-
-//後戻りさせる
-Doubling back
-<$00>
-
-
-
-
-
-
-//永遠に捜し続ける
-Forever searching
-<$00>
-
-
-
-
-
-
-//全員に分配する
-Sharing is caring
-<$00>
-
-
-
-
-
-
-//いつか許す
-Someday, forgiveness
-<$00>
-
-
-
-
-
-
-//指折り数える
-Counting chickens
-<$00>
-
-
-
-
-
-
-//直そうとする
-It can be healed
-<$00>
-
-
-
-
-
-
-//沈黙させる
-Stay silent
-<$00>
-
-
-
-
-
-
-//大切にする
-Cherish it
-<$00>
-
-
-
-
-
-
-//再生させる
-A revival
-<$00>
-
-
-
-
-
-
-//戸惑わせる
-Bewildering
-<$00>
-
-
-
-
-
-
-//養子にする
-An adoption
-<$00>
-
-
-
-
-
-
-//神に会わせる
-Reunion with God
-<$00>
-
-
-
-
+//神に会わせる<$00>
+Reunion with God<$00>
 
 
 #WRITE(PTR, $0034)
-//『プテラノ鳥は　たいへん危険です\n＿オリに手や足を　入れないで下さい
-"DANGER! DO NOT PUT YOUR HAND IN THE\n
-PTERANOBIRD CAGE!"
-<$12>
-\n
-<CLEAR>
-//＿万一、事故が起きた場合\n＿当社は　責任を負いかねます』\n
-"WE ARE NOT RESPONSIBLE FOR ANY INJURIES."\n
-<$02>
-//168バードライン
-168＿-BIRDLINE
-<$12>
-<$00>
-
-
-
-
+//『プテラノ鳥は　たいへん危険です\n＿オリに手や足を　入れないで下さい<$12>\n<CLEAR>＿万一、事故が起きた場合\n＿当社は　責任を負いかねます』\n<$02>168バードライン<$12><$00>
+"DANGER! DO NOT PUT YOUR HAND IN THE PTERANOBIRD CAGE!"<$12>\n
+<CLEAR>"WE ARE NOT RESPONSIBLE FOR ANY INJURIES."\n
+<$02>168＿-BIRDLINE<$12><$00>
 
 
 #WRITE(PTR, $0036)
-//－Ｎ・Ｋ・ＮＥＷＳ－　［号外］\n大抜てき∥　最年少の\nレンジャー隊、隊長誕生∥
+//－Ｎ・Ｋ・ＮＥＷＳ－　［号外］\n大抜てき∥　最年少の\nレンジャー隊、隊長誕生∥<$12>\n<CLEAR>ジーン・チャレンジャー氏（２７）が\nレンジャー隊、隊長に　就任∥<$12>\n<CLEAR>２０年がかりの　ネオケニア\n脱出プロジェクトに　対応するための\n若返り人事との見方が　強い<$12>\n<CLEAR>なお、副隊長には\nベン・マクドナルド氏（２９）が\n有力視されている<$12><$00>
 －NK NEWS－\n
-BREAKING! YOUNGEST RANGER CAPTAIN IN NEO\n
-KENYAN HISTORY IS BORN
-<$12>
-\n
-<CLEAR>
-//ジーン・チャレンジャー氏（２７）が\nレンジャー隊、隊長に　就任∥
-Gene Challenger(27), was recently appointed\n
-captain of the Neo Kenyan Ranger Corps!
-<$12>
-\n
-<CLEAR>
-//２０年がかりの　ネオケニア\n脱出プロジェクトに　対応するための\n若返り人事との見方が　強い
-Captain Challenger has his sights set on\n
-preparing the youth for the 20 year migration\n
-project.
-<$12>
-\n
-<CLEAR>
-//なお、副隊長には\nベン・マクドナルド氏（２９）が\n有力視されている
-He credit deputy Ben MacDonald(29) as his\n
-rock throughout his career.
-<$12>
-<$00>
+BREAKING! YOUNGEST RANGER CAPTAIN IN NEO KENYAN\n
+HISTORY IS BORN<$12>\n
+<CLEAR>Gene Challenger(27), was recently appointed captain of the\n
+Neo Kenyan Ranger Corps! <$12>\n
+<CLEAR>Captain Challenger has his sights set on preparing the youth\n
+for the 20 year migration project.<$12>\n
+<CLEAR>He credit deputy Ben MacDonald(29) as his rock throughout\n
+his career.<$12><$00>
 
 
-
-
-
-
-//－Ｎ・Ｋ・ＮＥＷＳ－　［号外］\nケン・チャレンジャー君（当時１６）\n箱船乗員志願、その直後の悲劇∥
+//－Ｎ・Ｋ・ＮＥＷＳ－　［号外］\nケン・チャレンジャー君（当時１６）\n箱船乗員志願、その直後の悲劇∥<$12>\n<CLEAR>レンジャー隊に所属中の　ケン・\nチャレンジャー君は　箱船乗員に\n志願した直後、階段付近で大転倒∥<$12>\n<CLEAR>一命は取り止めたものの　脊髄損傷、\n頭蓋骨陥没等　全身に重症を負った∥\n全治には　最低半年余り、かかる見込み<$12><$00>
 －NK NEWS－\n
-BREAKING! TRAGEDY BEFALLS ASTRO ARK PILOT\n
-MOMENTS AFTER SELECTION
-<$12>
-\n
-<CLEAR>
-//レンジャー隊に所属中の　ケン・\nチャレンジャー君は　箱船乗員に\n志願した直後、階段付近で大転倒∥
-Freshman ranger and male pilot, Ken\n
-Challenger(16) took a major fall down the\n
-stairs!
-<$12>
-\n
-<CLEAR>
-//一命は取り止めたものの　脊髄損傷、\n頭蓋骨陥没等　全身に重症を負った∥\n全治には　最低半年余り、かかる見込み
-He now faces dehabilitating injuries such as\n
-spinal fractures and skull depressions.
-<$12>
-\n
-<CLEAR>
-Experts expect a full recovery to take half a\n
-year.
-<$12>
-<$00>
+BREAKING! TRAGEDY BEFALLS ASTRO ARK PILOT MOMENTS\n
+AFTER SELECTION<$12>\n
+<CLEAR>Freshman ranger and male pilot, Ken Challenger(16) took a\n
+major fall down the stairs!<$12>\n
+<CLEAR>He now faces dehabilitating injuries such as spinal\n
+fractures and skull depressions.<$12>\n
+<CLEAR>Experts expect a full recovery to take half a year.<$12><$00>
 
 
-
-
-
-
-//－Ｎ・Ｋ・ＮＥＷＳ－　［号外］\n箱船男性乗員ケン、奇跡の復活∥
+//－Ｎ・Ｋ・ＮＥＷＳ－　［号外］\n箱船男性乗員ケン、奇跡の復活∥<$12>\n<CLEAR>１年前、不慮の事故により　重症を\n負った　ケン・チャレンジャー君が\n箱船プロジェクトに　復帰した∥<$12>\n<CLEAR>その陰には　愛妻のリンダさんの\n献身的な看病が　あったと言われる∥\n若き２人の健闘を　心から祈りたい∥<$12><$00>
 －NK NEWS－\n
-BREAKING! BED-RIDDEN ARK PILOT MIRACULOUSLY\n
-RECOVERS
-<$12>
-\n
-<CLEAR>
-//１年前、不慮の事故により　重症を\n負った　ケン・チャレンジャー君が\n箱船プロジェクトに　復帰した∥
-A year after suffering critical injury, Ken\n
-Challenger returns to Project Astro Ark!
-<$12>
-\n
-<CLEAR>
-//その陰には　愛妻のリンダさんの\n献身的な看病が　あったと言われる∥\n若き２人の健闘を　心から祈りたい∥
-Did Linda's care and dedication save the day?\n
-Let's wish them both the very best!
-<$12>
-<$00>
+BREAKING! BED-RIDDEN ARK PILOT MIRACULOUSLY RECOVERS<$12>\n
+<CLEAR>A year after suffering critical injury, Ken Challenger\n
+returns to Project Astro Ark!<$12>\n
+<CLEAR>Did Linda's care and dedication save the day? Let's wish\n
+them both the very best!<$12><$00>
 
 
-
-
-
-
-//－Ｎ・Ｋ・ＮＥＷＳ－　［号外］\nグリーン製薬社長夫妻、難民救済基金に\n
+//－Ｎ・Ｋ・ＮＥＷＳ－　［号外］\nグリーン製薬社長夫妻、難民救済基金に\n<$06>36000000000000<$04>￥を寄付∥<$12>\n<CLEAR>先頃、グリーン製薬を退いた　前社長の\nエリザベスさんと　その夫である\nパンハイム博士が　難民救済に寄付！<$12>\n<CLEAR>その額、ナント３６兆￥∥\nこの寄付により　脱出民の生活と財産は\n完全に　保障されたと言える<$12><$00>
 －NK NEWS－\n
-BREAKING! GREEN FAMILY DONATES＿
-<$06>
-//36000000000000
-36,000,000,000,000
-<$04>
-//￥を寄付∥
-￥ TO MIGRATION RELIEF FUND
-<$12>
-\n
-<CLEAR>
-//先頃、グリーン製薬を退いた　前社長の\nエリザベスさんと　その夫である\nパンハイム博士が　難民救済に寄付！
-Elizabeth Green and Mica Panheim, both\n
-recently retired heads of Green\n
-Pharmaceuticals...
-<$12>
-\n
-<CLEAR>
-//その額、ナント３６兆￥∥\nこの寄付により　脱出民の生活と財産は\n完全に　保障されたと言える
-...have single-handedly secured happy new\n
-futures to everyone leaving Neo Kenya!
-<$12>
-<$00>
+BREAKING! GREEN FAMILY DONATES＿<$06>36,000,000,000,000<$04>￥\n
+TO MIGRATION RELIEF FUND<$12>\n
+<CLEAR>Elizabeth Green and Mica Panheim, both recently retired\n
+heads of Green Pharmaceuticals...<$12>\n
+<CLEAR>...have single-handedly secured happy new futures to\n
+everyone leaving Neo Kenya!<$12><$00>
 
 
-
-
-
-
-//－Ｎ・Ｋ・ＮＥＷＳ－　［号外］\n故リバトリー・オーマン氏の　全財産、\n
+//－Ｎ・Ｋ・ＮＥＷＳ－　［号外］\n故リバトリー・オーマン氏の　全財産、\n<$1D><$12>\n<CLEAR>遺産総額は　現金だけで、\n<$06>600<$04>億￥以上と　消息筋の弁<$12><$00>
 －NK NEWS－\n
-BREAKING! LATE DGF DOJO PROPRIETOR'S ASSETS\n
-GO TO＿
-<$1D><$12>
-\n
-<CLEAR>
-//遺産総額は　現金だけで、\n
-As requested, the stated party will receive
-<$06>
-//600
-60,000,000,000
-<$04>
-//億￥以上と　消息筋の弁
-￥ and half of the Aumann estate.
-<$12>
-<$00>
+BREAKING! LATE DGF DOJO PROPRIETOR'S ASSETS GO TO＿<$1D><$12>\n
+<CLEAR>As requested, the stated party will receive\n
+<$06>60,000,000,000<$04>￥ and half of the Aumann estate.<$12><$00>
 
 
-
-
-
-
-//－Ｎ・Ｋ・ＮＥＷＳ－　［号外］\n銀河で一番、裕福な新婚カップル■
+//－Ｎ・Ｋ・ＮＥＷＳ－　［号外］\n銀河で一番、裕福な新婚カップル■<$12>\n<CLEAR>ミナゴ教会にて　ネク・グリーン氏と\nサチコ・エモリ嬢の　結婚式が\n盛大に　執り行われた<$12>\n<CLEAR>ネク氏は　前グリーン製薬社長の養子\nサチコ嬢は　特許王エモリ博士の長女\n２人の財産の合計は　８兆￥に昇る∥<$12><$00>
 －NK NEWS－\n
-BREAKING! THE RICHEST NEWLYWEDS IN THE\n
-COSMOS■
-<$12>
-\n
-<CLEAR>
-//ミナゴ教会にて　ネク・グリーン氏と\nサチコ・エモリ嬢の　結婚式が\n盛大に　執り行われた
-A grand ceremony was held for Nek Green and\n
-Sachiko Emori in Minago church!
-<$12>
-\n
-<CLEAR>
-//ネク氏は　前グリーン製薬社長の養子\nサチコ嬢は　特許王エモリ博士の長女\n２人の財産の合計は　８兆￥に昇る∥
-Between the Green estate and Emori estate,\n
-which made its fortune selling patents...
-<$12>
-\n
-<CLEAR>
-...the young couple's net worth tops well\n
-over 8,000,000,000,000￥!
-<$12>
-<$00>
+BREAKING! THE RICHEST NEWLYWEDS IN THE COSMOS■<$12>\n
+<CLEAR>A grand ceremony was held for Nek Green and Sachiko Emori\n
+in Minago church!<$12>\n
+<CLEAR>Between the Green estate and Emori estate, which made its\n
+fortune selling patents...<$12>\n
+<CLEAR>...the young couple's net worth tops well over\n
+8,000,000,000,000￥!<$12><$00>
 
 
+//妻ナターシャさん（２２）が　相続∥<$00>
+FAMILY ATTORNEY, NATASHA(22)<$00>
 
 
+//長男ビグル氏（２９）が　相続∥<$00>
+ELDEST SON, BIGUL(29)<$00>
 
 
-//妻ナターシャさん（２２）が　相続∥
-FAMILY ATTORNEY, NATASHA(22)
-<$00>
+//長女ポメランさん（２８）が　相続∥<$00>
+ELDEST DAUGHTER, POMERAN(29)<$00>
 
 
+//次男シェドパ氏（２４）が　相続∥<$00>
+YOUNGEST SON, SHEDOBA(29)<$00>
 
 
-
-
-//長男ビグル氏（２９）が　相続∥
-ELDEST SON, BIGUL(29)
-<$00>
-
-
-
-
-
-
-//長女ポメランさん（２８）が　相続∥
-ELDEST DAUGHTER, POMERAN(29)
-<$00>
-
-
-
-
-
-
-//次男シェドパ氏（２４）が　相続∥
-YOUNGEST SON, SHEDOBA(29)
-<$00>
-
-
-
-
-
-
-//難民救済基金に　寄付される∥
-MIGRATION RELIEF FUND
-<$12>
-<$00>
-
-
-
-
+//難民救済基金に　寄付される∥<$12><$00>
+MIGRATION RELIEF FUND<$12><$00>
 
 
 
