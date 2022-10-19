@@ -228,7 +228,7 @@ mf108.obj
 
 #WRITE(PTR, $0052)
 //動物登録室<$00>
-Animal Registry＿<$00>
+Animal Registry <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -295,8 +295,8 @@ IS DRAWN, EACH IS SORTED INTO A CAPSULE.<$12><$00>
 
 
 //動物保護目標＿<$1E>35種＿<$1E>35頭\n現在ノ達成数＿<$1E>35種＿<$1E>35頭\n未保護ノ動物＿<$1E>35種＿<$1E>35頭<$12><$00>
-ANIMAL RESCUE GOAL: <$1E>35＿/＿<$1E><$1E>35＿/＿<$1E>35\n
-NOT CAPTURED＿<$1E>35＿/＿<$1E>35＿<$12><$00>
+ANIMAL RESCUE GOAL: <$1E>35 / <$1E><$1E>35 / <$1E>35\n
+NOT CAPTURED <$1E>35 / <$1E>35 <$12><$00>
 
 
 //人類男性１名ノ　乗船ヲ希望シマス\n乗員ノ登録ハ　隣リノ部屋デ受付中<$12><$00>
@@ -341,21 +341,21 @@ DUE TIME AND YOU TOO WILL UNDERSTAND.<$12><$00>
 
 
 //<$1D>は　「<$1D>」を\n体の中で　飼い始めた∥\n「<$1D>」ＧＥＴ∥<$12><$00>
-<$1D>＿'s body absorbed\n
-the＿<$1D>!\n
-Learned＿<$1D>!<$12><$00>
+<$1D> 's body absorbed\n
+the <$1D>!\n
+Learned <$1D>!<$12><$00>
 
 
 //<$1D>の中の　<$1D>獣人は\n「<$1D>」に成長した∥\n「<$1D>」ＧＥＴ∥<$12><$00>
-<$1D>'s inner＿<$1D>＿awakened as\n
+<$1D>'s inner <$1D> awakened as\n
 <$1D>!\n
-Learned＿<$1D>!<$12><$00>
+Learned <$1D>!<$12><$00>
 
 
 //<CLEAR><$1D>の　最大<$06>HP<$1E>@<$04>\n攻撃力<$06><$1E>@ <$04>守備力<$06><$1E>@<$04>\n素早さ<$06><$1E>@ <$04>最大<$06>BP<$1E>@<$04><$12><$00>
-<CLEAR><$1D>: Max＿<$06>HP:<$1E>@<$04>\n
+<CLEAR><$1D>: Max <$06>HP:<$1E>@<$04>\n
 ATK:<$06><$1E>@<$04>DEF:<$06><$1E>@<$04>\n
-SPD:<$06><$1E>@<$04>Max＿<$06>BP:<$1E>@<$04><$12><$00>
+SPD:<$06><$1E>@<$04>Max <$06>BP:<$1E>@<$04><$12><$00>
 
 
 //オス<$00>
@@ -373,12 +373,12 @@ M%03dF.OBJ
 
 
 //名称：<$1D><$02>120<$1D>\n<$06>LV<$1E>34<$06> HP<$1E>35<$06> BP<$1E>35\n<$04>攻撃力<$1E>35　守備力<$1E>35　素早さ<$1E>35<$12><$00>
-Name:＿<$1D><$02><$1D>\n
+Name: <$1D><$02><$1D>\n
 <$06>LV<$1E>34<$06> HP<$1E><$06> BP<$1E><$04>ATK:<$1E>35　DEF:<$1E>35　SPD:<$1E><$12><$00>
 
 
 //名称：<$1D><$02>120<$1D><$12><$00>
-Name:＿<$1D><$02><$1D><$12><$00>
+Name: <$1D><$02><$1D><$12><$00>
 
 
 //クン、クンクン………？<$12>\n<CLEAR>とくに目新しい　ニオイは\nしないみたいよ<$12><$00>
@@ -423,7 +423,7 @@ Sniff...sniff, sniff?<$12>\n
 
 
 //、…<$1D>に行けば<$00>
-! That's where we'll find a＿<$1D>.<$00>
+! That's where we'll find a <$1D>.<$00>
 
 
 //直進<$00>
@@ -447,7 +447,7 @@ Back<$00>
 
 
 //、絶対に<$1D>∥<$00>
-wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
+wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
@@ -459,35 +459,35 @@ wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
 
 
 //運命の<$00>
-Fated＿<$00>
+Fated <$00>
 
 
 //新しい<$00>
-New＿<$00>
+New <$00>
 
 
 //素敵な<$00>
-Great＿<$00>
+Great <$00>
 
 
 //未知の<$00>
-Unknown＿<$00>
+Unknown <$00>
 
 
 //何か<$00>
-things＿<$00>
+things <$00>
 
 
 //発見<$00>
-discoveries＿<$00>
+discoveries <$00>
 
 
 //お宝<$00>
-treasures＿<$00>
+treasures <$00>
 
 
 //動物<$00>
-animals＿<$00>
+animals <$00>
 
 
 //に　出会える…<$00>
@@ -536,7 +536,7 @@ are dead head!<$00>
 #WRITE(PTR, $0056)
 #WRITE(PTR, $0058)
 //第８動物収容室<$00>
-Containment Rm. 8＿<$00>
+Containment Rm. 8 <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -570,7 +570,7 @@ enough to fall for her antics!<$12><$00>
 
 #WRITE(PTR, $005A)
 //第７動物収容室<$00>
-Containment Rm. 7＿<$00>
+Containment Rm. 7 <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -604,7 +604,7 @@ enough to fall for her antics!<$12><$00>
 
 #WRITE(PTR, $005C)
 //第６動物収容室<$00>
-Containment Rm. 6＿<$00>
+Containment Rm. 6 <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -638,7 +638,7 @@ enough to fall for her antics!<$12><$00>
 
 #WRITE(PTR, $005E)
 //第５動物収容室<$00>
-Containment Rm. 5＿<$00>
+Containment Rm. 5 <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -672,7 +672,7 @@ enough to fall for her antics!<$12><$00>
 
 #WRITE(PTR, $0060)
 //第４動物収容室<$00>
-Containment Rm. 4＿<$00>
+Containment Rm. 4 <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -706,7 +706,7 @@ enough to fall for her antics!<$12><$00>
 
 #WRITE(PTR, $0062)
 //第３動物収容室<$00>
-Containment Rm. 3＿<$00>
+Containment Rm. 3 <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -740,7 +740,7 @@ enough to fall for her antics!<$12><$00>
 
 #WRITE(PTR, $0064)
 //第２動物収容室<$00>
-Containment Rm. 2＿<$00>
+Containment Rm. 2 <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -774,7 +774,7 @@ enough to fall for her antics!<$12><$00>
 
 #WRITE(PTR, $0066)
 //第１動物収容室<$00>
-Containment Rm. 1＿<$00>
+Containment Rm. 1 <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -808,7 +808,7 @@ enough to fall for her antics!<$12><$00>
 
 #WRITE(PTR, $0068)
 //第<$06>14<$04>動物収容室<$00>
-Containment Rm.＿<$06>14<$04>＿<$00>
+Containment Rm. <$06>14<$04> <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -842,7 +842,7 @@ enough to fall for her antics!<$12><$00>
 
 #WRITE(PTR, $006A)
 //第<$06>13<$04>動物収容室<$00>
-Containment Rm.＿<$06>13<$04>＿<$00>
+Containment Rm. <$06>13<$04> <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -876,7 +876,7 @@ enough to fall for her antics!<$12><$00>
 
 #WRITE(PTR, $006C)
 //第<$06>12<$04>動物収容室<$00>
-Containment Rm.＿<$06>12<$04>＿<$00>
+Containment Rm. <$06>12<$04> <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -910,7 +910,7 @@ enough to fall for her antics!<$12><$00>
 
 #WRITE(PTR, $006E)
 //第<$06>11<$04>動物収容室<$00>
-Containment Rm.＿<$06>11<$04>＿<$00>
+Containment Rm. <$06>11<$04> <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -944,7 +944,7 @@ enough to fall for her antics!<$12><$00>
 
 #WRITE(PTR, $0070)
 //第<$06>10<$04>動物収容室<$00>
-Containment Rm.＿<$06>10<$04>＿<$00>
+Containment Rm. <$06>10<$04> <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -978,7 +978,7 @@ enough to fall for her antics!<$12><$00>
 
 #WRITE(PTR, $0072)
 //第９動物収容室<$00>
-Containment Rm.＿<$00>
+Containment Rm. <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -1012,7 +1012,7 @@ enough to fall for her antics!<$12><$00>
 
 #WRITE(PTR, $0074)
 //第<$06>20<$04>動物収容室<$00>
-Containment Rm.＿<$06>20<$04>＿<$00>
+Containment Rm. <$06>20<$04> <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -1046,7 +1046,7 @@ enough to fall for her antics!<$12><$00>
 
 #WRITE(PTR, $0076)
 //第<$06>19<$04>動物収容室<$00>
-Containment Rm.＿<$06>19<$04>＿<$00>
+Containment Rm. <$06>19<$04> <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -1080,7 +1080,7 @@ enough to fall for her antics!<$12><$00>
 
 #WRITE(PTR, $0078)
 //第<$06>18<$04>動物収容室<$00>
-Containment Rm.＿<$06>18<$04>＿<$00>
+Containment Rm. <$06>18<$04> <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -1114,7 +1114,7 @@ enough to fall for her antics!<$12><$00>
 
 #WRITE(PTR, $007A)
 //第<$06>17<$04>動物収容室<$00>
-Containment Rm.＿<$06>17<$04>＿<$00>
+Containment Rm. <$06>17<$04> <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -1148,7 +1148,7 @@ enough to fall for her antics!<$12><$00>
 
 #WRITE(PTR, $007C)
 //第<$06>16<$04>動物収容室<$00>
-Containment Rm.＿<$06>16<$04>＿<$00>
+Containment Rm. <$06>16<$04> <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -1182,7 +1182,7 @@ enough to fall for her antics!<$12><$00>
 
 #WRITE(PTR, $007E)
 //第<$06>15<$04>動物収容室<$00>
-Containment Rm.＿<$06>15<$04>＿<$00>
+Containment Rm. <$06>15<$04> <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -1216,7 +1216,7 @@ enough to fall for her antics!<$12><$00>
 
 #WRITE(PTR, $0080)
 //第<$06>26<$04>動物収容室<$00>
-Containment Rm.＿<$06>26<$04>＿<$00>
+Containment Rm. <$06>26<$04> <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -1250,7 +1250,7 @@ enough to fall for her antics!<$12><$00>
 
 #WRITE(PTR, $0082)
 //第<$06>25<$04>動物収容室<$00>
-Containment Rm.＿<$06>25<$04>＿<$00>
+Containment Rm. <$06>25<$04> <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -1284,7 +1284,7 @@ enough to fall for her antics!<$12><$00>
 
 #WRITE(PTR, $0084)
 //第<$06>24<$04>動物収容室<$00>
-Containment Rm.＿<$06>24<$04>＿<$00>
+Containment Rm. <$06>24<$04> <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -1318,7 +1318,7 @@ enough to fall for her antics!<$12><$00>
 
 #WRITE(PTR, $0086)
 //第<$06>23<$04>動物収容室<$00>
-Containment Rm.＿<$06>23<$04>＿<$00>
+Containment Rm. <$06>23<$04> <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -1352,7 +1352,7 @@ enough to fall for her antics!<$12><$00>
 
 #WRITE(PTR, $0088)
 //第<$06>22<$04>動物収容室<$00>
-Containment Rm.＿<$06>22<$04>＿<$00>
+Containment Rm. <$06>22<$04> <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -1386,7 +1386,7 @@ enough to fall for her antics!<$12><$00>
 
 #WRITE(PTR, $008A)
 //第<$06>21<$04>動物収容室<$00>
-Containment Rm.＿<$06>21<$04>＿<$00>
+Containment Rm. <$06>21<$04> <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>

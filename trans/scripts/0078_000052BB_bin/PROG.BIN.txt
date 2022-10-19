@@ -72,7 +72,7 @@ m144.obj
 
 #WRITE(PTR, $0028)
 //ネブールタワー１Ｆ<$00>
-Nebul Outlook 1F＿<$00>
+Nebul Outlook 1F <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -119,7 +119,7 @@ me with DGF die-hards.<$12>\n
 
 #WRITE(PTR, $002A)
 //ネブールタワー２Ｆ<$00>
-Nebir Tower 2F＿<$00>
+Nebir Tower 2F <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -201,15 +201,15 @@ nasty plants.<$12><$00>
 
 #WRITE(PTR, $002E)
 //個<$00>
-＿<$00>
+ <$00>
 
 
 //匹<$00>
-＿<$00>
+ <$00>
 
 
 //<$1D>を<$1D>ます\n<$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04>／<$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S￥<$00>
-<$1D>＿x<$1D>＿\n
+<$1D> x<$1D> \n
 <$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04> / <$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S￥<$00>
 
 
@@ -243,11 +243,11 @@ nasty plants.<$12><$00>
 
 //<CLEAR>トランスカーゴは　１枠につき\n<$06>99<$04>頭までしか　収容できません<$12><$00>
 <CLEAR>The trans-cargo unit has\n
-a＿<$06>99<$04>＿species capacity!<$12><$00>
+a <$06>99<$04> species capacity!<$12><$00>
 
 
 //<CLEAR><$06>トランスカーゴ<$04>がいっぱいです<$12><$00>
-<CLEAR><$06>The trans-cargo unit＿<$04>is full!<$12><$00>
+<CLEAR><$06>The trans-cargo unit <$04>is full!<$12><$00>
 
 
 //<CLEAR>道具がいっぱいです<$12><$00>
@@ -279,7 +279,7 @@ HELLO! HOW WILL YOU TRAVEL TODAY?<$00>
 
 //<CLEAR>お客様、長い間ご愛顧いただきました\n本デスクは、一応の住民避難が終了する\n<$06>19<$1E>34年をもって閉鎖いたします<$12>\n<CLEAR>ご愛顧いただき、\nありがとうございました<$12><$00>
 <CLEAR>Birdline has always enjoyed serving you face-to-face, but\n
-our front desks will be closing in＿<$06>19<$1E>34.<$12>\n
+our front desks will be closing in <$06>19<$1E>34.<$12>\n
 <CLEAR>Thank you for your loyal patronage!<$12><$00>
 
 
@@ -328,11 +328,11 @@ GREEN<$00>
 
 
 //<CLEAR>それでは　<$1D>色のプラットホームへ\nお立ちになって　お待ちください<$12><$00>
-<CLEAR>Please wait on the＿<$1D>＿platform.<$12><$00>
+<CLEAR>Please wait on the <$1D> platform.<$12><$00>
 
 
 //<CLEAR>ソレデハ　<$1D>色ノ　プラットホームヘ\nオ立チニナッテ　オ待チクダサイ<$12><$00>
-<CLEAR>PLEASE WAIT ON THE＿<$1D>＿PLATFORM.<$12><$00>
+<CLEAR>PLEASE WAIT ON THE <$1D> PLATFORM.<$12><$00>
 
 
 //<$1D>→\n<$1D>→<$1D>\nこのルートで　お乗り継ぎください<$12><$00>
@@ -373,15 +373,15 @@ PROPERTY!<$12><$00>
 
 
 //<CLEAR>シュートサービスは\nお客様のお好きな　場所へ落と…<$11>30\nお連れするサービスです<$12>\n<CLEAR>サービス料は<$1D><$06>1480<$04><$14>￥です\nご利用なさいますか？\n<$01>いいとも<$0E>／<$01>また今度<$0E><$00>
-<CLEAR>Our drop service can take you directly to＿<$11>30coordinates\n
-you specify.<$12>\n
-<CLEAR>The service costs＿<$1D><$06>1480<$04><$14>￥.\n
+<CLEAR>Our drop service can take you directly to <$11>30coordinates you\n
+specify.<$12>\n
+<CLEAR>The service costs <$1D><$06>1480<$04><$14>￥.\n
 Would you like to use it?\n
 <$01>Yes<$0E> / <$01>Not now<$0E><$00>
 
 
 //<CLEAR>シュートサービス料金　<$1D><$06>1480<$04><$14>￥、\nゴ利用ニ　ナラレマスカ？\n<$01>いいとも<$0E>／<$01>また今度<$0E><$00>
-<CLEAR>THE DROP SERVICE COSTS＿<$1D><$06>1480<$04><$14>￥.\n
+<CLEAR>THE DROP SERVICE COSTS <$1D><$06>1480<$04><$14>￥.\n
 WOULD YOU LIKE TO USE IT?\n
 <$01>Yes<$0E> / <$01>Not now<$0E><$00>
 
@@ -550,11 +550,11 @@ for our world's unmatched luxuries.<$12><$00>
 
 
 //<CLEAR><$03>32<$02>80預り<$1E>034個＿空き<$1E>034個<$00>
-<CLEAR><$03>32<$02>80Taken:＿<$1E>034,＿Free:＿<$1E>034＿<$00>
+<CLEAR><$03>32<$02>80Taken: <$1E>034, Free: <$1E>034 <$00>
 
 
 //<CLEAR><$03>32<$02>80道具<$1E>034個＿空き<$1E>034個<$00>
-<CLEAR><$03>32<$02>80In bag:＿<$1E>034,＿Free:＿<$1E>034＿<$00>
+<CLEAR><$03>32<$02>80In bag: <$1E>034, Free: <$1E>034 <$00>
 
 
 //<$15>Y<$06>トランクルーム<$04>／預ける<$00>
@@ -562,7 +562,7 @@ for our world's unmatched luxuries.<$12><$00>
 
 
 //<CLEAR><$1D>は\n預かれません<$12><$00>
-<CLEAR><$1D>＿will not be stored.<$12><$00>
+<CLEAR><$1D> will not be stored.<$12><$00>
 
 
 //<$15>Y<$06>トランクルーム<$04>／引出す<$00>
@@ -634,9 +634,9 @@ HOW CAN WE HELP YOU?<$12><$00>
 
 
 //<CLEAR><$01>記録センター＿<$0E>／<$01>留守番コール＿<$0E>\n<$01>ネオケニア銀行<$0E>／<$01>気象サテライト<$0E>\n<$01>宝クジ抽選発表<$0E>／<$01>ヘルガの大予言<$0E><$00>
-<CLEAR><$01>Save game＿<$0E> / <$01>Voicemail＿<$0E>\n
-<$01>NK Bank＿<$0E> / <$01>Forecast＿<$0E>\n
-<$01>Lottery＿<$0E> / <$01>Miss Helga＿<$0E><$00>
+<CLEAR><$01>Save game <$0E> / <$01>Voicemail <$0E>\n
+<$01>NK Bank <$0E> / <$01>Forecast <$0E>\n
+<$01>Lottery <$0E> / <$01>Miss Helga <$0E><$00>
 
 
 //記録センター<$00>
@@ -671,11 +671,11 @@ THE NK PSYCHIC HOTLINE<$00>
 //<CLEAR>レンジャー隊本部、記録センターです\nジョブの進行状況を　記録しますか？\n<$01>記録を残す<$0E>／<$01>メニューへ<$0E>／<$01>電話を切る<$0E><$00>
 <CLEAR>This is the Ranger HQ report center.\n
 Save your game?\n
-<$01>Save＿<$0E> / <$01>Menu＿<$0E> / <$01>Hang up<$0E><$00>
+<$01>Save <$0E> / <$01>Menu <$0E> / <$01>Hang up<$0E><$00>
 
 
 //<CLEAR>留守番コールに　新しいメッセージが\n<$1E>件入っています　確認しますか？<$00>
-<CLEAR>You have＿<$1E>＿new message(s)! Listen now?<$00>
+<CLEAR>You have <$1E> new message(s)! Listen now?<$00>
 
 
 //<CLEAR>レンジャー隊本部、留守番コールです\n<$00>
@@ -688,11 +688,11 @@ You have no new messages.<$12><$00>
 
 
 //現在までの登録メッセージ　<$1E>件<$12><$00>
-Stored messages:＿<$1E>.<$12><$00>
+Stored messages: <$1E>.<$12><$00>
 
 
 //<CLEAR>新規登録メッセージが　<$1E>件あります<$00>
-<CLEAR>You have＿<$1E>＿new message(s).<$00>
+<CLEAR>You have <$1E> new message(s).<$00>
 
 
 //<CLEAR>新規登録メッセージは　ありません<$00>
@@ -715,22 +715,22 @@ Stored messages:＿<$1E>.<$12><$00>
 
 
 //<CLEAR>現在の預金残高は<$15>R<$06><$1D><$04><$14>￥です\n追加融資はできません<$12><$00>
-<CLEAR>Acct balance:＿<$15>R<$06><$1D><$04><$14>￥\n
+<CLEAR>Acct balance: <$15>R<$06><$1D><$04><$14>￥\n
 Loans unavailable.<$12><$00>
 
 
 //<CLEAR>現在の預金残高は<$1E>41￥です\n融資枠は　最大<$1E>40￥です<$12><$00>
-<CLEAR>Acct balance:＿<$1E>41￥\n
-Acct limit:＿<$1E>40￥<$12><$00>
+<CLEAR>Acct balance: <$1E>41￥\n
+Acct limit: <$1E>40￥<$12><$00>
 
 
 //<CLEAR>現在の預金残高は<$1E>41￥です\n返済期間中は　追加融資はできません<$12><$00>
-<CLEAR>Acct Balance:＿<$1E>41￥\n
+<CLEAR>Acct Balance: <$1E>41￥\n
 Loans unavailable this billing period.<$12><$00>
 
 
 //<CLEAR>現在の預金残高は　０￥\n取引きを　停止中です<$12><$00>
-<CLEAR>Balance:＿０￥\n
+<CLEAR>Balance: ０￥\n
 Transactions suspended.<$12><$00>
 
 
@@ -740,7 +740,7 @@ Unable to withdraw.<$12><$00>
 
 
 //次の<$1D><$00>
-next＿<$1D><$00>
+next <$1D><$00>
 
 
 //今季節<$00>
@@ -748,14 +748,14 @@ season<$00>
 
 
 //<CLEAR>現在の返済残高は<$1E>40￥です\n季節利子<$1E>40￥\n返済期限　<$1D>、となっております<$12><$00>
-<CLEAR>Loan balance:＿<$1E>40￥\n
-Ssnl interest:＿<$1E>40￥\n
-Payment due this＿<$1D>.<$12><$00>
+<CLEAR>Loan balance: <$1E>40￥\n
+Ssnl interest: <$1E>40￥\n
+Payment due this <$1D>.<$12><$00>
 
 
 //<CLEAR>現在の返済残高は<$1E>40￥です\n季節利子<$1E>40￥\n預金口座の取引きは　停止中です<$12><$00>
-<CLEAR>Loan balance:＿<$1E>40￥\n
-Ssnl interest:＿<$1E>40￥\n
+<CLEAR>Loan balance: <$1E>40￥\n
+Ssnl interest: <$1E>40￥\n
 Transactions suspended.<$12><$00>
 
 
@@ -826,13 +826,13 @@ Arena Pay<$00>
 
 //<CLEAR>オズサット気象予報部発表\n各地の<$1D>の天気です<$12><$00>
 <CLEAR>OzSAT Weather's global\n
-<$1D>＿forecast:<$12><$00>
+<$1D> forecast:<$12><$00>
 
 
 //<CLEAR>東エリア増水確率＿<$1E>34％\n西エリア降雪確率＿<$1E>34％\n南エリア増水確率＿<$1E>34％<$12><$00>
-<CLEAR>East Area floods: ＿<$1E>34％\n
-West Area snow:＿<$1E>34％\n
-South Area floods:＿<$1E>34％<$12><$00>
+<CLEAR>East Area floods:  <$1E>34％\n
+West Area snow: <$1E>34％\n
+South Area floods: <$1E>34％<$12><$00>
 
 
 //<CLEAR>なお西エリア中部に　大雪警報発令中\n野営の際は　凍死に注意！<$12><$00>
@@ -841,12 +841,12 @@ camp there and risk hypothermia!<$12><$00>
 
 
 //<CLEAR><$1D><$06>100<$04><$14>￥で　大きな夢を咲かせましょう∥\n<$1D>の宝クジ、ただいま好評発売中∥\n１等賞金は　なんと　<$06>100000<$04>￥∥<$12><$00>
-<CLEAR>For＿<$1D><$06><$04><$14>￥, dreams CAN come true!\n
-Join our＿<$1D>＿Lottery for a chance at＿<$06><$04>￥!<$12><$00>
+<CLEAR>For <$1D><$06><$04><$14>￥, dreams CAN come true!\n
+Join our <$1D> Lottery for a chance at <$06><$04>￥!<$12><$00>
 
 
 //<CLEAR><$1D>の宝クジ　当選番号発表∥<$12><$00>
-<CLEAR><$1D>＿Lottery winners have been announced!<$12><$00>
+<CLEAR><$1D> Lottery winners have been announced!<$12><$00>
 
 
 //<CLEAR>１等（<$06>100000<$04>￥）<$02>120<$06>NO.<$1E>036<$12><$00>
@@ -865,7 +865,7 @@ Join our＿<$1D>＿Lottery for a chance at＿<$06><$04>￥!<$12><$00>
 
 
 //<CLEAR>お引き替え有効期限　今<$1D>のみ∥<$12><$00>
-<CLEAR>Winners, you have through＿<$1D>＿to redeem your prizes!<$12><$00>
+<CLEAR>Winners, you have through <$1D> to redeem your prizes!<$12><$00>
 
 
 //<$15>Y記録ファイル選択<$00>
@@ -932,7 +932,7 @@ Do not remove the card\n
 
 //\n<$15>W<$01>◇<$0E>　やめとく<$00>
 \n
-<$15>W<$01>◇<$0E>＿Exit<$00>
+<$15>W<$01>◇<$0E> Exit<$00>
 
 
 //\n<$15>W<$01>◇<$0E>　メニューへ\n<$01>◇<$0E>　電話を切る<$00>
@@ -942,7 +942,7 @@ Do not remove the card\n
 
 
 //<$15>Yスロット<$1E><$06>:<$04>記録<$06>ファイル<$04>選択<$00>
-<$15>YSlot＿<$1E><$06>:<$04>＿<$06>＿File＿<$04>Select<$00>
+<$15>YSlot <$1E><$06>:<$04> <$06> File <$04>Select<$00>
 
 
 //<CLEAR><$00>
@@ -963,12 +963,12 @@ Do not remove the card\n
 
 
 //<$15>W<$01><$06><$1E>.<$0E> <$1D> <$06>199<$1E><$04>年<$1D>　<$1D><$02>164<$06><$1E>35<$04>種登録　難<$1E>\n<$00>
-<$15>W<$01><$06><$1E>.＿<$0E> <$1D> <$06>199<$1E><$04>,＿<$1D>　<$1D><$02>164<$06><$1E>35<$04>＿filed (Mode＿<$1E>)\n
+<$15>W<$01><$06><$1E>. <$0E> <$1D> <$06>199<$1E><$04>, <$1D>　<$1D><$02>164<$06><$1E>35<$04> filed (Mode <$1E>)\n
 <$00>
 
 
 //<$15>W<$01>◇<$08>2<$0E>　やめとく<$00>
-<$15>W<$01>◇<$08>2<$0E>＿Exit<$00>
+<$15>W<$01>◇<$08>2<$0E> Exit<$00>
 
 
 //<$15>W<$01>◇<$08>2<$0E>　メニューへ   <$01>◇<$08>2<$0E>　電話を切る<$00>
@@ -1017,7 +1017,7 @@ Sniff...sniff, sniff?<$12>\n
 
 
 //、…<$1D>に行けば<$00>
-! That's where we'll find a＿<$1D>.<$00>
+! That's where we'll find a <$1D>.<$00>
 
 
 //直進<$00>
@@ -1041,7 +1041,7 @@ Back<$00>
 
 
 //、絶対に<$1D>∥<$00>
-wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
+wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
@@ -1053,35 +1053,35 @@ wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
 
 
 //運命の<$00>
-Fated＿<$00>
+Fated <$00>
 
 
 //新しい<$00>
-New＿<$00>
+New <$00>
 
 
 //素敵な<$00>
-Great＿<$00>
+Great <$00>
 
 
 //未知の<$00>
-Unknown＿<$00>
+Unknown <$00>
 
 
 //何か<$00>
-things＿<$00>
+things <$00>
 
 
 //発見<$00>
-discoveries＿<$00>
+discoveries <$00>
 
 
 //お宝<$00>
-treasures＿<$00>
+treasures <$00>
 
 
 //動物<$00>
-animals＿<$00>
+animals <$00>
 
 
 //に　出会える…<$00>
@@ -1137,55 +1137,55 @@ are dead head!<$00>
 
 
 //「隊長だ！＿<$00>
-＿Captain<$00>
+ Captain<$00>
 
 
 //「ホスピコの<$00>
-＿Chen<$00>
+ Chen<$00>
 
 
 //「もしもし…<$00>
-＿Panheim<$00>
+ Panheim<$00>
 
 
 //「もしもし…<$00>
-＿Panheim<$00>
+ Panheim<$00>
 
 
 //「母さんだよ<$00>
-＿Meme<$00>
+ Meme<$00>
 
 
 //「もしもし…<$00>
-＿Panheim<$00>
+ Panheim<$00>
 
 
 //「隊長だ＿＿<$00>
-＿Captain<$00>
+ Captain<$00>
 
 
 //「ケン＿母さ<$00>
-＿Meme<$00>
+ Meme<$00>
 
 
 //「元気？＿俺<$00>
-＿???<$00>
+ ???<$00>
 
 
 //「ケン、俺の<$00>
-＿Hume<$00>
+ Hume<$00>
 
 
 //「もしもし＿<$00>
-＿Nek<$00>
+ Nek<$00>
 
 
 //「隊長だ！＿<$00>
-＿Captain<$00>
+ Captain<$00>
 
 
 //「…これを読<$00>
-＿???<$00>
+ ???<$00>
 
 
 //<$1D><$01><$1E>34<$06>.<$0E><$04><$1D><$00>
@@ -1237,16 +1237,16 @@ you're taking notes.<$00>
 
 //<CLEAR>コシカタという　廃村の北、\nＡ<$06>-01<$04>エリアに　半島がある\nその一帯に生息しとる<$1B>ヤギ<$00>
 <CLEAR>Head northwest past the ghost village, Koshikata, to A<$06>-01<$04>, a\n
-peninsula inhabited by＿goats.<$00>
+peninsula inhabited by goats.<$00>
 
 
 //<CLEAR>その<$1B>ヤギを　肉に加工して\n新鮮なうちに　わしの所へ\n持参したまえ　いいね<$00>
-<CLEAR>The area is flocked with＿goats. I need you to hunt a few\n
+<CLEAR>The area is flocked with goats. I need you to hunt a few\n
 and process the meat. <$00>
 
 
 //<CLEAR>それと　メモリンＺの材料が\n<$1B>ヤギの肉だということは\n企業秘密でね、他言は困るよ<$00>
-<CLEAR>A key ingredient in Memorin Z is fresh＿Goat Filet. That's\n
+<CLEAR>A key ingredient in Memorin Z is fresh Goat Filet. That's\n
 proprietary info, mind you.<$00>
 
 
@@ -1259,8 +1259,8 @@ proprietary info, mind you.<$00>
 
 
 //<CLEAR><$1B>ヤギは、雪の上じゃ\nとても　強いらしいよ\nまっ、気をつけて行きたまえ<$00>
-<CLEAR>The＿goats living in the snow are especially powerful. Do\n
-be careful.<$00>
+<CLEAR>The goats living in the snow are especially powerful. Do be\n
+careful.<$00>
 
 
 //<CLEAR>母さんだよ<$00>
@@ -1480,7 +1480,7 @@ believe.<$12><$00>
 //<CLEAR>「<$1D>は\n<$1D>を\n<$1D>であろうぞ」<$12><$00>
 <CLEAR>"<$1D>...\n
 <$1D>?\n
-Yes!＿<$1D>!"<$12><$00>
+Yes! <$1D>!"<$12><$00>
 
 
 //もうひとりの父<$00>
@@ -1743,7 +1743,7 @@ Reunion with God<$00>
 //『プテラノ鳥は　たいへん危険です\n＿オリに手や足を　入れないで下さい<$12>\n<CLEAR>＿万一、事故が起きた場合\n＿当社は　責任を負いかねます』\n<$02>168バードライン<$12><$00>
 "DANGER! DO NOT PUT YOUR HAND IN THE PTERANOBIRD CAGE!"<$12>\n
 <CLEAR>"WE ARE NOT RESPONSIBLE FOR ANY INJURIES."\n
-<$02>168＿-BIRDLINE<$12><$00>
+<$02>168 -BIRDLINE<$12><$00>
 
 
 #WRITE(PTR, $0036)

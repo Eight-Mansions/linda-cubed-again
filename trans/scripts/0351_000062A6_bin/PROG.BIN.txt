@@ -48,7 +48,7 @@ c174a2.obj
 
 #WRITE(PTR, $0020)
 //狩り代行<$00>
-Hunting Agency＿<$00>
+Hunting Agency <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -89,7 +89,7 @@ the scaredy cats who live the longest.<$12><$00>
 
 #WRITE(PTR, $0022)
 //テント<$00>
-Tent＿<$00>
+Tent <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -165,8 +165,8 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR>「オオカミ少女のジル」って、調教師に\nかかれば　どう猛な<$1B>オオカミも\n猟犬に　変えられちゃうらしいよ<$12>\n<CLEAR>スゲえよな……\nそんな女に　俺も調教されてみたいね<$12><$00>
-<CLEAR>"Wolfgirl Jill" is a fierce young tamer who can turn\n
-any＿wolf into a loyal hunting dog.<$12>\n
+<CLEAR>"Wolfgirl Jill" is a fierce young tamer who can turn any wolf\n
+into a loyal hunting dog.<$12>\n
 <CLEAR>It sounds too good to be true...\n
 What I'd give to have my spirit broken by a woman like\n
 that.<$12><$00>
@@ -179,8 +179,8 @@ that.<$12><$00>
 
 
 //俺は代行ハンターの　<$1D>様だ\n<$1D>辺りが　縄張りだゼ！\n<$01>契約する<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
-I'm ＿<$1D>, a proxy hunter!\n
-<$1D>＿is my turf!\n
+I'm  <$1D>, a proxy hunter!\n
+<$1D> is my turf!\n
 <$01>Hire<$0E> / <$01>Chat<$0E> / <$01>Exit<$0E><$00>
 
 
@@ -189,12 +189,12 @@ I'm ＿<$1D>, a proxy hunter!\n
 
 
 //<CLEAR>この<$1D>様の仕事に\n抜かりは　ねぇから　安心しな∥\n<$1D>になったらまた、ここで会おうゼ<$12><$00>
-<CLEAR>Have no fear! No job's too much for the great＿<$1D>!\n
-I'll see you next＿<$1D>.<$12><$00>
+<CLEAR>Have no fear! No job's too much for the great <$1D>!\n
+I'll see you next <$1D>.<$12><$00>
 
 
 //<CLEAR>で、この<$1D>様の腕に\nあんた、いくらの値をつけるんだい？<$00>
-<CLEAR>I get the job done, or my name isn't＿<$1D>! Name your price.<$00>
+<CLEAR>I get the job done, or my name isn't <$1D>! Name your price.<$00>
 
 
 //<CLEAR>おいおい、こちとら命を賭けてんだゼ！\n冗談も　ほどほどにしてくれよ<$00>
@@ -212,7 +212,7 @@ I'll see you next＿<$1D>.<$12><$00>
 
 //<CLEAR>まったく、ダンナにゃ　かなわねぇな\n<$06><$1E><$04>￥で手を打つよ\n<$01>契約する<$0E>／<$01>やめとく<$0E><$00>
 <CLEAR>Heh, can't say no to that!\n
-<$06><$1E><$04>￥＿it is, then!\n
+<$06><$1E><$04>￥ it is, then!\n
 <$01>Deal!<$0E> / <$01>Nevermind<$0E><$00>
 
 
@@ -282,7 +282,7 @@ K<$06>-14<$04><$00>
 
 
 //よっ∥　ダンナ∥　待ってたゼ∥\nさっそく　<$1D>様の戦果報告だ∥\n今回の獲物は…<$12><$00>
-Hey, it's been a minute! You're just time for＿<$1D>'s Hunting\n
+Hey, it's been a minute! You're just time for <$1D>'s Hunting\n
 Report!\n
 The catch of the day is...<$12><$00>
 
@@ -302,7 +302,7 @@ I hate to kill the mood, but these things do happen, hehe...<$12><$00>
 
 
 //<$06>TRANS-CARGO IN<$04>∥<$12>\n<CLEAR>まっ　こんなとこだ\nどーだ￠　安い買物だったろうが？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
-<$06>All right, in the TCU you go,＿<$04><$12>\n
+<$06>All right, in the TCU you go, <$04><$12>\n
 <CLEAR>Now, that's what I call "bang for your buck"!\n
 <$01>Yeah!<$0E> / <$01>Hmm.<$0E><$00>
 
@@ -340,7 +340,7 @@ Choose a new name.<$12><$00>
 
 
 //<CLEAR>猟犬<$1D>を登録します\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
-<CLEAR>Adopt＿<$1D>?\n
+<CLEAR>Adopt <$1D>?\n
 <$01>Yes<$0E> / <$01>No<$0E><$00>
 
 
@@ -369,7 +369,7 @@ You cannot adopt any more dogs.<$12><$00>
 
 
 //<CLEAR><$1B>イヌを　お持ちじゃないようですね<$12><$00>
-<CLEAR>You don't have any＿dogs.<$12><$00>
+<CLEAR>You don't have any dogs.<$12><$00>
 
 
 //<$15>Y猟犬屋／登＿録<$00>
@@ -394,7 +394,7 @@ You cannot adopt any more dogs.<$12><$00>
 
 
 //<$04><$16><$15>W<$01>猟犬LV<$1E>02<$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
-<$04><$16><$15>W<$01>Dog LVL＿<$1E>02<$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
+<$04><$16><$15>W<$01>Dog LVL <$1E>02<$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
 
 
 //<$15>Y猟犬屋／売＿る<$00>
@@ -402,14 +402,13 @@ You cannot adopt any more dogs.<$12><$00>
 
 
 //<CLEAR>猟犬「<$1D>」を\n<$06><$1E><$04>￥で売りますか？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
-<CLEAR>Sell＿<$1D>＿ for＿<$06><$1E><$04>￥?\n
+<CLEAR>Sell <$1D>  for <$06><$1E><$04>￥?\n
 <$01>Yes<$0E> / <$01>No<$0E><$00>
 
 
 //クン、クンクン………？<$12>\n<CLEAR><$1D>のニオイが　するね\nそういえば、<$1D>食まだだっけ…<$12><$00>
 Sniff...sniff, sniff?<$12>\n
-<CLEAR><$1D>＿scent's filling the air. You know, I could go for\n
-some＿<$1D>＿!<$12><$00>
+<CLEAR><$1D> scent's filling the air. You know, I could go for some <$1D> !<$12><$00>
 
 
 //卵焼き<$00>
@@ -457,7 +456,7 @@ sauce<$00>
 
 
 //スープ<$00>
-＿soup<$00>
+ soup<$00>
 
 
 //ピラフ<$00>
@@ -525,7 +524,7 @@ dinner<$00>
 
 
 //、…<$1D>に行けば<$00>
-! That's where we'll find a＿<$1D>.<$00>
+! That's where we'll find a <$1D>.<$00>
 
 
 //直進<$00>
@@ -549,7 +548,7 @@ Back<$00>
 
 
 //、絶対に<$1D>∥<$00>
-wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
+wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
@@ -561,35 +560,35 @@ wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
 
 
 //運命の<$00>
-Fated＿<$00>
+Fated <$00>
 
 
 //新しい<$00>
-New＿<$00>
+New <$00>
 
 
 //素敵な<$00>
-Great＿<$00>
+Great <$00>
 
 
 //未知の<$00>
-Unknown＿<$00>
+Unknown <$00>
 
 
 //何か<$00>
-things＿<$00>
+things <$00>
 
 
 //発見<$00>
-discoveries＿<$00>
+discoveries <$00>
 
 
 //お宝<$00>
-treasures＿<$00>
+treasures <$00>
 
 
 //動物<$00>
-animals＿<$00>
+animals <$00>
 
 
 //に　出会える…<$00>
@@ -636,7 +635,7 @@ are dead head!<$00>
 
 
 //<$15>Yスケジュール<$00>
-<$15>YMemo＿<$00>
+<$15>YMemo <$00>
 
 
 //<CLEAR>スケジュールは何もありません<$12><$00>
@@ -652,15 +651,15 @@ Expired!<$00>
 
 
 //あと<$1E>季節<$00>
-In＿<$1E>＿seasons<$00>
+In <$1E> seasons<$00>
 
 
 //あと<$1E>年<$1E>季節<$00>
-Deadline:＿<$1E>Y/<$1E>S<$00>
+Deadline: <$1E>Y/<$1E>S<$00>
 
 
 //あと<$1E>年<$00>
-In＿<$1E>＿years<$00>
+In <$1E> years<$00>
 
 
 //<$16><$01>◇<$0E><$1D><$02>190<$1D><$00>
@@ -717,17 +716,17 @@ Hardia Hotel.<$00>
 
 
 //<CLEAR>マーブルポリスの<$1B>ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す<$00>
-<CLEAR>Process meat from＿chickens in Marblopolis.Give them to\n
+<CLEAR>Process meat from chickens in Marblopolis.Give them to\n
 Prof. Panheim in Hospico.<$00>
 
 
 //<CLEAR><$1B>カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す<$00>
-<CLEAR>Find up to 3＿Turtle Eggs. Give them to Louis at the Battle\n
+<CLEAR>Find up to 3 Turtle Eggs. Give them to Louis at the Battle\n
 Park BB Ranch.<$00>
 
 
 //<CLEAR><$1B>プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す<$00>
-<CLEAR>Acquire 2＿Pteranodon Eggs. Give them to Bronco at the\n
+<CLEAR>Acquire 2 Pteranodon Eggs. Give them to Bronco at the\n
 Battle Park BB Ranch.<$00>
 
 
@@ -741,15 +740,15 @@ Aumann children in Dogyf Heights.<$00>
 
 
 //あと<$06><$1E><$0F>000<$04><$00>
-another＿<$06><$1E><$0F><$04><$00>
+another <$06><$1E><$0F><$04><$00>
 
 
 //<CLEAR>Ｇファクトリーのヤマダのために\n<$1D>￥を預金する<$00>
-<CLEAR>Deposit＿<$1D>￥ in an account to Yamada in G Factory.<$00>
+<CLEAR>Deposit <$1D>￥ in an account to Yamada in G Factory.<$00>
 
 
 //<CLEAR>コシカタのシンボル「<$1B>トラの爪」を\n見つけだし、ポリスカに渡す<$00>
-<CLEAR>Find the＿Tiger Claw, Koshikata's village symbol. Return it\n
+<CLEAR>Find the Tiger Claw, Koshikata's village symbol. Return it\n
 to Poliska.<$00>
 
 
@@ -768,17 +767,17 @@ Eterna.<$00>
 
 
 //<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nＧファクトリー入口１階、\n公衆電話の前に行く<$00>
-<CLEAR>Take the Floppy Disc and＿<$06>10, 000<$04>￥ to the G Factory\n
-gate. Answer the payphone.<$00>
+<CLEAR>Take the Floppy Disc and <$06>10, 000<$04>￥ to the G Factory gate.\n
+Answer the payphone.<$00>
 
 
 //<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nパラサイド入口１階、\n公衆電話の前に行く<$00>
-<CLEAR>Take the Floppy Disc and＿<$06>10, 000<$04>￥ to the Paraside gate.\n
+<CLEAR>Take the Floppy Disc and <$06>10, 000<$04>￥ to the Paraside gate.\n
 Answer the payphone.<$00>
 
 
 //<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nガレックスに行く<$00>
-<CLEAR>Take the Floppy Disc and＿<$06>10, 000<$04>￥ to Galax.<$00>
+<CLEAR>Take the Floppy Disc and <$06>10, 000<$04>￥ to Galax.<$00>
 
 
 //<CLEAR>ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す<$00>

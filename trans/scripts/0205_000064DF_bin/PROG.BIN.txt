@@ -180,7 +180,7 @@ kao_s3.obj
 
 #WRITE(PTR, $0034)
 //シェルター1F<$00>
-Shelter 1F＿<$00>
+Shelter 1F <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -214,7 +214,7 @@ enough to fall for her antics!<$12><$00>
 
 #WRITE(PTR, $0036)
 //シェルターB1<$00>
-Shelter B1＿<$00>
+Shelter B1 <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -248,7 +248,7 @@ enough to fall for her antics!<$12><$00>
 
 #WRITE(PTR, $0038)
 //シェルターB2<$00>
-Shelter B2＿<$00>
+Shelter B2 <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -282,7 +282,7 @@ enough to fall for her antics!<$12><$00>
 
 #WRITE(PTR, $003A)
 //シェルターB3<$00>
-Shelter B3＿<$00>
+Shelter B3 <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -316,7 +316,7 @@ enough to fall for her antics!<$12><$00>
 
 #WRITE(PTR, $003C)
 //シェルターB4<$00>
-Shelter B4＿<$00>
+Shelter B4 <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -353,15 +353,15 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen found the＿<$1D>!<$14><$12><$00>
+<CLEAR><$19><$15>SKen found the <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the＿<$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen acquired＿<$1D>!<$14><$12><$00>
+<CLEAR><$19><$15>SKen acquired <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S何も　見つからなかった<$14><$12><$00>
@@ -369,20 +369,20 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen found the＿<$1D>!<$14><$12><$00>
+<CLEAR><$19><$15>SKen found the <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the＿<$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen acquired＿<$1D>!<$14><$12><$00>
+<CLEAR><$19><$15>SKen acquired <$1D>!<$14><$12><$00>
 
 
 #WRITE(PTR, $003E)
 //シェルターB5<$00>
-Shelter B5＿<$00>
+Shelter B5 <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -416,7 +416,7 @@ enough to fall for her antics!<$12><$00>
 
 #WRITE(PTR, $0040)
 //シェルターB6<$00>
-Shelter B6＿<$00>
+Shelter B6 <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -450,7 +450,7 @@ enough to fall for her antics!<$12><$00>
 
 #WRITE(PTR, $0042)
 //シェルターB7<$00>
-Shelter B7＿<$00>
+Shelter B7 <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -493,7 +493,7 @@ broken.<$14><$12><$00>
 
 #WRITE(PTR, $0044)
 //シェルターB8<$00>
-Shelter B8＿<$00>
+Shelter B8 <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -527,7 +527,7 @@ enough to fall for her antics!<$12><$00>
 
 #WRITE(PTR, $0046)
 //シェルターB8<$00>
-Shelter B8＿<$00>
+Shelter B8 <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -597,8 +597,8 @@ transplant Linda's arm.<$00>
 
 
 //<CLEAR>そこに「<$1B>サソリ」が　いるのよ\nその肉が　４つほど必要なの<$00>
-<CLEAR>We need you to hunt＿scorpions, and bring us 4\n
-Scorpion Filets.<$00>
+<CLEAR>We need you to hunt scorpions, and bring us 4 Scorpion\n
+Filets.<$00>
 
 
 //<CLEAR>行ってくれるでしょ　ケン？<$00>
@@ -621,8 +621,8 @@ us. That's the person you are.<$00>
 
 
 //<CLEAR>くれぐれも　注意してね\n<$1B>サソリには　ソックリで狂暴な\n突然変異種も　混じってるから<$00>
-<CLEAR>Please be careful. A mutated, violent kind of＿scorpion\n
-also lives in the cave.<$00>
+<CLEAR>Please be careful. A mutated, violent kind of scorpion also\n
+lives in the cave.<$00>
 
 
 //<CLEAR>お父様のほうは　当分\n心配しなくていいと　思うわ<$00>
@@ -639,7 +639,7 @@ skills and capabilities first and foremost.<$00>
 
 
 //<CLEAR>南の洞くつの　<$1B>サソリの肉４つ<$00>
-<CLEAR>We need 4＿Scorpion Filets from the southern cave.<$00>
+<CLEAR>We need 4 Scorpion Filets from the southern cave.<$00>
 
 
 //<CLEAR>それさえあれば　手術の時間が\n大幅に　短縮できるはずなの\n失敗する確率も　かなり減るわ<$00>
@@ -649,7 +649,7 @@ of complications.<$00>
 
 #WRITE(PTR, $0048)
 //シェルターB8<$00>
-Shelter B8＿<$00>
+Shelter B8 <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -722,7 +722,7 @@ should look at it.<$00>
 
 #WRITE(PTR, $004A)
 //シェルターB7<$00>
-Shelter B7＿<$00>
+Shelter B7 <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -764,12 +764,12 @@ enough to fall for her antics!<$12><$00>
 
 //<CLEAR>終わったわよ、ケン！\nウソみたいに　早かったでしょ？\n<$1B>サソリの肉のおかげよ！<$00>
 <CLEAR>The transplant is complete! Wasn't that fast? All thanks to\n
-the＿Scorpion Filets.<$00>
+the Scorpion Filets.<$00>
 
 
 //<CLEAR>それと　途中から　ヨシコも\n手伝ってくれたから　スピードが\n<$06>1.5<$04>倍に　上がったの<$00>
-<CLEAR>Yoshiko got up to lend a hand too, giving me a＿<$06>150<$04>%\n
-speed boost.<$00>
+<CLEAR>Yoshiko got up to lend a hand too, giving me a <$06>150<$04>% speed\n
+boost.<$00>
 
 
 //<CLEAR>リンダさんも　そろそろ\n意識が　戻る頃だわ\nさあ　早く来て∥<$00>
@@ -792,7 +792,7 @@ When I said, "killing it", I didn't mean  literally.<$12><$00>
 
 #WRITE(PTR, $004C)
 //シェルターB8<$00>
-Shelter B8＿<$00>
+Shelter B8 <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -876,7 +876,7 @@ hand<$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは　リンダを　抱き起こして\nそっと　唇を<$1D>に…<$14><$12><$00>
-<CLEAR><$19>1<$15>SKen took Linda close and kissed her＿<$1D>.<$14><$12><$00>
+<CLEAR><$19>1<$15>SKen took Linda close and kissed her <$1D>.<$14><$12><$00>
 
 
 //<CLEAR>な、何すんのよ！　ケン∥\n人がいい気持ちで　寝てるのを\nいいことに　このスケベ∥<$00>
@@ -1058,7 +1058,7 @@ Sniff...sniff, sniff?<$12>\n
 
 
 //、…<$1D>に行けば<$00>
-! That's where we'll find a＿<$1D>.<$00>
+! That's where we'll find a <$1D>.<$00>
 
 
 //直進<$00>
@@ -1082,7 +1082,7 @@ Back<$00>
 
 
 //、絶対に<$1D>∥<$00>
-wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
+wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
@@ -1094,35 +1094,35 @@ wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
 
 
 //運命の<$00>
-Fated＿<$00>
+Fated <$00>
 
 
 //新しい<$00>
-New＿<$00>
+New <$00>
 
 
 //素敵な<$00>
-Great＿<$00>
+Great <$00>
 
 
 //未知の<$00>
-Unknown＿<$00>
+Unknown <$00>
 
 
 //何か<$00>
-things＿<$00>
+things <$00>
 
 
 //発見<$00>
-discoveries＿<$00>
+discoveries <$00>
 
 
 //お宝<$00>
-treasures＿<$00>
+treasures <$00>
 
 
 //動物<$00>
-animals＿<$00>
+animals <$00>
 
 
 //に　出会える…<$00>

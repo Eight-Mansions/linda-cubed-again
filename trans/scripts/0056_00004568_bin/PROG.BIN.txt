@@ -66,7 +66,7 @@ box.obj
 
 #WRITE(PTR, $0026)
 //教会１Ｆ<$00>
-Church 1F＿<$00>
+Church 1F <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -100,7 +100,7 @@ enough to fall for her antics!<$12><$00>
 
 #WRITE(PTR, $0028)
 //教会２Ｆ<$00>
-Church 2F＿<$00>
+Church 2F <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -134,12 +134,12 @@ enough to fall for her antics!<$12><$00>
 
 //あら、結婚式の下見かしら？\nパック料金で　<$06>680<$04>￥から\nいろんなコースが　ありますわよ<$12><$00>
 Oh, here for a wedding rehearsal? Our customized packages\n
-start at＿<$06>680<$04>￥ per session!<$12><$00>
+start at <$06>680<$04>￥ per session!<$12><$00>
 
 
 #WRITE(PTR, $002A)
 //教会３Ｆ<$00>
-Church 3F＿<$00>
+Church 3F <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -181,27 +181,27 @@ without a Secret Key.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen found the＿<$1D>!<$14><$12><$00>
+<CLEAR><$19><$15>SKen found the <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the＿<$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen acquired＿<$1D>!<$14><$12><$00>
+<CLEAR><$19><$15>SKen acquired <$1D>!<$14><$12><$00>
 
 
 //そのカギのかかった　扉の向こう側が\n禁断の部屋と　呼ばれる部屋…<$12>\n<CLEAR>私はここに　<$06>10<$04>年近くいるけど\nまだ、その扉が開いてるところは\nそういえば　一度も見てないわ<$12><$00>
 On the other side of that locked door is what we call "the\n
 secret room."<$12>\n
-<CLEAR>I've been here for a good＿<$06>10<$04>＿years, and I've yet to\n
-see what lies inside!<$12><$00>
+<CLEAR>I've been here for a good <$06>10<$04> years, and I've yet to see\n
+what lies inside!<$12><$00>
 
 
 #WRITE(PTR, $002C)
 //教会４Ｆ<$00>
-Church 4F＿<$00>
+Church 4F <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -235,7 +235,7 @@ enough to fall for her antics!<$12><$00>
 
 #WRITE(PTR, $002E)
 //教会５Ｆ<$00>
-Church 5F＿<$00>
+Church 5F <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -269,7 +269,7 @@ enough to fall for her antics!<$12><$00>
 
 #WRITE(PTR, $0030)
 //教会６Ｆ<$00>
-Church 6F＿<$00>
+Church 6F <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -385,7 +385,7 @@ IN TRANS-CARGO UNIT.<$12><$00>
 
 
 //、…<$1D>に行けば<$00>
-! That's where we'll find a＿<$1D>.<$00>
+! That's where we'll find a <$1D>.<$00>
 
 
 //直進<$00>
@@ -409,7 +409,7 @@ Back<$00>
 
 
 //、絶対に<$1D>∥<$00>
-wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
+wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
@@ -421,35 +421,35 @@ wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
 
 
 //運命の<$00>
-Fated＿<$00>
+Fated <$00>
 
 
 //新しい<$00>
-New＿<$00>
+New <$00>
 
 
 //素敵な<$00>
-Great＿<$00>
+Great <$00>
 
 
 //未知の<$00>
-Unknown＿<$00>
+Unknown <$00>
 
 
 //何か<$00>
-things＿<$00>
+things <$00>
 
 
 //発見<$00>
-discoveries＿<$00>
+discoveries <$00>
 
 
 //お宝<$00>
-treasures＿<$00>
+treasures <$00>
 
 
 //動物<$00>
-animals＿<$00>
+animals <$00>
 
 
 //に　出会える…<$00>
@@ -497,8 +497,7 @@ are dead head!<$00>
 
 //クン、クンクン………？<$12>\n<CLEAR><$1D>のニオイが　するね\nそういえば、<$1D>食まだだっけ…<$12><$00>
 Sniff...sniff, sniff?<$12>\n
-<CLEAR><$1D>＿scent's filling the air. You know, I could go for\n
-some＿<$1D>＿!<$12><$00>
+<CLEAR><$1D> scent's filling the air. You know, I could go for some <$1D> !<$12><$00>
 
 
 //卵焼き<$00>
@@ -546,7 +545,7 @@ sauce<$00>
 
 
 //スープ<$00>
-＿soup<$00>
+ soup<$00>
 
 
 //ピラフ<$00>

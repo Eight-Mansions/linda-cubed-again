@@ -11,7 +11,7 @@
 #WRITE(PTR, $0026)
 //<CLEAR><$1C>Aは\n<$1C>Kを　飛び越えて\n反対側に　着地した∥<$00>
 <CLEAR><$1C>A\n
-sprang over＿<$1C>K\n
+sprang over <$1C>K\n
 and landed on the other side!<$00>
 
 
@@ -120,7 +120,7 @@ m040m.obj
 
 #WRITE(PTR, $002A)
 //教会１Ｆ<$00>
-Church 1F＿<$00>
+Church 1F <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -168,10 +168,10 @@ work, food nor shelter.<$12>\n
 
 
 //あなたたちが　今、立ってる\nちょうど　その辺りにね…\n<$06>30<$04>ほど　死体があったんだってよ<$12>\n<CLEAR><$06><$1E><$04>年前の　クリスマスイブにね\n犯人は　発狂した当時の町長だった男…\n身重の奥さんまで　手にかけたそうよ<$12><$00>
-At one point, there was a pile of＿<$06>30<$04>＿or so corpses,\n
-right where you're standing.<$12>\n
-<CLEAR>That was after Xmas Eve,＿<$06><$1E><$04>＿years ago, when the elder\n
-at the time slaughtered the entire village.<$12>\n
+At one point, there was a pile of <$06>30<$04> or so corpses, right\n
+where you're standing.<$12>\n
+<CLEAR>That was after Xmas Eve, <$06><$1E><$04> years ago, when the elder at the\n
+time slaughtered the entire village.<$12>\n
 <CLEAR>He had gone mad. So mad, even, that he killed his pregnant\n
 wife with his own hands.<$12><$00>
 
@@ -179,10 +179,10 @@ wife with his own hands.<$12><$00>
 //この町、ご自慢の「<$1B>トラの爪」って\nスゴい希少価値の　武器なんだってね<$12>\n<CLEAR>材料になる<$1B>トラ自身、今じゃ\n数が少ないし、運良く見つけても\nオス<$06>10<$04>頭は　捕まえるのは無理よ<$12>\n<CLEAR>だって、<$1B>トラのオスって\n<$1B>ライオンの群れが　逃げ出すくらい\nケタ違いの　攻撃力って話なんだもん<$12><$00>
 The village's prized Tiger Claw is a rare and powerful\n
 weapon.<$12>\n
-<CLEAR>Because＿Tigers are so rare now, it's nigh impossible to\n
-catch the＿<$06>10<$04>＿needed to craft one.<$12>\n
-<CLEAR>It would be worth it, because＿tiger males hit far\n
-harder than their＿lion counterparts.<$12><$00>
+<CLEAR>Because Tigers are so rare now, it's nigh impossible to\n
+catch the <$06>10<$04> needed to craft one.<$12>\n
+<CLEAR>It would be worth it, because tiger males hit far\n
+harder than their lion counterparts.<$12><$00>
 
 
 //どうだい？　私の犬、かわいいだろ？\nこのコたちは、鬼ごっこが好きでね\n<$01>俺も好きですよ<$0E>／<$01>俺は大嫌いだ∥<$0E><$00>
@@ -202,7 +202,7 @@ around with dogs on my ass."<$12><$00>
 
 #WRITE(PTR, $002C)
 //教会２Ｆ<$00>
-Church 2F＿<$00>
+Church 2F <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -247,39 +247,39 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen found the＿<$1D>!<$14><$12><$00>
+<CLEAR><$19><$15>SKen found the <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the＿<$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen acquired＿<$1D>!<$14><$12><$00>
+<CLEAR><$19><$15>SKen acquired <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen found the＿<$1D>!<$14><$12><$00>
+<CLEAR><$19><$15>SKen found the <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the＿<$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen acquired＿<$1D>!<$14><$12><$00>
+<CLEAR><$19><$15>SKen acquired <$1D>!<$14><$12><$00>
 
 
 //コシカタ復興<$06>10<$04>周年の　記念祭を\nやることに　決まったんだって！<$12>\n<CLEAR>例の事件のどさくさで　紛失してた\nこの町のお守りの品、「<$1B>トラの爪」も\n見つかったそうだし　盛り上がるわよ<$12><$00>
-The village wishes to hold a＿<$06>10<$04>th anniversary festival for\n
+The village wishes to hold a <$06>10<$04>th anniversary festival for\n
 the Koshikata restoration!<$12>\n
-<CLEAR>With the＿Tiger Claw found in the hustle and bustle too,\n
+<CLEAR>With the Tiger Claw found in the hustle and bustle too,\n
 we're back to normal! <$12><$00>
 
 
 #WRITE(PTR, $002E)
 //教会３Ｆ<$00>
-Church 3F＿<$00>
+Church 3F <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -320,15 +320,15 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen found the＿<$1D>!<$14><$12><$00>
+<CLEAR><$19><$15>SKen found the <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the＿<$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen acquired＿<$1D>!<$14><$12><$00>
+<CLEAR><$19><$15>SKen acquired <$1D>!<$14><$12><$00>
 
 
 //あたしら、ビースチャンや動物たちは\n大地の底で生まれて　井戸を通って\n地上に　上ってきたってね…<$12>\n<CLEAR>年寄りの中には　今でも本気で\nそう信じてる人が　いるみたいね<$12><$00>
@@ -341,7 +341,7 @@ believe that...<$12><$00>
 
 #WRITE(PTR, $0030)
 //教会４Ｆ<$00>
-Church 4F＿<$00>
+Church 4F <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -375,7 +375,7 @@ enough to fall for her antics!<$12><$00>
 
 #WRITE(PTR, $0032)
 //教会５Ｆ<$00>
-Church 5F＿<$00>
+Church 5F <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -409,7 +409,7 @@ enough to fall for her antics!<$12><$00>
 
 #WRITE(PTR, $0034)
 //教会６Ｆ<$00>
-Church 6F＿<$00>
+Church 6F <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -443,7 +443,7 @@ enough to fall for her antics!<$12><$00>
 
 #WRITE(PTR, $0036)
 //教会Ｂ１<$00>
-Church B1＿<$00>
+Church B1 <$00>
 
 
 //<CLEAR>ここでは　野営できない<$12><$00>
@@ -524,27 +524,27 @@ here, he stopped.<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen found the＿<$1D>!<$14><$12><$00>
+<CLEAR><$19><$15>SKen found the <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the＿<$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen acquired＿<$1D>!<$14><$12><$00>
+<CLEAR><$19><$15>SKen acquired <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen found the＿<$1D>!<$14><$12><$00>
+<CLEAR><$19><$15>SKen found the <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the＿<$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen acquired＿<$1D>!<$14><$12><$00>
+<CLEAR><$19><$15>SKen acquired <$1D>!<$14><$12><$00>
 
 
 #WRITE(PTR, $0038)
@@ -586,7 +586,7 @@ here, he stopped.<$12><$00>
 
 
 //、…<$1D>に行けば<$00>
-! That's where we'll find a＿<$1D>.<$00>
+! That's where we'll find a <$1D>.<$00>
 
 
 //直進<$00>
@@ -610,7 +610,7 @@ Back<$00>
 
 
 //、絶対に<$1D>∥<$00>
-wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
+wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
@@ -622,35 +622,35 @@ wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
 
 
 //運命の<$00>
-Fated＿<$00>
+Fated <$00>
 
 
 //新しい<$00>
-New＿<$00>
+New <$00>
 
 
 //素敵な<$00>
-Great＿<$00>
+Great <$00>
 
 
 //未知の<$00>
-Unknown＿<$00>
+Unknown <$00>
 
 
 //何か<$00>
-things＿<$00>
+things <$00>
 
 
 //発見<$00>
-discoveries＿<$00>
+discoveries <$00>
 
 
 //お宝<$00>
-treasures＿<$00>
+treasures <$00>
 
 
 //動物<$00>
-animals＿<$00>
+animals <$00>
 
 
 //に　出会える…<$00>
@@ -697,7 +697,7 @@ are dead head!<$00>
 
 
 //<$15>Yスケジュール<$00>
-<$15>YMemo＿<$00>
+<$15>YMemo <$00>
 
 
 //<CLEAR>スケジュールは何もありません<$12><$00>
@@ -713,15 +713,15 @@ Expired!<$00>
 
 
 //あと<$1E>季節<$00>
-In＿<$1E>＿seasons<$00>
+In <$1E> seasons<$00>
 
 
 //あと<$1E>年<$1E>季節<$00>
-Deadline:＿<$1E>Y/<$1E>S<$00>
+Deadline: <$1E>Y/<$1E>S<$00>
 
 
 //あと<$1E>年<$00>
-In＿<$1E>＿years<$00>
+In <$1E> years<$00>
 
 
 //<$16><$01>◇<$0E><$1D><$02>190<$1D><$00>
@@ -778,17 +778,17 @@ Hardia Hotel.<$00>
 
 
 //<CLEAR>マーブルポリスの<$1B>ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す<$00>
-<CLEAR>Process meat from＿chickens in Marblopolis.Give them to\n
+<CLEAR>Process meat from chickens in Marblopolis.Give them to\n
 Prof. Panheim in Hospico.<$00>
 
 
 //<CLEAR><$1B>カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す<$00>
-<CLEAR>Find up to 3＿Turtle Eggs. Give them to Louis at the Battle\n
+<CLEAR>Find up to 3 Turtle Eggs. Give them to Louis at the Battle\n
 Park BB Ranch.<$00>
 
 
 //<CLEAR><$1B>プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す<$00>
-<CLEAR>Acquire 2＿Pteranodon Eggs. Give them to Bronco at the\n
+<CLEAR>Acquire 2 Pteranodon Eggs. Give them to Bronco at the\n
 Battle Park BB Ranch.<$00>
 
 
@@ -802,15 +802,15 @@ Aumann children in Dogyf Heights.<$00>
 
 
 //あと<$06><$1E><$0F>000<$04><$00>
-another＿<$06><$1E><$0F><$04><$00>
+another <$06><$1E><$0F><$04><$00>
 
 
 //<CLEAR>Ｇファクトリーのヤマダのために\n<$1D>￥を預金する<$00>
-<CLEAR>Deposit＿<$1D>￥ in an account to Yamada in G Factory.<$00>
+<CLEAR>Deposit <$1D>￥ in an account to Yamada in G Factory.<$00>
 
 
 //<CLEAR>コシカタのシンボル「<$1B>トラの爪」を\n見つけだし、ポリスカに渡す<$00>
-<CLEAR>Find the＿Tiger Claw, Koshikata's village symbol. Return it\n
+<CLEAR>Find the Tiger Claw, Koshikata's village symbol. Return it\n
 to Poliska.<$00>
 
 
@@ -829,17 +829,17 @@ Eterna.<$00>
 
 
 //<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nＧファクトリー入口１階、\n公衆電話の前に行く<$00>
-<CLEAR>Take the Floppy Disc and＿<$06>10, 000<$04>￥ to the G Factory\n
-gate. Answer the payphone.<$00>
+<CLEAR>Take the Floppy Disc and <$06>10, 000<$04>￥ to the G Factory gate.\n
+Answer the payphone.<$00>
 
 
 //<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nパラサイド入口１階、\n公衆電話の前に行く<$00>
-<CLEAR>Take the Floppy Disc and＿<$06>10, 000<$04>￥ to the Paraside gate.\n
+<CLEAR>Take the Floppy Disc and <$06>10, 000<$04>￥ to the Paraside gate.\n
 Answer the payphone.<$00>
 
 
 //<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nガレックスに行く<$00>
-<CLEAR>Take the Floppy Disc and＿<$06>10, 000<$04>￥ to Galax.<$00>
+<CLEAR>Take the Floppy Disc and <$06>10, 000<$04>￥ to Galax.<$00>
 
 
 //<CLEAR>ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す<$00>
@@ -893,7 +893,7 @@ How much will you donate?\n
 
 
 //<CLEAR><$06><$1E><$04>￥の寄付ですね\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
-<CLEAR>You'll donate＿<$06><$1E><$04>￥?\n
+<CLEAR>You'll donate <$06><$1E><$04>￥?\n
 <$01>Yes<$0E> / <$01>No<$0E><$00>
 
 
@@ -929,7 +929,7 @@ that's good too!<$12><$00>
 Is this...what they call "a gift from God"?<$12>\n
 <CLEAR>To see someone who- by all rights- wouldn't have much\n
 be so generous brings me to tears!<$12>\n
-<CLEAR>Is＿<$06>100,000<$04>￥ a fair price to you?<$12><$00>
+<CLEAR>Is <$06>100,000<$04>￥ a fair price to you?<$12><$00>
 
 
 //<CLEAR>本当に　ありがとうございました∥\nあなたのお気持ちは　しっかりと…<$12>\n「記録」しておきましたよ<$12><$00>
@@ -954,7 +954,7 @@ trap, don't forget to set it up!<$12><$00>
 
 //当店自慢の「貸しワナ」で\n危険な動物も　安全にあなたのモノに∥\n<$01>借りる＿<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
 Our service is great for safely snaring animals!\n
-<$01>Rent trap＿<$0E> / <$01>Chat<$0E> / <$01>Exit<$0E><$00>
+<$01>Rent trap <$0E> / <$01>Chat<$0E> / <$01>Exit<$0E><$00>
 
 
 //<CLEAR><$1D><$06><$1E><$04><$14>￥　頂戴します\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
@@ -1108,8 +1108,7 @@ Ken sprinkled the Chanel No. 5 over himself.<$00>
 
 //クン、クンクン………？<$12>\n<CLEAR><$1D>のニオイが　するね\nそういえば、<$1D>食まだだっけ…<$12><$00>
 Sniff...sniff, sniff?<$12>\n
-<CLEAR><$1D>＿scent's filling the air. You know, I could go for\n
-some＿<$1D>＿!<$12><$00>
+<CLEAR><$1D> scent's filling the air. You know, I could go for some <$1D> !<$12><$00>
 
 
 //卵焼き<$00>
@@ -1157,7 +1156,7 @@ sauce<$00>
 
 
 //スープ<$00>
-＿soup<$00>
+ soup<$00>
 
 
 //ピラフ<$00>

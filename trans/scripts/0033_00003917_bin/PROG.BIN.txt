@@ -150,7 +150,7 @@ kao_l33.obj
 
 #WRITE(PTR, $001C)
 //オズポート<$00>
-OzPort＿<$00>
+OzPort <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -199,7 +199,7 @@ me, someone who ACTUALLY needs the money?<$12><$00>
 //公園内での　キャッチボール、たき火等\n他人の迷惑になる行為を　禁じます\n＿＿＿＿＿＿＿＿オズポート公園管理局<$12><$00>
 "NUISANCE ACTIVITIES\n
 (BALL GAMES, BONFIRES, ETC) ARE BANNED!"\n
-＿-OZPORT PARK STAFF<$12><$00>
+ -OZPORT PARK STAFF<$12><$00>
 
 
 //赤糸杉\nこの木に　恋人の名を刻むと　想いが\nかなうという伝説が　ありますが…<$12>\n<CLEAR>むやみに　木を傷つけると\n枯れてしまう原因に　なります<$12>\n<CLEAR>絶対　やめてください\n＿\n＿＿＿＿＿＿＿＿オズポート公園管理局<$12><$00>
@@ -208,7 +208,7 @@ CYPRESS LIVE HAPPILY EVER AFTER."<$12>\n
 <CLEAR>"WHETHER THAT LEGEND IS TRUE OR NOT, IT IS NOT A GOOD\n
 REASON TO HURT AND KILL OUR TREES."<$12>\n
 <CLEAR>"WE ASK THE PUBLIC TO CEASE AND DESIST."!\n
-＿-OZPORT PARK STAFF<$12><$00>
+ -OZPORT PARK STAFF<$12><$00>
 
 
 //レンジャー隊の本部の　記録係のコ！\n彼女の雑談って　いろんな噂話が聞けて\n面白いよな？　半分はウソだけどさ<$12>\n<CLEAR>しかし…　内勤の女ってサ、\n何でみんな　噂好きなんだろ？\n仕事の十倍は　精力を傾けてるよな<$12><$00>
@@ -263,7 +263,7 @@ Mama first before selling them.<$12><$00>
 
 
 //<CLEAR>あの高級花嫁衣裳の　お値段って\nいったい<$08>4おいくらなのかしら<$08>-2？<$08>-4<$00>
-<CLEAR>I wonder how much they charge for that＿<$08>4luxury gown in\n
+<CLEAR>I wonder how much they charge for that <$08>4luxury gown in\n
 there<$08>-2...<$08><$00>
 
 
@@ -514,13 +514,13 @@ come in handy someday! <$12><$00>
 
 
 //<CLEAR>あたしに有り金を　全部渡したその足で\nＬ－<$06>22<$04>辺りを　散歩してごらん\nきっと珍しいヤツに　出くわすよ<$12><$00>
-<CLEAR>There's some fellers around L-<$06>22<$04>＿who only approach\n
-those they find desirable.<$12><$00>
+<CLEAR>There's some fellers around L-<$06>22<$04> who only approach those\n
+they find desirable.<$12><$00>
 
 
 //<CLEAR>間違っても　Ｌ－<$06>24<$04>やＧ－<$06>14<$04>で\n野宿なんかしないほうが　身のためだよ\nこわいヤツが　夢に出て来るってサ<$12><$00>
-<CLEAR>Whatever you do, don't camp around L-<$06>24<$04>＿or G-<$06>14<$04>.\n
-Weirdos bump in the night out there, if you catch my drift.<$12><$00>
+<CLEAR>Whatever you do, don't camp around L-<$06>24<$04> or G-<$06>14<$04>. Weirdos\n
+bump in the night out there, if you catch my drift.<$12><$00>
 
 
 //<CLEAR>いつも神様は　あなたの行動を\n見ていらっしゃいますよ…<$12><$00>
@@ -534,7 +534,7 @@ How much will you donate?\n
 
 
 //<CLEAR><$06><$1E><$04>￥の寄付ですね\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
-<CLEAR>You'll donate＿<$06><$1E><$04>￥?\n
+<CLEAR>You'll donate <$06><$1E><$04>￥?\n
 <$01>Yes<$0E> / <$01>No<$0E><$00>
 
 
@@ -586,7 +586,7 @@ that's good too!<$12><$00>
 Is this...what they call "a gift from God"?<$12>\n
 <CLEAR>To see someone who- by all rights- wouldn't have much\n
 be so generous brings me to tears!<$12>\n
-<CLEAR>Is＿<$06>100,000<$04>￥ a fair price to you?<$12><$00>
+<CLEAR>Is <$06>100,000<$04>￥ a fair price to you?<$12><$00>
 
 
 //<CLEAR>本当に　ありがとうございました∥\nあなたのお気持ちは　しっかりと…<$12>\n「記録」しておきましたよ<$12><$00>
@@ -596,15 +596,15 @@ I know, because I just "reported" it.<$12><$00>
 
 
 //個<$00>
-＿<$00>
+ <$00>
 
 
 //匹<$00>
-＿<$00>
+ <$00>
 
 
 //<$1D>を<$1D>ます\n<$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04>／<$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S￥<$00>
-<$1D>＿x<$1D>＿\n
+<$1D> x<$1D> \n
 <$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04> / <$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S￥<$00>
 
 
@@ -638,11 +638,11 @@ I know, because I just "reported" it.<$12><$00>
 
 //<CLEAR>トランスカーゴは　１枠につき\n<$06>99<$04>頭までしか　収容できません<$12><$00>
 <CLEAR>The trans-cargo unit has\n
-a＿<$06>99<$04>＿species capacity!<$12><$00>
+a <$06>99<$04> species capacity!<$12><$00>
 
 
 //<CLEAR><$06>トランスカーゴ<$04>がいっぱいです<$12><$00>
-<CLEAR><$06>The trans-cargo unit＿<$04>is full!<$12><$00>
+<CLEAR><$06>The trans-cargo unit <$04>is full!<$12><$00>
 
 
 //<CLEAR>道具がいっぱいです<$12><$00>
@@ -673,8 +673,8 @@ why I don't buy them.<$12><$00>
 
 //クン、クンクン………？<$12>\n<CLEAR>ここには　少なくとも<$1E>1人！\nいいえ…　<$1E>1人はいるわよ…<$12>\n<CLEAR>お風呂と縁のない人<$12><$00>
 Sniff...sniff, sniff?<$12>\n
-<CLEAR>There's not＿<$1E>1 soul here!\n
-Wait... No, there's at least＿<$1E>1.<$12>\n
+<CLEAR>There's not <$1E>1 soul here!\n
+Wait... No, there's at least <$1E>1.<$12>\n
 <CLEAR>It's whatever they reek of that isn't human.<$12><$00>
 
 
@@ -715,7 +715,7 @@ Wait... No, there's at least＿<$1E>1.<$12>\n
 
 
 //、…<$1D>に行けば<$00>
-! That's where we'll find a＿<$1D>.<$00>
+! That's where we'll find a <$1D>.<$00>
 
 
 //直進<$00>
@@ -739,7 +739,7 @@ Back<$00>
 
 
 //、絶対に<$1D>∥<$00>
-wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
+wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
@@ -751,35 +751,35 @@ wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
 
 
 //運命の<$00>
-Fated＿<$00>
+Fated <$00>
 
 
 //新しい<$00>
-New＿<$00>
+New <$00>
 
 
 //素敵な<$00>
-Great＿<$00>
+Great <$00>
 
 
 //未知の<$00>
-Unknown＿<$00>
+Unknown <$00>
 
 
 //何か<$00>
-things＿<$00>
+things <$00>
 
 
 //発見<$00>
-discoveries＿<$00>
+discoveries <$00>
 
 
 //お宝<$00>
-treasures＿<$00>
+treasures <$00>
 
 
 //動物<$00>
-animals＿<$00>
+animals <$00>
 
 
 //に　出会える…<$00>

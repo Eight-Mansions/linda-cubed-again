@@ -72,7 +72,7 @@ c174a0.obj
 
 #WRITE(PTR, $0024)
 //テント<$00>
-Tent＿<$00>
+Tent <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -114,7 +114,7 @@ furniture, you name it...for this.<$12>\n
 
 #WRITE(PTR, $0026)
 //装備屋テント<$00>
-Equipment Tent＿<$00>
+Equipment Tent <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -153,7 +153,7 @@ is not a mistake one makes twice.<$12><$00>
 
 #WRITE(PTR, $0028)
 //花たば屋<$00>
-Florist＿<$00>
+Florist <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -239,7 +239,7 @@ Yellow bouquets...<$12>\n
 
 #WRITE(PTR, $002A)
 //謎のテント<$00>
-Shady Tent＿<$00>
+Shady Tent <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -289,7 +289,7 @@ what's good about my tent, bro?<$12>\n
 
 
 //<CLEAR>やだなぁ…<$1D><$06><$1E><$04><$14>￥もないのかよ<$12><$00>
-<CLEAR>Damn, bro. You don't even have＿<$1D><$06><$1E><$04><$14>￥?<$12><$00>
+<CLEAR>Damn, bro. You don't even have <$1D><$06><$1E><$04><$14>￥?<$12><$00>
 
 
 //<CLEAR>じゃ　このベッドを使ってくれ<$12><$00>
@@ -302,7 +302,7 @@ If you ever miss my scent, bro, come back anytime.<$12><$00>
 
 #WRITE(PTR, $002C)
 //テント<$00>
-Tent＿<$00>
+Tent <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -335,22 +335,22 @@ enough to fall for her antics!<$12><$00>
 
 
 //ここの地下にさ　電気<$1B>ナマズ用の\nでかいプールが　あるんだってね\n泳いだら　死ぬかな？<$12>\n<CLEAR>それもイイかな…<$12><$00>
-Think we'd die if we swam in the electric＿catfish pool\n
+Think we'd die if we swam in the electric catfish pool\n
 underground?<$12>\n
 <CLEAR>That'd be siiiiick...<$12><$00>
 
 
 #WRITE(PTR, $002E)
 //個<$00>
-＿<$00>
+ <$00>
 
 
 //匹<$00>
-＿<$00>
+ <$00>
 
 
 //<$1D>を<$1D>ます\n<$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04>／<$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S￥<$00>
-<$1D>＿x<$1D>＿\n
+<$1D> x<$1D> \n
 <$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04> / <$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S￥<$00>
 
 
@@ -384,11 +384,11 @@ underground?<$12>\n
 
 //<CLEAR>トランスカーゴは　１枠につき\n<$06>99<$04>頭までしか　収容できません<$12><$00>
 <CLEAR>The trans-cargo unit has\n
-a＿<$06>99<$04>＿species capacity!<$12><$00>
+a <$06>99<$04> species capacity!<$12><$00>
 
 
 //<CLEAR><$06>トランスカーゴ<$04>がいっぱいです<$12><$00>
-<CLEAR><$06>The trans-cargo unit＿<$04>is full!<$12><$00>
+<CLEAR><$06>The trans-cargo unit <$04>is full!<$12><$00>
 
 
 //<CLEAR>道具がいっぱいです<$12><$00>
@@ -401,13 +401,13 @@ I can't accept that!<$12><$00>
 
 
 //<CLEAR><$1D>を\n<$06><$1E><$04>￥で売りますか？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
-<CLEAR>Sell＿<$1D>＿for\n
+<CLEAR>Sell <$1D> for\n
 <$06><$1E><$04>￥?\n
 <$01>Yes<$0E> / <$01>No<$0E><$00>
 
 
 //<CLEAR><$1D><$15>Wは\nＡ級保護動物のため\n取り引きできません<$12><$00>
-<CLEAR><$1D><$15>W＿cannot be traded.\n
+<CLEAR><$1D><$15>W cannot be traded.\n
 Class A species\n
 trading is prohibited!<$12><$00>
 
@@ -417,16 +417,16 @@ trading is prohibited!<$12><$00>
 
 
 //<$16><$04><$01><$1D><$02>120<$0E><$02>216<$06><$1E><$04>匹で<$00>
-<$16><$04><$01><$1D><$02><$0E><$02><$06><$1E><$04>x＿<$00>
+<$16><$04><$01><$1D><$02><$0E><$02><$06><$1E><$04>x <$00>
 
 
 //<CLEAR><$1D>を作ります\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
-<CLEAR>Craft＿<$1D>?\n
+<CLEAR>Craft <$1D>?\n
 <$01>Yes<$0E> / <$01>No<$0E><$00>
 
 
 //<CLEAR><$1D>を作ります\n加工料金＿<$1D><$06><$1E><$04><$14>￥\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
-<CLEAR>Crafting a＿<$1D>＿\n
+<CLEAR>Crafting a <$1D> \n
 will cost<$1D><$06><$1E><$04><$14>￥.\n
 <$01>Okay<$0E> / <$01>Wait<$0E><$00>
 
@@ -440,7 +440,7 @@ will cost<$1D><$06><$1E><$04><$14>￥.\n
 
 
 //<CLEAR>加工料金＿<$15>b<$06><$1E><$04><$14>￥\nが足りません<$12><$00>
-<CLEAR>You can't afford the＿\n
+<CLEAR>You can't afford the \n
 <$15>b<$06><$1E><$04><$14>￥ fee!<$12><$00>
 
 
@@ -548,8 +548,8 @@ a room for <$1D><$06><$1E><$04><$14>￥?\n
 
 //クン、クンクン………？<$12>\n<CLEAR>ここには　少なくとも<$1E>1人！\nいいえ…　<$1E>1人はいるわよ…<$12>\n<CLEAR>お風呂と縁のない人<$12><$00>
 Sniff...sniff, sniff?<$12>\n
-<CLEAR>There's not＿<$1E>1 soul here!\n
-Wait... No, there's at least＿<$1E>1.<$12>\n
+<CLEAR>There's not <$1E>1 soul here!\n
+Wait... No, there's at least <$1E>1.<$12>\n
 <CLEAR>It's whatever they reek of that isn't human.<$12><$00>
 
 
@@ -590,7 +590,7 @@ Wait... No, there's at least＿<$1E>1.<$12>\n
 
 
 //、…<$1D>に行けば<$00>
-! That's where we'll find a＿<$1D>.<$00>
+! That's where we'll find a <$1D>.<$00>
 
 
 //直進<$00>
@@ -614,7 +614,7 @@ Back<$00>
 
 
 //、絶対に<$1D>∥<$00>
-wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
+wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
@@ -626,35 +626,35 @@ wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
 
 
 //運命の<$00>
-Fated＿<$00>
+Fated <$00>
 
 
 //新しい<$00>
-New＿<$00>
+New <$00>
 
 
 //素敵な<$00>
-Great＿<$00>
+Great <$00>
 
 
 //未知の<$00>
-Unknown＿<$00>
+Unknown <$00>
 
 
 //何か<$00>
-things＿<$00>
+things <$00>
 
 
 //発見<$00>
-discoveries＿<$00>
+discoveries <$00>
 
 
 //お宝<$00>
-treasures＿<$00>
+treasures <$00>
 
 
 //動物<$00>
-animals＿<$00>
+animals <$00>
 
 
 //に　出会える…<$00>

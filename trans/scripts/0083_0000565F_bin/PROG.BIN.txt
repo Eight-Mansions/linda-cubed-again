@@ -270,7 +270,7 @@ z116_120.obj
 
 #WRITE(PTR, $0020)
 //ＢＢ牧場１Ｆ<$00>
-BB Ranch 1F＿<$00>
+BB Ranch 1F <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -303,15 +303,15 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen found the＿<$1D>!<$14><$12><$00>
+<CLEAR><$19><$15>SKen found the <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the＿<$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen acquired＿<$1D>!<$14><$12><$00>
+<CLEAR><$19><$15>SKen acquired <$1D>!<$14><$12><$00>
 
 
 //<CLEAR>動物の姿が　人間の鈍感な眼に\n映らないからといって　そこに動物が\nいないという理由には　ならないよ<$12>\n<CLEAR>ヤツらは　岩や木にソックリに\n化けてることもあるし　岩や木が\nヤツらに　ソックリなこともあるのサ<$12><$00>
@@ -339,7 +339,7 @@ doing the same thing.<$12><$00>
 
 #WRITE(PTR, $0022)
 //ＢＢ牧場Ｂ１<$00>
-BB Ranch B1＿<$00>
+BB Ranch B1 <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -389,15 +389,15 @@ and die without ever tasting regret!<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen found the＿<$1D>!<$14><$12><$00>
+<CLEAR><$19><$15>SKen found the <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the＿<$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen acquired＿<$1D>!<$14><$12><$00>
+<CLEAR><$19><$15>SKen acquired <$1D>!<$14><$12><$00>
 
 
 #WRITE(PTR, $0024)
@@ -407,15 +407,15 @@ and die without ever tasting regret!<$12><$00>
 
 
 //個<$00>
-＿<$00>
+ <$00>
 
 
 //匹<$00>
-＿<$00>
+ <$00>
 
 
 //<$1D>を<$1D>ます\n<$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04>／<$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S￥<$00>
-<$1D>＿x<$1D>＿\n
+<$1D> x<$1D> \n
 <$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04> / <$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S￥<$00>
 
 
@@ -449,11 +449,11 @@ and die without ever tasting regret!<$12><$00>
 
 //<CLEAR>トランスカーゴは　１枠につき\n<$06>99<$04>頭までしか　収容できません<$12><$00>
 <CLEAR>The trans-cargo unit has\n
-a＿<$06>99<$04>＿species capacity!<$12><$00>
+a <$06>99<$04> species capacity!<$12><$00>
 
 
 //<CLEAR><$06>トランスカーゴ<$04>がいっぱいです<$12><$00>
-<CLEAR><$06>The trans-cargo unit＿<$04>is full!<$12><$00>
+<CLEAR><$06>The trans-cargo unit <$04>is full!<$12><$00>
 
 
 //<CLEAR>道具がいっぱいです<$12><$00>
@@ -501,7 +501,7 @@ back often!<$12><$00>
 
 
 //<CLEAR><$1D><$15>Wは\nＡ級保護動物のため\n取り引きできません<$12><$00>
-<CLEAR><$1D><$15>W＿cannot be traded.\n
+<CLEAR><$1D><$15>W cannot be traded.\n
 Class A species\n
 trading is prohibited!<$12><$00>
 
@@ -552,7 +552,7 @@ We need 1 male and 1 female per couple.<$12><$00>
 
 
 //<$1D>なら飼育費用は\n<$1D><$06><$1E><$04><$14>￥かかりますね\n<$01>契約する<$0E>／<$01>やめとく<$0E><$00>
-<$1D>＿breeding comes with a＿<$1D><$06><$1E><$04><$14>￥ fee.\n
+<$1D> breeding comes with a <$1D><$06><$1E><$04><$14>￥ fee.\n
 <$01>Pay<$0E> / <$01>Exit<$0E><$00>
 
 
@@ -580,7 +580,7 @@ We need 1 male and 1 female per couple.<$12><$00>
 
 
 //<CLEAR><$1D>は\nまだ繁殖期を迎えていません\n次の春以降に、お越しください<$12><$00>
-<CLEAR><$1D>＿breeding is not available this season. Please come\n
+<CLEAR><$1D> breeding is not available this season. Please come\n
 back sometime after next spring.<$12><$00>
 
 
@@ -590,7 +590,7 @@ again.<$12><$00>
 
 
 //<CLEAR>さて、<$1D>は…………………<$12><$00>
-<CLEAR>Let's see, for the＿<$1D>＿couple...........<$12><$00>
+<CLEAR>Let's see, for the <$1D> couple...........<$12><$00>
 
 
 //<CLEAR>夫婦仲が　よろしくないようで\n残念ながら　失敗でした\nこの夫婦は　お返しいたします<$12><$00>
@@ -618,8 +618,7 @@ Here you go.<$12><$00>
 
 //クン、クンクン………？<$12>\n<CLEAR><$1D>のニオイが　するね\nそういえば、<$1D>食まだだっけ…<$12><$00>
 Sniff...sniff, sniff?<$12>\n
-<CLEAR><$1D>＿scent's filling the air. You know, I could go for\n
-some＿<$1D>＿!<$12><$00>
+<CLEAR><$1D> scent's filling the air. You know, I could go for some <$1D> !<$12><$00>
 
 
 //卵焼き<$00>
@@ -667,7 +666,7 @@ sauce<$00>
 
 
 //スープ<$00>
-＿soup<$00>
+ soup<$00>
 
 
 //ピラフ<$00>
@@ -735,7 +734,7 @@ dinner<$00>
 
 
 //、…<$1D>に行けば<$00>
-! That's where we'll find a＿<$1D>.<$00>
+! That's where we'll find a <$1D>.<$00>
 
 
 //直進<$00>
@@ -759,7 +758,7 @@ Back<$00>
 
 
 //、絶対に<$1D>∥<$00>
-wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
+wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
@@ -771,35 +770,35 @@ wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
 
 
 //運命の<$00>
-Fated＿<$00>
+Fated <$00>
 
 
 //新しい<$00>
-New＿<$00>
+New <$00>
 
 
 //素敵な<$00>
-Great＿<$00>
+Great <$00>
 
 
 //未知の<$00>
-Unknown＿<$00>
+Unknown <$00>
 
 
 //何か<$00>
-things＿<$00>
+things <$00>
 
 
 //発見<$00>
-discoveries＿<$00>
+discoveries <$00>
 
 
 //お宝<$00>
-treasures＿<$00>
+treasures <$00>
 
 
 //動物<$00>
-animals＿<$00>
+animals <$00>
 
 
 //に　出会える…<$00>
@@ -847,7 +846,7 @@ are dead head!<$00>
 
 #WRITE(PTR, $0026)
 //<$15>Y動物情報<$06>サービス<$00>
-<$15>YAnimal＿<$06>Search<$00>
+<$15>YAnimal <$06>Search<$00>
 
 
 //<CLEAR>検索ナサイマスカ？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>

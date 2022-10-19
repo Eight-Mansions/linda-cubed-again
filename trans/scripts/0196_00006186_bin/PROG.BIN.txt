@@ -306,7 +306,7 @@ m166m.obj
 
 #WRITE(PTR, $0026)
 //闘犬場１Ｆ<$00>
-DGF Dojo 1F＿<$00>
+DGF Dojo 1F <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -349,7 +349,7 @@ with their limbs blown off!<$12><$00>
 
 #WRITE(PTR, $0028)
 //闘犬場Ｂ１<$00>
-DGF Dojo B1＿<$00>
+DGF Dojo B1 <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -382,20 +382,20 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen found the＿<$1D>!<$14><$12><$00>
+<CLEAR><$19><$15>SKen found the <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the＿<$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen acquired＿<$1D>!<$14><$12><$00>
+<CLEAR><$19><$15>SKen acquired <$1D>!<$14><$12><$00>
 
 
 //<CLEAR>タオルを投げれば　<$1B>イヌの命を\n確実に　救うことができるわ∥\nただし　賞金はチャラ…<$12>\n<CLEAR>タイミングが　難しいのよね\n欲を出すと　高い治療費のおまけまで\n払うはめに　なるもんね<$12><$00>
-<CLEAR>Throwing in the towel may save your＿dog's life, but\n
-your winnings go kaput.<$12>\n
+<CLEAR>Throwing in the towel may save your dog's life, but your\n
+winnings go kaput.<$12>\n
 <CLEAR>Patience is key, but follow your greed for too long, and\n
 you'll pay for it at the vet.<$12><$00>
 
@@ -426,11 +426,11 @@ may save your dog's life!<$12><$00>
 //ここより先、オーマン家私宅につき\n関係者以外は　ご遠慮ください\n＿＿＿＿＿＿＿＿レバトリー・オーマン<$12><$00>
 "AUMANN FAMILY PRIVATE RESIDENCE.\n
 NO TRESPASSING."\n
-＿-LIBERTRI AUMANN<$12><$00>
+ -LIBERTRI AUMANN<$12><$00>
 
 
 //闘犬場での番付が　三役以上になると\nそれだけで　お<$1B>イヌ様に　季節ごとに\n給金が　飼い主に支払われるのサ<$12>\n<CLEAR>おまけに、漢字の名を襲名できる！\nチンケなカナの名とも　それで\n永遠に　おさらばってわけよ<$12><$00>
-Participants with＿dogs 3rd-tier or higher can be paid\n
+Participants with dogs 3rd-tier or higher can be paid\n
 seasonally.<$12>\n
 <CLEAR>That's why you need a dog with a good, strong anime name!\n
 Everyone knows anime names make you stronger!<$12><$00>
@@ -463,8 +463,8 @@ BA_E.TMZ
 
 
 //世の中にはヘンなヤツが　たまにいてサ\n<$1B>イルカとか　<$1B>ライオンを\nここへ　持ち込んどいて…<$12>\n<CLEAR>こいつは　俺の猟犬だから\n闘犬大会に　出場させろ！とか\nメチャクチャなことを　ほざくのよ<$12>\n<CLEAR>いくらなんでも\nひと目見れば　バレるってーの<$12><$00>
-Some weirdos in the world bring pet＿dolphins or＿lions\n
-to fight in the dojo.<$12>\n
+Some weirdos in the world bring pet dolphins or lions to\n
+fight in the dojo.<$12>\n
 <CLEAR>"What's the deal? It hunts, so it counts, right?" Sorry,\n
 dipshit. That's not the point!<$12>\n
 <CLEAR>Anytime that happens, you just have to look at em, and be\n
@@ -501,8 +501,7 @@ Mr. Aumann had 3 wives in his lifetime. Each birthed him\n
 one awful kid and ran.<$12>\n
 <CLEAR>But he loved each, Louise, Carol and Kate, from the\n
 bottom of his heart.<$12>\n
-<CLEAR>There was no B-word he loved as much as his＿dog,\n
-though.<$12><$00>
+<CLEAR>There was no B-word he loved as much as his dog, though.<$12><$00>
 
 
 //猟犬を　あえて見殺しにするのも\n一流のハンターになるための　勉強だ\n実戦で必ず役に立つ　経験のひとつさ<$12><$00>
@@ -531,7 +530,7 @@ assets and run away so quickly?<$12><$00>
 
 #WRITE(PTR, $002A)
 //オーマン家住居<$00>
-Aumann Residence＿<$00>
+Aumann Residence <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -631,8 +630,8 @@ queen<$00>
 
 
 //話しかけんなよ！　集中できねぇだろ∥\n今、<$1D>で揃ったところで\nここからが勝負なんだからよ<$12><$00>
-Hush! I'm trying to concentrate! All I need to win now is\n
-the＿<$1D>!<$12><$00>
+Hush! I'm trying to concentrate! All I need to win now is the\n
+<$1D>!<$12><$00>
 
 
 //ちっ、また俺の負けか…<$12><$00>
@@ -640,27 +639,27 @@ Drats, I lost again.<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen found the＿<$1D>!<$14><$12><$00>
+<CLEAR><$19><$15>SKen found the <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the＿<$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen acquired＿<$1D>!<$14><$12><$00>
+<CLEAR><$19><$15>SKen acquired <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen found the＿<$1D>!<$14><$12><$00>
+<CLEAR><$19><$15>SKen found the <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the＿<$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen acquired＿<$1D>!<$14><$12><$00>
+<CLEAR><$19><$15>SKen acquired <$1D>!<$14><$12><$00>
 
 
 //なんだよ！　おやじのことなら\nリンダとかいう女に　話したゼ∥<$12>\n<CLEAR>何度も同じ話を　するほど\nこのビグル様は　暇人じゃねぇんだ∥\nまぁ　なんだな…<$12>\n<CLEAR>そこのお嬢さんに　一晩かけて\nゆっくりと話すんなら　別だがよ\n<$01>サチコに聞く<$0E>／<$01>なめんなよ∥<$0E><$00>
@@ -829,7 +828,7 @@ Here, treat yourself.■<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは　<$06><$1E><$04>￥をポケットに\n入れられてしまった！<$12><$00>
-<CLEAR><$19>1<$15>SKen found＿<$06><$1E><$04>￥ shoved down his pocket!<$12><$00>
+<CLEAR><$19>1<$15>SKen found <$06><$1E><$04>￥ shoved down his pocket!<$12><$00>
 
 
 //ウフフフ…<$12><$00>
@@ -865,8 +864,7 @@ between them any day now.<$12><$00>
 #WRITE(PTR, $002E)
 //クン、クンクン………？<$12>\n<CLEAR><$1D>のニオイが　するね\nそういえば、<$1D>食まだだっけ…<$12><$00>
 Sniff...sniff, sniff?<$12>\n
-<CLEAR><$1D>＿scent's filling the air. You know, I could go for\n
-some＿<$1D>＿!<$12><$00>
+<CLEAR><$1D> scent's filling the air. You know, I could go for some <$1D> !<$12><$00>
 
 
 //卵焼き<$00>
@@ -914,7 +912,7 @@ sauce<$00>
 
 
 //スープ<$00>
-＿soup<$00>
+ soup<$00>
 
 
 //ピラフ<$00>
@@ -982,7 +980,7 @@ dinner<$00>
 
 
 //、…<$1D>に行けば<$00>
-! That's where we'll find a＿<$1D>.<$00>
+! That's where we'll find a <$1D>.<$00>
 
 
 //直進<$00>
@@ -1006,7 +1004,7 @@ Back<$00>
 
 
 //、絶対に<$1D>∥<$00>
-wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
+wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
@@ -1018,35 +1016,35 @@ wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
 
 
 //運命の<$00>
-Fated＿<$00>
+Fated <$00>
 
 
 //新しい<$00>
-New＿<$00>
+New <$00>
 
 
 //素敵な<$00>
-Great＿<$00>
+Great <$00>
 
 
 //未知の<$00>
-Unknown＿<$00>
+Unknown <$00>
 
 
 //何か<$00>
-things＿<$00>
+things <$00>
 
 
 //発見<$00>
-discoveries＿<$00>
+discoveries <$00>
 
 
 //お宝<$00>
-treasures＿<$00>
+treasures <$00>
 
 
 //動物<$00>
-animals＿<$00>
+animals <$00>
 
 
 //に　出会える…<$00>
@@ -1122,7 +1120,7 @@ Choose a new name.<$12><$00>
 
 
 //<CLEAR>猟犬<$1D>を登録します\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
-<CLEAR>Adopt＿<$1D>?\n
+<CLEAR>Adopt <$1D>?\n
 <$01>Yes<$0E> / <$01>No<$0E><$00>
 
 
@@ -1151,7 +1149,7 @@ You cannot adopt any more dogs.<$12><$00>
 
 
 //<CLEAR><$1B>イヌを　お持ちじゃないようですね<$12><$00>
-<CLEAR>You don't have any＿dogs.<$12><$00>
+<CLEAR>You don't have any dogs.<$12><$00>
 
 
 //<$15>Y猟犬屋／登＿録<$00>
@@ -1176,7 +1174,7 @@ You cannot adopt any more dogs.<$12><$00>
 
 
 //<$04><$16><$15>W<$01>猟犬LV<$1E>02<$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
-<$04><$16><$15>W<$01>Dog LVL＿<$1E>02<$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
+<$04><$16><$15>W<$01>Dog LVL <$1E>02<$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
 
 
 //<$15>Y猟犬屋／売＿る<$00>
@@ -1184,7 +1182,7 @@ You cannot adopt any more dogs.<$12><$00>
 
 
 //<CLEAR>猟犬「<$1D>」を\n<$06><$1E><$04>￥で売りますか？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
-<CLEAR>Sell＿<$1D>＿ for＿<$06><$1E><$04>￥?\n
+<CLEAR>Sell <$1D>  for <$06><$1E><$04>￥?\n
 <$01>Yes<$0E> / <$01>No<$0E><$00>
 
 
@@ -1213,12 +1211,12 @@ because you're ignorant.<$12><$00>
 
 //\n<$1D>の治療には　<$1D><$06><$1E><$14><$04>￥必要ね\n<$01>依頼する<$0E>／<$01>ほっとく<$0E><$00>
 \n
-I can treat＿<$1D>＿for＿<$1D><$06><$1E><$14><$04>￥,\n
+I can treat <$1D> for <$1D><$06><$1E><$14><$04>￥,\n
 <$01>Please help!<$0E> / <$01>Nevermind!<$0E><$00>
 
 
 //<CLEAR>かわいそうな<$1D>…\n治療費も　満足に払えない\n貧乏な飼い主を　恨みなさいね<$12><$00>
-<CLEAR>Poor, poor,＿<$1D>...\n
+<CLEAR>Poor, poor, <$1D>...\n
 Bwame your daddy for being a wittle cheapskate.<$12><$00>
 
 
@@ -1227,7 +1225,7 @@ Bwame your daddy for being a wittle cheapskate.<$12><$00>
 
 
 //あぁ～傷に<$1B>ウジが　わいてるわよ<$00>
-Whoa～!＿Maggots in the wound!<$00>
+Whoa～! Maggots in the wound!<$00>
 
 
 //肋骨と鎖骨が　折れてるだけね<$00>
@@ -1260,7 +1258,7 @@ What a gangwenous wittle weg!<$00>
 
 //<CLEAR>大丈夫！　まかせなさい！\n<$1E>0回に１回くらいしか　失敗しないわ<$12><$00>
 <CLEAR>Leave it to me!\n
-I mess up only once every＿<$1E>0＿times, tops!<$12><$00>
+I mess up only once every <$1E>0 times, tops!<$12><$00>
 
 
 //<CLEAR>…………………………………∥<$12><$00>
@@ -1273,7 +1271,7 @@ I mess up only once every＿<$1E>0＿times, tops!<$12><$00>
 
 //<CLEAR>はい、治療終り∥\n傷が開くといけないから　<$1D>には\n当分、無理させないようにしてね<$12><$00>
 <CLEAR>And...done!\n
-Be careful with＿<$1D>,\n
+Be careful with <$1D>,\n
 or these wounds may reopen. <$12><$00>
 
 
@@ -1294,11 +1292,11 @@ or these wounds may reopen. <$12><$00>
 
 //猟犬の将来が　気になったら\n<$1D><$06><$1E><$04><$14>￥で　相談に乗ってしんぜよう<$12><$00>
 If you're worried about your dog's future, I give readings\n
-for＿<$1D><$06><$1E><$04><$14>￥.<$12><$00>
+for <$1D><$06><$1E><$04><$14>￥.<$12><$00>
 
 
 //猟犬の将来を　<$1D><$06><$1E><$04><$14>￥で占うぞよ\n<$01>犬を見せる<$0E>／<$01>雑談する<$0E>／<$01>信じない！<$0E><$00>
-See your dog's future for only＿<$1D><$06><$1E><$04><$14>￥!\n
+See your dog's future for only <$1D><$06><$1E><$04><$14>￥!\n
 <$01>Show me<$0E> / <$01>Chat<$0E> / <$01>What a joke!<$0E><$00>
 
 
@@ -1322,13 +1320,13 @@ dogs' futures were already dark!<$12><$00>
 
 
 //<CLEAR><$1D>か…　<$1D>名じゃのぉ…<$12>\nそれでは　占うぞよ<$12><$00>
-<CLEAR><$1D>, I see...<$1D>＿name, yes...<$12>\n
+<CLEAR><$1D>, I see...<$1D> name, yes...<$12>\n
 May it be so!<$12><$00>
 
 
 //<CLEAR>はァァーッ！　犬神星シリウスよ！\n迷える<$1D>の明日を　我に示し給え！\n願わくば、光の道へ導き給え！<$12>\n<CLEAR>ふむ…　見えたぞ<$12><$00>
-<CLEAR>Oh, Sirius! Lead＿<$1D>＿when they are lost, to tomorrow on a\n
-path of light!<$12>\n
+<CLEAR>Oh, Sirius! Lead <$1D> when they are lost, to tomorrow on a path\n
+of light!<$12>\n
 <CLEAR>My work...is done.<$12><$00>
 
 
@@ -1365,8 +1363,7 @@ DEF<$00>
 
 
 //<CLEAR><$1D>の　<$1D>と<$1D>は　あまり\n上がらんようじゃな…　困ったのぉ…\n性格を一言で表すなら…<$12><$00>
-<CLEAR><$1D>'s＿<$1D>＿and＿<$1D>＿might not increase much due to their\n
-personality.<$12><$00>
+<CLEAR><$1D>'s <$1D> and <$1D> might not increase much due to their personality.<$12><$00>
 
 
 //<CLEAR>ただの臆病者…\n主人を置いて　平気で逃げ出すぞ\nあてにせんほうが　身のためじゃ<$12><$00>
@@ -1423,8 +1420,7 @@ stamina<$00>
 
 
 //<CLEAR><$1D>は　<$1D>と<$1D>が　育つほどに\nメキメキと　上がるな\nそれに…<$12><$00>
-<CLEAR><$1D>'s＿<$1D>＿and＿<$1D>＿will increase as they continue to grow,\n
-and also...<$12><$00>
+<CLEAR><$1D>'s <$1D> and <$1D> will increase as they continue to grow, and also...<$12><$00>
 
 
 //<CLEAR>なかなか慎重な性格ゆえ　ケガも少ない\n医者いらずの　経済的な犬じゃ<$12><$00>
@@ -1530,7 +1526,7 @@ about knowing your limits.<$12><$00>
 
 
 //<CLEAR>参加料は　<$1D><$06><$1E><$04><$14>￥ポッキリ！\n三役以上になれば　給金も出る！\nさあ　見てても　金にはならないゼ！<$12><$00>
-<CLEAR>The entry fee is＿<$1D><$06><$1E><$04><$14>￥!\n
+<CLEAR>The entry fee is <$1D><$06><$1E><$04><$14>￥!\n
 All participants 3rd-tier or higher get paid! Come make some\n
 money!<$12><$00>
 
@@ -1560,17 +1556,17 @@ it's allowed to fight. <$12><$00>
 
 //<CLEAR>おっと！　挑戦は　１シーズンにつき\n各猟犬１回きりってのが　決まりでよ、\n次の<$1D>に　また来てくんな<$12><$00>
 <CLEAR>Oops! We only allow dogs to challenge the dojo once per\n
-season. Come back next＿<$1D>＿and try again!<$12><$00>
+season. Come back next <$1D> and try again!<$12><$00>
 
 
 //<$1D>号は　<$1D>からの出場だ！\n参加料　<$1D><$06><$1E><$04><$14>￥！　いいな？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
-<$1D>'s＿<$1D>＿entry fee is＿<$1D><$06><$1E><$04><$14>￥, okay?\n
+<$1D>'s <$1D> entry fee is <$1D><$06><$1E><$04><$14>￥, okay?\n
 <$01>Yes<$0E> / <$01>No<$0E><$00>
 
 
 //<CLEAR><$15>b<$06><$1E><$04><$14>￥も　ねぇのかよ…\n<$1D>号を売っちまったら　どうだ？<$12><$00>
 <CLEAR><$15>b<$06><$1E><$04><$14>￥ is a no-go?\n
-Maybe you should sell＿<$1D>.<$12><$00>
+Maybe you should sell <$1D>.<$12><$00>
 
 
 //前頭十二枚目<$00>
@@ -1894,32 +1890,32 @@ Akakage<$00>
 
 
 //<CLEAR>ＷＩＮＮＥＲ∥　<$1D>号∥\n<$1D>号の累積賞金は　没収∥<$12><$00>
-<CLEAR>THE WINNER IS＿<$1D>!\n
+<CLEAR>THE WINNER IS <$1D>!\n
 (<$1D>'s cumulative winnings were revoked.)<$12><$00>
 
 
 //<CLEAR>ＷＩＮＮＥＲ∥　<$1D>号∥\n<$1D>号は　大関に降格∥\n再起を　待ってるゼ∥<$12><$00>
-<CLEAR>THE WINNER IS＿<$1D>!\n
+<CLEAR>THE WINNER IS <$1D>!\n
 (<$1D>demoted to 2nd-Tier.\n
 We await your comeback!)<$12><$00>
 
 
 //<CLEAR>ＷＩＮＮＥＲ∥　<$1D>号∥<$00>
-<CLEAR>THE WINNER IS＿<$1D>!<$00>
+<CLEAR>THE WINNER IS <$1D>!<$00>
 
 
 //\n<$1D>に昇進∥<$00>
 \n
-(Promoted to＿<$1D>!)<$00>
+(Promoted to <$1D>!)<$00>
 
 
 //\n懸賞金<$06><$1E><$04>￥　獲得∥<$12><$00>
 \n
-Winnings earned:＿<$06><$1E><$04>￥!<$12><$00>
+Winnings earned: <$06><$1E><$04>￥!<$12><$00>
 
 
 //<CLEAR>累積賞金は　<$06><$1E><$04>￥ですが\n続けて勝負しますか？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
-<CLEAR>Winnings earned:＿<$06><$1E><$04>￥\n
+<CLEAR>Winnings earned: <$06><$1E><$04>￥\n
 Continue fighting?\n
 <$01>Yes<$0E> / <$01>No<$0E><$00>
 
@@ -1930,30 +1926,29 @@ Continue fighting?\n
 
 
 //<CLEAR>さて　ここで　新<$1D>の<$1D>号に\n闘犬センターからの　お祝いです∥<$12><$00>
-<CLEAR>And here's your new <$1D>＿<$1D>, courtesy of the Dog Center!<$12><$00>
+<CLEAR>And here's your new <$1D> <$1D>, courtesy of the Dog Center!<$12><$00>
 
 
 //<CLEAR><$1D>号には　来季より　<$06><$1E><$04>￥の\n給金が　命ある限り　支給されます∥<$12><$00>
-<CLEAR><$1D>＿has earn you a lifelong\n
-monthly stipend of＿<$06><$1E><$04>￥\n
+<CLEAR><$1D> has earn you a lifelong\n
+monthly stipend of <$06><$1E><$04>￥\n
 from next season onwards.<$12><$00>
 
 
 //<CLEAR>さらに、<$1D>号は栄光に輝く\n伝統の四股名「<$1D>」を襲名できます∥\n<$01>襲名する∥<$0E>／<$01><$1D>のまま<$0E><$00>
-<CLEAR>Furthermore,＿<$1D>＿is deemed worthy to inherit the\n
-legendary ring name,＿<$1D>!\n
+<CLEAR>Furthermore, <$1D> is deemed worthy to inherit the legendary\n
+ring name, <$1D>!\n
 <$01>Adopt ring name<$0E> / <$01><$1D>Keep old name<$0E><$00>
 
 
 //<$19>1<CLEAR>第<$1E>2代目「<$1D>」誕生∥\nＣＯＮＧＲＡＴＵＬＡＴＩＯＮＳ∥<$12><$00>
-<$19>1<CLEAR>Give it＿<$1E>up for＿<$1D>＿Ⅱ!\n
+<$19>1<CLEAR>Give it <$1E>up for <$1D> Ⅱ!\n
 Congratulations!<$12><$00>
 
 
 //<CLEAR>これより　<$1D>との取組み∥\n懸賞金　<$06><$1E><$04>￥<$12>\n<CLEAR>ヒガシー　<$1D>号∥\nニーシー　<$1D>号∥\n両者、見合って…<$12>\n<CLEAR>ＤＯＧ　ＦＩＧＨＴ∥<$12><$00>
-<CLEAR>And now, the fight for＿<$1D>＿and a prize of＿<$06><$1E><$04>￥...<$12>\n
-<CLEAR>From across the ring,＿<$1D>, is staring down their\n
-opponent,＿<$1D>.\n
+<CLEAR>And now, the fight for <$1D> and a prize of <$06><$1E><$04>￥...<$12>\n
+<CLEAR>From across the ring, <$1D>, is staring down their opponent, <$1D>.\n
 Get ready, get set...<$12>\n
 <CLEAR>DOG FIGHT!!<$12><$00>
 

@@ -72,7 +72,7 @@ m151.obj
 
 #WRITE(PTR, $0020)
 //バトルパーク東トンネル<$00>
-Battle Park E Tunnel＿<$00>
+Battle Park E Tunnel <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -106,7 +106,7 @@ enough to fall for her antics!<$12><$00>
 
 #WRITE(PTR, $0022)
 //バトルパーク西トンネル<$00>
-Battle Park W Tunnel＿<$00>
+Battle Park W Tunnel <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -183,14 +183,14 @@ while and come back.<$12><$00>
 
 
 //<CLEAR>凍てつく雪原も　レンタ・<$1B>シロクマの\nカン太君に乗れば　<$1D><$06>200<$04><$14>￥で安全快適！\n<$01>乗りたい<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
-<CLEAR>Safely traverse the snow by renting Kanta, the＿polar\n
-bear. Only＿<$1D><$06>200<$04><$14>￥!\n
+<CLEAR>Safely traverse the snow by renting Kanta, the polar\n
+bear. Only <$1D><$06>200<$04><$14>￥!\n
 <$01>Rent<$0E> / <$01>Chat<$0E> / <$01>Exit<$0E><$00>
 
 
 //<CLEAR>危険な水の中も　レンタ・<$1B>イルカの\nチン平君に乗れば　<$1D><$06>200<$04><$14>￥で安全快適！\n<$01>乗りたい<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
-<CLEAR>Safely traverse the seas by renting Chinpei, the＿ \n
-dolphin. Only＿<$1D><$06>200<$04><$14>￥!\n
+<CLEAR>Safely traverse the seas by renting Chinpei, the   dolphin.\n
+Only <$1D><$06>200<$04><$14>￥!\n
 <$01>Rent<$0E> / <$01>Chat<$0E> / <$01>Exit<$0E><$00>
 
 
@@ -199,8 +199,8 @@ dolphin. Only＿<$1D><$06>200<$04><$14>￥!\n
 
 
 //<CLEAR><$1D><$06><$1E><$04><$14>￥で<$06>1<$04>季節乗り放題！<$06> 1<$04>季節経過後は\n自分で戻りますから　乗り捨てもＯＫ！\n<$01>契約する<$0E>／<$01>借りない<$0E><$00>
-<CLEAR><$1D><$06><$1E><$04><$14>￥ covers＿<$06>1<$04>＿season! After<$06> 1<$04>season, the animal will\n
-return to us on its own.\n
+<CLEAR><$1D><$06><$1E><$04><$14>￥ covers <$06>1<$04> season! After<$06> 1<$04>season, the animal will return\n
+to us on its own.\n
 <$01>Rent<$0E> / <$01>Nevermind<$0E><$00>
 
 
@@ -217,17 +217,16 @@ back when you're ready!<$12><$00>
 
 
 //<CLEAR>レンタ・<$1B>シロクマの　カン太君に乗れば\n歩きにくい雪や氷も　ラックラク！<$12>\n<CLEAR>おまけに　カン太君はこの辺じゃ\n”顔”ですから、他の<$1B>シロクマも\n道を譲りますよ、いやホントに<$12><$00>
-<CLEAR>Travel over ice and snow by renting Kanta, the＿polar\n
+<CLEAR>Travel over ice and snow by renting Kanta, the polar\n
 bear. Crunch, crunch!<$12>\n
-<CLEAR>Kanta has such a dominating presence, the other＿polar\n
+<CLEAR>Kanta has such a dominating presence, the other polar\n
 bears yield to him!<$12><$00>
 
 
 //<CLEAR>レンタ・<$1B>イルカの　チン平君に乗れば\n歩きにくい水中や湿地も　スイスイ！<$12>\n<CLEAR>おまけに　チン平君は\nとてもマズそうですから、<$1B>カバさえ\n見向きもしません、いやホントに<$12><$00>
-<CLEAR>Cross waters and wetlands by renting Chinpei,\n
-the＿dolphin! Swoosh, swoosh!<$12>\n
-<CLEAR>Plus, Chinpei's so untasty looking, even＿hippos won't eat\n
-him!<$12><$00>
+<CLEAR>Cross waters and wetlands by renting Chinpei, the dolphin!\n
+Swoosh, swoosh!<$12>\n
+<CLEAR>Plus, Chinpei's so untasty looking, even hippos won't eat him!<$12><$00>
 
 
 //<CLEAR>金のないヤツは　地ベタを\n自分の脚で歩く…　いつの時代でも\nどんな世界でも　不変のルールですね<$12><$00>
@@ -236,7 +235,7 @@ the undying law of this and any other world.<$12><$00>
 
 
 //<CLEAR>まっ一度、湖で<$1B>カメと\n追いかけっこを　してから\nまた　おいでくださいな<$12><$00>
-<CLEAR>Well, okay! Have fun chasing＿turtles in the lake.\n
+<CLEAR>Well, okay! Have fun chasing turtles in the lake.\n
 See you around!<$12><$00>
 
 
@@ -252,18 +251,18 @@ animal is!<$12><$00>
 
 
 //えーッ￠\n伝説の動物の正体は　<$1B>パンダってか？<$12>\n<CLEAR>へえー∥　それは凄いわねえ∥\nよりによって　<$1B>パンダときましたか…<$12>\n<CLEAR>ねぇ、もうちょっと気の利いた\nウソがつけるように　ならないと、\n大人の女は　退屈しちゃうと思うわよ<$12><$00>
-What?! The legendary phantom animal is a＿panda?!<$12>\n
+What?! The legendary phantom animal is a panda?!<$12>\n
 <CLEAR>That's got to be a joke.\n
-A＿PANDA, of all fuckin' things...<$12>\n
+A PANDA, of all fuckin' things...<$12>\n
 <CLEAR>You have to be more creative than that. If you can't\n
 fib any better, a grown woman will see right through it.<$12><$00>
 
 
 //<CLEAR>肉が腐ったら　早めに捨てなよ、\n<$1B>ハイエナが　ニオイをかぎつけて\nうれしそうに　寄って来るからね<$12>\n<CLEAR>あんたの心が　多少腐ってても\n<$1B>ハイエナには　わからないけどね、\n腐った肉のニオイには　敏感なのサ<$12><$00>
-<CLEAR>Even Rotten Meat is useful, because＿Hyenas are\n
-attracted to the scent!<$12>\n
-<CLEAR>No one can sniff out a rotten heart, but＿hyenas can\n
-smell Rotten Meat from kilometers away!<$12><$00>
+<CLEAR>Even Rotten Meat is useful, because Hyenas are attracted\n
+to the scent!<$12>\n
+<CLEAR>No one can sniff out a rotten heart, but hyenas can smell\n
+Rotten Meat from kilometers away!<$12><$00>
 
 
 //<CLEAR><$1B>カワウソが　絶滅しちまったらしいね\nヘンな顔のヤツだったけど\nいなくなってみると　妙に寂しい…<$12>\n<CLEAR>フっ…<$12>\n<CLEAR>フっフフフ…\nこんな気持ちに　なったのは\nひとりめの亭主の　葬式以来だよ<$12><$00>
@@ -285,24 +284,24 @@ husband's funeral!<$12><$00>
 
 //ＡＭＤ<$1E>4、<$1D>\n残り＿＿＿＿<$1E>1季節<$00>
 AMD<$1E>4、<$1D>\n
-＿<$1E>1＿season(s)<$00>
+ <$1E>1 season(s)<$00>
 
 
 //ＡＭＤ<$1E>4、<$1D>\n残り＿＿＿＿＿<$1E>1年<$00>
 AMD<$1E>4、<$1D>\n
-＿<$1E>1＿year(s)<$00>
+ <$1E>1 year(s)<$00>
 
 
 //ＡＭＤ<$1E>4、<$1D>\n残り＿<$1E>1年と<$1E>1季節<$00>
 AMD<$1E>4、<$1D>\n
-＿<$1E>1＿year(s),\n
-<$1E>1＿season(s)<$00>
+ <$1E>1 year(s),\n
+<$1E>1 season(s)<$00>
 
 
 //<$15>W\n捕獲目標<$08>4残り<$1E>35種\n＿＿<$01>→→<$0E>　<$01>確認<$0E><$00>
 <$15>W\n
-Astro Ark＿<$08>4Goal:＿<$1E>35\n
-＿＿<$01>→→<$0E>　<$01>OK!<$0E><$00>
+Astro Ark <$08>4Goal: <$1E>35\n
+  <$01>→→<$0E>　<$01>OK!<$0E><$00>
 
 
 //……東<$00>
@@ -342,7 +341,7 @@ Astro Ark＿<$08>4Goal:＿<$1E>35\n
 
 
 //、…<$1D>に行けば<$00>
-! That's where we'll find a＿<$1D>.<$00>
+! That's where we'll find a <$1D>.<$00>
 
 
 //直進<$00>
@@ -366,7 +365,7 @@ Back<$00>
 
 
 //、絶対に<$1D>∥<$00>
-wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
+wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
@@ -378,35 +377,35 @@ wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
 
 
 //運命の<$00>
-Fated＿<$00>
+Fated <$00>
 
 
 //新しい<$00>
-New＿<$00>
+New <$00>
 
 
 //素敵な<$00>
-Great＿<$00>
+Great <$00>
 
 
 //未知の<$00>
-Unknown＿<$00>
+Unknown <$00>
 
 
 //何か<$00>
-things＿<$00>
+things <$00>
 
 
 //発見<$00>
-discoveries＿<$00>
+discoveries <$00>
 
 
 //お宝<$00>
-treasures＿<$00>
+treasures <$00>
 
 
 //動物<$00>
-animals＿<$00>
+animals <$00>
 
 
 //に　出会える…<$00>
@@ -458,7 +457,7 @@ Sniff...sniff, sniff?<$12>\n
 
 
 //<$15>Yスケジュール<$00>
-<$15>YMemo＿<$00>
+<$15>YMemo <$00>
 
 
 //<CLEAR>スケジュールは何もありません<$12><$00>
@@ -474,15 +473,15 @@ Expired!<$00>
 
 
 //あと<$1E>季節<$00>
-In＿<$1E>＿seasons<$00>
+In <$1E> seasons<$00>
 
 
 //あと<$1E>年<$1E>季節<$00>
-Deadline:＿<$1E>Y/<$1E>S<$00>
+Deadline: <$1E>Y/<$1E>S<$00>
 
 
 //あと<$1E>年<$00>
-In＿<$1E>＿years<$00>
+In <$1E> years<$00>
 
 
 //<$16><$01>◇<$0E><$1D><$02>190<$1D><$00>
@@ -539,17 +538,17 @@ Hardia Hotel.<$00>
 
 
 //<CLEAR>マーブルポリスの<$1B>ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す<$00>
-<CLEAR>Process meat from＿chickens in Marblopolis.Give them to\n
+<CLEAR>Process meat from chickens in Marblopolis.Give them to\n
 Prof. Panheim in Hospico.<$00>
 
 
 //<CLEAR><$1B>カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す<$00>
-<CLEAR>Find up to 3＿Turtle Eggs. Give them to Louis at the Battle\n
+<CLEAR>Find up to 3 Turtle Eggs. Give them to Louis at the Battle\n
 Park BB Ranch.<$00>
 
 
 //<CLEAR><$1B>プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す<$00>
-<CLEAR>Acquire 2＿Pteranodon Eggs. Give them to Bronco at the\n
+<CLEAR>Acquire 2 Pteranodon Eggs. Give them to Bronco at the\n
 Battle Park BB Ranch.<$00>
 
 
@@ -563,15 +562,15 @@ Aumann children in Dogyf Heights.<$00>
 
 
 //あと<$06><$1E><$0F>000<$04><$00>
-another＿<$06><$1E><$0F><$04><$00>
+another <$06><$1E><$0F><$04><$00>
 
 
 //<CLEAR>Ｇファクトリーのヤマダのために\n<$1D>￥を預金する<$00>
-<CLEAR>Deposit＿<$1D>￥ in an account to Yamada in G Factory.<$00>
+<CLEAR>Deposit <$1D>￥ in an account to Yamada in G Factory.<$00>
 
 
 //<CLEAR>コシカタのシンボル「<$1B>トラの爪」を\n見つけだし、ポリスカに渡す<$00>
-<CLEAR>Find the＿Tiger Claw, Koshikata's village symbol. Return it\n
+<CLEAR>Find the Tiger Claw, Koshikata's village symbol. Return it\n
 to Poliska.<$00>
 
 
@@ -590,17 +589,17 @@ Eterna.<$00>
 
 
 //<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nＧファクトリー入口１階、\n公衆電話の前に行く<$00>
-<CLEAR>Take the Floppy Disc and＿<$06>10, 000<$04>￥ to the G Factory\n
-gate. Answer the payphone.<$00>
+<CLEAR>Take the Floppy Disc and <$06>10, 000<$04>￥ to the G Factory gate.\n
+Answer the payphone.<$00>
 
 
 //<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nパラサイド入口１階、\n公衆電話の前に行く<$00>
-<CLEAR>Take the Floppy Disc and＿<$06>10, 000<$04>￥ to the Paraside gate.\n
+<CLEAR>Take the Floppy Disc and <$06>10, 000<$04>￥ to the Paraside gate.\n
 Answer the payphone.<$00>
 
 
 //<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nガレックスに行く<$00>
-<CLEAR>Take the Floppy Disc and＿<$06>10, 000<$04>￥ to Galax.<$00>
+<CLEAR>Take the Floppy Disc and <$06>10, 000<$04>￥ to Galax.<$00>
 
 
 //<CLEAR>ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す<$00>

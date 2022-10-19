@@ -234,7 +234,7 @@ z116_120.obj
 
 #WRITE(PTR, $001E)
 //“®•¨¤E‘•”õ‰®<$00>
-AnimalEEquipmentQ<$00>
+AnimalEEquipment <$00>
 
 
 //<CLEAR>ƒPƒ“‚Í@Œû“J‚ğ‚¢‚½<$12>\n<CLEAR>ŠO‚Å@‘å‚«‚È‰H‰¹‚ª\n•·‚±‚¦‚½‚æ‚¤‚È@‹C‚ª‚µ‚½c<$12><$00>
@@ -295,15 +295,15 @@ animals one kills to eat."<$12><$00>
 
 #WRITE(PTR, $0020)
 //ŒÂ<$00>
-Q<$00>
+ <$00>
 
 
 //•C<$00>
-Q<$00>
+ <$00>
 
 
 //<$1D>‚ğ<$1D>‚Ü‚·\n<$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04>^<$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S<$00>
-<$1D>Qx<$1D>Q\n
+<$1D> x<$1D> \n
 <$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04> / <$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S<$00>
 
 
@@ -337,11 +337,11 @@ animals one kills to eat."<$12><$00>
 
 //<CLEAR>ƒgƒ‰ƒ“ƒXƒJ[ƒS‚Í@‚P˜g‚É‚Â‚«\n<$06>99<$04>“ª‚Ü‚Å‚µ‚©@û—e‚Å‚«‚Ü‚¹‚ñ<$12><$00>
 <CLEAR>The trans-cargo unit has\n
-aQ<$06>99<$04>Qspecies capacity!<$12><$00>
+a <$06>99<$04> species capacity!<$12><$00>
 
 
 //<CLEAR><$06>ƒgƒ‰ƒ“ƒXƒJ[ƒS<$04>‚ª‚¢‚Á‚Ï‚¢‚Å‚·<$12><$00>
-<CLEAR><$06>The trans-cargo unitQ<$04>is full!<$12><$00>
+<CLEAR><$06>The trans-cargo unit <$04>is full!<$12><$00>
 
 
 //<CLEAR>“¹‹ï‚ª‚¢‚Á‚Ï‚¢‚Å‚·<$12><$00>
@@ -354,13 +354,13 @@ I can't accept that!<$12><$00>
 
 
 //<CLEAR><$1D>‚ğ\n<$06><$1E><$04>‚Å”„‚è‚Ü‚·‚©H\n<$01>‚ÍQ‚¢<$0E>^<$01>‚¢‚¢‚¦<$0E><$00>
-<CLEAR>SellQ<$1D>Qfor\n
+<CLEAR>Sell <$1D> for\n
 <$06><$1E><$04>?\n
 <$01>Yes<$0E> / <$01>No<$0E><$00>
 
 
 //<CLEAR><$1D><$15>W‚Í\n‚`‹‰•ÛŒì“®•¨‚Ì‚½‚ß\næ‚èˆø‚«‚Å‚«‚Ü‚¹‚ñ<$12><$00>
-<CLEAR><$1D><$15>WQcannot be traded.\n
+<CLEAR><$1D><$15>W cannot be traded.\n
 Class A species\n
 trading is prohibited!<$12><$00>
 
@@ -370,16 +370,16 @@ trading is prohibited!<$12><$00>
 
 
 //<$16><$04><$01><$1D><$02>120<$0E><$02>216<$06><$1E><$04>•C‚Å<$00>
-<$16><$04><$01><$1D><$02><$0E><$02><$06><$1E><$04>xQ<$00>
+<$16><$04><$01><$1D><$02><$0E><$02><$06><$1E><$04>x <$00>
 
 
 //<CLEAR><$1D>‚ğì‚è‚Ü‚·\n<$01>‚ÍQ‚¢<$0E>^<$01>‚¢‚¢‚¦<$0E><$00>
-<CLEAR>CraftQ<$1D>?\n
+<CLEAR>Craft <$1D>?\n
 <$01>Yes<$0E> / <$01>No<$0E><$00>
 
 
 //<CLEAR><$1D>‚ğì‚è‚Ü‚·\n‰ÁH—¿‹àQ<$1D><$06><$1E><$04><$14>\n<$01>‚ÍQ‚¢<$0E>^<$01>‚¢‚¢‚¦<$0E><$00>
-<CLEAR>Crafting aQ<$1D>Q\n
+<CLEAR>Crafting a <$1D> \n
 will cost<$1D><$06><$1E><$04><$14>.\n
 <$01>Okay<$0E> / <$01>Wait<$0E><$00>
 
@@ -393,7 +393,7 @@ will cost<$1D><$06><$1E><$04><$14>.\n
 
 
 //<CLEAR>‰ÁH—¿‹àQ<$15>b<$06><$1E><$04><$14>\n‚ª‘«‚è‚Ü‚¹‚ñ<$12><$00>
-<CLEAR>You can't afford theQ\n
+<CLEAR>You can't afford the \n
 <$15>b<$06><$1E><$04><$14> fee!<$12><$00>
 
 
@@ -505,7 +505,7 @@ back often!<$12><$00>
 
 
 //<CLEAR><$1D><$15>W‚Í\n‚`‹‰•ÛŒì“®•¨‚Ì‚½‚ß\næ‚èˆø‚«‚Å‚«‚Ü‚¹‚ñ<$12><$00>
-<CLEAR><$1D><$15>WQcannot be traded.\n
+<CLEAR><$1D><$15>W cannot be traded.\n
 Class A species\n
 trading is prohibited!<$12><$00>
 
@@ -547,7 +547,7 @@ trading is prohibited!<$12><$00>
 
 
 //Ac<$1D>‚És‚¯‚Î<$00>
-! That's where we'll find aQ<$1D>.<$00>
+! That's where we'll find a <$1D>.<$00>
 
 
 //’¼i<$00>
@@ -571,7 +571,7 @@ Back<$00>
 
 
 //Aâ‘Î‚É<$1D>a<$00>
-wards, got it? I'm sure we'll find aQ<$1D>Qthere!<$00>
+wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>SƒŠƒ“ƒ_‚Í@u—‚ÌŠ¨v‚ğ\n‚Í‚½‚ç‚©‚¹‚½a<$14><$12><$00>
@@ -583,35 +583,35 @@ wards, got it? I'm sure we'll find aQ<$1D>Qthere!<$00>
 
 
 //‰^–½‚Ì<$00>
-FatedQ<$00>
+Fated <$00>
 
 
 //V‚µ‚¢<$00>
-NewQ<$00>
+New <$00>
 
 
 //‘f“G‚È<$00>
-GreatQ<$00>
+Great <$00>
 
 
 //–¢’m‚Ì<$00>
-UnknownQ<$00>
+Unknown <$00>
 
 
 //‰½‚©<$00>
-thingsQ<$00>
+things <$00>
 
 
 //”­Œ©<$00>
-discoveriesQ<$00>
+discoveries <$00>
 
 
 //‚¨•ó<$00>
-treasuresQ<$00>
+treasures <$00>
 
 
 //“®•¨<$00>
-animalsQ<$00>
+animals <$00>
 
 
 //‚É@o‰ï‚¦‚éc<$00>
@@ -659,8 +659,7 @@ are dead head!<$00>
 
 //ƒNƒ“AƒNƒ“ƒNƒ“cccH<$12>\n<CLEAR><$1D>‚ÌƒjƒIƒC‚ª@‚·‚é‚Ë\n‚»‚¤‚¢‚¦‚ÎA<$1D>H‚Ü‚¾‚¾‚Á‚¯c<$12><$00>
 Sniff...sniff, sniff?<$12>\n
-<CLEAR><$1D>Qscent's filling the air. You know, I could go for\n
-someQ<$1D>Q!<$12><$00>
+<CLEAR><$1D> scent's filling the air. You know, I could go for some <$1D> !<$12><$00>
 
 
 //—‘Ä‚«<$00>
@@ -708,7 +707,7 @@ sauce<$00>
 
 
 //ƒX[ƒv<$00>
-Qsoup<$00>
+ soup<$00>
 
 
 //ƒsƒ‰ƒt<$00>
@@ -746,7 +745,7 @@ Sniff...sniff, sniff?<$12>\n
 
 #WRITE(PTR, $0022)
 //<$15>Y“®•¨î•ñ<$06>ƒT[ƒrƒX<$00>
-<$15>YAnimalQ<$06>Search<$00>
+<$15>YAnimal <$06>Search<$00>
 
 
 //<CLEAR>ŒŸõƒiƒTƒCƒ}ƒXƒJH\n<$01>‚ÍQ‚¢<$0E>^<$01>‚¢‚¢‚¦<$0E><$00>

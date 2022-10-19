@@ -114,7 +114,7 @@ c180a2.obj
 
 #WRITE(PTR, $001C)
 //宿屋・銀行<$00>
-Inn・Bank＿<$00>
+Inn・Bank <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -152,7 +152,7 @@ human companions? Not so easily.<$12><$00>
 
 
 //←＿闘犬場、近道！<$12><$00>
-←＿DGF DOJO(SHORTCUT!)<$12><$00>
+← DGF DOJO(SHORTCUT!)<$12><$00>
 
 
 //東の湖に　レッドポールって呼ばれる\nアナビスの遺跡らしいのが　あるわ<$12>\n<CLEAR>ビースチャンたちの話じゃ　昔は\n青い獣人の像が　中の祭壇に\n安置されていたらしいわね<$12><$00>
@@ -164,7 +164,7 @@ Beastman Doll.<$12><$00>
 
 //俺、ポメランに「おこづかいよ■」って\n<$1E>35￥も　もらっちゃった\nへへへ…　あんたも　もらってきなよ<$12>\n<CLEAR>彼女、けっこう　ああ見えてさ\nあっちのほうは　アレなんだよな\nわかるだろ？<$12><$00>
 One time, Pomeran whispered, "Treat yourself.■", and\n
-shoved＿<$1E>35￥ down my pocket.<$12>\n
+shoved <$1E>35￥ down my pocket.<$12>\n
 <CLEAR>She'll lure you in too, I'm sure. Even if you know the game,\n
 she's dangerously hot!<$12><$00>
 
@@ -180,7 +180,7 @@ rumors of foul play.<$12><$00>
 That Linda's a powerhouse! Why, she threw 2 grown men 3\n
 meters like it was nothing.<$12>\n
 <CLEAR>The thrown guys were shitting themselves like they'd eaten\n
-bad＿<$1D>and＿<$1D>!<$12><$00>
+bad <$1D>and <$1D>!<$12><$00>
 
 
 //リンダは　オーマン氏の遺族に\n聞き込みを　していたらしいわよ<$12>\n<CLEAR>どうやら　ミナゴの教会から身投げした\nオーマン氏と　今回の惨殺事件が\nつながってると　ふんでるみたいね<$12>\n<CLEAR>リンダの足取りが　つかめるかも\nしれないし、ケンもオーマン氏の\n遺族に　一応、会ってみたら？<$12><$00>
@@ -296,7 +296,7 @@ Arena Pay<$00>
 
 
 //<CLEAR>いらっしゃいませ！　創立<$1E>周年\n皆様のネオケニア銀行です<$00>
-<CLEAR>Serving Neo Kenya＿<$1E>＿years strong,\n
+<CLEAR>Serving Neo Kenya <$1E> years strong,\n
 this is Neo Kenya Bank!<$00>
 
 
@@ -338,7 +338,7 @@ balances are repaid.<$12><$00>
 
 
 //<CLEAR>現在の預金残高は　<$06><$1E><$04>￥です\n入金額は　おいくらですか？\n持金<$1E>40￥→入金<$01><$1E>40￥<$00>
-<CLEAR>Balance:＿<$06><$1E><$04>￥.\n
+<CLEAR>Balance: <$06><$1E><$04>￥.\n
 How much will you deposit?\n
 <$1E>40￥→<$01><$1E>40<$00>
 
@@ -349,7 +349,7 @@ How much will you deposit?\n
 
 
 //<CLEAR>現在の預金残高は　<$06><$1E><$04>￥です<$12><$00>
-<CLEAR>Balance:＿<$06><$1E><$04>￥.<$12><$00>
+<CLEAR>Balance: <$06><$1E><$04>￥.<$12><$00>
 
 
 //\nそれでも　お引出しになりたい？？\nそれは　強盗って言うんですよ<$12><$00>
@@ -363,7 +363,7 @@ Withdrawing more than that? That's what we call\n
 
 
 //<CLEAR>現在の預金残高は　<$06><$1E><$04>￥です\n引出額は　おいくらですか？\n持金<$1E>40￥←引出<$01><$1E>40￥<$00>
-<CLEAR>Balance:＿<$06><$1E><$04>￥\n
+<CLEAR>Balance: <$06><$1E><$04>￥\n
 How much will you withdraw?\n
 <$1E>40￥←<$01><$1E>40<$00>
 
@@ -374,12 +374,12 @@ How much will you withdraw?\n
 
 
 //<CLEAR>現在の預金残高は　<$06><$1E><$04>￥です\n追加融資は　お受けできかねます\nご了承ください<$12><$00>
-<CLEAR>Balance:＿<$06><$1E><$04>￥\n
+<CLEAR>Balance: <$06><$1E><$04>￥\n
 Additional loans cannot be taken.<$12><$00>
 
 
 //<CLEAR>現在の返済残高は　<$06><$1E><$04>￥です\n追加融資は　お受けできかねます\nご了承ください<$12><$00>
-<CLEAR>Balance:＿<$06><$1E><$04>￥\n
+<CLEAR>Balance: <$06><$1E><$04>￥\n
 Additional loans cannot be taken.<$12><$00>
 
 
@@ -389,23 +389,23 @@ loans have been terminated.<$12><$00>
 
 
 //<CLEAR>現在の融資枠は　最大<$06><$1E><$04>￥です\n融資希望額は　おいくらですか？\n持金<$1E>40￥←融資<$01><$1E>40￥<$00>
-<CLEAR>Loan limit:＿<$06><$1E><$04>￥\n
+<CLEAR>Loan limit: <$06><$1E><$04>￥\n
 How much will you borrow?\n
 <$1E>40￥←<$01><$1E>40<$00>
 
 
 //<CLEAR>融資額＿<$1E>40￥ですと　融資条件は\n季節利子<$1E>40￥　返済期限は来年<$1D>\n<$01>それでＯＫ<$0E>／<$01>融資額変更<$0E>／<$01>やめとく！<$0E><$00>
-<CLEAR>Great! That's＿<$1E>40￥ with seasonal interest.\n
-Repayment starts at＿<$1E>40￥ due next＿<$1D>.\n
+<CLEAR>Great! That's <$1E>40￥ with seasonal interest.\n
+Repayment starts at <$1E>40￥ due next <$1D>.\n
 <$01>OK!<$0E> / <$01>Back<$0E> / <$01>Exit<$0E><$00>
 
 
 //<CLEAR>返済残高　<$06><$1E><$04>￥です<$12><$00>
-<CLEAR>You currently owe＿ <$06><$1E><$04>￥.<$12><$00>
+<CLEAR>You currently owe  <$06><$1E><$04>￥.<$12><$00>
 
 
 //<CLEAR>現在の返済残高は　<$06><$1E><$04>￥です\n返済額は　おいくらですか？\n持金<$1E>40￥→返済<$01><$1E>40￥<$00>
-<CLEAR>Balance:＿<$06><$1E><$04>￥\n
+<CLEAR>Balance: <$06><$1E><$04>￥\n
 What will you repay?\n
 <$1E>40￥→<$01><$1E>40￥<$00>
 
@@ -421,8 +421,8 @@ Thank you!<$12><$00>
 
 
 //<CLEAR>返済残高は<$1E>40￥\n季節利子は<$1E>40￥\n<$00>
-<CLEAR>Balance:＿<$1E>40￥\n
-Seasonal interest:＿<$1E>40￥\n
+<CLEAR>Balance: <$1E>40￥\n
+Seasonal interest: <$1E>40￥\n
 <$00>
 
 
@@ -431,7 +431,7 @@ Remember, repayment is due this season.<$12><$00>
 
 
 //返済期限は次の<$1D>です　お忘れなく<$12><$00>
-Remember, repayment is due in＿<$1D>.<$12><$00>
+Remember, repayment is due in <$1D>.<$12><$00>
 
 
 //<$15>Yホテル<$00>
@@ -471,8 +471,7 @@ a room for <$1D><$06><$1E><$04><$14>￥?\n
 
 //クン、クンクン………？<$12>\n<CLEAR><$1D>のニオイが　するね\nそういえば、<$1D>食まだだっけ…<$12><$00>
 Sniff...sniff, sniff?<$12>\n
-<CLEAR><$1D>＿scent's filling the air. You know, I could go for\n
-some＿<$1D>＿!<$12><$00>
+<CLEAR><$1D> scent's filling the air. You know, I could go for some <$1D> !<$12><$00>
 
 
 //卵焼き<$00>
@@ -520,7 +519,7 @@ sauce<$00>
 
 
 //スープ<$00>
-＿soup<$00>
+ soup<$00>
 
 
 //ピラフ<$00>
@@ -588,7 +587,7 @@ dinner<$00>
 
 
 //、…<$1D>に行けば<$00>
-! That's where we'll find a＿<$1D>.<$00>
+! That's where we'll find a <$1D>.<$00>
 
 
 //直進<$00>
@@ -612,7 +611,7 @@ Back<$00>
 
 
 //、絶対に<$1D>∥<$00>
-wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
+wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
@@ -624,35 +623,35 @@ wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
 
 
 //運命の<$00>
-Fated＿<$00>
+Fated <$00>
 
 
 //新しい<$00>
-New＿<$00>
+New <$00>
 
 
 //素敵な<$00>
-Great＿<$00>
+Great <$00>
 
 
 //未知の<$00>
-Unknown＿<$00>
+Unknown <$00>
 
 
 //何か<$00>
-things＿<$00>
+things <$00>
 
 
 //発見<$00>
-discoveries＿<$00>
+discoveries <$00>
 
 
 //お宝<$00>
-treasures＿<$00>
+treasures <$00>
 
 
 //動物<$00>
-animals＿<$00>
+animals <$00>
 
 
 //に　出会える…<$00>

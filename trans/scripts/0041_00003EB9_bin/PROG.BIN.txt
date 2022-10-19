@@ -186,7 +186,7 @@ kao_h6.obj
 
 #WRITE(PTR, $001E)
 //ハーディア<$00>
-Hardia＿<$00>
+Hardia <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -252,7 +252,7 @@ can kiss their old life goodbye!<$12><$00>
 
 
 //＿＿＿＿■恋人たちの泉■<$12>\n<CLEAR>恋人の名前を　心の中で３度呼んでから\n＿＿泉にお金を　投げ入れて下さい\n＿きっとあなたの願いが　かないます<$12><$00>
-"■＿FOUNTAIN OF LOVERS＿■"<$12>\n
+"■ FOUNTAIN OF LOVERS ■"<$12>\n
 <CLEAR>"SAY THEIR NAME 3 TIMES IN YOUR HEART.\n
 TOSS A COIN IN, AND 'TIL DEATH DO YOU PART!"<$12><$00>
 
@@ -294,15 +294,15 @@ course. But...still!<$12>\n
 
 
 //あと<$1E>季節<$00>
-In＿<$1E>＿seasons<$00>
+In <$1E> seasons<$00>
 
 
 //あと<$1E>年<$00>
-In＿<$1E>＿years<$00>
+In <$1E> years<$00>
 
 
 //あと<$1E>年と<$1E>季節<$00>
-In＿<$1E>＿years and＿<$1E>＿seasons<$00>
+In <$1E> years and <$1E> seasons<$00>
 
 
 //…\nこの町も人通りが　めっきり減ったねぇ<$12><$00>
@@ -326,13 +326,13 @@ so I have a favor to ask.<$12><$00>
 
 
 //<CLEAR>この子、「<$1D>」っていうの\nケン兄ちゃんに　もらって欲しいの\n<$01>いいとも∥<$0E>／<$01>面倒だなぁ<$0E><$00>
-<CLEAR>Take care of our doggy,＿<$1D>, for me.\n
+<CLEAR>Take care of our doggy, <$1D>, for me.\n
 Please? Pretty please?\n
 <$01>Sure!<$0E> / <$01>I can't.<$0E><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは、猟犬「<$1D>」を手に入れた！<$14><$12><$00>
-<CLEAR><$19><$15>SKen acquired the dog,＿<$1D>!<$14><$12><$00>
+<CLEAR><$19><$15>SKen acquired the dog, <$1D>!<$14><$12><$00>
 
 
 //<CLEAR>……………………<$12><$00>
@@ -340,7 +340,7 @@ Please? Pretty please?\n
 
 
 //<CLEAR><$1D>のこと　かわいがってね<$12><$00>
-<CLEAR>Take good care of our＿<$1D>!<$12><$00>
+<CLEAR>Take good care of our <$1D>!<$12><$00>
 
 
 
@@ -356,8 +356,8 @@ Sniff, sniff...<$12><$00>
 //俺は今、立ち止まって　これからの\n自分の行く末について　考えている\nこういうことも　時には必要なんだ<$12>\n<CLEAR>こんな時、便利なのが　<$06>SELECT<$04>ボタン\n時間が　ピタリと止まるから\nトイレにも　ゆっくり行けるぞ∥<$12><$00>
 Sometimes, you need to hold still and think about the\n
 future, like I'm doing now.<$12>\n
-<CLEAR>When you need to pause, press the＿<$06>SELECT<$04>＿button\n
-to stop the clock and sneak that pee break in! <$12><$00>
+<CLEAR>When you need to pause, press the <$06>SELECT<$04> button to stop\n
+the clock and sneak that pee break in! <$12><$00>
 
 
 //レンジャー隊も　割りが合わないよね！\n創設当時は　動物と密猟者の相手だけ\nしてれば　よかったのに…<$12>\n<CLEAR>いつの間にか　警察のマネまで\nやらされることになってサ…　こんどは\n脱出プロジェクトの　雑用係でしょ￠<$12>\n<CLEAR>やってらんないわよね∥<$12><$00>
@@ -394,7 +394,7 @@ Linda sent you a Santa-gram!<$00>
 
 
 //<CLEAR>「<$06>102<$04>号室で　待ってるわよ」\nだってサ！　覚えたかい？<$00>
-<CLEAR>"Meet me in Room＿<$06>102<$04>!"\n
+<CLEAR>"Meet me in Room <$06>102<$04>!"\n
 Don't forget it!<$00>
 
 
@@ -516,8 +516,7 @@ grown-up, after all.<$00>
 #WRITE(PTR, $0022)
 //クン、クンクン………？<$12>\n<CLEAR><$1D>のニオイが　するね\nそういえば、<$1D>食まだだっけ…<$12><$00>
 Sniff...sniff, sniff?<$12>\n
-<CLEAR><$1D>＿scent's filling the air. You know, I could go for\n
-some＿<$1D>＿!<$12><$00>
+<CLEAR><$1D> scent's filling the air. You know, I could go for some <$1D> !<$12><$00>
 
 
 //卵焼き<$00>
@@ -565,7 +564,7 @@ sauce<$00>
 
 
 //スープ<$00>
-＿soup<$00>
+ soup<$00>
 
 
 //ピラフ<$00>
@@ -633,7 +632,7 @@ dinner<$00>
 
 
 //、…<$1D>に行けば<$00>
-! That's where we'll find a＿<$1D>.<$00>
+! That's where we'll find a <$1D>.<$00>
 
 
 //直進<$00>
@@ -657,7 +656,7 @@ Back<$00>
 
 
 //、絶対に<$1D>∥<$00>
-wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
+wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
@@ -669,35 +668,35 @@ wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
 
 
 //運命の<$00>
-Fated＿<$00>
+Fated <$00>
 
 
 //新しい<$00>
-New＿<$00>
+New <$00>
 
 
 //素敵な<$00>
-Great＿<$00>
+Great <$00>
 
 
 //未知の<$00>
-Unknown＿<$00>
+Unknown <$00>
 
 
 //何か<$00>
-things＿<$00>
+things <$00>
 
 
 //発見<$00>
-discoveries＿<$00>
+discoveries <$00>
 
 
 //お宝<$00>
-treasures＿<$00>
+treasures <$00>
 
 
 //動物<$00>
-animals＿<$00>
+animals <$00>
 
 
 //に　出会える…<$00>

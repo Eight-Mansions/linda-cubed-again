@@ -138,7 +138,7 @@ c162_2.obj
 
 #WRITE(PTR, $001C)
 //ジャンクパレス２Ｆ<$00>
-Junk Palace 2F＿<$00>
+Junk Palace 2F <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -199,7 +199,7 @@ everyone knows they're forgeries.<$12><$00>
 
 //<CLEAR>狩場への移動に　金を惜しんでちゃ\nたった８年で　<$06>100<$04>種の動物を\n集めるのは　悪いけど無理だナ<$12>\n<CLEAR>一流のハンターは　シュートサービスと\n回収ビーコンと経験を　組み合わせて\nピンポイントに　攻めるもんサ<$12><$00>
 <CLEAR>If you're not willing to shell out money for the good hunting\n
-grounds, I don't see how you can collect＿<$06><$04>＿species in 8\n
+grounds, I don't see how you can collect <$06><$04> species in 8\n
 years.<$12>\n
 <CLEAR>The best hunters use of the drop service, flash\n
 beacons and good old street smarts in a fluid\n
@@ -303,9 +303,8 @@ you, we'd be pissing profits in no time!<$12><$00>
 
 
 //<CLEAR><$1B>ヤドカリと　<$1B>サザエってのは\nビースチャンでも　区別がつかないほど\n似てるらしいね<$12>\n<CLEAR><$1B>ヤドカリは確か　ここの南の\nヤマピットに　いるよな\n<$1B>サザエってのは　どこにいるんだ?<$12><$00>
-<CLEAR>Hermit crabs and＿turban shells are\n
-indistinguishable. Not even the sharp eyes of a Beastian\n
-can tell them apart.<$12>\n
+<CLEAR>Hermit crabs and turban shells are indistinguishable.\n
+Not even the sharp eyes of a Beastian can tell them apart.<$12>\n
 <CLEAR>Hermit crabs can be found south of here, in Yama\n
 Pit.As for turban shells, who knows where they live?!<$12><$00>
 
@@ -316,7 +315,7 @@ Pit.As for turban shells, who knows where they live?!<$12><$00>
 
 
 //<CLEAR>何になさいます？　どれでも<$1D><$06><$1E><$04><$14>￥です\n<$01><$1D><$1D><$02>98<$0E>／<$01><$1D><$1D><$02>210<$0E>\n<$01><$1D><$1D><$02>98<$0E>／<$01>どれもいらない<$0E><$00>
-<CLEAR>For＿<$1D><$06><$1E><$04><$14>￥, what'll it be?\n
+<CLEAR>For <$1D><$06><$1E><$04><$14>￥, what'll it be?\n
 <$01><$1D><$1D><$02>98<$0E> / <$01><$1D><$1D><$02>210<$0E>\n
 <$01><$1D><$1D><$02>98<$0E> / <$01>No thanks.<$0E><$00>
 
@@ -337,11 +336,11 @@ in one gulp.<$12><$00>
 
 
 //<CLEAR>ケンの\n<$06>HP <$04>全回復∥<$12><$00>
-<CLEAR>Ken's＿<$06>HP<$04>＿recovered fully!<$12><$00>
+<CLEAR>Ken's <$06>HP<$04> recovered fully!<$12><$00>
 
 
 //<CLEAR>ケンの\n<$06>HP <$1E><$04>回復∥<$12><$00>
-<CLEAR>Ken's＿<$06>HP recovered by＿<$1E><$04>!<$12><$00>
+<CLEAR>Ken's <$06>HP recovered by <$1E><$04>!<$12><$00>
 
 
 //<CLEAR>もう　１杯いかがですか？\n<$01><$1D><$1D><$02>98<$0E>／<$01><$1D><$1D><$02>210<$0E>\n<$01><$1D><$1D><$02>98<$0E>／<$01>もう、いらない<$0E><$00>
@@ -351,51 +350,51 @@ in one gulp.<$12><$00>
 
 
 //ロック<$00>
-＿shot<$00>
+ shot<$00>
 
 
 //ジュース<$00>
-＿juice<$00>
+ juice<$00>
 
 
 //ミルク<$00>
-＿milk<$00>
+ milk<$00>
 
 
 //スープ<$00>
-＿soup<$00>
+ soup<$00>
 
 
 //パンチ<$00>
-＿punch<$00>
+ punch<$00>
 
 
 //カクテル<$00>
-＿cocktail<$00>
+ cocktail<$00>
 
 
 //茶<$00>
-＿tea<$00>
+ tea<$00>
 
 
 //コーラ<$00>
-＿malt<$00>
+ malt<$00>
 
 
 //ビール<$00>
-＿beer<$00>
+ beer<$00>
 
 
 //サワー<$00>
-＿shake<$00>
+ shake<$00>
 
 
 //ソーダ<$00>
-＿soda<$00>
+ soda<$00>
 
 
 //焼酎<$00>
-＿shochu<$00>
+ shochu<$00>
 
 
 //<$15>Yホテル<$00>
@@ -450,11 +449,11 @@ a room for <$1D><$06><$1E><$04><$14>￥?\n
 
 //猟犬の将来が　気になったら\n<$1D><$06><$1E><$04><$14>￥で　相談に乗ってしんぜよう<$12><$00>
 If you're worried about your dog's future, I give readings\n
-for＿<$1D><$06><$1E><$04><$14>￥.<$12><$00>
+for <$1D><$06><$1E><$04><$14>￥.<$12><$00>
 
 
 //猟犬の将来を　<$1D><$06><$1E><$04><$14>￥で占うぞよ\n<$01>犬を見せる<$0E>／<$01>雑談する<$0E>／<$01>信じない！<$0E><$00>
-See your dog's future for only＿<$1D><$06><$1E><$04><$14>￥!\n
+See your dog's future for only <$1D><$06><$1E><$04><$14>￥!\n
 <$01>Show me<$0E> / <$01>Chat<$0E> / <$01>What a joke!<$0E><$00>
 
 
@@ -478,13 +477,13 @@ dogs' futures were already dark!<$12><$00>
 
 
 //<CLEAR><$1D>か…　<$1D>名じゃのぉ…<$12>\nそれでは　占うぞよ<$12><$00>
-<CLEAR><$1D>, I see...<$1D>＿name, yes...<$12>\n
+<CLEAR><$1D>, I see...<$1D> name, yes...<$12>\n
 May it be so!<$12><$00>
 
 
 //<CLEAR>はァァーッ！　犬神星シリウスよ！\n迷える<$1D>の明日を　我に示し給え！\n願わくば、光の道へ導き給え！<$12>\n<CLEAR>ふむ…　見えたぞ<$12><$00>
-<CLEAR>Oh, Sirius! Lead＿<$1D>＿when they are lost, to tomorrow on a\n
-path of light!<$12>\n
+<CLEAR>Oh, Sirius! Lead <$1D> when they are lost, to tomorrow on a path\n
+of light!<$12>\n
 <CLEAR>My work...is done.<$12><$00>
 
 
@@ -521,8 +520,7 @@ DEF<$00>
 
 
 //<CLEAR><$1D>の　<$1D>と<$1D>は　あまり\n上がらんようじゃな…　困ったのぉ…\n性格を一言で表すなら…<$12><$00>
-<CLEAR><$1D>'s＿<$1D>＿and＿<$1D>＿might not increase much due to their\n
-personality.<$12><$00>
+<CLEAR><$1D>'s <$1D> and <$1D> might not increase much due to their personality.<$12><$00>
 
 
 //<CLEAR>ただの臆病者…\n主人を置いて　平気で逃げ出すぞ\nあてにせんほうが　身のためじゃ<$12><$00>
@@ -579,8 +577,7 @@ stamina<$00>
 
 
 //<CLEAR><$1D>は　<$1D>と<$1D>が　育つほどに\nメキメキと　上がるな\nそれに…<$12><$00>
-<CLEAR><$1D>'s＿<$1D>＿and＿<$1D>＿will increase as they continue to grow,\n
-and also...<$12><$00>
+<CLEAR><$1D>'s <$1D> and <$1D> will increase as they continue to grow, and also...<$12><$00>
 
 
 //<CLEAR>なかなか慎重な性格ゆえ　ケガも少ない\n医者いらずの　経済的な犬じゃ<$12><$00>
@@ -669,8 +666,8 @@ A complicated<$00>
 
 //クン、クンクン………？<$12>\n<CLEAR>ここには　少なくとも<$1E>1人！\nいいえ…　<$1E>1人はいるわよ…<$12>\n<CLEAR>お風呂と縁のない人<$12><$00>
 Sniff...sniff, sniff?<$12>\n
-<CLEAR>There's not＿<$1E>1 soul here!\n
-Wait... No, there's at least＿<$1E>1.<$12>\n
+<CLEAR>There's not <$1E>1 soul here!\n
+Wait... No, there's at least <$1E>1.<$12>\n
 <CLEAR>It's whatever they reek of that isn't human.<$12><$00>
 
 
@@ -711,7 +708,7 @@ Wait... No, there's at least＿<$1E>1.<$12>\n
 
 
 //、…<$1D>に行けば<$00>
-! That's where we'll find a＿<$1D>.<$00>
+! That's where we'll find a <$1D>.<$00>
 
 
 //直進<$00>
@@ -735,7 +732,7 @@ Back<$00>
 
 
 //、絶対に<$1D>∥<$00>
-wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
+wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
@@ -747,35 +744,35 @@ wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
 
 
 //運命の<$00>
-Fated＿<$00>
+Fated <$00>
 
 
 //新しい<$00>
-New＿<$00>
+New <$00>
 
 
 //素敵な<$00>
-Great＿<$00>
+Great <$00>
 
 
 //未知の<$00>
-Unknown＿<$00>
+Unknown <$00>
 
 
 //何か<$00>
-things＿<$00>
+things <$00>
 
 
 //発見<$00>
-discoveries＿<$00>
+discoveries <$00>
 
 
 //お宝<$00>
-treasures＿<$00>
+treasures <$00>
 
 
 //動物<$00>
-animals＿<$00>
+animals <$00>
 
 
 //に　出会える…<$00>
@@ -827,7 +824,7 @@ are dead head!<$00>
 
 
 //<$15>Yスケジュール<$00>
-<$15>YMemo＿<$00>
+<$15>YMemo <$00>
 
 
 //<CLEAR>スケジュールは何もありません<$12><$00>
@@ -843,15 +840,15 @@ Expired!<$00>
 
 
 //あと<$1E>季節<$00>
-In＿<$1E>＿seasons<$00>
+In <$1E> seasons<$00>
 
 
 //あと<$1E>年<$1E>季節<$00>
-Deadline:＿<$1E>Y/<$1E>S<$00>
+Deadline: <$1E>Y/<$1E>S<$00>
 
 
 //あと<$1E>年<$00>
-In＿<$1E>＿years<$00>
+In <$1E> years<$00>
 
 
 //<$16><$01>◇<$0E><$1D><$02>190<$1D><$00>
@@ -908,17 +905,17 @@ Hardia Hotel.<$00>
 
 
 //<CLEAR>マーブルポリスの<$1B>ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す<$00>
-<CLEAR>Process meat from＿chickens in Marblopolis.Give them to\n
+<CLEAR>Process meat from chickens in Marblopolis.Give them to\n
 Prof. Panheim in Hospico.<$00>
 
 
 //<CLEAR><$1B>カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す<$00>
-<CLEAR>Find up to 3＿Turtle Eggs. Give them to Louis at the Battle\n
+<CLEAR>Find up to 3 Turtle Eggs. Give them to Louis at the Battle\n
 Park BB Ranch.<$00>
 
 
 //<CLEAR><$1B>プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す<$00>
-<CLEAR>Acquire 2＿Pteranodon Eggs. Give them to Bronco at the\n
+<CLEAR>Acquire 2 Pteranodon Eggs. Give them to Bronco at the\n
 Battle Park BB Ranch.<$00>
 
 
@@ -932,15 +929,15 @@ Aumann children in Dogyf Heights.<$00>
 
 
 //あと<$06><$1E><$0F>000<$04><$00>
-another＿<$06><$1E><$0F><$04><$00>
+another <$06><$1E><$0F><$04><$00>
 
 
 //<CLEAR>Ｇファクトリーのヤマダのために\n<$1D>￥を預金する<$00>
-<CLEAR>Deposit＿<$1D>￥ in an account to Yamada in G Factory.<$00>
+<CLEAR>Deposit <$1D>￥ in an account to Yamada in G Factory.<$00>
 
 
 //<CLEAR>コシカタのシンボル「<$1B>トラの爪」を\n見つけだし、ポリスカに渡す<$00>
-<CLEAR>Find the＿Tiger Claw, Koshikata's village symbol. Return it\n
+<CLEAR>Find the Tiger Claw, Koshikata's village symbol. Return it\n
 to Poliska.<$00>
 
 
@@ -959,17 +956,17 @@ Eterna.<$00>
 
 
 //<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nＧファクトリー入口１階、\n公衆電話の前に行く<$00>
-<CLEAR>Take the Floppy Disc and＿<$06>10, 000<$04>￥ to the G Factory\n
-gate. Answer the payphone.<$00>
+<CLEAR>Take the Floppy Disc and <$06>10, 000<$04>￥ to the G Factory gate.\n
+Answer the payphone.<$00>
 
 
 //<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nパラサイド入口１階、\n公衆電話の前に行く<$00>
-<CLEAR>Take the Floppy Disc and＿<$06>10, 000<$04>￥ to the Paraside gate.\n
+<CLEAR>Take the Floppy Disc and <$06>10, 000<$04>￥ to the Paraside gate.\n
 Answer the payphone.<$00>
 
 
 //<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nガレックスに行く<$00>
-<CLEAR>Take the Floppy Disc and＿<$06>10, 000<$04>￥ to Galax.<$00>
+<CLEAR>Take the Floppy Disc and <$06>10, 000<$04>￥ to Galax.<$00>
 
 
 //<CLEAR>ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す<$00>

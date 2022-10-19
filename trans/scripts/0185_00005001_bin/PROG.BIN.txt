@@ -108,7 +108,7 @@ m040.obj
 
 #WRITE(PTR, $0020)
 //ジャンクパレスＢ１<$00>
-Junk Palace B1＿<$00>
+Junk Palace B1 <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -141,22 +141,22 @@ enough to fall for her antics!<$12><$00>
 
 
 //他の町の<$1B>ナマズより　色ツヤが\n妙に　いいと思わんかね？<$12>\n<CLEAR>なにしろ他じゃ　あまり喰わさん肉を\nこいつらは　タラフク喰っとるでなぁ\nヒヒヒヒヒヒ…<$12><$00>
-The sheen on the＿catfish here is finer than on those\n
-from other towns, don't you agree?<$12>\n
+The sheen on the catfish here is finer than on those from\n
+other towns, don't you agree?<$12>\n
 <CLEAR>I bet they all have too much meat in their diets. I'm glad\n
 ours have a sense of refinement.<$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen found the＿<$1D>!<$14><$12><$00>
+<CLEAR><$19><$15>SKen found the <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the＿<$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen acquired＿<$1D>!<$14><$12><$00>
+<CLEAR><$19><$15>SKen acquired <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>ケンは　<$1E>￥を\n手に入れた∥<$14><$12><$00>
@@ -174,7 +174,7 @@ ours have a sense of refinement.<$12><$00>
 
 #WRITE(PTR, $0022)
 //解体屋<$00>
-Ripper＿<$00>
+Ripper <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -207,8 +207,8 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR>お望みなら　尻尾のない<$1B>ネズミとか\nおしゃべりが過ぎる　<$1B>イヌの解体も\nやれないことは　ないよ<$12>\n<CLEAR>もちろん　特別料金だけどね\n驚くほど　高かないサ<$12><$00>
-<CLEAR>If you ever want a tail-less＿rat, just ask. I'm not bad\n
-with＿dogs either.<$12>\n
+<CLEAR>If you ever want a tail-less rat, just ask. I'm not bad\n
+with dogs either.<$12>\n
 <CLEAR>I charge what a charge, but unless you want to do this\n
 yourself, the price is reasonable.<$12><$00>
 
@@ -278,7 +278,7 @@ materials from them if I won!<$12><$00>
 
 #WRITE(PTR, $0026)
 //<CLEAR><$1D><$15>Wは\nＡ級保護動物のため\n取り引きできません<$12><$00>
-<CLEAR><$1D><$15>W＿cannot be traded.\n
+<CLEAR><$1D><$15>W cannot be traded.\n
 Class A species\n
 trading is prohibited!<$12><$00>
 
@@ -314,7 +314,7 @@ full!<$12><$00>
 
 
 //<$1D>でいいんだね？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
-Rip open the＿<$1D>?\n
+Rip open the <$1D>?\n
 <$01>Yes<$0E> / <$01>No<$0E><$00>
 
 
@@ -337,7 +337,7 @@ I found!<$12><$00>
 
 //<CLEAR><$06><$1E><$04>￥を見つけたゼ<$12><$00>
 <CLEAR>Look at the\n
-<$06><$1E><$04>￥＿I found!<$12><$00>
+<$06><$1E><$04>￥ I found!<$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>ケンは　<$06><$1E><$04>￥を\n手にいれた∥<$14><$12><$00>
@@ -346,8 +346,8 @@ I found!<$12><$00>
 
 
 //<CLEAR><$1D>を　見つけられると\n思ったけど　何もないねぇ<$12><$00>
-<CLEAR>I thought I saw a＿\n
-<$1D>＿in there,\n
+<CLEAR>I thought I saw a \n
+<$1D> in there,\n
 but I was wrong.<$12><$00>
 
 
@@ -408,12 +408,12 @@ because you're ignorant.<$12><$00>
 
 //\n<$1D>の治療には　<$1D><$06><$1E><$14><$04>￥必要ね\n<$01>依頼する<$0E>／<$01>ほっとく<$0E><$00>
 \n
-I can treat＿<$1D>＿for＿<$1D><$06><$1E><$14><$04>￥,\n
+I can treat <$1D> for <$1D><$06><$1E><$14><$04>￥,\n
 <$01>Please help!<$0E> / <$01>Nevermind!<$0E><$00>
 
 
 //<CLEAR>かわいそうな<$1D>…\n治療費も　満足に払えない\n貧乏な飼い主を　恨みなさいね<$12><$00>
-<CLEAR>Poor, poor,＿<$1D>...\n
+<CLEAR>Poor, poor, <$1D>...\n
 Bwame your daddy for being a wittle cheapskate.<$12><$00>
 
 
@@ -422,7 +422,7 @@ Bwame your daddy for being a wittle cheapskate.<$12><$00>
 
 
 //あぁ～傷に<$1B>ウジが　わいてるわよ<$00>
-Whoa～!＿Maggots in the wound!<$00>
+Whoa～! Maggots in the wound!<$00>
 
 
 //肋骨と鎖骨が　折れてるだけね<$00>
@@ -455,7 +455,7 @@ What a gangwenous wittle weg!<$00>
 
 //<CLEAR>大丈夫！　まかせなさい！\n<$1E>0回に１回くらいしか　失敗しないわ<$12><$00>
 <CLEAR>Leave it to me!\n
-I mess up only once every＿<$1E>0＿times, tops!<$12><$00>
+I mess up only once every <$1E>0 times, tops!<$12><$00>
 
 
 //<CLEAR>…………………………………∥<$12><$00>
@@ -468,7 +468,7 @@ I mess up only once every＿<$1E>0＿times, tops!<$12><$00>
 
 //<CLEAR>はい、治療終り∥\n傷が開くといけないから　<$1D>には\n当分、無理させないようにしてね<$12><$00>
 <CLEAR>And...done!\n
-Be careful with＿<$1D>,\n
+Be careful with <$1D>,\n
 or these wounds may reopen. <$12><$00>
 
 
@@ -501,7 +501,7 @@ Choose a new name.<$12><$00>
 
 
 //<CLEAR>猟犬<$1D>を登録します\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
-<CLEAR>Adopt＿<$1D>?\n
+<CLEAR>Adopt <$1D>?\n
 <$01>Yes<$0E> / <$01>No<$0E><$00>
 
 
@@ -530,7 +530,7 @@ You cannot adopt any more dogs.<$12><$00>
 
 
 //<CLEAR><$1B>イヌを　お持ちじゃないようですね<$12><$00>
-<CLEAR>You don't have any＿dogs.<$12><$00>
+<CLEAR>You don't have any dogs.<$12><$00>
 
 
 //<$15>Y猟犬屋／登＿録<$00>
@@ -555,7 +555,7 @@ You cannot adopt any more dogs.<$12><$00>
 
 
 //<$04><$16><$15>W<$01>猟犬LV<$1E>02<$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
-<$04><$16><$15>W<$01>Dog LVL＿<$1E>02<$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
+<$04><$16><$15>W<$01>Dog LVL <$1E>02<$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
 
 
 //<$15>Y猟犬屋／売＿る<$00>
@@ -563,14 +563,14 @@ You cannot adopt any more dogs.<$12><$00>
 
 
 //<CLEAR>猟犬「<$1D>」を\n<$06><$1E><$04>￥で売りますか？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
-<CLEAR>Sell＿<$1D>＿ for＿<$06><$1E><$04>￥?\n
+<CLEAR>Sell <$1D>  for <$06><$1E><$04>￥?\n
 <$01>Yes<$0E> / <$01>No<$0E><$00>
 
 
 //クン、クンクン………？<$12>\n<CLEAR>ここには　少なくとも<$1E>1人！\nいいえ…　<$1E>1人はいるわよ…<$12>\n<CLEAR>お風呂と縁のない人<$12><$00>
 Sniff...sniff, sniff?<$12>\n
-<CLEAR>There's not＿<$1E>1 soul here!\n
-Wait... No, there's at least＿<$1E>1.<$12>\n
+<CLEAR>There's not <$1E>1 soul here!\n
+Wait... No, there's at least <$1E>1.<$12>\n
 <CLEAR>It's whatever they reek of that isn't human.<$12><$00>
 
 
@@ -611,7 +611,7 @@ Wait... No, there's at least＿<$1E>1.<$12>\n
 
 
 //、…<$1D>に行けば<$00>
-! That's where we'll find a＿<$1D>.<$00>
+! That's where we'll find a <$1D>.<$00>
 
 
 //直進<$00>
@@ -635,7 +635,7 @@ Back<$00>
 
 
 //、絶対に<$1D>∥<$00>
-wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
+wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
@@ -647,35 +647,35 @@ wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
 
 
 //運命の<$00>
-Fated＿<$00>
+Fated <$00>
 
 
 //新しい<$00>
-New＿<$00>
+New <$00>
 
 
 //素敵な<$00>
-Great＿<$00>
+Great <$00>
 
 
 //未知の<$00>
-Unknown＿<$00>
+Unknown <$00>
 
 
 //何か<$00>
-things＿<$00>
+things <$00>
 
 
 //発見<$00>
-discoveries＿<$00>
+discoveries <$00>
 
 
 //お宝<$00>
-treasures＿<$00>
+treasures <$00>
 
 
 //動物<$00>
-animals＿<$00>
+animals <$00>
 
 
 //に　出会える…<$00>

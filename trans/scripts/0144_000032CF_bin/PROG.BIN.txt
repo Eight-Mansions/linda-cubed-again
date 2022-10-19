@@ -26,7 +26,7 @@ is gathering strength!<$12><$00>
 
 //<CLEAR><$1C>A‚Í@’O”O‚É\n<$1C>T‚Ì‘Sg‚ğ@‚È‚ß‚½a<$12><$00>
 <CLEAR><$1C>A\n
-lickedQ<$1C>'s\n
+licked <$1C>'s\n
 body intently.<$12><$00>
 
 
@@ -49,7 +49,7 @@ is gathering strength!<$12><$00>
 
 //<CLEAR><$1C>A‚Í\n<$1D>“x@‚Ì‚Ç‚ğ–Â‚ç‚µ‚½a<$12><$00>
 <CLEAR><$1C>A\n
-growledQ<$1D>Qtimes!<$12><$00>
+growled <$1D> times!<$12><$00>
 
 
 //<CLEAR><$1C>A‚Í\n—Y‚½‚¯‚Ñ‚ğ@‚ ‚°‚½a<$12><$00>
@@ -69,7 +69,7 @@ made a blunt tackle!<$12><$00>
 
 //<CLEAR><$1C>A‚ÌUŒ‚a\n<$1C>a@•¬oa<$12><$00>
 <CLEAR><$1C>A\n
-spewedQ<$1C>a!<$12><$00>
+spewed <$1C>a!<$12><$00>
 
 
 //‚P<$00>
@@ -86,7 +86,7 @@ spewedQ<$1C>a!<$12><$00>
 
 //<CLEAR><$1C>A‚Í\n<$1D>“x@•@‚ğ–Â‚ç‚µ‚½a<$12><$00>
 <CLEAR><$1C>A\n
-snortedQ<$1D>Qtimes!<$12><$00>
+snorted <$1D> times!<$12><$00>
 
 
 //<CLEAR><$1C>A‚ÌUŒ‚a\n“µ‚Ì‰œ‚Ì@‚©‚·‚©‚ÈŒõa\nÃ–°ƒr[ƒ€a<$12><$00>
@@ -96,7 +96,7 @@ fires a hypnotic beam from their blank eyes.<$12><$00>
 
 //<CLEAR><$1C>A‚Í@—D‚µ‚­\n<$1C>O‚Ì‹r‚ğ@Šš‚ñ‚¾a\nƒAƒhƒŒƒiƒŠƒ“’“üa<$12><$00>
 <CLEAR><$1C>A\n
-piercedQ<$1C>O's leg with a surge of adrenaline!<$12><$00>
+pierced <$1C>O's leg with a surge of adrenaline!<$12><$00>
 
 
 //‚P<$00>
@@ -113,7 +113,7 @@ piercedQ<$1C>O's leg with a surge of adrenaline!<$12><$00>
 
 //<CLEAR><$1C>A‚Í\n<$1D>“x@•@‚ğ–Â‚ç‚µ‚½a<$12><$00>
 <CLEAR><$1C>A\n
-snortedQ<$1D>Qtimes!<$12><$00>
+snorted <$1D> times!<$12><$00>
 
 
 #WRITE(PTR, $002E)
@@ -305,7 +305,7 @@ m106m.obj
 
 #WRITE(PTR, $0030)
 //’n‰ºƒGƒfƒ““ì¼•”<$00>
-SW EdenQ<$00>
+SW Eden <$00>
 
 
 //<CLEAR>ƒPƒ“‚Í@–ì‰c‚Ì“Áê”\—Í‚ğ\ng‚É‚Â‚¯‚Ä‚¢‚È‚¢<$12><$00>
@@ -409,7 +409,7 @@ Choose a new name.<$12><$00>
 
 
 //<CLEAR>—ÂŒ¢<$1D>‚ğ“o˜^‚µ‚Ü‚·\n<$01>‚ÍQ‚¢<$0E>^<$01>‚¢‚¢‚¦<$0E><$00>
-<CLEAR>AdoptQ<$1D>?\n
+<CLEAR>Adopt <$1D>?\n
 <$01>Yes<$0E> / <$01>No<$0E><$00>
 
 
@@ -422,15 +422,15 @@ Choose a new name.<$12><$00>
 
 
 //ŒÂ<$00>
-Q<$00>
+ <$00>
 
 
 //•C<$00>
-Q<$00>
+ <$00>
 
 
 //<$1D>‚ğ<$1D>‚Ü‚·\n<$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04>^<$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S<$00>
-<$1D>Qx<$1D>Q\n
+<$1D> x<$1D> \n
 <$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04> / <$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S<$00>
 
 
@@ -464,11 +464,11 @@ Choose a new name.<$12><$00>
 
 //<CLEAR>ƒgƒ‰ƒ“ƒXƒJ[ƒS‚Í@‚P˜g‚É‚Â‚«\n<$06>99<$04>“ª‚Ü‚Å‚µ‚©@û—e‚Å‚«‚Ü‚¹‚ñ<$12><$00>
 <CLEAR>The trans-cargo unit has\n
-aQ<$06>99<$04>Qspecies capacity!<$12><$00>
+a <$06>99<$04> species capacity!<$12><$00>
 
 
 //<CLEAR><$06>ƒgƒ‰ƒ“ƒXƒJ[ƒS<$04>‚ª‚¢‚Á‚Ï‚¢‚Å‚·<$12><$00>
-<CLEAR><$06>The trans-cargo unitQ<$04>is full!<$12><$00>
+<CLEAR><$06>The trans-cargo unit <$04>is full!<$12><$00>
 
 
 //<CLEAR>“¹‹ï‚ª‚¢‚Á‚Ï‚¢‚Å‚·<$12><$00>
@@ -476,7 +476,7 @@ aQ<$06>99<$04>Qspecies capacity!<$12><$00>
 
 
 //<CLEAR><$1D><$15>W‚Í\n‚`‹‰•ÛŒì“®•¨‚Ì‚½‚ß\næ‚èˆø‚«‚Å‚«‚Ü‚¹‚ñ<$12><$00>
-<CLEAR><$1D><$15>WQcannot be traded.\n
+<CLEAR><$1D><$15>W cannot be traded.\n
 Class A species\n
 trading is prohibited!<$12><$00>
 
@@ -486,16 +486,16 @@ trading is prohibited!<$12><$00>
 
 
 //<$16><$04><$01><$1D><$02>120<$0E><$02>216<$06><$1E><$04>•C‚Å<$00>
-<$16><$04><$01><$1D><$02><$0E><$02><$06><$1E><$04>xQ<$00>
+<$16><$04><$01><$1D><$02><$0E><$02><$06><$1E><$04>x <$00>
 
 
 //<CLEAR><$1D>‚ğì‚è‚Ü‚·\n<$01>‚ÍQ‚¢<$0E>^<$01>‚¢‚¢‚¦<$0E><$00>
-<CLEAR>CraftQ<$1D>?\n
+<CLEAR>Craft <$1D>?\n
 <$01>Yes<$0E> / <$01>No<$0E><$00>
 
 
 //<CLEAR><$1D>‚ğì‚è‚Ü‚·\n‰ÁH—¿‹àQ<$1D><$06><$1E><$04><$14>\n<$01>‚ÍQ‚¢<$0E>^<$01>‚¢‚¢‚¦<$0E><$00>
-<CLEAR>Crafting aQ<$1D>Q\n
+<CLEAR>Crafting a <$1D> \n
 will cost<$1D><$06><$1E><$04><$14>.\n
 <$01>Okay<$0E> / <$01>Wait<$0E><$00>
 
@@ -509,7 +509,7 @@ will cost<$1D><$06><$1E><$04><$14>.\n
 
 
 //<CLEAR>‰ÁH—¿‹àQ<$15>b<$06><$1E><$04><$14>\n‚ª‘«‚è‚Ü‚¹‚ñ<$12><$00>
-<CLEAR>You can't afford theQ\n
+<CLEAR>You can't afford the \n
 <$15>b<$06><$1E><$04><$14> fee!<$12><$00>
 
 
@@ -530,7 +530,7 @@ will cost<$1D><$06><$1E><$04><$14>.\n
 
 
 //<CLEAR><$06>ƒXƒ^[ƒgƒ{ƒ^ƒ“<$04>‚ÅƒJ[ƒ\ƒ‹‚ğuŠJnv‚ÉˆÚ“®<$11>240<CLEAR>‚à‚¤‚P“x<$06>ƒXƒ^[ƒgƒ{ƒ^ƒ“<$04>‚Å–ì‰cÀs<$11>240<$07><$00>
-<CLEAR><$06>START:Q<$04>Highlight "Okay!"<$11>240<CLEAR>(Again)<$06>START:Q<$04>Begin camping!<$11><$07><$00>
+<CLEAR><$06>START: <$04>Highlight "Okay!"<$11>240<CLEAR>(Again)<$06>START: <$04>Begin camping!<$11><$07><$00>
 
 
 //<CLEAR><$00>
@@ -567,7 +567,7 @@ one time. <$12><$00>
 
 
 //QQ‚é<$00>
-QSleep<$00>
+ Sleep<$00>
 
 
 //<$08>7Œ©’£‚è<$00>
@@ -595,30 +595,30 @@ Trash items<$00>
 
 
 //Q—ÂQŒ¢<$00>
-QDogs<$00>
+ Dogs<$00>
 
 
 //Q‚â‚ß‚é<$00>
-QExit<$00>
+ Exit<$00>
 
 
 //<CLEAR><$1D>‚Ì\n<$06>HP <$04>‘S‰ñ•œa<$12><$00>
-<CLEAR><$1D>'sQ<$06>HP<$04>Qrecovered fully!<$12><$00>
+<CLEAR><$1D>'s <$06>HP<$04> recovered fully!<$12><$00>
 
 
 //<CLEAR><$1D>‚Ì\n<$06>HP <$04><$1E>‰ñ•œa<$12><$00>
 <CLEAR><$1D>'s\n
-<$06>HP recovered byQ<$04><$1E>!<$12><$00>
+<$06>HP recovered by <$04><$1E>!<$12><$00>
 
 
 //<CLEAR><$1D>‚Ì\n<$06>BP <$04>‘S‰ñ•œa<$12><$00>
 <CLEAR><$1D>'s\n
-<$06>BP<$04>Qrecovered fully!<$12><$00>
+<$06>BP<$04> recovered fully!<$12><$00>
 
 
 //<CLEAR><$1D>‚Ì\n<$06>BP <$04><$1E>‰ñ•œa<$12><$00>
 <CLEAR><$1D>'s\n
-<$06>BP recovered byQ<$04><$1E>!<$12><$00>
+<$06>BP recovered by <$04><$1E>!<$12><$00>
 
 
 //<$15>Y–ìQ‰c^ƒƒjƒ…[<$00>
@@ -685,24 +685,24 @@ Linda's mind. The training ends here.<$12><$00>
 
 //‚`‚l‚c<$1E>4A<$1D>\nc‚èQQQQ<$1E>1‹Gß<$00>
 AMD<$1E>4A<$1D>\n
-Q<$1E>1Qseason(s)<$00>
+ <$1E>1 season(s)<$00>
 
 
 //‚`‚l‚c<$1E>4A<$1D>\nc‚èQQQQQ<$1E>1”N<$00>
 AMD<$1E>4A<$1D>\n
-Q<$1E>1Qyear(s)<$00>
+ <$1E>1 year(s)<$00>
 
 
 //‚`‚l‚c<$1E>4A<$1D>\nc‚èQ<$1E>1”N‚Æ<$1E>1‹Gß<$00>
 AMD<$1E>4A<$1D>\n
-Q<$1E>1Qyear(s),\n
-<$1E>1Qseason(s)<$00>
+ <$1E>1 year(s),\n
+<$1E>1 season(s)<$00>
 
 
 //<$15>W\n•ßŠl–Ú•W<$08>4c‚è<$1E>35í\nQQ<$01>¨¨<$0E>@<$01>Šm”F<$0E><$00>
 <$15>W\n
-Astro ArkQ<$08>4Goal:Q<$1E>35\n
-QQ<$01>¨¨<$0E>@<$01>OK!<$0E><$00>
+Astro Ark <$08>4Goal: <$1E>35\n
+  <$01>¨¨<$0E>@<$01>OK!<$0E><$00>
 
 
 //cc“Œ<$00>
@@ -742,7 +742,7 @@ Astro ArkQ<$08>4Goal:Q<$1E>35\n
 
 
 //Ac<$1D>‚És‚¯‚Î<$00>
-! That's where we'll find aQ<$1D>.<$00>
+! That's where we'll find a <$1D>.<$00>
 
 
 //’¼i<$00>
@@ -766,7 +766,7 @@ Back<$00>
 
 
 //Aâ‘Î‚É<$1D>a<$00>
-wards, got it? I'm sure we'll find aQ<$1D>Qthere!<$00>
+wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>SƒŠƒ“ƒ_‚Í@u—‚ÌŠ¨v‚ğ\n‚Í‚½‚ç‚©‚¹‚½a<$14><$12><$00>
@@ -778,35 +778,35 @@ wards, got it? I'm sure we'll find aQ<$1D>Qthere!<$00>
 
 
 //‰^–½‚Ì<$00>
-FatedQ<$00>
+Fated <$00>
 
 
 //V‚µ‚¢<$00>
-NewQ<$00>
+New <$00>
 
 
 //‘f“G‚È<$00>
-GreatQ<$00>
+Great <$00>
 
 
 //–¢’m‚Ì<$00>
-UnknownQ<$00>
+Unknown <$00>
 
 
 //‰½‚©<$00>
-thingsQ<$00>
+things <$00>
 
 
 //”­Œ©<$00>
-discoveriesQ<$00>
+discoveries <$00>
 
 
 //‚¨•ó<$00>
-treasuresQ<$00>
+treasures <$00>
 
 
 //“®•¨<$00>
-animalsQ<$00>
+animals <$00>
 
 
 //‚É@o‰ï‚¦‚éc<$00>

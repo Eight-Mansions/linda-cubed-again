@@ -84,7 +84,7 @@ box.obj
 
 #WRITE(PTR, $001E)
 //ホテル１Ｆ<$00>
-Hotel 1F＿<$00>
+Hotel 1F <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -122,10 +122,10 @@ survival skills out in the wilderness?<$12><$00>
 
 
 //バカな観光客が　可逆レーザー銃で\n<$1B>サイかなんかを　調子こいて\n撃ち殺して　遊んでたらサ…<$12>\n<CLEAR>突然、<$1B>サイの体が共鳴爆発を　起こして\n２０頭ばかしの<$1B>サイが　そのバカを\n巻き込んで　吹き飛んじまった<$12>\n<CLEAR>だから、ここの動物には　何があるか\nわかんねぇから　今どきのオモチャは\n危なくて　使えねぇっての<$12><$00>
-I saw this real stupid tourist shoot a＿rhino to death with\n
-his laser gun.<$12>\n
-<CLEAR>Suddenly, the＿rhino's body detonated, and BAM!\n
-The＿rhino took the tourist out too!<$12>\n
+I saw this real stupid tourist shoot a rhino to death with his\n
+laser gun.<$12>\n
+<CLEAR>Suddenly, the rhino's body detonated, and BAM! The rhino\n
+took the tourist out too!<$12>\n
 <CLEAR>Today's technology is too dangerous for people who don't\n
 know basic biochemistry.<$12><$00>
 
@@ -133,7 +133,7 @@ know basic biochemistry.<$12><$00>
 //<CLEAR><$1B>ツバメは　海を渡る鳥でね\n捕まえるのは　ちょっと難儀だね<$12>\n<CLEAR>姿だけなら　Ｕ<$06>-07<$04>あたりで\n越冬するはずだから　遠くから\nいくらでも　眺めることができるよ<$12>\n<CLEAR>まっ　どうしても捕獲したいってのなら\n営巣地を　突き止めることだね\nたぶん西の最果ての　どっかだろうサ<$12><$00>
 <CLEAR>Swallows are birds that fly across the sea, which makes\n
 them tricky to capture.<$12>\n
-<CLEAR>If you just want to see them, go to U<$06>-07<$04>＿in their\n
+<CLEAR>If you just want to see them, go to U<$06>-07<$04> in their\n
 hibernation period to see them from afar.<$12>\n
 <CLEAR>To catch any, you'll have to find their nests, which I'd\n
 assume are as far West as you can possibly go.<$12><$00>
@@ -148,7 +148,7 @@ much rounder and MUCH happier.<$12><$00>
 
 #WRITE(PTR, $0020)
 //ホテルＢ１<$00>
-Hotel B1＿<$00>
+Hotel B1 <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -194,27 +194,27 @@ me as a Class A animal.<$12>\n
 
 
 //<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen found the＿<$1D>!<$14><$12><$00>
+<CLEAR><$19><$15>SKen found the <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the＿<$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen acquired＿<$1D>!<$14><$12><$00>
+<CLEAR><$19><$15>SKen acquired <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen found the＿<$1D>!<$14><$12><$00>
+<CLEAR><$19><$15>SKen found the <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the＿<$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$15>S<CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$15>SKen acquired＿<$1D>!<$14><$12><$00>
+<CLEAR><$19><$15>SKen acquired <$1D>!<$14><$12><$00>
 
 
 //<CLEAR><$19>1<$15>S鍵がかかっている<$14><$12><$00>
@@ -303,7 +303,7 @@ Sniff...sniff, sniff?<$12>\n
 
 
 //、…<$1D>に行けば<$00>
-! That's where we'll find a＿<$1D>.<$00>
+! That's where we'll find a <$1D>.<$00>
 
 
 //直進<$00>
@@ -327,7 +327,7 @@ Back<$00>
 
 
 //、絶対に<$1D>∥<$00>
-wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
+wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
@@ -339,35 +339,35 @@ wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
 
 
 //運命の<$00>
-Fated＿<$00>
+Fated <$00>
 
 
 //新しい<$00>
-New＿<$00>
+New <$00>
 
 
 //素敵な<$00>
-Great＿<$00>
+Great <$00>
 
 
 //未知の<$00>
-Unknown＿<$00>
+Unknown <$00>
 
 
 //何か<$00>
-things＿<$00>
+things <$00>
 
 
 //発見<$00>
-discoveries＿<$00>
+discoveries <$00>
 
 
 //お宝<$00>
-treasures＿<$00>
+treasures <$00>
 
 
 //動物<$00>
-animals＿<$00>
+animals <$00>
 
 
 //に　出会える…<$00>

@@ -294,7 +294,7 @@ z116_120.obj
 
 #WRITE(PTR, $0020)
 //‹âsE“®•¨¤E‘•”õ‰®‘¼<$00>
-BankEAnimalEEquipmentQ<$00>
+BankEAnimalEEquipment <$00>
 
 
 //<CLEAR>ƒPƒ“‚Í@Œû“J‚ğ‚¢‚½<$12>\n<CLEAR>ŠO‚Å@‘å‚«‚È‰H‰¹‚ª\n•·‚±‚¦‚½‚æ‚¤‚È@‹C‚ª‚µ‚½c<$12><$00>
@@ -474,7 +474,7 @@ skills it's almost like she has an experience of someone over\n
 
 #WRITE(PTR, $0022)
 //hQ‰®<$00>
-InnQ<$00>
+Inn <$00>
 
 
 //<CLEAR>ƒPƒ“‚Í@Œû“J‚ğ‚¢‚½<$12>\n<CLEAR>ŠO‚Å@‘å‚«‚È‰H‰¹‚ª\n•·‚±‚¦‚½‚æ‚¤‚È@‹C‚ª‚µ‚½c<$12><$00>
@@ -522,15 +522,15 @@ scheduled a couple days from now.<$12><$00>
 
 #WRITE(PTR, $0024)
 //ŒÂ<$00>
-Q<$00>
+ <$00>
 
 
 //•C<$00>
-Q<$00>
+ <$00>
 
 
 //<$1D>‚ğ<$1D>‚Ü‚·\n<$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04>^<$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S<$00>
-<$1D>Qx<$1D>Q\n
+<$1D> x<$1D> \n
 <$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04> / <$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S<$00>
 
 
@@ -564,11 +564,11 @@ scheduled a couple days from now.<$12><$00>
 
 //<CLEAR>ƒgƒ‰ƒ“ƒXƒJ[ƒS‚Í@‚P˜g‚É‚Â‚«\n<$06>99<$04>“ª‚Ü‚Å‚µ‚©@û—e‚Å‚«‚Ü‚¹‚ñ<$12><$00>
 <CLEAR>The trans-cargo unit has\n
-aQ<$06>99<$04>Qspecies capacity!<$12><$00>
+a <$06>99<$04> species capacity!<$12><$00>
 
 
 //<CLEAR><$06>ƒgƒ‰ƒ“ƒXƒJ[ƒS<$04>‚ª‚¢‚Á‚Ï‚¢‚Å‚·<$12><$00>
-<CLEAR><$06>The trans-cargo unitQ<$04>is full!<$12><$00>
+<CLEAR><$06>The trans-cargo unit <$04>is full!<$12><$00>
 
 
 //<CLEAR>“¹‹ï‚ª‚¢‚Á‚Ï‚¢‚Å‚·<$12><$00>
@@ -581,13 +581,13 @@ I can't accept that!<$12><$00>
 
 
 //<CLEAR><$1D>‚ğ\n<$06><$1E><$04>‚Å”„‚è‚Ü‚·‚©H\n<$01>‚ÍQ‚¢<$0E>^<$01>‚¢‚¢‚¦<$0E><$00>
-<CLEAR>SellQ<$1D>Qfor\n
+<CLEAR>Sell <$1D> for\n
 <$06><$1E><$04>?\n
 <$01>Yes<$0E> / <$01>No<$0E><$00>
 
 
 //<CLEAR><$1D><$15>W‚Í\n‚`‹‰•ÛŒì“®•¨‚Ì‚½‚ß\næ‚èˆø‚«‚Å‚«‚Ü‚¹‚ñ<$12><$00>
-<CLEAR><$1D><$15>WQcannot be traded.\n
+<CLEAR><$1D><$15>W cannot be traded.\n
 Class A species\n
 trading is prohibited!<$12><$00>
 
@@ -597,16 +597,16 @@ trading is prohibited!<$12><$00>
 
 
 //<$16><$04><$01><$1D><$02>120<$0E><$02>216<$06><$1E><$04>•C‚Å<$00>
-<$16><$04><$01><$1D><$02><$0E><$02><$06><$1E><$04>xQ<$00>
+<$16><$04><$01><$1D><$02><$0E><$02><$06><$1E><$04>x <$00>
 
 
 //<CLEAR><$1D>‚ğì‚è‚Ü‚·\n<$01>‚ÍQ‚¢<$0E>^<$01>‚¢‚¢‚¦<$0E><$00>
-<CLEAR>CraftQ<$1D>?\n
+<CLEAR>Craft <$1D>?\n
 <$01>Yes<$0E> / <$01>No<$0E><$00>
 
 
 //<CLEAR><$1D>‚ğì‚è‚Ü‚·\n‰ÁH—¿‹àQ<$1D><$06><$1E><$04><$14>\n<$01>‚ÍQ‚¢<$0E>^<$01>‚¢‚¢‚¦<$0E><$00>
-<CLEAR>Crafting aQ<$1D>Q\n
+<CLEAR>Crafting a <$1D> \n
 will cost<$1D><$06><$1E><$04><$14>.\n
 <$01>Okay<$0E> / <$01>Wait<$0E><$00>
 
@@ -620,7 +620,7 @@ will cost<$1D><$06><$1E><$04><$14>.\n
 
 
 //<CLEAR>‰ÁH—¿‹àQ<$15>b<$06><$1E><$04><$14>\n‚ª‘«‚è‚Ü‚¹‚ñ<$12><$00>
-<CLEAR>You can't afford theQ\n
+<CLEAR>You can't afford the \n
 <$15>b<$06><$1E><$04><$14> fee!<$12><$00>
 
 
@@ -783,7 +783,7 @@ back often!<$12><$00>
 
 
 //<CLEAR><$1D><$15>W‚Í\n‚`‹‰•ÛŒì“®•¨‚Ì‚½‚ß\næ‚èˆø‚«‚Å‚«‚Ü‚¹‚ñ<$12><$00>
-<CLEAR><$1D><$15>WQcannot be traded.\n
+<CLEAR><$1D><$15>W cannot be traded.\n
 Class A species\n
 trading is prohibited!<$12><$00>
 
@@ -854,7 +854,7 @@ Arena Pay<$00>
 
 
 //<CLEAR>‚¢‚ç‚Á‚µ‚á‚¢‚Ü‚¹I@‘n—§<$1E>ü”N\nŠF—l‚ÌƒlƒIƒPƒjƒA‹âs‚Å‚·<$00>
-<CLEAR>Serving Neo KenyaQ<$1E>Qyears strong,\n
+<CLEAR>Serving Neo Kenya <$1E> years strong,\n
 this is Neo Kenya Bank!<$00>
 
 
@@ -896,7 +896,7 @@ balances are repaid.<$12><$00>
 
 
 //<CLEAR>Œ»İ‚Ì—a‹àc‚‚Í@<$06><$1E><$04>‚Å‚·\n“ü‹àŠz‚Í@‚¨‚¢‚­‚ç‚Å‚·‚©H\n‹à<$1E>40¨“ü‹à<$01><$1E>40<$00>
-<CLEAR>Balance:Q<$06><$1E><$04>.\n
+<CLEAR>Balance: <$06><$1E><$04>.\n
 How much will you deposit?\n
 <$1E>40¨<$01><$1E>40<$00>
 
@@ -907,7 +907,7 @@ How much will you deposit?\n
 
 
 //<CLEAR>Œ»İ‚Ì—a‹àc‚‚Í@<$06><$1E><$04>‚Å‚·<$12><$00>
-<CLEAR>Balance:Q<$06><$1E><$04>.<$12><$00>
+<CLEAR>Balance: <$06><$1E><$04>.<$12><$00>
 
 
 //\n‚»‚ê‚Å‚à@‚¨ˆøo‚µ‚É‚È‚è‚½‚¢HH\n‚»‚ê‚Í@‹­“‚Á‚ÄŒ¾‚¤‚ñ‚Å‚·‚æ<$12><$00>
@@ -921,7 +921,7 @@ Withdrawing more than that? That's what we call\n
 
 
 //<CLEAR>Œ»İ‚Ì—a‹àc‚‚Í@<$06><$1E><$04>‚Å‚·\nˆøoŠz‚Í@‚¨‚¢‚­‚ç‚Å‚·‚©H\n‹à<$1E>40©ˆøo<$01><$1E>40<$00>
-<CLEAR>Balance:Q<$06><$1E><$04>\n
+<CLEAR>Balance: <$06><$1E><$04>\n
 How much will you withdraw?\n
 <$1E>40©<$01><$1E>40<$00>
 
@@ -932,12 +932,12 @@ How much will you withdraw?\n
 
 
 //<CLEAR>Œ»İ‚Ì—a‹àc‚‚Í@<$06><$1E><$04>‚Å‚·\n’Ç‰Á—Z‘‚Í@‚¨ó‚¯‚Å‚«‚©‚Ë‚Ü‚·\n‚²—¹³‚­‚¾‚³‚¢<$12><$00>
-<CLEAR>Balance:Q<$06><$1E><$04>\n
+<CLEAR>Balance: <$06><$1E><$04>\n
 Additional loans cannot be taken.<$12><$00>
 
 
 //<CLEAR>Œ»İ‚Ì•ÔÏc‚‚Í@<$06><$1E><$04>‚Å‚·\n’Ç‰Á—Z‘‚Í@‚¨ó‚¯‚Å‚«‚©‚Ë‚Ü‚·\n‚²—¹³‚­‚¾‚³‚¢<$12><$00>
-<CLEAR>Balance:Q<$06><$1E><$04>\n
+<CLEAR>Balance: <$06><$1E><$04>\n
 Additional loans cannot be taken.<$12><$00>
 
 
@@ -947,23 +947,23 @@ loans have been terminated.<$12><$00>
 
 
 //<CLEAR>Œ»İ‚Ì—Z‘˜g‚Í@Å‘å<$06><$1E><$04>‚Å‚·\n—Z‘Šó–]Šz‚Í@‚¨‚¢‚­‚ç‚Å‚·‚©H\n‹à<$1E>40©—Z‘<$01><$1E>40<$00>
-<CLEAR>Loan limit:Q<$06><$1E><$04>\n
+<CLEAR>Loan limit: <$06><$1E><$04>\n
 How much will you borrow?\n
 <$1E>40©<$01><$1E>40<$00>
 
 
 //<CLEAR>—Z‘ŠzQ<$1E>40‚Å‚·‚Æ@—Z‘ğŒ‚Í\n‹Gß—˜q<$1E>40@•ÔÏŠúŒÀ‚Í—ˆ”N<$1D>\n<$01>‚»‚ê‚Å‚n‚j<$0E>^<$01>—Z‘Šz•ÏX<$0E>^<$01>‚â‚ß‚Æ‚­I<$0E><$00>
-<CLEAR>Great! That'sQ<$1E>40 with seasonal interest.\n
-Repayment starts atQ<$1E>40 due nextQ<$1D>.\n
+<CLEAR>Great! That's <$1E>40 with seasonal interest.\n
+Repayment starts at <$1E>40 due next <$1D>.\n
 <$01>OK!<$0E> / <$01>Back<$0E> / <$01>Exit<$0E><$00>
 
 
 //<CLEAR>•ÔÏc‚@<$06><$1E><$04>‚Å‚·<$12><$00>
-<CLEAR>You currently oweQ <$06><$1E><$04>.<$12><$00>
+<CLEAR>You currently owe  <$06><$1E><$04>.<$12><$00>
 
 
 //<CLEAR>Œ»İ‚Ì•ÔÏc‚‚Í@<$06><$1E><$04>‚Å‚·\n•ÔÏŠz‚Í@‚¨‚¢‚­‚ç‚Å‚·‚©H\n‹à<$1E>40¨•ÔÏ<$01><$1E>40<$00>
-<CLEAR>Balance:Q<$06><$1E><$04>\n
+<CLEAR>Balance: <$06><$1E><$04>\n
 What will you repay?\n
 <$1E>40¨<$01><$1E>40<$00>
 
@@ -979,8 +979,8 @@ Thank you!<$12><$00>
 
 
 //<CLEAR>•ÔÏc‚‚Í<$1E>40\n‹Gß—˜q‚Í<$1E>40\n<$00>
-<CLEAR>Balance:Q<$1E>40\n
-Seasonal interest:Q<$1E>40\n
+<CLEAR>Balance: <$1E>40\n
+Seasonal interest: <$1E>40\n
 <$00>
 
 
@@ -989,7 +989,7 @@ Remember, repayment is due this season.<$12><$00>
 
 
 //•ÔÏŠúŒÀ‚ÍŸ‚Ì<$1D>‚Å‚·@‚¨–Y‚ê‚È‚­<$12><$00>
-Remember, repayment is due inQ<$1D>.<$12><$00>
+Remember, repayment is due in <$1D>.<$12><$00>
 
 
 //<$15>Yƒzƒeƒ‹<$00>
@@ -1104,7 +1104,7 @@ Sniff...sniff, sniff?<$12>\n
 
 
 //Ac<$1D>‚És‚¯‚Î<$00>
-! That's where we'll find aQ<$1D>.<$00>
+! That's where we'll find a <$1D>.<$00>
 
 
 //’¼i<$00>
@@ -1128,7 +1128,7 @@ Back<$00>
 
 
 //Aâ‘Î‚É<$1D>a<$00>
-wards, got it? I'm sure we'll find aQ<$1D>Qthere!<$00>
+wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>SƒŠƒ“ƒ_‚Í@u—‚ÌŠ¨v‚ğ\n‚Í‚½‚ç‚©‚¹‚½a<$14><$12><$00>
@@ -1140,35 +1140,35 @@ wards, got it? I'm sure we'll find aQ<$1D>Qthere!<$00>
 
 
 //‰^–½‚Ì<$00>
-FatedQ<$00>
+Fated <$00>
 
 
 //V‚µ‚¢<$00>
-NewQ<$00>
+New <$00>
 
 
 //‘f“G‚È<$00>
-GreatQ<$00>
+Great <$00>
 
 
 //–¢’m‚Ì<$00>
-UnknownQ<$00>
+Unknown <$00>
 
 
 //‰½‚©<$00>
-thingsQ<$00>
+things <$00>
 
 
 //”­Œ©<$00>
-discoveriesQ<$00>
+discoveries <$00>
 
 
 //‚¨•ó<$00>
-treasuresQ<$00>
+treasures <$00>
 
 
 //“®•¨<$00>
-animalsQ<$00>
+animals <$00>
 
 
 //‚É@o‰ï‚¦‚éc<$00>
@@ -1216,7 +1216,7 @@ are dead head!<$00>
 
 #WRITE(PTR, $0026)
 //<$15>Y“®•¨î•ñ<$06>ƒT[ƒrƒX<$00>
-<$15>YAnimalQ<$06>Search<$00>
+<$15>YAnimal <$06>Search<$00>
 
 
 //<CLEAR>ŒŸõƒiƒTƒCƒ}ƒXƒJH\n<$01>‚ÍQ‚¢<$0E>^<$01>‚¢‚¢‚¦<$0E><$00>

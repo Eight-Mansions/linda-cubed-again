@@ -60,15 +60,15 @@ c125a0.obj
 
 #WRITE(PTR, $0022)
 //個<$00>
-＿<$00>
+ <$00>
 
 
 //匹<$00>
-＿<$00>
+ <$00>
 
 
 //<$1D>を<$1D>ます\n<$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04>／<$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S￥<$00>
-<$1D>＿x<$1D>＿\n
+<$1D> x<$1D> \n
 <$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04> / <$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S￥<$00>
 
 
@@ -102,11 +102,11 @@ c125a0.obj
 
 //<CLEAR>トランスカーゴは　１枠につき\n<$06>99<$04>頭までしか　収容できません<$12><$00>
 <CLEAR>The trans-cargo unit has\n
-a＿<$06>99<$04>＿species capacity!<$12><$00>
+a <$06>99<$04> species capacity!<$12><$00>
 
 
 //<CLEAR><$06>トランスカーゴ<$04>がいっぱいです<$12><$00>
-<CLEAR><$06>The trans-cargo unit＿<$04>is full!<$12><$00>
+<CLEAR><$06>The trans-cargo unit <$04>is full!<$12><$00>
 
 
 //<CLEAR>道具がいっぱいです<$12><$00>
@@ -161,7 +161,7 @@ enough to fall for her antics!<$12><$00>
 
 //<CLEAR><$01>ピンチ＿＿<$0E>　<$01>雑魚戦闘＿<$0E>　<$01>寺院＿＿＿<$0E>\n<$01>悪の登場＿<$0E>　<$01>箱船＿＿＿<$0E>　<$01><$06>ジングルベル <$04>＿<$0E>\n<$01>バー＿＿＿<$0E>　<$01>闘犬場＿＿<$0E>　<$01>冬＿＿＿＿<$0E>\n<$01>ゾンビ＿＿<$0E>　<$01>テスト＿＿<$0E><$00>
 <CLEAR><$01>Pinch!<$0E>　<$01>Small battle<$0E>　<$01>Ruins<$0E>\n
-<$01>Face of evil<$0E>　<$01>Ark<$0E>　<$01><$06>Jingle bells<$04>＿<$0E>\n
+<$01>Face of evil<$0E>　<$01>Ark<$0E>　<$01><$06>Jingle bells<$04> <$0E>\n
 <$01>Bar<$0E>　<$01>DGF Dojo<$0E>　<$01>Winter<$0E>\n
 <$01>Zombie<$0E>　<$01>Test<$0E><$00>
 
@@ -263,8 +263,8 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR><$01>ショック２＿＿＿<$0E>　<$01>警報＿＿＿＿＿＿<$0E>\n<$01>スズムシの音＿＿<$0E>　<$01>流砂＿＿＿＿＿＿<$0E><$00>
-<CLEAR><$01>Shock 2＿<$0E><$01>Alarm＿＿<$0E>\n
-<$01>Cricket＿<$0E><$01>Quicksand<$0E><$00>
+<CLEAR><$01>Shock 2 <$0E><$01>Alarm  <$0E>\n
+<$01>Cricket <$0E><$01>Quicksand<$0E><$00>
 
 
 //<CLEAR>ＸＡ試験\n<$01>1<$0E> <$01>2<$0E> <$01>3<$0E> <$01>4<$0E> <$01>5<$0E> <$01>6<$0E><$00>
@@ -365,8 +365,8 @@ enough to fall for her antics!<$12><$00>
 
 //<CLEAR>リンダの「ビシビシ調教」能力の設定\n<$01><$1D>イヌ＿＿<$0E>　<$01><$1D>オオカミ<$0E>　<$01><$1D>イルカ＿<$0E>\n<$01><$1D>ワシ＿＿<$0E>　<$01><$1D>コブラ＿<$0E>　<$01><$1D>ゾウ＿＿<$0E><$00>
 <CLEAR>Use Linda's Warden skill:\n
-<$01><$1D>Dog＿<$0E><$01><$1D>Wolf＿<$0E><$01><$1D>Dolphin＿<$0E>\n
-<$01><$1D>Eagle＿<$0E><$01><$1D>Cobra＿<$0E><$01><$1D>Elephant＿<$0E><$00>
+<$01><$1D>Dog <$0E><$01><$1D>Wolf <$0E><$01><$1D>Dolphin <$0E>\n
+<$01><$1D>Eagle <$0E><$01><$1D>Cobra <$0E><$01><$1D>Elephant <$0E><$00>
 
 
 //<CLEAR><$05><$01>01<$0E> <$01>10<$0E> <$01>11<$0E> <$01>12<$0E> <$01>13<$0E> <$01>14<$0E>\n<$01>15<$0E> <$01>16<$0E> <$01>17<$0E> <$01>18<$0E> <$01>19<$0E> <$01>20<$0E>\n<$01>21<$0E> <$01>22<$0E> <$01>23<$0E> <$01>24<$0E> <$01>25<$0E> <$01>28<$0E><$00>
@@ -484,12 +484,12 @@ pict28.tim
 
 
 //<$01>左回転<$0E><$08>4<$01>ジャンプ＿＿<$0E><$08>4<$01>回転低ジャンプ移動<$0E>\n<$01>右回転<$0E><$08>4<$01>回転ジャンプ<$0E><$08>4<$01>回転高ジャンプ移動<$0E><$00>
-<$01>CCW＿<$0E><$08><$01>Jump＿<$0E><$08><$01>LJump(move)<$0E>\n
-<$01>CCW＿<$0E><$08><$01>HJump＿<$0E><$08><$01>HJump(move)<$0E><$00>
+<$01>CCW <$0E><$08><$01>Jump <$0E><$08><$01>LJump(move)<$0E>\n
+<$01>CCW <$0E><$08><$01>HJump <$0E><$08><$01>HJump(move)<$0E><$00>
 
 
 //<CLEAR>持ち金を設定します＿持金<$01><$1E>40￥<$00>
-<CLEAR>Set funds:＿<$01><$1E><$00>
+<CLEAR>Set funds: <$01><$1E><$00>
 
 
 //<CLEAR><$06><$1E><$04>￥の持金ですね\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
@@ -522,7 +522,7 @@ Choose a new name.<$12><$00>
 
 
 //<CLEAR>猟犬<$1D>を登録します\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
-<CLEAR>Adopt＿<$1D>?\n
+<CLEAR>Adopt <$1D>?\n
 <$01>Yes<$0E> / <$01>No<$0E><$00>
 
 
@@ -551,8 +551,8 @@ Would you like one?\n
 
 //<CLEAR>画面イフェクト\nフェードアウト＿<$01>黒<$0E>＿<$01>赤<$0E>＿<$01>緑<$0E>＿<$01>青<$0E>＿<$01>白<$0E>\nフェードイン＿＿<$01>黒<$0E>＿<$01>赤<$0E>＿<$01>緑<$0E>＿<$01>青<$0E>＿<$01>白<$0E><$00>
 <CLEAR>Transition FX\n
-Fadeout:＿<$01>Bk<$0E><$01>Rd<$0E><$01>Gr<$0E><$01>Bl<$0E><$01>Wt<$0E>\n
-Fadein:＿<$01>Bk<$0E><$01>Rd<$0E><$01>Gr<$0E><$01>Bl<$0E><$01>Wt<$0E><$00>
+Fadeout: <$01>Bk<$0E><$01>Rd<$0E><$01>Gr<$0E><$01>Bl<$0E><$01>Wt<$0E>\n
+Fadein: <$01>Bk<$0E><$01>Rd<$0E><$01>Gr<$0E><$01>Bl<$0E><$01>Wt<$0E><$00>
 
 
 //<CLEAR>なぐられたい？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
@@ -6700,7 +6700,7 @@ e68_07
 
 #WRITE(PTR, $002A)
 //<$15>Yスケジュール<$00>
-<$15>YMemo＿<$00>
+<$15>YMemo <$00>
 
 
 //<CLEAR>スケジュールは何もありません<$12><$00>
@@ -6716,15 +6716,15 @@ Expired!<$00>
 
 
 //あと<$1E>季節<$00>
-In＿<$1E>＿seasons<$00>
+In <$1E> seasons<$00>
 
 
 //あと<$1E>年<$1E>季節<$00>
-Deadline:＿<$1E>Y/<$1E>S<$00>
+Deadline: <$1E>Y/<$1E>S<$00>
 
 
 //あと<$1E>年<$00>
-In＿<$1E>＿years<$00>
+In <$1E> years<$00>
 
 
 //<$16><$01>◇<$0E><$1D><$02>190<$1D><$00>
@@ -6781,17 +6781,17 @@ Hardia Hotel.<$00>
 
 
 //<CLEAR>マーブルポリスの<$1B>ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す<$00>
-<CLEAR>Process meat from＿chickens in Marblopolis.Give them to\n
+<CLEAR>Process meat from chickens in Marblopolis.Give them to\n
 Prof. Panheim in Hospico.<$00>
 
 
 //<CLEAR><$1B>カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す<$00>
-<CLEAR>Find up to 3＿Turtle Eggs. Give them to Louis at the Battle\n
+<CLEAR>Find up to 3 Turtle Eggs. Give them to Louis at the Battle\n
 Park BB Ranch.<$00>
 
 
 //<CLEAR><$1B>プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す<$00>
-<CLEAR>Acquire 2＿Pteranodon Eggs. Give them to Bronco at the\n
+<CLEAR>Acquire 2 Pteranodon Eggs. Give them to Bronco at the\n
 Battle Park BB Ranch.<$00>
 
 
@@ -6805,15 +6805,15 @@ Aumann children in Dogyf Heights.<$00>
 
 
 //あと<$06><$1E><$0F>000<$04><$00>
-another＿<$06><$1E><$0F><$04><$00>
+another <$06><$1E><$0F><$04><$00>
 
 
 //<CLEAR>Ｇファクトリーのヤマダのために\n<$1D>￥を預金する<$00>
-<CLEAR>Deposit＿<$1D>￥ in an account to Yamada in G Factory.<$00>
+<CLEAR>Deposit <$1D>￥ in an account to Yamada in G Factory.<$00>
 
 
 //<CLEAR>コシカタのシンボル「<$1B>トラの爪」を\n見つけだし、ポリスカに渡す<$00>
-<CLEAR>Find the＿Tiger Claw, Koshikata's village symbol. Return it\n
+<CLEAR>Find the Tiger Claw, Koshikata's village symbol. Return it\n
 to Poliska.<$00>
 
 
@@ -6832,17 +6832,17 @@ Eterna.<$00>
 
 
 //<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nＧファクトリー入口１階、\n公衆電話の前に行く<$00>
-<CLEAR>Take the Floppy Disc and＿<$06>10, 000<$04>￥ to the G Factory\n
-gate. Answer the payphone.<$00>
+<CLEAR>Take the Floppy Disc and <$06>10, 000<$04>￥ to the G Factory gate.\n
+Answer the payphone.<$00>
 
 
 //<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nパラサイド入口１階、\n公衆電話の前に行く<$00>
-<CLEAR>Take the Floppy Disc and＿<$06>10, 000<$04>￥ to the Paraside gate.\n
+<CLEAR>Take the Floppy Disc and <$06>10, 000<$04>￥ to the Paraside gate.\n
 Answer the payphone.<$00>
 
 
 //<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nガレックスに行く<$00>
-<CLEAR>Take the Floppy Disc and＿<$06>10, 000<$04>￥ to Galax.<$00>
+<CLEAR>Take the Floppy Disc and <$06>10, 000<$04>￥ to Galax.<$00>
 
 
 //<CLEAR>ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す<$00>

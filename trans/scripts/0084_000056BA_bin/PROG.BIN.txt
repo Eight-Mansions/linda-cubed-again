@@ -60,7 +60,7 @@ c159a0.obj
 
 #WRITE(PTR, $0022)
 //テント<$00>
-Tent＿<$00>
+Tent <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -98,7 +98,7 @@ to make it theirs.<$12><$00>
 
 
 //良かったら　あんたの「<$1D>」\n俺に　<$06><$1E><$04>￥で売ってくんない？\n<$01>別にいいけど…<$0E>／<$01>実力でもらいな<$0E><$00>
-Hey, I'd be happy to buy a＿<$1D>＿off you for＿<$06><$1E><$04>￥.\n
+Hey, I'd be happy to buy a <$1D> off you for <$06><$1E><$04>￥.\n
 Interested?\n
 <$01>Eh, I dunno<$0E> / <$01>Go win one yourself<$0E><$00>
 
@@ -106,7 +106,7 @@ Interested?\n
 //<CLEAR>へへへ、息子に自慢するんだ\n「どーだ∥　父さんは、外じゃ\n強いんだよ∥」ってね<$12>\n<CLEAR><$19>1<$15>S<CLEAR>ケンは、「<$1D>」を渡して\n<$06><$1E><$04>￥を受け取った<$14><$12><$00>
 <CLEAR>Hehehe, my kids are going to be so proud of me.\n
 "Wow Dad, you're the greatest!"<$12>\n
-<CLEAR><$19>1<$15>S<CLEAR>Ken sold the＿<$1D>＿for\n
+<CLEAR><$19>1<$15>S<CLEAR>Ken sold the <$1D> for\n
 <$06><$1E><$04>￥!<$14><$12><$00>
 
 
@@ -116,7 +116,7 @@ Interested?\n
 
 #WRITE(PTR, $0024)
 //テント<$00>
-Tent＿<$00>
+Tent <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -151,13 +151,13 @@ enough to fall for her antics!<$12><$00>
 //外を歩いていて\n何かゴミみたいな　点々が\nピョンピョン　ついてきたら…<$12>\n<CLEAR>そいつが　<$1B>ノミだよ\nまッ、アレも一応　動物だから\n忘れずに　捕まえときナ<$12><$00>
 If you walk around outside with garbage in hand, you\n
 might attract bugs.<$12>\n
-<CLEAR>But you know,＿fleas are animals too, so if you see one,\n
-you'd better catch it!<$12><$00>
+<CLEAR>But you know, fleas are animals too, so if you see one, you'd\n
+better catch it!<$12><$00>
 
 
 #WRITE(PTR, $0026)
 //テント<$00>
-Tent＿<$00>
+Tent <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -198,7 +198,7 @@ the town you see here: Battle Park!<$12><$00>
 
 #WRITE(PTR, $0028)
 //テント<$00>
-Tent＿<$00>
+Tent <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -232,16 +232,15 @@ enough to fall for her antics!<$12><$00>
 
 //どんなに強い猟犬も　しょせんは<$1B>イヌ、\n<$06>20<$04>レベルかそこらで　打ち止めね\n成長が　止まっちゃうわけ<$12>\n<CLEAR>世の中には　<$06>30<$04>レベルの猟犬も\nいるらしいけど　そいつらの正体は\nどうやら　<$1B>イヌじゃないらしいのよ<$12><$00>
 No matter how strong a dog is,a dog's max attainable LVL\n
-is＿<$06>20<$04>. Then, they're growth stops for good.<$12>\n
+is <$06>20<$04>. Then, they're growth stops for good.<$12>\n
 <CLEAR>Out there in the world is a four-legged friend that can\n
-reach LVL＿<$06>30<$04>, but technically, it's not a＿dog at all!<$12><$00>
+reach LVL <$06>30<$04>, but technically, it's not a dog at all!<$12><$00>
 
 
 #WRITE(PTR, $002A)
 //クン、クンクン………？<$12>\n<CLEAR><$1D>のニオイが　するね\nそういえば、<$1D>食まだだっけ…<$12><$00>
 Sniff...sniff, sniff?<$12>\n
-<CLEAR><$1D>＿scent's filling the air. You know, I could go for\n
-some＿<$1D>＿!<$12><$00>
+<CLEAR><$1D> scent's filling the air. You know, I could go for some <$1D> !<$12><$00>
 
 
 //卵焼き<$00>
@@ -289,7 +288,7 @@ sauce<$00>
 
 
 //スープ<$00>
-＿soup<$00>
+ soup<$00>
 
 
 //ピラフ<$00>
@@ -357,7 +356,7 @@ dinner<$00>
 
 
 //、…<$1D>に行けば<$00>
-! That's where we'll find a＿<$1D>.<$00>
+! That's where we'll find a <$1D>.<$00>
 
 
 //直進<$00>
@@ -381,7 +380,7 @@ Back<$00>
 
 
 //、絶対に<$1D>∥<$00>
-wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
+wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
@@ -393,35 +392,35 @@ wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
 
 
 //運命の<$00>
-Fated＿<$00>
+Fated <$00>
 
 
 //新しい<$00>
-New＿<$00>
+New <$00>
 
 
 //素敵な<$00>
-Great＿<$00>
+Great <$00>
 
 
 //未知の<$00>
-Unknown＿<$00>
+Unknown <$00>
 
 
 //何か<$00>
-things＿<$00>
+things <$00>
 
 
 //発見<$00>
-discoveries＿<$00>
+discoveries <$00>
 
 
 //お宝<$00>
-treasures＿<$00>
+treasures <$00>
 
 
 //動物<$00>
-animals＿<$00>
+animals <$00>
 
 
 //に　出会える…<$00>

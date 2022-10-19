@@ -234,7 +234,7 @@ kao_km3.obj
 
 #WRITE(PTR, $0022)
 //軌道衛星オズサット１Ｆ<$00>
-OzSAT 1F＿<$00>
+OzSAT 1F <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -268,7 +268,7 @@ enough to fall for her antics!<$12><$00>
 
 //このワープ装置が　導入されて\n衛星軌道への搬出コストが　いきなり\n１／<$06>100000<$04>に　減ったんだってね<$12>\n<CLEAR>これも　あなたの背中のカーゴと\n同じで元は、例の遺跡のいわゆる\n「掘出し物」らしいわ<$12>\n<CLEAR>つまり　原理はよくわからないけど\nとりあえず　便利だから使ってる、\n連邦お得意の　現実的対応ってヤツね<$12><$00>
 Once warp was introduced, we cut shipment costs to OzSat\n
-down to nearly 1/<$06>100,000<$04>＿of what they once were!<$12>\n
+down to nearly 1/<$06>100,000<$04> of what they once were!<$12>\n
 <CLEAR>The primary concept behind warp travel is close that of\n
 the TCU you've got on your back.<$12>\n
 <CLEAR>I heard the inspiration was found in some temple "treasure\n
@@ -278,7 +278,7 @@ it to use for once!<$12><$00>
 
 
 //脱出船の予定は　残り<$1E>2便…\nたったそれだけで　地上に残っている人、\n全員を回収できるのかなぁ<$12>\n<CLEAR>積み残しが　でなきゃいいけど\n連邦の計画って　机上のプランばかりで\nたいてい途中で　破たんするんだよ<$12><$00>
-There are＿<$1E>2 remaining flights scheduled. We're so close to\n
+There are <$1E>2 remaining flights scheduled. We're so close to\n
 getting everyone out of here.<$12>\n
 <CLEAR>I don't want to jynx it, though. Nothing says "half assed"\n
 like a federal project.<$12><$00>
@@ -384,7 +384,7 @@ to escape in!<$12><$00>
 
 #WRITE(PTR, $0024)
 //軌道衛星オズサット２Ｆ<$00>
-OzSAT 2F＿<$00>
+OzSAT 2F <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -485,8 +485,8 @@ saying, "Yeah, but we always pull through."<$12>\n
 //動物に人間の言葉が　わかるんなら\n「死神」のこと　教えてやりてぇよ\n奴らの驚いた顔が　一度見てぇんだ<$12>\n<CLEAR>とくに　<$1B>オコゼのひきつった顔…\n想像するだに　笑えるぞ<$12><$00>
 If we could talk to animals, I wonder how they'd react to\n
 news of the Grim Reaper.<$12>\n
-<CLEAR>Can you imagine the look on a＿stonefish's face? That'd\n
-be rich!<$12><$00>
+<CLEAR>Can you imagine the look on a stonefish's face? That'd be\n
+rich!<$12><$00>
 
 
 //何万年後になるか　わからないけど\n私の血を引いた人間が　必ず\nこの土地へ　もう一度　立つわ<$12>\n<CLEAR>その時は「死神」が　また来たとしても\n今度は負けない∥　絶対に勝つ∥\n人間を　甘く見るんじゃないわよ∥<$12><$00>
@@ -499,10 +499,10 @@ are NOT to be messed with!<$12><$00>
 
 
 //あと<$06>20<$04>年、いや<$06>10<$04>年あれば\nこの星の動物の　体の組成を\n完全に　解明できたものを…<$12>\n<CLEAR>タイムマシンが　あったらなぁ…<$12>\n<CLEAR>もう一度　わしに、いや人類に\nチャンスを　誰かくれんかぁ<$12><$00>
-We were only＿<$06>20<$04>, no,＿<$06>10<$04>＿years away from unraveling\n
-the mysteris of Neo Kenya and its animal life.<$12>\n
+We were only <$06>20<$04>, no, <$06>10<$04> years away from unraveling the\n
+mysteris of Neo Kenya and its animal life.<$12>\n
 <CLEAR>I wish I had a time machine...<$12>\n
-<CLEAR>Please, God!＿All I want- all humanity wants is a second\n
+<CLEAR>Please, God! All I want- all humanity wants is a second\n
 chance!<$12><$00>
 
 
@@ -514,9 +514,9 @@ deck just ahead.<$12><$00>
 
 
 //<CLEAR>＊＜動物クイズ＞\n<$1B>パンダの好物は　何でしょう？\n１．笹　　２．パン　　３．人肉<$12>\n<CLEAR>＊答、ネオケニアには　<$1B>パンダなんて\nいないので　わからない<$12>\n<CLEAR>＊ちなみに　このクイズ自身は\n３の人肉が　好物なんだよねぇ\n『人を喰った』クイズなんちゃって∥<$12><$00>
-<CLEAR>＊＜Animal Quiz＞\What does a＿panda eat?\n
+<CLEAR>＊＜Animal Quiz＞\What does a panda eat?\n
 １．bamboo　２．bread　３．human flesh<$12>\n
-<CLEAR>＊I've never seen a＿panda in Neo Kenya, so who knows!<$12>\n
+<CLEAR>＊I've never seen a panda in Neo Kenya, so who knows!<$12>\n
 <CLEAR>＊As for the quiz, I'd say "No. 3", because the question\n
 might eat at you before long!<$12><$00>
 
@@ -543,14 +543,14 @@ use the restroom before boarding the Astro Ark!<$12>\n
 
 
 //<CLEAR>＊<$1B>ムカデからは　一度の加工で\n<$06>100<$04>足のクツが　できるのよ∥\n………ウソだよよよ～ん！<$12><$00>
-<CLEAR>＊Did you know? If you make shoes using＿centipedes as\n
-a material, you get＿<$06>100<$04>＿pairs...<$12>\n
+<CLEAR>＊Did you know? If you make shoes using centipedes as a\n
+material, you get <$06>100<$04> pairs...<$12>\n
 <CLEAR>...Ouch! Okay, okay, I was joking!<$12><$00>
 
 
 //<CLEAR>＊コシカタの地下は　発見したかい？\n<$1B>ナマズには　くれぐれも注意しなよ<$12><$00>
 <CLEAR>＊Have you found the Koshikata underground?\n
-Watch out for those＿catfish!<$12><$00>
+Watch out for those catfish!<$12><$00>
 
 
 //<CLEAR>＊<$1B>バファロの生息地の\nナビ座標は　Ｇ<$06>－１４<$04>あたりだよ\nだまされたと思って　１度行ってみな<$12>\n<CLEAR>＊だまされたと　思うだけかもね<$12><$00>
@@ -582,11 +582,11 @@ subtract it from your mind. Sike!<$12><$00>
 //<CLEAR>＊ダークリバーの　底で\n珍しいのが　ウロウロしてたよ<$12>\n<CLEAR>＊あれが　<$1B>ネコかもなぁ<$12><$00>
 <CLEAR>＊Sometimes, you'll find the most unlikely animals scampering\n
 around the deeper parts of Dark River.<$12>\n
-<CLEAR>＊That includes＿cats!<$12><$00>
+<CLEAR>＊That includes cats!<$12><$00>
 
 
 //<CLEAR>＊<$1B>バッタの居場所を　知りたいなら\nマダムに　聞いてごらん<$12><$00>
-<CLEAR>＊If you want to know where＿grasshoppers are, you'd\n
+<CLEAR>＊If you want to know where grasshoppers are, you'd\n
 better look for the Madam.<$12><$00>
 
 
@@ -613,18 +613,18 @@ Who inspired Captain Gene?\n
 //<CLEAR>＊俺たちが　引っ越した後には\n誰も　入らないけど…<$12>\n<CLEAR>＊<$1B>ヤドカリが　抜けた穴には\n別の入居者の予約が　あるらしいぜ<$12><$00>
 <CLEAR>＊No one's picking up after us once we move. However...<$12>\n
 <CLEAR>＊...there may be an extra resident living in the hole\n
-where＿hermit crabs crawl out.<$12><$00>
+where hermit crabs crawl out.<$12><$00>
 
 
 //<CLEAR>＊ビースチャンの指輪は　全部で８つ\n半分集めれば　<$06>20<$04>レベルで\n<$1B>ドラゴンを　倒すのも夢じゃない∥<$12><$00>
 <CLEAR>＊If you managed to collect all 8 Beastian rings, wrestling\n
-a LVL＿There are 8 Beastian rings in total. If you manage\n
-to collect half of those, even at LVL <$06>20<$04>＿, defeating\n
-a＿dragon would be cake!<$12><$00>
+a LVL There are 8 Beastian rings in total. If you manage to\n
+collect half of those, even at LVL <$06>20<$04> , defeating a dragon\n
+would be cake!<$12><$00>
 
 
 //<CLEAR>＊フローラ博士と　<$06>２５６<$04>回、\nキスすると「ウンチ鑑定」の能力が\n身につく<$12>\n<CLEAR>＊…かどうかは　怪しいけど\nキスは　上手になるんじゃない？<$12><$00>
-<CLEAR>＊If you kiss Dr. Flora＿<$06>256<$04>＿times, she'll give you the\n
+<CLEAR>＊If you kiss Dr. Flora <$06>256<$04> times, she'll give you the\n
 Scatologist skill.<$12>\n
 <CLEAR>＊...Well, even if you don't learn that, you'll still be a\n
 much better kisser for all the work!<$12><$00>
@@ -743,7 +743,7 @@ transfer to ground level.<$12><$00>
 
 #WRITE(PTR, $0026)
 //軌道衛星オズサット１Ｆ<$00>
-OzSAT 1F＿<$00>
+OzSAT 1F <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -777,7 +777,7 @@ enough to fall for her antics!<$12><$00>
 
 #WRITE(PTR, $0028)
 //軌道衛星オズサット１Ｆ<$00>
-OzSAT 1F＿<$00>
+OzSAT 1F <$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
@@ -821,7 +821,7 @@ in Minago.<$00>
 
 //<CLEAR>犯行のパターンから　本部の\nコンピュータが　割り出したのよ\n犯人は　<$06>92.3<$04>％の確率で…<$00>
 <CLEAR>Comparing their M.O. with our federal database, we can\n
-say with＿<$06>92.3<$04>% confidence...<$00>
+say with <$06>92.3<$04>% confidence...<$00>
 
 
 //<CLEAR>「人形使い」<$00>
@@ -843,7 +843,7 @@ You must board immediately.<$00>
 
 
 //<CLEAR>そして　コンピュータの予想した\n人形使いの　次のターゲットは\n<$06>38.8<$04>％の確率で…<$00>
-<CLEAR>We went on to calculate his next target, and with＿<$06>38.8<$04>%\n
+<CLEAR>We went on to calculate his next target, and with <$06>38.8<$04>%\n
 confidence...<$00>
 
 
@@ -965,7 +965,7 @@ Sniff...sniff, sniff?<$12>\n
 
 
 //、…<$1D>に行けば<$00>
-! That's where we'll find a＿<$1D>.<$00>
+! That's where we'll find a <$1D>.<$00>
 
 
 //直進<$00>
@@ -989,7 +989,7 @@ Back<$00>
 
 
 //、絶対に<$1D>∥<$00>
-wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
+wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
@@ -1001,35 +1001,35 @@ wards, got it? I'm sure we'll find a＿<$1D>＿there!<$00>
 
 
 //運命の<$00>
-Fated＿<$00>
+Fated <$00>
 
 
 //新しい<$00>
-New＿<$00>
+New <$00>
 
 
 //素敵な<$00>
-Great＿<$00>
+Great <$00>
 
 
 //未知の<$00>
-Unknown＿<$00>
+Unknown <$00>
 
 
 //何か<$00>
-things＿<$00>
+things <$00>
 
 
 //発見<$00>
-discoveries＿<$00>
+discoveries <$00>
 
 
 //お宝<$00>
-treasures＿<$00>
+treasures <$00>
 
 
 //動物<$00>
-animals＿<$00>
+animals <$00>
 
 
 //に　出会える…<$00>
