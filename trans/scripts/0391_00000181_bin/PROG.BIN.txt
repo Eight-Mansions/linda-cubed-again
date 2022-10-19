@@ -110,7 +110,7 @@ width3.obj
 #WRITE(PTR, $002C)
 //<CLEAR><$02>124Φ\n<$09>8<$02>3このカードはフォーマットされていません\n<$02>59フォーマットしますか？\n<$02>87<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
 <CLEAR><$02><$09><$02>3This card is not formatted.\n
-<$02>59Format this card?<$02><$01>Yes<$0E><$01>No<$0E><$00>
+<$02>59Format this card?<$02><$01>Yes<$0E> / <$01>No<$0E><$00>
 
 
 //<CLEAR><$02>128Φ\n<$09>8<$02>38ただいま　フォーマット中です∥\n電源を切ったり、メモリーカードを抜いたり\n<$02>77しないでください∥<$00>
@@ -226,7 +226,7 @@ File Select<$00>
 
 //\n<$15>W<$01>◇<$0E>　難易度変更＿＿（現在設定難易度<$1E>）<$00>
 \n
-<$15>W<$01>◇<$0E> Difficulty（Mode <$1E>)<$00>
+<$15>W<$01>◇<$0E> Difficulty (Mode <$1E>)<$00>
 
 
 //ファイル選択<$00>
@@ -303,7 +303,7 @@ YSlot＿<$1E><$06>＿File＿<$04>Select<$00>
 
 //\n<$15>W<$01>◇<$08>2<$0E>　難易度変更＿＿（現在設定難易度<$1E>）<$00>
 \n
-<$15>W<$01>◇<$08>2<$0E>　Difficulty ( Mode <$1E>)<$00>
+<$15>W<$01>◇<$08>2<$0E> Difficulty (Mode <$1E>)<$00>
 
 
 //<CLEAR>新しくゲームを　始めますか？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
@@ -316,8 +316,7 @@ Scenario<$00>
 
 
 //<CLEAR>シナリオＣを　大笑いしながら\n遊ぶために　ＡＢを先にクリアしよう\n<$01>大きなお世話だ<$0E>／<$01>じゃ、後回しだ<$0E><$00>
-<CLEAR>Scenario C is best enjoyed\n
-after clearing both A + B!\n
+<CLEAR>Scenario C is best enjoyed after clearing both A + B!\n
 <$01>I'm ready!<$0E> / <$01>Ugh, fine...<$0E><$00>
 
 
@@ -327,9 +326,9 @@ after clearing both A + B!\n
 
 
 //<CLEAR>Χ<$06>30<$04>種以上の動物を捕獲\nΧ箱船を発進させる\n＿＿設定難易度<$1E><$01>→→<$0E>＿<$01>確認<$0E><$00>
-<CLEAR>Χ A minimum of <$06>30<$04> species\n
+<CLEAR>＿＿Χ A minimum of <$06>30<$04> species\n
 is required to deploy the Astro Ark.\n
-＿＿Mode <$1E> <$01>→→<$0E><$01>OK!<$0E><$00>
+＿＿Mode <$1E> <$01>→→<$0E> <$01>OK!<$0E><$00>
 
 
 //<CLEAR>Χ<$06>50<$04>種以上の動物を捕獲\nΧ箱船を発進させる\n＿＿設定難易度<$1E><$01>→→<$0E>＿<$01>確認<$0E><$00>
@@ -342,7 +341,7 @@ is required to deploy the Astro Ark.\n
 <CLEAR>Χ A minimum of <$06>100<$04> species\n
 (Not <$06>70<$04>, not <$06>90<$04>, <$06>100!)<$04>\n
 is required to deploy the Astro Ark.\n
-＿＿Mode <$1E><$01>→→<$0E> <$01>OK!<$0E><$00>
+＿＿Mode <$1E> <$01>→→<$0E> <$01>OK!<$0E><$00>
 
 
 //<CLEAR>シナリオＤは　動物捕獲レース∥\n競技のルールとして、難易度は\n『難２』に固定されています<$12><$00>
@@ -351,8 +350,8 @@ Mode 2.<$12><$00>
 
 
 //<CLEAR>Χ不可能への挑戦∥\n＿１年間で<$06>100<$04>種以上の\n＿動物を捕獲\nΧ箱船を発進させる\n＿＿設定難易度<$1E><$01>→→<$0E>＿<$01>確認<$0E><$00>
-<CLEAR>Defy all odds and capture＿ <$06><$04>＿species in 1 year!\n
-Mode＿<$1E><$01>→→<$0E>＿<$01>Ok!<$0E><$00>
+<CLEAR>Defy all odds and capture <$06>100<$04> species in 1 year!\n
+Mode <$1E> <$01>→→<$0E>＿<$01>Ok!<$0E><$00>
 
 
 //難易度調整<$00>
@@ -379,8 +378,8 @@ Time flow: Slowest speed (Play for the story.)<$00>
 
 
 //<CLEAR><$01>東エリア<$0E>／<$01>西エリア＿<$0E>\n<$01>南エリア<$0E>／<$01>地下エデン<$0E><$00>
-<CLEAR><$01>East Area<$0E><$01>West Area<$0E>\n
-<$01>South Area<$0E><$01>Eden<$0E><$00>
+<CLEAR><$01>East Area<$0E> / <$01>West Area<$0E>\n
+<$01>South Area<$0E> / <$01>Eden<$0E><$00>
 
 
 //<CLEAR><$01>オズポート＿＿<$0E>　<$01>ハーディア＿＿<$0E>\n<$01>ミナゴ＿＿＿＿<$0E>　<$01>ホスピコ＿＿＿<$0E>\n<$01>パラサイド＿＿<$0E>　<$01>ネブール＿＿＿<$0E>\n<$01>ネブロード＿＿<$0E>　<$01>ルリナスタワー<$0E>\n<$01>ダイケイブ＿＿<$0E>　<$01>カラゴラム＿＿<$0E>\n<$01>マーブルポリス<$0E>　<$01>ヤマピット＿＿<$0E>\n<$01>ダグポンド＿＿<$0E><$00>

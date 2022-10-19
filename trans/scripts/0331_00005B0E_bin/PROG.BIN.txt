@@ -73,7 +73,7 @@ enough to fall for her antics!<$12><$00>
 What to do, what to do...<$12>\n
 <CLEAR>Hey, I know you're a customer, but can I ask your advice\n
 on something?\n
-<$01>Sure<$0E>／<$01>Not now<$0E><$00>
+<$01>Sure<$0E> / <$01>Not now<$0E><$00>
 
 
 //<CLEAR>私、ヤマダといいます…<$12>\n<CLEAR>オズポートの本店に　マキっていう\n恋人を残して　左遷されて来たんです\n社内恋愛が　バレちゃって…<$12><$00>
@@ -194,7 +194,8 @@ hearts, this is Neo Kenya Bank!<$00>
 
 //\n<$01>引出<$0E><$06>／<$04><$01>入金<$0E><$06>／<$04><$01>融資<$0E><$06>／<$04><$01>返済<$0E><$06>／<$04><$01>通帳<$0E><$06>／<$04><$01>雑談<$0E><$06>／<$04><$01>帰る<$0E><$00>
 \n
-<$01>Withdraw<$0E><$06>／<$04><$01>Deposit<$0E><$06>／<$04><$01>Loan<$0E><$06>／<$04><$01>Repay<$0E><$06>／<$04><$01>Statement<$0E><$06>／<$04><$01>Chat<$0E><$06>／<$04><$01>Exit<$0E><$00>
+<$01>Withdraw<$0E><$06> / <$04><$01>Deposit<$0E><$06> / <$04><$01>Loan<$0E><$06> / <$04><$01>Repay<$0E><$06> / <$04><$01>Statement<$0E><$06>\n
+/ <$04><$01>Chat<$0E><$06> / <$04><$01>Exit<$0E><$00>
 
 
 //<CLEAR>お金が心細いときは　使い道のない\n半端な動物を　処分するか、当行の\n安心低利の融資を　ご利用ください<$12><$00>
@@ -227,7 +228,7 @@ How much will you deposit?\n
 
 //<CLEAR><$06><$1E><$04>￥の入金ですね\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
 <CLEAR><$06><$1E><$04>￥, is that correct?\n
-<$01>Yes<$0E>／<$01>No<$0E><$00>
+<$01>Yes<$0E> / <$01>No<$0E><$00>
 
 
 //<CLEAR>現在の預金残高は　<$06><$1E><$04>￥です<$12><$00>
@@ -252,7 +253,7 @@ How much will you withdraw?\n
 
 //<CLEAR><$06><$1E><$04>￥のお引出しですね\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
 <CLEAR><$06><$1E><$04>￥ will be withdrawn.\n
-<$01>Yes<$0E>／<$01>No<$0E><$00>
+<$01>Yes<$0E> / <$01>No<$0E><$00>
 
 
 //<CLEAR>現在の預金残高は　<$06><$1E><$04>￥です\n追加融資は　お受けできかねます\nご了承ください<$12><$00>
@@ -279,7 +280,7 @@ How much will you borrow?\n
 //<CLEAR>融資額＿<$1E>40￥ですと　融資条件は\n季節利子<$1E>40￥　返済期限は来年<$1D>\n<$01>それでＯＫ<$0E>／<$01>融資額変更<$0E>／<$01>やめとく！<$0E><$00>
 <CLEAR>Great! That's＿<$1E>40￥ with seasonal interest.\n
 Repayment starts at＿<$1E>40￥ due next＿<$1D>.\n
-<$01>OK!<$0E>／<$01>Back<$0E>／<$01>Exit<$0E><$00>
+<$01>OK!<$0E> / <$01>Back<$0E> / <$01>Exit<$0E><$00>
 
 
 //<CLEAR>返済残高　<$06><$1E><$04>￥です<$12><$00>
@@ -294,7 +295,7 @@ What will you repay?\n
 
 //<CLEAR><$06><$1E><$04>￥の返済ですね\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
 <CLEAR><$06><$1E><$04>￥ will be repaid.\n
-<$01>Yes<$0E>／<$01>No<$0E><$00>
+<$01>Yes<$0E> / <$01>No<$0E><$00>
 
 
 //<CLEAR>返済は　すべて完了しました\nありがとう　こざいます！<$12><$00>
@@ -657,7 +658,7 @@ hearts, this is Neo Kenya Bank!<$00>
 
 //\n<$01>８年定期<$0E>／<$01>雑談する<$0E>／<$01>さよなら<$0E><$00>
 \n
-<$01>8-year Term<$0E>／<$01>Chat<$0E>／<$01>Sayonara<$0E><$00>
+<$01>8-year Term<$0E> / <$01>Chat<$0E> / <$01>Sayonara<$0E><$00>
 
 
 //<CLEAR>またの御利用を　お待ち申し上げます<$12><$00>
@@ -680,7 +681,7 @@ How much will you deposit?\n
 
 //<CLEAR>定期預金に　<$06><$1E><$0F>000<$04>￥のご入金ですね\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
 <CLEAR>That's a＿<$06><$1E><$0F>000<$04>￥ deposit, correct?\n
-<$01>Yes<$0E>／<$01>No<$0E><$00>
+<$01>Yes<$0E> / <$01>No<$0E><$00>
 
 
 //<CLEAR>ありがとうございます<$12><$00>
@@ -700,7 +701,7 @@ Deposit whatever you can!<$12><$00>
 //<CLEAR>そんな～　お客さま、\nなんとか続けていただけませんか？\n<$01>いや解約だ<$0E>／<$01>考えなおす<$0E><$00>
 <CLEAR>Really, are you sure?\n
 Won't you reconsider?\n
-<$01>No, I'm done<$0E>／<$01>On second thought...<$0E><$00>
+<$01>No, I'm done<$0E> / <$01>On second thought...<$0E><$00>
 
 
 //<CLEAR>とほほ・・・<$12><$00>

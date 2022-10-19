@@ -141,7 +141,7 @@ I'll break them in for you!\n
 
 
 //<$01>調教依頼<$0E>／<$01>雑談する<$0E>／<$01>用はない<$0E><$00>
-<$01>Train<$0E>／<$01>Chat<$0E>／<$01>Exit<$0E><$00>
+<$01>Train<$0E> / <$01>Chat<$0E> / <$01>Exit<$0E><$00>
 
 
 //<CLEAR>猟犬を　お持ちではない…<$06>??<$04>\nああ…<$12><$00>
@@ -171,7 +171,7 @@ got to teach you basic math!<$12><$00>
 
 //<CLEAR><$1D>ちゃんの　体力強化訓練を\n始めますが　よろしゅうございますね\n<$01>早くやれよ<$0E>／<$01>やっぱヤメ<$0E><$00>
 <CLEAR><$1D>'s about to undergo strength training, okay?\n
-<$01>Okay!<$0E>／<$01>Nevermind<$0E><$00>
+<$01>Okay!<$0E> / <$01>Nevermind<$0E><$00>
 
 
 //<CLEAR><$1D>ちゃんの　ゆがんだ性格を\nどのように　正しくいじくりましょうか？<$00>
@@ -201,7 +201,7 @@ Resolute<$06>(<$04>High tolerance.<$06>)<$00>
 
 //<CLEAR><$1D>ちゃんの　性格矯正訓練を\n始めますが　よろしゅうございますね\n<$01>早くやれよ<$0E>／<$01>やっぱヤメ<$0E><$00>
 <CLEAR><$1D>'s about to undergo a personality adjustment, okay?\n
-<$01>Okay!<$0E>／<$01>Nevermind<$0E><$00>
+<$01>Okay!<$0E> / <$01>Nevermind<$0E><$00>
 
 
 //<CLEAR><$1D>ちゃんには　あたしなんかが\n教えることは　何もありませんよ<$12><$00>
@@ -222,7 +222,7 @@ Resolute<$06>(<$04>High tolerance.<$06>)<$00>
 
 //<CLEAR><$1D>ちゃんの　特殊技能習得訓練を\n始めますが　よろしゅうございますね\n<$01>早くやれよ<$0E>／<$01>やっぱヤメ<$0E><$00>
 <CLEAR><$1D>'s about to undergo skill training, okay?\n
-<$01>Okay!<$0E>／<$01>Nevermind<$0E><$00>
+<$01>Okay!<$0E> / <$01>Nevermind<$0E><$00>
 
 
 //遠吠え<$00>
@@ -292,7 +292,7 @@ Mangy mutt!<$00>
 
 //\n<$01>続けてくれ<$0E>／<$01>やめてくれ<$0E><$00>
 \n
-<$01>Keep going!<$0E><$01>Let's stop<$0E><$00>
+<$01>Keep going!<$0E> / <$01>Let's stop<$0E><$00>
 
 
 //<CLEAR>お客さん、意外とお優しいんですね\nそういう方　あたしゃ好きですよ<$12><$00>
@@ -367,7 +367,7 @@ Choose a new name.<$12><$00>
 
 //<CLEAR>猟犬<$1D>を登録します\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
 <CLEAR>Adopt＿<$1D>?\n
-<$01>Yes<$0E><$01>No<$0E><$00>
+<$01>Yes<$0E> / <$01>No<$0E><$00>
 
 
 //<CLEAR><$00>
@@ -379,7 +379,7 @@ Choose a new name.<$12><$00>
 
 
 //<$15>Y猟犬屋／メニュー<$00>
-<$15>YDog／Menu<$00>
+<$15>YDog/Menu<$00>
 
 
 //<$01>買＿う<$0E>\n<$01>売＿る<$0E>\n<$01>登＿録<$0E>\n<$01>やめる<$0E><$00>
@@ -399,12 +399,12 @@ You cannot adopt any more dogs.<$12><$00>
 
 
 //<$15>Y猟犬屋／登＿録<$00>
-<$15>YDog／Tame<$00>
+<$15>YDog/Tame<$00>
 
 
 //<CLEAR>猟犬は太古より　人間の良きパートナー\nぜひ　あなたも　１頭いかがですか？\n<$01>取引する<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
 <CLEAR>Dogs have been man's best friend since ancient times.\n
-<$01>Shop<$0E>／<$01>Chat<$0E>／<$01>Exit<$0E><$00>
+<$01>Shop<$0E> / <$01>Chat<$0E> / <$01>Exit<$0E><$00>
 
 
 //<CLEAR>またの御利用を　お待ち申し上げます<$12><$00>
@@ -412,7 +412,7 @@ You cannot adopt any more dogs.<$12><$00>
 
 
 //<$15>Y猟犬屋／買＿う<$00>
-<$15>YDog／Buy<$00>
+<$15>YDog/Buy<$00>
 
 
 //<CLEAR><$00>
@@ -424,12 +424,12 @@ You cannot adopt any more dogs.<$12><$00>
 
 
 //<$15>Y猟犬屋／売＿る<$00>
-<$15>YDog／Sell<$00>
+<$15>YDog/Sell<$00>
 
 
 //<CLEAR>猟犬「<$1D>」を\n<$06><$1E><$04>￥で売りますか？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
 <CLEAR>Sell＿<$1D>＿ for＿<$06><$1E><$04>￥?\n
-<$01>Yes<$0E>／<$01>No<$0E><$00>
+<$01>Yes<$0E> / <$01>No<$0E><$00>
 
 
 //<$15>Y猟犬治療<$00>
@@ -445,7 +445,7 @@ bring them to me before it's too late!<$12><$00>
 <CLEAR>Is your hunting dog injured?\n
 Let me!\n
  take a look!\n
-<$01>Treat<$0E>／<$01>Chat<$0E>／<$01>Exit<$0E><$00>
+<$01>Treat<$0E> / <$01>Chat<$0E> / <$01>Exit<$0E><$00>
 
 
 //<CLEAR>いらない道具や動物を　売っても\nまだ足りないときは、銀行でお金を\n借りてでも　治療費は作りなさいね<$12>\n<CLEAR>それくらいは　判断を誤った\nバカな飼い主の\n最低限の　務めってモンよ<$12><$00>
@@ -458,7 +458,7 @@ because you're ignorant.<$12><$00>
 //\n<$1D>の治療には　<$1D><$06><$1E><$14><$04>￥必要ね\n<$01>依頼する<$0E>／<$01>ほっとく<$0E><$00>
 \n
 I can treat＿<$1D>＿for＿<$1D><$06><$1E><$14><$04>￥,\n
-<$01>Please help!<$0E>／<$01>Nevermind!<$0E><$00>
+<$01>Please help!<$0E> / <$01>Nevermind!<$0E><$00>
 
 
 //<CLEAR>かわいそうな<$1D>…\n治療費も　満足に払えない\n貧乏な飼い主を　恨みなさいね<$12><$00>
@@ -527,7 +527,7 @@ or these wounds may reopen. <$12><$00>
 
 
 //<$01>寄付する<$0E>／<$01>雑談する<$0E>／<$01>ヤだよ！<$0E><$00>
-<$01>Donate<$0E>／<$01>Chat<$0E>／<$01>No way!<$0E><$00>
+<$01>Donate<$0E> / <$01>Chat<$0E> / <$01>No way!<$0E><$00>
 
 
 //<CLEAR>いつも神様は　あなたの行動を\n見ていらっしゃいますよ…<$12><$00>
@@ -542,7 +542,7 @@ How much will you donate?\n
 
 //<CLEAR><$06><$1E><$04>￥の寄付ですね\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
 <CLEAR>You'll donate＿<$06><$1E><$04>￥?\n
-<$01>Yes<$0E>／<$01>No<$0E><$00>
+<$01>Yes<$0E> / <$01>No<$0E><$00>
 
 
 //<CLEAR>最近、多いんですよ…\n持金を全部、寄付される方…<$12>\n<CLEAR>あなた、まだ若いんだから\nヘンな気を　起こさないでくださいね<$12><$00>

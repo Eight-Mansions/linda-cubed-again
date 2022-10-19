@@ -664,7 +664,7 @@ favorite dog's collar.<$12>\n
 <CLEAR>But that dog, Taro, ran away recently, taking the collar with\n
 him.<$12>\n
 <CLEAR>If you can, find Taro for us and get that collar!\n
-<$01>Okay!<$0E>^<$01>Any my reward?<$0E>^<$01>Sorry<$0E><$00>
+<$01>Okay!<$0E> / <$01>Any my reward?<$0E> / <$01>Sorry<$0E><$00>
 
 
 //<CLEAR>ƒTƒ“ƒLƒ…[a\nƒMƒƒƒ‰‚Í@”jŠi‚Ì<$06>20000<$04>‚æ<$12><$00>
@@ -673,24 +673,24 @@ him.<$12>\n
 
 //<CLEAR>‚»‚¤‚ËA<$06>20000<$04>‚Å‚Ç‚¤H\n<$01>‚â‚é‚Æ‚à<$0E>^<$01>ˆÀ‚¢‚æa<$0E>^<$01>‚Ó‚´‚¯‚ë<$0E><$00>
 <CLEAR>But of course! <$06>20000<$04> works, right?\n
-<$01>That works<$0E>^<$01>That's too low<$0E>^<$01>Get outta here!<$0E><$00>
+<$01>That works<$0E> / <$01>That's too low<$0E> / <$01>Get outta here!<$0E><$00>
 
 
 //<CLEAR>‚ ‚çH@ˆÓŠO‚Æ‚µ‚Á‚©‚è‚µ‚Ä‚é‚í‚Ë\n‚¶‚á@<$06>30000<$04>o‚·‚íI@‚¢‚©‚ªH\n<$01>‚n‚j‚¾a<$0E>^<$01>‚à‚¤ˆêº<$0E>^<$01>‚Ó‚´‚¯‚ë<$0E><$00>
 <CLEAR>Ah! Sorry, my tongue slipped.\n
 I meantQ<$06>30000<$04>! Will that do?\n
-<$01>Yes<$0E>^<$01>Say that again?<$0E><$01>Get outta here!<$0E><$00>
+<$01>Yes<$0E> / <$01>Say that again?<$0E> / <$01>Get outta here!<$0E><$00>
 
 
 //<CLEAR>‚ ‚È‚½‚É‚Í@•‰‚¯‚½‚í‚æc\nƒMƒŠƒMƒŠ@<$06>40000<$04>a@‚¢‚¢‚Å‚µ‚åH\n<$01>‚¢‚¢ƒ[a<$0E>^<$01>‚Ü‚¾‚Ü‚¾<$0E>^<$01>‚Ó‚´‚¯‚ë<$0E><$00>
 <CLEAR>Hahaha, you caught me! Here,Q<$06>40000<$04> is more than fair.\n
-<$01>I'll take it<$0E>^<$01>That's not fair<$0E>^<$01>Get outta here!<$0E><$00>
+<$01>I'll take it<$0E> / <$01>That's not fair<$0E> / <$01>Get outta here!<$0E><$00>
 
 
 //<CLEAR>‚í‚©‚Á‚½‚íc@<$06>50000<$04>A‚±‚ê‚ªãŒÀa\n‚±‚ê‚Åƒ_ƒ‚È‚ç@‘¼‚ğ“–‚½‚é‚í\n<$01>‚æ[‚µa<$0E>^<$01>‚Ó‚´‚¯‚ë<$0E><$00>
 <CLEAR>Okay, okay...Q<$06>50000<$04>, but any more than that, and I'll\n
 have to find someone else!\n
-<$01>Thatta girl!<$0E>^<$01>Get outta here!<$0E><$00>
+<$01>Thatta girl!<$0E> / <$01>Get outta here!<$0E><$00>
 
 
 //<CLEAR>ƒtƒ“‚¾a\n‚³‚Á‚³‚Æ@‹A‚Á‚Ä‚¿‚å‚¤‚¾‚¢a<$12><$00>
@@ -752,7 +752,7 @@ to Natasha!<$14><$12><$00>
 
 //<CLEAR>‚¦[‚Á‚ÆAƒMƒƒƒ‰‚Í<$1E>37‚æ‚ËH\n<$01>‚»‚¤‚¾I<$0E>^<$01>‚Ó‚´‚¯‚ë<$0E><$00>
 <CLEAR>Mkay! As for your pay, how'sQ<$1E>37H\n
-<$01>Sweet!<$0E>^<$01>Get outta here!<$0E><$00>
+<$01>Sweet!<$0E> / <$01>Get outta here!<$0E><$00>
 
 
 //<CLEAR>‚ ‚çHŠo‚¦‚Ä‚½‚ÌH\n<$1E>37‚Ì–ñ‘©‚¾‚Á‚½‚í‚Ë<$12><$00>
@@ -1356,7 +1356,7 @@ Choose a new name.<$12><$00>
 
 //<CLEAR>—ÂŒ¢<$1D>‚ğ“o˜^‚µ‚Ü‚·\n<$01>‚ÍQ‚¢<$0E>^<$01>‚¢‚¢‚¦<$0E><$00>
 <CLEAR>AdoptQ<$1D>?\n
-<$01>Yes<$0E><$01>No<$0E><$00>
+<$01>Yes<$0E> / <$01>No<$0E><$00>
 
 
 //<CLEAR><$00>
@@ -1368,7 +1368,7 @@ Choose a new name.<$12><$00>
 
 
 //<$15>Y—ÂŒ¢‰®^ƒƒjƒ…[<$00>
-<$15>YDog^Menu<$00>
+<$15>YDog/Menu<$00>
 
 
 //<$01>”ƒQ‚¤<$0E>\n<$01>”„Q‚é<$0E>\n<$01>“oQ˜^<$0E>\n<$01>‚â‚ß‚é<$0E><$00>
@@ -1388,12 +1388,12 @@ You cannot adopt any more dogs.<$12><$00>
 
 
 //<$15>Y—ÂŒ¢‰®^“oQ˜^<$00>
-<$15>YDog^Tame<$00>
+<$15>YDog/Tame<$00>
 
 
 //<CLEAR>—ÂŒ¢‚Í‘¾ŒÃ‚æ‚è@lŠÔ‚Ì—Ç‚«ƒp[ƒgƒi[\n‚º‚Ğ@‚ ‚È‚½‚à@‚P“ª‚¢‚©‚ª‚Å‚·‚©H\n<$01>æˆø‚·‚é<$0E>^<$01>G’k‚·‚é<$0E>^<$01>‚â‚ß‚Æ‚­<$0E><$00>
 <CLEAR>Dogs have been man's best friend since ancient times.\n
-<$01>Shop<$0E>^<$01>Chat<$0E>^<$01>Exit<$0E><$00>
+<$01>Shop<$0E> / <$01>Chat<$0E> / <$01>Exit<$0E><$00>
 
 
 //<CLEAR>‚Ü‚½‚ÌŒä—˜—p‚ğ@‚¨‘Ò‚¿\‚µã‚°‚Ü‚·<$12><$00>
@@ -1401,7 +1401,7 @@ You cannot adopt any more dogs.<$12><$00>
 
 
 //<$15>Y—ÂŒ¢‰®^”ƒQ‚¤<$00>
-<$15>YDog^Buy<$00>
+<$15>YDog/Buy<$00>
 
 
 //<CLEAR><$00>
@@ -1413,12 +1413,12 @@ You cannot adopt any more dogs.<$12><$00>
 
 
 //<$15>Y—ÂŒ¢‰®^”„Q‚é<$00>
-<$15>YDog^Sell<$00>
+<$15>YDog/Sell<$00>
 
 
 //<CLEAR>—ÂŒ¢u<$1D>v‚ğ\n<$06><$1E><$04>‚Å”„‚è‚Ü‚·‚©H\n<$01>‚ÍQ‚¢<$0E>^<$01>‚¢‚¢‚¦<$0E><$00>
 <CLEAR>SellQ<$1D>Q forQ<$06><$1E><$04>?\n
-<$01>Yes<$0E>^<$01>No<$0E><$00>
+<$01>Yes<$0E> / <$01>No<$0E><$00>
 
 
 //<$15>Y—ÂŒ¢¡—Ã<$00>
@@ -1434,7 +1434,7 @@ bring them to me before it's too late!<$12><$00>
 <CLEAR>Is your hunting dog injured?\n
 Let me!\n
  take a look!\n
-<$01>Treat<$0E>^<$01>Chat<$0E>^<$01>Exit<$0E><$00>
+<$01>Treat<$0E> / <$01>Chat<$0E> / <$01>Exit<$0E><$00>
 
 
 //<CLEAR>‚¢‚ç‚È‚¢“¹‹ï‚â“®•¨‚ğ@”„‚Á‚Ä‚à\n‚Ü‚¾‘«‚è‚È‚¢‚Æ‚«‚ÍA‹âs‚Å‚¨‹à‚ğ\nØ‚è‚Ä‚Å‚à@¡—Ã”ï‚Íì‚è‚È‚³‚¢‚Ë<$12>\n<CLEAR>‚»‚ê‚­‚ç‚¢‚Í@”»’f‚ğŒë‚Á‚½\nƒoƒJ‚È”‚¢å‚Ì\nÅ’áŒÀ‚Ì@–±‚ß‚Á‚Äƒ‚ƒ“‚æ<$12><$00>
@@ -1447,7 +1447,7 @@ because you're ignorant.<$12><$00>
 //\n<$1D>‚Ì¡—Ã‚É‚Í@<$1D><$06><$1E><$14><$04>•K—v‚Ë\n<$01>ˆË—Š‚·‚é<$0E>^<$01>‚Ù‚Á‚Æ‚­<$0E><$00>
 \n
 I can treatQ<$1D>QforQ<$1D><$06><$1E><$14><$04>,\n
-<$01>Please help!<$0E>^<$01>Nevermind!<$0E><$00>
+<$01>Please help!<$0E> / <$01>Nevermind!<$0E><$00>
 
 
 //<CLEAR>‚©‚í‚¢‚»‚¤‚È<$1D>c\n¡—Ã”ï‚à@–‘«‚É•¥‚¦‚È‚¢\n•n–R‚È”‚¢å‚ğ@¦‚İ‚È‚³‚¢‚Ë<$12><$00>
@@ -1532,7 +1532,7 @@ forQ<$1D><$06><$1E><$04><$14>.<$12><$00>
 
 //—ÂŒ¢‚Ì«—ˆ‚ğ@<$1D><$06><$1E><$04><$14>‚Åè‚¤‚¼‚æ\n<$01>Œ¢‚ğŒ©‚¹‚é<$0E>^<$01>G’k‚·‚é<$0E>^<$01>M‚¶‚È‚¢I<$0E><$00>
 See your dog's future for onlyQ<$1D><$06><$1E><$04><$14>!\n
-<$01>Show me<$0E>^<$01>Chat<$0E>^<$01>What a joke!<$0E><$00>
+<$01>Show me<$0E> / <$01>Chat<$0E> / <$01>What a joke!<$0E><$00>
 
 
 //<CLEAR>—ÂŒ¢‚Ì’·Š‚â’ZŠ‚ğ@n’m‚·‚ê‚Î\n‘å’_‚Èíp‚ª@g‚¦‚é‚æ‚¤‚É‚È‚é‚µ\nŠëŒ¯‚à@–‘O‚É”ğ‚¯‚ç‚ê‚é‚¼‚È<$12><$00>
@@ -1551,7 +1551,7 @@ dogs' futures were already dark!<$12><$00>
 
 //<CLEAR>‘¼‚Ì—ÂŒ¢‚à@è‚¤‚©‚¦H\n<$01>‚ÍQ‚¢<$0E>^<$01>‚¢‚¢‚¦<$0E><$00>
 <CLEAR>See about another dog?\n
-<$01>Yes<$0E>^<$01>No<$0E><$00>
+<$01>Yes<$0E> / <$01>No<$0E><$00>
 
 
 //<CLEAR><$1D>‚©c@<$1D>–¼‚¶‚á‚Ì‚§c<$12>\n‚»‚ê‚Å‚Í@è‚¤‚¼‚æ<$12><$00>
@@ -1750,7 +1750,7 @@ A complicated<$00>
 
 //–Úw‚·‚ÍA“¬Œ¢’·Òa@©•ª‚Ì—ÂŒ¢‚±‚»\n¢ŠEˆê‚Æv‚¤“z‚Í@¡‚·‚®Q‰Á‚µ‚Èa\n<$01>’§í‚·‚é‚º<$0E>^<$01>ƒ‹[ƒ‹à–¾<$0E>^<$01>‚â‚ß‚Æ‚­c<$0E><$00>
 Let your dog fight in the dojo to prove who's strongest!\n
-<$01>Enroll<$0E>^<$01>Rules<$0E>^<$01>Exit<$0E><$00>
+<$01>Enroll<$0E> / <$01>Rules<$0E> / <$01>Exit<$0E><$00>
 
 
 //<CLEAR>—v‚ÍA—ÂŒ¢“¯u‚ÌŸ‚¿”²‚«í‚¾I\n‚P‰ñŸ‚Â‚½‚Ñ‚É@‚à‚ç‚¦‚éŒœÜ‹à‚Í\n“Vˆä’m‚ç‚¸‚É@‚Í‚Ëã‚ª‚é¡–@‚¾a<$12>\n<CLEAR>Œ¢‚ª‚­‚½‚Î‚é‚©@”‚¢å‚ª~ƒ{ƒ^ƒ“‚Å\nu‘Ò‚Á‚½av‚ğ‚©‚¯‚é‚Æ@•‰‚¯a<$12>\n<CLEAR>•‰‚¯‚½‚ç@‚»‚±‚Ü‚Å‚ÌÜ‹à‚Í@ƒ`ƒƒƒ‰A\n‚¾‚©‚ç@‚Ç‚±‚Åˆø‚­‚©‚ª@ƒ|ƒCƒ“ƒg‚¾<$12><$00>
@@ -1770,7 +1770,7 @@ money!<$12><$00>
 
 //<CLEAR>‚Ü‚Æ‚à‚È—ÂŒ¢‚à‚¢‚Ë‚¥‚­‚¹‚Éc\n‚Ü‚³‚©‚¨‚ß‚¦‚ªQ‰Á‚·‚é‚Ì‚©‚æH\n<$01>‚ÍQ‚¢<$0E>^<$01>‚¢‚¢‚¦<$0E><$00>
 <CLEAR>You want to participate, even without a decent dog?\n
-<$01>Yes<$0E>^<$01>No<$0E><$00>
+<$01>Yes<$0E> / <$01>No<$0E><$00>
 
 
 //<CLEAR>‚Ü‚Á@K”ö‚ª‚Í‚¦‚Ä‚©‚ç‚É\n‚µ‚Æ‚«‚È‚æ<$12><$00>
@@ -1798,7 +1798,7 @@ season. Come back nextQ<$1D>Qand try again!<$12><$00>
 
 //<$1D>†‚Í@<$1D>‚©‚ç‚Ìoê‚¾I\nQ‰Á—¿@<$1D><$06><$1E><$04><$14>I@‚¢‚¢‚ÈH\n<$01>‚ÍQ‚¢<$0E>^<$01>‚¢‚¢‚¦<$0E><$00>
 <$1D>'sQ<$1D>Qentry fee isQ<$1D><$06><$1E><$04><$14>, okay?\n
-<$01>Yes<$0E>^<$01>No<$0E><$00>
+<$01>Yes<$0E> / <$01>No<$0E><$00>
 
 
 //<CLEAR><$15>b<$06><$1E><$04><$14>‚à@‚Ë‚¥‚Ì‚©‚æc\n<$1D>†‚ğ”„‚Á‚¿‚Ü‚Á‚½‚ç@‚Ç‚¤‚¾H<$12><$00>
@@ -2154,7 +2154,7 @@ Winnings earned:Q<$06><$1E><$04>!<$12><$00>
 //<CLEAR>—İÏÜ‹à‚Í@<$06><$1E><$04>‚Å‚·‚ª\n‘±‚¯‚ÄŸ•‰‚µ‚Ü‚·‚©H\n<$01>‚ÍQ‚¢<$0E>^<$01>‚¢‚¢‚¦<$0E><$00>
 <CLEAR>Winnings earned:Q<$06><$1E><$04>\n
 Continue fighting?\n
-<$01>Yes<$0E>^<$01>No<$0E><$00>
+<$01>Yes<$0E> / <$01>No<$0E><$00>
 
 
 //<CLEAR><$19>1<$15>S<CLEAR>ƒPƒ“‚Í@Ü‹à<$06><$1E><$04>‚ğ\nó‚¯æ‚Á‚½a<$14><$12><$00>
@@ -2175,7 +2175,7 @@ from next season onwards.<$12><$00>
 //<CLEAR>‚³‚ç‚ÉA<$1D>†‚Í‰hŒõ‚É‹P‚­\n“`“‚ÌlŒÒ–¼u<$1D>v‚ğP–¼‚Å‚«‚Ü‚·a\n<$01>P–¼‚·‚éa<$0E>^<$01><$1D>‚Ì‚Ü‚Ü<$0E><$00>
 <CLEAR>Furthermore,Q<$1D>Qis deemed worthy to inherit the\n
 legendary ring name,Q<$1D>!\n
-<$01>Adopt ring name<$0E>^<$01><$1D>Keep old name<$0E><$00>
+<$01>Adopt ring name<$0E> / <$01><$1D>Keep old name<$0E><$00>
 
 
 //<$19>1<CLEAR>‘æ<$1E>2‘ã–Úu<$1D>v’a¶a\n‚b‚n‚m‚f‚q‚`‚s‚t‚k‚`‚s‚h‚n‚m‚ra<$12><$00>

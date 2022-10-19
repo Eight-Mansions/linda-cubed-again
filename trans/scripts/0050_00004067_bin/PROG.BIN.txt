@@ -348,7 +348,7 @@ Don't I look good with Ben?<$00>
 
 //\n<$01>マジかよ∥<$0E>／<$01>勝手にしろ<$0E><$00>
 \n
-<$01>What the fuck, Mom?!<$0E><$01>Congrats!<$0E><$00>
+<$01>What the fuck, Mom?!<$0E> / <$01>Congrats!<$0E><$00>
 
 
 //<CLEAR>そうかい！　まあ　私は私で\n好きにやるから　あんたたちも\n達者でおやりよ<$00>
@@ -741,7 +741,7 @@ PICT13.TIM
 #WRITE(PTR, $002E)
 //<CLEAR><$02>124Φ\n<$09>8<$02>3このカードはフォーマットされていません\n<$02>59フォーマットしますか？\n<$02>87<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
 <CLEAR><$02><$09><$02>3This card is not formatted.\n
-<$02>59Format this card?<$02><$01>Yes<$0E><$01>No<$0E><$00>
+<$02>59Format this card?<$02><$01>Yes<$0E> / <$01>No<$0E><$00>
 
 
 //<CLEAR><$02>128Φ\n<$09>8<$02>38ただいま　フォーマット中です∥\n電源を切ったり、メモリーカードを抜いたり\n<$02>77しないでください∥<$00>
@@ -804,9 +804,9 @@ HOW CAN WE HELP YOU?<$12><$00>
 
 
 //<CLEAR><$01>記録センター＿<$0E>／<$01>留守番コール＿<$0E>\n<$01>ネオケニア銀行<$0E>／<$01>気象サテライト<$0E>\n<$01>宝クジ抽選発表<$0E>／<$01>ヘルガの大予言<$0E><$00>
-<CLEAR><$01>Save game＿<$0E>／<$01>Voicemail＿<$0E>\n
-<$01>NK Bank＿<$0E>／<$01>Forecast＿<$0E>\n
-<$01>Lottery＿<$0E>／<$01>Miss Helga＿<$0E><$00>
+<CLEAR><$01>Save game＿<$0E> / <$01>Voicemail＿<$0E>\n
+<$01>NK Bank＿<$0E> / <$01>Forecast＿<$0E>\n
+<$01>Lottery＿<$0E> / <$01>Miss Helga＿<$0E><$00>
 
 
 //記録センター<$00>
@@ -841,7 +841,7 @@ THE NK PSYCHIC HOTLINE<$00>
 //<CLEAR>レンジャー隊本部、記録センターです\nジョブの進行状況を　記録しますか？\n<$01>記録を残す<$0E>／<$01>メニューへ<$0E>／<$01>電話を切る<$0E><$00>
 <CLEAR>This is the Ranger HQ report center.\n
 Save your game?\n
-<$01>Save＿<$0E>／<$01>Menu＿<$0E>／<$01>Hang up<$0E><$00>
+<$01>Save＿<$0E> / <$01>Menu＿<$0E> / <$01>Hang up<$0E><$00>
 
 
 //<CLEAR>留守番コールに　新しいメッセージが\n<$1E>件入っています　確認しますか？<$00>
@@ -871,13 +871,13 @@ Stored messages:＿<$1E>.<$12><$00>
 
 //\n<$01>確認をする<$0E>／<$01>メニューへ<$0E>／<$01>電話を切る<$0E><$00>
 \n
-<$01>Listen<$0E>／<$01>Menu<$0E>／<$01>Hang up<$0E><$00>
+<$01>Listen<$0E> / <$01>Menu<$0E> / <$01>Hang up<$0E><$00>
 
 
 //<CLEAR>皆様のネオケニア銀行です\n<$01>預金残高＿<$0E>／<$01>返済残高＿<$0E>／<$01>通帳を見る<$0E>\n<$01>メニューへ<$0E>／<$01>電話を切る<$0E><$00>
 <CLEAR>This is NK Bank!\n
-<$01>Deposit<$0E>／<$01>Withdraw<$0E>／<$01>Statement<$0E>\n
-<$01>Menu<$0E>／<$01>Hang up<$0E><$00>
+<$01>Deposit<$0E> / <$01>Withdraw<$0E> / <$01>Statement<$0E>\n
+<$01>Menu<$0E> / <$01>Hang up<$0E><$00>
 
 
 // %8d<$00>
