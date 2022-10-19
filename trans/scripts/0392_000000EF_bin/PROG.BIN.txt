@@ -1181,13 +1181,13 @@ Effects unknown<$00>
 
 //<$1D>^–ò—pA•¨\nŒø‰Ê•s–¾^ŠëŒ¯“x•s–¾\n<$1D><$00>
 <$1D>/Herb\n
-Effects unknown^Risk: TBD\n
+Effects unknown/Risk: TBD\n
 <$1D><$00>
 
 
 //<$1D>^ˆã–ò•i\nŒø‰Ê•s–¾^ŠëŒ¯“x•s–¾\n<$1D><$00>
 <$1D>/Drug\n
-Effects unknown^Risk: TBD\n
+Effects unknown/Risk: TBD\n
 <$1D><$00>
 
 
@@ -1199,13 +1199,13 @@ Effects unknown^Risk: TBD\n
 
 //<$1D>^ˆã–ò•i\nUŒ‚—Í‚t‚o^ŠëŒ¯“x<$1E>“\ní“¬A“G‚É‚Ì‚İg—p‰Â<$00>
 <$1D>/Drug\n
-ATK boost^Risk: <$1E>“\n
+ATK boost/Risk: <$1E>“\n
 For combat use only<$00>
 
 
 //<$1D>^ˆã–ò•i\nó‘ÔˆÙí‚Ì‰ñ•œ^ŠëŒ¯“x‚O“\n<$1D><$00>
 <$1D>/Drug\n
-Status recovery^Risk: 0%\n
+Status recovery/Risk: 0%\n
 <$1D><$00>
 
 
@@ -1250,8 +1250,8 @@ For outside trek use<$00>
 
 
 //<$1D>^ë—Â—p•i\n<$1D>^ŠëŒ¯“x<$1E>“\n<$1D><$00>
-<$1D>^Hunting gear\n
-<$1D>^Risk: <$1E>“\n
+<$1D>/Hunting gear\n
+<$1D>/Risk: <$1E>“\n
 <$1D><$00>
 
 
@@ -1280,41 +1280,41 @@ Present<$00>
 
 
 //<$1D>^‚»‚Ì‘¼\n<$1D>\n<$1D><$00>
-<$1D>^Other\n
+<$1D>/Other\n
 <$1D>\n
 <$1D><$00>
 
 
 //<$1D>^“®•¨‚Ì—‘\n‚g‚o•½‹Ï‚T‚O‰ñ•œ^ŠëŒ¯“x‚O“\n<$1D><$00>
-<$1D>^Animal egg\n
+<$1D>/Animal egg\n
 50 avg HP recovery/Risk: 0%\n
 <$1D><$00>
 
 
 //<$1D>^H—p“÷—Ş\nŒø‰Ê•s–¾^ŠëŒ¯“x‚V‚T“\n<$1D><$00>
-<$1D>^Edible meat\n
-Effects unknown^Risk: 75%<$1D><$00>
+<$1D>/Edible meat\n
+Effects unknown/Risk: 75%<$1D><$00>
 
 
 //<$1D>^ˆê”ÊH•i\n‚g‚o‰ñ•œ^ŠëŒ¯“x‚O“\n<$1D><$00>
-<$1D>^Foodstuffs\n
-HP recovery^Risk: 0%<$1D><$00>
+<$1D>/Foodstuffs\n
+HP recovery/Risk: 0%<$1D><$00>
 
 
 //<$1D>^Œ®\n“Á’è‚Ì”à‚ğ‰ğù^ŠëŒ¯“x‚O“\nˆÚ“®’†‚Ì‚İg—p‰Â<$00>
-<$1D>^Key\n
-Unlocks a door^Risk: 0%\n
+<$1D>/Key\n
+Unlocks a door/Risk: 0%\n
 For trek use only<$00>
 
 
 //<$1D>^‚‹‰•i\n‹à‚¿‹C•ª\nˆÚ“®’†A‚½‚Ü‚É’­‚ß‚é<$00>
-<$1D>^Luxury item\n
+<$1D>/Luxury item\n
 Makes you feel rich\n
 No use, but still cool<$00>
 
 
 //<$1D>^‹Md•i\n‚È‚­‚·‚ÆŒã‰÷‚·‚é<$00>
-<$1D>^Valuables\n
+<$1D>/Valuables\n
 Better not lose this!<$00>
 
 
@@ -1324,19 +1324,19 @@ For delivery<$00>
 
 
 //<$1D>^’¿•i\nŒø‰Ê•s–¾\n<$1D><$00>
-<$1D>^Rare item\n
+<$1D>/Rare item\n
 Effects unknown\n
 <$1D><$00>
 
 
 //<$1D>^“®•¨‚Ì•³\nŒø‰Ê•s–¾^ŠëŒ¯“x•s–¾\n<$1D><$00>
 <$1D>/Animal feces\n
-Effects unknown^Risk: Unknown\n
+Effects unknown/Risk: Unknown\n
 <$1D><$00>
 
 
 //<$1D>^H—p“÷—Ş\n‚g‚o•½‹Ï<$1E>‰ñ•œ^ŠëŒ¯“x<$1E>“\nˆÚ“®Eí“¬’†g—p‰Â<$00>
-<$1D>^Meat\n
+<$1D>/Meat\n
 <$1E> avg HP recovery/Risk: <$1E>0%\n
 For trek+combat use<$00>
 
@@ -1351,7 +1351,7 @@ Weapon<$00>
 
 //<$1D>^<$1D>\nUŒ‚—Í<$1E>^‘Ï‹v—Í<$1E>\nˆÚ“®Eí“¬’†‘•”õ‰Â<$00>
 <$1D> / <$1D>\n
-ATK: <$1E>^END: <$1E>\n
+ATK: <$1E>/END: <$1E>\n
 Equippable in trek+combat<$00>
 
 
@@ -1369,7 +1369,7 @@ Headwear<$00>
 
 //<$1D>^<$1D>\nç”õ—Í<$1E>^‘Ï‹v—Í<$1E>\nˆÚ“®Eí“¬’†‘•”õ‰Â<$00>
 <$1D> / <$1D>\n
-DEF: <$1E>^END: <$1E>\n
+DEF: <$1E>/END: <$1E>\n
 Equippable in trek+combat<$00>
 
 
