@@ -71937,70 +71937,80 @@ Attack 1 foe (continuous)
 
 //0392_000000EF_bin\PROG.BIN
 //00006B9A
-<$15><$57>単体攻撃Ａ
+<$15><$57>
+//単体攻撃Ａ
 MeleeA
 <$00>
 
 
 //0392_000000EF_bin\PROG.BIN
 //00006B9A
-<$15><$57>単体攻撃Ｂ
+<$15><$57>
+//単体攻撃Ｂ
 MeleeB
 <$00>
 
 
 //0392_000000EF_bin\PROG.BIN
 //00006B9A
-<$15><$57>複数攻撃Ａ
+<$15><$57>
+//複数攻撃Ａ
 RangedＡ
 <$00>
 
 
 //0392_000000EF_bin\PROG.BIN
 //00006B9A
-<$15><$57>複数攻撃Ｂ
+<$15><$57>
+//複数攻撃Ｂ
 RangedB
 <$00>
 
 
 //0392_000000EF_bin\PROG.BIN
 //00006B9A
-<$15><$57>味方強化他
+<$15><$57>
+//味方強化他
 Buff
 <$00>
 
 
 //0392_000000EF_bin\PROG.BIN
 //00006B9A
-<$15><$57>攻撃補助
+<$15><$57>
+//攻撃補助
 Assist
 <$00>
 
 
 //0392_000000EF_bin\PROG.BIN
 //00006B9A
-<$15><$57>怪物能力
+<$15><$57>
+//怪物能力
 Creature
 <$00>
 
 
 //0392_000000EF_bin\PROG.BIN
 //00006B9A
-<$15><$57>人間能力
+<$15><$57>
+//人間能力
 Field
 <$00>
 
 
 //0392_000000EF_bin\PROG.BIN
 //00006B9A
-<$15><$57>複数攻撃
+<$15><$57>
+//複数攻撃
 Ranged
 <$00>
 
 
 //0392_000000EF_bin\PROG.BIN
 //00006B9A
-<$15><$57>自己防衛
+<$15><$57>
+//自己防衛
 Defense
 <$00>
 
@@ -72112,27 +72122,19 @@ Skills
 //00006B9A
 <$1D>
 //\n
-<$15><$53>
-//
-<$05><$1D><$1D><$02>
+<$15><$53><$05><$1D><$1D><$02>
 //122
 <$0E>
 // 
-<$15><$53>
-//
-<$05><$1D><$1D><$02>
+<$15><$53><$05><$1D><$1D><$02>
 //258
 <$0E>
 //\n
-<$15><$53>
-//
-<$05><$1D><$1D><$02>
+<$15><$53><$05><$1D><$1D><$02>
 //122
 <$0E>
 // 
-<$15><$53>
-//
-<$05><$1D><$1D><$02>
+<$15><$53><$05><$1D><$1D><$02>
 //258
 <$0E><$15><$57>\n
 <$00>
@@ -72999,18 +73001,18 @@ D-Pad: Select animal
 
 //0392_000000EF_bin\PROG.BIN
 //00007D53
-<$15>
-//b♂
-b♂
+<$15><$62>
+//♂
+♂
 <$14>
 <$00>
 
 
 //0392_000000EF_bin\PROG.BIN
 //00007D53
-<$15>
-//R♀
-R♀
+<$15><$52>
+//♀
+♀
 <$14>
 <$00>
 
@@ -73019,9 +73021,7 @@ R♀
 //00007D53
 <CLEAR>
 //
-<$15>
-//K
-K
+<$15><$4B>
 <$00>
 
 
@@ -73030,7 +73030,6 @@ K
 <CLEAR>
 //
 <$15><$57>
-
 <$00>
 
 
@@ -73216,7 +73215,8 @@ Ark
 
 //0392_000000EF_bin\PROG.BIN
 //00007D53
-<$15><$57>○ボタンで♂♀表示切り替え
+<$15><$57>
+//○ボタンで♂♀表示切り替え
 ○ button: View ♂/♀
 <$14>
 <$00>
@@ -73383,9 +73383,9 @@ Warden skill!
 //00007F01
 <CLEAR>
 //
-<$1C>
-//Cは　
-C is now LVL 
+<$1C><$43>
+//は　
+ is now LVL 
 <$06><$1E><$04>
 //レベルになった
 !
@@ -73463,9 +73463,9 @@ BP:
 //00007F01
 <CLEAR>
 //
-<$1C>
-//Cは　
-C is now LVL 
+<$1C><$43>
+//は　
+ is now LVL 
 <$06><$1E><$04>
 //レベルになった
 !
@@ -74184,9 +74184,9 @@ P\nwas prepared!
 //000101DF
 <CLEAR>
 //
-<$1C>
-//Cは\n気がついた∥
-C\ntook notice!
+<$1C><$43>
+//は\n気がついた∥
+\ntook notice!
 <$12>
 <$00>
 
@@ -74287,9 +74287,9 @@ No
 //00010355
 <CLEAR>
 //
-<$1C>
-//Cは　混乱している
-C\nis confused!
+<$1C><$43>
+//は　混乱している
+\nis confused!
 <$12>
 <$00>
 
@@ -74362,9 +74362,9 @@ Flee
 //0001036A
 <CLEAR>
 //
-<$1C>
-//Cは　まだ獣人化の\n能力を　身につけていないΨ
-C\ndoes not know\nMorph skills!
+<$1C><$43>
+//は　まだ獣人化の\n能力を　身につけていないΨ
+\ndoes not know\nMorph skills!
 <$00>
 
 
@@ -74631,9 +74631,9 @@ You can't flee\nwithout Linda!Ψ
 //0001036A
 <CLEAR>
 //
-<$1C>
-//Cは　まだ戦闘中の\n特殊能力を　身につけていないΨ
-C\ndoes not know\nspecial skills!
+<$1C><$43>
+//は　まだ戦闘中の\n特殊能力を　身につけていないΨ
+\ndoes not know\nspecial skills!
 <$00>
 
 
@@ -74912,9 +74912,9 @@ Snow
 <CLEAR>
 //\r
 \r
-<$1C>
-//Cは　
-C\nmorphed into\n
+<$1C><$43>
+//は　
+\nmorphed into\n
 <$1D>
 //に\n
 !
@@ -74932,9 +74932,9 @@ C\nmorphed into\n
 //0001036A
 <CLEAR>
 //
-<$1C>
-//C「Ｂモード解除∥」
-C:\n"B Mode, engage!"
+<$1C><$43>
+//「Ｂモード解除∥」
+:\n"B Mode, engage!"
 <$12>
 <$00>
 
@@ -74943,9 +74943,9 @@ C:\n"B Mode, engage!"
 //0001036A
 <CLEAR>
 //
-<$1C>
-//C「Ｂモード起動\n３、２、１、ＧＯ∥」
-C:\n"B Mode, engage!\n3! 2! 1! GO!"
+<$1C><$43>
+//「Ｂモード起動\n３、２、１、ＧＯ∥」
+:\n"B Mode, engage!\n3! 2! 1! GO!"
 <$12>
 <$00>
 
@@ -75201,9 +75201,9 @@ Enemy Turn %d %d
 //00010A1E
 <CLEAR>
 //
-<$1C>
-//Cは\nギ酸に　侵されている∥
-C\nwas irritated\nby the acid!
+<$1C><$43>
+//は\nギ酸に　侵されている∥
+\nwas irritated\nby the acid!
 <$12>
 <$00>
 
@@ -75212,8 +75212,8 @@ C\nwas irritated\nby the acid!
 //00010A1E
 <CLEAR>
 //
-<$1C>
-//Cは\n猛毒に冒され　ケイレンしている∥\n
+<$1C><$43>
+//は\n猛毒に冒され　ケイレンしている∥\n
 C\nretched due to poison.\nTook 
 <$06><$1E><$04>
 //のダメージ∥
@@ -75225,9 +75225,9 @@ C\nretched due to poison.\nTook
 //00010A1E
 <CLEAR>
 //
-<$1C>
-//Cは\n酸欠で　あえいでいる∥
-C\ngasped for air!
+<$1C><$43>
+//は\n酸欠で　あえいでいる∥
+\ngasped for air!
 <$12>
 <$00>
 
@@ -75236,9 +75236,9 @@ C\ngasped for air!
 //00010A1E
 <CLEAR>
 //
-<$1C>
-//Cは\n強酸に　侵されている∥
-C\nwas burned\nby the acid!
+<$1C><$43>
+//は\n強酸に　侵されている∥
+\nwas burned\nby the acid!
 <$12>
 <$00>
 
@@ -75247,9 +75247,9 @@ C\nwas burned\nby the acid!
 //00010A1E
 <CLEAR>
 //
-<$1C>
-//Cは\n自分の殻に　閉じこもっている∥
-C\nhid in its shell!
+<$1C><$43>
+//は\n自分の殻に　閉じこもっている∥
+\nhid in its shell!
 <$12>
 <$00>
 
@@ -75258,9 +75258,9 @@ C\nhid in its shell!
 //00010A1E
 <CLEAR>
 //
-<$1C>
-//Cは　動けない∥
-C\ncan't move!
+<$1C><$43>
+//は　動けない∥
+\ncan't move!
 <$12>
 <$00>
 
@@ -75269,9 +75269,9 @@ C\ncan't move!
 //00010A1E
 <CLEAR>
 //
-<$1C>
-//Cは　眠っている∥
-C\nis fast asleep!
+<$1C><$43>
+//は　眠っている∥
+\nis fast asleep!
 <$12>
 <$00>
 
@@ -75280,9 +75280,9 @@ C\nis fast asleep!
 //00010A1E
 <CLEAR>
 //
-<$1C>
-//Cは　失神している∥
-C\nfainted!
+<$1C><$43>
+//は　失神している∥
+\nfainted!
 <$12>
 <$00>
 
@@ -75291,9 +75291,9 @@ C\nfainted!
 //00010A1E
 <CLEAR>
 //
-<$1C>
-//Cは　
-C\nresisted 
+<$1C><$43>
+//は　
+\nresisted 
 <$1C><$41>
 //の\n
 's \n
@@ -75308,9 +75308,9 @@ a!
 //00010A1E
 <CLEAR>
 //
-<$1C>
-//Cは　
-C\ntrampled over 
+<$1C><$43>
+//は　
+\ntrampled over 
 <$1C>
 //wに\n踏みつけられている∥
 w!
@@ -75322,9 +75322,9 @@ w!
 //00010A1E
 <CLEAR>
 //
-<$1C>
-//Cは　
-C\nkept trampling over 
+<$1C><$43>
+//は　
+\nkept trampling over 
 <$1C>
 //wを\n踏みつけている∥
 w!
@@ -75336,9 +75336,9 @@ w!
 //00010A1E
 <CLEAR>
 //
-<$1C>
-//Cは　
-C\ngrabbed onto 
+<$1C><$43>
+//は　
+\ngrabbed onto 
 <$1C>
 //Wに\n抱かれている∥
 W!
@@ -75350,9 +75350,9 @@ W!
 //00010A1E
 <CLEAR>
 //
-<$1C>
-//Cは　
-C\nhugged onto 
+<$1C><$43>
+//は　
+\nhugged onto 
 <$1C>
 //Wに\n巻きつかれている∥
 W!
@@ -75364,9 +75364,9 @@ W!
 //00010A1E
 <CLEAR>
 //
-<$1C>
-//Cは　
-C\nshot electricity through 
+<$1C><$43>
+//は　
+\nshot electricity through 
 <$1C>
 //Wを\n抱きしめたまま　電撃を放つ∥
 W!
@@ -75378,9 +75378,9 @@ W!
 //00010A1E
 <CLEAR>
 //
-<$1C>
-//Cは　
-C\nused the hug to shock 
+<$1C><$43>
+//は　
+\nused the hug to shock 
 <$1C>
 //Wに\n巻きついたまま　電撃を放つ∥
 W!
@@ -75392,9 +75392,9 @@ W!
 //00010A1E
 <CLEAR>
 //
-<$1C>
-//Cは　
-C\ntightened their grip on 
+<$1C><$43>
+//は　
+\ntightened their grip on 
 <$1C>
 //Yに\nグイグイ、締め上げられている∥
 Y!
@@ -75406,9 +75406,9 @@ Y!
 //00010A1E
 <CLEAR>
 //
-<$1C>
-//Cは\n
-C's\n
+<$1C><$43>
+//は\n
+'s\n
 <$1C>
 //aをはずした∥
 a fell off!
@@ -75420,9 +75420,9 @@ a fell off!
 //00010A1E
 <CLEAR>
 //
-<$1C>
-//Cは　
-C\nconstricted 
+<$1C><$43>
+//は　
+\nconstricted 
 <$1C>
 //Yに\n締め上げられている∥
 Y!
@@ -75434,9 +75434,9 @@ Y!
 //00010A1E
 <CLEAR>
 //
-<$1C>
-//Cは　コブラツイストで\n
-C's cobra twist tortured\n
+<$1C><$43>
+//は　コブラツイストで\n
+'s cobra twist tortured\n
 <$1C>
 //Yを　いじめている∥
 Y!
@@ -75448,9 +75448,9 @@ Y!
 //00010A1E
 <CLEAR>
 //
-<$1C>
-//Cは　
-C\ntightened their grip on 
+<$1C><$43>
+//は　
+\ntightened their grip on 
 <$1C>
 //Yを\nグイグイ　締めている∥
 Y!
@@ -76943,9 +76943,9 @@ BP
 //00010D84
 <CLEAR>
 //
-<$1C>
-//Cの手のひらから\n閃光が走る∥
-C's palms flashed white!
+<$1C><$43>
+//の手のひらから\n閃光が走る∥
+'s palms flashed white!
 <$12>
 <$00>
 
