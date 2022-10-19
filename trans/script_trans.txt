@@ -2,9 +2,9 @@
 //00005BAF
 <CLEAR>
 //
-<$1C>
-//Aは\n遠くを　見ている…
-A\nstared into the distance.
+<$1C><$41>
+//は\n遠くを　見ている…
+\nstared into the distance.
 <$12>
 <$00>
 
@@ -13,9 +13,9 @@ A\nstared into the distance.
 //00005BAF
 <CLEAR>
 //
-<$1C>
-//Aは\n風の臭いに　おびえている…
-A\ntrembles at a smell in the air.
+<$1C><$41>
+//は\n風の臭いに　おびえている…
+\ntrembles at a smell in the air.
 <$12>
 <$00>
 
@@ -24,9 +24,9 @@ A\ntrembles at a smell in the air.
 //00005BAF
 <CLEAR>
 //
-<$1C>
-//Aは\n大きく　２度、鳴いた∥
-A\ncalled loudly 2 times!
+<$1C><$41>
+//は\n大きく　２度、鳴いた∥
+\ncalled loudly 2 times!
 <$12>
 <$00>
 
@@ -35,12 +35,12 @@ A\ncalled loudly 2 times!
 //00005BAF
 <CLEAR>
 //
-<$1C>
-//Aは　
-A\ndrooled at the sight of 
-<$1C>
-//Tを見て\nヨダレを　たらした∥
-T.
+<$1C><$41>
+//は　
+\ndrooled at the sight of 
+<$1C><$54>
+//を見て\nヨダレを　たらした∥
+.
 <$12>
 <$00>
 
@@ -70,9 +70,9 @@ T.
 //00005BAF
 <CLEAR>
 //
-<$1C>
-//Aは\n
-A\nsnorted 
+<$1C><$41>
+//は\n
+\nsnorted 
 <$1D>
 //度　鼻を鳴らした∥
  times!
@@ -84,9 +84,9 @@ A\nsnorted
 //00005BAF
 <CLEAR>
 //
-<$1C>
-//Aの攻撃∥\n全身から　高熱を発した∥\n赤熱ヒート∥
-A\nattacked with a burning inner heat!
+<$1C><$41>
+//の攻撃∥\n全身から　高熱を発した∥\n赤熱ヒート∥
+\nattacked with a burning inner heat!
 <$12>
 <$00>
 
@@ -95,9 +95,9 @@ A\nattacked with a burning inner heat!
 //00005BAF
 <CLEAR>
 //
-<$1C>
-//Aは\nガソリンを　浴びせた∥
-A\npoured gasoline all over themself!
+<$1C><$41>
+//は\nガソリンを　浴びせた∥
+\npoured gasoline all over themself!
 <$12>
 <$00>
 
@@ -106,9 +106,9 @@ A\npoured gasoline all over themself!
 //00005BAF
 <CLEAR>
 //
-<$1C>
-//Aの攻撃∥\n尿を　まきちらした
-A\nsprayed urine everywhere!
+<$1C><$41>
+//の攻撃∥\n尿を　まきちらした
+\nsprayed urine everywhere!
 <$12>
 <$00>
 
@@ -117,9 +117,9 @@ A\nsprayed urine everywhere!
 //00005BAF
 <CLEAR>
 //
-<$1C>
-//Aは\n
-A\ngrowled 
+<$1C><$41>
+//は\n
+\ngrowled 
 <$1D>
 //度　のどを鳴らした∥
  times!
@@ -131,12 +131,12 @@ A\ngrowled
 //00005BAF
 <CLEAR>
 //
-<$1C>
-//Aは\n
-A\nsprang over 
-<$1C>
-//Kを　飛び越えて\n反対側に　着地した∥
-K\nand landed on the other side!
+<$1C><$41>
+//は\n
+\nsprang over 
+<$1C><$4B>
+//を　飛び越えて\n反対側に　着地した∥
+\nand landed on the other side!
 <$00>
 
 
@@ -512,9 +512,9 @@ Ken threw the meat...
 //00006141
 <CLEAR>
 //
-<$15>
-//W○ボタンで肉を投げます
-W○ button: Throw meat
+<$15><$57>
+//○ボタンで肉を投げます
+○ button: Throw meat
 <$00>
 
 
@@ -549,9 +549,7 @@ You have reached the max amount of dogs you can own at one time.
 <CLEAR>
 //登録料　
 The adoption fee is over\n
-<$15>
-//b
-<$06><$1E><$04><$14>
+<$15><$62><$06><$1E><$04><$14>
 //￥が足りません\n銀行で　ご都合ください
 ￥.\nGet a loan from the bank.
 <$12>
@@ -600,9 +598,7 @@ No
 //96
 <$0E>
 //　
-<$15>
-//S
-<$1E>
+<$15><$53><$1E>
 //18
 <$14><$04><$02>
 //140
@@ -610,9 +606,7 @@ No
 //236
 <$0E>
 //　
-<$15>
-//S
-<$1E>
+<$15><$53><$1E>
 //18
 <$14>
 <$00>
@@ -639,35 +633,16 @@ No
  x
 <$1D>
 //ます\n
- \n
-<$06><$19>
-//1
-1
-<$01><$1A>
+<$06><$19><$31><$01><$1A>
 //01
-01
-<$0E><$15>
-//S
-S
-<$19>
-//0
-0
-<$04>
+<$0E><$15><$53><$19><$30><$04>
 ///
  / 
 <$14><$1E>
 //034
-034
-<$15>
-//S
-S
-<$1D><$14><$02>
+<$15><$53><$1D><$14><$02>
 //112
-112
-<$19>
-//2
-2
-<$1E>
+<$19><$32><$1E>
 //40
 40
 <$19>
@@ -726,10 +701,7 @@ SELECT: Details
 
 //0000_0000072A_bin\PROG.BIN
 //000064EF
-<$04><$16><$15>
-//W
-W
-<$01><$1D><$02>
+<$04><$16><$15><$57><$01><$1D><$02>
 //116
 116
 <$0E><$02>
@@ -869,11 +841,7 @@ You don't have the animals!
 //000064EF
 <CLEAR>
 //加工料金 
-You can't afford the \n
-<$15>
-//b
-b
-<$06><$1E><$04><$14>
+<$15><$62><$06><$1E><$04><$14>
 //￥\nが足りません
 ￥ fee!
 <$12>
@@ -936,10 +904,7 @@ Begin camping!
 
 //0000_0000072A_bin\PROG.BIN
 //000064EF
-<$15>
-//W
-W
-<$1D><$02>
+<$15><$57><$1D><$02>
 //50
 <$01><$1D>
 //寝 る 
@@ -956,10 +921,7 @@ Watch
 
 //0000_0000072A_bin\PROG.BIN
 //000064EF
-<$15>
-//W
-W
-<$01>
+<$15><$57><$01>
 //野営開始
 Okay!
 <$0E>
@@ -1267,17 +1229,13 @@ Ken made a Handy Trap!
 
 //0000_0000072A_bin\PROG.BIN
 //000064EF
-<$15>
-//R
-R
+<$15><$52>
 <$00>
 
 
 //0000_0000072A_bin\PROG.BIN
 //000064EF
-<$15>
-//Y
-Y
+<$15><$59>
 <$00>
 
 
@@ -3796,10 +3754,10 @@ Linda lives in Minago, Q
 <$04>
 //だ\n
 .\nWatch out for 
-//<$1B>
+<$1B> 
 //ダチョウや
 ostriches and 
-//<$1B>
+<$1B> 
 //リスに　注意しながら\n東の川を　渡っていきな
 squirrels on the way!
 <$12>
@@ -4088,11 +4046,12 @@ had to go back.
 //000038D7
 <CLEAR>
 //
-<$19>
-//1
-<$15>
-//S<CLEAR>「
-SKen acquired 
+<$19><$31>
+//
+<$15><$53>
+<CLEAR>
+//「
+Ken acquired 
 <$1D>
 //」を　手に入れた∥
 !
@@ -4344,11 +4303,11 @@ Which'll be more useful down the line, the freezer or the crisper?
 //00003D02
 <CLEAR>
 //
-<$19>
-//1
-<$15>
-//Sダイヤの指輪がある
-SIt's a Diamond Ring.
+<$19><$31>
+//
+<$15><$53>
+//ダイヤの指輪がある
+It's a Diamond Ring.
 <$14><$12>
 <$00>
 
@@ -4593,19 +4552,20 @@ IN TURN, THE FEMALE PILOT PUTS HER LEFT HAND ON THE LEFT PANEL BY THE DOOR...
 //000056E3
 <CLEAR>
 //
-<$19>
-//1
-<$15>
-//Sケンは右手を　押しつけた
-SKen pressed his right hand down...
+<$19><$31>
+//
+<$15><$53>
+//ケンは右手を　押しつけた
+Ken pressed his right hand down...
 <$14><$12>
 \n<CLEAR>
 //
-<$19>
-//1
-<$15>
-//S<CLEAR>しかし何もおこらなかった
-S<CLEAR>...but nothing happened.
+<$19><$31>
+//
+<$15><$53>
+<CLEAR>
+//しかし何もおこらなかった
+<CLEAR>...but nothing happened.
 <$14><$12>
 <$00>
 
@@ -75506,28 +75466,22 @@ SHP
 018
 <$05>
 //\n
-\n
-<$15>
-//Sγ
-Sγ
+<$15><$53>
+//γ
 <$14><$1E>
 //019
 019
 <$05>
 // 
- 
-<$15>
-//Sζ
-Sζ
+<$15><$53>
+//ζ
 <$14><$1E>
 //019
 019
 <$05>
 // 
- 
-<$15>
-//Sκ
-Sκ
+<$15><$53>
+//κ
 <$14><$1E>
 //019
 019
@@ -77698,9 +77652,9 @@ D\nstopped resisting.
 //000121F9
 <CLEAR>
 //
-<$1C>
-//Tの身体は　少しほてった
-T struggled to breathe.
+<$1C><$54>
+//の身体は　少しほてった
+ struggled to breathe.
 <$12>
 <$00>
 
@@ -77709,9 +77663,9 @@ T struggled to breathe.
 //000121F9
 <CLEAR>
 //
-<$1C>
-//Tの呼吸が　荒くなった
-T's eyes wettened.
+<$1C><$54>
+//の呼吸が　荒くなった
+'s eyes wettened.
 <$12>
 <$00>
 
@@ -77720,9 +77674,9 @@ T's eyes wettened.
 //000121F9
 <CLEAR>
 //
-<$1C>
-//Tは　瞳をうるませた
-T sighed in dismay.
+<$1C><$54>
+//は　瞳をうるませた
+ sighed in dismay.
 <$12>
 <$00>
 
@@ -77731,9 +77685,9 @@ T sighed in dismay.
 //000121F9
 <CLEAR>
 //
-<$1C>
-//Tは　せつない溜息をついた
-T sighed deeply.
+<$1C><$54>
+//は　せつない溜息をついた
+ sighed deeply.
 <$12>
 <$00>
 
@@ -77742,9 +77696,9 @@ T sighed deeply.
 //000121F9
 <CLEAR>
 //
-<$1C>
-//Tは　モジモジした
-T fidgeted.
+<$1C><$54>
+//は　モジモジした
+ fidgeted.
 <$12>
 <$00>
 
@@ -77753,9 +77707,9 @@ T fidgeted.
 //000121F9
 <CLEAR>
 //
-<$1C>
-//Tは　戦う力を\nとりもどした
-T\nfound the strength to fight!
+<$1C><$54>
+//は　戦う力を\nとりもどした
+\nfound the strength to fight!
 <$12>
 <$00>
 
@@ -77764,9 +77718,9 @@ T\nfound the strength to fight!
 //000121F9
 <CLEAR>
 //
-<$1C>
-//Tは　身体が\nしびれてしまった
-T's body went numb.
+<$1C><$54>
+//は　身体が\nしびれてしまった
+'s body went numb.
 <$12>
 <$00>
 
@@ -77887,9 +77841,9 @@ Hunger
 //000122B6
 <CLEAR>
 //
-<$1C>
-//Cの「
-C's 
+<$1C><$43>
+//の「
+'s 
 <$1D>
 //」解除
  lifted!
@@ -77927,9 +77881,9 @@ C's
 //000122B6
 <CLEAR>
 //
-<$1C>
-//Cの行動
-C's action
+<$1C><$43>
+//の行動
+'s action
 <$00>
 
 
@@ -77943,9 +77897,7 @@ C's action
 <$1E>
 //=
 =
-<$04><$1C>
-//T
-T
+<$04><$1C><$54>
 <$00>
 
 
@@ -77953,9 +77905,7 @@ T
 //000122B6
 //\n集中ターゲット＝
 \nFocused target＝
-<$1C>
-//T
-T
+<$1C><$54>
 <$00>
 
 
@@ -78057,8 +78007,7 @@ Normal Attack
 //000122B6
 //\n猟犬ターゲット＝
 \nDog target=
-<$1C>
-//T
+<$1C><$54>
 <$00>
 
 
@@ -78618,18 +78567,16 @@ Bird cry
 Bird sound
 <$0E>
 //　
-<$01><$15>
-//b元気な犬    
-bFine dog
+<$01><$15><$62>
+//元気な犬    
+Fine dog
 <$0E>
 //\n
 \n
 <$01>
 //負傷犬     
 Hurt dog
-<$15>
-//W
-<$0E>
+<$15><$57><$0E>
 //　
 <$01>
 //ワナを仕掛ける 
@@ -78642,12 +78589,10 @@ Trap set
 Bubble pop
 <$0E>
 //　
-<$01><$15>
-//b心臓の鼓動   
-bHeartbeat
-<$15>
-//W
-<$0E>
+<$01><$15><$62>
+//心臓の鼓動   
+Heartbeat
+<$15><$57><$0E>
 <$00>
 
 
@@ -78660,12 +78605,10 @@ bHeartbeat
 Unlock
 <$0E>
 //　
-<$01><$15>
-//bエスカレーター 
+<$01><$15><$62>
+//エスカレーター 
 bEscalator
-<$15>
-//W
-<$0E>
+<$15><$57><$0E>
 //\n
 \n
 <$01>
@@ -78680,16 +78623,14 @@ Light vacuum
 //\n
 \n
 <$01><$15>
-//b放電音１    
-bDischarge 1
+//放電音１    
+Discharge 1
 <$0E>
 //　
 <$01>
 //放電音２    
 Discharge 2
-<$15>
-//W
-<$0E>
+<$15><$57><$0E>
 //\n
 \n
 <$01>
@@ -79394,9 +79335,9 @@ Set numbers:\n
 //0394_000001C6_bin\PROG.BIN
 //000070CD
 //
-<$15>
-//Y万 屋/買 う
-YItems/Buy
+<$15><$59>
+//万 屋/買 う
+Items/Buy
 <$00>
 
 
@@ -80514,9 +80455,9 @@ Attack
 //000070CD
 <CLEAR>
 //
-<$15>
-//Wワープ設定\n
-WWarp Select:\n
+<$15><$57>
+//ワープ設定\n
+Warp Select:\n
 <$05><$01><$1D>
 //トア
 TO-A
@@ -92623,16 +92564,13 @@ All-0
 
 //0396_00000212_bin\PROG.BIN
 //0000584B
-<$01><$19><$1E><$1D><$1D><$19>
-//0
-<$02><$1E><$0E>
+<$01><$19><$1E><$1D><$1D><$19><$30><$02><$1E><$0E>
 <$00>
 
 
 //0396_00000212_bin\PROG.BIN
 //0000584B
-<$19><$1E><$1D><$1D><$19>
-//0
+<$19><$1E><$1D><$1D><$19><$30>
 <$00>
 
 
