@@ -1289,7 +1289,8 @@ AMD
 
 //0000_0000072A_bin\PROG.BIN
 //000064EF
-<$15><$57>\n捕獲目標
+<$15><$57>
+//\n捕獲目標
 \nAstro Ark 
 <$08>
 //4残り
@@ -4029,8 +4030,9 @@ Ken found the
 <$19><$31>
 //
 <$15><$53>
-//<CLEAR>だが、道具袋が一杯なので\n「
-<CLEAR>Sadly, the item bag was full, so the 
+<CLEAR>
+//だが、道具袋が一杯なので\n「
+Sadly, the item bag was full, so the 
 <$1D>
 //」を\nとりあえず　あきらめた…
 had to go back.
@@ -8735,8 +8737,9 @@ Gosh, I don't know what to say. I'd only picked this up, but I hope it works as 
 <$19><$31>
 //
 <$15><$53>
-//<CLEAR>ケンは　
-<CLEAR>Ken took\n
+<CLEAR>
+//ケンは　
+Ken took\n
 <$1D>
 //を手に入れた∥
 !
@@ -10111,65 +10114,49 @@ pigs.
 <CLEAR>
 //どれを引き取るんだい\n
 What will you pick up?\n
-<$01><$1D><$1D><$15><$57>
-
-<$02>
+<$01><$1D><$1D><$15><$57><$02>
 //56
 56
 <$0E>
 ///
  / 
-<$01><$1D><$1D><$15><$57>
-
-<$02>
+<$01><$1D><$1D><$15><$57><$02>
 //126
 126
 <$0E>
 ///
  / 
-<$01><$1D><$1D><$15><$57>
-
-<$02>
+<$01><$1D><$1D><$15><$57><$02>
 //196
 196
 <$0E>
 ///
  / 
-<$01><$1D><$1D><$15><$57>
-
-<$02>
+<$01><$1D><$1D><$15><$57><$02>
 //266
 266
 <$0E>
 //\n
 \n
-<$01><$1D><$1D><$15><$57>
-
-<$02>
+<$01><$1D><$1D><$15><$57><$02>
 //56
 56
 <$0E>
 ///
  / 
-<$01><$1D><$1D><$15><$57>
-
-<$02>
+<$01><$1D><$1D><$15><$57><$02>
 //126
 126
 <$0E>
 ///
  / 
-<$01><$1D><$1D><$15><$57>
-
-<$02>
+<$01><$1D><$1D><$15><$57><$02>
 //196
 196
 <$0E>
 ///
  / 
-<$01><$1D><$1D><$15><$57>
-
-<$02>
+<$01><$1D><$1D><$15><$57><$02>
 //266
 266
 <$0E>
@@ -13355,8 +13342,9 @@ No
 <$19><$31>
 //
 <$15><$53>
-//<CLEAR>ケンは「
-<CLEAR>Ken received\n
+<CLEAR>
+//ケンは「
+Ken received\n
 <$1D>
 //」を\n受け取った！
 !
@@ -13849,9 +13837,8 @@ Silver
 <CLEAR>
 //
 <$19><$31>
-<$15><$53>
 //
-<$1D>
+<$15><$53><$1D>
 //台座に　「
 A 
 <$1D>
@@ -14811,8 +14798,9 @@ No
 <$19><$31>
 //
 <$15><$53>
-//<CLEAR>ケンは　１￥を\n泉に投げ入れた！
-<CLEAR>Ken tossed １￥ into the fountain!
+<CLEAR>
+//ケンは　１￥を\n泉に投げ入れた！
+Ken tossed １￥ into the fountain!
 <$14><$12>
 <$00>
 
@@ -14824,8 +14812,9 @@ No
 <$19><$31>
 //
 <$15><$53>
-//<CLEAR>ケンは　お金を投げるフリをした
-<CLEAR>Ken pretended to toss a coin.
+<CLEAR>
+//ケンは　お金を投げるフリをした
+Ken pretended to toss a coin.
 <$12>
 <$00>
 
@@ -17473,8 +17462,9 @@ No matter how rare a species is, or what Class A protections it may or may not h
 <$19><$31>
 //
 <$15><$53>
-//<CLEAR>ケンは　
-<CLEAR>Ken took\n
+<CLEAR>
+//ケンは　
+Ken took\n
 <$1E>
 //￥を\n手に入れた∥
 ￥!
@@ -20891,8 +20881,9 @@ Look at this\n
 //
 <$19><$31>
 <$15><$53>
-//<CLEAR>ケンは「
-<CLEAR>Ken took\n
+<CLEAR>
+//ケンは「
+Ken took\n
 <$1D>
 //」を\n手にいれた∥
 !
@@ -20919,8 +20910,9 @@ Look at the\n
 <$19><$31>
 //
 <$15><$53>
-//<CLEAR>ケンは　
-<CLEAR>Ken took\n
+<CLEAR>
+//ケンは　
+Ken took\n
 <$06><$1E><$04>
 //￥を\n手にいれた∥
 ￥!
@@ -24697,10 +24689,7 @@ Which dog shall I look at?
 //00002126
 <CLEAR>
 //
-<$15>
-//b
-b
-<$06><$1E><$04><$14>
+<$15><$62><$06><$1E><$04><$14>
 //￥の見料も　持ち合わせぬ\n飼い主のもとでは　どんな犬も\n「お先、真っ暗∥」に決まっとるわ
 ￥ is too much? You wouldn't need to ask me. Your dogs' futures were already dark!
 <$12>
@@ -26218,7 +26207,7 @@ Animal・Equipment・Ripper
 //0073_000051F2_bin\PROG.BIN
 //00003C41
 <CLEAR>
-//町の中では　お金は最大の武器ですが\n一歩、外へ出ると
+//町の中では　お金は最大の武器ですが\n一歩、外へ出ると　
 Money is man's greatest weapon, but in the wild, 
 <$06>
 //100
@@ -26522,8 +26511,9 @@ Please make space in your item bag. We'll work with you once you're ready.
 //
 <$19><$31>
 <$15><$53>
-//<CLEAR>ケンは「貸しワナ」を受け取った
-<CLEAR>Ken received\nthe Rental Trap!
+<CLEAR>
+//ケンは「貸しワナ」を受け取った
+Ken received\nthe Rental Trap!
 <$14><$12>
 <$00>
 
@@ -27162,7 +27152,7 @@ x\nBid:
 //￥　
 ￥
 <$1D>
-//\nケン所持金
+//\nケン所持金　
 \nKen: 
 <$1E>
 //40￥
@@ -27178,12 +27168,7 @@ x\nBid:
 200
 <$03>
 //0
-0
-<$19><$31>
-<$06><$1E><$19>
-//0
-0
-<$04>
+<$19><$31><$06><$1E><$19><$30><$04>
 <$00>
 
 
@@ -27658,8 +27643,7 @@ Like its name implies, a dog is as good as dinner to those nasty plants.
 //0078_000052BB_bin\PROG.BIN
 //0000470C
 //
-<$15><$59>
-<$06>
+<$15><$59><$06>
 //バードライン/
 Birdline / 
 <$1D>
@@ -28203,8 +28187,7 @@ Not now
 //0078_000052BB_bin\PROG.BIN
 //0000470C
 //
-<$15><$59>
-<$06>
+<$15><$59><$06>
 //バードライン
 Birdline
 <$04>
@@ -28379,7 +28362,8 @@ DESTINATION
 <$19><$31>
 //
 <$15><$53>
-//<CLEAR>・・・・・・・・・・・・∥∥∥
+<CLEAR>
+//・・・・・・・・・・・・∥∥∥
 <CLEAR>.........!
 <$14><$12>
 <$00>
@@ -28388,8 +28372,7 @@ DESTINATION
 //0078_000052BB_bin\PROG.BIN
 //0000470C
 //
-<$15><$59>
- <$06>
+<$15><$59><$06>
 //トランクルーム
 Storage
 <$00>
@@ -28440,8 +28423,7 @@ The ability to access your items from any town speaks for our world's unmatched 
 //0078_000052BB_bin\PROG.BIN
 //0000470C
 //
-<$15><$59>
-<$06>
+<$15><$59><$06>
 //トランクルームメニュー
 Storage Menu
 <$00>
@@ -28509,8 +28491,7 @@ Exit
 //0078_000052BB_bin\PROG.BIN
 //0000470C
 //
-<$15><$59>
-<$06>
+<$15><$59><$06>
 //トランクルーム
 Storage
 <$04>
@@ -28533,8 +28514,7 @@ Storage
 //0078_000052BB_bin\PROG.BIN
 //0000470C
 //
-<$15><$59>
-<$06>
+<$15><$59><$06>
 //トランクルーム
 Storage
 <$04>
@@ -29224,8 +29204,9 @@ And now, here is a
 //
 <$19><$31>
 <$15><$53>
-//<CLEAR>ケンは「
-<CLEAR>Ken received the 
+<CLEAR>
+//ケンは「
+Ken received the 
 <$1D>
 //」を\n受け取った
 !
@@ -30022,65 +30003,49 @@ You left no animals in our care.
 <CLEAR>
 //どれを引き取りますか？\n
 What are you taking?\n
-<$01><$1D><$1D><$15><$57>
-
-<$02>
+<$01><$1D><$1D><$15><$57><$02>
 //56
 56
 <$0E>
 ///
  / 
-<$01><$1D><$1D><$15><$57>
-
-<$02>
+<$01><$1D><$1D><$15><$57><$02>
 //126
 126
 <$0E>
 ///
  / 
-<$01><$1D><$1D><$15><$57>
-
-<$02>
+<$01><$1D><$1D><$15><$57><$02>
 //196
 196
 <$0E>
 ///
  / 
-<$01><$1D><$1D><$15><$57>
-
-<$02>
+<$01><$1D><$1D><$15><$57><$02>
 //266
 266
 <$0E>
 //\n
 \n
-<$01><$1D><$1D><$15><$57>
-
-<$02>
+<$01><$1D><$1D><$15><$57><$02>
 //56
 56
 <$0E>
 ///
  / 
-<$01><$1D><$1D><$15><$57>
-
-<$02>
+<$01><$1D><$1D><$15><$57><$02>
 //126
 126
 <$0E>
 ///
  / 
-<$01><$1D><$1D><$15><$57>
-
-<$02>
+<$01><$1D><$1D><$15><$57><$02>
 //196
 196
 <$0E>
 ///
  / 
-<$01><$1D><$1D><$15><$57>
-
-<$02>
+<$01><$1D><$1D><$15><$57><$02>
 //266
 266
 <$0E>
@@ -30212,8 +30177,9 @@ Hehehe, my kids are going to be so proud of me.\n"Wow Dad, you're the greatest!"
 //
 <$19><$31>
 <$15><$53>
-//<CLEAR>ケンは、「
-<CLEAR>Ken sold the 
+<CLEAR>
+//ケンは、「
+Ken sold the 
 <$1D>
 //」を渡して\n
  for\n
@@ -31706,8 +31672,9 @@ Simply marvelous!
 //0093_00005BBB_bin\PROG.BIN
 //000044ED
 <CLEAR>
-//<CLEAR>それで　私に何のご用かしら？\n有名人の頼みですもの\nたいていのことは　ＯＫよ
-<CLEAR>Now, how can I help you? With your celebrity, (almost)anything goes.
+<CLEAR>
+//それで　私に何のご用かしら？\n有名人の頼みですもの\nたいていのことは　ＯＫよ
+Now, how can I help you? With your celebrity, (almost)anything goes.
 <$00>
 
 
@@ -36164,8 +36131,7 @@ Okay, Ken! I'm ready to open the door with you!
 //0146_00003734_bin\PROG.BIN
 //00005834
 <CLEAR>
-//じゃ　１、２の３で　壁の\nパネルに　手をつけるのよ！\nいくわよ！　１、２の
-３！
+//じゃ　１、２の３で　壁の\nパネルに　手をつけるのよ！\nいくわよ！　１、２の３！
 Touch your panel on the count of three! Here goes. 1! 2! 3!
 <$00>
 
@@ -39789,8 +39755,7 @@ Z
 <$15><$59>
 //［
 ［
-<$15><$57>
-<$1D><$15><$59>
+<$15><$57><$1D><$15><$59>
 //］
 ］
 <$00>
@@ -40616,7 +40581,7 @@ Better write this down:
 //0165_00004268_bin\PROG.BIN
 //00003C0E
 <CLEAR>
-//あの辺は
+//あの辺は　
 The animals there are all LVL 
 <$06>
 //15
@@ -42184,7 +42149,7 @@ My friend's mom and big sister\nboth showed me!
 
 //0175_00004A93_bin\PROG.BIN
 //000014A6
-//ビースチャンの女性が　一生に産む\n子供の数って　この少子時代に\n平均して
+//ビースチャンの女性が　一生に産む\n子供の数って　この少子時代に\n平均して　
 They say Beastian women give birth to an average of 
 <$06>
 //5.8
@@ -44068,7 +44033,7 @@ Does it hurt? Does it kill you inside? Well, YOU made my Sachiko feel even WORSE
 //0180_00004BC1_bin\PROG.BIN
 //00004D1D
 <CLEAR>
-//さぁ次は　ダンスのお相手を\n紹介しようじゃないか
+//さぁ次は　ダンスのお相手を\n紹介しようじゃないか！
 Maybe a few dance partners will make you feel better.！
 <$00>
 
@@ -47002,10 +46967,7 @@ No
 //00005FCE
 <CLEAR>
 //
-<$15>
-//b
-b
-<$06><$1E><$04><$14>
+<$15><$62><$06><$1E><$04><$14>
 //￥も　ねぇのかよ…\n
 ￥ is a no-go?\nMaybe you should sell 
 <$1D>
@@ -47442,8 +47404,9 @@ No
 <$19><$31>
 //
 <$15><$53>
-//<CLEAR>ケンは　賞金
-<CLEAR>Ken received\n
+<CLEAR>
+//ケンは　賞金
+Ken received\n
 <$06><$1E><$04>
 //￥を\n受け取った∥
 ￥ in winnings!
@@ -47507,7 +47470,8 @@ Keep old name
 //0196_00006186_bin\PROG.BIN
 //00005FCE
 <$19><$31>
-//<CLEAR>第
+<CLEAR>
+//第
 <CLEAR>Give it 
 <$1E>
 //2代目「
@@ -47895,9 +47859,9 @@ Ken found the Lab Key!
 //
 <$19><$31>
 <$15><$53>
-//<CLEAR>だが、道具袋がいっぱいなので\n「研究室の鍵」を\nとりあえず　あきら
-めた…
-SHis item bag was too full,\nso he had to put the Lab Key back.
+<CLEAR>
+//だが、道具袋がいっぱいなので\n「研究室の鍵」を\nとりあえず　あきらめた…
+His item bag was too full,\nso he had to put the Lab Key back.
 <$14><$12>
 <$00>
 
@@ -49587,10 +49551,7 @@ I see, that's too bad. It means she gets to hang out with me a little longer, I 
 //00000A83
 <CLEAR>
 //
-<$15>
-//b
-b
-<$06>
+<$15><$62><$06>
 //100
 100
 <$04><$14>
@@ -56736,7 +56697,8 @@ At least you're honest! Now, this is no magic, but here's another trick of the t
 //
 <$19><$31>
 <$15><$53>
-//<CLEAR>リンダは　植物の種類を見わける\n「植物鑑定」の能力を\nフローラから　習得した∥
+<CLEAR>
+//リンダは　植物の種類を見わける\n「植物鑑定」の能力を\nフローラから　習得した∥
 <CLEAR>Linda learned the\nBotanist skill from Dr. Flora!
 <$14><$12>
 <$00>
@@ -57265,8 +57227,9 @@ th customer, which means you win a fantastic prize!
 //
 <$19><$31>
 <$15><$53>
-//<CLEAR>ケンは「
-<CLEAR>Ken received the 
+<CLEAR>
+//ケンは「
+Ken received the 
 <$1D>
 //」と\n「
  and the 
@@ -58323,7 +58286,8 @@ How's about a special skill to remember me by?
 //
 <$19><$31>
 <$15><$53>
-//<CLEAR>リンダは　動物をおびき寄せる\n「鳴きマネ」の能力を\nモレクから　習得した∥
+<CLEAR>
+//リンダは　動物をおびき寄せる\n「鳴きマネ」の能力を\nモレクから　習得した∥
 <CLEAR>Linda learned the\nCatcaller skill!
 <$14><$12>
 <$00>
@@ -60134,7 +60098,7 @@ Ken, allow me to teach you a skill that will help you hide from animals.
 //
 <$15><$53>
 //ケンは　動物から姿を隠す\n「迷彩」の能力を\nポリスカから　習得した∥
-<CLEAR>Ken learned the\nMasker skill from Poliska!
+Ken learned the\nMasker skill from Poliska!
 <$14><$12>
 <$00>
 
@@ -61146,8 +61110,9 @@ Ken inspected the roots of the sakura tree...
 <$19><$31>
 //
 <$15><$53>
-//<CLEAR>ケンは、「大判小判」を発見した
-<CLEAR>Ken dug up the Vintage Coin!
+<CLEAR>
+//ケンは、「大判小判」を発見した
+Ken dug up the Vintage Coin!
 <$14><$12>
 <$00>
 
@@ -61158,7 +61123,8 @@ Ken inspected the roots of the sakura tree...
 //
 <$19><$31>
 <$15><$53>
-//<CLEAR>しかし、何も発見出来なかった
+<CLEAR>
+//しかし、何も発見出来なかった
 <CLEAR>...but he didn't find anything.
 <$14><$12>
 <$00>
@@ -61557,10 +61523,8 @@ It'd be swell if something bloomed by next spring.
 <CLEAR>
 //
 <$19><$31>
-<$15><$53>
 //
-S
-<$1D>
+<$15><$53><$1D>
 //を見つけた
  was found!
 <$14><$12>
@@ -61587,8 +61551,9 @@ Alas, the item bag was full.
 <$19><$31>
 //
 <$15><$53>
-//<CLEAR>ケンは　「
-S<Clear>Ken took\n
+<CLEAR>
+//ケンは　「
+Ken took\n
 <$1D>
 //」を手に入れた
 !
@@ -61920,7 +61885,7 @@ sea lions
 //Ｇファクトリーの近くの　海岸に\n
 On the coast near G Factory in\n
 <$1D>
-//の間だけ
+//の間だけ　
 , 
 <$1D>
 //が上陸してくるわ\n捕まえるなら　その時がチャンスよ！
@@ -62646,7 +62611,7 @@ Swallows are cautious, and don't like coming on land. It's almost bad for our bu
 Swallows are cautious creatures, and don't like to travel over land.
 <$12>
 \n<CLEAR>
-//ほら、あそこ！　見える￠水の上で　固まっちゃってんでしょ？\nあれが
+//ほら、あそこ！　見える￠水の上で　固まっちゃってんでしょ？\nあれが　
 Look hard enough, though, and you'll see 
 <$1B>
 //ツバメの群れよ
@@ -65243,9 +65208,9 @@ Fake Scorpion
 //00008443
 //にせサソリ
 Fake Scorpion
-<$15>
-//R♀
-R♀
+<$15><$52>
+//♀
+♀
 <$14>
 <$00>
 
@@ -67006,8 +66971,9 @@ Adamarde
 <$19><$31>
 //
 <$15><$53>
-//<CLEAR>ケンは　
-<CLEAR>Ken absorbed\n
+<CLEAR>
+//ケンは　
+Ken absorbed\n
 <$1D>
 //を　吸収した∥
 !
@@ -67106,7 +67072,8 @@ Adamar
 //
 <$19><$31>
 <$15><$53>
-//<CLEAR>リンダは　
+<CLEAR>
+//リンダは　
 <CLEAR>Linda absorbed\n
 <$1D>
 //を　吸収した∥
@@ -73258,7 +73225,8 @@ Ark
 //0392_000000EF_bin\PROG.BIN
 //00007F01
 <$19><$31>
-//<CLEAR>
+<CLEAR>
+//
 <$1D>
 //は　野外で体力を\n回復する「野営」の\n能力を　身につけた∥
  learned the Camp skill!
@@ -73269,7 +73237,8 @@ Ark
 //0392_000000EF_bin\PROG.BIN
 //00007F01
 <$19><$31>
-//<CLEAR>
+<CLEAR>
+//
 <$1D>
 //は　野営中に\n動物から　食料を自分で作る\n「食料加工」の能力を　身につけた∥
  learned the Butcher skill!
@@ -73280,7 +73249,8 @@ Ark
 //0392_000000EF_bin\PROG.BIN
 //00007F01
 <$19><$31>
-//<CLEAR>
+<CLEAR>
+//
 <$1D>
 //は　野営中に\n動物から　装備を自分で作る\n「装備加工」の能力を　身につけた∥
  learned the Forger skill!
@@ -73291,7 +73261,8 @@ Ark
 //0392_000000EF_bin\PROG.BIN
 //00007F01
 <$19><$31>
-//<CLEAR>
+<CLEAR>
+//
 <$1D>
 //は　道具や動物の\n値段を見抜く「値踏み」の\n能力を　身につけた∥
  learned the Appraiser skill!
@@ -73302,7 +73273,8 @@ Ark
 //0392_000000EF_bin\PROG.BIN
 //00007F01
 <$19><$31>
-//<CLEAR>
+<CLEAR>
+//
 <$1D>
 //は　夜襲を受けても\nすぐ目が覚める「飛び起き」の\n能力を　身につけた∥
  learned the Night Owl skill!
@@ -73313,7 +73285,8 @@ Ark
 //0392_000000EF_bin\PROG.BIN
 //00007F01
 <$19><$31>
-//<CLEAR>
+<CLEAR>
+//
 <$1D>
 //は　何を食べても\nゼンゼン平気な「鉄の胃袋」の\n能力を　身につけた∥
  learned the Glutton skill!
@@ -73324,7 +73297,8 @@ Ark
 //0392_000000EF_bin\PROG.BIN
 //00007F01
 <$19><$31>
-//<CLEAR>
+<CLEAR>
+//
 <$1D>
 //は　動物の臭いを\nかぎわける「
  learned the 
@@ -73338,7 +73312,8 @@ Bloodhound skill!
 //0392_000000EF_bin\PROG.BIN
 //00007F01
 <$19><$31>
-//<CLEAR>
+<CLEAR>
+//
 <$1D>
  learned the 
 //は　何の根拠もない\n「女の勘」の能力を\n身につけて　強気になった∥
@@ -73350,7 +73325,8 @@ Perceiver skill!
 //0392_000000EF_bin\PROG.BIN
 //00007F01
 <$19><$31>
-//<CLEAR>
+<CLEAR>
+//
 <$1D>
  learned the 
 //は　野営中に\n動物捕獲用のワナを　自分で作る\n「ワナ製作」の能力を　身につけた∥
@@ -73362,7 +73338,8 @@ Trapper skill!
 //0392_000000EF_bin\PROG.BIN
 //00007F01
 <$19><$31>
-//<CLEAR>
+<CLEAR>
+//
 <$1D>
 //は　野営中に　
  learned the 
@@ -73376,7 +73353,8 @@ Warden skill!
 //0392_000000EF_bin\PROG.BIN
 //00007F01
 <$19><$31>
-//<CLEAR>
+<CLEAR>
+//
 <$1D>
 //は　戦闘中の能力\n「
  learned 
@@ -73455,7 +73433,8 @@ BP:
 //0392_000000EF_bin\PROG.BIN
 //00007F01
 <$19><$31>
-//<CLEAR>
+<CLEAR>
+//
 <CLEAR>
 <$1D>
 //の　戦闘中の能力\n「お色気アタック」に\nさらに　みがきがかかった！
@@ -73467,7 +73446,8 @@ BP:
 //0392_000000EF_bin\PROG.BIN
 //00007F01
 <$19><$31>
-//<CLEAR>
+<CLEAR>
+//
 <CLEAR>
 <$1D>
 //の「ビシバシ調教」は\n
