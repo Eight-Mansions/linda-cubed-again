@@ -9,7 +9,7 @@
 // Ptr: 0008F278
 #WRITE(PTR, $0008F380)
 //<CLR_ON>b武器装備なし<CLR_OFF>
-None
+<CLR_ON>bNone<CLR_OFF>
 <$00>
 
 
@@ -47,7 +47,7 @@ None
 
 
 //<CLR_ON>b胴体装備なし<CLR_OFF>
-<CLR_ON>b胴体装備なし<CLR_OFF>
+<CLR_ON>bNone<CLR_OFF>
 <$00>
 
 
@@ -78,7 +78,7 @@ None
 // Ptr: 0008F33C
 #WRITE(PTR, $0008F38C)
 //<CLR_ON>Y花嫁ブーツ<CLR_OFF>
-<CLR_ON>Y花嫁ブーツ<CLR_OFF>
+<CLR_ON>YBridal Heels<CLR_OFF>
 <$00>
 
 

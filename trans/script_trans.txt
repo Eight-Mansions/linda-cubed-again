@@ -503,7 +503,7 @@ Ken threw the meat...
 <$12>
 \n<CLEAR>
 //しかし、そんなノン気なこと\nしている場合では　ないと\n気づいてやめた
-...actually, nevermind. After realizing how weird that'd look here, he stopped.
+...Actually, nevermind. He stopped after realizing how weird that'd look.
 <$12>
 <$00>
 
@@ -530,7 +530,7 @@ We keep that cemetary's growth down by capping the number of dogs each client ca
 <$12>
 \n<CLEAR>
 //金の問題じゃないんだよ…\nわかるッ￠
-You may have the money, but you've unfortunately hit that limit. You understand, don't you?
+You may have money, but you've sadlt hit that limit. Let that be a lesson to you.
 <$12>
 <$00>
 
@@ -539,7 +539,7 @@ You may have the money, but you've unfortunately hit that limit. You understand,
 //000064EF
 <CLEAR>
 //猟犬の収容枠が　いっぱいです\nこれ以上、猟犬を増やせません
-You have reached the max amount of dogs you can own at one time. 
+You have reached the limit on dogs you can own at one time. 
 <$12>
 <$00>
 
@@ -630,9 +630,11 @@ No
 //000064EF
 <$1D>
 //を
- x
+//buysellmake
+
 <$1D>
 //ます\n
+\n
 <$06><$19><$31><$01><$1A>
 01
 <$0E><$15><$53><$19><$30><$04>
@@ -763,8 +765,10 @@ The item bag is full!
 //000064EF
 <$16><$04><$01><$1D><$02>
 //120
+120
 <$0E><$02>
 //216
+216
 <$06><$1E><$04>
 //匹で
 x 
@@ -838,6 +842,7 @@ You don't have the animals!
 //000064EF
 <CLEAR>
 //加工料金 
+
 <$15><$62><$06><$1E><$04><$14>
 //￥\nが足りません
 ￥ fee!
@@ -895,6 +900,7 @@ START:
 Begin camping!
 <$11>
 //240
+240
 <$07>
 <$00>
 
@@ -903,6 +909,7 @@ Begin camping!
 //000064EF
 <$15><$57><$1D><$02>
 //50
+50
 <$01><$1D>
 //寝 る 
 Sleep
@@ -1242,7 +1249,7 @@ Ken made a Handy Trap!
 AMD
 <$1E>
 //4、
-4、
+4, 
 <$1D>
 //\n残り     
 \n 
@@ -1258,7 +1265,7 @@ AMD
 AMD
 <$1E>
 //4、
-4、
+4,
 <$1D>
 //\n残り     
 \n 
@@ -1274,7 +1281,7 @@ AMD
 AMD
 <$1E>
 //4、
-4、
+4,
 <$1D>
 //\n残り 
 \n 
@@ -1540,7 +1547,7 @@ could slip through our fingers!
 //0000_0000072A_bin\PROG.BIN
 //000064EF
 //間違いなし∥
-are dead head!
+are dead ahead!
 <$00>
 
 
@@ -1852,6 +1859,7 @@ None of the scents around here stand out.
 //
 <$05><$03>
 //0
+0
 <$02>
 //16M N O P Q R S T U V W X\n
 16M  N  O  P  Q  R  S  T  U  V  W  X\n
@@ -1936,6 +1944,7 @@ None of the scents around here stand out.
 //
 <$05><$03>
 //0
+0
 <$02>
 //16A B C D E F G H I J K L\n
 16A  B  C  D  E  F  G  H  I  J  K  L\n
@@ -2020,6 +2029,7 @@ None of the scents around here stand out.
 //
 <$05><$03>
 //0
+0
 <$02>
 //16A B C D E F G H I J K L\n
 16A  B  C  D  E  F  G  H  I  J  K  L\n
@@ -2104,6 +2114,7 @@ None of the scents around here stand out.
 //
 <$05><$03>
 //0
+0
 <$02>
 //16G H I J K L M N O P Q R\n
 16G  H  I  J  K  L  M  N  O  P  Q  R\n
@@ -3575,7 +3586,7 @@ Astro Ark
 71"COMMANDMENT: ONE MALE, ONE FEMALE, TWO BY TWO BY TWO, SHOULDST BOARD THIS ARK WITH WORTHY PILOTS.\n
 <$02>
 //114神様ヨリ
-114?SIGNED, GOD"
+114-SIGNED, GOD"
 <$00>
 
 
@@ -7487,6 +7498,7 @@ BP:
 Name: 
 <$1D><$02>
 //120
+120
 <$1D>
 //\n
 \n
@@ -7501,11 +7513,13 @@ LV
  HP
 <$1E>
 //35
+35
 <$06>
 // BP
  BP
 <$1E>
 //35\n
+35\n
 <$04>
 //攻撃力
 ATK:
@@ -7517,6 +7531,7 @@ ATK:
 35　SPD:
 <$1E>
 //35
+35
 <$12>
 <$00>
 
@@ -7527,6 +7542,7 @@ ATK:
 Name: 
 <$1D><$02>
 //120
+120
 <$1D><$12>
 <$00>
 
@@ -11987,7 +12003,7 @@ South Area went in lockdown after an "artificial satellite fell in a freak accid
 <$12>
 \n<CLEAR>
 //だけど噂じゃ　あれは事故じゃなくて\nある特定のひとりを　確実に消すために\n核ミサイルが　使われたらしいんだ…
-But people are saying it was NO accident! I heard a nuke was fired in an assassination!
+But people are saying it was NO accident! I heard a nuke was fired to assassinate someone!
 <$12>
 <$00>
 
@@ -12006,7 +12022,7 @@ I know a way to West Area that won't cost you even 1￥. Go to M
 <$12>
 \n<CLEAR>
 //通称「亡者トンネル」ってのがあるぜ\n命より　金が惜しいって方たちには\nご好評のトンネルだ
-"Dead Man's Tunnel" is there, for those who value money more than life. It's eerily popular.
+"Dead Man's Tunnel" is there. For those who value money more than life, it's eerily popular.
 <$12>
 <$00>
 
@@ -28064,52 +28080,76 @@ Not now
 16A  B  C  D  E  F  G  H  I  J  K  L\n
 <$03>
 //8
+8
 <$05>
 //01\n
+01\n
 <$03>
 //24
+24
 <$05>
 //02\n
+02\n
 <$03>
 //40
+40
 <$05>
 //03\n
+03\n
 <$03>
 //56
+56
 <$05>
 //04\n
+04\n
 <$03>
 //72
+72
 <$05>
 //05\n
+05\n
 <$03>
 //88
+88
 <$05>
 //06\n
+06\n
 <$03>
 //104
+104
 <$05>
 //07\n
+07\n
 <$03>
 //120
+120
 <$05>
 //08\n
+08\n
 <$03>
 //136
+136
 <$05>
 //09\n
+09\n
 <$03>
 //152
+152
 <$05>
 //10\n
+10\n
 <$03>
 //168
+168
 <$05>
 //11\n
+11\n
 <$03>
 //184
+184
 <$05>
 //12
+12
 <$00>
 
 
@@ -28118,57 +28158,82 @@ Not now
 //
 <$05><$03>
 //0
+0
 <$02>
 //16A B C D E F G H I J K L\n
 16A  B  C  D  E  F  G  H  I  J  K  L\n
 <$03>
 //8
+8
 <$05>
 //13\n
+13\n
 <$03>
 //24
+24
 <$05>
 //14\n
+14\n
 <$03>
 //40
+40
 <$05>
 //15\n
+15\n
 <$03>
 //56
+56
 <$05>
 //16\n
+16\n
 <$03>
 //72
+72
 <$05>
 //17\n
+17\n
 <$03>
 //88
+88
 <$05>
 //18\n
+18\n
 <$03>
 //104
+104
 <$05>
 //19\n
+19\n
 <$03>
 //120
+120
 <$05>
 //20\n
+20\n
 <$03>
 //136
+136
 <$05>
 //21\n
+21\n
 <$03>
 //152
+152
 <$05>
 //22\n
+22\n
 <$03>
 //168
+168
 <$05>
 //23\n
+23\n
 <$03>
 //184
+184
 <$05>
 //24
+24
 <$00>
 
 
@@ -28352,7 +28417,7 @@ DESTINATION
 <$15><$53>
 <CLEAR>
 //・・・・・・・・・・・・∥∥∥
-<CLEAR>.........!
+.........!
 <$14><$12>
 <$00>
 
@@ -51034,10 +51099,10 @@ Daughter's Name
 //0211_0000147F_bin\PROG.BIN
 //00007F81
 //「
-Her name should be 
+Her name should be "
 <$1D>
 //」でいいですか？\n
-?\n
+"?\n
 <$01>
 //は い
 Yes
@@ -58779,7 +58844,7 @@ Turtle Eggs! Quickly!
 <$19><$31>
 <$15><$53>
 //ケンは　大きな卵を奪われた！
-Ken was grabbed by his Big Eggs!
+Ken's Big Egg was stolen!
 <$14><$12>
 <$00>
 
@@ -69558,8 +69623,10 @@ File Select
 //
 <$02>
 //109Φ\n
+109Φ\n
 <$09>
 //8
+8
 <$02>
 //7スロット１のカードに２ブロックの\n空きがないので、記録できません∥Ψ
 7Cannot save to Slot 1's card.\nMinimum of 2 blocks required!
@@ -69572,8 +69639,10 @@ File Select
 //
 <$02>
 //109Φ\n
+109Φ\n
 <$09>
 //8
+8
 <$02>
 //7スロット２のカードに２ブロックの\n空きがないので、記録できません∥Ψ
 7Cannot save to Slot 2's card.\nMinimum of 2 blocks required!
@@ -70690,6 +70759,7 @@ SELECT: Details
 240<CLEAR>L/R: Change page
 <$11>
 //240
+240
 <$07>
 <$00>
 
@@ -80104,56 +80174,69 @@ TO-O
 \n
 <$01><$1D>
 //RA
+RA
 <$0E>
 // 
 <$01><$1D>
 //RB
+RB
 <$0E>
 // 
 <$01><$1D>
 //RD
+RD
 <$0E>
 // 
 <$01><$1D>
 //RE
+RE
 <$0E>
 // 
 <$01><$1D>
 //RF
+RF
 <$0E>
 //\n
 \n
 <$01><$1D>
 //RG
+RG
 <$0E>
 // 
 <$01><$1D>
 //RH
+RH
 <$0E>
 // 
 <$01><$1D>
 //RI
+RI
 <$0E>
 // 
 <$01><$1D>
 //RJ
+RJ
 <$0E>
 // 
 <$01><$1D>
 //RK
+RK
 <$0E>
 //\n
 \n
 <$01><$1D>
 //RL
+RL
 <$0E>
 // 
 <$01><$1D>
 //RM
+RM
 <$0E>
 // 
 <$01><$1D>
 //RN
+RN
 <$0E>
 <$00>
 
@@ -80168,39 +80251,48 @@ Combat:
 \n
 <$01>
 //001～
+001～
 <$0E>
 // 
 <$01>
 //016～
+016～
 <$0E>
 // 
 <$01>
 //031～
+031～
 <$0E>
 // 
 <$01>
 //046～
+046～
 <$0E>
 // 
 <$01>
 //061～
+061～
 <$0E>
 // 
 <$01>
 //076～
+076～
 <$0E>
 //\n
 \n
 <$01>
 //091～
+091～
 <$0E>
 // 
 <$01>
 //106～
+106～
 <$0E>
 // 
 <$01>
 //121～
+121～
 <$0E>
 // 
 <$01>
