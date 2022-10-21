@@ -118,6 +118,11 @@ u32 GetLetterWidth(const u32 letter)
 	{
 		return 0x03;
 	}
+	else if (letter >= 0x824F && letter <= 0x8258) // SJIS 0 - 9
+	{
+		u32 idx = letter - 0x821F;
+		return widths[idx];
+	}
 	else
 	{
 		return 0x10;

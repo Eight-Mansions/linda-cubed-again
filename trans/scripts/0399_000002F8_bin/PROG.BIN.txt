@@ -1216,13 +1216,13 @@ COMBAT TEST!<$12><$00>
 <CLEAR>Sir, go look at the pet cemetary along the Hospico entrance.<$12>\n
 <CLEAR>We keep that cemetary's growth down by capping the\n
 number of dogs each client can adopt.<$12>\n
-<CLEAR>You may have the money, but you've unfortunately hit\n
-that limit. You understand, don't you?<$12><$00>
+<CLEAR>You may have money, but you've sadlt hit that limit. Let\n
+that be a lesson to you.<$12><$00>
 
 
 //<CLEAR>猟犬の収容枠が　いっぱいです\nこれ以上、猟犬を増やせません<$12><$00>
-<CLEAR>You have reached the max amount of dogs you can own at\n
-one time. <$12><$00>
+<CLEAR>You have reached the limit on dogs you can own at one time.\n
+<$12><$00>
 
 
 //<CLEAR>登録料　<$15>b<$06><$1E><$04><$14>￥が足りません\n銀行で　ご都合ください<$12><$00>
@@ -1258,7 +1258,8 @@ Choose a new name.<$12><$00>
 
 
 //<$1D>を<$1D>ます\n<$06><$19>1<$01><$1A>01<$0E><$15>S<$19>0<$04>／<$14><$1E>034<$15>S<$1D><$14><$02>112<$19>2<$1E>40<$19>0<$15>S￥<$00>
-<$1D> x<$1D><$06><$19><$31><$01><$1A>01<$0E><$15><$53><$19><$30><$04> / <$14><$1E>034<$15><$53><$1D><$14><$02>112<$19><$32><$1E>40<$19><$30><$15><$53>￥<$00>
+<$1D><$1D>\n
+<$06><$19><$31><$01><$1A>01<$0E><$15><$53><$19><$30><$04> / <$14><$1E>034<$15><$53><$1D><$14><$02>112<$19><$32><$1E>40<$19><$30><$15><$53>￥<$00>
 
 
 //<$06>T.C.(<$1E>034<$06>)<$00>
@@ -1313,7 +1314,7 @@ trading is prohibited!<$12><$00>
 
 
 //<$16><$04><$01><$1D><$02>120<$0E><$02>216<$06><$1E><$04>匹で<$00>
-<$16><$04><$01><$1D><$02><$0E><$02><$06><$1E><$04>x <$00>
+<$16><$04><$01><$1D><$02>120<$0E><$02>216<$06><$1E><$04>x <$00>
 
 
 //<CLEAR><$1D>を作ります\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
@@ -1356,7 +1357,7 @@ will cost<$1D><$06><$1E><$04><$14>￥.\n
 
 
 //<CLEAR><$06>スタートボタン<$04>でカーソルを「開始」に移動<$11>240<CLEAR>もう１度<$06>スタートボタン<$04>で野営実行<$11>240<$07><$00>
-<CLEAR><$06>START: <$04>Highlight "Okay!"<$11>240<CLEAR>(Again)<$06>START: <$04>Begin camping!<$11><$07><$00>
+<CLEAR><$06>START: <$04>Highlight "Okay!"<$11>240<CLEAR>(Again)<$06>START: <$04>Begin camping!<$11>240<$07><$00>
 
 
 //<CLEAR><$00>
@@ -1364,7 +1365,7 @@ will cost<$1D><$06><$1E><$04><$14>￥.\n
 
 
 //<$15>W<$1D><$02>50<$01><$1D>寝＿る＿<$0E>　<$01><$1D>見張り＿<$0E><$00>
-<$15><$57><$1D><$02><$01><$1D>Sleep<$0E>　<$01><$1D>Watch<$0E><$00>
+<$15><$57><$1D><$02>50<$01><$1D>Sleep<$0E>　<$01><$1D>Watch<$0E><$00>
 
 
 //<$15>W<$01>野営開始<$0E><$00>
@@ -1372,8 +1373,8 @@ will cost<$1D><$06><$1E><$04><$14>￥.\n
 
 
 //<CLEAR>猟犬の収容枠が　いっぱいです\nこれ以上、猟犬を増やせません<$12><$00>
-<CLEAR>You have reached the max amount of dogs you can own at\n
-one time. <$12><$00>
+<CLEAR>You have reached the limit on dogs you can own at one time.\n
+<$12><$00>
 
 
 //<$01><$1D>食料加工<$0E>　<$01><$1D>装備加工<$0E>　<$01><$1D>ワナ製作<$0E><$00>
