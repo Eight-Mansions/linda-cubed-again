@@ -96,22 +96,18 @@ GetCurWidthForLargeLetter:
 	j 0x800489d8
 	sw t1, 0x0028(sp)
 	
-; InitMovieSub:
-	; addiu sp, sp, -4
-	; sw a1, 4(sp)
-	; jal 0x8001417c
-	; nop
-	; jal InitMovieSubtitle
-	; lw a0, 4(sp)
+InitMovieSub:
+	addiu sp, sp, -4
+	sw a1, 4(sp)
+	jal 0x8001417c
+	nop
+	jal InitMovieSubtitle
+	lw a0, 4(sp)
 	
-	; j 0x80023144
-	; nop
+	j 0x80023144
+	nop
 
 curLetWidth:
 	.db 0 ; letter width
-	
-; .org 0x800A6904
-	; .importobj "code\linda\obj\subtitle.obj"
-	; .importobj "code\linda\obj\generated_movie.obj"
 
 .close
