@@ -26,7 +26,18 @@ del cd\linda.bin
 del /s /q cd\linda\*
 xcopy /s cd\orig\* cd\linda
 
-tools\psximager\psxbuild.exe -v cd\linda >> cd\build.log
+::Build files
+echo Building final bin file...
+pushd cd
+del /q linda_working.bin
+..\tools\psximager\psxbuild.exe "linda.cat" "linda_working.bin">> build.log
+popd
+echo:
 
-tools\psx-mode2.exe cd\linda.bin \LINDA\LINDA.MIC LINDA.MIC
-tools\psx-mode2.exe cd\linda.bin /SCPS_100.39 exe\SCPS_100.39
+
+tools\psx-mode2.exe cd\linda_working.bin \LINDA\LINDA.MIC LINDA.MIC
+tools\psx-mode2.exe cd\linda_working.bin /SCPS_100.39 exe\SCPS_100.39
+
+echo Build complete!
+echo:
+pause
