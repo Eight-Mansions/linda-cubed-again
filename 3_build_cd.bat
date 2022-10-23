@@ -1,6 +1,8 @@
 del exe\SCPS_100.39
 copy exe\orig\SCPS_100.39 exe\SCPS_100.39
 
+tools\linda_generate_movie_subtitles.exe trans\movie_subs tools\movie_mapping.txt
+
 echo Building Linda Cube Again PSX code
 pushd code\linda
 pmake -e RELMODE=DEBUG clean
@@ -21,6 +23,10 @@ tools\atlas exe\SCPS_100.39 trans\00091F6C.txt >> exe_error.txt
 
 
 del cd\linda.bin
-copy cd\orig\linda.bin cd\linda.bin
+del /s /q cd\linda\*
+xcopy /s cd\orig\* cd\linda
+
+tools\psximager\psxbuild.exe -v cd\linda >> cd\build.log
+
 tools\psx-mode2.exe cd\linda.bin \LINDA\LINDA.MIC LINDA.MIC
 tools\psx-mode2.exe cd\linda.bin /SCPS_100.39 exe\SCPS_100.39
