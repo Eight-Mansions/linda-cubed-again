@@ -25,7 +25,7 @@ SUBTITLE_SRC = subtitle.cpp generated_movie.cpp
 #MENU_OBJ	= $(patsubst %.c, $(RELMODE)/%.obm, ${MENU_SRC})
 #BATTLE_OBJ	= $(patsubst %.c, $(RELMODE)/%.obb, ${BATTLE_SRC})
 FONT_OBJ = $(patsubst %.cpp, $(RELMODE)/%.obj, ${FONT_SRC})
-SUB_OBJ = $(patsubst %.cpp, $(RELMODE)/%.obj, ${SUB_SRC})
+SUB_OBJ = $(patsubst %.cpp, $(RELMODE)/%.obj, ${SUBTITLE_SRC})
 TEXT_OBJ = $(patsubst %.cpp, $(RELMODE)/%.obj, ${TEXT_SRC})
 
 ## list of objects to use for linking ##

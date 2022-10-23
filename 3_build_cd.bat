@@ -40,4 +40,3 @@ tools\psx-mode2.exe cd\linda_working.bin /SCPS_100.39 exe\SCPS_100.39
 
 echo Build complete!
 echo:
-pause
