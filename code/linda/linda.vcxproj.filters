@@ -14,6 +14,7 @@
     <ClCompile Include="code\text.cpp">
       <Filter>code</Filter>
     </ClCompile>
+    <ClCompile Include="code\generated_movie.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="code\core.h">
@@ -31,6 +32,7 @@
     <ClInclude Include="code\text.h">
       <Filter>code</Filter>
     </ClInclude>
+    <ClInclude Include="code\generated.h" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="code">

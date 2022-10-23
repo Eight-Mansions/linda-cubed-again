@@ -14,14 +14,9 @@ ASMOPTIONS = /l /o c+ /o an+ /zd /x /e RELMODE=${ASM_REL}
 LINKOPTS = /psx /c /z /li $(RELMODE)
 LINKOOPTS = /psx /p /c /li $(RELMODE)
 
-#CORE_SRC   = main.c controller.c qalloc.c text.c string.c gui.c list.c thread.c cd.c memory.c sound.c sseq.c
-#CORE_S     = engine.asm
-#FIELD_SRC  = char.c
-#MENU_SRC   = menu.c root.c item.c ability.c equip.c status.c bestiary.c config.c save.c
-#BATTLE_SRC = battle.c
 FONT_SRC = font.cpp
-SUB_SRC = subtitle.cpp
 TEXT_SRC = text.cpp
+SUBTITLE_SRC = subtitle.cpp generated_movie.cpp
 
 ## build object names from types ##
 #CORE_OBJ	= $(patsubst %.c, $(RELMODE)/%.obj, ${CORE_SRC})

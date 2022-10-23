@@ -152,6 +152,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="code\font.cpp" />
+    <ClCompile Include="code\generated_movie.cpp" />
     <ClCompile Include="code\platform.cpp" />
     <ClCompile Include="code\text.cpp" />
     <ClCompile Include="makefile" />
@@ -160,6 +161,7 @@
   <ItemGroup>
     <ClInclude Include="code\core.h" />
     <ClInclude Include="code\font.h" />
+    <ClInclude Include="code\generated.h" />
     <ClInclude Include="code\platform.h" />
     <ClInclude Include="code\text.h" />
     <ClInclude Include="code\subtitle.h" />
