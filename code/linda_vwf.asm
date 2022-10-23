@@ -1,5 +1,14 @@
 .psx
+.open "cd\linda\LINDA\SUBTITLES.DAT",0x801D0000
+	.importobj "code\linda\obj\subtitle.obj"
+	.importobj "code\linda\obj\generated_movie.obj"
+SubFont:
+	.incbin "font\sub_font.bin" ; Font used for subtitles
+.close
+
 .open "exe\SCPS_100.39",0x80010800
+
+.definelabel LoadImage, 0x80062394
 
 ;.org 0x80048be4
 	;ORI     800c3364 (v0), 00000000 (r0), 0008 (8),
@@ -86,8 +95,23 @@ GetCurWidthForLargeLetter:
 	lb t1, 0(t1)
 	j 0x800489d8
 	sw t1, 0x0028(sp)
+	
+; InitMovieSub:
+	; addiu sp, sp, -4
+	; sw a1, 4(sp)
+	; jal 0x8001417c
+	; nop
+	; jal InitMovieSubtitle
+	; lw a0, 4(sp)
+	
+	; j 0x80023144
+	; nop
 
 curLetWidth:
 	.db 0 ; letter width
+	
+; .org 0x800A6904
+	; .importobj "code\linda\obj\subtitle.obj"
+	; .importobj "code\linda\obj\generated_movie.obj"
 
 .close

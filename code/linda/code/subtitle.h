@@ -9,10 +9,6 @@
 static subtitle_displayed currSub = {};
 
 extern "C" {
-	extern int DisplayFromGraphic16x16(int imgId, int unk1, int unk2, int unk3, int unk4, int unk5);
-
-	extern int LoadTMS(const char* filename, int startIdx, int unk);
-	
 	void InitVoiceSubtitle(const char* audioname);
 
 	void DrawAudioSubtitle();

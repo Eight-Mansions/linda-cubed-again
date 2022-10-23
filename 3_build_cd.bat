@@ -1,3 +1,7 @@
+del cd\linda_working.bin
+del /s /q cd\linda\*
+xcopy /s cd\orig\* cd\linda
+
 del exe\SCPS_100.39
 copy exe\orig\SCPS_100.39 exe\SCPS_100.39
 
@@ -11,8 +15,6 @@ pmake -e RELMODE=DEBUG -e OUTFILE=main -e OPTIMIZE=2
 popd
 
 tools\linda_cube_again_big_font_build.exe exe\orig\SCPS_100.39 exe\SCPS_100.39 font\big_font.bmp font\big_font.tbl
-
-tools\armips.exe code\linda_vwf.asm
 tools\linda_cube_again_font_build.exe font\font.bmp exe\SCPS_100.39
 
 del exe_error.txt
@@ -21,10 +23,8 @@ tools\atlas exe\SCPS_100.39 trans\0008F380.txt >> exe_error.txt
 echo trans\00091F6C.txt >> exe_error.txt
 tools\atlas exe\SCPS_100.39 trans\00091F6C.txt >> exe_error.txt
 
-
-del cd\linda.bin
-del /s /q cd\linda\*
-xcopy /s cd\orig\* cd\linda
+copy /y NUL cd\linda\LINDA\SUBTITLES.DAT >NUL
+tools\armips.exe code\linda_vwf.asm
 
 ::Build files
 echo Building final bin file...

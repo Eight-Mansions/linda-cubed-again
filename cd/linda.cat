@@ -1,0 +1,57 @@
+system_area {
+  file "linda.sys"
+}
+
+volume {
+  system_id [PLAYSTATION]
+  volume_id []
+  volume_set_id []
+  publisher_id []
+  preparer_id []
+  application_id [PLAYSTATION]
+  copyright_file_id []
+  abstract_file_id []
+  bibliographic_file_id []
+  creation_date 1997-09-17 10:10:00.00 0
+  modification_date 0000-00-00 00:00:00.00 0
+  expiration_date 0000-00-00 00:00:00.00 0
+  effective_date 0000-00-00 00:00:00.00 0
+}
+
+dir {
+  dir LINDA {
+    file LINDA.GMW
+    file LINDA.MIC
+    file LINDA.PAC
+	file SUBTITLES.DAT
+    xafile _BATTLE.XA
+    xafile _NA.XA
+    xafile _RI01.STR
+    xafile _RI02.STR
+    xafile _RI03.STR
+    xafile _RI04.STR
+    xafile _RI06.STR
+    xafile _RI07.STR
+    xafile _RI08.STR
+    xafile _RI09.STR
+    xafile _RI10.STR
+    xafile _RI11.STR
+    xafile _RI12.STR
+    xafile _RI13.STR
+    xafile _RI14.STR
+    xafile _RI15.STR
+    xafile _RI16.STR
+    xafile _RI17.STR
+    xafile _RI18.STR
+    xafile _RI19.STR
+    xafile _RI20.STR
+    xafile _RI21.STR
+    xafile _RI22.STR
+    xafile _RI24.STR
+    xafile _SONG.XA
+    xafile _RI05.STR
+
+  }
+  file SYSTEM.CNF
+  file SCPS_100.39
+}

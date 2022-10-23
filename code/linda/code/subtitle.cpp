@@ -92,97 +92,94 @@ int sdbmHash(const char* text) {
 	return hash;
 }
 
-int GetLetterPos(u8 letter)
-{
-	int y = 0;
-	int x = 0;
-
-	letter -= 1;
-	y = (letter / 26);
-	x = letter - (y * 26);
-	y *= 16;
-	x *= 8;
-
-	return (y << 16 | x);
-}
-
-int yx = 0x0050005c;
-
-void InitVoiceSubtitle(const char* audioname)
-{
-	int audionameHash = sdbmHash(audioname);
-	for (int i = 0; i < subsCount; i++)
-	{
-		if (audionameHash == subs[i].id)
-		{
-			LoadTMS("\\TIM\\FONT.TMS;1", 0xA, 1);
-
-			printf("s: %d\n", i);
-			counter = 0;
-			curAudioSubtitleLength = 0;
-			currSub.parts = subs[i].parts;
-			currSub.partsCount = subs[i].partsCount;
-			currSub.nextPartIdx = 0;
-			currSub.ticksTilNext = subs[i].parts[currSub.nextPartIdx].displayTime;
-			yx = 0x0050005c;
-			break;
-		}
-	}
-}
-
-void DrawAudioSubtitle()
-{
-	if (currSub.partsCount != 0)
-	{
-		currSub.ticksTilNext--;
-		if (currSub.partsCount != 0 && currSub.ticksTilNext == 0)
-		{
-			if (curAudioSubtitleLength > 0)
-			{
-				u16 otagLength = *((u32*)0x800aa228);
-				otagLength -= curAudioSubtitleLength;
-				*((u32*)0x800aa228) = otagLength;
-			}
-
-			int uv = 0;
-			int wh = 0x00100008;
-
-			subtitle_part part = currSub.parts[currSub.nextPartIdx];
-			curAudioSubtitleLength = part.len;
-			yx = part.x | part.y << 0x10;
-			const char* text = part.text;
-
-			for (int i = 0; i < part.len; i++)
-			{
-				u8 letter = text[i];
-				if (letter != 0x7F)
-				{
-					uv = GetLetterPos(letter);
-					DisplayFromGraphic16x16(0x0A, 0, yx, uv, wh, 0x19);
-					yx += 0x08;
-				}
-				else
-				{
-					i++;
-					yx = text[i] | (part.y + 16) << 0x10;
-					curAudioSubtitleLength -= 2;
-				}
-			}
-
-			currSub.nextPartIdx++;
-			if (currSub.nextPartIdx < currSub.partsCount)
-			{
-				currSub.ticksTilNext = currSub.parts[currSub.nextPartIdx].displayTime;
-			}
-			else
-			{
-				currSub.partsCount = 0; // No parts left to show
-			}
-		}
-
-		UpdateOTAG(2);
-	}
-}
+//int GetLetterPos(u8 letter)
+//{
+//	int y = 0;
+//	int x = 0;
+//
+//	letter -= 1;
+//	y = (letter / 26);
+//	x = letter - (y * 26);
+//	y *= 16;
+//	x *= 8;
+//
+//	return (y << 16 | x);
+//}
+//
+//int yx = 0x0050005c;
+//
+//void InitVoiceSubtitle(const char* audioname)
+//{
+//	int audionameHash = sdbmHash(audioname);
+//	for (int i = 0; i < subsCount; i++)
+//	{
+//		if (audionameHash == subs[i].id)
+//		{
+//			counter = 0;
+//			curAudioSubtitleLength = 0;
+//			currSub.parts = subs[i].parts;
+//			currSub.partsCount = subs[i].partsCount;
+//			currSub.nextPartIdx = 0;
+//			currSub.ticksTilNext = subs[i].parts[currSub.nextPartIdx].displayTime;
+//			yx = 0x0050005c;
+//			break;
+//		}
+//	}
+//}
+//
+//void DrawAudioSubtitle()
+//{
+//	if (currSub.partsCount != 0)
+//	{
+//		currSub.ticksTilNext--;
+//		if (currSub.partsCount != 0 && currSub.ticksTilNext == 0)
+//		{
+//			if (curAudioSubtitleLength > 0)
+//			{
+//				u16 otagLength = *((u32*)0x800aa228);
+//				otagLength -= curAudioSubtitleLength;
+//				*((u32*)0x800aa228) = otagLength;
+//			}
+//
+//			int uv = 0;
+//			int wh = 0x00100008;
+//
+//			subtitle_part part = currSub.parts[currSub.nextPartIdx];
+//			curAudioSubtitleLength = part.len;
+//			yx = part.x | part.y << 0x10;
+//			const char* text = part.text;
+//
+//			for (int i = 0; i < part.len; i++)
+//			{
+//				u8 letter = text[i];
+//				if (letter != 0x7F)
+//				{
+//					uv = GetLetterPos(letter);
+//					//DisplayFromGraphic16x16(0x0A, 0, yx, uv, wh, 0x19);
+//					yx += 0x08;
+//				}
+//				else
+//				{
+//					i++;
+//					yx = text[i] | (part.y + 16) << 0x10;
+//					curAudioSubtitleLength -= 2;
+//				}
+//			}
+//
+//			currSub.nextPartIdx++;
+//			if (currSub.nextPartIdx < currSub.partsCount)
+//			{
+//				currSub.ticksTilNext = currSub.parts[currSub.nextPartIdx].displayTime;
+//			}
+//			else
+//			{
+//				currSub.partsCount = 0; // No parts left to show
+//			}
+//		}
+//
+//		//UpdateOTAG(2);
+//	}
+//}
 
 void InitMovieSubtitle(const char* videoname)
 {
