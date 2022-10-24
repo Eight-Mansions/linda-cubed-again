@@ -16,7 +16,7 @@ LINKOOPTS = /psx /p /c /li $(RELMODE)
 
 FONT_SRC = font.cpp
 TEXT_SRC = text.cpp
-SUBTITLE_SRC = subtitle.cpp generated_movie.cpp
+SUBTITLE_SRC = subtitle.cpp generated_movie.cpp loadfile.cpp
 
 ## build object names from types ##
 #CORE_OBJ	= $(patsubst %.c, $(RELMODE)/%.obj, ${CORE_SRC})

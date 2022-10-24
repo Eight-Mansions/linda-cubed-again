@@ -9,10 +9,15 @@ SubFont:
 .open "exe\SCPS_100.39",0x80010800
 
 .definelabel LoadImage, 0x80062394
+.definelabel LoadFile, 0x800203ec
+.definelabel GetFileInfo, 0x800205b8
 
 ;.org 0x80048be4
 	;ORI     800c3364 (v0), 00000000 (r0), 0008 (8),
 	;ori v0, r0, 0x01
+
+.org 0x8001677c
+	j LoadSubs
 	
 .org 0x80048c34
 	j GetCurLetWidth
@@ -45,6 +50,16 @@ SubFont:
 
 .org 0x800B8290	
 .importobj "code\linda\obj\font.obj"
+.importobj "code\linda\obj\loadfile.obj"
+
+LoadSubs:
+	jal 0x8001bebc
+	nop
+	jal LoadSubtitles
+	la a0, 0x801D0000
+	j 0x80016784
+	nop
+	
 
 GetLetWidth:
 	addiu sp, sp, -20

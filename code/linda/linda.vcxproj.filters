@@ -15,6 +15,7 @@
       <Filter>code</Filter>
     </ClCompile>
     <ClCompile Include="code\generated_movie.cpp" />
+    <ClCompile Include="code\loadfile.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="code\core.h">
@@ -33,6 +34,7 @@
       <Filter>code</Filter>
     </ClInclude>
     <ClInclude Include="code\generated.h" />
+    <ClInclude Include="code\loadfile.h" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="code">

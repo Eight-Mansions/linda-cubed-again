@@ -26,7 +26,7 @@ void itoa(i32 i, char b[]);
 void itox(u32 i, char* s);
 
 extern "C" {
-	
+	extern int printf(const char* fmt, ...);
 }
 
 #endif
