@@ -8,7 +8,7 @@ SubFont:
 
 .open "exe\SCPS_100.39",0x80010800
 
-.definelabel LoadImage, 0x80062394
+.definelabel LoadImage, 0x8008200c
 .definelabel LoadFile, 0x800203ec
 .definelabel GetFileInfo, 0x800205b8
 
@@ -134,6 +134,15 @@ StoreFrameNumber:
 	sw v1, 0x8c34(at)
 	j 0x80022b00
 	sw v1, 0(a0)
+	
+DisplayMovieSubs:
+	la a2, SubFont
+	la a3, framenum
+	jal DrawMovieSubtitle
+	lw a3, 0(a3)
+	
+	j 0x800227a4
+	nop
 
 framenum:
 	.dw 0
