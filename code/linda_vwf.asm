@@ -123,11 +123,11 @@ GetCurWidthForLargeLetter:
 	
 InitMovieSub:
 	addiu sp, sp, -4
-	sw a0, 4(sp)
+	sw a0, 0(sp)
 	jal 0x8001417c
 	nop
 	jal InitMovieSubtitle
-	lw a0, 4(sp)
+	lw a0, 0(sp)
 	
 	j 0x80023144
 	addiu sp, sp, 4
