@@ -19,6 +19,10 @@ SubFont:
 .org 0x8001677c
 	j LoadSubs
 	
+.org 0x80022af8
+	j StoreFrameNumber
+	nop
+	
 .org 0x80048c34
 	j GetCurLetWidth
 	
@@ -121,7 +125,18 @@ InitMovieSub:
 	
 	j 0x80023144
 	nop
+	
+StoreFrameNumber:
+	;80022af8 : LUI     800c0000 (at), 800c (32780),
+	;80022afc : SW      00000021 (v1), 8c34 (800c0000 (at)) [800b8c34]
+	la a0, framenum
+	lui at, 0x800C
+	sw v1, 0x8c34(at)
+	j 0x80022b00
+	sw v1, 0(a0)
 
+framenum:
+	.dw 0
 curLetWidth:
 	.db 0 ; letter width
 
