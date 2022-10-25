@@ -19,9 +19,15 @@ SubFont:
 .org 0x8001677c
 	j LoadSubs
 	
+.org 0x8002313c
+	j InitMovieSub
+	
 .org 0x80022af8
 	j StoreFrameNumber
 	nop
+	
+.org 0x8002279c
+	j DisplayMovieSubs
 	
 .org 0x80048c34
 	j GetCurLetWidth
@@ -117,14 +123,14 @@ GetCurWidthForLargeLetter:
 	
 InitMovieSub:
 	addiu sp, sp, -4
-	sw a1, 4(sp)
+	sw a0, 4(sp)
 	jal 0x8001417c
 	nop
 	jal InitMovieSubtitle
 	lw a0, 4(sp)
 	
 	j 0x80023144
-	nop
+	addiu sp, sp, 4
 	
 StoreFrameNumber:
 	;80022af8 : LUI     800c0000 (at), 800c (32780),
