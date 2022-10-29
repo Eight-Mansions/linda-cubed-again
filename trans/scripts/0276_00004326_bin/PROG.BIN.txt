@@ -10,107 +10,56 @@
 #WRITE(PTR, $0018)
 #WRITE(PTR, $001A)
 #WRITE(PTR, $001C)
-t02_sp1.obj
-<$00>
+//t02_sp1.obj<$00>
+t02_sp1.obj<$00>
 
+//c002.obj<$00>
+c002.obj<$00>
 
+//c009.obj<$00>
+c009.obj<$00>
 
+//c023.obj<$00>
+c023.obj<$00>
 
-c002.obj
-<$00>
+//c028.obj<$00>
+c028.obj<$00>
 
+//c042.obj<$00>
+c042.obj<$00>
 
+//c101a0r.obj<$00>
+c101a0r.obj<$00>
 
+//c102a1r.obj<$00>
+c102a1r.obj<$00>
 
-c009.obj
-<$00>
+//c103a2.obj<$00>
+c103a2.obj<$00>
 
+//c106a0r.obj<$00>
+c106a0r.obj<$00>
 
+//c113a0r.obj<$00>
+c113a0r.obj<$00>
 
+//c117a2r.obj<$00>
+c117a2r.obj<$00>
 
-c023.obj
-<$00>
+//c118a1l.obj<$00>
+c118a1l.obj<$00>
 
+//c125a1.obj<$00>
+c125a1.obj<$00>
 
+//c128a0.obj<$00>
+c128a0.obj<$00>
 
+//c141a.obj<$00>
+c141a.obj<$00>
 
-c028.obj
-<$00>
-
-
-
-
-c042.obj
-<$00>
-
-
-
-
-c101a0r.obj
-<$00>
-
-
-
-
-c102a1r.obj
-<$00>
-
-
-
-
-c103a2.obj
-<$00>
-
-
-
-
-c106a0r.obj
-<$00>
-
-
-
-
-c113a0r.obj
-<$00>
-
-
-
-
-c117a2r.obj
-<$00>
-
-
-
-
-c118a1l.obj
-<$00>
-
-
-
-
-c125a1.obj
-<$00>
-
-
-
-
-c128a0.obj
-<$00>
-
-
-
-
-c141a.obj
-<$00>
-
-
-
-
-c180a0.obj
-<$00>
-
-
-
+//c180a0.obj<$00>
+c180a0.obj<$00>
 
 #WRITE(PTR, $001E)
 //ホテル１Ｆ<$00>
@@ -246,7 +195,7 @@ so grateful!<$12>\n
 Minago Church.<$12><$00>
 
 
-//<CLEAR><$19>1<$15>Sケンは「禁断の鍵」を　受け取った！<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>ケンは「禁断の鍵」を　受け取った！<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Ken acquired the Secret Key!<$14><$12><$00>
 
 
@@ -400,7 +349,7 @@ back. Isn't that awful?<$12><$00>
 
 
 #WRITE(PTR, $0022)
-//<$15>Yホテル<$00>
+//<$15><$59>ホテル<$00>
 <$15><$59>Hotel<$00>
 
 
@@ -435,7 +384,7 @@ a room for <$1D><$06><$1E><$04><$14>￥?\n
 <CLEAR>Yes. Always seek a vet treat your dogs.<$12><$00>
 
 
-//<$15>YＢＡＲ<$00>
+//<$15><$59>ＢＡＲ<$00>
 <$15><$59>Bar<$00>
 
 
@@ -667,7 +616,7 @@ Back<$00>
 wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
-//<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>リンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
@@ -750,7 +699,7 @@ are dead ahead!<$00>
 <CLEAR>I'm absolutely certain!<$12><$00>
 
 
-//<$15>Yスケジュール<$00>
+//<$15><$59>スケジュール<$00>
 <$15><$59>Memo <$00>
 
 
@@ -922,21 +871,12 @@ to Mario in Spurr Valley.<$00>
 <CLEAR>Chase Angela to OzSat! Mario will follow from Spurr Valley.<$00>
 
 
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
-
-
-
 

@@ -10,209 +10,107 @@
 #WRITE(PTR, $002A)
 #WRITE(PTR, $002C)
 #WRITE(PTR, $002E)
-photo2.obj
-<$00>
+//photo2.obj<$00>
+photo2.obj<$00>
 
+//c002.obj<$00>
+c002.obj<$00>
 
+//c009.obj<$00>
+c009.obj<$00>
 
+//c023.obj<$00>
+c023.obj<$00>
 
-c002.obj
-<$00>
+//width3.obj<$00>
+width3.obj<$00>
 
+//box.obj<$00>
+box.obj<$00>
 
+//kag00.obj<$00>
+kag00.obj<$00>
 
+//kag01.obj<$00>
+kag01.obj<$00>
 
-c009.obj
-<$00>
+//kag02.obj<$00>
+kag02.obj<$00>
 
+//kag03.obj<$00>
+kag03.obj<$00>
 
+//kag04.obj<$00>
+kag04.obj<$00>
 
+//kag05.obj<$00>
+kag05.obj<$00>
 
-c023.obj
-<$00>
+//kag06.obj<$00>
+kag06.obj<$00>
 
+//kag07.obj<$00>
+kag07.obj<$00>
 
+//kag08.obj<$00>
+kag08.obj<$00>
 
+//kag09.obj<$00>
+kag09.obj<$00>
 
-width3.obj
-<$00>
+//kag10.obj<$00>
+kag10.obj<$00>
 
+//kag11.obj<$00>
+kag11.obj<$00>
 
+//kag12.obj<$00>
+kag12.obj<$00>
 
+//kag13.obj<$00>
+kag13.obj<$00>
 
-box.obj
-<$00>
+//kag14.obj<$00>
+kag14.obj<$00>
 
+//kag15.obj<$00>
+kag15.obj<$00>
 
+//kag16.obj<$00>
+kag16.obj<$00>
 
+//kag17.obj<$00>
+kag17.obj<$00>
 
-kag00.obj
-<$00>
+//kag18.obj<$00>
+kag18.obj<$00>
 
+//kag19.obj<$00>
+kag19.obj<$00>
 
+//kag20.obj<$00>
+kag20.obj<$00>
 
+//kag21.obj<$00>
+kag21.obj<$00>
 
-kag01.obj
-<$00>
+//kag22.obj<$00>
+kag22.obj<$00>
 
+//kag23.obj<$00>
+kag23.obj<$00>
 
+//kao_l10.obj<$00>
+kao_l10.obj<$00>
 
+//kao_l11.obj<$00>
+kao_l11.obj<$00>
 
-kag02.obj
-<$00>
+//kao_l13.obj<$00>
+kao_l13.obj<$00>
 
-
-
-
-kag03.obj
-<$00>
-
-
-
-
-kag04.obj
-<$00>
-
-
-
-
-kag05.obj
-<$00>
-
-
-
-
-kag06.obj
-<$00>
-
-
-
-
-kag07.obj
-<$00>
-
-
-
-
-kag08.obj
-<$00>
-
-
-
-
-kag09.obj
-<$00>
-
-
-
-
-kag10.obj
-<$00>
-
-
-
-
-kag11.obj
-<$00>
-
-
-
-
-kag12.obj
-<$00>
-
-
-
-
-kag13.obj
-<$00>
-
-
-
-
-kag14.obj
-<$00>
-
-
-
-
-kag15.obj
-<$00>
-
-
-
-
-kag16.obj
-<$00>
-
-
-
-
-kag17.obj
-<$00>
-
-
-
-
-kag18.obj
-<$00>
-
-
-
-
-kag19.obj
-<$00>
-
-
-
-
-kag20.obj
-<$00>
-
-
-
-
-kag21.obj
-<$00>
-
-
-
-
-kag22.obj
-<$00>
-
-
-
-
-kag23.obj
-<$00>
-
-
-
-
-kao_l10.obj
-<$00>
-
-
-
-
-kao_l11.obj
-<$00>
-
-
-
-
-kao_l13.obj
-<$00>
-
-
-
-
-mf083.obj
-<$00>
-
-
-
+//mf083.obj<$00>
+mf083.obj<$00>
 
 #WRITE(PTR, $0030)
 //箱船１Ｆ<$00>
@@ -367,7 +265,7 @@ enough to fall for her antics!<$12><$00>
 <CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
-//<CLEAR><$19>1<$15>Sこの船の　乗員の\nプライベートルームのようだ…\nなぜか　扉は開かない<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>この船の　乗員の\nプライベートルームのようだ…\nなぜか　扉は開かない<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>This looks like the control room. For some reason, the door\n
 won't open.<$14><$12><$00>
 
@@ -426,10 +324,8 @@ What do we do now?<$00>
 //<$1E><$00>
 <$1E><$00>
 
-
 //<$06><$1E><$04><$00>
 <$06><$1E><$04><$00>
-
 
 //第<$1D>動物収容室<$00>
 Containment Rm. <$1D> <$00>
@@ -651,7 +547,6 @@ IN TRANS-CARGO UNIT.<$12><$00>
 //<CLEAR><$00>
 <CLEAR><$00>
 
-
 //<$06>TRANS-CARGO IN<$04>∥<$12><$00>
 <$06>Now loading to TCU...<$04>!<$12><$00>
 
@@ -690,27 +585,27 @@ enough to fall for her antics!<$12><$00>
 <CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
-//<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>ケンは「<$1D>」を発見∥<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Ken found the <$1D>!<$14><$12><$00>
 
 
-//<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53><CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53><CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
-//<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53><CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53><CLEAR>Ken acquired <$1D>!<$14><$12><$00>
 
 
-//<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>ケンは「<$1D>」を発見∥<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Ken found the <$1D>!<$14><$12><$00>
 
 
-//<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53><CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53><CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
-//<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53><CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53><CLEAR>Ken acquired <$1D>!<$14><$12><$00>
 
 
@@ -748,12 +643,12 @@ enough to fall for her antics!<$12><$00>
 <CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
-//<CLEAR><$19>1<$15>S色あせた写真が　ある\nよくわからないが\n人間が　写っているようだ…<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>色あせた写真が　ある\nよくわからないが\n人間が　写っているようだ…<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>There's a photo. It's too faded to tell, but it looks like a\n
 human is in the picture.<$14><$12><$00>
 
 
-//<CLEAR><$19>1<$15>Sダイヤの指輪がある<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>ダイヤの指輪がある<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>It's a Diamond Ring.<$14><$12><$00>
 
 
@@ -832,7 +727,7 @@ Back<$00>
 wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
-//<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>リンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
@@ -915,7 +810,7 @@ are dead ahead!<$00>
 <CLEAR>I'm absolutely certain!<$12><$00>
 
 
-//<$15>Yスケジュール<$00>
+//<$15><$59>スケジュール<$00>
 <$15><$59>Memo <$00>
 
 
@@ -1087,45 +982,24 @@ to Mario in Spurr Valley.<$00>
 <CLEAR>Chase Angela to OzSat! Mario will follow from Spurr Valley.<$00>
 
 
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
-
-
-
 

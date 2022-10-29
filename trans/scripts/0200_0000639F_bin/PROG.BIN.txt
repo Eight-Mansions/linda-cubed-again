@@ -10,53 +10,29 @@
 #WRITE(PTR, $0016)
 #WRITE(PTR, $0018)
 #WRITE(PTR, $001A)
-t21_sp6.obj
-<$00>
+//t21_sp6.obj<$00>
+t21_sp6.obj<$00>
 
+//t21_sp7.obj<$00>
+t21_sp7.obj<$00>
 
+//c002.obj<$00>
+c002.obj<$00>
 
+//c009.obj<$00>
+c009.obj<$00>
 
-t21_sp7.obj
-<$00>
+//c009a1.obj<$00>
+c009a1.obj<$00>
 
+//c010.obj<$00>
+c010.obj<$00>
 
+//c018.obj<$00>
+c018.obj<$00>
 
-
-c002.obj
-<$00>
-
-
-
-
-c009.obj
-<$00>
-
-
-
-
-c009a1.obj
-<$00>
-
-
-
-
-c010.obj
-<$00>
-
-
-
-
-c018.obj
-<$00>
-
-
-
-
-kao_s3.obj
-<$00>
-
-
-
+//kao_s3.obj<$00>
+kao_s3.obj<$00>
 
 #WRITE(PTR, $001C)
 //ラグナロッジ<$00>
@@ -92,11 +68,11 @@ enough to fall for her antics!<$12><$00>
 <CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
-//<CLEAR><$19>1<$15>S鍵がかかっていて開かない<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>鍵がかかっていて開かない<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>This door is locked and will not open.<$14><$12><$00>
 
 
-//<CLEAR><$19>1<$15>S鍵がかかっていて開かない<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>鍵がかかっていて開かない<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>This door is locked and will not open.<$14><$12><$00>
 
 
@@ -175,7 +151,7 @@ Back<$00>
 wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
-//<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>リンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 

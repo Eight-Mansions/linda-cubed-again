@@ -10,41 +10,23 @@
 #WRITE(PTR, $001C)
 #WRITE(PTR, $001E)
 #WRITE(PTR, $0020)
-c002.obj
-<$00>
+//c002.obj<$00>
+c002.obj<$00>
 
+//c009.obj<$00>
+c009.obj<$00>
 
+//c023.obj<$00>
+c023.obj<$00>
 
+//c102a1.obj<$00>
+c102a1.obj<$00>
 
-c009.obj
-<$00>
+//c121a1.obj<$00>
+c121a1.obj<$00>
 
-
-
-
-c023.obj
-<$00>
-
-
-
-
-c102a1.obj
-<$00>
-
-
-
-
-c121a1.obj
-<$00>
-
-
-
-
-c159a0.obj
-<$00>
-
-
-
+//c159a0.obj<$00>
+c159a0.obj<$00>
 
 #WRITE(PTR, $0022)
 //テント<$00>
@@ -91,7 +73,7 @@ Interested?\n
 <$01>Eh, I dunno<$0E> / <$01>Go win one yourself<$0E><$00>
 
 
-//<CLEAR>へへへ、息子に自慢するんだ\n「どーだ∥　父さんは、外じゃ\n強いんだよ∥」ってね<$12>\n<CLEAR><$19>1<$15>S<CLEAR>ケンは、「<$1D>」を渡して\n<$06><$1E><$04>￥を受け取った<$14><$12><$00>
+//<CLEAR>へへへ、息子に自慢するんだ\n「どーだ∥　父さんは、外じゃ\n強いんだよ∥」ってね<$12>\n<CLEAR><$19><$31><$15><$53><CLEAR>ケンは、「<$1D>」を渡して\n<$06><$1E><$04>￥を受け取った<$14><$12><$00>
 <CLEAR>Hehehe, my kids are going to be so proud of me.\n
 "Wow Dad, you're the greatest!"<$12>\n
 <CLEAR><$19><$31><$15><$53><CLEAR>Ken sold the <$1D> for\n
@@ -364,7 +346,7 @@ Back<$00>
 wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
-//<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>リンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
@@ -447,7 +429,7 @@ are dead ahead!<$00>
 <CLEAR>I'm absolutely certain!<$12><$00>
 
 
-//<$15>Yスケジュール<$00>
+//<$15><$59>スケジュール<$00>
 <$15><$59>Memo <$00>
 
 
@@ -619,45 +601,24 @@ to Mario in Spurr Valley.<$00>
 <CLEAR>Chase Angela to OzSat! Mario will follow from Spurr Valley.<$00>
 
 
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
-
-
-
 

@@ -10,29 +10,17 @@
 #WRITE(PTR, $0016)
 #WRITE(PTR, $0018)
 #WRITE(PTR, $001A)
-photo.obj
-<$00>
+//photo.obj<$00>
+photo.obj<$00>
 
+//c002.obj<$00>
+c002.obj<$00>
 
+//c009.obj<$00>
+c009.obj<$00>
 
-
-c002.obj
-<$00>
-
-
-
-
-c009.obj
-<$00>
-
-
-
-
-c023.obj
-<$00>
-
-
-
+//c023.obj<$00>
+c023.obj<$00>
 
 #WRITE(PTR, $001C)
 //共同子供部屋<$00>
@@ -72,11 +60,8 @@ enough to fall for her antics!<$12><$00>
 A familiar photo hangs on the wall.<$12><$00>
 
 
-PICT01.TIM
-<$00>
-
-
-
+//PICT01.TIM<$00>
+PICT01.TIM<$00>
 
 #WRITE(PTR, $001E)
 //クン、クンクン………？<$12>\n<CLEAR><$1D>のニオイが　するね\nそういえば、<$1D>食まだだっけ…<$12><$00>
@@ -224,7 +209,7 @@ Back<$00>
 wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
-//<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>リンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
@@ -307,7 +292,7 @@ are dead ahead!<$00>
 <CLEAR>I'm absolutely certain!<$12><$00>
 
 
-//<$15>Yスケジュール<$00>
+//<$15><$59>スケジュール<$00>
 <$15><$59>Memo <$00>
 
 
@@ -479,15 +464,9 @@ to Mario in Spurr Valley.<$00>
 <CLEAR>Chase Angela to OzSat! Mario will follow from Spurr Valley.<$00>
 
 
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
-
-
-
 

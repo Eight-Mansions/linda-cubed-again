@@ -10,215 +10,110 @@
 #WRITE(PTR, $0020)
 #WRITE(PTR, $0022)
 #WRITE(PTR, $0024)
-sofa.obj
-<$00>
+//sofa.obj<$00>
+sofa.obj<$00>
 
+//c002.obj<$00>
+c002.obj<$00>
 
+//c002_hau.obj<$00>
+c002_hau.obj<$00>
 
+//c009.obj<$00>
+c009.obj<$00>
 
-c002.obj
-<$00>
+//c009a1.obj<$00>
+c009a1.obj<$00>
 
+//c010.obj<$00>
+c010.obj<$00>
 
+//c018.obj<$00>
+c018.obj<$00>
 
+//c032.obj<$00>
+c032.obj<$00>
 
-c002_hau.obj
-<$00>
+//c035.obj<$00>
+c035.obj<$00>
 
+//c117a1r.obj<$00>
+c117a1r.obj<$00>
 
+//c159a0.obj<$00>
+c159a0.obj<$00>
 
+//c159_0.obj<$00>
+c159_0.obj<$00>
 
-c009.obj
-<$00>
+//c159a1.obj<$00>
+c159a1.obj<$00>
 
+//c159a2.obj<$00>
+c159a2.obj<$00>
 
+//c160a0.obj<$00>
+c160a0.obj<$00>
 
+//c160_0.obj<$00>
+c160_0.obj<$00>
 
-c009a1.obj
-<$00>
+//c160a1.obj<$00>
+c160a1.obj<$00>
 
+//c160a2.obj<$00>
+c160a2.obj<$00>
 
+//c161a0.obj<$00>
+c161a0.obj<$00>
 
+//c161a1.obj<$00>
+c161a1.obj<$00>
 
-c010.obj
-<$00>
+//c161a2.obj<$00>
+c161a2.obj<$00>
 
+//c162_0.obj<$00>
+c162_0.obj<$00>
 
+//c162_1.obj<$00>
+c162_1.obj<$00>
 
+//c162_2.obj<$00>
+c162_2.obj<$00>
 
-c018.obj
-<$00>
+//meet.obj<$00>
+meet.obj<$00>
 
+//unchi.obj<$00>
+unchi.obj<$00>
 
+//kao_l15.obj<$00>
+kao_l15.obj<$00>
 
+//kao_l16.obj<$00>
+kao_l16.obj<$00>
 
-c032.obj
-<$00>
+//kao_l17.obj<$00>
+kao_l17.obj<$00>
 
+//kao_l21.obj<$00>
+kao_l21.obj<$00>
 
+//kao_s3.obj<$00>
+kao_s3.obj<$00>
 
+//kao_g1.obj<$00>
+kao_g1.obj<$00>
 
-c035.obj
-<$00>
+//kao_g2.obj<$00>
+kao_g2.obj<$00>
 
+//kao_g3.obj<$00>
+kao_g3.obj<$00>
 
-
-
-c117a1r.obj
-<$00>
-
-
-
-
-c159a0.obj
-<$00>
-
-
-
-
-c159_0.obj
-<$00>
-
-
-
-
-c159a1.obj
-<$00>
-
-
-
-
-c159a2.obj
-<$00>
-
-
-
-
-c160a0.obj
-<$00>
-
-
-
-
-c160_0.obj
-<$00>
-
-
-
-
-c160a1.obj
-<$00>
-
-
-
-
-c160a2.obj
-<$00>
-
-
-
-
-c161a0.obj
-<$00>
-
-
-
-
-c161a1.obj
-<$00>
-
-
-
-
-c161a2.obj
-<$00>
-
-
-
-
-c162_0.obj
-<$00>
-
-
-
-
-c162_1.obj
-<$00>
-
-
-
-
-c162_2.obj
-<$00>
-
-
-
-
-meet.obj
-<$00>
-
-
-
-
-unchi.obj
-<$00>
-
-
-
-
-kao_l15.obj
-<$00>
-
-
-
-
-kao_l16.obj
-<$00>
-
-
-
-
-kao_l17.obj
-<$00>
-
-
-
-
-kao_l21.obj
-<$00>
-
-
-
-
-kao_s3.obj
-<$00>
-
-
-
-
-kao_g1.obj
-<$00>
-
-
-
-
-kao_g2.obj
-<$00>
-
-
-
-
-kao_g3.obj
-<$00>
-
-
-
-
-kao_ch1.obj
-<$00>
-
-
-
+//kao_ch1.obj<$00>
+kao_ch1.obj<$00>
 
 #WRITE(PTR, $0026)
 //ジャンクパレス３Ｆ<$00>
@@ -1052,7 +947,6 @@ I hate to kill the mood, but these things do happen, hehe...<$12><$00>
 //<CLEAR><$00>
 <CLEAR><$00>
 
-
 //<$06>TRANS-CARGO IN<$04>∥<$12>\n<CLEAR>まっ　こんなとこだ\nどーだ￠　安い買物だったろうが？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
 <$06>All right, in the TCU you go, <$04><$12>\n
 <CLEAR>Now, that's what I call "bang for your buck"!\n
@@ -1063,7 +957,7 @@ I hate to kill the mood, but these things do happen, hehe...<$12><$00>
 <CLEAR>Dahahahaha!<$12><$00>
 
 
-//<$15>Yホテル<$00>
+//<$15><$59>ホテル<$00>
 <$15><$59>Hotel<$00>
 
 
@@ -1169,7 +1063,7 @@ Back<$00>
 wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
-//<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>リンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
@@ -1257,21 +1151,12 @@ are dead ahead!<$00>
 <$01>Yes<$0E>/<$01>No<$0E><$00>
 
 
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
-
-
-
 

@@ -10,97 +10,52 @@
 #WRITE(PTR, $001C)
 #WRITE(PTR, $001E)
 #WRITE(PTR, $0020)
-pict01.obj
-<$00>
+//pict01.obj<$00>
+pict01.obj<$00>
 
+//pict10.obj<$00>
+pict10.obj<$00>
 
+//pict11.obj<$00>
+pict11.obj<$00>
 
+//clr_a.obj<$00>
+clr_a.obj<$00>
 
-pict10.obj
-<$00>
+//clr_b.obj<$00>
+clr_b.obj<$00>
 
+//push_o.obj<$00>
+push_o.obj<$00>
 
+//jibun1.obj<$00>
+jibun1.obj<$00>
 
+//jibun2.obj<$00>
+jibun2.obj<$00>
 
-pict11.obj
-<$00>
+//jibun3.obj<$00>
+jibun3.obj<$00>
 
+//jibun3a.obj<$00>
+jibun3a.obj<$00>
 
+//jibun4.obj<$00>
+jibun4.obj<$00>
 
+//try.obj<$00>
+try.obj<$00>
 
-clr_a.obj
-<$00>
+//font11.obj<$00>
+font11.obj<$00>
 
-
-
-
-clr_b.obj
-<$00>
-
-
-
-
-push_o.obj
-<$00>
-
-
-
-
-jibun1.obj
-<$00>
-
-
-
-
-jibun2.obj
-<$00>
-
-
-
-
-jibun3.obj
-<$00>
-
-
-
-
-jibun3a.obj
-<$00>
-
-
-
-
-jibun4.obj
-<$00>
-
-
-
-
-try.obj
-<$00>
-
-
-
-
-font11.obj
-<$00>
-
-
-
-
-width3.obj
-<$00>
-
-
-
+//width3.obj<$00>
+width3.obj<$00>
 
 #WRITE(PTR, $0022)
 #WRITE(PTR, $0024)
-M%03dF.OBJ
-<$00>
-
-
-
+//M%03dF.OBJ<$00>
+M%03dF.OBJ<$00>
 
 //ñ¢ìoò^ìÆï®ÉqÉìÉgÅa\nñºèÃÅQÅQÅF<$1D>\nê∂ëßç¿ïWÅF<$1D>Å|<$1E>034<$00>
 UNREGISTERED ANIMAL HINT!\n

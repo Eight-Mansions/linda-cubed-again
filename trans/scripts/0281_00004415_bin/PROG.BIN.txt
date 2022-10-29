@@ -10,71 +10,38 @@
 #WRITE(PTR, $0018)
 #WRITE(PTR, $001A)
 #WRITE(PTR, $001C)
-c002.obj
-<$00>
+//c002.obj<$00>
+c002.obj<$00>
 
+//c009.obj<$00>
+c009.obj<$00>
 
+//c023.obj<$00>
+c023.obj<$00>
 
+//c113a0.obj<$00>
+c113a0.obj<$00>
 
-c009.obj
-<$00>
+//c114a0.obj<$00>
+c114a0.obj<$00>
 
+//c114a1r.obj<$00>
+c114a1r.obj<$00>
 
+//c138a1.obj<$00>
+c138a1.obj<$00>
 
+//c168.obj<$00>
+c168.obj<$00>
 
-c023.obj
-<$00>
+//m040.obj<$00>
+m040.obj<$00>
 
+//m104_m.obj<$00>
+m104_m.obj<$00>
 
-
-
-c113a0.obj
-<$00>
-
-
-
-
-c114a0.obj
-<$00>
-
-
-
-
-c114a1r.obj
-<$00>
-
-
-
-
-c138a1.obj
-<$00>
-
-
-
-
-c168.obj
-<$00>
-
-
-
-
-m040.obj
-<$00>
-
-
-
-
-m104_m.obj
-<$00>
-
-
-
-
-m104_f.obj
-<$00>
-
-
-
+//m104_f.obj<$00>
+m104_f.obj<$00>
 
 #WRITE(PTR, $001E)
 //発電所１Ｆ<$00>
@@ -144,11 +111,8 @@ enough to fall for her antics!<$12><$00>
 <CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
-
+//<$00>
 <$00>
-
-
-
 
 //クーン、クーン……<$12><$00>
 Sniff, sniff...<$12><$00>
@@ -361,7 +325,7 @@ Back<$00>
 wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
-//<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>リンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
@@ -444,7 +408,7 @@ are dead ahead!<$00>
 <CLEAR>I'm absolutely certain!<$12><$00>
 
 
-//<$15>Yスケジュール<$00>
+//<$15><$59>スケジュール<$00>
 <$15><$59>Memo <$00>
 
 
@@ -616,15 +580,9 @@ to Mario in Spurr Valley.<$00>
 <CLEAR>Chase Angela to OzSat! Mario will follow from Spurr Valley.<$00>
 
 
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
-
-
-
 

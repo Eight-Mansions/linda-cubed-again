@@ -13,12 +13,12 @@
 Zombie Man<$00>
 
 
-//<CLEAR><$1C>Aの攻撃∥\n道具袋を　ねらって\n長い舌が　伸びてきた∥<$12><$00>
+//<CLEAR><$1C><$41>の攻撃∥\n道具袋を　ねらって\n長い舌が　伸びてきた∥<$12><$00>
 <CLEAR><$1C><$41>\n
 reached far to lap at the item bag!<$12><$00>
 
 
-//<CLEAR><$1C>Aの攻撃∥\n煮えたぎる　胃液のシャワー∥<$00>
+//<CLEAR><$1C><$41>の攻撃∥\n煮えたぎる　胃液のシャワー∥<$00>
 <CLEAR><$1C><$41>\n
 makes it rain with gastric acid.<$00>
 
@@ -27,22 +27,22 @@ makes it rain with gastric acid.<$00>
 Zombie Woman<$00>
 
 
-//<CLEAR><$1C>Aは\n遠くを　見ている…<$12><$00>
+//<CLEAR><$1C><$41>は\n遠くを　見ている…<$12><$00>
 <CLEAR><$1C><$41>\n
 stared into the distance.<$12><$00>
 
 
-//<CLEAR><$1C>Aは\n風の臭いに　おびえている…<$12><$00>
+//<CLEAR><$1C><$41>は\n風の臭いに　おびえている…<$12><$00>
 <CLEAR><$1C><$41>\n
 trembles at a smell in the air.<$12><$00>
 
 
-//<CLEAR><$1C>Aは\n大きく　２度、鳴いた∥<$12><$00>
+//<CLEAR><$1C><$41>は\n大きく　２度、鳴いた∥<$12><$00>
 <CLEAR><$1C><$41>\n
 called loudly 2 times!<$12><$00>
 
 
-//<CLEAR><$1C>Aは　<$1C>Tを見て\nヨダレを　たらした∥<$12><$00>
+//<CLEAR><$1C><$41>は　<$1C><$54>を見て\nヨダレを　たらした∥<$12><$00>
 <CLEAR><$1C><$41>\n
 drooled at the sight of <$1C><$54>.<$12><$00>
 
@@ -56,101 +56,53 @@ Ann<$00>
 
 
 #WRITE(PTR, $001E)
-c002.obj
-<$00>
+//c002.obj<$00>
+c002.obj<$00>
 
+//c007.obj<$00>
+c007.obj<$00>
 
+//c009.obj<$00>
+c009.obj<$00>
 
+//c009a1.obj<$00>
+c009a1.obj<$00>
 
-c007.obj
-<$00>
+//c010.obj<$00>
+c010.obj<$00>
 
+//c018.obj<$00>
+c018.obj<$00>
 
+//c030.obj<$00>
+c030.obj<$00>
 
+//c031.obj<$00>
+c031.obj<$00>
 
-c009.obj
-<$00>
+//c168a0.obj<$00>
+c168a0.obj<$00>
 
+//c168a1.obj<$00>
+c168a1.obj<$00>
 
+//c168a2.obj<$00>
+c168a2.obj<$00>
 
+//kao_l15.obj<$00>
+kao_l15.obj<$00>
 
-c009a1.obj
-<$00>
+//m126m.obj<$00>
+m126m.obj<$00>
 
+//m126f.obj<$00>
+m126f.obj<$00>
 
+//m127m.obj<$00>
+m127m.obj<$00>
 
-
-c010.obj
-<$00>
-
-
-
-
-c018.obj
-<$00>
-
-
-
-
-c030.obj
-<$00>
-
-
-
-
-c031.obj
-<$00>
-
-
-
-
-c168a0.obj
-<$00>
-
-
-
-
-c168a1.obj
-<$00>
-
-
-
-
-c168a2.obj
-<$00>
-
-
-
-
-kao_l15.obj
-<$00>
-
-
-
-
-m126m.obj
-<$00>
-
-
-
-
-m126f.obj
-<$00>
-
-
-
-
-m127m.obj
-<$00>
-
-
-
-
-m127f.obj
-<$00>
-
-
-
+//m127f.obj<$00>
+m127f.obj<$00>
 
 #WRITE(PTR, $0020)
 //ミナゴ<$00>
@@ -186,11 +138,11 @@ enough to fall for her antics!<$12><$00>
 <CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
-//<CLEAR><$19>1<$15>S誰もいないようだ<$12><$00>
+//<CLEAR><$19><$31><$15><$53>誰もいないようだ<$12><$00>
 <CLEAR><$19><$31><$15><$53>No one is here.<$12><$00>
 
 
-//<CLEAR><$19>1<$15>S扉は閉まっている<$12><$00>
+//<CLEAR><$19><$31><$15><$53>扉は閉まっている<$12><$00>
 <CLEAR><$19><$31><$15><$53>The door is closed.<$12><$00>
 
 
@@ -264,7 +216,7 @@ Back<$00>
 wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
-//<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>リンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
@@ -451,27 +403,15 @@ Sniff...sniff, sniff?<$12>\n
 <CLEAR>Can't run away now!Ψ<$00>
 
 
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
-
-
-
 

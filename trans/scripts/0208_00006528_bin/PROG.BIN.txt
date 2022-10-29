@@ -21,7 +21,7 @@ Mutant Emori<$00>
 <CLEAR>Mutant Emori pushed parasitic worms out from his palms!<$00>
 
 
-//<CLEAR>変態エモリは\n<$1C>Tを　チラリと見た∥<$12><$00>
+//<CLEAR>変態エモリは\n<$1C><$54>を　チラリと見た∥<$12><$00>
 <CLEAR>Mutant Emori took a fleeting glimpse at\n
 <$1C><$54>!<$12><$00>
 
@@ -40,263 +40,134 @@ Green liquid spilled out!<$00>
 
 
 #WRITE(PTR, $001C)
-bang.obj
-<$00>
+//bang.obj<$00>
+bang.obj<$00>
 
+//t22_sp1.obj<$00>
+t22_sp1.obj<$00>
 
+//t22_sp3.obj<$00>
+t22_sp3.obj<$00>
 
+//c002.obj<$00>
+c002.obj<$00>
 
-t22_sp1.obj
-<$00>
+//c009.obj<$00>
+c009.obj<$00>
 
+//c009a1.obj<$00>
+c009a1.obj<$00>
 
+//c010.obj<$00>
+c010.obj<$00>
 
+//c018.obj<$00>
+c018.obj<$00>
 
-t22_sp3.obj
-<$00>
+//c018_crs.obj<$00>
+c018_crs.obj<$00>
 
+//c021ta0.obj<$00>
+c021ta0.obj<$00>
 
+//c021ta1.obj<$00>
+c021ta1.obj<$00>
 
+//c021f.obj<$00>
+c021f.obj<$00>
 
-c002.obj
-<$00>
+//c021h.obj<$00>
+c021h.obj<$00>
 
+//c021l.obj<$00>
+c021l.obj<$00>
 
+//c036.obj<$00>
+c036.obj<$00>
 
+//c036c.obj<$00>
+c036c.obj<$00>
 
-c009.obj
-<$00>
+//c036sht3.obj<$00>
+c036sht3.obj<$00>
 
+//kao_l31.obj<$00>
+kao_l31.obj<$00>
 
+//kao_l32.obj<$00>
+kao_l32.obj<$00>
 
+//kao_s3.obj<$00>
+kao_s3.obj<$00>
 
-c009a1.obj
-<$00>
+//kao_s12.obj<$00>
+kao_s12.obj<$00>
 
+//kao_em1.obj<$00>
+kao_em1.obj<$00>
 
+//kao_em2.obj<$00>
+kao_em2.obj<$00>
 
+//kao_em3.obj<$00>
+kao_em3.obj<$00>
 
-c010.obj
-<$00>
+//kao_em5.obj<$00>
+kao_em5.obj<$00>
 
+//kao_em6.obj<$00>
+kao_em6.obj<$00>
 
+//bef_00.obj<$00>
+bef_00.obj<$00>
 
+//bef_01.obj<$00>
+bef_01.obj<$00>
 
-c018.obj
-<$00>
+//bef_02.obj<$00>
+bef_02.obj<$00>
 
+//m136_0.obj<$00>
+m136_0.obj<$00>
 
+//m136_1.obj<$00>
+m136_1.obj<$00>
 
+//m136_2.obj<$00>
+m136_2.obj<$00>
 
-c018_crs.obj
-<$00>
+//m136_3.obj<$00>
+m136_3.obj<$00>
 
+//m136_4.obj<$00>
+m136_4.obj<$00>
 
+//m136_6.obj<$00>
+m136_6.obj<$00>
 
+//m136_7.obj<$00>
+m136_7.obj<$00>
 
-c021ta0.obj
-<$00>
+//m136_8.obj<$00>
+m136_8.obj<$00>
 
+//m136_9.obj<$00>
+m136_9.obj<$00>
 
+//m136_a.obj<$00>
+m136_a.obj<$00>
 
+//m136_b.obj<$00>
+m136_b.obj<$00>
 
-c021ta1.obj
-<$00>
+//m136_c.obj<$00>
+m136_c.obj<$00>
 
+//m136_d.obj<$00>
+m136_d.obj<$00>
 
-
-
-c021f.obj
-<$00>
-
-
-
-
-c021h.obj
-<$00>
-
-
-
-
-c021l.obj
-<$00>
-
-
-
-
-c036.obj
-<$00>
-
-
-
-
-c036c.obj
-<$00>
-
-
-
-
-c036sht3.obj
-<$00>
-
-
-
-
-kao_l31.obj
-<$00>
-
-
-
-
-kao_l32.obj
-<$00>
-
-
-
-
-kao_s3.obj
-<$00>
-
-
-
-
-kao_s12.obj
-<$00>
-
-
-
-
-kao_em1.obj
-<$00>
-
-
-
-
-kao_em2.obj
-<$00>
-
-
-
-
-kao_em3.obj
-<$00>
-
-
-
-
-kao_em5.obj
-<$00>
-
-
-
-
-kao_em6.obj
-<$00>
-
-
-
-
-bef_00.obj
-<$00>
-
-
-
-
-bef_01.obj
-<$00>
-
-
-
-
-bef_02.obj
-<$00>
-
-
-
-
-m136_0.obj
-<$00>
-
-
-
-
-m136_1.obj
-<$00>
-
-
-
-
-m136_2.obj
-<$00>
-
-
-
-
-m136_3.obj
-<$00>
-
-
-
-
-m136_4.obj
-<$00>
-
-
-
-
-m136_6.obj
-<$00>
-
-
-
-
-m136_7.obj
-<$00>
-
-
-
-
-m136_8.obj
-<$00>
-
-
-
-
-m136_9.obj
-<$00>
-
-
-
-
-m136_a.obj
-<$00>
-
-
-
-
-m136_b.obj
-<$00>
-
-
-
-
-m136_c.obj
-<$00>
-
-
-
-
-m136_d.obj
-<$00>
-
-
-
-
-m136_e.obj
-<$00>
-
-
-
+//m136_e.obj<$00>
+m136_e.obj<$00>
 
 #WRITE(PTR, $001E)
 //シェルターB3<$00>
@@ -332,7 +203,7 @@ enough to fall for her antics!<$12><$00>
 <CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
-//<CLEAR><$19>1<$15>S死んでいるようだ<$12><$00>
+//<CLEAR><$19><$31><$15><$53>死んでいるようだ<$12><$00>
 <CLEAR><$19><$31><$15><$53>It appears dead.<$12><$00>
 
 
@@ -493,7 +364,6 @@ IN TRANS-CARGO UNIT.<$12><$00>
 //<CLEAR><$00>
 <CLEAR><$00>
 
-
 //<$06>TRANS-CARGO IN<$04>∥<$12><$00>
 <$06>Now loading to TCU...<$04>!<$12><$00>
 
@@ -567,7 +437,7 @@ Back<$00>
 wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
-//<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>リンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
@@ -650,33 +520,18 @@ are dead ahead!<$00>
 <CLEAR>I'm absolutely certain!<$12><$00>
 
 
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
-
-
-
 

@@ -10,179 +10,92 @@
 #WRITE(PTR, $0018)
 #WRITE(PTR, $001A)
 #WRITE(PTR, $001C)
-hunsui.obj
-<$00>
+//hunsui.obj<$00>
+hunsui.obj<$00>
 
+//branko.obj<$00>
+branko.obj<$00>
 
+//c002.obj<$00>
+c002.obj<$00>
 
+//c002_bra.obj<$00>
+c002_bra.obj<$00>
 
-branko.obj
-<$00>
+//c009.obj<$00>
+c009.obj<$00>
 
+//c009_bra.obj<$00>
+c009_bra.obj<$00>
 
+//c011.obj<$00>
+c011.obj<$00>
 
+//c011f.obj<$00>
+c011f.obj<$00>
 
-c002.obj
-<$00>
+//c023.obj<$00>
+c023.obj<$00>
 
+//c034.obj<$00>
+c034.obj<$00>
 
+//c058.obj<$00>
+c058.obj<$00>
 
+//c105a1.obj<$00>
+c105a1.obj<$00>
 
-c002_bra.obj
-<$00>
+//c107a0.obj<$00>
+c107a0.obj<$00>
 
+//c108a0.obj<$00>
+c108a0.obj<$00>
 
+//c112a0.obj<$00>
+c112a0.obj<$00>
 
+//c114a0.obj<$00>
+c114a0.obj<$00>
 
-c009.obj
-<$00>
+//c125a0.obj<$00>
+c125a0.obj<$00>
 
+//c125a2.obj<$00>
+c125a2.obj<$00>
 
+//c126a1.obj<$00>
+c126a1.obj<$00>
 
+//c127a0.obj<$00>
+c127a0.obj<$00>
 
-c009_bra.obj
-<$00>
+//c128a0.obj<$00>
+c128a0.obj<$00>
 
+//c168.obj<$00>
+c168.obj<$00>
 
+//kao_m1.obj<$00>
+kao_m1.obj<$00>
 
+//kao_l10.obj<$00>
+kao_l10.obj<$00>
 
-c011.obj
-<$00>
+//kao_l11.obj<$00>
+kao_l11.obj<$00>
 
+//kao_l13.obj<$00>
+kao_l13.obj<$00>
 
+//kao_n1.obj<$00>
+kao_n1.obj<$00>
 
+//kao_h1.obj<$00>
+kao_h1.obj<$00>
 
-c011f.obj
-<$00>
-
-
-
-
-c023.obj
-<$00>
-
-
-
-
-c034.obj
-<$00>
-
-
-
-
-c058.obj
-<$00>
-
-
-
-
-c105a1.obj
-<$00>
-
-
-
-
-c107a0.obj
-<$00>
-
-
-
-
-c108a0.obj
-<$00>
-
-
-
-
-c112a0.obj
-<$00>
-
-
-
-
-c114a0.obj
-<$00>
-
-
-
-
-c125a0.obj
-<$00>
-
-
-
-
-c125a2.obj
-<$00>
-
-
-
-
-c126a1.obj
-<$00>
-
-
-
-
-c127a0.obj
-<$00>
-
-
-
-
-c128a0.obj
-<$00>
-
-
-
-
-c168.obj
-<$00>
-
-
-
-
-kao_m1.obj
-<$00>
-
-
-
-
-kao_l10.obj
-<$00>
-
-
-
-
-kao_l11.obj
-<$00>
-
-
-
-
-kao_l13.obj
-<$00>
-
-
-
-
-kao_n1.obj
-<$00>
-
-
-
-
-kao_h1.obj
-<$00>
-
-
-
-
-kao_h6.obj
-<$00>
-
-
-
+//kao_h6.obj<$00>
+kao_h6.obj<$00>
 
 #WRITE(PTR, $001E)
 //ハーディア<$00>
@@ -263,11 +176,11 @@ Fountain of Lovers?\n
 <$01>Yes<$0E> / <$01>No<$0E><$00>
 
 
-//<CLEAR><$19>1<$15>S<CLEAR>ケンは　１￥を\n泉に投げ入れた！<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53><CLEAR>ケンは　１￥を\n泉に投げ入れた！<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53><CLEAR>Ken tossed １￥ into the fountain!<$14><$12><$00>
 
 
-//<CLEAR><$19>1<$15>S<CLEAR>ケンは　お金を投げるフリをした<$12><$00>
+//<CLEAR><$19><$31><$15><$53><CLEAR>ケンは　お金を投げるフリをした<$12><$00>
 <CLEAR><$19><$31><$15><$53><CLEAR>Ken pretended to toss a coin.<$12><$00>
 
 
@@ -331,7 +244,7 @@ Please? Pretty please?\n
 <$01>Sure!<$0E> / <$01>I can't.<$0E><$00>
 
 
-//<CLEAR><$19>1<$15>Sケンは、猟犬「<$1D>」を手に入れた！<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>ケンは、猟犬「<$1D>」を手に入れた！<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Ken acquired the dog, <$1D>!<$14><$12><$00>
 
 
@@ -343,11 +256,8 @@ Please? Pretty please?\n
 <CLEAR>Take good care of our <$1D>!<$12><$00>
 
 
-
+//<$00>
 <$00>
-
-
-
 
 //クーン、クーン……<$12><$00>
 Sniff, sniff...<$12><$00>
@@ -659,7 +569,7 @@ Back<$00>
 wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
-//<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>リンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
@@ -742,39 +652,21 @@ are dead ahead!<$00>
 <CLEAR>I'm absolutely certain!<$12><$00>
 
 
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
-
-
-
 

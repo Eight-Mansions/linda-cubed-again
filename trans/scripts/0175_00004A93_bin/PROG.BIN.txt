@@ -10,137 +10,71 @@
 #WRITE(PTR, $0016)
 #WRITE(PTR, $0018)
 #WRITE(PTR, $001A)
-hunsui.obj
-<$00>
+//hunsui.obj<$00>
+hunsui.obj<$00>
 
+//c002.obj<$00>
+c002.obj<$00>
 
+//c009.obj<$00>
+c009.obj<$00>
 
+//c009a1.obj<$00>
+c009a1.obj<$00>
 
-c002.obj
-<$00>
+//c010.obj<$00>
+c010.obj<$00>
 
+//c018.obj<$00>
+c018.obj<$00>
 
+//c018_sya.obj<$00>
+c018_sya.obj<$00>
 
+//c106a1r.obj<$00>
+c106a1r.obj<$00>
 
-c009.obj
-<$00>
+//c111a1.obj<$00>
+c111a1.obj<$00>
 
+//c128a2.obj<$00>
+c128a2.obj<$00>
 
+//c135a0.obj<$00>
+c135a0.obj<$00>
 
+//c136a2.obj<$00>
+c136a2.obj<$00>
 
-c009a1.obj
-<$00>
+//c145a.obj<$00>
+c145a.obj<$00>
 
+//c152a2.obj<$00>
+c152a2.obj<$00>
 
+//c154a1.obj<$00>
+c154a1.obj<$00>
 
+//c167.obj<$00>
+c167.obj<$00>
 
-c010.obj
-<$00>
+//c168.obj<$00>
+c168.obj<$00>
 
+//c195.obj<$00>
+c195.obj<$00>
 
+//m040.obj<$00>
+m040.obj<$00>
 
+//kao_s1.obj<$00>
+kao_s1.obj<$00>
 
-c018.obj
-<$00>
+//kao_s2.obj<$00>
+kao_s2.obj<$00>
 
-
-
-
-c018_sya.obj
-<$00>
-
-
-
-
-c106a1r.obj
-<$00>
-
-
-
-
-c111a1.obj
-<$00>
-
-
-
-
-c128a2.obj
-<$00>
-
-
-
-
-c135a0.obj
-<$00>
-
-
-
-
-c136a2.obj
-<$00>
-
-
-
-
-c145a.obj
-<$00>
-
-
-
-
-c152a2.obj
-<$00>
-
-
-
-
-c154a1.obj
-<$00>
-
-
-
-
-c167.obj
-<$00>
-
-
-
-
-c168.obj
-<$00>
-
-
-
-
-c195.obj
-<$00>
-
-
-
-
-m040.obj
-<$00>
-
-
-
-
-kao_s1.obj
-<$00>
-
-
-
-
-kao_s2.obj
-<$00>
-
-
-
-
-kao_s3.obj
-<$00>
-
-
-
+//kao_s3.obj<$00>
+kao_s3.obj<$00>
 
 #WRITE(PTR, $001C)
 //ホスピコ<$00>
@@ -385,7 +319,7 @@ Back<$00>
 wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
-//<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>リンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
@@ -468,27 +402,15 @@ are dead ahead!<$00>
 <CLEAR>I'm absolutely certain!<$12><$00>
 
 
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
-
-
-
 

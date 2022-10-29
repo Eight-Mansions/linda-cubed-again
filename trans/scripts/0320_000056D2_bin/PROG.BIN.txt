@@ -10,119 +10,62 @@
 #WRITE(PTR, $0016)
 #WRITE(PTR, $0018)
 #WRITE(PTR, $001A)
-c002.obj
-<$00>
+//c002.obj<$00>
+c002.obj<$00>
 
+//c009.obj<$00>
+c009.obj<$00>
 
+//c023.obj<$00>
+c023.obj<$00>
 
+//c104a1.obj<$00>
+c104a1.obj<$00>
 
-c009.obj
-<$00>
+//c105a1.obj<$00>
+c105a1.obj<$00>
 
+//c106a2.obj<$00>
+c106a2.obj<$00>
 
+//c108a0.obj<$00>
+c108a0.obj<$00>
 
+//c115a2.obj<$00>
+c115a2.obj<$00>
 
-c023.obj
-<$00>
+//c119a2.obj<$00>
+c119a2.obj<$00>
 
+//c124a0.obj<$00>
+c124a0.obj<$00>
 
+//c124a1.obj<$00>
+c124a1.obj<$00>
 
+//c159a2.obj<$00>
+c159a2.obj<$00>
 
-c104a1.obj
-<$00>
+//c160a1.obj<$00>
+c160a1.obj<$00>
 
+//c161a0.obj<$00>
+c161a0.obj<$00>
 
+//c181.obj<$00>
+c181.obj<$00>
 
+//m001.obj<$00>
+m001.obj<$00>
 
-c105a1.obj
-<$00>
+//m024.obj<$00>
+m024.obj<$00>
 
+//m040.obj<$00>
+m040.obj<$00>
 
-
-
-c106a2.obj
-<$00>
-
-
-
-
-c108a0.obj
-<$00>
-
-
-
-
-c115a2.obj
-<$00>
-
-
-
-
-c119a2.obj
-<$00>
-
-
-
-
-c124a0.obj
-<$00>
-
-
-
-
-c124a1.obj
-<$00>
-
-
-
-
-c159a2.obj
-<$00>
-
-
-
-
-c160a1.obj
-<$00>
-
-
-
-
-c161a0.obj
-<$00>
-
-
-
-
-c181.obj
-<$00>
-
-
-
-
-m001.obj
-<$00>
-
-
-
-
-m024.obj
-<$00>
-
-
-
-
-m040.obj
-<$00>
-
-
-
-
-m056.obj
-<$00>
-
-
-
+//m056.obj<$00>
+m056.obj<$00>
 
 #WRITE(PTR, $001C)
 //バトルパーク<$00>
@@ -399,7 +342,7 @@ Back<$00>
 wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
-//<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>リンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
@@ -482,7 +425,7 @@ are dead ahead!<$00>
 <CLEAR>I'm absolutely certain!<$12><$00>
 
 
-//<$15>Yスケジュール<$00>
+//<$15><$59>スケジュール<$00>
 <$15><$59>Memo <$00>
 
 
@@ -654,9 +597,6 @@ to Mario in Spurr Valley.<$00>
 <CLEAR>Chase Angela to OzSat! Mario will follow from Spurr Valley.<$00>
 
 
-
+//<$00>
 <$00>
-
-
-
 

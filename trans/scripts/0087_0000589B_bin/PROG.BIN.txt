@@ -10,41 +10,23 @@
 #WRITE(PTR, $0018)
 #WRITE(PTR, $001A)
 #WRITE(PTR, $001C)
-table.obj
-<$00>
+//table.obj<$00>
+table.obj<$00>
 
+//c002.obj<$00>
+c002.obj<$00>
 
+//c009.obj<$00>
+c009.obj<$00>
 
+//c011.obj<$00>
+c011.obj<$00>
 
-c002.obj
-<$00>
+//c023.obj<$00>
+c023.obj<$00>
 
-
-
-
-c009.obj
-<$00>
-
-
-
-
-c011.obj
-<$00>
-
-
-
-
-c023.obj
-<$00>
-
-
-
-
-box.obj
-<$00>
-
-
-
+//box.obj<$00>
+box.obj<$00>
 
 #WRITE(PTR, $001E)
 //空き家<$00>
@@ -114,15 +96,15 @@ enough to fall for her antics!<$12><$00>
 <CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
-//<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>ケンは「<$1D>」を発見∥<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Ken found the <$1D>!<$14><$12><$00>
 
 
-//<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53><CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53><CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
-//<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53><CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53><CLEAR>Ken acquired <$1D>!<$14><$12><$00>
 
 
@@ -191,7 +173,7 @@ Back<$00>
 wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
-//<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>リンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
@@ -279,15 +261,9 @@ Sniff...sniff, sniff?<$12>\n
 <CLEAR>It smells like a bunch of dust.<$12><$00>
 
 
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
-
-
-
 

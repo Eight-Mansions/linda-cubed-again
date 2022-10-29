@@ -10,239 +10,122 @@
 #WRITE(PTR, $001A)
 #WRITE(PTR, $001C)
 #WRITE(PTR, $001E)
-ozu_sp1.obj
-<$00>
+//ozu_sp1.obj<$00>
+ozu_sp1.obj<$00>
 
+//ozu_sp2.obj<$00>
+ozu_sp2.obj<$00>
 
+//ozu_sp3.obj<$00>
+ozu_sp3.obj<$00>
 
+//sht1.obj<$00>
+sht1.obj<$00>
 
-ozu_sp2.obj
-<$00>
+//sht2.obj<$00>
+sht2.obj<$00>
 
+//c002.obj<$00>
+c002.obj<$00>
 
+//c009.obj<$00>
+c009.obj<$00>
 
+//c020.obj<$00>
+c020.obj<$00>
 
-ozu_sp3.obj
-<$00>
+//c023.obj<$00>
+c023.obj<$00>
 
+//c036sht2.obj<$00>
+c036sht2.obj<$00>
 
+//c051.obj<$00>
+c051.obj<$00>
 
+//c105a0.obj<$00>
+c105a0.obj<$00>
 
-sht1.obj
-<$00>
+//c105a1.obj<$00>
+c105a1.obj<$00>
 
+//c105a2r.obj<$00>
+c105a2r.obj<$00>
 
+//c107a2.obj<$00>
+c107a2.obj<$00>
 
+//c108a0.obj<$00>
+c108a0.obj<$00>
 
-sht2.obj
-<$00>
+//c108a2.obj<$00>
+c108a2.obj<$00>
 
+//c110a1.obj<$00>
+c110a1.obj<$00>
 
+//c115a0.obj<$00>
+c115a0.obj<$00>
 
+//c117a0.obj<$00>
+c117a0.obj<$00>
 
-c002.obj
-<$00>
+//c117a2.obj<$00>
+c117a2.obj<$00>
 
+//c118a2.obj<$00>
+c118a2.obj<$00>
 
+//c124a0.obj<$00>
+c124a0.obj<$00>
 
+//c127a0.obj<$00>
+c127a0.obj<$00>
 
-c009.obj
-<$00>
+//c131.obj<$00>
+c131.obj<$00>
 
+//c132a.obj<$00>
+c132a.obj<$00>
 
+//c134a.obj<$00>
+c134a.obj<$00>
 
+//c145a.obj<$00>
+c145a.obj<$00>
 
-c020.obj
-<$00>
+//c147a1r.obj<$00>
+c147a1r.obj<$00>
 
+//c147a1l.obj<$00>
+c147a1l.obj<$00>
 
+//c147a2l.obj<$00>
+c147a2l.obj<$00>
 
+//c172_0r.obj<$00>
+c172_0r.obj<$00>
 
-c023.obj
-<$00>
+//c189.obj<$00>
+c189.obj<$00>
 
+//width2.obj<$00>
+width2.obj<$00>
 
+//kao_l10.obj<$00>
+kao_l10.obj<$00>
 
+//kao_l11.obj<$00>
+kao_l11.obj<$00>
 
-c036sht2.obj
-<$00>
+//kao_l12.obj<$00>
+kao_l12.obj<$00>
 
+//kao_l13.obj<$00>
+kao_l13.obj<$00>
 
-
-
-c051.obj
-<$00>
-
-
-
-
-c105a0.obj
-<$00>
-
-
-
-
-c105a1.obj
-<$00>
-
-
-
-
-c105a2r.obj
-<$00>
-
-
-
-
-c107a2.obj
-<$00>
-
-
-
-
-c108a0.obj
-<$00>
-
-
-
-
-c108a2.obj
-<$00>
-
-
-
-
-c110a1.obj
-<$00>
-
-
-
-
-c115a0.obj
-<$00>
-
-
-
-
-c117a0.obj
-<$00>
-
-
-
-
-c117a2.obj
-<$00>
-
-
-
-
-c118a2.obj
-<$00>
-
-
-
-
-c124a0.obj
-<$00>
-
-
-
-
-c127a0.obj
-<$00>
-
-
-
-
-c131.obj
-<$00>
-
-
-
-
-c132a.obj
-<$00>
-
-
-
-
-c134a.obj
-<$00>
-
-
-
-
-c145a.obj
-<$00>
-
-
-
-
-c147a1r.obj
-<$00>
-
-
-
-
-c147a1l.obj
-<$00>
-
-
-
-
-c147a2l.obj
-<$00>
-
-
-
-
-c172_0r.obj
-<$00>
-
-
-
-
-c189.obj
-<$00>
-
-
-
-
-width2.obj
-<$00>
-
-
-
-
-kao_l10.obj
-<$00>
-
-
-
-
-kao_l11.obj
-<$00>
-
-
-
-
-kao_l12.obj
-<$00>
-
-
-
-
-kao_l13.obj
-<$00>
-
-
-
-
-kao_l33.obj
-<$00>
-
-
-
+//kao_l33.obj<$00>
+kao_l33.obj<$00>
 
 #WRITE(PTR, $0020)
 //軌道衛星オズサット１Ｆ<$00>
@@ -831,7 +714,7 @@ Back<$00>
 wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
-//<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>リンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
@@ -914,7 +797,7 @@ are dead ahead!<$00>
 <CLEAR>I'm absolutely certain!<$12><$00>
 
 
-//<$15>Yスケジュール<$00>
+//<$15><$59>スケジュール<$00>
 <$15><$59>Memo <$00>
 
 
@@ -1086,9 +969,6 @@ to Mario in Spurr Valley.<$00>
 <CLEAR>Chase Angela to OzSat! Mario will follow from Spurr Valley.<$00>
 
 
-
+//<$00>
 <$00>
-
-
-
 

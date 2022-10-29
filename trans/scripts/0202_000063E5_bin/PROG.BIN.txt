@@ -13,172 +13,94 @@
 Origin<$00>
 
 
-//<CLEAR><$1C>Aは　体内に\nドパーミンを　分泌した∥<$12><$00>
+//<CLEAR><$1C><$41>は　体内に\nドパーミンを　分泌した∥<$12><$00>
 <CLEAR><$1C><$41>\n
 secreted excess dopamine!<$12><$00>
 
 
-//<CLEAR><$1C>Aの攻撃∥\n道具袋を　ねらって\n長い舌が　伸びてきた∥<$12><$00>
+//<CLEAR><$1C><$41>の攻撃∥\n道具袋を　ねらって\n長い舌が　伸びてきた∥<$12><$00>
 <CLEAR><$1C><$41>\n
 reached far to lap at the item bag!<$12><$00>
 
 
 #WRITE(PTR, $0020)
-t21_sp1.obj
-<$00>
+//t21_sp1.obj<$00>
+t21_sp1.obj<$00>
 
+//t21_sp2.obj<$00>
+t21_sp2.obj<$00>
 
+//t21_sp3.obj<$00>
+t21_sp3.obj<$00>
 
+//t21_sp4.obj<$00>
+t21_sp4.obj<$00>
 
-t21_sp2.obj
-<$00>
+//t21_sp8.obj<$00>
+t21_sp8.obj<$00>
 
+//t21_sp9.obj<$00>
+t21_sp9.obj<$00>
 
+//c002.obj<$00>
+c002.obj<$00>
 
+//c009.obj<$00>
+c009.obj<$00>
 
-t21_sp3.obj
-<$00>
+//c009a1.obj<$00>
+c009a1.obj<$00>
 
+//c010.obj<$00>
+c010.obj<$00>
 
+//c018.obj<$00>
+c018.obj<$00>
 
+//c019.obj<$00>
+c019.obj<$00>
 
-t21_sp4.obj
-<$00>
+//c021.obj<$00>
+c021.obj<$00>
 
+//width2.obj<$00>
+width2.obj<$00>
 
+//box.obj<$00>
+box.obj<$00>
 
+//m129.obj<$00>
+m129.obj<$00>
 
-t21_sp8.obj
-<$00>
+//kao_l15.obj<$00>
+kao_l15.obj<$00>
 
+//kao_l16.obj<$00>
+kao_l16.obj<$00>
 
+//kao_s1.obj<$00>
+kao_s1.obj<$00>
 
+//kao_s3.obj<$00>
+kao_s3.obj<$00>
 
-t21_sp9.obj
-<$00>
+//kao_s13.obj<$00>
+kao_s13.obj<$00>
 
+//kao_em1.obj<$00>
+kao_em1.obj<$00>
 
+//kao_em2.obj<$00>
+kao_em2.obj<$00>
 
+//kao_em3.obj<$00>
+kao_em3.obj<$00>
 
-c002.obj
-<$00>
+//kao_em5.obj<$00>
+kao_em5.obj<$00>
 
-
-
-
-c009.obj
-<$00>
-
-
-
-
-c009a1.obj
-<$00>
-
-
-
-
-c010.obj
-<$00>
-
-
-
-
-c018.obj
-<$00>
-
-
-
-
-c019.obj
-<$00>
-
-
-
-
-c021.obj
-<$00>
-
-
-
-
-width2.obj
-<$00>
-
-
-
-
-box.obj
-<$00>
-
-
-
-
-m129.obj
-<$00>
-
-
-
-
-kao_l15.obj
-<$00>
-
-
-
-
-kao_l16.obj
-<$00>
-
-
-
-
-kao_s1.obj
-<$00>
-
-
-
-
-kao_s3.obj
-<$00>
-
-
-
-
-kao_s13.obj
-<$00>
-
-
-
-
-kao_em1.obj
-<$00>
-
-
-
-
-kao_em2.obj
-<$00>
-
-
-
-
-kao_em3.obj
-<$00>
-
-
-
-
-kao_em5.obj
-<$00>
-
-
-
-
-m129m.obj
-<$00>
-
-
-
+//m129m.obj<$00>
+m129m.obj<$00>
 
 #WRITE(PTR, $0022)
 //研究室<$00>
@@ -214,38 +136,38 @@ enough to fall for her antics!<$12><$00>
 <CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
-//<CLEAR><$19>1<$15>S子供の頃から　今に至るまでの\nサチコの写真が　壁いっぱいに\n貼られている<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>子供の頃から　今に至るまでの\nサチコの写真が　壁いっぱいに\n貼られている<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Photos of Sachiko throughout her childhood span the wall\n
 from floor to ceiling.<$14><$12><$00>
 
 
-//<CLEAR><$19>1<$15>S全身が赤い　手足のない\n奇形の人形が　ある<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>全身が赤い　手足のない\n奇形の人形が　ある<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>This doll has a red body and no legs, like a weird bath\n
 toy.<$14><$12><$00>
 
 
-//<CLEAR><$19>1<$15>S片手を上げた　顔が<$1B>ネコに似た\n動物の人形が　ある<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>片手を上げた　顔が<$1B>ネコに似た\n動物の人形が　ある<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>This doll has its paw raised.\n
 It resembles a <$1B>cat.<$14><$12><$00>
 
 
-//<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>ケンは「<$1D>」を発見∥<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Ken found the <$1D>!<$14><$12><$00>
 
 
-//<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53><CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53><CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
-//<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53><CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53><CLEAR>Ken acquired <$1D>!<$14><$12><$00>
 
 
-//<CLEAR><$19>1<$15>S鍵がかかっていて開かない<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>鍵がかかっていて開かない<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>This door is locked and will not open.<$14><$12><$00>
 
 
-//<CLEAR><$19>1<$15>Sケンは、「研究室の鍵」を\n使った<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>ケンは、「研究室の鍵」を\n使った<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Ken used the Lab Key.<$14><$12><$00>
 
 
@@ -436,30 +358,30 @@ enough to fall for her antics!<$12><$00>
 <CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
-//<CLEAR><$19>1<$15>S子供の頃から　今に至るまでの\nサチコの写真が　壁いっぱいに\n貼られている<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>子供の頃から　今に至るまでの\nサチコの写真が　壁いっぱいに\n貼られている<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Photos of Sachiko throughout her childhood span the wall\n
 from floor to ceiling.<$14><$12><$00>
 
 
-//<CLEAR><$19>1<$15>S全身が赤い　手足のない\n奇形の人形が　ある<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>全身が赤い　手足のない\n奇形の人形が　ある<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>This doll has a red body and no legs, like a weird bath\n
 toy.<$14><$12><$00>
 
 
-//<CLEAR><$19>1<$15>S片手を上げた　顔が<$1B>ネコに似た\n動物の人形が　ある<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>片手を上げた　顔が<$1B>ネコに似た\n動物の人形が　ある<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>This doll has its paw raised.\n
 It resembles a <$1B>cat.<$14><$12><$00>
 
 
-//<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>ケンは「<$1D>」を発見∥<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Ken found the <$1D>!<$14><$12><$00>
 
 
-//<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53><CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53><CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
-//<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53><CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53><CLEAR>Ken acquired <$1D>!<$14><$12><$00>
 
 
@@ -515,7 +437,7 @@ tragedy.<$00>
 <CLEAR>You two are going, of course? We'll see you there!<$00>
 
 
-//<CLEAR><$19>1<$15>S頭の大きな　赤い人形が\n入っているようだ<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>頭の大きな　赤い人形が\n入っているようだ<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Atop the table sits a red doll with a large head.<$14><$12><$00>
 
 
@@ -553,7 +475,7 @@ enough to fall for her antics!<$12><$00>
 <CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
-//<CLEAR><$19>1<$15>S頭の大きな　赤い人形が\n入っているようだ<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>頭の大きな　赤い人形が\n入っているようだ<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Atop the table sits a red doll with a large head.<$14><$12><$00>
 
 
@@ -627,7 +549,7 @@ Back<$00>
 wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
-//<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>リンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
@@ -719,15 +641,9 @@ are dead ahead!<$00>
 <CLEAR>Can't run away now!Ψ<$00>
 
 
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
-
-
-
 

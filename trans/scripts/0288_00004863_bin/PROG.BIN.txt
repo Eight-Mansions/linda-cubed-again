@@ -10,41 +10,23 @@
 #WRITE(PTR, $0016)
 #WRITE(PTR, $0018)
 #WRITE(PTR, $001A)
-t03_sp1.obj
-<$00>
+//t03_sp1.obj<$00>
+t03_sp1.obj<$00>
 
+//c002.obj<$00>
+c002.obj<$00>
 
+//c009.obj<$00>
+c009.obj<$00>
 
+//c023.obj<$00>
+c023.obj<$00>
 
-c002.obj
-<$00>
+//c161a0.obj<$00>
+c161a0.obj<$00>
 
-
-
-
-c009.obj
-<$00>
-
-
-
-
-c023.obj
-<$00>
-
-
-
-
-c161a0.obj
-<$00>
-
-
-
-
-c185.obj
-<$00>
-
-
-
+//c185.obj<$00>
+c185.obj<$00>
 
 #WRITE(PTR, $001C)
 //宿＿屋<$00>
@@ -104,7 +86,7 @@ at Linda's? Being noisy here could be nuisance to others.<$12><$00>
 
 
 #WRITE(PTR, $001E)
-//<$15>Yホテル<$00>
+//<$15><$59>ホテル<$00>
 <$15><$59>Hotel<$00>
 
 
@@ -203,7 +185,7 @@ Back<$00>
 wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
-//<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>リンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
@@ -367,7 +349,7 @@ lunch<$00>
 dinner<$00>
 
 
-//<$15>Yスケジュール<$00>
+//<$15><$59>スケジュール<$00>
 <$15><$59>Memo <$00>
 
 
@@ -539,15 +521,9 @@ to Mario in Spurr Valley.<$00>
 <CLEAR>Chase Angela to OzSat! Mario will follow from Spurr Valley.<$00>
 
 
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
-
-
-
 

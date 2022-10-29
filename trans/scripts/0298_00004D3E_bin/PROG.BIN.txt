@@ -10,113 +10,59 @@
 #WRITE(PTR, $001A)
 #WRITE(PTR, $001C)
 #WRITE(PTR, $001E)
-alice.obj
-<$00>
+//alice.obj<$00>
+alice.obj<$00>
 
+//c002.obj<$00>
+c002.obj<$00>
 
+//c009.obj<$00>
+c009.obj<$00>
 
+//c021.obj<$00>
+c021.obj<$00>
 
-c002.obj
-<$00>
+//c023.obj<$00>
+c023.obj<$00>
 
+//c025c.obj<$00>
+c025c.obj<$00>
 
+//c025d.obj<$00>
+c025d.obj<$00>
 
+//c026.obj<$00>
+c026.obj<$00>
 
-c009.obj
-<$00>
+//c061.obj<$00>
+c061.obj<$00>
 
+//c132a.obj<$00>
+c132a.obj<$00>
 
+//kao_e2.obj<$00>
+kao_e2.obj<$00>
 
+//kao_p1.obj<$00>
+kao_p1.obj<$00>
 
-c021.obj
-<$00>
+//kao_p2.obj<$00>
+kao_p2.obj<$00>
 
+//kao_p3.obj<$00>
+kao_p3.obj<$00>
 
+//kao_em3.obj<$00>
+kao_em3.obj<$00>
 
+//mf003.obj<$00>
+mf003.obj<$00>
 
-c023.obj
-<$00>
+//mf070.obj<$00>
+mf070.obj<$00>
 
-
-
-
-c025c.obj
-<$00>
-
-
-
-
-c025d.obj
-<$00>
-
-
-
-
-c026.obj
-<$00>
-
-
-
-
-c061.obj
-<$00>
-
-
-
-
-c132a.obj
-<$00>
-
-
-
-
-kao_e2.obj
-<$00>
-
-
-
-
-kao_p1.obj
-<$00>
-
-
-
-
-kao_p2.obj
-<$00>
-
-
-
-
-kao_p3.obj
-<$00>
-
-
-
-
-kao_em3.obj
-<$00>
-
-
-
-
-mf003.obj
-<$00>
-
-
-
-
-mf070.obj
-<$00>
-
-
-
-
-mf097.obj
-<$00>
-
-
-
+//mf097.obj<$00>
+mf097.obj<$00>
 
 #WRITE(PTR, $0020)
 //エモリ・ラボ<$00>
@@ -212,7 +158,7 @@ migration.<$12><$00>
 you two turn out like them.<$12><$00>
 
 
-//<CLEAR>パンハイム博士は　オズサットから\n旅立たれましたよ…　エリザベス様の\n入ったカプセルと　ご一緒にね…<$12>\n<CLEAR>そうそう…<$12>\n<CLEAR>もし　あなたたちが来たら\nこれを　渡すように\nことづかっていたんだわ！<$12>\n<CLEAR><$19>1<$15>Sケンは「青の獣人像」を　受け取った！<$00>
+//<CLEAR>パンハイム博士は　オズサットから\n旅立たれましたよ…　エリザベス様の\n入ったカプセルと　ご一緒にね…<$12>\n<CLEAR>そうそう…<$12>\n<CLEAR>もし　あなたたちが来たら\nこれを　渡すように\nことづかっていたんだわ！<$12>\n<CLEAR><$19><$31><$15><$53>ケンは「青の獣人像」を　受け取った！<$00>
 <CLEAR>Prof. Panheim left OzSat in the migration, taking Mrs.\n
 Elizabeth 's capsule with him.<$12>\n
 <CLEAR>Ah! That reminds me...<$12>\n
@@ -224,7 +170,6 @@ Blue Beastman Doll!<$00>
 
 //<$12><$00>
 <$12><$00>
-
 
 //<CLEAR>エリザベス様は　幸せですよね\nあんなに深く　愛されて…　あなたたちも\nあんな夫婦になれると　いいわね<$12><$00>
 <CLEAR>Ms. Elizabeth looks so happy, so loved. I hope you two are\n
@@ -291,7 +236,7 @@ Please, open those lovely eyes for me again...<$12><$00>
 You rangers never let me down!<$12><$00>
 
 
-//<CLEAR><$19>1<$15>Sケンは　<$1B>ニワトリの肉を２つ\n手渡した<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>ケンは　<$1B>ニワトリの肉を２つ\n手渡した<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Ken gave Prof. Panheim the\n
 <$1B>Chicken Meat.<$14><$12><$00>
 
@@ -318,7 +263,7 @@ Oh, I must have been sleeping.<$12>\n
 as a token.<$12><$00>
 
 
-//<CLEAR><$19>1<$15>Sケンは「青の獣人像」を　受け取った！<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>ケンは「青の獣人像」を　受け取った！<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Ken received the\n
 Blue Beastman Doll!<$14><$12><$00>
 
@@ -327,7 +272,7 @@ Blue Beastman Doll!<$14><$12><$00>
 <CLEAR>And here's a little something else for your travels.<$12><$00>
 
 
-//<CLEAR><$19>1<$15>Sケンは「シャニルＮｏ５」を\n押しつけられた！<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>ケンは「シャニルＮｏ５」を\n押しつけられた！<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Ken received the Chanel No. 5!<$14><$12><$00>
 
 
@@ -455,7 +400,6 @@ ANYTHING WITH!<$00>
 //<$12><$00>
 <$12><$00>
 
-
 //あら、コンニチワ！　私、フローラ！\nおしゃべりな花の次は、どんな花を\n造ろうか　悩んでるところなのよ<$12>\n<CLEAR>この中じゃ　どれが面白いと思う？\n<$01>道具をつかう花<$0E>／<$01>考え苦悩する花<$0E>\n<$01>直立歩行する花<$0E>／<$01>火をあやつる花<$0E><$00>
 Why, hello! I'm Flora! After talking flowers, I'm\n
 brainstorming a new flower to create.<$12>\n
@@ -520,7 +464,7 @@ revive a sakura tree.<$12><$00>
 another trick of the trade:<$12><$00>
 
 
-//<CLEAR><$19>1<$15>S<CLEAR>リンダは　植物の種類を見わける\n「植物鑑定」の能力を\nフローラから　習得した∥<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53><CLEAR>リンダは　植物の種類を見わける\n「植物鑑定」の能力を\nフローラから　習得した∥<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53><CLEAR><CLEAR>Linda learned the\n
 Botanist skill from Dr. Flora!<$14><$12><$00>
 
@@ -609,7 +553,7 @@ Back<$00>
 wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
-//<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>リンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
@@ -692,7 +636,7 @@ are dead ahead!<$00>
 <CLEAR>I'm absolutely certain!<$12><$00>
 
 
-//<$15>Yスケジュール<$00>
+//<$15><$59>スケジュール<$00>
 <$15><$59>Memo <$00>
 
 
@@ -864,33 +808,18 @@ to Mario in Spurr Valley.<$00>
 <CLEAR>Chase Angela to OzSat! Mario will follow from Spurr Valley.<$00>
 
 
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
-
-
-
 

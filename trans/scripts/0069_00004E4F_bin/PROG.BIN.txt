@@ -10,107 +10,56 @@
 #WRITE(PTR, $0018)
 #WRITE(PTR, $001A)
 #WRITE(PTR, $001C)
-c002.obj
-<$00>
+//c002.obj<$00>
+c002.obj<$00>
 
+//c009.obj<$00>
+c009.obj<$00>
 
+//c011.obj<$00>
+c011.obj<$00>
 
+//c011a.obj<$00>
+c011a.obj<$00>
 
-c009.obj
-<$00>
+//c023.obj<$00>
+c023.obj<$00>
 
+//c032.obj<$00>
+c032.obj<$00>
 
+//c035.obj<$00>
+c035.obj<$00>
 
+//c117a1r.obj<$00>
+c117a1r.obj<$00>
 
-c011.obj
-<$00>
+//c159a0.obj<$00>
+c159a0.obj<$00>
 
+//c160a1.obj<$00>
+c160a1.obj<$00>
 
+//c161a2.obj<$00>
+c161a2.obj<$00>
 
+//c162_2.obj<$00>
+c162_2.obj<$00>
 
-c011a.obj
-<$00>
+//kao_h1.obj<$00>
+kao_h1.obj<$00>
 
+//kao_h2.obj<$00>
+kao_h2.obj<$00>
 
+//kao_h6.obj<$00>
+kao_h6.obj<$00>
 
+//kao_g1.obj<$00>
+kao_g1.obj<$00>
 
-c023.obj
-<$00>
-
-
-
-
-c032.obj
-<$00>
-
-
-
-
-c035.obj
-<$00>
-
-
-
-
-c117a1r.obj
-<$00>
-
-
-
-
-c159a0.obj
-<$00>
-
-
-
-
-c160a1.obj
-<$00>
-
-
-
-
-c161a2.obj
-<$00>
-
-
-
-
-c162_2.obj
-<$00>
-
-
-
-
-kao_h1.obj
-<$00>
-
-
-
-
-kao_h2.obj
-<$00>
-
-
-
-
-kao_h6.obj
-<$00>
-
-
-
-
-kao_g1.obj
-<$00>
-
-
-
-
-kao_ch1.obj
-<$00>
-
-
-
+//kao_ch1.obj<$00>
+kao_ch1.obj<$00>
 
 #WRITE(PTR, $001E)
 //ジャンクパレス３Ｆ<$00>
@@ -451,7 +400,6 @@ I hate to kill the mood, but these things do happen, hehe...<$12><$00>
 //<CLEAR><$00>
 <CLEAR><$00>
 
-
 //<$06>TRANS-CARGO IN<$04>∥<$12>\n<CLEAR>まっ　こんなとこだ\nどーだ￠　安い買物だったろうが？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
 <$06>All right, in the TCU you go, <$04><$12>\n
 <CLEAR>Now, that's what I call "bang for your buck"!\n
@@ -462,7 +410,7 @@ I hate to kill the mood, but these things do happen, hehe...<$12><$00>
 <CLEAR>Dahahahaha!<$12><$00>
 
 
-//<$15>Yホテル<$00>
+//<$15><$59>ホテル<$00>
 <$15><$59>Hotel<$00>
 
 
@@ -568,7 +516,7 @@ Back<$00>
 wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
-//<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>リンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
@@ -656,39 +604,21 @@ are dead ahead!<$00>
 <$01>Yes<$0E>/<$01>No<$0E><$00>
 
 
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
-
-
-
 

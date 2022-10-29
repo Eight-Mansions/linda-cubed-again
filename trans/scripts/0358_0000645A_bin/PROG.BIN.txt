@@ -10,89 +10,47 @@
 #WRITE(PTR, $0018)
 #WRITE(PTR, $001A)
 #WRITE(PTR, $001C)
-t21_sp1.obj
-<$00>
+//t21_sp1.obj<$00>
+t21_sp1.obj<$00>
 
+//t21_sp2.obj<$00>
+t21_sp2.obj<$00>
 
+//t21_sp3.obj<$00>
+t21_sp3.obj<$00>
 
+//t21_sp4.obj<$00>
+t21_sp4.obj<$00>
 
-t21_sp2.obj
-<$00>
+//t21_sp8.obj<$00>
+t21_sp8.obj<$00>
 
+//t21_sp9.obj<$00>
+t21_sp9.obj<$00>
 
+//c002.obj<$00>
+c002.obj<$00>
 
+//c009.obj<$00>
+c009.obj<$00>
 
-t21_sp3.obj
-<$00>
+//c021.obj<$00>
+c021.obj<$00>
 
+//c023.obj<$00>
+c023.obj<$00>
 
+//box.obj<$00>
+box.obj<$00>
 
+//kao_em1.obj<$00>
+kao_em1.obj<$00>
 
-t21_sp4.obj
-<$00>
+//kao_em2.obj<$00>
+kao_em2.obj<$00>
 
-
-
-
-t21_sp8.obj
-<$00>
-
-
-
-
-t21_sp9.obj
-<$00>
-
-
-
-
-c002.obj
-<$00>
-
-
-
-
-c009.obj
-<$00>
-
-
-
-
-c021.obj
-<$00>
-
-
-
-
-c023.obj
-<$00>
-
-
-
-
-box.obj
-<$00>
-
-
-
-
-kao_em1.obj
-<$00>
-
-
-
-
-kao_em2.obj
-<$00>
-
-
-
-
-kao_em3.obj
-<$00>
-
-
-
+//kao_em3.obj<$00>
+kao_em3.obj<$00>
 
 #WRITE(PTR, $001E)
 //研究室<$00>
@@ -128,34 +86,34 @@ enough to fall for her antics!<$12><$00>
 <CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
-//<CLEAR><$19>1<$15>S子供の頃から　今に至るまでの\nサチコの写真が　壁いっぱいに\n貼られている<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>子供の頃から　今に至るまでの\nサチコの写真が　壁いっぱいに\n貼られている<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Photos of Sachiko throughout her childhood span the wall\n
 from floor to ceiling.<$14><$12><$00>
 
 
-//<CLEAR><$19>1<$15>S全身が赤い　手足のない\n奇形の人形が　ある<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>全身が赤い　手足のない\n奇形の人形が　ある<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>This doll has a red body and no legs, like a weird bath\n
 toy.<$14><$12><$00>
 
 
-//<CLEAR><$19>1<$15>S片手を上げた　顔が<$1B>ネコに似た\n動物の人形が　ある<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>片手を上げた　顔が<$1B>ネコに似た\n動物の人形が　ある<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>This doll has its paw raised.\n
 It resembles a <$1B>cat.<$14><$12><$00>
 
 
-//<CLEAR><$19>1<$15>Sケンは「<$1D>」を発見∥<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>ケンは「<$1D>」を発見∥<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Ken found the <$1D>!<$14><$12><$00>
 
 
-//<CLEAR><$19>1<$15>S<CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53><CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53><CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
 
 
-//<CLEAR><$19>1<$15>S<CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53><CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53><CLEAR>Ken acquired <$1D>!<$14><$12><$00>
 
 
-//<CLEAR><$19>1<$15>S頭の大きな　赤い人形が\n入っているようだ<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>頭の大きな　赤い人形が\n入っているようだ<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Atop the table sits a red doll with a large head.<$14><$12><$00>
 
 
@@ -178,7 +136,7 @@ you having no extra room!<$12><$00>
 money.<$12><$00>
 
 
-//<CLEAR><$19>1<$15>Sケンは「フロッピー」と\n身代金<$06>10<$04>万￥を\n受け取った！<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>ケンは「フロッピー」と\n身代金<$06>10<$04>万￥を\n受け取った！<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Ken received the\n
 Floppy Disc and <$06>100,000<$04>￥!<$14><$12><$00>
 
@@ -312,7 +270,7 @@ enough to fall for her antics!<$12><$00>
 <CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
-//<CLEAR><$19>1<$15>S頭の大きな　赤い人形が\n入っているようだ<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>頭の大きな　赤い人形が\n入っているようだ<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Atop the table sits a red doll with a large head.<$14><$12><$00>
 
 
@@ -386,7 +344,7 @@ Back<$00>
 wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
-//<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>リンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
@@ -469,7 +427,7 @@ are dead ahead!<$00>
 <CLEAR>I'm absolutely certain!<$12><$00>
 
 
-//<$15>Yスケジュール<$00>
+//<$15><$59>スケジュール<$00>
 <$15><$59>Memo <$00>
 
 
@@ -641,15 +599,9 @@ to Mario in Spurr Valley.<$00>
 <CLEAR>Chase Angela to OzSat! Mario will follow from Spurr Valley.<$00>
 
 
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
-
-
-
 

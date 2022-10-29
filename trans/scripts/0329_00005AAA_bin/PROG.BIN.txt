@@ -10,29 +10,17 @@
 #WRITE(PTR, $0016)
 #WRITE(PTR, $0018)
 #WRITE(PTR, $001A)
-c002.obj
-<$00>
+//c002.obj<$00>
+c002.obj<$00>
 
+//c009.obj<$00>
+c009.obj<$00>
 
+//c023.obj<$00>
+c023.obj<$00>
 
-
-c009.obj
-<$00>
-
-
-
-
-c023.obj
-<$00>
-
-
-
-
-c169a1.obj
-<$00>
-
-
-
+//c169a1.obj<$00>
+c169a1.obj<$00>
 
 #WRITE(PTR, $001C)
 //Ｇファクトリー<$00>
@@ -95,7 +83,6 @@ IN TRANS-CARGO UNIT.<$12><$00>
 
 //<CLEAR><$00>
 <CLEAR><$00>
-
 
 //<$06>TRANS-CARGO IN<$04>∥<$12><$00>
 <$06>Now loading to TCU...<$04>!<$12><$00>
@@ -170,7 +157,7 @@ Back<$00>
 wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
-//<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>リンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
@@ -253,7 +240,7 @@ are dead ahead!<$00>
 <CLEAR>I'm absolutely certain!<$12><$00>
 
 
-//<$15>Yスケジュール<$00>
+//<$15><$59>スケジュール<$00>
 <$15><$59>Memo <$00>
 
 
@@ -441,9 +428,6 @@ QUANTITY CHECK, CLEAR.<$12><$00>
 LINE <$1E>1 MAINTAINANCE COMPLETE.<$12><$00>
 
 
-
+//<$00>
 <$00>
-
-
-
 

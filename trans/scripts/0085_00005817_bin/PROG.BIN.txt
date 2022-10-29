@@ -21,170 +21,113 @@
 3<$00>
 
 
-//<CLEAR><$1C>Aは\n<$1D>度　鼻を鳴らした∥<$12><$00>
+//<CLEAR><$1C><$41>は\n<$1D>度　鼻を鳴らした∥<$12><$00>
 <CLEAR><$1C><$41>\n
 snorted <$1D> times!<$12><$00>
 
 
-//<CLEAR><$1C>Aは\n雄たけびを　あげた∥<$12><$00>
+//<CLEAR><$1C><$41>は\n雄たけびを　あげた∥<$12><$00>
 <CLEAR><$1C><$41>\n
 let out a battle cry!<$12><$00>
 
 
-//<CLEAR><$1C>Aは\n遠くを　見ている…<$12><$00>
+//<CLEAR><$1C><$41>は\n遠くを　見ている…<$12><$00>
 <CLEAR><$1C><$41>\n
 stared into the distance.<$12><$00>
 
 
-//<CLEAR><$1C>Aは\n風の臭いに　おびえている…<$12><$00>
+//<CLEAR><$1C><$41>は\n風の臭いに　おびえている…<$12><$00>
 <CLEAR><$1C><$41>\n
 trembles at a smell in the air.<$12><$00>
 
 
-//<CLEAR><$1C>Aは\n大きく　２度、鳴いた∥<$12><$00>
+//<CLEAR><$1C><$41>は\n大きく　２度、鳴いた∥<$12><$00>
 <CLEAR><$1C><$41>\n
 called loudly 2 times!<$12><$00>
 
 
-//<CLEAR><$1C>Aは　<$1C>Tを見て\nヨダレを　たらした∥<$12><$00>
+//<CLEAR><$1C><$41>は　<$1C><$54>を見て\nヨダレを　たらした∥<$12><$00>
 <CLEAR><$1C><$41>\n
 drooled at the sight of <$1C><$54>.<$12><$00>
 
 
-//<CLEAR><$1C>Aは\n遠くを　見ている…<$12><$00>
+//<CLEAR><$1C><$41>は\n遠くを　見ている…<$12><$00>
 <CLEAR><$1C><$41>\n
 stared into the distance.<$12><$00>
 
 
-//<CLEAR><$1C>Aは\n風の臭いに　おびえている…<$12><$00>
+//<CLEAR><$1C><$41>は\n風の臭いに　おびえている…<$12><$00>
 <CLEAR><$1C><$41>\n
 trembles at a smell in the air.<$12><$00>
 
 
-//<CLEAR><$1C>Aは\n大きく　２度、鳴いた∥<$12><$00>
+//<CLEAR><$1C><$41>は\n大きく　２度、鳴いた∥<$12><$00>
 <CLEAR><$1C><$41>\n
 called loudly 2 times!<$12><$00>
 
 
-//<CLEAR><$1C>Aは　<$1C>Tを見て\nヨダレを　たらした∥<$12><$00>
+//<CLEAR><$1C><$41>は　<$1C><$54>を見て\nヨダレを　たらした∥<$12><$00>
 <CLEAR><$1C><$41>\n
 drooled at the sight of <$1C><$54>.<$12><$00>
 
 
 #WRITE(PTR, $001C)
-c002.obj
-<$00>
+//c002.obj<$00>
+c002.obj<$00>
 
+//c009.obj<$00>
+c009.obj<$00>
 
+//c011.obj<$00>
+c011.obj<$00>
 
+//c011_dog.obj<$00>
+c011_dog.obj<$00>
 
-c009.obj
-<$00>
+//c023.obj<$00>
+c023.obj<$00>
 
+//c166.obj<$00>
+c166.obj<$00>
 
+//c167.obj<$00>
+c167.obj<$00>
 
+//c168.obj<$00>
+c168.obj<$00>
 
-c011.obj
-<$00>
+//width2.obj<$00>
+width2.obj<$00>
 
+//m018.obj<$00>
+m018.obj<$00>
 
+//kao_l33.obj<$00>
+kao_l33.obj<$00>
 
+//kao_n2.obj<$00>
+kao_n2.obj<$00>
 
-c011_dog.obj
-<$00>
+//kao_n3.obj<$00>
+kao_n3.obj<$00>
 
+//kao_h1.obj<$00>
+kao_h1.obj<$00>
 
+//kao_h2.obj<$00>
+kao_h2.obj<$00>
 
+//kao_h6.obj<$00>
+kao_h6.obj<$00>
 
-c023.obj
-<$00>
+//bch00.obj<$00>
+bch00.obj<$00>
 
+//m019f.obj<$00>
+m019f.obj<$00>
 
-
-
-c166.obj
-<$00>
-
-
-
-
-c167.obj
-<$00>
-
-
-
-
-c168.obj
-<$00>
-
-
-
-
-width2.obj
-<$00>
-
-
-
-
-m018.obj
-<$00>
-
-
-
-
-kao_l33.obj
-<$00>
-
-
-
-
-kao_n2.obj
-<$00>
-
-
-
-
-kao_n3.obj
-<$00>
-
-
-
-
-kao_h1.obj
-<$00>
-
-
-
-
-kao_h2.obj
-<$00>
-
-
-
-
-kao_h6.obj
-<$00>
-
-
-
-
-bch00.obj
-<$00>
-
-
-
-
-m019f.obj
-<$00>
-
-
-
-
-m019m.obj
-<$00>
-
-
-
+//m019m.obj<$00>
+m019m.obj<$00>
 
 #WRITE(PTR, $001E)
 //コシカタ<$00>
@@ -220,7 +163,7 @@ enough to fall for her antics!<$12><$00>
 <CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
-//<CLEAR><$19>1<$15>S扉は硬く閉ざされている<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>扉は硬く閉ざされている<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>The door is shut tightly.<$14><$12><$00>
 
 
@@ -311,7 +254,7 @@ Oww...<$00>
 Any chance you know where they went?<$00>
 
 
-//<CLEAR><$19>1<$15>S扉はサビついて開かない<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>扉はサビついて開かない<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>The door is rusted shut and will not open.<$14><$12><$00>
 
 
@@ -381,7 +324,7 @@ Back<$00>
 wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
-//<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>リンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
@@ -473,27 +416,15 @@ Sniff...sniff, sniff?<$12>\n
 <CLEAR>It smells like a bunch of dust.<$12><$00>
 
 
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
-
-
-
 

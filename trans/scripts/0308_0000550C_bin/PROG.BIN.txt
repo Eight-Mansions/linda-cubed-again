@@ -10,53 +10,29 @@
 #WRITE(PTR, $0016)
 #WRITE(PTR, $0018)
 #WRITE(PTR, $001A)
-c002.obj
-<$00>
+//c002.obj<$00>
+c002.obj<$00>
 
+//c009.obj<$00>
+c009.obj<$00>
 
+//c023.obj<$00>
+c023.obj<$00>
 
+//c103a2.obj<$00>
+c103a2.obj<$00>
 
-c009.obj
-<$00>
+//c117a0r.obj<$00>
+c117a0r.obj<$00>
 
+//c118a0r.obj<$00>
+c118a0r.obj<$00>
 
+//c118a2.obj<$00>
+c118a2.obj<$00>
 
-
-c023.obj
-<$00>
-
-
-
-
-c103a2.obj
-<$00>
-
-
-
-
-c117a0r.obj
-<$00>
-
-
-
-
-c118a0r.obj
-<$00>
-
-
-
-
-c118a2.obj
-<$00>
-
-
-
-
-c124a2.obj
-<$00>
-
-
-
+//c124a2.obj<$00>
+c124a2.obj<$00>
 
 #WRITE(PTR, $001C)
 //オークション会場<$00>
@@ -213,17 +189,11 @@ Welcome to the auction house!\n
 <$01>Join<$0E> / <$01>Explain<$0E> / <$01>Exit<$0E><$00>
 
 
-bg_29.tmz
-<$00>
+//bg_29.tmz<$00>
+bg_29.tmz<$00>
 
-
-
-
-bg_29_sp.tmz
-<$00>
-
-
-
+//bg_29_sp.tmz<$00>
+bg_29_sp.tmz<$00>
 
 //<CLEAR>またどこかの　暗闇の中で\n皆様に　お会いできる日を\n楽しみに　しています<$12>\n<CLEAR>さよーならッ∥<$12><$00>
 <CLEAR>I look forward to seeing you again, wherever that shady\n
@@ -236,7 +206,7 @@ underbelly of the cosmos may be.<$12>\n
 venue between yourselves.<$12><$00>
 
 
-//<$15>Yオークション<$00>
+//<$15><$59>オークション<$00>
 <$15><$59>Auction<$00>
 
 
@@ -288,11 +258,8 @@ rare item<$00>
 <CLEAR>Our next <$1D> is coming right up!<$12><$00>
 
 
-M%03dF.OBJ
-<$00>
-
-
-
+//M%03dF.OBJ<$00>
+M%03dF.OBJ<$00>
 
 //<CLEAR><$1D>＿<$1E>頭<$12><$00>
 <CLEAR><$1D> <$1E>x <$12><$00>
@@ -315,7 +282,6 @@ button so no one else gets it first!<$12><$00>
 //<CLEAR><$00>
 <CLEAR><$00>
 
-
 //ＧＥＴ∥<$12><$00>
 Congratulations!<$12><$00>
 
@@ -326,7 +292,7 @@ Bid: <$1D><$1E><$14>￥<$1D>\n
 Ken: <$1E>40<$00>
 
 
-//<$02>200<$03>0<$19>1<$06><$1E><$19>0<$04><$00>
+//<$02>200<$03>0<$19><$31><$06><$1E><$19><$30><$04><$00>
 <$02>200<$03><$19><$31><$06><$1E><$19><$30><$04><$00>
 
 
@@ -367,11 +333,8 @@ Perm Jr.<$00>
 Team 777<$00>
 
 
-
+//<$00>
 <$00>
-
-
-
 
 //クン、クンクン………？<$12>\n<CLEAR>とくに目新しい　ニオイは\nしないみたいよ<$12><$00>
 Sniff...sniff, sniff?<$12>\n
@@ -442,7 +405,7 @@ Back<$00>
 wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
-//<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>リンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
@@ -525,7 +488,7 @@ are dead ahead!<$00>
 <CLEAR>I'm absolutely certain!<$12><$00>
 
 
-//<$15>Yスケジュール<$00>
+//<$15><$59>スケジュール<$00>
 <$15><$59>Memo <$00>
 
 

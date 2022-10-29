@@ -10,215 +10,110 @@
 #WRITE(PTR, $0016)
 #WRITE(PTR, $0018)
 #WRITE(PTR, $001A)
-star.obj
-<$00>
+//star.obj<$00>
+star.obj<$00>
 
+//c002.obj<$00>
+c002.obj<$00>
 
+//c003.obj<$00>
+c003.obj<$00>
 
+//c003b.obj<$00>
+c003b.obj<$00>
 
-c002.obj
-<$00>
+//c007a.obj<$00>
+c007a.obj<$00>
 
+//c009.obj<$00>
+c009.obj<$00>
 
+//c011.obj<$00>
+c011.obj<$00>
 
+//c012.obj<$00>
+c012.obj<$00>
 
-c003.obj
-<$00>
+//c012a.obj<$00>
+c012a.obj<$00>
 
+//c012b.obj<$00>
+c012b.obj<$00>
 
+//c012c.obj<$00>
+c012c.obj<$00>
 
+//c023.obj<$00>
+c023.obj<$00>
 
-c003b.obj
-<$00>
+//c023b.obj<$00>
+c023b.obj<$00>
 
+//c023i.obj<$00>
+c023i.obj<$00>
 
+//c023j.obj<$00>
+c023j.obj<$00>
 
+//c023k.obj<$00>
+c023k.obj<$00>
 
-c007a.obj
-<$00>
+//c023p.obj<$00>
+c023p.obj<$00>
 
+//c023q.obj<$00>
+c023q.obj<$00>
 
+//c023r.obj<$00>
+c023r.obj<$00>
 
+//c023s.obj<$00>
+c023s.obj<$00>
 
-c009.obj
-<$00>
+//c023t.obj<$00>
+c023t.obj<$00>
 
+//c058.obj<$00>
+c058.obj<$00>
 
+//c125a0.obj<$00>
+c125a0.obj<$00>
 
+//c125a1.obj<$00>
+c125a1.obj<$00>
 
-c011.obj
-<$00>
+//c125a2.obj<$00>
+c125a2.obj<$00>
 
+//c126a0.obj<$00>
+c126a0.obj<$00>
 
+//c126a1.obj<$00>
+c126a1.obj<$00>
 
+//kao_l25.obj<$00>
+kao_l25.obj<$00>
 
-c012.obj
-<$00>
+//kao_n1.obj<$00>
+kao_n1.obj<$00>
 
+//kao_n2.obj<$00>
+kao_n2.obj<$00>
 
+//kao_n3.obj<$00>
+kao_n3.obj<$00>
 
+//kao_n8.obj<$00>
+kao_n8.obj<$00>
 
-c012a.obj
-<$00>
+//kao_b4.obj<$00>
+kao_b4.obj<$00>
 
+//kao_h1.obj<$00>
+kao_h1.obj<$00>
 
-
-
-c012b.obj
-<$00>
-
-
-
-
-c012c.obj
-<$00>
-
-
-
-
-c023.obj
-<$00>
-
-
-
-
-c023b.obj
-<$00>
-
-
-
-
-c023i.obj
-<$00>
-
-
-
-
-c023j.obj
-<$00>
-
-
-
-
-c023k.obj
-<$00>
-
-
-
-
-c023p.obj
-<$00>
-
-
-
-
-c023q.obj
-<$00>
-
-
-
-
-c023r.obj
-<$00>
-
-
-
-
-c023s.obj
-<$00>
-
-
-
-
-c023t.obj
-<$00>
-
-
-
-
-c058.obj
-<$00>
-
-
-
-
-c125a0.obj
-<$00>
-
-
-
-
-c125a1.obj
-<$00>
-
-
-
-
-c125a2.obj
-<$00>
-
-
-
-
-c126a0.obj
-<$00>
-
-
-
-
-c126a1.obj
-<$00>
-
-
-
-
-kao_l25.obj
-<$00>
-
-
-
-
-kao_n1.obj
-<$00>
-
-
-
-
-kao_n2.obj
-<$00>
-
-
-
-
-kao_n3.obj
-<$00>
-
-
-
-
-kao_n8.obj
-<$00>
-
-
-
-
-kao_b4.obj
-<$00>
-
-
-
-
-kao_h1.obj
-<$00>
-
-
-
-
-kao_h5.obj
-<$00>
-
-
-
+//kao_h5.obj<$00>
+kao_h5.obj<$00>
 
 #WRITE(PTR, $001C)
 //エターナ<$00>
@@ -254,7 +149,7 @@ enough to fall for her antics!<$12><$00>
 <CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
 
 
-//<CLEAR><$19>1<$15>S扉は堅く閉ざされている<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>扉は堅く閉ざされている<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>The door is shut tight.<$14><$12><$00>
 
 
@@ -562,7 +457,7 @@ Back<$00>
 wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
-//<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>リンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
@@ -655,45 +550,24 @@ Sniff...sniff, sniff?<$12>\n
 <$01>Yes<$0E>/<$01>No<$0E><$00>
 
 
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
-
-
-
 

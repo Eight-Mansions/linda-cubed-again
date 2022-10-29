@@ -10,89 +10,47 @@
 #WRITE(PTR, $0016)
 #WRITE(PTR, $0018)
 #WRITE(PTR, $001A)
-photo.obj
-<$00>
+//photo.obj<$00>
+photo.obj<$00>
 
+//c002.obj<$00>
+c002.obj<$00>
 
+//c002_hit.obj<$00>
+c002_hit.obj<$00>
 
+//c002h.obj<$00>
+c002h.obj<$00>
 
-c002.obj
-<$00>
+//c002_dwn.obj<$00>
+c002_dwn.obj<$00>
 
+//c002_up.obj<$00>
+c002_up.obj<$00>
 
+//c009.obj<$00>
+c009.obj<$00>
 
+//c009b.obj<$00>
+c009b.obj<$00>
 
-c002_hit.obj
-<$00>
+//c011.obj<$00>
+c011.obj<$00>
 
+//c023.obj<$00>
+c023.obj<$00>
 
+//kao_k1.obj<$00>
+kao_k1.obj<$00>
 
+//kao_k3.obj<$00>
+kao_k3.obj<$00>
 
-c002h.obj
-<$00>
+//kao_l10.obj<$00>
+kao_l10.obj<$00>
 
-
-
-
-c002_dwn.obj
-<$00>
-
-
-
-
-c002_up.obj
-<$00>
-
-
-
-
-c009.obj
-<$00>
-
-
-
-
-c009b.obj
-<$00>
-
-
-
-
-c011.obj
-<$00>
-
-
-
-
-c023.obj
-<$00>
-
-
-
-
-kao_k1.obj
-<$00>
-
-
-
-
-kao_k3.obj
-<$00>
-
-
-
-
-kao_l10.obj
-<$00>
-
-
-
-
-kao_l11.obj
-<$00>
-
-
-
+//kao_l11.obj<$00>
+kao_l11.obj<$00>
 
 #WRITE(PTR, $001C)
 //共同子供部屋<$00>
@@ -132,11 +90,8 @@ enough to fall for her antics!<$12><$00>
 A familiar photo hangs on the wall.<$12><$00>
 
 
-PICT01.TIM
-<$00>
-
-
-
+//PICT01.TIM<$00>
+PICT01.TIM<$00>
 
 //<CLEAR>…あっ！　この部屋！\nなにか　思い出せそうよ！\n子供の頃、遊んだよね？<$00>
 <CLEAR>Hey, I remember this room! Didn't we play here when we\n
@@ -346,7 +301,7 @@ Back<$00>
 wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
-//<CLEAR><$19>1<$15>Sリンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
+//<CLEAR><$19><$31><$15><$53>リンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
 
 
@@ -429,45 +384,24 @@ are dead ahead!<$00>
 <CLEAR>I'm absolutely certain!<$12><$00>
 
 
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
 
-
-
-
-
+//<$00>
 <$00>
-
-
-
 
