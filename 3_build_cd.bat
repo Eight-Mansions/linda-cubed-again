@@ -26,6 +26,12 @@ tools\atlas exe\SCPS_100.39 trans\00091F6C.txt >> exe_error.txt
 copy /y NUL cd\linda\LINDA\SUBTITLES.DAT >NUL
 tools\armips.exe code\linda_vwf.asm
 
+del cd\linda\LINDA\LINDA.MIC
+copy LINDA.MIC cd\linda\LINDA\LINDA.MIC
+
+del cd\linda\SCPS_100.39
+copy exe\SCPS_100.39 cd\linda\SCPS_100.39
+
 ::Build files
 echo Building final bin file...
 pushd cd
@@ -35,8 +41,8 @@ popd
 echo:
 
 
-tools\psx-mode2.exe cd\linda_working.bin \LINDA\LINDA.MIC LINDA.MIC
-tools\psx-mode2.exe cd\linda_working.bin /SCPS_100.39 exe\SCPS_100.39
+REM tools\psx-mode2.exe cd\linda_working.bin \LINDA\LINDA.MIC LINDA.MIC
+REM tools\psx-mode2.exe cd\linda_working.bin /SCPS_100.39 exe\SCPS_100.39
 
 echo Build complete!
 echo:

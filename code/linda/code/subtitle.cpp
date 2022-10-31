@@ -200,7 +200,7 @@ void ResetMovieSubtitle()
 	movieSubIdx = -1;
 }
 
-void DrawMovieSubtitle(RECT* area, u16* image, u16* font, u32 curFrame)
+void DrawMovieSubtitle(RECT* area, u16* image, u8* font, u32 curFrame)
 {
 	u32 sliceW = area->w;
 	u32 sliceX = area->x;
@@ -221,30 +221,34 @@ void DrawMovieSubtitle(RECT* area, u16* image, u16* font, u32 curFrame)
 				{
 					subs.parts[i].textIdx = 0;
 					subs.parts[i].curX = subs.parts[i].x - sliceX;
-					subs.parts[i].curY = subs.parts[i].y * 16; // 16 comes from max width of a character = 8 * 2 (16bpp = 2 bytes)
+					subs.parts[i].curY = subs.parts[i].y * 24;
 				}
 
 				u16 curX = subs.parts[i].curX;
 				u16 curY = subs.parts[i].curY;
 				while (subs.parts[i].textIdx < subs.parts[i].len)
 				{
-					u32 srcPixelPos = text[subs.parts[i].textIdx] * 0x80; // 0x80 is half the width of our letters.  The entire byte count is (w * 2 (16bpp) * h).  We're using shorts or 2 bytes at a time so half.
+					u32 srcPixelPos = text[subs.parts[i].textIdx] * 0x180; // 0x80 is half the width of our letters.  The entire byte count is (w * 2 (16bpp) * h).  We're using shorts or 2 bytes at a time so half.
 
 					bool overflowed = false;
 					for (u32 x = 0; x < 8; x++) // 8 is our max letter width... soon will be width of letter
 					{
-						for (u32 y = 0; y < 256;) // += 16 comes from max width of a character = 8 * 2 (16bpp = 2 bytes)  ----- 256 = may height times the 16 we get from the previous equation
+						for (u32 y = 0; y < 384;) // += 16 comes from max width of a character = 8 * 2 (16bpp = 2 bytes)  ----- 256 = may height times the 16 we get from the previous equation
 						{
 							u32 imgPos = curX + curY + y;
 
 							// 0x8000 is the pixel color of the black background
-							u16 sp = font[srcPixelPos++];
+							u8 sp = font[srcPixelPos++];
+							if (sp != 0x8000) image[imgPos] = sp;
+							sp = font[srcPixelPos++];
+							if (sp != 0x8000) image[imgPos] = sp;
+							sp = font[srcPixelPos++];
 							if (sp != 0x8000) image[imgPos] = sp;
 
-							sp = font[srcPixelPos++];
-							if (sp != 0x8000) image[imgPos + 16] = sp;
+							//sp = font[srcPixelPos++];
+							//if (sp != 0x8000) image[imgPos + 16] = sp;
 
-							y += 32;
+							y += 24;
 						}
 
 						curX++;
