@@ -202,7 +202,8 @@ void ResetMovieSubtitle()
 
 void DrawMovieSubtitle(RECT* area, u8* image, u8* font, u32 curFrame)
 {
-	u32 sliceW = 16 * 3;
+	u32 sliceW = 16;
+	u32 sliceWP = 16 * 3; // How many pixels wide are we?
 	u32 sliceX = (area->x / 24) * 16;
 
 	if (movieSubIdx >= 0)
@@ -252,7 +253,7 @@ void DrawMovieSubtitle(RECT* area, u8* image, u8* font, u32 curFrame)
 
 					subs.parts[i].textIdx++;
 
-					if (curX >= sliceW)
+					if (curX >= sliceWP)
 					{
 						subs.parts[i].curX = 0;
 						break;
