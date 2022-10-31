@@ -202,8 +202,8 @@ void ResetMovieSubtitle()
 
 void DrawMovieSubtitle(RECT* area, u8* image, u8* font, u32 curFrame)
 {
-	u32 sliceW =area->w;
-	u32 sliceX = area->x;
+	u32 sliceW = 16 * 3;
+	u32 sliceX = (area->x / 24) * 16;
 
 	if (movieSubIdx >= 0)
 	{
