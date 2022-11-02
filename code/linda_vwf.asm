@@ -57,6 +57,10 @@ SubFont:
 	
 .org 0x80081318 ; Don't be deleting my space!
 	nop
+	
+
+.org 0x80048ca0 ; Override text wrapping check since its useless
+	j 0x80048cb8
 
 .org 0x800B8290	
 .importobj "code\linda\obj\font.obj"

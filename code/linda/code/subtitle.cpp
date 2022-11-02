@@ -230,8 +230,6 @@ void DrawMovieSubtitle(RECT* area, u8* image, u8* font, u32 curFrame)
 				while (subs.parts[i].textIdx < subs.parts[i].len)
 				{
 					u32 srcPixelPos = text[subs.parts[i].textIdx] * 0x180;
-
-					bool overflowed = false;
 					for (u32 x = 0; x < 8; x++)
 					{
 						for (u32 y = 0; y < 768;)
