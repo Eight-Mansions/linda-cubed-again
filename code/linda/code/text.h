@@ -4,13 +4,9 @@
 #include "platform.h"
 
 extern "C" {
-	extern u32 curLetIdx;
+	extern int strncmp(char* left, char* right, int len);
 
-	void ConvertTextToTwoBytes(u8* src, int srcIdx, u8* dest);
-
-	void SetVRAMUploadXY(u16* xpos, u16* ypos);
-
-	void SetLetSrcXY(u8* xy);
+	int ConvertToLower(char* left, char* right, int len);
 }
 
 #endif

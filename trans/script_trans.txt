@@ -26789,24 +26789,24 @@ Hardia Gate 1F
 //0103_00000571_bin\PROG.BIN|0000789E|3325
 //この町の周辺で　見られる動物は\n
 Notable animals in the area are\n
-<$1B>
 //ブタ、
+<$1B>
 pigs, 
-<$1B>
 //ダチョウです\n秋には
-ostriches 
 <$1B>
+ostriches 
 //トンボの群れも楽しめます
-and dragonflies.
+and
+<$1B>
+dragonflies.
 <$12>
 \n<CLEAR>
 //観光のお客様は　レベル２以上の\nガイドか　ハンターとの\n外出を　おすすめします
 We advise all tourists to hire\nan escort LVL 2 or higher.
 <$12>
 \n<CLEAR>
-<$1B>
 //イヌには　注意してくださいね
-Also, please watch your dogs!
+<$1B>Dogs are known to roam the area so please be careful.
 <$12>
 <$00>
 
@@ -59510,8 +59510,8 @@ Special
 //0393_0000010B_bin\PROG.BIN|0001036A|7213
 <CLEAR>
 <$01>
-//攻撃
-Fight
+攻撃
+//Fight
 <$0E>
 //　
  
@@ -59522,8 +59522,8 @@ Morph
 //\n
 \n
 <$01>
-//道具
-Item
+道具
+//Item
 <$0E>
 //　
  

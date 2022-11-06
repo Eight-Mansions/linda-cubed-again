@@ -11,6 +11,7 @@ SubFont:
 .definelabel LoadImage, 0x8008200c
 .definelabel LoadFile, 0x800203ec
 .definelabel GetFileInfo, 0x800205b8
+.definelabel strncmp, 0x8007d570
 
 ;.org 0x80048be4
 	;ORI     800c3364 (v0), 00000000 (r0), 0008 (8),
@@ -51,6 +52,9 @@ SubFont:
 ;	nop
 ;	nop
 
+.org 0x80042bcc
+	jal ConvertToLower
+
 .org 0x8004cc60
 	; ADDIU   800c2008 (v1), 00000008 (a0), 0008 (8), <- space is hardcoded to 8...
 	addiu v1, a0, 3
@@ -65,6 +69,7 @@ SubFont:
 .org 0x800B8290	
 .importobj "code\linda\obj\font.obj"
 .importobj "code\linda\obj\loadfile.obj"
+.importobj "code\linda\obj\text.obj"
 
 LoadSubs:
 	jal 0x8001bebc
