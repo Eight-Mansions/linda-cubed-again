@@ -128,3 +128,42 @@ u32 GetLetterWidth(const u32 letter)
 		return 0x10;
 	}
 }
+
+void SetLetterWidthNew(const u32 letter)
+{
+	if (letter == '`')
+	{
+		vwfOnOff = !vwfOnOff;
+	}
+
+	if (letter >= 0x20 && letter <= 0x7F)
+	{
+		u32 idx = letter - 0x20;
+		letterWidth = widths[idx];
+	}
+	else if (letter == 0x8145)
+	{
+		letterWidth = 0x03;
+	}
+	else if (letter >= 0x824F && letter <= 0x8258) // SJIS 0 - 9
+	{
+		u32 idx = letter - 0x821F;
+		letterWidth = widths[idx];
+	}
+	else
+	{
+		letterWidth = 0x10;
+	}
+}
+
+u16 GetLetterWidthNew(u16 defaultWidth)
+{
+	if (vwfOnOff)
+	{
+		return letterWidth;
+	}
+	else
+	{
+		return defaultWidth;
+	}
+}

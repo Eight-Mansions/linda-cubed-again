@@ -37,13 +37,13 @@ SubFont:
 	jal GetLetWidth
 	
 .org 0x8004c9e8
-	j GetLetWidthForLargeLetter
+	j SetLetterWidthForLargeLetter
 	
 .org 0x8004c970
-	j GetLetWidthForLargeLetterSJIS
+	j SetLetterWidthForLargeLetter
 	
 .org 0x800489d0
-	j GetCurWidthForLargeLetter
+	j GetLetterWidthForLargeLetter
 	nop
 	
 .org 0x80045418 ; Updates x position for next letter for text
@@ -98,25 +98,11 @@ GetLetWidth:
 	j 0x800485a0
 	addiu sp, sp, 20
 	
-GetLetWidthForLargeLetter:
+SetLetterWidthForLargeLetter:
+	jal SetLetterWidthNew
 	lhu a0, 0x002c(sp)
-	nop
-	jal GetLetterWidth
-	nop
-	
-	la t0, curLetWidth
 	j 0x8004ca4c
-	sb v0, 0(t0)
-	
-GetLetWidthForLargeLetterSJIS:
-	lhu a0, 0x002e(sp)
 	nop
-	jal GetLetterWidth
-	nop
-	
-	la t0, curLetWidth
-	j 0x8004ca4c
-	sb v0, 0(t0)
 	
 GetCurLetWidth:
 	la t1, curLetWidth
@@ -124,11 +110,17 @@ GetCurLetWidth:
 	j 0x80048c3c
 	sh t1, 0x0028(sp)
 	
-GetCurWidthForLargeLetter:
-	la t1, curLetWidth
-	lb t1, 0(t1)
+GetLetterWidthForLargeLetter:
+	addiu sp, sp, -4
+	sw ra, 0(sp)
+	
+	jal GetLetterWidthNew
+	lw a0, 0x0028(sp)
+	
+	lw ra, 0(sp)
+	addiu sp, sp, 4
 	j 0x800489d8
-	sw t1, 0x0028(sp)
+	sh v0, 0x0028(sp)
 	
 InitMovieSub:
 	addiu sp, sp, -4

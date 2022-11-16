@@ -4,6 +4,9 @@
 #include "platform.h"
 
 extern "C" {
+	static bool vwfOnOff = true;
+
+	static u16 letterWidth = 0;
 
 	u32 curLetIdx;
 
@@ -12,6 +15,10 @@ extern "C" {
 	u32 GetSentenceWidth(const u16* text, const u16* end);
 
 	//int GetYForCentering(const char* text, u32 length);
+	
+	void SetLetterWidthNew(const u32 letter);
+
+	u16 GetLetterWidthNew(u16 defaultWidth);
 }
 
 #endif
