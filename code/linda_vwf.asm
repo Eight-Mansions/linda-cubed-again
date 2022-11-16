@@ -31,7 +31,7 @@ SubFont:
 	j DisplayMovieSubs
 	
 .org 0x80048c34
-	j GetCurLetWidth
+	j SetLetterWidthForSmallLetter
 	
 .org 0x8004ccd8
 	jal GetLetWidth
@@ -85,11 +85,8 @@ GetLetWidth:
 	sw ra, 0(sp)
 	sw a0, 4(sp)
 	sw a1, 8(sp)
-	jal GetLetterWidth
+	jal SetLetterWidthNew
 	sw v0, 12(sp)
-	
-	la t0, curLetWidth
-	sb v0, 0(t0)
 	
 	lw ra, 0(sp)
 	lw a0, 4(sp)
@@ -104,11 +101,17 @@ SetLetterWidthForLargeLetter:
 	j 0x8004ca4c
 	nop
 	
-GetCurLetWidth:
-	la t1, curLetWidth
-	lb t1, 0(t1)
+SetLetterWidthForSmallLetter:
+	addiu sp, sp, -4
+	sw ra, 0(sp)
+	
+	jal GetLetterWidthNew
+	lw a0, 0x0028(sp)
+	
+	lw ra, 0(sp)
+	addiu sp, sp, 4
 	j 0x80048c3c
-	sh t1, 0x0028(sp)
+	sh v0, 0x0028(sp)
 	
 GetLetterWidthForLargeLetter:
 	addiu sp, sp, -4
