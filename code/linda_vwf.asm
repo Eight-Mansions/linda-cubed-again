@@ -44,18 +44,12 @@ SubFont:
 	
 .org 0x800489d0
 	j GetLetterWidthForLargeLetter
-	nop
+	ori a0, r0, 0x0e
 	
-.org 0x80045418 ; Updates x position for next letter for text
-	;80045418 : SUBU    00000014 (v0), 00000014 (v0), 00000000 (a0),
-	;8004541c : SW      00000014 (v0), 0028 (801ffef0 (sp)) [801fff18]
-;	nop
-;	nop
-
 .org 0x80042bcc
 	jal ConvertToLower
 
-.org 0x8004cc60
+;.org 0x8004cc60
 	; ADDIU   800c2008 (v1), 00000008 (a0), 0008 (8), <- space is hardcoded to 8...
 	addiu v1, a0, 3
 	
@@ -102,11 +96,12 @@ SetLetterWidthForLargeLetter:
 	nop
 	
 SetLetterWidthForSmallLetter:
+	lw a0, 0x0028(sp)
 	addiu sp, sp, -4
 	sw ra, 0(sp)
 	
 	jal GetLetterWidthNew
-	lw a0, 0x0028(sp)
+	nop
 	
 	lw ra, 0(sp)
 	addiu sp, sp, 4
@@ -118,7 +113,7 @@ GetLetterWidthForLargeLetter:
 	sw ra, 0(sp)
 	
 	jal GetLetterWidthNew
-	lw a0, 0x0028(sp)
+	nop
 	
 	lw ra, 0(sp)
 	addiu sp, sp, 4
