@@ -14,6 +14,8 @@ extern "C" {
 
 	u32 GetSentenceWidth(const u16* text, const u16* end);
 
+	void UpdateLetterWidthForSmall();
+
 	//int GetYForCentering(const char* text, u32 length);
 	
 	void SetLetterWidthNew(const u32 letter);

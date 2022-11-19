@@ -100,7 +100,7 @@ SetLetterWidthForSmallLetter:
 	addiu sp, sp, -4
 	sw ra, 0(sp)
 	
-	jal GetLetterWidthNew
+	jal UpdateLetterWidthForSmall
 	nop
 	
 	lw ra, 0(sp)

@@ -129,11 +129,19 @@ u32 GetLetterWidth(const u32 letter)
 	}
 }
 
+void UpdateLetterWidthForSmall()
+{
+	letterWidth = 0x08;
+	return;
+}
+
 void SetLetterWidthNew(const u32 letter)
 {
 	if (letter == '`')
 	{
 		vwfOnOff = !vwfOnOff;
+		letterWidth = 0;
+		return;
 	}
 
 	if (letter >= 0x20 && letter <= 0x7F)
@@ -158,6 +166,12 @@ void SetLetterWidthNew(const u32 letter)
 
 u16 GetLetterWidthNew(u16 defaultWidth)
 {
+	if (letterWidth == 0)
+	{
+		letterWidth = defaultWidth;
+		return 0;
+	}
+
 	if (vwfOnOff)
 	{
 		return letterWidth;
