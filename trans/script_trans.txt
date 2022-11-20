@@ -341,7 +341,6 @@ No
 <$1D>
 //を
 //buysellmake
-
 <$1D>
 //ます\n
 \n
@@ -6883,10 +6882,11 @@ That'd be siiiiick...
 Sell 
 <$1D>
 //を\n
- for\n
+ for 
 <$06><$1E><$04>
 //￥で売りますか？\n
 ￥?\n
+\n
 <$01>
 //は い
 Yes
@@ -7048,7 +7048,7 @@ Camping's dangerous, you know.
 //0034_0000396B_bin\PROG.BIN|00002698|955
 <CLEAR>
 //いらっしゃいませ！　
-Welcome! Would you like\na room for 
+Welcome!\nWould you like a room for 
 <$1D><$06><$1E><$04><$14>
 //￥で\nお部屋が　用意できますよ\n
 ￥?\n
@@ -9553,10 +9553,9 @@ Meat/Make
 //0038_00003A28_bin\PROG.BIN|0000765E|1277
 <CLEAR>
 //いらっしゃいませ！　創立
-Serving Neo Kenya 
-<$1E>
+Serving Neo Kenya <$1E>
 //周年\n皆様のネオケニア銀行です
- years strong,\nthis is Neo Kenya Bank!
+ years strong, this is Neo Kenya Bank!
 <$00>
 
 
@@ -9580,40 +9579,40 @@ Can I help with anything else?
 <$01>
 //引出
 Withdraw
-<$0E><$06>
+<$0E>
 ///
  / 
-<$04><$01>
+<$01>
 //入金
 Deposit
-<$0E><$06>
+<$0E>
 ///
  / 
-<$04><$01>
+<$01>
 //融資
 Loan
-<$0E><$06>
+<$0E>
 ///
  / 
-<$04><$01>
+<$01>
 //返済
 Repay
-<$0E><$06>
+<$0E>
 ///
  / 
-<$04><$01>
+<$01>
 //通帳
 Statement
-<$0E><$06>
+<$0E>
 ///
  / 
-<$04><$01>
+<$01>
 //雑談
 Chat
-<$0E><$06>
+<$0E>
 ///
  / 
-<$04><$01>
+<$01>
 //帰る
 Exit
 <$0E>
