@@ -8359,16 +8359,14 @@ Hello! I'm
 <$12>
 \n<CLEAR>
 Yeah, I had fun as a 
-<$06>
 //10
 teen
-<$04>
 //代で　やりたいことやっちゃったし\n
 , but I'll find\n
 <$1D>
 //\n…なんて考えてる
 \nI'm only 
-<$06><$1E><$04>
+<$1E>
 //歳■
 , so I have time!■
 <$12>
@@ -9599,14 +9597,13 @@ Loan
 Repay
 <$0E>
 ///
- /
-\n
+ / 
 <$01>
 //通帳
 Statement
 <$0E>
-///
- / 
+\n
+/// 
 <$01>
 //雑談
 Chat
@@ -10889,10 +10886,12 @@ If you're seeing someone off, head to the observation deck just ahead.
 //0040_00003D91_bin\PROG.BIN|000019CE|1406
 <CLEAR>
 //＊＜動物クイズ＞\n
-＊＜Animal Quiz＞\What does a 
+＊
+<Animal Quiz>
+\nWhat does a 
 <$1B>
 //パンダの好物は　何でしょう？\n１．笹　　２．パン　　３．人肉
-panda eat?\n１．bamboo　２．bread　３．human flesh
+panda eat?\n1. bamboo　2.bread　3. human flesh
 <$12>
 \n<CLEAR>
 //＊答、ネオケニアには　
@@ -18845,8 +18844,8 @@ It's common sentiment here that Hume and Gomez hunting together changed the ecos
 \n<CLEAR>
 //金になる動物は　一切いなくなるんだ！\nやつらのおかげで　絶滅した動物は\n２種や３種じゃ　きかないだろうよ
 They made a good 2 or 3 species extinct, and left no animals with market value for us!
-
-They wiped out the populations of any animals with real market value. I'll bet they rendered more than a couple species extinct.
+\n<CLEAR>
+They wiped out the populations of any animals with real market value.nI'll bet they rendered more than a couple species extinct.
 <$12>
 <$00>
 
@@ -19680,7 +19679,7 @@ If only she'd done so sooner, maybe Hume wouldn't have rendered as many species 
 
 //0069_00004E4F_bin\PROG.BIN|000013AF|2491
 //代行ハンターの首領、ゴメス様だ\nこの星全体が　俺の縄張りだ∥\n
-I'm the lead proxy hunter, Gomez. This world is MINE!\n
+I'm the lead proxy hunter, Gomez.\nThis world is MINE!\n
 <$01>
 //依頼する
 Hire
@@ -19885,7 +19884,8 @@ I'm the elder!\nYou've really grown!\nHoho!
 //0069_00004E4F_bin\PROG.BIN|00001F6A|2514
 <CLEAR>
 //そうか…　そういえば\nホクロが　逆じゃったかのぉ\nホホホホホ…
-Then Ken's the one with a mole under his right eye? Hoho!
+Then Ken's the one with a mole under his\n
+right eye? Hoho!
 <$12>
 <$00>
 
@@ -19946,7 +19946,7 @@ Have no fear! No job's too much for the great
 I get the job done, or my name isn't 
 <$1D>
 //様の腕に\nあんた、いくらの値をつけるんだい？
-! Name your price.
+!\nName your price.
 <$00>
 
 
