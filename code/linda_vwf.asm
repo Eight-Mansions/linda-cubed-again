@@ -16,6 +16,10 @@ SubFont:
 ;.org 0x80048be4
 	;ORI     800c3364 (v0), 00000000 (r0), 0008 (8),
 	;ori v0, r0, 0x01
+	
+.org 0x800640b8 ; This modifies the sentence length to display up top
+	;addiu  $v1(800c2050), $a0(0000002c), 0x0010
+	addiu v1, a0, 0x1C
 
 .org 0x8001677c
 	j LoadSubs
