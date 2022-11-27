@@ -11245,7 +11245,7 @@ We've been stuck standing here ever since, but I'll warn you, from one man to an
 
 //0041_00003EB9_bin\PROG.BIN|00001A3F|1450
 //恋人たちの泉がある\nお金を投げ入れますか？\n
-Toss a coin into the\nFountain of Lovers?\n
+Toss a coin into the Fountain of Lovers?\n\n
 <$01>
 //は い
 Yes
@@ -11266,7 +11266,7 @@ No
 <$15><$53>
 <CLEAR>
 //ケンは　１￥を\n泉に投げ入れた！
-Ken tossed １￥ into the fountain!
+Ken tossed 1￥ into the fountain!
 <$14><$12>
 <$00>
 
@@ -11348,7 +11348,7 @@ In
 
 //0041_00003EB9_bin\PROG.BIN|00001A3F|1459
 //…\nこの町も人通りが　めっきり減ったねぇ
- ...this place will be a ghost town.
+... this place will be a ghost town.
 <$12>
 <$00>
 
@@ -11416,7 +11416,7 @@ Ken acquired the dog,
 <CLEAR>
 Take good care of our 
 <$1D>
-//のこと　かわいがってね
+//のこと　かわいがってね`
 !
 <$12>
 <$00>
@@ -12635,12 +12635,12 @@ Ranger HQ 1F・Bank
 //0047_00003FBD_bin\PROG.BIN|00005994|1631
 <CLEAR>
 //わしの仕事はな　動物との戦いで\nボロボロに傷ついた　隊員の体に\nムチ打って　職場復帰させることじゃ
-My job is to kick you animal-beaten\nrangers back into shape!
+My job is to kick you animal-beaten rangers back into shape!
 
 <$12>
 \n<CLEAR>
 //隊員のなり手は　極めて少ないからな\nそう簡単に　楽にはさせんよ\n退職金も　馬鹿にならんしな
-This is a solid gig for me.\nThere aren't too many rangers, and\nthe retirement pay is incredible!
+This is a solid gig for me.\nThere aren't too many rangers, and t	he retirement pay is incredible!
 <$12>
 <$00>
 
@@ -12708,7 +12708,7 @@ Sometimes, you have to give up. You'll feel better, and I'll have less work to d
 
 //0047_00003FBD_bin\PROG.BIN|00005994|1637
 //隊員の業務報告を\n記録するのが　私のオシゴトよ\n
-It's my job to document\nreports from all rangers.\n
+It's my job to document reports from all rangers.\n\n
 <$01>
 //記録する
 Save
@@ -12853,7 +12853,7 @@ There's a pay phone in every gate leading in and out of towns, right by the door
 <$12>
 \n<CLEAR>
 //隊員はタダだから　かけ放題よ
-You should use it!\nRangers get free service, so we\ncan call in as often as we like!
+You should use it!\nRangers get free service, so we can call in as often as we like!
 <$12>
 <$00>
 
@@ -13341,7 +13341,7 @@ You shouldn't lolly-gag.\nThe captain's waiting in the briefing room!
 <$12>
 \n<CLEAR>
 //応援してるわよ\nリンダに　よろしくね！
-But that's why I'll be wishing you\ngood luck all the way.\nSend my love to Linda too!
+But that's why I'll be wishing you good luck all the way.\nSend my love to Linda too!
 <$12>
 <$00>
 
@@ -13927,7 +13927,8 @@ I hope you're sure about this, Ken.\nThere's no crying for a do-over.
 //0047_00003FBD_bin\PROG.BIN|00008CA8|1773
 <CLEAR>
 //ケン！　ミームには　ちゃんと\n自分で報告するんだぞ！\nいいな！
-You'd better see Meme and tell her what you did, all right? Now git!
+You'd better see Meme and tell her what you\n
+did, all right? Now git!
 <$12>
 <$00>
 
@@ -13935,14 +13936,16 @@ You'd better see Meme and tell her what you did, all right? Now git!
 //0047_00003FBD_bin\PROG.BIN|00008CA8|1774
 <CLEAR>
 //さあ、気が変わらないうちに\n箱船に行って　乗員の登録を\n済ましちまいな
-Your first order is to board the Astro Ark and register before you change your mind.
+Your first order is to board the Astro Ark\n
+and register before you change your mind.
 <$00>
 
 
 //0047_00003FBD_bin\PROG.BIN|00009591|1775
 <CLEAR>
 //ベン！　久しぶりだな！\nさっそくだけど　リンダが\nまた　さらわれた！
-Ben! It's been ages! Wish I could chat more, but Linda's like, kidnapped!
+Ben! It's been ages! Wish I could chat more,\n
+but Linda's like, kidnapped!
 <$00>
 
 
@@ -14489,28 +14492,33 @@ Ken's House 1F
 //0050_00004067_bin\PROG.BIN|00003D8A|1863
 <CLEAR>
 //隊長から　聞いたよ\n乗員に　立候補したんだって∥\nありがとうよ　ケン∥
-Ben told me you volunteered\nto be the Astro Ark's male pilot.\nI'm so proud of you!
+Ben told me you volunteered\n
+to be the Astro Ark's male pilot.\n
+I'm so proud of you!
 <$00>
 
 
 //0050_00004067_bin\PROG.BIN|00003D8A|1864
 <CLEAR>
 //実はね、隊長と賭けをしてね\nもちろん　私は　あんたが\n志願するほうさ∥
-See, he and I made bets on whether you would, and Ken, you didn't let me down!
+See, he and I made bets on whether you\n
+would, and Ken, you didn't let me down!
 <$00>
 
 
 //0050_00004067_bin\PROG.BIN|00003D8A|1865
 <CLEAR>
 //せっかく　生まれてきたんだ\n目一杯、楽しまなきゃね∥\nほら、もう行きなさい
-Raising you into this world wasn't easy.\nGet out there and live!\nMake it worth my while!
+Raising you into this world wasn't easy.\n
+Get out there and live!\nMake it worth my while!
 <$00>
 
 
 //0050_00004067_bin\PROG.BIN|00003D8A|1866
 <CLEAR>
 //リンダの記憶が\n消えたぐらいで　大のオトコが\nオタオタするんじゃないよ
-With her memory gone, Linda will likely try to follow your example.
+With her memory gone, Linda will likely try\n
+to follow your example.
 <$00>
 
 
@@ -14524,38 +14532,41 @@ That means she'll be just fine!
 //0050_00004067_bin\PROG.BIN|00003D8A|1868
 <CLEAR>
 //あのコも　あんたと同じで\n常日頃の心がけが　ひどく\n悪いってほどは　悪くない
-No matter how hard you fall on your ass, you always get back up.
+No matter how hard you fall on your ass,\n
+you always get back up.
 <$00>
 
 
 //0050_00004067_bin\PROG.BIN|00003D8A|1869
 <CLEAR>
 //いつだって　何とかなったし、\nなるようにしか　ならないよ\nだから　明日を信じるんだね
-She'll get there, somehow or other. March onward, and she'll follow.
+She'll get there, somehow or other.\n
+March onward, and she'll follow.
 <$00>
 
 
 //0050_00004067_bin\PROG.BIN|00003D8A|1870
 <CLEAR>
 //双子の弟？
-A twin brother?\nDon't be stupid.
+A twin brother?\n
+Don't be stupid.
 <$00>
 
 
 //0050_00004067_bin\PROG.BIN|00003D8A|1871
 <CLEAR>
 //ナニ寝言、言ってんだい\nあたしが　この家へ来たときから\n父さんの養子は　あんただけさ
-After I married your father, you were the only son he ever brought home to adopt.
+After I married your father, you were the\n
+only son he ever brought home to adopt.
 <$00>
 
 
 //0050_00004067_bin\PROG.BIN|00003D8A|1872
 <CLEAR>
 //あんたみたいな　ドラ息子を\nふたりも　相手にするくらいなら\n
-And God bless, I'd rather wrestle a 
-<$1B>
 //ドラゴンと　戦うほうがマシさ
-dragon than raise a second drag on society.
+And God bless, I'd rather wrestle a <$1B>dragon\n
+than raise a second drag on society.
 <$00>
 
 
@@ -14570,28 +14581,33 @@ dragon than raise a second drag on society.
 //0050_00004067_bin\PROG.BIN|00003D8A|1874
 <CLEAR>
 //…今の 「ドラ」息子と\n「ドラ」ゴンの シャレだけど\n面白かったろ？
-...Get it?\n"Dragon", "drag on"?\nDon't lie, that one was good!
+...Get it?\n
+"Dragon", "drag on"?\n
+Don't lie, that one was good!
 <$00>
 
 
 //0050_00004067_bin\PROG.BIN|00003D8A|1875
 <CLEAR>
 //そんなことより\nリンダが　心配だねぇ…
-I'll forgive you this time.\nI know you're worried about Linda.
+I'll forgive you this time.\n
+I know you're worried about Linda.
 <$00>
 
 
 //0050_00004067_bin\PROG.BIN|00003D8A|1876
 <CLEAR>
 //リンダのマネしてるつもりなら\nあまり　趣味のいい冗談とは\n言えないねぇ
-If you were doing it to mimic Linda, I wouldn't call it clever.
+If you were doing it to mimic Linda,\n
+I wouldn't call it clever.
 <$00>
 
 
 //0050_00004067_bin\PROG.BIN|00003D8A|1877
 <CLEAR>
 //それに　急に優しくなって\n肩なんか　もまれても\n何にも　出ないからね
-And if you carry a santa sack, no amount of shoulder rubs'll fix you.
+And if you carry a santa sack, no amount\n
+of shoulder rubs'll fix you.
 <$00>
 
 
@@ -63536,27 +63552,27 @@ Quicksand
 //ＸＡ試験\n
 XA setup:\n
 <$01>
-//1
+1
 <$0E>
-// 
+ 
 <$01>
-//2
+2
 <$0E>
-// 
+ 
 <$01>
-//3
+3
 <$0E>
-// 
+ 
 <$01>
-//4
+4
 <$0E>
-// 
+ 
 <$01>
-//5
+5
 <$0E>
-// 
+ 
 <$01>
-//6
+6
 <$0E>
 <$00>
 
@@ -63648,68 +63664,67 @@ Male
 //どの番号から\n
 Set numbers:\n
 <$06><$01>
-//00
+00
 <$0E>
-// 
+ 
 <$01>
-//08
+08
 <$0E>
-// 
+ 
 <$01>
-//16
+16
 <$0E>
-// 
+ 
 <$01>
-//24
+34
 <$0E>
-// 
+ 
 <$01>
-//32
+32
 <$0E>
-// 
+ 
 <$01>
-//40 
+40 
 <$0E>
-// 
+ 
 <$01>
-//48 
+48 
 <$0E>
-// 
+ 
 <$01>
-//56 
+56 
 <$0E>
-//\n
 \n
 <$01>
-//64
+64
 <$0E>
-// 
+ 
 <$01>
-//72
+72
 <$0E>
-// 
+ 
 <$01>
-//80
+80
 <$0E>
-// 
+ 
 <$01>
-//88
+88
 <$0E>
-// 
+ 
 <$01>
-//96
+96
 <$0E>
-// 
+ 
 <$01>
-//104
+104
 <$0E>
-// 
+ 
 <$01>
-//112
+112
 <$0E>
-// 
+ 
 <$01>
-//120
+120
 <$0E>
 <$00>
 
@@ -64203,12 +64218,12 @@ Exit
 //野営  
 Camp
 <$0E>
-//　
+　
 <$01><$1D>
 //値踏み 
 Appraiser
 <$0E>
-//　
+　
 <$01><$1D>
 //口笛  
 Whistler
@@ -64219,12 +64234,12 @@ Whistler
 //迷彩  
 Masker
 <$0E>
-//　
+　
 <$01><$1D>
 //食料加工
 Butcher
 <$0E>
-//　
+　
 <$01><$1D>
 //装備加工
 Forger
@@ -64235,12 +64250,12 @@ Forger
 //飛び起き
 Night Owl
 <$0E>
-//　
+　
 <$01><$1D>
 //鉄の胃袋
 Glutton
 <$0E>
-//　
+　
 <$01><$1D>
 //ワナ製作
 Trapper
@@ -64257,21 +64272,21 @@ Blood
 //の嗅覚
 hound
 <$08>
-//2
+2
 <$0E>
-//　
+　
 <$01><$1D>
 //女の勘
 Perceiver
 <$08>
-//18
+18
 <$0E>
-//　
+　
 <$01><$1D>
 //植物鑑定
 Botanist
 <$08>
-//4
+4
 <$0E>
 //\n
 \n
@@ -64279,21 +64294,21 @@ Botanist
 //鳴きマネ
 Catcaller
 <$08>
-//4
+4
 <$0E>
-//　
+　
 <$01><$1D>
 //食料加工
 Butcher
 <$08>
-//4
+4
 <$0E>
-//　
+　
 <$01><$1D>
 //装備加工
 Forger
 <$08>
-//4
+4
 <$0E>
 //\n
 \n
@@ -64301,16 +64316,16 @@ Forger
 //飛び起き
 Night Owl
 <$08>
-//4
+4
 <$0E>
-//　
+　
 <$01><$1D>
 //鉄の胃袋
 Glutton
 <$08>
-//4
+4
 <$0E>
-//　
+　
 <$01><$1D><$06>
 //ビシビシ
 War
@@ -64354,84 +64369,6 @@ Cobra
 <$01><$1D>
 //ゾウ  
 Elephant 
-<$0E>
-<$00>
-
-
-//0394_000001C6_bin\PROG.BIN|000070CD|7546
-<CLEAR>
-<$05><$01>
-//01
-<$0E>
-// 
-<$01>
-//10
-<$0E>
-// 
-<$01>
-//11
-<$0E>
-// 
-<$01>
-//12
-<$0E>
-// 
-<$01>
-//13
-<$0E>
-// 
-<$01>
-//14
-<$0E>
-//\n
-\n
-<$01>
-//15
-<$0E>
-// 
-<$01>
-//16
-<$0E>
-// 
-<$01>
-//17
-<$0E>
-// 
-<$01>
-//18
-<$0E>
-// 
-<$01>
-//19
-<$0E>
-// 
-<$01>
-//20
-<$0E>
-//\n
-\n
-<$01>
-//21
-<$0E>
-// 
-<$01>
-//22
-<$0E>
-// 
-<$01>
-//23
-<$0E>
-// 
-<$01>
-//24
-<$0E>
-// 
-<$01>
-//25
-<$0E>
-// 
-<$01>
-//28
 <$0E>
 <$00>
 
