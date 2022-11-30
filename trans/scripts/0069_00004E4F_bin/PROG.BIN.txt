@@ -68,19 +68,22 @@ Junk Palace 3F <$00>
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
 <CLEAR>Ken whistled.<$12>\n
-<CLEAR>Huge wings flapped in the distance...<$12><$00>
+<CLEAR>Huge wings flapped in the distance... <$12><$00>
 
 
 //<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Ken masked the party to avoid detection.<$12>\n
-<CLEAR>However, none of the animals in the area were stupid\n
-enough to fall for his antics!<$12><$00>
+<CLEAR>Ken masked the party to avoid\n
+detection.<$12>\n
+<CLEAR>However, none of the animals in the\n
+area were stupid enough to fall for\n
+his antics!<$12><$00>
 
 
 //<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
 <CLEAR>Linda mimicked a few animal calls.<$12>\n
-<CLEAR>However, none of the animals in the area were stupid\n
-enough to fall for her antics!<$12><$00>
+<CLEAR>However, none of the animals in the\n
+area were stupid enough to fall for\n
+her antics!<$12><$00>
 
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
@@ -92,7 +95,8 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
-<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted\n
+here!<$12><$00>
 
 
 //<CLEAR>俺ら、フリーのハンターは　情報が\n命だから　自前の情報網があるのさ！\nとくに　長老は天才的ハッカーでね…<$12>\n<CLEAR>連邦の極秘データバンクも　顔パスよ！\n知らないほうが　幸せなことまで\nご存知の　優しくて恐ろしいお人さ<$12><$00>
@@ -146,11 +150,11 @@ Hume, Linda's father! <$00>
 
 //\n<$01>えぇ、まあ…<$0E>／<$01>よーく見てよ<$0E><$00>
 \n
-<$01>She's, uh...<$0E> / <$01>Look closer!<$0E><$00>
+<$01>She's, uh... <$0E> / <$01>Look closer!<$0E><$00>
 
 
 //<CLEAR>…………………∥<$00>
-<CLEAR>............!<$00>
+<CLEAR>... ... ... ...!<$00>
 
 
 //<CLEAR>おい！　おい！　おい！\nよく見たら　リンダじゃねぇか∥\nどうしたんだ￠　その格好は<$00>
@@ -175,17 +179,17 @@ come up with any better ideas.<$00>
 
 //<CLEAR>リンダを見舞いに　行く途中で\nヘンなサンタが　リンダを\n連れてるのを　見つけてよ…<$00>
 <CLEAR>On my way to visit her in Hospico, I saw some little Santa\n
-punk with her...<$00>
+punk with her... <$00>
 
 
 //<CLEAR>奪い返したのは　いいんだが\n腹にキツイのを　一発もらって\nこのザマってわけさ<$00>
 <CLEAR>I snatched her back from him, but I was knicked in the\n
-torso, and...<$00>
+torso, and... <$00>
 
 
 //<CLEAR>ハハハ　痛てて…<$00>
-<CLEAR>Hehehe...\n
-That's why I'm here...<$00>
+<CLEAR>Hehehe... \n
+That's why I'm here... <$00>
 
 
 //<CLEAR>動けるようになったら\n多少無理しても　すぐに\n応援に駆けつけるからよ…<$00>
@@ -209,7 +213,7 @@ More than anything, you two deserve happiness.<$00>
 
 //<CLEAR>ハハハ　痛て痛て痛て<$00>
 <CLEAR>Hahaha!\n
-...Oww, oww, oww.<$00>
+... Oww, oww, oww.<$00>
 
 
 //<CLEAR>ダチのヒュームと　よく二人で\n秘密の狩り場へ　行ったもんさ\n奴には何度も　命を救われたよ<$12><$00>
@@ -220,8 +224,8 @@ all the time at our secret hunting grounds.<$12><$00>
 //<CLEAR>愛し合う二人は　いつも一緒\nそいつが　なによりだ…\nヒュームって中年男の　口グセよ<$12>\n<CLEAR>別れた女房に　まだ未練タラタラなのサ\n大きなナリして　情けないよね<$12><$00>
 <CLEAR>"Lovers stick together!"\n
 It's cheesy to say at his age, but that's Hume's mantra.<$12>\n
-<CLEAR>It seems that divorce was his biggest regret... Shit's hard\n
-to watch.<$12><$00>
+<CLEAR>It seems that divorce was his biggest regret...  Shit's\n
+hard to watch.<$12><$00>
 
 
 #WRITE(PTR, $0020)
@@ -231,19 +235,22 @@ Junk Palace 4F <$00>
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
 <CLEAR>Ken whistled.<$12>\n
-<CLEAR>Huge wings flapped in the distance...<$12><$00>
+<CLEAR>Huge wings flapped in the distance... <$12><$00>
 
 
 //<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Ken masked the party to avoid detection.<$12>\n
-<CLEAR>However, none of the animals in the area were stupid\n
-enough to fall for his antics!<$12><$00>
+<CLEAR>Ken masked the party to avoid\n
+detection.<$12>\n
+<CLEAR>However, none of the animals in the\n
+area were stupid enough to fall for\n
+his antics!<$12><$00>
 
 
 //<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
 <CLEAR>Linda mimicked a few animal calls.<$12>\n
-<CLEAR>However, none of the animals in the area were stupid\n
-enough to fall for her antics!<$12><$00>
+<CLEAR>However, none of the animals in the\n
+area were stupid enough to fall for\n
+her antics!<$12><$00>
 
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
@@ -255,12 +262,13 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
-<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted\n
+here!<$12><$00>
 
 
 //おまえさんは　ケン？　…かな？\n<$01>そうだけど…<$0E>／<$01>人違いですよ<$0E><$00>
-You must be...Ken, yes?\n
-<$01>Yes, but...<$0E> / <$01>Wrong guy!<$0E><$00>
+You must be... Ken, yes?\n
+<$01>Yes, but... <$0E> / <$01>Wrong guy!<$0E><$00>
 
 
 //<CLEAR>そうか…　町長のなぁ…\n大きうなったのぉ！\nホホホホホ…<$12><$00>
@@ -387,7 +395,7 @@ K<$06>-14<$04><$00>
 //よっ∥　ダンナ∥　待ってたゼ∥\nさっそく　<$1D>様の戦果報告だ∥\n今回の獲物は…<$12><$00>
 Hey, it's been a minute! You're just time for <$1D>'s Hunting\n
 Report!\n
-The catch of the day is...<$12><$00>
+The catch of the day is... <$12><$00>
 
 
 //<CLEAR>おっとっと……\nカーゴの空きが　２つなきゃ\n困るねぇ　ダンナ…<$12><$00>
@@ -396,8 +404,9 @@ trans-cargo unit!<$12><$00>
 
 
 //<CLEAR>カラケツだ∥\nまっ　こういうことも\nたまには　あらぁな　ダハハハ…<$12><$00>
-<CLEAR>...nada!\n
-I hate to kill the mood, but these things do happen, hehe...<$12><$00>
+<CLEAR>... nada!\n
+I hate to kill the mood, but these things do happen, hehe...\n
+<$12><$00>
 
 
 //<CLEAR><$00>
@@ -436,7 +445,8 @@ Would you like a room for <$1D><$06><$1E><$04><$14>￥?\n
 
 
 //<CLEAR>お客様、戦えなくなった　猟犬のＨＰは\n宿泊や野営じゃ　戻りませんけど…\n<$01>知ってるよ<$0E>／<$01>ホントかよ<$0E><$00>
-<CLEAR>I'm sorry, but dogs won't recover HP in hotels or camps.\n
+<CLEAR>It's regrettable, but dogs will\n
+not recover HP in hotels or camps.\n
 <$01>I know that<$0E> / <$01>Really?!<$0E><$00>
 
 
@@ -449,46 +459,47 @@ Would you like a room for <$1D><$06><$1E><$04><$14>￥?\n
 
 
 //クン、クンクン………？<$12>\n<CLEAR>ここには　少なくとも<$1E>1人！\nいいえ…　<$1E>1人はいるわよ…<$12>\n<CLEAR>お風呂と縁のない人<$12><$00>
-Sniff...sniff, sniff?<$12>\n
+Sniff... sniff, sniff?<$12>\n
 <CLEAR>There's not <$1E>1 soul here!\n
-Wait... No, there's at least <$1E>1.<$12>\n
-<CLEAR>It's whatever they reek of that isn't human.<$12><$00>
+Wait...  No, there's at least <$1E>1.<$12>\n
+<CLEAR>It's whatever they smell of\n
+that lacks soul.<$12><$00>
 
 
 //……東<$00>
-...East<$00>
+... East<$00>
 
 
 //……西<$00>
-...West<$00>
+... West<$00>
 
 
 //……南<$00>
-...South<$00>
+... South<$00>
 
 
 //……北<$00>
-...North<$00>
+... North<$00>
 
 
 //…北東<$00>
-...North-east<$00>
+... North-east<$00>
 
 
 //…北西<$00>
-...North-west<$00>
+... North-west<$00>
 
 
 //…南東<$00>
-...South-east<$00>
+... South-east<$00>
 
 
 //…南西<$00>
-...South-west<$00>
+... South-west<$00>
 
 
 //<CLEAR>……<$1D><$00>
-<CLEAR>......<$1D><$00>
+<CLEAR>... ... <$1D><$00>
 
 
 //、…<$1D>に行けば<$00>
@@ -512,7 +523,7 @@ Back<$00>
 
 
 //<CLEAR>……<$1D><$00>
-<CLEAR>......<$1D><$00>
+<CLEAR>... ... <$1D><$00>
 
 
 //、絶対に<$1D>∥<$00>
@@ -520,11 +531,11 @@ wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19><$31><$15><$53>リンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition... <$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
-<CLEAR>...Sorry. I don't have it in me today.<$12><$00>
+<CLEAR>... Sorry. I don't have it in me today.<$12><$00>
 
 
 //運命の<$00>
@@ -564,7 +575,7 @@ could appear.<$00>
 
 
 //が　待ってる…<$00>
-await us...<$00>
+await us... <$00>
 
 
 //気がするわ∥<$00>
@@ -576,7 +587,7 @@ are in our grasp!<$00>
 
 
 //今しかないわ<$00>
-could slip through our fingers!<$00>
+could get away!<$00>
 
 
 //間違いなし∥<$00>
@@ -591,11 +602,11 @@ are dead ahead!<$00>
 
 
 //<CLEAR>自信があるの∥<$12><$00>
-<CLEAR>I'm sure of it!<$12><$00>
+<CLEAR>I swear!<$12><$00>
 
 
 //<CLEAR>自信は　ないけどね…<$12><$00>
-<CLEAR>Although, I'm not totally certain...<$12><$00>
+<CLEAR>Although, I'm not totally certain... <$12><$00>
 
 
 //<CLEAR>絶対なんだから∥<$12><$00>

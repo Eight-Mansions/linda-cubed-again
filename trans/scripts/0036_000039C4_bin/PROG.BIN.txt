@@ -76,19 +76,22 @@ c172_2r.obj<$00>
 #WRITE(PTR, $0020)
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
 <CLEAR>Ken whistled.<$12>\n
-<CLEAR>Huge wings flapped in the distance...<$12><$00>
+<CLEAR>Huge wings flapped in the distance... <$12><$00>
 
 
 //<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Ken masked the party to avoid detection.<$12>\n
-<CLEAR>However, none of the animals in the area were stupid\n
-enough to fall for his antics!<$12><$00>
+<CLEAR>Ken masked the party to avoid\n
+detection.<$12>\n
+<CLEAR>However, none of the animals in the\n
+area were stupid enough to fall for\n
+his antics!<$12><$00>
 
 
 //<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
 <CLEAR>Linda mimicked a few animal calls.<$12>\n
-<CLEAR>However, none of the animals in the area were stupid\n
-enough to fall for her antics!<$12><$00>
+<CLEAR>However, none of the animals in the\n
+area were stupid enough to fall for\n
+her antics!<$12><$00>
 
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
@@ -100,7 +103,8 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
-<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted\n
+here!<$12><$00>
 
 
 //空港ビル１階<$00>
@@ -108,69 +112,83 @@ Airport 1F <$00>
 
 
 //脱出用のシャトルに　お乗りの方は\n３階の射出センターより　軌道衛星\nオズサットまで　お越しください<$12>\n<CLEAR>手荷物は　おひとり様　２つまでです\n動物の船内への　持ち込みは　法律で\n禁止されております　ご遠慮ください<$12><$00>
-All migrant shuttle passengers, please take the third floor\n
+All migrant shuttle passengers,\n
+please take the third floor\n
 beam terminal to OzSat.<$12>\n
-<CLEAR>We allow two pieces of luggage per person. By law, animal\n
-migration is prohibited.<$12><$00>
+<CLEAR>We allow two pieces of luggage\n
+per person, and by law,\n
+animal migration is prohibited.<$12><$00>
 
 
 //☆ネオケニア　百年の歩み☆\nその発見から　現在までを\nわかりやすく紹介する　コーナーです<$12><$00>
-"ENJOY A GLIMPSE OF NEO KENYA ON THE ROAD FROM ITS\n
-DISCOVERY TO WHERE WE ARE TODAY!"<$12><$00>
+"ENJOY A GLIMPSE OF NEO KENYA ON THE\n
+ROAD FROM ITS DISCOVERY TO WHERE WE ARE\n
+TODAY!"<$12><$00>
 
 
 //ここより　空港関係者以外の\n立ち入り　禁ず<$12><$00>
-"AIRPORT PERSONNEL ONLY PERMITTED BEYOND THIS POINT."<$12><$00>
+"AIRPORT PERSONNEL ONLY\n
+PERMITTED BEYOND THIS POINT."<$12><$00>
 
 
 //「ネオケニア　百年の歩み」ねぇ…\n偉そうに　たくさん展示してあるけど\n要するに　この星の歴史ってさ…<$12>\n<CLEAR>アナビスの遺跡から　使えそうなのを\n２、３個　ちょろまかしました…<$12>\n<CLEAR>動物のことを　いろいろ調べたけど\n結局なーんも　わかりませんでした…\n要するに　それだけなんだよな<$12><$00>
 "A Walk in Neo Kenya"...\n
-The exhibit here gives a quick summary of the planet.<$12>\n
-<CLEAR>It seems a few exhibit pieces were pilfered from the\n
-temples of Annabis.<$12>\n
-<CLEAR>We've researched the animals a lot, but we still don't\n
-understand anything in the end.<$12><$00>
+The exhibit here gives a quick summary\n
+of the planet.<$12>\n
+<CLEAR>It seems a few exhibit pieces were\n
+pilfered from the temples of Annabis.<$12>\n
+<CLEAR>We've researched the animals a lot,\n
+but we still don't understand anything\n
+in the end.<$12><$00>
 
 
 //他の星へ行ったら　もう２度と\nこの味は　味わえませんよ<$12><$00>
-When we leave for other planets, we'll never taste these\n
-flavors again.<$12><$00>
+When we leave for other planets,\n
+we'll never taste these flavors again.<$12><$00>
 
 
 //どの飲み物も　非常に個性的な味だな\n共通点といえば　まずいことくらいか<$12><$00>
-Every drink tastes different. Their only common denominator\n
+Every drink tastes different.\n
+Their only common denominator\n
 is that they taste bad.<$12><$00>
 
 
 //人の話の中で　どこだかわかんない\n町の名がでてきたら　とりあえず\nバードラインに　行くといいわよ<$12>\n<CLEAR>そのまま　鳥に乗って行ってもいいし\nナビシステムの座標だけ　確かめて\n歩いて行くのも　たまにはいいかもね<$12><$00>
-If anyone mentions a town I haven't been to, the first\n
-thing I do is check with the birdline.<$12>\n
-<CLEAR>I look up the NaviS coordinates. After that, I either fly in,\n
+If anyone mentions a town I haven't\n
+been to, the first thing I do is check\n
+with the birdline.<$12>\n
+<CLEAR>I look up the NaviS coordinates.\n
+After that, I either fly in,\n
 or I take a nice, hearty walk!<$12><$00>
 
 
 //「死神」って隕石が　どれほど\nでかいかは　よく知らないけどよ<$12>\n<CLEAR>隕石ひとつ　止められないなんて\n人間の力も　自慢できるほどには\n大したモンじゃ　ないよなぁ<$12><$00>
-I don't know how big the Grim Reaper is, but...<$12>\n
-<CLEAR>...it says a lot when all the man-power in the universe can't\n
-stop it.<$12><$00>
+I don't know how big the Grim Reaper is,\n
+but... <$12>\n
+<CLEAR>... it says a lot when all the\n
+man-power in the universe can't put\n
+a stop to it.<$12><$00>
 
 
 #WRITE(PTR, $0022)
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
 <CLEAR>Ken whistled.<$12>\n
-<CLEAR>Huge wings flapped in the distance...<$12><$00>
+<CLEAR>Huge wings flapped in the distance... <$12><$00>
 
 
 //<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Ken masked the party to avoid detection.<$12>\n
-<CLEAR>However, none of the animals in the area were stupid\n
-enough to fall for his antics!<$12><$00>
+<CLEAR>Ken masked the party to avoid\n
+detection.<$12>\n
+<CLEAR>However, none of the animals in the\n
+area were stupid enough to fall for\n
+his antics!<$12><$00>
 
 
 //<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
 <CLEAR>Linda mimicked a few animal calls.<$12>\n
-<CLEAR>However, none of the animals in the area were stupid\n
-enough to fall for her antics!<$12><$00>
+<CLEAR>However, none of the animals in the\n
+area were stupid enough to fall for\n
+her antics!<$12><$00>
 
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
@@ -182,7 +200,8 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
-<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted\n
+here!<$12><$00>
 
 
 //空港ビル２階<$00>
@@ -190,32 +209,39 @@ Airport 2F <$00>
 
 
 //ここより　空港関係者以外の\n立ち入り　禁ず<$12><$00>
-"AIRPORT PERSONNEL ONLY PERMITTED BEYOND THIS POINT."<$12><$00>
+"AIRPORT PERSONNEL ONLY\n
+PERMITTED BEYOND THIS POINT."<$12><$00>
 
 
 //僕サ、新しい星に行ったら　もう一度\n人生を最初から　やり直すつもりサ！<$12><$00>
-I'm going to land on a new planet, and start my whole life\n
-over!<$12><$00>
+I'm going to land on a new planet,\n
+and start my whole life over!<$12><$00>
 
 
 //「滅びの美」だか何だか　知らないけど\nここ数年、ネオケニアへ　旅行するのが\n暇な金持ちの間で　大流行してるのよ<$12>\n<CLEAR>他人事だと　人間、残酷なくらい\n野次馬に　徹し切れるんだなぁって…\nあきれるの通り越して　感心するわね<$12><$00>
-The more I travel, the more I find people who call Neo\n
-Kenya's dilapidation "aesthetic".<$12>\n
-<CLEAR>Rich people kinda get off on watching poorfolk suffer, don't\n
-they? It's beyond cruel.<$12><$00>
+The more I travel, the more I find\n
+people who call Neo Kenya's\n
+dilapidation "aesthetic".<$12>\n
+<CLEAR>Rich people kinda get off on watching\n
+poorfolk suffer, don't they?\n
+It's beyond cruel.<$12><$00>
 
 
 //入植する時は　豪華な船で連れて来て\n脱出する時には　貨物船を改造した\n旧式のロケットに　スシ詰めだもんな<$12>\n<CLEAR>連邦のやり方って　愛がないよ<$12><$00>
-The feds cruise in on yachts, but pack us onto\n
-hunk-a-junk life boats like we're sardines.<$12>\n
-<CLEAR>They're not even passenger ships, just old freighters with\n
-chairs tossed in!<$12><$00>
+The feds cruise in on yachts,\n
+but pack us onto hunk-a-junk life boats\n
+like we're sardines.<$12>\n
+<CLEAR>They're not even passenger ships,\n
+just old freighters with chairs tossed\n
+in!<$12><$00>
 
 
 //やあ！　箱船プロジェクトの\n進行状況は　どうかな？<$12>\n<CLEAR>君たちなら　きっと　やりとげて\nくれると　信じているからね！\nがんばってくれよ∥<$12><$00>
-Hey! How's Project Astro Ark treating you? Any progress?<$12>\n
-<CLEAR>Don't worry, you two've got this in the bag! Don't let\n
-anyone say otherwise!<$12><$00>
+How's Project Astro Ark treating you?\n
+Any progress?<$12>\n
+<CLEAR>Don't worry, you two've\n
+got this in the bag!\n
+Don't let anyone say otherwise!<$12><$00>
 
 
 //銀河、最後のパラダイス∥\n大自然が　あなたを待っている∥\n＿＿＿＿＿＿＿＿＿＿ＮＫトラベル<$12><$00>
@@ -225,28 +251,33 @@ NATURE IS WAITING FOR YOU!"\n
 
 
 //奥に　どこにでもいそうな\nオジさんが　立っているでしょ？\nあの人が　泣く子も黙る空港司令官<$12>\n<CLEAR>この空港の　最高責任者なの\n人は　見かけによらないっていう\n見本みたいな人でしょ<$12><$00>
-You see the gruff-looking guy standing around in the\n
-back? He's our airport general.<$12>\n
-<CLEAR>By appearances, you'd think he couldn't even pass as chief\n
-exec of a trash can.<$12><$00>
+You see the gruff-looking guy\n
+standing around in the back?\n
+He's our airport general.<$12>\n
+<CLEAR>By appearances, his lazy appearance\n
+barely even passes for the chief exec\n
+of a trash can.<$12><$00>
 
 
 #WRITE(PTR, $0024)
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
 <CLEAR>Ken whistled.<$12>\n
-<CLEAR>Huge wings flapped in the distance...<$12><$00>
+<CLEAR>Huge wings flapped in the distance... <$12><$00>
 
 
 //<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Ken masked the party to avoid detection.<$12>\n
-<CLEAR>However, none of the animals in the area were stupid\n
-enough to fall for his antics!<$12><$00>
+<CLEAR>Ken masked the party to avoid\n
+detection.<$12>\n
+<CLEAR>However, none of the animals in the\n
+area were stupid enough to fall for\n
+his antics!<$12><$00>
 
 
 //<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
 <CLEAR>Linda mimicked a few animal calls.<$12>\n
-<CLEAR>However, none of the animals in the area were stupid\n
-enough to fall for her antics!<$12><$00>
+<CLEAR>However, none of the animals in the\n
+area were stupid enough to fall for\n
+her antics!<$12><$00>
 
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
@@ -258,7 +289,8 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
-<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted\n
+here!<$12><$00>
 
 
 //空港ビル３階<$00>
@@ -266,46 +298,53 @@ Airport 3F <$00>
 
 
 //私の移住先は　カナメル系のユーリよ！\nあそこって　男女比が　８：２なの<$12>\n<CLEAR>天国だわね！<$12><$00>
-My emigration destination is Planet Yuri, in the Kanamel\n
-system.<$12>\n
+My emigration destination is\n
+Planet Yuri, in the Kanamel system.<$12>\n
 <CLEAR>The male-to-female ratio is 8;2!\n
 It's heaven, I tell you!<$12><$00>
 
 
 //オズサットへ　行かれるのなら\n射出部の中心まで　お進みください\nいつでも　ＯＫですよ<$12><$00>
-If going to the artificial satellite, OzSAT, at any time, please\n
-use the beam terminal.<$12><$00>
+If going to the artificial satellite,\n
+OzSAT, at any time,\n
+please use the beam terminal.<$12><$00>
 
 
 //大丈夫！　安心してください∥\nいきなり　宇宙空間へ放り出すような\nミスは　ここ１年、１件もありません<$12>\n<CLEAR>バードラインより　事故は少ないし\n町の外を　歩くのに比べれば\nずーーっと　安全なんですから<$12><$00>
-Rest assured! We haven't mis-fired a client into outer space\n
-once this year!<$12>\n
-<CLEAR>We have fewer accidents than the birdline, and we're\n
+Rest assured!\n
+We haven't mis-fired a client\n
+into outer space once this year!<$12>\n
+<CLEAR>We have fewer daily incidents than\n
+the birdline, and we're waaay\n
 safer than travel on foot.<$12><$00>
 
 
 //銃火器の持ち込みと　動物の持ち出し、\nこの２つが　入出国の際の\n重大な　チェックポイントね<$12>\n<CLEAR>特に　動物の持ち出しは　絶対ダメ∥<$12>\n<CLEAR>こないだも　密輸された動物が\n着いた先の大気を　肺に入れた途端…<$12>\n<CLEAR>『ドッカーン∥』<$12>\n<CLEAR>２キロ四方が　一瞬にして灰だってサ<$12><$00>
-You'll be stopped at two key checkpoints when travelling\n
-in and out of the country.<$12>\n
+You'll be stopped at two key\n
+checkpoints when travelling in and out\n
+of the country.<$12>\n
 <CLEAR>One checks for any carry-on weapons.\n
 The other checks for loose animals.<$12>\n
-<CLEAR>Just the other day, someone tried smuggling an animal,\n
+<CLEAR>Just the other day,\n
+someone tried smuggling an animal,\n
 but when the air hit its lungs...<$12>\n
-<CLEAR>...KABLOOEY!<$12>\n
-<CLEAR>That sucker was 2 square kilometers of debris in no time\n
-flat!<$12><$00>
+<CLEAR>... KABLOOEY!<$12>\n
+<CLEAR>That sucker was 2 square kilometers\n
+of debris in no time flat!<$12><$00>
 
 
 //このポスターの　ウソじゃないのは\nこの「最後の」ってトコだけだな<$12><$00>
-The only part of this poster that isn't lying is the word\n
-"final".<$12><$00>
+The only part of this poster that isn't\n
+a fib is the word "final".<$12><$00>
 
 
 //情報集めは　早めにやっといたほうが\nいいかも　しれないね…　なにしろ\n住民は　次々、脱出していなくなる<$12>\n<CLEAR>信じられないなら　次の夏に\nここへ　来てごらんな\n私も　いなくなってるからサ<$12><$00>
-You'd better gather info now, not later. Everyone'll sail\n
-away before you know it.<$12>\n
-<CLEAR>Don't believe me? Come back next summer and see if I'm\n
-still here.<$12><$00>
+You should gather info now, not later.\n
+Everyone'll sail away before you\n
+know it.<$12>\n
+<CLEAR>Don't believe me?\n
+Come back next summer and see\n
+if I'm still here.<$12><$00>
 
 
 #WRITE(PTR, $0026)
@@ -324,8 +363,9 @@ still here.<$12><$00>
 
 
 //<CLEAR>ぼうや…\nタダ酒は　後で高くつくのが\n大人の世界の常識だぜ<$12><$00>
-<CLEAR>Careful, kiddo. Everyone pays the price for cheap liquor\n
-sooner or later.<$12><$00>
+<CLEAR>Careful, kiddo.\n
+Everyone pays the price for\n
+cheap liquor sooner or later.<$12><$00>
 
 
 //<CLEAR>ケンは<$1D><$1D>を\nひといきに飲み干した<$12><$00>
@@ -397,46 +437,47 @@ in one gulp.<$12><$00>
 
 
 //クン、クンクン………？<$12>\n<CLEAR>ここには　少なくとも<$1E>1人！\nいいえ…　<$1E>1人はいるわよ…<$12>\n<CLEAR>お風呂と縁のない人<$12><$00>
-Sniff...sniff, sniff?<$12>\n
+Sniff... sniff, sniff?<$12>\n
 <CLEAR>There's not <$1E>1 soul here!\n
-Wait... No, there's at least <$1E>1.<$12>\n
-<CLEAR>It's whatever they reek of that isn't human.<$12><$00>
+Wait...  No, there's at least <$1E>1.<$12>\n
+<CLEAR>It's whatever they smell of\n
+that lacks soul.<$12><$00>
 
 
 //……東<$00>
-...East<$00>
+... East<$00>
 
 
 //……西<$00>
-...West<$00>
+... West<$00>
 
 
 //……南<$00>
-...South<$00>
+... South<$00>
 
 
 //……北<$00>
-...North<$00>
+... North<$00>
 
 
 //…北東<$00>
-...North-east<$00>
+... North-east<$00>
 
 
 //…北西<$00>
-...North-west<$00>
+... North-west<$00>
 
 
 //…南東<$00>
-...South-east<$00>
+... South-east<$00>
 
 
 //…南西<$00>
-...South-west<$00>
+... South-west<$00>
 
 
 //<CLEAR>……<$1D><$00>
-<CLEAR>......<$1D><$00>
+<CLEAR>... ... <$1D><$00>
 
 
 //、…<$1D>に行けば<$00>
@@ -460,7 +501,7 @@ Back<$00>
 
 
 //<CLEAR>……<$1D><$00>
-<CLEAR>......<$1D><$00>
+<CLEAR>... ... <$1D><$00>
 
 
 //、絶対に<$1D>∥<$00>
@@ -468,11 +509,11 @@ wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19><$31><$15><$53>リンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition... <$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
-<CLEAR>...Sorry. I don't have it in me today.<$12><$00>
+<CLEAR>... Sorry. I don't have it in me today.<$12><$00>
 
 
 //運命の<$00>
@@ -512,7 +553,7 @@ could appear.<$00>
 
 
 //が　待ってる…<$00>
-await us...<$00>
+await us... <$00>
 
 
 //気がするわ∥<$00>
@@ -524,7 +565,7 @@ are in our grasp!<$00>
 
 
 //今しかないわ<$00>
-could slip through our fingers!<$00>
+could get away!<$00>
 
 
 //間違いなし∥<$00>
@@ -539,11 +580,11 @@ are dead ahead!<$00>
 
 
 //<CLEAR>自信があるの∥<$12><$00>
-<CLEAR>I'm sure of it!<$12><$00>
+<CLEAR>I swear!<$12><$00>
 
 
 //<CLEAR>自信は　ないけどね…<$12><$00>
-<CLEAR>Although, I'm not totally certain...<$12><$00>
+<CLEAR>Although, I'm not totally certain... <$12><$00>
 
 
 //<CLEAR>絶対なんだから∥<$12><$00>

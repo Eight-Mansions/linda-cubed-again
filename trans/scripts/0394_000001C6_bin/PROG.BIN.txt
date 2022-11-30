@@ -49,15 +49,15 @@ c125a0.obj<$00>
 
 
 //<$06>T.C.(<$1E>034<$06>)<$00>
-<$06>TCU (x<$1E><$06>)<$00>
+<$06>TCU (x<$1E>034<$06>)<$00>
 
 
 //<$05>γ<$00>
-<$05>A<$00>
+<$05>ATK<$00>
 
 
 //<$05>ζ<$00>
-<$05>D<$00>
+<$05>DEF<$00>
 
 
 //<$1E>@019<$00>
@@ -94,19 +94,22 @@ Testarea<$00>
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
 <CLEAR>Ken whistled.<$12>\n
-<CLEAR>Huge wings flapped in the distance...<$12><$00>
+<CLEAR>Huge wings flapped in the distance... <$12><$00>
 
 
 //<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Ken masked the party to avoid detection.<$12>\n
-<CLEAR>However, none of the animals in the area were stupid\n
-enough to fall for his antics!<$12><$00>
+<CLEAR>Ken masked the party to avoid\n
+detection.<$12>\n
+<CLEAR>However, none of the animals in the\n
+area were stupid enough to fall for\n
+his antics!<$12><$00>
 
 
 //<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
 <CLEAR>Linda mimicked a few animal calls.<$12>\n
-<CLEAR>However, none of the animals in the area were stupid\n
-enough to fall for her antics!<$12><$00>
+<CLEAR>However, none of the animals in the\n
+area were stupid enough to fall for\n
+her antics!<$12><$00>
 
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
@@ -118,7 +121,8 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
-<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted\n
+here!<$12><$00>
 
 
 //<CLEAR>ＢＧＭ試験\n<$01>音楽１<$0E>／<$01>音楽２<$0E>／<$01>停止！<$0E>／<$01>やめる<$0E><$00>
@@ -401,30 +405,33 @@ pict25.tim<$00>
 pict28.tim<$00>
 
 //<$01>左回転<$0E><$08>4<$01>ジャンプ＿＿<$0E><$08>4<$01>回転低ジャンプ移動<$0E>\n<$01>右回転<$0E><$08>4<$01>回転ジャンプ<$0E><$08>4<$01>回転高ジャンプ移動<$0E><$00>
-<$01>CCW <$0E><$08><$01>Jump <$0E><$08><$01>LJump(move)<$0E>\n
-<$01>CCW <$0E><$08><$01>HJump <$0E><$08><$01>HJump(move)<$0E><$00>
+<$01>CCW <$0E><$08>4<$01>Jump <$0E><$08>4<$01>LJump(move)<$0E>\n
+<$01>CCW <$0E><$08>4<$01>HJump <$0E><$08>4<$01>HJump(move)<$0E><$00>
 
 
 //<CLEAR>持ち金を設定します＿持金<$01><$1E>40￥<$00>
-<CLEAR>Set funds: <$01><$1E><$00>
+<CLEAR>Set funds: <$01><$1E>40￥<$00>
 
 
 //<CLEAR><$06><$1E><$04>￥の持金ですね\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
-<CLEAR><$06><$1E><$04>￥ will be held, okay?\n
+<CLEAR><$06><$1E><$04>￥ will be withheld, okay?\n
 <$01>Yes<$0E> / <$01>No<$0E><$00>
 
 
 //<CLEAR>お客さん…\nホスピコの入り口に　並んでる\n哀れな猟犬の墓を　数えてごらん<$12>\n<CLEAR>これ以上　あなたの猟犬を\n登録したところで、どうせまた\nあそこの墓が　増えるだけだものね<$12>\n<CLEAR>金の問題じゃないんだよ…\nわかるッ￠<$12><$00>
-<CLEAR>Sir, go look at the pet cemetary along the Hospico entrance.<$12>\n
-<CLEAR>We keep that cemetary's growth down by capping the\n
-number of dogs each client can adopt.<$12>\n
-<CLEAR>You may have money, but you've sadlt hit that limit. Let\n
-that be a lesson to you.<$12><$00>
+<CLEAR>Sir, go look at the pet cemetary along\n
+the Hospico entrance.<$12>\n
+<CLEAR>We keep that cemetary's growth down by\n
+capping the number of dogs each client\n
+may adopt.<$12>\n
+<CLEAR>You may have money, but you've sadly\n
+hit the adoption cap.\n
+Let that be a lesson to you.<$12><$00>
 
 
 //<CLEAR>猟犬の収容枠が　いっぱいです\nこれ以上、猟犬を増やせません<$12><$00>
-<CLEAR>You have reached the limit on dogs you can own at one time.\n
-<$12><$00>
+<CLEAR>You have reached the limit on dogs you\n
+can own at one time. <$12><$00>
 
 
 //<CLEAR>登録料　<$15><$62><$06><$1E><$04><$14>￥が足りません\n銀行で　ご都合ください<$12><$00>
@@ -452,7 +459,7 @@ Choose a new name.<$12><$00>
 //<CLEAR>こんにちわ！　私の名はジル<$12>\n<CLEAR>タダで　動物を忠実な猟犬に\n登録できるけど、しちゃう？\n<$01>しちゃう！<$0E>／<$01>遠慮しとく<$0E><$00>
 <CLEAR>Hello! My name's Jill.<$12>\n
 <CLEAR>I run free adoptions!\n
-Would you like one?\n
+Would you like to adopt?\n
 <$01>Yes, please!<$0E> / <$01>Nah.<$0E><$00>
 
 
@@ -532,12 +539,12 @@ Yes<$00>
 
 //\n<$01>Ａ<$0E>　<$01>Ｃ<$0E>　<$01>Ｅ<$0E>　<$01>始<$0E><$00>
 \n
-<$01>Ａ<$0E>　<$01>Ｃ<$0E>　<$01>Ｅ<$0E>　<$01>→→<$0E><$00>
+<$01>A<$0E>　<$01>C<$0E>　<$01>E<$0E>　<$01>→→<$0E><$00>
 
 
 //\n<$01>Ｇ<$0E>　<$01>Ｈ<$0E>　<$01>Ｉ<$0E>　<$01>Ｊ<$0E>　<$01>Ｋ<$0E>　<$01>Ｌ<$0E>　<$01>始<$0E><$00>
 \n
-<$01>Ｇ<$0E>　<$01>Ｈ<$0E>　<$01>Ｉ<$0E>　<$01>Ｊ<$0E>　<$01>Ｋ<$0E>　<$01>Ｌ<$0E>　<$01>→→<$0E><$00>
+<$01>G<$0E>　<$01>H<$0E>　<$01>I<$0E>　<$01>J<$0E>　<$01>K<$0E>　<$01>L<$0E>　<$01>→→<$0E><$00>
 
 
 //動物全部登録しますか？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
@@ -733,8 +740,9 @@ a06_06<$00>
 a06_07<$00>
 
 //<CLEAR><$05>A07\n<$01>01<$0E> <$01>02<$0E> <$01>03<$0E> <$01>04<$0E> <$01>05<$0E> <$01>06<$0E> <$01>07<$0E> <$01>08<$0E>\n<$01>09<$0E> <$01>10<$0E><$00>
-<CLEAR><$05><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E><$01><$0E>\n
-<$01><$0E><$01><$0E><$00>
+<CLEAR><$05>A07\n
+<$01>01<$0E><$01>02<$0E><$01>03<$0E><$01>04<$0E><$01>05<$0E><$01>06<$0E><$01>07<$0E><$01>08<$0E>\n
+<$01>09<$0E><$01>10<$0E><$00>
 
 
 //a07_01<$00>

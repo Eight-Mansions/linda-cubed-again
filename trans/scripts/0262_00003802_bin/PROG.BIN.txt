@@ -11,12 +11,13 @@
 #WRITE(PTR, $0022)
 //<CLEAR><$1C><$41>は\n地面を　掘り返している…<$12><$00>
 <CLEAR><$1C><$41>\n
-raked up the soil...<$12><$00>
+raked up the soil... <$12><$00>
 
 
 //<CLEAR><$1C><$41>の攻撃\nドロリと　唾液をたらした…\n溶解スピット∥<$12><$00>
 <CLEAR><$1C><$41>\n
-attacked with a gooey, dissolving saliva!<$12><$00>
+attacked with a gooey,\n
+dissolving saliva!<$12><$00>
 
 
 //<CLEAR><$1C><$41>の攻撃∥\n美しい鳴き声で　歌った∥<$12><$00>
@@ -160,19 +161,22 @@ Astro Ark <$00>
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
 <CLEAR>Ken whistled.<$12>\n
-<CLEAR>Huge wings flapped in the distance...<$12><$00>
+<CLEAR>Huge wings flapped in the distance... <$12><$00>
 
 
 //<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Ken masked the party to avoid detection.<$12>\n
-<CLEAR>However, none of the animals in the area were stupid\n
-enough to fall for his antics!<$12><$00>
+<CLEAR>Ken masked the party to avoid\n
+detection.<$12>\n
+<CLEAR>However, none of the animals in the\n
+area were stupid enough to fall for\n
+his antics!<$12><$00>
 
 
 //<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
 <CLEAR>Linda mimicked a few animal calls.<$12>\n
-<CLEAR>However, none of the animals in the area were stupid\n
-enough to fall for her antics!<$12><$00>
+<CLEAR>However, none of the animals in the\n
+area were stupid enough to fall for\n
+her antics!<$12><$00>
 
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
@@ -184,22 +188,29 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
-<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted\n
+here!<$12><$00>
 
 
 //<CLEAR><$02>71告　知\n　箱船ノ　乗員求ム\n　男女　各一名\n　動物集メニ　自信ノ有ル者\n　ニ限ル\n<$02>114神様ヨリ<$00>
-<CLEAR><$02>71"COMMANDMENT: ONE MALE, ONE FEMALE, TWO BY TWO BY\n
-TWO, SHOULDST BOARD THIS ARK WITH WORTHY PILOTS.\n
+<CLEAR><$02>71"COMMANDMENT:\n
+ONE MALE, ONE FEMALE,\n
+TWO BY TWO BY TWO,\n
+SHOULDST BOARD THIS ARK\n
+WITH WORTHY PILOTS.\n
 <$02>114-SIGNED, GOD"<$00>
 
 
 //この箱船の材質を　確定するために\n数グラムばかし　外壁を削らしてもろた\n結果は　驚くべきもんじゃった<$12>\n<CLEAR>これが　正真正銘のただのカシの木…\nそこらに生えてるのと　まったく同じ！<$12>\n<CLEAR>しかし　もっと驚かされたのは…\nサンプルを削った跡が　翌朝には\nきれいに　消えていることなんじゃよ<$12><$00>
-We sampled a few grams from the Astro Ark's wood-like\n
-exterior, and wouldn't you know it?<$12>\n
-<CLEAR>The whole thing's made from genuine oak! Oak! Oak from any\n
-old tree! But, strangely...<$12>\n
-<CLEAR>...the wooden cut marks from where we took samples off the\n
-Astro Ark healed themselves overnight!<$12><$00>
+We sampled a few grams from\n
+the Astro Ark's wood-like exterior,\n
+and wouldn't you know it?<$12>\n
+<CLEAR>The whole thing's made from real oak!\n
+Oak! Oak from any old tree!\n
+But, even stranger... <$12>\n
+<CLEAR>... the wooden cut marks from where\n
+we took samples off the Astro Ark\n
+healed themselves overnight!<$12><$00>
 
 
 //残り<$1E>季節<$00>
@@ -215,8 +226,11 @@ It's been <$1E> year(s) and <$1E> season(s)<$00>
 
 
 //か…\n町の人通りも　めっきり減ってきたし\n商売人も　店じまいを始めたし…<$12>\n<CLEAR>おまえたちのほうも　そろそろ\nラストスパートを　かけなきゃな∥<$12><$00>
-. Soon, stores and houses will begin closing for good.<$12>\n
-<CLEAR>Even you two will have to make a run for it, sooner or later.<$12><$00>
+.\n
+Soon, stores and houses will begin to\n
+close for good.<$12>\n
+<CLEAR>Sooner or later, even you two will have\n
+to make a run for it.<$12><$00>
 
 
 //バナナの皮ですべって　新聞に載って\nネオケニア中の　笑いモノ\nついたあだ名が「バナナ少年」ねぇ<$12>\n<CLEAR>たとえ　おまえの親父のジーンが\nまだ生きていて　どこかで会っても\n他人のフリ、されちまうだろうぜ<$12><$00>
@@ -233,19 +247,22 @@ Pilot Registry <$00>
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
 <CLEAR>Ken whistled.<$12>\n
-<CLEAR>Huge wings flapped in the distance...<$12><$00>
+<CLEAR>Huge wings flapped in the distance... <$12><$00>
 
 
 //<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Ken masked the party to avoid detection.<$12>\n
-<CLEAR>However, none of the animals in the area were stupid\n
-enough to fall for his antics!<$12><$00>
+<CLEAR>Ken masked the party to avoid\n
+detection.<$12>\n
+<CLEAR>However, none of the animals in the\n
+area were stupid enough to fall for\n
+his antics!<$12><$00>
 
 
 //<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
 <CLEAR>Linda mimicked a few animal calls.<$12>\n
-<CLEAR>However, none of the animals in the area were stupid\n
-enough to fall for her antics!<$12><$00>
+<CLEAR>However, none of the animals in the\n
+area were stupid enough to fall for\n
+her antics!<$12><$00>
 
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
@@ -257,39 +274,47 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
-<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted\n
+here!<$12><$00>
 
 
 //箱船ノ男性乗員ハ　既ニ\n登録ヲ　終了シマシタ<$12><$00>
-MALE PILOT REGISTRATION COMPLETE.<$12><$00>
+MALE PILOT\n
+REGISTRATION COMPLETE.<$12><$00>
 
 
 //箱船ノ女性乗員ハ　既ニ\n登録ヲ　終了シマシタ<$12><$00>
-FEMALE PILOT REGISTRATION COMPLETE.<$12><$00>
+FEMALE PILOT\n
+REGISTRATION COMPLETE.<$12><$00>
 
 
 //人類男性１名ノ　乗船ヲ希望シマス<$12>\n<CLEAR>乗員志願者ハ　左ノ　ポットヘ入リ\n右、手ノ平デ　壁面ニ触レテクダサイ\n乗員ノ登録ハ　ソレデ完了デス<$12><$00>
-MAY THERE BE ONE MALE PILOT TO LEAD THE ASTRO ARK.<$12>\n
-<CLEAR>HE WHO SEEKS IT, ENTER THE LEFT-SIDE POD AND LAY DOWN\n
-YOUR RIGHT HAND.<$12><$00>
+MAY THERE BE ONE MALE PILOT\n
+TO LEAD THE ASTRO ARK.<$12>\n
+<CLEAR>HE WHO SEEKS IT,\n
+ENTER THE LEFT-SIDE POD\n
+AND LAY DOWN YOUR RIGHT HAND.<$12><$00>
 
 
 //井戸の中に　水面が見える<$12><$00>
-Crystal clear water wills the well.<$12><$00>
+Crystal clear water fills the well.<$12><$00>
 
 
 //井戸の中から　芳純な香りがする<$12><$00>
-A full-bodied aroma emanates from the well.<$12><$00>
+A full-bodied aroma emanates from\n
+the well.<$12><$00>
 
 
 //箱船ノ乗員ヲ　志願スル男性ハ\nソノ右手ヲ　正面ノ　パネルニ\n密着サセテクダサイ<$12><$00>
-ANY PILOT TO-BE MUST PLACE HIS OR HER RIGHT HAND DOWN\n
-ON THE RED PANEL <$12><$00>
+ANY PILOT TO-BE MUST PLACE\n
+HIS OR HER RIGHT HAND\n
+DOWN ON THE RED PANEL.<$12><$00>
 
 
 //<CLEAR>ケン・チャレンジャー　人間♂　登録<$12>\n<CLEAR>本船ハ　アナタヲ　乗員トシテ\n主人トシテ　歓迎シマス<$12>\n<CLEAR>ケン！　ヨウコソ　箱船ヘ∥<$12><$00>
 <CLEAR>KEN CHALLENGER, HUMAN♂<$12>\n
-<CLEAR>THE MOTHER-SHIP ACCEPTS YOU AS PILOT AND PATRIARCH.<$12>\n
+<CLEAR>THE MOTHER-SHIP ACCEPTS YOU\n
+AS PILOT AND PATRIARCH.<$12>\n
 <CLEAR>KEN, WELCOME TO THE ASTRO ARK!<$12><$00>
 
 
@@ -305,19 +330,22 @@ Control Room <$00>
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
 <CLEAR>Ken whistled.<$12>\n
-<CLEAR>Huge wings flapped in the distance...<$12><$00>
+<CLEAR>Huge wings flapped in the distance... <$12><$00>
 
 
 //<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Ken masked the party to avoid detection.<$12>\n
-<CLEAR>However, none of the animals in the area were stupid\n
-enough to fall for his antics!<$12><$00>
+<CLEAR>Ken masked the party to avoid\n
+detection.<$12>\n
+<CLEAR>However, none of the animals in the\n
+area were stupid enough to fall for\n
+his antics!<$12><$00>
 
 
 //<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
 <CLEAR>Linda mimicked a few animal calls.<$12>\n
-<CLEAR>However, none of the animals in the area were stupid\n
-enough to fall for her antics!<$12><$00>
+<CLEAR>However, none of the animals in the\n
+area were stupid enough to fall for\n
+her antics!<$12><$00>
 
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
@@ -329,11 +357,13 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
-<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted\n
+here!<$12><$00>
 
 
 //<CLEAR>どうやら　このボタンで\n発進するみたいね　押していい？<$00>
-<CLEAR>This button activates the Astro Ark. Are you ready?<$00>
+<CLEAR>This button activates the Astro Ark.\n
+Are you ready?<$00>
 
 
 //\n<$01>いつでもどうぞ<$0E>／<$01>よく考えてから<$0E><$00>
@@ -351,8 +381,8 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR>何、今さらおじけてんのよ∥\n私がついてきたんだから\n大船に　乗ったつもりで…<$00>
-<CLEAR>Then why'd you lead me onto the boat? I was following\n
-YOU!<$00>
+<CLEAR>Then why'd you lead me onto the boat?\n
+I was following YOU!<$00>
 
 
 //<CLEAR>やだ…　もう、大船には\n乗ってるんだっけ∥<$00>
@@ -365,7 +395,7 @@ YOU!<$00>
 
 //<CLEAR>じゃ　いくわよ∥\nスイッチ　オン∥<$00>
 <CLEAR>All right, let's do this!\n
-Power on!<$00>
+Power... on!<$00>
 
 
 //<CLEAR>そりゃ　そうよね<$00>
@@ -377,7 +407,8 @@ Power on!<$00>
 
 
 //<CLEAR><$19><$31><$15><$53><CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53><CLEAR>Sadly, the item bag was full, so the <$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>Sadly, the item bag was full, so the\n
+<$1D>had to go back.<$14><$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53><CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
@@ -394,41 +425,44 @@ Love Nest <$00>
 
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
-<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted\n
+here!<$12><$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
 <CLEAR>Ken whistled.<$12>\n
-<CLEAR>Huge wings flapped in the distance...<$12><$00>
+<CLEAR>Huge wings flapped in the distance... <$12><$00>
 
 
 //クン、クンクン………？<$12>\n<CLEAR>………………………∥<$12>\n<CLEAR>クン、クンクン………？<$12>\n<CLEAR>ケン∥　いるわよ∥\n今まで　かいだことのない\n動物のニオイが　するわ∥<$12><$00>
-Sniff...sniff, sniff?<$12>\n
-<CLEAR>............!<$12>\n
-<CLEAR>Sniff...sniff, sniff?<$12>\n
+Sniff... sniff, sniff?<$12>\n
+<CLEAR>... ... ... ...!<$12>\n
+<CLEAR>Sniff... sniff, sniff?<$12>\n
 <CLEAR>Something's here, Ken!\n
 I've never smelled anything like it!<$12><$00>
 
 
 //クン、クンクン………？<$12>\n<CLEAR>この辺りは　知った動物の\nニオイしか　しないわね<$12><$00>
-Sniff...sniff, sniff?<$12>\n
+Sniff... sniff, sniff?<$12>\n
 <CLEAR>I don't smell anything new in the area.<$12><$00>
 
 
 //クン、クンクン………？<$12>\n<CLEAR>………………………∥<$12>\n<CLEAR>クン、クンクン………？<$12>\n<CLEAR>新しい動物のニオイって\nなかなか、見つからないわね<$12><$00>
-Sniff...sniff, sniff?<$12>\n
-<CLEAR>............!<$12>\n
-<CLEAR>Sniff...sniff, sniff?<$12>\n
-<CLEAR>I can't say for sure I smell anything new in the area.<$12><$00>
+Sniff... sniff, sniff?<$12>\n
+<CLEAR>... ... ... ...!<$12>\n
+<CLEAR>Sniff... sniff, sniff?<$12>\n
+<CLEAR>I'm not sure I smell anything new in\n
+the area.<$12><$00>
 
 
 //<CLEAR>それと…、超ヤバイ動物が\n近くにいるみたい！\nぷんぷん臭うわ<$12><$00>
-<CLEAR>Something...BIG is nearby.\n
+<CLEAR>Something... BIG is nearby.\n
 I bet it's as strong as it smells!<$12><$00>
 
 
 //<CLEAR>……何か、さっきから\n胸騒ぎが　するのよ！\n一度、出直さない？<$00>
-<CLEAR>...The smell's faded, suggesting its source left only recently.\n
+<CLEAR>... The smell's faded, suggesting its\n
+source left only recently.\n
 Maybe it will return?<$00>
 
 
@@ -437,11 +471,13 @@ Maybe it will return?<$00>
 
 
 //<CLEAR>でも、ちょっと危険な臭いも\n混じっているようよ<$12><$00>
-<CLEAR>It all smells with a hint...of danger!<$12><$00>
+<CLEAR>It all smells with a hint...\n
+of danger!<$12><$00>
 
 
 //<CLEAR>ハンターとしての\n腕を　磨くには\nちょうど、いいってトコね<$12><$00>
-<CLEAR>Hunters need to hone all the skills they can, you know?<$12><$00>
+<CLEAR>Hunters need to hone all the skills\n
+they can, you know?<$12><$00>
 
 
 //<CLEAR>まっ、一応\n注意していきましょうか<$12><$00>
@@ -449,17 +485,20 @@ Maybe it will return?<$00>
 
 
 //<CLEAR>適当に　からかってから\n戻りましょうよ<$12><$00>
-<CLEAR>It wouldn't hurt to poke around a little before leaving.<$12><$00>
+<CLEAR>It wouldn't hurt to poke around a\n
+little before leaving.<$12><$00>
 
 
 //<CLEAR>それと、この辺りの動物なら\nケンひとりでも　楽勝よ∥<$12><$00>
-<CLEAR>Shoot, you could take on the animals here all by yourself!<$12><$00>
+<CLEAR>Shoot, you could take on the animals\n
+here all by yourself!<$12><$00>
 
 
 //<CLEAR>ケンは肉を投げようとした…<$12>\n<CLEAR>しかし、そんなノン気なこと\nしている場合では　ないと\n気づいてやめた<$12><$00>
-<CLEAR>Ken threw the meat...<$12>\n
-<CLEAR>...Actually, nevermind. He stopped after realizing how weird\n
-that'd look.<$12><$00>
+<CLEAR>Ken threw the meat... <$12>\n
+<CLEAR>... Actually, nevermind.\n
+He stopped after realizing\n
+how weird that'd look.<$12><$00>
 
 
 //<CLEAR><$15><$57>○ボタンで肉を投げます<$00>
@@ -474,115 +513,128 @@ A familiar photo hangs on the wall.<$12><$00>
 
 
 //<CLEAR>うむ！　頑丈そうなベッドだ\nこれだけ広ければ　いろいろ…\n十分だ！<$12><$00>
-<CLEAR>Wow, what a sturdy bed! It leaves so much room\n
-for...activities!<$12><$00>
+<CLEAR>Wow, what a sturdy bed!\n
+It leaves so much room for...\n
+activities!<$12><$00>
 
 
 //<CLEAR>…回ってる！\nおお、回ってるよォ！<$12><$00>
-<CLEAR>It's...spinning?\n
+<CLEAR>It's... spinning?\n
 Help me! I'm spiiiiiinning!<$12><$00>
 
 
 //<CLEAR>人間ひとりが　やっと隠れられそうな\n大きさの　ワードローブだ<$12><$00>
-<CLEAR>What? A wardrobe big enough to hide a body?!\n
+<CLEAR>What? A wardrobe big enough\n
+to hide a body?!\n
 Fucking finally!<$12><$00>
 
 
 //<CLEAR>ドレッサーか…\n鏡に映すと、ホクロの位置が\n左右変わるんだナ<$12><$00>
-<CLEAR>A dresser with a mirror's cool, eh? Well, it's okay to play\n
-dress up sometimes.<$12><$00>
+<CLEAR>A dresser with a mirror's cool.\n
+It's okay to play dress up sometimes,\n
+I suppose.<$12><$00>
 
 
 //<CLEAR>ソファーか…\n夕飯の時はここに座って\nテレビを見ながら…<$12>\n<CLEAR>テレビなんか　映るわけねぇか\n…映るわけねぇよなぁ<$12><$00>
-<CLEAR>We've got a sofa now for sitting, eating dinner and watching\n
-TV!<$12>\n
-<CLEAR>Well, we'll need a TV for that last part. Yep-yep, just need\n
-a TV...<$12><$00>
+<CLEAR>We've got a sofa now for sitting,\n
+eating dinner and watching TV!<$12>\n
+<CLEAR>Well, we'll need a TV\n
+for that last part.\n
+Yep-yep, just need a TV... <$12><$00>
 
 
 //<CLEAR>ローテーブルか…\nまッ、どこから見ても\nただのローテーブルだナ…<$12><$00>
-<CLEAR>A low table? It's..,pretty low, huh. I know it's in the name\n
-and all, but...<$12><$00>
+<CLEAR>A low table? It's... pretty low, huh.\n
+I know it's in the name and all, but...<$12><$00>
 
 
 //<CLEAR>それにしても　ジェシカ・ラングは\nきれいだったよなあ…<$12><$00>
-<CLEAR>Hoo mama, this plate makes me wanna scream like Jessica\n
-Lange.<$12><$00>
+<CLEAR>Hoo mama, this plate makes me wanna\n
+scream like I'm Jessica Lange.<$12><$00>
 
 
 //<CLEAR>…電球が切れたら　邪魔なだけだナ<$12><$00>
-<CLEAR>How many Astro Ark pilots does it take to screw in a light\n
-bulb?<$12><$00>
+<CLEAR>How many Astro Ark pilots does it take\n
+to screw in a light bulb?<$12><$00>
 
 
 //<CLEAR>えーっと…<$12>\n<CLEAR>この小さなベッドを\n最初に使うのは\n女の子かな？　男の子かな？<$12><$00>
-<CLEAR>I can't help but wonder...<$12>\n
-<CLEAR>Who's going to use you someday? A boy, or a girl?<$12><$00>
+<CLEAR>I can't help but wonder... <$12>\n
+<CLEAR>Who's going to use you someday?\n
+A baby boy, or a baby girl?<$12><$00>
 
 
 //<CLEAR>ペルシャじゅうたんか…\n床の上で　メシを食うのも\nたまには　いいかもしれないナ<$12><$00>
-<CLEAR>This is Persian, right? Linda might enjoy an indoor picnic on\n
-this.<$12><$00>
+<CLEAR>This is Persian, right?\n
+Linda might enjoy an indoor picnic\n
+on this.<$12><$00>
 
 
 //<CLEAR>見たこともない　異様な形の\n動物が　描かれている\nどうやら　地球の風景らしい<$12><$00>
-<CLEAR>Apparently it's a painting of "Earth". I've never seen animals\n
-like the ones pictured here before.<$12><$00>
+<CLEAR>Apparently it's a painting of "Earth".\n
+I've never seen animals like the ones\n
+pictured here before.<$12><$00>
 
 
 //<CLEAR>観光客の　おミヤゲ人気Ｎｏ.１\nビースチャンポール∥<$12>\n<CLEAR>……なんで俺、\nこんな無駄なモン、\n買っちまったんだろ？<$12><$00>
-<CLEAR>It's a replica Beastian Pole! Tourists buy these up like\n
-hotcakes, but...<$12>\n
-<CLEAR>But...what am I supposed to do with this? WHY'D I BUY\n
-THIS?!<$12><$00>
+<CLEAR>It's a replica Beastian Pole!\n
+Tourists buy these up like hotcakes.\n
+<$12>\n
+<CLEAR>But... what am I supposed to do with it?\n
+WHY DID I BUY THIS?!<$12><$00>
 
 
 //<CLEAR><$1B>ヒョウの毛は　少し硬いけど\n素足のツボを　チクチク刺激して\n健康にいいんだよナ<$12><$00>
-<CLEAR><$1B>Leopard fur's kinda rough, but maybe that's good for\n
-exfoliation.<$12><$00>
+<CLEAR><$1B>Leopard fur's kinda rough,\n
+but maybe that's good for exfoliation.<$12><$00>
 
 
 //<CLEAR><$1B>ライオンの剥製か…\nどんなに　強くても\n結局、死んだらおしまいだよナ<$12><$00>
-<CLEAR><$1B>Just goes to show: Doesn't matter how tough you are if\n
-you're dead.<$12><$00>
+<CLEAR><$1B>Just goes to show:\n
+doesn't matter how tough you are\n
+if you're dead.<$12><$00>
 
 
 //<CLEAR>観光客向けの　ペナントだ<$12>\n<CLEAR>「死神」のリアルなイラストの上に\nＷＥＬＣＯＭＥ　ＮＥＯＫＥＮＹＡ∥と\n鮮やかな赤で　印刷されている<$12><$00>
 <CLEAR>It's a souvenir penant for tourists.<$12>\n
-<CLEAR>Over some realistic Grim Reaper art, bright red letters\n
-read "WELCOME NEO KENYA".<$12><$00>
+<CLEAR>Over some realistic Grim Reaper art,\n
+bright red letters read,\n
+"WELCOME NEO KENYA".<$12><$00>
 
 
 //PICT20.TIM<$00>
 PICT20.TIM<$00>
 
 //<CLEAR>近くで見ると　けっこう\nいい加減な　造りの食器棚だ<$12><$00>
-<CLEAR>Now that I'm looking at it, this is one rickity cupboard.<$12><$00>
+<CLEAR>Now that I'm looking at it,\n
+this is one rickity cupboard.<$12><$00>
 
 
 //<CLEAR>そういえば…<$12>\n<CLEAR>百科事典を所有する　家庭のうち\n一年に二回以上　利用するのは\n１％にも　満たないらしいナ<$12><$00>
-<CLEAR>This reminds me of a fun fact...<$12>\n
-<CLEAR>Not even 1% of households owning an encyclopedia open it\n
-more than twice a year.<$12><$00>
+<CLEAR>This reminds me of a fun fact... <$12>\n
+<CLEAR>Not even 1% of households\n
+that own an encyclopedia\n
+open it more than twice a year.<$12><$00>
 
 
 //<CLEAR>まさか　この観葉植物…\nフローラ博士の　作品じゃないよなぁ<$12><$00>
-<CLEAR>This isn't one of Dr.Flora's works, is it? Who'dve thought!<$12><$00>
+<CLEAR>No way...\n
+This can't be one of Dr.Flora's works!<$12><$00>
 
 
 //<CLEAR>クローゼットの後ろ側は\n安い材料で　仕上げも粗いようだ<$12><$00>
-<CLEAR>The back of this closet looks so cheaply made, it hardly\n
-seems finished.<$12><$00>
+<CLEAR>The back of this closet looks so\n
+cheaply made, it hardly seems finished.<$12><$00>
 
 
 //<CLEAR>金庫を買ってから　入れる財産など\nないことに　気づく庶民派の俺…<$12><$00>
-<CLEAR>Only after I buy this safe do I realize I'm too poor to fill\n
-it. <$12><$00>
+<CLEAR>Only after I buy this safe do I realize\n
+that I'm too poor to fill it. <$12><$00>
 
 
 //<CLEAR>冷蔵庫か…\nで、結局、冷凍室や野菜室は\nどこにあるのが　一番便利なんだろ？<$12><$00>
-<CLEAR>Which'll be more useful down the line, the freezer or the\n
-crisper?<$12><$00>
+<CLEAR>Which'll be more useful down the line,\n
+the freezer or the crisper?<$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53>ダイヤの指輪がある<$14><$12><$00>
@@ -610,7 +662,8 @@ Linda mimicked a few animal calls.<$00>
 
 
 //ケンは　目立たないように\n気配を殺した<$00>
-Ken masked the party to avoid detection.<$00>
+Ken masked the party to avoid\n
+detection.<$00>
 
 
 //<$12><$00>
@@ -625,7 +678,8 @@ Ken used the Cover Spray.<$00>
 
 
 //ケンは　「シャニルＮｏ５」を\n自分にふりかけた<$00>
-Ken sprinkled the Chanel No. 5 over himself.<$00>
+Ken sprinkled the Chanel No. 5 over\n
+himself.<$00>
 
 
 //ここに「貸しワナ」を仕掛けますか？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
@@ -658,14 +712,16 @@ at a time.<$12><$00>
 <$12><$00>
 
 //<CLEAR>やっぱり　ケンは\n前に仕掛けた　「自前のワナ」の場所を\nひとつ　忘れてしまった…　トホホ…<$12><$00>
-<CLEAR>...Oops! As expected, Ken forgot the location of 1 previously\n
-set Makeshift Trap.<$12><$00>
+<CLEAR>... Oops! As expected, Ken forgot\n
+the location of 1 previously set\n
+Makeshift Trap.<$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53>ケンは「貸しワナ」を調べた<$12>\n<CLEAR>まだ動物は　かかっていない\nケンは　がっかりしながら\n「貸しワナ」を　元に戻した<$12><$00>
 <CLEAR><$19><$31><$15><$53>Ken inspected the Rental Trap.<$12>\n
-<CLEAR>No bites yet...\n
-Ken whistfully put down the Money Trap.<$12><$00>
+<CLEAR>No bites yet... \n
+Ken whistfully put down\n
+the Rental Trap.<$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53>ケンは「自前のワナ」を調べた<$12><$00>
@@ -673,64 +729,67 @@ Ken whistfully put down the Money Trap.<$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53>まだ動物はかかっていない\nケンは　がっかりしながら\n「自前のワナ」を　元に戻した<$12><$00>
-<CLEAR><$19><$31><$15><$53>No bites yet...\n
-Ken whistfully put down the Makeshift Trap.<$12><$00>
+<CLEAR><$19><$31><$15><$53>No bites yet... \n
+Ken whistfully put down\n
+the Makeshift Trap.<$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53>ワナは\n壊されていた…<$12><$00>
-<CLEAR><$19><$31><$15><$53>The trap was destroyed...<$12><$00>
+<CLEAR><$19><$31><$15><$53>The trap was destroyed... <$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53>だが、トランスカーゴがいっぱいなので\nとりあえず　あきらめた…<$12><$00>
-<CLEAR><$19><$31><$15><$53>However, the TCU was already full, so Ken let it go.<$12><$00>
+<CLEAR><$19><$31><$15><$53>However, the TCU was already full,\n
+so Ken let it go.<$12><$00>
 
 
 //<CLEAR><$00>
 <CLEAR><$00>
 
 //<$06>TRANS-CARGO IN<$04>∥<$12><$00>
-<$06>Now loading to TCU...<$04>!<$12><$00>
+<$06>Now loading to TCU... <$04>!<$12><$00>
 
 
 //クン、クンクン………？<$12>\n<CLEAR>とくに目新しい　ニオイは\nしないみたいよ<$12><$00>
-Sniff...sniff, sniff?<$12>\n
-<CLEAR>None of the scents around here stand out.<$12><$00>
+Sniff... sniff, sniff?<$12>\n
+<CLEAR>None of the scents around here stand\n
+out.<$12><$00>
 
 
 //……東<$00>
-...East<$00>
+... East<$00>
 
 
 //……西<$00>
-...West<$00>
+... West<$00>
 
 
 //……南<$00>
-...South<$00>
+... South<$00>
 
 
 //……北<$00>
-...North<$00>
+... North<$00>
 
 
 //…北東<$00>
-...North-east<$00>
+... North-east<$00>
 
 
 //…北西<$00>
-...North-west<$00>
+... North-west<$00>
 
 
 //…南東<$00>
-...South-east<$00>
+... South-east<$00>
 
 
 //…南西<$00>
-...South-west<$00>
+... South-west<$00>
 
 
 //<CLEAR>……<$1D><$00>
-<CLEAR>......<$1D><$00>
+<CLEAR>... ... <$1D><$00>
 
 
 //、…<$1D>に行けば<$00>
@@ -754,7 +813,7 @@ Back<$00>
 
 
 //<CLEAR>……<$1D><$00>
-<CLEAR>......<$1D><$00>
+<CLEAR>... ... <$1D><$00>
 
 
 //、絶対に<$1D>∥<$00>
@@ -762,11 +821,11 @@ wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19><$31><$15><$53>リンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition... <$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
-<CLEAR>...Sorry. I don't have it in me today.<$12><$00>
+<CLEAR>... Sorry. I don't have it in me today.<$12><$00>
 
 
 //運命の<$00>
@@ -806,7 +865,7 @@ could appear.<$00>
 
 
 //が　待ってる…<$00>
-await us...<$00>
+await us... <$00>
 
 
 //気がするわ∥<$00>
@@ -818,7 +877,7 @@ are in our grasp!<$00>
 
 
 //今しかないわ<$00>
-could slip through our fingers!<$00>
+could get away!<$00>
 
 
 //間違いなし∥<$00>
@@ -833,11 +892,11 @@ are dead ahead!<$00>
 
 
 //<CLEAR>自信があるの∥<$12><$00>
-<CLEAR>I'm sure of it!<$12><$00>
+<CLEAR>I swear!<$12><$00>
 
 
 //<CLEAR>自信は　ないけどね…<$12><$00>
-<CLEAR>Although, I'm not totally certain...<$12><$00>
+<CLEAR>Although, I'm not totally certain... <$12><$00>
 
 
 //<CLEAR>絶対なんだから∥<$12><$00>

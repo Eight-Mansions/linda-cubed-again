@@ -38,19 +38,22 @@ Dog Center<$00>
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
 <CLEAR>Ken whistled.<$12>\n
-<CLEAR>Huge wings flapped in the distance...<$12><$00>
+<CLEAR>Huge wings flapped in the distance... <$12><$00>
 
 
 //<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Ken masked the party to avoid detection.<$12>\n
-<CLEAR>However, none of the animals in the area were stupid\n
-enough to fall for his antics!<$12><$00>
+<CLEAR>Ken masked the party to avoid\n
+detection.<$12>\n
+<CLEAR>However, none of the animals in the\n
+area were stupid enough to fall for\n
+his antics!<$12><$00>
 
 
 //<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
 <CLEAR>Linda mimicked a few animal calls.<$12>\n
-<CLEAR>However, none of the animals in the area were stupid\n
-enough to fall for her antics!<$12><$00>
+<CLEAR>However, none of the animals in the\n
+area were stupid enough to fall for\n
+her antics!<$12><$00>
 
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
@@ -62,7 +65,8 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
-<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted\n
+here!<$12><$00>
 
 
 //<CLEAR>店で買った<$1B>イヌでも　そこらで\n捕まえた野犬でも　名前をつけて\n登録しちゃえば　あなたの猟犬∥<$12>\n<CLEAR>一瞬で完了する　調教の技が\n私たち、プロの証しね∥<$12><$00>
@@ -93,16 +97,19 @@ beings. Take good care of them.<$12><$00>
 
 
 //<CLEAR>お客さん…\nホスピコの入り口に　並んでる\n哀れな猟犬の墓を　数えてごらん<$12>\n<CLEAR>これ以上　あなたの猟犬を\n登録したところで、どうせまた\nあそこの墓が　増えるだけだものね<$12>\n<CLEAR>金の問題じゃないんだよ…\nわかるッ￠<$12><$00>
-<CLEAR>Sir, go look at the pet cemetary along the Hospico entrance.<$12>\n
-<CLEAR>We keep that cemetary's growth down by capping the\n
-number of dogs each client can adopt.<$12>\n
-<CLEAR>You may have money, but you've sadlt hit that limit. Let\n
-that be a lesson to you.<$12><$00>
+<CLEAR>Sir, go look at the pet cemetary along\n
+the Hospico entrance.<$12>\n
+<CLEAR>We keep that cemetary's growth down by\n
+capping the number of dogs each client\n
+may adopt.<$12>\n
+<CLEAR>You may have money, but you've sadly\n
+hit the adoption cap.\n
+Let that be a lesson to you.<$12><$00>
 
 
 //<CLEAR>猟犬の収容枠が　いっぱいです\nこれ以上、猟犬を増やせません<$12><$00>
-<CLEAR>You have reached the limit on dogs you can own at one time.\n
-<$12><$00>
+<CLEAR>You have reached the limit on dogs you\n
+can own at one time. <$12><$00>
 
 
 //<CLEAR>登録料　<$15><$62><$06><$1E><$04><$14>￥が足りません\n銀行で　ご都合ください<$12><$00>
@@ -210,7 +217,7 @@ I can treat <$1D> for <$1D><$06><$1E><$14><$04>￥,\n
 
 
 //<CLEAR>かわいそうな<$1D>…\n治療費も　満足に払えない\n貧乏な飼い主を　恨みなさいね<$12><$00>
-<CLEAR>Poor, poor, <$1D>...\n
+<CLEAR>Poor, poor, <$1D>... \n
 Bwame your daddy for being a wittle cheapskate.<$12><$00>
 
 
@@ -227,7 +234,7 @@ Does Baby have a bwoken wibcage?<$00>
 
 
 //肺炎と腹膜炎を　併発してるようね<$00>
-Aww, pneumonia, pewitonitis...<$00>
+Aww, pneumonia, pewitonitis... <$00>
 
 
 //頭がい骨が　少し陥没してるわね<$00>
@@ -239,7 +246,7 @@ Aww, Baby has tummy bweeding.<$00>
 
 
 //下腹部に損傷があるわよ　何なのコレ？<$00>
-Tsk, lower abdominal twauma...<$00>
+Tsk, lower abdominal twauma... <$00>
 
 
 //腸が　はみ出しちゃってるわよ<$00>
@@ -256,21 +263,21 @@ I mess up only once every <$1E>0 times, tops!<$12><$00>
 
 
 //<CLEAR>…………………………………∥<$12><$00>
-<CLEAR>.........!<$12><$00>
+<CLEAR>... ... ...!<$12><$00>
 
 
 //<CLEAR>…………………………………￠<$12><$00>
-<CLEAR>.........￠<$12><$00>
+<CLEAR>... ... ... ￠<$12><$00>
 
 
 //<CLEAR>はい、治療終り∥\n傷が開くといけないから　<$1D>には\n当分、無理させないようにしてね<$12><$00>
-<CLEAR>And...done!\n
+<CLEAR>And... done!\n
 Be careful with <$1D>,\n
 or these wounds may reopen. <$12><$00>
 
 
 //クン、クンクン………？<$12>\n<CLEAR><$1D>のニオイが　するね\nそういえば、<$1D>食まだだっけ…<$12><$00>
-Sniff...sniff, sniff?<$12>\n
+Sniff... sniff, sniff?<$12>\n
 <CLEAR><$1D> scent's filling the air. You know, I could go for some <$1D> !<$12><$00>
 
 
@@ -351,39 +358,39 @@ dinner<$00>
 
 
 //……東<$00>
-...East<$00>
+... East<$00>
 
 
 //……西<$00>
-...West<$00>
+... West<$00>
 
 
 //……南<$00>
-...South<$00>
+... South<$00>
 
 
 //……北<$00>
-...North<$00>
+... North<$00>
 
 
 //…北東<$00>
-...North-east<$00>
+... North-east<$00>
 
 
 //…北西<$00>
-...North-west<$00>
+... North-west<$00>
 
 
 //…南東<$00>
-...South-east<$00>
+... South-east<$00>
 
 
 //…南西<$00>
-...South-west<$00>
+... South-west<$00>
 
 
 //<CLEAR>……<$1D><$00>
-<CLEAR>......<$1D><$00>
+<CLEAR>... ... <$1D><$00>
 
 
 //、…<$1D>に行けば<$00>
@@ -407,7 +414,7 @@ Back<$00>
 
 
 //<CLEAR>……<$1D><$00>
-<CLEAR>......<$1D><$00>
+<CLEAR>... ... <$1D><$00>
 
 
 //、絶対に<$1D>∥<$00>
@@ -415,11 +422,11 @@ wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19><$31><$15><$53>リンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition... <$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
-<CLEAR>...Sorry. I don't have it in me today.<$12><$00>
+<CLEAR>... Sorry. I don't have it in me today.<$12><$00>
 
 
 //運命の<$00>
@@ -459,7 +466,7 @@ could appear.<$00>
 
 
 //が　待ってる…<$00>
-await us...<$00>
+await us... <$00>
 
 
 //気がするわ∥<$00>
@@ -471,7 +478,7 @@ are in our grasp!<$00>
 
 
 //今しかないわ<$00>
-could slip through our fingers!<$00>
+could get away!<$00>
 
 
 //間違いなし∥<$00>
@@ -486,11 +493,11 @@ are dead ahead!<$00>
 
 
 //<CLEAR>自信があるの∥<$12><$00>
-<CLEAR>I'm sure of it!<$12><$00>
+<CLEAR>I swear!<$12><$00>
 
 
 //<CLEAR>自信は　ないけどね…<$12><$00>
-<CLEAR>Although, I'm not totally certain...<$12><$00>
+<CLEAR>Although, I'm not totally certain... <$12><$00>
 
 
 //<CLEAR>絶対なんだから∥<$12><$00>

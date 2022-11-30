@@ -319,8 +319,8 @@ Morph skills!<$00>
 
 
 //<CLEAR><$01>Ａモード<$02>134<$05>H<$1E>@019<$05> γ<$1E>@019<$05><$02>134<$09>8<$05>ζ<$1E>@019<$05> κ<$1E>@019<$09>-8 <$04><$09>2<$0E>\n<$01>Ｂモード<$02>134<$05>H<$1E>@019<$05> γ<$1E>@019<$05><$02>134<$09>8<$05>ζ<$1E>@019<$05> κ<$1E>@019<$09>-8 <$04><$09>2<$0E><$00>
-<CLEAR><$01>A Mode<$02>134<$05>H<$1E>@019<$05> γ<$1E>@019<$05><$02>134<$09>8<$05>ζ<$1E>@019<$05> κ<$1E>@019<$09>-8 <$04><$09>2<$0E>\n
-<$01>B Mode<$02>134<$05>H<$1E>@019<$05> γ<$1E>@019<$05><$02>134<$09>8<$05>ζ<$1E>@019<$05> κ<$1E>@019<$09>-8 <$04><$09>2<$0E><$00>
+<CLEAR><$01>A Mode<$02>134<$05>H<$1E>@019<$05> ATK<$1E>@019<$05><$02>134<$09>8<$05>DEF<$1E>@019<$05> SPD<$1E>@019<$09>-8 <$04><$09>2<$0E>\n
+<$01>B Mode<$02>134<$05>H<$1E>@019<$05> ATK<$1E>@019<$05><$02>134<$09>8<$05>DEF<$1E>@019<$05> SPD<$1E>@019<$09>-8 <$04><$09>2<$0E><$00>
 
 
 //<CLEAR>素手になりますか？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
@@ -388,7 +388,7 @@ without Linda!Ψ<$00>
 //<CLEAR><$1C><$43>は　まだ戦闘中の\n特殊能力を　身につけていないΨ<$00>
 <CLEAR><$1C><$43>\n
 does not know\n
-special skills!<$00>
+special skills!Ψ<$00>
 
 
 //<CLEAR>ケンは　けしかけに\n失敗した∥Ψ<$00>
@@ -565,7 +565,7 @@ BP<$00>
 
 
 //υφχ<$00>
-υφχ<$00>
+FUNDS<$00>
 
 
 //<$05><$1D><$00>
@@ -627,7 +627,7 @@ Enemy Turn %d %d<$00>
 //<CLEAR><$1C><$41>は　どこかへ\n逃げていった∥<$12><$00>
 <CLEAR><$1C><$41>\n
 ran off into\n
-the distance...<$12><$00>
+the distance... <$12><$00>
 
 
 //<CLEAR><$1C><$43>は\nギ酸に　侵されている∥<$12><$00>
@@ -831,7 +831,7 @@ quickly dodged the blow!<$12><$00>
 
 //<CLEAR><$15><$52><$1C><$41>の\n<$1D>は\n砕け散った…∥<$14><$12><$00>
 <CLEAR><$15><$52><$1C><$41>'s\n
-<$1D> fell to pieces...<$14><$12><$00>
+<$1D> fell to pieces... <$14><$12><$00>
 
 
 //\nギ酸の唾液　ジェット噴射∥<$00>
@@ -911,7 +911,7 @@ is thrilled!<$00>
 
 //\n脚を　大きく振り上げた∥\n<$1C><$61>∥<$00>
 \n
-They raised a leg...\n
+They raised a leg... \n
 <$1C><$61>!<$00>
 
 
@@ -990,7 +990,7 @@ flew high!<$12><$00>
 
 
 //<CLEAR><$1C><$41>の口が　耳まで裂けた∥\n<$1C><$61>∥<$00>
-<CLEAR><$1C><$41>'s mouth opened wide...\n
+<CLEAR><$1C><$41>'s mouth opened wide... \n
 <$1C><$61>!<$00>
 
 
@@ -1060,7 +1060,7 @@ An awful strench bubbled from their anus.<$00>
 
 
 //<CLEAR><$1C><$41>は　直腸に\nガスを　貯めた∥\n一気に放つ　<$1C><$61>∥<$00>
-<CLEAR><$1C><$41> let out all the gas in its rear! <$1C><$61>!<$00>
+<CLEAR><$1C><$41> expelled gas from their rear! <$1C><$61>!<$00>
 
 
 //<CLEAR><$1C><$54>は\n悪臭に　激しく嘔吐した∥<$00>
@@ -1088,7 +1088,7 @@ Their tail needle swayed with grace.<$00>
 
 
 //<CLEAR><$1C><$41>の爪が　獲物を求めて\nユラユラ　揺れる…\n<$1C><$61>∥<$00>
-<CLEAR><$1C><$41>'s claws shake, seeking prey...\n
+<CLEAR><$1C><$41>'s claws shake, seeking prey... \n
 <$1C><$61>!<$00>
 
 
@@ -1211,7 +1211,7 @@ exhaled a great white fog!<$00>
 
 //\n頭をさげて　突撃した∥<$00>
 \n
-Crouched and dashed!<$00>
+They crouched and dashed!<$00>
 
 
 //\n口から　吹雪を吐いた∥<$00>
@@ -1220,11 +1220,11 @@ A snow storm hurled from their mouth!<$00>
 
 
 //<CLEAR><$1C><$41>は　「あ～ン」と\n切ない吐息を　もらした…<$12><$00>
-<CLEAR><$1C><$41> let out a loud moan...<$12><$00>
+<CLEAR><$1C><$41> let out a loud moan... <$12><$00>
 
 
 //<CLEAR><$1C><$54>は　赤面した…<$00>
-<CLEAR><$1C><$54> blushed...<$00>
+<CLEAR><$1C><$54> blushed... <$00>
 
 
 //<CLEAR><$1C><$41>は　にっこり笑って\n投げキッスを　飛ばした∥<$00>
@@ -1236,7 +1236,7 @@ A snow storm hurled from their mouth!<$00>
 
 
 //<CLEAR><$1C><$54>は\nその部分に　見とれている…<$00>
-<CLEAR><$1C><$54> couldn't look away...<$00>
+<CLEAR><$1C><$54> couldn't look away... <$00>
 
 
 //<CLEAR><$1C><$41>は　小首をかしげて\nウインクした∥<$00>
@@ -1260,7 +1260,8 @@ A snow storm hurled from their mouth!<$00>
 
 
 //<CLEAR>「グるるる　るーーーン」と\n２度　長く吠えて\n<$1C><$54>が　現れた∥<$12><$00>
-<CLEAR>A growled loudly 2 times!\n
+<CLEAR>"Grr, grrr..."\n
+filled the air 2 times!\n
 <$1C><$54> appeared!<$12><$00>
 
 
@@ -1277,11 +1278,11 @@ A snow storm hurled from their mouth!<$00>
 
 
 //<CLEAR><$1C><$54>の体に\n甘い香りが　しみついた…<$12><$00>
-<CLEAR><$1C><$54>'s body was stained in a sweet aroma...<$12><$00>
+<CLEAR><$1C><$54>'s body was stained in a sweet aroma... <$12><$00>
 
 
 //<CLEAR><$1D>は\n瞬く間に　腐った…<$12><$00>
-<CLEAR><$1D> rotted away in an instant...<$12><$00>
+<CLEAR><$1D> rotted away in an instant... <$12><$00>
 
 
 //<CLEAR>しかし　道具袋の中身は\n少し　濡れただけだった…∥<$12><$00>
@@ -1348,11 +1349,11 @@ CONDUCTIVITY ↑<$12><$00>
 
 
 //<CLEAR><$1C><$54>は　耳鳴りがして\n少し　よろめいた…<$12><$00>
-<CLEAR><$1C><$54>'s ears rang, and they flinched...<$12><$00>
+<CLEAR><$1C><$54>'s ears rang, and they flinched... <$12><$00>
 
 
 //<CLEAR><$1C><$54>の瞳の奥で\n白いモノが　点滅した…<$12><$00>
-<CLEAR><$1C><$54> felt a white flash before their eyes.<$12><$00>
+<CLEAR><$1C><$54> saw a white flash before their eyes.<$12><$00>
 
 
 //<CLEAR><$1C><$41>は\n<$1D>を　盗んで\n口に入れた∥<$12><$00>
@@ -1365,7 +1366,7 @@ grabbed and swallowed <$1D>!<$12><$00>
 
 
 //<CLEAR>辺りに　酸い臭いが\n立ち込めた…<$12><$00>
-<CLEAR>A foul odor hovered over the area...<$12><$00>
+<CLEAR>A foul odor hovered over the area... <$12><$00>
 
 
 //<CLEAR><$1C><$54>も\n「グるろ　グるろ」と\n腹を鳴らした∥<$12><$00>
@@ -1377,11 +1378,11 @@ grabbed and swallowed <$1D>!<$12><$00>
 
 
 //<CLEAR><$1C><$54>は　惚然として\n聞きほれた…<$12><$00>
-<CLEAR><$1C><$54> melted in ecstasy...<$12><$00>
+<CLEAR><$1C><$54> melted in ecstasy... <$12><$00>
 
 
 //<CLEAR><$1C><$41>は\n<$1D>に潜って　姿を隠した…<$00>
-<CLEAR><$1C><$41> hid themself under <$1D>...<$00>
+<CLEAR><$1C><$41> hid themself behind <$1D>... <$00>
 
 
 //<CLEAR><$1C><$41>は\n<$1C><$54>になった∥<$00>
@@ -1411,7 +1412,7 @@ grabbed and swallowed <$1D>!<$12><$00>
 
 //\nブルブルと　喉を震わせた\n耳をつんざく　<$1C><$61>∥<$00>
 \n
-A tremble, a throat quiver, a split eardrum...<$1C><$61>!<$00>
+A tremble, a throat quiver, a split eardrum... <$1C><$61>!<$00>
 
 
 //\nみるみる膨らむ　リンダの胸\n<$1C><$61>　発射∥<$00>
@@ -1432,15 +1433,15 @@ They fired a deadly mucus!<$00>
 
 
 //<CLEAR><$1C><$54>の<$00>
-<CLEAR><$1C><$54>'sTESTING<$00>
+<CLEAR><$1C><$54>'s <$00>
 
 
 //<CLEAR><$1C><$54>の<$00>
-<CLEAR><$1C><$54>'sTESTING<$00>
+<CLEAR><$1C><$54>'s <$00>
 
 
 //<CLEAR><$1C><$54>の<$00>
-<CLEAR><$1C><$54>'sTESTING<$00>
+<CLEAR><$1C><$54>'s <$00>
 
 
 //<CLEAR><$1C><$41>は　<$1D>を\n自分の<$1D>に　押し当てた∥<$00>
@@ -1464,7 +1465,7 @@ DEF<$06><$1E>@<$04><$00>
 
 //<CLEAR><$1C><$54>の\n体調が　元に戻った∥<$12><$00>
 <CLEAR><$1C><$54>'s\n
-condition returned to normal!<$12><$00>
+condition normalized!<$12><$00>
 
 
 //<CLEAR><$1C><$54>は\n何とか　堪えた∥<$12><$00>
@@ -1473,7 +1474,7 @@ held on!<$12><$00>
 
 
 //<CLEAR>しかし　効果はなかった∥<$12><$00>
-<CLEAR>...But it didn't work!<$12><$00>
+<CLEAR>... But it didn't work!<$12><$00>
 
 
 //<CLEAR><$1C><$54>には\n効果が　なかった∥<$12><$00>
@@ -1530,7 +1531,7 @@ whole body was hideously burned!<$00>
 
 //<CLEAR><$15><$52><$1C><$47>の\n<$1D>は\nボロボロになった…∥<$14><$12><$00>
 <CLEAR><$15><$52><$1C><$47>'s\n
-<$1D> wore out...<$14><$12><$00>
+<$1D> wore out... <$14><$12><$00>
 
 
 //<CLEAR><$15><$52><$1C><$47>の\n<$1D>は\n腹部が　大きな穴があいた∥<$14><$12><$00>
@@ -1544,11 +1545,11 @@ whole body was hideously burned!<$00>
 
 
 //<CLEAR><$1C><$47>の<$00>
-<CLEAR><$1C><$47>'sTEST <$00>
+<CLEAR><$1C><$47>'s <$00>
 
 
 //<CLEAR><$1C><$47>の<$00>
-<CLEAR><$1C><$47>'sTEST <$00>
+<CLEAR><$1C><$47>'s <$00>
 
 
 //<CLEAR>何者かが　<$1D>に現れた∥<$00>
@@ -1565,17 +1566,17 @@ whole body was hideously burned!<$00>
 #WRITE(PTR, $009A)
 //<CLEAR><$1C><$44>は\n戦う力を　失った…<$12><$00>
 <CLEAR><$1C><$44>\n
-lost the strength to fight...<$12><$00>
+lost the strength to fight... <$12><$00>
 
 
 //<CLEAR><$1C><$44>は\n土に返った…∥<$12><$00>
 <CLEAR><$1C><$44>\n
-returned to the soil...<$12><$00>
+returned to the soil... <$12><$00>
 
 
 //<CLEAR><$1C><$44>の体は\n飛び散った…∥<$12><$00>
 <CLEAR><$1C><$44>\n
-remnants scattered...<$12><$00>
+had their remnants scattered... <$12><$00>
 
 
 //<CLEAR><$1C><$44>は\n抵抗を　やめた<$12><$00>
@@ -1623,7 +1624,7 @@ Confusion<$00>
 
 
 //無敵<$00>
-Inbincibility<$00>
+Invincibility<$00>
 
 
 //命令<$00>
@@ -1764,12 +1765,12 @@ Martyr<$00>
 
 //\n猟犬向き＝<$1D><$00>
 \n
-Dog facing=<$1D><$00>
+Dog facing= <$1D><$00>
 
 
 //\n猟犬ターゲット＝<$1C><$54><$00>
 \n
-Dog target=<$1C><$54><$00>
+Dog target= <$1C><$54><$00>
 
 
 //\nケン逃げたので逃げる？<$00>
@@ -1784,7 +1785,7 @@ Can't get away!<$00>
 
 //\n<$1D>へ逃げる可<$00>
 \n
-<$1D>'s your one shot!<$00>
+<$1D>'s the one way out!<$00>
 
 
 //\n<$1D><$00>
@@ -1845,7 +1846,7 @@ attacked repeatedly!<$00>
 
 
 //<CLEAR><$1C><$41>は\n<$1D>に潜って　姿を隠した…<$00>
-<CLEAR><$1C><$41> hid themself under <$1D>...<$00>
+<CLEAR><$1C><$41> hid themself behind <$1D>... <$00>
 
 
 //<CLEAR><$1C><$41>は　お得意の\n<$1C><$61>を　かけた∥<$00>

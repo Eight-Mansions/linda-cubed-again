@@ -140,19 +140,22 @@ Animal・Equipment・Ripper <$00>
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
 <CLEAR>Ken whistled.<$12>\n
-<CLEAR>Huge wings flapped in the distance...<$12><$00>
+<CLEAR>Huge wings flapped in the distance... <$12><$00>
 
 
 //<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Ken masked the party to avoid detection.<$12>\n
-<CLEAR>However, none of the animals in the area were stupid\n
-enough to fall for his antics!<$12><$00>
+<CLEAR>Ken masked the party to avoid\n
+detection.<$12>\n
+<CLEAR>However, none of the animals in the\n
+area were stupid enough to fall for\n
+his antics!<$12><$00>
 
 
 //<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
 <CLEAR>Linda mimicked a few animal calls.<$12>\n
-<CLEAR>However, none of the animals in the area were stupid\n
-enough to fall for her antics!<$12><$00>
+<CLEAR>However, none of the animals in the\n
+area were stupid enough to fall for\n
+her antics!<$12><$00>
 
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
@@ -164,7 +167,8 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
-<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted\n
+here!<$12><$00>
 
 
 //<CLEAR>町の中では　お金は最大の武器ですが\n一歩、外へ出ると　<$06>100<$04>万￥の札たばも\n<$1B>ウサギナイフの価値さえない…<$12>\n<CLEAR>この星の常識は　銀行屋には\n実際、きびしいっすよ<$12><$00>
@@ -192,9 +196,9 @@ Neo Kenyans get or don't get to eat.<$12>\n
 
 //<CLEAR>Ａ級保護指定の　動物をバラすなんて\nもったいないことは　正気の奴は\n絶対に　思いつかない、だけどもね…<$12>\n<CLEAR>人間てのは、金が余り始めると\n正気を保つのが　難しくなってくる\nだから　俺はここにいるわけサ！<$12><$00>
 <CLEAR>It's a waste to part with Class A-designated animals, but\n
-when money's tight...<$12>\n
-<CLEAR>...humans have a hard time making smart decisions, and that's\n
-where I come in!<$12><$00>
+when money's tight... <$12>\n
+<CLEAR>... humans have a hard time making smart decisions, and\n
+that's where I come in!<$12><$00>
 
 
 //<CLEAR>自分で装備加工を　覚えると\n店は　不要と考えるのは\nまだまだ　素人さんです<$12>\n<CLEAR>たまに　入荷する珍品、掘出し物、\n特上品を　しっかり押えるのが\nプロってヤツですよ<$12><$00>
@@ -218,8 +222,8 @@ Kenyan nomenclature so sloppy?<$12><$00>
 
 //人間によって　獲り尽くされて\n絶滅するのも　運命なら…<$12>\n<CLEAR>数万年後に　その人間自身が\n絶滅していたとしても　それも運命…\n神様が　お決めになったことサ<$12>\n<CLEAR>たぶん、サイコロかなんかでね<$12><$00>
 If Mother Nature is destined to be exhausted and killed\n
-off by humans...<$12>\n
-<CLEAR>...then it only makes sense for humans to be exhausted\n
+off by humans... <$12>\n
+<CLEAR>... then it only makes sense for humans to be exhausted\n
 and killed off by Mother Nature.<$12>\n
 <CLEAR>Whatever God decides for us is a roll of his dice.<$12><$00>
 
@@ -264,51 +268,52 @@ that.<$12><$00>
 
 //ここで　手に入らない動物は\n商売にうま味がない　動物だけだ\n<$1B>ブタとか　<$1B>ウサギとか　<$1B>イカとか…<$12>\n<CLEAR>ニンゲンとかな、そこらじゅうにいて\n肉の価値しかない　動物は\n売り買いの　対象にはならないのサ<$12><$00>
 The animals you around here aren't worth much.\n
-<$1B>Pigs, <$1B>rabbits, <$1B>squids, and humans...<$12>\n
+<$1B>Pigs, <$1B>rabbits, <$1B>squids, and humans... <$12>\n
 <CLEAR>These species are only good for their meat. I don't trade\n
 animals which are only valuable for their meat. <$12><$00>
 
 
 #WRITE(PTR, $0022)
 //クン、クンクン………？<$12>\n<CLEAR>とくに目新しい　ニオイは\nしないみたいよ<$12><$00>
-Sniff...sniff, sniff?<$12>\n
-<CLEAR>None of the scents around here stand out.<$12><$00>
+Sniff... sniff, sniff?<$12>\n
+<CLEAR>None of the scents around here stand\n
+out.<$12><$00>
 
 
 //……東<$00>
-...East<$00>
+... East<$00>
 
 
 //……西<$00>
-...West<$00>
+... West<$00>
 
 
 //……南<$00>
-...South<$00>
+... South<$00>
 
 
 //……北<$00>
-...North<$00>
+... North<$00>
 
 
 //…北東<$00>
-...North-east<$00>
+... North-east<$00>
 
 
 //…北西<$00>
-...North-west<$00>
+... North-west<$00>
 
 
 //…南東<$00>
-...South-east<$00>
+... South-east<$00>
 
 
 //…南西<$00>
-...South-west<$00>
+... South-west<$00>
 
 
 //<CLEAR>……<$1D><$00>
-<CLEAR>......<$1D><$00>
+<CLEAR>... ... <$1D><$00>
 
 
 //、…<$1D>に行けば<$00>
@@ -332,7 +337,7 @@ Back<$00>
 
 
 //<CLEAR>……<$1D><$00>
-<CLEAR>......<$1D><$00>
+<CLEAR>... ... <$1D><$00>
 
 
 //、絶対に<$1D>∥<$00>
@@ -340,11 +345,11 @@ wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19><$31><$15><$53>リンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition... <$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
-<CLEAR>...Sorry. I don't have it in me today.<$12><$00>
+<CLEAR>... Sorry. I don't have it in me today.<$12><$00>
 
 
 //運命の<$00>
@@ -384,7 +389,7 @@ could appear.<$00>
 
 
 //が　待ってる…<$00>
-await us...<$00>
+await us... <$00>
 
 
 //気がするわ∥<$00>
@@ -396,7 +401,7 @@ are in our grasp!<$00>
 
 
 //今しかないわ<$00>
-could slip through our fingers!<$00>
+could get away!<$00>
 
 
 //間違いなし∥<$00>
@@ -411,11 +416,11 @@ are dead ahead!<$00>
 
 
 //<CLEAR>自信があるの∥<$12><$00>
-<CLEAR>I'm sure of it!<$12><$00>
+<CLEAR>I swear!<$12><$00>
 
 
 //<CLEAR>自信は　ないけどね…<$12><$00>
-<CLEAR>Although, I'm not totally certain...<$12><$00>
+<CLEAR>Although, I'm not totally certain... <$12><$00>
 
 
 //<CLEAR>絶対なんだから∥<$12><$00>
@@ -613,15 +618,15 @@ to Mario in Spurr Valley.<$00>
 
 
 //<$06>T.C.(<$1E>034<$06>)<$00>
-<$06>TCU (x<$1E><$06>)<$00>
+<$06>TCU (x<$1E>034<$06>)<$00>
 
 
 //<$05>γ<$00>
-<$05>A<$00>
+<$05>ATK<$00>
 
 
 //<$05>ζ<$00>
-<$05>D<$00>
+<$05>DEF<$00>
 
 
 //<$1E>@019<$00>
@@ -657,7 +662,8 @@ a <$06>99<$04> species capacity!<$12><$00>
 
 
 //<CLEAR>余っている動物は　いませんですか？\n高額で　引き取りますよ<$00>
-<CLEAR>Not satisfied with your animal collection? Let's trade!<$00>
+<CLEAR>Not happy with your animal collection?\n
+Let's trade!<$00>
 
 
 //\n<$01>取引する<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
@@ -670,8 +676,8 @@ a <$06>99<$04> species capacity!<$12><$00>
 
 
 //<CLEAR>珍しいのも　たまに入荷するから\nちょくちょく　覗いてみてよ<$12><$00>
-<CLEAR>Occasionally, we'll get rare animals in stock, so check\n
-back often!<$12><$00>
+<CLEAR>Occasionally, we do get rare animals\n
+in stock, so check back often!<$12><$00>
 
 
 //<$15><$59>動物商／メニュー<$00>
@@ -694,8 +700,8 @@ back often!<$12><$00>
 
 //<CLEAR><$1D><$15><$57>は\nＡ級保護動物のため\n取り引きできません<$12><$00>
 <CLEAR><$1D><$15><$57> cannot be traded.\n
-Class A species\n
-trading is prohibited!<$12><$00>
+Class A species trading\n
+is strictly prohibited!<$12><$00>
 
 
 //<$15><$59>貸しワナ屋<$00>
@@ -750,7 +756,7 @@ you're ready.<$12><$00>
 
 //<CLEAR>お待ちしておりましたよ∥　お客様∥\n今回の獲物は…<$12><$00>
 <CLEAR>We've been expecting you!\n
-This time, we found...<$12><$00>
+This time, we found... <$12><$00>
 
 
 //<CLEAR>…あらら\nカーゴを　２つ空けてください\nお待ちしておりますです<$12><$00>
@@ -779,8 +785,8 @@ I can't accept that!<$12><$00>
 
 //<CLEAR><$1D><$15><$57>は\nＡ級保護動物のため\n取り引きできません<$12><$00>
 <CLEAR><$1D><$15><$57> cannot be traded.\n
-Class A species\n
-trading is prohibited!<$12><$00>
+Class A species trading\n
+is strictly prohibited!<$12><$00>
 
 
 //<CLEAR><$00>
@@ -796,7 +802,7 @@ trading is prohibited!<$12><$00>
 
 
 //<CLEAR><$1D>を作ります\n加工料金＿<$1D><$06><$1E><$04><$14>￥\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
-<CLEAR>Crafting a <$1D> \n
+<CLEAR>Crafting the <$1D> \n
 will cost<$1D><$06><$1E><$04><$14>￥.\n
 <$01>Okay<$0E> / <$01>Wait<$0E><$00>
 
@@ -806,7 +812,7 @@ will cost<$1D><$06><$1E><$04><$14>￥.\n
 
 
 //<CLEAR>動物が足りません<$12><$00>
-<CLEAR>You don't have the animals!<$12><$00>
+<CLEAR>You don't have the right animals!<$12><$00>
 
 
 //<CLEAR>加工料金＿<$15><$62><$06><$1E><$04><$14>￥\nが足りません<$12><$00>
@@ -824,7 +830,8 @@ will cost<$1D><$06><$1E><$04><$14>￥.\n
 
 
 //<CLEAR>次は凄いヤツを　仕入れておきますから\nこりずに　また、どうぞ<$12><$00>
-<CLEAR>Don't you worry, I'll have even better stock next time!<$12><$00>
+<CLEAR>Don't you worry,\n
+I'll have an even finer stock next time!<$12><$00>
 
 
 //<$15><$59>装備屋／メニュー<$00>
@@ -865,8 +872,9 @@ we've got you covered!\n
 
 
 //<CLEAR>動物を売るときは　自分で\n食料や装備に　加工してから売ると、\n手間賃分だけ　ちょっとお得ですよ<$12><$00>
-<CLEAR>You'll make more money if you process an animal into food or\n
-gear before selling it.<$12><$00>
+<CLEAR>You'll make more money if you process\n
+an animal into food or gear before\n
+selling it.<$12><$00>
 
 
 //<CLEAR>装備のつけ忘れに　ご注意を！<$12><$00>
@@ -898,8 +906,9 @@ I'm here to serve you!<$12><$00>
 
 
 //<CLEAR>動物を売るときは　自分で\n食料や装備に　加工してから売ると、\n手間賃分だけ　ちょっとお得ですよ<$12><$00>
-<CLEAR>You'll make more money if you process an animal into food or\n
-gear before selling it.<$12><$00>
+<CLEAR>You'll make more money if you process\n
+an animal into food or gear before\n
+selling it.<$12><$00>
 
 
 //<CLEAR>アレが　ナニの時にも　どーぞ∥<$12><$00>
@@ -1017,7 +1026,7 @@ Arena Pay<$00>
 
 //\n<$02>8<$1E>34<$06>・<$04><$1D><$02>58<$1D><$02>118<$06><$15><$48><$1D><$00>
 \n
-<$02>8<$1E>34<$06>・<$04><$1D><$02>58<$1D><$02>118<$06><$15><$48><$1D><$00>
+<$02>8<$1E>34<$06>.<$04><$1D><$02>58<$1D><$02>118<$06><$15><$48><$1D><$00>
 
 
 //<$02>202<$1D><$1D><$15><$48><$00>
@@ -1087,7 +1096,7 @@ Withdrawing more than that? That's what we call\n
 
 
 //<CLEAR>まっ　珍しかないですけどね…<$12><$00>
-<CLEAR>Hmm, how often do we see this...<$12><$00>
+<CLEAR>Hmm, how often do we see this... <$12><$00>
 
 
 //<CLEAR>現在の預金残高は　<$06><$1E><$04>￥です\n引出額は　おいくらですか？\n持金<$1E>40￥←引出<$01><$1E>40￥<$00>
@@ -1167,16 +1176,19 @@ Remember, repayment is due in <$1D>.<$12><$00>
 
 
 //<CLEAR>お客さん…\nホスピコの入り口に　並んでる\n哀れな猟犬の墓を　数えてごらん<$12>\n<CLEAR>これ以上　あなたの猟犬を\n登録したところで、どうせまた\nあそこの墓が　増えるだけだものね<$12>\n<CLEAR>金の問題じゃないんだよ…\nわかるッ￠<$12><$00>
-<CLEAR>Sir, go look at the pet cemetary along the Hospico entrance.<$12>\n
-<CLEAR>We keep that cemetary's growth down by capping the\n
-number of dogs each client can adopt.<$12>\n
-<CLEAR>You may have money, but you've sadlt hit that limit. Let\n
-that be a lesson to you.<$12><$00>
+<CLEAR>Sir, go look at the pet cemetary along\n
+the Hospico entrance.<$12>\n
+<CLEAR>We keep that cemetary's growth down by\n
+capping the number of dogs each client\n
+may adopt.<$12>\n
+<CLEAR>You may have money, but you've sadly\n
+hit the adoption cap.\n
+Let that be a lesson to you.<$12><$00>
 
 
 //<CLEAR>猟犬の収容枠が　いっぱいです\nこれ以上、猟犬を増やせません<$12><$00>
-<CLEAR>You have reached the limit on dogs you can own at one time.\n
-<$12><$00>
+<CLEAR>You have reached the limit on dogs you\n
+can own at one time. <$12><$00>
 
 
 //<CLEAR>登録料　<$15><$62><$06><$1E><$04><$14>￥が足りません\n銀行で　ご都合ください<$12><$00>
@@ -1256,8 +1268,8 @@ You cannot adopt any more dogs.<$12><$00>
 
 //<CLEAR><$1D><$15><$57>は\nＡ級保護動物のため\n取り引きできません<$12><$00>
 <CLEAR><$1D><$15><$57> cannot be traded.\n
-Class A species\n
-trading is prohibited!<$12><$00>
+Class A species trading\n
+is strictly prohibited!<$12><$00>
 
 
 //<$15><$59>解体屋<$00>
@@ -1271,7 +1283,7 @@ out from animal bellies.\n
 
 
 //<CLEAR>意外にね…　客は女が多いんですねぇ\n月に１度　必ず来る人もいますねぇ<$12><$00>
-<CLEAR>Surprisingly...a lot of my clients are women. There are\n
+<CLEAR>Surprisingly... a lot of my clients are women. There are\n
 customers who visit once a month as well.<$12><$00>
 
 
@@ -1296,9 +1308,9 @@ Rip open the <$1D>?\n
 
 
 //<CLEAR>グヘヘヘ………………<$12>\n<CLEAR>グヘヘヘヘヘ………………<$12>\n<CLEAR>グヘヘヘヘヘヘヘ………………<$12><$00>
-<CLEAR>Hee...<$12>\n
-<CLEAR>Hee hee hee...<$12>\n
-<CLEAR>Hee hee hee hee hee...<$12><$00>
+<CLEAR>Hee... <$12>\n
+<CLEAR>Hee hee hee... <$12>\n
+<CLEAR>Hee hee hee hee hee... <$12><$00>
 
 
 //<CLEAR><$1D>を見つけたゼ<$12><$00>

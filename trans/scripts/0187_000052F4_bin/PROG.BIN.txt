@@ -53,19 +53,22 @@ Nebul <$00>
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
 <CLEAR>Ken whistled.<$12>\n
-<CLEAR>Huge wings flapped in the distance...<$12><$00>
+<CLEAR>Huge wings flapped in the distance... <$12><$00>
 
 
 //<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Ken masked the party to avoid detection.<$12>\n
-<CLEAR>However, none of the animals in the area were stupid\n
-enough to fall for his antics!<$12><$00>
+<CLEAR>Ken masked the party to avoid\n
+detection.<$12>\n
+<CLEAR>However, none of the animals in the\n
+area were stupid enough to fall for\n
+his antics!<$12><$00>
 
 
 //<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
 <CLEAR>Linda mimicked a few animal calls.<$12>\n
-<CLEAR>However, none of the animals in the area were stupid\n
-enough to fall for her antics!<$12><$00>
+<CLEAR>However, none of the animals in the\n
+area were stupid enough to fall for\n
+her antics!<$12><$00>
 
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
@@ -77,7 +80,8 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
-<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted\n
+here!<$12><$00>
 
 
 //他じゃ「環境創造」とか　偉そうな\nお題目つけて　さんざん自然を\n破壊してる張本人の　連邦がよ…<$12>\n<CLEAR>よりによって　こんな老い先短い\nネオケニアの　動物の保護にだけ\n何で　目くじら立てるのかねぇ？<$12>\n<CLEAR>…裏が　あるよなぁ<$12><$00>
@@ -85,7 +89,7 @@ It's funny how much of the environment the Federation\n
 destroys in the name of "preservation".<$12>\n
 <CLEAR>Now they're like, "Oh no, the animals on Neo Kenya are all\n
 going to die," so NOW they care?<$12>\n
-<CLEAR>...There's an ulterior motive here.<$12><$00>
+<CLEAR>... There's an ulterior motive here.<$12><$00>
 
 
 //ジルって名の　お嬢さんに頼めば\n<$1B>オオカミを　内緒で猟犬に\n登録してくれるゼ<$12>\n<CLEAR>この町にいることは　確かなんだが\nヤサが　どこにあるかは\n誰にも　わかんねえんだよな<$12><$00>
@@ -95,7 +99,7 @@ her house.<$12><$00>
 
 
 //あんた…？　もしかして　ここまで\n歩いてきたのかい？　すごいねえ…\n<$01>違いますよ<$0E>／<$01>すごいだろ<$0E><$00>
-Did you...seriously walk all the way out here? Wow!\n
+Did you... seriously walk all the way out here? Wow!\n
 <$01>No, I didn't<$0E> / <$01>Yeah, "Wow"!<$0E><$00>
 
 
@@ -115,7 +119,7 @@ walk so much.<$12>\n
 
 
 //<CLEAR>…へぇ　じゃあ、帰りも間違えずに\nこっちの出口から　帰るんだよ<$12>\n<CLEAR>もう１つのほうを　出ちゃうと\n<$1B>サイとか<$1B>オオカミとか　危ない\n動物ばかりで　生きて還れないからねぇ<$12><$00>
-<CLEAR>...Well, make sure you take this exit on the way out.<$12>\n
+<CLEAR>... Well, make sure you take this exit on the way out.<$12>\n
 <CLEAR>If you go out through the other door, there's a lot of\n
 dangerous animals like <$1B>rhinos and <$1B>wolves, so you won't get\n
 out alive!<$12><$00>
@@ -137,10 +141,10 @@ someone else will!<$12><$00>
 You see those letters under the photos in your Animal\n
 Bible, like "C", "F" or "B"?<$12>\n
 <CLEAR>Class A animals are protected, so once the feds stepped in,\n
-Class A trading was banned. But...Class As are hot sellers\n
+Class A trading was banned. But... Class As are hot sellers\n
 in this town!<$12>\n
 <CLEAR>"G" or "H", on the other hand, are disposable. Just like\n
-<$1B>pigs, just like you or me...<$12><$00>
+<$1B>pigs, just like you or me... <$12><$00>
 
 
 //必要なのは　動物１種につき　メスオス\n各１頭ずつだよな？　あとは用向きに\n応じて　装備や食料になるわけだ<$12>\n<CLEAR>自分が今、目の前の動物と戦おうと\nしている理由と目的を　忘れると\n時間は　ムダに流れるだけだゼ<$12><$00>
@@ -152,44 +156,45 @@ when I need it.<$12><$00>
 
 #WRITE(PTR, $001E)
 //クン、クンクン………？<$12>\n<CLEAR>とくに目新しい　ニオイは\nしないみたいよ<$12><$00>
-Sniff...sniff, sniff?<$12>\n
-<CLEAR>None of the scents around here stand out.<$12><$00>
+Sniff... sniff, sniff?<$12>\n
+<CLEAR>None of the scents around here stand\n
+out.<$12><$00>
 
 
 //……東<$00>
-...East<$00>
+... East<$00>
 
 
 //……西<$00>
-...West<$00>
+... West<$00>
 
 
 //……南<$00>
-...South<$00>
+... South<$00>
 
 
 //……北<$00>
-...North<$00>
+... North<$00>
 
 
 //…北東<$00>
-...North-east<$00>
+... North-east<$00>
 
 
 //…北西<$00>
-...North-west<$00>
+... North-west<$00>
 
 
 //…南東<$00>
-...South-east<$00>
+... South-east<$00>
 
 
 //…南西<$00>
-...South-west<$00>
+... South-west<$00>
 
 
 //<CLEAR>……<$1D><$00>
-<CLEAR>......<$1D><$00>
+<CLEAR>... ... <$1D><$00>
 
 
 //、…<$1D>に行けば<$00>
@@ -213,7 +218,7 @@ Back<$00>
 
 
 //<CLEAR>……<$1D><$00>
-<CLEAR>......<$1D><$00>
+<CLEAR>... ... <$1D><$00>
 
 
 //、絶対に<$1D>∥<$00>
@@ -221,11 +226,11 @@ wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19><$31><$15><$53>リンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition... <$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
-<CLEAR>...Sorry. I don't have it in me today.<$12><$00>
+<CLEAR>... Sorry. I don't have it in me today.<$12><$00>
 
 
 //運命の<$00>
@@ -265,7 +270,7 @@ could appear.<$00>
 
 
 //が　待ってる…<$00>
-await us...<$00>
+await us... <$00>
 
 
 //気がするわ∥<$00>
@@ -277,7 +282,7 @@ are in our grasp!<$00>
 
 
 //今しかないわ<$00>
-could slip through our fingers!<$00>
+could get away!<$00>
 
 
 //間違いなし∥<$00>
@@ -292,11 +297,11 @@ are dead ahead!<$00>
 
 
 //<CLEAR>自信があるの∥<$12><$00>
-<CLEAR>I'm sure of it!<$12><$00>
+<CLEAR>I swear!<$12><$00>
 
 
 //<CLEAR>自信は　ないけどね…<$12><$00>
-<CLEAR>Although, I'm not totally certain...<$12><$00>
+<CLEAR>Although, I'm not totally certain... <$12><$00>
 
 
 //<CLEAR>絶対なんだから∥<$12><$00>

@@ -47,19 +47,22 @@ Tent <$00>
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
 <CLEAR>Ken whistled.<$12>\n
-<CLEAR>Huge wings flapped in the distance...<$12><$00>
+<CLEAR>Huge wings flapped in the distance... <$12><$00>
 
 
 //<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Ken masked the party to avoid detection.<$12>\n
-<CLEAR>However, none of the animals in the area were stupid\n
-enough to fall for his antics!<$12><$00>
+<CLEAR>Ken masked the party to avoid\n
+detection.<$12>\n
+<CLEAR>However, none of the animals in the\n
+area were stupid enough to fall for\n
+his antics!<$12><$00>
 
 
 //<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
 <CLEAR>Linda mimicked a few animal calls.<$12>\n
-<CLEAR>However, none of the animals in the area were stupid\n
-enough to fall for her antics!<$12><$00>
+<CLEAR>However, none of the animals in the\n
+area were stupid enough to fall for\n
+her antics!<$12><$00>
 
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
@@ -71,14 +74,15 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
-<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted\n
+here!<$12><$00>
 
 
 //連邦に踊らされて　この土地に\nやって来た人たちには　同情するよ<$12>\n<CLEAR>いろいろガマンして　家や家具を買って\nそれを　みんな、なくすんだものね…\n私ら、何もないから　平気だけどさ<$12><$00>
 I feel for all the people who were suckered by the\n
 Federation to move down here to Neo Kenya.<$12>\n
 <CLEAR>Everyone who came out here gave up their former homes,\n
-furniture, you name it...for this.<$12>\n
+furniture, you name it... for this.<$12>\n
 <CLEAR>But, even without pennies to our names, we get by.<$12><$00>
 
 
@@ -89,19 +93,22 @@ Equipment Tent <$00>
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
 <CLEAR>Ken whistled.<$12>\n
-<CLEAR>Huge wings flapped in the distance...<$12><$00>
+<CLEAR>Huge wings flapped in the distance... <$12><$00>
 
 
 //<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Ken masked the party to avoid detection.<$12>\n
-<CLEAR>However, none of the animals in the area were stupid\n
-enough to fall for his antics!<$12><$00>
+<CLEAR>Ken masked the party to avoid\n
+detection.<$12>\n
+<CLEAR>However, none of the animals in the\n
+area were stupid enough to fall for\n
+his antics!<$12><$00>
 
 
 //<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
 <CLEAR>Linda mimicked a few animal calls.<$12>\n
-<CLEAR>However, none of the animals in the area were stupid\n
-enough to fall for her antics!<$12><$00>
+<CLEAR>However, none of the animals in the\n
+area were stupid enough to fall for\n
+her antics!<$12><$00>
 
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
@@ -113,12 +120,14 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
-<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted\n
+here!<$12><$00>
 
 
 //<CLEAR>音や光、それとガスなんかの耐性は\n頭部の装備で　決まるんだ\n一度痛い目にあえば　自然と覚えるよ<$12><$00>
-<CLEAR>Headgear protects from sound, light and gas. Forgetting it\n
-is not a mistake one makes twice.<$12><$00>
+<CLEAR>Headgear protects from sound, light and\n
+gas. Forgetting proper headgear is not\n
+a mistake a hunter lives to makes twice.<$12><$00>
 
 
 #WRITE(PTR, $0028)
@@ -128,19 +137,22 @@ Florist <$00>
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
 <CLEAR>Ken whistled.<$12>\n
-<CLEAR>Huge wings flapped in the distance...<$12><$00>
+<CLEAR>Huge wings flapped in the distance... <$12><$00>
 
 
 //<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Ken masked the party to avoid detection.<$12>\n
-<CLEAR>However, none of the animals in the area were stupid\n
-enough to fall for his antics!<$12><$00>
+<CLEAR>Ken masked the party to avoid\n
+detection.<$12>\n
+<CLEAR>However, none of the animals in the\n
+area were stupid enough to fall for\n
+his antics!<$12><$00>
 
 
 //<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
 <CLEAR>Linda mimicked a few animal calls.<$12>\n
-<CLEAR>However, none of the animals in the area were stupid\n
-enough to fall for her antics!<$12><$00>
+<CLEAR>However, none of the animals in the\n
+area were stupid enough to fall for\n
+her antics!<$12><$00>
 
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
@@ -152,7 +164,8 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
-<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted\n
+here!<$12><$00>
 
 
 //お祝い、お見舞、プロポーズに\n欠かせない１品∥　それが花たばです∥\n<$01>購入する<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
@@ -200,11 +213,11 @@ One moment, please!<$12><$00>
 //<CLEAR>真紅の花たばは　燃える情熱を表します\n純白の花たばは　淡い恋心を伝えます\n黄色の花たばは…<$12>\n<CLEAR>黄色の花たばは…………<$12>\n<CLEAR>「とりあえず」の気持ちですかね？<$12><$00>
 <CLEAR>Red bouquets burn passionately.\n
 White bouquets glow purely.\n
-Yellow bouquets...<$12>\n
-<CLEAR>Yellow bouquets, uhm...<$12>\n
+Yellow bouquets... <$12>\n
+<CLEAR>Yellow bouquets, uhm... <$12>\n
 <CLEAR>"Beam happily"?\n
 "Smile Mellowly"?\n
-...What do you think?<$12><$00>
+... What do you think?<$12><$00>
 
 
 #WRITE(PTR, $002A)
@@ -214,19 +227,22 @@ Shady Tent <$00>
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
 <CLEAR>Ken whistled.<$12>\n
-<CLEAR>Huge wings flapped in the distance...<$12><$00>
+<CLEAR>Huge wings flapped in the distance... <$12><$00>
 
 
 //<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Ken masked the party to avoid detection.<$12>\n
-<CLEAR>However, none of the animals in the area were stupid\n
-enough to fall for his antics!<$12><$00>
+<CLEAR>Ken masked the party to avoid\n
+detection.<$12>\n
+<CLEAR>However, none of the animals in the\n
+area were stupid enough to fall for\n
+his antics!<$12><$00>
 
 
 //<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
 <CLEAR>Linda mimicked a few animal calls.<$12>\n
-<CLEAR>However, none of the animals in the area were stupid\n
-enough to fall for her antics!<$12><$00>
+<CLEAR>However, none of the animals in the\n
+area were stupid enough to fall for\n
+her antics!<$12><$00>
 
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
@@ -238,24 +254,27 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
-<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted\n
+here!<$12><$00>
 
 
 //空港ホテルの　１０分の１の料金で\n泊まれる宿が　あるんだけど　どう？\n<$01>宿泊する<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
-You can stay here for 1/10 the airport-hotel price, what\n
-d'you say bro?\n
+You can stay here for 1/10 of the\n
+airport-hotel price, what d'you say bro?\n
 <$01>Stay<$0E> / <$01>Chat<$0E> / <$01>Exit<$0E><$00>
 
 
 //<CLEAR>どこで寝たって　見る夢は\nたいして　かわりはないと思うよ<$12><$00>
 <CLEAR>No matter where we sleep,\n
-our dreams never change, do they, bro?<$12><$00>
+our dreams never change,\n
+do they, bro?<$12><$00>
 
 
 //<CLEAR>夜襲を受けることが　絶対、ないだけ\n野営よりは　マシだと思うけどね…<$12>\n<CLEAR>たまに　物盗りはあるにしてもさ<$12><$00>
-<CLEAR>Sure, sometimes possessions go missing, but you know\n
-what's good about my tent, bro?<$12>\n
-<CLEAR>No night attacks!<$12><$00>
+<CLEAR>Sure, sometimes possessions go missing,\n
+but you know what's cool about my tent,\n
+bro?<$12>\n
+<CLEAR>At least there's no night attacks!<$12><$00>
 
 
 //<CLEAR>やだなぁ…<$1D><$06><$1E><$04><$14>￥もないのかよ<$12><$00>
@@ -267,7 +286,8 @@ what's good about my tent, bro?<$12>\n
 
 
 //また　俺のベッドのニオイが\n恋しくなったら　泊まりに来てくんな<$12><$00>
-If you ever miss my scent, bro, come back anytime.<$12><$00>
+If you ever miss my scent, bro,\n
+come back anytime.<$12><$00>
 
 
 #WRITE(PTR, $002C)
@@ -277,19 +297,22 @@ Tent <$00>
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
 <CLEAR>Ken whistled.<$12>\n
-<CLEAR>Huge wings flapped in the distance...<$12><$00>
+<CLEAR>Huge wings flapped in the distance... <$12><$00>
 
 
 //<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Ken masked the party to avoid detection.<$12>\n
-<CLEAR>However, none of the animals in the area were stupid\n
-enough to fall for his antics!<$12><$00>
+<CLEAR>Ken masked the party to avoid\n
+detection.<$12>\n
+<CLEAR>However, none of the animals in the\n
+area were stupid enough to fall for\n
+his antics!<$12><$00>
 
 
 //<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
 <CLEAR>Linda mimicked a few animal calls.<$12>\n
-<CLEAR>However, none of the animals in the area were stupid\n
-enough to fall for her antics!<$12><$00>
+<CLEAR>However, none of the animals in the\n
+area were stupid enough to fall for\n
+her antics!<$12><$00>
 
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
@@ -301,13 +324,14 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
-<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted\n
+here!<$12><$00>
 
 
 //ここの地下にさ　電気<$1B>ナマズ用の\nでかいプールが　あるんだってね\n泳いだら　死ぬかな？<$12>\n<CLEAR>それもイイかな…<$12><$00>
-Think we'd die if we swam in the electric <$1B>catfish pool\n
-underground?<$12>\n
-<CLEAR>That'd be siiiiick...<$12><$00>
+Think we'd die if we swam in the\n
+electric <$1B>catfish pool underground?<$12>\n
+<CLEAR>That'd be siiick... <$12><$00>
 
 
 #WRITE(PTR, $002E)
@@ -325,15 +349,15 @@ underground?<$12>\n
 
 
 //<$06>T.C.(<$1E>034<$06>)<$00>
-<$06>TCU (x<$1E><$06>)<$00>
+<$06>TCU (x<$1E>034<$06>)<$00>
 
 
 //<$05>γ<$00>
-<$05>A<$00>
+<$05>ATK<$00>
 
 
 //<$05>ζ<$00>
-<$05>D<$00>
+<$05>DEF<$00>
 
 
 //<$1E>@019<$00>
@@ -377,8 +401,8 @@ I can't accept that!<$12><$00>
 
 //<CLEAR><$1D><$15><$57>は\nＡ級保護動物のため\n取り引きできません<$12><$00>
 <CLEAR><$1D><$15><$57> cannot be traded.\n
-Class A species\n
-trading is prohibited!<$12><$00>
+Class A species trading\n
+is strictly prohibited!<$12><$00>
 
 
 //<CLEAR><$00>
@@ -394,7 +418,7 @@ trading is prohibited!<$12><$00>
 
 
 //<CLEAR><$1D>を作ります\n加工料金＿<$1D><$06><$1E><$04><$14>￥\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
-<CLEAR>Crafting a <$1D> \n
+<CLEAR>Crafting the <$1D> \n
 will cost<$1D><$06><$1E><$04><$14>￥.\n
 <$01>Okay<$0E> / <$01>Wait<$0E><$00>
 
@@ -404,7 +428,7 @@ will cost<$1D><$06><$1E><$04><$14>￥.\n
 
 
 //<CLEAR>動物が足りません<$12><$00>
-<CLEAR>You don't have the animals!<$12><$00>
+<CLEAR>You don't have the right animals!<$12><$00>
 
 
 //<CLEAR>加工料金＿<$15><$62><$06><$1E><$04><$14>￥\nが足りません<$12><$00>
@@ -422,7 +446,8 @@ will cost<$1D><$06><$1E><$04><$14>￥.\n
 
 
 //<CLEAR>次は凄いヤツを　仕入れておきますから\nこりずに　また、どうぞ<$12><$00>
-<CLEAR>Don't you worry, I'll have even better stock next time!<$12><$00>
+<CLEAR>Don't you worry,\n
+I'll have an even finer stock next time!<$12><$00>
 
 
 //<$15><$59>装備屋／メニュー<$00>
@@ -463,8 +488,9 @@ we've got you covered!\n
 
 
 //<CLEAR>動物を売るときは　自分で\n食料や装備に　加工してから売ると、\n手間賃分だけ　ちょっとお得ですよ<$12><$00>
-<CLEAR>You'll make more money if you process an animal into food or\n
-gear before selling it.<$12><$00>
+<CLEAR>You'll make more money if you process\n
+an animal into food or gear before\n
+selling it.<$12><$00>
 
 
 //<CLEAR>装備のつけ忘れに　ご注意を！<$12><$00>
@@ -499,7 +525,8 @@ Would you like a room for <$1D><$06><$1E><$04><$14>￥?\n
 
 
 //<CLEAR>お客様、戦えなくなった　猟犬のＨＰは\n宿泊や野営じゃ　戻りませんけど…\n<$01>知ってるよ<$0E>／<$01>ホントかよ<$0E><$00>
-<CLEAR>I'm sorry, but dogs won't recover HP in hotels or camps.\n
+<CLEAR>It's regrettable, but dogs will\n
+not recover HP in hotels or camps.\n
 <$01>I know that<$0E> / <$01>Really?!<$0E><$00>
 
 
@@ -512,46 +539,47 @@ Would you like a room for <$1D><$06><$1E><$04><$14>￥?\n
 
 
 //クン、クンクン………？<$12>\n<CLEAR>ここには　少なくとも<$1E>1人！\nいいえ…　<$1E>1人はいるわよ…<$12>\n<CLEAR>お風呂と縁のない人<$12><$00>
-Sniff...sniff, sniff?<$12>\n
+Sniff... sniff, sniff?<$12>\n
 <CLEAR>There's not <$1E>1 soul here!\n
-Wait... No, there's at least <$1E>1.<$12>\n
-<CLEAR>It's whatever they reek of that isn't human.<$12><$00>
+Wait...  No, there's at least <$1E>1.<$12>\n
+<CLEAR>It's whatever they smell of\n
+that lacks soul.<$12><$00>
 
 
 //……東<$00>
-...East<$00>
+... East<$00>
 
 
 //……西<$00>
-...West<$00>
+... West<$00>
 
 
 //……南<$00>
-...South<$00>
+... South<$00>
 
 
 //……北<$00>
-...North<$00>
+... North<$00>
 
 
 //…北東<$00>
-...North-east<$00>
+... North-east<$00>
 
 
 //…北西<$00>
-...North-west<$00>
+... North-west<$00>
 
 
 //…南東<$00>
-...South-east<$00>
+... South-east<$00>
 
 
 //…南西<$00>
-...South-west<$00>
+... South-west<$00>
 
 
 //<CLEAR>……<$1D><$00>
-<CLEAR>......<$1D><$00>
+<CLEAR>... ... <$1D><$00>
 
 
 //、…<$1D>に行けば<$00>
@@ -575,7 +603,7 @@ Back<$00>
 
 
 //<CLEAR>……<$1D><$00>
-<CLEAR>......<$1D><$00>
+<CLEAR>... ... <$1D><$00>
 
 
 //、絶対に<$1D>∥<$00>
@@ -583,11 +611,11 @@ wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19><$31><$15><$53>リンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition... <$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
-<CLEAR>...Sorry. I don't have it in me today.<$12><$00>
+<CLEAR>... Sorry. I don't have it in me today.<$12><$00>
 
 
 //運命の<$00>
@@ -627,7 +655,7 @@ could appear.<$00>
 
 
 //が　待ってる…<$00>
-await us...<$00>
+await us... <$00>
 
 
 //気がするわ∥<$00>
@@ -639,7 +667,7 @@ are in our grasp!<$00>
 
 
 //今しかないわ<$00>
-could slip through our fingers!<$00>
+could get away!<$00>
 
 
 //間違いなし∥<$00>
@@ -654,11 +682,11 @@ are dead ahead!<$00>
 
 
 //<CLEAR>自信があるの∥<$12><$00>
-<CLEAR>I'm sure of it!<$12><$00>
+<CLEAR>I swear!<$12><$00>
 
 
 //<CLEAR>自信は　ないけどね…<$12><$00>
-<CLEAR>Although, I'm not totally certain...<$12><$00>
+<CLEAR>Although, I'm not totally certain... <$12><$00>
 
 
 //<CLEAR>絶対なんだから∥<$12><$00>

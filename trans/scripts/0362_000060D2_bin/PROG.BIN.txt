@@ -131,19 +131,22 @@ Bank・Equipment・Bank <$00>
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
 <CLEAR>Ken whistled.<$12>\n
-<CLEAR>Huge wings flapped in the distance...<$12><$00>
+<CLEAR>Huge wings flapped in the distance... <$12><$00>
 
 
 //<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Ken masked the party to avoid detection.<$12>\n
-<CLEAR>However, none of the animals in the area were stupid\n
-enough to fall for his antics!<$12><$00>
+<CLEAR>Ken masked the party to avoid\n
+detection.<$12>\n
+<CLEAR>However, none of the animals in the\n
+area were stupid enough to fall for\n
+his antics!<$12><$00>
 
 
 //<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
 <CLEAR>Linda mimicked a few animal calls.<$12>\n
-<CLEAR>However, none of the animals in the area were stupid\n
-enough to fall for her antics!<$12><$00>
+<CLEAR>However, none of the animals in the\n
+area were stupid enough to fall for\n
+her antics!<$12><$00>
 
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
@@ -155,7 +158,8 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
-<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted\n
+here!<$12><$00>
 
 
 //<CLEAR>動物が歩く札たばに　見え出したら\nここじゃ　一人前の銀行員として\n認めてもらえるんですよ！<$12>\n<CLEAR><$1B>イルカや<$1B>コアラは　ともかく\n<$1B>ハイエナとか　<$1B>ゾウモツになると\nけっこう　きついものがありますね…<$12><$00>
@@ -182,8 +186,9 @@ make you spend it on drugs. It's Green in, and Green out.<$12><$00>
 
 
 //<CLEAR>Ｇファクトリーの方へ　行くんなら\nせめて服だけでも　冷気に\n強いモンに　取り替えたほうがいいゼ<$12><$00>
-<CLEAR>If you ever go to G Factory, switch out your armor for\n
-anything resistant to cold.<$12><$00>
+<CLEAR>If you ever go to G Factory,\n
+switch out your armor for anything\n
+that's resistant to cold.<$12><$00>
 
 
 #WRITE(PTR, $0024)
@@ -193,19 +198,22 @@ Admin・Animal・Drug <$00>
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
 <CLEAR>Ken whistled.<$12>\n
-<CLEAR>Huge wings flapped in the distance...<$12><$00>
+<CLEAR>Huge wings flapped in the distance... <$12><$00>
 
 
 //<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Ken masked the party to avoid detection.<$12>\n
-<CLEAR>However, none of the animals in the area were stupid\n
-enough to fall for his antics!<$12><$00>
+<CLEAR>Ken masked the party to avoid\n
+detection.<$12>\n
+<CLEAR>However, none of the animals in the\n
+area were stupid enough to fall for\n
+his antics!<$12><$00>
 
 
 //<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
 <CLEAR>Linda mimicked a few animal calls.<$12>\n
-<CLEAR>However, none of the animals in the area were stupid\n
-enough to fall for her antics!<$12><$00>
+<CLEAR>However, none of the animals in the\n
+area were stupid enough to fall for\n
+her antics!<$12><$00>
 
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
@@ -217,7 +225,8 @@ enough to fall for her antics!<$12><$00>
 
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
-<CLEAR>The Navi System(NaviS) can't be booted here!<$12><$00>
+<CLEAR>The Navi System(NaviS) can't be booted\n
+here!<$12><$00>
 
 
 //<$15><$59>動物商<$00>
@@ -264,40 +273,49 @@ bad fall at the last minute.<$12><$00>
 
 
 //<CLEAR>やあ　俺がマリオだよ！\nきっと　あんたたちのことだ\n来てくれると　信じてたゼ<$12>\n<CLEAR>電話を聞いて　来てくれたんだろ？\n<$01>そうだよ<$0E>／<$01>電話？？<$0E><$00>
-<CLEAR>You must be here for Mario! I just knew you two would\n
-show up sooner or later.<$12>\n
-<CLEAR>I'm Mario! You're here because of my voicemail, right?\n
+<CLEAR>You must be here for "Mario"!\n
+I just knew you two would show up\n
+sooner or later.<$12>\n
+<CLEAR>I'm Mario! You're here because\n
+you got my voicemail, right?\n
 <$01>That's right<$0E> / <$01>Voicemail?<$0E><$00>
 
 
 //<CLEAR>何だ？　電話、聞いてないの？\nまっ、いいや…　来てくれたんだしな\nちょっと、頼みがあってよ<$12><$00>
-<CLEAR>Really? If that's not what you're here for, would you hear\n
-me out anyways?<$12><$00>
+<CLEAR>Huh? Well... even if that's not what\n
+you're here for, would you still\n
+hear me out anyways?<$12><$00>
 
 
 //<CLEAR>臨終の床で　おやじのヤツ、\nおふくろは　まだ生きてるって\n突然、ぬかしやがってよ<$12>\n<CLEAR>パラサイドの酒場で　飲んでた\nおやじの友だちが　舞台に上がってる\nおふくろを　見かけたらしいんだ<$12><$00>
-<CLEAR>My father told me, on his deathbed, that my mother was\n
-still alive out there.<$12>\n
-<CLEAR>Some of his friends backed that up by saying they saw\n
-her on stage at the Paraside bar.<$12><$00>
+<CLEAR>My father told me, on his deathbed,\n
+that my mother was still alive out\n
+there.<$12>\n
+<CLEAR>Some of his friends backed that up by\n
+saying they saw her on stage at the\n
+Paraside bar.<$12><$00>
 
 
 //<CLEAR>どうせ　酔っぱらいの見間違いに\n決まってるからな、自分で調べに\n行くのも　しゃくだしよ…<$12>\n<CLEAR>万にひとつ、本物のおふくろを\n見つけたとしても　今さら　何を\nしゃべっていいか　わかんねぇしよ…<$12>\n<CLEAR>だから……<$12>\n<CLEAR>ついでで　いいんだ、ついででな\n何かそんな噂を聞いたら　教えてくれよ\n<$01>お安い御用<$0E>／<$01>タダでか？<$0E>／<$01>ヤなこった<$0E><$00>
-<CLEAR>Their drunken accounts aren't 100%, but I'd like for you\n
-to go check Paraside for me.<$12>\n
-<CLEAR>It's near impossible, but if you did find my real\n
-mother...what could I even say to her after all this time?<$12>\n
-<CLEAR>Still...<$12>\n
-<CLEAR>So if you find ANY trace of her at all, please let me know!\n
-<$01>Okay<$0E> / <$01>For free?!<$0E> / <$01>This isn't my thing<$0E><$00>
+<CLEAR>The patrons' drunken accounts aren't\n
+ideal, but I'd like for you to go ask\n
+around Paraside for me.<$12>\n
+<CLEAR>It'd be a long shot, but if you did\n
+find my real mother... what could I\n
+even say to her after all this time?<$12>\n
+<CLEAR>Still... <$12>\n
+<CLEAR>So if you find ANY trace of her,\n
+please let me know!\n
+<$01>Okay<$0E> / <$01>For free?!<$0E> / <$01>Nah<$0E><$00>
 
 
 //<CLEAR>そうか！　ありがとよ！\n<$00>
-<CLEAR>Wow, thank you!<$00>
+<CLEAR>Wow, thank you!\n
+<$00>
 
 
 //<CLEAR>ところで、ケン…<$12>\n<CLEAR>あんたのおふくろは　どんな人だい？\n<$01>いい母さんだよ<$0E>／<$01>デブでよく笑う<$0E>\n<$01>普通の主婦かな<$0E>／<$01>美人でやさしい<$0E><$00>
-<CLEAR>Tell me, Ken...<$12>\n
+<CLEAR>Tell me, Ken... <$12>\n
 <CLEAR>What's your mother like?\n
 <$01>She's cool!<$0E> / <$01>She's a big girl<$0E>\n
 <$01>A bit generic?<$0E> / <$01>GORGEOUS!<$0E><$00>
@@ -308,25 +326,28 @@ mother...what could I even say to her after all this time?<$12>\n
 
 
 //<CLEAR>俺のおふくろ、捜してくれる気に\nなったのかい？　いいトコあるじゃん！\n<$01>お安い御用<$0E>／<$01>ただでか？<$0E>／<$01>ヤなこった<$0E><$00>
-<CLEAR>You'll help me find my mother, won't you? You can, right?\n
+<CLEAR>You'll help me find my mother,\n
+won't you? I heard you could!\n
 <$01>Okay!<$0E> / <$01>For a price<$0E> / <$01>Never!<$0E><$00>
 
 
 //<CLEAR>…………………………\nじゃ　別にいいや<$12><$00>
-<CLEAR>......Well, okay.<$12><$00>
+<CLEAR>... ... Well, okay.<$12><$00>
 
 
 //おふくろの名は　アンジェラだ<$12>\n<CLEAR>急いで…　いや、何かのついでに\nパラサイドに行くことが　あったら\n酒場をのぞいてみてくれよ<$12><$00>
 My mother's name is Angela.<$12>\n
-<CLEAR>You might learn something by asking around the bar in\n
-Paraside.<$12><$00>
+<CLEAR>You might learn something about her by\n
+asking around the bar in Paraside.<$12><$00>
 
 
 //<CLEAR>へェー　俺のおふくろが\nよりによって　歌手やってるってか￠<$12>\n<CLEAR>やっぱり　人違いだよ…<$12>\n<CLEAR>だって俺、オンチだもんな…<$12><$00>
-<CLEAR>What? You're telling me my mother's a singer?<$12>\n
-<CLEAR>That doesn't sound right...<$12>\n
-<CLEAR>For one thing, I couldn't sing in tune if you hade a knife to\n
-my face!<$12><$00>
+<CLEAR>What?\n
+You're telling me\n
+my mother's a singer?<$12>\n
+<CLEAR>That doesn't sound right... <$12>\n
+<CLEAR>For one thing, I couldn't sing in-tune\n
+if you hade a knife to my face!<$12><$00>
 
 
 #WRITE(PTR, $0026)
@@ -382,7 +403,7 @@ Arena Pay<$00>
 
 //\n<$02>8<$1E>34<$06>・<$04><$1D><$02>58<$1D><$02>118<$06><$15><$48><$1D><$00>
 \n
-<$02>8<$1E>34<$06>・<$04><$1D><$02>58<$1D><$02>118<$06><$15><$48><$1D><$00>
+<$02>8<$1E>34<$06>.<$04><$1D><$02>58<$1D><$02>118<$06><$15><$48><$1D><$00>
 
 
 //<$02>202<$1D><$1D><$15><$48><$00>
@@ -452,7 +473,7 @@ Withdrawing more than that? That's what we call\n
 
 
 //<CLEAR>まっ　珍しかないですけどね…<$12><$00>
-<CLEAR>Hmm, how often do we see this...<$12><$00>
+<CLEAR>Hmm, how often do we see this... <$12><$00>
 
 
 //<CLEAR>現在の預金残高は　<$06><$1E><$04>￥です\n引出額は　おいくらですか？\n持金<$1E>40￥←引出<$01><$1E>40￥<$00>
@@ -541,15 +562,15 @@ Remember, repayment is due in <$1D>.<$12><$00>
 
 
 //<$06>T.C.(<$1E>034<$06>)<$00>
-<$06>TCU (x<$1E><$06>)<$00>
+<$06>TCU (x<$1E>034<$06>)<$00>
 
 
 //<$05>γ<$00>
-<$05>A<$00>
+<$05>ATK<$00>
 
 
 //<$05>ζ<$00>
-<$05>D<$00>
+<$05>DEF<$00>
 
 
 //<$1E>@019<$00>
@@ -593,8 +614,8 @@ I can't accept that!<$12><$00>
 
 //<CLEAR><$1D><$15><$57>は\nＡ級保護動物のため\n取り引きできません<$12><$00>
 <CLEAR><$1D><$15><$57> cannot be traded.\n
-Class A species\n
-trading is prohibited!<$12><$00>
+Class A species trading\n
+is strictly prohibited!<$12><$00>
 
 
 //<CLEAR><$00>
@@ -610,7 +631,7 @@ trading is prohibited!<$12><$00>
 
 
 //<CLEAR><$1D>を作ります\n加工料金＿<$1D><$06><$1E><$04><$14>￥\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
-<CLEAR>Crafting a <$1D> \n
+<CLEAR>Crafting the <$1D> \n
 will cost<$1D><$06><$1E><$04><$14>￥.\n
 <$01>Okay<$0E> / <$01>Wait<$0E><$00>
 
@@ -620,7 +641,7 @@ will cost<$1D><$06><$1E><$04><$14>￥.\n
 
 
 //<CLEAR>動物が足りません<$12><$00>
-<CLEAR>You don't have the animals!<$12><$00>
+<CLEAR>You don't have the right animals!<$12><$00>
 
 
 //<CLEAR>加工料金＿<$15><$62><$06><$1E><$04><$14>￥\nが足りません<$12><$00>
@@ -638,7 +659,8 @@ will cost<$1D><$06><$1E><$04><$14>￥.\n
 
 
 //<CLEAR>次は凄いヤツを　仕入れておきますから\nこりずに　また、どうぞ<$12><$00>
-<CLEAR>Don't you worry, I'll have even better stock next time!<$12><$00>
+<CLEAR>Don't you worry,\n
+I'll have an even finer stock next time!<$12><$00>
 
 
 //<$15><$59>装備屋／メニュー<$00>
@@ -679,8 +701,9 @@ we've got you covered!\n
 
 
 //<CLEAR>動物を売るときは　自分で\n食料や装備に　加工してから売ると、\n手間賃分だけ　ちょっとお得ですよ<$12><$00>
-<CLEAR>You'll make more money if you process an animal into food or\n
-gear before selling it.<$12><$00>
+<CLEAR>You'll make more money if you process\n
+an animal into food or gear before\n
+selling it.<$12><$00>
 
 
 //<CLEAR>装備のつけ忘れに　ご注意を！<$12><$00>
@@ -712,8 +735,9 @@ I'm here to serve you!<$12><$00>
 
 
 //<CLEAR>動物を売るときは　自分で\n食料や装備に　加工してから売ると、\n手間賃分だけ　ちょっとお得ですよ<$12><$00>
-<CLEAR>You'll make more money if you process an animal into food or\n
-gear before selling it.<$12><$00>
+<CLEAR>You'll make more money if you process\n
+an animal into food or gear before\n
+selling it.<$12><$00>
 
 
 //<CLEAR>アレが　ナニの時にも　どーぞ∥<$12><$00>
@@ -748,7 +772,8 @@ gear before selling it.<$12><$00>
 
 
 //<CLEAR>余っている動物は　いませんですか？\n高額で　引き取りますよ<$00>
-<CLEAR>Not satisfied with your animal collection? Let's trade!<$00>
+<CLEAR>Not happy with your animal collection?\n
+Let's trade!<$00>
 
 
 //\n<$01>取引する<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
@@ -761,8 +786,8 @@ gear before selling it.<$12><$00>
 
 
 //<CLEAR>珍しいのも　たまに入荷するから\nちょくちょく　覗いてみてよ<$12><$00>
-<CLEAR>Occasionally, we'll get rare animals in stock, so check\n
-back often!<$12><$00>
+<CLEAR>Occasionally, we do get rare animals\n
+in stock, so check back often!<$12><$00>
 
 
 //<$15><$59>動物商／メニュー<$00>
@@ -785,8 +810,8 @@ back often!<$12><$00>
 
 //<CLEAR><$1D><$15><$57>は\nＡ級保護動物のため\n取り引きできません<$12><$00>
 <CLEAR><$1D><$15><$57> cannot be traded.\n
-Class A species\n
-trading is prohibited!<$12><$00>
+Class A species trading\n
+is strictly prohibited!<$12><$00>
 
 
 //<$15><$59>雑貨屋<$00>
@@ -843,45 +868,45 @@ where to find us!<$12><$00>
 
 
 //クン、クンクン………？<$12>\n<CLEAR>亜硫酸の　ニオイかしら？\nかなり、体に悪そうね…<$12><$00>
-Sniff...sniff, sniff?<$12>\n
+Sniff... sniff, sniff?<$12>\n
 <CLEAR>Is that sulphurous acid?\n
 That stuff isn't good for you.<$12><$00>
 
 
 //……東<$00>
-...East<$00>
+... East<$00>
 
 
 //……西<$00>
-...West<$00>
+... West<$00>
 
 
 //……南<$00>
-...South<$00>
+... South<$00>
 
 
 //……北<$00>
-...North<$00>
+... North<$00>
 
 
 //…北東<$00>
-...North-east<$00>
+... North-east<$00>
 
 
 //…北西<$00>
-...North-west<$00>
+... North-west<$00>
 
 
 //…南東<$00>
-...South-east<$00>
+... South-east<$00>
 
 
 //…南西<$00>
-...South-west<$00>
+... South-west<$00>
 
 
 //<CLEAR>……<$1D><$00>
-<CLEAR>......<$1D><$00>
+<CLEAR>... ... <$1D><$00>
 
 
 //、…<$1D>に行けば<$00>
@@ -905,7 +930,7 @@ Back<$00>
 
 
 //<CLEAR>……<$1D><$00>
-<CLEAR>......<$1D><$00>
+<CLEAR>... ... <$1D><$00>
 
 
 //、絶対に<$1D>∥<$00>
@@ -913,11 +938,11 @@ wards, got it? I'm sure we'll find a <$1D> there!<$00>
 
 
 //<CLEAR><$19><$31><$15><$53>リンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition...<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition... <$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
-<CLEAR>...Sorry. I don't have it in me today.<$12><$00>
+<CLEAR>... Sorry. I don't have it in me today.<$12><$00>
 
 
 //運命の<$00>
@@ -957,7 +982,7 @@ could appear.<$00>
 
 
 //が　待ってる…<$00>
-await us...<$00>
+await us... <$00>
 
 
 //気がするわ∥<$00>
@@ -969,7 +994,7 @@ are in our grasp!<$00>
 
 
 //今しかないわ<$00>
-could slip through our fingers!<$00>
+could get away!<$00>
 
 
 //間違いなし∥<$00>
@@ -984,11 +1009,11 @@ are dead ahead!<$00>
 
 
 //<CLEAR>自信があるの∥<$12><$00>
-<CLEAR>I'm sure of it!<$12><$00>
+<CLEAR>I swear!<$12><$00>
 
 
 //<CLEAR>自信は　ないけどね…<$12><$00>
-<CLEAR>Although, I'm not totally certain...<$12><$00>
+<CLEAR>Although, I'm not totally certain... <$12><$00>
 
 
 //<CLEAR>絶対なんだから∥<$12><$00>
@@ -1205,8 +1230,8 @@ them both the very best!<$12><$00>
 BREAKING! GREEN FAMILY DONATES <$06>36,000,000,000,000<$04>￥ TO\n
 MIGRATION RELIEF FUND<$12>\n
 <CLEAR>Elizabeth Green and Mica Panheim, both recently retired\n
-heads of Green Pharmaceuticals...<$12>\n
-<CLEAR>...have single-handedly secured happy new futures to\n
+heads of Green Pharmaceuticals... <$12>\n
+<CLEAR>... have single-handedly secured happy new futures to\n
 everyone leaving Neo Kenya!<$12><$00>
 
 
@@ -1223,8 +1248,8 @@ BREAKING! THE RICHEST NEWLYWEDS IN THE COSMOS■<$12>\n
 <CLEAR>A grand ceremony was held for Nek Green and Sachiko Emori\n
 in Minago church!<$12>\n
 <CLEAR>Between the Green estate and Emori estate, which made its\n
-fortune selling patents...<$12>\n
-<CLEAR>...the young couple's net worth tops well over\n
+fortune selling patents... <$12>\n
+<CLEAR>... the young couple's net worth tops well over\n
 8,000,000,000,000￥!<$12><$00>
 
 
