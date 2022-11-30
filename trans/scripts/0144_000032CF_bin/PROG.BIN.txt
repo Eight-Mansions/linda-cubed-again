@@ -667,7 +667,8 @@ Highlight "Okay!"
 <CLEAR>
 (Again)
 <$06>
-START: 
+START:\n
+
 <$04>
 Begin camping!
 <$11>
@@ -1201,8 +1202,8 @@ Ken carefully set the Rental Trap.
 
 //<CLEAR>ケンは　「自前ワナ」の設置場所を\n一度に　３ヵ所しか\n覚えられそうにない…<$12><$00>
 <CLEAR>
-Ken can only remember up to 3 Makeshift Trap locations\n
-at a time.
+Ken can only remember up to 3 Makeshift\n
+Trap locations at a time.
 <$12><$00>
 
 
@@ -1633,7 +1634,8 @@ Hey, Ken...
 
 //<CLEAR>今度　生まれてくる時も\nお嫁に　もらってくれる？<$00>
 <CLEAR>
-Will you take me as your bride in the next life too?
+Will you take me as your bride in the\n
+next life too?
 <$00>
 
 
@@ -1651,15 +1653,17 @@ Application denied
 
 //<CLEAR>ありがと、ウソでも嬉しいわ\nケンって　昔からやさしいのよね\nこわいくらい…<$00>
 <CLEAR>
-Thanks. Even if it's only a white lie, I'm happy to hear that.\n
-It's scary how good you've been to me all this time.
+Thanks. Even if it's only a white lie, I'm\n
+happy to hear that. It's scary how good\n
+you've been to me all this time.
 <$00>
 
 
 //<CLEAR>…ってほどでも　ないけどサ\n私、これでも　ケンには\nけっこう　感謝してるんだ<$00>
 <CLEAR>
-... Well, not that I get "scared". I might not show it outright,\n
-but I'm very grateful, Ken.
+... Well, not that I get "scared". I might not\n
+show it outright, but I'm very grateful,\n
+Ken.
 <$00>
 
 
@@ -1671,15 +1675,15 @@ Thank you, always.■
 
 //<CLEAR>あれ？　どうして　私が次は\n男に　生まれてこようと\n思ってること　バレたの？<$00>
 <CLEAR>
-Aww, how did you know I was thinking of being born as\n
-a man next time?
+Aww, how did you know I was thinking of\n
+being born as a man next time?
 <$00>
 
 
 //<CLEAR>じゃあサ、ケンが　女に\n生まれてくれば　いいのよ∥\nかわいがって　あげるわよ∥<$00>
 <CLEAR>
-Come on, you'll be awesome as a woman too! Daddy'll treat\n
-you juuust right.■
+Come on, you'll be awesome as a woman\n
+too! Daddy'll treat you juuust right.■
 <$00>
 
 
@@ -1703,27 +1707,29 @@ Sorry, I'm tired
 
 //<CLEAR>愛する人に　一緒に死んでって\n頼まれたとしたら　一緒に死ぬ？<$00>
 <CLEAR>
-If a loved on asked you to "die" with them, would you\n
-oblige?
+If a loved on asked you to "die" with them,\n
+would you oblige?
 <$00>
 
 
 //<CLEAR>じゃあ、愛する人に　ある誰かを\n殺してって　言われたら殺す？<$00>
 <CLEAR>
-Then, if a loved one asked you to "kill" for them, would you?
+Then, if a loved one asked you to "kill" for\n
+them, would you?
 <$00>
 
 
 //<CLEAR>殺してほしい　ある誰かが\nその愛する人自身でも　同じ？<$00>
 <CLEAR>
-Even if the target was the loved one in question?
+Even if the target was the loved one in\n
+question?
 <$00>
 
 
 //<CLEAR>普通の人って　だいたい\nケンと同じに　答えるもの？<$00>
 <CLEAR>
-Do you suppose most people would answer that the same\n
-way?
+Do you suppose most people would answer\n
+that the same way?
 <$00>
 
 
@@ -1735,8 +1741,8 @@ I see. That's relieving.
 
 //<CLEAR>あっ…　ごめんなさい\n別に大したことじゃ　ないんです\nおやすみなさい<$00>
 <CLEAR>
-Ah! Forgive me. It's not especially important. Have a good\n
-rest.
+Ah! Forgive me. It's not especially important.\n
+Have a good rest.
 <$00>
 
 
@@ -1754,15 +1760,15 @@ No
 
 //<CLEAR>もし　ケンが　エモリ先生と同じ\n立場だったとしたら…\nつまりね…<$00>
 <CLEAR>
-If you were in Dr. Emori's position, I wonder what you would\n
-do... 
+If you were in Dr. Emori's position, I\n
+wonder what you would do... 
 <$00>
 
 
 //<CLEAR>娘が自殺して、クローンが造れて\n復讐を　実行に移す力も\n充分に　あったとしてね…<$00>
 <CLEAR>
-Imagine your daughter committing suicide, and you had the\n
-power to exact revenge.
+Imagine your daughter committing suicide,\n
+and you had the power to exact revenge.
 <$00>
 
 
@@ -1816,8 +1822,9 @@ It's better not to go overboard.
 
 //<CLEAR>私たちって　死ぬまでに\nここから見える　星の数より\nたくさん　キスできるかなぁ？<$00>
 <CLEAR>
-Before we die, do you think we'll get to kiss more times than\n
-there are stars in the sky?
+Before we die, do you think we'll get to kiss\n
+more times than there are stars in the\n
+sky?
 <$00>
 
 
@@ -1835,13 +1842,15 @@ Hey, Ken...
 
 //<CLEAR>気持ちが　負けそうになった時は\nケンを見るの<$00>
 <CLEAR>
-When I feel like I can't go on, I look up to you.
+When I feel like I can't go on, I look up to\n
+you.
 <$00>
 
 
 //<CLEAR>だからケンは、いつも\n元気でいてくれないと　ダメよ！<$00>
 <CLEAR>
-That's why I need you strong and healthy at all times!
+That's why I need you strong and healthy\n
+at all times!
 <$00>
 
 

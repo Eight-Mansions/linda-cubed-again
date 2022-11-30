@@ -158,7 +158,8 @@ her antics!
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
 <CLEAR>
-The Animal Bible can't be booted here!
+The Animal Bible can't be booted\n
+here!
 <$12><$00>
 
 
@@ -170,28 +171,30 @@ Camp can't be set up here!
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
 <CLEAR>
-The Navi System(NaviS) can't be booted\n
+The Navi System(NaviS) can't be\n
+booted\n
 here!
 <$12><$00>
 
 
 //『ネオケニア脱出プロジェクトを\n＿我々レンジャー隊の　誇りにかけて\n＿必ず、成功させよう∥』<$12><$00>
-"THE NEO KENYAN MIGRATION PROJECT WILL SUCCEED! WE\n
-HAVE RANGER PRIDE ON OUR SIDE!"
+"THE NEO KENYAN MIGRATION PROJECT WILL\n
+SUCCEED! WE HAVE RANGER PRIDE ON OUR\n
+SIDE!"
 <$12><$00>
 
 
 //<CLEAR>わしの仕事はな　動物との戦いで\nボロボロに傷ついた　隊員の体に\nムチ打って　職場復帰させることじゃ<$12>\n<CLEAR>隊員のなり手は　極めて少ないからな\nそう簡単に　楽にはさせんよ\n退職金も　馬鹿にならんしな<$12><$00>
 <CLEAR>
-My job is to kick you animal-beaten rangers back\n
-into shape!
+My job is to kick you animal-beaten\n
+rangers back into shape!
 <$12>
 \n
 
 <CLEAR>
 This is a solid gig for me.\n
-There aren't too many rangers, and the retirement pay is\n
-incredible!
+There aren't too many rangers, and the\n
+retirement pay is incredible!
 <$12><$00>
 
 
@@ -234,19 +237,20 @@ Now, back to work with you!
 
 //<CLEAR>…若いから　しょうがないけどなぁ\n全部の戦いに　勝とうとするから\nこんなふうに　大ケガするんだぞ<$12>\n<CLEAR>とりあえず、負けなきゃ　よしとすりゃ\nずいぶんと　気が楽になるし\nわしの仕事も　減るってモンだ<$12><$00>
 <CLEAR>
-I know you're young, but striving to win every battle\n
-will only destroy you.
+I know you're young, but striving to win\n
+every battle will only destroy you.
 <$12>
 \n
 
 <CLEAR>
-Sometimes, you have to give up. You'll feel better, and I'll\n
-have less work to do.
+Sometimes, you have to give up. You'll feel\n
+better, and I'll have less work to do.
 <$12><$00>
 
 
 //隊員の業務報告を\n記録するのが　私のオシゴトよ\n<$01>記録する<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
-It's my job to document reports from all rangers.\n
+It's my job to document reports from all\n
+rangers.\n
 \n
 
 <$01>
@@ -265,31 +269,34 @@ Exit
 //<CLEAR>何かあったら　すぐ記録\nそれが基本よ！　忘れないでネ<$12><$00>
 <CLEAR>
 Remember the golden rule:\n
-Report often, because you never know what will happen!
+Report often, because you never know\n
+what will happen!
 <$12><$00>
 
 
 //<CLEAR>記録は　電話でもできるわよ\nでも　たまには私の顔を見に来てネ<$12>\n<CLEAR>内勤組ってさ　雑談するくらいしか\n楽しみがないのね<$12><$00>
 <CLEAR>
-You can always report by phone, but don't forget to\n
-visit every now and then.
+You can always report by phone, but\n
+don't forget to visit every now and then.
 <$12>
 \n
 
 <CLEAR>
-Office work is no fun without a little chit-chat.
+Office work is no fun without a little\n
+chit-chat.
 <$12><$00>
 
 
 //<CLEAR>ねぇ、ねぇ　噂なんだけど…<$12>\n<CLEAR>留守番コールの　データ管理をやってる\nミーナって、他人の留守番コールを\n勝手に　聴いちゃうらしいわよ<$12>\n<CLEAR>噂だけどね<$12><$00>
 <CLEAR>
-Hey, so like, I don't know if this is legit, but... 
+Hey, so like, I don't know if this is legit,\n
+but... 
 <$12>
 \n
 
 <CLEAR>
-Apparently, the voicemail operators can access anyone's\n
-personal line for you.
+Apparently, the voicemail operators can\n
+access anyone's personal line for you.
 <$12>
 \n
 
@@ -300,18 +307,21 @@ Again, it's only a rumor.
 
 //<CLEAR>ねぇ、ねぇ　噂なんだけど…<$12>\n<CLEAR>正面の銀行の彼女、医務室の\nトムおじさんと　できてるってサ\n親子ほど　年が違うのにねぇ！<$12>\n<CLEAR>噂だけどね<$12><$00>
 <CLEAR>
-Hey, so like, I don't know if this is legit, but... 
+Hey, so like, I don't know if this is legit,\n
+but... 
 <$12>
 \n
 
 <CLEAR>
-I heard a cute girl from the main bank hooked up with Dr.\n
-Tom from the medical bay.
+I heard a cute girl from the main bank\n
+hooked up with Dr. Tom from the medical\n
+bay.
 <$12>
 \n
 
 <CLEAR>
-He's old enough to be her dad, for crying out loud!
+He's old enough to be her dad, for\n
+crying out loud!
 <$12>
 \n
 
@@ -322,13 +332,14 @@ Again, it's only a rumor.
 
 //<CLEAR>ねぇ、ねぇ　噂なんだけど…<$12>\n<CLEAR>隊長の秘書の　エミリってサ\n今年だけでも　６回も男を替えた\nそうなのよ！　それも全員、年下∥<$12>\n<CLEAR>噂だけどね<$12><$00>
 <CLEAR>
-Hey, so like, I don't know if this is legit, but... 
+Hey, so like, I don't know if this is legit,\n
+but... 
 <$12>
 \n
 
 <CLEAR>
-The captain's secretary, Emily, went through 6 younger guys\n
-this year alone!
+The captain's secretary, Emily, went\n
+through 6 younger guys this year alone!
 <$12>
 \n
 
@@ -339,13 +350,14 @@ Again, it's only a rumor.
 
 //<CLEAR>ねぇ、ねぇ　噂なんだけど…<$12>\n<CLEAR>地下の留置場の　ケイトなんだけどサ、\n彼女、ムシの居所の悪い日は　容疑者の\n食事に　いろいろ混ぜちゃうそうよ<$12>\n<CLEAR>噂だけどね<$12><$00>
 <CLEAR>
-Hey, so like, I don't know if this is legit, but... 
+Hey, so like, I don't know if this is legit,\n
+but... 
 <$12>
 \n
 
 <CLEAR>
-Kate, in the jailroom, mixes weird shit into the inmates' food\n
-when she's moody. 
+Kate, in the jailroom, mixes weird shit into\n
+the inmates' food when she's moody. 
 <$12>
 \n
 
@@ -356,19 +368,21 @@ Again, it's only a rumor.
 
 //<CLEAR>ねぇ、ねぇ　噂なんだけど…<$12>\n<CLEAR>隊長ってば、\n近頃　どっかの未亡人と\nイイ仲なんだって∥<$12>\n<CLEAR>そのご夫人の　息子が\n留守のときは、昼間から\n入りびたりみたいよ<$12>\n<CLEAR>噂だけどね<$12><$00>
 <CLEAR>
-Hey, so like, I don't know if this is legit, but... 
+Hey, so like, I don't know if this is legit,\n
+but... 
 <$12>
 \n
 
 <CLEAR>
-I hear good ol' Captain Ben's been hooking up with a widow\n
-now.
+I hear good ol' Captain Ben's been\n
+hooking up with a widow now.
 <$12>
 \n
 
 <CLEAR>
-The word is, her son's away from home all the time, so he\n
-joins her for "banana meat pie".
+The word is, her son's away from home all\n
+the time, so he joins her for "banana\n
+meat pie".
 <$12>
 \n
 
@@ -385,75 +399,80 @@ Hear any rumors lately?
 
 
 //電話のメニューの「留守番コール」は\n個人あての　電話が記録されるのよ<$12>\n<CLEAR>町の入口には　必ず電話があるから\nどうしていいか　わかんなくなったら\nとりあえず　電話してみることね<$12>\n<CLEAR>隊員はタダだから　かけ放題よ<$12><$00>
-Access your voicemail via pay phone to hear all the calls you\n
-missed while on the hunt.
+Access your voicemail via pay phone to\n
+hear all the calls you missed while on the\n
+hunt.
 <$12>
 \n
 
 <CLEAR>
-There's a pay phone in every gate leading in and out of\n
-towns, right by the door.
+There's a pay phone in every gate leading\n
+in and out of towns, right by the door.
 <$12>
 \n
 
 <CLEAR>
 You should use it!\n
-Rangers get free service, so we can call in as often as we\n
-like!
+Rangers get free service, so we can call in\n
+as often as we like!
 <$12><$00>
 
 
 //<CLEAR>レンジャー隊の給料は　年４回\n季節ごとに　銀行に振り込まれます\nもちろん　あなたの働き次第で昇給∥<$12>\n<CLEAR>…と言っても　しょせんは宮仕えの\nサラリーマンの給料ですからね\n副業をお持ちの方も　多いようですね<$12><$00>
 <CLEAR>
-Rangers are paid 4 times a year, once per season via direct\n
-deposit with the bank.
+Rangers are paid 4 times a year, once per\n
+season via direct deposit with the bank.
 <$12>
 \n
 
 <CLEAR>
-..That might explain why so many rangers take up office\n
-work and side jobs inbetween.
+..That might explain why so many rangers\n
+take up office work and side jobs\n
+inbetween.
 <$12><$00>
 
 
 //ケン、双子の弟が　見つかったんだって！\nそれに　財産家で独身らしいじゃない￠\nこんど紹介してよね<$12><$00>
-I heard your long lost brother's a wealthy bachelor.\n
-You better introduce me, m'kay?
+I heard your long lost brother's a\n
+wealthy bachelor. You better introduce\n
+me, m'kay?
 <$12><$00>
 
 
 //最近、あなたあての電話　多いみたいね\n１本の電話が　人生を変えるなんて\nドラマも　たまにあるから　要注意ね<$12><$00>
-It's easy to tune out when the phone rings, but one call\n
-can change your life!
+It's easy to tune out when the phone rings,\n
+but one call can change your life!
 <$12><$00>
 
 
 //きっと　俺、もう死ぬまで\n二度と見ることは　ないんだろな…<$12>\n<CLEAR>本当にバナナの皮で　ころぶ奴なんて<$12><$00>
-You really slipped on a banana peel, didn'tcha... 
+You really slipped on a banana peel,\n
+didn'tcha... 
 <$12>
 \n
 
 <CLEAR>
-Bet I'll never see something so stupid again 'til the day I die.
+Bet I'll never see something so stupid again\n
+'til the day I die.
 <$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53>ケンは　バナナの皮を踏んづけて\n最悪の角度で　ころんだ∥<$12>\n<CLEAR><$19><$31><$15><$53>薄れゆく意識の中で　リンダの声と\n教会の鐘の音を　聞いた気がした…<$00>
 <CLEAR><$19><$31><$15><$53>
-Ken slipped on a banana peel, landing in the worst\n
-possible angle known to man.
+Ken slipped on a banana peel, landing in\n
+the worst possible angle known to man.
 <$12>
 \n
 
 <CLEAR><$19><$31><$15><$53>
-His world went black to the sounds of Linda's voice and\n
-distant church bells.
+His world went black to the sounds of\n
+Linda's voice and distant church bells.
 <$00>
 
 
 //人から　いろんな依頼を受けると\n期限や条件が　必ず覚えられなくなる\nノートに　整理しとくに限るゼ！<$12><$00>
-When accepting jobs from clients, it's important to keep\n
-your memo organized!
+When accepting jobs from clients, it's\n
+important to keep your memo organized!
 <$12><$00>
 
 
@@ -503,7 +522,8 @@ her antics!
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
 <CLEAR>
-The Animal Bible can't be booted here!
+The Animal Bible can't be booted\n
+here!
 <$12><$00>
 
 
@@ -515,7 +535,8 @@ Camp can't be set up here!
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
 <CLEAR>
-The Navi System(NaviS) can't be booted\n
+The Navi System(NaviS) can't be\n
+booted\n
 here!
 <$12><$00>
 
@@ -534,31 +555,35 @@ The captain's waiting in the briefing room!
 
 //やっぱり噂通り、ケンが箱船に乗るのね\nこれで「遅刻王」の汚名も返上∥\nさすが　前隊長の息子だわ<$12>\n<CLEAR>応援してるわよ\nリンダに　よろしくね！<$12><$00>
 "Sir Lates-alot"? A pilot?\n
-You're as jynxed as your father, rest Captain Gene's soul.
+You're as jynxed as your father, rest\n
+Captain Gene's soul.
 <$12>
 \n
 
 <CLEAR>
-But that's why I'll be wishing you good luck all the way.\n
+But that's why I'll be wishing you good\n
+luck all the way.\n
 Send my love to Linda too!
 <$12><$00>
 
 
 //あら、ケン￠　足の具合は　どう？\nあまり　リンダに迷惑かけないように\nがんばりなさいね！<$12><$00>
-Are your legs back to their old pace? Try not to make\n
-Linda worry until you recover.
+Are your legs back to their old pace?\n
+Try not to make Linda worry until you\n
+recover.
 <$12><$00>
 
 
 //ねぇ　あなたたちから　隊長に\n安物の葉巻を　やめるように\n言ってくれないかしら？<$12>\n<CLEAR>本人、カッコイイつもりらしいんだけど\nとにかく　くさいのよねぇ<$12><$00>
-Someone should tell the captain to stop smoking those cheap\n
-cigars.
+Someone should tell the captain to stop\n
+smoking those cheap cigars.
 <$12>
 \n
 
 <CLEAR>
-He probably thinks he's being cool by smoking\n
-those, but for the people around him, it plain stinks.
+He probably thinks he's being cool\n
+by smoking those, but for the people\n
+around him, it plain stinks.
 <$12><$00>
 
 
@@ -571,7 +596,8 @@ May you be happy forever!
 //<CLEAR>全種類、箱船に積み込んだって∥\n大したモンだよ∥　お前たち∥\n本当によくやった∥<$00>
 <CLEAR>
 Well, I'll be. You got every dang species\n
-loaded onto the Astro Ark! Impeccable work,\n
+loaded onto the Astro Ark! Impeccable\n
+work,\n
 you two!
 <$00>
 
@@ -611,14 +637,14 @@ Way to go, Ken! Congrats on your recovery!
 
 //<CLEAR>あのマヌケな　転倒事故以来、\nおまえを「バナナ少年」と呼ぶ\n連中も　多いが…<$12>\n<CLEAR>これからの活躍で　なんとか\nその汚名を　返上しろよ∥<$12><$00>
 <CLEAR>
-After your little slip up, everyone's taken to calling you\n
-"Bananaman".
+After your little slip up, everyone's taken\n
+to calling you "Bananaman".
 <$12>
 \n
 
 <CLEAR>
-Do your best out on the field, and avenge your easily\n
-bruised pride!
+Do your best out on the field, and\n
+avenge your easily bruised pride!
 <$12><$00>
 
 
@@ -628,14 +654,14 @@ Do your best, Bananaman!
 
 
 //おまえたちのことを　この星で\n一番の暇人で　物好きと\n思い込んでる者も　多い<$12>\n<CLEAR>その中には　勝手な頼みごとを\n押しつけてくる者も　いるだろう\nそれに　振り回されるなよ！<$12><$00>
-A lot of people take you for the most easy-going duo on the\n
-planet.
+A lot of people take you for the most\n
+easy-going duo on the planet.
 <$12>
 \n
 
 <CLEAR>
-Don't let them veer you off-course with all their selfish little\n
-requests!
+Don't let them veer you off-course with all\n
+their selfish little requests!
 <$12><$00>
 
 
@@ -645,8 +671,9 @@ Keep yourself organized!
 \n
 
 <CLEAR>
-Dedicate a notebook to all your information. Otherwise,\n
-you'll have a terrible time catching over 
+Dedicate a notebook to all your\n
+information. Otherwise, you'll have a\n
+terrible time catching over 
 <$06>
 100
 <$04>
@@ -655,35 +682,40 @@ you'll have a terrible time catching over
 
 
 //動物の集め方に　正解などない！\nいや、たくさんの正解があると\n言った方が　いいな<$12>\n<CLEAR>だから目標は　自分で決めろ∥\nわかったな∥<$12><$00>
-There's no "one way" to hunting. If there's more than one\n
-way to skin a cat, there's more than one way to catch one! 
+There's no "one way" to hunting. If there's\n
+more than one way to skin a cat, there's\n
+more than one way to catch one! 
 <$12>
 \n
 
 <CLEAR>
-Find out what works for you and set your goals from there!
+Find out what works for you and set your\n
+goals from there!
 <$12><$00>
 
 
 //このネオケニアの　動物を\n全部、集めたヤツは　いまだ、\n誰も　いない∥<$12>\n<CLEAR>だからおまえに　その方法を\n教えてくれる者も　いない\nおまえ自身のやり方　で行け∥<$12><$00>
-No hunter's ever collected all of the animals in Neo Kenya.
+No hunter's ever collected all of the animals\n
+in Neo Kenya.
 <$12>
 \n
 
 <CLEAR>
-That means there's no one way to hunt! Get out there and\n
-capture animals your way!
+That means there's no one way to hunt! Get\n
+out there and capture animals your way!
 <$12><$00>
 
 
 //ミームは　どれくらいの間、\n旅行してるつもりなんだろ？<$12>\n<CLEAR>ミームの　バナナミートパイが\nないと、どうも調子がでないんだ\n早く　戻って来て欲しいゼ<$12><$00>
-How long will Meme be out on that trip of hers?
+How long will Meme be out on that trip of\n
+hers?
 <$12>
 \n
 
 <CLEAR>
-I can't live another day without her banana meat pie. I\n
-hope she returns soon.
+I can't live another day without her\n
+banana meat pie. I hope she returns\n
+soon.
 <$12><$00>
 
 
@@ -759,7 +791,8 @@ her antics!
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
 <CLEAR>
-The Animal Bible can't be booted here!
+The Animal Bible can't be booted\n
+here!
 <$12><$00>
 
 
@@ -771,7 +804,8 @@ Camp can't be set up here!
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
 <CLEAR>
-The Navi System(NaviS) can't be booted\n
+The Navi System(NaviS) can't be\n
+booted\n
 here!
 <$12><$00>
 
@@ -789,44 +823,49 @@ Ken used the Basement Key.
 
 
 //チンケな密猟者を　何匹ここへ\n放り込んだって　焼け石に水だわね<$12>\n<CLEAR>いっそ　捕まえた密猟者は　裸にむいて\n辺境の荒地に　置き去りにしてさ…<$12>\n<CLEAR>無事帰って来たら　無罪とかのほうが\n簡単だし、少しは動物たちのためにも\nなると　私は思うんだけどなぁ<$12><$00>
-No matter how many poachers we arrest, it's only a drop in\n
-the bucket for fixing the poaching problem.
+No matter how many poachers we arrest,\n
+it's only a drop in the bucket for fixing\n
+the poaching problem.
 <$12>
 \n
 
 <CLEAR>
-I say, strip all poachers naked and leave them out in a\n
-desert wasteland.
+I say, strip all poachers naked and leave\n
+them out in a desert wasteland.
 <$12>
 \n
 
 <CLEAR>
-If they make it back alive, they can go. If they don't, it\n
-means the animals got their revenge.
+If they make it back alive, they can go.\n
+If they don't, it means the animals got their\n
+revenge.
 <$12><$00>
 
 
 //ケン、そこの倉庫のカギ　見なかった？\n誰かが　持ち出したままなのよね<$12>\n<CLEAR>まっ、どうせ　ガラクタが\n入ってるだけだから　開かなくたって\n困る人は　いないんだけどさ<$12><$00>
-Ken, have you seen the key to that storage room\n
-anywhere? Someone misplaced it.
+Ken, have you seen the key to that\n
+storage room anywhere? Someone misplaced\n
+it.
 <$12>
 \n
 
 <CLEAR>
-It's all junk, so no worries. I just hope no one has to get in\n
-there any time soon.
+It's all junk, so no worries. I just hope no\n
+one has to get in there any time soon.
 <$12><$00>
 
 
 //あんたの背中の　トランスカーゴだって\nアナビスの遺跡から　出てきた物を\n少し改造しただけって　聞いてるゼ∥<$12>\n<CLEAR>同じ墓泥棒なのに　あんたらは発掘で\n俺がやると　盗掘なのかよ￠<$12><$00>
-Even the trans-cargo unit on your back was looted from\n
-a temple of Annabis and slightly modified.
+Even the trans-cargo unit on your back\n
+was looted from a temple of Annabis and\n
+slightly modified.
 <$12>
 \n
 
 <CLEAR>
-When you guys do it, it's called "excavation" but when I\n
-do it, it's "grave robbing"? Why?! We're doing the same\n
+When you guys do it, it's called "excavation"\n
+but when I do it, it's "grave\n
+robbing"? Why?! We're doing the same\n
 thing!
 <$12><$00>
 
@@ -866,20 +905,23 @@ Ken took\n
 
 
 //あっ！あんた、お願いだ！\n俺にかけた催眠術を　解いてくれよ\nあぁ　目が回る～　気持ち悪いよぉ～<$12><$00>
-What's are the keywords to break the hypnosis～?! Stop\n
-this spinning before I get sick～!
+What's are the keywords to break the\n
+hypnosis～?! Stop this spinning before I\n
+get sick～!
 <$12><$00>
 
 
 //あんたたちが　捕まえてきた男…\nほら「ビトレイ」とかいう　誘拐犯、\nあれから　ずっとクルクル回ってるの<$12>\n<CLEAR>連邦の捜査官が　引き取りに来るのと\n衰弱してくたばるのと　どっちが早いか\nみんなで賭けてんだけど　どう思う？<$12><$00>
-That kidnapper you caught, Betray...  He's been spinning\n
-non-stop ever since his arrest.
+That kidnapper you caught, Betray...  He's\n
+been spinning non-stop ever since his\n
+arrest.
 <$12>
 \n
 
 <CLEAR>
-We're placing bets on whether federal police will pick him\n
-up in time before he pukes. What says you?
+We're placing bets on whether federal\n
+police will pick him up in time before he\n
+pukes. What says you?
 <$12><$00>
 
 
@@ -903,7 +945,8 @@ up in time before he pukes. What says you?
 
 //<CLEAR>あら…　貴重なご意見アリガト！\n参考にさせて　もらうわ<$12><$00>
 <CLEAR>
-Ah-ha...  Thanks for your input! I'll add it to the pool.
+Ah-ha...  Thanks for your input! I'll add it\n
+to the pool.
 <$12><$00>
 
 
@@ -953,7 +996,8 @@ her antics!
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
 <CLEAR>
-The Animal Bible can't be booted here!
+The Animal Bible can't be booted\n
+here!
 <$12><$00>
 
 
@@ -965,7 +1009,8 @@ Camp can't be set up here!
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
 <CLEAR>
-The Navi System(NaviS) can't be booted\n
+The Navi System(NaviS) can't be\n
+booted\n
 here!
 <$12><$00>
 
@@ -978,13 +1023,15 @@ C199%d.TIM<$00>
 
 //ケン！\n下に、おまえの大事な　お姫様が\nおみえに　なってるゼ<$12><$00>
 Congrats, Ken!\n
-Your "lovely" princess awaits you downstairs!
+Your "lovely" princess awaits you\n
+downstairs!
 <$12><$00>
 
 
 //○ボタンだよ！　○ボタン∥\n右端の　赤いヤツだ\nいい加減に　覚えなよ<$12><$00>
 C'mon, guys, the ○ button!\n
-In case you forgot, that's the red one on the right!
+In case you forgot, that's the red one on\n
+the right!
 <$12><$00>
 
 
@@ -1082,14 +1129,16 @@ Nevermind!
 //<CLEAR>そうか…　残念だ、\nでも　恥じることじゃないぞ\n大切な問題だからな…<$00>
 <CLEAR>
 I see...  That's too bad.\n
-But it's a huge decision, so I don't blame you.
+But it's a huge decision, so I don't blame\n
+you.
 <$00>
 
 
 //<CLEAR>さあ　もう一度だ！\n我と思わん者は\n手元の○ボタンを　押してくれ<$08>-4！<$08>-4<$0F><$00>
 <CLEAR>
 Okay, men. One more time!\n
-If you're man enough, press the ○ button!
+If you're man enough, press the ○\n
+button!
 <$08>
 -4！
 <$08>
@@ -1108,7 +1157,8 @@ of the Astro Ark!
 //<CLEAR>みんなも　自分の業務の\n妨げにならない範囲で\nケンに　協力すること∥<$00>
 <CLEAR>
 Assist him where you can,\n
-but otherwise leave him be to do his job.
+but otherwise leave him be to do his\n
+job.
 <$00>
 
 
@@ -1128,15 +1178,18 @@ There's no crying for a do-over.
 
 //<CLEAR>ケン！　ミームには　ちゃんと\n自分で報告するんだぞ！\nいいな！<$12><$00>
 <CLEAR>
-You'd better see Meme and tell her what you\n
+You'd better see Meme and tell her what\n
+you\n
 did, all right? Now git!
 <$12><$00>
 
 
 //<CLEAR>さあ、気が変わらないうちに\n箱船に行って　乗員の登録を\n済ましちまいな<$00>
 <CLEAR>
-Your first order is to board the Astro Ark\n
-and register before you change your mind.
+Your first order is to board the Astro\n
+Ark\n
+and register before you change your\n
+mind.
 <$00>
 
 
@@ -1162,8 +1215,8 @@ I didn't realize you already had one.
 
 //<CLEAR>食べ終ったら　皮はくずかごにな\nそこいらに捨てると　ころぶ馬鹿が\n出ないとも　限らねぇからな<$12><$00>
 <CLEAR>
-When you're done, toss that peel in the trash. We don't want\n
-any slip-ups.
+When you're done, toss that peel in the\n
+trash. We don't want any slip-ups.
 <$12><$00>
 
 
@@ -1262,7 +1315,8 @@ Arena Pay
 <CLEAR>
 Serving Neo Kenya 
 <$1E>
- years strong, this is Neo Kenya Bank!
+ years strong, this is\n
+Neo Kenya Bank!
 <$00>
 
 
@@ -1297,7 +1351,8 @@ Loan
 <$01>
 Repay
 <$0E>
- / 
+\n
+/ 
 <$01>
 Statement
 <$0E>
@@ -1314,8 +1369,8 @@ Exit
 
 //<CLEAR>お金が心細いときは　使い道のない\n半端な動物を　処分するか、当行の\n安心低利の融資を　ご利用ください<$12><$00>
 <CLEAR>
-If you need extra money, consider selling animals or taking\n
-low-interest loans.
+If you need extra money, consider selling\n
+animals or taking low-interest loans.
 <$12><$00>
 
 
@@ -1339,8 +1394,8 @@ Thank you for your loyal patronage.
 
 //<CLEAR>現在、お客様の口座は　勝手ながら\n取引きを　停止させていただいております\nお早目の返済を　お願い致します<$12><$00>
 <CLEAR>
-Your account is currently suspended until outstanding\n
-balances are repaid.
+Your account is currently suspended until\n
+outstanding balances are repaid.
 <$12><$00>
 
 
@@ -1381,8 +1436,8 @@ Balance:
 
 //\nそれでも　お引出しになりたい？？\nそれは　強盗って言うんですよ<$12><$00>
 \n
-Withdrawing more than that? That's what we call\n
-"robbery".
+Withdrawing more than that? That's what\n
+we call "robbery".
 <$12><$00>
 
 
@@ -1439,8 +1494,9 @@ Additional loans cannot be taken.
 
 //<CLEAR>死神衝突まで　１年を切りましたので\n融資は　終了させていただきました\nご了承ください<$12><$00>
 <CLEAR>
-With less than a year before the Grim Reaper's impact, all\n
-loans have been terminated.
+With less than a year before the Grim\n
+Reaper's impact, all loans have been\n
+terminated.
 <$12><$00>
 
 
@@ -1649,7 +1705,8 @@ Formatting complete!
 <$02>
 12Minimum of 2 blocks required!
 <$02>
-47Insert a new card or\n
+47Insert a\n
+new card or\n
 
 <$02>
 40remove excess storage\n
@@ -1689,7 +1746,8 @@ Minimum of 2 blocks required!
 
 //<CLEAR>ハロー∥　コチラ、テレホンサービス\nドノ　メニュー　ニ\nアクセス　シマスカ？<$12><$00>
 <CLEAR>
-YOU HAVE REACHED THE TELEPHONE SERVICE!\n
+YOU HAVE REACHED THE TELEPHONE\n
+SERVICE!\n
 HOW CAN WE HELP YOU?
 <$12><$00>
 
@@ -1984,7 +2042,8 @@ For
 ￥, dreams CAN come true!\n
 Join our 
 <$1D>
- Lottery for a chance at 
+ Lottery for a chance at\n
+
 <$06>
 100000
 <$04>
@@ -2133,7 +2192,8 @@ Do not remove the card\n
 <$02>
 77or turn off the console.
 <$02>
-21Do not interrupt.
+21Do not\n
+interrupt.
 <$00>
 
 
@@ -2380,7 +2440,8 @@ Sniff... sniff, sniff?
 \n
 
 <CLEAR><$1D>
- scent's filling the air. You know, I could go for some 
+ scent's filling the air. You know, I could go\n
+for some 
 <$1D>
  !
 <$12><$00>
@@ -2789,8 +2850,8 @@ Find Angela
 
 //<CLEAR>カラゴラムのファングを倒し、その証拠を\nハーディアホテルのスペクターに渡す<$00>
 <CLEAR>
-Defeat Fang in Karhagolem. Present proof to Spectre in\n
-Hardia Hotel.
+Defeat Fang in Karhagolem. Present proof\n
+to Spectre in Hardia Hotel.
 <$00>
 
 
@@ -2798,8 +2859,9 @@ Hardia Hotel.
 <CLEAR>
 Process meat from 
 <$1B>
-chickens in Marblopolis.Give them to\n
-Prof. Panheim in Hospico.
+chickens in\n
+Marblopolis.Give them to Prof. Panheim in\n
+Hospico.
 <$00>
 
 
@@ -2807,8 +2869,8 @@ Prof. Panheim in Hospico.
 <CLEAR>
 Find up to 3 
 <$1B>
-Turtle Eggs. Give them to Louis at the Battle\n
-Park BB Ranch.
+Turtle Eggs. Give them to Louis\n
+at the Battle Park BB Ranch.
 <$00>
 
 
@@ -2816,15 +2878,16 @@ Park BB Ranch.
 <CLEAR>
 Acquire 2 
 <$1B>
-Pteranodon Eggs. Give them to Bronco at the\n
-Battle Park BB Ranch.
+Pteranodon Eggs. Give them to\n
+Bronco at the Battle Park BB Ranch.
 <$00>
 
 
 //<CLEAR>「太郎の首輪」を見つけだし、ドギファの\nナターシャか、オーマン家３兄弟に渡す<$00>
 <CLEAR>
-Locate Taro's Collar. Give it to Natasha or one of the 3\n
-Aumann children in Dogyf Heights.
+Locate Taro's Collar. Give it to Natasha or\n
+one of the 3 Aumann children in Dogyf\n
+Heights.
 <$00>
 
 
@@ -2842,7 +2905,8 @@ another
 <CLEAR>
 Deposit 
 <$1D>
-￥ in an account to Yamada in G Factory.
+￥ in an account to Yamada in G\n
+Factory.
 <$00>
 
 
@@ -2850,22 +2914,22 @@ Deposit
 <CLEAR>
 Find the 
 <$1B>
-Tiger Claw, Koshikata's village symbol. Return it\n
-to Poliska.
+Tiger Claw, Koshikata's village\n
+symbol. Return it to Poliska.
 <$00>
 
 
 //<CLEAR>ソフィアのために、エターナの桜の木を\nどうにかして咲かせる<$00>
 <CLEAR>
-Find out how to revive the sakura trees in Eterna for\n
-Sophia.
+Find out how to revive the sakura trees in\n
+Eterna for Sophia.
 <$00>
 
 
 //<CLEAR>溶岩の中で育った動物の熱いウンチを\nエターナのソフィアに渡す<$00>
 <CLEAR>
-Deliver Hot Dung from a lava-dwelling creature to Sophia in\n
-Eterna.
+Deliver Hot Dung from a lava-dwelling\n
+creature to Sophia in Eterna.
 <$00>
 
 
@@ -2881,8 +2945,8 @@ Take the Floppy Disc and
 <$06>
 10, 000
 <$04>
-￥ to the G Factory gate.\n
-Answer the payphone.
+￥ to the\n
+G Factory gate. Answer the payphone.
 <$00>
 
 
@@ -2892,8 +2956,8 @@ Take the Floppy Disc and
 <$06>
 10, 000
 <$04>
-￥ to the Paraside gate.\n
-Answer the payphone.
+￥ to the\n
+Paraside gate. Answer the payphone.
 <$00>
 
 
@@ -2903,21 +2967,24 @@ Take the Floppy Disc and
 <$06>
 10, 000
 <$04>
-￥ to Galax.
+￥ to\n
+Galax.
 <$00>
 
 
 //<CLEAR>ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す<$00>
 <CLEAR>
-Pick bloodberries in Flora Jam. Take them to Kevin and\n
-Nightshade in Rose Garden.
+Pick bloodberries in Flora Jam. Take\n
+them to Kevin and Nightshade in Rose\n
+Garden.
 <$00>
 
 
 //<CLEAR>パラサイドの酒場にいるアンジェラを\n確認して、リナバレーのマリオに連絡する<$00>
 <CLEAR>
-Look for Angela at the Paraside bar. Report your findings\n
-to Mario in Spurr Valley.
+Look for Angela at the Paraside bar.\n
+Report your findings to Mario in Spurr\n
+Valley.
 <$00>
 
 
@@ -2929,19 +2996,22 @@ Look for Angela at the OzPort Hotel bar.
 
 //<CLEAR>アンジェラを確認するために、\n西エリアのしけた町のホテルに行く<$00>
 <CLEAR>
-Look for Angela at a hotel bar somewhere in West Area.
+Look for Angela at a hotel bar\n
+somewhere in West Area.
 <$00>
 
 
 //<CLEAR>アンジェラを確認するために、\nドギファの舞台に行く<$00>
 <CLEAR>
-Look for Angela at the theater stage in Dogyf Heights.
+Look for Angela at the theater stage in\n
+Dogyf Heights.
 <$00>
 
 
 //<CLEAR>リナバレーのマリオの母、\nアンジェラを追ってオズサットへ行く<$00>
 <CLEAR>
-Chase Angela to OzSat! Mario will follow from Spurr Valley.
+Chase Angela to OzSat! Mario will follow from\n
+Spurr Valley.
 <$00>
 
 
@@ -3044,7 +3114,8 @@ Uhm...  I've got a favor to ask you.
 \n
 
 <CLEAR>
-If you can help, it'd be swell if you came up to see me.
+If you can help, it'd be swell if you came\n
+up to see me.
 <$12>
 \n
 
@@ -3055,33 +3126,35 @@ Uhm...  Do come, please. I'll be waiting.
 
 //<CLEAR>もしもし…　グリーン製薬で\n開発部長を　やっていた\nパンハイムという者だがね<$12>\n<CLEAR>君たちの評判を　伝え聞いてね…\nワラにもすがる思いで　電話したんだよ\nメモの用意は　いいかね？<$12><$00>
 <CLEAR>
-Greetings. This is Green Pharmaceuticals' Head of\n
-Development, Panheim.
+Greetings. This is Green Pharmaceuticals'\n
+Head of Development, Panheim.
 <$12>
 \n
 
 <CLEAR>
-Your reputation precedes you, and I need your help. I hope\n
-you're taking notes.
+Your reputation precedes you, and I need\n
+your help. I hope you're taking notes.
 <$12><$00>
 
 
 //<CLEAR>Ｗ<$06>-17<$04>エリアに　採石場がある\n数年前、マーブルポリスという遺跡が\n発見されて　話題になった場所だ<$12>\n<CLEAR>最近、その遺跡の神殿の庭園部に\n<$1B>ニワトリが　突然、大量発生してね\nそいつの肉が　２つほど必要なのだ<$12>\n<CLEAR>庭の、２羽の、<$1B>ニワトリの肉だ…<$12><$00>
 <CLEAR>
-Some years ago, an expedition was held in W
+Some years ago, an expedition was held in\n
+W
 <$06>
 -17
 <$04>
-. A temple,\n
-Marblopolis, was hotly discovered.
+. A temple, Marblopolis, was hotly\n
+discovered.
 <$12>
 \n
 
 <CLEAR>
-Recently, that temple's garden was overrun by wild\n
-
+Recently, that temple's garden was overrun\n
+by wild 
 <$1B>
-chickens, and I need 2 or so's worth of meat.
+chickens, and I need 2 or so's\n
+worth of meat.
 <$12>
 \n
 
@@ -3107,8 +3180,8 @@ chicken meat.
 \n
 
 <CLEAR>
-I won't say no to 3, but I figure 2 is easy enough to\n
-remember.
+I won't say no to 3, but I figure 2 is\n
+easy enough to remember.
 <$12><$00>
 
 
@@ -3119,37 +3192,39 @@ remember.
 \n
 
 <CLEAR>
-If you must know, my wife is ill. With 
+If you must know, my wife is ill. With\n
+
 <$1B>
-chicken, I hope to\n
-concoct a viable cure for her.
+chicken, I hope to concoct a viable cure\n
+for her.
 <$12>
 \n
 
 <CLEAR>
-My research lab is in Hospico. Bring the 
+My research lab is in Hospico. Bring the\n
+
 <$1B>
-chicken there,\n
-not to Eterna. Am I clear?
+chicken there, not to Eterna. Am I clear?
 <$12><$00>
 
 
 //<CLEAR>あたしゃ、バトルパークで養殖牧場を\n経営しとる　ブロンコの妻で\nルイーズというだがね<$12>\n<CLEAR>あんた、動物のことに　えらい\n詳しいそうだがね！　その腕を見込んで\nひとつ、頼まれてくれんか<$12>\n<CLEAR>病床の亭主の　最後の望みを\nかなえてやりたい　けなげな妻の願い、\nまさか　断わったりできんよねぇ！<$12>\n<CLEAR>よろしく頼んますよ！\n待っとるでね<$12><$00>
 <CLEAR>
-Hello? I'm Louise, My husband, Bronco, is the head of BB\n
-Ranch, Battle Park.
+Hello? I'm Louise, My husband, Bronco, is\n
+the head of BB Ranch, Battle Park.
 <$12>
 \n
 
 <CLEAR>
-I've heard of your work, and wish to see that skill for\n
-myself, if you're free.
+I've heard of your work, and wish to see\n
+that skill for myself, if you're free.
 <$12>
 \n
 
 <CLEAR>
-My husband is on his deathbed. As his wife, I can't let\n
-his dying wish pass him by.
+My husband is on his deathbed. As his\n
+wife, I can't let his dying wish pass him\n
+by.
 <$12>
 \n
 
@@ -3160,75 +3235,78 @@ I look forward to hearing from you!
 
 //<CLEAR>こんにちは！　私、ナターシャ\nまだ　駆け出しなんだけどさ\nこれでも一応、一級弁護士さんよ<$12>\n<CLEAR>ちょいと面倒なことに　なっていてね\nあなたたちに　手伝って欲しいことが\nあるのよ！　ギャラははずむわよ！<$12><$00>
 <CLEAR>
-Hello! I'm Natasha, a newbie lawyer who still knows her\n
-stuff. Pleased to meet you!
+Hello! I'm Natasha, a newbie lawyer who\n
+still knows her stuff. Pleased to meet you!
 <$12>
 \n
 
 <CLEAR>
-I've hit a snag on the job and could use your help. I'll pay\n
-you, obviously!
+I've hit a snag on the job and could use\n
+your help. I'll pay you, obviously!
 <$12><$00>
 
 
 //<CLEAR>あなたたちに　ピッタンコの仕事だと\n思うんだ！　興味があったら\nドギファまで　出向いてくれる？<$12>\n<CLEAR>闘犬場の胴元…じゃなくて\n社長の家の　一番、奥にいるわ！\nおいしいアルバイトよ　必ず来てね！<$12>\n<CLEAR>あっ、それから　ここの家の子供…\n子供といっても　大人なんだけどさ\nろくなモンじゃないから　注意してね<$12><$00>
 <CLEAR>
-You two sounded perfect for the job. If you're in, meet\n
-me in Dogyf Heights.
+You two sounded perfect for the job. If\n
+you're in, meet me in Dogyf Heights.
 <$12>
 \n
 
 <CLEAR>
-My office is in the home of the late DGF Dojo proprietor. Real\n
-fancy!
+My office is in the home of the late DGF\n
+Dojo proprietor. Real fancy!
 <$12>
 \n
 
 <CLEAR>
-Oh, but just a heads up. His three adult children? All\n
-snooty pains in the ass.
+Oh, but just a heads up. His three adult\n
+children? All snooty pains in the ass.
 <$12><$00>
 
 
 //<CLEAR>いつも　お世話になっております\n私、ネオケニア銀行Ｇファクトリー支店\nヤマダという者です<$12>\n<CLEAR>ただいま　ご預金のお客様に\nもれなく粗品を\n進呈中でございます<$12>\n<CLEAR>ご預金の予定が　ございましたら\nぜひとも　Ｇファクトリー支店\nヤマダまで　お申しつけください<$12>\n<CLEAR>バトルパーク、Ｇファクトリー間は\nバードラインで　<$06>80<$04>￥∥\nぜひ一度　ご来店くださいませ<$12><$00>
 <CLEAR>
-Hello, faithful patron! This is Yamada, from Neo Kenya Bank's\n
-G Factory outlet.
+Hello, faithful patron! This is Yamada, from\n
+Neo Kenya Bank's G Factory outlet.
 <$12>
 \n
 
 <CLEAR>
-I'm calling to tell you we're offering great rewards to all\n
-who make a deposit!
+I'm calling to tell you we're offering great\n
+rewards to all who make a deposit!
 <$12>
 \n
 
 <CLEAR>
-If you'd like to make a deposit and see, come speak to me,\n
-Yamada, in G Factory.
+If you'd like to make a deposit and see,\n
+come speak to me, Yamada, in G Factory.
 <$12>
 \n
 
 <CLEAR>
-From Battle Park, the birdline to G Factory is only 
+From Battle Park, the birdline to G\n
+Factory is only 
 <$06>
 80
 <$04>
-￥!\n
-Hope to see you soon!
+￥! Hope to see you\n
+soon!
 <$12><$00>
 
 
 //<CLEAR>あんたを男と見込んで　ぜひとも\n力を貸して欲しいことが　ありましてな\nコシカタまで　来てくださらんか<$12>\n<CLEAR>申し遅れました…\n私は　コシカタの町長パトルカの\n父で　ポリスカといいます<$12>\n<CLEAR>どうか　よろしくお願いします\nゴホッ　ゴホッ…<$12><$00>
 <CLEAR>
-I've heard of your work, and could use your help. Can we\n
-meet in Koshikata, please?
+I've heard of your work, and could use\n
+your help. Can we meet in Koshikata,\n
+please?
 <$12>
 \n
 
 <CLEAR>
-Cough! Forgot to introduce myself. I'm Poliska, father of the\n
-Koshikata elder, Patrolka.
+Cough! Forgot to introduce myself. I'm\n
+Poliska, father of the Koshikata elder,\n
+Patrolka.
 <$12>
 \n
 
@@ -3239,20 +3317,20 @@ Do come if you can. Cough! Cough!
 
 //<CLEAR>私、ソフィア！\nエターナの　グリーン製薬の\n元の社長さんの屋敷って、わかるよね？<$12>\n<CLEAR>今は　私とおじいちゃんと\nパパとママの４人で　住んでいるの<$12>\n<CLEAR>おじいちゃんのことで　お兄ちゃんに\nお願いがあるの！\n中庭で待ってるから　きっと来てね<$12>\n<CLEAR>きっとだよ！<$12><$00>
 <CLEAR>
-I'm Sophia! Do you know the old Green mansion? It's this\n
-huge building in Eterna!
+I'm Sophia! Do you know the old Green\n
+mansion? It's this huge building in Eterna!
 <$12>
 \n
 
 <CLEAR>
-I live there with my grandpa, dad and mom now. Just the\n
-four of us!
+I live there with my grandpa, dad and mom\n
+now. Just the four of us!
 <$12>
 \n
 
 <CLEAR>
-Mister, I have a request regarding my grandpa. Meet me in\n
-the courtyard, okay?
+Mister, I have a request regarding my\n
+grandpa. Meet me in the courtyard, okay?
 <$12>
 \n
 
@@ -3283,7 +3361,8 @@ So, let the game begin!
 
 //<CLEAR>賞品は　俺の熱いキス１年分！<$00>
 <CLEAR>
-The prize is a year's dosage of kisses for me!
+The prize is a year's dosage of kisses for\n
+me!
 <$00>
 
 
@@ -3295,8 +3374,8 @@ The prize is a year's dosage of kisses for me!
 
 //<CLEAR>場所はミナゴの教会\nこの世で　たった二人っきりの\n兄弟の誘いだ、来てくれるよね<$00>
 <CLEAR>
-At last, I get to show off to my only brother in the whole,\n
-wide world!
+At last, I get to show off to my only\n
+brother in the whole, wide world!
 <$00>
 
 
@@ -3309,15 +3388,16 @@ Good ol' St. Nek!
 
 //<CLEAR>サチコのウエディングドレス、\n俺が見立ててやったんだゼ\nそれが　スゲーかわいいんだ<$00>
 <CLEAR>
-You've gotta see Sachiko's wedding dress! Finding "the one"\n
-took forever, but it was worth it!
+You've gotta see Sachiko's wedding dress!\n
+Finding "the one" took forever, but it\n
+was worth it!
 <$00>
 
 
 //<CLEAR>そしたらサチコの奴、\n俺がドレスを　買うたびに\nこう　言うのさ<$00>
 <CLEAR>
-And Sachiko, man! When we went to buy it, she said the\n
-darndest things.
+And Sachiko, man! When we went to buy\n
+it, she said the darndest things.
 <$00>
 
 
@@ -3348,8 +3428,8 @@ Captain MacDonald, speaking!
 \n
 
 <CLEAR>
-Wherever you are, once you get this call, get your ass to\n
-Hospico!
+Wherever you are, once you get this call,\n
+get your ass to Hospico!
 <$12>
 \n
 
@@ -3364,43 +3444,45 @@ She's...!
 \n
 
 <CLEAR>
-Just hurry to Hospico, got it? Nek should have a room. And\n
-one more thing... 
+Just hurry to Hospico, got it? Nek should\n
+have a room. And one more thing... 
 <$12>
 \n
 
 <CLEAR>
-No matter what, keep your head in the game. That's all I've\n
-got to say. Over!
+No matter what, keep your head in the\n
+game. That's all I've got to say. Over!
 <$12><$00>
 
 
 //俺、リナバレーの労務管理局で\n働いてる　マリオってんだ<$12>\n<CLEAR>こんなこと頼める義理は　ないんだけど\n俺のおふくろを　捜して欲しいんだよ<$12>\n<CLEAR>ガキの頃に　おふくろは死んだって\n聞かされてたんだけど　おやじのヤツ、\n死ぬ間際に　ゲロしやがってさ…<$12>\n<CLEAR>生きてるとわかると　無性に会いたくて\n何も手につかなくてさ…\nいい大人が　バカみたいだよなぁ<$12>\n<CLEAR>もしも　捜してくれる気があったら\n悪いけど　リナバレーまで来てくれよ<$12><$00>
-This is Mario. I work in Labor Management out in Spurr\n
-Valley.
+This is Mario. I work in Labor\n
+Management out in Spurr Valley.
 <$12>
 \n
 
 <CLEAR>
-I hate to bother you with this, but I need help finding\n
-my mother.
+I hate to bother you with this, but I\n
+need help finding my mother.
 <$12>
 \n
 
 <CLEAR>
-Growing up, I was told she died. Then, on my father's\n
-deathbed, he told me otherwise.
+Growing up, I was told she died. Then, on\n
+my father's deathbed, he told me\n
+otherwise.
 <$12>
 \n
 
 <CLEAR>
-I want to meet and get to know her, but I don't know\n
-where to start. I'm mortified.
+I want to meet and get to know her, but\n
+I don't know where to start. I'm mortified.
 <$12>
 \n
 
 <CLEAR>
-If you wouldn't mind looking, come meet me in Spurr Valley.
+If you wouldn't mind looking, come meet me\n
+in Spurr Valley.
 <$12><$00>
 
 
@@ -3410,8 +3492,8 @@ Ken, this is your mother!
 \n
 
 <CLEAR>
-By the time you hear this, the shuttle I'm on will be in\n
-another solar system.
+By the time you hear this, the shuttle I'm\n
+on will be in another solar system.
 <$12>
 \n
 
@@ -3426,7 +3508,8 @@ And...
 \n
 
 <CLEAR>
-... and know that I truly enjoyed the time I had with you!
+... and know that I truly enjoyed the time I\n
+had with you!
 <$12>
 \n
 
@@ -3442,8 +3525,8 @@ Captain MacDonald, speaking!
 \n
 
 <CLEAR>
-Guess who left with Meme! We'll catch you on the flip-side,\n
-okay? Until then... Over!
+Guess who left with Meme! We'll catch you on\n
+the flip-side, okay? Until then... Over!
 <$12><$00>
 
 
@@ -3459,8 +3542,8 @@ Uhm...
 \n
 
 <CLEAR>
-I have a pet named Nightshade, and she doesn't look so\n
-good.
+I have a pet named Nightshade, and she\n
+doesn't look so good.
 <$12>
 \n
 

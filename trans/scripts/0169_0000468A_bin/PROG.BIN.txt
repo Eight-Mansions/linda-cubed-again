@@ -158,7 +158,8 @@ her antics!
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
 <CLEAR>
-The Animal Bible can't be booted here!
+The Animal Bible can't be booted\n
+here!
 <$12><$00>
 
 
@@ -170,59 +171,63 @@ Camp can't be set up here!
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
 <CLEAR>
-The Navi System(NaviS) can't be booted\n
+The Navi System(NaviS) can't be\n
+booted\n
 here!
 <$12><$00>
 
 
 //<CLEAR>キミたちも　レンジャー隊員なら\n動物図鑑を　携帯しとるだろうね！\nアレ、わしが作ったんじゃよ<$12>\n<CLEAR>いろいろと　不備はあるみたいだけど、\n足りんトコは　若いんじゃし\n自分の体を使って　埋めてくれ<$12>\n<CLEAR>それと…<$12>\n<CLEAR>まっ、話の続きは　次の機会にしよう\n気が向いたら　寄ってくれ\nわしも暇なときは　相手になるゾ<$12><$00>
 <CLEAR>
-Rangers still carry the Animal Bible around, right? Well, it\n
-was I who first developed it!
+Rangers still carry the Animal Bible\n
+around, right? Well, it was I who first\n
+developed it!
 <$12>
 \n
 
 <CLEAR>
-Certainly there's room for detail and improvement, but\n
-that's where you whipper-snappers come in!
+Certainly there's room for detail and\n
+improvement, but that's where you\n
+whipper-snappers come in!
 <$12>
 \n
 
 <CLEAR>
-Maybe you can survey the field, scan some animals, fill in\n
-some blanks and... 
+Maybe you can survey the field, scan\n
+some animals, fill in some blanks and... 
 <$12>
 \n
 
 <CLEAR>
-Oh, don't mind me. If you ever want to show me your work,\n
-I'd be delighted to look!
+Oh, don't mind me. If you ever want to show\n
+me your work, I'd be delighted to look!
 <$12><$00>
 
 
 #WRITE(PTR, $0020)
 //<CLEAR>まだ　この広いネオケニアのどこかに\n名前の決まっていない　動物が\nいないとは思うが　いるやもしれん<$12>\n<CLEAR>そういう動物を　万が一捕まえたら、\nわしに　見せに来るのじゃよ<$12>\n<CLEAR>新種動物の　第一発見者として\n命名の栄誉を　キミにあげよう!<$12><$00>
 <CLEAR>
-I can't imagine any undiscovered animals still out in Neo\n
-Kenya, but it's possible!
+I can't imagine any undiscovered animals\n
+still out in Neo Kenya, but it's possible!
 <$12>
 \n
 
 <CLEAR>
-If you catch such an animal, you must come and show me!
+If you catch such an animal, you must come\n
+and show me!
 <$12>
 \n
 
 <CLEAR>
-If you're the first to discover a species, you earn the\n
-prime honor of naming it!
+If you're the first to discover a species,\n
+you earn the prime honor of naming it!
 <$12><$00>
 
 
 //<CLEAR>ほぉ、キミの捕まえた動物は\n正真正銘の　新種のようじゃナ<$12><$00>
 <CLEAR>
-Oh-ho! That animal you discovered looks like it's from an\n
-unidentified species!
+Oh-ho! That animal you discovered looks like\n
+it's from an unidentified species!
 <$12><$00>
 
 
@@ -245,15 +250,15 @@ Maybe later.
 
 //<CLEAR>そうか、いい名前を考えてやるがいい\nなにしろ　こいつにとっては\n一生の問題じゃからナ<$12><$00>
 <CLEAR>
-Well, think of something good. This animal's the one who has\n
-to live with it.
+Well, think of something good. This animal's\n
+the one who has to live with it.
 <$12><$00>
 
 
 //<CLEAR>まっ、キミにダサイ名前を　もらうより\nいっそ　名前などないほうが\nこいつも　幸せかもナ<$12><$00>
 <CLEAR>
-Eh, instead of a tacky name, it's better to not have one\n
-at all.
+Eh, instead of a tacky name, it's better\n
+to not have one at all.
 <$12><$00>
 
 
@@ -287,7 +292,8 @@ No
 
 //<CLEAR>じゃあ、どれにするんじゃね？\nそれとも今回は命名を見送るかね？\n<$01>命名する<$0E>／<$01>見送る！<$0E><$00>
 <CLEAR>
-Are you saying you'd rather not name your animal?\n
+Are you saying you'd rather not name your\n
+animal?\n
 
 <$01>
 Wait!
@@ -363,7 +369,8 @@ Why, it's perfect!
 
 //<CLEAR>そういう名前の友だちが　昔いたなあ<$12>\nよくオナラする　ヤツだったよ<$12><$00>
 <CLEAR>
-Funny enough, I had a friend with that name! 
+Funny enough, I had a friend with that\n
+name! 
 <$12>
 \n
 Incredibly gassy, that guy.
@@ -580,7 +587,8 @@ Sniff... sniff, sniff?
 \n
 
 <CLEAR><$1D>
- scent's filling the air. You know, I could go for some 
+ scent's filling the air. You know, I could go\n
+for some 
 <$1D>
  !
 <$12><$00>
