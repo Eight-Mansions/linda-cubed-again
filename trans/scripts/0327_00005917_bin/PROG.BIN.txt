@@ -10,9 +10,13 @@
 #WRITE(PTR, $0024)
 #WRITE(PTR, $0026)
 //<CLEAR><$1C><$41>は\n<$1C><$4B>を　飛び越えて\n反対側に　着地した∥<$00>
-<CLEAR><$1C><$41>\n
-sprang over <$1C><$4B>\n
-and landed on the other side!<$00>
+<CLEAR><$1C><$41>
+\n
+sprang over 
+<$1C><$4B>
+\n
+and landed on the other side!
+<$00>
 
 
 #WRITE(PTR, $0028)
@@ -69,1124 +73,1829 @@ m040m.obj<$00>
 
 #WRITE(PTR, $002A)
 //教会１Ｆ<$00>
-Church 1F <$00>
+Church 1F 
+<$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
-<CLEAR>Ken whistled.<$12>\n
-<CLEAR>Huge wings flapped in the distance... <$12><$00>
+<CLEAR>
+Ken whistled.
+<$12>
+\n
+
+<CLEAR>
+Huge wings flapped in the distance... 
+<$12><$00>
 
 
 //<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Ken masked the party to avoid\n
-detection.<$12>\n
-<CLEAR>However, none of the animals in the\n
+<CLEAR>
+Ken masked the party to avoid\n
+detection.
+<$12>
+\n
+
+<CLEAR>
+However, none of the animals in the\n
 area were stupid enough to fall for\n
-his antics!<$12><$00>
+his antics!
+<$12><$00>
 
 
 //<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Linda mimicked a few animal calls.<$12>\n
-<CLEAR>However, none of the animals in the\n
+<CLEAR>
+Linda mimicked a few animal calls.
+<$12>
+\n
+
+<CLEAR>
+However, none of the animals in the\n
 area were stupid enough to fall for\n
-her antics!<$12><$00>
+her antics!
+<$12><$00>
 
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
-<CLEAR>The Animal Bible can't be booted here!<$12><$00>
+<CLEAR>
+The Animal Bible can't be booted here!
+<$12><$00>
 
 
 //<CLEAR>ここでは　野営できない<$12><$00>
-<CLEAR>Camp can't be set up here!<$12><$00>
+<CLEAR>
+Camp can't be set up here!
+<$12><$00>
 
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
-<CLEAR>The Navi System(NaviS) can't be booted\n
-here!<$12><$00>
+<CLEAR>
+The Navi System(NaviS) can't be booted\n
+here!
+<$12><$00>
 
 
 //この星を　脱出する人の半分が\n新天地に着いても　生活の保証が\nないのが　現状です！<$12>\n<CLEAR>あなたの善意が　彼らに生きる希望を\n与えます∥　ぜひ、ご寄付を∥<$00>
 Even if half of the migration shuttles safely arrive from Neo\n
-Kenya to their destined planets,<$12>\n
-<CLEAR>the survival, let alone the quality of life, of all migrating Neo\n
-Kenyans is still not guaranteed!<$12>\n
-<CLEAR>Let's give the people hope!\n
-You know, financially!<$00>
+Kenya to their destined planets,
+<$12>
+\n
+
+<CLEAR>
+the survival, let alone the quality of life, of all migrating Neo\n
+Kenyans is still not guaranteed!
+<$12>
+\n
+
+<CLEAR>
+Let's give the people hope!\n
+You know, financially!
+<$00>
 
 
 //<CLEAR>この星を脱出していく　人々の多くは\n行く先での　仕事も住宅も食糧さえも…\n保障されておりません<$12>\n<CLEAR>あなたの善意の寄付が　彼らを\n救うのです∥<$12><$00>
-<CLEAR>Most people who evacuate Neo Kenya\n
+<CLEAR>
+Most people who evacuate Neo Kenya\n
 won't be guaranteed any work,\n
-food nor shelter.<$12>\n
-<CLEAR>Your thoughtful contribution\n
-could save their lives!<$12><$00>
+food nor shelter.
+<$12>
+\n
+
+<CLEAR>
+Your thoughtful contribution\n
+could save their lives!
+<$12><$00>
 
 
 //あなたたちが　今、立ってる\nちょうど　その辺りにね…\n<$06>30<$04>ほど　死体があったんだってよ<$12>\n<CLEAR><$06><$1E><$04>年前の　クリスマスイブにね\n犯人は　発狂した当時の町長だった男…\n身重の奥さんまで　手にかけたそうよ<$12><$00>
-At one point, there was a pile of <$06>30<$04> or so corpses, right\n
-where you're standing.<$12>\n
-<CLEAR>That was after Xmas Eve, <$06><$1E><$04> years ago, when the elder at the\n
-time slaughtered the entire village.<$12>\n
-<CLEAR>He had gone mad. So mad, even, that he killed his pregnant\n
-wife with his own hands.<$12><$00>
+At one point, there was a pile of 
+<$06>
+30
+<$04>
+ or so corpses, right\n
+where you're standing.
+<$12>
+\n
+
+<CLEAR>
+That was after Xmas Eve, 
+<$06><$1E><$04>
+ years ago, when the elder at the\n
+time slaughtered the entire village.
+<$12>
+\n
+
+<CLEAR>
+He had gone mad. So mad, even, that he killed his pregnant\n
+wife with his own hands.
+<$12><$00>
 
 
 //この町、ご自慢の「<$1B>トラの爪」って\nスゴい希少価値の　武器なんだってね<$12>\n<CLEAR>材料になる<$1B>トラ自身、今じゃ\n数が少ないし、運良く見つけても\nオス<$06>10<$04>頭は　捕まえるのは無理よ<$12>\n<CLEAR>だって、<$1B>トラのオスって\n<$1B>ライオンの群れが　逃げ出すくらい\nケタ違いの　攻撃力って話なんだもん<$12><$00>
-The village's prized <$1B>Tiger Claw is a rare and powerful\n
-weapon.<$12>\n
-<CLEAR>Because <$1B>Tigers are so rare now, it's nigh impossible to\n
-catch the <$06>10<$04> needed to craft one.<$12>\n
-<CLEAR>It would be worth it, because <$1B>tiger males hit far\n
-harder than their <$1B>lion counterparts.<$12><$00>
+The village's prized 
+<$1B>
+Tiger Claw is a rare and powerful\n
+weapon.
+<$12>
+\n
+
+<CLEAR>
+Because 
+<$1B>
+Tigers are so rare now, it's nigh impossible to\n
+catch the 
+<$06>
+10
+<$04>
+ needed to craft one.
+<$12>
+\n
+
+<CLEAR>
+It would be worth it, because 
+<$1B>
+tiger males hit far\n
+harder than their 
+<$1B>
+lion counterparts.
+<$12><$00>
 
 
 //どうだい？　私の犬、かわいいだろ？\nこのコたちは、鬼ごっこが好きでね\n<$01>俺も好きですよ<$0E>／<$01>俺は大嫌いだ∥<$0E><$00>
 My dogs sure are cute, huh.\n
 And they love playing tag.\n
-<$01>I do too!<$0E> / <$01>I hate tag<$0E><$00>
+
+<$01>
+I do too!
+<$0E>
+ / 
+<$01>
+I hate tag
+<$0E><$00>
 
 
 //<CLEAR>そうだろうと、思ってたよ！\n犬に追われて　嬉しそうに逃げ回る\nキミが　目に浮かぶようだ<$12><$00>
-<CLEAR>I thought so! That look in your eyes says, "I love running\n
-around with dogs on my ass."<$12><$00>
+<CLEAR>
+I thought so! That look in your eyes says, "I love running\n
+around with dogs on my ass."
+<$12><$00>
 
 
 //<CLEAR>それは　残念だ……<$12><$00>
-<CLEAR>Aw, you're no fun.<$12><$00>
+<CLEAR>
+Aw, you're no fun.
+<$12><$00>
 
 
 #WRITE(PTR, $002C)
 //教会２Ｆ<$00>
-Church 2F <$00>
+Church 2F 
+<$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
-<CLEAR>Ken whistled.<$12>\n
-<CLEAR>Huge wings flapped in the distance... <$12><$00>
+<CLEAR>
+Ken whistled.
+<$12>
+\n
+
+<CLEAR>
+Huge wings flapped in the distance... 
+<$12><$00>
 
 
 //<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Ken masked the party to avoid\n
-detection.<$12>\n
-<CLEAR>However, none of the animals in the\n
+<CLEAR>
+Ken masked the party to avoid\n
+detection.
+<$12>
+\n
+
+<CLEAR>
+However, none of the animals in the\n
 area were stupid enough to fall for\n
-his antics!<$12><$00>
+his antics!
+<$12><$00>
 
 
 //<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Linda mimicked a few animal calls.<$12>\n
-<CLEAR>However, none of the animals in the\n
+<CLEAR>
+Linda mimicked a few animal calls.
+<$12>
+\n
+
+<CLEAR>
+However, none of the animals in the\n
 area were stupid enough to fall for\n
-her antics!<$12><$00>
+her antics!
+<$12><$00>
 
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
-<CLEAR>The Animal Bible can't be booted here!<$12><$00>
+<CLEAR>
+The Animal Bible can't be booted here!
+<$12><$00>
 
 
 //<CLEAR>ここでは　野営できない<$12><$00>
-<CLEAR>Camp can't be set up here!<$12><$00>
+<CLEAR>
+Camp can't be set up here!
+<$12><$00>
 
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
-<CLEAR>The Navi System(NaviS) can't be booted\n
-here!<$12><$00>
+<CLEAR>
+The Navi System(NaviS) can't be booted\n
+here!
+<$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53>扉には鍵がかかっている<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53>The door is locked.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>
+The door is locked.
+<$14><$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53>ケンは、「教会の鍵」を使った<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53>Ken used the Church Key.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>
+Ken used the Church Key.
+<$14><$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53>何も　見つからなかった<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53>Nothing was found.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>
+Nothing was found.
+<$14><$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53>ケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53>Ken found the <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>
+Ken found the 
+<$1D>
+!
+<$14><$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53><CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53><CLEAR>Sadly, the item bag was full, so the\n
-<$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>
+Sadly, the item bag was full, so the\n
+
+<$1D>
+had to go back.
+<$14><$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53><CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53><CLEAR>Ken acquired <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>
+Ken acquired 
+<$1D>
+!
+<$14><$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53>ケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53>Ken found the <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>
+Ken found the 
+<$1D>
+!
+<$14><$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53><CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53><CLEAR>Sadly, the item bag was full, so the\n
-<$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>
+Sadly, the item bag was full, so the\n
+
+<$1D>
+had to go back.
+<$14><$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53><CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53><CLEAR>Ken acquired <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>
+Ken acquired 
+<$1D>
+!
+<$14><$12><$00>
 
 
 //コシカタ復興<$06>10<$04>周年の　記念祭を\nやることに　決まったんだって！<$12>\n<CLEAR>例の事件のどさくさで　紛失してた\nこの町のお守りの品、「<$1B>トラの爪」も\n見つかったそうだし　盛り上がるわよ<$12><$00>
-The village wishes to hold a <$06>10<$04>th anniversary festival for\n
-the Koshikata restoration!<$12>\n
-<CLEAR>With the <$1B>Tiger Claw found in the hustle and bustle too,\n
-we're back to normal! <$12><$00>
+The village wishes to hold a 
+<$06>
+10
+<$04>
+th anniversary festival for\n
+the Koshikata restoration!
+<$12>
+\n
+
+<CLEAR>
+With the 
+<$1B>
+Tiger Claw found in the hustle and bustle too,\n
+we're back to normal! 
+<$12><$00>
 
 
 #WRITE(PTR, $002E)
 //教会３Ｆ<$00>
-Church 3F <$00>
+Church 3F 
+<$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
-<CLEAR>Ken whistled.<$12>\n
-<CLEAR>Huge wings flapped in the distance... <$12><$00>
+<CLEAR>
+Ken whistled.
+<$12>
+\n
+
+<CLEAR>
+Huge wings flapped in the distance... 
+<$12><$00>
 
 
 //<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Ken masked the party to avoid\n
-detection.<$12>\n
-<CLEAR>However, none of the animals in the\n
+<CLEAR>
+Ken masked the party to avoid\n
+detection.
+<$12>
+\n
+
+<CLEAR>
+However, none of the animals in the\n
 area were stupid enough to fall for\n
-his antics!<$12><$00>
+his antics!
+<$12><$00>
 
 
 //<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Linda mimicked a few animal calls.<$12>\n
-<CLEAR>However, none of the animals in the\n
+<CLEAR>
+Linda mimicked a few animal calls.
+<$12>
+\n
+
+<CLEAR>
+However, none of the animals in the\n
 area were stupid enough to fall for\n
-her antics!<$12><$00>
+her antics!
+<$12><$00>
 
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
-<CLEAR>The Animal Bible can't be booted here!<$12><$00>
+<CLEAR>
+The Animal Bible can't be booted here!
+<$12><$00>
 
 
 //<CLEAR>ここでは　野営できない<$12><$00>
-<CLEAR>Camp can't be set up here!<$12><$00>
+<CLEAR>
+Camp can't be set up here!
+<$12><$00>
 
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
-<CLEAR>The Navi System(NaviS) can't be booted\n
-here!<$12><$00>
+<CLEAR>
+The Navi System(NaviS) can't be booted\n
+here!
+<$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53>扉には鍵がかかっている<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53>The door is locked.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>
+The door is locked.
+<$14><$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53>ケンは、「教会の鍵」を使った<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53>Ken used the Church Key.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>
+Ken used the Church Key.
+<$14><$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53>ケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53>Ken found the <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>
+Ken found the 
+<$1D>
+!
+<$14><$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53><CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53><CLEAR>Sadly, the item bag was full, so the\n
-<$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>
+Sadly, the item bag was full, so the\n
+
+<$1D>
+had to go back.
+<$14><$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53><CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53><CLEAR>Ken acquired <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>
+Ken acquired 
+<$1D>
+!
+<$14><$12><$00>
 
 
 //あたしら、ビースチャンや動物たちは\n大地の底で生まれて　井戸を通って\n地上に　上ってきたってね…<$12>\n<CLEAR>年寄りの中には　今でも本気で\nそう信じてる人が　いるみたいね<$12><$00>
 I heard that, as us Beastians were born, we crawled up\n
 with the animals from the center of the earth to the\n
-surface through a well.<$12>\n
-<CLEAR>And there are still old people out there who actually\n
-believe that... <$12><$00>
+surface through a well.
+<$12>
+\n
+
+<CLEAR>
+And there are still old people out there who actually\n
+believe that... 
+<$12><$00>
 
 
 #WRITE(PTR, $0030)
 //教会４Ｆ<$00>
-Church 4F <$00>
+Church 4F 
+<$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
-<CLEAR>Ken whistled.<$12>\n
-<CLEAR>Huge wings flapped in the distance... <$12><$00>
+<CLEAR>
+Ken whistled.
+<$12>
+\n
+
+<CLEAR>
+Huge wings flapped in the distance... 
+<$12><$00>
 
 
 //<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Ken masked the party to avoid\n
-detection.<$12>\n
-<CLEAR>However, none of the animals in the\n
+<CLEAR>
+Ken masked the party to avoid\n
+detection.
+<$12>
+\n
+
+<CLEAR>
+However, none of the animals in the\n
 area were stupid enough to fall for\n
-his antics!<$12><$00>
+his antics!
+<$12><$00>
 
 
 //<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Linda mimicked a few animal calls.<$12>\n
-<CLEAR>However, none of the animals in the\n
+<CLEAR>
+Linda mimicked a few animal calls.
+<$12>
+\n
+
+<CLEAR>
+However, none of the animals in the\n
 area were stupid enough to fall for\n
-her antics!<$12><$00>
+her antics!
+<$12><$00>
 
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
-<CLEAR>The Animal Bible can't be booted here!<$12><$00>
+<CLEAR>
+The Animal Bible can't be booted here!
+<$12><$00>
 
 
 //<CLEAR>ここでは　野営できない<$12><$00>
-<CLEAR>Camp can't be set up here!<$12><$00>
+<CLEAR>
+Camp can't be set up here!
+<$12><$00>
 
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
-<CLEAR>The Navi System(NaviS) can't be booted\n
-here!<$12><$00>
+<CLEAR>
+The Navi System(NaviS) can't be booted\n
+here!
+<$12><$00>
 
 
 #WRITE(PTR, $0032)
 //教会５Ｆ<$00>
-Church 5F <$00>
+Church 5F 
+<$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
-<CLEAR>Ken whistled.<$12>\n
-<CLEAR>Huge wings flapped in the distance... <$12><$00>
+<CLEAR>
+Ken whistled.
+<$12>
+\n
+
+<CLEAR>
+Huge wings flapped in the distance... 
+<$12><$00>
 
 
 //<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Ken masked the party to avoid\n
-detection.<$12>\n
-<CLEAR>However, none of the animals in the\n
+<CLEAR>
+Ken masked the party to avoid\n
+detection.
+<$12>
+\n
+
+<CLEAR>
+However, none of the animals in the\n
 area were stupid enough to fall for\n
-his antics!<$12><$00>
+his antics!
+<$12><$00>
 
 
 //<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Linda mimicked a few animal calls.<$12>\n
-<CLEAR>However, none of the animals in the\n
+<CLEAR>
+Linda mimicked a few animal calls.
+<$12>
+\n
+
+<CLEAR>
+However, none of the animals in the\n
 area were stupid enough to fall for\n
-her antics!<$12><$00>
+her antics!
+<$12><$00>
 
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
-<CLEAR>The Animal Bible can't be booted here!<$12><$00>
+<CLEAR>
+The Animal Bible can't be booted here!
+<$12><$00>
 
 
 //<CLEAR>ここでは　野営できない<$12><$00>
-<CLEAR>Camp can't be set up here!<$12><$00>
+<CLEAR>
+Camp can't be set up here!
+<$12><$00>
 
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
-<CLEAR>The Navi System(NaviS) can't be booted\n
-here!<$12><$00>
+<CLEAR>
+The Navi System(NaviS) can't be booted\n
+here!
+<$12><$00>
 
 
 #WRITE(PTR, $0034)
 //教会６Ｆ<$00>
-Church 6F <$00>
+Church 6F 
+<$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
-<CLEAR>Ken whistled.<$12>\n
-<CLEAR>Huge wings flapped in the distance... <$12><$00>
+<CLEAR>
+Ken whistled.
+<$12>
+\n
+
+<CLEAR>
+Huge wings flapped in the distance... 
+<$12><$00>
 
 
 //<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Ken masked the party to avoid\n
-detection.<$12>\n
-<CLEAR>However, none of the animals in the\n
+<CLEAR>
+Ken masked the party to avoid\n
+detection.
+<$12>
+\n
+
+<CLEAR>
+However, none of the animals in the\n
 area were stupid enough to fall for\n
-his antics!<$12><$00>
+his antics!
+<$12><$00>
 
 
 //<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Linda mimicked a few animal calls.<$12>\n
-<CLEAR>However, none of the animals in the\n
+<CLEAR>
+Linda mimicked a few animal calls.
+<$12>
+\n
+
+<CLEAR>
+However, none of the animals in the\n
 area were stupid enough to fall for\n
-her antics!<$12><$00>
+her antics!
+<$12><$00>
 
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
-<CLEAR>The Animal Bible can't be booted here!<$12><$00>
+<CLEAR>
+The Animal Bible can't be booted here!
+<$12><$00>
 
 
 //<CLEAR>ここでは　野営できない<$12><$00>
-<CLEAR>Camp can't be set up here!<$12><$00>
+<CLEAR>
+Camp can't be set up here!
+<$12><$00>
 
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
-<CLEAR>The Navi System(NaviS) can't be booted\n
-here!<$12><$00>
+<CLEAR>
+The Navi System(NaviS) can't be booted\n
+here!
+<$12><$00>
 
 
 #WRITE(PTR, $0036)
 //教会Ｂ１<$00>
-Church B1 <$00>
+Church B1 
+<$00>
 
 
 //<CLEAR>ここでは　野営できない<$12><$00>
-<CLEAR>Camp can't be set up here!<$12><$00>
+<CLEAR>
+Camp can't be set up here!
+<$12><$00>
 
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
-<CLEAR>The Navi System(NaviS) can't be booted\n
-here!<$12><$00>
+<CLEAR>
+The Navi System(NaviS) can't be booted\n
+here!
+<$12><$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
-<CLEAR>Ken whistled.<$12>\n
-<CLEAR>Huge wings flapped in the distance... <$12><$00>
+<CLEAR>
+Ken whistled.
+<$12>
+\n
+
+<CLEAR>
+Huge wings flapped in the distance... 
+<$12><$00>
 
 
 //クン、クンクン………？<$12>\n<CLEAR>………………………∥<$12>\n<CLEAR>クン、クンクン………？<$12>\n<CLEAR>ケン∥　いるわよ∥\n今まで　かいだことのない\n動物のニオイが　するわ∥<$12><$00>
-Sniff... sniff, sniff?<$12>\n
-<CLEAR>... ... ... ...!<$12>\n
-<CLEAR>Sniff... sniff, sniff?<$12>\n
-<CLEAR>Something's here, Ken!\n
-I've never smelled anything like it!<$12><$00>
+Sniff... sniff, sniff?
+<$12>
+\n
+
+<CLEAR>
+... ... ... ...!
+<$12>
+\n
+
+<CLEAR>
+Sniff... sniff, sniff?
+<$12>
+\n
+
+<CLEAR>
+Something's here, Ken!\n
+I've never smelled anything like it!
+<$12><$00>
 
 
 //クン、クンクン………？<$12>\n<CLEAR>この辺りは　知った動物の\nニオイしか　しないわね<$12><$00>
-Sniff... sniff, sniff?<$12>\n
-<CLEAR>I don't smell anything new in the area.<$12><$00>
+Sniff... sniff, sniff?
+<$12>
+\n
+
+<CLEAR>
+I don't smell anything new in the area.
+<$12><$00>
 
 
 //クン、クンクン………？<$12>\n<CLEAR>………………………∥<$12>\n<CLEAR>クン、クンクン………？<$12>\n<CLEAR>新しい動物のニオイって\nなかなか、見つからないわね<$12><$00>
-Sniff... sniff, sniff?<$12>\n
-<CLEAR>... ... ... ...!<$12>\n
-<CLEAR>Sniff... sniff, sniff?<$12>\n
-<CLEAR>I'm not sure I smell anything new in\n
-the area.<$12><$00>
+Sniff... sniff, sniff?
+<$12>
+\n
+
+<CLEAR>
+... ... ... ...!
+<$12>
+\n
+
+<CLEAR>
+Sniff... sniff, sniff?
+<$12>
+\n
+
+<CLEAR>
+I'm not sure I smell anything new in\n
+the area.
+<$12><$00>
 
 
 //<CLEAR>それと…、超ヤバイ動物が\n近くにいるみたい！\nぷんぷん臭うわ<$12><$00>
-<CLEAR>Something... BIG is nearby.\n
-I bet it's as strong as it smells!<$12><$00>
+<CLEAR>
+Something... BIG is nearby.\n
+I bet it's as strong as it smells!
+<$12><$00>
 
 
 //<CLEAR>……何か、さっきから\n胸騒ぎが　するのよ！\n一度、出直さない？<$00>
-<CLEAR>... The smell's faded, suggesting its\n
+<CLEAR>
+... The smell's faded, suggesting its\n
 source left only recently.\n
-Maybe it will return?<$00>
+Maybe it will return?
+<$00>
 
 
 //<CLEAR>それから　この付近の動物は\nけっこう根性、あるみたいね<$12><$00>
-<CLEAR>The animals nearby smell fiesty!<$12><$00>
+<CLEAR>
+The animals nearby smell fiesty!
+<$12><$00>
 
 
 //<CLEAR>でも、ちょっと危険な臭いも\n混じっているようよ<$12><$00>
-<CLEAR>It all smells with a hint...\n
-of danger!<$12><$00>
+<CLEAR>
+It all smells with a hint...\n
+of danger!
+<$12><$00>
 
 
 //<CLEAR>ハンターとしての\n腕を　磨くには\nちょうど、いいってトコね<$12><$00>
-<CLEAR>Hunters need to hone all the skills\n
-they can, you know?<$12><$00>
+<CLEAR>
+Hunters need to hone all the skills\n
+they can, you know?
+<$12><$00>
 
 
 //<CLEAR>まっ、一応\n注意していきましょうか<$12><$00>
-<CLEAR>M'kay, let's be careful out there.<$12><$00>
+<CLEAR>
+M'kay, let's be careful out there.
+<$12><$00>
 
 
 //<CLEAR>適当に　からかってから\n戻りましょうよ<$12><$00>
-<CLEAR>It wouldn't hurt to poke around a\n
-little before leaving.<$12><$00>
+<CLEAR>
+It wouldn't hurt to poke around a\n
+little before leaving.
+<$12><$00>
 
 
 //<CLEAR>それと、この辺りの動物なら\nケンひとりでも　楽勝よ∥<$12><$00>
-<CLEAR>Shoot, you could take on the animals\n
-here all by yourself!<$12><$00>
+<CLEAR>
+Shoot, you could take on the animals\n
+here all by yourself!
+<$12><$00>
 
 
 //<CLEAR>ケンは肉を投げようとした…<$12>\n<CLEAR>しかし、そんなノン気なこと\nしている場合では　ないと\n気づいてやめた<$12><$00>
-<CLEAR>Ken threw the meat... <$12>\n
-<CLEAR>... Actually, nevermind.\n
+<CLEAR>
+Ken threw the meat... 
+<$12>
+\n
+
+<CLEAR>
+... Actually, nevermind.\n
 He stopped after realizing\n
-how weird that'd look.<$12><$00>
+how weird that'd look.
+<$12><$00>
 
 
 //<CLEAR><$15><$57>○ボタンで肉を投げます<$00>
-<CLEAR><$15><$57>○ button: Throw meat<$00>
+<CLEAR><$15><$57>
+○ button: Throw meat
+<$00>
 
 
 //<CLEAR><$19><$31><$15><$53>ケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53>Ken found the <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>
+Ken found the 
+<$1D>
+!
+<$14><$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53><CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53><CLEAR>Sadly, the item bag was full, so the\n
-<$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>
+Sadly, the item bag was full, so the\n
+
+<$1D>
+had to go back.
+<$14><$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53><CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53><CLEAR>Ken acquired <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>
+Ken acquired 
+<$1D>
+!
+<$14><$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53>ケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53>Ken found the <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>
+Ken found the 
+<$1D>
+!
+<$14><$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53><CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53><CLEAR>Sadly, the item bag was full, so the\n
-<$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>
+Sadly, the item bag was full, so the\n
+
+<$1D>
+had to go back.
+<$14><$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53><CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53><CLEAR>Ken acquired <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>
+Ken acquired 
+<$1D>
+!
+<$14><$12><$00>
 
 
 #WRITE(PTR, $0038)
 #WRITE(PTR, $003A)
 //……東<$00>
-... East<$00>
+... East
+<$00>
 
 
 //……西<$00>
-... West<$00>
+... West
+<$00>
 
 
 //……南<$00>
-... South<$00>
+... South
+<$00>
 
 
 //……北<$00>
-... North<$00>
+... North
+<$00>
 
 
 //…北東<$00>
-... North-east<$00>
+... North-east
+<$00>
 
 
 //…北西<$00>
-... North-west<$00>
+... North-west
+<$00>
 
 
 //…南東<$00>
-... South-east<$00>
+... South-east
+<$00>
 
 
 //…南西<$00>
-... South-west<$00>
+... South-west
+<$00>
 
 
 //<CLEAR>……<$1D><$00>
-<CLEAR>... ... <$1D><$00>
+<CLEAR>
+... ... 
+<$1D><$00>
 
 
 //、…<$1D>に行けば<$00>
-! That's where we'll find a <$1D>.<$00>
+! That's where we'll find a 
+<$1D>
+.
+<$00>
 
 
 //直進<$00>
-For<$00>
+For
+<$00>
 
 
 //右よ<$00>
-Right<$00>
+Right
+<$00>
 
 
 //左よ<$00>
-Left<$00>
+Left
+<$00>
 
 
 //後ろ<$00>
-Back<$00>
+Back
+<$00>
 
 
 //<CLEAR>……<$1D><$00>
-<CLEAR>... ... <$1D><$00>
+<CLEAR>
+... ... 
+<$1D><$00>
 
 
 //、絶対に<$1D>∥<$00>
-wards, got it? I'm sure we'll find a <$1D> there!<$00>
+wards, got it? I'm sure we'll find a 
+<$1D>
+ there!
+<$00>
 
 
 //<CLEAR><$19><$31><$15><$53>リンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition... <$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>
+Linda used her woman's intuition... 
+<$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
-<CLEAR>... Sorry. I don't have it in me today.<$12><$00>
+<CLEAR>
+... Sorry. I don't have it in me today.
+<$12><$00>
 
 
 //運命の<$00>
-Fated <$00>
+Fated 
+<$00>
 
 
 //新しい<$00>
-New <$00>
+New 
+<$00>
 
 
 //素敵な<$00>
-Great <$00>
+Great 
+<$00>
 
 
 //未知の<$00>
-Unknown <$00>
+Unknown 
+<$00>
 
 
 //何か<$00>
-things <$00>
+things 
+<$00>
 
 
 //発見<$00>
-discoveries <$00>
+discoveries 
+<$00>
 
 
 //お宝<$00>
-treasures <$00>
+treasures 
+<$00>
 
 
 //動物<$00>
-animals <$00>
+animals 
+<$00>
 
 
 //に　出会える…<$00>
-could appear.<$00>
+could appear.
+<$00>
 
 
 //が　待ってる…<$00>
-await us... <$00>
+await us... 
+<$00>
 
 
 //気がするわ∥<$00>
-are there.<$00>
+are there.
+<$00>
 
 
 //チャンスよ∥<$00>
-are in our grasp!<$00>
+are in our grasp!
+<$00>
 
 
 //今しかないわ<$00>
-could get away!<$00>
+could get away!
+<$00>
 
 
 //間違いなし∥<$00>
-are dead ahead!<$00>
+are dead ahead!
+<$00>
 
 
 //\n<$1D><$1D><$1D>\n<$1D><$12>\n<CLEAR><$00>
 \n
-<$1D><$1D><$1D>\n
-<$1D><$12>\n
+
+<$1D><$1D><$1D>
+\n
+
+<$1D><$12>
+\n
+
 <CLEAR><$00>
 
 
 //<CLEAR>自信があるの∥<$12><$00>
-<CLEAR>I swear!<$12><$00>
+<CLEAR>
+I swear!
+<$12><$00>
 
 
 //<CLEAR>自信は　ないけどね…<$12><$00>
-<CLEAR>Although, I'm not totally certain... <$12><$00>
+<CLEAR>
+Although, I'm not totally certain... 
+<$12><$00>
 
 
 //<CLEAR>絶対なんだから∥<$12><$00>
-<CLEAR>I'm absolutely certain!<$12><$00>
+<CLEAR>
+I'm absolutely certain!
+<$12><$00>
 
 
 //<$15><$59>スケジュール<$00>
-<$15><$59>Memo <$00>
+<$15><$59>
+Memo 
+<$00>
 
 
 //<CLEAR>スケジュールは何もありません<$12><$00>
-<CLEAR>There is nothing on schedule.<$12><$00>
+<CLEAR>
+There is nothing on schedule.
+<$12><$00>
 
 
 //成功終了<$00>
-Completed!<$00>
+Completed!
+<$00>
 
 
 //期限切れ<$00>
-Expired!<$00>
+Expired!
+<$00>
 
 
 //あと<$1E>季節<$00>
-In <$1E> seasons<$00>
+In 
+<$1E>
+ seasons
+<$00>
 
 
 //あと<$1E>年<$1E>季節<$00>
-Deadline: <$1E>Y/<$1E>S<$00>
+Deadline: 
+<$1E>
+Y/
+<$1E>
+S
+<$00>
 
 
 //あと<$1E>年<$00>
-In <$1E> years<$00>
+In 
+<$1E>
+ years
+<$00>
 
 
 //<$16><$01>◇<$0E><$1D><$02>190<$1D><$00>
-<$16><$01>◇<$0E><$1D><$02><$1D><$00>
+<$16><$01>
+◇
+<$0E><$1D><$02><$1D><$00>
 
 
 //ファングを倒す<$00>
-Slay Fang<$00>
+Slay Fang
+<$00>
 
 
 //パンハイムからの依頼<$00>
-Assist Panheim<$00>
+Assist Panheim
+<$00>
 
 
 //<$1B>カメの卵を手に入れる<$00>
-<$1B>Snatch Turtle Eggs<$00>
+<$1B>
+Snatch Turtle Eggs
+<$00>
 
 
 //<$1B>プテラノの卵を手に入れる<$00>
-<$1B>Snatch Pteranodon Eggs<$00>
+<$1B>
+Snatch Pteranodon Eggs
+<$00>
 
 
 //遺産争いにケリをつける<$00>
-End the inheritance battle<$00>
+End the inheritance battle
+<$00>
 
 
 //ヤマダのために一肌脱ぐ<$00>
-Unload for Yamada<$00>
+Unload for Yamada
+<$00>
 
 
 //町のシンボルを見つけだす<$00>
-Find the village symbol<$00>
+Find the village symbol
+<$00>
 
 
 //ソフィアからの依頼<$00>
-Assist Sophia<$00>
+Assist Sophia
+<$00>
 
 
 //サチコ救出<$00>
-Rescue Sachiko<$00>
+Rescue Sachiko
+<$00>
 
 
 //ポロポロちゃんを助ける<$00>
-Save Nightshade<$00>
+Save Nightshade
+<$00>
 
 
 //アンジェラ捜し<$00>
-Find Angela<$00>
+Find Angela
+<$00>
 
 
 //<CLEAR>カラゴラムのファングを倒し、その証拠を\nハーディアホテルのスペクターに渡す<$00>
-<CLEAR>Defeat Fang in Karhagolem. Present proof to Spectre in\n
-Hardia Hotel.<$00>
+<CLEAR>
+Defeat Fang in Karhagolem. Present proof to Spectre in\n
+Hardia Hotel.
+<$00>
 
 
 //<CLEAR>マーブルポリスの<$1B>ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す<$00>
-<CLEAR>Process meat from <$1B>chickens in Marblopolis.Give them to\n
-Prof. Panheim in Hospico.<$00>
+<CLEAR>
+Process meat from 
+<$1B>
+chickens in Marblopolis.Give them to\n
+Prof. Panheim in Hospico.
+<$00>
 
 
 //<CLEAR><$1B>カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す<$00>
-<CLEAR>Find up to 3 <$1B>Turtle Eggs. Give them to Louis at the Battle\n
-Park BB Ranch.<$00>
+<CLEAR>
+Find up to 3 
+<$1B>
+Turtle Eggs. Give them to Louis at the Battle\n
+Park BB Ranch.
+<$00>
 
 
 //<CLEAR><$1B>プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す<$00>
-<CLEAR>Acquire 2 <$1B>Pteranodon Eggs. Give them to Bronco at the\n
-Battle Park BB Ranch.<$00>
+<CLEAR>
+Acquire 2 
+<$1B>
+Pteranodon Eggs. Give them to Bronco at the\n
+Battle Park BB Ranch.
+<$00>
 
 
 //<CLEAR>「太郎の首輪」を見つけだし、ドギファの\nナターシャか、オーマン家３兄弟に渡す<$00>
-<CLEAR>Locate Taro's Collar. Give it to Natasha or one of the 3\n
-Aumann children in Dogyf Heights.<$00>
+<CLEAR>
+Locate Taro's Collar. Give it to Natasha or one of the 3\n
+Aumann children in Dogyf Heights.
+<$00>
 
 
 //６万<$00>
-60, 000<$00>
+60, 000
+<$00>
 
 
 //あと<$06><$1E><$0F>000<$04><$00>
-another <$06><$1E><$0F><$04><$00>
+another 
+<$06><$1E><$0F><$04><$00>
 
 
 //<CLEAR>Ｇファクトリーのヤマダのために\n<$1D>￥を預金する<$00>
-<CLEAR>Deposit <$1D>￥ in an account to Yamada in G Factory.<$00>
+<CLEAR>
+Deposit 
+<$1D>
+￥ in an account to Yamada in G Factory.
+<$00>
 
 
 //<CLEAR>コシカタのシンボル「<$1B>トラの爪」を\n見つけだし、ポリスカに渡す<$00>
-<CLEAR>Find the <$1B>Tiger Claw, Koshikata's village symbol. Return it\n
-to Poliska.<$00>
+<CLEAR>
+Find the 
+<$1B>
+Tiger Claw, Koshikata's village symbol. Return it\n
+to Poliska.
+<$00>
 
 
 //<CLEAR>ソフィアのために、エターナの桜の木を\nどうにかして咲かせる<$00>
-<CLEAR>Find out how to revive the sakura trees in Eterna for\n
-Sophia.<$00>
+<CLEAR>
+Find out how to revive the sakura trees in Eterna for\n
+Sophia.
+<$00>
 
 
 //<CLEAR>溶岩の中で育った動物の熱いウンチを\nエターナのソフィアに渡す<$00>
-<CLEAR>Deliver Hot Dung from a lava-dwelling creature to Sophia in\n
-Eterna.<$00>
+<CLEAR>
+Deliver Hot Dung from a lava-dwelling creature to Sophia in\n
+Eterna.
+<$00>
 
 
 //<CLEAR>ラグナロッジのエモリに会いに行く<$00>
-<CLEAR>Meet with Dr. Emori in Ragna Rim.<$00>
+<CLEAR>
+Meet with Dr. Emori in Ragna Rim.
+<$00>
 
 
 //<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nＧファクトリー入口１階、\n公衆電話の前に行く<$00>
-<CLEAR>Take the Floppy Disc and <$06>10, 000<$04>￥ to the G Factory gate.\n
-Answer the payphone.<$00>
+<CLEAR>
+Take the Floppy Disc and 
+<$06>
+10, 000
+<$04>
+￥ to the G Factory gate.\n
+Answer the payphone.
+<$00>
 
 
 //<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nパラサイド入口１階、\n公衆電話の前に行く<$00>
-<CLEAR>Take the Floppy Disc and <$06>10, 000<$04>￥ to the Paraside gate.\n
-Answer the payphone.<$00>
+<CLEAR>
+Take the Floppy Disc and 
+<$06>
+10, 000
+<$04>
+￥ to the Paraside gate.\n
+Answer the payphone.
+<$00>
 
 
 //<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nガレックスに行く<$00>
-<CLEAR>Take the Floppy Disc and <$06>10, 000<$04>￥ to Galax.<$00>
+<CLEAR>
+Take the Floppy Disc and 
+<$06>
+10, 000
+<$04>
+￥ to Galax.
+<$00>
 
 
 //<CLEAR>ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す<$00>
-<CLEAR>Pick bloodberries in Flora Jam. Take them to Kevin and\n
-Nightshade in Rose Garden.<$00>
+<CLEAR>
+Pick bloodberries in Flora Jam. Take them to Kevin and\n
+Nightshade in Rose Garden.
+<$00>
 
 
 //<CLEAR>パラサイドの酒場にいるアンジェラを\n確認して、リナバレーのマリオに連絡する<$00>
-<CLEAR>Look for Angela at the Paraside bar. Report your findings\n
-to Mario in Spurr Valley.<$00>
+<CLEAR>
+Look for Angela at the Paraside bar. Report your findings\n
+to Mario in Spurr Valley.
+<$00>
 
 
 //<CLEAR>アンジェラを確認するために、\nオズポートホテルの酒場に行く<$00>
-<CLEAR>Look for Angela at the OzPort Hotel bar.<$00>
+<CLEAR>
+Look for Angela at the OzPort Hotel bar.
+<$00>
 
 
 //<CLEAR>アンジェラを確認するために、\n西エリアのしけた町のホテルに行く<$00>
-<CLEAR>Look for Angela at a hotel bar somewhere in West Area.<$00>
+<CLEAR>
+Look for Angela at a hotel bar somewhere in West Area.
+<$00>
 
 
 //<CLEAR>アンジェラを確認するために、\nドギファの舞台に行く<$00>
-<CLEAR>Look for Angela at the theater stage in Dogyf Heights.<$00>
+<CLEAR>
+Look for Angela at the theater stage in Dogyf Heights.
+<$00>
 
 
 //<CLEAR>リナバレーのマリオの母、\nアンジェラを追ってオズサットへ行く<$00>
-<CLEAR>Chase Angela to OzSat! Mario will follow from Spurr Valley.<$00>
+<CLEAR>
+Chase Angela to OzSat! Mario will follow from Spurr Valley.
+<$00>
 
 
 //<$1D>　<$1E>頭\n<$00>
-<$1D>　<$1E>x\n
+<$1D>
+　
+<$1E>
+x\n
+
 <$00>
 
 
 //\n<$00>
 \n
+
 <$00>
 
 
 //<$01>寄付する<$0E>／<$01>雑談する<$0E>／<$01>ヤだよ！<$0E><$00>
-<$01>Donate<$0E> / <$01>Chat<$0E> / <$01>No way!<$0E><$00>
+<$01>
+Donate
+<$0E>
+ / 
+<$01>
+Chat
+<$0E>
+ / 
+<$01>
+No way!
+<$0E><$00>
 
 
 //<CLEAR>いつも神様は　あなたの行動を\n見ていらっしゃいますよ…<$12><$00>
-<CLEAR>God's always watching, you know.<$12><$00>
+<CLEAR>
+God's always watching, you know.
+<$12><$00>
 
 
 //<CLEAR>ありがとうございます\n優しい気持ちを　入れてください\n持金<$1E>40￥→寄付<$01><$1E>40￥<$00>
-<CLEAR>Thank you so much!\n
+<CLEAR>
+Thank you so much!\n
 How much will you donate?\n
-<$1E>40￥→ <$01><$1E>40<$00>
+
+<$1E>
+40￥→ 
+<$01><$1E>
+40
+<$00>
 
 
 //<CLEAR><$06><$1E><$04>￥の寄付ですね\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
-<CLEAR>You'll donate <$06><$1E><$04>￥?\n
-<$01>Yes<$0E> / <$01>No<$0E><$00>
+<CLEAR>
+You'll donate 
+<$06><$1E><$04>
+￥?\n
+
+<$01>
+Yes
+<$0E>
+ / 
+<$01>
+No
+<$0E><$00>
 
 
 //<CLEAR>最近、多いんですよ…\n持金を全部、寄付される方…<$12>\n<CLEAR>あなた、まだ若いんだから\nヘンな気を　起こさないでくださいね<$12><$00>
-<CLEAR>I've seen a lot of people donating\n
-everything they have lately.<$12>\n
-<CLEAR>You're still young,\n
+<CLEAR>
+I've seen a lot of people donating\n
+everything they have lately.
+<$12>
+\n
+
+<CLEAR>
+You're still young,\n
 so don't feel strange or\n
-guilted into participating.<$12><$00>
+guilted into participating.
+<$12><$00>
 
 
 //<CLEAR>あなたに　神様からの祝福が\nありますように<$12><$00>
-<CLEAR>God bless you.<$12><$00>
+<CLEAR>
+God bless you.
+<$12><$00>
 
 
 //<CLEAR>あなたと　あなたの家族に\n神様からのご加護が　ありますように<$12><$00>
-<CLEAR>God bless you and your family.<$12><$00>
+<CLEAR>
+God bless you and your family.
+<$12><$00>
 
 
 //<CLEAR>あなたと　あなたの家族\nそして　子孫にも　未来永劫、\n幸あらんことを　お祈りします<$12><$00>
-<CLEAR>God bless you, your family,\n
+<CLEAR>
+God bless you, your family,\n
 your children and your childrens'\n
-children.<$12><$00>
+children.
+<$12><$00>
 
 
 //<CLEAR>今、あなたが寄付したお金を\nどうやって　かせいだかについては…<$12>\n<CLEAR>きっと　神様も見てなかったことに\nしてくださると　思いますよ\n良かったですね<$12><$00>
-<CLEAR>Ask yourself, how'd you get the money\n
-you donated just now?<$12>\n
-<CLEAR>God's giving someone a little special\n
+<CLEAR>
+Ask yourself, how'd you get the money\n
+you donated just now?
+<$12>
+\n
+
+<CLEAR>
+God's giving someone a little special\n
 treatment, I'll bet.\n
-But that's good too!<$12><$00>
+But that's good too!
+<$12><$00>
 
 
 //<CLEAR>どうも<$12>\n………………………………？\nえっ￠　神様のご加護？<$12>\n<CLEAR>そんなモンなくったって　こんな大金を\nポンと　寄付できるような方なんだから\n十分、幸せなはずですよ<$12>\n<CLEAR>足りなきゃ　<$06>100000<$04>￥で\nお売りしましょうか？<$12><$00>
-<CLEAR>My goodness!<$12>\n
+<CLEAR>
+My goodness!
+<$12>
+\n
 Is this... what they call\n
-"a gift from God"?<$12>\n
-<CLEAR>To see someone, who by all rights\n
+"a gift from God"?
+<$12>
+\n
+
+<CLEAR>
+To see someone, who by all rights\n
 would not have much, be so generous\n
-brings me to tears!<$12>\n
-<CLEAR>Is <$06>100,000<$04>￥ a fair price to you?<$12><$00>
+brings me to tears!
+<$12>
+\n
+
+<CLEAR>
+Is 
+<$06>
+100,000
+<$04>
+￥ a fair price to you?
+<$12><$00>
 
 
 //<CLEAR>本当に　ありがとうございました∥\nあなたのお気持ちは　しっかりと…<$12>\n「記録」しておきましたよ<$12><$00>
-<CLEAR>Thank you so much!\n
+<CLEAR>
+Thank you so much!\n
 Your generosity will be\n
-remembered for all time.<$12>\n
-I know, because I just "reported" it.<$12><$00>
+remembered for all time.
+<$12>
+\n
+I know, because I just "reported" it.
+<$12><$00>
 
 
 //<$15><$59>貸しワナ屋<$00>
-<$15><$59>Trapping Service<$00>
+<$15><$59>
+Trapping Service
+<$00>
 
 
 //<CLEAR>どんな獲物が　捕まっているか\nドキドキしながら　待つ今が\n一番、楽しゅうございますですね<$12><$00>
-<CLEAR>That drumroll before finding out what you caught is the\n
-most exciting part about checking traps!<$12><$00>
+<CLEAR>
+That drumroll before finding out what you caught is the\n
+most exciting part about checking traps!
+<$12><$00>
 
 
 //<CLEAR>いくら当店の「貸しワナ」が　優秀でも\n仕掛けなきゃ　獲物は永久に\n掛かりませんですよ…<$12><$00>
-<CLEAR>You miss 100% of the shots you don't take. If you rent a\n
-trap, don't forget to set it up!<$12><$00>
+<CLEAR>
+You miss 100% of the shots you don't take. If you rent a\n
+trap, don't forget to set it up!
+<$12><$00>
 
 
 //当店自慢の「貸しワナ」で\n危険な動物も　安全にあなたのモノに∥\n<$01>借りる＿<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
 Our service is great for safely snaring animals!\n
-<$01>Rent trap <$0E> / <$01>Chat<$0E> / <$01>Exit<$0E><$00>
+
+<$01>
+Rent trap 
+<$0E>
+ / 
+<$01>
+Chat
+<$0E>
+ / 
+<$01>
+Exit
+<$0E><$00>
 
 
 //<CLEAR><$1D><$06><$1E><$04><$14>￥　頂戴します\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
-<CLEAR><$1D><$06><$1E><$04><$14>￥ will be charged.\n
-<$01>Yes<$0E> / <$01>No<$0E><$00>
+<CLEAR><$1D><$06><$1E><$04><$14>
+￥ will be charged.\n
+
+<$01>
+Yes
+<$0E>
+ / 
+<$01>
+No
+<$0E><$00>
 
 
 //<CLEAR>銀行で　お金を都合してください\nお待ちしておりますです<$12><$00>
-<CLEAR>Get money from the bank and come back. We'll work with\n
-you once you're ready.<$12><$00>
+<CLEAR>
+Get money from the bank and come back. We'll work with\n
+you once you're ready.
+<$12><$00>
 
 
 //<CLEAR>道具袋を　１つ空けてください\nお待ちしておりますです<$12><$00>
-<CLEAR>Please make space in your item bag. We'll work with you\n
-once you're ready.<$12><$00>
+<CLEAR>
+Please make space in your item bag. We'll work with you\n
+once you're ready.
+<$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53><CLEAR>ケンは「貸しワナ」を受け取った<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53><CLEAR>Ken received\n
-the Rental Trap!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>
+Ken received\n
+the Rental Trap!
+<$14><$12><$00>
 
 
 //<CLEAR>お客様は　ワナを仕掛けるだけ！\n回収のほうは　当店の無料サービス∥\n季節が変わったら　御来店ください<$12><$00>
-<CLEAR>Go set that trap. We'll retrieve it, so come back next\n
-season to see what you get!<$12><$00>
+<CLEAR>
+Go set that trap. We'll retrieve it, so come back next\n
+season to see what you get!
+<$12><$00>
 
 
 //<CLEAR>もうしわけありませんお客様<$12>\n<CLEAR>貸しワナには何もかかっていませんでした\nまたのご利用をお待ちしています<$12><$00>
-<CLEAR>We regret to inform you that nothing was found in the trap.<$12>\n
-<CLEAR>If you'd like try our services again, we'll work with you once\n
-you're ready.<$12><$00>
+<CLEAR>
+We regret to inform you that nothing was found in the trap.
+<$12>
+\n
+
+<CLEAR>
+If you'd like try our services again, we'll work with you once\n
+you're ready.
+<$12><$00>
 
 
 //<CLEAR>お待ちしておりましたよ∥　お客様∥\n今回の獲物は…<$12><$00>
-<CLEAR>We've been expecting you!\n
-This time, we found... <$12><$00>
+<CLEAR>
+We've been expecting you!\n
+This time, we found... 
+<$12><$00>
 
 
 //<CLEAR>…あらら\nカーゴを　２つ空けてください\nお待ちしておりますです<$12><$00>
-<CLEAR>Uh-oh! Someone needs to empty out his trans-cargo unit! Do\n
-so, and we'll work with you once you're ready.<$12><$00>
+<CLEAR>
+Uh-oh! Someone needs to empty out his trans-cargo unit! Do\n
+so, and we'll work with you once you're ready.
+<$12><$00>
 
 
 //<CLEAR><$00>
 <CLEAR><$00>
 
 //以上で　ごさいます<$12>\n<CLEAR>またの御利用のほど　よろしく\nお願い致しますです<$12><$00>
-That's all for now!<$12>\n
-<CLEAR>Thank you for using our services!<$12><$00>
+That's all for now!
+<$12>
+\n
+
+<CLEAR>
+Thank you for using our services!
+<$12><$00>
 
 
 //ここに「貸しワナ」を仕掛けますか？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
 Set the Rental Trap here?\n
-<$01>Yes<$0E> / <$01>No<$0E><$00>
+
+<$01>
+Yes
+<$0E>
+ / 
+<$01>
+No
+<$0E><$00>
 
 
 //<CLEAR>ケンは　「貸しワナ」をそっと置いた<$00>
-<CLEAR>Ken carefully set the Rental Trap.<$00>
+<CLEAR>
+Ken carefully set the Rental Trap.
+<$00>
 
 
 //<$12><$00>
 <$12><$00>
 
 //<CLEAR>ケンは　「自前ワナ」の設置場所を\n一度に　３ヵ所しか\n覚えられそうにない…<$12><$00>
-<CLEAR>Ken can only remember up to 3 Makeshift Trap locations\n
-at a time.<$12><$00>
+<CLEAR>
+Ken can only remember up to 3 Makeshift Trap locations\n
+at a time.
+<$12><$00>
 
 
 //<CLEAR>ここに「自前のワナ」を仕掛けますか？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
-<CLEAR>Set the Makeshift Trap here?\n
-<$01>Yes<$0E> / <$01>No<$0E><$00>
+<CLEAR>
+Set the Makeshift Trap here?\n
+
+<$01>
+Yes
+<$0E>
+ / 
+<$01>
+No
+<$0E><$00>
 
 
 //<CLEAR>ケンは　「自前のワナ」をそっと置いた<$00>
-<CLEAR>Ken set the Makeshift Trap.<$00>
+<CLEAR>
+Ken set the Makeshift Trap.
+<$00>
 
 
 //<$12><$00>
 <$12><$00>
 
 //<CLEAR>やっぱり　ケンは\n前に仕掛けた　「自前のワナ」の場所を\nひとつ　忘れてしまった…　トホホ…<$12><$00>
-<CLEAR>... Oops! As expected, Ken forgot\n
+<CLEAR>
+... Oops! As expected, Ken forgot\n
 the location of 1 previously set\n
-Makeshift Trap.<$12><$00>
+Makeshift Trap.
+<$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53>ケンは「貸しワナ」を調べた<$12>\n<CLEAR>まだ動物は　かかっていない\nケンは　がっかりしながら\n「貸しワナ」を　元に戻した<$12><$00>
-<CLEAR><$19><$31><$15><$53>Ken inspected the Rental Trap.<$12>\n
-<CLEAR>No bites yet... \n
+<CLEAR><$19><$31><$15><$53>
+Ken inspected the Rental Trap.
+<$12>
+\n
+
+<CLEAR>
+No bites yet... \n
 Ken whistfully put down\n
-the Rental Trap.<$12><$00>
+the Rental Trap.
+<$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53>ケンは「自前のワナ」を調べた<$12><$00>
-<CLEAR><$19><$31><$15><$53>Ken inspected the Makeshift Trap.<$12><$00>
+<CLEAR><$19><$31><$15><$53>
+Ken inspected the Makeshift Trap.
+<$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53>まだ動物はかかっていない\nケンは　がっかりしながら\n「自前のワナ」を　元に戻した<$12><$00>
-<CLEAR><$19><$31><$15><$53>No bites yet... \n
+<CLEAR><$19><$31><$15><$53>
+No bites yet... \n
 Ken whistfully put down\n
-the Makeshift Trap.<$12><$00>
+the Makeshift Trap.
+<$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53>ワナは\n壊されていた…<$12><$00>
-<CLEAR><$19><$31><$15><$53>The trap was destroyed... <$12><$00>
+<CLEAR><$19><$31><$15><$53>
+The trap was destroyed... 
+<$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53>だが、トランスカーゴがいっぱいなので\nとりあえず　あきらめた…<$12><$00>
-<CLEAR><$19><$31><$15><$53>However, the TCU was already full,\n
-so Ken let it go.<$12><$00>
+<CLEAR><$19><$31><$15><$53>
+However, the TCU was already full,\n
+so Ken let it go.
+<$12><$00>
 
 
 //<CLEAR><$00>
 <CLEAR><$00>
 
 //<$06>TRANS-CARGO IN<$04>∥<$12><$00>
-<$06>Now loading to TCU... <$04>!<$12><$00>
+<$06>
+Now loading to TCU... 
+<$04>
+!
+<$12><$00>
 
 
 //リンダは　動物たちの\n鳴きマネをした<$00>
-Linda mimicked a few animal calls.<$00>
+Linda mimicked a few animal calls.
+<$00>
 
 
 //ケンは　目立たないように\n気配を殺した<$00>
 Ken masked the party to avoid\n
-detection.<$00>
+detection.
+<$00>
 
 
 //<$12><$00>
 <$12><$00>
 
 //ケンは　「迷彩スプレー」を\n使った<$00>
-Ken used the Cover Spray.<$00>
+Ken used the Cover Spray.
+<$00>
 
 
 //<CLEAR>スプレーは　空になった<$12><$00>
-<CLEAR>The spray ran out.<$12><$00>
+<CLEAR>
+The spray ran out.
+<$12><$00>
 
 
 //ケンは　「中和スプレー」を\n使った<$00>
-Ken used the Neutralizer.<$00>
+Ken used the Neutralizer.
+<$00>
 
 
 //<CLEAR>スプレーは　空になった<$12><$00>
-<CLEAR>The spray ran out.<$12><$00>
+<CLEAR>
+The spray ran out.
+<$12><$00>
 
 
 //ケンは　「シャニルＮｏ５」を\n自分にふりかけた<$00>
 Ken sprinkled the Chanel No. 5 over\n
-himself.<$00>
+himself.
+<$00>
 
 
 //クン、クンクン………？<$12>\n<CLEAR><$1D>のニオイが　するね\nそういえば、<$1D>食まだだっけ…<$12><$00>
-Sniff... sniff, sniff?<$12>\n
-<CLEAR><$1D> scent's filling the air. You know, I could go for some <$1D> !<$12><$00>
+Sniff... sniff, sniff?
+<$12>
+\n
+
+<CLEAR><$1D>
+ scent's filling the air. You know, I could go for some 
+<$1D>
+ !
+<$12><$00>
 
 
 //卵焼き<$00>
-fried eggs<$00>
+fried eggs
+<$00>
 
 
 //カレー<$00>
-curry<$00>
+curry
+<$00>
 
 
 //焼き肉<$00>
-Neo Korean BBQ<$00>
+Neo Korean BBQ
+<$00>
 
 
 //唐あげ<$00>
-karaage<$00>
+karaage
+<$00>
 
 
 //お菓子<$00>
-candy<$00>
+candy
+<$00>
 
 
 //バナナ<$00>
-banana<$00>
+banana
+<$00>
 
 
 //フライ<$00>
-Neo French fries<$00>
+Neo French fries
+<$00>
 
 
 //焼き魚<$00>
-grilled fish<$00>
+grilled fish
+<$00>
 
 
 //トマト<$00>
-tomato<$00>
+tomato
+<$00>
 
 
 //バター<$00>
-butter<$00>
+butter
+<$00>
 
 
 //ソース<$00>
-sauce<$00>
+sauce
+<$00>
 
 
 //スープ<$00>
- soup<$00>
+ soup
+<$00>
 
 
 //ピラフ<$00>
-pilaf<$00>
+pilaf
+<$00>
 
 
 //バニラ<$00>
-vanilla<$00>
+vanilla
+<$00>
 
 
 //キムチ<$00>
-kimchi<$00>
+kimchi
+<$00>
 
 
 //チーズ<$00>
-cheese<$00>
+cheese
+<$00>
 
 
 //朝<$00>
-breakfast<$00>
+breakfast
+<$00>
 
 
 //昼<$00>
-lunch<$00>
+lunch
+<$00>
 
 
 //夕<$00>
-dinner<$00>
+dinner
+<$00>
 
 
 //<$00>
 <$00>
 
 //クーン、クーン<$12><$00>
-Sniff, sniff!<$12><$00>
+Sniff, sniff!
+<$12><$00>
 
 
 //<$00>

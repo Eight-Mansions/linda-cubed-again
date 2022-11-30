@@ -30,99 +30,179 @@ c142a2.obj<$00>
 
 #WRITE(PTR, $001C)
 //猟犬屋<$00>
-Dog Center<$00>
+Dog Center
+<$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
-<CLEAR>Ken whistled.<$12>\n
-<CLEAR>Huge wings flapped in the distance... <$12><$00>
+<CLEAR>
+Ken whistled.
+<$12>
+\n
+
+<CLEAR>
+Huge wings flapped in the distance... 
+<$12><$00>
 
 
 //<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Ken masked the party to avoid\n
-detection.<$12>\n
-<CLEAR>However, none of the animals in the\n
+<CLEAR>
+Ken masked the party to avoid\n
+detection.
+<$12>
+\n
+
+<CLEAR>
+However, none of the animals in the\n
 area were stupid enough to fall for\n
-his antics!<$12><$00>
+his antics!
+<$12><$00>
 
 
 //<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Linda mimicked a few animal calls.<$12>\n
-<CLEAR>However, none of the animals in the\n
+<CLEAR>
+Linda mimicked a few animal calls.
+<$12>
+\n
+
+<CLEAR>
+However, none of the animals in the\n
 area were stupid enough to fall for\n
-her antics!<$12><$00>
+her antics!
+<$12><$00>
 
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
-<CLEAR>The Animal Bible can't be booted here!<$12><$00>
+<CLEAR>
+The Animal Bible can't be booted here!
+<$12><$00>
 
 
 //<CLEAR>ここでは　野営できない<$12><$00>
-<CLEAR>Camp can't be set up here!<$12><$00>
+<CLEAR>
+Camp can't be set up here!
+<$12><$00>
 
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
-<CLEAR>The Navi System(NaviS) can't be booted\n
-here!<$12><$00>
+<CLEAR>
+The Navi System(NaviS) can't be booted\n
+here!
+<$12><$00>
 
 
 //<CLEAR>店で買った<$1B>イヌでも　そこらで\n捕まえた野犬でも　名前をつけて\n登録しちゃえば　あなたの猟犬∥<$12>\n<CLEAR>一瞬で完了する　調教の技が\n私たち、プロの証しね∥<$12><$00>
-<CLEAR>Whether you buy a <$1B>dog in-store or catch it in the wild,\n
-once you name it, it's yours!<$12>\n
-<CLEAR>What really proves one's mettel as a trainer is his ability\n
-to tame them on the spot.<$12><$00>
+<CLEAR>
+Whether you buy a 
+<$1B>
+dog in-store or catch it in the wild,\n
+once you name it, it's yours!
+<$12>
+\n
+
+<CLEAR>
+What really proves one's mettel as a trainer is his ability\n
+to tame them on the spot.
+<$12><$00>
 
 
 //<CLEAR>ヘボな猟犬でも　いないよりは\n何倍も心強いのは　確かね！<$12>\n<CLEAR>ウチで扱ってる<$1B>イヌは　どれも\n猟犬にするには　ピッタリよ！\n血統もいいし　味も最高∥<$12><$00>
-<CLEAR>Even a low-tier dog is better than nothing, even if just\n
-for emotional support.<$12>\n
-<CLEAR>The <$1B>dogs we raise are perfect for hunting.<$12>\n
-<CLEAR>They've got great pedigree, and, in desperate measures,\n
-great flavor too!<$12><$00>
+<CLEAR>
+Even a low-tier dog is better than nothing, even if just\n
+for emotional support.
+<$12>
+\n
+
+<CLEAR>
+The 
+<$1B>
+dogs we raise are perfect for hunting.
+<$12>
+\n
+
+<CLEAR>
+They've got great pedigree, and, in desperate measures,\n
+great flavor too!
+<$12><$00>
 
 
 //<CLEAR>ケガのひどさで　治療費は変わるわ\n今回の治療費が　安くすんだからって\n次も同じとは　限らないのよ<$12>\n<CLEAR>まっ、いずれにしても　猟犬も\n人間の仲間の　半分くらいは\n大事にしてやって　欲しいわね<$12><$00>
-<CLEAR>Treatment costs vary, depending on the injury. It might\n
-be cheap now, but not next time.<$12>\n
-<CLEAR>That's why it's so important to treat dogs like human\n
-beings. Take good care of them.<$12><$00>
+<CLEAR>
+Treatment costs vary, depending on the injury. It might\n
+be cheap now, but not next time.
+<$12>
+\n
+
+<CLEAR>
+That's why it's so important to treat dogs like human\n
+beings. Take good care of them.
+<$12><$00>
 
 
 #WRITE(PTR, $001E)
 //<$15><$59>猟犬屋<$00>
-<$15><$59>Dog Center<$00>
+<$15><$59>
+Dog Center
+<$00>
 
 
 //<CLEAR>お客さん…\nホスピコの入り口に　並んでる\n哀れな猟犬の墓を　数えてごらん<$12>\n<CLEAR>これ以上　あなたの猟犬を\n登録したところで、どうせまた\nあそこの墓が　増えるだけだものね<$12>\n<CLEAR>金の問題じゃないんだよ…\nわかるッ￠<$12><$00>
-<CLEAR>Sir, go look at the pet cemetary along\n
-the Hospico entrance.<$12>\n
-<CLEAR>We keep that cemetary's growth down by\n
+<CLEAR>
+Sir, go look at the pet cemetary along\n
+the Hospico entrance.
+<$12>
+\n
+
+<CLEAR>
+We keep that cemetary's growth down by\n
 capping the number of dogs each client\n
-may adopt.<$12>\n
-<CLEAR>You may have money, but you've sadly\n
+may adopt.
+<$12>
+\n
+
+<CLEAR>
+You may have money, but you've sadly\n
 hit the adoption cap.\n
-Let that be a lesson to you.<$12><$00>
+Let that be a lesson to you.
+<$12><$00>
 
 
 //<CLEAR>猟犬の収容枠が　いっぱいです\nこれ以上、猟犬を増やせません<$12><$00>
-<CLEAR>You have reached the limit on dogs you\n
-can own at one time. <$12><$00>
+<CLEAR>
+You have reached the limit on dogs you\n
+can own at one time. 
+<$12><$00>
 
 
 //<CLEAR>登録料　<$15><$62><$06><$1E><$04><$14>￥が足りません\n銀行で　ご都合ください<$12><$00>
-<CLEAR>The adoption fee is over\n
-<$15><$62><$06><$1E><$04><$14>￥.\n
-Get a loan from the bank.<$12><$00>
+<CLEAR>
+The adoption fee is over\n
+
+<$15><$62><$06><$1E><$04><$14>
+￥.\n
+Get a loan from the bank.
+<$12><$00>
 
 
 //その名前は　既に登録されています\n別の名前を　つけてください<$12><$00>
 Sorry, that name is taken.\n
-Choose a new name.<$12><$00>
+Choose a new name.
+<$12><$00>
 
 
 //<CLEAR>猟犬<$1D>を登録します\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
-<CLEAR>Adopt <$1D>?\n
-<$01>Yes<$0E> / <$01>No<$0E><$00>
+<CLEAR>
+Adopt 
+<$1D>
+?\n
+
+<$01>
+Yes
+<$0E>
+ / 
+<$01>
+No
+<$0E><$00>
 
 
 //<CLEAR><$00>
@@ -132,373 +212,575 @@ Choose a new name.<$12><$00>
 <$16><$01><$1D><$02>96<$0E>　<$15><$53><$1E>18<$14><$04><$02>140<$01><$1D><$02>236<$0E>　<$15><$53><$1E>18<$14><$00>
 
 //<$15><$59>猟犬屋／メニュー<$00>
-<$15><$59>Dog/Menu<$00>
+<$15><$59>
+Dog/Menu
+<$00>
 
 
 //<$01>買＿う<$0E>\n<$01>売＿る<$0E>\n<$01>登＿録<$0E>\n<$01>やめる<$0E><$00>
-<$01>Buy<$0E>\n
-<$01>Sell<$0E>\n
-<$01>Tame<$0E>\n
-<$01>Exit<$0E><$00>
+<$01>
+Buy
+<$0E>
+\n
+
+<$01>
+Sell
+<$0E>
+\n
+
+<$01>
+Tame
+<$0E>
+\n
+
+<$01>
+Exit
+<$0E><$00>
 
 
 //<CLEAR>猟犬登録の制限３２匹を越えました\nよって、登録できません<$12><$00>
-<CLEAR>You have reached the 32 dog adoption limit.\n
-You cannot adopt any more dogs.<$12><$00>
+<CLEAR>
+You have reached the 32 dog adoption limit.\n
+You cannot adopt any more dogs.
+<$12><$00>
 
 
 //<CLEAR><$1B>イヌを　お持ちじゃないようですね<$12><$00>
-<CLEAR>You don't have any <$1B>dogs.<$12><$00>
+<CLEAR>
+You don't have any 
+<$1B>
+dogs.
+<$12><$00>
 
 
 //<$15><$59>猟犬屋／登＿録<$00>
-<$15><$59>Dog/Tame<$00>
+<$15><$59>
+Dog/Tame
+<$00>
 
 
 //<CLEAR>猟犬は太古より　人間の良きパートナー\nぜひ　あなたも　１頭いかがですか？\n<$01>取引する<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
-<CLEAR>Dogs have been man's best friend since ancient times.\n
-<$01>Shop<$0E> / <$01>Chat<$0E> / <$01>Exit<$0E><$00>
+<CLEAR>
+Dogs have been man's best friend since ancient times.\n
+
+<$01>
+Shop
+<$0E>
+ / 
+<$01>
+Chat
+<$0E>
+ / 
+<$01>
+Exit
+<$0E><$00>
 
 
 //<CLEAR>またの御利用を　お待ち申し上げます<$12><$00>
-<CLEAR>We look forward to your next visit.<$12><$00>
+<CLEAR>
+We look forward to your next visit.
+<$12><$00>
 
 
 //<$15><$59>猟犬屋／買＿う<$00>
-<$15><$59>Dog/Buy<$00>
+<$15><$59>
+Dog/Buy
+<$00>
 
 
 //<CLEAR><$00>
 <CLEAR><$00>
 
 //<$04><$16><$15><$57><$01>猟犬LV<$1E>02<$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
-<$04><$16><$15><$57><$01>Dog LVL <$1E>02<$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
+<$04><$16><$15><$57><$01>
+Dog LVL 
+<$1E>
+02
+<$1D><$02>
+116
+<$0E><$02>
+216
+<$1D><$1E>
+39￥
+<$00>
 
 
 //<$15><$59>猟犬屋／売＿る<$00>
-<$15><$59>Dog/Sell<$00>
+<$15><$59>
+Dog/Sell
+<$00>
 
 
 //<CLEAR>猟犬「<$1D>」を\n<$06><$1E><$04>￥で売りますか？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
-<CLEAR>Sell <$1D>  for <$06><$1E><$04>￥?\n
-<$01>Yes<$0E> / <$01>No<$0E><$00>
+<CLEAR>
+Sell 
+<$1D>
+  for 
+<$06><$1E><$04>
+￥?\n
+
+<$01>
+Yes
+<$0E>
+ / 
+<$01>
+No
+<$0E><$00>
 
 
 //<$15><$59>猟犬治療<$00>
-<$15><$59>YVeterinarian<$00>
+<$15><$59>
+YVeterinarian
+<$00>
 
 
 //<CLEAR>かわいい猟犬が　傷ついた時は\n手遅れにならないうちに\nここへ　連れて来なさいね<$12><$00>
-<CLEAR>If your darling dogs ever get hurt,\n
-bring them to me before it's too late!<$12><$00>
+<CLEAR>
+If your darling dogs ever get hurt,\n
+bring them to me before it's too late!
+<$12><$00>
 
 
 //<CLEAR>ケガしてる猟犬は　どのコなの？\nほら早く　診せなさい！\n<$01>診せる<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
-<CLEAR>Is your hunting dog injured?\n
+<CLEAR>
+Is your hunting dog injured?\n
 Let me!\n
  take a look!\n
-<$01>Treat<$0E> / <$01>Chat<$0E> / <$01>Exit<$0E><$00>
+
+<$01>
+Treat
+<$0E>
+ / 
+<$01>
+Chat
+<$0E>
+ / 
+<$01>
+Exit
+<$0E><$00>
 
 
 //<CLEAR>いらない道具や動物を　売っても\nまだ足りないときは、銀行でお金を\n借りてでも　治療費は作りなさいね<$12>\n<CLEAR>それくらいは　判断を誤った\nバカな飼い主の\n最低限の　務めってモンよ<$12><$00>
-<CLEAR>If you need money, sell spare items or take a loan from the\n
-bank.<$12>\n
-<CLEAR>Don't deny your dog even bare minimum care just\n
-because you're ignorant.<$12><$00>
+<CLEAR>
+If you need money, sell spare items or take a loan from the\n
+bank.
+<$12>
+\n
+
+<CLEAR>
+Don't deny your dog even bare minimum care just\n
+because you're ignorant.
+<$12><$00>
 
 
 //\n<$1D>の治療には　<$1D><$06><$1E><$14><$04>￥必要ね\n<$01>依頼する<$0E>／<$01>ほっとく<$0E><$00>
 \n
-I can treat <$1D> for <$1D><$06><$1E><$14><$04>￥,\n
-<$01>Please help!<$0E> / <$01>Nevermind!<$0E><$00>
+I can treat 
+<$1D>
+ for 
+<$1D><$06><$1E><$14><$04>
+￥,\n
+
+<$01>
+Please help!
+<$0E>
+ / 
+<$01>
+Nevermind!
+<$0E><$00>
 
 
 //<CLEAR>かわいそうな<$1D>…\n治療費も　満足に払えない\n貧乏な飼い主を　恨みなさいね<$12><$00>
-<CLEAR>Poor, poor, <$1D>... \n
-Bwame your daddy for being a wittle cheapskate.<$12><$00>
+<CLEAR>
+Poor, poor, 
+<$1D>
+... \n
+Bwame your daddy for being a wittle cheapskate.
+<$12><$00>
 
 
 //<CLEAR>さてと　次はどのコなの\nほら早く　診せなさい！<$12><$00>
-<CLEAR>Well, if you have another dog, I'll see them next!<$12><$00>
+<CLEAR>
+Well, if you have another dog, I'll see them next!
+<$12><$00>
 
 
 //あぁ～傷に<$1B>ウジが　わいてるわよ<$00>
-Whoa～! <$1B>Maggots in the wound!<$00>
+Whoa～! 
+<$1B>
+Maggots in the wound!
+<$00>
 
 
 //肋骨と鎖骨が　折れてるだけね<$00>
-Does Baby have a bwoken wibcage?<$00>
+Does Baby have a bwoken wibcage?
+<$00>
 
 
 //肺炎と腹膜炎を　併発してるようね<$00>
-Aww, pneumonia, pewitonitis... <$00>
+Aww, pneumonia, pewitonitis... 
+<$00>
 
 
 //頭がい骨が　少し陥没してるわね<$00>
-Baby, your skull is caved in!<$00>
+Baby, your skull is caved in!
+<$00>
 
 
 //腹腔に　血が溜ってるようね<$00>
-Aww, Baby has tummy bweeding.<$00>
+Aww, Baby has tummy bweeding.
+<$00>
 
 
 //下腹部に損傷があるわよ　何なのコレ？<$00>
-Tsk, lower abdominal twauma... <$00>
+Tsk, lower abdominal twauma... 
+<$00>
 
 
 //腸が　はみ出しちゃってるわよ<$00>
-Baby's intestines are pwowapsed!<$00>
+Baby's intestines are pwowapsed!
+<$00>
 
 
 //脚が　取れかかってるわね…<$00>
-What a gangwenous wittle weg!<$00>
+What a gangwenous wittle weg!
+<$00>
 
 
 //<CLEAR>大丈夫！　まかせなさい！\n<$1E>0回に１回くらいしか　失敗しないわ<$12><$00>
-<CLEAR>Leave it to me!\n
-I mess up only once every <$1E>0 times, tops!<$12><$00>
+<CLEAR>
+Leave it to me!\n
+I mess up only once every 
+<$1E>
+0 times, tops!
+<$12><$00>
 
 
 //<CLEAR>…………………………………∥<$12><$00>
-<CLEAR>... ... ...!<$12><$00>
+<CLEAR>
+... ... ...!
+<$12><$00>
 
 
 //<CLEAR>…………………………………￠<$12><$00>
-<CLEAR>... ... ... ￠<$12><$00>
+<CLEAR>
+... ... ... ￠
+<$12><$00>
 
 
 //<CLEAR>はい、治療終り∥\n傷が開くといけないから　<$1D>には\n当分、無理させないようにしてね<$12><$00>
-<CLEAR>And... done!\n
-Be careful with <$1D>,\n
-or these wounds may reopen. <$12><$00>
+<CLEAR>
+And... done!\n
+Be careful with 
+<$1D>
+,\n
+or these wounds may reopen. 
+<$12><$00>
 
 
 //クン、クンクン………？<$12>\n<CLEAR><$1D>のニオイが　するね\nそういえば、<$1D>食まだだっけ…<$12><$00>
-Sniff... sniff, sniff?<$12>\n
-<CLEAR><$1D> scent's filling the air. You know, I could go for some <$1D> !<$12><$00>
+Sniff... sniff, sniff?
+<$12>
+\n
+
+<CLEAR><$1D>
+ scent's filling the air. You know, I could go for some 
+<$1D>
+ !
+<$12><$00>
 
 
 //卵焼き<$00>
-fried eggs<$00>
+fried eggs
+<$00>
 
 
 //カレー<$00>
-curry<$00>
+curry
+<$00>
 
 
 //焼き肉<$00>
-Neo Korean BBQ<$00>
+Neo Korean BBQ
+<$00>
 
 
 //唐あげ<$00>
-karaage<$00>
+karaage
+<$00>
 
 
 //お菓子<$00>
-candy<$00>
+candy
+<$00>
 
 
 //バナナ<$00>
-banana<$00>
+banana
+<$00>
 
 
 //フライ<$00>
-Neo French fries<$00>
+Neo French fries
+<$00>
 
 
 //焼き魚<$00>
-grilled fish<$00>
+grilled fish
+<$00>
 
 
 //トマト<$00>
-tomato<$00>
+tomato
+<$00>
 
 
 //バター<$00>
-butter<$00>
+butter
+<$00>
 
 
 //ソース<$00>
-sauce<$00>
+sauce
+<$00>
 
 
 //スープ<$00>
- soup<$00>
+ soup
+<$00>
 
 
 //ピラフ<$00>
-pilaf<$00>
+pilaf
+<$00>
 
 
 //バニラ<$00>
-vanilla<$00>
+vanilla
+<$00>
 
 
 //キムチ<$00>
-kimchi<$00>
+kimchi
+<$00>
 
 
 //チーズ<$00>
-cheese<$00>
+cheese
+<$00>
 
 
 //朝<$00>
-breakfast<$00>
+breakfast
+<$00>
 
 
 //昼<$00>
-lunch<$00>
+lunch
+<$00>
 
 
 //夕<$00>
-dinner<$00>
+dinner
+<$00>
 
 
 //……東<$00>
-... East<$00>
+... East
+<$00>
 
 
 //……西<$00>
-... West<$00>
+... West
+<$00>
 
 
 //……南<$00>
-... South<$00>
+... South
+<$00>
 
 
 //……北<$00>
-... North<$00>
+... North
+<$00>
 
 
 //…北東<$00>
-... North-east<$00>
+... North-east
+<$00>
 
 
 //…北西<$00>
-... North-west<$00>
+... North-west
+<$00>
 
 
 //…南東<$00>
-... South-east<$00>
+... South-east
+<$00>
 
 
 //…南西<$00>
-... South-west<$00>
+... South-west
+<$00>
 
 
 //<CLEAR>……<$1D><$00>
-<CLEAR>... ... <$1D><$00>
+<CLEAR>
+... ... 
+<$1D><$00>
 
 
 //、…<$1D>に行けば<$00>
-! That's where we'll find a <$1D>.<$00>
+! That's where we'll find a 
+<$1D>
+.
+<$00>
 
 
 //直進<$00>
-For<$00>
+For
+<$00>
 
 
 //右よ<$00>
-Right<$00>
+Right
+<$00>
 
 
 //左よ<$00>
-Left<$00>
+Left
+<$00>
 
 
 //後ろ<$00>
-Back<$00>
+Back
+<$00>
 
 
 //<CLEAR>……<$1D><$00>
-<CLEAR>... ... <$1D><$00>
+<CLEAR>
+... ... 
+<$1D><$00>
 
 
 //、絶対に<$1D>∥<$00>
-wards, got it? I'm sure we'll find a <$1D> there!<$00>
+wards, got it? I'm sure we'll find a 
+<$1D>
+ there!
+<$00>
 
 
 //<CLEAR><$19><$31><$15><$53>リンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition... <$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>
+Linda used her woman's intuition... 
+<$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
-<CLEAR>... Sorry. I don't have it in me today.<$12><$00>
+<CLEAR>
+... Sorry. I don't have it in me today.
+<$12><$00>
 
 
 //運命の<$00>
-Fated <$00>
+Fated 
+<$00>
 
 
 //新しい<$00>
-New <$00>
+New 
+<$00>
 
 
 //素敵な<$00>
-Great <$00>
+Great 
+<$00>
 
 
 //未知の<$00>
-Unknown <$00>
+Unknown 
+<$00>
 
 
 //何か<$00>
-things <$00>
+things 
+<$00>
 
 
 //発見<$00>
-discoveries <$00>
+discoveries 
+<$00>
 
 
 //お宝<$00>
-treasures <$00>
+treasures 
+<$00>
 
 
 //動物<$00>
-animals <$00>
+animals 
+<$00>
 
 
 //に　出会える…<$00>
-could appear.<$00>
+could appear.
+<$00>
 
 
 //が　待ってる…<$00>
-await us... <$00>
+await us... 
+<$00>
 
 
 //気がするわ∥<$00>
-are there.<$00>
+are there.
+<$00>
 
 
 //チャンスよ∥<$00>
-are in our grasp!<$00>
+are in our grasp!
+<$00>
 
 
 //今しかないわ<$00>
-could get away!<$00>
+could get away!
+<$00>
 
 
 //間違いなし∥<$00>
-are dead ahead!<$00>
+are dead ahead!
+<$00>
 
 
 //\n<$1D><$1D><$1D>\n<$1D><$12>\n<CLEAR><$00>
 \n
-<$1D><$1D><$1D>\n
-<$1D><$12>\n
+
+<$1D><$1D><$1D>
+\n
+
+<$1D><$12>
+\n
+
 <CLEAR><$00>
 
 
 //<CLEAR>自信があるの∥<$12><$00>
-<CLEAR>I swear!<$12><$00>
+<CLEAR>
+I swear!
+<$12><$00>
 
 
 //<CLEAR>自信は　ないけどね…<$12><$00>
-<CLEAR>Although, I'm not totally certain... <$12><$00>
+<CLEAR>
+Although, I'm not totally certain... 
+<$12><$00>
 
 
 //<CLEAR>絶対なんだから∥<$12><$00>
-<CLEAR>I'm absolutely certain!<$12><$00>
+<CLEAR>
+I'm absolutely certain!
+<$12><$00>
 
 
 //<$00>

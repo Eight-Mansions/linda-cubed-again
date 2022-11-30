@@ -22,55 +22,81 @@
 
 
 //<CLEAR><$1C><$41>は\n<$1D>度　鼻を鳴らした∥<$12><$00>
-<CLEAR><$1C><$41>\n
-snorted <$1D> times!<$12><$00>
+<CLEAR><$1C><$41>
+\n
+snorted 
+<$1D>
+ times!
+<$12><$00>
 
 
 //<CLEAR><$1C><$41>は\n雄たけびを　あげた∥<$12><$00>
-<CLEAR><$1C><$41>\n
-let out a battle cry!<$12><$00>
+<CLEAR><$1C><$41>
+\n
+let out a battle cry!
+<$12><$00>
 
 
 //<CLEAR><$1C><$41>は\n遠くを　見ている…<$12><$00>
-<CLEAR><$1C><$41>\n
-stared into the distance.<$12><$00>
+<CLEAR><$1C><$41>
+\n
+stared into the distance.
+<$12><$00>
 
 
 //<CLEAR><$1C><$41>は\n風の臭いに　おびえている…<$12><$00>
-<CLEAR><$1C><$41>\n
-trembles at a smell in the air.<$12><$00>
+<CLEAR><$1C><$41>
+\n
+trembles at a smell in the air.
+<$12><$00>
 
 
 //<CLEAR><$1C><$41>は\n大きく　２度、鳴いた∥<$12><$00>
-<CLEAR><$1C><$41>\n
-called loudly 2 times!<$12><$00>
+<CLEAR><$1C><$41>
+\n
+called loudly 2 times!
+<$12><$00>
 
 
 //<CLEAR><$1C><$41>は　<$1C><$54>を見て\nヨダレを　たらした∥<$12><$00>
-<CLEAR><$1C><$41>\n
+<CLEAR><$1C><$41>
+\n
 drooled at the sight of\n
-<$1C><$54>.<$12><$00>
+
+<$1C><$54>
+.
+<$12><$00>
 
 
 //<CLEAR><$1C><$41>は\n遠くを　見ている…<$12><$00>
-<CLEAR><$1C><$41>\n
-stared into the distance.<$12><$00>
+<CLEAR><$1C><$41>
+\n
+stared into the distance.
+<$12><$00>
 
 
 //<CLEAR><$1C><$41>は\n風の臭いに　おびえている…<$12><$00>
-<CLEAR><$1C><$41>\n
-trembles at a smell in the air.<$12><$00>
+<CLEAR><$1C><$41>
+\n
+trembles at a smell in the air.
+<$12><$00>
 
 
 //<CLEAR><$1C><$41>は\n大きく　２度、鳴いた∥<$12><$00>
-<CLEAR><$1C><$41>\n
-called loudly 2 times!<$12><$00>
+<CLEAR><$1C><$41>
+\n
+called loudly 2 times!
+<$12><$00>
 
 
 //<CLEAR><$1C><$41>は　<$1C><$54>を見て\nヨダレを　たらした∥<$12><$00>
-<CLEAR><$1C><$41>\n
+<CLEAR><$1C><$41>
+\n
 drooled at the sight of\n
-<$1C><$54>.<$12><$00>
+
+<$1C><$54>
+.
+<$12><$00>
 
 
 #WRITE(PTR, $001C)
@@ -133,293 +159,422 @@ m019m.obj<$00>
 
 #WRITE(PTR, $001E)
 //コシカタ<$00>
-Koshikata <$00>
+Koshikata 
+<$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
-<CLEAR>Ken whistled.<$12>\n
-<CLEAR>Huge wings flapped in the distance... <$12><$00>
+<CLEAR>
+Ken whistled.
+<$12>
+\n
+
+<CLEAR>
+Huge wings flapped in the distance... 
+<$12><$00>
 
 
 //<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Ken masked the party to avoid\n
-detection.<$12>\n
-<CLEAR>However, none of the animals in the\n
+<CLEAR>
+Ken masked the party to avoid\n
+detection.
+<$12>
+\n
+
+<CLEAR>
+However, none of the animals in the\n
 area were stupid enough to fall for\n
-his antics!<$12><$00>
+his antics!
+<$12><$00>
 
 
 //<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Linda mimicked a few animal calls.<$12>\n
-<CLEAR>However, none of the animals in the\n
+<CLEAR>
+Linda mimicked a few animal calls.
+<$12>
+\n
+
+<CLEAR>
+However, none of the animals in the\n
 area were stupid enough to fall for\n
-her antics!<$12><$00>
+her antics!
+<$12><$00>
 
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
-<CLEAR>The Animal Bible can't be booted here!<$12><$00>
+<CLEAR>
+The Animal Bible can't be booted here!
+<$12><$00>
 
 
 //<CLEAR>ここでは　野営できない<$12><$00>
-<CLEAR>Camp can't be set up here!<$12><$00>
+<CLEAR>
+Camp can't be set up here!
+<$12><$00>
 
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
-<CLEAR>The Navi System(NaviS) can't be booted\n
-here!<$12><$00>
+<CLEAR>
+The Navi System(NaviS) can't be booted\n
+here!
+<$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53>扉は硬く閉ざされている<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53>The door is shut tightly.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>
+The door is shut tightly.
+<$14><$12><$00>
 
 
 //<CLEAR>ケン選手、スタンドの大歓声に\n応えて　今、ゴールイン！<$00>
-<CLEAR>And Ken makes the goal!\n
-The crowd goes wild!<$00>
+<CLEAR>
+And Ken makes the goal!\n
+The crowd goes wild!
+<$00>
 
 
 //<CLEAR>やあ、お見事！\nさあ　賞品を渡そう\nおっと、そうそう　その前に…<$00>
-<CLEAR>Great work, you two!\n
-It's time I gave you your prize, but first... <$00>
+<CLEAR>
+Great work, you two!\n
+It's time I gave you your prize, but first... 
+<$00>
 
 
 //<CLEAR>ほーら、リンダちゃん？\nちゃんと　お礼が\n言えマチュか？<$00>
-<CLEAR>C'mon, Lindie-baby?\n
-What do we say?<$00>
+<CLEAR>
+C'mon, Lindie-baby?\n
+What do we say?
+<$00>
 
 
 //<CLEAR>ありがと、ケン…<$00>
-<CLEAR>Thank you, Ken.<$00>
+<CLEAR>
+Thank you, Ken.
+<$00>
 
 
 //<CLEAR>兄ちゃん　これでわかったろ？\n俺の催眠術は　合い言葉で\n人の心を　操るのさ<$00>
-<CLEAR>See that? With special keywords, I can hypnotize and\n
-control anyone I wish.<$00>
+<CLEAR>
+See that? With special keywords, I can hypnotize and\n
+control anyone I wish.
+<$00>
 
 
 //<CLEAR>もちろん　薬も併用しているよ\nそのほうが　確実だからね<$00>
-<CLEAR>Combine that ability with a few drugs, and my mind\n
-control is foolproof!<$00>
+<CLEAR>
+Combine that ability with a few drugs, and my mind\n
+control is foolproof!
+<$00>
 
 
 //<CLEAR>兄ちゃん！　安心してくれ\n俺、約束は守るタイプなんだ\n薬は　ちゃんと飲ませておくよ<$00>
-<CLEAR>Oh, don't worry. I play doctor too! I'll make sure she takes\n
-ALL her medicine.<$00>
+<CLEAR>
+Oh, don't worry. I play doctor too! I'll make sure she takes\n
+ALL her medicine.
+<$00>
 
 
 //<CLEAR>ククク…　何だよ　その顔は…\nそうか！　わかったよ…<$00>
-<CLEAR>Kh-kh, why the long face?\n
-Oh, I see! Yes, yes... <$00>
+<CLEAR>
+Kh-kh, why the long face?\n
+Oh, I see! Yes, yes... 
+<$00>
 
 
 //<CLEAR>まだ　遊び足りないんだろ？<$00>
-<CLEAR>You still want to play tag!<$00>
+<CLEAR>
+You still want to play tag!
+<$00>
 
 
 //\n<$01>◇<$0E><$08>4次は俺が鬼の番だゼ\n<$01>◇<$0E><$08>4イイ加減にしろよな<$00>
 \n
-<$01>◇<$0E><$08>4Yeah, now I'm "it"!\n
-<$01>◇<$0E><$08>4Get a life!<$00>
+
+<$01>
+◇
+<$0E><$08>
+4Yeah, now I'm "it"!\n
+
+<$01>
+◇
+<$0E><$08>
+4Get a life!
+<$00>
 
 
 //<CLEAR>俺の友だちが　兄ちゃんと\n遊びたがってるゼ\nまあ　仲良くしてやってよ<$00>
-<CLEAR>My friends like you so much, I bet they'd kill to keep\n
-playing with you!<$00>
+<CLEAR>
+My friends like you so much, I bet they'd kill to keep\n
+playing with you!
+<$00>
 
 
 //<CLEAR>じゃあ　兄ちゃん！\nメリークリスマス∥<$00>
-<CLEAR>And with that, Brother... \n
-MERRY XMAS!<$00>
+<CLEAR>
+And with that, Brother... \n
+MERRY XMAS!
+<$00>
 
 
 //<CLEAR>ちょうど　いいところへ\n来たみたいだな…　あら？\nケン、おめぇ、ひとりか？<$00>
-<CLEAR>Right place, right time, eh? Ken, what are you doing here\n
-by yourself?<$00>
+<CLEAR>
+Right place, right time, eh? Ken, what are you doing here\n
+by yourself?
+<$00>
 
 
 //<CLEAR>ははン、また　あのサンタ野郎に\nリンダを　さらわれちまった…\nそういうわけだな<$00>
-<CLEAR>Don't tell me, that Santa creep kidnapped Linda?! I should've\n
-known!<$00>
+<CLEAR>
+Don't tell me, that Santa creep kidnapped Linda?! I should've\n
+known!
+<$00>
 
 
 //<CLEAR>ハハハ、痛て痛てて…<$00>
-<CLEAR>Haahaa... \n
-Oww... <$00>
+<CLEAR>
+Haahaa... \n
+Oww... 
+<$00>
 
 
 //<CLEAR>取られたら　取り返す！\nまあ　俺にまかせておけ！\n行くぞ！　ケン！<$00>
-<CLEAR>We've gotta steal her back together! Let's go, Ken!<$00>
+<CLEAR>
+We've gotta steal her back together! Let's go, Ken!
+<$00>
 
 
 //<CLEAR>あー…………<$00>
-<CLEAR>Uhhh... <$00>
+<CLEAR>
+Uhhh... 
+<$00>
 
 
 //<CLEAR>ところで　どこへ行くんだ？\nケン？<$00>
-<CLEAR>Say-a, Ken... \n
-Any chance you know where they went?<$00>
+<CLEAR>
+Say-a, Ken... \n
+Any chance you know where they went?
+<$00>
 
 
 //<CLEAR><$19><$31><$15><$53>扉はサビついて開かない<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53>The door is rusted shut and will not open.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>
+The door is rusted shut and will not open.
+<$14><$12><$00>
 
 
 #WRITE(PTR, $0020)
 #WRITE(PTR, $0022)
 //……東<$00>
-... East<$00>
+... East
+<$00>
 
 
 //……西<$00>
-... West<$00>
+... West
+<$00>
 
 
 //……南<$00>
-... South<$00>
+... South
+<$00>
 
 
 //……北<$00>
-... North<$00>
+... North
+<$00>
 
 
 //…北東<$00>
-... North-east<$00>
+... North-east
+<$00>
 
 
 //…北西<$00>
-... North-west<$00>
+... North-west
+<$00>
 
 
 //…南東<$00>
-... South-east<$00>
+... South-east
+<$00>
 
 
 //…南西<$00>
-... South-west<$00>
+... South-west
+<$00>
 
 
 //<CLEAR>……<$1D><$00>
-<CLEAR>... ... <$1D><$00>
+<CLEAR>
+... ... 
+<$1D><$00>
 
 
 //、…<$1D>に行けば<$00>
-! That's where we'll find a <$1D>.<$00>
+! That's where we'll find a 
+<$1D>
+.
+<$00>
 
 
 //直進<$00>
-For<$00>
+For
+<$00>
 
 
 //右よ<$00>
-Right<$00>
+Right
+<$00>
 
 
 //左よ<$00>
-Left<$00>
+Left
+<$00>
 
 
 //後ろ<$00>
-Back<$00>
+Back
+<$00>
 
 
 //<CLEAR>……<$1D><$00>
-<CLEAR>... ... <$1D><$00>
+<CLEAR>
+... ... 
+<$1D><$00>
 
 
 //、絶対に<$1D>∥<$00>
-wards, got it? I'm sure we'll find a <$1D> there!<$00>
+wards, got it? I'm sure we'll find a 
+<$1D>
+ there!
+<$00>
 
 
 //<CLEAR><$19><$31><$15><$53>リンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition... <$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>
+Linda used her woman's intuition... 
+<$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
-<CLEAR>... Sorry. I don't have it in me today.<$12><$00>
+<CLEAR>
+... Sorry. I don't have it in me today.
+<$12><$00>
 
 
 //運命の<$00>
-Fated <$00>
+Fated 
+<$00>
 
 
 //新しい<$00>
-New <$00>
+New 
+<$00>
 
 
 //素敵な<$00>
-Great <$00>
+Great 
+<$00>
 
 
 //未知の<$00>
-Unknown <$00>
+Unknown 
+<$00>
 
 
 //何か<$00>
-things <$00>
+things 
+<$00>
 
 
 //発見<$00>
-discoveries <$00>
+discoveries 
+<$00>
 
 
 //お宝<$00>
-treasures <$00>
+treasures 
+<$00>
 
 
 //動物<$00>
-animals <$00>
+animals 
+<$00>
 
 
 //に　出会える…<$00>
-could appear.<$00>
+could appear.
+<$00>
 
 
 //が　待ってる…<$00>
-await us... <$00>
+await us... 
+<$00>
 
 
 //気がするわ∥<$00>
-are there.<$00>
+are there.
+<$00>
 
 
 //チャンスよ∥<$00>
-are in our grasp!<$00>
+are in our grasp!
+<$00>
 
 
 //今しかないわ<$00>
-could get away!<$00>
+could get away!
+<$00>
 
 
 //間違いなし∥<$00>
-are dead ahead!<$00>
+are dead ahead!
+<$00>
 
 
 //\n<$1D><$1D><$1D>\n<$1D><$12>\n<CLEAR><$00>
 \n
-<$1D><$1D><$1D>\n
-<$1D><$12>\n
+
+<$1D><$1D><$1D>
+\n
+
+<$1D><$12>
+\n
+
 <CLEAR><$00>
 
 
 //<CLEAR>自信があるの∥<$12><$00>
-<CLEAR>I swear!<$12><$00>
+<CLEAR>
+I swear!
+<$12><$00>
 
 
 //<CLEAR>自信は　ないけどね…<$12><$00>
-<CLEAR>Although, I'm not totally certain... <$12><$00>
+<CLEAR>
+Although, I'm not totally certain... 
+<$12><$00>
 
 
 //<CLEAR>絶対なんだから∥<$12><$00>
-<CLEAR>I'm absolutely certain!<$12><$00>
+<CLEAR>
+I'm absolutely certain!
+<$12><$00>
 
 
 //グルル、グルル<$12><$00>
-Grrr... <$12><$00>
+Grrr... 
+<$12><$00>
 
 
 //クン、クンクン………？<$12>\n<CLEAR>ホコリのニオイだけね<$12><$00>
-Sniff... sniff, sniff?<$12>\n
-<CLEAR>It smells like a bunch of dust.<$12><$00>
+Sniff... sniff, sniff?
+<$12>
+\n
+
+<CLEAR>
+It smells like a bunch of dust.
+<$12><$00>
 
 
 //<$00>

@@ -36,65 +36,114 @@ c174a0.obj<$00>
 
 #WRITE(PTR, $001C)
 //装備屋<$00>
-Equipment Dealer<$00>
+Equipment Dealer
+<$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
-<CLEAR>Ken whistled.<$12>\n
-<CLEAR>Huge wings flapped in the distance... <$12><$00>
+<CLEAR>
+Ken whistled.
+<$12>
+\n
+
+<CLEAR>
+Huge wings flapped in the distance... 
+<$12><$00>
 
 
 //<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Ken masked the party to avoid\n
-detection.<$12>\n
-<CLEAR>However, none of the animals in the\n
+<CLEAR>
+Ken masked the party to avoid\n
+detection.
+<$12>
+\n
+
+<CLEAR>
+However, none of the animals in the\n
 area were stupid enough to fall for\n
-his antics!<$12><$00>
+his antics!
+<$12><$00>
 
 
 //<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Linda mimicked a few animal calls.<$12>\n
-<CLEAR>However, none of the animals in the\n
+<CLEAR>
+Linda mimicked a few animal calls.
+<$12>
+\n
+
+<CLEAR>
+However, none of the animals in the\n
 area were stupid enough to fall for\n
-her antics!<$12><$00>
+her antics!
+<$12><$00>
 
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
-<CLEAR>The Animal Bible can't be booted here!<$12><$00>
+<CLEAR>
+The Animal Bible can't be booted here!
+<$12><$00>
 
 
 //<CLEAR>ここでは　野営できない<$12><$00>
-<CLEAR>Camp can't be set up here!<$12><$00>
+<CLEAR>
+Camp can't be set up here!
+<$12><$00>
 
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
-<CLEAR>The Navi System(NaviS) can't be booted\n
-here!<$12><$00>
+<CLEAR>
+The Navi System(NaviS) can't be booted\n
+here!
+<$12><$00>
 
 
 //<CLEAR>装備は武器、帽子、服、くつの４種です\n同種の動物を　数頭、集めて\n加工して　作るんですよ<$12>\n<CLEAR>オス１０頭で　武器ひとつ\nメス５頭で服、３頭で帽子、２頭でくつ\nこれで　ひとり分の装備の出来上り！<$12><$00>
-<CLEAR>There are four types of equipment to craft: weapons, hats,\n
-clothes and shoes.<$12>\n
-<CLEAR>What you can make depends on what animals you're willing to\n
-spend as parts.<$12>\n
-<CLEAR>10 males = 1 weapon / 5 females = 1 armor\n
-3 animals = 1 hat / 2 animals = shoes<$12><$00>
+<CLEAR>
+There are four types of equipment to craft: weapons, hats,\n
+clothes and shoes.
+<$12>
+\n
+
+<CLEAR>
+What you can make depends on what animals you're willing to\n
+spend as parts.
+<$12>
+\n
+
+<CLEAR>
+10 males = 1 weapon / 5 females = 1 armor\n
+3 animals = 1 hat / 2 animals = shoes
+<$12><$00>
 
 
 //新しい装備を　手に入れたら\n忘れないうちに　<$06>L2<$04>ボタン押して\nすぐ　装備すること！<$12>\n<CLEAR>うちのダンナ、「装備していきますか」\nなんて　口がさけても言わないわよ<$12>\n<CLEAR>ヘンな習慣つけると　自分で装備を\n作った時に　つけるの忘れる人が\nけっこう　多いんだってね<$12><$00>
 When you buy equipment, don't forget to press L2 and\n
-equip it right away!<$12>\n
-<CLEAR>It's not the shopkeeper's job to go, "Equip this now?" for\n
-every gosh dang customer.<$12>\n
-<CLEAR>Get into the habit of putting your new equipment on the\n
-very moment you make it.<$12><$00>
+equip it right away!
+<$12>
+\n
+
+<CLEAR>
+It's not the shopkeeper's job to go, "Equip this now?" for\n
+every gosh dang customer.
+<$12>
+\n
+
+<CLEAR>
+Get into the habit of putting your new equipment on the\n
+very moment you make it.
+<$12><$00>
 
 
 //店で買える装備なんて　子供だましの\nオモチャみたいな　品物ばかりさ<$12>\n<CLEAR>やっぱ、プロは　装備にこだわりを\n持たなきゃな、命に関わることだしな<$12><$00>
 Items you buy from shops are like childrens' playthings\n
-compared to what the pros use.<$12>\n
-<CLEAR>Professionals won't mess around with their tools when\n
-putting their lives on the line.<$12><$00>
+compared to what the pros use.
+<$12>
+\n
+
+<CLEAR>
+Professionals won't mess around with their tools when\n
+putting their lives on the line.
+<$12><$00>
 
 
 #WRITE(PTR, $001E)
@@ -107,95 +156,197 @@ putting their lives on the line.<$12><$00>
 
 
 //<$1D>を<$1D>ます\n<$06><$19><$31><$01><$1A>01<$0E><$15><$53><$19><$30><$04>／<$14><$1E>034<$15><$53><$1D><$14><$02>112<$19><$32><$1E>40<$19><$30><$15><$53>￥<$00>
-<$1D><$1D>\n
-`<$06><$19><$31><$01><$1A>01<$0E><$15><$53><$19><$30><$04><$06> <$04>/<$14><$1E>034<$15><$53><$1D><$14><$02>112<$19><$32><$1E>40<$19><$30><$15><$53>￥<$06> <$04>`<$00>
+<$1D><$1D>
+\n
+`
+<$06><$19><$31><$01><$1A>
+01
+<$0E><$15><$53><$19><$30><$04><$06>
+ 
+<$04>
+/
+<$14><$1E>
+034
+<$15><$53><$1D><$14><$02>
+112
+<$19><$32><$1E>
+40
+<$19><$30><$15><$53>
+￥
+<$06>
+ 
+<$04>
+`
+<$00>
 
 
 //<$06>T.C.(<$1E>034<$06>)<$00>
-<$06>TCU (x<$1E>034<$06>)<$00>
+<$06>
+TCU (x
+<$1E>
+034
+<$06>
+)
+<$00>
 
 
 //<$05>γ<$00>
-<$05>ATK<$00>
+<$05>
+ATK
+<$00>
 
 
 //<$05>ζ<$00>
-<$05>DEF<$00>
+<$05>
+DEF
+<$00>
 
 
 //<$1E>@019<$00>
-<$1E>@019<$00>
+<$1E>
+@019
+<$00>
 
 
 //<CLEAR>セレクトボタンで解説が出ます<$00>
-<CLEAR>SELECT: Details<$00>
+<CLEAR>
+SELECT: Details
+<$00>
 
 
 //<CLEAR><$00>
 <CLEAR><$00>
 
 //<$04><$16><$15><$57><$01><$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
-<$04><$16><$15><$57><$01><$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
+<$04><$16><$15><$57><$01><$1D><$02>
+116
+<$0E><$02>
+216
+<$1D><$1E>
+39￥
+<$00>
 
 
 //<CLEAR>トランスカーゴは　１枠につき\n<$06>99<$04>頭までしか　収容できません<$12><$00>
-<CLEAR>The trans-cargo unit has\n
-a <$06>99<$04> species capacity!<$12><$00>
+<CLEAR>
+The trans-cargo unit has\n
+a 
+<$06>
+99
+<$04>
+ species capacity!
+<$12><$00>
 
 
 //<CLEAR><$06>トランスカーゴ<$04>がいっぱいです<$12><$00>
-<CLEAR><$06>The trans-cargo unit <$04>is full!<$12><$00>
+<CLEAR><$06>
+The trans-cargo unit 
+<$04>
+is full!
+<$12><$00>
 
 
 //<CLEAR>道具がいっぱいです<$12><$00>
-<CLEAR>The item bag is full!<$12><$00>
+<CLEAR>
+The item bag is full!
+<$12><$00>
 
 
 //<CLEAR><$1D>は\nお引き取りできません<$12><$00>
-<CLEAR><$1D>?\n
-I can't accept that!<$12><$00>
+<CLEAR><$1D>
+?\n
+I can't accept that!
+<$12><$00>
 
 
 //<CLEAR><$1D>を\n<$06><$1E><$04>￥で売りますか？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
-<CLEAR>Sell <$1D> for <$06><$1E><$04>￥?\n
+<CLEAR>
+Sell 
+<$1D>
+ for 
+<$06><$1E><$04>
+￥?\n
 \n
-<$01>Yes<$0E> / <$01>No<$0E><$00>
+
+<$01>
+Yes
+<$0E>
+ / 
+<$01>
+No
+<$0E><$00>
 
 
 //<CLEAR><$1D><$15><$57>は\nＡ級保護動物のため\n取り引きできません<$12><$00>
-<CLEAR><$1D><$15><$57> cannot be traded.\n
+<CLEAR><$1D><$15><$57>
+ cannot be traded.\n
 Class A species trading\n
-is strictly prohibited!<$12><$00>
+is strictly prohibited!
+<$12><$00>
 
 
 //<CLEAR><$00>
 <CLEAR><$00>
 
 //<$16><$04><$01><$1D><$02>120<$0E><$02>216<$06><$1E><$04>匹で<$00>
-<$16><$04><$01><$1D><$02>120<$0E><$02>216<$06><$1E><$04>x <$00>
+<$16><$04><$01><$1D><$02>
+120
+<$0E><$02>
+216
+<$06><$1E><$04>
+x 
+<$00>
 
 
 //<CLEAR><$1D>を作ります\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
-<CLEAR>Craft <$1D>?\n
-<$01>Yes<$0E> / <$01>No<$0E><$00>
+<CLEAR>
+Craft 
+<$1D>
+?\n
+
+<$01>
+Yes
+<$0E>
+ / 
+<$01>
+No
+<$0E><$00>
 
 
 //<CLEAR><$1D>を作ります\n加工料金＿<$1D><$06><$1E><$04><$14>￥\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
-<CLEAR>Crafting the <$1D> \n
-will cost<$1D><$06><$1E><$04><$14>￥.\n
-<$01>Okay<$0E> / <$01>Wait<$0E><$00>
+<CLEAR>
+Crafting the 
+<$1D>
+ \n
+will cost
+<$1D><$06><$1E><$04><$14>
+￥.\n
+
+<$01>
+Okay
+<$0E>
+ / 
+<$01>
+Wait
+<$0E><$00>
 
 
 //<CLEAR>お金が足りません<$12><$00>
-<CLEAR>You can't afford this!<$12><$00>
+<CLEAR>
+You can't afford this!
+<$12><$00>
 
 
 //<CLEAR>動物が足りません<$12><$00>
-<CLEAR>You don't have the right animals!<$12><$00>
+<CLEAR>
+You don't have the right animals!
+<$12><$00>
 
 
 //<CLEAR>加工料金＿<$15><$62><$06><$1E><$04><$14>￥\nが足りません<$12><$00>
-<CLEAR><$15><$62><$06><$1E><$04><$14>￥ fee!<$12><$00>
+<CLEAR><$15><$62><$06><$1E><$04><$14>
+￥ fee!
+<$12><$00>
 
 
 //<$02>240<$1E>018<$04><$00>
@@ -205,292 +356,417 @@ will cost<$1D><$06><$1E><$04><$14>￥.\n
 <$02>100<$1E>018<$04><$00>
 
 //<CLEAR>道具がいっぱいです<$12><$00>
-<CLEAR>The item bag is full!<$12><$00>
+<CLEAR>
+The item bag is full!
+<$12><$00>
 
 
 //<CLEAR>次は凄いヤツを　仕入れておきますから\nこりずに　また、どうぞ<$12><$00>
-<CLEAR>Don't you worry,\n
-I'll have an even finer stock next time!<$12><$00>
+<CLEAR>
+Don't you worry,\n
+I'll have an even finer stock next time!
+<$12><$00>
 
 
 //<$15><$59>装備屋／メニュー<$00>
-<$15><$59>Equipment/Menu<$00>
+<$15><$59>
+Equipment/Menu
+<$00>
 
 
 //<$01>買＿う<$0E>\n<$01>売＿る<$0E>\n<$01>作＿る<$0E>\n<$01>やめる<$0E><$00>
-<$01>Buy<$0E>\n
-<$01>Sell<$0E>\n
-<$01>Make<$0E>\n
-<$01>Exit<$0E><$00>
+<$01>
+Buy
+<$0E>
+\n
+
+<$01>
+Sell
+<$0E>
+\n
+
+<$01>
+Make
+<$0E>
+\n
+
+<$01>
+Exit
+<$0E><$00>
 
 
 //<$15><$59>装備屋／買＿う<$00>
-<$15><$59>Equipment/Buy<$00>
+<$15><$59>
+Equipment/Buy
+<$00>
 
 
 //<$15><$59>装備屋／売＿る<$00>
-<$15><$59>Equipment/Sell<$00>
+<$15><$59>
+Equipment/Sell
+<$00>
 
 
 //<$15><$59>装備屋／加＿工<$00>
-<$15><$59>Equipment/Craft<$00>
+<$15><$59>
+Equipment/Craft
+<$00>
 
 
 //<$15><$59>装備屋<$00>
-<$15><$59>Equipment<$00>
+<$15><$59>
+Equipment
+<$00>
 
 
 //<CLEAR>頭のテッペンから、爪先まで\n装備のことなら　何でもご用命ください\n<$01>取引する<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
-<CLEAR>From head to toe,\n
+<CLEAR>
+From head to toe,\n
 we've got you covered!\n
-<$01>Shop<$0E> / <$01>Chat<$0E> / <$01>Exit<$0E><$00>
+
+<$01>
+Shop
+<$0E>
+ / 
+<$01>
+Chat
+<$0E>
+ / 
+<$01>
+Exit
+<$0E><$00>
 
 
 //<$15><$59>装備屋<$00>
-<$15><$59>Equipment<$00>
+<$15><$59>
+Equipment
+<$00>
 
 
 //<CLEAR>動物を売るときは　自分で\n食料や装備に　加工してから売ると、\n手間賃分だけ　ちょっとお得ですよ<$12><$00>
-<CLEAR>You'll make more money if you process\n
+<CLEAR>
+You'll make more money if you process\n
 an animal into food or gear before\n
-selling it.<$12><$00>
+selling it.
+<$12><$00>
 
 
 //<CLEAR>装備のつけ忘れに　ご注意を！<$12><$00>
-<CLEAR>Don't forget to equip your new gear!<$12><$00>
+<CLEAR>
+Don't forget to equip your new gear!
+<$12><$00>
 
 
 //<CLEAR>ありがとうございました\nお気をつけて！<$12><$00>
-<CLEAR>Thank you!\n
-Watch your backs out there!<$12><$00>
+<CLEAR>
+Thank you!\n
+Watch your backs out there!
+<$12><$00>
 
 
 //クン、クンクン………？<$12>\n<CLEAR><$1D>のニオイが　するね\nそういえば、<$1D>食まだだっけ…<$12><$00>
-Sniff... sniff, sniff?<$12>\n
-<CLEAR><$1D> scent's filling the air. You know, I could go for some <$1D> !<$12><$00>
+Sniff... sniff, sniff?
+<$12>
+\n
+
+<CLEAR><$1D>
+ scent's filling the air. You know, I could go for some 
+<$1D>
+ !
+<$12><$00>
 
 
 //卵焼き<$00>
-fried eggs<$00>
+fried eggs
+<$00>
 
 
 //カレー<$00>
-curry<$00>
+curry
+<$00>
 
 
 //焼き肉<$00>
-Neo Korean BBQ<$00>
+Neo Korean BBQ
+<$00>
 
 
 //唐あげ<$00>
-karaage<$00>
+karaage
+<$00>
 
 
 //お菓子<$00>
-candy<$00>
+candy
+<$00>
 
 
 //バナナ<$00>
-banana<$00>
+banana
+<$00>
 
 
 //フライ<$00>
-Neo French fries<$00>
+Neo French fries
+<$00>
 
 
 //焼き魚<$00>
-grilled fish<$00>
+grilled fish
+<$00>
 
 
 //トマト<$00>
-tomato<$00>
+tomato
+<$00>
 
 
 //バター<$00>
-butter<$00>
+butter
+<$00>
 
 
 //ソース<$00>
-sauce<$00>
+sauce
+<$00>
 
 
 //スープ<$00>
- soup<$00>
+ soup
+<$00>
 
 
 //ピラフ<$00>
-pilaf<$00>
+pilaf
+<$00>
 
 
 //バニラ<$00>
-vanilla<$00>
+vanilla
+<$00>
 
 
 //キムチ<$00>
-kimchi<$00>
+kimchi
+<$00>
 
 
 //チーズ<$00>
-cheese<$00>
+cheese
+<$00>
 
 
 //朝<$00>
-breakfast<$00>
+breakfast
+<$00>
 
 
 //昼<$00>
-lunch<$00>
+lunch
+<$00>
 
 
 //夕<$00>
-dinner<$00>
+dinner
+<$00>
 
 
 //……東<$00>
-... East<$00>
+... East
+<$00>
 
 
 //……西<$00>
-... West<$00>
+... West
+<$00>
 
 
 //……南<$00>
-... South<$00>
+... South
+<$00>
 
 
 //……北<$00>
-... North<$00>
+... North
+<$00>
 
 
 //…北東<$00>
-... North-east<$00>
+... North-east
+<$00>
 
 
 //…北西<$00>
-... North-west<$00>
+... North-west
+<$00>
 
 
 //…南東<$00>
-... South-east<$00>
+... South-east
+<$00>
 
 
 //…南西<$00>
-... South-west<$00>
+... South-west
+<$00>
 
 
 //<CLEAR>……<$1D><$00>
-<CLEAR>... ... <$1D><$00>
+<CLEAR>
+... ... 
+<$1D><$00>
 
 
 //、…<$1D>に行けば<$00>
-! That's where we'll find a <$1D>.<$00>
+! That's where we'll find a 
+<$1D>
+.
+<$00>
 
 
 //直進<$00>
-For<$00>
+For
+<$00>
 
 
 //右よ<$00>
-Right<$00>
+Right
+<$00>
 
 
 //左よ<$00>
-Left<$00>
+Left
+<$00>
 
 
 //後ろ<$00>
-Back<$00>
+Back
+<$00>
 
 
 //<CLEAR>……<$1D><$00>
-<CLEAR>... ... <$1D><$00>
+<CLEAR>
+... ... 
+<$1D><$00>
 
 
 //、絶対に<$1D>∥<$00>
-wards, got it? I'm sure we'll find a <$1D> there!<$00>
+wards, got it? I'm sure we'll find a 
+<$1D>
+ there!
+<$00>
 
 
 //<CLEAR><$19><$31><$15><$53>リンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition... <$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>
+Linda used her woman's intuition... 
+<$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
-<CLEAR>... Sorry. I don't have it in me today.<$12><$00>
+<CLEAR>
+... Sorry. I don't have it in me today.
+<$12><$00>
 
 
 //運命の<$00>
-Fated <$00>
+Fated 
+<$00>
 
 
 //新しい<$00>
-New <$00>
+New 
+<$00>
 
 
 //素敵な<$00>
-Great <$00>
+Great 
+<$00>
 
 
 //未知の<$00>
-Unknown <$00>
+Unknown 
+<$00>
 
 
 //何か<$00>
-things <$00>
+things 
+<$00>
 
 
 //発見<$00>
-discoveries <$00>
+discoveries 
+<$00>
 
 
 //お宝<$00>
-treasures <$00>
+treasures 
+<$00>
 
 
 //動物<$00>
-animals <$00>
+animals 
+<$00>
 
 
 //に　出会える…<$00>
-could appear.<$00>
+could appear.
+<$00>
 
 
 //が　待ってる…<$00>
-await us... <$00>
+await us... 
+<$00>
 
 
 //気がするわ∥<$00>
-are there.<$00>
+are there.
+<$00>
 
 
 //チャンスよ∥<$00>
-are in our grasp!<$00>
+are in our grasp!
+<$00>
 
 
 //今しかないわ<$00>
-could get away!<$00>
+could get away!
+<$00>
 
 
 //間違いなし∥<$00>
-are dead ahead!<$00>
+are dead ahead!
+<$00>
 
 
 //\n<$1D><$1D><$1D>\n<$1D><$12>\n<CLEAR><$00>
 \n
-<$1D><$1D><$1D>\n
-<$1D><$12>\n
+
+<$1D><$1D><$1D>
+\n
+
+<$1D><$12>
+\n
+
 <CLEAR><$00>
 
 
 //<CLEAR>自信があるの∥<$12><$00>
-<CLEAR>I swear!<$12><$00>
+<CLEAR>
+I swear!
+<$12><$00>
 
 
 //<CLEAR>自信は　ないけどね…<$12><$00>
-<CLEAR>Although, I'm not totally certain... <$12><$00>
+<CLEAR>
+Although, I'm not totally certain... 
+<$12><$00>
 
 
 //<CLEAR>絶対なんだから∥<$12><$00>
-<CLEAR>I'm absolutely certain!<$12><$00>
+<CLEAR>
+I'm absolutely certain!
+<$12><$00>
 
 
 //<$00>

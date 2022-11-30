@@ -114,136 +114,260 @@ z116_120.obj<$00>
 
 #WRITE(PTR, $001E)
 //動物博士の家<$00>
-Wildlife Expert's House <$00>
+Wildlife Expert's House 
+<$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
-<CLEAR>Ken whistled.<$12>\n
-<CLEAR>Huge wings flapped in the distance... <$12><$00>
+<CLEAR>
+Ken whistled.
+<$12>
+\n
+
+<CLEAR>
+Huge wings flapped in the distance... 
+<$12><$00>
 
 
 //<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Ken masked the party to avoid\n
-detection.<$12>\n
-<CLEAR>However, none of the animals in the\n
+<CLEAR>
+Ken masked the party to avoid\n
+detection.
+<$12>
+\n
+
+<CLEAR>
+However, none of the animals in the\n
 area were stupid enough to fall for\n
-his antics!<$12><$00>
+his antics!
+<$12><$00>
 
 
 //<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Linda mimicked a few animal calls.<$12>\n
-<CLEAR>However, none of the animals in the\n
+<CLEAR>
+Linda mimicked a few animal calls.
+<$12>
+\n
+
+<CLEAR>
+However, none of the animals in the\n
 area were stupid enough to fall for\n
-her antics!<$12><$00>
+her antics!
+<$12><$00>
 
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
-<CLEAR>The Animal Bible can't be booted here!<$12><$00>
+<CLEAR>
+The Animal Bible can't be booted here!
+<$12><$00>
 
 
 //<CLEAR>ここでは　野営できない<$12><$00>
-<CLEAR>Camp can't be set up here!<$12><$00>
+<CLEAR>
+Camp can't be set up here!
+<$12><$00>
 
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
-<CLEAR>The Navi System(NaviS) can't be booted\n
-here!<$12><$00>
+<CLEAR>
+The Navi System(NaviS) can't be booted\n
+here!
+<$12><$00>
 
 
 //<CLEAR>キミたちも　レンジャー隊員なら\n動物図鑑を　携帯しとるだろうね！\nアレ、わしが作ったんじゃよ<$12>\n<CLEAR>いろいろと　不備はあるみたいだけど、\n足りんトコは　若いんじゃし\n自分の体を使って　埋めてくれ<$12>\n<CLEAR>それと…<$12>\n<CLEAR>まっ、話の続きは　次の機会にしよう\n気が向いたら　寄ってくれ\nわしも暇なときは　相手になるゾ<$12><$00>
-<CLEAR>Rangers still carry the Animal Bible around, right? Well, it\n
-was I who first developed it!<$12>\n
-<CLEAR>Certainly there's room for detail and improvement, but\n
-that's where you whipper-snappers come in!<$12>\n
-<CLEAR>Maybe you can survey the field, scan some animals, fill in\n
-some blanks and... <$12>\n
-<CLEAR>Oh, don't mind me. If you ever want to show me your work,\n
-I'd be delighted to look!<$12><$00>
+<CLEAR>
+Rangers still carry the Animal Bible around, right? Well, it\n
+was I who first developed it!
+<$12>
+\n
+
+<CLEAR>
+Certainly there's room for detail and improvement, but\n
+that's where you whipper-snappers come in!
+<$12>
+\n
+
+<CLEAR>
+Maybe you can survey the field, scan some animals, fill in\n
+some blanks and... 
+<$12>
+\n
+
+<CLEAR>
+Oh, don't mind me. If you ever want to show me your work,\n
+I'd be delighted to look!
+<$12><$00>
 
 
 #WRITE(PTR, $0020)
 //<CLEAR>まだ　この広いネオケニアのどこかに\n名前の決まっていない　動物が\nいないとは思うが　いるやもしれん<$12>\n<CLEAR>そういう動物を　万が一捕まえたら、\nわしに　見せに来るのじゃよ<$12>\n<CLEAR>新種動物の　第一発見者として\n命名の栄誉を　キミにあげよう!<$12><$00>
-<CLEAR>I can't imagine any undiscovered animals still out in Neo\n
-Kenya, but it's possible!<$12>\n
-<CLEAR>If you catch such an animal, you must come and show me!<$12>\n
-<CLEAR>If you're the first to discover a species, you earn the\n
-prime honor of naming it!<$12><$00>
+<CLEAR>
+I can't imagine any undiscovered animals still out in Neo\n
+Kenya, but it's possible!
+<$12>
+\n
+
+<CLEAR>
+If you catch such an animal, you must come and show me!
+<$12>
+\n
+
+<CLEAR>
+If you're the first to discover a species, you earn the\n
+prime honor of naming it!
+<$12><$00>
 
 
 //<CLEAR>ほぉ、キミの捕まえた動物は\n正真正銘の　新種のようじゃナ<$12><$00>
-<CLEAR>Oh-ho! That animal you discovered looks like it's from an\n
-unidentified species!<$12><$00>
+<CLEAR>
+Oh-ho! That animal you discovered looks like it's from an\n
+unidentified species!
+<$12><$00>
 
 
 //<CLEAR>第一発見者として　そいつに\n名前をつけることが　できるゾ\n<$01>命名する<$0E>／<$01>後にする<$0E>／<$01>興味ない<$0E><$00>
-<CLEAR>Care to name the species?\n
-<$01>Sure!<$0E> / <$01>Maybe later.<$0E> / <$01>*Yawn.*<$0E><$00>
+<CLEAR>
+Care to name the species?\n
+
+<$01>
+Sure!
+<$0E>
+ / 
+<$01>
+Maybe later.
+<$0E>
+ / 
+<$01>
+*Yawn.*
+<$0E><$00>
 
 
 //<CLEAR>そうか、いい名前を考えてやるがいい\nなにしろ　こいつにとっては\n一生の問題じゃからナ<$12><$00>
-<CLEAR>Well, think of something good. This animal's the one who has\n
-to live with it.<$12><$00>
+<CLEAR>
+Well, think of something good. This animal's the one who has\n
+to live with it.
+<$12><$00>
 
 
 //<CLEAR>まっ、キミにダサイ名前を　もらうより\nいっそ　名前などないほうが\nこいつも　幸せかもナ<$12><$00>
-<CLEAR>Eh, instead of a tacky name, it's better to not have one\n
-at all.<$12><$00>
+<CLEAR>
+Eh, instead of a tacky name, it's better to not have one\n
+at all.
+<$12><$00>
 
 
 //<CLEAR>それでどれにするんじゃ？<$12><$00>
-<CLEAR>What would you like to show me?<$12><$00>
+<CLEAR>
+What would you like to show me?
+<$12><$00>
 
 
 //<$15><$59>動物博士<$00>
-<$15><$59>Wildlife Expert <$00>
+<$15><$59>
+Wildlife Expert 
+<$00>
 
 
 //M%03dF.OBJ<$00>
 M%03dF.OBJ<$00>
 
 //<CLEAR>こいつじゃな？\n<$01>そうだよ<$0E>／<$01>ちがうね<$0E><$00>
-<CLEAR>This is the one?\n
-<$01>Yes<$0E> / <$01>No<$0E><$00>
+<CLEAR>
+This is the one?\n
+
+<$01>
+Yes
+<$0E>
+ / 
+<$01>
+No
+<$0E><$00>
 
 
 //<CLEAR>じゃあ、どれにするんじゃね？\nそれとも今回は命名を見送るかね？\n<$01>命名する<$0E>／<$01>見送る！<$0E><$00>
-<CLEAR>Are you saying you'd rather not name your animal?\n
-<$01>Wait!<$0E> / <$01>Correct.<$0E><$00>
+<CLEAR>
+Are you saying you'd rather not name your animal?\n
+
+<$01>
+Wait!
+<$0E>
+ / 
+<$01>
+Correct.
+<$0E><$00>
 
 
 //残念ながら　その名の動物は既にいるゾ\nもう一度　つけ直しじゃ<$12><$00>
-A species already exists by that name.<$12><$00>
+A species already exists by that name.
+<$12><$00>
 
 
 //<CLEAR>＜<$1D>＞という名前じゃな？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
-<CLEAR>"<$1D>", is it?\n
-<$01>Yes<$0E> / <$01>No<$0E><$00>
+<CLEAR>
+"
+<$1D>
+", is it?\n
+
+<$01>
+Yes
+<$0E>
+ / 
+<$01>
+No
+<$0E><$00>
 
 
 //<CLEAR>なに、違う？\nじゃあ、どうするんじゃ？\n<$01>命名しなおす<$0E>／<$01>命名やめる<$0E>／<$01>別動物<$0E><$00>
-<CLEAR>Wait, really? Then what will you do?\n
-<$01>Name it!<$0E> / <$01>Skip it.<$0E> / <$01>Show animals.<$0E><$00>
+<CLEAR>
+Wait, really? Then what will you do?\n
+
+<$01>
+Name it!
+<$0E>
+ / 
+<$01>
+Skip it.
+<$0E>
+ / 
+<$01>
+Show animals.
+<$0E><$00>
 
 
 //<CLEAR>＜<$1D>＞か…<$12><$00>
-<CLEAR>"<$1D>"... <$12><$00>
+<CLEAR>
+"
+<$1D>
+"... 
+<$12><$00>
 
 
 //<CLEAR>センスのない　ネーミングじゃナ<$12><$00>
-<CLEAR>What a tacky name.<$12><$00>
+<CLEAR>
+What a tacky name.
+<$12><$00>
 
 
 //<CLEAR>まあ、そんなところじゃナ<$12><$00>
-<CLEAR>Well, it works.<$12><$00>
+<CLEAR>
+Well, it works.
+<$12><$00>
 
 
 //<CLEAR>うむ、ピッタリの名前じゃ<$12><$00>
-<CLEAR>Why, it's perfect!<$12><$00>
+<CLEAR>
+Why, it's perfect!
+<$12><$00>
 
 
 //<CLEAR>そういう名前の友だちが　昔いたなあ<$12>\nよくオナラする　ヤツだったよ<$12><$00>
-<CLEAR>Funny enough, I had a friend with that name! <$12>\n
-Incredibly gassy, that guy.<$12><$00>
+<CLEAR>
+Funny enough, I had a friend with that name! 
+<$12>
+\n
+Incredibly gassy, that guy.
+<$12><$00>
 
 
 //<$02>140<$1D><$02>240<$05><$1E><$04><$00>
@@ -253,246 +377,340 @@ Incredibly gassy, that guy.<$12><$00>
 <$16><$1D><$02>100<$05><$1E><$04><$00>
 
 //……東<$00>
-... East<$00>
+... East
+<$00>
 
 
 //……西<$00>
-... West<$00>
+... West
+<$00>
 
 
 //……南<$00>
-... South<$00>
+... South
+<$00>
 
 
 //……北<$00>
-... North<$00>
+... North
+<$00>
 
 
 //…北東<$00>
-... North-east<$00>
+... North-east
+<$00>
 
 
 //…北西<$00>
-... North-west<$00>
+... North-west
+<$00>
 
 
 //…南東<$00>
-... South-east<$00>
+... South-east
+<$00>
 
 
 //…南西<$00>
-... South-west<$00>
+... South-west
+<$00>
 
 
 //<CLEAR>……<$1D><$00>
-<CLEAR>... ... <$1D><$00>
+<CLEAR>
+... ... 
+<$1D><$00>
 
 
 //、…<$1D>に行けば<$00>
-! That's where we'll find a <$1D>.<$00>
+! That's where we'll find a 
+<$1D>
+.
+<$00>
 
 
 //直進<$00>
-For<$00>
+For
+<$00>
 
 
 //右よ<$00>
-Right<$00>
+Right
+<$00>
 
 
 //左よ<$00>
-Left<$00>
+Left
+<$00>
 
 
 //後ろ<$00>
-Back<$00>
+Back
+<$00>
 
 
 //<CLEAR>……<$1D><$00>
-<CLEAR>... ... <$1D><$00>
+<CLEAR>
+... ... 
+<$1D><$00>
 
 
 //、絶対に<$1D>∥<$00>
-wards, got it? I'm sure we'll find a <$1D> there!<$00>
+wards, got it? I'm sure we'll find a 
+<$1D>
+ there!
+<$00>
 
 
 //<CLEAR><$19><$31><$15><$53>リンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition... <$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>
+Linda used her woman's intuition... 
+<$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
-<CLEAR>... Sorry. I don't have it in me today.<$12><$00>
+<CLEAR>
+... Sorry. I don't have it in me today.
+<$12><$00>
 
 
 //運命の<$00>
-Fated <$00>
+Fated 
+<$00>
 
 
 //新しい<$00>
-New <$00>
+New 
+<$00>
 
 
 //素敵な<$00>
-Great <$00>
+Great 
+<$00>
 
 
 //未知の<$00>
-Unknown <$00>
+Unknown 
+<$00>
 
 
 //何か<$00>
-things <$00>
+things 
+<$00>
 
 
 //発見<$00>
-discoveries <$00>
+discoveries 
+<$00>
 
 
 //お宝<$00>
-treasures <$00>
+treasures 
+<$00>
 
 
 //動物<$00>
-animals <$00>
+animals 
+<$00>
 
 
 //に　出会える…<$00>
-could appear.<$00>
+could appear.
+<$00>
 
 
 //が　待ってる…<$00>
-await us... <$00>
+await us... 
+<$00>
 
 
 //気がするわ∥<$00>
-are there.<$00>
+are there.
+<$00>
 
 
 //チャンスよ∥<$00>
-are in our grasp!<$00>
+are in our grasp!
+<$00>
 
 
 //今しかないわ<$00>
-could get away!<$00>
+could get away!
+<$00>
 
 
 //間違いなし∥<$00>
-are dead ahead!<$00>
+are dead ahead!
+<$00>
 
 
 //\n<$1D><$1D><$1D>\n<$1D><$12>\n<CLEAR><$00>
 \n
-<$1D><$1D><$1D>\n
-<$1D><$12>\n
+
+<$1D><$1D><$1D>
+\n
+
+<$1D><$12>
+\n
+
 <CLEAR><$00>
 
 
 //<CLEAR>自信があるの∥<$12><$00>
-<CLEAR>I swear!<$12><$00>
+<CLEAR>
+I swear!
+<$12><$00>
 
 
 //<CLEAR>自信は　ないけどね…<$12><$00>
-<CLEAR>Although, I'm not totally certain... <$12><$00>
+<CLEAR>
+Although, I'm not totally certain... 
+<$12><$00>
 
 
 //<CLEAR>絶対なんだから∥<$12><$00>
-<CLEAR>I'm absolutely certain!<$12><$00>
+<CLEAR>
+I'm absolutely certain!
+<$12><$00>
 
 
 //クン、クンクン………？<$12>\n<CLEAR><$1D>のニオイが　するね\nそういえば、<$1D>食まだだっけ…<$12><$00>
-Sniff... sniff, sniff?<$12>\n
-<CLEAR><$1D> scent's filling the air. You know, I could go for some <$1D> !<$12><$00>
+Sniff... sniff, sniff?
+<$12>
+\n
+
+<CLEAR><$1D>
+ scent's filling the air. You know, I could go for some 
+<$1D>
+ !
+<$12><$00>
 
 
 //卵焼き<$00>
-fried eggs<$00>
+fried eggs
+<$00>
 
 
 //カレー<$00>
-curry<$00>
+curry
+<$00>
 
 
 //焼き肉<$00>
-Neo Korean BBQ<$00>
+Neo Korean BBQ
+<$00>
 
 
 //唐あげ<$00>
-karaage<$00>
+karaage
+<$00>
 
 
 //お菓子<$00>
-candy<$00>
+candy
+<$00>
 
 
 //バナナ<$00>
-banana<$00>
+banana
+<$00>
 
 
 //フライ<$00>
-Neo French fries<$00>
+Neo French fries
+<$00>
 
 
 //焼き魚<$00>
-grilled fish<$00>
+grilled fish
+<$00>
 
 
 //トマト<$00>
-tomato<$00>
+tomato
+<$00>
 
 
 //バター<$00>
-butter<$00>
+butter
+<$00>
 
 
 //ソース<$00>
-sauce<$00>
+sauce
+<$00>
 
 
 //スープ<$00>
- soup<$00>
+ soup
+<$00>
 
 
 //ピラフ<$00>
-pilaf<$00>
+pilaf
+<$00>
 
 
 //バニラ<$00>
-vanilla<$00>
+vanilla
+<$00>
 
 
 //キムチ<$00>
-kimchi<$00>
+kimchi
+<$00>
 
 
 //チーズ<$00>
-cheese<$00>
+cheese
+<$00>
 
 
 //朝<$00>
-breakfast<$00>
+breakfast
+<$00>
 
 
 //昼<$00>
-lunch<$00>
+lunch
+<$00>
 
 
 //夕<$00>
-dinner<$00>
+dinner
+<$00>
 
 
 //クン、クンクン………？<$12>\n<CLEAR>消毒液のニオイが\nプンプンするね<$12><$00>
-Sniff... sniff, sniff?<$12>\n
-<CLEAR>It smells strongly of antiseptic here.<$12><$00>
+Sniff... sniff, sniff?
+<$12>
+\n
+
+<CLEAR>
+It smells strongly of antiseptic here.
+<$12><$00>
 
 
 #WRITE(PTR, $0022)
 //<$15><$59>動物情報<$06>サービス<$00>
-<$15><$59>Animal <$06>Search<$00>
+<$15><$59>
+Animal 
+<$06>
+Search
+<$00>
 
 
 //<CLEAR>検索ナサイマスカ？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
-<CLEAR>USE THE SEARCH ENGINE?\n
-<$01>Yes<$0E> / <$01>No<$0E><$00>
+<CLEAR>
+USE THE SEARCH ENGINE?\n
+
+<$01>
+Yes
+<$0E>
+ / 
+<$01>
+No
+<$0E><$00>
 
 
 //<CLEAR><$00>
@@ -509,16 +727,42 @@ Sniff... sniff, sniff?<$12>\n
 
 
 //<$16><$01><$1D><$02>56<$0E>　<$01><$1D><$02>120<$0E>　<$01><$1D><$02>184<$0E>　<$01><$1D><$02>248<$0E><$00>
-<$16><$01><$1D><$02>56<$0E>　<$01><$1D><$02>120<$0E>　<$01><$1D><$02>184<$0E>　<$01><$1D><$02>248<$0E><$00>
+<$16><$01><$1D><$02>
+56
+<$0E>
+　
+<$01><$1D><$02>
+120
+<$0E>
+　
+<$01><$1D><$02>
+184
+<$0E>
+　
+<$01><$1D><$02>
+248
+<$0E><$00>
 
 
 //<CLEAR><$02>20<$03>8写真資料\n<$02>34なし<$00>
-<CLEAR><$02>20<$03>8REF:\n
-<$02>34N/A<$00>
+<CLEAR><$02>
+20
+<$03>
+8REF:\n
+
+<$02>
+34N/A
+<$00>
 
 
 //<$03>164<$02>56<$15><$4B>○ボタンで♂♀表示切り替え<$14><$00>
-<$03>164<$02>56<$15><$4B>○ button: ♂/♀<$14><$00>
+<$03>
+164
+<$02>
+56
+<$15><$4B>
+○ button: ♂/♀
+<$14><$00>
 
 
 //<$00>

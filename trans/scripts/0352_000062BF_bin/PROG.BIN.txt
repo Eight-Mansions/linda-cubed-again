@@ -162,148 +162,258 @@ m166m.obj<$00>
 
 #WRITE(PTR, $0026)
 //闘犬場１Ｆ<$00>
-DGF Dojo 1F <$00>
+DGF Dojo 1F 
+<$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
-<CLEAR>Ken whistled.<$12>\n
-<CLEAR>Huge wings flapped in the distance... <$12><$00>
+<CLEAR>
+Ken whistled.
+<$12>
+\n
+
+<CLEAR>
+Huge wings flapped in the distance... 
+<$12><$00>
 
 
 //<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Ken masked the party to avoid\n
-detection.<$12>\n
-<CLEAR>However, none of the animals in the\n
+<CLEAR>
+Ken masked the party to avoid\n
+detection.
+<$12>
+\n
+
+<CLEAR>
+However, none of the animals in the\n
 area were stupid enough to fall for\n
-his antics!<$12><$00>
+his antics!
+<$12><$00>
 
 
 //<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Linda mimicked a few animal calls.<$12>\n
-<CLEAR>However, none of the animals in the\n
+<CLEAR>
+Linda mimicked a few animal calls.
+<$12>
+\n
+
+<CLEAR>
+However, none of the animals in the\n
 area were stupid enough to fall for\n
-her antics!<$12><$00>
+her antics!
+<$12><$00>
 
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
-<CLEAR>The Animal Bible can't be booted here!<$12><$00>
+<CLEAR>
+The Animal Bible can't be booted here!
+<$12><$00>
 
 
 //<CLEAR>ここでは　野営できない<$12><$00>
-<CLEAR>Camp can't be set up here!<$12><$00>
+<CLEAR>
+Camp can't be set up here!
+<$12><$00>
 
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
-<CLEAR>The Navi System(NaviS) can't be booted\n
-here!<$12><$00>
+<CLEAR>
+The Navi System(NaviS) can't be booted\n
+here!
+<$12><$00>
 
 
 #WRITE(PTR, $0028)
 //闘犬場Ｂ１<$00>
-DGF Dojo B1 <$00>
+DGF Dojo B1 
+<$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
-<CLEAR>Ken whistled.<$12>\n
-<CLEAR>Huge wings flapped in the distance... <$12><$00>
+<CLEAR>
+Ken whistled.
+<$12>
+\n
+
+<CLEAR>
+Huge wings flapped in the distance... 
+<$12><$00>
 
 
 //<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Ken masked the party to avoid\n
-detection.<$12>\n
-<CLEAR>However, none of the animals in the\n
+<CLEAR>
+Ken masked the party to avoid\n
+detection.
+<$12>
+\n
+
+<CLEAR>
+However, none of the animals in the\n
 area were stupid enough to fall for\n
-his antics!<$12><$00>
+his antics!
+<$12><$00>
 
 
 //<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Linda mimicked a few animal calls.<$12>\n
-<CLEAR>However, none of the animals in the\n
+<CLEAR>
+Linda mimicked a few animal calls.
+<$12>
+\n
+
+<CLEAR>
+However, none of the animals in the\n
 area were stupid enough to fall for\n
-her antics!<$12><$00>
+her antics!
+<$12><$00>
 
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
-<CLEAR>The Animal Bible can't be booted here!<$12><$00>
+<CLEAR>
+The Animal Bible can't be booted here!
+<$12><$00>
 
 
 //<CLEAR>ここでは　野営できない<$12><$00>
-<CLEAR>Camp can't be set up here!<$12><$00>
+<CLEAR>
+Camp can't be set up here!
+<$12><$00>
 
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
-<CLEAR>The Navi System(NaviS) can't be booted\n
-here!<$12><$00>
+<CLEAR>
+The Navi System(NaviS) can't be booted\n
+here!
+<$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53>ケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53>Ken found the <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>
+Ken found the 
+<$1D>
+!
+<$14><$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53><CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53><CLEAR>Sadly, the item bag was full, so the\n
-<$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>
+Sadly, the item bag was full, so the\n
+
+<$1D>
+had to go back.
+<$14><$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53><CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53><CLEAR>Ken acquired <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>
+Ken acquired 
+<$1D>
+!
+<$14><$12><$00>
 
 
 //<CLEAR>タオルを投げれば　<$1B>イヌの命を\n確実に　救うことができるわ∥\nただし　賞金はチャラ…<$12>\n<CLEAR>タイミングが　難しいのよね\n欲を出すと　高い治療費のおまけまで\n払うはめに　なるもんね<$12><$00>
-<CLEAR>Throwing in the towel may save your <$1B>dog's life, but your\n
-winnings go kaput.<$12>\n
-<CLEAR>Patience is key, but follow your greed for too long, and\n
-you'll pay for it at the vet.<$12><$00>
+<CLEAR>
+Throwing in the towel may save your 
+<$1B>
+dog's life, but your\n
+winnings go kaput.
+<$12>
+\n
+
+<CLEAR>
+Patience is key, but follow your greed for too long, and\n
+you'll pay for it at the vet.
+<$12><$00>
 
 
 //<CLEAR>うちの店で　売ってるワンちゃんは\nどれも　将来、横綱や大関になること\n請け合いの　大物ばかり！<$12>\n<CLEAR>１年後には　安い買い物だったと\n涙を流して　私に感謝するはずよ∥<$12><$00>
-<CLEAR>All dogs sold here have a fighting chance to become the\n
-dojo's 1st-tier "yokozuna" someday. We guarantee it!<$12>\n
-<CLEAR>A year from now, you'll thank me tearfully for LETTING you\n
-buy a dog from us!<$12><$00>
+<CLEAR>
+All dogs sold here have a fighting chance to become the\n
+dojo's 1st-tier "yokozuna" someday. We guarantee it!
+<$12>
+\n
+
+<CLEAR>
+A year from now, you'll thank me tearfully for LETTING you\n
+buy a dog from us!
+<$12><$00>
 
 
 //<CLEAR>自分の給料の半年分を　使ってまで\n治療する価値のある　犬なんて\n実際のとこ、あまりいないわね<$12>\n<CLEAR>でも　ほとんどの飼い主は\n借金してまで　負け犬のケガを治す…\n情に流されるのは　人間の悪いクセよ<$12><$00>
-<CLEAR>Not many dogs out there are worth spending half a year's\n
-salary on at the vet.<$12>\n
-<CLEAR>Some owners can't help but care for their dogs, but\n
-it's a good way to fall into debt.<$12><$00>
+<CLEAR>
+Not many dogs out there are worth spending half a year's\n
+salary on at the vet.
+<$12>
+\n
+
+<CLEAR>
+Some owners can't help but care for their dogs, but\n
+it's a good way to fall into debt.
+<$12><$00>
 
 
 //<$1B>イヌが戦ってる最中に　飼い主が\nできることは　応援と…<$12>\n<CLEAR>負けが見えた猟犬が　倒される前に\n×ボタンで　タオルを投げて\n試合を止めて　助けることだけだね<$12><$00>
-<$1B>The only thing the owner can do in a dogfight is show\n
-support.<$12>\n
-<CLEAR>But, if your dog is about to get wiped out, you can also\n
-press the × button.<$12>\n
-<CLEAR>You'll throw in the towel and lose the match, but doing so\n
-may save your dog's life!<$12><$00>
+<$1B>
+The only thing the owner can do in a dogfight is show\n
+support.
+<$12>
+\n
+
+<CLEAR>
+But, if your dog is about to get wiped out, you can also\n
+press the × button.
+<$12>
+\n
+
+<CLEAR>
+You'll throw in the towel and lose the match, but doing so\n
+may save your dog's life!
+<$12><$00>
 
 
 //ここより先、オーマン家私宅につき\n関係者以外は　ご遠慮ください\n＿＿＿＿＿＿＿＿レバトリー・オーマン<$12><$00>
 "AUMANN FAMILY PRIVATE RESIDENCE.\n
 NO TRESPASSING."\n
- -LIBERTRI AUMANN<$12><$00>
+ -LIBERTRI AUMANN
+<$12><$00>
 
 
 //闘犬場での番付が　三役以上になると\nそれだけで　お<$1B>イヌ様に　季節ごとに\n給金が　飼い主に支払われるのサ<$12>\n<CLEAR>おまけに、漢字の名を襲名できる！\nチンケなカナの名とも　それで\n永遠に　おさらばってわけよ<$12><$00>
-Participants with <$1B>dogs 3rd-tier or higher can be paid\n
-seasonally.<$12>\n
-<CLEAR>That's why you need a dog with a good, strong anime name!\n
-Everyone knows anime names make you stronger!<$12><$00>
+Participants with 
+<$1B>
+dogs 3rd-tier or higher can be paid\n
+seasonally.
+<$12>
+\n
+
+<CLEAR>
+That's why you need a dog with a good, strong anime name!\n
+Everyone knows anime names make you stronger!
+<$12><$00>
 
 
 //この闘犬場の　オーマンさんの次男坊の\nシェドパってのが　ギャンブル狂いでね\nこれが　また異常に強いのよ<$12>\n<CLEAR>私も一度、ポーカーで　身ぐるみ\nはがされたことがあるわ…　その後\nどうなったかは　ムフフ…ってわけよ<$12><$00>
 Mr. Aumann's second son, Shedoba, is a gambling maniac.\n
-Thing is, he's weirdly good at it.<$12>\n
-<CLEAR>He got my whole costume off in strip poker once. (You can\n
-guess what he won next.■)<$12><$00>
+Thing is, he's weirdly good at it.
+<$12>
+\n
+
+<CLEAR>
+He got my whole costume off in strip poker once. (You can\n
+guess what he won next.■)
+<$12><$00>
 
 
 //シェドパの野郎のカードには　きっと\n何か細工が　あるにちがいないよ\nじゃないと　あんなに勝てるわけねぇ<$12>\n<CLEAR>今まで　あいつと　カードで勝負して\n勝ったヤツは　たったひとりだけ…\n確か、名前は　バンだか　ベンだか…<$12><$00>
 Shedoba's playing dirty. There's no way he'd win so many\n
-card games otherwise.<$12>\n
-<CLEAR>I hear only one person's ever beat him so far. His name\n
-was, I think, "Bahn"? "Ben"?<$12><$00>
+card games otherwise.
+<$12>
+\n
+
+<CLEAR>
+I hear only one person's ever beat him so far. His name\n
+was, I think, "Bahn"? "Ben"?
+<$12><$00>
 
 
 //BA_W.TMZ<$00>
@@ -313,135 +423,229 @@ BA_W.TMZ<$00>
 BA_E.TMZ<$00>
 
 //世の中にはヘンなヤツが　たまにいてサ\n<$1B>イルカとか　<$1B>ライオンを\nここへ　持ち込んどいて…<$12>\n<CLEAR>こいつは　俺の猟犬だから\n闘犬大会に　出場させろ！とか\nメチャクチャなことを　ほざくのよ<$12>\n<CLEAR>いくらなんでも\nひと目見れば　バレるってーの<$12><$00>
-Some weirdos in the world bring pet <$1B>dolphins or <$1B>lions to\n
-fight in the dojo.<$12>\n
-<CLEAR>"What's the deal? It hunts, so it counts, right?" Sorry,\n
-dipshit. That's not the point!<$12>\n
-<CLEAR>Anytime that happens, you just have to look at em, and be\n
-like, "Are you for real?"<$12><$00>
+Some weirdos in the world bring pet 
+<$1B>
+dolphins or 
+<$1B>
+lions to\n
+fight in the dojo.
+<$12>
+\n
+
+<CLEAR>
+"What's the deal? It hunts, so it counts, right?" Sorry,\n
+dipshit. That's not the point!
+<$12>
+\n
+
+<CLEAR>
+Anytime that happens, you just have to look at em, and be\n
+like, "Are you for real?"
+<$12><$00>
 
 
 //オーマンさんが　お元気だった頃は\n週末になると　猟犬をともなって\n狩りに　おでかけになってたわ<$12>\n<CLEAR>ダークリバーをぬけて　Ｗ<$06>-12<$04>辺りまで\n足を延ばすのが　お気に入りの\nコースだったようだね<$12><$00>
 When Mr. Aumann was healthier, he used to take his dogs out\n
-hunting on weekends.<$12>\n
-<CLEAR>His favorite place to stretch his legs was Dark River. That's\n
-W<$06>-12<$04>.<$12><$00>
+hunting on weekends.
+<$12>
+\n
+
+<CLEAR>
+His favorite place to stretch his legs was Dark River. That's\n
+W
+<$06>
+-12
+<$04>
+.
+<$12><$00>
 
 
 //猟犬の仕事は「猟」だ\nここで賞金を　稼ぐことじゃない\nそれを　忘れないようにしなよ<$12>\n<CLEAR>でも、自分の<$1B>イヌの名を「漢字」に\n変えてみたいってのも　飼い主としては\n当たり前の　欲望ではあるけどな<$12><$00>
 Don't forget, dogs raised for hunting and dogs raised for\n
-the dojo are not the same.<$12>\n
-<CLEAR>Worse than all that, though, is people who name their <$1B>dogs\n
-after anime characters... <$12>\n
-<CLEAR>THAT draws the line on animal cruelty.<$12><$00>
+the dojo are not the same.
+<$12>
+\n
+
+<CLEAR>
+Worse than all that, though, is people who name their 
+<$1B>
+dogs\n
+after anime characters... 
+<$12>
+\n
+
+<CLEAR>
+THAT draws the line on animal cruelty.
+<$12><$00>
 
 
 //戦闘から逃げる時は　誰が最後まで\n残るか　よく考えることだ<$12>\n<CLEAR>シンガリは　死ぬものと\n思ってて　ちょうどいいぐらいだ<$12><$00>
 When fleeing combat, consider carefully which party\n
-members must stay behind.<$12>\n
-<CLEAR>If your "anchor" has to go down with the ship, so be it.<$12><$00>
+members must stay behind.
+<$12>
+\n
+
+<CLEAR>
+If your "anchor" has to go down with the ship, so be it.
+<$12><$00>
 
 
 //東の湖から　南に流れる川の途中が\nダークリバーと呼ばれてる　洞くつだ<$12>\n<CLEAR>中は　ほとんどが水！\nよほどの不利を　覚悟しなきゃ\nとても行く気には　なれない所だな<$12><$00>
 There's a cavern called Dark River along the river flowing\n
-south from the east lake. <$12>\n
-<CLEAR>It's all flooded with water inside, so prepare for that\n
-disadvantage beforehand.<$12><$00>
+south from the east lake. 
+<$12>
+\n
+
+<CLEAR>
+It's all flooded with water inside, so prepare for that\n
+disadvantage beforehand.
+<$12><$00>
 
 
 //動物の中には　完全な夜行性で\n夜襲された時しか　姿を見ることがない\nやたら手間のかかるのも　いるそうだ<$12><$00>
 Some animals are wholly nocturnal, making the hunt twice as\n
-tedious and time-consuming.<$12><$00>
+tedious and time-consuming.
+<$12><$00>
 
 
 //この闘犬場は　オーマンって\n大金持ちのじいさんが　経営してるのよ\n最近、病気らしいけどね<$12>\n<CLEAR>会いたいなら、左奥の階段を降りれば\nそこが　オーマン一族の住居よ\nちなみに、子供は　ごくつぶしが三人<$12><$00>
 DGF Dojo is run by an especially rich senior named\n
-Libertri Aumann, but he fell ill recently, I hear<$12>\n
-<CLEAR>If you'd like to meet him or his three lousy kids, the Aumann\n
-residence is down the left-most staircase.<$12><$00>
+Libertri Aumann, but he fell ill recently, I hear
+<$12>
+\n
+
+<CLEAR>
+If you'd like to meet him or his three lousy kids, the Aumann\n
+residence is down the left-most staircase.
+<$12><$00>
 
 
 #WRITE(PTR, $002A)
 //オーマン家住居<$00>
-Aumann Residence <$00>
+Aumann Residence 
+<$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
-<CLEAR>Ken whistled.<$12>\n
-<CLEAR>Huge wings flapped in the distance... <$12><$00>
+<CLEAR>
+Ken whistled.
+<$12>
+\n
+
+<CLEAR>
+Huge wings flapped in the distance... 
+<$12><$00>
 
 
 //<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Ken masked the party to avoid\n
-detection.<$12>\n
-<CLEAR>However, none of the animals in the\n
+<CLEAR>
+Ken masked the party to avoid\n
+detection.
+<$12>
+\n
+
+<CLEAR>
+However, none of the animals in the\n
 area were stupid enough to fall for\n
-his antics!<$12><$00>
+his antics!
+<$12><$00>
 
 
 //<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Linda mimicked a few animal calls.<$12>\n
-<CLEAR>However, none of the animals in the\n
+<CLEAR>
+Linda mimicked a few animal calls.
+<$12>
+\n
+
+<CLEAR>
+However, none of the animals in the\n
 area were stupid enough to fall for\n
-her antics!<$12><$00>
+her antics!
+<$12><$00>
 
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
-<CLEAR>The Animal Bible can't be booted here!<$12><$00>
+<CLEAR>
+The Animal Bible can't be booted here!
+<$12><$00>
 
 
 //<CLEAR>ここでは　野営できない<$12><$00>
-<CLEAR>Camp can't be set up here!<$12><$00>
+<CLEAR>
+Camp can't be set up here!
+<$12><$00>
 
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
-<CLEAR>The Navi System(NaviS) can't be booted\n
-here!<$12><$00>
+<CLEAR>
+The Navi System(NaviS) can't be booted\n
+here!
+<$12><$00>
 
 
 //誰に断って　その薄汚れた足で\nビグル様の部屋へ　入ってきたんだ！\nえっ∥　兄ちゃんよ∥　ぶっ殺すぞ∥<$12><$00>
 Who DARES enter my, Bigul, B-I-G-U-L's bedroom with\n
-dirty feet?! I'll KILL your ass!<$12><$00>
+dirty feet?! I'll KILL your ass!
+<$12><$00>
 
 
 //ん？　あぁ　君が例の「箱船」の…\n新聞で読んだよ！　今どき奇特な御仁が\nいるものだって　話していたところさ<$12>\n<CLEAR>まぁ　頑張ってくれたまえ<$12><$00>
 Oh? You're from that "ark" thing I read in the paper! A\n
-commendable effort, say!<$12>\n
-<CLEAR>After all, someone has to do it.<$12><$00>
+commendable effort, say!
+<$12>
+\n
+
+<CLEAR>
+After all, someone has to do it.
+<$12><$00>
 
 
 //あら、イイ男ね\n私はポメラン、この家のお嬢様よ\n今度、ゆっくり遊びにいらしてね<$12>\n<CLEAR>もちろん　おひとりでね■<$12><$00>
 Hello handsome!\n
-I'm Pomeran Aumann. Single, of course!<$12>\n
-<CLEAR>You and I should get to know eachother sometime... alone.■<$12><$00>
+I'm Pomeran Aumann. Single, of course!
+<$12>
+\n
+
+<CLEAR>
+You and I should get to know eachother sometime... alone.■
+<$12><$00>
 
 
 //<$00>
 <$00>
 
 //クーーン　クーーン<$12><$00>
-Whine, whine!<$12><$00>
+Whine, whine!
+<$12><$00>
 
 
 //ピグルは　私たちにとっては\n理想的なオトコね！　身元が確かだし\nお金持ちで気前もいい！　それに…<$12>\n<CLEAR>はやいのよ、彼…<$12><$00>
 Piggles is the ideal man for us! He's rich, generous, has\n
-good pedigree, and... <$12>\n
-<CLEAR>... he finishes quickly.<$12><$00>
+good pedigree, and... 
+<$12>
+\n
+
+<CLEAR>
+... he finishes quickly.
+<$12><$00>
 
 
 //■<$00>
 ■<$00>
 
 //Ｋ<$00>
-king<$00>
+king
+<$00>
 
 
 //Ｊ<$00>
-jack<$00>
+jack
+<$00>
 
 
 //Ｑ<$00>
-queen<$00>
+queen
+<$00>
 
 
 //１<$00>
@@ -462,798 +666,1309 @@ queen<$00>
 
 //話しかけんなよ！　集中できねぇだろ∥\n今、<$1D>で揃ったところで\nここからが勝負なんだからよ<$12><$00>
 Hush! I'm trying to concentrate! All I need to win now is the\n
-<$1D>!<$12><$00>
+
+<$1D>
+!
+<$12><$00>
 
 
 //ちっ、また俺の負けか…<$12><$00>
-Drats, I lost again.<$12><$00>
+Drats, I lost again.
+<$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53>ケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53>Ken found the <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>
+Ken found the 
+<$1D>
+!
+<$14><$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53><CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53><CLEAR>Sadly, the item bag was full, so the\n
-<$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>
+Sadly, the item bag was full, so the\n
+
+<$1D>
+had to go back.
+<$14><$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53><CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53><CLEAR>Ken acquired <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>
+Ken acquired 
+<$1D>
+!
+<$14><$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53>ケンは「<$1D>」を発見∥<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53>Ken found the <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>
+Ken found the 
+<$1D>
+!
+<$14><$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53><CLEAR>だが、道具袋が一杯なので\n「<$1D>」を\nとりあえず　あきらめた…<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53><CLEAR>Sadly, the item bag was full, so the\n
-<$1D>had to go back.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>
+Sadly, the item bag was full, so the\n
+
+<$1D>
+had to go back.
+<$14><$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53><CLEAR>「<$1D>」を　手に入れた∥<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53><CLEAR>Ken acquired <$1D>!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>
+Ken acquired 
+<$1D>
+!
+<$14><$12><$00>
 
 
 //<CLEAR>フンだ∥\nさっさと　帰ってちょうだい∥<$12><$00>
-<CLEAR>Very well!\n
-I suppose you've no reason to stay then!<$12><$00>
+<CLEAR>
+Very well!\n
+I suppose you've no reason to stay then!
+<$12><$00>
 
 
 //こんにちは！\n私が電話した　ナターシャよ\nさっそくなんだけど　仕事の話ね…<$12>\n<CLEAR>先日、ここの社長の　オーマン氏が\n亡くなってね…　で、ありがちな\n醜い遺産争いの　勃発となったわけね<$12>\n<CLEAR>さらに　話をややこしくしてるのが\nオーマン氏が　後継者の名を記した物が\n行方不明に　なっちゃったことなの<$12><$00>
 Hello! I'm Natasha, from the phone. I'm on a tight schedule,\n
-so I'll be brief.<$12>\n
-<CLEAR>The head of this household, Mr. Libertri Aumann, passed\n
-away the other day. <$12>\n
-<CLEAR>And now, his 3 children have roped me into their inheritence\n
-dispute.<$12>\n
-<CLEAR>We have all of the paperwork for the rightful heir, EXCEPT\n
-for his or her name!<$12><$00>
+so I'll be brief.
+<$12>
+\n
+
+<CLEAR>
+The head of this household, Mr. Libertri Aumann, passed\n
+away the other day. 
+<$12>
+\n
+
+<CLEAR>
+And now, his 3 children have roped me into their inheritence\n
+dispute.
+<$12>
+\n
+
+<CLEAR>
+We have all of the paperwork for the rightful heir, EXCEPT\n
+for his or her name!
+<$12><$00>
 
 
 //<CLEAR>彼、ちょいと変わり者でね…　生前に\nかわいがってた犬の　首輪のどこかに\n後継者の名を　書いたらしいのよ<$12>\n<CLEAR>その犬、「太郎」っていうんだけど\nどこかに　いなくなっちゃってさ、\nもちろん　首輪をつけたまんまね…<$12>\n<CLEAR>で、頼みたいのは　犬捜し∥\n太郎クンを　見つけてきて欲しいの\n<$01>任せて∥<$0E>／<$01>報酬は？<$0E>／<$01>ふざけろ<$0E><$00>
-<CLEAR>Mr. Aumann, a dog lover,\n
+<CLEAR>
+Mr. Aumann, a dog lover,\n
 wrote the name of his heir\n
-on his favorite dog's collar.<$12>\n
-<CLEAR>But that dog, Taro, ran away recently,\n
-taking the collar with him.<$12>\n
-<CLEAR>If you can, find Taro for us and get\n
+on his favorite dog's collar.
+<$12>
+\n
+
+<CLEAR>
+But that dog, Taro, ran away recently,\n
+taking the collar with him.
+<$12>
+\n
+
+<CLEAR>
+If you can, find Taro for us and get\n
 that collar!\n
-<$01>Okay!<$0E> / <$01>Any my reward?<$0E> / <$01>Sorry<$0E><$00>
+
+<$01>
+Okay!
+<$0E>
+ / 
+<$01>
+Any my reward?
+<$0E>
+ / 
+<$01>
+Sorry
+<$0E><$00>
 
 
 //<CLEAR>サンキュー∥\nギャラは　破格の<$06>20000<$04>￥よ<$12><$00>
-<CLEAR>Thank you! I'll cover you for <$06>20,000<$04>￥, 'kay?<$12><$00>
+<CLEAR>
+Thank you! I'll cover you for 
+<$06>
+20,000
+<$04>
+￥, 'kay?
+<$12><$00>
 
 
 //<CLEAR>そうね、<$06>20000<$04>￥でどう？\n<$01>やるとも<$0E>／<$01>安いよ∥<$0E>／<$01>ふざけろ<$0E><$00>
-<CLEAR>But of course! <$06>20000<$04>￥ works, right?\n
-<$01>That works<$0E> / <$01>That's too low<$0E> / <$01>Get outta here!<$0E><$00>
+<CLEAR>
+But of course! 
+<$06>
+20000
+<$04>
+￥ works, right?\n
+
+<$01>
+That works
+<$0E>
+ / 
+<$01>
+That's too low
+<$0E>
+ / 
+<$01>
+Get outta here!
+<$0E><$00>
 
 
 //<CLEAR>あら？　意外としっかりしてるわね\nじゃ　<$06>30000<$04>￥出すわ！　いかが？\n<$01>ＯＫだ∥<$0E>／<$01>もう一声<$0E>／<$01>ふざけろ<$0E><$00>
-<CLEAR>Ah! Sorry, my tongue slipped.\n
-I meant <$06>30000<$04>￥! Will that do?\n
-<$01>Yes<$0E> / <$01>Say that again?<$0E> / <$01>Get outta here!<$0E><$00>
+<CLEAR>
+Ah! Sorry, my tongue slipped.\n
+I meant 
+<$06>
+30000
+<$04>
+￥! Will that do?\n
+
+<$01>
+Yes
+<$0E>
+ / 
+<$01>
+Say that again?
+<$0E>
+ / 
+<$01>
+Get outta here!
+<$0E><$00>
 
 
 //<CLEAR>あなたには　負けたわよ…\nギリギリ　<$06>40000<$04>￥∥　いいでしょ？\n<$01>いいゼ∥<$0E>／<$01>まだまだ<$0E>／<$01>ふざけろ<$0E><$00>
-<CLEAR>Hahaha, you caught me!\n
-Here, <$06>40000<$04>￥ is more than fair.\n
-<$01>I'll take it<$0E> / <$01>That's not fair<$0E> / <$01>Get outta here!<$0E><$00>
+<CLEAR>
+Hahaha, you caught me!\n
+Here, 
+<$06>
+40000
+<$04>
+￥ is more than fair.\n
+
+<$01>
+I'll take it
+<$0E>
+ / 
+<$01>
+That's not fair
+<$0E>
+ / 
+<$01>
+Get outta here!
+<$0E><$00>
 
 
 //<CLEAR>わかったわ…　<$06>50000<$04>￥、これが上限∥\nこれでダメなら　他を当たるわ\n<$01>よーし∥<$0E>／<$01>ふざけろ<$0E><$00>
-<CLEAR>Okay, okay...  <$06>50000<$04>￥, but any more,\n
+<CLEAR>
+Okay, okay...  
+<$06>
+50000
+<$04>
+￥, but any more,\n
 and I'll have to find someone else!\n
-<$01>Thatta girl!<$0E> / <$01>Get outta here!<$0E><$00>
+
+<$01>
+Thatta girl!
+<$0E>
+ / 
+<$01>
+Get outta here!
+<$0E><$00>
 
 
 //<CLEAR>フンだ∥\nさっさと　帰ってちょうだい∥<$12><$00>
-<CLEAR>Very well!\n
-I suppose you've no reason to stay then!<$12><$00>
+<CLEAR>
+Very well!\n
+I suppose you've no reason to stay then!
+<$12><$00>
 
 
 //こんど<$00>
-This fall,<$00>
+This fall,
+<$00>
 
 
 //１年後<$00>
-Next fall,<$00>
+Next fall,
+<$00>
 
 
 //２年後<$00>
-Two falls from now,<$00>
+Two falls from now,
+<$00>
 
 
 //３年後<$00>
-Three falls from now,<$00>
+Three falls from now,
+<$00>
 
 
 //４年後<$00>
-4 years<$00>
+4 years
+<$00>
 
 
 //５年後<$00>
-5 years<$00>
+5 years
+<$00>
 
 
 //６年後<$00>
-6 years<$00>
+6 years
+<$00>
 
 
 //７年後<$00>
-7 years<$00>
+7 years
+<$00>
 
 
 //８年後<$00>
-8 years<$00>
+8 years
+<$00>
 
 
 //<CLEAR>この仕事、<$1D>の夏までにお願いね\nそれを過ぎると　全遺産が\n難民募金に　自動的に寄付されるのよ<$12>\n<CLEAR>それは　それで意義のあることだけど\n私のギャラも　あなたのギャラも\n出なくなっちゃうわけ…　困るよね？<$12><$00>
-<CLEAR>You have <$1D> to\n
+<CLEAR>
+You have 
+<$1D>
+ to\n
 get that collar back to me or its\n
-rightful owner. <$12>\n
-<CLEAR>After that summer, all unclaimed assets\n
+rightful owner. 
+<$12>
+\n
+
+<CLEAR>
+After that summer, all unclaimed assets\n
 are to be donated to the migration\n
-project.<$12>\n
-<CLEAR>While I think that's just as well,\n
+project.
+<$12>
+\n
+
+<CLEAR>
+While I think that's just as well,\n
 both of us need to be paid somehow,\n
-you know?<$12><$00>
+you know?
+<$12><$00>
 
 
 //<CLEAR>あら￠　思ったより早かったじゃない\nじゃ　太郎の首輪を　いただくわね！<$12>\n<CLEAR><$19><$31><$15><$53>ケンは「太郎の首輪」を\nナターシャに　渡した<$14><$12><$00>
-<CLEAR>Wow! You're faster than I thought!\n
-Here, give me Taro's Collar!<$12>\n
-<CLEAR><$19><$31><$15><$53>Ken gave Taro's Collar\n
-to Natasha!<$14><$12><$00>
+<CLEAR>
+Wow! You're faster than I thought!\n
+Here, give me Taro's Collar!
+<$12>
+\n
+
+<CLEAR><$19><$31><$15><$53>
+Ken gave Taro's Collar\n
+to Natasha!
+<$14><$12><$00>
 
 
 //<CLEAR>えーっと、ギャラは<$1E>37￥よね？\n<$01>そうだ！<$0E>／<$01>ふざけろ<$0E><$00>
-<CLEAR>Mkay! As for your pay, how's <$1E>37￥？\n
-<$01>Sweet!<$0E> / <$01>Get outta here!<$0E><$00>
+<CLEAR>
+Mkay! As for your pay, how's 
+<$1E>
+37￥？\n
+
+<$01>
+Sweet!
+<$0E>
+ / 
+<$01>
+Get outta here!
+<$0E><$00>
 
 
 //<CLEAR>あら？覚えてたの？\n<$1E>37￥の約束だったわね<$12><$00>
-<CLEAR>Ah, what was it I promised again?\n
-<$1E>37￥?<$12><$00>
+<CLEAR>
+Ah, what was it I promised again?\n
+
+<$1E>
+37￥?
+<$12><$00>
 
 
 //<CLEAR>それと、特別ボーナスに\nこの指輪も　進呈するわ∥<$12><$00>
-<CLEAR>Well, I suppose I can give you this\n
-ring as a bonus!<$12><$00>
+<CLEAR>
+Well, I suppose I can give you this\n
+ring as a bonus!
+<$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53>ケンは<$1E>37￥と\n「アダマデの指輪」を受け取った！<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53>Ken received <$1E>37￥ and\n
-Adamarde's Ring!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>
+Ken received 
+<$1E>
+37￥ and\n
+Adamarde's Ring!
+<$14><$12><$00>
 
 
 //<CLEAR>ごくろうさま、ケン∥\nこれで　万事うまくいくわ∥<$12><$00>
-<CLEAR>Thank you, Ken!\n
+<CLEAR>
+Thank you, Ken!\n
 I'll take care of everything\n
-from here.<$12><$00>
+from here.
+<$12><$00>
 
 
 //<CLEAR>あなたにあげた指輪ね、実は　死んだ\nオーマンからの贈り物なのよ\nそう！　結婚指輪ってヤツよ<$12>\n<CLEAR>実は私、法律上は　彼の後妻でもあるの\n余命が長くないのを　見こして\nちゃっかり　入籍しといたってわけ<$12>\n<CLEAR>じいさんひとり　丸め込むのは\n私にとっては　朝飯前だったんだけど\n三人のガキどもが　うるさくってさ<$12>\n<CLEAR>だけど　この首輪さえあれば\nこっちのもの∥　ジ・エンドってわけ∥\n本当、感謝してるわよ∥　ケン■<$12><$00>
-<CLEAR>That ring I gave you is the wedding\n
+<CLEAR>
+That ring I gave you is the wedding\n
 ring Mr. Aumann gave me.\n
-You see, the truth is... <$12>\n
-<CLEAR>Legally speaking, I'm his second wife.\n
+You see, the truth is... 
+<$12>
+\n
+
+<CLEAR>
+Legally speaking, I'm his second wife.\n
 When I heard he didn't have long,\n
-I creeped in and had us register.<$12>\n
-<CLEAR>Seducing the old man was easy.\n
+I creeped in and had us register.
+<$12>
+\n
+
+<CLEAR>
+Seducing the old man was easy.\n
 His kids sure know how to get in the\n
-way though.<$12>\n
-<CLEAR>Now that I have the collar,\n
+way though.
+<$12>
+\n
+
+<CLEAR>
+Now that I have the collar,\n
 I can live happily ever after.\n
-Thank you.■<$12><$00>
+Thank you.■
+<$12><$00>
 
 
 //寝食を忘れ、三人の女房に逃げられ\nやっとの思いで　造ったのが\nわしの自慢の　闘犬場じゃ…<$12>\n<CLEAR>おかげさんで　お客のウケも悪うない\n唯一の悩みは　親の苦労も知らんと\n湯水のごとく金を使う　息子たちじゃ<$12>\n<CLEAR>わしが死んだら　あのバカタレたちが\n遺産を相続するかと　思うと\n腹ワタが　煮えくりかえるんじゃ∥<$12><$00>
 Forsaking bed and food, leaving my\n
 three wives, I built my pride and joy,\n
-this dogfight dojo.<$12>\n
-<CLEAR>My one regret is never letting my\n
+this dogfight dojo.
+<$12>
+\n
+
+<CLEAR>
+My one regret is never letting my\n
 children see the hardships of adulthood\n
-for themselves.<$12>\n
-<CLEAR>The mere thought of those three\n
+for themselves.
+<$12>
+\n
+
+<CLEAR>
+The mere thought of those three\n
 inheriting my assets when I die makes\n
-my blood boil!<$12><$00>
+my blood boil!
+<$12><$00>
 
 
 //オーマンさんは　息子さんたちの\n話をするたびに　血圧が<$06>250<$04>近くまで\n上がるのよ…　体に良くないわ<$12><$00>
 When Mr. Aumann talks about his kids,\n
 his blood pressure shoots to\n
-roughly <$06>250<$04>!<$12>\n
-<CLEAR>All three of them are bad\n
-for his health!<$12><$00>
+roughly 
+<$06>
+250
+<$04>
+!
+<$12>
+\n
+
+<CLEAR>
+All three of them are bad\n
+for his health!
+<$12><$00>
 
 
 //オーマンさんは　狩りがお好きでね…\n猟犬の太郎を連れて　ダークリバーの\n南側まで　足を延ばしてたらしいわ<$12>\n<CLEAR><$1B>マイマイ、<$1B>コアラ、<$1B>ウニ…\n<$1B>ヒドラなんかも　獲ってきてたみたい<$12><$00>
 Mr. Aumann loved hunting with his dog,\n
 Taro. They used to go to Dark River on\n
-weekends.<$12>\n
-<CLEAR><$1B>Snails, <$1B>koalas, <$1B>sea urchins,\n
+weekends.
+<$12>
+\n
+
+<CLEAR><$1B>
+Snails, 
+<$1B>
+koalas, 
+<$1B>
+sea urchins,\n
 you name it.\n
-I think they even caught <$1B>hydras!<$12><$00>
+I think they even caught 
+<$1B>
+hydras!
+<$12><$00>
 
 
 //<CLEAR>おい！　おまえ∥＿俺様は、ビグル∥\nオーマン家の長男だ∥　太郎の首輪は\n俺様の所へ　持って来な∥<$12>\n<CLEAR>おまえなんかには　<$1B>ブタに真珠だが…\nドギファ最強の闘犬「次郎」を\nくれてやろうじゃねえか∥<$12><$00>
-<CLEAR>Let's get one thing straight.\n
+<CLEAR>
+Let's get one thing straight.\n
 I, Bigul, am the oldest.\n
-Taro's Collar should go to me!<$12>\n
-<CLEAR>I'll give you my dog, Jiro.\n
+Taro's Collar should go to me!
+<$12>
+\n
+
+<CLEAR>
+I'll give you my dog, Jiro.\n
 Take him to the dojo, and you'll be\n
-happier than a <$1B>pig in shit!<$12><$00>
+happier than a 
+<$1B>
+pig in shit!
+<$12><$00>
 
 
 //<CLEAR>ドギファ最強の闘犬「次郎」の\n魅力に勝てなかったようだな∥\nさあ、太郎の首輪を　よこしな∥<$12>\n<CLEAR><$19><$31><$15><$53>ケンは「太郎の首輪」を\n取り上げられた！<$14><$12><$00>
-<CLEAR>Only an idiot would turn down Jiro,\n
-the champ! Now, give me Taro's Collar!<$12>\n
-<CLEAR><$19><$31><$15><$53>Ken surrendered Taro's Collar!<$14><$12><$00>
+<CLEAR>
+Only an idiot would turn down Jiro,\n
+the champ! Now, give me Taro's Collar!
+<$12>
+\n
+
+<CLEAR><$19><$31><$15><$53>
+Ken surrendered Taro's Collar!
+<$14><$12><$00>
 
 
 //<CLEAR>太郎の首輪を　持ってきたって\nバカなおまえは　後生大事に\n駄犬ばかり10頭も　飼ってやがる<$12>\n<CLEAR>ドギファ最強の闘犬「次郎」先生を\nお迎えするワクは　ないわけだ\nなんなら１頭、次郎のエサにするか？<$12><$00>
-<CLEAR>You're some idiot for keeping\n
+<CLEAR>
+You're some idiot for keeping\n
 Taro's Collar. Have fun cycling through\n
-weak dogs for the rest of your life.<$12>\n
-<CLEAR>Everyone and their mother would kill\n
+weak dogs for the rest of your life.
+<$12>
+\n
+
+<CLEAR>
+Everyone and their mother would kill\n
 to take Jiro into the DGF dojo,\n
-and you're missing out!<$12><$00>
+and you're missing out!
+<$12><$00>
 
 
 //<CLEAR>次郎だ∥　まあ　せいぜい\nかわいがってもらいなよ\n次郎にな<$12><$00>
-<CLEAR>Here's, Jiro!\n
-You'd better take good care of him. <$12><$00>
+<CLEAR>
+Here's, Jiro!\n
+You'd better take good care of him. 
+<$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53>ケンは、猟犬「次郎」を手に入れた！<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53>Ken acquired\n
-the dog, Jiro!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>
+Ken acquired\n
+the dog, Jiro!
+<$14><$12><$00>
 
 
 //次郎<$00>
-Jiro<$00>
+Jiro
+<$00>
 
 
 //<CLEAR>次郎は強ぇゼ∥　あまりに強すぎて\n猟犬としては　ほとんど\n使い道が　ねえけどな…<$12>\n<CLEAR>ただし、ぶち殺してぇ相手が\nいるんなら　話は別だ\nこいつほど　頼りになる奴はいねえゼ<$12><$00>
-<CLEAR>Jiro's very strong!\n
+<CLEAR>
+Jiro's very strong!\n
 Way too strong to help you\n
-catch animals in one piece.<$12>\n
-<CLEAR>His ability to straight-up kill,\n
+catch animals in one piece.
+<$12>
+\n
+
+<CLEAR>
+His ability to straight-up kill,\n
 however, is another story.\n
-No dog does that better!<$12><$00>
+No dog does that better!
+<$12><$00>
 
 
 //<CLEAR>あら、もうお帰り？　ケン？\nねえ　太郎の首輪のことなんだけど\nこっちへ　渡してくれないかしらね<$12><$00>
-<CLEAR>Psst, you're leaving already?\n
+<CLEAR>
+Psst, you're leaving already?\n
 When you get back,\n
-give Taro's Collar to me!<$12><$00>
+give Taro's Collar to me!
+<$12><$00>
 
 
 //<CLEAR>あのケチな弁護士に　いくらで\n雇われたか知らないけど　私なら\nその倍は　出せるわよ<$12>\n<CLEAR>あなたひとりで＿届けてくれるなら\nお金じゃない払い方も　たっぷり\nサービスしても　よろしくてよ■<$12><$00>
-<CLEAR>How much did that hussy lawyer offer\n
+<CLEAR>
+How much did that hussy lawyer offer\n
 to pay you? Whatever it is,\n
-I'll double the amount!<$12>\n
-<CLEAR>And if you deliver it alone,\n
+I'll double the amount!
+<$12>
+\n
+
+<CLEAR>
+And if you deliver it alone,\n
 I can pay you in better ways\n
-than money.■<$12><$00>
+than money.■
+<$12><$00>
 
 
 //<CLEAR>あら、ケン！　私のために\n太郎の首輪を　捜して来てくれたのね\n優しいのね■<$12>\n<CLEAR><$19><$31><$15><$53>ケンは「太郎の首輪」を\n思わず　渡してしまった…<$14><$12><$00>
-<CLEAR>Why, Ken!\n
+<CLEAR>
+Why, Ken!\n
 You're so sweet to fetch\n
-Taro's Collar for me!■<$12>\n
-<CLEAR><$19><$31><$15><$53>Ken felt Taro's Collar get\n
-whisked out of his hand.<$14><$12><$00>
+Taro's Collar for me!■
+<$12>
+\n
+
+<CLEAR><$19><$31><$15><$53>
+Ken felt Taro's Collar get\n
+whisked out of his hand.
+<$14><$12><$00>
 
 
 //<CLEAR>これ少ないんだけど　約束のお金、\nまあ　これをお駄賃替わりに\n取っておいてちょうだい<$12><$00>
-<CLEAR>Here's the reward I promised.\n
+<CLEAR>
+Here's the reward I promised.\n
 Save it for a down payment\n
-on a sizeable house.<$12><$00>
+on a sizeable house.
+<$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53>ケンは　<$1E>37￥を受け取った∥<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53>Ken received <$1E>37￥!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>
+Ken received 
+<$1E>
+37￥!
+<$14><$12><$00>
 
 
 //<CLEAR>ウフフフ…\nこれで　あの牝ギツネも追い出せるわ\nありがとう　おバカさんのケン■<$12><$00>
-<CLEAR>Tee hee! Now I can kick that\n
+<CLEAR>
+Tee hee! Now I can kick that\n
 gold digger out for good!\n
-Thank you, my silly Ken.■<$12><$00>
+Thank you, my silly Ken.■
+<$12><$00>
 
 
 //<CLEAR>君達にも　僕にとっても利益になる\nステキなアイデアが　あるんだよ\n後で　顔を出してくれたまえ<$12><$00>
-<CLEAR>You there!\n
+<CLEAR>
+You there!\n
 I have a brilliant idea that\n
-you're going to love!<$12><$00>
+you're going to love!
+<$12><$00>
 
 
 //<CLEAR>自己紹介しよう！　僕はシェドパ\nこのオーマン家の　次男だ<$12>\n<CLEAR>この星の動物達を　救おうという\n君達の慈愛に　満ちあふれた行動！\n常々、感心していたんだ！<$12><$00>
-<CLEAR>Allow me to introduce myself.\n
+<CLEAR>
+Allow me to introduce myself.\n
 I'm Shedoba Aumann,\n
-the younger son in the family.<$12>\n
-<CLEAR>I'm impressed by your charitable\n
-endeavor of saving the animals!<$12><$00>
+the younger son in the family.
+<$12>
+\n
+
+<CLEAR>
+I'm impressed by your charitable\n
+endeavor of saving the animals!
+<$12><$00>
 
 
 //<CLEAR>そういえば「<$1B>トラの爪」という武器を\nお捜しだと　ある筋から聞いたんだがね\nまだ　手にいれてないのなら…<$12>\n<CLEAR>「太郎の首輪」と交換するというのは\nどうかな？　悪い話じゃないだろ？\nよーく　考えてくれたまえ<$12><$00>
-<CLEAR>You know what? If you're ever looking\n
-for a weapon like the  <$1B>Tiger Claw,\n
-I can help you.<$12>\n
-<CLEAR>I'd be happy to trade it for\n
+<CLEAR>
+You know what? If you're ever looking\n
+for a weapon like the  
+<$1B>
+Tiger Claw,\n
+I can help you.
+<$12>
+\n
+
+<CLEAR>
+I'd be happy to trade it for\n
 Taro's Collar. We give and we take, eh?\n
-Think it over for me.<$12><$00>
+Think it over for me.
+<$12><$00>
 
 
 //<CLEAR>僕の所に　太郎の首輪を持ってくるとは\n君たちも　なかなか頭がいいね\nそう、それで正解だ∥<$12>\n<CLEAR>人生は、ギブ　アンド　テイク∥\nさあ　さっそく交換といこう∥<$12><$00>
-<CLEAR>You brought Taro's Collar to me?\n
-Glad to see you made the right choice.<$12>\n
-<CLEAR>Life's about "give and take"!\n
-Come on, let's trade!<$12><$00>
+<CLEAR>
+You brought Taro's Collar to me?\n
+Glad to see you made the right choice.
+<$12>
+\n
+
+<CLEAR>
+Life's about "give and take"!\n
+Come on, let's trade!
+<$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53>ケンは「太郎の首輪」を渡して\n「<$1B>トラの爪」を受け取った！<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53>Ken traded Taro's Collar\n
-for the <$1B>Tiger Claw!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>
+Ken traded Taro's Collar\n
+for the 
+<$1B>
+Tiger Claw!
+<$14><$12><$00>
 
 
 //<CLEAR>もう、用はないはずだよ\n僕の部屋から　出て行ってくれたまえ<$12><$00>
-<CLEAR>Well, now that our business is over,\n
+<CLEAR>
+Well, now that our business is over,\n
 you're free to get the hell out of\n
-my room.<$12><$00>
+my room.
+<$12><$00>
 
 
 //ケン、元気そうだね！<$12><$00>
-Looking sharp, Ken!<$12><$00>
+Looking sharp, Ken!
+<$12><$00>
 
 
 //<CLEAR>ここんちの　三人の子供たちは\n全員、私が取り上げたんだよ<$12>\n<CLEAR>産まれたときは　三人とも\nかわいかったんだけどね…<$12><$00>
-<CLEAR>I've been holding those 3 since\n
-they were babies.<$12>\n
-<CLEAR>They were all much, much cuter back\n
-then.<$12><$00>
+<CLEAR>
+I've been holding those 3 since\n
+they were babies.
+<$12>
+\n
+
+<CLEAR>
+They were all much, much cuter back\n
+then.
+<$12><$00>
 
 
 #WRITE(PTR, $002C)
 #WRITE(PTR, $002E)
 //クン、クンクン………？<$12>\n<CLEAR><$1D>のニオイが　するね\nそういえば、<$1D>食まだだっけ…<$12><$00>
-Sniff... sniff, sniff?<$12>\n
-<CLEAR><$1D> scent's filling the air. You know, I could go for some <$1D> !<$12><$00>
+Sniff... sniff, sniff?
+<$12>
+\n
+
+<CLEAR><$1D>
+ scent's filling the air. You know, I could go for some 
+<$1D>
+ !
+<$12><$00>
 
 
 //卵焼き<$00>
-fried eggs<$00>
+fried eggs
+<$00>
 
 
 //カレー<$00>
-curry<$00>
+curry
+<$00>
 
 
 //焼き肉<$00>
-Neo Korean BBQ<$00>
+Neo Korean BBQ
+<$00>
 
 
 //唐あげ<$00>
-karaage<$00>
+karaage
+<$00>
 
 
 //お菓子<$00>
-candy<$00>
+candy
+<$00>
 
 
 //バナナ<$00>
-banana<$00>
+banana
+<$00>
 
 
 //フライ<$00>
-Neo French fries<$00>
+Neo French fries
+<$00>
 
 
 //焼き魚<$00>
-grilled fish<$00>
+grilled fish
+<$00>
 
 
 //トマト<$00>
-tomato<$00>
+tomato
+<$00>
 
 
 //バター<$00>
-butter<$00>
+butter
+<$00>
 
 
 //ソース<$00>
-sauce<$00>
+sauce
+<$00>
 
 
 //スープ<$00>
- soup<$00>
+ soup
+<$00>
 
 
 //ピラフ<$00>
-pilaf<$00>
+pilaf
+<$00>
 
 
 //バニラ<$00>
-vanilla<$00>
+vanilla
+<$00>
 
 
 //キムチ<$00>
-kimchi<$00>
+kimchi
+<$00>
 
 
 //チーズ<$00>
-cheese<$00>
+cheese
+<$00>
 
 
 //朝<$00>
-breakfast<$00>
+breakfast
+<$00>
 
 
 //昼<$00>
-lunch<$00>
+lunch
+<$00>
 
 
 //夕<$00>
-dinner<$00>
+dinner
+<$00>
 
 
 //……東<$00>
-... East<$00>
+... East
+<$00>
 
 
 //……西<$00>
-... West<$00>
+... West
+<$00>
 
 
 //……南<$00>
-... South<$00>
+... South
+<$00>
 
 
 //……北<$00>
-... North<$00>
+... North
+<$00>
 
 
 //…北東<$00>
-... North-east<$00>
+... North-east
+<$00>
 
 
 //…北西<$00>
-... North-west<$00>
+... North-west
+<$00>
 
 
 //…南東<$00>
-... South-east<$00>
+... South-east
+<$00>
 
 
 //…南西<$00>
-... South-west<$00>
+... South-west
+<$00>
 
 
 //<CLEAR>……<$1D><$00>
-<CLEAR>... ... <$1D><$00>
+<CLEAR>
+... ... 
+<$1D><$00>
 
 
 //、…<$1D>に行けば<$00>
-! That's where we'll find a <$1D>.<$00>
+! That's where we'll find a 
+<$1D>
+.
+<$00>
 
 
 //直進<$00>
-For<$00>
+For
+<$00>
 
 
 //右よ<$00>
-Right<$00>
+Right
+<$00>
 
 
 //左よ<$00>
-Left<$00>
+Left
+<$00>
 
 
 //後ろ<$00>
-Back<$00>
+Back
+<$00>
 
 
 //<CLEAR>……<$1D><$00>
-<CLEAR>... ... <$1D><$00>
+<CLEAR>
+... ... 
+<$1D><$00>
 
 
 //、絶対に<$1D>∥<$00>
-wards, got it? I'm sure we'll find a <$1D> there!<$00>
+wards, got it? I'm sure we'll find a 
+<$1D>
+ there!
+<$00>
 
 
 //<CLEAR><$19><$31><$15><$53>リンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition... <$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>
+Linda used her woman's intuition... 
+<$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
-<CLEAR>... Sorry. I don't have it in me today.<$12><$00>
+<CLEAR>
+... Sorry. I don't have it in me today.
+<$12><$00>
 
 
 //運命の<$00>
-Fated <$00>
+Fated 
+<$00>
 
 
 //新しい<$00>
-New <$00>
+New 
+<$00>
 
 
 //素敵な<$00>
-Great <$00>
+Great 
+<$00>
 
 
 //未知の<$00>
-Unknown <$00>
+Unknown 
+<$00>
 
 
 //何か<$00>
-things <$00>
+things 
+<$00>
 
 
 //発見<$00>
-discoveries <$00>
+discoveries 
+<$00>
 
 
 //お宝<$00>
-treasures <$00>
+treasures 
+<$00>
 
 
 //動物<$00>
-animals <$00>
+animals 
+<$00>
 
 
 //に　出会える…<$00>
-could appear.<$00>
+could appear.
+<$00>
 
 
 //が　待ってる…<$00>
-await us... <$00>
+await us... 
+<$00>
 
 
 //気がするわ∥<$00>
-are there.<$00>
+are there.
+<$00>
 
 
 //チャンスよ∥<$00>
-are in our grasp!<$00>
+are in our grasp!
+<$00>
 
 
 //今しかないわ<$00>
-could get away!<$00>
+could get away!
+<$00>
 
 
 //間違いなし∥<$00>
-are dead ahead!<$00>
+are dead ahead!
+<$00>
 
 
 //\n<$1D><$1D><$1D>\n<$1D><$12>\n<CLEAR><$00>
 \n
-<$1D><$1D><$1D>\n
-<$1D><$12>\n
+
+<$1D><$1D><$1D>
+\n
+
+<$1D><$12>
+\n
+
 <CLEAR><$00>
 
 
 //<CLEAR>自信があるの∥<$12><$00>
-<CLEAR>I swear!<$12><$00>
+<CLEAR>
+I swear!
+<$12><$00>
 
 
 //<CLEAR>自信は　ないけどね…<$12><$00>
-<CLEAR>Although, I'm not totally certain... <$12><$00>
+<CLEAR>
+Although, I'm not totally certain... 
+<$12><$00>
 
 
 //<CLEAR>絶対なんだから∥<$12><$00>
-<CLEAR>I'm absolutely certain!<$12><$00>
+<CLEAR>
+I'm absolutely certain!
+<$12><$00>
 
 
 //<$15><$59>スケジュール<$00>
-<$15><$59>Memo <$00>
+<$15><$59>
+Memo 
+<$00>
 
 
 //<CLEAR>スケジュールは何もありません<$12><$00>
-<CLEAR>There is nothing on schedule.<$12><$00>
+<CLEAR>
+There is nothing on schedule.
+<$12><$00>
 
 
 //成功終了<$00>
-Completed!<$00>
+Completed!
+<$00>
 
 
 //期限切れ<$00>
-Expired!<$00>
+Expired!
+<$00>
 
 
 //あと<$1E>季節<$00>
-In <$1E> seasons<$00>
+In 
+<$1E>
+ seasons
+<$00>
 
 
 //あと<$1E>年<$1E>季節<$00>
-Deadline: <$1E>Y/<$1E>S<$00>
+Deadline: 
+<$1E>
+Y/
+<$1E>
+S
+<$00>
 
 
 //あと<$1E>年<$00>
-In <$1E> years<$00>
+In 
+<$1E>
+ years
+<$00>
 
 
 //<$16><$01>◇<$0E><$1D><$02>190<$1D><$00>
-<$16><$01>◇<$0E><$1D><$02><$1D><$00>
+<$16><$01>
+◇
+<$0E><$1D><$02><$1D><$00>
 
 
 //ファングを倒す<$00>
-Slay Fang<$00>
+Slay Fang
+<$00>
 
 
 //パンハイムからの依頼<$00>
-Assist Panheim<$00>
+Assist Panheim
+<$00>
 
 
 //<$1B>カメの卵を手に入れる<$00>
-<$1B>Snatch Turtle Eggs<$00>
+<$1B>
+Snatch Turtle Eggs
+<$00>
 
 
 //<$1B>プテラノの卵を手に入れる<$00>
-<$1B>Snatch Pteranodon Eggs<$00>
+<$1B>
+Snatch Pteranodon Eggs
+<$00>
 
 
 //遺産争いにケリをつける<$00>
-End the inheritance battle<$00>
+End the inheritance battle
+<$00>
 
 
 //ヤマダのために一肌脱ぐ<$00>
-Unload for Yamada<$00>
+Unload for Yamada
+<$00>
 
 
 //町のシンボルを見つけだす<$00>
-Find the village symbol<$00>
+Find the village symbol
+<$00>
 
 
 //ソフィアからの依頼<$00>
-Assist Sophia<$00>
+Assist Sophia
+<$00>
 
 
 //サチコ救出<$00>
-Rescue Sachiko<$00>
+Rescue Sachiko
+<$00>
 
 
 //ポロポロちゃんを助ける<$00>
-Save Nightshade<$00>
+Save Nightshade
+<$00>
 
 
 //アンジェラ捜し<$00>
-Find Angela<$00>
+Find Angela
+<$00>
 
 
 //<CLEAR>カラゴラムのファングを倒し、その証拠を\nハーディアホテルのスペクターに渡す<$00>
-<CLEAR>Defeat Fang in Karhagolem. Present proof to Spectre in\n
-Hardia Hotel.<$00>
+<CLEAR>
+Defeat Fang in Karhagolem. Present proof to Spectre in\n
+Hardia Hotel.
+<$00>
 
 
 //<CLEAR>マーブルポリスの<$1B>ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す<$00>
-<CLEAR>Process meat from <$1B>chickens in Marblopolis.Give them to\n
-Prof. Panheim in Hospico.<$00>
+<CLEAR>
+Process meat from 
+<$1B>
+chickens in Marblopolis.Give them to\n
+Prof. Panheim in Hospico.
+<$00>
 
 
 //<CLEAR><$1B>カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す<$00>
-<CLEAR>Find up to 3 <$1B>Turtle Eggs. Give them to Louis at the Battle\n
-Park BB Ranch.<$00>
+<CLEAR>
+Find up to 3 
+<$1B>
+Turtle Eggs. Give them to Louis at the Battle\n
+Park BB Ranch.
+<$00>
 
 
 //<CLEAR><$1B>プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す<$00>
-<CLEAR>Acquire 2 <$1B>Pteranodon Eggs. Give them to Bronco at the\n
-Battle Park BB Ranch.<$00>
+<CLEAR>
+Acquire 2 
+<$1B>
+Pteranodon Eggs. Give them to Bronco at the\n
+Battle Park BB Ranch.
+<$00>
 
 
 //<CLEAR>「太郎の首輪」を見つけだし、ドギファの\nナターシャか、オーマン家３兄弟に渡す<$00>
-<CLEAR>Locate Taro's Collar. Give it to Natasha or one of the 3\n
-Aumann children in Dogyf Heights.<$00>
+<CLEAR>
+Locate Taro's Collar. Give it to Natasha or one of the 3\n
+Aumann children in Dogyf Heights.
+<$00>
 
 
 //６万<$00>
-60, 000<$00>
+60, 000
+<$00>
 
 
 //あと<$06><$1E><$0F>000<$04><$00>
-another <$06><$1E><$0F><$04><$00>
+another 
+<$06><$1E><$0F><$04><$00>
 
 
 //<CLEAR>Ｇファクトリーのヤマダのために\n<$1D>￥を預金する<$00>
-<CLEAR>Deposit <$1D>￥ in an account to Yamada in G Factory.<$00>
+<CLEAR>
+Deposit 
+<$1D>
+￥ in an account to Yamada in G Factory.
+<$00>
 
 
 //<CLEAR>コシカタのシンボル「<$1B>トラの爪」を\n見つけだし、ポリスカに渡す<$00>
-<CLEAR>Find the <$1B>Tiger Claw, Koshikata's village symbol. Return it\n
-to Poliska.<$00>
+<CLEAR>
+Find the 
+<$1B>
+Tiger Claw, Koshikata's village symbol. Return it\n
+to Poliska.
+<$00>
 
 
 //<CLEAR>ソフィアのために、エターナの桜の木を\nどうにかして咲かせる<$00>
-<CLEAR>Find out how to revive the sakura trees in Eterna for\n
-Sophia.<$00>
+<CLEAR>
+Find out how to revive the sakura trees in Eterna for\n
+Sophia.
+<$00>
 
 
 //<CLEAR>溶岩の中で育った動物の熱いウンチを\nエターナのソフィアに渡す<$00>
-<CLEAR>Deliver Hot Dung from a lava-dwelling creature to Sophia in\n
-Eterna.<$00>
+<CLEAR>
+Deliver Hot Dung from a lava-dwelling creature to Sophia in\n
+Eterna.
+<$00>
 
 
 //<CLEAR>ラグナロッジのエモリに会いに行く<$00>
-<CLEAR>Meet with Dr. Emori in Ragna Rim.<$00>
+<CLEAR>
+Meet with Dr. Emori in Ragna Rim.
+<$00>
 
 
 //<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nＧファクトリー入口１階、\n公衆電話の前に行く<$00>
-<CLEAR>Take the Floppy Disc and <$06>10, 000<$04>￥ to the G Factory gate.\n
-Answer the payphone.<$00>
+<CLEAR>
+Take the Floppy Disc and 
+<$06>
+10, 000
+<$04>
+￥ to the G Factory gate.\n
+Answer the payphone.
+<$00>
 
 
 //<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nパラサイド入口１階、\n公衆電話の前に行く<$00>
-<CLEAR>Take the Floppy Disc and <$06>10, 000<$04>￥ to the Paraside gate.\n
-Answer the payphone.<$00>
+<CLEAR>
+Take the Floppy Disc and 
+<$06>
+10, 000
+<$04>
+￥ to the Paraside gate.\n
+Answer the payphone.
+<$00>
 
 
 //<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nガレックスに行く<$00>
-<CLEAR>Take the Floppy Disc and <$06>10, 000<$04>￥ to Galax.<$00>
+<CLEAR>
+Take the Floppy Disc and 
+<$06>
+10, 000
+<$04>
+￥ to Galax.
+<$00>
 
 
 //<CLEAR>ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す<$00>
-<CLEAR>Pick bloodberries in Flora Jam. Take them to Kevin and\n
-Nightshade in Rose Garden.<$00>
+<CLEAR>
+Pick bloodberries in Flora Jam. Take them to Kevin and\n
+Nightshade in Rose Garden.
+<$00>
 
 
 //<CLEAR>パラサイドの酒場にいるアンジェラを\n確認して、リナバレーのマリオに連絡する<$00>
-<CLEAR>Look for Angela at the Paraside bar. Report your findings\n
-to Mario in Spurr Valley.<$00>
+<CLEAR>
+Look for Angela at the Paraside bar. Report your findings\n
+to Mario in Spurr Valley.
+<$00>
 
 
 //<CLEAR>アンジェラを確認するために、\nオズポートホテルの酒場に行く<$00>
-<CLEAR>Look for Angela at the OzPort Hotel bar.<$00>
+<CLEAR>
+Look for Angela at the OzPort Hotel bar.
+<$00>
 
 
 //<CLEAR>アンジェラを確認するために、\n西エリアのしけた町のホテルに行く<$00>
-<CLEAR>Look for Angela at a hotel bar somewhere in West Area.<$00>
+<CLEAR>
+Look for Angela at a hotel bar somewhere in West Area.
+<$00>
 
 
 //<CLEAR>アンジェラを確認するために、\nドギファの舞台に行く<$00>
-<CLEAR>Look for Angela at the theater stage in Dogyf Heights.<$00>
+<CLEAR>
+Look for Angela at the theater stage in Dogyf Heights.
+<$00>
 
 
 //<CLEAR>リナバレーのマリオの母、\nアンジェラを追ってオズサットへ行く<$00>
-<CLEAR>Chase Angela to OzSat! Mario will follow from Spurr Valley.<$00>
+<CLEAR>
+Chase Angela to OzSat! Mario will follow from Spurr Valley.
+<$00>
 
 
 #WRITE(PTR, $0030)
 //<$15><$59>猟犬屋<$00>
-<$15><$59>Dog Center<$00>
+<$15><$59>
+Dog Center
+<$00>
 
 
 //<CLEAR>お客さん…\nホスピコの入り口に　並んでる\n哀れな猟犬の墓を　数えてごらん<$12>\n<CLEAR>これ以上　あなたの猟犬を\n登録したところで、どうせまた\nあそこの墓が　増えるだけだものね<$12>\n<CLEAR>金の問題じゃないんだよ…\nわかるッ￠<$12><$00>
-<CLEAR>Sir, go look at the pet cemetary along\n
-the Hospico entrance.<$12>\n
-<CLEAR>We keep that cemetary's growth down by\n
+<CLEAR>
+Sir, go look at the pet cemetary along\n
+the Hospico entrance.
+<$12>
+\n
+
+<CLEAR>
+We keep that cemetary's growth down by\n
 capping the number of dogs each client\n
-may adopt.<$12>\n
-<CLEAR>You may have money, but you've sadly\n
+may adopt.
+<$12>
+\n
+
+<CLEAR>
+You may have money, but you've sadly\n
 hit the adoption cap.\n
-Let that be a lesson to you.<$12><$00>
+Let that be a lesson to you.
+<$12><$00>
 
 
 //<CLEAR>猟犬の収容枠が　いっぱいです\nこれ以上、猟犬を増やせません<$12><$00>
-<CLEAR>You have reached the limit on dogs you\n
-can own at one time. <$12><$00>
+<CLEAR>
+You have reached the limit on dogs you\n
+can own at one time. 
+<$12><$00>
 
 
 //<CLEAR>登録料　<$15><$62><$06><$1E><$04><$14>￥が足りません\n銀行で　ご都合ください<$12><$00>
-<CLEAR>The adoption fee is over\n
-<$15><$62><$06><$1E><$04><$14>￥.\n
-Get a loan from the bank.<$12><$00>
+<CLEAR>
+The adoption fee is over\n
+
+<$15><$62><$06><$1E><$04><$14>
+￥.\n
+Get a loan from the bank.
+<$12><$00>
 
 
 //その名前は　既に登録されています\n別の名前を　つけてください<$12><$00>
 Sorry, that name is taken.\n
-Choose a new name.<$12><$00>
+Choose a new name.
+<$12><$00>
 
 
 //<CLEAR>猟犬<$1D>を登録します\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
-<CLEAR>Adopt <$1D>?\n
-<$01>Yes<$0E> / <$01>No<$0E><$00>
+<CLEAR>
+Adopt 
+<$1D>
+?\n
+
+<$01>
+Yes
+<$0E>
+ / 
+<$01>
+No
+<$0E><$00>
 
 
 //<CLEAR><$00>
@@ -1263,820 +1978,1276 @@ Choose a new name.<$12><$00>
 <$16><$01><$1D><$02>96<$0E>　<$15><$53><$1E>18<$14><$04><$02>140<$01><$1D><$02>236<$0E>　<$15><$53><$1E>18<$14><$00>
 
 //<$15><$59>猟犬屋／メニュー<$00>
-<$15><$59>Dog/Menu<$00>
+<$15><$59>
+Dog/Menu
+<$00>
 
 
 //<$01>買＿う<$0E>\n<$01>売＿る<$0E>\n<$01>登＿録<$0E>\n<$01>やめる<$0E><$00>
-<$01>Buy<$0E>\n
-<$01>Sell<$0E>\n
-<$01>Tame<$0E>\n
-<$01>Exit<$0E><$00>
+<$01>
+Buy
+<$0E>
+\n
+
+<$01>
+Sell
+<$0E>
+\n
+
+<$01>
+Tame
+<$0E>
+\n
+
+<$01>
+Exit
+<$0E><$00>
 
 
 //<CLEAR>猟犬登録の制限３２匹を越えました\nよって、登録できません<$12><$00>
-<CLEAR>You have reached the 32 dog adoption limit.\n
-You cannot adopt any more dogs.<$12><$00>
+<CLEAR>
+You have reached the 32 dog adoption limit.\n
+You cannot adopt any more dogs.
+<$12><$00>
 
 
 //<CLEAR><$1B>イヌを　お持ちじゃないようですね<$12><$00>
-<CLEAR>You don't have any <$1B>dogs.<$12><$00>
+<CLEAR>
+You don't have any 
+<$1B>
+dogs.
+<$12><$00>
 
 
 //<$15><$59>猟犬屋／登＿録<$00>
-<$15><$59>Dog/Tame<$00>
+<$15><$59>
+Dog/Tame
+<$00>
 
 
 //<CLEAR>猟犬は太古より　人間の良きパートナー\nぜひ　あなたも　１頭いかがですか？\n<$01>取引する<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
-<CLEAR>Dogs have been man's best friend since ancient times.\n
-<$01>Shop<$0E> / <$01>Chat<$0E> / <$01>Exit<$0E><$00>
+<CLEAR>
+Dogs have been man's best friend since ancient times.\n
+
+<$01>
+Shop
+<$0E>
+ / 
+<$01>
+Chat
+<$0E>
+ / 
+<$01>
+Exit
+<$0E><$00>
 
 
 //<CLEAR>またの御利用を　お待ち申し上げます<$12><$00>
-<CLEAR>We look forward to your next visit.<$12><$00>
+<CLEAR>
+We look forward to your next visit.
+<$12><$00>
 
 
 //<$15><$59>猟犬屋／買＿う<$00>
-<$15><$59>Dog/Buy<$00>
+<$15><$59>
+Dog/Buy
+<$00>
 
 
 //<CLEAR><$00>
 <CLEAR><$00>
 
 //<$04><$16><$15><$57><$01>猟犬LV<$1E>02<$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
-<$04><$16><$15><$57><$01>Dog LVL <$1E>02<$1D><$02>116<$0E><$02>216<$1D><$1E>39￥<$00>
+<$04><$16><$15><$57><$01>
+Dog LVL 
+<$1E>
+02
+<$1D><$02>
+116
+<$0E><$02>
+216
+<$1D><$1E>
+39￥
+<$00>
 
 
 //<$15><$59>猟犬屋／売＿る<$00>
-<$15><$59>Dog/Sell<$00>
+<$15><$59>
+Dog/Sell
+<$00>
 
 
 //<CLEAR>猟犬「<$1D>」を\n<$06><$1E><$04>￥で売りますか？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
-<CLEAR>Sell <$1D>  for <$06><$1E><$04>￥?\n
-<$01>Yes<$0E> / <$01>No<$0E><$00>
+<CLEAR>
+Sell 
+<$1D>
+  for 
+<$06><$1E><$04>
+￥?\n
+
+<$01>
+Yes
+<$0E>
+ / 
+<$01>
+No
+<$0E><$00>
 
 
 //<$15><$59>猟犬治療<$00>
-<$15><$59>YVeterinarian<$00>
+<$15><$59>
+YVeterinarian
+<$00>
 
 
 //<CLEAR>かわいい猟犬が　傷ついた時は\n手遅れにならないうちに\nここへ　連れて来なさいね<$12><$00>
-<CLEAR>If your darling dogs ever get hurt,\n
-bring them to me before it's too late!<$12><$00>
+<CLEAR>
+If your darling dogs ever get hurt,\n
+bring them to me before it's too late!
+<$12><$00>
 
 
 //<CLEAR>ケガしてる猟犬は　どのコなの？\nほら早く　診せなさい！\n<$01>診せる<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
-<CLEAR>Is your hunting dog injured?\n
+<CLEAR>
+Is your hunting dog injured?\n
 Let me!\n
  take a look!\n
-<$01>Treat<$0E> / <$01>Chat<$0E> / <$01>Exit<$0E><$00>
+
+<$01>
+Treat
+<$0E>
+ / 
+<$01>
+Chat
+<$0E>
+ / 
+<$01>
+Exit
+<$0E><$00>
 
 
 //<CLEAR>いらない道具や動物を　売っても\nまだ足りないときは、銀行でお金を\n借りてでも　治療費は作りなさいね<$12>\n<CLEAR>それくらいは　判断を誤った\nバカな飼い主の\n最低限の　務めってモンよ<$12><$00>
-<CLEAR>If you need money, sell spare items or take a loan from the\n
-bank.<$12>\n
-<CLEAR>Don't deny your dog even bare minimum care just\n
-because you're ignorant.<$12><$00>
+<CLEAR>
+If you need money, sell spare items or take a loan from the\n
+bank.
+<$12>
+\n
+
+<CLEAR>
+Don't deny your dog even bare minimum care just\n
+because you're ignorant.
+<$12><$00>
 
 
 //\n<$1D>の治療には　<$1D><$06><$1E><$14><$04>￥必要ね\n<$01>依頼する<$0E>／<$01>ほっとく<$0E><$00>
 \n
-I can treat <$1D> for <$1D><$06><$1E><$14><$04>￥,\n
-<$01>Please help!<$0E> / <$01>Nevermind!<$0E><$00>
+I can treat 
+<$1D>
+ for 
+<$1D><$06><$1E><$14><$04>
+￥,\n
+
+<$01>
+Please help!
+<$0E>
+ / 
+<$01>
+Nevermind!
+<$0E><$00>
 
 
 //<CLEAR>かわいそうな<$1D>…\n治療費も　満足に払えない\n貧乏な飼い主を　恨みなさいね<$12><$00>
-<CLEAR>Poor, poor, <$1D>... \n
-Bwame your daddy for being a wittle cheapskate.<$12><$00>
+<CLEAR>
+Poor, poor, 
+<$1D>
+... \n
+Bwame your daddy for being a wittle cheapskate.
+<$12><$00>
 
 
 //<CLEAR>さてと　次はどのコなの\nほら早く　診せなさい！<$12><$00>
-<CLEAR>Well, if you have another dog, I'll see them next!<$12><$00>
+<CLEAR>
+Well, if you have another dog, I'll see them next!
+<$12><$00>
 
 
 //あぁ～傷に<$1B>ウジが　わいてるわよ<$00>
-Whoa～! <$1B>Maggots in the wound!<$00>
+Whoa～! 
+<$1B>
+Maggots in the wound!
+<$00>
 
 
 //肋骨と鎖骨が　折れてるだけね<$00>
-Does Baby have a bwoken wibcage?<$00>
+Does Baby have a bwoken wibcage?
+<$00>
 
 
 //肺炎と腹膜炎を　併発してるようね<$00>
-Aww, pneumonia, pewitonitis... <$00>
+Aww, pneumonia, pewitonitis... 
+<$00>
 
 
 //頭がい骨が　少し陥没してるわね<$00>
-Baby, your skull is caved in!<$00>
+Baby, your skull is caved in!
+<$00>
 
 
 //腹腔に　血が溜ってるようね<$00>
-Aww, Baby has tummy bweeding.<$00>
+Aww, Baby has tummy bweeding.
+<$00>
 
 
 //下腹部に損傷があるわよ　何なのコレ？<$00>
-Tsk, lower abdominal twauma... <$00>
+Tsk, lower abdominal twauma... 
+<$00>
 
 
 //腸が　はみ出しちゃってるわよ<$00>
-Baby's intestines are pwowapsed!<$00>
+Baby's intestines are pwowapsed!
+<$00>
 
 
 //脚が　取れかかってるわね…<$00>
-What a gangwenous wittle weg!<$00>
+What a gangwenous wittle weg!
+<$00>
 
 
 //<CLEAR>大丈夫！　まかせなさい！\n<$1E>0回に１回くらいしか　失敗しないわ<$12><$00>
-<CLEAR>Leave it to me!\n
-I mess up only once every <$1E>0 times, tops!<$12><$00>
+<CLEAR>
+Leave it to me!\n
+I mess up only once every 
+<$1E>
+0 times, tops!
+<$12><$00>
 
 
 //<CLEAR>…………………………………∥<$12><$00>
-<CLEAR>... ... ...!<$12><$00>
+<CLEAR>
+... ... ...!
+<$12><$00>
 
 
 //<CLEAR>…………………………………￠<$12><$00>
-<CLEAR>... ... ... ￠<$12><$00>
+<CLEAR>
+... ... ... ￠
+<$12><$00>
 
 
 //<CLEAR>はい、治療終り∥\n傷が開くといけないから　<$1D>には\n当分、無理させないようにしてね<$12><$00>
-<CLEAR>And... done!\n
-Be careful with <$1D>,\n
-or these wounds may reopen. <$12><$00>
+<CLEAR>
+And... done!\n
+Be careful with 
+<$1D>
+,\n
+or these wounds may reopen. 
+<$12><$00>
 
 
 //<$15><$59>犬名判断<$00>
-<$15><$59>Dog Divination<$00>
+<$15><$59>
+Dog Divination
+<$00>
 
 
 //<$00>
 <$00>
 
 //<CLEAR>黙ってお座りすれば「ワン」と当たる！\n<$00>
-<CLEAR>All bark, but no foresight?\n
+<CLEAR>
+All bark, but no foresight?\n
+
 <$00>
 
 
 //猟犬の将来が　気になったら\n<$1D><$06><$1E><$04><$14>￥で　相談に乗ってしんぜよう<$12><$00>
 If you're worried about your dog's future, I give readings\n
-for <$1D><$06><$1E><$04><$14>￥.<$12><$00>
+for 
+<$1D><$06><$1E><$04><$14>
+￥.
+<$12><$00>
 
 
 //猟犬の将来を　<$1D><$06><$1E><$04><$14>￥で占うぞよ\n<$01>犬を見せる<$0E>／<$01>雑談する<$0E>／<$01>信じない！<$0E><$00>
-See your dog's future for only <$1D><$06><$1E><$04><$14>￥!\n
-<$01>Show me<$0E> / <$01>Chat<$0E> / <$01>What a joke!<$0E><$00>
+See your dog's future for only 
+<$1D><$06><$1E><$04><$14>
+￥!\n
+
+<$01>
+Show me
+<$0E>
+ / 
+<$01>
+Chat
+<$0E>
+ / 
+<$01>
+What a joke!
+<$0E><$00>
 
 
 //<CLEAR>猟犬の長所や短所を　熟知すれば\n大胆な戦術が　使えるようになるし\n危険も　事前に避けられるぞな<$12><$00>
-<CLEAR>Learn your dogs' strengths and weaknesses to safely\n
-develop new battle strategies.<$12><$00>
+<CLEAR>
+Learn your dogs' strengths and weaknesses to safely\n
+develop new battle strategies.
+<$12><$00>
 
 
 //どの猟犬の未来を　覗こうかのぉ？<$12><$00>
-Which dog shall I look at?<$12><$00>
+Which dog shall I look at?
+<$12><$00>
 
 
 //<CLEAR><$15><$62><$06><$1E><$04><$14>￥の見料も　持ち合わせぬ\n飼い主のもとでは　どんな犬も\n「お先、真っ暗∥」に決まっとるわ<$12><$00>
-<CLEAR><$15><$62><$06><$1E><$04><$14>￥ is too much? You wouldn't need to ask me. Your dogs'\n
-futures were already dark!<$12><$00>
+<CLEAR><$15><$62><$06><$1E><$04><$14>
+￥ is too much? You wouldn't need to ask me. Your dogs'\n
+futures were already dark!
+<$12><$00>
 
 
 //<CLEAR>他の猟犬も　占うかえ？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
-<CLEAR>See about another dog?\n
-<$01>Yes<$0E> / <$01>No<$0E><$00>
+<CLEAR>
+See about another dog?\n
+
+<$01>
+Yes
+<$0E>
+ / 
+<$01>
+No
+<$0E><$00>
 
 
 //<CLEAR><$1D>か…　<$1D>名じゃのぉ…<$12>\nそれでは　占うぞよ<$12><$00>
-<CLEAR><$1D>, I see... <$1D> name, yes... <$12>\n
-May it be so!<$12><$00>
+<CLEAR><$1D>
+, I see... 
+<$1D>
+ name, yes... 
+<$12>
+\n
+May it be so!
+<$12><$00>
 
 
 //<CLEAR>はァァーッ！　犬神星シリウスよ！\n迷える<$1D>の明日を　我に示し給え！\n願わくば、光の道へ導き給え！<$12>\n<CLEAR>ふむ…　見えたぞ<$12><$00>
-<CLEAR>Oh, Sirius! Lead <$1D> when they are lost, to tomorrow on a path\n
-of light!<$12>\n
-<CLEAR>My work... is done.<$12><$00>
+<CLEAR>
+Oh, Sirius! Lead 
+<$1D>
+ when they are lost, to tomorrow on a path\n
+of light!
+<$12>
+\n
+
+<CLEAR>
+My work... is done.
+<$12><$00>
 
 
 //体力<$00>
-stamina<$00>
+stamina
+<$00>
 
 
 //攻撃力<$00>
-ATK<$00>
+ATK
+<$00>
 
 
 //素早さ<$00>
-SPD<$00>
+SPD
+<$00>
 
 
 //体力<$00>
-stamina<$00>
+stamina
+<$00>
 
 
 //守備力<$00>
-DEF<$00>
+DEF
+<$00>
 
 
 //素早さ<$00>
-SPD<$00>
+SPD
+<$00>
 
 
 //攻撃力<$00>
-ATK<$00>
+ATK
+<$00>
 
 
 //守備力<$00>
-DEF<$00>
+DEF
+<$00>
 
 
 //<CLEAR><$1D>の　<$1D>と<$1D>は　あまり\n上がらんようじゃな…　困ったのぉ…\n性格を一言で表すなら…<$12><$00>
-<CLEAR><$1D>'s <$1D> and <$1D> might not increase much due to their personality.<$12><$00>
+<CLEAR><$1D>
+'s 
+<$1D>
+ and 
+<$1D>
+ might not increase much due to their personality.
+<$12><$00>
 
 
 //<CLEAR>ただの臆病者…\n主人を置いて　平気で逃げ出すぞ\nあてにせんほうが　身のためじゃ<$12><$00>
-<CLEAR>This one's a coward that'd turn on its owner and run away\n
+<CLEAR>
+This one's a coward that'd turn on its owner and run away\n
 after the first sign of danger. Don't depend on them, for\n
-your own sake.<$12><$00>
+your own sake.
+<$12><$00>
 
 
 //<CLEAR>阿呆…　極めつけの阿呆！\n分をわきまえずに　強い相手に向かうゆえ\n結果は　目も当てられんわな…<$12><$00>
-<CLEAR>Fool! What dog doesn't look before it leaps in the wake of\n
-combat?! You, be careful with this one.<$12><$00>
+<CLEAR>
+Fool! What dog doesn't look before it leaps in the wake of\n
+combat?! You, be careful with this one.
+<$12><$00>
 
 
 //<CLEAR>平々凡々…　つまらぬ犬じゃ\nそのへんに　掃いて捨てるほどおる\nいわゆる駄犬じゃな<$12><$00>
-<CLEAR>Typical, typical, typical. This dog is as generic as they come,\n
-which isn't good. Get rid of it.<$12><$00>
+<CLEAR>
+Typical, typical, typical. This dog is as generic as they come,\n
+which isn't good. Get rid of it.
+<$12><$00>
 
 
 //<CLEAR>生ける屍…　精気が全く感じられん…\nまるで　死を望んでおるようじゃ…\n犬死は　必至と見た<$12><$00>
-<CLEAR>This one is a dead dog walking. There's not a trace of life in\n
-its eyes. Its death is inevitable.<$12><$00>
+<CLEAR>
+This one is a dead dog walking. There's not a trace of life in\n
+its eyes. Its death is inevitable.
+<$12><$00>
 
 
 //守備力<$00>
-DEF<$00>
+DEF
+<$00>
 
 
 //素早さ<$00>
-SPD<$00>
+SPD
+<$00>
 
 
 //攻撃力<$00>
-ATK<$00>
+ATK
+<$00>
 
 
 //守備力<$00>
-DEF<$00>
+DEF
+<$00>
 
 
 //体力<$00>
-stamina<$00>
+stamina
+<$00>
 
 
 //攻撃力<$00>
-ATK<$00>
+ATK
+<$00>
 
 
 //素早さ<$00>
-SPD<$00>
+SPD
+<$00>
 
 
 //体力<$00>
-stamina<$00>
+stamina
+<$00>
 
 
 //<CLEAR><$1D>は　<$1D>と<$1D>が　育つほどに\nメキメキと　上がるな\nそれに…<$12><$00>
-<CLEAR><$1D>'s <$1D> and <$1D> will increase as they continue to grow, and also... <$12><$00>
+<CLEAR><$1D>
+'s 
+<$1D>
+ and 
+<$1D>
+ will increase as they continue to grow, and also... 
+<$12><$00>
 
 
 //<CLEAR>なかなか慎重な性格ゆえ　ケガも少ない\n医者いらずの　経済的な犬じゃ<$12><$00>
-<CLEAR>This dog is rarely injured, due to it's cautious demeanor.\n
-That means less vet visits.<$12><$00>
+<CLEAR>
+This dog is rarely injured, due to it's cautious demeanor.\n
+That means less vet visits.
+<$12><$00>
 
 
 //<CLEAR>「勇猛果敢」という言葉は\nこの犬のためにある！　どんな相手にも\n臆することなく挑む　心強い味方じゃ<$12><$00>
-<CLEAR>This dog can only be described as "selfless and\n
-courageous"! If anyone has your back in life, it's them!<$12><$00>
+<CLEAR>
+This dog can only be described as "selfless and\n
+courageous"! If anyone has your back in life, it's them!
+<$12><$00>
 
 
 //<CLEAR>攻めてよし！　守ってよし！\nこれほど調和のとれた犬は　珍しいぞ\n大切に育てられい！<$12><$00>
-<CLEAR>It attacks, and it protects! Such harmony is rare in dogs!\n
-Raise this one carefully!<$12><$00>
+<CLEAR>
+It attacks, and it protects! Such harmony is rare in dogs!\n
+Raise this one carefully!
+<$12><$00>
 
 
 //<CLEAR>主人のためなら　命も捨てる\n忠義の犬とは　こやつのことじゃ！\n良い家来をもって　幸せじゃのぉ<$12><$00>
-<CLEAR>This loyal friend would give its life for its master. You'd\n
-be honored to have such a dog serve you.<$12><$00>
+<CLEAR>
+This loyal friend would give its life for its master. You'd\n
+be honored to have such a dog serve you.
+<$12><$00>
 
 
 //かわいい<$00>
-A cute<$00>
+A cute
+<$00>
 
 
 //強そうな<$00>
-A tough <$00>
+A tough 
+<$00>
 
 
 //覚えにくい<$00>
-A hazy<$00>
+A hazy
+<$00>
 
 
 //イカれた<$00>
-A wild<$00>
+A wild
+<$00>
 
 
 //犬らしい<$00>
-A savvy<$00>
+A savvy
+<$00>
 
 
 //スケベな<$00>
-A sensual<$00>
+A sensual
+<$00>
 
 
 //古風な<$00>
-An old-fashioned<$00>
+An old-fashioned
+<$00>
 
 
 //今どきの<$00>
-A modern<$00>
+A modern
+<$00>
 
 
 //イキな<$00>
-A stylish<$00>
+A stylish
+<$00>
 
 
 //簡単な<$00>
-A simple<$00>
+A simple
+<$00>
 
 
 //美しい<$00>
-A lovely<$00>
+A lovely
+<$00>
 
 
 //愛のない<$00>
-A shallow<$00>
+A shallow
+<$00>
 
 
 //賢そうな<$00>
-A clever<$00>
+A clever
+<$00>
 
 
 //スカした<$00>
-A bemusing<$00>
+A bemusing
+<$00>
 
 
 //凝り過ぎの<$00>
-A stern<$00>
+A stern
+<$00>
 
 
 //悪くない<$00>
-A complicated<$00>
+A complicated
+<$00>
 
 
 //<$15><$59>闘犬場／受付<$00>
-<$15><$59>DGF Dojo/Reception<$00>
+<$15><$59>
+DGF Dojo/Reception
+<$00>
 
 
 //目指すは、闘犬長者∥　自分の猟犬こそ\n世界一と思う奴は　今すぐ参加しな∥\n<$01>挑戦するぜ<$0E>／<$01>ルール説明<$0E>／<$01>やめとく…<$0E><$00>
 Let your dog fight in the dojo to prove who's strongest!\n
-<$01>Enroll<$0E> / <$01>Rules<$0E> / <$01>Exit<$0E><$00>
+
+<$01>
+Enroll
+<$0E>
+ / 
+<$01>
+Rules
+<$0E>
+ / 
+<$01>
+Exit
+<$0E><$00>
 
 
 //<CLEAR>要は、猟犬同志の勝ち抜き戦だ！\n１回勝つたびに　もらえる懸賞金は\n天井知らずに　はね上がる寸法だ∥<$12>\n<CLEAR>犬がくたばるか　飼い主が×ボタンで\n「待った∥」をかけると　負け∥<$12>\n<CLEAR>負けたら　そこまでの賞金は　チャラ、\nだから　どこで引くかが　ポイントだ<$12><$00>
-<CLEAR>In the dojo, your hunting dogs fight for you! You'll\n
-accumulate prize money as they win.<$12>\n
-<CLEAR>If a fight's not going your way, press the × button to\n
-shout, "STOP," and end the match.<$12>\n
-<CLEAR>When you quit, you cut your winnings, so this is a game\n
-about knowing your limits.<$12><$00>
+<CLEAR>
+In the dojo, your hunting dogs fight for you! You'll\n
+accumulate prize money as they win.
+<$12>
+\n
+
+<CLEAR>
+If a fight's not going your way, press the × button to\n
+shout, "STOP," and end the match.
+<$12>
+\n
+
+<CLEAR>
+When you quit, you cut your winnings, so this is a game\n
+about knowing your limits.
+<$12><$00>
 
 
 //<CLEAR>参加料は　<$1D><$06><$1E><$04><$14>￥ポッキリ！\n三役以上になれば　給金も出る！\nさあ　見てても　金にはならないゼ！<$12><$00>
-<CLEAR>The entry fee is <$1D><$06><$1E><$04><$14>￥!\n
+<CLEAR>
+The entry fee is 
+<$1D><$06><$1E><$04><$14>
+￥!\n
 All participants 3rd-tier or higher get paid! Come make some\n
-money!<$12><$00>
+money!
+<$12><$00>
 
 
 //<CLEAR>まともな猟犬もいねぇくせに…\nまさかおめえが参加するのかよ？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
-<CLEAR>You want to participate, even without a decent dog?\n
-<$01>Yes<$0E> / <$01>No<$0E><$00>
+<CLEAR>
+You want to participate, even without a decent dog?\n
+
+<$01>
+Yes
+<$0E>
+ / 
+<$01>
+No
+<$0E><$00>
 
 
 //<CLEAR>まっ　尻尾がはえてからに\nしときなよ<$12><$00>
-<CLEAR>Learning to bite isn't as gratifying if you can't bark\n
-about it too.<$12><$00>
+<CLEAR>
+Learning to bite isn't as gratifying if you can't bark\n
+about it too.
+<$12><$00>
 
 
 //<$15><$59>闘犬場<$00>
-<$15><$59>DGF Dojo<$00>
+<$15><$59>
+DGF Dojo
+<$00>
 
 
 //出るのはどの犬だい？<$12><$00>
-Which dog will fight?<$12><$00>
+Which dog will fight?
+<$12><$00>
 
 
 //<CLEAR>そいつが「ワン」と\n鳴いたら、出場させてもいいぜ<$12><$00>
-<CLEAR>If a dog can let out a bark,\n
-it's allowed to fight. <$12><$00>
+<CLEAR>
+If a dog can let out a bark,\n
+it's allowed to fight. 
+<$12><$00>
 
 
 //<CLEAR>おっと！　挑戦は　１シーズンにつき\n各猟犬１回きりってのが　決まりでよ、\n次の<$1D>に　また来てくんな<$12><$00>
-<CLEAR>Oops! We only allow dogs to challenge the dojo once per\n
-season. Come back next <$1D> and try again!<$12><$00>
+<CLEAR>
+Oops! We only allow dogs to challenge the dojo once per\n
+season. Come back next 
+<$1D>
+ and try again!
+<$12><$00>
 
 
 //<$1D>号は　<$1D>からの出場だ！\n参加料　<$1D><$06><$1E><$04><$14>￥！　いいな？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
-<$1D>'s <$1D> entry fee is <$1D><$06><$1E><$04><$14>￥, okay?\n
-<$01>Yes<$0E> / <$01>No<$0E><$00>
+<$1D>
+'s 
+<$1D>
+ entry fee is 
+<$1D><$06><$1E><$04><$14>
+￥, okay?\n
+
+<$01>
+Yes
+<$0E>
+ / 
+<$01>
+No
+<$0E><$00>
 
 
 //<CLEAR><$15><$62><$06><$1E><$04><$14>￥も　ねぇのかよ…\n<$1D>号を売っちまったら　どうだ？<$12><$00>
-<CLEAR><$15><$62><$06><$1E><$04><$14>￥ is a no-go?\n
-Maybe you should sell <$1D>.<$12><$00>
+<CLEAR><$15><$62><$06><$1E><$04><$14>
+￥ is a no-go?\n
+Maybe you should sell 
+<$1D>
+.
+<$12><$00>
 
 
 //前頭十二枚目<$00>
-16th-tier<$00>
+16th-tier
+<$00>
 
 
 //前頭十一枚目<$00>
-15th-tier<$00>
+15th-tier
+<$00>
 
 
 //前頭十枚目<$00>
-14th-tier<$00>
+14th-tier
+<$00>
 
 
 //前頭九枚目<$00>
-13th-tier<$00>
+13th-tier
+<$00>
 
 
 //前頭八枚目<$00>
-12th-tier<$00>
+12th-tier
+<$00>
 
 
 //前頭七枚目<$00>
-11th-tier<$00>
+11th-tier
+<$00>
 
 
 //前頭六枚目<$00>
-10th-tier<$00>
+10th-tier
+<$00>
 
 
 //前頭五枚目<$00>
-9th-tier<$00>
+9th-tier
+<$00>
 
 
 //前頭四枚目<$00>
-8th-tier<$00>
+8th-tier
+<$00>
 
 
 //前頭三枚目<$00>
-7th-tier<$00>
+7th-tier
+<$00>
 
 
 //前頭二枚目<$00>
-6th-tier<$00>
+6th-tier
+<$00>
 
 
 //前頭筆頭<$00>
-5th-tier<$00>
+5th-tier
+<$00>
 
 
 //小結<$00>
-4th-tier<$00>
+4th-tier
+<$00>
 
 
 //関脇<$00>
-3rd-tier<$00>
+3rd-tier
+<$00>
 
 
 //大関<$00>
-2nd-tier<$00>
+2nd-tier
+<$00>
 
 
 //横綱<$00>
-Yokozuna<$00>
+Yokozuna
+<$00>
 
 
 //神取<$00>
-Kandori<$00>
+Kandori
+<$00>
 
 
 //青梅<$00>
-Aoume<$00>
+Aoume
+<$00>
 
 
 //丸橋<$00>
-Maruhashi<$00>
+Maruhashi
+<$00>
 
 
 //阿邪<$00>
-Axie<$00>
+Axie
+<$00>
 
 
 //白鶴<$00>
-Hakutsuru<$00>
+Hakutsuru
+<$00>
 
 
 //聖子<$00>
-Seiko<$00>
+Seiko
+<$00>
 
 
 //黄桜<$00>
-Kizakura<$00>
+Kizakura
+<$00>
 
 
 //百恵<$00>
-Momoe<$00>
+Momoe
+<$00>
 
 
 //小柳<$00>
-Koyanagi<$00>
+Koyanagi
+<$00>
 
 
 //天地<$00>
-Tenchi<$00>
+Tenchi
+<$00>
 
 
 //阿福<$00>
-Afu<$00>
+Afu
+<$00>
 
 
 //政子<$00>
-Masako<$00>
+Masako
+<$00>
 
 
 //呂母<$00>
-Mother Lu<$00>
+Mother Lu
+<$00>
 
 
 //羅士<$00>
-Luo Shi<$00>
+Luo Shi
+<$00>
 
 
 //林珍<$00>
-Lin Zhen<$00>
+Lin Zhen
+<$00>
 
 
 //淀君<$00>
-Yodogimi<$00>
+Yodogimi
+<$00>
 
 
 //風魔<$00>
-Fuma<$00>
+Fuma
+<$00>
 
 
 //半蔵<$00>
-Hanzo<$00>
+Hanzo
+<$00>
 
 
 //諸星<$00>
-Morohoshi<$00>
+Morohoshi
+<$00>
 
 
 //本郷<$00>
-Hongo<$00>
+Hongo
+<$00>
 
 
 //隆盛<$00>
-Takamori<$00>
+Takamori
+<$00>
 
 
 //倍達<$00>
-Masutatsu<$00>
+Masutatsu
+<$00>
 
 
 //若貴<$00>
-Wakataka<$00>
+Wakataka
+<$00>
 
 
 //北尾<$00>
-Kitao<$00>
+Kitao
+<$00>
 
 
 //陸奥<$00>
-Mutsu<$00>
+Mutsu
+<$00>
 
 
 //長門<$00>
-Nagato<$00>
+Nagato
+<$00>
 
 
 //赤城<$00>
-Akagi<$00>
+Akagi
+<$00>
 
 
 //天竜<$00>
-Tenryu<$00>
+Tenryu
+<$00>
 
 
 //長岡<$00>
-Nagaoka<$00>
+Nagaoka
+<$00>
 
 
 //八房<$00>
-Yatsubusa<$00>
+Yatsubusa
+<$00>
 
 
 //文殊<$00>
-Manjushri<$00>
+Manjushri
+<$00>
 
 
 //赤影<$00>
-Akakage<$00>
+Akakage
+<$00>
 
 
 //神取<$00>
-Kandori<$00>
+Kandori
+<$00>
 
 
 //青梅<$00>
-Aoume<$00>
+Aoume
+<$00>
 
 
 //丸橋<$00>
-Maruhashi<$00>
+Maruhashi
+<$00>
 
 
 //阿邪<$00>
-Axie<$00>
+Axie
+<$00>
 
 
 //白鶴<$00>
-Hakutsuru<$00>
+Hakutsuru
+<$00>
 
 
 //聖子<$00>
-Seiko<$00>
+Seiko
+<$00>
 
 
 //黄桜<$00>
-Kizakura<$00>
+Kizakura
+<$00>
 
 
 //百恵<$00>
-Momoe<$00>
+Momoe
+<$00>
 
 
 //小柳<$00>
-Koyanagi<$00>
+Koyanagi
+<$00>
 
 
 //天地<$00>
-Tenchi<$00>
+Tenchi
+<$00>
 
 
 //阿福<$00>
-Afu<$00>
+Afu
+<$00>
 
 
 //政子<$00>
-Masako<$00>
+Masako
+<$00>
 
 
 //呂母<$00>
-Mother Lu<$00>
+Mother Lu
+<$00>
 
 
 //羅士<$00>
-Luo Shi<$00>
+Luo Shi
+<$00>
 
 
 //林珍<$00>
-Lin Zhen<$00>
+Lin Zhen
+<$00>
 
 
 //淀君<$00>
-Yodogimi<$00>
+Yodogimi
+<$00>
 
 
 //風魔<$00>
-Fuma<$00>
+Fuma
+<$00>
 
 
 //半蔵<$00>
-Hanzo<$00>
+Hanzo
+<$00>
 
 
 //諸星<$00>
-Morohoshi<$00>
+Morohoshi
+<$00>
 
 
 //本郷<$00>
-Hongo<$00>
+Hongo
+<$00>
 
 
 //隆盛<$00>
-Takamori<$00>
+Takamori
+<$00>
 
 
 //倍達<$00>
-Masutatsu<$00>
+Masutatsu
+<$00>
 
 
 //若貴<$00>
-Wakataka<$00>
+Wakataka
+<$00>
 
 
 //北尾<$00>
-Kitao<$00>
+Kitao
+<$00>
 
 
 //陸奥<$00>
-Mutsu<$00>
+Mutsu
+<$00>
 
 
 //長門<$00>
-Nagato<$00>
+Nagato
+<$00>
 
 
 //赤城<$00>
-Akagi<$00>
+Akagi
+<$00>
 
 
 //天竜<$00>
-Tenryu<$00>
+Tenryu
+<$00>
 
 
 //長岡<$00>
-Nagaoka<$00>
+Nagaoka
+<$00>
 
 
 //八房<$00>
-Yatsubusa<$00>
+Yatsubusa
+<$00>
 
 
 //文殊<$00>
-Manjushri<$00>
+Manjushri
+<$00>
 
 
 //赤影<$00>
-Akakage<$00>
+Akakage
+<$00>
 
 
 //<CLEAR>ＷＩＮＮＥＲ∥　<$1D>号∥\n<$1D>号の累積賞金は　没収∥<$12><$00>
-<CLEAR>THE WINNER IS <$1D>!\n
-(<$1D>'s cumulative winnings were revoked.)<$12><$00>
+<CLEAR>
+THE WINNER IS 
+<$1D>
+!\n
+(
+<$1D>
+'s cumulative winnings were revoked.)
+<$12><$00>
 
 
 //<CLEAR>ＷＩＮＮＥＲ∥　<$1D>号∥\n<$1D>号は　大関に降格∥\n再起を　待ってるゼ∥<$12><$00>
-<CLEAR>THE WINNER IS <$1D>!\n
-(<$1D>demoted to 2nd-Tier.\n
-We await your comeback!)<$12><$00>
+<CLEAR>
+THE WINNER IS 
+<$1D>
+!\n
+(
+<$1D>
+demoted to 2nd-Tier.\n
+We await your comeback!)
+<$12><$00>
 
 
 //<CLEAR>ＷＩＮＮＥＲ∥　<$1D>号∥<$00>
-<CLEAR>THE WINNER IS <$1D>!<$00>
+<CLEAR>
+THE WINNER IS 
+<$1D>
+!
+<$00>
 
 
 //\n<$1D>に昇進∥<$00>
 \n
-(Promoted to <$1D>!)<$00>
+(Promoted to 
+<$1D>
+!)
+<$00>
 
 
 //\n懸賞金<$06><$1E><$04>￥　獲得∥<$12><$00>
 \n
-Winnings earned: <$06><$1E><$04>￥!<$12><$00>
+Winnings earned: 
+<$06><$1E><$04>
+￥!
+<$12><$00>
 
 
 //<CLEAR>累積賞金は　<$06><$1E><$04>￥ですが\n続けて勝負しますか？\n<$01>は＿い<$0E>／<$01>いいえ<$0E><$00>
-<CLEAR>Winnings earned: <$06><$1E><$04>￥\n
+<CLEAR>
+Winnings earned: 
+<$06><$1E><$04>
+￥\n
 Continue fighting?\n
-<$01>Yes<$0E> / <$01>No<$0E><$00>
+
+<$01>
+Yes
+<$0E>
+ / 
+<$01>
+No
+<$0E><$00>
 
 
 //<CLEAR><$19><$31><$15><$53><CLEAR>ケンは　賞金<$06><$1E><$04>￥を\n受け取った∥<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53><CLEAR>Ken received\n
-<$06><$1E><$04>￥ in winnings!<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53><CLEAR>
+Ken received\n
+
+<$06><$1E><$04>
+￥ in winnings!
+<$14><$12><$00>
 
 
 //<CLEAR>さて　ここで　新<$1D>の<$1D>号に\n闘犬センターからの　お祝いです∥<$12><$00>
-<CLEAR>And here's your new <$1D> <$1D>, courtesy of the Dog Center!<$12><$00>
+<CLEAR>
+And here's your new 
+<$1D>
+ 
+<$1D>
+, courtesy of the Dog Center!
+<$12><$00>
 
 
 //<CLEAR><$1D>号には　来季より　<$06><$1E><$04>￥の\n給金が　命ある限り　支給されます∥<$12><$00>
-<CLEAR><$1D> has earn you a lifelong\n
-monthly stipend of <$06><$1E><$04>￥\n
-from next season onwards.<$12><$00>
+<CLEAR><$1D>
+ has earn you a lifelong\n
+monthly stipend of 
+<$06><$1E><$04>
+￥\n
+from next season onwards.
+<$12><$00>
 
 
 //<CLEAR>さらに、<$1D>号は栄光に輝く\n伝統の四股名「<$1D>」を襲名できます∥\n<$01>襲名する∥<$0E>／<$01><$1D>のまま<$0E><$00>
-<CLEAR>Furthermore, <$1D> is deemed worthy to inherit the legendary\n
-ring name, <$1D>!\n
-<$01>Adopt ring name<$0E> / <$01><$1D>Keep old name<$0E><$00>
+<CLEAR>
+Furthermore, 
+<$1D>
+ is deemed worthy to inherit the legendary\n
+ring name, 
+<$1D>
+!\n
+
+<$01>
+Adopt ring name
+<$0E>
+ / 
+<$01><$1D>
+Keep old name
+<$0E><$00>
 
 
 //<$19><$31><CLEAR>第<$1E>2代目「<$1D>」誕生∥\nＣＯＮＧＲＡＴＵＬＡＴＩＯＮＳ∥<$12><$00>
-<$19><$31><CLEAR><CLEAR>Give it <$1E>up for <$1D> Ⅱ!\n
-Congratulations!<$12><$00>
+<$19><$31><CLEAR><CLEAR>
+Give it 
+<$1E>
+up for 
+<$1D>
+ Ⅱ!\n
+Congratulations!
+<$12><$00>
 
 
 //<CLEAR>これより　<$1D>との取組み∥\n懸賞金　<$06><$1E><$04>￥<$12>\n<CLEAR>ヒガシー　<$1D>号∥\nニーシー　<$1D>号∥\n両者、見合って…<$12>\n<CLEAR>ＤＯＧ　ＦＩＧＨＴ∥<$12><$00>
-<CLEAR>And now, the fight for <$1D> and a prize of <$06><$1E><$04>￥... <$12>\n
-<CLEAR>From across the ring, <$1D>, is staring down their opponent, <$1D>.\n
-Get ready, get set... <$12>\n
-<CLEAR>DOG FIGHT!!<$12><$00>
+<CLEAR>
+And now, the fight for 
+<$1D>
+ and a prize of 
+<$06><$1E><$04>
+￥... 
+<$12>
+\n
+
+<CLEAR>
+From across the ring, 
+<$1D>
+, is staring down their opponent, 
+<$1D>
+.\n
+Get ready, get set... 
+<$12>
+\n
+
+<CLEAR>
+DOG FIGHT!!
+<$12><$00>
 
 
 //<$00>

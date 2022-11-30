@@ -51,668 +51,1025 @@ kao_l33.obj<$00>
 
 #WRITE(PTR, $001C)
 //酒＿場<$00>
-Tavern <$00>
+Tavern 
+<$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
-<CLEAR>Ken whistled.<$12>\n
-<CLEAR>Huge wings flapped in the distance... <$12><$00>
+<CLEAR>
+Ken whistled.
+<$12>
+\n
+
+<CLEAR>
+Huge wings flapped in the distance... 
+<$12><$00>
 
 
 //<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Ken masked the party to avoid\n
-detection.<$12>\n
-<CLEAR>However, none of the animals in the\n
+<CLEAR>
+Ken masked the party to avoid\n
+detection.
+<$12>
+\n
+
+<CLEAR>
+However, none of the animals in the\n
 area were stupid enough to fall for\n
-his antics!<$12><$00>
+his antics!
+<$12><$00>
 
 
 //<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Linda mimicked a few animal calls.<$12>\n
-<CLEAR>However, none of the animals in the\n
+<CLEAR>
+Linda mimicked a few animal calls.
+<$12>
+\n
+
+<CLEAR>
+However, none of the animals in the\n
 area were stupid enough to fall for\n
-her antics!<$12><$00>
+her antics!
+<$12><$00>
 
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
-<CLEAR>The Animal Bible can't be booted here!<$12><$00>
+<CLEAR>
+The Animal Bible can't be booted here!
+<$12><$00>
 
 
 //<CLEAR>ここでは　野営できない<$12><$00>
-<CLEAR>Camp can't be set up here!<$12><$00>
+<CLEAR>
+Camp can't be set up here!
+<$12><$00>
 
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
-<CLEAR>The Navi System(NaviS) can't be booted\n
-here!<$12><$00>
+<CLEAR>
+The Navi System(NaviS) can't be booted\n
+here!
+<$12><$00>
 
 
 //武器なら「<$1B>ヒョウサーベル」か\n「<$1B>ワニムチ」、そんで防御回りを\n<$1B>ハマグリか　<$1B>マイマイで固めりゃ…<$12>\n<CLEAR>この辺じゃ　いばっても許されるね<$12><$00>
-If you want to augment <$1B>leopard sabers or <$1B>crocodile picks,\n
-use <$1B>clams or <$1B>snails.<$12>\n
-<CLEAR>Not a bad pearl of wisdom for where you're at, aye?<$12><$00>
+If you want to augment 
+<$1B>
+leopard sabers or 
+<$1B>
+crocodile picks,\n
+use 
+<$1B>
+clams or 
+<$1B>
+snails.
+<$12>
+\n
+
+<CLEAR>
+Not a bad pearl of wisdom for where you're at, aye?
+<$12><$00>
 
 
 //■～　■～　■■～<$12><$00>
-■～　■～　■■～<$12><$00>
+■～　■～　■■～
+<$12><$00>
 
 
 //<CLEAR>私、アンジェラ！　ぼうやのために\n１曲、歌わせてくれる？\n<$01>聞かせてくれ<$0E>／<$01>次の機会にね<$0E><$00>
-<CLEAR>I'm Angela! Care for a song, sweetheart?\n
-<$01>Yes, please!<$0E> / <$01>Maybe next time.<$0E><$00>
+<CLEAR>
+I'm Angela! Care for a song, sweetheart?\n
+
+<$01>
+Yes, please!
+<$0E>
+ / 
+<$01>
+Maybe next time.
+<$0E><$00>
 
 
 //<CLEAR>あら…　男と女の出会いには\n次は　ないかもしれなくてよ<$12><$00>
-<CLEAR>Ah, but in a star-crossed world like ours, are "next\n
-times" ever so certain?<$12><$00>
+<CLEAR>
+Ah, but in a star-crossed world like ours, are "next\n
+times" ever so certain?
+<$12><$00>
 
 
 //<CLEAR>チップは見栄を張るものよ■\n持金<$1E>40￥→チップ<$01><$1E>40￥<$00>
-<CLEAR>Don't forget to tip!■\n
-<$1E>40￥→<$01><$1E>40<$00>
+<CLEAR>
+Don't forget to tip!■\n
+
+<$1E>
+40￥→
+<$01><$1E>
+40
+<$00>
 
 
 //<CLEAR><$06><$1E><$04>￥ね？\n<$01>とっといてよ<$0E>／<$01>やっぱ返して<$0E><$00>
-<CLEAR><$06><$1E><$04>￥？\n
-<$01>It's all yours!<$0E> / <$01>Sike!<$0E><$00>
+<CLEAR><$06><$1E><$04>
+￥？\n
+
+<$01>
+It's all yours!
+<$0E>
+ / 
+<$01>
+Sike!
+<$0E><$00>
 
 
 //アンジェラの歌って　ステキでしょ？\nぼうやも　リクエストしてちょうだい\nチップは「気持ち」でいいからサ<$12><$00>
 Angela's song is wonderful, isn't it? I say sit back, relax\n
-and never forget to tip.<$12><$00>
+and never forget to tip.
+<$12><$00>
 
 
 //アンジェラの歌を聞くと　故郷のママを\n思い出して　泣けてくるんだよなぁ<$12><$00>
 Whenever I hear Angela sing, I remember my mother\n
-back home and I start crying.<$12><$00>
+back home and I start crying.
+<$12><$00>
 
 
 //大したモンだよ、アンジェラは∥\n持ち歌１曲で　客を満足させられる\n歌手なんて　彼女だけだね<$12><$00>
 Angela's a huge deal! She's the only singer who can win a\n
-crowd over with any one song!<$12><$00>
+crowd over with any one song!
+<$12><$00>
 
 
 //アンジェラの歌声を　聞いているとサ\nいつの間にか　眠っちまうんだ…\nまるで　揺りカゴの中にいるみたいサ<$12><$00>
 When Angela sings, before I know it, I fall asleep. It's like\n
-I'm rocked by her lullaby.<$12><$00>
+I'm rocked by her lullaby.
+<$12><$00>
 
 
 //死んだ　おふくろのニオイを\n思い出したくて　アンジェラの歌を\n俺は　聞きに来るんだ…<$12><$00>
 I came to listen to Angela's song. It helps me recall the smell\n
-of my late mother.<$12><$00>
+of my late mother.
+<$12><$00>
 
 
 //人生から　逃げだしたくなった時\nアンジェラの歌が　恋しくなるのサ<$12><$00>
 In times I wanted to escape from my life, I knew I'd miss\n
-Angela's music.<$12><$00>
+Angela's music.
+<$12><$00>
 
 
 //ママ…　俺のことを捨てたママ…\nアンジェラの歌を　聞いてる間だけは\nママのことを　許せる気がするよ<$12><$00>
 Mommy, why did you leave? Why is Angela's song the one\n
-thing that helps me forgive you?<$12><$00>
+thing that helps me forgive you?
+<$12><$00>
 
 
 //アンジェラ∥　もう一回歌ってくれ∥\n俺にはもったいない　最高の母さんと\n人間のクズの　最低の俺のために…<$12><$00>
 Angela, sing for us one more time! For me, the human scum\n
 of the world who was too good for the greatest mother\n
-alive!<$12><$00>
+alive!
+<$12><$00>
 
 
 //<CLEAR>こんにちわ！　私がアンジェラよ\nアンコールなら　かんべんしてね<$00>
-<CLEAR>Hello, I'm Angela!\n
-If you're here for an encore, I'm...<$00>
+<CLEAR>
+Hello, I'm Angela!\n
+If you're here for an encore, I'm...
+<$00>
 
 
 //\nあっ　ちょっと待って！<$12><$00>
 \n
-Hey, wait a second!<$12><$00>
+Hey, wait a second!
+<$12><$00>
 
 
 //<CLEAR>じゃ　アンジェラ！　脱出船の時間が\nあるから　私、そろそろ行くわ\nいろいろ　ありがと！<$12><$00>
-<CLEAR>Later, Angela! I'm leaving for my\n
+<CLEAR>
+Later, Angela! I'm leaving for my\n
 migration shuttle now. Thanks again\n
-for everything!<$12><$00>
+for everything!
+<$12><$00>
 
 
 //<CLEAR>元気でね！　手紙書くわ！<$12><$00>
-<CLEAR>Take care!\n
-I'll send you a postcard!<$12><$00>
+<CLEAR>
+Take care!\n
+I'll send you a postcard!
+<$12><$00>
 
 
 //<CLEAR>彼女、今日の午後の便で　飛ぶの…\n私とは　移住先が逆方向だから\nたぶん　もう一生、会えないわね…<$12>\n<CLEAR>で、私に何の用かしら？<$12><$00>
-<CLEAR>She and I have different shuttle\n
+<CLEAR>
+She and I have different shuttle\n
 destinations. We'll probably never\n
-meet again... <$12>\n
-<CLEAR>But anyways, how can I help you?<$12><$00>
+meet again... 
+<$12>
+\n
+
+<CLEAR>
+But anyways, how can I help you?
+<$12><$00>
 
 
 //<CLEAR><$19><$31><$15><$53>ケンは　リナバレーの息子のことを\nアンジェラに話した…<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53>Ken told Angela about\n
-her son in Spurr Valley.<$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>
+Ken told Angela about\n
+her son in Spurr Valley.
+<$14><$12><$00>
 
 
 //<CLEAR>えっ……￠<$12>\n<CLEAR>何で　そんな大事なこと\n早く言わないのよ∥\n私の本名は　キャロル！<$12>\n<CLEAR>さっきの彼女が　本物のアンジェラ∥<$12>\n<CLEAR>二人とも若い時　男で失敗して\n昔の自分を　捨てたくてサ…<$12>\n<CLEAR>半分冗談で　名前を交換したのよ<$12>\n<CLEAR>とにかく　早く追って∥\nオズサットでなら　確実に\n捕まえることが　できるはずよ∥<$12><$00>
-<CLEAR>Huh?!<$12>\n
-<CLEAR>Why didn't you say so sooner?!\n
-My name is Carol!<$12>\n
-<CLEAR>The "real" Angela is\n
-the woman who just left!<$12>\n
-<CLEAR>We both got burned by past\n
+<CLEAR>
+Huh?!
+<$12>
+\n
+
+<CLEAR>
+Why didn't you say so sooner?!\n
+My name is Carol!
+<$12>
+\n
+
+<CLEAR>
+The "real" Angela is\n
+the woman who just left!
+<$12>
+\n
+
+<CLEAR>
+We both got burned by past\n
 relationships, so we wanted to throw\n
-away or old selves.<$12>\n
-<CLEAR>She and I swapped names.\n
-It's an inside joke, you know?<$12>\n
-<CLEAR>Anyways, you'd better hurry to OzSat,\n
-or you'll miss Angela for good!<$12><$00>
+away or old selves.
+<$12>
+\n
+
+<CLEAR>
+She and I swapped names.\n
+It's an inside joke, you know?
+<$12>
+\n
+
+<CLEAR>
+Anyways, you'd better hurry to OzSat,\n
+or you'll miss Angela for good!
+<$12><$00>
 
 
 //<CLEAR>キャロルさん！　お手数ですが\nリナバレーのマリオに\nオズサットに至急、来るように<$00>
-<CLEAR>We're sorry to trouble you, Carol,\n
+<CLEAR>
+We're sorry to trouble you, Carol,\n
 but call Mario in Spurr Valley to\n
-OzSAT!<$00>
+OzSAT!
+<$00>
 
 
 //<CLEAR>わかったわ！　任せて∥\nリナバレーのマリオに\n電話すれば　いいのね∥<$12>\n<CLEAR>それより　早く追いかけて∥\nアンジェラを　必ず捕まえてね∥<$12><$00>
-<CLEAR>Will do!\n
+<CLEAR>
+Will do!\n
 I'll get on the phone\n
-with Mario right away!<$12>\n
-<CLEAR>Don't worry.\n
-Just focus on getting to Angela!<$12><$00>
+with Mario right away!
+<$12>
+\n
+
+<CLEAR>
+Don't worry.\n
+Just focus on getting to Angela!
+<$12><$00>
 
 
 //<CLEAR>アンジェラを　必ず捕まえてね∥\n彼女だけでも　幸せになって欲しいの\nすぐに　オズポートに飛んで！<$12><$00>
-<CLEAR>Hurry and catch Angela!\n
+<CLEAR>
+Hurry and catch Angela!\n
 I at least want her to be happy,\n
-so get to OzPort!<$12><$00>
+so get to OzPort!
+<$12><$00>
 
 
 #WRITE(PTR, $001E)
 //<$15><$59>ＢＡＲ<$00>
-<$15><$59>Bar<$00>
+<$15><$59>
+Bar
+<$00>
 
 
 //<CLEAR>何になさいます？　どれでも<$1D><$06><$1E><$04><$14>￥です\n<$01><$1D><$1D><$02>98<$0E>／<$01><$1D><$1D><$02>210<$0E>\n<$01><$1D><$1D><$02>98<$0E>／<$01>どれもいらない<$0E><$00>
-<CLEAR>For <$1D><$06><$1E><$04><$14>￥, what'll it be?\n
-<$01><$1D><$1D><$02>98<$0E> / <$01><$1D><$1D><$02>210<$0E>\n
-<$01><$1D><$1D><$02>98<$0E> / <$01>No thanks.<$0E><$00>
+<CLEAR>
+For 
+<$1D><$06><$1E><$04><$14>
+￥, what'll it be?\n
+
+<$01><$1D><$1D><$02>
+98
+<$0E>
+ / 
+<$01><$1D><$1D><$02>
+210
+<$0E>
+\n
+
+<$01><$1D><$1D><$02>
+98
+<$0E>
+ / 
+<$01>
+No thanks.
+<$0E><$00>
 
 
 //<CLEAR>また、どうぞ<$12><$00>
-<CLEAR>Come again!<$12><$00>
+<CLEAR>
+Come again!
+<$12><$00>
 
 
 //<CLEAR>ぼうや…\nタダ酒は　後で高くつくのが\n大人の世界の常識だぜ<$12><$00>
-<CLEAR>Careful, kiddo.\n
+<CLEAR>
+Careful, kiddo.\n
 Everyone pays the price for\n
-cheap liquor sooner or later.<$12><$00>
+cheap liquor sooner or later.
+<$12><$00>
 
 
 //<CLEAR>ケンは<$1D><$1D>を\nひといきに飲み干した<$12><$00>
-<CLEAR>Ken downed the\n
-<$1D><$1D>\n
-in one gulp.<$12><$00>
+<CLEAR>
+Ken downed the\n
+
+<$1D><$1D>
+\n
+in one gulp.
+<$12><$00>
 
 
 //<CLEAR>ケンの\n<$06>HP <$04>全回復∥<$12><$00>
-<CLEAR>Ken's <$06>HP<$04> recovered fully!<$12><$00>
+<CLEAR>
+Ken's 
+<$06>
+HP
+<$04>
+ recovered fully!
+<$12><$00>
 
 
 //<CLEAR>ケンの\n<$06>HP <$1E><$04>回復∥<$12><$00>
-<CLEAR>Ken's <$06>HP recovered by <$1E><$04>!<$12><$00>
+<CLEAR>
+Ken's 
+<$06>
+HP recovered by 
+<$1E><$04>
+!
+<$12><$00>
 
 
 //<CLEAR>もう　１杯いかがですか？\n<$01><$1D><$1D><$02>98<$0E>／<$01><$1D><$1D><$02>210<$0E>\n<$01><$1D><$1D><$02>98<$0E>／<$01>もう、いらない<$0E><$00>
-<CLEAR>Care for another?\n
-<$01><$1D><$1D><$02>98<$0E> / <$01><$1D><$1D><$02>210<$0E>\n
-<$01><$1D><$1D><$02>98<$0E> / <$01>No thanks.<$0E><$00>
+<CLEAR>
+Care for another?\n
+
+<$01><$1D><$1D><$02>
+98
+<$0E>
+ / 
+<$01><$1D><$1D><$02>
+210
+<$0E>
+\n
+
+<$01><$1D><$1D><$02>
+98
+<$0E>
+ / 
+<$01>
+No thanks.
+<$0E><$00>
 
 
 //ロック<$00>
- shot<$00>
+ shot
+<$00>
 
 
 //ジュース<$00>
- juice<$00>
+ juice
+<$00>
 
 
 //ミルク<$00>
- milk<$00>
+ milk
+<$00>
 
 
 //スープ<$00>
- soup<$00>
+ soup
+<$00>
 
 
 //パンチ<$00>
- punch<$00>
+ punch
+<$00>
 
 
 //カクテル<$00>
- cocktail<$00>
+ cocktail
+<$00>
 
 
 //茶<$00>
- tea<$00>
+ tea
+<$00>
 
 
 //コーラ<$00>
- malt<$00>
+ malt
+<$00>
 
 
 //ビール<$00>
- beer<$00>
+ beer
+<$00>
 
 
 //サワー<$00>
- shake<$00>
+ shake
+<$00>
 
 
 //ソーダ<$00>
- soda<$00>
+ soda
+<$00>
 
 
 //焼酎<$00>
- shochu<$00>
+ shochu
+<$00>
 
 
 //クン、クンクン………？<$12>\n<CLEAR><$1D>のニオイが　するね\nそういえば、<$1D>食まだだっけ…<$12><$00>
-Sniff... sniff, sniff?<$12>\n
-<CLEAR><$1D> scent's filling the air. You know, I could go for some <$1D> !<$12><$00>
+Sniff... sniff, sniff?
+<$12>
+\n
+
+<CLEAR><$1D>
+ scent's filling the air. You know, I could go for some 
+<$1D>
+ !
+<$12><$00>
 
 
 //卵焼き<$00>
-fried eggs<$00>
+fried eggs
+<$00>
 
 
 //カレー<$00>
-curry<$00>
+curry
+<$00>
 
 
 //焼き肉<$00>
-Neo Korean BBQ<$00>
+Neo Korean BBQ
+<$00>
 
 
 //唐あげ<$00>
-karaage<$00>
+karaage
+<$00>
 
 
 //お菓子<$00>
-candy<$00>
+candy
+<$00>
 
 
 //バナナ<$00>
-banana<$00>
+banana
+<$00>
 
 
 //フライ<$00>
-Neo French fries<$00>
+Neo French fries
+<$00>
 
 
 //焼き魚<$00>
-grilled fish<$00>
+grilled fish
+<$00>
 
 
 //トマト<$00>
-tomato<$00>
+tomato
+<$00>
 
 
 //バター<$00>
-butter<$00>
+butter
+<$00>
 
 
 //ソース<$00>
-sauce<$00>
+sauce
+<$00>
 
 
 //スープ<$00>
- soup<$00>
+ soup
+<$00>
 
 
 //ピラフ<$00>
-pilaf<$00>
+pilaf
+<$00>
 
 
 //バニラ<$00>
-vanilla<$00>
+vanilla
+<$00>
 
 
 //キムチ<$00>
-kimchi<$00>
+kimchi
+<$00>
 
 
 //チーズ<$00>
-cheese<$00>
+cheese
+<$00>
 
 
 //朝<$00>
-breakfast<$00>
+breakfast
+<$00>
 
 
 //昼<$00>
-lunch<$00>
+lunch
+<$00>
 
 
 //夕<$00>
-dinner<$00>
+dinner
+<$00>
 
 
 //……東<$00>
-... East<$00>
+... East
+<$00>
 
 
 //……西<$00>
-... West<$00>
+... West
+<$00>
 
 
 //……南<$00>
-... South<$00>
+... South
+<$00>
 
 
 //……北<$00>
-... North<$00>
+... North
+<$00>
 
 
 //…北東<$00>
-... North-east<$00>
+... North-east
+<$00>
 
 
 //…北西<$00>
-... North-west<$00>
+... North-west
+<$00>
 
 
 //…南東<$00>
-... South-east<$00>
+... South-east
+<$00>
 
 
 //…南西<$00>
-... South-west<$00>
+... South-west
+<$00>
 
 
 //<CLEAR>……<$1D><$00>
-<CLEAR>... ... <$1D><$00>
+<CLEAR>
+... ... 
+<$1D><$00>
 
 
 //、…<$1D>に行けば<$00>
-! That's where we'll find a <$1D>.<$00>
+! That's where we'll find a 
+<$1D>
+.
+<$00>
 
 
 //直進<$00>
-For<$00>
+For
+<$00>
 
 
 //右よ<$00>
-Right<$00>
+Right
+<$00>
 
 
 //左よ<$00>
-Left<$00>
+Left
+<$00>
 
 
 //後ろ<$00>
-Back<$00>
+Back
+<$00>
 
 
 //<CLEAR>……<$1D><$00>
-<CLEAR>... ... <$1D><$00>
+<CLEAR>
+... ... 
+<$1D><$00>
 
 
 //、絶対に<$1D>∥<$00>
-wards, got it? I'm sure we'll find a <$1D> there!<$00>
+wards, got it? I'm sure we'll find a 
+<$1D>
+ there!
+<$00>
 
 
 //<CLEAR><$19><$31><$15><$53>リンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition... <$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>
+Linda used her woman's intuition... 
+<$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
-<CLEAR>... Sorry. I don't have it in me today.<$12><$00>
+<CLEAR>
+... Sorry. I don't have it in me today.
+<$12><$00>
 
 
 //運命の<$00>
-Fated <$00>
+Fated 
+<$00>
 
 
 //新しい<$00>
-New <$00>
+New 
+<$00>
 
 
 //素敵な<$00>
-Great <$00>
+Great 
+<$00>
 
 
 //未知の<$00>
-Unknown <$00>
+Unknown 
+<$00>
 
 
 //何か<$00>
-things <$00>
+things 
+<$00>
 
 
 //発見<$00>
-discoveries <$00>
+discoveries 
+<$00>
 
 
 //お宝<$00>
-treasures <$00>
+treasures 
+<$00>
 
 
 //動物<$00>
-animals <$00>
+animals 
+<$00>
 
 
 //に　出会える…<$00>
-could appear.<$00>
+could appear.
+<$00>
 
 
 //が　待ってる…<$00>
-await us... <$00>
+await us... 
+<$00>
 
 
 //気がするわ∥<$00>
-are there.<$00>
+are there.
+<$00>
 
 
 //チャンスよ∥<$00>
-are in our grasp!<$00>
+are in our grasp!
+<$00>
 
 
 //今しかないわ<$00>
-could get away!<$00>
+could get away!
+<$00>
 
 
 //間違いなし∥<$00>
-are dead ahead!<$00>
+are dead ahead!
+<$00>
 
 
 //\n<$1D><$1D><$1D>\n<$1D><$12>\n<CLEAR><$00>
 \n
-<$1D><$1D><$1D>\n
-<$1D><$12>\n
+
+<$1D><$1D><$1D>
+\n
+
+<$1D><$12>
+\n
+
 <CLEAR><$00>
 
 
 //<CLEAR>自信があるの∥<$12><$00>
-<CLEAR>I swear!<$12><$00>
+<CLEAR>
+I swear!
+<$12><$00>
 
 
 //<CLEAR>自信は　ないけどね…<$12><$00>
-<CLEAR>Although, I'm not totally certain... <$12><$00>
+<CLEAR>
+Although, I'm not totally certain... 
+<$12><$00>
 
 
 //<CLEAR>絶対なんだから∥<$12><$00>
-<CLEAR>I'm absolutely certain!<$12><$00>
+<CLEAR>
+I'm absolutely certain!
+<$12><$00>
 
 
 //<$15><$59>スケジュール<$00>
-<$15><$59>Memo <$00>
+<$15><$59>
+Memo 
+<$00>
 
 
 //<CLEAR>スケジュールは何もありません<$12><$00>
-<CLEAR>There is nothing on schedule.<$12><$00>
+<CLEAR>
+There is nothing on schedule.
+<$12><$00>
 
 
 //成功終了<$00>
-Completed!<$00>
+Completed!
+<$00>
 
 
 //期限切れ<$00>
-Expired!<$00>
+Expired!
+<$00>
 
 
 //あと<$1E>季節<$00>
-In <$1E> seasons<$00>
+In 
+<$1E>
+ seasons
+<$00>
 
 
 //あと<$1E>年<$1E>季節<$00>
-Deadline: <$1E>Y/<$1E>S<$00>
+Deadline: 
+<$1E>
+Y/
+<$1E>
+S
+<$00>
 
 
 //あと<$1E>年<$00>
-In <$1E> years<$00>
+In 
+<$1E>
+ years
+<$00>
 
 
 //<$16><$01>◇<$0E><$1D><$02>190<$1D><$00>
-<$16><$01>◇<$0E><$1D><$02><$1D><$00>
+<$16><$01>
+◇
+<$0E><$1D><$02><$1D><$00>
 
 
 //ファングを倒す<$00>
-Slay Fang<$00>
+Slay Fang
+<$00>
 
 
 //パンハイムからの依頼<$00>
-Assist Panheim<$00>
+Assist Panheim
+<$00>
 
 
 //<$1B>カメの卵を手に入れる<$00>
-<$1B>Snatch Turtle Eggs<$00>
+<$1B>
+Snatch Turtle Eggs
+<$00>
 
 
 //<$1B>プテラノの卵を手に入れる<$00>
-<$1B>Snatch Pteranodon Eggs<$00>
+<$1B>
+Snatch Pteranodon Eggs
+<$00>
 
 
 //遺産争いにケリをつける<$00>
-End the inheritance battle<$00>
+End the inheritance battle
+<$00>
 
 
 //ヤマダのために一肌脱ぐ<$00>
-Unload for Yamada<$00>
+Unload for Yamada
+<$00>
 
 
 //町のシンボルを見つけだす<$00>
-Find the village symbol<$00>
+Find the village symbol
+<$00>
 
 
 //ソフィアからの依頼<$00>
-Assist Sophia<$00>
+Assist Sophia
+<$00>
 
 
 //サチコ救出<$00>
-Rescue Sachiko<$00>
+Rescue Sachiko
+<$00>
 
 
 //ポロポロちゃんを助ける<$00>
-Save Nightshade<$00>
+Save Nightshade
+<$00>
 
 
 //アンジェラ捜し<$00>
-Find Angela<$00>
+Find Angela
+<$00>
 
 
 //<CLEAR>カラゴラムのファングを倒し、その証拠を\nハーディアホテルのスペクターに渡す<$00>
-<CLEAR>Defeat Fang in Karhagolem. Present proof to Spectre in\n
-Hardia Hotel.<$00>
+<CLEAR>
+Defeat Fang in Karhagolem. Present proof to Spectre in\n
+Hardia Hotel.
+<$00>
 
 
 //<CLEAR>マーブルポリスの<$1B>ニワトリを肉に加工して、\nホスピコにいるパンハイムに渡す<$00>
-<CLEAR>Process meat from <$1B>chickens in Marblopolis.Give them to\n
-Prof. Panheim in Hospico.<$00>
+<CLEAR>
+Process meat from 
+<$1B>
+chickens in Marblopolis.Give them to\n
+Prof. Panheim in Hospico.
+<$00>
 
 
 //<CLEAR><$1B>カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す<$00>
-<CLEAR>Find up to 3 <$1B>Turtle Eggs. Give them to Louis at the Battle\n
-Park BB Ranch.<$00>
+<CLEAR>
+Find up to 3 
+<$1B>
+Turtle Eggs. Give them to Louis at the Battle\n
+Park BB Ranch.
+<$00>
 
 
 //<CLEAR><$1B>プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す<$00>
-<CLEAR>Acquire 2 <$1B>Pteranodon Eggs. Give them to Bronco at the\n
-Battle Park BB Ranch.<$00>
+<CLEAR>
+Acquire 2 
+<$1B>
+Pteranodon Eggs. Give them to Bronco at the\n
+Battle Park BB Ranch.
+<$00>
 
 
 //<CLEAR>「太郎の首輪」を見つけだし、ドギファの\nナターシャか、オーマン家３兄弟に渡す<$00>
-<CLEAR>Locate Taro's Collar. Give it to Natasha or one of the 3\n
-Aumann children in Dogyf Heights.<$00>
+<CLEAR>
+Locate Taro's Collar. Give it to Natasha or one of the 3\n
+Aumann children in Dogyf Heights.
+<$00>
 
 
 //６万<$00>
-60, 000<$00>
+60, 000
+<$00>
 
 
 //あと<$06><$1E><$0F>000<$04><$00>
-another <$06><$1E><$0F><$04><$00>
+another 
+<$06><$1E><$0F><$04><$00>
 
 
 //<CLEAR>Ｇファクトリーのヤマダのために\n<$1D>￥を預金する<$00>
-<CLEAR>Deposit <$1D>￥ in an account to Yamada in G Factory.<$00>
+<CLEAR>
+Deposit 
+<$1D>
+￥ in an account to Yamada in G Factory.
+<$00>
 
 
 //<CLEAR>コシカタのシンボル「<$1B>トラの爪」を\n見つけだし、ポリスカに渡す<$00>
-<CLEAR>Find the <$1B>Tiger Claw, Koshikata's village symbol. Return it\n
-to Poliska.<$00>
+<CLEAR>
+Find the 
+<$1B>
+Tiger Claw, Koshikata's village symbol. Return it\n
+to Poliska.
+<$00>
 
 
 //<CLEAR>ソフィアのために、エターナの桜の木を\nどうにかして咲かせる<$00>
-<CLEAR>Find out how to revive the sakura trees in Eterna for\n
-Sophia.<$00>
+<CLEAR>
+Find out how to revive the sakura trees in Eterna for\n
+Sophia.
+<$00>
 
 
 //<CLEAR>溶岩の中で育った動物の熱いウンチを\nエターナのソフィアに渡す<$00>
-<CLEAR>Deliver Hot Dung from a lava-dwelling creature to Sophia in\n
-Eterna.<$00>
+<CLEAR>
+Deliver Hot Dung from a lava-dwelling creature to Sophia in\n
+Eterna.
+<$00>
 
 
 //<CLEAR>ラグナロッジのエモリに会いに行く<$00>
-<CLEAR>Meet with Dr. Emori in Ragna Rim.<$00>
+<CLEAR>
+Meet with Dr. Emori in Ragna Rim.
+<$00>
 
 
 //<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nＧファクトリー入口１階、\n公衆電話の前に行く<$00>
-<CLEAR>Take the Floppy Disc and <$06>10, 000<$04>￥ to the G Factory gate.\n
-Answer the payphone.<$00>
+<CLEAR>
+Take the Floppy Disc and 
+<$06>
+10, 000
+<$04>
+￥ to the G Factory gate.\n
+Answer the payphone.
+<$00>
 
 
 //<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nパラサイド入口１階、\n公衆電話の前に行く<$00>
-<CLEAR>Take the Floppy Disc and <$06>10, 000<$04>￥ to the Paraside gate.\n
-Answer the payphone.<$00>
+<CLEAR>
+Take the Floppy Disc and 
+<$06>
+10, 000
+<$04>
+￥ to the Paraside gate.\n
+Answer the payphone.
+<$00>
 
 
 //<CLEAR>「フロッピーと<$06>10<$04>万￥」を持って、\nガレックスに行く<$00>
-<CLEAR>Take the Floppy Disc and <$06>10, 000<$04>￥ to Galax.<$00>
+<CLEAR>
+Take the Floppy Disc and 
+<$06>
+10, 000
+<$04>
+￥ to Galax.
+<$00>
 
 
 //<CLEAR>ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す<$00>
-<CLEAR>Pick bloodberries in Flora Jam. Take them to Kevin and\n
-Nightshade in Rose Garden.<$00>
+<CLEAR>
+Pick bloodberries in Flora Jam. Take them to Kevin and\n
+Nightshade in Rose Garden.
+<$00>
 
 
 //<CLEAR>パラサイドの酒場にいるアンジェラを\n確認して、リナバレーのマリオに連絡する<$00>
-<CLEAR>Look for Angela at the Paraside bar. Report your findings\n
-to Mario in Spurr Valley.<$00>
+<CLEAR>
+Look for Angela at the Paraside bar. Report your findings\n
+to Mario in Spurr Valley.
+<$00>
 
 
 //<CLEAR>アンジェラを確認するために、\nオズポートホテルの酒場に行く<$00>
-<CLEAR>Look for Angela at the OzPort Hotel bar.<$00>
+<CLEAR>
+Look for Angela at the OzPort Hotel bar.
+<$00>
 
 
 //<CLEAR>アンジェラを確認するために、\n西エリアのしけた町のホテルに行く<$00>
-<CLEAR>Look for Angela at a hotel bar somewhere in West Area.<$00>
+<CLEAR>
+Look for Angela at a hotel bar somewhere in West Area.
+<$00>
 
 
 //<CLEAR>アンジェラを確認するために、\nドギファの舞台に行く<$00>
-<CLEAR>Look for Angela at the theater stage in Dogyf Heights.<$00>
+<CLEAR>
+Look for Angela at the theater stage in Dogyf Heights.
+<$00>
 
 
 //<CLEAR>リナバレーのマリオの母、\nアンジェラを追ってオズサットへ行く<$00>
-<CLEAR>Chase Angela to OzSat! Mario will follow from Spurr Valley.<$00>
+<CLEAR>
+Chase Angela to OzSat! Mario will follow from Spurr Valley.
+<$00>
 
 
 //<$00>

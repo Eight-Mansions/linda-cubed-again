@@ -180,538 +180,856 @@ mf097.obj<$00>
 
 #WRITE(PTR, $0026)
 //エモリ・ラボ<$00>
-Emori's Lab <$00>
+Emori's Lab 
+<$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
-<CLEAR>Ken whistled.<$12>\n
-<CLEAR>Huge wings flapped in the distance... <$12><$00>
+<CLEAR>
+Ken whistled.
+<$12>
+\n
+
+<CLEAR>
+Huge wings flapped in the distance... 
+<$12><$00>
 
 
 //<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Ken masked the party to avoid\n
-detection.<$12>\n
-<CLEAR>However, none of the animals in the\n
+<CLEAR>
+Ken masked the party to avoid\n
+detection.
+<$12>
+\n
+
+<CLEAR>
+However, none of the animals in the\n
 area were stupid enough to fall for\n
-his antics!<$12><$00>
+his antics!
+<$12><$00>
 
 
 //<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Linda mimicked a few animal calls.<$12>\n
-<CLEAR>However, none of the animals in the\n
+<CLEAR>
+Linda mimicked a few animal calls.
+<$12>
+\n
+
+<CLEAR>
+However, none of the animals in the\n
 area were stupid enough to fall for\n
-her antics!<$12><$00>
+her antics!
+<$12><$00>
 
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
-<CLEAR>The Animal Bible can't be booted here!<$12><$00>
+<CLEAR>
+The Animal Bible can't be booted here!
+<$12><$00>
 
 
 //<CLEAR>ここでは　野営できない<$12><$00>
-<CLEAR>Camp can't be set up here!<$12><$00>
+<CLEAR>
+Camp can't be set up here!
+<$12><$00>
 
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
-<CLEAR>The Navi System(NaviS) can't be booted\n
-here!<$12><$00>
+<CLEAR>
+The Navi System(NaviS) can't be booted\n
+here!
+<$12><$00>
 
 
 #WRITE(PTR, $0028)
 //パンハイム・ラボ<$00>
-Panheim's Lab <$00>
+Panheim's Lab 
+<$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
-<CLEAR>Ken whistled.<$12>\n
-<CLEAR>Huge wings flapped in the distance... <$12><$00>
+<CLEAR>
+Ken whistled.
+<$12>
+\n
+
+<CLEAR>
+Huge wings flapped in the distance... 
+<$12><$00>
 
 
 //<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Ken masked the party to avoid\n
-detection.<$12>\n
-<CLEAR>However, none of the animals in the\n
+<CLEAR>
+Ken masked the party to avoid\n
+detection.
+<$12>
+\n
+
+<CLEAR>
+However, none of the animals in the\n
 area were stupid enough to fall for\n
-his antics!<$12><$00>
+his antics!
+<$12><$00>
 
 
 //<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Linda mimicked a few animal calls.<$12>\n
-<CLEAR>However, none of the animals in the\n
+<CLEAR>
+Linda mimicked a few animal calls.
+<$12>
+\n
+
+<CLEAR>
+However, none of the animals in the\n
 area were stupid enough to fall for\n
-her antics!<$12><$00>
+her antics!
+<$12><$00>
 
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
-<CLEAR>The Animal Bible can't be booted here!<$12><$00>
+<CLEAR>
+The Animal Bible can't be booted here!
+<$12><$00>
 
 
 //<CLEAR>ここでは　野営できない<$12><$00>
-<CLEAR>Camp can't be set up here!<$12><$00>
+<CLEAR>
+Camp can't be set up here!
+<$12><$00>
 
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
-<CLEAR>The Navi System(NaviS) can't be booted\n
-here!<$12><$00>
+<CLEAR>
+The Navi System(NaviS) can't be booted\n
+here!
+<$12><$00>
 
 
 //ここは　今は亡き天才科学者\nパンハイム博士の　研究室です<$12>\n<CLEAR>ご覧なさい！　容器の中の動物たちを∥\n博士は　動物から　老化を防ぐ成分を\n抽出する研究を　なさっていたのよ<$12>\n<CLEAR>エモリ博士の協力を得て　完成は\n間近でしたのに…　あんな事故さえ\n起きなければねぇ…　残念ですわ<$12><$00>
 This lab belonged to an ingenious scientist, the late\n
-Mica Panheim.<$12>\n
-<CLEAR>See the animals in these containers?<$12>\n
-<CLEAR>In his research to prevent aging, Panheim extracted\n
-ingredients from various animals.<$12>\n
-<CLEAR>With Dr. Emori's help, his research was almost complete,\n
-but alas.<$12>\n
-<CLEAR>If only he didn't die in that accident... \n
-Truly tragic.<$12><$00>
+Mica Panheim.
+<$12>
+\n
+
+<CLEAR>
+See the animals in these containers?
+<$12>
+\n
+
+<CLEAR>
+In his research to prevent aging, Panheim extracted\n
+ingredients from various animals.
+<$12>
+\n
+
+<CLEAR>
+With Dr. Emori's help, his research was almost complete,\n
+but alas.
+<$12>
+\n
+
+<CLEAR>
+If only he didn't die in that accident... \n
+Truly tragic.
+<$12><$00>
 
 
 //<CLEAR>驚きましたわ…　サチコさんが\nそこのカプセルから　出て来た時は…<$12>\n<CLEAR>それにしても　なんで彼女、\nカプセルなんかに　隠れてたのかしら？\nやっぱり　あのコ、何かヘンだわね…<$12><$00>
-<CLEAR>I saw Sachiko come out of onf ot hose capsules once. It\n
-freaked me right out.<$12>\n
-<CLEAR>What was that girl doing, hiding in a capsule? Wouldn't\n
+<CLEAR>
+I saw Sachiko come out of onf ot hose capsules once. It\n
+freaked me right out.
+<$12>
+\n
+
+<CLEAR>
+What was that girl doing, hiding in a capsule? Wouldn't\n
 teenaged girls be freaked out by that? What a little\n
-oddball.<$12><$00>
+oddball.
+<$12><$00>
 
 
 #WRITE(PTR, $002A)
 //フローラ・ラボ<$00>
-Flora's Lab <$00>
+Flora's Lab 
+<$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
-<CLEAR>Ken whistled.<$12>\n
-<CLEAR>Huge wings flapped in the distance... <$12><$00>
+<CLEAR>
+Ken whistled.
+<$12>
+\n
+
+<CLEAR>
+Huge wings flapped in the distance... 
+<$12><$00>
 
 
 //<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Ken masked the party to avoid\n
-detection.<$12>\n
-<CLEAR>However, none of the animals in the\n
+<CLEAR>
+Ken masked the party to avoid\n
+detection.
+<$12>
+\n
+
+<CLEAR>
+However, none of the animals in the\n
 area were stupid enough to fall for\n
-his antics!<$12><$00>
+his antics!
+<$12><$00>
 
 
 //<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Linda mimicked a few animal calls.<$12>\n
-<CLEAR>However, none of the animals in the\n
+<CLEAR>
+Linda mimicked a few animal calls.
+<$12>
+\n
+
+<CLEAR>
+However, none of the animals in the\n
 area were stupid enough to fall for\n
-her antics!<$12><$00>
+her antics!
+<$12><$00>
 
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
-<CLEAR>The Animal Bible can't be booted here!<$12><$00>
+<CLEAR>
+The Animal Bible can't be booted here!
+<$12><$00>
 
 
 //<CLEAR>ここでは　野営できない<$12><$00>
-<CLEAR>Camp can't be set up here!<$12><$00>
+<CLEAR>
+Camp can't be set up here!
+<$12><$00>
 
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
-<CLEAR>The Navi System(NaviS) can't be booted\n
-here!<$12><$00>
+<CLEAR>
+The Navi System(NaviS) can't be booted\n
+here!
+<$12><$00>
 
 
 //<CLEAR>あら、もう帰っちゃうの？\nお別れのキスくらいしてちょうだい\n<$01>喜んで■<$0E>／<$01>はいはい<$0E>／<$01>イヤです<$0E><$00>
-<CLEAR>Aww, leaving so soon? Can I have a goodbye kiss at\n
+<CLEAR>
+Aww, leaving so soon? Can I have a goodbye kiss at\n
 least?\n
-<$01>With pleasure■<$0E> / <$01>Sure<$0E> / <$01>No way!<$0E><$00>
+
+<$01>
+With pleasure■
+<$0E>
+ / 
+<$01>
+Sure
+<$0E>
+ / 
+<$01>
+No way!
+<$0E><$00>
 
 
 //<CLEAR>チュッ■■<$00>
-<CLEAR>Smooch!■■<$00>
+<CLEAR>
+Smooch!■■
+<$00>
 
 
 //<CLEAR>それじゃ　私から…<$00>
-<CLEAR>But it's from me, so... <$00>
+<CLEAR>
+But it's from me, so... 
+<$00>
 
 
 //\nチュッ■■<$00>
 \n
-Smooch!■■<$00>
+Smooch!■■
+<$00>
 
 
 //まあ∥　<$1D>∥\n<$06><$1E><$04>￥でぜひ、ゆずってちょうだい∥\n<$01>いいですよ<$0E>／<$01>ダメですね<$0E><$00>
-Here, try this <$1D>!\n
-It only costs <$06><$1E><$04>￥!\n
-<$01>YOOOO!<$0E> / <$01>NOOOO!<$0E><$00>
+Here, try this 
+<$1D>
+!\n
+It only costs 
+<$06><$1E><$04>
+￥!\n
+
+<$01>
+YOOOO!
+<$0E>
+ / 
+<$01>
+NOOOO!
+<$0E><$00>
 
 
 //<CLEAR>ありがとう∥　いい肥料ができそうよ\nまた　いいのがあったら　お願いね！<$12><$00>
-<CLEAR>Thank you! I think it'll make for excellent fertilizer! Hope\n
-you like it!<$12><$00>
+<CLEAR>
+Thank you! I think it'll make for excellent fertilizer! Hope\n
+you like it!
+<$12><$00>
 
 
 //<CLEAR>ごめんなさいね…\n大切なモノとは知らずに\n無理、言って<$12><$00>
-<CLEAR>Sorry...  This stuff just comes out so naturally. I'll watch my\n
-mouth from now on.<$12><$00>
+<CLEAR>
+Sorry...  This stuff just comes out so naturally. I'll watch my\n
+mouth from now on.
+<$12><$00>
 
 
 //私は　<$00>
-I'M!　<$00>
+I'M!　
+<$00>
 
 
 //アリス\n<$00>
 ALICE!\n
+
 <$00>
 
 
 //フローラ<$00>
-I'M THE! <$00>
+I'M THE! 
+<$00>
 
 
 //博士が　<$00>
-ONLY FRIEND!　<$00>
+ONLY FRIEND!　
+<$00>
 
 
 //何でも<$00>
-DR. FLORA!　<$00>
+DR. FLORA!　
+<$00>
 
 
 //話せる\n<$00>
 HAS!\n
+
 <$00>
 
 
 //たった<$00>
-TO!　<$00>
+TO!　
+<$00>
 
 
 //１人の　<$00>
-TALK ABOUT!　<$00>
+TALK ABOUT!　
+<$00>
 
 
 //お友だち<$00>
-ANYTHING WITH!<$00>
+ANYTHING WITH!
+<$00>
 
 
 //<$12><$00>
 <$12><$00>
 
 //あら、コンニチワ！　私、フローラ！<$00>
-Why, hello! I'm Flora!<$00>
+Why, hello! I'm Flora!
+<$00>
 
 
 //ローズガーデンに　行くことがあったら\n「ＭＣアリス」を　１鉢買うといいわ<$12>\n<CLEAR>君みたいに　無口な男の子は　きっと\nアリスとの相性が　ピッタリのはずよ！\n彼女が退屈な毎日を　彩ってくれるわ<$12><$00>
 If you ever visit Rose Garden, you should buy a pot of MC\n
-Alice while you're there!<$12>\n
-<CLEAR>Alice would be a perfect match for a quiet boy such as\n
-yourself!<$12><$00>
+Alice while you're there!
+<$12>
+\n
+
+<CLEAR>
+Alice would be a perfect match for a quiet boy such as\n
+yourself!
+<$12><$00>
 
 
 #WRITE(PTR, $002C)
 //エモリ・ラボ<$00>
-Emori's Lab <$00>
+Emori's Lab 
+<$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
-<CLEAR>Ken whistled.<$12>\n
-<CLEAR>Huge wings flapped in the distance... <$12><$00>
+<CLEAR>
+Ken whistled.
+<$12>
+\n
+
+<CLEAR>
+Huge wings flapped in the distance... 
+<$12><$00>
 
 
 //<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Ken masked the party to avoid\n
-detection.<$12>\n
-<CLEAR>However, none of the animals in the\n
+<CLEAR>
+Ken masked the party to avoid\n
+detection.
+<$12>
+\n
+
+<CLEAR>
+However, none of the animals in the\n
 area were stupid enough to fall for\n
-his antics!<$12><$00>
+his antics!
+<$12><$00>
 
 
 //<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Linda mimicked a few animal calls.<$12>\n
-<CLEAR>However, none of the animals in the\n
+<CLEAR>
+Linda mimicked a few animal calls.
+<$12>
+\n
+
+<CLEAR>
+However, none of the animals in the\n
 area were stupid enough to fall for\n
-her antics!<$12><$00>
+her antics!
+<$12><$00>
 
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
-<CLEAR>The Animal Bible can't be booted here!<$12><$00>
+<CLEAR>
+The Animal Bible can't be booted here!
+<$12><$00>
 
 
 //<CLEAR>ここでは　野営できない<$12><$00>
-<CLEAR>Camp can't be set up here!<$12><$00>
+<CLEAR>
+Camp can't be set up here!
+<$12><$00>
 
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
-<CLEAR>The Navi System(NaviS) can't be booted\n
-here!<$12><$00>
+<CLEAR>
+The Navi System(NaviS) can't be booted\n
+here!
+<$12><$00>
 
 
 //<CLEAR>ケン君∥　退院おめでとう∥\n私は　エモリ、\nリンダの担当医だ<$00>
-<CLEAR>Ken-kun! It's good to see you.\n
-I'm Emori Yataro, Linda's attending physician.<$00>
+<CLEAR>
+Ken-kun! It's good to see you.\n
+I'm Emori Yataro, Linda's attending physician.
+<$00>
 
 
 //<CLEAR>リンダの見舞いに　来たんだね\n命に別状はないし　傷の回復も\n非常に順調だ！　安心したまえ<$00>
-<CLEAR>You're here to see her, yes? Fear not, her wounds were\n
-not grave, and are healing at an impressive rate.<$00>
+<CLEAR>
+You're here to see her, yes? Fear not, her wounds were\n
+not grave, and are healing at an impressive rate.
+<$00>
 
 
 //<CLEAR>すぐに会いたいのは　わかるが\nその前に　君に話しておかねば\nならないことが　あるんだ…<$00>
-<CLEAR>I'll take you to her, but first,\n
-I fear I must warn you.<$00>
+<CLEAR>
+I'll take you to her, but first,\n
+I fear I must warn you.
+<$00>
 
 
 //<CLEAR>実は　ここに運び込まれた時…<$00>
-<CLEAR>See, when Linda was brought to me... <$00>
+<CLEAR>
+See, when Linda was brought to me... 
+<$00>
 
 
 //<CLEAR>……………………<$12><$00>
-<CLEAR>... ... ... <$12><$00>
+<CLEAR>
+... ... ... 
+<$12><$00>
 
 
 //<CLEAR>リンダの四肢は　付け根から\n完全に　切断されていた…<$00>
-<CLEAR>... her limbs were all severed from her torso.<$00>
+<CLEAR>
+... her limbs were all severed from her torso.
+<$00>
 
 
 //<CLEAR>もちろん私は　急いで\n彼女の手足を　つないだ…\n手術自体は　完ペキだった…<$00>
-<CLEAR>Of course, I reconnected the parts I could find. The initial\n
-surgeries ran without flaw.<$00>
+<CLEAR>
+Of course, I reconnected the parts I could find. The initial\n
+surgeries ran without flaw.
+<$00>
 
 
 //<CLEAR>だけどね…<$00>
-<CLEAR>But then... <$00>
+<CLEAR>
+But then... 
+<$00>
 
 
 //<CLEAR>………………………<$12><$00>
-<CLEAR>... ... <$12><$00>
+<CLEAR>
+... ... 
+<$12><$00>
 
 
 //<CLEAR>………話のつづきは　とりあえず\n見舞いの後にしよう、そのほうが\n私も　少しは　気が楽だ…<$00>
-<CLEAR>... Actually, go say hello to Linda now.\n
-It will make you both feel better.<$00>
+<CLEAR>
+... Actually, go say hello to Linda now.\n
+It will make you both feel better.
+<$00>
 
 
 //<CLEAR>さあ　こっちだ、来たまえ<$00>
-<CLEAR>Here, right this way.<$00>
+<CLEAR>
+Here, right this way.
+<$00>
 
 
 //<CLEAR>ケン…　ケン…<$00>
-<CLEAR>Ken...  Ken...!<$00>
+<CLEAR>
+Ken...  Ken...!
+<$00>
 
 
 //<CLEAR>………………………<$12><$00>
-<CLEAR>... ... <$12><$00>
+<CLEAR>
+... ... 
+<$12><$00>
 
 
 //<CLEAR>なかったんだよ…　リンダの\n左腕だけが…　どこを探しても\n発見できなかったんだ…<$00>
-<CLEAR>After searching everywhere... \n
-Linda's left arm was never found.<$00>
+<CLEAR>
+After searching everywhere... \n
+Linda's left arm was never found.
+<$00>
 
 
 //<CLEAR>その代わりに　見つけたのが\n細胞レベルまで　相性の良い\nある死体の　左腕だった∥<$00>
-<CLEAR>We found a compatible corpse and harvested its arm, with\n
-tissue a 100% perfect molecular match.<$00>
+<CLEAR>
+We found a compatible corpse and harvested its arm, with\n
+tissue a 100% perfect molecular match.
+<$00>
 
 
 //<CLEAR>私は　迷った…\nしかし　医者としての良心が\n移植手術を　決意させたんだ<$00>
-<CLEAR>I hesitated at first, but my will as a doctor guided me\n
-through the transplant.<$00>
+<CLEAR>
+I hesitated at first, but my will as a doctor guided me\n
+through the transplant.
+<$00>
 
 
 //<CLEAR>リンダの　退院後の生活を\n現実的に　考えるとね…\n正しい判断だと　信じている<$00>
-<CLEAR>Keeping Linda's quality of life in mind,\n
-I believe I made the right decision.<$00>
+<CLEAR>
+Keeping Linda's quality of life in mind,\n
+I believe I made the right decision.
+<$00>
 
 
 //<CLEAR>ケン君……∥　仮に君が\n医者だったら　どうしたかね？<$00>
-<CLEAR>Ken, would you have done the same if you were a doctor?<$00>
+<CLEAR>
+Ken, would you have done the same if you were a doctor?
+<$00>
 
 
 //\n<$01>移植手術をした<$0E>／<$01>そのままにした<$0E><$00>
 \n
-<$01>I would<$0E> / <$01>I couldn't<$0E><$00>
+
+<$01>
+I would
+<$0E>
+ / 
+<$01>
+I couldn't
+<$0E><$00>
 
 
 //<CLEAR>そうか…<$00>
-<CLEAR>I see... <$00>
+<CLEAR>
+I see... 
+<$00>
 
 
 //<CLEAR>………………<$12><$00>
-<CLEAR>... ... ... <$12><$00>
+<CLEAR>
+... ... ... 
+<$12><$00>
 
 
 //<CLEAR>なのに決まって　患者には\n理解されないんだ…　おそらく\nリンダにも　恨まれるだろう…<$00>
-<CLEAR>But what's done is done.\n
+<CLEAR>
+But what's done is done.\n
 I won't blame Linda for being confused nor for holding\n
-a grudge against me.<$00>
+a grudge against me.
+<$00>
 
 
 //<CLEAR>なにしろ　彼女の左腕は\n筋骨隆々の　黒人男性のモノだ<$00>
-<CLEAR>After all, now a pale, petit teenaged girl has the arm of a\n
-giant, hulking black man.<$00>
+<CLEAR>
+After all, now a pale, petit teenaged girl has the arm of a\n
+giant, hulking black man.
+<$00>
 
 
 //<CLEAR>その違和感に　慣れるには\n相当な時間が　かかるだろう\nまして…<$00>
-<CLEAR>It will take her a great deal of time to adjust the new arm.<$00>
+<CLEAR>
+It will take her a great deal of time to adjust the new arm.
+<$00>
 
 
 //<CLEAR>実の父親の左腕だ…<$00>
-<CLEAR>And emotionally too, given the arm once belonged to her\n
-newly deceased father.<$00>
+<CLEAR>
+And emotionally too, given the arm once belonged to her\n
+newly deceased father.
+<$00>
 
 
 //<CLEAR>…………………………………<$12><$00>
-<CLEAR>... ... ... ... ... <$12><$00>
+<CLEAR>
+... ... ... ... ... 
+<$12><$00>
 
 
 //<CLEAR>ケン君！　お願いがある！\nリンダの心の　アフターケアを\n君に　頼みたいんだ∥<$00>
-<CLEAR>I have a request, Ken-kun. Please help Linda's heart heal.<$00>
+<CLEAR>
+I have a request, Ken-kun. Please help Linda's heart heal.
+<$00>
 
 
 //<CLEAR>やってくれるね￠<$00>
-<CLEAR>Can you do that?<$00>
+<CLEAR>
+Can you do that?
+<$00>
 
 
 //\n<$01>まかせて下さい<$0E>／<$01>自信ありません<$0E><$00>
 \n
-<$01>I will!<$0E> / <$01>I can't!<$0E><$00>
+
+<$01>
+I will!
+<$0E>
+ / 
+<$01>
+I can't!
+<$0E><$00>
 
 
 //<CLEAR>君しか　いないんだよ￠<$00>
-<CLEAR>But you're all she has!<$00>
+<CLEAR>
+But you're all she has!
+<$00>
 
 
 //\n<$01>わかりました<$0E>／<$01>無理ですよ…<$0E><$00>
 \n
-<$01>Oh, you're right... <$0E> / <$01>I said I can't!<$0E><$00>
+
+<$01>
+Oh, you're right... 
+<$0E>
+ / 
+<$01>
+I said I can't!
+<$0E><$00>
 
 
 //<CLEAR>私はね、医者として人間として\nいつも　最善を尽くしてきたし\nできることは　全てやった…<$00>
-<CLEAR>As doctors and as men,\n
+<CLEAR>
+As doctors and as men,\n
 we do all we can.\n
-That's all we can do.<$00>
+That's all we can do.
+<$00>
 
 
 //<CLEAR>退院が決まったら　電話するよ\nそれまでは　１頭でも多く\n動物を　箱船に積むといい<$00>
-<CLEAR>I shall call you when she's ready to leave.\n
-Go catch animals until then.<$00>
+<CLEAR>
+I shall call you when she's ready to leave.\n
+Go catch animals until then.
+<$00>
 
 
 //<CLEAR>君が今　彼女にしてやれる\n唯一のことだからね<$00>
-<CLEAR>That is all you can do for her now.<$00>
+<CLEAR>
+That is all you can do for her now.
+<$00>
 
 
 #WRITE(PTR, $002E)
 //エモリ・ラボ<$00>
-Emori's Lab <$00>
+Emori's Lab 
+<$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
-<CLEAR>Ken whistled.<$12>\n
-<CLEAR>Huge wings flapped in the distance... <$12><$00>
+<CLEAR>
+Ken whistled.
+<$12>
+\n
+
+<CLEAR>
+Huge wings flapped in the distance... 
+<$12><$00>
 
 
 //<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Ken masked the party to avoid\n
-detection.<$12>\n
-<CLEAR>However, none of the animals in the\n
+<CLEAR>
+Ken masked the party to avoid\n
+detection.
+<$12>
+\n
+
+<CLEAR>
+However, none of the animals in the\n
 area were stupid enough to fall for\n
-his antics!<$12><$00>
+his antics!
+<$12><$00>
 
 
 //<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Linda mimicked a few animal calls.<$12>\n
-<CLEAR>However, none of the animals in the\n
+<CLEAR>
+Linda mimicked a few animal calls.
+<$12>
+\n
+
+<CLEAR>
+However, none of the animals in the\n
 area were stupid enough to fall for\n
-her antics!<$12><$00>
+her antics!
+<$12><$00>
 
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
-<CLEAR>The Animal Bible can't be booted here!<$12><$00>
+<CLEAR>
+The Animal Bible can't be booted here!
+<$12><$00>
 
 
 //<CLEAR>ここでは　野営できない<$12><$00>
-<CLEAR>Camp can't be set up here!<$12><$00>
+<CLEAR>
+Camp can't be set up here!
+<$12><$00>
 
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
-<CLEAR>The Navi System(NaviS) can't be booted\n
-here!<$12><$00>
+<CLEAR>
+The Navi System(NaviS) can't be booted\n
+here!
+<$12><$00>
 
 
 //<CLEAR>ああ　ケン…　許してくれ…\n君が来ると　話した途端に\nリンダが　脱走してしまった…<$00>
-<CLEAR>Oh, Ken! Forgive me! As soon as Linda heard you were\n
-coming, she ran away.<$00>
+<CLEAR>
+Oh, Ken! Forgive me! As soon as Linda heard you were\n
+coming, she ran away.
+<$00>
 
 
 //<CLEAR>彼女を　喜ばすつもりで\n言ったのに…　不注意だったよ…\n本当に　申し訳ない<$00>
-<CLEAR>I thought the news would make her happy,\n
-but I was wrong. I'm so  sorry!<$00>
+<CLEAR>
+I thought the news would make her happy,\n
+but I was wrong. I'm so  sorry!
+<$00>
 
 
 //<CLEAR>だけど信じて欲しい、私は\nいつも　最善を尽くしてきたし\nできることは　全てやった…<$00>
-<CLEAR>But please, believe me. I do all I can! That's all I can do!<$00>
+<CLEAR>
+But please, believe me. I do all I can! That's all I can do!
+<$00>
 
 
 //<CLEAR>なのに　決まって裏目に出る…\n私は　どうすればいいんだ∥\n何かできることは　ないかね？<$00>
-<CLEAR>And while no good deed goes unpunished,\n
-I must act. But what can we do?<$00>
+<CLEAR>
+And while no good deed goes unpunished,\n
+I must act. But what can we do?
+<$00>
 
 
 //<CLEAR>君はすぐに　リンダを捜しに\n行くつもりだろ￠\nならば　手伝わせてくれ∥<$00>
-<CLEAR>Ken, you must find Linda right away! I know someone who\n
-can help.<$00>
+<CLEAR>
+Ken, you must find Linda right away! I know someone who\n
+can help.
+<$00>
 
 
 //<CLEAR>サチコ∥<$00>
-<CLEAR>Sachiko!<$00>
+<CLEAR>
+Sachiko!
+<$00>
 
 
 //<CLEAR>はい、お父様！<$00>
-<CLEAR>Yes, Father!<$00>
+<CLEAR>
+Yes, Father!
+<$00>
 
 
 //<CLEAR>私の娘の　サチコだ\nこれを　連れていってくれ<$00>
-<CLEAR>This is my daughter, Sachiko.\n
-Take her with you.<$00>
+<CLEAR>
+This is my daughter, Sachiko.\n
+Take her with you.
+<$00>
 
 
 //\n<$01>お言葉に甘えて<$0E>／<$01>お気持ちだけで<$0E><$00>
 \n
-<$01>I accept<$0E> / <$01>I refuse<$0E><$00>
+
+<$01>
+I accept
+<$0E>
+ / 
+<$01>
+I refuse
+<$0E><$00>
 
 
 //<CLEAR>いや、連れていってくれ∥\nふたりで　探したほうが\nきっと　早く見つけられる∥<$00>
-<CLEAR>No, I insist! Four eyes will find Linda faster than two!<$00>
+<CLEAR>
+No, I insist! Four eyes will find Linda faster than two!
+<$00>
 
 
 //<CLEAR>一通りの訓練は　させてある\n君の足手まといには\nならないはずだ<$00>
-<CLEAR>I promise, with her general field training, she won't be a\n
-burden.<$00>
+<CLEAR>
+I promise, with her general field training, she won't be a\n
+burden.
+<$00>
 
 
 //<CLEAR>サチコ！　ケン君の言うことを\nよーく聞いて　彼に気に入られる\nようにしなさい、わかったね？<$00>
-<CLEAR>Sachiko, listen to Ken's orders,\n
-down to the last letter. Understand?<$00>
+<CLEAR>
+Sachiko, listen to Ken's orders,\n
+down to the last letter. Understand?
+<$00>
 
 
 //<CLEAR>はい、お父様！<$00>
-<CLEAR>Yes, Father!<$00>
+<CLEAR>
+Yes, Father!
+<$00>
 
 
 //<CLEAR>サチコ！　<$00>
-<CLEAR>Sachiko!<$00>
+<CLEAR>
+Sachiko!
+<$00>
 
 
 //ケン君には\n「Ａ」までだよ\n「Ｂ」は　慎みなさい<$00>
 \n
 While with Ken, stay with "Ａ".\n
-Refrain from "Ｂ".<$00>
+Refrain from "Ｂ".
+<$00>
 
 
 //<CLEAR>はい、お父様！<$00>
-<CLEAR>Yes, Father!<$00>
+<CLEAR>
+Yes, Father!
+<$00>
 
 
 //<CLEAR>ショックだったんだろうな…\nまして　君にだけは　あの左腕を\n見せたくないと　思ったんだね<$00>
-<CLEAR>Linda was probably overcome with shock, and didn't\n
-want you in particular to see her left arm.<$00>
+<CLEAR>
+Linda was probably overcome with shock, and didn't\n
+want you in particular to see her left arm.
+<$00>
 
 
 //<CLEAR>かわいそうに……\nみんな　私の責任だな…\n本当に　すまなかった<$00>
-<CLEAR>Poor thing...  It's my sworn duty to help people. I truly\n
-regret this.<$00>
+<CLEAR>
+Poor thing...  It's my sworn duty to help people. I truly\n
+regret this.
+<$00>
 
 
 //PICT22.TIM<$00>
@@ -719,362 +1037,515 @@ PICT22.TIM<$00>
 
 #WRITE(PTR, $0030)
 //エモリ・ラボ<$00>
-Emori's Lab <$00>
+Emori's Lab 
+<$00>
 
 
 //<CLEAR>ケンは　口笛を吹いた<$12>\n<CLEAR>外で　大きな羽音が\n聞こえたような　気がした…<$12><$00>
-<CLEAR>Ken whistled.<$12>\n
-<CLEAR>Huge wings flapped in the distance... <$12><$00>
+<CLEAR>
+Ken whistled.
+<$12>
+\n
+
+<CLEAR>
+Huge wings flapped in the distance... 
+<$12><$00>
 
 
 //<CLEAR>ケンは　目立たないように\n気配を　殺した<$12>\n<CLEAR>しかし　この辺りには\nケンの迷彩に　引っ掛かるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Ken masked the party to avoid\n
-detection.<$12>\n
-<CLEAR>However, none of the animals in the\n
+<CLEAR>
+Ken masked the party to avoid\n
+detection.
+<$12>
+\n
+
+<CLEAR>
+However, none of the animals in the\n
 area were stupid enough to fall for\n
-his antics!<$12><$00>
+his antics!
+<$12><$00>
 
 
 //<CLEAR>リンダは　動物たちの\n鳴きマネをした<$12>\n<CLEAR>しかし　この辺りには\nリンダの声に　だまされるような\nマヌケな動物は　いなかった…<$12><$00>
-<CLEAR>Linda mimicked a few animal calls.<$12>\n
-<CLEAR>However, none of the animals in the\n
+<CLEAR>
+Linda mimicked a few animal calls.
+<$12>
+\n
+
+<CLEAR>
+However, none of the animals in the\n
 area were stupid enough to fall for\n
-her antics!<$12><$00>
+her antics!
+<$12><$00>
 
 
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12><$00>
-<CLEAR>The Animal Bible can't be booted here!<$12><$00>
+<CLEAR>
+The Animal Bible can't be booted here!
+<$12><$00>
 
 
 //<CLEAR>ここでは　野営できない<$12><$00>
-<CLEAR>Camp can't be set up here!<$12><$00>
+<CLEAR>
+Camp can't be set up here!
+<$12><$00>
 
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
-<CLEAR>The Navi System(NaviS) can't be booted\n
-here!<$12><$00>
+<CLEAR>
+The Navi System(NaviS) can't be booted\n
+here!
+<$12><$00>
 
 
 //<CLEAR>ああ　リンダ、私を許してくれ\n私が至らないばかりに　君には\n辛い思いをさせてしまった…<$00>
-<CLEAR>Oh, Linda! Forgive me!\n
-Surely you're here to punish me for my incompetence!<$00>
+<CLEAR>
+Oh, Linda! Forgive me!\n
+Surely you're here to punish me for my incompetence!
+<$00>
 
 
 //<CLEAR>でも　信じて欲しい！　私は\nいつも　最善を尽くしてきたし\nできることは　全てやった……<$00>
-<CLEAR>But please, believe me. I do all I can! That's all I can do!<$00>
+<CLEAR>
+But please, believe me. I do all I can! That's all I can do!
+<$00>
 
 
 //<CLEAR>なのに　決まって裏目に出る……\nお詫びには　とうてい足りないが\n君のために　薬を作っておいた<$00>
-<CLEAR>And while no good deed goes unpunished, I do have your\n
-pesticide.<$00>
+<CLEAR>
+And while no good deed goes unpunished, I do have your\n
+pesticide.
+<$00>
 
 
 //<CLEAR>少し臭うし　しばらくカユミも\n伴うが　辛抱してくれ\nそれッ！<$00>
-<CLEAR>You'll feel a little discomfort and itchiness, but please\n
-endure it, all right?<$00>
+<CLEAR>
+You'll feel a little discomfort and itchiness, but please\n
+endure it, all right?
+<$00>
 
 
 //<CLEAR>ゲぇー！　何よ、これ￠\nすっごく　クサーイ∥<$00>
-<CLEAR>Blech! What the hell is this?! It smells awful!<$00>
+<CLEAR>
+Blech! What the hell is this?! It smells awful!
+<$00>
 
 
 //<CLEAR>例の寄生虫の予防薬だよ\nさぁ　これで心配ない\n私のほうも　安心だ<$00>
-<CLEAR>A prophylactic serum to fight the parasite. I'm happy to say\n
-there's nothing left to worry about.<$00>
+<CLEAR>
+A prophylactic serum to fight the parasite. I'm happy to say\n
+there's nothing left to worry about.
+<$00>
 
 
 //<CLEAR>さて、君たちが　今日ここに\n来た理由だが……<$00>
-<CLEAR>Now, what was it you two came here to confirm?<$00>
+<CLEAR>
+Now, what was it you two came here to confirm?
+<$00>
 
 
 //<CLEAR>あの写真と　ファイルかな？\nアレで私に目星をつけた？\nそうだろ？<$00>
-<CLEAR>The files in that e-mail, I suspect. Of course that's why.<$00>
+<CLEAR>
+The files in that e-mail, I suspect. Of course that's why.
+<$00>
 
 
 //<CLEAR>で、隊長さんは　何て言ってた？\nまだ　証拠としては　不十分だと\n言われなかったかい？<$00>
-<CLEAR>And, what did your captain say? That you have no case\n
-without solid proof?<$00>
+<CLEAR>
+And, what did your captain say? That you have no case\n
+without solid proof?
+<$00>
 
 
 //<CLEAR>なのに　君たちときたら\n探偵気取りで　やってきた？\n私が尻尾を出すと期待してね<$00>
-<CLEAR>And what was I supposed to do? Give myself away to "you\n
-meddling kids"?<$00>
+<CLEAR>
+And what was I supposed to do? Give myself away to "you\n
+meddling kids"?
+<$00>
 
 
 //<CLEAR>アハハハ、甘いよ<$00>
-<CLEAR>Ahaha! How cute!<$00>
+<CLEAR>
+Ahaha! How cute!
+<$00>
 
 
 //<CLEAR>……甘いなぁ<$00>
-<CLEAR>Very cute indeed.<$00>
+<CLEAR>
+Very cute indeed.
+<$00>
 
 
 //<CLEAR>だけど私も　そろそろ\n君たちと遊ぶのに　飽きてきた…\n本当のことを　話そう<$00>
-<CLEAR>But playing cat and mouse would tire me too. I'll tell you the\n
-truth.<$00>
+<CLEAR>
+But playing cat and mouse would tire me too. I'll tell you the\n
+truth.
+<$00>
 
 
 //<CLEAR>そう、リンダ！　君の左腕を\n切ったのは　この私だ∥<$00>
-<CLEAR>Fine, Linda! The one who severed your left arm in the first\n
-place was me.<$00>
+<CLEAR>
+Fine, Linda! The one who severed your left arm in the first\n
+place was me.
+<$00>
 
 
 //<CLEAR>さあ、犯人は自白したぞ！\n次は　どうするね？\n探偵さん？<$00>
-<CLEAR>Your culprit has come clean! What next, my little detective? <$00>
+<CLEAR>
+Your culprit has come clean! What next, my little detective? 
+<$00>
 
 
 //<CLEAR>そんなの　決まって……<$00>
-<CLEAR>But why would you... ?<$00>
+<CLEAR>
+But why would you... ?
+<$00>
 
 
 //<CLEAR>ウッ……　痛い……\nケン！　お腹、痛い！<$00>
-<CLEAR>Grrk! It hurts... \n
+<CLEAR>
+Grrk! It hurts... \n
 My stomach hurts so bad!\n
-Ken, help!<$00>
+Ken, help!
+<$00>
 
 
 //<CLEAR>ああ　リンダ、私を許してくれ\n私は　またやってしまった……\nさっきの　薬だけどね……<$00>
-<CLEAR>Oh, Linda! Forgive me!\n
-I must have gotten my serums a little mixed up.<$00>
+<CLEAR>
+Oh, Linda! Forgive me!\n
+I must have gotten my serums a little mixed up.
+<$00>
 
 
 //<CLEAR>どうやら　寄生虫の予防薬と\n成長促進剤を　間違えた\nみたいなんだ<$00>
-<CLEAR>In fact, that looks more like my parasitic growth supplement!<$00>
+<CLEAR>
+In fact, that looks more like my parasitic growth supplement!
+<$00>
 
 
 //<CLEAR>……さぁ　そろそろ　来るよ！\nそれっ！　３、２、１、ＧＯ！\nＬｅｔ’ｓ　Ｄａｎｃｅ∥<$00>
-<CLEAR>You could come out\n
+<CLEAR>
+You could come out\n
 any time now...  3! 2! 1! GO!\n
-Let's dance!<$00>
+Let's dance!
+<$00>
 
 
 //<CLEAR>リンダ！　君には感謝してるよ\n思ったより　タフで\nイジメがいが　あった！<$00>
-<CLEAR>Thank you, Linda! Getting under your skin feels so much\n
-better than I imagined!<$00>
+<CLEAR>
+Thank you, Linda! Getting under your skin feels so much\n
+better than I imagined!
+<$00>
 
 
 //<CLEAR>ハァ…　ハァ…<$00>
-<CLEAR>Haah...! Haah...!<$00>
+<CLEAR>
+Haah...! Haah...!
+<$00>
 
 
 //<CLEAR>痛いだろ？　苦しいだろ？\nでもね、サチコは　その何倍も\n苦しそうだったんだ！<$00>
-<CLEAR>Does it hurt? Does it kill you inside? Well, YOU made my\n
-Sachiko feel even WORSE!<$00>
+<CLEAR>
+Does it hurt? Does it kill you inside? Well, YOU made my\n
+Sachiko feel even WORSE!
+<$00>
 
 
 //<CLEAR>さぁ次は　ダンスのお相手を\n紹介しようじゃないか！<$00>
-<CLEAR>Maybe a few dance partners will make you feel\n
-better.！<$00>
+<CLEAR>
+Maybe a few dance partners will make you feel\n
+better.！
+<$00>
 
 
 //<CLEAR>昨日の敵は　今日の友！\nゾンビになって　再デビュー！\nポンコツスマイリーの登場だ！<$00>
-<CLEAR>Yesterday's enemy is today's friend, like our zombified\n
-Three Gomi-gos here! <$00>
+<CLEAR>
+Yesterday's enemy is today's friend, like our zombified\n
+Three Gomi-gos here! 
+<$00>
 
 
 //<$12><$00>
 <$12><$00>
 
 //<CLEAR>サチコ！　私は少し疲れたよ\n先に帰るから　後でゆっくり\n結果を　聞かせてくれ<$00>
-<CLEAR>Sachiko, Papa needs a nap. Report to me once Linda dies her\n
-slow, painful death.<$00>
+<CLEAR>
+Sachiko, Papa needs a nap. Report to me once Linda dies her\n
+slow, painful death.
+<$00>
 
 
 //<CLEAR>はい、お父様！<$00>
-<CLEAR>Yes, Father!<$00>
+<CLEAR>
+Yes, Father!
+<$00>
 
 
 //<CLEAR>じゃ　ケン、\n君には　相談したいこともある\n近いうちに遊びにきたまえ<$00>
-<CLEAR>And Ken, there's something I wish we'd discuss in the near\n
-future. Come back and see me.<$00>
+<CLEAR>
+And Ken, there's something I wish we'd discuss in the near\n
+future. Come back and see me.
+<$00>
 
 
 //<CLEAR>３、２、１、撃て！<$00>
-<CLEAR>3! 2! 1! FIRE!<$00>
+<CLEAR>
+3! 2! 1! FIRE!
+<$00>
 
 
 //<CLEAR>３、２、１、撃て！<$00>
-<CLEAR>3! 2! 1! FIRE!<$00>
+<CLEAR>
+3! 2! 1! FIRE!
+<$00>
 
 
 //<CLEAR>何をするの！　１号！\nお父様に　報告するわよ\nいいのね？<$00>
-<CLEAR>What are you doing, No. 1?! You know I'll have to report this\n
-to Father.<$00>
+<CLEAR>
+What are you doing, No. 1?! You know I'll have to report this\n
+to Father.
+<$00>
 
 
 //<CLEAR>ええ、かまわないわ…<$00>
-<CLEAR>Do as you wish.<$00>
+<CLEAR>
+Do as you wish.
+<$00>
 
 
 //<CLEAR>覚悟は　できてるわ<$00>
-<CLEAR>I can handle it.<$00>
+<CLEAR>
+I can handle it.
+<$00>
 
 
 //<CLEAR>どうしたの？　１号？\nあなたの考えていることが\n私には　わからないわ<$00>
-<CLEAR>What are you saying?! What is this, No. 1?! I don't\n
-understand!<$00>
+<CLEAR>
+What are you saying?! What is this, No. 1?! I don't\n
+understand!
+<$00>
 
 
 //<CLEAR>リンダは　悪い人だって\nお父様は　教えてくれたのよ…<$00>
-<CLEAR>"Linda is an evil person!"\n
-It's as Father told us!<$00>
+<CLEAR>
+"Linda is an evil person!"\n
+It's as Father told us!
+<$00>
 
 
 //<CLEAR>わからないわ！\nそんなはず…　ないわ\nそんなの　わかりたくないわよ<$00>
-<CLEAR>I don't understand! You shouldn't...  No! I don't WANT to\n
-understand!<$00>
+<CLEAR>
+I don't understand! You shouldn't...  No! I don't WANT to\n
+understand!
+<$00>
 
 
 #WRITE(PTR, $0032)
 //クン、クンクン………？<$12>\n<CLEAR>消毒液のニオイが\nプンプンするね<$12><$00>
-Sniff... sniff, sniff?<$12>\n
-<CLEAR>It smells strongly of antiseptic here.<$12><$00>
+Sniff... sniff, sniff?
+<$12>
+\n
+
+<CLEAR>
+It smells strongly of antiseptic here.
+<$12><$00>
 
 
 //……東<$00>
-... East<$00>
+... East
+<$00>
 
 
 //……西<$00>
-... West<$00>
+... West
+<$00>
 
 
 //……南<$00>
-... South<$00>
+... South
+<$00>
 
 
 //……北<$00>
-... North<$00>
+... North
+<$00>
 
 
 //…北東<$00>
-... North-east<$00>
+... North-east
+<$00>
 
 
 //…北西<$00>
-... North-west<$00>
+... North-west
+<$00>
 
 
 //…南東<$00>
-... South-east<$00>
+... South-east
+<$00>
 
 
 //…南西<$00>
-... South-west<$00>
+... South-west
+<$00>
 
 
 //<CLEAR>……<$1D><$00>
-<CLEAR>... ... <$1D><$00>
+<CLEAR>
+... ... 
+<$1D><$00>
 
 
 //、…<$1D>に行けば<$00>
-! That's where we'll find a <$1D>.<$00>
+! That's where we'll find a 
+<$1D>
+.
+<$00>
 
 
 //直進<$00>
-For<$00>
+For
+<$00>
 
 
 //右よ<$00>
-Right<$00>
+Right
+<$00>
 
 
 //左よ<$00>
-Left<$00>
+Left
+<$00>
 
 
 //後ろ<$00>
-Back<$00>
+Back
+<$00>
 
 
 //<CLEAR>……<$1D><$00>
-<CLEAR>... ... <$1D><$00>
+<CLEAR>
+... ... 
+<$1D><$00>
 
 
 //、絶対に<$1D>∥<$00>
-wards, got it? I'm sure we'll find a <$1D> there!<$00>
+wards, got it? I'm sure we'll find a 
+<$1D>
+ there!
+<$00>
 
 
 //<CLEAR><$19><$31><$15><$53>リンダは　「女の勘」を\nはたらかせた∥<$14><$12><$00>
-<CLEAR><$19><$31><$15><$53>Linda used her woman's intuition... <$14><$12><$00>
+<CLEAR><$19><$31><$15><$53>
+Linda used her woman's intuition... 
+<$14><$12><$00>
 
 
 //<CLEAR>…ごめんね、\n今日は　勘がはたらかないわ…<$12><$00>
-<CLEAR>... Sorry. I don't have it in me today.<$12><$00>
+<CLEAR>
+... Sorry. I don't have it in me today.
+<$12><$00>
 
 
 //運命の<$00>
-Fated <$00>
+Fated 
+<$00>
 
 
 //新しい<$00>
-New <$00>
+New 
+<$00>
 
 
 //素敵な<$00>
-Great <$00>
+Great 
+<$00>
 
 
 //未知の<$00>
-Unknown <$00>
+Unknown 
+<$00>
 
 
 //何か<$00>
-things <$00>
+things 
+<$00>
 
 
 //発見<$00>
-discoveries <$00>
+discoveries 
+<$00>
 
 
 //お宝<$00>
-treasures <$00>
+treasures 
+<$00>
 
 
 //動物<$00>
-animals <$00>
+animals 
+<$00>
 
 
 //に　出会える…<$00>
-could appear.<$00>
+could appear.
+<$00>
 
 
 //が　待ってる…<$00>
-await us... <$00>
+await us... 
+<$00>
 
 
 //気がするわ∥<$00>
-are there.<$00>
+are there.
+<$00>
 
 
 //チャンスよ∥<$00>
-are in our grasp!<$00>
+are in our grasp!
+<$00>
 
 
 //今しかないわ<$00>
-could get away!<$00>
+could get away!
+<$00>
 
 
 //間違いなし∥<$00>
-are dead ahead!<$00>
+are dead ahead!
+<$00>
 
 
 //\n<$1D><$1D><$1D>\n<$1D><$12>\n<CLEAR><$00>
 \n
-<$1D><$1D><$1D>\n
-<$1D><$12>\n
+
+<$1D><$1D><$1D>
+\n
+
+<$1D><$12>
+\n
+
 <CLEAR><$00>
 
 
 //<CLEAR>自信があるの∥<$12><$00>
-<CLEAR>I swear!<$12><$00>
+<CLEAR>
+I swear!
+<$12><$00>
 
 
 //<CLEAR>自信は　ないけどね…<$12><$00>
-<CLEAR>Although, I'm not totally certain... <$12><$00>
+<CLEAR>
+Although, I'm not totally certain... 
+<$12><$00>
 
 
 //<CLEAR>絶対なんだから∥<$12><$00>
-<CLEAR>I'm absolutely certain!<$12><$00>
+<CLEAR>
+I'm absolutely certain!
+<$12><$00>
 
 
