@@ -141,8 +141,7 @@ SCENARIO C/D
 <$06>
 100
 <$04>
- NOT\n
-REACHED\n
+ NOT REACHED\n
 
 <$01>
 Åû
@@ -168,14 +167,14 @@ SCENARIO C/D
 <$06>
 120
 <$04>
-SCENARIO\n
-C/D
+SCENARIO C/D
 <$01>
 Åû
 <$0E><$08>
 4
 <$06>
-SCENARIO C
+SCENARIO\n
+C
 <$04>
  COMPLETE\n
 

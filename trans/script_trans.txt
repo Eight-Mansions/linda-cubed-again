@@ -518,7 +518,8 @@ Camp / Menu
 
 //0000_0000072A_bin\PROG.BIN|000064EF|93
 //<CLEAR><$06>スタートボタン<$04>でカーソルを「開始」に移動<$11>240<CLEAR>もう１度<$06>スタートボタン<$04>で野営実行<$11>240<$07>
-<CLEAR><$06>
+<CLEAR>
+<$06>
 START: 
 <$04>
 Highlight "Okay!"
@@ -527,8 +528,7 @@ Highlight "Okay!"
 <CLEAR>
 (Again)
 <$06>
-START:\n
-
+START:
 <$04>
 Begin camping!
 <$11>
@@ -1098,8 +1098,8 @@ Ken carefully set the Rental Trap.
 //0000_0000072A_bin\PROG.BIN|000064EF|169
 //<CLEAR>ケンは　「自前ワナ」の設置場所を\n一度に　３ヵ所しか\n覚えられそうにない…<$12>
 <CLEAR>
-Ken can only remember up to 3 Makeshift\n
-Trap locations at a time.
+Ken can only remember up to 3 Makeshift Trap locations\n
+at a time.
 <$12><$00>
 
 
@@ -1793,8 +1793,7 @@ her antics!
 //0012_00000BA8_bin\PROG.BIN|00005AE4|255
 //<CLEAR>動物図鑑は\nここでは　起動しない<$12>
 <CLEAR>
-The Animal Bible can't be booted\n
-here!
+The Animal Bible can't be booted here!
 <$12><$00>
 
 
@@ -1808,8 +1807,7 @@ Camp can't be set up here!
 //0012_00000BA8_bin\PROG.BIN|00005AE4|257
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12>
 <CLEAR>
-The Navi System(NaviS) can't be\n
-booted\n
+The Navi System(NaviS) can't be booted\n
 here!
 <$12><$00>
 
@@ -2143,8 +2141,7 @@ in Neo Kenya.
 
 <CLEAR>
 Make it a habit to check the map\n
-with the □ button, and look for\n
-blinking\n
+with the □ button, and look for blinking\n
 spots to find towns and landmarks.
 <$12><$00>
 
@@ -2705,10 +2702,8 @@ Astro Ark 1F
 
 //0031_0000360C_bin\PROG.BIN|00004CA5|469
 //ヨウコソ　箱船ヘ\n親愛ナル後継者、人類ノ皆サマ\n主人ヨリ　メッセージガ　アリマス<$12>
-WELCOME TO THE ASTRO ARK, BELOVED\n
-SUCCESSOR.\n
-OUR MASTER PREPARED A MESSAGE FOR\n
-MANKIND.
+WELCOME TO THE ASTRO ARK, BELOVED SUCCESSOR.\n
+OUR MASTER PREPARED A MESSAGE FOR MANKIND.
 <$12><$00>
 
 
@@ -3192,10 +3187,9 @@ Formatting complete!
 6Cannot save to this card.\n
 
 <$02>
-12Minimum of 2 blocks required!
+12Minimum of 2 blocks required!\n
 <$02>
-47Insert a\n
-new card or\n
+47Insert a new card or\n
 
 <$02>
 40remove excess storage\n
@@ -3240,8 +3234,7 @@ Minimum of 2 blocks required!
 //0031_0000360C_bin\PROG.BIN|000062DF|519
 //<CLEAR>ハロー∥　コチラ、テレホンサービス\nドノ　メニュー　ニ\nアクセス　シマスカ？<$12>
 <CLEAR>
-YOU HAVE REACHED THE TELEPHONE\n
-SERVICE!\n
+YOU HAVE REACHED THE TELEPHONE SERVICE!\n
 HOW CAN WE HELP YOU?
 <$12><$00>
 
@@ -3824,8 +3817,7 @@ Do not remove the card\n
 <$02>
 77or turn off the console.
 <$02>
-21Do not\n
-interrupt.
+21Do not interrupt.
 <$00>
 
 
@@ -5188,7 +5180,6 @@ DEF:
 <$06><$1E>
 @
 <$04>
-\n
 SPD:
 <$06><$1E>
 @
@@ -5530,8 +5521,7 @@ AND KILL OUR TREES."
 \n
 
 <CLEAR>
-"WE ASK THE PUBLIC TO CEASE AND\n
-DESIST."!\n
+"WE ASK THE PUBLIC TO CEASE AND DESIST."!\n
  -OZPORT PARK STAFF
 <$12><$00>
 
@@ -5591,8 +5581,7 @@ to please the eyes!
 //ＡＭＤ　１、９、９、９、年　夏　…\nこの星の最後に　ふさわしい\n単純であっけない　数字の並びだわね<$12>
 Neo Kenya will die in the summer of\n
 AMD 1999. Now, I respect going out with a\n
-bang\n
-too, but damn!
+bang too, but damn!
 <$12><$00>
 
 
@@ -5652,7 +5641,6 @@ before selling them.
 //<CLEAR>あの高級花嫁衣裳の　お値段って\nいったい<$08>4おいくらなのかしら<$08>-2？<$08>-4
 <CLEAR>
 I wonder how much they charge for that\n
-
 <$08>
 4luxury gown in there
 <$08>
@@ -6595,8 +6583,7 @@ do they, bro?
 //<CLEAR>夜襲を受けることが　絶対、ないだけ\n野営よりは　マシだと思うけどね…<$12>\n<CLEAR>たまに　物盗りはあるにしてもさ<$12>
 <CLEAR>
 Sure, sometimes possessions go missing,\n
-but you know what's cool about my\n
-tent,\n
+but you know what's cool about my tent,\n
 bro?
 <$12>
 \n
@@ -6933,8 +6920,7 @@ The cycle of nature sure is mysterious.
 //<CLEAR>そうそう　ウチはもうすぐ\n移住だから、ベビーの\nお受け取りを　お忘れなくね<$12>
 <CLEAR>
 Oh yeah, I'll be migrating soon.\n
-Don't forget to come pick up your\n
-babies!
+Don't forget to come pick up your babies!
 <$12><$00>
 
 
@@ -9322,8 +9308,7 @@ Meat/Make
 <CLEAR>
 Serving Neo Kenya 
 <$1E>
- years strong, this is\n
-Neo Kenya Bank!
+ years strong, this is Neo Kenya Bank!
 <$00>
 
 
@@ -9361,7 +9346,6 @@ Loan
 <$01>
 Repay
 <$0E>
-\n
 / 
 <$01>
 Statement
@@ -11973,8 +11957,7 @@ you're willing to spend as parts.
 \n
 
 <CLEAR>
-10 males = 1 weapon / 5 females = 1\n
-armor\n
+10 males = 1 weapon / 5 females = 1 armor\n
 3 animals = 1 hat / 2 animals = shoes
 <$12><$00>
 
@@ -12460,8 +12443,7 @@ better, and I'll have less work to do.
 
 //0047_00003FBD_bin\PROG.BIN|00005994|1637
 //隊員の業務報告を\n記録するのが　私のオシゴトよ\n<$01>記録する<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E>
-It's my job to document reports from all\n
-rangers.\n
+It's my job to document reports from all rangers.\n
 \n
 
 <$01>
@@ -13837,18 +13819,15 @@ did, all right? Now git!
 //0047_00003FBD_bin\PROG.BIN|00008CA8|1774
 //<CLEAR>さあ、気が変わらないうちに\n箱船に行って　乗員の登録を\n済ましちまいな
 <CLEAR>
-Your first order is to board the Astro\n
-Ark\n
-and register before you change your\n
-mind.
+Your first order is to board the Astro Ark\n
+and register before you change your mind.
 <$00>
 
 
 //0047_00003FBD_bin\PROG.BIN|00009591|1775
 //<CLEAR>ベン！　久しぶりだな！\nさっそくだけど　リンダが\nまた　さらわれた！
 <CLEAR>
-Ben! It's been ages! Wish I could chat\n
-more,\n
+Ben! It's been ages! Wish I could chat more,\n
 but Linda's like, kidnapped!
 <$00>
 
@@ -13933,8 +13912,8 @@ You two, take these.
 //0047_00003FBD_bin\PROG.BIN|00009591|1786
 //<CLEAR><$19><$31><$15><$53>ケンは　隊長から\n電波受信機を　受け取った<$14><$12>
 <CLEAR><$19><$31><$15><$53>
-Ken received the\n
-radar from Captain MacDonald.
+Ken received the radar\n
+from Captain MacDonald.
 <$14><$12><$00>
 
 
@@ -15997,12 +15976,7 @@ Church 2F
 //0056_00004568_bin\PROG.BIN|00000F55|2064
 //あら、結婚式の下見かしら？\nパック料金で　<$06>680<$04>￥から\nいろんなコースが　ありますわよ<$12>
 Oh, here for a wedding rehearsal? Our\n
-customized packages start at 
-<$06>
-680
-<$04>
-￥ per\n
-session!
+customized packages start at 680￥ per session!
 <$12><$00>
 
 
@@ -19299,8 +19273,7 @@ equip it!
 \n
 
 <CLEAR>
-Read the upper right corner number\n
-when looking at gear.\n
+Read the upper right corner number when looking at gear.\n
 7 = good, 2 = YIKES!
 <$12><$00>
 
@@ -24649,15 +24622,13 @@ Warehouse 2
 //0089_000059FB_bin\PROG.BIN|00000C98|2994
 //<CLEAR><$19><$31><$15><$53>ものすごい臭いの　緑色の液体が\nブクブクと　泡だっている<$14><$12>
 <CLEAR><$19><$31><$15><$53>
-A foul smelling green liquid bubbles\n
-and foams.
+A foul smelling green liquid bubbles and foams.
 <$14><$12><$00>
 
 
 //0089_000059FB_bin\PROG.BIN|00000C98|2995
 //冷凍保存マシン、稼働中デス\n異常アリマセン<$12>
-NO ABNORMALITIES IN CRYO-PRESERVATION\n
-UNIT.
+NO ABNORMALITIES IN CRYO-PRESERVATION UNIT.
 <$12><$00>
 
 
@@ -26979,16 +26950,14 @@ Hume
 //0102_00005A48_bin\PROG.BIN|00001A1B|3268
 //<CLEAR>ヒュームの攻撃∥\n鮮血まじりの　胃液が飛ぶ∥
 <CLEAR>
-Hume sprays gastric juice and fresh\n
-blood everywhere!
+Hume sprays gastric juice and fresh blood everywhere!
 <$00>
 
 
 //0102_00005A48_bin\PROG.BIN|00001A1B|3269
 //<CLEAR>ヒュームの攻撃∥\n鋭い牙が　獲物をねらう∥
 <CLEAR>
-Hume's sharp fangs go in\n
-for the kill!
+Hume's sharp fangs go in for the kill!
 <$00>
 
 
@@ -27002,8 +26971,7 @@ Hume drained dopamine from Ann's body!
 //0102_00005A48_bin\PROG.BIN|00001A1B|3271
 //<CLEAR>ヒュームの攻撃∥\n鉄拳パンチが　風を切る∥
 <CLEAR>
-Hume throws a ferocious, wind-splitting\n
-punch!
+Hume throws a ferocious, wind-splitting punch!
 <$00>
 
 
@@ -28673,8 +28641,7 @@ NE South Area
 //<CLEAR><$1C><$41>の攻撃∥\n強力な光を　全身から放った∥\n残像スパーク∥<$12>
 <CLEAR><$1C><$41>
 ∥\n
-unleashed palinopsic flashes from its\n
-body!
+unleashed palinopsic flashes from its body!
 <$12><$00>
 
 
@@ -28839,8 +28806,7 @@ Ragna Rim W Tunnel
 //<CLEAR><$1C><$41>の攻撃∥\n「グるろ　グるろ」と\n腹を鳴らした∥<$12>
 <CLEAR><$1C><$41>
 \n
-attacked, growling from the pit of its\n
-stomach!
+attacked, growling from the pit of its stomach!
 <$12><$00>
 
 
@@ -41211,34 +41177,28 @@ Mutant Emori
 //0208_00006528_bin\PROG.BIN|00001F58|4950
 //<CLEAR>変態エモリの攻撃∥\nマゼンタの粘着液を　吐いた∥
 <CLEAR>
-Mutant Emori spit out a pasty, magenta\n
-liquid!
+Mutant Emori spit out a pasty, magenta liquid!
 <$00>
 
 
 //0208_00006528_bin\PROG.BIN|00001F58|4951
 //<CLEAR>変態エモリの攻撃∥\n手のひらから　飛び出す\n飢えた　寄生虫の群れ∥
 <CLEAR>
-Mutant Emori pushed parasitic worms out\n
-from his palms!
+Mutant Emori pushed parasitic worms out from his palms!
 <$00>
 
 
 //0208_00006528_bin\PROG.BIN|00001F58|4952
 //<CLEAR>変態エモリは\n<$1C><$54>を　チラリと見た∥<$12>
 <CLEAR>
-Mutant Emori took a fleeting glimpse at\n
-
-<$1C><$54>
-!
+Mutant Emori took a fleeting glimpse at <$1C><$54>!
 <$12><$00>
 
 
 //0208_00006528_bin\PROG.BIN|00001F58|4953
 //<CLEAR>変態エモリは\n体内の寄生虫を　放出した∥
 <CLEAR>
-Mutant Emori pushed parasites from his\n
-entire body!
+Mutant Emori pushed parasites from his entire body!
 <$00>
 
 
@@ -56175,8 +56135,7 @@ BODILY DEFECTS.
 \n
 
 <CLEAR>
-THE EXPERIMENTS SUCCEEDED, AND HE\n
-COMPLETED\n
+THE EXPERIMENTS SUCCEEDED, AND HE COMPLETED\n
 HIS RESEARCH, BUT NOT IN TIME TO\n
 SAVE HIMSELF.
 <$12><$00>
@@ -57453,8 +57412,7 @@ SCENARIO C/D
 <$06>
 100
 <$04>
- NOT\n
-REACHED\n
+ NOT REACHED\n
 
 <$01>
 ◇
@@ -57480,8 +57438,7 @@ SCENARIO C/D
 <$06>
 120
 <$04>
-SCENARIO\n
-C/D
+SCENARIO C/D
 <$01>
 ◇
 <$0E><$08>
@@ -58276,8 +58233,7 @@ File Select
 <$02>
 38Load failed... 
 <$02>
-10The data may be\n
-corrupt.
+10The data may be corrupt.
 <$00>
 
 
@@ -58418,8 +58374,7 @@ Scenario
 //0391_00000181_bin\PROG.BIN|0000641C|6805
 //<CLEAR>シナリオＣを　大笑いしながら\n遊ぶために　ＡＢを先にクリアしよう\n<$01>大きなお世話だ<$0E>／<$01>じゃ、後回しだ<$0E>
 <CLEAR>
-Scenario C is best enjoyed after clearing\n
-both A + B!\n
+Scenario C is best enjoyed after clearing both A + B!\n
 
 <$01>
 I'm ready!
@@ -58433,8 +58388,7 @@ Ugh, fine...
 //0391_00000181_bin\PROG.BIN|0000641C|6806
 //<CLEAR>２回目以降のプレイじゃ　声があると\n少しダルいと思うぞ、どうする？\nナレーション　<$01>ＯＮ＿<$0E>／<$01>ＯＦＦ<$0E>
 <CLEAR>
-If this is a replay, would you like to skip\n
-cutscenes?\n
+If this is a replay, would you like to skip cutscenes?\n
 
 <$01>
 Yes
@@ -58534,8 +58488,7 @@ Defy all odds and capture
 <$06>
 100
 <$04>
- species in 1\n
-year!\n
+ species in 1 year!\n
 Mode 
 <$1E>
  
@@ -58560,8 +58513,7 @@ Difficulty
 (MODE 1)
 <$0E>
 \n
-Time flow: Fastest speed (For the\n
-masochists.)\n
+Time flow: Fastest speed (For the masochists.)\n
 
 <$09>
 6
@@ -58569,8 +58521,7 @@ masochists.)\n
 (MODE 2)
 <$0E>
 \n
-Time flow: Standard speed (Recommended\n
-by staff.)\n
+Time flow: Standard speed (Recommended by staff.)\n
 
 <$09>
 6
@@ -58578,8 +58529,7 @@ by staff.)\n
 (MODE 3)
 <$0E>
 \n
-Time flow: Slow speed (A cozy game\n
-experience.)\n
+Time flow: Slow speed (A cozy game experience.)\n
 
 <$09>
 6
@@ -58587,8 +58537,7 @@ experience.)\n
 (MODE 4)
 <$0E>
 \n
-Time flow: Slowest speed (Play for the\n
-story.)
+Time flow: Slowest speed (Play for the story.)
 <$00>
 
 
@@ -59137,13 +59086,11 @@ RED: Neither captured nor filed
 <$11>
 240
 <CLEAR><$15><$57><$15><$59>
-YELLOW:\n
-Captured, but not filed
+YELLOW: Captured, but not filed
 <$11>
 240
 <CLEAR><$15><$57>
-WHITE:\n
-Filed!
+WHITE: Filed!
 <$11>
 240
 <CLEAR><$15><$57><$15><$4B>
@@ -60932,8 +60879,8 @@ No
 //0392_000000EF_bin\PROG.BIN|00007D53|7077
 //<CLEAR>動物図鑑の　有効範囲内に\n捕獲可能な動物は　存在しない<$12>
 <CLEAR>
-There are no notable animals within\n
-range of the Animal Bible.
+There are no notable animals within range\n
+of the Animal Bible.
 <$12><$00>
 
 
@@ -62938,8 +62885,7 @@ only sees sand before them!
 //0393_0000010B_bin\PROG.BIN|00010D84|7352
 //\n茶色の泡を　口から飛ばした∥
 \n
-Brown bubbles plopped from their\n
-mouth!
+Brown bubbles plopped from their mouth!
 <$00>
 
 
@@ -62954,8 +62900,7 @@ let out a brown eruption all over!
 //0393_0000010B_bin\PROG.BIN|00010D84|7354
 //\nこう門から　悪臭を放った∥
 \n
-An awful strench bubbled from their\n
-anus.
+An awful strench bubbled from their anus.
 <$00>
 
 
@@ -63044,8 +62989,7 @@ The tail took a direct hit!
 //<CLEAR><$1C><$41>は　肘関節を外して\n尻尾のように　振り回した∥
 <CLEAR><$1C><$41>
 \n
-dislocated their elbow and swung their\n
-arm!
+dislocated their elbow and swung their arm!
 <$00>
 
 
@@ -63143,7 +63087,7 @@ hid themself in their shell!
 //<CLEAR><$1C><$41>は　カルシウムを\n体表に集めて　石化した∥
 <CLEAR><$1C><$41>
 \n
-hardened the calcium building on their\n
+hardened the calcium building on their 
 body!
 <$00>
 
@@ -63330,8 +63274,7 @@ filled the air 2 times!\n
 //0393_0000010B_bin\PROG.BIN|00010D84|7400
 //<CLEAR>しかし　道具袋の中身は\n少し　濡れただけだった…∥<$12>
 <CLEAR>
-The contents of the item bag got a bit\n
-wet.
+The contents of the item bag got a bit wet.
 <$12><$00>
 
 
@@ -63512,8 +63455,7 @@ BP
 //0393_0000010B_bin\PROG.BIN|00010D84|7424
 //<CLEAR><$1C><$41>の全身を\n紫の液体が　包み込んだ∥<$12>
 <CLEAR><$1C><$41>
-'s entire body was wrapped up in a\n
-purple gel!
+'s entire body was wrapped up in a purple gel!
 <$12><$00>
 
 
@@ -63541,8 +63483,7 @@ purple gel!
 //0393_0000010B_bin\PROG.BIN|00010D84|7428
 //\nブルブルと　喉を震わせた\n耳をつんざく　<$1C><$61>∥
 \n
-A tremble, a throat quiver, a split\n
-eardrum... 
+A tremble, a throat quiver, a split eardrum... 
 <$1C><$61>
 !
 <$00>
@@ -65613,9 +65554,7 @@ No
 //0394_000001C6_bin\PROG.BIN|000070CD|7568
 //<CLEAR>ステータス設定します\n<$01><$1D>フェ<$0E>　<$01><$1D>迷走<$0E>　<$01><$1D>催涙<$0E>　<$01><$1D>粘着<$0E>　<$01><$1D>猛毒<$0E>
 <CLEAR>
-Add\n
-status:\n
-
+Add status:\n
 <$01><$1D>
 Pheromonal
 <$0E><$01><$1D>
