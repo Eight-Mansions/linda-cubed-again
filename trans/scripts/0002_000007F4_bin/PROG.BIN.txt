@@ -816,18 +816,12 @@ Camp / Menu
 
 
 //<CLEAR><$06>スタートボタン<$04>でカーソルを「開始」に移動<$11>240<CLEAR>もう１度<$06>スタートボタン<$04>で野営実行<$11>240<$07><$00>
-<CLEAR><$06>
-START: 
-<$04>
-Highlight "Okay!"
+<CLEAR>
+START: Highlight "Okay!"
 <$11>
 240
 <CLEAR>
-(Again)
-<$06>
-START:
-<$04>
-Begin camping!
+(Again) START: Begin camping!
 <$11>
 240
 <$07><$00>
@@ -840,7 +834,7 @@ Begin camping!
 <$15><$57><$1D><$02>
 50
 <$01><$1D>
-Sleep
+寝＿る＿
 <$0E>
 　
 <$01><$1D>
