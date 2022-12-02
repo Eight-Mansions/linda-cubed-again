@@ -164,14 +164,16 @@ here!
 <CLEAR><$06>
 Ten
 <$04>
- or so years ago, a stimulant known as\n
-Hustle Ⅱ boomed among hunters. 
+ or so years ago,\n
+a stimulant known as Hustle Ⅱ\n
+boomed among hunters. 
 <$12>
 \n
 
 <CLEAR>
 A single drop of Hustle Ⅱ could boost\n
-your strength to take on a 
+your strength enough to take on a\n
+
 <$1B>
 rhino or a 
 <$1B>
@@ -181,8 +183,8 @@ wolf!
 
 <CLEAR>
 Everyone was downing it, even after\n
-learning that it fries the brain and\n
-body.\n
+learning that it fries the brain\n
+and body.\n
 
 <CLEAR>
 Hunting is just that competitive... 
@@ -191,19 +193,19 @@ Hunting is just that competitive...
 
 //今はこの病院も　患者より医者が\n多いくらいなんだけど　ハッスルⅡの\n全盛期は　凄まじいモンだったわよ<$12>\n<CLEAR>だってベッドが足んなくて　ここの\n廊下に　患者が　<$06>200<$04>人くらい\nマットもなしで　ころがってたものね<$12><$00>
 This hospital has more doctors than\n
-patients now, but you should've seen it\n
-before!
+patients now, but you should've seen\n
+it before!
 <$12>
 \n
 
 <CLEAR>
 When Hustle Ⅱ was legal, there weren't\n
-enough beds. We had maybe 
+enough beds. We had maybe
 <$06>
 200
 <$04>
-\n
-patients on mats in the hall!
+patients\n
+sprawled on mats in the hall!
 <$12><$00>
 
 
@@ -845,11 +847,13 @@ Ken acquired
 
 #WRITE(PTR, $002A)
 //個<$00>
- <$00>
+  
+<$00>
 
 
 //匹<$00>
- <$00>
+  
+<$00>
 
 
 //<$1D>を<$1D>ます\n<$06><$19><$31><$01><$1A>01<$0E><$15><$53><$19><$30><$04>／<$14><$1E>034<$15><$53><$1D><$14><$02>112<$19><$32><$1E>40<$19><$30><$15><$53>￥<$00>
@@ -858,9 +862,7 @@ Ken acquired
 `
 <$06><$19><$31><$01><$1A>
 01
-<$0E><$15><$53><$19><$30><$04><$06>
- 
-<$04>
+<$0E><$15><$53><$19><$30><$04><$06><$04>
 /
 <$14><$1E>
 034
@@ -967,8 +969,8 @@ Exit
 
 //<CLEAR>薬が切れたら、いつでも　どうぞ<$12><$00>
 <CLEAR>
-Whenever you want drugs, you know\n
-where to find us!
+Whenever you want drugs,\n
+you know where to find us!
 <$12><$00>
 
 

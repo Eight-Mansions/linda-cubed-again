@@ -912,11 +912,13 @@ x\n
 
 
 //個<$00>
- <$00>
+  
+<$00>
 
 
 //匹<$00>
- <$00>
+  
+<$00>
 
 
 //<$1D>を<$1D>ます\n<$06><$19><$31><$01><$1A>01<$0E><$15><$53><$19><$30><$04>／<$14><$1E>034<$15><$53><$1D><$14><$02>112<$19><$32><$1E>40<$19><$30><$15><$53>￥<$00>
@@ -925,9 +927,7 @@ x\n
 `
 <$06><$19><$31><$01><$1A>
 01
-<$0E><$15><$53><$19><$30><$04><$06>
- 
-<$04>
+<$0E><$15><$53><$19><$30><$04><$06><$04>
 /
 <$14><$1E>
 034
@@ -1333,8 +1333,8 @@ The item bag is full!
 
 //<CLEAR>次は凄いヤツを　仕入れておきますから\nこりずに　また、どうぞ<$12><$00>
 <CLEAR>
-Don't you worry,\n
-I'll have an even finer stock next time!
+Don't you worry, I'll have an\n
+even finer selection next time!
 <$12><$00>
 
 
@@ -1443,7 +1443,7 @@ Meat Market
 //<CLEAR>毎度どーも！　食肉！　薬肉！　毒肉！\n今日は　何にしますか？\n<$01>取引する<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
 <CLEAR>
 Good day, Sir!\n
-You want meats? I've got meats!\n
+You want meats? We've gottem!\n
 
 <$01>
 Shop
@@ -1538,7 +1538,7 @@ Items
 
 //<CLEAR>日用雑貨から　掘りだし物まで\nなんでも扱う　道具屋です\n<$01>取引する<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
 <CLEAR>
-We've got your essentials at great prices!\n
+We've got essentials at great prices!\n
 
 <$01>
 Shop
@@ -1694,7 +1694,8 @@ Arena Pay
 <CLEAR>
 Serving Neo Kenya 
 <$1E>
- years strong, this is Neo Kenya Bank!
+ years strong,\n
+this is Neo Kenya Bank!
 <$00>
 
 
@@ -1813,8 +1814,8 @@ Balance:
 
 //\nそれでも　お引出しになりたい？？\nそれは　強盗って言うんですよ<$12><$00>
 \n
-Withdrawing more than that? That's what\n
-we call "robbery".
+Withdrawing more than you have?\n
+That's what we call "robbery".
 <$12><$00>
 
 
@@ -1871,9 +1872,9 @@ Additional loans cannot be taken.
 
 //<CLEAR>死神衝突まで　１年を切りましたので\n融資は　終了させていただきました\nご了承ください<$12><$00>
 <CLEAR>
-With less than a year before the Grim\n
-Reaper's impact, all loans have been\n
-terminated.
+With less than a year before the\n
+Grim Reaper's impact, all loans\n
+have been terminated.
 <$12><$00>
 
 
@@ -1893,7 +1894,7 @@ How much will you borrow?\n
 
 //<CLEAR>融資額＿<$1E>40￥ですと　融資条件は\n季節利子<$1E>40￥　返済期限は来年<$1D>\n<$01>それでＯＫ<$0E>／<$01>融資額変更<$0E>／<$01>やめとく！<$0E><$00>
 <CLEAR>
-Great! That's 
+That'll be 
 <$1E>
 40￥ with seasonal interest.\n
 Repayment starts at 
@@ -2002,8 +2003,8 @@ may adopt.
 \n
 
 <CLEAR>
-You may have money, but you've sadly\n
-hit the adoption cap.\n
+You may have the money, but you've\n
+sadly hit the adoption cap.\n
 Let that be a lesson to you.
 <$12><$00>
 
@@ -2203,32 +2204,32 @@ Exit
 
 //<CLEAR>意外にね…　客は女が多いんですねぇ\n月に１度　必ず来る人もいますねぇ<$12><$00>
 <CLEAR>
-Surprisingly... a lot of my clients are women.\n
-There are customers who visit once a\n
-month as well.
+Surprisingly... a lot of my\n
+subjects here are female.\n
+I've got customers who visit\n
+once a month like clockwork.
 <$12><$00>
 
 
 //<CLEAR>バラしてみて　何か出ても出なくても\nそいつの肉は　俺の手間賃ですゼ\nさぁ、どいつから　いきましょうねぇ<$12><$00>
 <CLEAR>
-Even if there's no loot,\n
-I keep the animal cadaver as payment,\n
-understand?
+Even if there's no loot, I keep the\n
+animal cadaver as payment, understand?
 <$12><$00>
 
 
 //<CLEAR>で、どいつの腹から　裂きましょうねぇ\n個人的には　かわいい子供の動物を\n解体するのが　好きなんですがねぇ<$12><$00>
 <CLEAR>
-So, what am I ripping today?\n
-Personally, I like working on cute animal\n
-babies.
+So, what animal am I ripping today?\n
+Personally, I like plucking away\n
+at the little baby ones.
 <$12><$00>
 
 
 //<CLEAR>おっと、道具袋がいっぱいじゃ\nなんか出てきても渡せないねぇ<$12><$00>
 <CLEAR>
-Uh-oh! I can't give you treasure when\n
-you're item bag's full!
+Uh-oh! I can't give you the loot\n
+when you're item bag's full!
 <$12><$00>
 
 
@@ -2301,7 +2302,7 @@ Ken took\n
 
 //<CLEAR><$1D>を　見つけられると\n思ったけど　何もないねぇ<$12><$00>
 <CLEAR>
-I thought I saw a \n
+I thought I saw a\n
 
 <$1D>
  in there,\n

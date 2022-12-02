@@ -194,29 +194,28 @@ while you're here and file that!
 
 //<CLEAR>こづかいが　足りなくなったら\nトランスカーゴを　覗いてみな<$12>\n<CLEAR>使い道のない動物が　１匹や２匹\n必ずいるはずだから　そいつを\n俺に　売ればいいんだよ<$12><$00>
 <CLEAR>
-If you're short on cash, check your\n
-trans-cargo Unit(TCU) for any animals you\n
-don't need.
+If you're short on cash,\n
+check your trans-cargo Unit(TCU)\n
+for any animals you don't need.
 <$12>
 \n
 
 <CLEAR>
 Selling 1 or 2 can make huge difference for\n
-both you and me! Heck, I'm always\n
-buying!
+both you and me! Heck, I'm always buying!
 <$12><$00>
 
 
 //武器や肉の値段と　その強さや\n回復力は　ほとんど一致してねぇよ<$12>\n<CLEAR>だいたいが　一度も狩りなんか\nやったことのない商人が　つけた値段が\n実状に合う　道理がないモンな<$12><$00>
 It's the same for both meat and\n
-equipment: the higher its quality, the higher\n
-its price.
+equipment: the higher its quality,\n
+the higher its price.
 <$12>
 \n
 
 <CLEAR>
 What sucks is, no one hiking those prices\n
-has hunted a day in their life!
+has hunted for a day in their life!
 <$12><$00>
 
 
@@ -242,11 +241,13 @@ endured.
 
 #WRITE(PTR, $0020)
 //個<$00>
- <$00>
+  
+<$00>
 
 
 //匹<$00>
- <$00>
+  
+<$00>
 
 
 //<$1D>を<$1D>ます\n<$06><$19><$31><$01><$1A>01<$0E><$15><$53><$19><$30><$04>／<$14><$1E>034<$15><$53><$1D><$14><$02>112<$19><$32><$1E>40<$19><$30><$15><$53>￥<$00>
@@ -255,9 +256,7 @@ endured.
 `
 <$06><$19><$31><$01><$1A>
 01
-<$0E><$15><$53><$19><$30><$04><$06>
- 
-<$04>
+<$0E><$15><$53><$19><$30><$04><$06><$04>
 /
 <$14><$1E>
 034
@@ -464,7 +463,7 @@ Meat Market
 //<CLEAR>毎度どーも！　食肉！　薬肉！　毒肉！\n今日は　何にしますか？\n<$01>取引する<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
 <CLEAR>
 Good day, Sir!\n
-You want meats? I've got meats!\n
+You want meats? We've gottem!\n
 
 <$01>
 Shop
@@ -641,10 +640,11 @@ Sniff... sniff, sniff?
 \n
 
 <CLEAR><$1D>
- scent's filling the air. You know, I could go\n
-for some 
+ scent's filling the air.\n
+You know, I could go for some\n
+
 <$1D>
- !
+!
 <$12><$00>
 
 

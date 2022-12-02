@@ -412,8 +412,8 @@ may adopt.
 \n
 
 <CLEAR>
-You may have money, but you've sadly\n
-hit the adoption cap.\n
+You may have the money, but you've\n
+sadly hit the adoption cap.\n
 Let that be a lesson to you.
 <$12><$00>
 
@@ -463,11 +463,13 @@ No
 <$16><$01><$1D><$02>96<$0E>　<$15><$53><$1E>18<$14><$04><$02>140<$01><$1D><$02>236<$0E>　<$15><$53><$1E>18<$14><$00>
 
 //個<$00>
- <$00>
+  
+<$00>
 
 
 //匹<$00>
- <$00>
+  
+<$00>
 
 
 //<$1D>を<$1D>ます\n<$06><$19><$31><$01><$1A>01<$0E><$15><$53><$19><$30><$04>／<$14><$1E>034<$15><$53><$1D><$14><$02>112<$19><$32><$1E>40<$19><$30><$15><$53>￥<$00>
@@ -476,9 +478,7 @@ No
 `
 <$06><$19><$31><$01><$1A>
 01
-<$0E><$15><$53><$19><$30><$04><$06>
- 
-<$04>
+<$0E><$15><$53><$19><$30><$04><$06><$04>
 /
 <$14><$1E>
 034
@@ -951,33 +951,34 @@ Exit
 
 //<CLEAR>お金が　足りないようですね<$12><$00>
 <CLEAR>
-You can't afford this, can you.
+I don't think you can afford this...
 <$12><$00>
 
 
 //<CLEAR>お客様、戦えなくなった　猟犬のＨＰは\n宿泊や野営じゃ　戻りませんけど…\n<$01>知ってるよ<$0E>／<$01>ホントかよ<$0E><$00>
 <CLEAR>
-It's regrettable, but dogs will\n
-not recover HP in hotels or camps.\n
+If only dogs could recover HP\n
+HP in hotels or camps too...\n
 
 <$01>
-I know that
+If only...
 <$0E>
  / 
 <$01>
-Really?!
+They can't?!
 <$0E><$00>
 
 
 //<CLEAR>さしでがましいことを　申し上げ\nたいへん　失礼いたしました\nでは　ごゆっくり<$12><$00>
 <CLEAR>
-Ah, I see. Please forgive my outburst.
+Indeed. Please forgive my outburst.
 <$12><$00>
 
 
 //<CLEAR>専門のお医者さまを　お捜しになって\nなるべく早く\n治療して　さしあげてください<$12><$00>
 <CLEAR>
-Yes. Always seek a vet treat your dogs.
+They can't, indeed.\n
+Always seek a vet treat your dogs.
 <$12><$00>
 
 

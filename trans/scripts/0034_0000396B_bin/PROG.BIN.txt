@@ -101,30 +101,30 @@ here!
 
 
 //私らみたいに　気ままに野外で\n生活してた　ビースチャンには\n市民ナンバーのない者も　多いのよ<$12>\n<CLEAR>市民ナンバーがないとね、脱出船に\n乗るのも　空席待ち…　新しい星に\n着いても　生活保証はなし…<$12>\n<CLEAR>まあ　今と大差ないわけだから\n何とかなるとは　思ってんだけどね<$12><$00>
-Since Beastians like me\n
-used to live off the grid,\n
-a lot of us don't have citizen IDs.
+Since Beastians like me used\n
+to live off the grid, a lot\n
+of us don't have citizen IDs.
 <$12>
 \n
 
 <CLEAR>
-If you don't have an ID,\n
-you'll have to wait for open seats\n
-to board the migration shuttles...
+If you don't have an ID, you'll\n
+have to wait for open seats before\n
+you can board a migration shuttle...
 <$12>
 \n
 
 <CLEAR>
-... and even after you land\n
-on the new planet,\n
-you're not promised a livelihood.
+... and even if you're lucky enough\n
+to get to a new planet, you're not\n
+promised a new livelihood there.
 <$12>
 \n
 
 <CLEAR>
-That isn't much different\n
-from life here already,\n
-so I'm sure it'll work out somehow.
+It's no different from how we were\n
+screwed over out here, so I'm sure\n
+we'll all make due somehow.
 <$12><$00>
 
 
@@ -433,17 +433,15 @@ Exit
 
 //<CLEAR>どこで寝たって　見る夢は\nたいして　かわりはないと思うよ<$12><$00>
 <CLEAR>
-No matter where we sleep,\n
-our dreams never change,\n
-do they, bro?
+No matter where we sleep, our dreams\n
+dreams never change,do they, bro?
 <$12><$00>
 
 
 //<CLEAR>夜襲を受けることが　絶対、ないだけ\n野営よりは　マシだと思うけどね…<$12>\n<CLEAR>たまに　物盗りはあるにしてもさ<$12><$00>
 <CLEAR>
-Sure, sometimes possessions go missing,\n
-but you know what's cool about my tent,\n
-bro?
+Sure, sometimes stuff goes missing in here,\n
+but you know what's cool about my tent, bro?
 <$12>
 \n
 
@@ -544,17 +542,19 @@ catfish pool underground?
 \n
 
 <CLEAR>
-That'd be siiick... 
+That'd be nuuuts... 
 <$12><$00>
 
 
 #WRITE(PTR, $002E)
 //個<$00>
- <$00>
+  
+<$00>
 
 
 //匹<$00>
- <$00>
+  
+<$00>
 
 
 //<$1D>を<$1D>ます\n<$06><$19><$31><$01><$1A>01<$0E><$15><$53><$19><$30><$04>／<$14><$1E>034<$15><$53><$1D><$14><$02>112<$19><$32><$1E>40<$19><$30><$15><$53>￥<$00>
@@ -563,9 +563,7 @@ That'd be siiick...
 `
 <$06><$19><$31><$01><$1A>
 01
-<$0E><$15><$53><$19><$30><$04><$06>
- 
-<$04>
+<$0E><$15><$53><$19><$30><$04><$06><$04>
 /
 <$14><$1E>
 034
@@ -765,8 +763,8 @@ The item bag is full!
 
 //<CLEAR>次は凄いヤツを　仕入れておきますから\nこりずに　また、どうぞ<$12><$00>
 <CLEAR>
-Don't you worry,\n
-I'll have an even finer stock next time!
+Don't you worry, I'll have an\n
+even finer selection next time!
 <$12><$00>
 
 
@@ -906,33 +904,34 @@ Exit
 
 //<CLEAR>お金が　足りないようですね<$12><$00>
 <CLEAR>
-You can't afford this, can you.
+I don't think you can afford this...
 <$12><$00>
 
 
 //<CLEAR>お客様、戦えなくなった　猟犬のＨＰは\n宿泊や野営じゃ　戻りませんけど…\n<$01>知ってるよ<$0E>／<$01>ホントかよ<$0E><$00>
 <CLEAR>
-It's regrettable, but dogs will\n
-not recover HP in hotels or camps.\n
+If only dogs could recover HP\n
+HP in hotels or camps too...\n
 
 <$01>
-I know that
+If only...
 <$0E>
  / 
 <$01>
-Really?!
+They can't?!
 <$0E><$00>
 
 
 //<CLEAR>さしでがましいことを　申し上げ\nたいへん　失礼いたしました\nでは　ごゆっくり<$12><$00>
 <CLEAR>
-Ah, I see. Please forgive my outburst.
+Indeed. Please forgive my outburst.
 <$12><$00>
 
 
 //<CLEAR>専門のお医者さまを　お捜しになって\nなるべく早く\n治療して　さしあげてください<$12><$00>
 <CLEAR>
-Yes. Always seek a vet treat your dogs.
+They can't, indeed.\n
+Always seek a vet treat your dogs.
 <$12><$00>
 
 

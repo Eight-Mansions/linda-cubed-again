@@ -862,42 +862,45 @@ Exit
 
 //<CLEAR>お金が　足りないようですね<$12><$00>
 <CLEAR>
-You can't afford this, can you.
+I don't think you can afford this...
 <$12><$00>
 
 
 //<CLEAR>お客様、戦えなくなった　猟犬のＨＰは\n宿泊や野営じゃ　戻りませんけど…\n<$01>知ってるよ<$0E>／<$01>ホントかよ<$0E><$00>
 <CLEAR>
-It's regrettable, but dogs will\n
-not recover HP in hotels or camps.\n
+If only dogs could recover HP\n
+HP in hotels or camps too...\n
 
 <$01>
-I know that
+If only...
 <$0E>
  / 
 <$01>
-Really?!
+They can't?!
 <$0E><$00>
 
 
 //<CLEAR>さしでがましいことを　申し上げ\nたいへん　失礼いたしました\nでは　ごゆっくり<$12><$00>
 <CLEAR>
-Ah, I see. Please forgive my outburst.
+Indeed. Please forgive my outburst.
 <$12><$00>
 
 
 //<CLEAR>専門のお医者さまを　お捜しになって\nなるべく早く\n治療して　さしあげてください<$12><$00>
 <CLEAR>
-Yes. Always seek a vet treat your dogs.
+They can't, indeed.\n
+Always seek a vet treat your dogs.
 <$12><$00>
 
 
 //個<$00>
- <$00>
+  
+<$00>
 
 
 //匹<$00>
- <$00>
+  
+<$00>
 
 
 //<$1D>を<$1D>ます\n<$06><$19><$31><$01><$1A>01<$0E><$15><$53><$19><$30><$04>／<$14><$1E>034<$15><$53><$1D><$14><$02>112<$19><$32><$1E>40<$19><$30><$15><$53>￥<$00>
@@ -906,9 +909,7 @@ Yes. Always seek a vet treat your dogs.
 `
 <$06><$19><$31><$01><$1A>
 01
-<$0E><$15><$53><$19><$30><$04><$06>
- 
-<$04>
+<$0E><$15><$53><$19><$30><$04><$06><$04>
 /
 <$14><$1E>
 034
@@ -1115,7 +1116,7 @@ Meat Market
 //<CLEAR>毎度どーも！　食肉！　薬肉！　毒肉！\n今日は　何にしますか？\n<$01>取引する<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
 <CLEAR>
 Good day, Sir!\n
-You want meats? I've got meats!\n
+You want meats? We've gottem!\n
 
 <$01>
 Shop
@@ -1588,21 +1589,21 @@ God bless you and your family.
 //<CLEAR>あなたと　あなたの家族\nそして　子孫にも　未来永劫、\n幸あらんことを　お祈りします<$12><$00>
 <CLEAR>
 God bless you, your family,\n
-your children and your childrens'\n
-children.
+and all of your descendants.\n
+
 <$12><$00>
 
 
 //<CLEAR>今、あなたが寄付したお金を\nどうやって　かせいだかについては…<$12>\n<CLEAR>きっと　神様も見てなかったことに\nしてくださると　思いますよ\n良かったですね<$12><$00>
 <CLEAR>
-Ask yourself, how'd you get the money\n
-you donated just now?
+Ask yourself, how'd you get the\n
+money that you donated just now?
 <$12>
 \n
 
 <CLEAR>
-God's giving someone a little special\n
-treatment, I'll bet.\n
+God's giving someone a little\n
+special treatment, I'll bet.\n
 But that's good too!
 <$12><$00>
 
@@ -1619,8 +1620,8 @@ Is this... what they call\n
 
 <CLEAR>
 To see someone, who by all rights\n
-would not have much, be so generous\n
-brings me to tears!
+would not have much, be so generous...\n
+It brings me to tears!
 <$12>
 \n
 
@@ -1629,7 +1630,7 @@ Is
 <$06>
 100,000
 <$04>
-￥ a fair price to you?
+￥ a fair amount to you?
 <$12><$00>
 
 

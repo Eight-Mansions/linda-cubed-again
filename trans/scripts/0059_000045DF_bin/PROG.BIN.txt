@@ -93,40 +93,44 @@ here!
 
 //<CLEAR>あんたの御先祖が　<$1B>ハイエナなら\n話は別だが　腐った肉は\n口にしないほうが　いいよ<$12>\n<CLEAR>まあ、死ぬことは　滅多にないが\nイイ歳して　汚れたパンツの\n洗濯なんて　イヤだろ？<$12><$00>
 <CLEAR>
-Unless you come from a long line of 
+Unless you come from a long line\n
+of 
 <$1B>
-hyenas,\n
-you should never eat Rotten Meat!
+hyenas, you should never eat\n
+Rotten Meat!
 <$12>
 \n
 
 <CLEAR>
-It shouldn't kill you or anything, but\n
-you're the one who'll have to wash the\n
-diarrhea out of your pants.
+It wouldn't kill you or anything,\n
+but you don't want to be the guy\n
+washing diarrhea out of your pants.
 <$12><$00>
 
 
 //あっ！　あんたが　リンダと一緒に\n箱船に乗る　ケンさんだね！\nリンダから　噂は聞いてるよ！<$12>\n<CLEAR>若いのに　もう３レベルなんだって∥\nいや　大したモンだよ<$12><$00>
-Ahhh, you must be Ken! Linda's told us so\n
-much about you, and that you\n
+Ahhh, you must be Ken! Linda's told\n
+us so much about you, and that you\n
 volunteered to sail with her!
 <$12>
 \n
 
 <CLEAR>
-She says you're already at LVL 3! Really, at\n
-your age?! We're all so impressed!
+She says you're already at LVL 3!\n
+Really, at your age?!\n
+We're all so impressed!
 <$12><$00>
 
 
 #WRITE(PTR, $001E)
 //個<$00>
- <$00>
+  
+<$00>
 
 
 //匹<$00>
- <$00>
+  
+<$00>
 
 
 //<$1D>を<$1D>ます\n<$06><$19><$31><$01><$1A>01<$0E><$15><$53><$19><$30><$04>／<$14><$1E>034<$15><$53><$1D><$14><$02>112<$19><$32><$1E>40<$19><$30><$15><$53>￥<$00>
@@ -135,9 +139,7 @@ your age?! We're all so impressed!
 `
 <$06><$19><$31><$01><$1A>
 01
-<$0E><$15><$53><$19><$30><$04><$06>
- 
-<$04>
+<$0E><$15><$53><$19><$30><$04><$06><$04>
 /
 <$14><$1E>
 034
@@ -344,7 +346,7 @@ Meat Market
 //<CLEAR>毎度どーも！　食肉！　薬肉！　毒肉！\n今日は　何にしますか？\n<$01>取引する<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
 <CLEAR>
 Good day, Sir!\n
-You want meats? I've got meats!\n
+You want meats? We've gottem!\n
 
 <$01>
 Shop
@@ -635,10 +637,11 @@ Sniff... sniff, sniff?
 \n
 
 <CLEAR><$1D>
- scent's filling the air. You know, I could go\n
-for some 
+ scent's filling the air.\n
+You know, I could go for some\n
+
 <$1D>
- !
+!
 <$12><$00>
 
 

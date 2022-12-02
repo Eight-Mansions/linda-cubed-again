@@ -114,8 +114,8 @@ you're willing to spend as parts.
 
 
 //新しい装備を　手に入れたら\n忘れないうちに　<$06>L2<$04>ボタン押して\nすぐ　装備すること！<$12>\n<CLEAR>うちのダンナ、「装備していきますか」\nなんて　口がさけても言わないわよ<$12>\n<CLEAR>ヘンな習慣つけると　自分で装備を\n作った時に　つけるの忘れる人が\nけっこう　多いんだってね<$12><$00>
-When you buy equipment, don't forget to\n
-press L2 and equip it right away!
+When you buy equipment, don't forget\n
+to press L2 and equip it right away!
 <$12>
 \n
 
@@ -134,18 +134,20 @@ equipment on the very moment you make it.
 
 //この星って　けっこう、ボる店が\n多いんだよな…　早く自分で装備の\n加工が　できるようになりたいよ<$12><$00>
 There are so many craft shops in the\n
-world, you should take full advantage of\n
-them!
+world, you should take full advantage\n
+of them!
 <$12><$00>
 
 
 #WRITE(PTR, $001E)
 //個<$00>
- <$00>
+  
+<$00>
 
 
 //匹<$00>
- <$00>
+  
+<$00>
 
 
 //<$1D>を<$1D>ます\n<$06><$19><$31><$01><$1A>01<$0E><$15><$53><$19><$30><$04>／<$14><$1E>034<$15><$53><$1D><$14><$02>112<$19><$32><$1E>40<$19><$30><$15><$53>￥<$00>
@@ -154,9 +156,7 @@ them!
 `
 <$06><$19><$31><$01><$1A>
 01
-<$0E><$15><$53><$19><$30><$04><$06>
- 
-<$04>
+<$0E><$15><$53><$19><$30><$04><$06><$04>
 /
 <$14><$1E>
 034
@@ -356,8 +356,8 @@ The item bag is full!
 
 //<CLEAR>次は凄いヤツを　仕入れておきますから\nこりずに　また、どうぞ<$12><$00>
 <CLEAR>
-Don't you worry,\n
-I'll have an even finer stock next time!
+Don't you worry, I'll have an\n
+even finer selection next time!
 <$12><$00>
 
 
@@ -463,10 +463,11 @@ Sniff... sniff, sniff?
 \n
 
 <CLEAR><$1D>
- scent's filling the air. You know, I could go\n
-for some 
+ scent's filling the air.\n
+You know, I could go for some\n
+
 <$1D>
- !
+!
 <$12><$00>
 
 

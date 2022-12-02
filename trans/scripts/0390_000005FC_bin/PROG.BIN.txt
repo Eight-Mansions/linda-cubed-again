@@ -1785,7 +1785,7 @@ Then come to... Para... something.
 
 <CLEAR>
 Para... Para... \n
-Para... ?
+Para...?
 <$12>
 \n
 
@@ -2376,8 +2376,8 @@ Dogyf Heights Gate 2F
 
 //<CLEAR>愚かな飼い主の犠牲になった　多くの犬の\n冥福のために　ご寄付をお願いします<$00>
 <CLEAR>
-Donate. Sooth the souls of dogs lost at the\n
-hands of their owners.
+Donate. Sooth the souls of dogs lost\n
+at the hands of their owners.
 <$00>
 
 
@@ -2685,11 +2685,13 @@ treasures remain unseen.
 
 #WRITE(PTR, $008E)
 //個<$00>
- <$00>
+  
+<$00>
 
 
 //匹<$00>
- <$00>
+  
+<$00>
 
 
 //<$1D>を<$1D>ます\n<$06><$19><$31><$01><$1A>01<$0E><$15><$53><$19><$30><$04>／<$14><$1E>034<$15><$53><$1D><$14><$02>112<$19><$32><$1E>40<$19><$30><$15><$53>￥<$00>
@@ -2698,9 +2700,7 @@ treasures remain unseen.
 `
 <$06><$19><$31><$01><$1A>
 01
-<$0E><$15><$53><$19><$30><$04><$06>
- 
-<$04>
+<$0E><$15><$53><$19><$30><$04><$06><$04>
 /
 <$14><$1E>
 034
@@ -3707,7 +3707,8 @@ THE NK PSYCHIC HOTLINE
 
 //<CLEAR>タダイマ　<$1D>　ヲ\nヨビダシテイマス…　…　…　…<$12><$00>
 <CLEAR>
-NOW FORWARDING YOU TO 
+NOW FORWARDING YOU TO\n
+
 <$1D>
 ... 
 <$12><$00>
@@ -4933,21 +4934,21 @@ God bless you and your family.
 //<CLEAR>あなたと　あなたの家族\nそして　子孫にも　未来永劫、\n幸あらんことを　お祈りします<$12><$00>
 <CLEAR>
 God bless you, your family,\n
-your children and your childrens'\n
-children.
+and all of your descendants.\n
+
 <$12><$00>
 
 
 //<CLEAR>今、あなたが寄付したお金を\nどうやって　かせいだかについては…<$12>\n<CLEAR>きっと　神様も見てなかったことに\nしてくださると　思いますよ\n良かったですね<$12><$00>
 <CLEAR>
-Ask yourself, how'd you get the money\n
-you donated just now?
+Ask yourself, how'd you get the\n
+money that you donated just now?
 <$12>
 \n
 
 <CLEAR>
-God's giving someone a little special\n
-treatment, I'll bet.\n
+God's giving someone a little\n
+special treatment, I'll bet.\n
 But that's good too!
 <$12><$00>
 
@@ -4964,8 +4965,8 @@ Is this... what they call\n
 
 <CLEAR>
 To see someone, who by all rights\n
-would not have much, be so generous\n
-brings me to tears!
+would not have much, be so generous...\n
+It brings me to tears!
 <$12>
 \n
 
@@ -4974,7 +4975,7 @@ Is
 <$06>
 100,000
 <$04>
-￥ a fair price to you?
+￥ a fair amount to you?
 <$12><$00>
 
 

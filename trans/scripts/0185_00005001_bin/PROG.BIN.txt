@@ -124,16 +124,16 @@ here!
 //他の町の<$1B>ナマズより　色ツヤが\n妙に　いいと思わんかね？<$12>\n<CLEAR>なにしろ他じゃ　あまり喰わさん肉を\nこいつらは　タラフク喰っとるでなぁ\nヒヒヒヒヒヒ…<$12><$00>
 The sheen on the 
 <$1B>
-catfish here is finer than\n
-on those from other towns, don't you\n
-agree?
+catfish here\n
+is finer than on those from\n
+other towns, don't you agree?
 <$12>
 \n
 
 <CLEAR>
-I bet they all have too much meat in\n
-their diets. I'm glad ours have a sense of\n
-refinement.
+I bet they all have too much\n
+meat in their diets. I'm glad\n
+ours have a sense of refinement.
 <$12><$00>
 
 
@@ -250,7 +250,7 @@ here!
 <CLEAR>
 If you ever want a tail-less 
 <$1B>
-rat, just ask.\n
+rat, ask.\n
 I'm not bad with 
 <$1B>
 dogs either.
@@ -329,9 +329,9 @@ here!
 
 //<CLEAR>一度、飼い主に慣れた　猟犬を\n再調教するのは　時間もお金もかかって\n割に合わないから　プロはやらないの<$12>\n<CLEAR>だから　よほどのことがないかぎり\n店に売った猟犬は、かわいそうだけど\n肉屋へ　まわされることになるのよね<$12><$00>
 <CLEAR>
-You can teach an old dog new tricks, but\n
-it takes more time than some dogs are\n
-worth.
+You can teach an old dog new tricks,\n
+but it takes more time than some\n
+dogs are worth.
 <$12>
 \n
 
@@ -359,26 +359,28 @@ rather than a doctor for humans
 
 //<CLEAR>猟犬も死ぬのは　イヤらしくて\nヤバい時は　自分の判断で　逃げるわ…\n主人の都合も　聞かずにね<$12>\n<CLEAR>だから猟犬を　信頼し過ぎるのも\n考えもんってことよ…　どんなに\n利口なヤツでも　しょせん、犬ね<$12><$00>
 <CLEAR>
-Don't rely on dogs too much. Even they can\n
-lose spirit, and run away from you.
+Don't rely on dogs too much. Even they\n
+can lose spirit, and run away from you.
 <$12>
 \n
 
 <CLEAR>
-No matter how smart man thinks he is, he\n
-can't afford to be more loyal than dogs!
+No matter how smart one thinks he is,\n
+he can't afford to challenge the\n
+loyalty of dogs!
 <$12><$00>
 
 
 //長年、ハンターを　やってると\n非常識なくらい強い　動物を見つけて\nボロクソにやられるのが　快感になる<$12>\n<CLEAR>なぜかというと　そいつを材料にした\n非常識なくらい強い　武器のことを\nすぐに　想像しちゃうからなのさ<$12><$00>
-Back in my hunting days, I fight animals so\n
-strong, they beat the Hell out of me.
+Back in my hunting days, I fight animals\n
+so strong, they beat the hell out of me.
 <$12>
 \n
 
 <CLEAR>
-I liked it, because that meant I could\n
-farm strong materials from them if I won!
+I liked it, because that meant\n
+I could farm strong materials\n
+from them if I won!
 <$12><$00>
 
 
@@ -416,32 +418,32 @@ Exit
 
 //<CLEAR>意外にね…　客は女が多いんですねぇ\n月に１度　必ず来る人もいますねぇ<$12><$00>
 <CLEAR>
-Surprisingly... a lot of my clients are women.\n
-There are customers who visit once a\n
-month as well.
+Surprisingly... a lot of my\n
+subjects here are female.\n
+I've got customers who visit\n
+once a month like clockwork.
 <$12><$00>
 
 
 //<CLEAR>バラしてみて　何か出ても出なくても\nそいつの肉は　俺の手間賃ですゼ\nさぁ、どいつから　いきましょうねぇ<$12><$00>
 <CLEAR>
-Even if there's no loot,\n
-I keep the animal cadaver as payment,\n
-understand?
+Even if there's no loot, I keep the\n
+animal cadaver as payment, understand?
 <$12><$00>
 
 
 //<CLEAR>で、どいつの腹から　裂きましょうねぇ\n個人的には　かわいい子供の動物を\n解体するのが　好きなんですがねぇ<$12><$00>
 <CLEAR>
-So, what am I ripping today?\n
-Personally, I like working on cute animal\n
-babies.
+So, what animal am I ripping today?\n
+Personally, I like plucking away\n
+at the little baby ones.
 <$12><$00>
 
 
 //<CLEAR>おっと、道具袋がいっぱいじゃ\nなんか出てきても渡せないねぇ<$12><$00>
 <CLEAR>
-Uh-oh! I can't give you treasure when\n
-you're item bag's full!
+Uh-oh! I can't give you the loot\n
+when you're item bag's full!
 <$12><$00>
 
 
@@ -514,7 +516,7 @@ Ken took\n
 
 //<CLEAR><$1D>を　見つけられると\n思ったけど　何もないねぇ<$12><$00>
 <CLEAR>
-I thought I saw a \n
+I thought I saw a\n
 
 <$1D>
  in there,\n
@@ -578,8 +580,7 @@ bring them to me before it's too late!
 //<CLEAR>ケガしてる猟犬は　どのコなの？\nほら早く　診せなさい！\n<$01>診せる<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
 <CLEAR>
 Is your hunting dog injured?\n
-Let me!\n
- take a look!\n
+Let me take a look!\n
 
 <$01>
 Treat
@@ -596,8 +597,8 @@ Exit
 
 //<CLEAR>いらない道具や動物を　売っても\nまだ足りないときは、銀行でお金を\n借りてでも　治療費は作りなさいね<$12>\n<CLEAR>それくらいは　判断を誤った\nバカな飼い主の\n最低限の　務めってモンよ<$12><$00>
 <CLEAR>
-If you need money, sell spare items or take\n
-a loan from the bank.
+If you need money, sell spare items\n
+or take a loan from the bank.
 <$12>
 \n
 
@@ -636,15 +637,15 @@ cheapskate.
 
 //<CLEAR>さてと　次はどのコなの\nほら早く　診せなさい！<$12><$00>
 <CLEAR>
-Well, if you have another dog, I'll see them\n
-next!
+Well, if you have another dog,\n
+I'll see them next!
 <$12><$00>
 
 
 //あぁ～傷に<$1B>ウジが　わいてるわよ<$00>
-Whoa～! 
+Yuck! There's 
 <$1B>
-Maggots in the wound!
+maggots in the wound!
 <$00>
 
 
@@ -700,7 +701,7 @@ I mess up only once every
 
 //<CLEAR>…………………………………￠<$12><$00>
 <CLEAR>
-... ... ... ￠
+... ... ...￠
 <$12><$00>
 
 
@@ -735,8 +736,8 @@ may adopt.
 \n
 
 <CLEAR>
-You may have money, but you've sadly\n
-hit the adoption cap.\n
+You may have the money, but you've\n
+sadly hit the adoption cap.\n
 Let that be a lesson to you.
 <$12><$00>
 

@@ -177,35 +177,37 @@ here!
 
 //<CLEAR>レンジャー隊の給料に　換算すると\n珍しい動物の値段てのは　だいたい\n１０年間、ブラブラできる額だな<$12><$00>
 <CLEAR>
-The price of one rare animal can equal 10\n
-years of a ranger's salary!
+The price of one rare animal can\n
+equal 10 years of a ranger's salary!
 <$12><$00>
 
 
 //<CLEAR>動物の数だけ　装備の数もある\nいろいろ目移りするのも　当然だな<$12>\n<CLEAR>しかし　これだけは　お忘れなく！\n本人の力不足は　どんな素晴らしい装備も\n決して　補えやしないってコト<$12><$00>
 <CLEAR>
-There's only as much equipment in the world\n
-as there are animals, ripe for the picking!
+There's only as much equipment in\n
+the world as there are animals,\n
+but they're ripe for the picking!
 <$12>
 \n
 
 <CLEAR>
-That said, no stellar equipment ever truly\n
-makes up for a person's lack of strength.
+That said, no stellar equipment\n
+ever truly makes up for a person's\n
+lack of strength.
 <$12><$00>
 
 
 //箱船って　移住民の原始時代の神話にも\n出てくる　伝説の船だそうだな\nで、昔もやっぱり　動物集め…<$12>\n<CLEAR>連中、俺らビースチャンのことを\n「時代遅れ」とか「伝説ボケ」とか\n言うけど　時代錯誤はどっちだかな<$12><$00>
-According to immigrants, an "ark" is a ship\n
-from ancient primordial legend. So even\n
-back then, animal collecting was... 
+According to immigrants, an "ark" is a\n
+ship from ancient primordial legend.\n
+Even then, animal collecting was a... 
 <$12>
 \n
 
 <CLEAR>
 Wait. THESE are the people who say\n
-Beastians sound too "superstitious" and\n
-"back-water"?!
+Beastians sound too "superstitious"\n
+and "back-water"?!
 <$12><$00>
 
 
@@ -223,11 +225,13 @@ the variety of animals one kills to eat."
 
 #WRITE(PTR, $0020)
 //個<$00>
- <$00>
+  
+<$00>
 
 
 //匹<$00>
- <$00>
+  
+<$00>
 
 
 //<$1D>を<$1D>ます\n<$06><$19><$31><$01><$1A>01<$0E><$15><$53><$19><$30><$04>／<$14><$1E>034<$15><$53><$1D><$14><$02>112<$19><$32><$1E>40<$19><$30><$15><$53>￥<$00>
@@ -236,9 +240,7 @@ the variety of animals one kills to eat."
 `
 <$06><$19><$31><$01><$1A>
 01
-<$0E><$15><$53><$19><$30><$04><$06>
- 
-<$04>
+<$0E><$15><$53><$19><$30><$04><$06><$04>
 /
 <$14><$1E>
 034
@@ -438,8 +440,8 @@ The item bag is full!
 
 //<CLEAR>次は凄いヤツを　仕入れておきますから\nこりずに　また、どうぞ<$12><$00>
 <CLEAR>
-Don't you worry,\n
-I'll have an even finer stock next time!
+Don't you worry, I'll have an\n
+even finer selection next time!
 <$12><$00>
 
 
@@ -827,10 +829,11 @@ Sniff... sniff, sniff?
 \n
 
 <CLEAR><$1D>
- scent's filling the air. You know, I could go\n
-for some 
+ scent's filling the air.\n
+You know, I could go for some\n
+
 <$1D>
- !
+!
 <$12><$00>
 
 

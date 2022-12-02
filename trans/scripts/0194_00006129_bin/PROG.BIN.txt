@@ -247,11 +247,13 @@ crows.
 
 #WRITE(PTR, $001E)
 //個<$00>
- <$00>
+  
+<$00>
 
 
 //匹<$00>
- <$00>
+  
+<$00>
 
 
 //<$1D>を<$1D>ます\n<$06><$19><$31><$01><$1A>01<$0E><$15><$53><$19><$30><$04>／<$14><$1E>034<$15><$53><$1D><$14><$02>112<$19><$32><$1E>40<$19><$30><$15><$53>￥<$00>
@@ -260,9 +262,7 @@ crows.
 `
 <$06><$19><$31><$01><$1A>
 01
-<$0E><$15><$53><$19><$30><$04><$06>
- 
-<$04>
+<$0E><$15><$53><$19><$30><$04><$06><$04>
 /
 <$14><$1E>
 034
@@ -462,8 +462,8 @@ The item bag is full!
 
 //<CLEAR>次は凄いヤツを　仕入れておきますから\nこりずに　また、どうぞ<$12><$00>
 <CLEAR>
-Don't you worry,\n
-I'll have an even finer stock next time!
+Don't you worry, I'll have an\n
+even finer selection next time!
 <$12><$00>
 
 
@@ -569,10 +569,11 @@ Sniff... sniff, sniff?
 \n
 
 <CLEAR><$1D>
- scent's filling the air. You know, I could go\n
-for some 
+ scent's filling the air.\n
+You know, I could go for some\n
+
 <$1D>
- !
+!
 <$12><$00>
 
 

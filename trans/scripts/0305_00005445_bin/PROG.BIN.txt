@@ -129,22 +129,22 @@ care?
 
 
 //ジルって名の　お嬢さんに頼めば\n<$1B>オオカミを　内緒で猟犬に\n登録してくれるゼ<$12>\n<CLEAR>この町にいることは　確かなんだが\nヤサが　どこにあるかは\n誰にも　わかんねえんだよな<$12><$00>
-There's a gal named Jill who tames 
+There's a gal named Jill who tames\n
+
 <$1B>
-wolves in\n
-secret.
+wolves in secret.
 <$12>
 \n
 
 <CLEAR>
-She must live somewhere nearby, but\n
-no one has found her house.
+She must live somewhere nearby,\n
+but no one has found her house.
 <$12><$00>
 
 
 //あんた…？　もしかして　ここまで\n歩いてきたのかい？　すごいねえ…\n<$01>違いますよ<$0E>／<$01>すごいだろ<$0E><$00>
-Did you... seriously walk all the way out\n
-here? Wow!\n
+Did you... seriously walk\n
+all the way out here? Wow!\n
 
 <$01>
 No, I didn't
@@ -167,26 +167,27 @@ left
 
 //<CLEAR>…だよねぇ\n楽な方法があるのに　今どき\n歩いてくるなんて　バカだよね<$12>\n<CLEAR>ネブール行きの直行便は　<$1D>の\nバードラインの<$1D>のコと　続けて３回、\n雑談すれば　誰でも使えるものねぇ<$12><$00>
 <CLEAR>
-Y'know, technology's come a long way. It's\n
-kind of stupid to walk so much.
+Y'know, technology's come a long way.\n
+It's kind of stupid to walk so much.
 <$12>
 \n
 
 <CLEAR>
-Direct flight into Nebul exist. Go to 
+Direct flights to Nebul exist! Enter the\n
+
 <$1D>
-, and\n
-chat with the 
+ birdline, and chat with\n
+the 
 <$1D>
--side birdline attendant 3\n
-times.
+-side attendant 3 times.\n
+
 <$12><$00>
 
 
 //<CLEAR>…へぇ　じゃあ、帰りも間違えずに\nこっちの出口から　帰るんだよ<$12>\n<CLEAR>もう１つのほうを　出ちゃうと\n<$1B>サイとか<$1B>オオカミとか　危ない\n動物ばかりで　生きて還れないからねぇ<$12><$00>
 <CLEAR>
-... Well, make sure you take this exit on the\n
-way out.
+... Well, make sure you take\n
+this exit on the way out.
 <$12>
 \n
 
@@ -197,20 +198,21 @@ there's a lot of dangerous animals like\n
 <$1B>
 rhinos and 
 <$1B>
-wolves, so you won't get out\n
-alive!
+wolves, that'll target you!
 <$12><$00>
 
 
 //友情、若さ、勇気、愛、約束…\nいくら金を積んでも　買えない\n大切なモノは　確かにある！<$12>\n<CLEAR>しかし、そんなモノは　ほんの例外で\nたいていのモノは　お金で買えると\nこの町は　教えてくれるよ<$12><$00>
-Friendship, youth, courage, love, promises...\n
- There are some things money can't buy.
+Friendship, youth, courage,\n
+love, promises... There are\n
+some things money can't buy.
 <$12>
 \n
 
 <CLEAR>
-That being said, if something CAN be\n
-bought, this town's got it for sale!
+That being said, if something\n
+CAN be bought, this town's\n
+got it for sale!
 <$12><$00>
 
 
@@ -805,11 +807,13 @@ Spurr Valley.
 
 
 //個<$00>
- <$00>
+  
+<$00>
 
 
 //匹<$00>
- <$00>
+  
+<$00>
 
 
 //<$1D>を<$1D>ます\n<$06><$19><$31><$01><$1A>01<$0E><$15><$53><$19><$30><$04>／<$14><$1E>034<$15><$53><$1D><$14><$02>112<$19><$32><$1E>40<$19><$30><$15><$53>￥<$00>
@@ -818,9 +822,7 @@ Spurr Valley.
 `
 <$06><$19><$31><$01><$1A>
 01
-<$0E><$15><$53><$19><$30><$04><$06>
- 
-<$04>
+<$0E><$15><$53><$19><$30><$04><$06><$04>
 /
 <$14><$1E>
 034
@@ -942,7 +944,7 @@ Items
 
 //<CLEAR>日用雑貨から　掘りだし物まで\nなんでも扱う　道具屋です\n<$01>取引する<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
 <CLEAR>
-We've got your essentials at great prices!\n
+We've got essentials at great prices!\n
 
 <$01>
 Shop

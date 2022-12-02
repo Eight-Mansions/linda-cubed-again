@@ -206,19 +206,19 @@ in spring
 
 //<CLEAR>卵を手に入れる方法は　３つだよ\n春に洞くつなんかで　拾ってくるのが\n普通だけど…<$12>\n<CLEAR>メスを　解体屋に持ち込んで\n卵を取り出す　気の短い人もいるね<$12>\n<CLEAR>それも　面倒くさい人は\n<$1D>公園へ　行ってみな<$12><$00>
 <CLEAR>
-There's 3 ways to get eggs.\n
-You can pick them out of caves\n
-in the springtime... 
+There's 3 ways to get eggs:\n
+1. You can pick them out of\n
+caves in the springtime... 
 <$12>
 \n
 
 <CLEAR>
-... take female animals to the ripper... 
+2. Take female animals to the ripper... 
 <$12>
 \n
 
 <CLEAR>
-... and for those even lazier than that,\n
+And 3. for the laziest among us,\n
 there's always the park... 
 <$1D>
 ... 
@@ -264,11 +264,13 @@ airport.
 
 #WRITE(PTR, $0020)
 //個<$00>
- <$00>
+  
+<$00>
 
 
 //匹<$00>
- <$00>
+  
+<$00>
 
 
 //<$1D>を<$1D>ます\n<$06><$19><$31><$01><$1A>01<$0E><$15><$53><$19><$30><$04>／<$14><$1E>034<$15><$53><$1D><$14><$02>112<$19><$32><$1E>40<$19><$30><$15><$53>￥<$00>
@@ -277,9 +279,7 @@ airport.
 `
 <$06><$19><$31><$01><$1A>
 01
-<$0E><$15><$53><$19><$30><$04><$06>
- 
-<$04>
+<$0E><$15><$53><$19><$30><$04><$06><$04>
 /
 <$14><$1E>
 034
@@ -541,13 +541,13 @@ Hope to see you around!
 
 //<CLEAR>たった<$1D><$06> <$1E><$14><$04>￥ぽっちの　持ち合わせも\nないなんて、人の親ならともかく\n動物の親としちゃ　失格だね<$12><$00>
 <CLEAR>
-It's one thing if a parent of a human\n
-can't afford 
+It's one thing if a parent of\n
+a human can't afford 
 <$1D><$06>
  
 <$1E><$14><$04>
 ￥,\n
-but you can't put animals through that!
+but you can't let an animal suffer!
 <$12><$00>
 
 
@@ -652,11 +652,11 @@ round
 
 //<CLEAR>種をまかなきゃ　麦は実らず、\n卵を預けなきゃ　何年待っても\n<$1B>ブタ１頭も　産まれないよ<$12><$00>
 <CLEAR>
-In life, you reap what you sow.\n
+In this life, you reap what you sow.\n
 If you don't put out Pig Eggs,\n
 you'll never hatch 
 <$1B>
-pigs.
+pigs!
 <$12><$00>
 
 
@@ -701,7 +701,7 @@ What will you pick up?\n
 //<CLEAR>だいたい半年で生まれるのが　普通だね\nそれより短いこともあるし\n長いことだってあるし…<$12>\n<CLEAR>まっ　いつ生まれるかは\n卵だけが　知っているってトコだよ<$12><$00>
 <CLEAR>
 It normally takes half a year\n
-for an egg to hatch, give or take.
+or so for an egg to hatch.
 <$12>
 \n
 

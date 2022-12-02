@@ -184,14 +184,13 @@ here!
 //<CLEAR>動物を加工すれば　服や帽子、武器\nそれに　食用の肉が作れる\nまったく　この星の動物は重宝だ<$12>\n<CLEAR>一番、役に立たねぇのは　人間だな\n喰えねぇのばっかだよ<$12><$00>
 <CLEAR>
 With animals, you can craft weapons, armor,\n
-hats, weapons...  even food! They're so\n
-useful! 
+hats, weapons and food! They're so useful! 
 <$12>
 \n
 
 <CLEAR>
-The more I think about it, humans are\n
-the least useful creature on the planet.
+The more I think about it, humans\n
+are the least useful creature alive.
 <$12><$00>
 
 
@@ -214,29 +213,28 @@ while you're here and file that!
 
 //<CLEAR>こづかいが　足りなくなったら\nトランスカーゴを　覗いてみな<$12>\n<CLEAR>使い道のない動物が　１匹や２匹\n必ずいるはずだから　そいつを\n俺に　売ればいいんだよ<$12><$00>
 <CLEAR>
-If you're short on cash, check your\n
-trans-cargo Unit(TCU) for any animals you\n
-don't need.
+If you're short on cash,\n
+check your trans-cargo Unit(TCU)\n
+for any animals you don't need.
 <$12>
 \n
 
 <CLEAR>
 Selling 1 or 2 can make huge difference for\n
-both you and me! Heck, I'm always\n
-buying!
+both you and me! Heck, I'm always buying!
 <$12><$00>
 
 
 //肉にすべきか　売るべきか…\nはたまた　ここはガマンして\nもう１頭捕まえて　クツを新調するか<$12>\n<CLEAR>ここが　思案のしどころだ…<$12><$00>
-Do I eat the meat, sell the meat or save\n
-the materials to make new shoes for\n
-myself?
+Do I eat the meat, sell the meat\n
+or save it for materials to make\n
+a new pair of shoes for myself?
 <$12>
 \n
 
 <CLEAR>
-I'd better think this over while I'm here...\n
-
+I'd better think this over\n
+before I roll out...
 <$12><$00>
 
 
@@ -254,11 +252,13 @@ you! You've gotta know what you want.
 
 #WRITE(PTR, $0020)
 //個<$00>
- <$00>
+  
+<$00>
 
 
 //匹<$00>
- <$00>
+  
+<$00>
 
 
 //<$1D>を<$1D>ます\n<$06><$19><$31><$01><$1A>01<$0E><$15><$53><$19><$30><$04>／<$14><$1E>034<$15><$53><$1D><$14><$02>112<$19><$32><$1E>40<$19><$30><$15><$53>￥<$00>
@@ -267,9 +267,7 @@ you! You've gotta know what you want.
 `
 <$06><$19><$31><$01><$1A>
 01
-<$0E><$15><$53><$19><$30><$04><$06>
- 
-<$04>
+<$0E><$15><$53><$19><$30><$04><$06><$04>
 /
 <$14><$1E>
 034
@@ -476,7 +474,7 @@ Meat Market
 //<CLEAR>毎度どーも！　食肉！　薬肉！　毒肉！\n今日は　何にしますか？\n<$01>取引する<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E><$00>
 <CLEAR>
 Good day, Sir!\n
-You want meats? I've got meats!\n
+You want meats? We've gottem!\n
 
 <$01>
 Shop
@@ -653,10 +651,11 @@ Sniff... sniff, sniff?
 \n
 
 <CLEAR><$1D>
- scent's filling the air. You know, I could go\n
-for some 
+ scent's filling the air.\n
+You know, I could go for some\n
+
 <$1D>
- !
+!
 <$12><$00>
 
 
