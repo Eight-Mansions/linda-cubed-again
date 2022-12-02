@@ -105,33 +105,35 @@ here!
 
 //<CLEAR>トランクルームで　預かれる\n物品の数は　最大３２個<$12>\n<CLEAR>このワクの半分以上を　王者のベルトで\nうめたツワモノが　昔、いたらしいよ<$12><$00>
 <CLEAR>
-The maxinum number of items you can\n
-put in storage is 32.
+The maxinum number of items\n
+you can put in storage is 32.
 <$12>
 \n
 
 <CLEAR>
-I remember this one guy who filled it\n
-more than half-way with Champion Belts.
+I remember this one guy who filled\n
+filled it more than half-way with\n
+Champion Belts.
 <$12><$00>
 
 
 //<CLEAR>もちろん　そいつの猟犬の名前は\n１０頭とも　漢字だったそうだ<$12>\n<CLEAR>どうせ目的を　はき違えるなら\nそこまで行くのが「男」ってモンだな<$12><$00>
 <CLEAR>
-All 10 of his dogs had anime names, which...\n
-doesn't surprise me with DGF die-hards.
+All 10 of his dogs had anime names,\n
+which... doesn't surprise me with\n
+DGF die-hards.
 <$12>
 \n
 
 <CLEAR>
-Maybe that was the "himitsu" to his\n
-success!
+Maybe that was the\n
+"HI-MI-TSU" to his success!
 <$12><$00>
 
 
 #WRITE(PTR, $002A)
 //ネブールタワー２Ｆ<$00>
-Nebir Tower 2F 
+Nebul Tower 2F 
 <$00>
 
 
@@ -194,15 +196,16 @@ here!
 
 //<CLEAR>実は、バードライン出資者って\nこの町の　商人たちなのよ\n知らなかったでしょう？<$12>\n<CLEAR><$1B>プテラノ鳥も　ネブールでなら\n割と簡単に　仕入れられるわよ<$12><$00>
 <CLEAR>
-Little known fact: the birdline financiers\n
-are this town's general merchants!
+Little known fact: the birdline\n
+financiers are also this town's\n
+general merchants!
 <$12>
 \n
 
 <CLEAR><$1B>
 With so many Pteranobirds around\n
-Nebul, they're leagues easier to buy\n
-here.
+Nebul, it's leagues easier to\n
+buy your essentials here.
 <$12><$00>
 
 
@@ -270,14 +273,14 @@ here!
 
 
 //「犬喰い」と呼ばれる　植物のいる\n場所じゃ　猟犬は使わんほうがいいよ<$12>\n<CLEAR>どんなにレベルの高い　猟犬も\nそいつの前では　ただのエサに過ぎん\n喰われりゃ　死体も戻らんぞ<$12><$00>
-If you find a flower called the Dogeater,\n
-keep your dogs away!
+If you find a flower called the\n
+Dogeater, keep your dogs away!
 <$12>
 \n
 
 <CLEAR>
-Like its name implies, a dog is as good as\n
-dinner to those nasty plants.
+Like its name implies, a dog is as\n
+good as dinner to those nasty plants.
 <$12><$00>
 
 
@@ -369,7 +372,7 @@ a
 <$06>
 99
 <$04>
- species capacity!
+ animal capacity!
 <$12><$00>
 
 
@@ -401,14 +404,14 @@ Hello! How will you travel today?
 //<CLEAR>脱出シャトル最終便、\n搭乗手続キ　間モナク　終了イタシマス\nオズサットヘ　オ急ギクダサイ<$12>\n<CLEAR>ゴ利用ノ際ハ　クレグレモ\nゴ注意クダサイ<$12><$00>
 <CLEAR>
 THE LAST MIGRATION SHUTTLE WILL BEGIN\n
-BOARDING SOON. PLEASE CHECK IN AT OZSAT\n
-AND PREPARE FOR DEPARTURE.
+BOARDING SOON. PLEASE CHECK IN AT\n
+OZSAT AND PREPARE FOR DEPARTURE.
 <$12>
 \n
 
 <CLEAR>
-BE CAREFUL WHEN TRAVELING TO THE\n
-SHUTTLE.
+BE CAREFUL WHEN TRAVELING\n
+TO THE SHUTTLE.
 <$12><$00>
 
 
@@ -461,9 +464,9 @@ Thank you for your loyal patronage!
 
 //<CLEAR>ただ今、西エリア中部に\n大雪警報が　出されています\n道中くれぐれも　お気をつけて！<$12><$00>
 <CLEAR>
-A heavy snowfall warning has been issues\n
-in central West Area. Please be careful\n
-on your journey.
+A heavy snowfall warning has\n
+been issued in central West Area.\n
+Please be careful on your journey.
 <$12><$00>
 
 
@@ -475,29 +478,29 @@ Happy travels!
 
 //<CLEAR>旅の安全を約束する　バードラインを\n次も　ご利用下さいませ<$12><$00>
 <CLEAR>
-The birdline will take you to your\n
-destination.
+The birdline will take\n
+you to your destination.
 <$12><$00>
 
 
 //<CLEAR>タダ今、西エリア中部ニ\n大雪警報ガ　出サレテイマス\n道中クレグレモ　オ気ヲツケテ！<$12><$00>
 <CLEAR>
-CENTRAL WEST AREA CURRENTLY FACES\n
-SEVERE SNOWFALL. BE CAREFUL IF\n
-VENTURING IN THAT AREA!
+CENTRAL WEST AREA CURRENTLY\n
+FACES SEVERE SNOWFALL.\n
+BE CAREFUL IF VENTURING IN THAT AREA!
 <$12><$00>
 
 
 //<CLEAR>長ラクノ　ゴ愛顧、\n誠ニ　アリガトウ　ゴザイマシタ<$12><$00>
 <CLEAR>
-THANK YOU FOR LOYAL PATRONAGE!
+THANK YOU FOR YOUR LOYAL PATRONAGE!
 <$12><$00>
 
 
 //<CLEAR>銀行で　お金をご都合の上、\nまた　お越しください<$12><$00>
 <CLEAR>
-If you're in a pinch, take a loan from the\n
-bank and come back.
+If you're in a pinch, take a small\n
+loan from the bank and come back.
 <$12><$00>
 
 
@@ -586,26 +589,26 @@ IS CURRENTLY CLOSED.
 //<CLEAR>脱出シャトル最終便、\n搭乗手続キ　間モナク　終了イタシマス\nオズサットヘ　オ急ギクダサイ<$12><$00>
 <CLEAR>
 THE LAST MIGRATION SHUTTLE WILL BEGIN\n
-BOARDING SOON. PLEASE CHECK IN AT OZSAT\n
-AND PREPARE FOR DEPARTURE.
+BOARDING SOON. PLEASE CHECK IN AT\n
+OZSAT AND PREPARE FOR DEPARTURE.
 <$12><$00>
 
 
 //お客様、そのエリアは私有地ですので\nシュートサービスはできません<$12><$00>
-The drop service cannot be used to\n
-enter private property!
+The drop service cannot be used\n
+to enter private property!
 <$12><$00>
 
 
 //オ客様、ソノ　エリア私有地デスノデ\n「シュートサービス」ハデキマセン<$12><$00>
-THE DROP SERVICE CANNOT BE USED TO\n
-ENTER PRIVATE PROPERTY!
+THE DROP SERVICE CANNOT BE USED\n
+TO ENTER PRIVATE PROPERTY!
 <$12><$00>
 
 
 //<CLEAR>シュートサービスは\nお客様のお好きな　場所へ落と…<$11>30\nお連れするサービスです<$12>\n<CLEAR>サービス料は<$1D><$06>1480<$04><$14>￥です\nご利用なさいますか？\n<$01>いいとも<$0E>／<$01>また今度<$0E><$00>
 <CLEAR>
-Our drop service can take you directly to\n
+Our drop service takes you over the\n
 
 <$11>
 30coordinates you specify.
@@ -997,9 +1000,9 @@ Come back when you need anything!
 
 //<CLEAR>他の町の　トランクルームでも\n自由に出し入れが　可能です\nいや、便利な世の中に　なりましたね<$12><$00>
 <CLEAR>
-The ability to access your items from\n
-any town speaks for our world's unmatched\n
-luxuries.
+The ability to access your items\n
+from any town speaks for our\n
+world's unmatched luxuries.
 <$12><$00>
 
 
@@ -2499,8 +2502,8 @@ I don't bite... usually! Hahaha!
 
 //<CLEAR>もしもし　兄ちゃん\n俺だよ　オ・レ！<$00>
 <CLEAR>
-Why hello, Brother!\n
-It's me. Good ol' St. Nek!
+Why hello, Brother! It's me.\n
+Jolly ol' St. Nek!
 <$00>
 
 
@@ -2741,7 +2744,7 @@ Naiive goddesses
 
 
 //陽気なサンタ<$00>
-A cheerful Santa
+O jolly Santa
 <$00>
 
 
@@ -3012,14 +3015,14 @@ Reunion with God
 
 #WRITE(PTR, $0034)
 //『プテラノ鳥は　たいへん危険です\n＿オリに手や足を　入れないで下さい<$12>\n<CLEAR>＿万一、事故が起きた場合\n＿当社は　責任を負いかねます』\n<$02>168バードライン<$12><$00>
-"DANGER! DO NOT PUT YOUR HAND IN THE\n
-PTERANOBIRD CAGE!"
+"DANGER! DO NOT PUT YOUR HAND\n
+IN THE PTERANOBIRD CAGE!"
 <$12>
 \n
 
 <CLEAR>
-"WE ARE NOT RESPONSIBLE FOR ANY\n
-INJURIES."\n
+"WE ARE NOT RESPONSIBLE\n
+FOR ANY LOST BODY PARTS."\n
 
 <$02>
 168 -BIRDLINE
@@ -3041,9 +3044,9 @@ prohibited.
 \n
 
 <CLEAR>
-Only one survivor was found, and friends\n
-and relatives are eager for more\n
-information.
+Only one survivor was found,\n
+and friends and relatives are\n
+desperate for more information.
 <$12><$00>
 
 
@@ -3055,14 +3058,16 @@ VOLUNTEERS TO BOARD ASTRO ARK
 \n
 
 <CLEAR>
-This ends a long search after Linda\n
-Aurea(15) was selected as the female pilot.
+This ends a long search after\n
+Linda Aurea(15) was selected\n
+as the female pilot.
 <$12>
 \n
 
 <CLEAR>
-Ken is a freshman ranger, and Linda is his\n
-childhood friend! Let's wish them luck!
+Ken is a freshman ranger, and\n
+Linda is his childhood friend!\n
+Let's wish them luck!
 <$12><$00>
 
 
@@ -3100,9 +3105,9 @@ were found in President Green's mansion.
 \n
 
 <CLEAR>
-Strangely, her corpse was also found! Dr.\n
-Panheim is being interrogated as a\n
-suspect.
+Strangely, her corpse was also found!\n
+Drof. Panheim is being interrogated\n
+as a suspect.
 <$12><$00>
 
 

@@ -168,8 +168,8 @@ here!
 
 //<CLEAR>レンタ動物を　借りる際の\n諸注意を　確認しますか？\n<$01>確認する<$0E>／<$01>知ってる<$0E><$00>
 <CLEAR>
-Would you like to review our tips for animal\n
-renting?\n
+Would you like to review\n
+our tips for animal renting?\n
 
 <$01>
 Yes, please
@@ -182,16 +182,16 @@ No thanks
 
 //<CLEAR>その１．動物への乗り降りは\n動物のそばに立って　勢いをつけて\n○ボタンを　押してください<$12>\n<CLEAR>その２．季節が　変わると\nお客様の都合に　関係なく\nレンタ動物は　こちらに戻ります<$12>\n<CLEAR>その３．騎乗中は　戦闘になりませんが\nナビＳ、動物図鑑、道具、装備なども\n使えません、ご容赦ください<$12><$00>
 <CLEAR>
-1. To get on an animal, stand next to it and\n
-press the ○ button. Press it again to\n
-get off.
+1. To get on an animal, stand next\n
+to it and press the ○ button.\n
+Press it again to get off.
 <$12>
 \n
 
 <CLEAR>
-2. Regardless of where, the rental animal\n
-will return to us as soon as the season\n
-changes.
+2. Regardless of where you are,\n
+the rental animal will return to\n
+us as soon as the season changes.
 <$12>
 \n
 
@@ -204,7 +204,8 @@ diabled.
 
 //<CLEAR>そうですか、では\n旅の続きを　お楽しみください\n道中　お気をつけて！<$12><$00>
 <CLEAR>
-Oh, right on! Enjoy your adventure then,\n
+Oh, right on!\n
+Enjoy your adventure,\n
 and stay careful!
 <$12><$00>
 
@@ -224,37 +225,38 @@ history is roaring outside.
 \n
 
 <CLEAR>
-To that end, we unfortunately can't rent\n
-out our moneymak-- err, we can't rent out\n
-Kanta. He's family!
+For safety reasons, we sadly cannot\n
+rent out our big moneymak... err.\n
+We can't rent out Kanta. He's family!
 <$12><$00>
 
 
 //<CLEAR>どうです？\nカン太君は　頼りになるでしょ？<$12><$00>
 <CLEAR>
-How was it? Kanta's very reliable, isn't\n
-he?
+How was it?\n
+Kanta's very reliable, huh.
 <$12><$00>
 
 
 //<CLEAR>どうです？\nチン平君は　意外と便利でしょ？<$12><$00>
 <CLEAR>
-How was it? Chinpei's surprisingly useful,\n
-ain't he?
+How was it?\n
+Chinpei's surprisingly useful, huh.
 <$12><$00>
 
 
 //<CLEAR>季節の　変わり目は\n天候も変わりやすくて　危険だから\nチン平君もカン太君も　お休みだ<$12>\n<CLEAR>悪いけど　しばらくしてから\nまた　いらしてくださいよ<$12><$00>
 <CLEAR>
-Due to the hazardous weather change at\n
-the start of the season. Chinpei and Kanta\n
-will be on holiday.
+Due to the hazardous weather changes\n
+at the start of the new season,\n
+Chinpei and Kanta will be on holiday.
 <$12>
 \n
 
 <CLEAR>
-We're sorry for the inconvenience, but\n
-please wait a little while and come back.
+We're sorry for the inconvenience,\n
+but please wait a little while and\n
+come back.
 <$12><$00>
 
 
@@ -263,7 +265,7 @@ please wait a little while and come back.
 Safely traverse the snow by renting\n
 Kanta, the 
 <$1B>
-polar bear. Only 
+polar bear for 
 <$1D>
 200
 <$14>
@@ -287,7 +289,7 @@ Exit
 Safely traverse the seas by renting\n
 Chinpei, the 
 <$1B>
-dolphin. Only 
+dolphin for
 <$1D>
 200
 <$14>
@@ -314,9 +316,9 @@ We look forward to your next visit.
 
 //<CLEAR><$1D><$06><$1E><$04><$14>￥で<$06>1<$04>季節乗り放題！<$06> 1<$04>季節経過後は\n自分で戻りますから　乗り捨てもＯＫ！\n<$01>契約する<$0E>／<$01>借りない<$0E><$00>
 <CLEAR><$1D><$06><$1E><$04><$14>
-￥ covers 1 season! After 1season, the\n
-animal will return\n
-to us on its own.\n
+￥ covers 1 season!\n
+After 1 season, the rental animal\n
+will return to us on its own.\n
 
 <$01>
 Rent
@@ -346,8 +348,9 @@ Thank you!
 \n
 
 <CLEAR>
-Chinpei will be waiting for you out in the\n
-lake! Jump on its back when you're ready!
+Chinpei will be waiting\n
+for you out in the lake!\n
+Jump on its back when you're ready!
 <$12><$00>
 
 
@@ -356,13 +359,14 @@ lake! Jump on its back when you're ready!
 Travel over ice and snow by renting\n
 Kanta, the 
 <$1B>
-polar bear. Crunch, crunch!
+polar bear.\n
+Crunch, crunch!
 <$12>
 \n
 
 <CLEAR>
-Kanta has such a dominating presence, the\n
-other 
+Kanta has such a dominating presence,\n
+the other 
 <$1B>
 polar bears yield to him!
 <$12><$00>
@@ -373,13 +377,14 @@ polar bears yield to him!
 Cross waters and wetlands by renting\n
 Chinpei, the 
 <$1B>
-dolphin! Swoosh, swoosh!
+dolphin!\n
+Swoosh, swoosh!
 <$12>
 \n
 
 <CLEAR>
-Plus, Chinpei's so untasty looking, even\n
-
+Plus, Chinpei's so untasty looking,\n
+even 
 <$1B>
 hippos won't eat him!
 <$12><$00>
@@ -387,18 +392,18 @@ hippos won't eat him!
 
 //<CLEAR>金のないヤツは　地ベタを\n自分の脚で歩く…　いつの時代でも\nどんな世界でも　不変のルールですね<$12><$00>
 <CLEAR>
-A man without money must walk on his own\n
-two feet. That's the undying law of this and\n
-any other world.
+A man without money must walk on his\n
+own two feet. That's the undying law\n
+of this and any other world.
 <$12><$00>
 
 
 //<CLEAR>まっ一度、湖で<$1B>カメと\n追いかけっこを　してから\nまた　おいでくださいな<$12><$00>
 <CLEAR>
-Well, okay! Have fun chasing 
+Well, okay! Have fun chasing\n
+
 <$1B>
-turtles in the\n
-lake.\n
+turtles in the lake.\n
 See you around!
 <$12><$00>
 
@@ -409,29 +414,30 @@ There's a terrible snowstorm outside.
 \n
 
 <CLEAR>
-The living, the dead, the beautiful, the\n
-ugly...  It's all buried in an illusive sheet\n
-of white.
+The living, the dead, the beautiful,\n
+the\n
+ ugly...  It's all buried in\n
+an illusive sheet of pure white.
 <$12>
 \n
 
 <CLEAR>
-Say, wasn't the legendary phantom animal\n
-supposed to make its appearance on a day\n
-like this? 
+Say, wasn't the legendary phantom\n
+animal supposed to make its strange\n
+appearance on a day like this? 
 <$12>
 \n
 
 <CLEAR>
 You should go catch it!\n
-When you do, come back and tell me in\n
-secret what the animal is!
+When you do, come back and tell\n
+me in secret what the animal is!
 <$12><$00>
 
 
 //えーッ￠\n伝説の動物の正体は　<$1B>パンダってか？<$12>\n<CLEAR>へえー∥　それは凄いわねえ∥\nよりによって　<$1B>パンダときましたか…<$12>\n<CLEAR>ねぇ、もうちょっと気の利いた\nウソがつけるように　ならないと、\n大人の女は　退屈しちゃうと思うわよ<$12><$00>
-What?! The legendary phantom animal is a\n
-
+What?! The legendary\n
+phantom animal is a 
 <$1B>
 panda?!
 <$12>
@@ -446,9 +452,9 @@ PANDA, of all fuckin' things...
 \n
 
 <CLEAR>
-You have to be more creative than that.\n
-If you can't fib any better, a grown\n
-woman will see right through it.
+You gotta be more creative than that.\n
+If you can't fib any better, any grown\n
+woman will see right through you.
 <$12><$00>
 
 
@@ -462,19 +468,19 @@ Hyenas are attracted to the scent!
 \n
 
 <CLEAR>
-No one can sniff out a rotten heart, but\n
-
+No one can sniff out a rotten heart,\n
+but 
 <$1B>
-hyenas can smell Rotten Meat from\n
-kilometers away!
+hyenas can smell Rotten Meat\n
+from kilometers away!
 <$12><$00>
 
 
 //<CLEAR><$1B>カワウソが　絶滅しちまったらしいね\nヘンな顔のヤツだったけど\nいなくなってみると　妙に寂しい…<$12>\n<CLEAR>フっ…<$12>\n<CLEAR>フっフフフ…\nこんな気持ちに　なったのは\nひとりめの亭主の　葬式以来だよ<$12><$00>
 <CLEAR><$1B>
-Otters are reportedly extinct now. They\n
-were ugly as hell, but I'm still gonna miss\n
-them.
+Otters are reportedly extinct now.\n
+They were ugly as hell, but I'm\n
+still gonna miss them.
 <$12>
 \n
 
@@ -484,8 +490,9 @@ Pfft...
 \n
 
 <CLEAR>
-Pffthahaha! Gosh, I haven't felt this way\n
-since my first husband's funeral!
+Pffthahaha! Gosh, I haven't\n
+said something like that since\n
+my first husband's funeral!
 <$12><$00>
 
 
@@ -872,8 +879,9 @@ Find Angela
 
 //<CLEAR>カラゴラムのファングを倒し、その証拠を\nハーディアホテルのスペクターに渡す<$00>
 <CLEAR>
-Defeat Fang in Karhagolem. Present proof\n
-to Spectre in Hardia Hotel.
+Defeat Fang in Karhagolem,\n
+then show proof to Spectre\n
+in Hardia Hotel.
 <$00>
 
 
@@ -882,8 +890,8 @@ to Spectre in Hardia Hotel.
 Process meat from 
 <$1B>
 chickens in\n
-Marblopolis.Give them to Prof. Panheim in\n
-Hospico.
+Marblopolis, then give them\n
+to Prof. Panheim in Hospico.
 <$00>
 
 
@@ -891,25 +899,27 @@ Hospico.
 <CLEAR>
 Find up to 3 
 <$1B>
-Turtle Eggs. Give them to Louis\n
-at the Battle Park BB Ranch.
+Turtle Eggs\n
+to give to Louis at the\n
+Battle Park BB Ranch.
 <$00>
 
 
 //<CLEAR><$1B>プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す<$00>
 <CLEAR>
-Acquire 2 
+Find 2 
 <$1B>
-Pteranodon Eggs. Give them to\n
-Bronco at the Battle Park BB Ranch.
+Pteranodon Eggs\n
+to give to Bronco at the\n
+Battle Park BB Ranch.
 <$00>
 
 
 //<CLEAR>「太郎の首輪」を見つけだし、ドギファの\nナターシャか、オーマン家３兄弟に渡す<$00>
 <CLEAR>
-Locate Taro's Collar. Give it to Natasha or\n
-one of the 3 Aumann children in Dogyf\n
-Heights.
+Locate Taro's Collar to give to\n
+Natasha or one of the 3 Aumann\n
+siblings in Dogyf Heights.
 <$00>
 
 
@@ -927,8 +937,9 @@ another
 <CLEAR>
 Deposit 
 <$1D>
-￥ in an account to Yamada in G\n
-Factory.
+￥\n
+in an account to Yamada\n
+in G Factory.
 <$00>
 
 
@@ -936,22 +947,23 @@ Factory.
 <CLEAR>
 Find the 
 <$1B>
-Tiger Claw, Koshikata's village\n
-symbol. Return it to Poliska.
+Tiger Claw, Koshikata's\n
+village symbol, to return to Poliska.
 <$00>
 
 
 //<CLEAR>ソフィアのために、エターナの桜の木を\nどうにかして咲かせる<$00>
 <CLEAR>
-Find out how to revive the sakura trees in\n
-Eterna for Sophia.
+Find out how to revive the\n
+sakura trees in Eterna for Sophia.
 <$00>
 
 
 //<CLEAR>溶岩の中で育った動物の熱いウンチを\nエターナのソフィアに渡す<$00>
 <CLEAR>
-Deliver Hot Dung from a lava-dwelling\n
-creature to Sophia in Eterna.
+Deliver Hot Dung from a\n
+lava-dwelling creature to Sophia\n
+in Eterna.
 <$00>
 
 
@@ -967,8 +979,9 @@ Take the Floppy Disc and
 <$06>
 10, 000
 <$04>
-￥ to the\n
-G Factory gate. Answer the payphone.
+￥\n
+to the G Factory gate\n
+and answer the payphone.
 <$00>
 
 
@@ -978,8 +991,9 @@ Take the Floppy Disc and
 <$06>
 10, 000
 <$04>
-￥ to the\n
-Paraside gate. Answer the payphone.
+￥\n
+to the Paraside gate\n
+and answer the payphone.
 <$00>
 
 
@@ -989,30 +1003,31 @@ Take the Floppy Disc and
 <$06>
 10, 000
 <$04>
-￥ to\n
-Galax.
+￥\n
+to Galax.
 <$00>
 
 
 //<CLEAR>ポロポロちゃんのために、\nフローラジャムの「鮮血の果実」を\nローズガーデンのケビンに渡す<$00>
 <CLEAR>
-Pick bloodberries in Flora Jam. Take\n
-them to Kevin and Nightshade in Rose\n
-Garden.
+Pick bloodberries in Flora Jam\n
+for Kevin and Nightshade in\n
+Rose Garden.
 <$00>
 
 
 //<CLEAR>パラサイドの酒場にいるアンジェラを\n確認して、リナバレーのマリオに連絡する<$00>
 <CLEAR>
-Look for Angela at the Paraside bar.\n
-Report your findings to Mario in Spurr\n
-Valley.
+Look for Angela at the Paraside bar,\n
+then report your findings to Mario\n
+in Spurr Valley.
 <$00>
 
 
 //<CLEAR>アンジェラを確認するために、\nオズポートホテルの酒場に行く<$00>
 <CLEAR>
-Look for Angela at the OzPort Hotel bar.
+Look for Angela at\n
+the OzPort Hotel bar.
 <$00>
 
 
@@ -1025,15 +1040,15 @@ somewhere in West Area.
 
 //<CLEAR>アンジェラを確認するために、\nドギファの舞台に行く<$00>
 <CLEAR>
-Look for Angela at the theater stage in\n
-Dogyf Heights.
+Look for Angela on the theater\n
+stage in Dogyf Heights.
 <$00>
 
 
 //<CLEAR>リナバレーのマリオの母、\nアンジェラを追ってオズサットへ行く<$00>
 <CLEAR>
-Chase Angela to OzSat! Mario will follow from\n
-Spurr Valley.
+Chase Angela to OzSat!\n
+Mario will follow from Spurr Valley.
 <$00>
 
 

@@ -146,8 +146,8 @@ OzPort Gate 1F
 
 
 //この町の周辺で　ご覧いただける動物は\n<$1B>イカ、<$1B>ダチョウです<$12>\n<CLEAR><$1B>イカは　近寄らない限り、危険は\nありませんが　念のためレベル６以上の\nガイドと　同行してください<$12><$00>
-Notable animals in the area are\n
-
+Notable animals in the area\n
+are 
 <$1B>
 squids and 
 <$1B>
@@ -156,29 +156,31 @@ ostriches.
 \n
 
 <CLEAR><$1B>
-Squids are only dangerous when provoked,\n
-but we still recommend that tourists hire\n
-escorts LVL 6 or higher.
+Squids are only dangerous when\n
+provoked, but we still recommend that\n
+tourists hire escorts LVL 6 or higher.
 <$12><$00>
 
 
 //<CLEAR>電話の横の壁の　ＮＫニュースの\n号外を　ご覧になりました￠\n今や、世間は　アレの話題一色ですよ<$12><$00>
 <CLEAR>
-Did you read the latest NK News bulletin\n
-next to the phone? Everyone's talking\n
-about it!
+Did you read the latest\n
+NK News bulletin by the phone?\n
+Everyone's talking about it!
 <$12><$00>
 
 
 //俺がここに　座ってる理由はね\nポケベルが鳴ったら　すぐに電話を\nかけたいから　なんだよね<$12>\n<CLEAR>実は　俺、もうすぐ　パパになるんだ\nで、産まれたら　その知らせが\n入ることに　なってるんだ<$12><$00>
 Why am I waiting by the phone?\n
-Well, I have to, in case my lady pages me!
+Well, I have to, in case my\n
+lady pages me!
 <$12>
 \n
 
 <CLEAR>
 See, I'm about to become a father.\n
-My wife's going to call me when she delivers!
+My wife's going to call me when\n
+she delivers!
 <$12><$00>
 
 
@@ -247,50 +249,53 @@ OzPort Gate 2F
 
 //<CLEAR>シュートサービスは　好きな所、\nどこにでも飛んで行けて　便利ですけど\nいつも危険と　隣り合わせなんです<$12>\n<CLEAR>だから　もしもの時のために\n「回収ビーコン」をセットで\nお求めになるよう　お勧めしています<$12><$00>
 <CLEAR>
-The drop service is great for flying most\n
-anywhere. Despite its dangers, I love it!
+The drop service is great\n
+for flying most anywhere.\n
+Yeah, it's dangerous, but I love it!
 <$12>
 \n
 
 <CLEAR>
-You should always carry a Flash Beacon,\n
-just in case something someone misses.
+If you decide to try it, make sure\n
+you always carry a Flash Beacon\n
+in case your landing point is off.
 <$12><$00>
 
 
 //<CLEAR>金持ちは　バカにお高い直行便\n庶民は　経済的な乗り継ぎ便\n金のないヤツは　歩き<$12>\n<CLEAR>バードラインの　航空運賃は\nわかりやす過ぎて　涙が出てくるよ<$12>\n<CLEAR>たいして　客もいないのに\nこういうムダな差別を　イチイチ\nつけるのが　人間ってモンだけどサ<$12><$00>
 <CLEAR>
-The rich splurge on direct flights, the\n
-middle class take transfers, and the poor\n
-walk.
+The rich splurge on direct flights,\n
+the middle class take transfers,\n
+and the poor walk.
 <$12>
 \n
 
 <CLEAR>
-Airfares add up faster than most of the\n
-birdline's few customers ever know what\n
-hit 'em.
+Direct flights will add up faster\n
+than the birdline's few customers\n
+ever figure out what hit them.
 <$12>
 \n
 
 <CLEAR>
-Even though there are almost no customers\n
-who use it, people still keep acting on\n
-useless distinctions.
+Even though there aren't many\n
+birdline customers anymore, it's\n
+easy for people to get carried away.
 <$12><$00>
 
 
 //<CLEAR>西エリアの町へ　お出かけのお客様は\nここで　お乗り換えください<$12>\n<CLEAR>南エリアへの便は　都合により\n現在、すべて休航中です\nご了承ください<$12><$00>
 <CLEAR>
-We advise all passengers en route to West\n
-Area to transfer here.
+We advise all passengers\n
+en route to West Area\n
+to transfer here.
 <$12>
 \n
 
 <CLEAR>
-All flights through South Area are\n
-suspended at this time. Thank you for\n
-understanding.
+All flights through South Area\n
+are suspended at this time.\n
+Thank you for understanding.
 <$12><$00>
 
 
@@ -301,16 +306,16 @@ traveling on railcars, but here...
 \n
 
 <CLEAR>
-... the only real means of transportation is\n
-the birdline. People here use birds to\n
-fly!
+... the only real means of\n
+transportation is the birdline.\n
+People here use birds to fly!
 <$12>
 \n
 
 <CLEAR>
-I don't know any Neo Kenyans personally,\n
-but as a tourist, I love this place\n
-already!
+I don't know any Neo Kenyans\n
+personally, but as a tourist,\n
+I love this place to bits!
 <$12><$00>
 
 
@@ -396,81 +401,87 @@ an escort LVL 2 or higher.
 \n
 
 <CLEAR><$1B>
-Dogs are known to roam the area so please\n
-be careful.
+Dogs are also nown to roam\n
+the area, so please be careful.
 <$12><$00>
 
 
 //<CLEAR>お預かりできるのは　全部で３２個\n肉、植物、卵などの　ナマモノは\n原則として　お預かりできません<$12>\n<CLEAR>お預かりした物は　全国のどこの\nトランクルームからも　お引き出しが\n可能となって　おります<$12><$00>
 <CLEAR>
-We'll hold meats, plants, eggs, et cetera.\n
-Each customer gets space for 32 items\n
-total.
+We'll hold meats, plants, eggs,\n
+et cetera, but each customer gets\n
+a max allotment of 32 items slots.
 <$12>
 \n
 
 <CLEAR>
-Whatever you store here can be\n
-accessed from any storage unit in the land!
+Whatever you store here\n
+can be accessed from any\n
+storage unit in the land!
 <$12><$00>
 
 
 //新米のレンジャー隊員が　町から出て\n最初にやるべきことを　教えるゾ<$12>\n<CLEAR>まず　野外活動の命づな、\nナビゲーションシステム（ナビＳ）が\n壊れていないか、□ボタンで確かめろ<$12>\n<CLEAR>それから適当な動物を　見つけて\nＲ１ボタンで　動物図鑑が開くかも\n確認しておいたほうが　いいナ<$12>\n<CLEAR>まっ、滅多なことじゃ　壊れないから\n他のボタンもこの際、みんな\n適当に　バシバシ押してみるこった<$12><$00>
-Here's some advice I like to give to you\n
-greenhorn rangers before you leave\n
-town:
+Here's some advice I like to\n
+give to you greenhorn rangers\n
+before you leave town:
 <$12>
 \n
 
 <CLEAR>
-First, check the Navi-System (NaviS) with\n
-the □ button. Always know your\n
-location!
+First, check the Navi-System(NaviS)\n
+with the □ button.\n
+Always know your location!
 <$12>
 \n
 
 <CLEAR>
-See an animal of interest? Look it up in the\n
-Animal Bible with the R1 button.
+See an animal of interest?\n
+Look it up in the Animal Bible\n
+with the R1 button.
 <$12>
 \n
 
 <CLEAR>
-If all else fails, it never hurts to button\n
+If all else fails,\n
+it never hurts to button\n
 mash and see what pops up.
 <$12><$00>
 
 
 //初めての町に着いて　最初にやることは\nこのお姉ちゃんたちと　お近づきに\nなっておくことだぜ<$12>\n<CLEAR>その町の周辺に　どんな動物がいるか\n大まかに教えてくれるから　むやみに\n出歩いて死ぬことが　少しは減るからな<$12><$00>
-The first thing you want to do when you\n
-first enter a town is talk to reception at\n
-the gate.
+The first thing you want to do when\n
+you first enter a town is talk to\n
+the receptionists at the gate.
 <$12>
 \n
 
 <CLEAR>
-They'll warn you of what animals live\n
-nearby, so you won't run into any\n
-surprises.
+They'll warn you of what animals\n
+live nearby, so you don't run\n
+into any surprises.
 <$12><$00>
 
 
 //銀行で借金してでも、猟犬は２頭、\nそろえといたほうが　何かと楽だぜ<$12><$00>
-Even if you need to get a loan from the\n
-bank, I suggest having 2 hunting dogs.
+Even if you need to get a loan from\n
+the bank to adopt them, I recommend\n
+having 2 hunting dogs on every trip.
 <$12><$00>
 
 
 //ケン？　こないだの格好だけどよ\nサンタクロースの服なんか　着込んで\n孤児院の慰問でも　はじめたのかい？<$12><$00>
-Ken? I thought I saw you in santa duds the\n
-other day. Do you do orphanage visits now?
+Ken? I thought I saw you in\n
+those santa duds the other day.\n
+Do you do hospital visits now?
 <$12><$00>
 
 
 //<CLEAR>オズポート公園に　行く前に\n箱船、それと私の家…\nミナゴに　あるんでしょ？<$00>
 <CLEAR>
-Hey, aren't both the Astro Ark and\n
-Minago on the way to OzPort Park?
+Hey, aren't both the\n
+Astro Ark and Minago\n
+on the way to OzPort Park?
 <$00>
 
 
@@ -545,31 +556,31 @@ Hardia Gate 2F
 
 //<CLEAR>バードラインは　ネオケニア全土への\n快適な旅を　お約束します\n辺境の町でも　ひとっ飛びですよ！<$12><$00>
 <CLEAR>
-No matter how far you want to go, the\n
-birdline will carry you anywhere in Neo\n
-Kenya! 
+No matter how far you want to go,\n
+the birdline will carry you anywhere\n
+in Neo Kenya! 
 <$12><$00>
 
 
 //<CLEAR>当社のメニューの見方を　ご説明します\n左から町の名、続いて中央が\n乗り継ぎ分も含めた　航空運賃です<$12>\n<CLEAR>右の記号は　ナビシステムに対応した\n町の位置座標と　なっております<$12>\n<CLEAR>どうしても　徒歩で行きたいという\n酔狂なお客様は　右の位置座標を\nご参考に　どうぞ∥<$12><$00>
 <CLEAR>
-From the left on the display, you'll see town\n
-names, then then airfares, then a column of\n
-numbers.
+From the left on the display,\n
+you'll see town names, then airfares,\n
+then a column of unique numbers.
 <$12>
 \n
 
 <CLEAR>
 That right-most column of numbers\n
-indicate the destination coordinates as\n
-they'd appear on your NaviS.
+indicates the destination coordinates\n
+as they appear on your NaviS.
 <$12>
 \n
 
 <CLEAR>
-If you've ever "down one too many" and\n
-can't read big words, focus on those tiny\n
-coordinates.
+If you're ever "downed one too many"\n
+and can't read the big words, focus\n
+on those simple coordinates instead.
 <$12><$00>
 
 
@@ -647,70 +658,72 @@ squirrels.
 \n
 
 <CLEAR>
-We advise all tourists to hire an escort LVL\n
-4 or higher.
+We advise all tourists to hire\n
+an escort LVL 4 or higher.
 <$12>
 \n
 
 <CLEAR>
-Finally, there's a stray dogs' den along the\n
-southern coast. We advise you stay away.
+Finally, there's a stray dogs'\n
+den along the southern coast.\n
+We advise you stay away.
 <$12><$00>
 
 
 //<CLEAR>当選発表の季節を過ぎると、宝クジは\n当たっていても　ハズレていても\n紙クズに　なってしまいますが…<$12>\n<CLEAR>ときどき　宝クジを　お預けになって\nそのまま忘れてる方も　いますね<$12><$00>
 <CLEAR>
-Win or lose, after the big drawing, that\n
-precious Lottery Ticket is nothing more\n
-than Scrap Paper. 
+Win or lose, after the big drawing,\n
+that precious Lottery Ticket is\n
+nothing more than Scrap Paper. 
 <$12>
 \n
 
 <CLEAR>
-Still, some people forget ever buying one,\n
-and hang onto a winning Lottery Ticket\n
-seasons after it expires.
+Some people forget ever buying one,\n
+only to walk around with a winner in\n
+their pocket long after its expiration.
 <$12><$00>
 
 
 //連邦の調査班が　このネオケニアに\n初めて降り立った時　一番驚いたのは\n私らビースチャンとの　遭遇らしいね<$12>\n<CLEAR>ロケットもない人類が　辺境の星に\nなぜいたか、謎らしいけどサ…<$12>\n<CLEAR>大きなお世話だよ∥　私ら、ずーっと\nここに住んでんだし　後から来たヤツに\nゴチャゴチャ、言われたかないねぇ<$12><$00>
-What shocked the first federal field survey\n
-team upon landing on Neo Kenya the most?
+What shocked the original \n
+federal field survey team the most\n
+when they first landed on Neo Kenya?
 <$12>
 \n
 
 <CLEAR>
-It was us Beastians. They were baffled\n
-at the idea that we "dropped in" first\n
-without a rocket.
+It was us Beastians. The feds were\n
+baffled by the notion that us Beastians\n
+"snuck in first" without a rocket.
 <$12>
 \n
 
 <CLEAR>
-But our explanation is simple! We were here\n
-from the start! THEY'RE the ones dropping\n
-in.
+But our explanation is simple!\n
+We were here from the start!\n
+THEY'RE the ones who snuck in.
 <$12><$00>
 
 
 //最近、あちこちで　難民救済の\n寄付金集めの　サンタクロースを\n見かけるだろ<$12>\n<CLEAR>グリーン製薬の社員が　ボランティアで\nやってるらしいんだけど　ニセ者も\n多くて　困ってるらしいねぇ<$12>\n<CLEAR>「兄ちゃん！　兄ちゃん！」とか\n声を掛けてくる　ノリの軽そうな\nサンタは　信用しないに限るゼ！<$12><$00>
-Recently, we've seen some Santa-clad fellas\n
-walking around. They're collecting donations\n
-for charity.
+Recently, we've seen some santa-cladfellas walking around to\n
+collect\n
+donations for charity.
 <$12>
 \n
 
 <CLEAR>
-I heard they work for Green\n
-Pharmaceuticals, but who knows how\n
-many of the guys here are copycats.
+I've heard that some Santas work Green\n
+Pharmaceuticals, but we don't know how\n
+many of the guys here are just copycats.
 <$12>
 \n
 
 <CLEAR>
-The shadiest one of all is the one always\n
-shouting, "Brother! Brother!" I don't trust\n
-that one bit!
+The shadiest Santa of all is the one\n
+always shouting, "Brother! Brother!"\n
+I don't trust that kid one bit!
 <$12><$00>
 
 
@@ -779,42 +792,44 @@ Minago Gate 1F
 
 //<CLEAR>神秘のベールに包まれた\nビースチャンの町ミナゴへ　ようこそ<$12>\n<CLEAR>この町の　観光スポットは\n鐘つき堂のある　美しい教会です<$12><$00>
 <CLEAR>
-Welcome to the shrouded Beastian village of\n
-Minago.
+Welcome to the shrouded\n
+Beastian village of Minago.
 <$12>
 \n
 
 <CLEAR>
-We encourage all tourists to see our\n
-beautiful church and its bell tower!
+We invite all tourists to\n
+see our beautiful church\n
+and its bell tower!
 <$12><$00>
 
 
 //<CLEAR><$1B>プテラノ鳥の　仕入れと調教の方法は\n我社の　トップシークレットなの\n教えたりしたら　クビになっちゃうわ<$12>\n<CLEAR>でも　きっと、あなたには\n近いうちに　バレちゃうわね<$12><$00>
 <CLEAR><$1B>
-How we capture and tame our\n
-Pteranobirds remains a strict company\n
-secret.
+How we capture and tame\n
+our Pteranobirds remains\n
+a strict company secret.
 <$12>
 \n
 
 <CLEAR>
-But that doesn't mean you can't find a way\n
-to do it too!
+But that doesn't mean\n
+you can't find a way\n
+to tame one yourself!
 <$12><$00>
 
 
 //この町の連中ときたら　口を開けば\n「伝説では…」「言い伝えによると…」\n年がら年中、こればっかし∥<$12>\n<CLEAR>だから　ビースチャンは\n進歩がないって　言われるんだよ<$12><$00>
-Talk to any Beastian, and odds are you'll\n
-hear something akin to, "according to\n
-legend," or, "we still believe... "
+Talk to any Beastian, and odds are,\n
+you'll hear phrases like, "According\n
+to legend," or, "We still believe..."
 <$12>
 \n
 
 <CLEAR>
-Maybe that's why people think Beastians\n
-are so highly superstitious and\n
-back-water.
+Maybe that's why people think\n
+Beastians are so highly\n
+superstitious and back-water.
 <$12><$00>
 
 
@@ -904,15 +919,16 @@ shouldn't approach you.
 \n
 
 <CLEAR>
-If you're still nervous, hire an escort LVL\n
-7 or higher.
+If you're still nervous,\n
+hire an escort LVL 7 or higher.
 <$12><$00>
 
 
 //<CLEAR>３番目に大事なモノを　預かるのが\nトランクルーム！　２番目は病院∥\n１番、大事なモノを　預かるのは…<$12>\n<CLEAR>もちろん、銀行∥∥<$12><$00>
 <CLEAR>
-Three things you can always count on are\n
-your storage unit, the hospital... 
+Three places you can always\n
+depend on are your storage unit,\n
+the hospital... 
 <$12>
 \n
 
@@ -922,20 +938,21 @@ your storage unit, the hospital...
 
 
 //何をしていいか、わからなくなったら\nとりあえず　動物集めだよ<$12>\n<CLEAR>今は複雑にこじれた　事件の糸も\nきっと時間が　ほぐしてくれる…<$12>\n<CLEAR>あなたの日頃の　行いが\nそれなりに　良ければの話しだけどサ∥<$12><$00>
-If you're stuck on what to do, go catch\n
-animals for a little while.
+If you're stuck on what to do,\n
+go catch animals for a spell.
 <$12>
 \n
 
 <CLEAR>
-We still don't have any details on what all\n
-happened, so give things time to settle.
+We still don't have any details\n
+on what all happened around here.\n
+We have to let the dust settle.
 <$12>
 \n
 
 <CLEAR>
-At least by keeping busy, you'll have\n
-stuff to brag about later.
+At least by keeping busy, you'll\n
+have stuff to brag about later.
 <$12><$00>
 
 
@@ -1004,30 +1021,32 @@ Hospico Gate 2F
 
 //<CLEAR>ヤな客には「お客様、顔色が\nすぐれませんけど　大丈夫ですか？」\nこう言うことに　してるのよ<$12>\n<CLEAR>そうすると、たいていは　てき面に\n鳥酔いしちゃうのよ、これが∥\n人間て　ホント暗示に弱いわね<$12><$00>
 <CLEAR>
-For annoying visitors, I make sure to ask\n
-them, "You're looking pale. Are you alright?"
+When a visitor gets on my nerces,\n
+I walk over and say, "My! You look\n
+so pale! Should I check you in?"
 <$12>
 \n
 
 <CLEAR>
-By doing that, most of them really get sick!\n
-Shows you how humans are susceptible to\n
-placebo-like suggestions.
+By doing that, most of them feel\n
+sick to their stomach, which shows\n
+how susceptible we are to placebo.\n
+
 <$12><$00>
 
 
 //<CLEAR>病気に苦しむ人を　ながめながら\n自分の健康を　確かめる∥\nこれが　何より長生きの秘訣∥<$12>\n<CLEAR>とくに親しい人が　入院してるわけでも\nないのに　お見舞いに行きたがる人の\n７２％は　そう思ってるらしいわよ<$12><$00>
 <CLEAR>
-"Watching your own health while caring for\n
-those who are sick is the secret for living\n
-a long life."
+"Watching your own health while\n
+caring for those who are sick"\n
+is the key to living a long life."
 <$12>
 \n
 
 <CLEAR>
-Apparently, 72% of people who want to visit\n
-the hospital without actually having a\n
-patient to visit think so!
+Apparently, 72% of "people dumb enough\n
+to visit a hospital without actually\n
+having a loved one here" would agree!
 <$12><$00>
 
 
@@ -1107,15 +1126,15 @@ crabs.
 \n
 
 <CLEAR>
-We advise all tourists to hire an escort LVL\n
-8 or higher.
+We advise all tourists to\n
+hire an escort LVL 8 or higher.
 <$12><$00>
 
 
 //<CLEAR><$1B>カニから作る装備は　けっこう、\nバランスも良くて　使えるらしいね<$12><$00>
 <CLEAR><$1B>
-Equipment crafted from crabs is usually\n
-real balanced and versatile.
+Equipment crafted from crabs is\n
+usually real balanced and versatile.
 <$12><$00>
 
 
@@ -1184,21 +1203,22 @@ Paraside Gate 2F
 
 //<CLEAR>あたし…　ゴメスに\n優しく　いじめてもらうのが好き■<$12>\n<CLEAR>とくに、コブタちゃんごっこが\n彼もあたしも　お気に入りなの■<$12><$00>
 <CLEAR>
-I just love getting to tease Gomez when he\n
-roleplays.■
+I just love getting to tease\n
+Gomez when he roleplays.■
 <$12>
 \n
 
 <CLEAR>
-Ah, what fun he and I have when he\n
-becomes "Pig Man"!■
+Why, he and I have the most\n
+fun when he becomes "Pig Man"!■
 <$12><$00>
 
 
 //<CLEAR>ここの代行ハンターを　雇えば\n自分の手は　汚さずに\nいろんな動物が　楽に手に入るわよ<$12><$00>
 <CLEAR>
-Hire the right proxy hunter, and you'll\n
-catch animals without breaking a sweat!
+Hire the right proxy hunter,\n
+and you'll catch animals without\n
+breaking a sweat!
 <$12><$00>
 
 
@@ -1266,27 +1286,27 @@ Battle Park Gate 1F
 
 
 //この町の南では\n<$1B>ノミ、<$1B>ウマ、<$1B>リス<$12>\n<CLEAR>北の湖沼地帯では　<$1B>カバ、<$1B>カメ\n雪が降れば　<$1B>シロクマも\nご覧いただくチャンスが　あります<$12>\n<CLEAR>南は　レベル<$06>10<$04>以上、北へは\nレベル<$06>14<$04>以上の　ハンターを\nぜひ　ご同行の上、おでかけください<$12><$00>
-To the south, you'll find 
+To the south, you'll find\n
+
 <$1B>
 fleas, 
 <$1B>
-horses, and\n
-
+horses, and 
 <$1B>
 squirrels.
 <$12>
 \n
 
 <CLEAR>
-In the northern wetlands, there are 
+In the northern wetlands,\n
+there are 
 <$1B>
-hippos\n
-and 
+hippos and 
 <$1B>
-turtles. In winter, you might see 
+turtles.\n
+In winter, you might see 
 <$1B>
-polar\n
-bears.
+polar bears.
 <$12>
 \n
 
@@ -1296,25 +1316,26 @@ Hunters should be LVL
 10
 <$04>
  if heading\n
-south, and at least  LVL 
+south, and LVL 
 <$06>
 14
 <$04>
- if heading\n
-north.
+ if heading north.
 <$12><$00>
 
 
 //<CLEAR>守備力が　からきしない動物を\n捕まえるのは　意外と\n難しいそうですね<$12>\n<CLEAR>いっそ素手で戦うとか　レベルの低い\n猟犬を使ってみるとか、いろいろ\n工夫が　必要なんでしょうかね<$12><$00>
 <CLEAR>
-Animals with low DEF can be the hardest\n
-ones to properly catch without killing them.
+Animals with low DEF can be\n
+hard to properly catch without\n
+killing them.
 <$12>
 \n
 
 <CLEAR>
-You might try fighting bare handed, or\n
-with a low level dog. Get creative out there.
+You might try fighting bare-handed,\n
+or with the help of a weaker dog.\n
+Get creative out there.
 <$12><$00>
 
 
@@ -1323,8 +1344,9 @@ L-
 <$06>
 11
 <$04>
- is a tunnel hunters take on and off\n
-throughout the year to reach East Area.
+ is a tunnel hunters take\n
+ n and off throughout the year\n
+to reach East Area.
 <$12><$00>
 
 
@@ -1398,8 +1420,8 @@ NaviS'
 <$06>
 07
 <$04>
- blocks, take the tunnel from\n
-either side of the dome.
+ blocks, take the tunnel\n
+out from either side of the dome.
 <$12>
 \n
 
@@ -1412,15 +1434,16 @@ snowstorms.
 
 //<CLEAR>西エリアの　観光ポイントは\n一年中、クリスマスのエターナ\n町は美しく　観光客にも親切です<$12>\n<CLEAR>腕に自信のある　お客様には\nバトルパークの　特設テントが\nおすすめです！<$12><$00>
 <CLEAR>
-The biggest attraction in West Area has\n
-to be Eterna, the town where XMas lasts\n
-all year!
+The biggest attraction in West Area\n
+has to be Eterna, the town where\n
+XMas lasts all year!
 <$12>
 \n
 
 <CLEAR>
-If you want to test your skills, go check\n
-out the special tent in Battle Park!
+If you want to test your skills,\n
+go check out the special tent in\n
+Battle Park!
 <$12><$00>
 
 
@@ -1498,8 +1521,8 @@ TIGER CLAW FOR XMAS EXHIBIT
 \n
 
 <CLEAR>
-In efforts to reopen the Beastian village of\n
-Koshikata, the village's new elder,\n
+In efforts to reopen the Beastian villageof Koshikata, the\n
+village's new elder,\n
 Cannibal(32)... 
 <$12>
 \n
@@ -1521,15 +1544,16 @@ off!
 <CLEAR>
 A wild pack of 
 <$1B>
-turtles have taken over the\n
-area surrounding Battle Park.
+turtles have\n
+taken over the terrain\n
+around Battle Park!
 <$12>
 \n
 
 <CLEAR>
-I barely escaped with my life! If you're\n
-weak, camp and do business out here\n
-instead.
+I barely escaped with my life!\n
+If you're weak, camp and do\n
+business out here instead.
 <$12><$00>
 
 
@@ -1667,7 +1691,8 @@ G Factory Gate 1F
 
 //<CLEAR>ケン、私やっぱり\n行きたくない…　こわいのよ…<$00>
 <CLEAR>
-Ken, I can't do this after all. I'm... scared.
+Ken, I can't do this after all.\n
+I'm... scared.
 <$00>
 
 
@@ -1685,8 +1710,9 @@ I'm still going
 
 //<CLEAR>私、思い出したのよ\nあの夜　ミナゴで起きたことを\n犯人も　見たわ<$00>
 <CLEAR>
-Because I remember now. The culprit\n
-behind the Minago disappearance... 
+Because I remember now.\n
+The culprit behind the\n
+Minago disappearance... 
 <$00>
 
 
@@ -1850,8 +1876,8 @@ Eterna Gate 1F
 //この町の周辺では　<$1B>ハイエナ、<$1B>イタチ\n北部では　<$1B>シロクマを\n見ることが　できます<$12>\n<CLEAR>レベル<$06>13<$04>以上の　ガイドかハンターと\n外出することを　おすすめします<$12><$00>
 Around town, you might find 
 <$1B>
-hyenas or\n
-
+hyenas\n
+or 
 <$1B>
 weasels, with 
 <$1B>
@@ -1860,8 +1886,8 @@ polar bears to the north.
 \n
 
 <CLEAR>
-We advise all tourists to hire an escort LVL\n
-
+We advise all tourists to\n
+hire an escort LVL 
 <$06>
 13
 <$04>
@@ -1873,8 +1899,9 @@ We advise all tourists to hire an escort LVL\n
 <CLEAR>
 Don't underestimate 
 <$1B>
-penguins. Get caught\n
-under a flock of them, and you're gone.
+penguins.\n
+Get caught under a flock\n
+of them, and you're gone.
 <$12><$00>
 
 
@@ -1943,8 +1970,9 @@ Eterna Gate 2F
 
 //<CLEAR><$1B>イタチは　樹木に化けて\n手頃な獲物が　そばを通るまで\n１年でも２年でも　待ってるそうよ<$12><$00>
 <CLEAR><$1B>
-Weasels hide in trees, sometimes for a year\n
-or two, for the right targets to approach.
+Weasels hide in trees for up to\n
+a year or two until the right\n
+prey to approaches.
 <$12><$00>
 
 
@@ -2018,10 +2046,9 @@ Our storage units here are always full.
 \n
 
 <CLEAR>
-People all too often sink down the holes in\n
-Spurr Marina and get stuck forever,\n
-doomed to never come back for their\n
-belongings.
+Divers often sink in the holes of\n
+Spurr Marina and get trapped forever,\n
+doomed to never reclaim their belongings.
 <$12><$00>
 
 
@@ -2090,24 +2117,24 @@ Spurr Valley Gate 2F
 
 //<CLEAR>昔は、口笛で<$1B>プテラノ鳥を　自由に呼ぶ\n人もいたって　ビースチャンの\n友だちが　そっと教えてくれたの…<$12>\n<CLEAR>そんなこと　みんなができた日には\nウチの会社なんて　倒産、間違いなしよ\nもう、心配で…　心配で………<$12>\n<CLEAR>思わず、笑っちゃった∥　アハハハ∥<$12><$00>
 <CLEAR>
-A Beastian friend of mine told me that long\n
-ago, there were people who were able to\n
-call for 
+A Beastian friend of mine told me once\n
+that, long ago, there was a man who could\n
+summon  
 <$1B>
 Pteranobirds by whistling.
 <$12>
 \n
 
 <CLEAR>
-If the day comes where everyone learns to\n
-do that, our company would definitely go\n
-under! Ah...  Haha...  Ha?
+If the day comes where everyone\n
+learns to do that, our company would\n
+definitely go under! Ha... hahaha?
 <$12>
 \n
 
 <CLEAR>
-I don't know why I'm laughing, it's just... \n
-Ahaha... 
+I don't know why I'm laughing,\n
+it's just so... Ahaha...! 
 <$12><$00>
 
 
@@ -2199,7 +2226,7 @@ a
 <$06>
 99
 <$04>
- species capacity!
+ animal capacity!
 <$12><$00>
 
 
@@ -2231,14 +2258,14 @@ Hello! How will you travel today?
 //<CLEAR>脱出シャトル最終便、\n搭乗手続キ　間モナク　終了イタシマス\nオズサットヘ　オ急ギクダサイ<$12>\n<CLEAR>ゴ利用ノ際ハ　クレグレモ\nゴ注意クダサイ<$12><$00>
 <CLEAR>
 THE LAST MIGRATION SHUTTLE WILL BEGIN\n
-BOARDING SOON. PLEASE CHECK IN AT OZSAT\n
-AND PREPARE FOR DEPARTURE.
+BOARDING SOON. PLEASE CHECK IN AT\n
+OZSAT AND PREPARE FOR DEPARTURE.
 <$12>
 \n
 
 <CLEAR>
-BE CAREFUL WHEN TRAVELING TO THE\n
-SHUTTLE.
+BE CAREFUL WHEN TRAVELING\n
+TO THE SHUTTLE.
 <$12><$00>
 
 
@@ -2291,9 +2318,9 @@ Thank you for your loyal patronage!
 
 //<CLEAR>ただ今、西エリア中部に\n大雪警報が　出されています\n道中くれぐれも　お気をつけて！<$12><$00>
 <CLEAR>
-A heavy snowfall warning has been issues\n
-in central West Area. Please be careful\n
-on your journey.
+A heavy snowfall warning has\n
+been issued in central West Area.\n
+Please be careful on your journey.
 <$12><$00>
 
 
@@ -2305,29 +2332,29 @@ Happy travels!
 
 //<CLEAR>旅の安全を約束する　バードラインを\n次も　ご利用下さいませ<$12><$00>
 <CLEAR>
-The birdline will take you to your\n
-destination.
+The birdline will take\n
+you to your destination.
 <$12><$00>
 
 
 //<CLEAR>タダ今、西エリア中部ニ\n大雪警報ガ　出サレテイマス\n道中クレグレモ　オ気ヲツケテ！<$12><$00>
 <CLEAR>
-CENTRAL WEST AREA CURRENTLY FACES\n
-SEVERE SNOWFALL. BE CAREFUL IF\n
-VENTURING IN THAT AREA!
+CENTRAL WEST AREA CURRENTLY\n
+FACES SEVERE SNOWFALL.\n
+BE CAREFUL IF VENTURING IN THAT AREA!
 <$12><$00>
 
 
 //<CLEAR>長ラクノ　ゴ愛顧、\n誠ニ　アリガトウ　ゴザイマシタ<$12><$00>
 <CLEAR>
-THANK YOU FOR LOYAL PATRONAGE!
+THANK YOU FOR YOUR LOYAL PATRONAGE!
 <$12><$00>
 
 
 //<CLEAR>銀行で　お金をご都合の上、\nまた　お越しください<$12><$00>
 <CLEAR>
-If you're in a pinch, take a loan from the\n
-bank and come back.
+If you're in a pinch, take a small\n
+loan from the bank and come back.
 <$12><$00>
 
 
@@ -2416,26 +2443,26 @@ IS CURRENTLY CLOSED.
 //<CLEAR>脱出シャトル最終便、\n搭乗手続キ　間モナク　終了イタシマス\nオズサットヘ　オ急ギクダサイ<$12><$00>
 <CLEAR>
 THE LAST MIGRATION SHUTTLE WILL BEGIN\n
-BOARDING SOON. PLEASE CHECK IN AT OZSAT\n
-AND PREPARE FOR DEPARTURE.
+BOARDING SOON. PLEASE CHECK IN AT\n
+OZSAT AND PREPARE FOR DEPARTURE.
 <$12><$00>
 
 
 //お客様、そのエリアは私有地ですので\nシュートサービスはできません<$12><$00>
-The drop service cannot be used to\n
-enter private property!
+The drop service cannot be used\n
+to enter private property!
 <$12><$00>
 
 
 //オ客様、ソノ　エリア私有地デスノデ\n「シュートサービス」ハデキマセン<$12><$00>
-THE DROP SERVICE CANNOT BE USED TO\n
-ENTER PRIVATE PROPERTY!
+THE DROP SERVICE CANNOT BE USED\n
+TO ENTER PRIVATE PROPERTY!
 <$12><$00>
 
 
 //<CLEAR>シュートサービスは\nお客様のお好きな　場所へ落と…<$11>30\nお連れするサービスです<$12>\n<CLEAR>サービス料は<$1D><$06>1480<$04><$14>￥です\nご利用なさいますか？\n<$01>いいとも<$0E>／<$01>また今度<$0E><$00>
 <CLEAR>
-Our drop service can take you directly to\n
+Our drop service takes you over the\n
 
 <$11>
 30coordinates you specify.
@@ -2827,9 +2854,9 @@ Come back when you need anything!
 
 //<CLEAR>他の町の　トランクルームでも\n自由に出し入れが　可能です\nいや、便利な世の中に　なりましたね<$12><$00>
 <CLEAR>
-The ability to access your items from\n
-any town speaks for our world's unmatched\n
-luxuries.
+The ability to access your items\n
+from any town speaks for our\n
+world's unmatched luxuries.
 <$12><$00>
 
 
@@ -4347,8 +4374,8 @@ I don't bite... usually! Hahaha!
 
 //<CLEAR>もしもし　兄ちゃん\n俺だよ　オ・レ！<$00>
 <CLEAR>
-Why hello, Brother!\n
-It's me. Good ol' St. Nek!
+Why hello, Brother! It's me.\n
+Jolly ol' St. Nek!
 <$00>
 
 
@@ -4589,7 +4616,7 @@ Naiive goddesses
 
 
 //陽気なサンタ<$00>
-A cheerful Santa
+O jolly Santa
 <$00>
 
 
@@ -4860,14 +4887,14 @@ Reunion with God
 
 #WRITE(PTR, $007A)
 //『プテラノ鳥は　たいへん危険です\n＿オリに手や足を　入れないで下さい<$12>\n<CLEAR>＿万一、事故が起きた場合\n＿当社は　責任を負いかねます』\n<$02>168バードライン<$12><$00>
-"DANGER! DO NOT PUT YOUR HAND IN THE\n
-PTERANOBIRD CAGE!"
+"DANGER! DO NOT PUT YOUR HAND\n
+IN THE PTERANOBIRD CAGE!"
 <$12>
 \n
 
 <CLEAR>
-"WE ARE NOT RESPONSIBLE FOR ANY\n
-INJURIES."\n
+"WE ARE NOT RESPONSIBLE\n
+FOR ANY LOST BODY PARTS."\n
 
 <$02>
 168 -BIRDLINE
@@ -4889,9 +4916,9 @@ prohibited.
 \n
 
 <CLEAR>
-Only one survivor was found, and friends\n
-and relatives are eager for more\n
-information.
+Only one survivor was found,\n
+and friends and relatives are\n
+desperate for more information.
 <$12><$00>
 
 
@@ -4903,14 +4930,16 @@ VOLUNTEERS TO BOARD ASTRO ARK
 \n
 
 <CLEAR>
-This ends a long search after Linda\n
-Aurea(15) was selected as the female pilot.
+This ends a long search after\n
+Linda Aurea(15) was selected\n
+as the female pilot.
 <$12>
 \n
 
 <CLEAR>
-Ken is a freshman ranger, and Linda is his\n
-childhood friend! Let's wish them luck!
+Ken is a freshman ranger, and\n
+Linda is his childhood friend!\n
+Let's wish them luck!
 <$12><$00>
 
 
@@ -4948,9 +4977,9 @@ were found in President Green's mansion.
 \n
 
 <CLEAR>
-Strangely, her corpse was also found! Dr.\n
-Panheim is being interrogated as a\n
-suspect.
+Strangely, her corpse was also found!\n
+Drof. Panheim is being interrogated\n
+as a suspect.
 <$12><$00>
 
 
