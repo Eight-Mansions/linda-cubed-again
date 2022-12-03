@@ -749,7 +749,7 @@ Camp / Dogs
 //0000_0000072A_bin\PROG.BIN|000064EF|122
 //<CLEAR>ワナは一晩で　ひとつしか作れない<$12>
 <CLEAR>
-Only 1 trap can be made per night.
+Only one trap can be made per night.
 <$12><$00>
 
 
@@ -1080,8 +1080,8 @@ Ken carefully set the Rental Trap.
 //0000_0000072A_bin\PROG.BIN|000064EF|169
 //<CLEAR>ケンは　「自前ワナ」の設置場所を\n一度に　３ヵ所しか\n覚えられそうにない…<$12>
 <CLEAR>
-Ken can only remember up to 3 Makeshift Trap locations\n
-at a time.
+Ken can only remember up to three\n
+Makeshift Trap locations at a time.
 <$12><$00>
 
 
@@ -1109,7 +1109,7 @@ Ken set the Makeshift Trap.
 //<CLEAR>やっぱり　ケンは\n前に仕掛けた　「自前のワナ」の場所を\nひとつ　忘れてしまった…　トホホ…<$12>
 <CLEAR>
 ... Oops! As expected, Ken forgot\n
-the location of 1 previously set\n
+the location of one previously set\n
 Makeshift Trap.
 <$12><$00>
 
@@ -1987,7 +1987,7 @@ TWO BY TWO BY TWO,\n
 SHOULDST BOARD THIS ARK\n
 WITH WORTHY PILOTS.\n
 <$02>
-114-SIGNED, GOD"
+114--SIGNED, GOD"
 <$00>
 
 
@@ -2027,11 +2027,7 @@ won't fly.
 \n
 <CLEAR>
 There's no propulsion mechanism anywhere.\n
-It 
-<$06>
-100
-<$04>
-％ would not survive lift off.
+It 100% would not survive lift off.
 <$12>
 \n
 <CLEAR>
@@ -2231,7 +2227,7 @@ and suddenly vanish right after.
 <CLEAR>
 And yet, despite everything,\n
 she still raised you, who had no one\n
-in the world, as one of her own.
+in the world, as her own beloved child.
 <$12><$00>
 
 
@@ -2610,7 +2606,7 @@ This reminds me of a fun fact...
 <CLEAR>
 Not even 1% of households\n
 that own an encyclopedia\n
-open it 3 times in 1 year.
+open it three times a year.
 <$12><$00>
 
 
@@ -2618,7 +2614,7 @@ open it 3 times in 1 year.
 //<CLEAR>まさか　この観葉植物…\nフローラ博士の　作品じゃないよなぁ<$12>
 <CLEAR>
 No way...\n
-This can't be one of Dr.Flora's!
+This can't be Dr.Flora's work!
 <$12><$00>
 
 
@@ -2689,8 +2685,8 @@ No
 //0031_0000360C_bin\PROG.BIN|00004CA5|472
 //<CLEAR>肉からなるものと　その母が\n皆、絶やされようとしている
 <CLEAR>
-"Mother Earth and her children of flesh\n
-will die."
+"Mother Earth and her\n
+children of flesh will die."
 <$00>
 
 
@@ -2714,9 +2710,8 @@ to board the Astro Ark."
 //0031_0000360C_bin\PROG.BIN|00004CA5|475
 //<CLEAR>また　清き獣と　清くない獣と　鳥の\n一つがいずつを取り　それらが\n生き残るように　せよ…
 <CLEAR>
-"Bring one pair of every\n
-bird and animal, pure or impure,\n
-that they may live."
+"Bring a pair from every bird and animal,\n
+pure or impure, that they may live."
 <$00>
 
 
@@ -2950,12 +2945,9 @@ into a "love nest" for you and Linda.
 \n
 
 <CLEAR>
-There's 
-<$06>
-800
-<$04>
- days' worth of food and\n
-essentials, 2 beds and 1 sweet library!
+There's 800 days' worth of\n
+food and essentials, two beds\n
+and one sweet library!
 <$12>
 \n
 
@@ -3062,9 +3054,9 @@ No
 8
 <$02>
 38Formatting in progress... \n
-Do not remove the card\n
+Do not remove card\n
 <$02>
-77or turn off the console.
+77or shut off console.
 <$00>
 
 
@@ -3119,7 +3111,7 @@ Formatting complete!
 <$09>
 8
 <$02>
-35The card in this slot may be corrupt.
+35Inserted card may be corrupt.
 <$00>
 
 
@@ -3151,7 +3143,7 @@ Game will not be saved.
 //0031_0000360C_bin\PROG.BIN|000062DF|516
 //<CLEAR>このスロットのカードを　使用するには\nフォーマットする必要があります
 <CLEAR>
-The card in this slot\n
+Inserted card\n
 must be formatted before use.
 <$00>
 
@@ -3159,7 +3151,7 @@ must be formatted before use.
 //0031_0000360C_bin\PROG.BIN|000062DF|517
 //<CLEAR>このスロットのカードは\n故障している可能性があります…
 <CLEAR>
-The card in this slot\n
+Inserted card\n
 may be corrupt.
 <$00>
 
@@ -3468,7 +3460,8 @@ Transactions suspended.
 
 //0031_0000360C_bin\PROG.BIN|000062DF|551
 //引き出し
-Withdrawal
+<$02>
+64Withdrawal
 <$00>
 
 
@@ -3502,7 +3495,7 @@ Deposit
 //0031_0000360C_bin\PROG.BIN|000062DF|556
 //<$02>64利＿息
 <$02>
-64Overhead
+64Interest
 <$00>
 
 
@@ -3562,13 +3555,13 @@ OzSAT Weather's global\n
 <CLEAR>
 East Area floods: 
 <$1E>
-34％\n
+34%\n
 West Area snow: 
 <$1E>
-34％\n
+34%\n
 South Area floods: 
 <$1E>
-34％
+34%
 <$12><$00>
 
 
@@ -3739,11 +3732,9 @@ No
 8
 <$02>
 35Saving in progress... \n
-Do not remove the card\n
+Do not remove card\n
 <$02>
-77or turn off the console.
-<$02>
-21Do not interrupt.
+77or shut off console.
 <$00>
 
 
@@ -5081,28 +5072,28 @@ Learned
 //0032_00003664_bin\PROG.BIN|00009194|781
 //<CLEAR><$1D>の　最大<$06>HP<$1E>@<$04>\n攻撃力<$06><$1E>@ <$04>守備力<$06><$1E>@<$04>\n素早さ<$06><$1E>@ <$04>最大<$06>BP<$1E>@<$04><$12>
 <CLEAR><$1D>
-: Max 
+:\n  Max 
 <$06>
-HP:
+HP: 
 <$1E>
 @
 <$04>
 \n
-ATK:
+  ATK: 
 <$06><$1E>
 @
 <$04>
-DEF:
+   DEF: 
 <$06><$1E>
 @
 <$04>
-SPD:
+   SPD: 
 <$06><$1E>
 @
 <$04>
-Max 
+   Max 
 <$06>
-BP:
+BP: 
 <$1E>
 @
 <$04><$12><$00>
@@ -5416,7 +5407,7 @@ someone who ACTUALLY needs the money?
 //公園内での　キャッチボール、たき火等\n他人の迷惑になる行為を　禁じます\n＿＿＿＿＿＿＿＿オズポート公園管理局<$12>
 "NUISANCE ACTIVITIES\n
 (BALL GAMES, BONFIRES, ETC) ARE BANNED!"\n
- -OZPORT PARK STAFF
+--OZPORT PARK STAFF
 <$12><$00>
 
 
@@ -5436,7 +5427,7 @@ AND KILL OUR TREES."
 \n
 <CLEAR>
 "WE ASK THE PUBLIC TO CEASE AND DESIST."!\n
- -OZPORT PARK STAFF
+--OZPORT PARK STAFF
 <$12><$00>
 
 
@@ -5587,7 +5578,7 @@ of the red cypress tree.
 <CLEAR><$19><$31><$15><$53>
 About waist-high,\n
 Ken found a　■ looped around\n
-the names "Ken + Linda".
+the names "KEN + LINDA".
 <$14><$12><$00>
 
 
@@ -5652,7 +5643,7 @@ of the red cypress tree.
 <CLEAR><$19><$31><$15><$53>
 About waist-high,\n
 Ken found a　■ looped around\n
-the names "Paul + Linda".
+the names "PAUL + LINDA".
 <$14><$12><$00>
 
 
@@ -5689,7 +5680,7 @@ of the red cypress tree.
 <CLEAR><$19><$31><$15><$53>
 About eye-level,\n
 Ken found a　■ looped around\n
-the names "Ken + Sachiko".
+the names "KEN + SACHIKO".
 <$14><$12><$00>
 
 
@@ -5742,7 +5733,7 @@ of the red cypress tree.
 <CLEAR><$19><$31><$15><$53>
 Ken found an ever so faint　■\n
 looped around the names\n
-"Gene + Ann".
+"GENE + ANN".
 <$14><$12><$00>
 
 
@@ -5857,9 +5848,9 @@ of the red cypress tree.
 //<CLEAR><$19><$31><$15><$53>■に入った　ネクとリンダの名前を\n見つけた\n<$01>ケンの名に戻す<$0E>／<$01>このままにする<$0E><$14>
 <CLEAR><$19><$31><$15><$53>
 Ken found a　■ around the names\n
-"Nek + Linda".\n
+"NEK + LINDA".\n
 <$01>
-Change "Nek" to "Ken"
+Change "NEK" to "KEN"
 <$0E>
  / 
 <$01>
@@ -5871,7 +5862,7 @@ Ignore it
 //<CLEAR><$19><$31><$15><$53>ケンは　ネクの名を削って\n自分の名を新たに彫った！<$14><$12>
 <CLEAR><$19><$31><$15><$53>
 Ken struck Nek's name from\n
-the tree and wrote "Ken"!
+the tree and wrote "KEN"!
 <$14><$12><$00>
 
 
@@ -5880,7 +5871,7 @@ the tree and wrote "Ken"!
 <CLEAR><$19><$31><$15><$53>
 Ken found a　■ lovingly\n
 looped around the names\n
-"Ken  + Linda".
+"KEN + LINDA".
 <$14><$12><$00>
 
 
@@ -6261,7 +6252,7 @@ Sniff... sniff, sniff?
 There's not 
 <$1E>
 1 soul here!\n
-Wait...  No, there's at least 
+Wait... No, there's at least 
 <$1E>
 1.
 <$12>
@@ -6756,7 +6747,7 @@ in spring
 //0035_00003988_bin\PROG.BIN|00001D9A|993
 //<CLEAR>卵を手に入れる方法は　３つだよ\n春に洞くつなんかで　拾ってくるのが\n普通だけど…<$12>\n<CLEAR>メスを　解体屋に持ち込んで\n卵を取り出す　気の短い人もいるね<$12>\n<CLEAR>それも　面倒くさい人は\n<$1D>公園へ　行ってみな<$12>
 <CLEAR>
-There's 3 ways to get eggs:\n
+There's three ways to get eggs:\n
 1. You can pick them out of\n
 caves in the springtime... 
 <$12>
@@ -6903,7 +6894,7 @@ Egg Center
 //<CLEAR>そこの機械が　通称ビッグママ\n一度に　最大８つの動物の卵の\n母親代わりになる　頼りになるヤツさ<$12>
 <CLEAR>
 This machine to my right is Big Mama.\n
-It can raise up to 8 eggs at a time.
+It can raise up to eight eggs at a time.
 <$12><$00>
 
 
@@ -6944,15 +6935,16 @@ Exit
 //<CLEAR>ごめんよ、ビッグママのお腹は\nあいにく　８つの卵で\n今、いっぱいなのさ<$12>
 <CLEAR>
 I'm sorry to hamper your plans,\n
-but Big Mama has an 8 egg capacity.
+but Big Mama has an eight egg\n
+capacity.
 <$12><$00>
 
 
 //0035_00003988_bin\PROG.BIN|00002286|1010
 //<CLEAR>次の冬が来たら　あたしも\nこの星と　おさらばさ<$12>\n<CLEAR>だから　たとえ動物とは言え、\n親のない子を　この世に\n無責任に　ほうり出したくないんだ<$12>\n<CLEAR>悪く思わないどくれ\n卵は　もう預かれないよ…<$12>
 <CLEAR>
-By next winter, I'll have to say\n
-goodbye to Neo Kenya too.
+By next winter, I'll have to\n
+say goodbye to Neo Kenya too.
 <$12>
 \n
 
@@ -7297,7 +7289,8 @@ animal migration is prohibited.
 
 //0036_000039C4_bin\PROG.BIN|00000E63|1060
 //☆ネオケニア　百年の歩み☆\nその発見から　現在までを\nわかりやすく紹介する　コーナーです<$12>
-"ENJOY A GLIMPSE OF NEO KENYA FROM\n
+"WALK IN NEO KENYA:\n
+ENJOY A GLIMPSE OF NEO KENYA FROM\n
 ITS DISCOVERY TO WHERE WE ARE TODAY!"
 <$12><$00>
 
@@ -7430,7 +7423,7 @@ Don't let anyone say otherwise!
 //銀河、最後のパラダイス∥\n大自然が　あなたを待っている∥\n＿＿＿＿＿＿＿＿＿＿ＮＫトラベル<$12>
 "SPACE, THE FINAL PARADISE!\n
 NATURE IS WAITING FOR YOU!"\n
- -NK TRAVEL
+--NK TRAVEL
 <$12><$00>
 
 
@@ -7523,8 +7516,8 @@ of debris in no time flat!
 
 //0036_000039C4_bin\PROG.BIN|0000195E|1079
 //このポスターの　ウソじゃないのは\nこの「最後の」ってトコだけだな<$12>
-The only part of this poster that isn't\n
-a fib is the word "final".
+The only part of this poster that\n
+isn't kidding is the word "final".
 <$12><$00>
 
 
@@ -8005,7 +7998,7 @@ What'll HR think...
 //ここより先　関係者以外　立入禁止\n＿＿＿＿＿＿＿＿＿＿＿ネオケニア銀行<$12>
 "PERSONNEL ONLY\n
 PERMITTED BEYOND THIS POINT."\n
--Neo Kenya Bank
+--NEO KENYA BANK
 <$12><$00>
 
 
@@ -8185,8 +8178,9 @@ that you let go right over your head!
 
 //0038_00003A28_bin\PROG.BIN|00004211|1179
 //わしの夢は　生まれ故郷のコシカタに\nたとえ１年限りでも　もう一度\n人が暮らすのを　見ることなんじゃ<$12>\n<CLEAR>そのための資金にと　ここ<$06>10<$04>年\nずっと宝クジを　買い続けとるんじゃが\n３等を当てるのが　やっとじゃよ<$12>
-I dream to see people live again in my home\n
-village, Koshikata, even if just for 1 year.
+I dream to see people come live\n
+in my home village, Koshikata,\n
+even if just for one year.
 <$12>
 \n
 
@@ -8462,8 +8456,8 @@ playing the hottest game around!
 
 //0038_00003A28_bin\PROG.BIN|000062DB|1198
 //当店では収益の７％を　脱出難民募金に\n寄付しておりますです　ハイ！<$12>
-Approcimately 7％ of all proceeds are\n
-donated to migration relief!\n
+Approximately 7% of all proceeds\n
+are donated to migration relief!\n
 Let's keep the love coming!
 <$12><$00>
 
@@ -8775,9 +8769,7 @@ it can pass for one worth ２００￥.
 
 //0038_00003A28_bin\PROG.BIN|00006D9C|1228
 //お客様、誠に申し上げにくいのですが\nレンジャー隊の給料じゃ　<$06>100<$04>年分\n貯めても　買えないかと…<$12>
-Even if you saved for 
-<$06><$04>
- years,\n
+Even if you saved for 100 years,\n
 you couldn't afford this\n
 on a ranger's salary.
 <$12><$00>
@@ -9394,7 +9386,7 @@ Exit
 //0038_00003A28_bin\PROG.BIN|0000765E|1298
 //<CLEAR>返済残高　<$06><$1E><$04>￥です<$12>
 <CLEAR>
-You currently owe  
+You currently owe 
 <$06><$1E><$04>
 ￥.
 <$12><$00>
@@ -9520,7 +9512,7 @@ Items/Sell
 //0038_00003A28_bin\PROG.BIN|00008D08|1311
 //<$15><$59>宝クジ屋
 <$15><$59>
-YLottery Store
+YLottery Counter
 <$00>
 
 
@@ -9638,7 +9630,7 @@ have the money to buy a ticket...
 //0038_00003A28_bin\PROG.BIN|00008D08|1320
 //<CLEAR>持ち物がいっぱいですよ<$12>
 <CLEAR>
-At least your item bag is full, am I right?
+Your item bad is full!
 <$12><$00>
 
 
@@ -9650,7 +9642,7 @@ At least your item bag is full, am I right?
 036
 <$19><$30>
 ］\n
-Choose any 4 digits you want.\n
+Choose any four digits you want.\n
 This'll be your lottery number!
 <$00>
 
@@ -9675,7 +9667,6 @@ No
 //<CLEAR><$19><$31><$15><$53><CLEAR>ケンは「<$1D>」を\n受け取った！<$14><$12>
 <CLEAR><$19><$31><$15><$53><CLEAR>
 Ken received\n
-
 <$1D>
 !
 <$14><$12><$00>
@@ -10376,7 +10367,7 @@ animals, Ken and Linda! I'm outta here!
 //0040_00003D91_bin\PROG.BIN|000019CE|1408
 //<CLEAR>＊帰ろう……　うちへ<$12>
 <CLEAR>
-＊Run home, Ken...  Run home... 
+＊Run home, Ken... Run home... 
 <$12><$00>
 
 
@@ -10465,7 +10456,7 @@ the winning lottery numbers:
 \n
 
 <CLEAR>
-＊1.　Take the last 4 digits of\n
+＊1.　Take the last four digits of\n
 your EXP(A) and divide it by\n
 its multiplicative inverse(B).
 <$12>
@@ -10474,13 +10465,13 @@ its multiplicative inverse(B).
 <CLEAR>
 ＊2.　Take that answer, add\n
 your LVL(C) on top of it,\n
-and then divide by 8.
+and then divide by eight.
 <$12>
 \n
 
 <CLEAR>
 ＊3.　Take that answer(D) and add\n
-the 4 digits from A onto it one\n
+the four digits from A onto it one\n
 more time!
 <$12>
 \n
@@ -10582,8 +10573,8 @@ crawl out.
 //0040_00003D91_bin\PROG.BIN|000019CE|1422
 //<CLEAR>＊ビースチャンの指輪は　全部で８つ\n半分集めれば　<$06>20<$04>レベルで\n<$1B>ドラゴンを　倒すのも夢じゃない∥<$12>
 <CLEAR>
-＊There are 8 Beastian rings in total.\n
-If you collect 4, even at LVL 
+＊Eight Beastian rings exist.\n
+If you find four, even at LVL 
 <$06>
 20
 <$04>
@@ -10847,7 +10838,7 @@ In
 
 //0041_00003EB9_bin\PROG.BIN|00001A3F|1459
 //…\nこの町も人通りが　めっきり減ったねぇ<$12>
-...  this place will be a ghost town.
+... this place will be a ghost town.
 <$12><$00>
 
 
@@ -11489,9 +11480,9 @@ button, you'll see a map of East Area.
 \n
 
 <CLEAR>
-Neo Kenya has 3 open regions:\n
+Neo Kenya has three open regions:\n
 East, West and South Area.\n
-West Area is 12 blocks left!
+West Area is twelve blocks leftward!
 <$12><$00>
 
 
@@ -11707,8 +11698,9 @@ for any animals you don't need.
 \n
 
 <CLEAR>
-Selling 1 or 2 can make huge difference for\n
-both you and me! Heck, I'm always buying!
+Selling one or two can make a huge\n
+difference for both you and me!\n
+Seriously, I'm always buying!
 <$12><$00>
 
 
@@ -11761,8 +11753,9 @@ you're willing to spend as parts.
 \n
 
 <CLEAR>
-10 males = 1 weapon / 5 females = 1 armor\n
-3 animals = 1 hat / 2 animals = shoes
+Write this down:
+"10 MALES = WEAPON, 5 FEMALES = ARMOR
+3 animals = HAT, 2 ANIMALS = SHOES"
 <$12><$00>
 
 
@@ -11969,7 +11962,7 @@ Dog/Sell
 <CLEAR>
 Sell 
 <$1D>
-  for 
+ for 
 <$06><$1E><$04>
 ￥?\n
 
@@ -12341,8 +12334,9 @@ if this is legit, but...
 \n
 
 <CLEAR>
-The captain's secretary, Emily, went\n
-through 6 younger guys this year alone!
+The captain's secretary,\n
+Emily, went through six\n
+younger guys this year alone!
 <$12>
 \n
 
@@ -12434,8 +12428,9 @@ Mine's like a naggy girlfriend!
 //0047_00003FBD_bin\PROG.BIN|00005994|1648
 //<CLEAR>レンジャー隊の給料は　年４回\n季節ごとに　銀行に振り込まれます\nもちろん　あなたの働き次第で昇給∥<$12>\n<CLEAR>…と言っても　しょせんは宮仕えの\nサラリーマンの給料ですからね\n副業をお持ちの方も　多いようですね<$12>
 <CLEAR>
-Rangers are paid 4 times a year, once per\n
-season via direct deposit with the bank.
+Rangers are paid four times a year,\n
+once per season via direct deposit\n
+with the bank.
 <$12>
 \n
 
@@ -12734,7 +12729,7 @@ Always have.
 //0047_00003FBD_bin\PROG.BIN|0000687F|1684
 //<CLEAR>だけどな、俺は覚えてるんだ…\nリンダが　生まれた時の\nヒュームの　嬉しそうな顔をよ
 <CLEAR>
-I still remember  the beaming look on\n
+I still remember the beaming look on\n
 Hume's face when you were born, Linda.
 <$00>
 
@@ -13353,15 +13348,16 @@ of animal hormones to appease her.
 \n
 
 <CLEAR>
-While it worked for the first 3 decades,\n
-its efficacy sharply declined with time.
+While it worked for the first\n
+three decades, its efficacy\n
+sharply declined in the fourth.
 <$12><$00>
 
 
 //0047_00003FBD_bin\PROG.BIN|00007B2F|1749
 //<CLEAR>ある時　ビースチャンの女性の死体を\n手に入れたわしは　それを薬の材料として\n試してみることにした<$12>\n<CLEAR>効果は　予想以上だったよ<$12>\n<CLEAR>わしは　ハッスルⅡのジャンキーを\nふたり作って　材料集めを命じた\nその新薬で　１０年をしのいだ<$12>\n<CLEAR>だが「死神」が　近づくにつれて\n人口は減り　彼らの仕事の効率は\nここ数年、下がる一方だった…<$12>
 <CLEAR>
-At one point, I acquired a Beastian\n
+Around then, I acquired a Beastian\n
 woman's corpse, which I tried to\n
 extract DNA samples from.
 <$12>
@@ -13370,7 +13366,7 @@ extract DNA samples from.
 <CLEAR>
 The effects from said samples\n
 were better than expected.\n
-The new formula would last 10 years.
+The new formula would last ten years.
 <$12>
 \n
 
@@ -13565,7 +13561,7 @@ Nevermind!
 //0047_00003FBD_bin\PROG.BIN|00008CA8|1767
 //<CLEAR>そうか…　残念だ、\nでも　恥じることじゃないぞ\n大切な問題だからな…
 <CLEAR>
-I see...  That's too bad.\n
+I see... That's too bad.\n
 But it's a huge decision,\n
 so I don't blame you.
 <$00>
@@ -14044,7 +14040,7 @@ so I can talk to a real man!
 //0047_00003FBD_bin\PROG.BIN|0000A076|1825
 //<CLEAR>実は　ヒュームの背中にも\n電波発信機が\nなぜか　ついてるんだ
 <CLEAR>
-Actually...  I snuck a transmitter\n
+Actually... I snuck a transmitter\n
 onto Hume's back too. Not sure why.
 <$00>
 
@@ -14052,9 +14048,9 @@ onto Hume's back too. Not sure why.
 //0047_00003FBD_bin\PROG.BIN|0000A076|1826
 //<CLEAR>どっかの　小細工好きの男が\n呼び止めるフリでもして\n取り付けたんだろうよ
 <CLEAR>
-Maybe it felt innocent, like slapping\n
-a "kick me" sign on him, but still,\n
-I bugged an old friend.
+Maybe it felt innocent, like\n
+slapping a "kick me" sign on him,\n
+but still, I used an old friend.
 <$00>
 
 
@@ -14465,8 +14461,8 @@ that's how you raise the happiest kids!"
 //<CLEAR>苦しい時には　この呪文を\n三回、唱えるんだよ\nおおかた　それで治るからさ∥
 <CLEAR>
 When you're down, repeat\n
-that magic spell 3 times.\n
-It works every time(almost)!
+that magic spell three times.\n
+It works every time(maybe)!
 <$00>
 
 
@@ -15074,8 +15070,9 @@ gorilla!
 
 //0052_0000449B_bin\PROG.BIN|00001118|1971
 //あたし　知らなかったんだけど\nリンダのパパとママ、４年ほど前に\n離婚してたのね<$12>
-Apparently, Linda's mom and dad\n
-divorced 4 years ago. I never knew!
+Apparently, Linda's mom and\n
+dad divorced four years ago.\n
+I never knew!
 <$12><$00>
 
 
@@ -15874,12 +15871,8 @@ is what we call "the secret room."
 \n
 
 <CLEAR>
-I've been here for a good 
-<$06>
-10
-<$04>
- years,\nand
-I've yet to see what's inside!
+I've been here for a good ten years,\n
+and I've yet to see what's inside!
 <$12><$00>
 
 
@@ -16193,7 +16186,7 @@ Animal・Equipment
 //<CLEAR>レンジャー隊の給料に　換算すると\n珍しい動物の値段てのは　だいたい\n１０年間、ブラブラできる額だな<$12>
 <CLEAR>
 The price of one rare animal can\n
-equal 10 years of a ranger's salary!
+equal ten years of a ranger's salary!
 <$12><$00>
 
 
@@ -16598,7 +16591,7 @@ until you bring in the real culprit.
 \n
 
 <CLEAR>
-But even then, Ken...  Jesus... 
+But even then, Ken... Jesus...
 <$12>
 \n
 
@@ -16665,10 +16658,8 @@ Ward 2 1F
 
 //0062_0000499E_bin\PROG.BIN|00001ED0|2172
 //<CLEAR><$06>10<$04>年以上前になるかな…\nハッスルⅡっていう　興奮剤が\nハンターを中心に　流行したんだよ<$12>\n<CLEAR>ハッスルⅡ１粒で　<$1B>サイや<$1B>オオカミと\nタメ張れるほど　攻撃力が上がるんだ<$12>\n<CLEAR>みんな競うように　飲みまくった…\n副作用で　精神も肉体も　ボロボロに\nなることが　わかった後でもな<$12>
-<CLEAR><$06>
-Ten
-<$04>
- or so years ago,\n
+<CLEAR>
+Ten or so years ago,\n
 a stimulant known as Hustle Ⅱ\n
 boomed among hunters. 
 <$12>
@@ -17638,15 +17629,11 @@ These dogs are just innocent victims!
 //0063_000049EB_bin\PROG.BIN|000018C8|2263
 //<CLEAR>猟犬の力を　<$06>100<$04>％引き出したけりゃ\n<$1D>１匹１匹の性格を　しっかり\n覚えておくことね<$12>\n<CLEAR>じゃないと、獲物も猟犬も\n無駄に死ぬし　だいたい、あなた自身が\n危険なめに遭うことが　増えるだけよ<$12>
 <CLEAR>
-To draw out 
-<$06>
-100
-<$04>
-％ of a dog's\n
-potential, learn and utilize\n
-their 
+To draw out 100％ of their potential,\n
+study and utilize your
 <$1D>
-personality traits.
+dog's\n
+personality traits wisely.
 <$12>
 \n
 
@@ -17768,8 +17755,8 @@ than before. Kind of like me, hahaha!
 //0063_000049EB_bin\PROG.BIN|000018C8|2273
 //<CLEAR><$04><$1D>ちゃんには　どの訓練をして\nさしあげましょうね？
 <CLEAR><$04><$1D>
-, it is! So, what\n
-kind of training do you want?
+, it is!\n
+So, what training are you here for?
 <$00>
 
 
@@ -17780,8 +17767,7 @@ Strength Training
 <$06>
 (
 <$04>
-Raise 3\n
-LVLs
+Raise 3 LVLs
 <$06>
 )
 <$04><$02>
@@ -18460,9 +18446,9 @@ If anyone's better off now, it's him.
 \n
 
 <CLEAR>
-We're expecting him out in 2 or 3 days.\n
-The discharge is scheduled a couple of\n
-days from now.
+We're expecting him out in two or
+three days from now, which is when
+discharge is scheduled.
 <$12><$00>
 
 
@@ -18882,23 +18868,16 @@ effects, but it also gave me my prime.
 
 //0066_00004D79_bin\PROG.BIN|00000EF2|2393
 //ヒュームと　ゴメスの部隊が共同で\n狩りをした後は　生態系まで\n変わっちまうって　評判だったよ<$12>\n<CLEAR>金になる動物は　一切いなくなるんだ！\nやつらのおかげで　絶滅した動物は\n２種や３種じゃ　きかないだろうよ<$12>
-It's common sentiment here that\n
-Hume and Gomez hunting together\n
-is what changed the ecosystem.
+It's commonly agreed upon that\n
+Hume and Gomez are so skilled at\n
+hunting, they influence the ecosystem.
 <$12>
 \n
 
 <CLEAR>
-They made a good 2 or 3 species extinct,\n
-and left no animals with market value.
-<$12>
-\n
-
-<CLEAR>
-They wiped out the populations of any\n
-animals with real market value.nI'll bet\n
-they rendered more than a couple species\n
-extinct.
+They've made two or three species\n
+go extinct, and left no animals\n
+with market value.
 <$12><$00>
 
 
@@ -19042,8 +19021,8 @@ hunter or tourist dipshit.
 //<CLEAR><$1B>オコゼを相手にする時は、わざわざ\n不利な水に入ってまで　戦うなよ\n入る「フリ」で　充分、足りるのサ<$12>\n<CLEAR>水際まで誘い出して　こっちは\n岸辺の足場の　しっかりした所で\n迎え撃つのが　定石だな<$12>
 <CLEAR><$1B>
 Stonefish are the worst to fight.\n
-If you want one, don't enter the water,\n
-whatever you do!
+If you want to engage them in combat,\n
+do NOT walk straight into the water!
 <$12>
 \n
 
@@ -19332,7 +19311,7 @@ determined by "resistance".
 <CLEAR>
 I'll never understand how\n
 people let that Hustle Ⅱ drug\n
-get so popular 10 years ago.
+get so popular ten years ago.
 <$12>
 \n
 
@@ -19998,8 +19977,9 @@ but that's Hume's mantra.
 \n
 
 <CLEAR>
-It seems that divorce was his biggest\n
-regret...  Shit's hard to watch.
+It seems that divorce\n
+was his biggest regret...\n
+Shit's hard to watch.
 <$12><$00>
 
 
@@ -20041,10 +20021,9 @@ under his right eye? Hoho!
 
 //0069_00004E4F_bin\PROG.BIN|000021DB|2515
 //俺は代行ハンターの　<$1D>様だ\n<$1D>辺りが　縄張りだゼ！\n<$01>契約する<$0E>／<$01>雑談する<$0E>／<$01>やめとく<$0E>
-I'm  
+I'm 
 <$1D>
 , a proxy hunter!\n
-
 <$1D>
  is my turf!\n
 
@@ -20528,11 +20507,10 @@ Next time, bring a friend!
 //0071_00004EB6_bin\PROG.BIN|00001FBF|2567
 //<CLEAR>ですよね…　おひとりじゃ\n<$1D>の夜は　長過ぎますものね<$12>
 <CLEAR>
-Oh, I see...  All by yourself?\n
-
+Oh, I see... All by yourself?\n
 <$1D>
  nights must feel\n
- so much longer.
+so much longer to you.
 <$12><$00>
 
 
@@ -20664,7 +20642,7 @@ Direct flights to Nebul exist! Enter the\n
  birdline, and chat with\n
 the 
 <$1D>
--side attendant 3 times.\n
+-side attendant three times.\n
 <$12><$00>
 
 
@@ -21400,9 +21378,9 @@ low prices, and vice-versa.
 //0075_0000526D_bin\PROG.BIN|00000C1D|2658
 //<CLEAR>落札した動物、１種類につき\n１頭は　逃がしてやることに\n決めてましてねェ<$12>\n<CLEAR>美学というか、自己満足というか…\n年を取ると　よけいなコトを\nいろいろとね、気にしちまうんですよ<$12>
 <CLEAR>
-I have an idea to release 1 animal\n
+I have an idea to release one animal\n
 from every species that I successfully\n
-bid on. 
+bid on back into the wild.
 <$12>
 \n
 
@@ -21952,7 +21930,7 @@ Champion Belts.
 //0078_000052BB_bin\PROG.BIN|00003FB3|2722
 //<CLEAR>もちろん　そいつの猟犬の名前は\n１０頭とも　漢字だったそうだ<$12>\n<CLEAR>どうせ目的を　はき違えるなら\nそこまで行くのが「男」ってモンだな<$12>
 <CLEAR>
-All 10 of his dogs had anime names,\n
+All ten of his dogs had anime names,\n
 which... doesn't surprise me with\n
 DGF die-hards.
 <$12>
@@ -22703,9 +22681,8 @@ IN THE PTERANOBIRD CAGE!"
 <CLEAR>
 "WE ARE NOT RESPONSIBLE\n
 FOR ANY LOST BODY PARTS."\n
-
 <$02>
-168 -BIRDLINE
+168--BIRDLINE
 <$12><$00>
 
 
@@ -23170,7 +23147,7 @@ and double as you progress.
 \n
 
 <CLEAR>
-Defeat 8 consecutive teams to\n
+Defeat eight consecutive teams to\n
 win the season's championship.
 <$12>
 \n
@@ -23315,7 +23292,7 @@ totalling to
 //0080_000055D7_bin\PROG.BIN|00002CD3|2854
 //<CLEAR>次は<$1E>戦目、ここで降りるなんて言うと\n客に殺されかねないぜ…　どうするよ？\n<$01>続ける<$0E>／<$01>降りる<$0E>
 <CLEAR>
-Match  
+Match 
 <$1E>
  is next. If you retire now,\n
 our viewers might kill ya... \n
@@ -23940,8 +23917,9 @@ than you are at the lottery.
 //0083_0000565F_bin\PROG.BIN|00002899|2913
 //<CLEAR>お手持ちの動物の　メスオス１対と\n飼育費用を　最初にいただきます<$12>\n<CLEAR>あとは「春」を　待つだけです\nよほど運が悪くなければ　たくさんの\nかわいい子供たちに　会えるはずです<$12>
 <CLEAR>
-Leave 1 male and 1 female with us, pay\n
-the breeding fee, and wait for spring.
+Leave one male and one female with us,\n
+pay the breeding fee, and wait for\n
+the following spring.
 <$12>
 \n
 
@@ -23954,13 +23932,13 @@ babies upon your return for pickup!
 //0083_0000565F_bin\PROG.BIN|00002899|2914
 //<CLEAR>どの動物の夫婦を\nお預かりいたしましょうか？<$12>
 <CLEAR>
-Which animal couple should stay with us?
+Which animal couple should stay with us?<$12>
 <$12><$00>
 
 
 //0083_0000565F_bin\PROG.BIN|00002899|2915
 //オスメス対の動物を\nお願いします<$12>
-We need 1 male and 1 female per couple.
+We need one male and female per couple.<$12>
 <$12><$00>
 
 
@@ -24503,8 +24481,9 @@ main gate in one piece, you win!
 //0086_00005866_bin\PROG.BIN|00002E69|2974
 //<CLEAR>鐘が３つ鳴るまでは　鬼は\n追いかけない…　逃げるなら\n今のうちだゼ！　兄ちゃん
 <CLEAR>
-I ring this bell 3 times, and the hunt\n
-begins! Now's your chance to run!
+When I ring this bell\n
+three times, the hunt begins!\n
+Now's your chance to run away!
 <$00>
 
 
@@ -24798,7 +24777,7 @@ Linda's not hurt, is she?
 //0091_00005B24_bin\PROG.BIN|00002757|3034
 //<CLEAR>あぁ…\nコレみんな、俺の血か？\nこれじゃ　助かりっこねぇよ…
 <CLEAR>
-Augh...  Is this blood...  all mine?\n
+Haah... Is this blood... all mine?\n
 Listen, you've gotta save... 
 <$00>
 
@@ -25142,7 +25121,7 @@ That's how I wanna go.
 //0093_00005BBB_bin\PROG.BIN|00003723|3087
 //ここの開発部長の　パンハイム博士…\n天才だか何だか　知らないけど\nあたしは　好きになれないね<$12>\n<CLEAR>笑い方が　気持ち悪いし\n息が　カルキくさいんだよ、あの人…\n爪も汚いしサ<$12>
 I'm actually not sure I like\n
-the  Head of Development,\n
+the Head of Development,\n
 Prof. Panheim.
 <$12>
 \n
@@ -26228,7 +26207,7 @@ Guest House 2F
 //隣りのリナバレーで　「穴潜り」を\n２、３年　まじめに勤めれば\nひと財産、できちまうのサ<$12>\n<CLEAR>ただ、その金を　楽しく使うだけの\n体力が　残ってるかどうかが\n問題なんだけどな<$12>
 Spurr Valley's right next to town.\n
 If you can work your tail off there\n
-for 2 or 3 years, you'll be rich.
+for two or three years, you'll be rich.
 <$12>
 \n
 
@@ -26248,11 +26227,11 @@ Meat Market 1F
 //0097_00005CD3_bin\PROG.BIN|0000301F|3209
 //<CLEAR>猟犬が　かわいけりゃ　<$1B>ヘビや<$1B>タコには\n十分注意したほうが　いいな\nヤツら　犬が大好物なんだよ<$12>
 <CLEAR>
-If you love dogs, keep yours\naway from 
+If you love dogs, run away if you ever see\na 
 <$1B>
-snakes and 
+snake or an 
 <$1B>
-octopi.\n
+octopuss.\n
 Unfortunately, they love dogs too!
 <$12><$00>
 
@@ -26324,8 +26303,8 @@ Mother works in the soup kitchen.
 
 <CLEAR>
 They want to save enough money\n
-to move the 4 of us into our own\n
-mansion someday.
+to move the four of us into our\n
+own mansion someday.
 <$12><$00>
 
 
@@ -26338,11 +26317,7 @@ cosmetics company.
 \n
 
 <CLEAR>
-In about 
-<$06>
-10
-<$04>
- years time,\n
+In about ten years time,\n
 they became the top of their game\n
 in pharmaceutical development.
 <$12>
@@ -26396,7 +26371,7 @@ to one incredible man.
 
 <CLEAR>
 Proffessor Mica Panheim,\n
-the head of development.\n
+the Head of Development.\n
 The man is a genius!
 <$12>
 \n
@@ -26641,7 +26616,7 @@ tiniest dreams come true.
 <CLEAR>
 But "tiny" are all those dreams are,\n
 and those same people will be back\n
-here in 6 months to do it all again.
+here in six months to do it all again.
 <$12><$00>
 
 
@@ -27150,11 +27125,11 @@ OzPort Gate 1F
 
 //0103_00000571_bin\PROG.BIN|0000704E|3316
 //この町の周辺で　ご覧いただける動物は\n<$1B>イカ、<$1B>ダチョウです<$12>\n<CLEAR><$1B>イカは　近寄らない限り、危険は\nありませんが　念のためレベル６以上の\nガイドと　同行してください<$12>
-Notable animals in the area\nare 
+Notable animals in the area are the\n
 <$1B>
-squids and 
+squid and the
 <$1B>
-ostriches.
+ostrich.
 <$12>
 \n
 
@@ -27279,14 +27254,14 @@ Hardia Gate 1F
 
 //0103_00000571_bin\PROG.BIN|0000789E|3325
 //この町の周辺で　見られる動物は\n<$1B>ブタ、<$1B>ダチョウです\n秋には<$1B>トンボの群れも楽しめます<$12>\n<CLEAR>観光のお客様は　レベル２以上の\nガイドか　ハンターとの\n外出を　おすすめします<$12>\n<CLEAR><$1B>イヌには　注意してくださいね<$12>
-Notable animals in the area are\n
+Notable animals in the area are the\n
 
 <$1B>
-pigs, 
+pig, the 
 <$1B>
-ostriches and
+ostrich and the 
 <$1B>
-dragonflies.
+dragonfly.
 <$12>
 \n
 
@@ -27440,12 +27415,12 @@ Minago Gate 1F
 
 //0103_00000571_bin\PROG.BIN|00008248|3337
 //この町の周辺で　見られる動物は\n<$1B>ブタ、<$1B>リスです<$12>\n<CLEAR>観光のお客様は　レベル４以上の\nガイドか　ハンターとの\n外出を　おすすめします<$12>\n<CLEAR>南の海岸には　野犬の巣がありますので\n危険ですから　近づかないでください<$12>
-Notable animals in the area are\n
+Notable animals in the area are the\n
 
 <$1B>
-pigs and 
+pig and the 
 <$1B>
-squirrels.
+squirrel.
 <$12>
 \n
 
@@ -27546,9 +27521,9 @@ and its bell tower!
 //0103_00000571_bin\PROG.BIN|0000878F|3343
 //<CLEAR><$1B>プテラノ鳥の　仕入れと調教の方法は\n我社の　トップシークレットなの\n教えたりしたら　クビになっちゃうわ<$12>\n<CLEAR>でも　きっと、あなたには\n近いうちに　バレちゃうわね<$12>
 <CLEAR><$1B>
-How we capture and tame\n
-our Pteranobirds remains\n
-a strict company secret.
+Pteranobird capture and taming\n
+techniques used at the birdline\n
+remain a strict company secret.
 <$12>
 \n
 
@@ -27582,16 +27557,16 @@ Hospico Gate 1F
 
 //0103_00000571_bin\PROG.BIN|00008AF4|3346
 //この町の周辺で　ご覧いただけるのは\n<$1B>カニ、<$1B>モグラ、<$1B>オコゼ、<$1B>サル<$12>\n<CLEAR>近寄らなければ　<$1B>サル以外の動物は\nとくに　危険はありません<$12>\n<CLEAR>ご心配の方は　７レベル以上の\nハンターか　ガイドを\nお雇いくださいませ<$12>
-Notable animals in the area are\n
+Notable animals in the area are the\n
 
 <$1B>
-crabs, 
+crab, the 
 <$1B>
-moles, 
+mole, the 
 <$1B>
-stonefish and 
+stonefish and the 
 <$1B>
-monkeys.
+monkey.
 <$12>
 \n
 
@@ -27689,14 +27664,14 @@ Paraside Gate 1F
 
 //0103_00000571_bin\PROG.BIN|000091DC|3353
 //この町の周辺で　見られる動物は\n<$1B>ウサギ、<$1B>モグラ、<$1B>カニです<$12>\n<CLEAR>観光のお客様は　レベル８以上の\nハンターと　ご契約の上、\n外出することを　おすすめします<$12>
-Notable animals in the area are\n
+Notable animals in the area are the\n
 
 <$1B>
-rabbits, 
+rabbit, the 
 <$1B>
-moles and 
+mole and the 
 <$1B>
-crabs.
+crab.
 <$12>
 \n
 
@@ -27709,8 +27684,9 @@ hire an escort LVL 8 or higher.
 //0103_00000571_bin\PROG.BIN|000091DC|3354
 //<CLEAR><$1B>カニから作る装備は　けっこう、\nバランスも良くて　使えるらしいね<$12>
 <CLEAR><$1B>
-Equipment crafted from crabs is\n
-usually real balanced and versatile.
+Crab as a material often shows up\n
+in some very balanced and versatile\n
+equipment.
 <$12><$00>
 
 
@@ -28014,7 +27990,7 @@ Around town, you might find
 hyenas
 \nor 
 <$1B>
-weasels, with 
+weasels, with\n
 <$1B>
 polar bears to the north.
 <$12>
@@ -28087,7 +28063,7 @@ Spurr Valley Gate 2F
 <CLEAR>
 A Beastian friend of mine told me once\n
 that, long ago, there was a man who could\n
-summon  
+summon 
 <$1B>
 Pteranobirds by whistling.
 <$12>
@@ -28294,8 +28270,8 @@ We look forward to your next visit.
 //0104_00003468_bin\PROG.BIN|00000E67|3405
 //<CLEAR><$1D><$06><$1E><$04><$14>￥で<$06>1<$04>季節乗り放題！<$06> 1<$04>季節経過後は\n自分で戻りますから　乗り捨てもＯＫ！\n<$01>契約する<$0E>／<$01>借りない<$0E>
 <CLEAR><$1D><$06><$1E><$04><$14>
-￥ covers 1 season!\n
-After 1 season, the rental animal\n
+￥ covers one season!\n
+After one season, the rental animal\n
 will return to us on its own.\n
 
 <$01>
@@ -28399,7 +28375,7 @@ There's a terrible snowstorm outside.
 
 <CLEAR>
 The living, the dead, the beautiful,\n
-the\n ugly...  It's all buried in\n
+the\n ugly... It's all buried in\n
 an illusive sheet of pure white.
 <$12>
 \n
@@ -30179,7 +30155,7 @@ after the divorce!
 //0153_00003BA6_bin\PROG.BIN|000049A6|3677
 //この星で　億万長者になりたけりゃ\n三つの方法が　あるねぇ<$12>\n<CLEAR>一つ目は　動物の新しい使い道を\n見つけて　商品化して当てる！<$12>\n<CLEAR>二つ目は　遺跡から　珍しい物を捜して\n物好きな金持ちに　ふっかけて売る！<$12>\n<CLEAR>三つ目は　そこの宝クジを買って\n５年ほど続けて　１等をとる！<$12>\n<CLEAR>確率としちゃ　三つ目が一番高いねぇ<$12>
 On this planet,\n
-there are 3 ways to\n
+there are three ways to\n
 becoming a millionaire:
 <$12>
 \n
@@ -30665,9 +30641,9 @@ opportunities slip by. Right, Ken?
 
 //0153_00003BA6_bin\PROG.BIN|00006011|3720
 //たった一ヶ月の間に　ビースチャンの町の\n教会で　たて続けに三人、身投げが\nあったそうじゃねぇか…<$12>\n<CLEAR>つまんねぇモンが　ハヤるなぁ<$12>
-In the span of a month, 3 people\n
-leapt from the church roof in the\n
-same Beastian village.
+In the span of a month, three\n
+people leapt from the church roof\n
+in the same Beastian village.
 <$12>
 \n
 
@@ -30881,8 +30857,8 @@ Oh, Goddammit!\n
 
 <CLEAR>
 ... Why won't it work? I was\n
-told people will laugh at any joke
-when it's told 3 times in a row!
+told people will laugh at any joke\n
+when it's told three times in a row!
 <$12><$00>
 
 
@@ -30984,7 +30960,7 @@ report this outcome to Father.
 <CLEAR>
 But first, to Paraside.\n
 If we fly, it should take\n
-only 2 or 3 minutes. 
+only two or three minutes. 
 <$00>
 
 
@@ -31156,8 +31132,8 @@ we won't lose! We'll overcome it all,\n
 
 //0155_00003DE7_bin\PROG.BIN|00002F84|3762
 //うそよぉ…　うそでしょ…\n主人が死んだなんて　うそだわ…<$12>\n<CLEAR>ついさっきまで　お腹の中の子が\n男か女で　くちゲンカしてたのよ\n死んだなんて　うそよねぇ…………<$12>
-No...  This can't be real.\n
-My husband can't be dead.
+No, this can't be real....\n
+My husband can't be dead....!
 <$12>
 \n
 
@@ -31187,7 +31163,7 @@ right in here.
 
 //0155_00003DE7_bin\PROG.BIN|00002F84|3764
 //ねぇ…　私の勘違いなら\nいいんだけど　この衛星…\n地上に　近づいてるみたいねぇ…<$12>\n<CLEAR>もしかして…　落ちてない？<$12>
-Hmm...  Is it just me,\n
+Hmm... Is it just me,\n
 or is the ground getting\n
 closer and closer?
 <$12>
@@ -31460,7 +31436,7 @@ Do you mean "Paraside"?
 //<CLEAR>そう、それよ∥　「パラサイド」\n覚えたわね　ケン∥\nリンダは　パラ…　パラ…
 <CLEAR>
 Yes! I knew that name, of course!\n
-Linda's in Para...  Para... 
+Linda's in Para... Para...
 <$00>
 
 
@@ -31491,7 +31467,7 @@ Please, get inside.
 //<CLEAR>わかってるって　もぉ～\nまったく最近の若いコたちは\n本当に　うるさいわね
 <CLEAR>
 "I KNOW"! "I KNOW"!"I KNOW"!\n
-God, you women are all the same!
+Damned women, you're all the same!
 <$00>
 
 
@@ -31552,13 +31528,13 @@ people.
 //0156_000040C1_bin\PROG.BIN|0000178E|3808
 //今年はこの東エリアに　腰をすえて\n動物、集めて　金、貯めてサ<$12>\n<CLEAR>南エリアに飛ぶのは　来年からでも\nちっとも遅くないと　俺は思うよ\nまっ、無理は禁物ってコトだな<$12>
 I know! You should start by\n
-catching  animals and saving\n
+catching animals and saving\n
 money exclusively in East Area.
 <$12>
 \n
 
 <CLEAR>
-After 1 year flat, fly to South Area\n
+After one year flat, fly to South Area\n
 and repeat. You can cover a lot of\n
 ground when you pace yourself!
 <$12><$00>
@@ -31763,7 +31739,7 @@ I shall report this to Father.
 "Patient Name: Ken Challenger, LVL 
 <$06><$1E><$04>
 \n
-Years after discharge:
+Years after discharge: 
 <$1E>
 , Location: 
 <$1D>
@@ -31959,7 +31935,7 @@ way she sticks her neck out for you!
 //急に金が必要になったら　銀行で\n融資してもらうのも　手だゼ\n最大で給料の１年分、前借りできる！<$12>\n<CLEAR>まっ、サラリーマンの特権ってヤツよ\nなーに　銀行も商売だから\n返せる金しか　貸しゃしないって！<$12>\n<CLEAR>最悪、期限までに　返せなくても\n給料が　しばらく止まるだけ！\n元が少ないんだし　関係ねぇよ<$12>
 If you're strapped for cash, it's\n
 okay to take out a loan from the bank.\n
-You can borrow up to 1 year's salary!
+You can borrow up to one year's salary!
 <$12>
 \n
 
@@ -32289,7 +32265,7 @@ poor Linda standing right here.
 //<CLEAR>まあ　とりあえず　パスワードを\n入力して　みなよ\nアルファベットで　６文字だ
 <CLEAR>
 Moving on, try to enter a password.\n
-It's 6 letters long.
+It's six letters long.
 <$00>
 
 
@@ -32320,8 +32296,8 @@ Like, "YLLIMS", or, "SMLLIY"!
 //0162_000041CA_bin\PROG.BIN|00005E57|3889
 //<CLEAR>ケン！　ビンゴだ∥\nメニューが　３つも出てきたゼ！\nで、何から　見る？
 <CLEAR>
-All right, we're in!\n
-There are 3 files here.\n
+... All right, we're in!\n
+There are three files here.\n
 What should we look at?
 <$00>
 
@@ -32400,7 +32376,7 @@ No, I'm done
 //0162_000041CA_bin\PROG.BIN|00005E57|3897
 //<CLEAR>この３つの　ファイルから\nおまえたちが　考えたことを\n言い当てて　見せようか？
 <CLEAR>
-These 3 files gave us\n
+These three files gave us\n
 a lot to work with, and\n
 a whole lot more to swallow.
 <$00>
@@ -32593,7 +32569,6 @@ OK!
       
 <$00>
 
-
 //0162_000041CA_bin\PROG.BIN|00005E57|3909
 //<CLEAR><$08>14<$15><$59>［<$15><$57><$1D><$15><$59>］
 <CLEAR><$08>
@@ -32694,7 +32669,7 @@ D.O.B.: AMD
 1976.12.25
 <$04>
 \n
-P.O.B.: Camp  
+P.O.B.: Camp 
 <$06>
 372
 <$04>
@@ -32709,11 +32684,11 @@ Mother: Tsuruko Emori(Deceased)
 \n
 
 <CLEAR>
-Height:  
+Height: 
 <$06>
 158
 <$04>
-cm/Weight:  
+cm/Weight: 
 <$06>
 43.5
 <$04>
@@ -34024,9 +33999,9 @@ into a bloodbath.
 \n
 
 <CLEAR>
-I can only think of 4 or 5 people\n
-on the entire planet who pack that\n
-kind of artillary.
+I can only think of four or five\n
+people on the entire planet who\n
+pack that kind of heavy artillery.
 <$12><$00>
 
 
@@ -34073,9 +34048,9 @@ the church, so I looked those up.
 \n
 
 <CLEAR>
-The first attempt was by a young woman\n
-that was  rushed off to Hospico.\n
-Her condition remains undertermined,
+The first attempt was by a young woman.\n
+She was rushed to Hospico upon discovery,\n
+but no one knows what became of her after,
 <$12>
 \n
 
@@ -34269,7 +34244,7 @@ Linda's room tonight.
 //<CLEAR>俺たちゃ　下で三人で眠る∥\n今晩は　親子水入らずだ\nそれでよぉ　朝が来たら…
 <CLEAR>
 Us three will sleep downstairs.\n
-Burnings only! And tomorrow...  
+Burnings only! And tomorrow...
 <$00>
 
 
@@ -34627,8 +34602,7 @@ is too dangerous, even a kiss.
 //ドギファの闘犬場の　オーマン、\nオズポートの空港司令官　ピザール<$12>\n<CLEAR>ここから飛び降りたことを　除けば\nそれなりの社会的地位に　あったこと、\nそれくらいしか共通点は　ないわね<$12>
 Mr. Aumann, the DGF Dojo\n
 proprieter, and Mr. Nibbio,\n
-the OzPort airport general...\n
-
+the OzPort airport general...
 <$12>
 \n
 
@@ -34872,7 +34846,7 @@ divorce rates are also higher.
 <CLEAR>
 You'd think with my rattly teeth,\n
 and wrinkly wrinkles, that having a\n
-whopping 7 kids was a bad idea... 
+whopping seven kids was a bad idea... 
 <$12>
 \n
 
@@ -34916,7 +34890,7 @@ Oh, my!■
 <CLEAR>
 My father's special growth\n
 supplement helps seeds bloom\n
-in only 3 days.
+in only three days.
 <$00>
 
 
@@ -34963,7 +34937,7 @@ often.
 
 //0175_00004A93_bin\PROG.BIN|000014A6|4177
 //エモリ・ラボにある　４つの箱が\nエモリ博士が開発した「人工子宮」さ\nお値段は　１機で３億￥だって∥<$12>\n<CLEAR>確かに　性能も凄いんだよね∥\nあの中に入ると　自然治ゆの力が\n最小でも　<$06>820<$04>％まで上がるそうだよ<$12>\n<CLEAR>全治１ヶ月の重症が　３日で治る…\n乱暴な計算だけど　そんな感じさ<$12>
-The 4 pods in Dr. Emori's Lab\n
+The four pods in Dr. Emori's Lab\n
 are "artificial wombs" that he\n
 invented all by himself.
 <$12>
@@ -34978,11 +34952,7 @@ their weight in gold!
 
 <CLEAR>
 An injured person placed inside one\n
-of them will heal at at least  
-<$06>
-820
-<$04>
-%\n
+of them will heal at at least 820%\n
 the natural healing speed!
 <$12>
 \n
@@ -34990,7 +34960,7 @@ the natural healing speed!
 <CLEAR>
 Severe diseases that normally\n
 take a month to heal now take\n
-roughly 3 days!
+roughly three days!
 <$12><$00>
 
 
@@ -35191,7 +35161,7 @@ the roof of Minago church.
 <CLEAR>
 My sisters and I are\n
 demi-clones, synthetically\n
-created from her  cells.
+created from her cells.
 <$00>
 
 
@@ -35382,7 +35352,7 @@ deserve the whole truth.
 //0177_00004AF9_bin\PROG.BIN|00002677|4216
 //<CLEAR>私もね…　１号や２号と同じ\nデミ・クローンなの
 <CLEAR>
-Like No. 1 amd No. 2,\n
+Like No. 1 and No. 2,\n
 I too am a demi-clone.
 <$00>
 
@@ -35441,7 +35411,7 @@ I feel nothing.
 //0177_00004AF9_bin\PROG.BIN|00002677|4223
 //<CLEAR>１号から　最後に感じたのは\n柔らかで暖かい　波動だった\n言葉に直すなら…　そうね…
 <CLEAR>
-The lastthing  I felt was a warm\n
+The last thing I felt was a warm\n
 and tender wave from No. 1.\n
 To put it in words... 
 <$00>
@@ -35744,7 +35714,7 @@ I'll let it slide just this once.
 //0177_00004AF9_bin\PROG.BIN|00002677|4259
 //たいした　ケガもないくせに　３日も\n意識不明なんて　ずいぶんハラハラ\nさせてくれるじゃない、ケン？<$12>
 What took you, you drama-whore?!\n
-You were out for 3 days?!
+You were out for three days?!
 <$12><$00>
 
 
@@ -35856,16 +35826,16 @@ in riches for the rest of your life!
 
 //0179_00004B61_bin\PROG.BIN|00003080|4264
 //ご心配でしょうけど　外科医としての\nエモリ先生の腕は　超一流よ\n少し独善的なトコも　あるけど…<$12>\n<CLEAR>先生の判断は　信頼できるわ！\n問題は　彼女の心のキズのほうね\n医者じゃ　治せないもの<$12>
-You must be worried. Dr. Emori's\n
-surgical skills are top-notch, but\n
-there's no denying he has an ego...\n
+People get wary of Dr. Emori's skills\n
+as a surgeon when they hear the self-\n
+confident tone he takes with his work.
 <$12>
 \n
 
 <CLEAR>
-But he IS capable! The one thing in\n
-the world a doctor like him couldn't\n
-fix is probably a girl's broken heart.
+But he's WORTH it! The one thing in a\n
+doctor at his caliber couldn't fix is,\n
+I dunno, a broken-hearted teenaged girl.
 <$12><$00>
 
 
@@ -35913,9 +35883,9 @@ Captain Ben over!"
 
 //0179_00004B61_bin\PROG.BIN|00003080|4268
 //エモリ先生の娘さんの　サチコさんに\n会ったことある？　白い布みたいに\n素直と言うか　純心と言うかさ…<$12>\n<CLEAR>ああいうコを自分の色に　少しずつ\n染めてくのって　男としちゃ\n一度は　やってみたいことだよ<$12>
-Have you met Dr. Emori's\n
-daughter, Sachiko?\n
-Her heart is  pure, like white linen.
+Have you had the luxury of meeting\n
+Dr. Emori's daughter, Sachiko?\n
+Her heart is pure, like white linen.
 <$12>
 \n
 
@@ -35990,15 +35960,14 @@ out? What a little oddball she is.
 
 //0180_00004BC1_bin\PROG.BIN|000036FF|4306
 //あら、コンニチワ！　私、フローラ！
-Why, hello! I'm Flora!
+Why, hello! I'm Flora!\n
 <$00>
 
 
 //0180_00004BC1_bin\PROG.BIN|000036FF|4307
 //ローズガーデンに　行くことがあったら\n「ＭＣアリス」を　１鉢買うといいわ<$12>\n<CLEAR>君みたいに　無口な男の子は　きっと\nアリスとの相性が　ピッタリのはずよ！\n彼女が退屈な毎日を　彩ってくれるわ<$12>
-If you ever visit Rose Garden,\n
-you should buy a pot of MC Alice\n
-while you're there!
+If you ever visit Rose Garden, buy a\n
+a pot of MC Alice while you're there!
 <$12>
 \n
 
@@ -36708,9 +36677,9 @@ credits for this!"
 //0181_00004ED3_bin\PROG.BIN|00000E04|4390
 //<CLEAR>紀子、好きだぁ～っ∥\n結婚しような∥　愛してる■\n＿＿＿＿＿＿＿＿＿＿ユタカ<$12>
 <CLEAR>
-"Itoko, I love you!\n
-Let's get married and be together!■\n
-      -Yutaka"
+"ITOKO, I LOVE YOU!\n
+LET'S GET MARRIED!■"\n
+--YUTAKA"
 <$12><$00>
 
 
@@ -36739,9 +36708,9 @@ Ask yourself, "Can I endure that?"
 \n
 
 <CLEAR>
-Try to be around, oh... 3 LVLs\n
-above your enemy, and battles\n
-will always go smoother for you.
+Try to be around, oh...\n
+three LVLs above your enemy,\n
+and battles will be cake for you.
 <$12><$00>
 
 
@@ -37290,7 +37259,7 @@ puppy love! But now, you've gotta...
 //<CLEAR>テーブルの周りを　３回、\nまわって「ワン」と　いくか？
 <CLEAR>
 ... crawl around this\n
-table 3 times and howl!
+table three times and howl!
 <$00>
 
 
@@ -37424,7 +37393,7 @@ After all, Linda did say,\n
 //<CLEAR>テーブルの周りを　３回まわって\n「ワン」、やらせて欲しいよな？
 <CLEAR>
 You really won't crawl around\n
-this table 3 times and howl?
+this table three times and howl?
 <$00>
 
 
@@ -37510,7 +37479,7 @@ around here, it'll be me.
 //0184_00004FAE_bin\PROG.BIN|00003EFC|4471
 //<CLEAR>なーんだ、そうか\nヒトが悪いゼ！　リンダも\nジョークだよな、ハハハ…
 <CLEAR>
-Is... that so? Ha...  Hahah.\n
+Is... that so? Ha... Hahah!\n
 Oh, Linda, you little jokester, you...
 <$00>
 
@@ -38199,7 +38168,7 @@ recent suicide uptick.
 <CLEAR>
 If this tragedy connected in any\n
 way to the Koshikata massacre\n
-that took place 10 years ago?
+that took place ten years ago?
 <$12><$00>
 
 
@@ -38743,14 +38712,15 @@ Innocent little thing, Pomeran.
 
 //0196_00006186_bin\PROG.BIN|00003F10|4590
 //オーマンさんは　生涯に三人の妻を迎え\nその三人ともが　ろくでもない子供を\n産んで　彼におしつけて逃げた<$12>\n<CLEAR>でも　心から愛していたんだよ\nルイーズ、キャロル、そしてケイト…\n彼の三人の妻たちを…<$12>\n<CLEAR><$1B>イヌの次くらいにはね<$12>
-Mr. Aumann had 3 wives in his lifetime.\n
-Each birthed him 1 awful kid and ran.
+Mr. Aumann had three wives in his\n
+lifetime, each birthing one awful
+kid for him before divorce.
 <$12>
 \n
 
 <CLEAR>
-But he loved all his wives,\n
-Louise, Carol and Kate,\n
+But Louise, Carol and Kate...\n
+He loved all of his wives\n
 from the bottom of his heart.
 <$12>
 \n
@@ -40088,14 +40058,14 @@ Meat・Drug・Animal
 //0199_00006228_bin\PROG.BIN|000021F9|4733
 //<CLEAR>得体の知れない肉は　まず　猟犬に\n食わせて　様子をみる…\nで、大丈夫そうなら　人間様が食う<$12>\n<CLEAR>そうすりゃ　十中八九、危険はない∥\n…とは言い切れないのが　世の常だけど\n気安めにはなると　思うんだな<$12>
 <CLEAR>
-If you find any mystery meat,\n
+Whenever you find mystery meat,\n
 feed it to a dog first and see\n
 how your furry friend fares.
 <$12>
 \n
 
 <CLEAR>
-If  a dog can eat it, so can you!\n
+If a dog can eat it, so can you!\n
 Yep, there's no danger at all!\n
 Ehehe... none at all... 
 <$12><$00>
@@ -40944,7 +40914,7 @@ the cave due south of here.
 We need you to hunt 
 <$1B>
 scorpions\n
-and bring us 4 Scorpion Filets.
+and bring us four Scorpion Filets.
 <$00>
 
 
@@ -41023,7 +40993,7 @@ a pitiful man.
 //0205_000064DF_bin\PROG.BIN|00003CD3|4865
 //<CLEAR>南の洞くつの　<$1B>サソリの肉４つ
 <CLEAR>
-We need 4 
+We need four 
 <$1B>
 Scorpion Filets\n
 from the southern cave.
@@ -41292,7 +41262,7 @@ Why'd you bring me to this dump?
 <CLEAR>
 This is shady, even from you.\n
 Don't make me whip out Dad's arm\n
-and...  
+and...
 <$00>
 
 
@@ -41306,7 +41276,7 @@ and...
 //0205_000064DF_bin\PROG.BIN|00004CA3|4897
 //<CLEAR>ねぇ　ケン…　ほら…　私の手…\nこれって　夢？\nケン！　ちょっと来てみて∥
 <CLEAR>
-Hey, look...  It's... MY hand!\n
+Hey, look... It's... It's MY hand!\n
 Am I dreaming?!\n
 You, get back here!
 <$00>
@@ -41408,7 +41378,7 @@ There's nothing to say.
 //0205_000064DF_bin\PROG.BIN|00004CA3|4908
 //<CLEAR>でも…　私たち…　私たちが…\nリンダさんの…
 <CLEAR>
-But, Linda...  We...\n
+But, Linda... We...\n
 In Minago, we... 
 <$00>
 
@@ -41644,7 +41614,7 @@ ALICE!\n
 
 //0207_00006655_bin\PROG.BIN|00000A83|4943
 //よろし
-PLEASED TO  
+PLEASED TO 
 <$00>
 
 
@@ -42433,7 +42403,7 @@ to Prof. Panheim in Hospico.
 //0211_0000147F_bin\PROG.BIN|000069A3|5064
 //<CLEAR><$1B>カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す
 <CLEAR>
-Find up to 3 
+Find up three 
 <$1B>
 Turtle Eggs\n
 to give to Louis at the\n
@@ -42456,8 +42426,8 @@ Battle Park BB Ranch.
 //<CLEAR>「太郎の首輪」を見つけだし、ドギファの\nナターシャか、オーマン家３兄弟に渡す
 <CLEAR>
 Locate Taro's Collar to give to\n
-Natasha or one of the 3 Aumann\n
-siblings in Dogyf Heights.
+either Natasha or one of the\n
+Aumann siblings in Dogyf Heights.
 <$00>
 
 
@@ -43191,13 +43161,13 @@ Kevin
 //0263_00003852_bin\PROG.BIN|00007863|5181
 //<CLEAR>あの…\n私、スペクターといいます\nハーディアの　ホテルにいます…<$12>\n<CLEAR>あの…\n折り入って　お頼みしたいことが…<$12>\n<CLEAR>何かのついでで　結構ですから\nご足労願えますか…\n一番、奥の部屋です<$12>\n<CLEAR>あの…\nきっと　来てください\nお待ちしていますから…<$12>
 <CLEAR>
-Uhm...  You can call me Spectre.\n
+Uhm... You can call me Spectre.\n
 I'm in the Hardia Hotel.
 <$12>
 \n
 
 <CLEAR>
-Uhm...  I've got a favor to ask you.
+Uhm... I've got a favor to ask you.
 <$12>
 \n
 
@@ -43208,7 +43178,7 @@ if you came up to my room.
 \n
 
 <CLEAR>
-Uhm...  Do come, please.\n
+Uhm... Do come, please.\n
 I'll be waiting.
 <$12><$00>
 
@@ -43697,9 +43667,9 @@ will come from this!
 //0265_00003C21_bin\PROG.BIN|0000181A|5208
 //<CLEAR>何ゴトにつけ　一発決めたい時には\n２、３個まとめて　丸飲みするといいよ<$12>\n<CLEAR>もォォ、朝まで保証つき！\n「今夜のあなたはスゴイのね」\nてなもんスよ<$12>
 <CLEAR>
-If you're going to down 1 shot,\n
+If you're going to down one shot,\n
 you might as well own the moment\n
-and swallow 2 or 3 all at once.
+and swallow two or three all at once.
 <$12>
 \n
 
@@ -43803,7 +43773,7 @@ peoples on Neo Kenya.
 
 <CLEAR>
 No one knows how they landed here,\n
-making them  one of the Seven Wonders\n
+making them one of the Seven Wonders\n
 of Neo Kenya.
 <$12>
 \n
@@ -44923,7 +44893,7 @@ So romantique!
 //0276_00004326_bin\PROG.BIN|00001317|5308
 //<CLEAR>あの…\nはじめまして、スペクターです\nわざわざ　すみません…<$12>\n<CLEAR>足が　ちょっと不自由なものですから\n座ったままで　失礼します…<$12>\n<CLEAR>あの…　野犬の群れのリーダーで\n「ファング」と　呼ばれている\n犬を　ご存知ですか…？<$12>\n<CLEAR>実は　お願いというのは　ファングを\n倒して欲しいのです！<$12>
 <CLEAR>
-Uhm...  My name is Spectre.\n
+Uhm... My name is Spectre.\n
 I'm sorry for bothering you.
 <$12>
 \n
@@ -44935,8 +44905,9 @@ I have sort of a bad leg.
 \n
 
 <CLEAR>
-Uhm...  Have you heard of a pack\n
-of dogs with an alpha named "Fang"?
+Uhm... Have you heard about\n
+the pack of stray dogs that\n
+follow an alpha named "Fang"?
 <$12>
 \n
 
@@ -44983,7 +44954,7 @@ I can't.
 //<CLEAR>ありがとう　ございます∥\nあの…　お礼といっては　何ですが…<$12>
 <CLEAR>
 Thank you so much!\n
-Uhm...  As for your reward... 
+Uhm... As for your reward... 
 <$12><$00>
 
 
@@ -45379,8 +45350,8 @@ time catching over
 //0280_000043B5_bin\PROG.BIN|00004CFA|5347
 //動物の集め方に　正解などない！\nいや、たくさんの正解があると\n言った方が　いいな<$12>\n<CLEAR>だから目標は　自分で決めろ∥\nわかったな∥<$12>
 There's no true way to hunt. If there\n
-is more than 1 way to skin a cat,\n
-there is more than 1 way to catch one! 
+is more than one way to skin a cat,\n
+there is more than one way to catch it! 
 <$12>
 \n
 
@@ -45491,7 +45462,7 @@ pick him up first. What says you?
 //0280_000043B5_bin\PROG.BIN|00005675|5355
 //<CLEAR>あら…　貴重なご意見アリガト！\n参考にさせて　もらうわ<$12>
 <CLEAR>
-Ah-ha...  Thanks for your input!\n
+Ah-ha... Thanks for your input!\n
 I'll add it to the pool.
 <$12><$00>
 
@@ -45916,7 +45887,7 @@ whenever we're done.
 //0283_00004441_bin\PROG.BIN|0000426F|5389
 //<CLEAR>ケン！\n死神が　来るまで\nあと1年だってぇのに…
 <CLEAR>
-Ken! Only 1 year remains\n
+Ken! Only one year remains\n
 before the Grim Reaper hits.
 <$00>
 
@@ -47243,8 +47214,8 @@ Now get DOWN here!
 //<CLEAR>ビースチャンの　伝説では\nこの世界の　どこかに\n８つの獣の指輪があると　言われてる<$12>\n<CLEAR>それを　１つでも手にいれて\n命を吹き込めたなら　それを持つ者は\nすべての動物の王に　なれるんだよ<$12>
 <CLEAR>
 According to Beastian legend,\n
-there are 8 beast rings hidden\n
-across Neo Kenya.
+there are eight beast rings\n
+hidden across Neo Kenya.
 <$12>
 \n
 
@@ -47453,13 +47424,9 @@ incubation are sadly commonplace.
 \n
 
 <CLEAR>
-It was maybe 
-<$06>
-2, 3 
-<$04>
-years ago when we\n
+It was maybe two, three years ago when we\n
 acquired the final data that sexless\n
-couples were having the most children.
+couples were having the most kids.
 <$12><$00>
 
 
@@ -47581,7 +47548,7 @@ while you're still young.
 <CLEAR>
 Children bring countless joys to\n
 their parents' daily lives,\n
-one of the purest joys being...  
+one of the purest joys being... 
 <$12>
 \n
 
@@ -47716,7 +47683,7 @@ LVL
 48
 <$04>
 , was\n
-named...  Ummm... 
+named... Ummm... 
 <$12>
 \n
 
@@ -48426,19 +48393,23 @@ Farewell, Neo Cantina!
 //0299_00005052_bin\PROG.BIN|000010B7|5626
 //<CLEAR>紫の髪をした　子供の居場所を\n知らせたる者には　恩賞金１０￥を\nとらせる＿＿＿＿＿＿タイクーン<$12>
 <CLEAR>
-"A １０￥ reward for anyone who can\n
-tell me the whereabouts of a certain\n
-purple-haired brat with a sword!\n
---Tycoon"
+"THERE'S A 10￥ REWARD FOR THE WHERABOUTS OF\n
+A CERTAIN PURPLE-HAIRED BRAT WITH A SWORD!"\n
+--TYCOON"
 <$12><$00>
 
 
 //0299_00005052_bin\PROG.BIN|000010B7|5627
 //<CLEAR>落書き禁止∥\n↑\n「落書き禁止∥」　の落書き禁止∥<$12>
 <CLEAR>
-"'GRAFFITI IS PROHIBITED!'↑\n
-'GRAFFITI IS PROHIBITED!' GRAFFITI IS ALSO\n
-PROHIBITED!"
+"GRAFFITI IS PROHIBITED!"
+<$12>
+\n
+
+<CLEAR>
+"↑↑↑ GRAFFITI THAT SAYS,\n
+'GRAFFITI IS PROHIBITED!'\n
+IS ALSO PROHIBITED!!!"
 <$12><$00>
 
 
@@ -48489,7 +48460,7 @@ If you won't shell out to access\n
 the good hunting grounds, how can\n
 you collect 
 <$06><$04>
- species in 8 years?
+ species in eight years?
 <$12>
 \n
 
@@ -48587,10 +48558,11 @@ eyes of a Beastian can't differentiate.
 \n
 
 <CLEAR><$1B>
-Hermit crabs can be found south of\n
-here, in Yama Pit. As for 
+Hermit crabs can be found\n
+south of here, in Yama Pit.\n
+As for 
 <$1B>
-turban shells, who knows?!
+turban shells, who knows!
 <$12><$00>
 
 
@@ -49504,7 +49476,7 @@ derrier!
 //0315_00006801_bin\PROG.BIN|0000966A|5732
 //<CLEAR>もう１メートルだけ　掘れば\nきっと　水脈に\nぶち当たるはずなんじゃ<$12>\n<CLEAR>費用が　少々心細くなってきたが\nなーに　大丈夫!<$12>\n<CLEAR>明日には　水が噴き出して\nあの動物が　泳ぎまわっておるわ\nそのかわいい姿が　見えるようじゃ<$12>
 <CLEAR>
-If we got to dig even 1 meter deeper,\n
+If we got to dig even one meter deeper,\n
 I just know we'd strike water.
 <$12>
 \n
@@ -49643,19 +49615,18 @@ Yama Pit
 //0317_000068E8_bin\PROG.BIN|00004355|5758
 //<CLEAR>この洞くつの　奥のほうの岩には\nだまされんなよ\nあの岩は　<$1B>ヤドカリなんだよ<$12>\n<CLEAR>まッ、そばにいけば\n待ち切れないで　動くから\nバレバレだけどナ<$12>
 <CLEAR>
-Don't be fooled by the\n
-rocks deep in the cave.\n
+Don't be fooled by the rocks\n
+you see deep in the cave.\n
 Some of them are 
 <$1B>
-hermit\n
-crabs!
+hermit crabs!
 <$12>
 \n
 
 <CLEAR>
-They're easy to find, though. If you\n
-hang around one of these "rocks" for\n
-long, you risk making it... crabby.
+They're easy to find, though.\n
+If you hang around one of these "rocks"\n
+for long, you risk making them... "crabby".
 <$12><$00>
 
 
@@ -49663,7 +49634,6 @@ long, you risk making it... crabby.
 //<CLEAR>おいら、モレクだけど、何か用かい？\n<$01>◇<$0E><$08>4隕石が衝突することを　説明する\n<$01>◇<$0E><$08>4パトロールの途中で　寄っただけ
 <CLEAR>
 I'm Moloch, and you are?\n
-
 <$01>
 ◇
 <$0E><$08>
@@ -49868,7 +49838,7 @@ Aw, fuck it.
 
 <CLEAR>
 Take a minute to clear your\n
-item bag by 1 space while I\n
+item bag by one space while I\n
 clear my head.
 <$12><$00>
 
@@ -49937,7 +49907,7 @@ Dug Pond 2F
 
 //0320_000056D2_bin\PROG.BIN|000012F5|5788
 //ここの養殖牧場サ、客の預かりモンの\n動物の子の数を　ごまかして\n勝手にさばいちまうって　噂だゼ<$12>\n<CLEAR>それに　保護指定の動物を　何種類も\n許可なく隠トクしてるって　話も聞くね\nいずにしろ　ロクなもんじゃないよ<$12>
-I've "heard" the ranch will lie\n
+I've heard the ranch will lie\n
 to customers about the number of\n
 animal babies they delivered.
 <$12>
@@ -50219,7 +50189,7 @@ I'll keep it right and short.\n
 I need you to fetch 
 <$1B>
 Turtle Eggs.\n
-Is 3 do-able?
+Is three do-able?
 <$12>
 \n
 
@@ -51246,7 +51216,7 @@ years ago...
 
 <CLEAR>
 ... was that he'd lost the village's\n
-treasure, called the  
+treasure, called the 
 <$1B>
 Tiger Claw.
 <$12>
@@ -51259,11 +51229,11 @@ what do you think?
 \n
 
 <CLEAR>
-"BEWARE. HE WHO TOUCHES THE 
+"BEWARE.\n
+HE WHO TOUCHES THE 
 <$1B>
-TIGER CLAW\n
-WILL BE CURSED WITH INSATIABLE\n
-BLOODLUST."
+TIGER CLAW WILL\n
+BE CURSED WITH INSATIABLE BLOODLUST."
 <$12><$00>
 
 
@@ -51324,11 +51294,7 @@ take out loans to cover costs.
 //あんたが　ワナを地平の果てや\n洞くつの最下層に　仕掛けようと\n俺が　<$06>100<$04>％回収してきてやるゼ∥<$12>\n<CLEAR>獲物が　かかってるか、どうかは\n俺の知ったこっちゃ　ないけどもよ<$12>
 I'll collect any rental trap you set,\n
 anywhere in the world, inside or out!\n
-That's our 
-<$06>
-100
-<$04>
-％ guarantee!
+That's our 100% guarantee!
 <$12>
 \n
 
@@ -52527,16 +52493,14 @@ But he made me a deal:
 \n
 
 <CLEAR>
-"If you can make our courtyard's\n
-dead sakura trees bloom, I'll\n
-leave with you."
+"If you can make our courtyard's dead\n
+sakura trees bloom, I'll leave with you."
 <$12>
 \n
 
 <CLEAR>
 Help us, Mister! We need\n
 these sakura trees to bloom!\n
-
 <$01>
 Okay
 <$0E>
@@ -53301,8 +53265,8 @@ do NOT mean the same thing!
 \n
 
 <CLEAR>
-You know, like giving\n
-someone a good "pounding"?
+You know, like, "getting pounded,"\n
+versus "being given a good pounding"?
 <$12>
 \n
 
@@ -53527,12 +53491,8 @@ water if you want any edge.
 \n
 
 <CLEAR>
-That should help you win at least 1 out of\n
-every 
-<$06>
-10
-<$04>
- fights against a turtle!
+That should help you win at least one\n
+out of every ten fights against a turtle!
 <$12>
 \n
 
@@ -54011,7 +53971,7 @@ away the other day.
 \n
 
 <CLEAR>
-And now, his 3 children\n
+And now, his three children\n
 have roped me into their\n
 inheritence dispute.
 <$12>
@@ -54144,7 +54104,7 @@ outta here!
 //0352_000062BF_bin\PROG.BIN|00004DC7|6149
 //<CLEAR>わかったわ…　<$06>50000<$04>￥、これが上限∥\nこれでダメなら　他を当たるわ\n<$01>よーし∥<$0E>／<$01>ふざけろ<$0E>
 <CLEAR>
-Okay, okay...  
+Okay, okay... 
 <$06>
 50000
 <$04>
@@ -54553,7 +54513,7 @@ endeavor of saving the animals!
 //<CLEAR>そういえば「<$1B>トラの爪」という武器を\nお捜しだと　ある筋から聞いたんだがね\nまだ　手にいれてないのなら…<$12>\n<CLEAR>「太郎の首輪」と交換するというのは\nどうかな？　悪い話じゃないだろ？\nよーく　考えてくれたまえ<$12>
 <CLEAR>
 You know what? If you're ever looking\n
-for a weapon like the  
+for a weapon like the 
 <$1B>
 Tiger Claw,\n
 I can help you.
@@ -54609,14 +54569,14 @@ Looking sharp, Ken!
 //0352_000062BF_bin\PROG.BIN|00004DC7|6186
 //<CLEAR>ここんちの　三人の子供たちは\n全員、私が取り上げたんだよ<$12>\n<CLEAR>産まれたときは　三人とも\nかわいかったんだけどね…<$12>
 <CLEAR>
-I've been holding those 3 since\n
-they were babies.
+I've been holding those three\n
+since they were babies.
 <$12>
 \n
 
 <CLEAR>
-They were all much, much cuter back\n
-then.
+They were all much,\n
+much cuter back then.
 <$12><$00>
 
 
@@ -54945,7 +54905,7 @@ to make your baby a genius."
 <CLEAR>
 ... It's still a secret to Nek,\n
 but according to Father's check-up,\n
-I'm now 3 months pregnant with twins.
+I'm three months pregnant with twins.
 <$12>
 \n
 
@@ -55048,8 +55008,8 @@ you're free to marry her.
 //0358_0000645A_bin\PROG.BIN|00001042|6217
 //<CLEAR>実は犯人は　わかっているんだ\n「ビトレイ」という　かつて\n私のライバルだった　科学者だ<$12>\n<CLEAR>ヤツは　１５年ほど前にも\n私の研究を盗み　軍事用の\nクローンを　作った<$12>\n<CLEAR>それも、私の名を使ってね…\nおかげで　私とサチコは\n賞金首に　されそうになったよ<$12>
 <CLEAR>
-I know the kidnapper personally-\n
-he's a rival scientist named "Betray".
+I know the kidnapper personally.\n
+He's a rival scientist named "Betray".
 <$12>
 \n
 
@@ -56136,7 +56096,7 @@ Coral Khorana 2F
 //奥の箱は、全部　空箱につき\n開けるだけ　ムダだよ～～ん∥\n＿＿＿＿＿＿＿＿＿大野盗　ガルシア<$12>
 "THE BOXES IN THE BACK ARE EMPTY.\n
 DON'T BOTHER OPENING THEM!"\n
-   PHANTOM THIEF GARCIA
+--PHANTOM THIEF GARCIA
 <$12><$00>
 
 
@@ -56150,7 +56110,7 @@ Coral Khorana B1
 //開けたら　閉めよう∥\nトイレの扉と　宝箱ってか？\n＿＿＿エチケットにうるさい　ガルシア<$12>
 "FROM TOILET SEATS TO TREASURE CHESTS,\n
 IF YOU LIFT THE LID, PUT IT BACK DOWN!"\n
-   SHAMELESS THIEF GARCIA
+--SHAMELESS THIEF GARCIA
 <$12><$00>
 
 
@@ -56158,7 +56118,7 @@ IF YOU LIFT THE LID, PUT IT BACK DOWN!"\n
 //郵便配達は、二度クツを濡らす…\nなんちゃってな（笑）\n＿＿＿＿＿＿ユーモアのある　ガルシア<$12>
 "THE MAILMAN WET HIS SHOES TWICE...\n
 AND WENT POSTAL!(GET IT?)"\n
-   COMEDIC THIEF GARCIA
+--COMEDIC THIEF GARCIA
 <$12><$00>
 
 
@@ -56176,7 +56136,7 @@ Coral Khorana B2
 
 <CLEAR>
 "SEE? I'M TOO NICE FOR MY OWN GOOD."\n
-      -SWEET GARCIA
+--SWEET GARCIA
 <$12><$00>
 
 
@@ -56815,7 +56775,7 @@ it down here.
 //<CLEAR>バーカ！　１０年かそこら\n会わなかっただけで　俺の顔を\n忘れるなんて　親不孝者め∥
 <CLEAR>
 Hang on, don't tell me you forgot\n
-my face after a measly 10 years.
+my face after a measly ten years.
 <$00>
 
 
@@ -56899,7 +56859,7 @@ mistook me for its previous master.
 //<CLEAR>で、まあ　ここに\n死んでも　生きてもない状態で\nかれこれ　１０年ってわけさ
 <CLEAR>
 And so, I've been like this for the\n
-last 10 years, neither dead nor alive.
+last ten years, neither dead nor alive.
 <$00>
 
 
@@ -57939,8 +57899,9 @@ after coming here.
 //0381_000073A7_bin\PROG.BIN|00004C9D|6604
 //<CLEAR>どうせなら　ケンも\nあと１０人くらい　見つかれば\n私、女王様気分になれたのに
 <CLEAR>
-Like, next we'll find 10 more of you,\n
-and I'll become queen of the hive.
+Like, next we'll find ten\n
+more of you, and I'll become\n
+queen of the hive.
 <$00>
 
 
@@ -58060,18 +58021,14 @@ BUSY TO ENJOY?"
 \n
 
 <CLEAR>
-   -HAIKU POET, GA RUSHIA
+--HAIKU POET, GA RUSHIA
 <$12><$00>
 
 
 //0385_00006D9F_bin\PROG.BIN|000054A0|6640
 //さて、英語の勉強だ∥\n今日は　<$06>２８<$04>ページからだよ～～ん∥<$12>\n<CLEAR>赤は<$06>ＲＥＤ<$04>、黄は<$06>ＹＥＬＬＯＷ<$04>\n緑は<$06>ＧＲＥＥＮ<$04>、青なら<$06>ＢＬＵＥ<$04>\n＿＿＿＿＿お勉強が大好きな　ガルシア<$12>
-"For today's Spanish lesson,\n
-turn to page 
-<$06>
-28
-<$04>
-!
+"FOR TODAY'S SPANISH LESSON,\n
+TURN TO PAGE 28!
 <$12>
 \n
 
@@ -58094,7 +58051,7 @@ VERDE
 AZUL
 <$04>
 "!\n
-     STUDY BUDDY GARCIA
+--STUDY BUDDY GARCIA
 <$12><$00>
 
 
@@ -58108,8 +58065,8 @@ VV  VV  VR  RV
 
 //0385_00006D9F_bin\PROG.BIN|000054A0|6642
 //赤と緑の切り替えスイッチが　４つある\n触って見ますか？\n<$01>は＿い<$0E>／<$01>いいえ<$0E>
-There are 4 red and green turnover\n
-switches.\n
+There are four red and green\n
+turnover switches.\n
 
 <$01>
 Touch
@@ -58419,7 +58376,7 @@ SCENARIO D
 //0389_00007527_bin\PROG.BIN|00002CF7|6706
 //<CLEAR>ねぇ…　ケン…　もしかして…
 <CLEAR>
-Hey, Ken...  Is this... 
+Hey, Ken... Is this... 
 <$00>
 
 
@@ -58599,7 +58556,7 @@ explain THAT?
 //0389_00007527_bin\PROG.BIN|000033D8|6727
 //<CLEAR>あ…　開いたみたいね\nどうしよう…　ケン…
 <CLEAR>
-Uhm...  Looks like it opened.\n
+Uhm... Looks like it opened.\n
 What do we do now?
 <$00>
 
@@ -58754,8 +58711,9 @@ No, no! Silly, he's not sick like THAT!
 //0390_000005FC_bin\PROG.BIN|00008F59|6745
 //<CLEAR>つまりね、彼はあなたのことが\nすごく好きなのよ！　わかる？\nで、あなたは、どう？
 <CLEAR>
-He's "love-sick," get it? He's in LOVE with\n
-you! So, what do you say?
+He's "love-sick," get it?\n
+He's in LOVE with you!\n
+So, what do you say?
 <$00>
 
 
@@ -58763,8 +58721,8 @@ you! So, what do you say?
 //<CLEAR>…あら　そうなの　…わかったわ\nじゃ、お父様によろしくね\nバイバイ
 <CLEAR>
 ... Oh, really. Yeah, okay.\n
-Well, tell your dad I said thanks again. Bye\n
-bye.
+Well, tell your dad I said thanks again.\n
+Bye bye.
 <$00>
 
 
@@ -58779,8 +58737,9 @@ I shouldn't have called her.
 //0390_000005FC_bin\PROG.BIN|00008F59|6748
 //<CLEAR>彼女もネクのこと　前からずっと\n好きだったんだってさ！
 <CLEAR>
-Sachiko said she's been crushing on Nek\n
-too! The whole time!
+Sachiko said she's been\n
+crushing on Nek too!\n
+Like, the whole time!
 <$00>
 
 
@@ -58970,10 +58929,10 @@ will soothe your heart. Go take a look!
 
 //0390_000005FC_bin\PROG.BIN|0000B78D|6763
 //この町の周辺で　見られるのは\n<$1B>イタチくらいですね…　くさいだけの\n動物ですし、おすすめしかねます<$12>\n<CLEAR>それより　町の中の古風な教会を\nぜひ　ご見学ください<$12>
-Notable animals in the area are\n
+Notable animals in the area are the\n
 
 <$1B>
-weasels, but please.\n
+weasel, but please.\n
 Leave those little bitches alone.
 <$12>
 \n
@@ -59172,12 +59131,10 @@ File Select
 8
 <$02>
 45Loading in progress... \n
-
 <$02>
-24Do not remove the card\n
-
+24Do not remove card\n
 <$02>
-45or turn off the console.
+45or shut off console.
 <$00>
 
 
@@ -59191,7 +59148,7 @@ File Select
 <$02>
 38Load failed... 
 <$02>
-10The data may be corrupt.
+10Data may be corrupt.
 <$00>
 
 
@@ -59216,8 +59173,8 @@ File Select
 <$09>
 8
 <$02>
-28A memory card is recommended to fully\n
-enjoy the game.
+28A memory card is recommended\n
+to fully enjoy the game.
 <$00>
 
 
@@ -59242,7 +59199,7 @@ Minimum of 2 blocks required!
 <$09>
 8
 <$02>
-7Cannot save to Slot 1's card.\n
+7Cannot save to Slot 1 card.\n
 Minimum of 2 blocks required!
 <$00>
 
@@ -59255,7 +59212,7 @@ Minimum of 2 blocks required!
 <$09>
 8
 <$02>
-7Cannot save to Slot 2's card.\n
+7Cannot save to Slot 2 card.\n
 Minimum of 2 blocks required!
 <$00>
 
@@ -59263,14 +59220,14 @@ Minimum of 2 blocks required!
 //0391_00000181_bin\PROG.BIN|0000641C|6797
 //\nスロット１のカードは\n故障している可能性があります…
 \n
-The card in Slot 1 may be corrupt.
+Slot 1 card may be corrupt.
 <$00>
 
 
 //0391_00000181_bin\PROG.BIN|0000641C|6798
 //\nスロット２のカードは\n故障している可能性があります…
 \n
-The card in Slot 2 may be corrupt.
+Slot 2 card may be corrupt.
 <$00>
 
 
@@ -61339,7 +61296,7 @@ For outside trek use
 <$1D>
 /Risk: 
 <$1E>
-％\n
+%\n
 
 <$1D><$00>
 
@@ -61810,7 +61767,8 @@ D-Pad: Select animal
 <$1D><$1D><$02>
 174
 <$06>
-: 
+//: 
+ 
 <$04><$00>
 
 
@@ -61831,7 +61789,8 @@ D-Pad: Select animal
 //0392_000000EF_bin\PROG.BIN|00007D53|7087
 //<$1D>タイプ
 <$1D>
- Type
+//Type
+ 
 <$00>
 
 
@@ -61863,7 +61822,7 @@ LVL
 <$06>
 : 
 <$04><$1D>
- / Class
+ Class
 <$06>
 : 
 <$04><$1D><$00>
@@ -61887,7 +61846,7 @@ ATK
 : 
 <$04><$1D>
 \n
-SPDSPD
+SPD
 <$06>
 : 
 <$04><$1D>
@@ -62984,7 +62943,7 @@ FUNDS
 \n
 
 <$05><$15><$53>
-LV  
+LV 
 <$14><$1E>
 018
 <$05>
@@ -65006,7 +64965,7 @@ X<$00>
 <CLEAR>
 DEF 
 <$1E>
-@ ATK  
+@ ATK 
 <$1E>
 @\n
 
@@ -65684,7 +65643,7 @@ New entry
 <CLEAR><$01>
 Shock 2 
 <$0E><$01>
-Alarm  
+Alarm 
 <$0E>
 \n
 

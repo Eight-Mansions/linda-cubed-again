@@ -1090,10 +1090,10 @@ No
 8
 <$02>
 38Formatting in progress... \n
-Do not remove the card\n
+Do not remove card\n
 
 <$02>
-77or turn off the console.
+77or shut off console.
 <$00>
 
 
@@ -1147,7 +1147,7 @@ Formatting complete!
 <$09>
 8
 <$02>
-35The card in this slot may be corrupt.
+35Inserted card may be corrupt.
 <$00>
 
 
@@ -1181,14 +1181,14 @@ Game will not be saved.
 
 //<CLEAR>このスロットのカードを　使用するには\nフォーマットする必要があります<$00>
 <CLEAR>
-The card in this slot\n
+Inserted card\n
 must be formatted before use.
 <$00>
 
 
 //<CLEAR>このスロットのカードは\n故障している可能性があります…<$00>
 <CLEAR>
-The card in this slot\n
+Inserted card\n
 may be corrupt.
 <$00>
 
@@ -1477,7 +1477,8 @@ TUCHO_1.TMZ<$00>
 
 
 //引き出し<$00>
-Withdrawal
+<$02>
+64Withdrawal
 <$00>
 
 
@@ -1506,7 +1507,7 @@ Deposit
 
 //<$02>64利＿息<$00>
 <$02>
-64Overhead
+64Interest
 <$00>
 
 
@@ -1560,13 +1561,13 @@ OzSAT Weather's global\n
 <CLEAR>
 East Area floods: 
 <$1E>
-34％\n
+34%\n
 West Area snow: 
 <$1E>
-34％\n
+34%\n
 South Area floods: 
 <$1E>
-34％
+34%
 <$12><$00>
 
 
@@ -1731,12 +1732,10 @@ No
 8
 <$02>
 35Saving in progress... \n
-Do not remove the card\n
+Do not remove card\n
 
 <$02>
-77or turn off the console.
-<$02>
-21Do not interrupt.
+77or shut off console.
 <$00>
 
 
@@ -3056,7 +3055,7 @@ IN THE PTERANOBIRD CAGE!"
 FOR ANY LOST BODY PARTS."\n
 
 <$02>
-168 -BIRDLINE
+168--BIRDLINE
 <$12><$00>
 
 
@@ -3167,7 +3166,7 @@ recent suicide uptick.
 <CLEAR>
 If this tragedy connected in any\n
 way to the Koshikata massacre\n
-that took place 10 years ago?
+that took place ten years ago?
 <$12><$00>
 
 

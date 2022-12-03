@@ -394,8 +394,9 @@ if this is legit, but...
 \n
 
 <CLEAR>
-The captain's secretary, Emily, went\n
-through 6 younger guys this year alone!
+The captain's secretary,\n
+Emily, went through six\n
+younger guys this year alone!
 <$12>
 \n
 
@@ -481,8 +482,9 @@ Mine's like a naggy girlfriend!
 
 //<CLEAR>レンジャー隊の給料は　年４回\n季節ごとに　銀行に振り込まれます\nもちろん　あなたの働き次第で昇給∥<$12>\n<CLEAR>…と言っても　しょせんは宮仕えの\nサラリーマンの給料ですからね\n副業をお持ちの方も　多いようですね<$12><$00>
 <CLEAR>
-Rangers are paid 4 times a year, once per\n
-season via direct deposit with the bank.
+Rangers are paid four times a year,\n
+once per season via direct deposit\n
+with the bank.
 <$12>
 \n
 
@@ -819,7 +821,7 @@ Always have.
 
 //<CLEAR>だけどな、俺は覚えてるんだ…\nリンダが　生まれた時の\nヒュームの　嬉しそうな顔をよ<$00>
 <CLEAR>
-I still remember  the beaming look on\n
+I still remember the beaming look on\n
 Hume's face when you were born, Linda.
 <$00>
 
@@ -1466,14 +1468,15 @@ of animal hormones to appease her.
 \n
 
 <CLEAR>
-While it worked for the first 3 decades,\n
-its efficacy sharply declined with time.
+While it worked for the first\n
+three decades, its efficacy\n
+sharply declined in the fourth.
 <$12><$00>
 
 
 //<CLEAR>ある時　ビースチャンの女性の死体を\n手に入れたわしは　それを薬の材料として\n試してみることにした<$12>\n<CLEAR>効果は　予想以上だったよ<$12>\n<CLEAR>わしは　ハッスルⅡのジャンキーを\nふたり作って　材料集めを命じた\nその新薬で　１０年をしのいだ<$12>\n<CLEAR>だが「死神」が　近づくにつれて\n人口は減り　彼らの仕事の効率は\nここ数年、下がる一方だった…<$12><$00>
 <CLEAR>
-At one point, I acquired a Beastian\n
+Around then, I acquired a Beastian\n
 woman's corpse, which I tried to\n
 extract DNA samples from.
 <$12>
@@ -1482,7 +1485,7 @@ extract DNA samples from.
 <CLEAR>
 The effects from said samples\n
 were better than expected.\n
-The new formula would last 10 years.
+The new formula would last ten years.
 <$12>
 \n
 
@@ -1740,7 +1743,7 @@ Nevermind!
 
 //<CLEAR>そうか…　残念だ、\nでも　恥じることじゃないぞ\n大切な問題だからな…<$00>
 <CLEAR>
-I see...  That's too bad.\n
+I see... That's too bad.\n
 But it's a huge decision,\n
 so I don't blame you.
 <$00>
@@ -2306,16 +2309,16 @@ so I can talk to a real man!
 
 //<CLEAR>実は　ヒュームの背中にも\n電波発信機が\nなぜか　ついてるんだ<$00>
 <CLEAR>
-Actually...  I snuck a transmitter\n
+Actually... I snuck a transmitter\n
 onto Hume's back too. Not sure why.
 <$00>
 
 
 //<CLEAR>どっかの　小細工好きの男が\n呼び止めるフリでもして\n取り付けたんだろうよ<$00>
 <CLEAR>
-Maybe it felt innocent, like slapping\n
-a "kick me" sign on him, but still,\n
-I bugged an old friend.
+Maybe it felt innocent, like\n
+slapping a "kick me" sign on him,\n
+but still, I used an old friend.
 <$00>
 
 
@@ -2449,7 +2452,8 @@ TUCHO_1.TMZ<$00>
 
 
 //引き出し<$00>
-Withdrawal
+<$02>
+64Withdrawal
 <$00>
 
 
@@ -2478,7 +2482,7 @@ Deposit
 
 //<$02>64利＿息<$00>
 <$02>
-64Overhead
+64Interest
 <$00>
 
 
@@ -2746,7 +2750,7 @@ Exit
 
 //<CLEAR>返済残高　<$06><$1E><$04>￥です<$12><$00>
 <CLEAR>
-You currently owe  
+You currently owe 
 <$06><$1E><$04>
 ￥.
 <$12><$00>
@@ -2840,10 +2844,10 @@ No
 8
 <$02>
 38Formatting in progress... \n
-Do not remove the card\n
+Do not remove card\n
 
 <$02>
-77or turn off the console.
+77or shut off console.
 <$00>
 
 
@@ -2897,7 +2901,7 @@ Formatting complete!
 <$09>
 8
 <$02>
-35The card in this slot may be corrupt.
+35Inserted card may be corrupt.
 <$00>
 
 
@@ -2931,14 +2935,14 @@ Game will not be saved.
 
 //<CLEAR>このスロットのカードを　使用するには\nフォーマットする必要があります<$00>
 <CLEAR>
-The card in this slot\n
+Inserted card\n
 must be formatted before use.
 <$00>
 
 
 //<CLEAR>このスロットのカードは\n故障している可能性があります…<$00>
 <CLEAR>
-The card in this slot\n
+Inserted card\n
 may be corrupt.
 <$00>
 
@@ -3222,13 +3226,13 @@ OzSAT Weather's global\n
 <CLEAR>
 East Area floods: 
 <$1E>
-34％\n
+34%\n
 West Area snow: 
 <$1E>
-34％\n
+34%\n
 South Area floods: 
 <$1E>
-34％
+34%
 <$12><$00>
 
 
@@ -3393,12 +3397,10 @@ No
 8
 <$02>
 35Saving in progress... \n
-Do not remove the card\n
+Do not remove card\n
 
 <$02>
-77or turn off the console.
-<$02>
-21Do not interrupt.
+77or shut off console.
 <$00>
 
 

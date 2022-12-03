@@ -152,12 +152,12 @@ OzPort Gate 1F
 
 
 //この町の周辺で　ご覧いただける動物は\n<$1B>イカ、<$1B>ダチョウです<$12>\n<CLEAR><$1B>イカは　近寄らない限り、危険は\nありませんが　念のためレベル６以上の\nガイドと　同行してください<$12><$00>
-Notable animals in the area\n
-are 
+Notable animals in the area are the\n
+
 <$1B>
-squids and 
+squid and the
 <$1B>
-ostriches.
+ostrich.
 <$12>
 \n
 
@@ -361,14 +361,14 @@ Hardia Gate 1F
 
 
 //この町の周辺で　見られる動物は\n<$1B>ブタ、<$1B>ダチョウです\n秋には<$1B>トンボの群れも楽しめます<$12>\n<CLEAR>観光のお客様は　レベル２以上の\nガイドか　ハンターとの\n外出を　おすすめします<$12>\n<CLEAR><$1B>イヌには　注意してくださいね<$12><$00>
-Notable animals in the area are\n
+Notable animals in the area are the\n
 
 <$1B>
-pigs, 
+pig, the 
 <$1B>
-ostriches and
+ostrich and the 
 <$1B>
-dragonflies.
+dragonfly.
 <$12>
 \n
 
@@ -556,12 +556,12 @@ Minago Gate 1F
 
 
 //この町の周辺で　見られる動物は\n<$1B>ブタ、<$1B>リスです<$12>\n<CLEAR>観光のお客様は　レベル４以上の\nガイドか　ハンターとの\n外出を　おすすめします<$12>\n<CLEAR>南の海岸には　野犬の巣がありますので\n危険ですから　近づかないでください<$12><$00>
-Notable animals in the area are\n
+Notable animals in the area are the\n
 
 <$1B>
-pigs and 
+pig and the 
 <$1B>
-squirrels.
+squirrel.
 <$12>
 \n
 
@@ -770,9 +770,9 @@ and its bell tower!
 
 //<CLEAR><$1B>プテラノ鳥の　仕入れと調教の方法は\n我社の　トップシークレットなの\n教えたりしたら　クビになっちゃうわ<$12>\n<CLEAR>でも　きっと、あなたには\n近いうちに　バレちゃうわね<$12><$00>
 <CLEAR><$1B>
-How we capture and tame\n
-our Pteranobirds remains\n
-a strict company secret.
+Pteranobird capture and taming\n
+techniques used at the birdline\n
+remain a strict company secret.
 <$12>
 \n
 
@@ -861,16 +861,16 @@ Hospico Gate 1F
 
 
 //この町の周辺で　ご覧いただけるのは\n<$1B>カニ、<$1B>モグラ、<$1B>オコゼ、<$1B>サル<$12>\n<CLEAR>近寄らなければ　<$1B>サル以外の動物は\nとくに　危険はありません<$12>\n<CLEAR>ご心配の方は　７レベル以上の\nハンターか　ガイドを\nお雇いくださいませ<$12><$00>
-Notable animals in the area are\n
+Notable animals in the area are the\n
 
 <$1B>
-crabs, 
+crab, the 
 <$1B>
-moles, 
+mole, the 
 <$1B>
-stonefish and 
+stonefish and the 
 <$1B>
-monkeys.
+monkey.
 <$12>
 \n
 
@@ -1082,14 +1082,14 @@ Paraside Gate 1F
 
 
 //この町の周辺で　見られる動物は\n<$1B>ウサギ、<$1B>モグラ、<$1B>カニです<$12>\n<CLEAR>観光のお客様は　レベル８以上の\nハンターと　ご契約の上、\n外出することを　おすすめします<$12><$00>
-Notable animals in the area are\n
+Notable animals in the area are the\n
 
 <$1B>
-rabbits, 
+rabbit, the 
 <$1B>
-moles and 
+mole and the 
 <$1B>
-crabs.
+crab.
 <$12>
 \n
 
@@ -1101,8 +1101,9 @@ hire an escort LVL 8 or higher.
 
 //<CLEAR><$1B>カニから作る装備は　けっこう、\nバランスも良くて　使えるらしいね<$12><$00>
 <CLEAR><$1B>
-Equipment crafted from crabs is\n
-usually real balanced and versatile.
+Crab as a material often shows up\n
+in some very balanced and versatile\n
+equipment.
 <$12><$00>
 
 
@@ -2528,10 +2529,10 @@ No
 8
 <$02>
 38Formatting in progress... \n
-Do not remove the card\n
+Do not remove card\n
 
 <$02>
-77or turn off the console.
+77or shut off console.
 <$00>
 
 
@@ -2585,7 +2586,7 @@ Formatting complete!
 <$09>
 8
 <$02>
-35The card in this slot may be corrupt.
+35Inserted card may be corrupt.
 <$00>
 
 
@@ -2619,14 +2620,14 @@ Game will not be saved.
 
 //<CLEAR>このスロットのカードを　使用するには\nフォーマットする必要があります<$00>
 <CLEAR>
-The card in this slot\n
+Inserted card\n
 must be formatted before use.
 <$00>
 
 
 //<CLEAR>このスロットのカードは\n故障している可能性があります…<$00>
 <CLEAR>
-The card in this slot\n
+Inserted card\n
 may be corrupt.
 <$00>
 
@@ -2915,7 +2916,8 @@ TUCHO_1.TMZ<$00>
 
 
 //引き出し<$00>
-Withdrawal
+<$02>
+64Withdrawal
 <$00>
 
 
@@ -2944,7 +2946,7 @@ Deposit
 
 //<$02>64利＿息<$00>
 <$02>
-64Overhead
+64Interest
 <$00>
 
 
@@ -2998,13 +3000,13 @@ OzSAT Weather's global\n
 <CLEAR>
 East Area floods: 
 <$1E>
-34％\n
+34%\n
 West Area snow: 
 <$1E>
-34％\n
+34%\n
 South Area floods: 
 <$1E>
-34％
+34%
 <$12><$00>
 
 
@@ -3169,12 +3171,10 @@ No
 8
 <$02>
 35Saving in progress... \n
-Do not remove the card\n
+Do not remove card\n
 
 <$02>
-77or turn off the console.
-<$02>
-21Do not interrupt.
+77or shut off console.
 <$00>
 
 
@@ -4650,7 +4650,7 @@ IN THE PTERANOBIRD CAGE!"
 FOR ANY LOST BODY PARTS."\n
 
 <$02>
-168 -BIRDLINE
+168--BIRDLINE
 <$12><$00>
 
 
@@ -4761,7 +4761,7 @@ recent suicide uptick.
 <CLEAR>
 If this tragedy connected in any\n
 way to the Koshikata massacre\n
-that took place 10 years ago?
+that took place ten years ago?
 <$12><$00>
 
 

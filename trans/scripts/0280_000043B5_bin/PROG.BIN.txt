@@ -336,8 +336,9 @@ if this is legit, but...
 \n
 
 <CLEAR>
-The captain's secretary, Emily, went\n
-through 6 younger guys this year alone!
+The captain's secretary,\n
+Emily, went through six\n
+younger guys this year alone!
 <$12>
 \n
 
@@ -417,8 +418,9 @@ can call in as often as we like!
 
 //<CLEAR>レンジャー隊の給料は　年４回\n季節ごとに　銀行に振り込まれます\nもちろん　あなたの働き次第で昇給∥<$12>\n<CLEAR>…と言っても　しょせんは宮仕えの\nサラリーマンの給料ですからね\n副業をお持ちの方も　多いようですね<$12><$00>
 <CLEAR>
-Rangers are paid 4 times a year, once per\n
-season via direct deposit with the bank.
+Rangers are paid four times a year,\n
+once per season via direct deposit\n
+with the bank.
 <$12>
 \n
 
@@ -687,8 +689,8 @@ time catching over
 
 //動物の集め方に　正解などない！\nいや、たくさんの正解があると\n言った方が　いいな<$12>\n<CLEAR>だから目標は　自分で決めろ∥\nわかったな∥<$12><$00>
 There's no true way to hunt. If there\n
-is more than 1 way to skin a cat,\n
-there is more than 1 way to catch one! 
+is more than one way to skin a cat,\n
+there is more than one way to catch it! 
 <$12>
 \n
 
@@ -949,7 +951,7 @@ pick him up first. What says you?
 
 //<CLEAR>あら…　貴重なご意見アリガト！\n参考にさせて　もらうわ<$12><$00>
 <CLEAR>
-Ah-ha...  Thanks for your input!\n
+Ah-ha... Thanks for your input!\n
 I'll add it to the pool.
 <$12><$00>
 
@@ -1131,7 +1133,7 @@ Nevermind!
 
 //<CLEAR>そうか…　残念だ、\nでも　恥じることじゃないぞ\n大切な問題だからな…<$00>
 <CLEAR>
-I see...  That's too bad.\n
+I see... That's too bad.\n
 But it's a huge decision,\n
 so I don't blame you.
 <$00>
@@ -1241,7 +1243,8 @@ TUCHO_1.TMZ<$00>
 
 
 //引き出し<$00>
-Withdrawal
+<$02>
+64Withdrawal
 <$00>
 
 
@@ -1270,7 +1273,7 @@ Deposit
 
 //<$02>64利＿息<$00>
 <$02>
-64Overhead
+64Interest
 <$00>
 
 
@@ -1538,7 +1541,7 @@ Exit
 
 //<CLEAR>返済残高　<$06><$1E><$04>￥です<$12><$00>
 <CLEAR>
-You currently owe  
+You currently owe 
 <$06><$1E><$04>
 ￥.
 <$12><$00>
@@ -1632,10 +1635,10 @@ No
 8
 <$02>
 38Formatting in progress... \n
-Do not remove the card\n
+Do not remove card\n
 
 <$02>
-77or turn off the console.
+77or shut off console.
 <$00>
 
 
@@ -1689,7 +1692,7 @@ Formatting complete!
 <$09>
 8
 <$02>
-35The card in this slot may be corrupt.
+35Inserted card may be corrupt.
 <$00>
 
 
@@ -1723,14 +1726,14 @@ Game will not be saved.
 
 //<CLEAR>このスロットのカードを　使用するには\nフォーマットする必要があります<$00>
 <CLEAR>
-The card in this slot\n
+Inserted card\n
 must be formatted before use.
 <$00>
 
 
 //<CLEAR>このスロットのカードは\n故障している可能性があります…<$00>
 <CLEAR>
-The card in this slot\n
+Inserted card\n
 may be corrupt.
 <$00>
 
@@ -2014,13 +2017,13 @@ OzSAT Weather's global\n
 <CLEAR>
 East Area floods: 
 <$1E>
-34％\n
+34%\n
 West Area snow: 
 <$1E>
-34％\n
+34%\n
 South Area floods: 
 <$1E>
-34％
+34%
 <$12><$00>
 
 
@@ -2185,12 +2188,10 @@ No
 8
 <$02>
 35Saving in progress... \n
-Do not remove the card\n
+Do not remove card\n
 
 <$02>
-77or turn off the console.
-<$02>
-21Do not interrupt.
+77or shut off console.
 <$00>
 
 
@@ -2867,7 +2868,7 @@ to Prof. Panheim in Hospico.
 
 //<CLEAR><$1B>カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す<$00>
 <CLEAR>
-Find up to 3 
+Find up three 
 <$1B>
 Turtle Eggs\n
 to give to Louis at the\n
@@ -2888,8 +2889,8 @@ Battle Park BB Ranch.
 //<CLEAR>「太郎の首輪」を見つけだし、ドギファの\nナターシャか、オーマン家３兄弟に渡す<$00>
 <CLEAR>
 Locate Taro's Collar to give to\n
-Natasha or one of the 3 Aumann\n
-siblings in Dogyf Heights.
+either Natasha or one of the\n
+Aumann siblings in Dogyf Heights.
 <$00>
 
 
@@ -3110,13 +3111,13 @@ Kevin
 
 //<CLEAR>あの…\n私、スペクターといいます\nハーディアの　ホテルにいます…<$12>\n<CLEAR>あの…\n折り入って　お頼みしたいことが…<$12>\n<CLEAR>何かのついでで　結構ですから\nご足労願えますか…\n一番、奥の部屋です<$12>\n<CLEAR>あの…\nきっと　来てください\nお待ちしていますから…<$12><$00>
 <CLEAR>
-Uhm...  You can call me Spectre.\n
+Uhm... You can call me Spectre.\n
 I'm in the Hardia Hotel.
 <$12>
 \n
 
 <CLEAR>
-Uhm...  I've got a favor to ask you.
+Uhm... I've got a favor to ask you.
 <$12>
 \n
 
@@ -3127,7 +3128,7 @@ if you came up to my room.
 \n
 
 <CLEAR>
-Uhm...  Do come, please.\n
+Uhm... Do come, please.\n
 I'll be waiting.
 <$12><$00>
 

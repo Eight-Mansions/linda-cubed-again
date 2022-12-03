@@ -423,17 +423,16 @@ she's a magical sight to remember!
 
 
 //ご心配でしょうけど　外科医としての\nエモリ先生の腕は　超一流よ\n少し独善的なトコも　あるけど…<$12>\n<CLEAR>先生の判断は　信頼できるわ！\n問題は　彼女の心のキズのほうね\n医者じゃ　治せないもの<$12><$00>
-You must be worried. Dr. Emori's\n
-surgical skills are top-notch, but\n
-there's no denying he has an ego...\n
-
+People get wary of Dr. Emori's skills\n
+as a surgeon when they hear the self-\n
+confident tone he takes with his work.
 <$12>
 \n
 
 <CLEAR>
-But he IS capable! The one thing in\n
-the world a doctor like him couldn't\n
-fix is probably a girl's broken heart.
+But he's WORTH it! The one thing in a\n
+doctor at his caliber couldn't fix is,\n
+I dunno, a broken-hearted teenaged girl.
 <$12><$00>
 
 
@@ -478,9 +477,9 @@ Captain Ben over!"
 
 
 //エモリ先生の娘さんの　サチコさんに\n会ったことある？　白い布みたいに\n素直と言うか　純心と言うかさ…<$12>\n<CLEAR>ああいうコを自分の色に　少しずつ\n染めてくのって　男としちゃ\n一度は　やってみたいことだよ<$12><$00>
-Have you met Dr. Emori's\n
-daughter, Sachiko?\n
-Her heart is  pure, like white linen.
+Have you had the luxury of meeting\n
+Dr. Emori's daughter, Sachiko?\n
+Her heart is pure, like white linen.
 <$12>
 \n
 
@@ -1097,7 +1096,8 @@ TUCHO_1.TMZ<$00>
 
 
 //引き出し<$00>
-Withdrawal
+<$02>
+64Withdrawal
 <$00>
 
 
@@ -1126,7 +1126,7 @@ Deposit
 
 //<$02>64利＿息<$00>
 <$02>
-64Overhead
+64Interest
 <$00>
 
 
@@ -1394,7 +1394,7 @@ Exit
 
 //<CLEAR>返済残高　<$06><$1E><$04>￥です<$12><$00>
 <CLEAR>
-You currently owe  
+You currently owe 
 <$06><$1E><$04>
 ￥.
 <$12><$00>

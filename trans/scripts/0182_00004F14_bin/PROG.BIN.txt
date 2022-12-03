@@ -217,8 +217,8 @@ hunter or tourist dipshit.
 //<CLEAR><$1B>オコゼを相手にする時は、わざわざ\n不利な水に入ってまで　戦うなよ\n入る「フリ」で　充分、足りるのサ<$12>\n<CLEAR>水際まで誘い出して　こっちは\n岸辺の足場の　しっかりした所で\n迎え撃つのが　定石だな<$12><$00>
 <CLEAR><$1B>
 Stonefish are the worst to fight.\n
-If you want one, don't enter the water,\n
-whatever you do!
+If you want to engage them in combat,\n
+do NOT walk straight into the water!
 <$12>
 \n
 
@@ -321,9 +321,9 @@ Ask yourself, "Can I endure that?"
 \n
 
 <CLEAR>
-Try to be around, oh... 3 LVLs\n
-above your enemy, and battles\n
-will always go smoother for you.
+Try to be around, oh...\n
+three LVLs above your enemy,\n
+and battles will be cake for you.
 <$12><$00>
 
 
@@ -456,7 +456,8 @@ TUCHO_1.TMZ<$00>
 
 
 //引き出し<$00>
-Withdrawal
+<$02>
+64Withdrawal
 <$00>
 
 
@@ -485,7 +486,7 @@ Deposit
 
 //<$02>64利＿息<$00>
 <$02>
-64Overhead
+64Interest
 <$00>
 
 
@@ -753,7 +754,7 @@ Exit
 
 //<CLEAR>返済残高　<$06><$1E><$04>￥です<$12><$00>
 <CLEAR>
-You currently owe  
+You currently owe 
 <$06><$1E><$04>
 ￥.
 <$12><$00>
@@ -1227,7 +1228,7 @@ Sniff... sniff, sniff?
 There's not 
 <$1E>
 1 soul here!\n
-Wait...  No, there's at least 
+Wait... No, there's at least 
 <$1E>
 1.
 <$12>

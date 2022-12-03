@@ -551,7 +551,7 @@ What'll HR think...
 //ここより先　関係者以外　立入禁止\n＿＿＿＿＿＿＿＿＿＿＿ネオケニア銀行<$12><$00>
 "PERSONNEL ONLY\n
 PERMITTED BEYOND THIS POINT."\n
--Neo Kenya Bank
+--NEO KENYA BANK
 <$12><$00>
 
 
@@ -844,8 +844,9 @@ that you let go right over your head!
 
 
 //わしの夢は　生まれ故郷のコシカタに\nたとえ１年限りでも　もう一度\n人が暮らすのを　見ることなんじゃ<$12>\n<CLEAR>そのための資金にと　ここ<$06>10<$04>年\nずっと宝クジを　買い続けとるんじゃが\n３等を当てるのが　やっとじゃよ<$12><$00>
-I dream to see people live again in my home\n
-village, Koshikata, even if just for 1 year.
+I dream to see people come live\n
+in my home village, Koshikata,\n
+even if just for one year.
 <$12>
 \n
 
@@ -1310,8 +1311,8 @@ playing the hottest game around!
 
 
 //当店では収益の７％を　脱出難民募金に\n寄付しておりますです　ハイ！<$12><$00>
-Approcimately 7％ of all proceeds are\n
-donated to migration relief!\n
+Approximately 7% of all proceeds\n
+are donated to migration relief!\n
 Let's keep the love coming!
 <$12><$00>
 
@@ -1754,9 +1755,7 @@ it can pass for one worth ２００￥.
 
 
 //お客様、誠に申し上げにくいのですが\nレンジャー隊の給料じゃ　<$06>100<$04>年分\n貯めても　買えないかと…<$12><$00>
-Even if you saved for 
-<$06><$04>
- years,\n
+Even if you saved for 100 years,\n
 you couldn't afford this\n
 on a ranger's salary.
 <$12><$00>
@@ -2401,7 +2400,8 @@ TUCHO_1.TMZ<$00>
 
 
 //引き出し<$00>
-Withdrawal
+<$02>
+64Withdrawal
 <$00>
 
 
@@ -2430,7 +2430,7 @@ Deposit
 
 //<$02>64利＿息<$00>
 <$02>
-64Overhead
+64Interest
 <$00>
 
 
@@ -2698,7 +2698,7 @@ Exit
 
 //<CLEAR>返済残高　<$06><$1E><$04>￥です<$12><$00>
 <CLEAR>
-You currently owe  
+You currently owe 
 <$06><$1E><$04>
 ￥.
 <$12><$00>
@@ -3308,7 +3308,7 @@ Sniff... sniff, sniff?
 There's not 
 <$1E>
 1 soul here!\n
-Wait...  No, there's at least 
+Wait... No, there's at least 
 <$1E>
 1.
 <$12>
@@ -3521,7 +3521,7 @@ I'm absolutely certain!
 #WRITE(PTR, $0036)
 //<$15><$59>宝クジ屋<$00>
 <$15><$59>
-YLottery Store
+YLottery Counter
 <$00>
 
 
@@ -3631,7 +3631,7 @@ have the money to buy a ticket...
 
 //<CLEAR>持ち物がいっぱいですよ<$12><$00>
 <CLEAR>
-At least your item bag is full, am I right?
+Your item bad is full!
 <$12><$00>
 
 
@@ -3642,7 +3642,7 @@ At least your item bag is full, am I right?
 036
 <$19><$30>
 ］\n
-Choose any 4 digits you want.\n
+Choose any four digits you want.\n
 This'll be your lottery number!
 <$00>
 

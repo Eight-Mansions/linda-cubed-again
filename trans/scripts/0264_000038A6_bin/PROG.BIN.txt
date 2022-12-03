@@ -358,28 +358,29 @@ Learned
 
 //<CLEAR><$1D>の　最大<$06>HP<$1E>@<$04>\n攻撃力<$06><$1E>@ <$04>守備力<$06><$1E>@<$04>\n素早さ<$06><$1E>@ <$04>最大<$06>BP<$1E>@<$04><$12><$00>
 <CLEAR><$1D>
-: Max 
+:\n
+  Max 
 <$06>
-HP:
+HP: 
 <$1E>
 @
 <$04>
 \n
-ATK:
+  ATK: 
 <$06><$1E>
 @
 <$04>
-DEF:
+   DEF: 
 <$06><$1E>
 @
 <$04>
-SPD:
+   SPD: 
 <$06><$1E>
 @
 <$04>
-Max 
+   Max 
 <$06>
-BP:
+BP: 
 <$1E>
 @
 <$04><$12><$00>
@@ -771,7 +772,7 @@ to Prof. Panheim in Hospico.
 
 //<CLEAR><$1B>カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す<$00>
 <CLEAR>
-Find up to 3 
+Find up three 
 <$1B>
 Turtle Eggs\n
 to give to Louis at the\n
@@ -792,8 +793,8 @@ Battle Park BB Ranch.
 //<CLEAR>「太郎の首輪」を見つけだし、ドギファの\nナターシャか、オーマン家３兄弟に渡す<$00>
 <CLEAR>
 Locate Taro's Collar to give to\n
-Natasha or one of the 3 Aumann\n
-siblings in Dogyf Heights.
+either Natasha or one of the\n
+Aumann siblings in Dogyf Heights.
 <$00>
 
 

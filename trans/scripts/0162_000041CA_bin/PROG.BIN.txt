@@ -379,8 +379,9 @@ if this is legit, but...
 \n
 
 <CLEAR>
-The captain's secretary, Emily, went\n
-through 6 younger guys this year alone!
+The captain's secretary,\n
+Emily, went through six\n
+younger guys this year alone!
 <$12>
 \n
 
@@ -466,8 +467,9 @@ Mine's like a naggy girlfriend!
 
 //<CLEAR>レンジャー隊の給料は　年４回\n季節ごとに　銀行に振り込まれます\nもちろん　あなたの働き次第で昇給∥<$12>\n<CLEAR>…と言っても　しょせんは宮仕えの\nサラリーマンの給料ですからね\n副業をお持ちの方も　多いようですね<$12><$00>
 <CLEAR>
-Rangers are paid 4 times a year, once per\n
-season via direct deposit with the bank.
+Rangers are paid four times a year,\n
+once per season via direct deposit\n
+with the bank.
 <$12>
 \n
 
@@ -538,7 +540,7 @@ way she sticks her neck out for you!
 //急に金が必要になったら　銀行で\n融資してもらうのも　手だゼ\n最大で給料の１年分、前借りできる！<$12>\n<CLEAR>まっ、サラリーマンの特権ってヤツよ\nなーに　銀行も商売だから\n返せる金しか　貸しゃしないって！<$12>\n<CLEAR>最悪、期限までに　返せなくても\n給料が　しばらく止まるだけ！\n元が少ないんだし　関係ねぇよ<$12><$00>
 If you're strapped for cash, it's\n
 okay to take out a loan from the bank.\n
-You can borrow up to 1 year's salary!
+You can borrow up to one year's salary!
 <$12>
 \n
 
@@ -949,7 +951,7 @@ poor Linda standing right here.
 //<CLEAR>まあ　とりあえず　パスワードを\n入力して　みなよ\nアルファベットで　６文字だ<$00>
 <CLEAR>
 Moving on, try to enter a password.\n
-It's 6 letters long.
+It's six letters long.
 <$00>
 
 
@@ -976,8 +978,8 @@ Like, "YLLIMS", or, "SMLLIY"!
 
 //<CLEAR>ケン！　ビンゴだ∥\nメニューが　３つも出てきたゼ！\nで、何から　見る？<$00>
 <CLEAR>
-All right, we're in!\n
-There are 3 files here.\n
+... All right, we're in!\n
+There are three files here.\n
 What should we look at?
 <$00>
 
@@ -1048,7 +1050,7 @@ No, I'm done
 
 //<CLEAR>この３つの　ファイルから\nおまえたちが　考えたことを\n言い当てて　見せようか？<$00>
 <CLEAR>
-These 3 files gave us\n
+These three files gave us\n
 a lot to work with, and\n
 a whole lot more to swallow.
 <$00>
@@ -1342,7 +1344,7 @@ D.O.B.: AMD
 1976.12.25
 <$04>
 \n
-P.O.B.: Camp  
+P.O.B.: Camp 
 <$06>
 372
 <$04>
@@ -1357,11 +1359,11 @@ Mother: Tsuruko Emori(Deceased)
 \n
 
 <CLEAR>
-Height:  
+Height: 
 <$06>
 158
 <$04>
-cm/Weight:  
+cm/Weight: 
 <$06>
 43.5
 <$04>
@@ -1907,7 +1909,7 @@ Nevermind!
 
 //<CLEAR>そうか…　残念だ、\nでも　恥じることじゃないぞ\n大切な問題だからな…<$00>
 <CLEAR>
-I see...  That's too bad.\n
+I see... That's too bad.\n
 But it's a huge decision,\n
 so I don't blame you.
 <$00>
@@ -2033,7 +2035,8 @@ TUCHO_1.TMZ<$00>
 
 
 //引き出し<$00>
-Withdrawal
+<$02>
+64Withdrawal
 <$00>
 
 
@@ -2062,7 +2065,7 @@ Deposit
 
 //<$02>64利＿息<$00>
 <$02>
-64Overhead
+64Interest
 <$00>
 
 
@@ -2330,7 +2333,7 @@ Exit
 
 //<CLEAR>返済残高　<$06><$1E><$04>￥です<$12><$00>
 <CLEAR>
-You currently owe  
+You currently owe 
 <$06><$1E><$04>
 ￥.
 <$12><$00>
@@ -2424,10 +2427,10 @@ No
 8
 <$02>
 38Formatting in progress... \n
-Do not remove the card\n
+Do not remove card\n
 
 <$02>
-77or turn off the console.
+77or shut off console.
 <$00>
 
 
@@ -2481,7 +2484,7 @@ Formatting complete!
 <$09>
 8
 <$02>
-35The card in this slot may be corrupt.
+35Inserted card may be corrupt.
 <$00>
 
 
@@ -2515,14 +2518,14 @@ Game will not be saved.
 
 //<CLEAR>このスロットのカードを　使用するには\nフォーマットする必要があります<$00>
 <CLEAR>
-The card in this slot\n
+Inserted card\n
 must be formatted before use.
 <$00>
 
 
 //<CLEAR>このスロットのカードは\n故障している可能性があります…<$00>
 <CLEAR>
-The card in this slot\n
+Inserted card\n
 may be corrupt.
 <$00>
 
@@ -2806,13 +2809,13 @@ OzSAT Weather's global\n
 <CLEAR>
 East Area floods: 
 <$1E>
-34％\n
+34%\n
 West Area snow: 
 <$1E>
-34％\n
+34%\n
 South Area floods: 
 <$1E>
-34％
+34%
 <$12><$00>
 
 
@@ -2977,12 +2980,10 @@ No
 8
 <$02>
 35Saving in progress... \n
-Do not remove the card\n
+Do not remove card\n
 
 <$02>
-77or turn off the console.
-<$02>
-21Do not interrupt.
+77or shut off console.
 <$00>
 
 
