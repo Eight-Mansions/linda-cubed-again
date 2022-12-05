@@ -513,7 +513,7 @@ START: Highlight "Okay!"
 <$11>
 240
 <CLEAR>
-(Again) START: Begin camping!
+START: Begin camping!
 <$11>
 240
 <$07><$00>
@@ -1161,10 +1161,7 @@ so Ken let it go.
 
 //0000_0000072A_bin\PROG.BIN|000064EF|178
 //<$06>TRANS-CARGO IN<$04>∥<$12>
-<$06>
-Now loading to TCU... 
-<$04>
-!
+Now loading to TCU...
 <$12><$00>
 
 
@@ -3718,7 +3715,7 @@ Overwrite save?
 <$01>
 Yes
 <$0E>
-/
+ / 
 <$01>
 No
 <$0E><$00>
@@ -4982,18 +4979,9 @@ EACH IS SORTED INTO A POD.
 
 //0032_00003664_bin\PROG.BIN|00008CD9|769
 //動物保護目標＿<$1E>35種＿<$1E>35頭\n現在ノ達成数＿<$1E>35種＿<$1E>35頭\n未保護ノ動物＿<$1E>35種＿<$1E>35頭<$12>
-ANIMAL RESCUE GOAL: 
-<$1E>
-35 / 
-<$1E><$1E>
-35 / 
-<$1E>
-35\n
-NOT CAPTURED 
-<$1E>
-35 / 
-<$1E>
-35 
+ANIMAL RESCUE GOAL: <$1E>35s <$1E>35 \n
+RESCUED: <$1E>35 <$1E>35h\n
+RESCUED: <$1E>35 <$1E>35
 <$12><$00>
 
 
@@ -5006,17 +4994,16 @@ TO REGISTER ON THE ASTRO ARK.
 
 //0032_00003664_bin\PROG.BIN|00008CD9|771
 //動物ヲ登録スルタビニ　乗員ノ肉体ハ\nソノ能力ニ　覚セイシマス<$12>\n<CLEAR>ソノ能力コソ　主人ガ\n後継者ニ残シタ　真ノ遺産\n能力ハ　アナタノ物デス<$12>
-THE MORE ANIMALS YOU FILE ON YOUR\n
-JOURNEY, THE MORE YOUR CREW WILL\n
+THE MORE ANIMALS YOU FILE ALONG YOUR\n
+JOURNEY, THE FURTHER YOUR CREW WILL\n
 AWAKEN TO THEIR ABILITIES.
 <$12>
 \n
 
 <CLEAR>
-THE MASTER AND THE APPRENTICE\n
-ARE SYMBIOTIC BEINGS.\n
-GIVE IT DUE TIME, AND YOU\n
-TOO WILL UNDERSTAND THIS.
+THE MASTER AND THE APPRENTICE ARE\n
+SYMBIOTIC BEINGS. GIVE IT DUE TIME,\n
+AND YOU TOO WILL FEEL THIS BALANCE.
 <$12><$00>
 
 
@@ -6992,7 +6979,7 @@ A
 <$01>
 Yes
 <$0E>
-/
+ / 
 <$01>
 No
 <$0E><$00>
@@ -9510,7 +9497,7 @@ Items/Sell
 //0038_00003A28_bin\PROG.BIN|00008D08|1311
 //<$15><$59>宝クジ屋
 <$15><$59>
-YLottery Counter
+Lottery Counter
 <$00>
 
 
@@ -11976,7 +11963,7 @@ No
 //0046_00003FA9_bin\PROG.BIN|0000143D|1580
 //<$15><$59>猟犬治療
 <$15><$59>
-YVeterinarian
+Yeterinarian
 <$00>
 
 
@@ -16372,9 +16359,9 @@ I'm on a walk
 //0060_00004933_bin\PROG.BIN|0000108E|2128
 //<CLEAR>……コシカタの「町長」なんて\nここには　いやしません\nヘンな噂、たてないでくださいね<$12>
 <CLEAR>
-... The "elder" of Koshikata?\n
-He's not here.
-Don't feed baseless rumors.
+You want to see the "elder" of Koshikata?\n
+Sorry kid, but there's no one here to see.\n
+Don't feed all those baseless rumors.
 <$12><$00>
 
 
@@ -17645,7 +17632,7 @@ and one day, you'll pay the price.
 //0063_000049EB_bin\PROG.BIN|000018C8|2264
 //<CLEAR>愚かな飼い主の犠牲になった　多くの犬の\n冥福のために　ご寄付をお願いします
 <CLEAR>
-Donate. Sooth the souls of dogs lost\n
+Donate. Soothe the souls of dogs lost\n
 at the hands of their owners.
 <$00>
 
@@ -27125,7 +27112,7 @@ OzPort Gate 1F
 //この町の周辺で　ご覧いただける動物は\n<$1B>イカ、<$1B>ダチョウです<$12>\n<CLEAR><$1B>イカは　近寄らない限り、危険は\nありませんが　念のためレベル６以上の\nガイドと　同行してください<$12>
 Notable animals in the area are the\n
 <$1B>
-squid and the
+squid and the 
 <$1B>
 ostrich.
 <$12>
@@ -28555,7 +28542,7 @@ Sorry, I'm tired
 //0108_00000DCD_bin\PROG.BIN|00007331|3430
 //<CLEAR>愛する人に　一緒に死んでって\n頼まれたとしたら　一緒に死ぬ？
 <CLEAR>
-If a loved on asked you to "die"\n
+If a loved one asked you to "die"\n
 with them, would you oblige?
 <$00>
 
@@ -29659,8 +29646,8 @@ Well, bye bye!
 //0148_00003A95_bin\PROG.BIN|00001753|3631
 //左の青い建物の　３階から\nオズサットへ行って　そこから\n脱出用のシャトルに　乗るんだよ<$12>\n<CLEAR>それで　泣いても笑っても\nこのネオケニアとは　永遠に\nおさらばってわけよ<$12>
 The migration shuttles are in OzSat,\n
-the artificial satellite overheda\n
-of OzPort.
+the artificial satellite stationed\n
+high above OzPort.
 <$12>
 \n
 
@@ -29903,7 +29890,7 @@ the airport general.
 \n
 
 <CLEAR>
-Everyone knows the migration
+Everyone knows the migration\n
 project is falling behind.\n
 Maybe the pressure got to him.
 <$12>
@@ -30595,9 +30582,10 @@ she's more your type, isn't she?
 //0153_00003BA6_bin\PROG.BIN|00006011|3715
 //\n<$01>まあ、そうだな<$0E>／<$01>ゼンゼン違うよ<$0E>
 \n
-
-<$01><$0E>
+<$01>
 Well, duh.
+<$0E>
+ / 
 <$01>
 Absolutely not!
 <$0E><$00>
@@ -31021,8 +31009,8 @@ was completely blown to smithereens!
 \n
 
 <CLEAR>
-I'm sorry, but I've got a favor!\n
-Go talk to the civilians in the area,
+We're sorry. We have a favor to ask!\n
+Go talk to the civilians in the area,\n
 and lighten the mood to prevent panic.
 <$12><$00>
 
@@ -31464,7 +31452,7 @@ Please, get inside.
 //0155_00003DE7_bin\PROG.BIN|00004A55|3797
 //<CLEAR>わかってるって　もぉ～\nまったく最近の若いコたちは\n本当に　うるさいわね
 <CLEAR>
-"I KNOW"! "I KNOW"!"I KNOW"!\n
+"I KNOW", "I KNOW", "I KNOOOW"!\n
 Damned women, you're all the same!
 <$00>
 
@@ -35839,7 +35827,7 @@ I dunno, a broken-hearted teenaged girl.
 
 //0179_00004B61_bin\PROG.BIN|00003080|4265
 //逃げ出しちゃったんだって、\nあなたの彼女？\nでも、いずれ戻って来るわよ<$12>\n<CLEAR>追われると　逃げたくなるもんなの\n男と女って　そういうもんなのよ\n私にも　経験があるわ…<$12>
-Oh, you're girlfriend ran away?\n
+Oh, your girlfriend ran away?\n
 Don't worry, she'll be back.
 <$12>
 \n
@@ -36239,8 +36227,8 @@ you were coming, she ran away.
 //<CLEAR>彼女を　喜ばすつもりで\n言ったのに…　不注意だったよ…\n本当に　申し訳ない
 <CLEAR>
 I thought the news of your\n
-arrivalwould make her happy,\n
-but I was wrong. I'm so sorry!
+arrival would make her happy,\n
+but I was wrong. So very wrong!
 <$00>
 
 
@@ -38508,8 +38496,7 @@ winnings will go kaput.
 <CLEAR>
 Patience is key, but follow your\n
 greed for too long, and you'll\n
-pay for it at the\n
-vet.
+pay for it at the vet.
 <$12><$00>
 
 
@@ -38547,10 +38534,11 @@ fall into debt.
 
 //0196_00006186_bin\PROG.BIN|00003F10|4579
 //<$1B>イヌが戦ってる最中に　飼い主が\nできることは　応援と…<$12>\n<CLEAR>負けが見えた猟犬が　倒される前に\n×ボタンで　タオルを投げて\n試合を止めて　助けることだけだね<$12>
+The only support an owner\n
+can show when their 
 <$1B>
-The only thing the owner\n
-can do in a dogfight is\n
-show support.
+dog is in the\n
+ring is a verbal cheer from afar.
 <$12>
 \n
 
@@ -38659,7 +38647,7 @@ who opened the dojo.
 
 <CLEAR>
 Before that, he was the\n
-lieutenant colonal up in\n
+lieutenant colonel up in\n
 Federation Headquarters.
 <$12>
 \n
@@ -39042,12 +39030,12 @@ Is there no in-between?
 //0196_00006186_bin\PROG.BIN|00004C67|4626
 //オーマン家の次兄の　シェドパだよ\n君達も　おやじのことかな？\n<$01>そうです<$0E>／<$01>違います<$0E>
 I'm the second son, Shedoba.\n
-Did you want to ask about my father?
+Did you come to ask about my father?\n
 <$01>
 Yes
 <$0E>
 \n
-/ 
+ / 
 <$01>
 No
 <$0E><$00>
@@ -39236,9 +39224,9 @@ about his death.
 \n
 
 <CLEAR>
-A see a "dogfight" for the\n
+I see a "dogfight" for the\n
 inheritance breaking out between\n
-them any day now.
+those awful brats any day now.
 <$12><$00>
 
 
@@ -40021,9 +40009,9 @@ and she got me AGAIN!
 
 //0198_00006207_bin\PROG.BIN|000011B2|4730
 //西エリアは　ひどい有り様らしいね\nとにかく全部、くさってるんだって…\n動いてるモノは　ひとつもなし<$12>\n<CLEAR>グリーン製薬の工場の　研究用の\n細菌培養タンクが　破裂したらしいの\n原因は　わからないそうだけどね<$12>
-Green Pharmaceuticals bacterial\n
-someway or other let a culture\n
-tank explode in West Area.
+Green Pharmaceuticals' bacterial\n
+researchers somehow -r-other let\n
+a culture tank explode in West Area.
 <$12>
 \n
 
@@ -40084,8 +40072,12 @@ common
 <$1B>
 dog, but there is a reason for\n
 why they look so "common".
-<$1B>
-Originally, dogs were likely brought\n
+<$12>
+\n
+<CLEAR>
+Originally, 
+<$1B>dogs 
+were likely brought\n
 to Neo Kenya by humans, so they only\n
 went wild AFTER they arrived!
 <$12><$00>
@@ -42141,10 +42133,7 @@ forces to be reckoned with.
 
 <CLEAR>
 We advise all tourists to hire\n
-an escort LVL\n
-
-<$06><$04>
- or higher.\n
+an escort LVL 17 or higher.\n
 Bring a dog too.
 <$12><$00>
 
@@ -48502,7 +48491,7 @@ hearing Angela sing her song,\n
 \n
 
 <CLEAR>
-It's a song that can sooth any\n
+It's a song that can soothe any\n
 heart, especially one born in\n
 the wrong body like mine was.
 <$12><$00>
@@ -60446,7 +60435,7 @@ HIDE
 
 //0392_000000EF_bin\PROG.BIN|00006A36|6905
 //PAUSE
- -PAUSED-
+  -PAUSED-
 <$00>
 
 
@@ -60475,12 +60464,10 @@ Map UI:
 
 //0392_000000EF_bin\PROG.BIN|00006A36|6910
 //\n<$06>ナレーション<$04><$02>56：<$01>
-\n
-
 <$06>
 Story
 <$04><$02>
-: 
+56： 
 <$01><$00>
 
 
@@ -61661,7 +61648,8 @@ No
 <CLEAR><$1C><$41>
  opened 
 <$1C><$55>
-'s mouth and put in the 
+'s mouth\n
+and put in the 
 <$1D>
 !
 <$12><$00>

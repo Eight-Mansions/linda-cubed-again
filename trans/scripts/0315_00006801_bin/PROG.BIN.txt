@@ -2187,7 +2187,7 @@ START: Highlight "Okay!"
 <$11>
 240
 <CLEAR>
-(Again) START: Begin camping!
+START: Begin camping!
 <$11>
 240
 <$07><$00>
@@ -2746,10 +2746,7 @@ so Ken let it go.
 <CLEAR><$00>
 
 //<$06>TRANS-CARGO IN<$04>∥<$12><$00>
-<$06>
-Now loading to TCU... 
-<$04>
-!
+Now loading to TCU...
 <$12><$00>
 
 
@@ -3291,7 +3288,7 @@ Sorry, I'm tired
 
 //<CLEAR>愛する人に　一緒に死んでって\n頼まれたとしたら　一緒に死ぬ？<$00>
 <CLEAR>
-If a loved on asked you to "die"\n
+If a loved one asked you to "die"\n
 with them, would you oblige?
 <$00>
 
@@ -3336,7 +3333,7 @@ important, so have a good rest.
 <$01>
 Yes
 <$0E>
-/
+ / 
 <$01>
 No
 <$0E><$00>

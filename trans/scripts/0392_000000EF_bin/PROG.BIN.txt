@@ -604,7 +604,7 @@ HIDE
 
 
 //PAUSE<$00>
- -PAUSED-
+  -PAUSED-
 <$00>
 
 
@@ -632,12 +632,10 @@ Map UI:
 <$0E><$00>
 
 //\n<$06>ナレーション<$04><$02>56：<$01><$00>
-\n
-
 <$06>
 Story
 <$04><$02>
-: 
+56： 
 <$01><$00>
 
 
@@ -1978,7 +1976,8 @@ No
 <CLEAR><$1C><$41>
  opened 
 <$1C><$55>
-'s mouth and put in the 
+'s mouth\n
+and put in the 
 <$1D>
 !
 <$12><$00>
