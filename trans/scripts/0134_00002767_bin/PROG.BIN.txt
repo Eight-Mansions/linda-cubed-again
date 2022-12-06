@@ -1072,13 +1072,13 @@ down.
 
 //植物学者の　フローラってのも\nキレイな顔して　たいしたタマだよ、\nアレは<$12>\n<CLEAR>研究中に生まれた失敗作は　世間の目に\n触れないように　Ｂ<$06>-14<$04>の森に\nみーんな　捨てちまうんだからナ<$12>\n<CLEAR>ホスピコに　住んでんだから\nわざわざ　南エリアくんだりまで\nゴミを　捨てに来るなよなあ<$12><$00>
 You know Flora, the botanist?\n
-Pretty face, really weird...
+Pretty face, really eccentric?
 <$12>
 \n
 
 <CLEAR>
-She threw a bunch of her failed\n
-experiments out in the forests\n
+She abandoned a bunch of her\n
+failed experiments in the forests\n
 of B
 <$06>
 -14
@@ -1090,7 +1090,7 @@ of B
 <CLEAR>
 No normal person living in Hospico\n
 goes all the way to South Area to\n
-dump trash just because.
+dump trash without a good reason.
 <$12><$00>
 
 
@@ -1172,13 +1172,13 @@ Poachers attack!
 #WRITE(PTR, $0046)
 //<CLEAR>お客さん…\nホスピコの入り口に　並んでる\n哀れな猟犬の墓を　数えてごらん<$12>\n<CLEAR>これ以上　あなたの猟犬を\n登録したところで、どうせまた\nあそこの墓が　増えるだけだものね<$12>\n<CLEAR>金の問題じゃないんだよ…\nわかるッ￠<$12><$00>
 <CLEAR>
-Sir, go look at the pet cemetary along\n
-the Hospico entrance.
+Sir, go look at the pet cemetery\n
+along the Hospico entrance.
 <$12>
 \n
 
 <CLEAR>
-We keep that cemetary's growth down by\n
+We keep that cemetery's growth down by\n
 capping the number of dogs each client\n
 may adopt.
 <$12>

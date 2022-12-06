@@ -251,12 +251,12 @@ how weird that'd look.
 //0000_0000072A_bin\PROG.BIN|000064EF|64
 //<CLEAR>お客さん…\nホスピコの入り口に　並んでる\n哀れな猟犬の墓を　数えてごらん<$12>\n<CLEAR>これ以上　あなたの猟犬を\n登録したところで、どうせまた\nあそこの墓が　増えるだけだものね<$12>\n<CLEAR>金の問題じゃないんだよ…\nわかるッ￠<$12>
 <CLEAR>
-Sir, go look at the pet cemetary along\n
-the Hospico entrance.
+Sir, go look at the pet cemetery\n
+along the Hospico entrance.
 <$12>
 \n
 <CLEAR>
-We keep that cemetary's growth down by\n
+We keep that cemetery's growth down by\n
 capping the number of dogs each client\n
 may adopt.
 <$12>
@@ -9192,7 +9192,7 @@ animals or taking low-interest loans.
 //0038_00003A28_bin\PROG.BIN|0000765E|1282
 //<CLEAR>給料の受取りを　お忘れなく！<$12>
 <CLEAR>
-Don't forget your paystub!
+Don't forget to check your wages!
 <$12><$00>
 
 
@@ -11738,9 +11738,9 @@ you're willing to spend as parts.
 \n
 
 <CLEAR>
-Write this down:
-"10 MALES = WEAPON, 5 FEMALES = ARMOR
-3 animals = HAT, 2 ANIMALS = SHOES"
+Write this down:\n
+"10 MALES = WEAPON, 5 FEMALES = ARMOR\n
+3 ANIMALS = HAT, 2 ANIMALS = SHOES"
 <$12><$00>
 
 
@@ -11963,7 +11963,7 @@ No
 //0046_00003FA9_bin\PROG.BIN|0000143D|1580
 //<$15><$59>猟犬治療
 <$15><$59>
-Yeterinarian
+Veterinarian
 <$00>
 
 
@@ -13478,14 +13478,15 @@ Don't stand there like an idiot!
 //0047_00003FBD_bin\PROG.BIN|00008CA8|1759
 //<CLEAR>会議の主旨は　わかっていると\n思うが　簡単に説明しとこうか？
 <CLEAR>
-We all know why we're here,\n
-so let's get it over with.
+Before we get this over with,\n
+would anyone like a run-down?
 <$00>
 
 
 //0047_00003FBD_bin\PROG.BIN|00008CA8|1760
 //我と思わん者は\n手元の○ボタンを\n押してくれ<$12>
-If you're man enough,\n
+All right, it's volunteer time!\n
+If you think you're man enough,\n
 press the ○ button!
 <$12><$00>
 
@@ -13500,7 +13501,8 @@ No experience necessary!
 //0047_00003FBD_bin\PROG.BIN|00008CA8|1762
 //<CLEAR>我と思わん者は\n手元の○ボタンを\n押してくれ
 <CLEAR>
-If you're man enough,\n
+All right, it's volunteer time!\n
+If you think you're man enough,\n
 press the ○ button!
 <$00>
 
@@ -13578,8 +13580,8 @@ male pilot of the Astro Ark!
 //<CLEAR>みんなも　自分の業務の\n妨げにならない範囲で\nケンに　協力すること∥
 <CLEAR>
 Assist him where you can,\n
-but otherwise leave him be\n
-to do his job.
+but otherwise, leave him\n
+be to do his job.
 <$00>
 
 
@@ -14602,7 +14604,7 @@ But Mom, I want to...
 //0050_00004067_bin\PROG.BIN|00004D7D|1909
 //<CLEAR>はい
 <CLEAR>
-Yes, hello?
+Yes!
 <$00>
 
 
@@ -15102,7 +15104,7 @@ it to the surface.
 //0052_0000449B_bin\PROG.BIN|00001118|1975
 //<CLEAR>ありがたいねぇ<$12>
 <CLEAR>
-Well, well!
+How interesting!
 <$12><$00>
 
 
@@ -16002,8 +16004,7 @@ Exit
 <CLEAR>
 Surprisingly... a lot of my\n
 subjects here are female.\n
-I've got customers who visit\n
-once a month like clockwork.
+People come in with them monthly.
 <$12><$00>
 
 
@@ -16287,9 +16288,9 @@ Hospico
 
 //0060_00004933_bin\PROG.BIN|0000108E|2124
 //猟犬<$1D>の墓<$12>
-Pet 
+Grave Marker for\n"
 <$1D>
-Cemetary 
+"
 <$12><$00>
 
 
@@ -19228,9 +19229,8 @@ biggest clientele?
 
 //0068_00004E1B_bin\PROG.BIN|000017AF|2433
 //野営を覚えたての頃は　ホテル代が\nいらなくなったのが　嬉しくて\nやたら安易に　野営するアホがいる<$12>\n<CLEAR>見張りを立てず　夜襲されたり\n川の中で　目が覚めたりして　だんだん\n野営の難しさに　気づくわけだな<$12>
-Once I learned how to camp,
-I thought, "Shoot, I'll never\n
-pay for a hotel again!"
+Once I learned how to camp, I thought,
+"Shoot, I'll never pay for a hotel again!"
 <$12>
 \n
 
@@ -19396,8 +19396,8 @@ All bark, but no foresight?\n
 
 //0068_00004E1B_bin\PROG.BIN|00002126|2442
 //猟犬の将来が　気になったら\n<$1D><$06><$1E><$04><$14>￥で　相談に乗ってしんぜよう<$12>
-If you're worried about your dog's\n
-future, I give readings for 
+Want to know your dog's future?\n
+I give readings for 
 <$1D><$06><$1E><$04><$14>
 ￥.
 <$12><$00>
@@ -20233,9 +20233,7 @@ these things do happen, hehe...
 //0069_00004E4F_bin\PROG.BIN|000021DB|2542
 //<$06>TRANS-CARGO IN<$04>∥<$12>\n<CLEAR>まっ　こんなとこだ\nどーだ￠　安い買物だったろうが？\n<$01>は＿い<$0E>／<$01>いいえ<$0E>
 <$06>
-All right, in the TCU you go, 
-<$04><$12>
-!\n
+All right, in the TCU you go!\n
 <CLEAR>
 Now, that's what I call\n
 a "bang for your buck"!\n
@@ -27257,7 +27255,7 @@ an escort LVL 2 or higher.
 \n
 
 <CLEAR><$1B>
-Dogs are also nown to roam\n
+Dogs are also known to roam\n
 the area, so please be careful.
 <$12><$00>
 
@@ -28837,14 +28835,15 @@ down.
 //0132_00002696_bin\PROG.BIN|00006A41|3484
 //植物学者の　フローラってのも\nキレイな顔して　たいしたタマだよ、\nアレは<$12>\n<CLEAR>研究中に生まれた失敗作は　世間の目に\n触れないように　Ｂ<$06>-14<$04>の森に\nみーんな　捨てちまうんだからナ<$12>\n<CLEAR>ホスピコに　住んでんだから\nわざわざ　南エリアくんだりまで\nゴミを　捨てに来るなよなあ<$12>
 You know Flora, the botanist?\n
-Pretty face, really weird...
+Pretty face, really eccentric?
 <$12>
 \n
 
 <CLEAR>
-She threw a bunch of her failed\n
-experiments out in the forests\n
-of B
+She abandoned a bunch of her\n
+failed experiments in the forests\n
+of 
+B
 <$06>
 -14
 <$04>
@@ -28856,7 +28855,7 @@ public eye.
 <CLEAR>
 No normal person living in Hospico\n
 goes all the way to South Area to\n
-dump trash just because.
+dump trash without a good reason.
 <$12><$00>
 
 
@@ -30538,7 +30537,7 @@ You're always teaching me new things!
 <CLEAR>
 Upon news of your safety,\n
 Father wished to visit\n
-the Minago cemetary.
+the Minago cemetery.
 <$00>
 
 
@@ -31928,7 +31927,7 @@ You can borrow up to one year's salary!
 <CLEAR>
 It's a special privilege for workers.\n
 Banks are businesses too, so they only\n
-lend out sums that we can pay back.\n
+lend out sums that we can pay back.
 <$12>
 \n
 
@@ -32913,7 +32912,7 @@ Officer Jorge Camar.
 //0162_000041CA_bin\PROG.BIN|000081A3|3933
 //<CLEAR>この方は　箱船プロジェクトの\n推進のために　連邦本部から\n来られた　カマー補佐官だ
 <CLEAR>
-He came here from Federation\n
+He came all the way from Federation\n
 Headquarters to help us promote\n
 Project Astro Ark.
 <$00>
@@ -32940,7 +32939,7 @@ is secured only by your bravery.
 <CLEAR>
 My job at FHQ too feels\n
 all the more secure now,\n
-thanks to you.■
+thanks to Y-O-U.■
 <$00>
 
 
@@ -33543,7 +33542,7 @@ me wouldn't understand.
 //0165_00004268_bin\PROG.BIN|000056A0|4016
 //<CLEAR>でも　この子に今、何が１番\n必要なのかは　よーくわかったよ\nあんたが１号さんだっけ？
 <CLEAR>
-さんだっけ？Let's take care of\n
+Let's take care of\n
 problem "numero uno" for now.\n
 Come here, missy.
 <$00>
@@ -34197,7 +34196,6 @@ but you're a man now.
 //0168_00004638_bin\PROG.BIN|00005BD9|4099
 //<CLEAR>頼むよ…　リンダをよぉ\nリンダを幸せに…
 <CLEAR>
-Take good... care of Linda.\n
 She deserves... the world... 
 <$00>
 
@@ -37155,11 +37153,12 @@ the people watching.
 
 //0184_00004FAE_bin\PROG.BIN|00003EFC|4438
 //<$1B>アンコウダンスや　ホタルダンスは\n手間がかかるわりに　すぐ終ることも\n多いから　あまり好きじゃないな<$12>
-I hate how time-consuming our\n
+I hate how short our
 <$1B>
 anglerfish
-and firefly dances are,\n
-but we'll be done soon.
+and\n
+firefly dances last, because man,
+setting them up is time-consuming!
 <$12><$00>
 
 
@@ -38811,9 +38810,9 @@ Whine, whine!
 
 //0196_00006186_bin\PROG.BIN|00004C67|4600
 //ピグルは　私たちにとっては\n理想的なオトコね！　身元が確かだし\nお金持ちで気前もいい！　それに…<$12>\n<CLEAR>はやいのよ、彼…<$12>
-Piggles is the ideal man for girls\n
-like us! He's rich, generous, has\n
-a good pedigree, and... 
+Piggles is the ideal man for a woman\n
+like me! He's rich, generous, has\n
+a good pedigree, and best of all...
 <$12>
 \n
 
@@ -39034,7 +39033,6 @@ Did you come to ask about my father?\n
 <$01>
 Yes
 <$0E>
-\n
  / 
 <$01>
 No
@@ -39824,7 +39822,7 @@ DOG FIGHT!!
 
 //0197_000061EF_bin\PROG.BIN|00000A49|4714
 //武器なら「<$1B>ヒョウサーベル」か\n「<$1B>ワニムチ」、そんで防御回りを\n<$1B>ハマグリか　<$1B>マイマイで固めりゃ…<$12>\n<CLEAR>この辺じゃ　いばっても許されるね<$12>
-If you want to augment\n
+To augment 
 <$1B>
 leopard sabers\n
 or 
@@ -40010,7 +40008,7 @@ and she got me AGAIN!
 //0198_00006207_bin\PROG.BIN|000011B2|4730
 //西エリアは　ひどい有り様らしいね\nとにかく全部、くさってるんだって…\n動いてるモノは　ひとつもなし<$12>\n<CLEAR>グリーン製薬の工場の　研究用の\n細菌培養タンクが　破裂したらしいの\n原因は　わからないそうだけどね<$12>
 Green Pharmaceuticals' bacterial\n
-researchers somehow -r-other let\n
+researchers, somehow or other, let\n
 a culture tank explode in West Area.
 <$12>
 \n
@@ -42103,11 +42101,11 @@ Dogyf Heights Gate 1F
 //この町の東部では　<$1B>ヒョウ、湖では\n<$1B>ワニ、<$1B>ハマグリを　レベル<$06>15<$04>以上の\nガイドと一緒に　ご覧ください<$12>\n<CLEAR>西部の砂漠地帯では　<$1B>カラス、\n<$1B>ムカデ、<$1B>アルマジ、<$1B>ラクダ…<$12>\n<CLEAR>いずれも　たいへん危険ですので\nレベル<$06>17<$04>以上の　ハンターと猟犬を\n２頭以上、お連れください<$12>
 East of town, the 
 <$1B>
-leopards, 
+leopard, the 
 <$1B>
-crocodiles\nand 
+crocodiles\nand the 
 <$1B>
-clams should only be fought\n
+clam should only be fought\n
 with an escort LVL 
 <$06>
 15
@@ -42119,14 +42117,14 @@ with an escort LVL
 <CLEAR>
 Out west, the 
 <$1B>
-crows, 
+crow, the  
 <$1B>
-centipedes,\n
+centipede,\nthe 
 <$1B>
-armadillos 
-and 
+armadillo 
+and the 
 <$1B>
-camels are also\n
+camel are also\n
 forces to be reckoned with.
 <$12>
 \n
@@ -45231,7 +45229,7 @@ angle known to human anatomy.
 
 <CLEAR><$19><$31><$15><$53>
 His world went black to the\n
-sounds of Linda's desperate please\n
+sounds of Linda's desperate cries\n
 and of church bells in the distance.
 <$00>
 
@@ -46202,7 +46200,7 @@ I hope you wake up soon.
 //<CLEAR>エモリ先生の話じゃ　身体は\n完治しているそうなのよ\nあとは　心の問題なんだって
 <CLEAR>
 Dr. Emori said you're physically\n
-sound, and that whether you wake
+sound, and that whether you wake\n
 up or not depends on you.
 <$00>
 
@@ -46306,7 +46304,7 @@ come to visiiit!
 //<CLEAR>わっ…！　アララのラララっと…\nこりゃ失礼
 <CLEAR>
 Oh? Weh-heh-hell... \n
-Excuse-moi!
+Excuse me!
 <$00>
 
 
@@ -46382,7 +46380,7 @@ perspective on something.
 //0284_0000446B_bin\PROG.BIN|00003BD3|5460
 //<CLEAR>……………………俺さ、
 <CLEAR>
-... ... You see.
+You see...
 <$00>
 
 
@@ -46397,7 +46395,7 @@ perspective on something.
 //<CLEAR>やったじゃん！\nで、相談って何よ？\nあ～～？　わかったわ～～
 <CLEAR>
 That's great!\n
-So, you wnat love advice?\n
+So, you want love advice?\n
 Yes, yesss. I see, I seeee... 
 <$00>
 
@@ -46415,8 +46413,8 @@ responsibility...
 //<CLEAR>あっバカ…　そんなんじゃねぇよ\n気持ちをさ…　彼女にどうやって\n伝えていいか　わからなくてさ…
 <CLEAR>
 No, jackass! That ain't it.\n
-I can't even tell\n
-her how I feel yet!
+I can't even bring myself to\n
+tell her how I feel yet!
 <$00>
 
 
@@ -58641,24 +58639,24 @@ transfer here.
 //<CLEAR>ケン！　ちょっと待ってて\n電話を一本 かけるから
 <CLEAR>
 Hold on, Ken.\n
-Let's make a phone call.
+I'm gonna make a phone call.
 <$00>
 
 
 //0390_000005FC_bin\PROG.BIN|00008F59|6739
 //<CLEAR>もしもし、エモリ先生ですか？\nリンダです！　やっとケンが\n歩けるようになりました！
 <CLEAR>
-Hello, Dr. Emori? This is Linda! Ken's finally\n
-walking again!
+Hello, Dr. Emori? This is Linda!\n
+Ken's finally walking again!
 <$00>
 
 
 //0390_000005FC_bin\PROG.BIN|00008F59|6740
 //<CLEAR>はい…　ありがとうございます\n先生には　本当にお世話に\nなりました！　ところで…
 <CLEAR>
-Yes, of course. We can't thank you enough,\n
-doctor.\n
-Oh, and also!
+Yes, of course.\n
+We can't thank you enough,\n
+doctor. One more thing...
 <$00>
 
 
@@ -58760,20 +58758,20 @@ How did I do?
 //0390_000005FC_bin\PROG.BIN|00008F59|6751
 //<CLEAR>あのねぇ！　あと<$06>21000<$04>日か\nそこらしか　私もケンもネクも\nこの宇宙には、いられないのよ
 <CLEAR>
-Listen, you! In 
+Listen, in 
 <$06>
 21000
 <$04>
- days, every last one\n
-of us'll be dead.
+ days,\n
+every last one of us'll be dead.
 <$00>
 
 
 //0390_000005FC_bin\PROG.BIN|00008F59|6752
 //<CLEAR>思い立ったら　すぐにやる！\nそれが　人生を楽しむ方法よ
 <CLEAR>
-We've gotta act fast, or we'll never enjoy\n
-life!
+We've gotta act fast,\n
+or we'll never enjoy life!
 <$00>
 
 
@@ -60464,6 +60462,7 @@ Map UI:
 
 //0392_000000EF_bin\PROG.BIN|00006A36|6910
 //\n<$06>ナレーション<$04><$02>56：<$01>
+\n
 <$06>
 Story
 <$04><$02>
@@ -61338,7 +61337,6 @@ Present
 <$1D>
 /Animal egg\n
 50 avg HP recovery/Risk: 0%\n
-
 <$1D><$00>
 
 
@@ -61354,7 +61352,7 @@ Effects unknown/Risk: 75%
 //<$1D>／一般食品\nＨＰ回復／危険度０％\n<$1D>
 <$1D>
 /Foodstuffs\n
-HP recovery/Risk: 0%
+HP recovery/Risk: 0%\n
 <$1D><$00>
 
 
@@ -61405,7 +61403,6 @@ Effects unknown\n
 <$1D>
 /Animal feces\n
 Effects unknown/Risk: Unknown\n
-
 <$1D><$00>
 
 
@@ -61413,7 +61410,6 @@ Effects unknown/Risk: Unknown\n
 //<$1D>／食用肉類\nＨＰ平均<$1E>回復／危険度<$1E>％\n移動・戦闘中使用可
 <$1D>
 /Meat\n
-
 <$1E>
  avg HP recovery/Risk: 
 <$1E>
@@ -61564,7 +61560,6 @@ Throw
 Move
 <$0E>
 \n
-
 <$01>
 Swap
 <$0E>
@@ -61574,7 +61569,7 @@ Trash
 <$0E>
  
 <$01>
-   
+＿＿＿
 <$0E><$00>
 
 
@@ -61633,7 +61628,6 @@ cannot be trashed.
 Trash 
 <$1D>
 ?\n
-
 <$01>
 Yes
 <$0E>
@@ -62539,7 +62533,6 @@ over the
 Eat
 <$0E>
 \n
-
 <$01>
 Toss
 <$0E><$00>
@@ -65512,7 +65505,6 @@ Masking
 TCU
 <$0E>
 \n
-
 <$01>
 Laser
 <$0E><$01>
@@ -65528,14 +65520,12 @@ Overturn
 Split
 <$0E>
 \n
-
 <$01>
 Buff
 <$0E><$01>
 Debuff
 <$0E>
 \n
-
 <$01>
 Anthromorph
 <$0E><$01>
