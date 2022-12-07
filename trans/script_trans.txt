@@ -465,7 +465,7 @@ No
 Crafting the 
 <$1D>
  \n
-will cost
+will cost 
 <$1D><$06><$1E><$04><$14>
 ￥.\n
 
@@ -762,7 +762,7 @@ Ken made a Handy Trap!
 
 //0000_0000072A_bin\PROG.BIN|000064EF|126
 //ＡＭＤ<$1E>4、<$1D>\n残り＿＿＿＿<$1E>1季節
-AMD
+AMD 
 <$1E>
 4, 
 <$1D>
@@ -775,7 +775,7 @@ AMD
 
 //0000_0000072A_bin\PROG.BIN|000064EF|127
 //ＡＭＤ<$1E>4、<$1D>\n残り＿＿＿＿＿<$1E>1年
-AMD
+AMD 
 <$1E>
 4,
 <$1D>
@@ -788,17 +788,17 @@ AMD
 
 //0000_0000072A_bin\PROG.BIN|000064EF|128
 //ＡＭＤ<$1E>4、<$1D>\n残り＿<$1E>1年と<$1E>1季節
-AMD
+AMD 
 <$1E>
 4,
 <$1D>
 \n
  
 <$1E>
-1 year(s),\n
+1 year(s) remaining\n
 
 <$1E>
-1 season(s)
+1 season(s) remaining
 <$00>
 
 
@@ -806,9 +806,9 @@ AMD
 //<$15><$57>\n捕獲目標<$08>4残り<$1E>35種\n＿＿<$01>→→<$0E>　<$01>確認<$0E>
 <$15><$57>
 \n
-Astro Ark 
+Species  
 <$08>
-4Goal: 
+4to file: 
 <$1E>
 35\n
   
@@ -1978,7 +1978,7 @@ Astro Ark
 //0030_000035B4_bin\PROG.BIN|00002A51|388
 //<CLEAR><$02>71告　知\n　箱船ノ　乗員求ム\n　男女　各一名\n　動物集メニ　自信ノ有ル者\n　ニ限ル\n<$02>114神様ヨリ
 <CLEAR><$02>
-71"COMMANDMENT:\n
+"COMMANDMENT:\n
 ONE MALE, ONE FEMALE,\n
 TWO BY TWO BY TWO,\n
 SHOULDST BOARD THIS ARK\n
@@ -4805,7 +4805,7 @@ Plead the fifth
 
 //0031_0000360C_bin\PROG.BIN|000089AE|715
 //主人とする
-Be the very best
+Be all you can be
 <$00>
 
 
@@ -4979,9 +4979,9 @@ EACH IS SORTED INTO A POD.
 
 //0032_00003664_bin\PROG.BIN|00008CD9|769
 //動物保護目標＿<$1E>35種＿<$1E>35頭\n現在ノ達成数＿<$1E>35種＿<$1E>35頭\n未保護ノ動物＿<$1E>35種＿<$1E>35頭<$12>
-ANIMAL RESCUE GOAL: <$1E>35s <$1E>35 \n
-RESCUED: <$1E>35 <$1E>35h\n
-RESCUED: <$1E>35 <$1E>35
+FILING GOAL: <$1E>35 SPECIES / <$1E>35 ANIMALS\n
+FILED: <$1E>35 SPECIES / <$1E>35 ANIMALS\n
+UNFILED: <$1E>35 SPECIES / <$1E>35 ANIMALS
 <$12><$00>
 
 
@@ -5059,7 +5059,7 @@ Learned
 //0032_00003664_bin\PROG.BIN|00009194|781
 //<CLEAR><$1D>の　最大<$06>HP<$1E>@<$04>\n攻撃力<$06><$1E>@ <$04>守備力<$06><$1E>@<$04>\n素早さ<$06><$1E>@ <$04>最大<$06>BP<$1E>@<$04><$12>
 <CLEAR><$1D>
-:\n  Max 
+:\n  MAX 
 <$06>
 HP: 
 <$1E>
@@ -5078,7 +5078,7 @@ HP:
 <$06><$1E>
 @
 <$04>
-   Max 
+   MAX 
 <$06>
 BP: 
 <$1E>
@@ -6431,7 +6431,7 @@ Exit
 //<CLEAR>どこで寝たって　見る夢は\nたいして　かわりはないと思うよ<$12>
 <CLEAR>
 No matter where we sleep, our dreams\n
-dreams never change,do they, bro?
+never quite change, do they, bro?
 <$12><$00>
 
 
@@ -8875,8 +8875,9 @@ Leopard Rug
 
 //0038_00003A28_bin\PROG.BIN|000071C3|1246
 //<$1B>ライオンの剥製
+Stuffed 
 <$1B>
-Stuffed Lion
+Lion
 <$00>
 
 
@@ -16002,7 +16003,7 @@ Exit
 //0057_0000458D_bin\PROG.BIN|00001036|2084
 //<CLEAR>意外にね…　客は女が多いんですねぇ\n月に１度　必ず来る人もいますねぇ<$12>
 <CLEAR>
-Surprisingly... a lot of my\n
+Surprisingly, a lot of my\n
 subjects here are female.\n
 People come in with them monthly.
 <$12><$00>
@@ -17653,16 +17654,9 @@ It soothes the human soul well too.
 
 //0063_000049EB_bin\PROG.BIN|000018C8|2266
 //一度に所有できる猟犬は　<$06>10<$04>頭までよ\nそのうち　戦闘に出せるのは　<$06>2<$04>頭！<$12>\n<CLEAR>人によって　猟犬の趣味も違うから\nソリの合わない猟犬は　早めに\n見切りをつけて　売るのがいいわね<$12>
-Hunters may own 
-<$06>
-10
-<$04>
- dogs at a time,\n
-but only 
-<$06>
-2
-<$04>
- may join your party\nin battle.
+Hunters may own 10 dogs at a time,\n
+but only 2 may join your party\n
+in battle.
 <$12>
 \n
 
@@ -17957,16 +17951,14 @@ Hahaha, take that!
 //0063_000049EB_bin\PROG.BIN|000018C8|2294
 //\nどうだ、痛いか<$06>!?<$04>
 \n
-What, does that hurt, 
-<$06>
-?!
-<$04><$00>
+What, does that hurt?!
+<$00>
 
 
 //0063_000049EB_bin\PROG.BIN|000018C8|2295
 //\nもっと泣けッ！アンジェラ！
 \n
-Let Angela sing about it!
+Sad? Let Angela sing about it!
 <$00>
 
 
@@ -22167,7 +22159,7 @@ TRANSFER USING THIS ROUTE.
 //0078_000052BB_bin\PROG.BIN|0000470C|2747
 //<$1D>←→<$1D>は\n現在、閉鎖中です<$12>
 <$1D>
-←→
+ ←→ 
 <$1D>
 \n
 is currently closed.
@@ -22177,7 +22169,7 @@ is currently closed.
 //0078_000052BB_bin\PROG.BIN|0000470C|2748
 //<$1D>←→<$1D>ハ\n現在、閉鎖中デス<$12>
 <$1D>
-←→
+ ←→ 
 <$1D>
 \n
 IS CURRENTLY CLOSED.
@@ -22858,11 +22850,7 @@ in the thickest of blizzards.
 \n
 
 <CLEAR>
-I've lived here a good 
-<$06>
-20
-<$04>
- years,\n
+I've lived here a good 20 years,\n
 but I've never seen no phantom.
 <$12>
 \n
@@ -26910,11 +26898,7 @@ the event something goes wrong.
 //0101_00005FF1_bin\PROG.BIN|00002FC3|3263
 //<CLEAR>ここで穴潜りを　<$06>30<$04>年も続けるとよ\n毒気で　内臓がボロボロになって\nこのザマさね…<$12>\n<CLEAR>まぁ　その稼ぎで　息子のマリオは\n大学まで出たし　今じゃ、ここの\n労務管理局の主任様さ<$12>\n<CLEAR>俺の人生なんて　それだけさ…\nそれで十分だけどよ…<$12>
 <CLEAR>
-I've been diving for 
-<$06>
-30
-<$04>
- years,\n
+I've been diving for 30 years,\n
 and now, Spurr Marina's toxins have\n
 all but corroded my internal organs.
 <$12>
@@ -39216,8 +39200,8 @@ screwed in a bad way...
 //0196_00006186_bin\PROG.BIN|00004C67|4640
 //オーマンさんが　亡くなって\n一番、喜んでるのは　オーマンさんの\nろくでなしの　三人の子供たちね<$12>\n<CLEAR>次は、あの三人の中で　血で血を洗う\n遺産争いが　絶対に始まるわよ\nきっと　誰か死ぬことになるわね<$12>
 Mr. Aumann's three deadbeat\n
-children seem to be the happiest\n
-about his death.
+children seem to be the\n
+happiest about his death.
 <$12>
 \n
 
@@ -39807,8 +39791,8 @@ and a prize of
 <CLEAR>
 From across the ring, 
 <$1D>
-, is staring down\n
-their opponent, 
+, stares\n
+down their opponent, 
 <$1D>
 .\n
 Get ready, get set... 
@@ -49292,7 +49276,7 @@ my keep until my contract expires.
 \n
 
 <CLEAR>
-Keep your money, I'm all\n
+Keep your money, kid. I'm all\n
 the security this place needs!\n
 (At least, I hope so... )
 <$12><$00>
