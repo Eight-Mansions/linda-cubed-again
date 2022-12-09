@@ -3303,7 +3303,7 @@ You have
 //0031_0000360C_bin\PROG.BIN|000062DF|534
 //<CLEAR>新規登録メッセージは　ありません
 <CLEAR>
-You have no messages.
+You have no new messages.
 <$00>
 
 
@@ -42221,8 +42221,8 @@ S
 //0211_0000147F_bin\PROG.BIN|000069A3|5050
 //<$16><$01>◇<$0E><$1D><$02>190<$1D>
 <$16><$01>
-◇
-<$0E><$1D><$02><$1D><$00>
+◇ 
+<$0E><$1D><$02>190<$1D><$00>
 
 
 //0211_0000147F_bin\PROG.BIN|000069A3|5051
@@ -42238,34 +42238,33 @@ Assist Panheim
 
 
 //0211_0000147F_bin\PROG.BIN|000069A3|5053
-//<$1B>カメの卵を手に入れる
+//<$1B>カメの卵を手に入れる 
 <$1B>
-Snatch Turtle Eggs
+Turtle Eggs
 <$00>
 
 
 //0211_0000147F_bin\PROG.BIN|000069A3|5054
 //<$1B>プテラノの卵を手に入れる
-<$1B>
-Snatch Pteranodon Eggs
+<$1B>Pteranodon Eggs
 <$00>
 
 
 //0211_0000147F_bin\PROG.BIN|000069A3|5055
 //遺産争いにケリをつける
-End the inheritance battle
+Inheritance Battle
 <$00>
 
 
 //0211_0000147F_bin\PROG.BIN|000069A3|5056
 //ヤマダのために一肌脱ぐ
-Unload for Yamada
+Pay Yamada
 <$00>
 
 
 //0211_0000147F_bin\PROG.BIN|000069A3|5057
 //町のシンボルを見つけだす
-Find the village symbol
+Village Symbol
 <$00>
 
 
@@ -43220,8 +43219,8 @@ I look forward to hearing from you!
 //0263_00003852_bin\PROG.BIN|00007863|5187
 //<CLEAR>こんにちは！　私、ナターシャ\nまだ　駆け出しなんだけどさ\nこれでも一応、一級弁護士さんよ<$12>\n<CLEAR>ちょいと面倒なことに　なっていてね\nあなたたちに　手伝って欲しいことが\nあるのよ！　ギャラははずむわよ！<$12>
 <CLEAR>
-Hello! I'm Natasha, a fresh, young\n
-lawyer who still knows her stuff.\n
+Hello! The name's Natasha. I may be a\n
+fresh, young lawyer, but I know my stuff.\n
 Pleased to meet you!
 <$12>
 \n
@@ -43237,14 +43236,15 @@ I'll pay you, obviously!
 //<CLEAR>あなたたちに　ピッタンコの仕事だと\n思うんだ！　興味があったら\nドギファまで　出向いてくれる？<$12>\n<CLEAR>闘犬場の胴元…じゃなくて\n社長の家の　一番、奥にいるわ！\nおいしいアルバイトよ　必ず来てね！<$12>\n<CLEAR>あっ、それから　ここの家の子供…\n子供といっても　大人なんだけどさ\nろくなモンじゃないから　注意してね<$12>
 <CLEAR>
 You two sounded perfect for the job.\n
-If you're in, meet me in Dogyf Heights.
+If you're in, meet me in Dogyf Heights.\n
+I'm in the DGF Dojo manager's...
 <$12>
 \n
 
 <CLEAR>
-My office is in the home ofn
-the late DGF Dojo proprietor.\n
-Very fancy place!
+... Err, oopsy! I'll be in the\n
+late DGF Dojo proprietor's home!\n
+Nice place! (Ahem...)
 <$12>
 \n
 
@@ -43472,8 +43472,8 @@ but I need help finding my mother.
 
 <CLEAR>
 Growing up, I was told she died.\n
-Then, on my father's deathbed,\n
-he told me otherwise.
+Then, on his deathbed, my father\n
+had the nerve to tell me otherwise.
 <$12>
 \n
 
@@ -60090,7 +60090,6 @@ Glutton
 
 //0392_000000EF_bin\PROG.BIN|00006711|6867
 //<$1B>イヌの嗅覚
-<$1B>
 Bloodhound
 <$00>
 
@@ -61869,8 +61868,6 @@ Glutton skill!
 //<$19><$31><CLEAR><$1D>は　動物の臭いを\nかぎわける「<$1B>イヌの嗅覚」の\n能力を　身につけた∥<$12>
 <$19><$31><CLEAR><$1D>
  learned the \n
-
-<$1B>
 Bloodhound skill!
 <$12><$00>
 
