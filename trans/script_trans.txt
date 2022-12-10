@@ -756,7 +756,7 @@ Only one trap can be made per night.
 //0000_0000072A_bin\PROG.BIN|000064EF|123
 //<CLEAR>ケンは「自前のワナ」を\nひとつ作った∥<$12>
 <CLEAR>
-Ken made a Handy Trap!
+Ken made a Makeshift Trap!
 <$12><$00>
 
 
@@ -5031,7 +5031,7 @@ Animal Registry
 //0032_00003664_bin\PROG.BIN|00009194|779
 //<$1D>は　「<$1D>」を\n体の中で　飼い始めた∥\n「<$1D>」ＧＥＴ∥<$12>
 <$1D>
- 's body absorbed\n
+'s body absorbed\n
 the 
 <$1D>
 !\n
@@ -5047,7 +5047,6 @@ Learned
 's inner 
 <$1D>
  awakened as\n
-
 <$1D>
 !\n
 Learned 
@@ -17543,9 +17542,9 @@ and confess, like girls do.
 //0062_0000499E_bin\PROG.BIN|000043C6|2253
 //<CLEAR>「サチコで　どーだ！」って\nちょっと　ヘンな言い方だけど\n通じたみたいなんです…
 <CLEAR>
-"Why not me?!" I sputtered,\n
-which is... truly absurd, but\n
-I think my feelings came through.
+For some reason, I sputtered,\n
+"Why not me?!" which is truly absurd,\n
+but I think my feelings reached him.
 <$00>
 
 
@@ -18832,8 +18831,10 @@ my bare hands on the stuff.
 <$12>
 \n
 
-<CLEAR><$1B>
-Wolves could have me surrounded,\n
+<CLEAR>A 
+<$1B>
+wolf
+ pack could have me surrounded,\n
 and I wouldn't bat an eyelash!
 <$12>
 \n
@@ -19381,7 +19382,6 @@ Dog Divination
 //<CLEAR>黙ってお座りすれば「ワン」と当たる！\n
 <CLEAR>
 All bark, but no foresight?\n
-
 <$00>
 
 
@@ -19396,10 +19396,9 @@ I give readings for
 
 //0068_00004E1B_bin\PROG.BIN|00002126|2443
 //猟犬の将来を　<$1D><$06><$1E><$04><$14>￥で占うぞよ\n<$01>犬を見せる<$0E>／<$01>雑談する<$0E>／<$01>信じない！<$0E>
-See your dog's future\nfor only 
+I'll read your dog's future for 
 <$1D><$06><$1E><$04><$14>
 ￥!\n
-
 <$01>
 Show me
 <$0E>
@@ -20915,7 +20914,7 @@ Work smarter, not harder!
 \n
 
 <CLEAR>
-The traps here are all the rage!\n
+The Rental Traps here are all the rage!\n
 Even children can use them for\n
 safe hunting!
 <$12><$00>
@@ -22671,7 +22670,7 @@ FOR ANY LOST BODY PARTS."\n
 
 //0078_000052BB_bin\PROG.BIN|000079B1|2789
 //－Ｎ・Ｋ・ＮＥＷＳ－　［号外］\n南エリアに　人工衛星落下∥<$12>\n<CLEAR>放射能汚染により　南エリア全土が\n特別危険地帯に　指定されたため\n一切の立入は　禁止となった<$12>\n<CLEAR>現在、確認された生存者は　一名のみ\n他の住民に関しては　絶望視<$12>
-－NK NEWS－\n
+-NK NEWS-\n
 BREAKING! SATELLITE FALLS IN SOUTH AREA
 <$12>
 \n
@@ -22692,15 +22691,15 @@ desperate for more information.
 
 //0078_000052BB_bin\PROG.BIN|000079B1|2790
 //－Ｎ・Ｋ・ＮＥＷＳ－　［号外］\nケン・チャレンジャー君（１６）\n箱船男性乗員に　勇気ある志願∥<$12>\n<CLEAR>すでに決定の　箱船女性乗員\nリンダ・アウレアさん（１５）に続き\n男性乗員も　ついに決定∥<$12>\n<CLEAR>ケン君は　レンジャー隊員１年生、\nリンダさんとは　幼なじみ\n若き二人の健闘を　祈りたい∥<$12>
-－NK NEWS－\n
-BREAKING! KEN CHALLENGER(16) BRAVELY\n
+-NK NEWS-\n
+BREAKING! KEN CHALLENGER, 16, BRAVELY\n
 VOLUNTEERS TO BOARD ASTRO ARK
 <$12>
 \n
 
 <CLEAR>
 This ends a long search after\n
-Linda Aurea(15) was selected\n
+Linda Aurea, 15, was selected\n
 as the female pilot.
 <$12>
 \n
@@ -22714,7 +22713,7 @@ Let's wish them luck!
 
 //0078_000052BB_bin\PROG.BIN|000079B1|2791
 //－Ｎ・Ｋ・ＮＥＷＳ－　［号外］\nミナゴの住民全員、謎の失踪∥<$12>\n<CLEAR>ビースチャンの町、ミナゴの住民が\n一晩で全員　こつ然と姿を消すという\n奇怪な事件が　発生した<$12>\n<CLEAR>ただ一人　町で発見された女性は\n箱船乗員のリンダ∥　彼女は記憶を\n失っており　現在、ホスピコに入院中<$12>
-－NK NEWS－\n
+-NK NEWS-\n
 BREAKING! MINAGO CITIZENS GONE IN SHADY\n
 DISAPPEARANCE
 <$12>
@@ -22735,7 +22734,7 @@ Hospico.
 
 //0078_000052BB_bin\PROG.BIN|000079B1|2792
 //－Ｎ・Ｋ・ＮＥＷＳ－　［号外］\nグリーン製薬、悪魔の人体実験∥\n社長は　加害者か￠　被害者か￠<$12>\n<CLEAR>行方不明になっていた　ミナゴの住民の\n死体が　エターナのグリーン製薬の\nエリザベス社長宅で　発見された∥<$12>\n<CLEAR>重要容疑者　エリザベス・グリーンの\n変死体も発見！　もう一人の重要容疑者\nパンハイムを　現在、取り調べ中<$12>
-－NK NEWS－\n
+-NK NEWS-\n
 BREAKING! FIEND OR VICTIM? GREEN\n
 PHARMA'S DEMONIC HUMAN EXPERIMENTS
 <$12>
@@ -28246,9 +28245,7 @@ We look forward to your next visit.
 //<CLEAR><$1D><$06><$1E><$04><$14>￥で<$06>1<$04>季節乗り放題！<$06> 1<$04>季節経過後は\n自分で戻りますから　乗り捨てもＯＫ！\n<$01>契約する<$0E>／<$01>借りない<$0E>
 <CLEAR><$1D><$06><$1E><$04><$14>
 ￥ covers one season!\n
-After one season, the rental animal\n
-will return to us on its own.\n
-
+After that, the animal returns on its own.\n
 <$01>
 Rent
 <$0E>
@@ -31292,12 +31289,8 @@ behind the murder spree in Minago.
 //<CLEAR>犯行のパターンから　本部の\nコンピュータが　割り出したのよ\n犯人は　<$06>92.3<$04>％の確率で…
 <CLEAR>
 Comparing their M.O. with our federal\n
-database, we can say with 
-<$06>
-92.3
-<$04>
-%\n
-confidence... 
+database, we can say with 92.3%\n
+confidence that... 
 <$00>
 
 
@@ -31334,12 +31327,9 @@ I KNOW!
 //0155_00003DE7_bin\PROG.BIN|00004A55|3785
 //<CLEAR>そして　コンピュータの予想した\n人形使いの　次のターゲットは\n<$06>38.8<$04>％の確率で…
 <CLEAR>
-We went on to calculate his next target,\n
-and with 
-<$06>
-38.8
-<$04>
-% confidence... 
+We went on to calculate his next\n
+target, and can now say with 38.8%\n
+confidence that... 
 <$00>
 
 
@@ -37975,7 +37965,7 @@ winning lottery ticket.
 
 //0193_0000540C_bin\PROG.BIN|00007976|4529
 //－Ｎ・Ｋ・ＮＥＷＳ－　［号外］\n大抜てき∥　最年少の\nレンジャー隊、隊長誕生∥<$12>\n<CLEAR>ジーン・チャレンジャー氏（２７）が\nレンジャー隊、隊長に　就任∥<$12>\n<CLEAR>２０年がかりの　ネオケニア\n脱出プロジェクトに　対応するための\n若返り人事との見方が　強い<$12>\n<CLEAR>なお、副隊長には\nベン・マクドナルド氏（２９）が\n有力視されている<$12>
-－NK NEWS－\n
+-NK NEWS-\n
 BREAKING! YOUNGEST RANGER CAPTAIN\n
 IN NEO KENYAN HISTORY IS BORN
 <$12>
@@ -38003,7 +37993,7 @@ as his rock throughout his career.
 
 //0193_0000540C_bin\PROG.BIN|00007976|4530
 //－Ｎ・Ｋ・ＮＥＷＳ－　［号外］\n西エリアで　病原菌、大量流出か￠<$12>\n<CLEAR>グリーン製薬の研究施設より\n謎の病原菌が　大量に流出した模様\n第４次調査隊も　帰還せず<$12>\n<CLEAR>これにより　西エリア全土の\n特別危険地帯の指定が　半永久的に\n継続されることは　確実となった<$12>
-－NK NEWS－\n
+-NK NEWS-\n
 BREAKING! MASSIVE BACTERIAL OUTBREAK IN\n
 WEST AREA
 <$12>
@@ -38032,15 +38022,15 @@ All access prohibited.
 
 //0193_0000540C_bin\PROG.BIN|00007976|4531
 //－Ｎ・Ｋ・ＮＥＷＳ－　［号外］\nケン・チャレンジャー君（１６）\n箱船男性乗員に　勇気ある志願∥<$12>\n<CLEAR>すでに決定の　箱船女性乗員\nリンダ・バーニングさん（１５）に続き\n男性乗員も　ついに決定∥<$12>\n<CLEAR>ケン君は　レンジャー隊員１年生、\nリンダさんとは　幼なじみ\n若き二人の健闘を　祈りたい∥<$12>
-－NK NEWS－\n
-BREAKING! KEN CHALLENGER(16) BRAVELY\n
+-NK NEWS-\n
+BREAKING! KEN CHALLENGER, 16, BRAVELY\n
 VOLUNTEERS TO BOARD THE ASTRO ARK
 <$12>
 \n
 
 <CLEAR>
 This ends a long search for a\n
-male pilot after Linda Burning(15)\n
+male pilot after Linda Burning, 15,\n
 was selected as the female pilot.
 <$12>
 \n
@@ -38054,7 +38044,7 @@ Let's give them our support!
 
 //0193_0000540C_bin\PROG.BIN|00007976|4532
 //－Ｎ・Ｋ・ＮＥＷＳ－　［号外］\nミナゴで　大量惨殺事件∥<$12>\n<CLEAR>ビースチャンの町、ミナゴで\n住民全員が　何者かに襲われた∥\n生存者は　箱船乗員ケン、リンダ２名<$12>\n<CLEAR>当局では　先の同町の　連続投身自殺\n及び、１０余年前のコシカタの\n大量虐殺事件との関連を　捜査中<$12>
-－NK NEWS－\n
+-NK NEWS-\n
 BREAKING! MINAGO's MASS MURDER MYSTERY
 <$12>
 \n
@@ -38089,7 +38079,7 @@ that took place ten years ago?
 
 //0193_0000540C_bin\PROG.BIN|00007976|4533
 //－Ｎ・Ｋ・ＮＥＷＳ－　［号外］\n脱出用シャトル、謎の爆発∥<$12>\n<CLEAR>連邦本部より　派遣されていた\nカマー補佐官を乗せた　シャトルが\n航行中に爆発∥　死者<$06>196<$04>名<$12>\n<CLEAR>爆発の原因は　調査中であるが\n機内に持ち込まれた　爆発物が\n原因との見方が　有力視されている<$12>
-－NK NEWS－\n
+-NK NEWS-\n
 BREAKING! SUSPICIOUS MIGRATION SHUTTLE\n
 EXPLOSION
 <$12>
@@ -38115,8 +38105,8 @@ away aboard the shuttle.
 
 //0193_0000540C_bin\PROG.BIN|00007976|4534
 //－Ｎ・Ｋ・ＮＥＷＳ－　［号外］\nミナゴ住人のゾンビ（？）暴動∥<$12>\n<CLEAR>先の惨殺事件で　亡くなった\nミナゴの住民の死体が　ゾンビ化して\n暴れるという　奇怪な事件が発生<$12>\n<CLEAR>はっきりとした原因は　不明だが\n未知の寄生虫による可能性が　高い\n感染経路は　確定できていない模様<$12>
-－NK NEWS－\n
-BREAKING! MINAGO ZOMBIE OUTBREAK(???)
+-NK NEWS-\n
+BREAKING! MINAGO ZOMBIE OUTBREAK?!
 <$12>
 \n
 
@@ -38136,7 +38126,7 @@ found living in the zombified corpses.
 
 //0193_0000540C_bin\PROG.BIN|00007976|4535
 //－Ｎ・Ｋ・ＮＥＷＳ－　［号外］\nガレックス、再爆発か￠<$12>\n<CLEAR>Ｃ<$06>-21<$04>エリア付近で　小規模な爆発が\n確認されたと　オズサット気象部より\n発表が　あった<$12>\n<CLEAR>ガレックス内の　未回収の爆発物質に\n何らかの変化が起きたことが　今回の\n爆発の原因と　専門家は見ている<$12>
-－NK NEWS－\n
+-NK NEWS-\n
 BREAKING! GALAX, BLASTING OFF AGAIN
 <$12>
 \n
@@ -38906,22 +38896,20 @@ I thought the same thing.
 //0196_00006186_bin\PROG.BIN|00004C67|4620
 //<CLEAR>唇の厚い人は　いい人で\n薄い人は　悪い人、そうでしょ？
 <CLEAR>
-Ken, is it true that thick-lipped\n
-people are good, and thin-lipped\n
-people are evil?
+Ken, is it true that thick-lipped people\n
+are good, and thin-lipped people are evil?
 <$00>
 
 
 //0196_00006186_bin\PROG.BIN|00004C67|4621
 //\n<$01>そうかもなぁ<$0E>／<$01>違うと思うよ<$0E>
 \n
-
 <$01>
 Maybe
 <$0E>
  / 
 <$01>
-I don't think so
+I doubt it
 <$0E><$00>
 
 
@@ -40780,22 +40768,8 @@ We're sorry for taking her.
 
 //0205_000064DF_bin\PROG.BIN|00003CD3|4852
 //\n<$01>いや、いいさ<$0E>／<$01>スゲ～迷惑だ<$0E>\n<$01>今回だけだよ<$0E>／<$01>おまえらなぁ<$0E>
-\n
-<$01>
-It's fine
-<$0E>
- / 
-<$01>
-You scared me!
-<$0E>
-\n
-<$01>
-Just this once...
-<$0E>
- / 
-<$01>
-Grr!
-<$0E><$00>
+//\n<$01>いや、いいさ<$0E>／<$01>スゲ～迷惑だ<$0E>\n<$01>今回だけだよ<$0E>／<$01>おまえらなぁ<$0E>
+<$00>
 
 
 //0205_000064DF_bin\PROG.BIN|00003CD3|4853
@@ -41556,7 +41530,7 @@ Michiko Bloods!
 
 <CLEAR>
 In the unlikely event that they break\n
-free from their containers, evaquate\n
+free from their containers, evacuate\n
 immediately.
 <$12><$00>
 
@@ -48814,7 +48788,7 @@ Ken received the
 
 //0311_00005558_bin\PROG.BIN|00007EE1|5663
 //－Ｎ・Ｋ・ＮＥＷＳ－　［号外］\nケン・チャレンジャー君（当時１６）\n箱船乗員志願、その直後の悲劇∥<$12>\n<CLEAR>レンジャー隊に所属中の　ケン・\nチャレンジャー君は　箱船乗員に\n志願した直後、階段付近で大転倒∥<$12>\n<CLEAR>一命は取り止めたものの　脊髄損傷、\n頭蓋骨陥没等　全身に重症を負った∥\n全治には　最低半年余り、かかる見込み<$12>
-－NK NEWS－\n
+-NK NEWS-\n
 BREAKING! TRAGEDY BEFALLS ASTRO ARK\n
 PILOT MOMENTS AFTER SELECTION
 <$12>
@@ -48822,7 +48796,7 @@ PILOT MOMENTS AFTER SELECTION
 
 <CLEAR>
 Freshman ranger and male pilot,\n
-Ken Challenger(16) took a major\n
+Ken Challenger, 16, took a major\n
 fall down the stairs!
 <$12>
 \n
@@ -48842,7 +48816,7 @@ to take half a year.
 
 //0311_00005558_bin\PROG.BIN|00007EE1|5664
 //－Ｎ・Ｋ・ＮＥＷＳ－　［号外］\n箱船男性乗員ケン、奇跡の復活∥<$12>\n<CLEAR>１年前、不慮の事故により　重症を\n負った　ケン・チャレンジャー君が\n箱船プロジェクトに　復帰した∥<$12>\n<CLEAR>その陰には　愛妻のリンダさんの\n献身的な看病が　あったと言われる∥\n若き２人の健闘を　心から祈りたい∥<$12>
-－NK NEWS－\n
+-NK NEWS-\n
 BREAKING! BED-RIDDEN ARK PILOT\n
 MIRACULOUSLY RECOVERS
 <$12>
@@ -48864,13 +48838,9 @@ both the very best!
 
 //0311_00005558_bin\PROG.BIN|00007EE1|5665
 //－Ｎ・Ｋ・ＮＥＷＳ－　［号外］\nグリーン製薬社長夫妻、難民救済基金に\n<$06>36000000000000<$04>￥を寄付∥<$12>\n<CLEAR>先頃、グリーン製薬を退いた　前社長の\nエリザベスさんと　その夫である\nパンハイム博士が　難民救済に寄付！<$12>\n<CLEAR>その額、ナント３６兆￥∥\nこの寄付により　脱出民の生活と財産は\n完全に　保障されたと言える<$12>
-－NK NEWS－\n
+-NK NEWS-\n
 BREAKING! GREEN FAMILY DONATES\n
-
-<$06>
-36,000,000,000,000
-<$04>
-￥ TO MIGRATION\n
+36,000,000,000,000￥ TO MIGRATION\n
 RELIEF FUND
 <$12>
 \n
@@ -48891,12 +48861,11 @@ leaving Neo Kenya!
 
 //0311_00005558_bin\PROG.BIN|00007EE1|5666
 //－Ｎ・Ｋ・ＮＥＷＳ－　［号外］\n故リバトリー・オーマン氏の　全財産、\n<$1D><$12>\n<CLEAR>遺産総額は　現金だけで、\n<$06>600<$04>億￥以上と　消息筋の弁<$12>
-－NK NEWS－\n
+-NK NEWS-\n
 BREAKING! LATE DGF DOJO PROPRIETOR'S\n
 ASSETS GO TO 
 <$1D><$12>
 \n
-
 <CLEAR>
 As requested, the stated party will\n
 receive 
@@ -48910,7 +48879,7 @@ of the Aumann estate.
 
 //0311_00005558_bin\PROG.BIN|00007EE1|5667
 //－Ｎ・Ｋ・ＮＥＷＳ－　［号外］\n銀河で一番、裕福な新婚カップル■<$12>\n<CLEAR>ミナゴ教会にて　ネク・グリーン氏と\nサチコ・エモリ嬢の　結婚式が\n盛大に　執り行われた<$12>\n<CLEAR>ネク氏は　前グリーン製薬社長の養子\nサチコ嬢は　特許王エモリ博士の長女\n２人の財産の合計は　８兆￥に昇る∥<$12>
-－NK NEWS－\n
+-NK NEWS-\n
 BREAKING! THE RICHEST NEWLYWEDS IN THE\n
 COSMOS■
 <$12>
@@ -50071,7 +50040,7 @@ adopted son.
 
 //0324_000057A1_bin\PROG.BIN|00002AC1|5804
 //コシカタの貸しワナ屋は　いいよ\nなにしろ、こちとらは　安全な場所で\n動物が勝手に　捕まるのを待つだけ！<$12>\n<CLEAR>面倒なワナの回収も　店のほうで\n適当にやってくれるし、アレで料金が\nもう少し安けりゃ　言うことなしだな<$12>
-Koshikata's rental traps are great!\n
+Koshikata's Rental Traps are great!\n
 Go do your thing and wait for the\n
 trap to go off! 
 <$12>
@@ -51217,8 +51186,8 @@ caught anything by the time I collect it.
 //0328_0000594E_bin\PROG.BIN|0000490C|5888
 //うちの亭主に　ぼられるのが\nイヤなら、自前のワナを\n早く作れるように　なることだね<$12>\n<CLEAR>でも　うちの亭主が作るワナは\n他の誰にもマネできない　一級品だ！\n芸術的に　凶悪だもん<$12>\n<CLEAR>もがけばもがくほど　逃げられなくなる\n掛かった私が言うんだから　本当サ<$12>\n<CLEAR>………逃げ出したいよ<$12>
 If you don't like my husband's\n
-rental prices, go compare it to\n
-a handy trap you've made yourself.
+rental prices, compare the pros and\n
+cons between Rental and Makeship Traps.
 <$12>
 \n
 
