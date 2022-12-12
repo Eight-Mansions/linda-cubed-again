@@ -827,7 +827,24 @@ We're sorry for taking her.
 
 
 //\n<$01>いや、いいさ<$0E>／<$01>スゲ～迷惑だ<$0E>\n<$01>今回だけだよ<$0E>／<$01>おまえらなぁ<$0E><$00>
+\n
 
+<$01>
+It's cool
+<$0E>
+ / 
+<$01>
+You scared me!
+<$0E>
+\n
+
+<$01>
+Just this once
+<$0E>
+ / 
+<$01>
+You monsters!
+<$0E><$00>
 
 
 //<CLEAR>本当に　ごめんなさい！\n次からは　必ず　ケンに\n相談するから　勘弁して<$00>
@@ -1159,12 +1176,9 @@ Scorpion Filets.
 
 //<CLEAR>それと　途中から　ヨシコも\n手伝ってくれたから　スピードが\n<$06>1.5<$04>倍に　上がったの<$00>
 <CLEAR>
-Yoshiko got up to lend a hand too,\n
-giving me a 
-<$06>
-150
-<$04>
-% speed boost.
+Yoshiko got up to lend a\n
+hand too, giving me a 150%\n
+speed boost.
 <$00>
 
 
@@ -1181,7 +1195,7 @@ You should come down!
 
 
 //おい、おい…\nなんだか下じゃ　スゴイことに\nなってるみたいだぞ、おい…<$12><$00>
-*Whistles*\n
+(Whistles...)\n
 The girls are killing it down there!\n
 Good for them!
 <$12><$00>
@@ -1522,8 +1536,8 @@ My sister merely fainted.
 //<CLEAR>麻酔が　リンダさんの分しか\nなかったのと　止血が後回しに\nなったせいで　気絶してるだけ<$00>
 <CLEAR>
 I only had enough hemostatic agent\n
-for Linda, so Yoshiko bled out whileassisting me with the\n
-transplant.
+for Linda, so Yoshiko bled out while\n
+assisting me with the transplant.
 <$00>
 
 
