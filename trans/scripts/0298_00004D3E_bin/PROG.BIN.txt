@@ -694,60 +694,59 @@ a new flower to create.
 \n
 
 <CLEAR>
-Which sounds fun to you?\n
+Which would your dream flower do?\n
 
 <$01>
-Item-using flowers
+Use items
 <$0E>
  / 
 <$01>
-Mourning flowers
+Cry
 <$0E>
 \n
 
 <$01>
-Walking flowers
+Walk around
 <$0E>
  / 
 <$01>
-Fire-breathing\n
-flowers
+Breathe fire
 <$0E><$00>
 
 
 //<CLEAR>それじゃ　この中では　どれがいい？\n<$01>共食い専門の花<$0E>／<$01>自分を食べる花<$0E>\n<$01>何でも食べる花<$0E>／<$01>食通気取りの花<$0E><$00>
 <CLEAR>
-And among these?\n
+And between these?\n
 
 <$01>
-Man-eating flowers
+Eat people
 <$0E>
  / 
 <$01>
-Self-eating flowers
+Eat flowers
 <$0E>
 \n
 
 <$01>
-All-eating flowers
+Eat stuff
 <$0E>
  / 
 <$01>
-Picky-eating flowers
+Eat nothing
 <$0E><$00>
 
 
 //<CLEAR>じゃ　これは　どうかしら？\n<$01>いつでも、人間の子供を産む花<$0E>\n<$01>ときどき、人間を妊娠させる花<$0E><$00>
 <CLEAR>
-Well, how about this?\n
+And finally, between these?\n
 
 <$01>
-Human-birthing flowers
+Birth humans
 <$0E>
 \n
 
 <$01>
-Human-impregnating flowers
+Impregnate humans
 <$0E><$00>
 
 
@@ -1120,11 +1119,11 @@ In
 
 
 //あと<$1E>年<$1E>季節<$00>
-Deadline: 
+In 
 <$1E>
-Y/
+ years, 
 <$1E>
-S
+ seasons
 <$00>
 
 
@@ -1230,7 +1229,7 @@ Battle Park BB Ranch.
 
 //<CLEAR><$1B>プテラノの卵を手に入れ、バトルパーク\nＢＢ牧場のブロンコに渡す<$00>
 <CLEAR>
-Find 2 
+Find two 
 <$1B>
 Pteranodon Eggs\n
 to give to Bronco at the\n

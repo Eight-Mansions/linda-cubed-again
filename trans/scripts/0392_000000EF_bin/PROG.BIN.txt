@@ -93,16 +93,16 @@ Memo
 
 //<CLEAR><$15><$57>未登録で未捕獲＿…………………<$15><$52>赤<$11>240<CLEAR><$15><$57>未登録で捕獲済み＿………………<$15><$59>黄<$11>240<CLEAR><$15><$57>登録済み＿…………………………白<$11>240<CLEAR><$15><$57>絶対捕獲不可＿……………………<$15><$4B>黒<$11>240<$07><$00>
 <CLEAR><$15><$57><$15><$52>
-RED: Neither captured nor filed
+RED: Uncaptured + Unfiled
 <$11>
 240
 <CLEAR><$15><$57><$15><$59>
-YELLOW: Captured, but\n
-not filed
+YELLOW: Captured
 <$11>
 240
 <CLEAR><$15><$57>
-WHITE: Filed!
+WHITE:\n
+Filed!
 <$11>
 240
 <CLEAR><$15><$57><$15><$4B>
@@ -632,7 +632,7 @@ Map UI:
 
 //\n<$06>ナレーション<$04><$02>56：<$01><$00>
 \n
-Narration: 
+Voice: 
 <$01><$00>
 
 
@@ -1001,7 +1001,7 @@ Bury front terrain in snow(cont.)
 
 //<CLEAR>敵１体の懐へ突撃、互いに数度の攻撃<$00>
 <CLEAR>
-Charge 1 foe and engage in ram fight
+Charge 1 foe and ram repeatedly
 <$00>
 
 
@@ -1800,16 +1800,16 @@ Equippable in trek+combat
 
 //<CLEAR><$15><$57>未登録で未捕獲＿…………………<$15><$52>赤<$11>240<CLEAR><$15><$57>未登録で捕獲済み＿………………<$15><$59>黄<$11>240<CLEAR><$15><$57>登録済み＿…………………………白<$11>240<CLEAR><$15><$57>絶対捕獲不可＿……………………<$15><$4B>黒<$11>240<$07><$00>
 <CLEAR><$15><$57><$15><$52>
-RED: Neither captured nor filed
+RED: Uncaptured + Unfiled
 <$11>
 240
 <CLEAR><$15><$57><$15><$59>
-YELLOW: Captured, but\n
-not filed
+YELLOW: Captured
 <$11>
 240
 <CLEAR><$15><$57>
-WHITE: Filed!
+WHITE:\n
+Filed!
 <$11>
 240
 <CLEAR><$15><$57><$15><$4B>
@@ -1834,19 +1834,19 @@ BP
 \n
 
 <$05><$15><$53>
-ATK
+A
 <$14><$1E>
 019
 <$05>
  
 <$15><$53>
-DEF
+D
 <$14><$1E>
 019
 <$05>
  
 <$15><$53>
-SPD
+S
 <$14><$1E>
 019
 <$00>
@@ -1871,7 +1871,7 @@ Eat
 <$0E>
 ` ` 
 <$01>
-Move
+Sort
 <$0E>
 \n
 
@@ -1894,7 +1894,7 @@ Throw
 <$0E>
  
 <$01>
-Move
+Sort
 <$0E>
 \n
 
@@ -1917,7 +1917,7 @@ Equip
 <$0E>
  
 <$01>
-Move
+Sort
 <$0E>
 \n
 
@@ -2017,7 +2017,7 @@ Swap
 <$0E>
 　
 <$01>
-Move
+Sort
 <$0E>
 　
 <$01>
