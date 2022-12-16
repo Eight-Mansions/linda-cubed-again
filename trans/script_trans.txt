@@ -5103,15 +5103,15 @@ Name:
 <$1D>
 \n
 <$06>
-LV
+LVL:
 <$1E>
 34
 <$06>
- HP
+ HP:
 <$1E>
 35
 <$06>
- BP
+ BP:
 <$1E>
 35\n
 
@@ -18644,7 +18644,6 @@ Apples
 Kiwis
 <$0E>
 \n
-
 <$01>
 Mangos
 <$0E>
@@ -18652,8 +18651,7 @@ Mangos
 <$01>
 Strawberries
 <$0E>
- /\n
-
+ / 
 <$01>
 Watermelons
 <$0E>
@@ -18662,7 +18660,6 @@ Watermelons
 Oranges
 <$0E>
 \n
-
 <$01>
 Pineapples
 <$0E>
@@ -18674,11 +18671,11 @@ Apricots
 <$01>
 Grapes
 <$0E>
- /\n
-
+ / 
 <$01>
 Cantaloupes
-<$0E><$00>
+<$0E>
+<$00>
 
 
 //0065_00004A64_bin\PROG.BIN|0000109C|2372
@@ -19088,8 +19085,7 @@ You can't just waltz in!
 <CLEAR>
 But who knows?\nA good 
 <$06><$1E><$04>
-￥\n
-might change that.
+￥ may "change" that.
 <$00>
 
 
@@ -20273,9 +20269,9 @@ dogs either.
 \n
 
 <CLEAR>
-I charge what a charge, but unless you\n
-want to do this yourself, the price is\n
-reasonable.
+I charge what I charge, but unless you\n
+want to do this yourself, I'd say you're\n
+getting a reasonable bargain.
 <$12><$00>
 
 
@@ -21109,9 +21105,9 @@ unimpressive, no?
 \n
 
 <CLEAR>
-I'dve hoped the Federation would be\n
-up in arms about this, but maybe it's\n
-just your captain who's gone soft.
+I'm not so dumb to think the Federation\n
+would go up in arms about this, but the\n
+only guy who seems to care is your captain.
 <$12><$00>
 
 
@@ -23101,7 +23097,7 @@ and you'll go places never dreamed of!
 The entry fee is 
 <$1D><$06><$1E><$04><$14>
 ￥ per go.\n
-Winnings start
+Winnings start 
 at 
 <$06><$1E><$04>
 ￥,\n
@@ -23558,11 +23554,12 @@ from the Dog Center.
 //0081_00005619_bin\PROG.BIN|000024A3|2882
 //<CLEAR>本当はまずいんだけど　<$1B>オオカミをね、\n内緒で猟犬に　登録しちゃう無茶な\n裏技を使う同業者も　いるらしいわ<$12>
 <CLEAR>
-It's a shady practice, but there's a\n
-certain someone who will tame 
+It sounds shady to me, but I've heard\n
+of a certain gal who will tame a
 <$1B>
-wolves \n
-for people under the table.
+wolf
+\n
+for anyone under the table.
 <$12><$00>
 
 
@@ -26684,7 +26681,7 @@ If you had to pick between\n
 <$1B>
 turtles on 
 <$1B>
-dolphinback", or\n
+dolphin-back", or\n
 "camping in Spurr Marina alone"... 
 <$12>
 \n
@@ -28101,7 +28098,7 @@ us as soon as the season changes.
 <CLEAR>
 3. You cannot enter combat while riding.\n
 The NaviS and other menus will also be\n
-diabled. 
+disabled. 
 <$12><$00>
 
 
@@ -28200,7 +28197,7 @@ Exit
 Safely traverse the seas by renting\n
 Chinpei, the 
 <$1B>
-dolphin for
+dolphin for 
 <$1D>
 200
 <$14>
@@ -49935,8 +49932,7 @@ to mingle with the people!
 //人間の手を借りなきゃ　生きられない\n動物…　人間に利用されるためだけに\n生まれた動物…　それが家畜だ<$12>\n<CLEAR>つまり…<$12>\n<CLEAR>人間の大半は　家畜！\n<$1B>ブタと同じ存在価値しか　ないわけだ<$12>
 Animals that depend on humans\n
 to live, and live only because\n
-humans depend on\n
-them... 
+humans depend on them... 
 <$12>
 \n
 
@@ -49947,10 +49943,10 @@ That's why we call them "livestock".
 
 <CLEAR>
 Based on our own definition, though,\n
-humans are livestock too!
+humans are livestock too! 
 <$1B>
-Pigs and humans\n
-are worth about the same.
+Pigs and\n
+humans are worth about the same.
 <$12><$00>
 
 
@@ -50626,11 +50622,9 @@ in front of Poliska's grave.
 
 //0326_000058D1_bin\PROG.BIN|000010E8|5853
 //<$06><$1E><$04>年前の惨劇から　誰ひとり\n住まなくなった　このコシカタの町を\n復興させたのは　ポリスカって人さ<$12>\n<CLEAR>本当かウソか　知らないけど復興には\n宝クジで４回続けて　１等賞を当てて\nその賞金を全部　つぎ込んだらしいよ<$12>\n<CLEAR>物好きだよねェ<$12>
-The tragedy that befell\n
-Koshikata 
+The tragedy that befell Koshikata 
 <$06><$1E><$04>
- years\n
-ago was so bad,\n
+ years ago was so bad,\n
 no one wanted to live here.
 <$12>
 \n
@@ -51028,7 +51022,8 @@ had that Storage Key.
 
 <CLEAR>
 If I'd known about it sooner,\n
-I'dve used the Hell out of it.
+I would have used the Hell\n
+out of it.
 <$12><$00>
 
 
@@ -51039,8 +51034,7 @@ It was never confirmed, but they\n
 say the cause of the elder's tragic\n
 murder spree 
 <$1E>
-\n
-years ago... 
+ years ago... 
 <$12>
 \n
 
@@ -61846,7 +61840,7 @@ Warden skill!
 \n
 
 <CLEAR>
-Max 
+MAX 
 <$06>
 HP: 
 <$1E>
@@ -61866,7 +61860,7 @@ DEF:
 @
 <$04>
 \n
-Max 
+MAX 
 <$06>
 BP: 
 <$1E>
@@ -61900,7 +61894,7 @@ a proper hunting dog.
 !\n
 
 <$12>
-Max 
+MAX 
 <$06>
 HP: 
 <$1E>
