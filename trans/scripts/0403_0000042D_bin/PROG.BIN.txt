@@ -101,9 +101,9 @@ called loudly 2 times!
 
 //<CLEAR><$1C><$41>は　<$1C><$54>を見て\nヨダレを　たらした∥<$12><$00>
 <CLEAR><$1C><$41>
-\n
-drooled at the sight of\n
-
+ drooled\n
+at the sight\n
+of 
 <$1C><$54>
 .
 <$12><$00>
@@ -132,9 +132,9 @@ called loudly 2 times!
 
 //<CLEAR><$1C><$41>は　<$1C><$54>を見て\nヨダレを　たらした∥<$12><$00>
 <CLEAR><$1C><$41>
-\n
-drooled at the sight of\n
-
+ drooled\n
+at the sight\n
+of 
 <$1C><$54>
 .
 <$12><$00>
@@ -329,9 +329,9 @@ called loudly 2 times!
 
 //<CLEAR><$1C><$41>は　<$1C><$54>を見て\nヨダレを　たらした∥<$12><$00>
 <CLEAR><$1C><$41>
-\n
-drooled at the sight of\n
-
+ drooled\n
+at the sight\n
+of 
 <$1C><$54>
 .
 <$12><$00>
@@ -491,9 +491,9 @@ called loudly 2 times!
 
 //<CLEAR><$1C><$41>は　<$1C><$54>を見て\nヨダレを　たらした∥<$12><$00>
 <CLEAR><$1C><$41>
-\n
-drooled at the sight of\n
-
+ drooled\n
+at the sight\n
+of 
 <$1C><$54>
 .
 <$12><$00>
@@ -522,9 +522,9 @@ called loudly 2 times!
 
 //<CLEAR><$1C><$41>は　<$1C><$54>を見て\nヨダレを　たらした∥<$12><$00>
 <CLEAR><$1C><$41>
-\n
-drooled at the sight of\n
-
+ drooled\n
+at the sight\n
+of 
 <$1C><$54>
 .
 <$12><$00>
@@ -710,9 +710,9 @@ called loudly 2 times!
 
 //<CLEAR><$1C><$41>は　<$1C><$54>を見て\nヨダレを　たらした∥<$12><$00>
 <CLEAR><$1C><$41>
-\n
-drooled at the sight of\n
-
+ drooled\n
+at the sight\n
+of 
 <$1C><$54>
 .
 <$12><$00>
@@ -741,9 +741,9 @@ called loudly 2 times!
 
 //<CLEAR><$1C><$41>は　<$1C><$54>を見て\nヨダレを　たらした∥<$12><$00>
 <CLEAR><$1C><$41>
-\n
-drooled at the sight of\n
-
+ drooled\n
+at the sight\n
+of 
 <$1C><$54>
 .
 <$12><$00>
@@ -772,9 +772,9 @@ called loudly 2 times!
 
 //<CLEAR><$1C><$41>は　<$1C><$54>を見て\nヨダレを　たらした∥<$12><$00>
 <CLEAR><$1C><$41>
-\n
-drooled at the sight of\n
-
+ drooled\n
+at the sight\n
+of 
 <$1C><$54>
 .
 <$12><$00>
@@ -803,9 +803,9 @@ called loudly 2 times!
 
 //<CLEAR><$1C><$41>は　<$1C><$54>を見て\nヨダレを　たらした∥<$12><$00>
 <CLEAR><$1C><$41>
-\n
-drooled at the sight of\n
-
+ drooled\n
+at the sight\n
+of 
 <$1C><$54>
 .
 <$12><$00>
@@ -937,9 +937,9 @@ called loudly 2 times!
 
 //<CLEAR><$1C><$41>は　<$1C><$54>を見て\nヨダレを　たらした∥<$12><$00>
 <CLEAR><$1C><$41>
-\n
-drooled at the sight of\n
-
+ drooled\n
+at the sight\n
+of 
 <$1C><$54>
 .
 <$12><$00>
@@ -968,9 +968,9 @@ called loudly 2 times!
 
 //<CLEAR><$1C><$41>は　<$1C><$54>を見て\nヨダレを　たらした∥<$12><$00>
 <CLEAR><$1C><$41>
-\n
-drooled at the sight of\n
-
+ drooled\n
+at the sight\n
+of 
 <$1C><$54>
 .
 <$12><$00>
@@ -2078,23 +2078,22 @@ Expired!
 //あと<$1E>季節<$00>
 In 
 <$1E>
- seasons
+ season(s)
 <$00>
 
 
 //あと<$1E>年<$1E>季節<$00>
-In 
 <$1E>
- years, 
+ year(s)/
 <$1E>
- seasons
+ season(s)
 <$00>
 
 
 //あと<$1E>年<$00>
 In 
 <$1E>
- years
+ year(s)
 <$00>
 
 
@@ -2107,59 +2106,59 @@ In
 
 
 //ファングを倒す<$00>
-Slay Fang
+ Slay Fang
 <$00>
 
 
 //パンハイムからの依頼<$00>
-Assist Panheim
+ Assist Panheim
 <$00>
 
 
 //<$1B>カメの卵を手に入れる<$00>
 <$1B>
-Turtle Eggs
+ Turtle Eggs
 <$00>
 
 
 //<$1B>プテラノの卵を手に入れる<$00>
-<$1B>
+ <$1B>
 Pteranodon Eggs
 <$00>
 
 
 //遺産争いにケリをつける<$00>
-Inheritance Battle
+ Inheritance Battle
 <$00>
 
 
 //ヤマダのために一肌脱ぐ<$00>
-Pay Yamada
+ Pay Yamada
 <$00>
 
 
 //町のシンボルを見つけだす<$00>
-Village Symbol
+ Village Symbol
 <$00>
 
 
 //ソフィアからの依頼<$00>
-Assist Sophia
+ Assist Sophia
 <$00>
 
 
 //サチコ救出<$00>
-Rescue Sachiko
+ Rescue Sachiko
 <$00>
 
 
 //ポロポロちゃんを助ける<$00>
-Save Nightshade
+ Save Nightshade
 <$00>
 
 
 //アンジェラ捜し<$00>
-Find Angela
+ Find Angela
 <$00>
 
 
@@ -2224,8 +2223,8 @@ another
 Deposit 
 <$1D>
 ￥\n
-in an account to Yamada\n
-in G Factory.
+into your Neo Kenya Bank account\n
+through Yamada over in G Factory.
 <$00>
 
 

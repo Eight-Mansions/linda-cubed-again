@@ -505,7 +505,7 @@ and will hike to reflect that.
 //雇われている俺が　言うのも何だけど…\nここの店主、人の足下を見て\nエゲツない値段を　ふっかけてくるぜ<$12>\n<CLEAR>まっ、借りなきゃ　いいんだけどナ\n俺もそのほうが　仕事が減って\n楽できて　助かるしよ<$12><$00>
 I work here, so I guess I shouldn't\n
 mention this, but when we say we\n
-accomodate your every need... 
+accommodate your every need... 
 <$12>
 \n
 
@@ -1953,23 +1953,22 @@ Expired!
 //あと<$1E>季節<$00>
 In 
 <$1E>
- seasons
+ season(s)
 <$00>
 
 
 //あと<$1E>年<$1E>季節<$00>
-In 
 <$1E>
- years, 
+ year(s)/
 <$1E>
- seasons
+ season(s)
 <$00>
 
 
 //あと<$1E>年<$00>
 In 
 <$1E>
- years
+ year(s)
 <$00>
 
 
@@ -1982,59 +1981,59 @@ In
 
 
 //ファングを倒す<$00>
-Slay Fang
+ Slay Fang
 <$00>
 
 
 //パンハイムからの依頼<$00>
-Assist Panheim
+ Assist Panheim
 <$00>
 
 
 //<$1B>カメの卵を手に入れる<$00>
 <$1B>
-Turtle Eggs
+ Turtle Eggs
 <$00>
 
 
 //<$1B>プテラノの卵を手に入れる<$00>
-<$1B>
+ <$1B>
 Pteranodon Eggs
 <$00>
 
 
 //遺産争いにケリをつける<$00>
-Inheritance Battle
+ Inheritance Battle
 <$00>
 
 
 //ヤマダのために一肌脱ぐ<$00>
-Pay Yamada
+ Pay Yamada
 <$00>
 
 
 //町のシンボルを見つけだす<$00>
-Village Symbol
+ Village Symbol
 <$00>
 
 
 //ソフィアからの依頼<$00>
-Assist Sophia
+ Assist Sophia
 <$00>
 
 
 //サチコ救出<$00>
-Rescue Sachiko
+ Rescue Sachiko
 <$00>
 
 
 //ポロポロちゃんを助ける<$00>
-Save Nightshade
+ Save Nightshade
 <$00>
 
 
 //アンジェラ捜し<$00>
-Find Angela
+ Find Angela
 <$00>
 
 
@@ -2099,8 +2098,8 @@ another
 Deposit 
 <$1D>
 ￥\n
-in an account to Yamada\n
-in G Factory.
+into your Neo Kenya Bank account\n
+through Yamada over in G Factory.
 <$00>
 
 
@@ -2332,7 +2331,6 @@ Sell
  for 
 <$06><$1E><$04>
 ￥?\n
-\n
 
 <$01>
 Yes
