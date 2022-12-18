@@ -9983,10 +9983,13 @@ Silver
 
 //0039_0000064B_bin\PROG.BIN|00004937|1366
 //<CLEAR><$19><$31><$15><$53><$1D>台座に　「<$1D>」が\nはまっている<$12>
-<CLEAR><$19><$31><$15><$53><$1D>
-A 
+<CLEAR><$19><$31><$15><$53>
+On this 
 <$1D>
- rests on the pedestal.
+ pedestal\n
+rests the 
+<$1D>
+.
 <$12><$00>
 
 
@@ -10000,7 +10003,7 @@ A
 //0039_0000064B_bin\PROG.BIN|00004937|1368
 //<CLEAR><$19><$31><$15><$53><$1D>台座に　「<$1D>」を\nはめこみますか？\n<$01>は＿い<$0E>／<$01>いいえ<$0E>
 <CLEAR><$19><$31><$15><$53><$1D>
-...? Put the 
+ imprints... Put the 
 <$1D>
 \n
 on this pedestal?\n
@@ -10017,11 +10020,12 @@ No
 //0039_0000064B_bin\PROG.BIN|00004937|1369
 //<CLEAR><$19><$31><$15><$53>ケンは　<$1D>台座に\n「<$1D>」を　はめ込んだ<$12>
 <CLEAR><$19><$31><$15><$53>
-Ken put the\n
-
-<$1D><$1D>
-\n
-on the pedestal.
+Ken approached the\n
+<$1D>
+ pedestal and offered\n
+the 
+<$1D>
+.
 <$12><$00>
 
 
@@ -18644,6 +18648,7 @@ Apples
 Kiwis
 <$0E>
 \n
+
 <$01>
 Mangos
 <$0E>
@@ -18660,6 +18665,7 @@ Watermelons
 Oranges
 <$0E>
 \n
+
 <$01>
 Pineapples
 <$0E>
@@ -18674,8 +18680,7 @@ Grapes
 <$06> <$04>/<$06> <$04>
 <$01>
 Cantaloupes
-<$0E>
-<$00>
+<$0E><$00>
 
 
 //0065_00004A64_bin\PROG.BIN|0000109C|2372
@@ -20178,8 +20183,8 @@ K<$06>
 
 //0069_00004E4F_bin\PROG.BIN|000021DB|2539
 //よっ∥　ダンナ∥　待ってたゼ∥\nさっそく　<$1D>様の戦果報告だ∥\n今回の獲物は…<$12>
-Hey, it's been a minute! You're\n
-in time for 
+Hey, it's been a minute, but you're\n
+just in time for 
 <$1D>
 's Hunting Report!\n
 The catch of the day is... 
@@ -20205,7 +20210,8 @@ these things do happen, hehe...
 
 //0069_00004E4F_bin\PROG.BIN|000021DB|2542
 //<$06>TRANS-CARGO IN<$04>∥<$12>\n<CLEAR>まっ　こんなとこだ\nどーだ￠　安い買物だったろうが？\n<$01>は＿い<$0E>／<$01>いいえ<$0E>
-All right, in the TCU you go!\n
+All right, in the TCU you go!
+<$12>\n
 <CLEAR>
 Now, that's what I call\n
 a "bang for your buck"!\n
@@ -34711,11 +34717,7 @@ both showed me!
 //0175_00004A93_bin\PROG.BIN|000014A6|4167
 //ビースチャンの女性が　一生に産む\n子供の数って　この少子時代に\n平均して　<$06>5.8<$04>人∥<$12>\n<CLEAR>連邦内の平均の　約４倍∥\nそのわりに　離婚件数は\nなぜか　多いんだよねェ<$12>
 They say Beastian women give birth to\n
-an average of 
-<$06>
-5.8
-<$04>
- children in their\n
+an average of 5.8 children in their\n
 lifetime.
 <$12>
 \n
@@ -35638,7 +35640,7 @@ used to.
 <CLEAR>
 The number of bodies left\n
 unaccounted for have shot up.
-<$12><$12>
+<$12>
 \n
 
 <CLEAR>
@@ -38145,11 +38147,7 @@ had scared off potential visitors.
 
 //0194_00006129_bin\PROG.BIN|00001A0D|4539
 //Ｃ<$06>-21<$04>エリアに　連邦の肝入りで造った\nガレックスって町の　残骸があるよ<$12>\n<CLEAR>何十年か前まで　名だたる生物学者が\nこの星の動物の研究を　やってた場所さ\nところが　ある時、突然の爆発…<$12>\n<CLEAR>周囲を砂漠に　変えちまうほどの\nケタ違いのエネルギーが　放射された…\n当然、学者はみんな　あの世行きさ<$12>
-In C
-<$06>
--21
-<$04>
-, you'll find the ruins of\n
+In C-21, you'll find the ruins of\n
 Galax, a research complex once\n
 sponsored by the Federation.
 <$12>
@@ -42148,9 +42146,9 @@ Expired!
 //あと<$1E>年<$1E>季節
 
 <$1E>
- year(s)/
+ yr. / 
 <$1E>
- season(s)
+ seas.
 <$00>
 
 
@@ -42856,10 +42854,12 @@ Good luck, Papa Bear!
 
 //0247_00002DDD_bin\PROG.BIN|00007090|5130
 //<CLEAR><$1B>クワガタの　メスだかオスだかが\n警備員の　ささいなミスで\n絶滅しちまったらしいよ<$12>\n<CLEAR>もっと詳しいことを　知りたけりゃ\n自分の足で　Ｂ<$06>-14<$04>の\nフローラジャムまで　行って聞きな<$12>
-<CLEAR><$1B>
-It seems some guard's hiccup\n
-doomed a certain insect species\n
-to extinction.
+<CLEAR>
+It seems one guard's little hiccup\n
+doomed the 
+<$1B>
+stag beetle
+\nspecies into extinction.
 <$12>
 \n
 
@@ -43650,12 +43650,8 @@ flames they had before marriage.
 
 //0265_00003C21_bin\PROG.BIN|0000181A|5215
 //隕石の衝突くらい　<$06>100<$04>年前から\nわかってたろうに　なんで連邦は\nこんなチンケな星に　こだわったのか…<$12>\n<CLEAR>偉い人たちの　お考えってのは\n俺らシモジモには　理解できねえよ<$12>
-The feds knew about the Grim Reaper's
-advent 
-<$06>
-100
-<$04>
- years in advance,\n
+The feds knew about the Grim Reaper's\n
+advent a full 100 years in advance,\n
 and still invited us all to move here.
 <$12>
 \n
@@ -48101,7 +48097,7 @@ I'm not some miracle worker.
 //0298_00004D3E_bin\PROG.BIN|000023A3|5618
 //<CLEAR>あら、本当に帰っちゃうんだ？\n全く　からかいがいのない人ね…\n覚えとくといいわよ！　ケン！<$12>\n<CLEAR>オンナはね　みーんな\nお気に入りの　男性の前じゃ\n魔法使いに　なれるモノなのよ！<$12>\n<CLEAR>教えてあげるわ、ケン！\n枯れた桜に　花を咲かせる方法を<$12>
 <CLEAR>
-Aww, are you realling leaving?\n
+Aww, are you really leaving?\n
 Don't be such a tease, Ken! Listen... 
 <$12>
 \n
@@ -48126,19 +48122,19 @@ Well? How strongly do you\n
 believe my story?\n
 
 <$01>
-100%
+100% 
 <$0E>
  / 
 <$01>
-50%
+50% 
 <$0E>
  / 
 <$01>
-25%
+25% 
 <$0E>
  / 
 <$01>
-0%
+0% 
 <$0E><$00>
 
 
@@ -48163,14 +48159,13 @@ Botanist skill from Dr. Flora!
 //<CLEAR>溶岩の赤い光の中で育った\n炎よりも　赤い花…\nその花を食べた　動物のフン<$12>\n<CLEAR>それが伝説の「熱いウンチ」∥\n枯木すら　一瞬にして発情して\n花をつけるという　究極の肥料よ∥<$12>
 <CLEAR>
 There's a red flower that grows\n
-in to the red glow of volcanic lava.
+in the red glow of volcanic lava.
 <$12>
 \n
 
 <CLEAR>
-Follow an animal that\n
-eats those flowers, and wait\n
-for them to deficate.
+Follow an animal that eats those flowers,\n
+and wait for that animal to defecate.
 <$12>
 \n
 
@@ -49474,7 +49469,7 @@ I'm Moloch, and you are?\n
 
 //0317_000068E8_bin\PROG.BIN|000048E4|5760
 //少し
-under 1 year!
+under a year
 <$00>
 
 
@@ -50621,7 +50616,7 @@ in front of Poliska's grave.
 
 //0326_000058D1_bin\PROG.BIN|000010E8|5853
 //<$06><$1E><$04>年前の惨劇から　誰ひとり\n住まなくなった　このコシカタの町を\n復興させたのは　ポリスカって人さ<$12>\n<CLEAR>本当かウソか　知らないけど復興には\n宝クジで４回続けて　１等賞を当てて\nその賞金を全部　つぎ込んだらしいよ<$12>\n<CLEAR>物好きだよねェ<$12>
-The tragedy that befell Koshikata 
+The tragedy that befell Koshikata\n
 <$06><$1E><$04>
  years ago was so bad,\n
 no one wanted to live here.
@@ -52265,8 +52260,8 @@ I'm Sophia, and, uhm...
 \n
 
 <CLEAR>
-... Grandpa he says he\n
-wants to stay on this planet\n
+... Grandpa told me that he wants\n
+to stay behind on this planet\n
 when the rest of us leave.
 <$12>
 \n
@@ -55413,8 +55408,7 @@ My mother's name is Angela.
 
 <CLEAR>
 You might learn something about her\n
-by\n
-asking around the bar in Paraside.
+by asking around the bar in Paraside.
 <$12><$00>
 
 
@@ -60648,9 +60642,7 @@ Attack front with heavy blizzard
 //0392_000000EF_bin\PROG.BIN|00006B9A|6968
 //<CLEAR>オスの動物に対する色仕掛け…<$06>？？<$04>
 <CLEAR>
-Attempt to seduce male foes... 
-<$06>
-???
+Attempt to seduce male foes...?
 <$04><$00>
 
 
@@ -60839,7 +60831,7 @@ Poison attack to the front(cont.)
 //0392_000000EF_bin\PROG.BIN|00006B9A|6995
 //<$15><$59>特殊能力　<$1D>
 <$15><$59>
-Skills
+Skills/
 <$1D><$00>
 
 
@@ -63440,7 +63432,7 @@ bit
 //0393_0000010B_bin\PROG.BIN|00010D84|7346
 //\n尻から生えた　必殺の毒針∥
 \n
-A poisonous stringer grew from its tail!
+A poisonous stinger grew from its tail!
 <$00>
 
 
