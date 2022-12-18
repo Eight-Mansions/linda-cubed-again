@@ -42173,14 +42173,15 @@ Expired!
 
 //0211_0000147F_bin\PROG.BIN|000069A3|5053
 //<$1B>カメの卵を手に入れる 
-<$1B>
+ <$1B>
  Turtle Eggs
 <$00>
 
 
 //0211_0000147F_bin\PROG.BIN|000069A3|5054
 //<$1B>プテラノの卵を手に入れる
- <$1B>Pteranodon Eggs
+ <$1B>
+ Pteranodon Eggs
 <$00>
 
 
@@ -50009,7 +50010,7 @@ I'll keep it right and short.\n
 I need you to fetch 
 <$1B>
 Turtle Eggs.\n
-Is three do-able?
+Is three doable?
 <$12>
 \n
 
@@ -50298,11 +50299,7 @@ LAST resort, know what I mean?
 //<CLEAR>さあ　この中の動物から\nおぬしの好きなのを　１種、選ぶがよい\nメスオス<$06>10<$04>頭ずつ　くれてやるぞ<$12>
 <CLEAR>
 Select the animal you want, and\n
-I'll give you 
-<$06>
-10
-<$04>
- males and females.
+I'll give you 10 males and females.
 <$12><$00>
 
 
@@ -50375,7 +50372,7 @@ until the day I die.
 \n
 
 <CLEAR>
-... ... ..
+... ... ...
 <$12><$00>
 
 
@@ -51282,17 +51279,17 @@ Pardon me, I have a cold.
 //0328_0000594E_bin\PROG.BIN|00005291|5898
 //<CLEAR><$1D>の秋までに　<$1B>トラの爪が戻らんと\n町長たる、私の息子パトルカが\n大恥を　かくことになる…<$12>\n<CLEAR>息子を　コシカタ最後の町長の名に\n恥じない男にしてやってくだされ\n<$01>引き受けた<$0E>／<$01>お礼は何？<$0E>／<$01>自分で捜せ<$0E>
 <CLEAR><$1D>
- years have passed since that\n
-autumn when the 
+, if the 
 <$1B>
-Tiger Claw vanished.
+Tiger Claw\n
+that vanished isn't returned...
 <$12>
 \n
 
 <CLEAR>
-My son, Patrolka, may\n
-forever be disgraced in\n
-the village over this.
+My son, Patrolka, will\n
+forever be disgraced by\n
+the village for its loss.
 <$12>
 \n
 
@@ -51356,7 +51353,7 @@ The
 <$1B>
 Tiger Claw you brought home\n
 was once passed down as an\n
-ancestral heirloon.
+ancestral heirloom.
 <$12>
 \n
 
@@ -51378,14 +51375,11 @@ hear my request.
 //0328_0000594E_bin\PROG.BIN|00005291|5904
 //<CLEAR>実は　<$06>20<$04>年ほど前にも\n「<$1B>トラの爪」が　盗まれたことが\nありましてな…<$12>\n<CLEAR>その時の町長は　責任の重さに\n耐えかねて　あろうことか\n住民全員を　殺してしまったのです<$12>\n<CLEAR>ゴホッ　ゴホッ…<$12>
 <CLEAR>
-It's been, I want to say, 
-<$06>
-20
-<$04>
- years\n
-since the 
+It's been, I want to say,\n
+20 years since the 
 <$1B>
-Tiger Claw was stolen.
+Tiger Claw\n
+was stolen from Koshikata.
 <$12>
 \n
 
@@ -51404,13 +51398,10 @@ Cough! Cough!
 //0328_0000594E_bin\PROG.BIN|00005291|5905
 //<CLEAR><$1D>の秋までに「<$1B>トラの爪」を…\nどうか　よろしくお願いします\nゴホッ　ゴホッ　ゴホッ…<$12>
 <CLEAR>
-I don't want it any later than 
 <$1D>
-, autumn.\n
-Please, recover the 
-<$1B>
-Tiger Claw... \n
-Cough! Cough!
+ is your deadline.\n
+I cannot wait any later than that. I beg you.\n
+Recover the <$1B>Tiger Claw... Cough! Cough!
 <$12><$00>
 
 
