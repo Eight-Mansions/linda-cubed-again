@@ -2385,7 +2385,7 @@ If you're scared, hold onto my hand.
 //<CLEAR>じゃ　いくわよ∥\nスイッチ　オン∥
 <CLEAR>
 All right, let's do this!\n
-Power... on!
+Power... ON!
 <$00>
 
 
@@ -21288,7 +21288,7 @@ Dragon
 //0075_0000526D_bin\PROG.BIN|00000C1D|2652
 //<$1B>プテラノ
 <$1B>
-Pteranodon
+Pteranobird
 <$00>
 
 
@@ -42187,7 +42187,7 @@ Turtle Eggs
 //0211_0000147F_bin\PROG.BIN|000069A3|5054
 //<$1B>プテラノの卵を手に入れる
  <$1B>
-Pteranodon Eggs
+Pteranobird Eggs
 <$00>
 
 
@@ -42269,7 +42269,7 @@ Battle Park BB Ranch.
 <CLEAR>
 Find two 
 <$1B>
-Pteranodon Eggs\n
+Pteranobird Eggs\n
 to give to Bronco at the\n
 Battle Park BB Ranch.
 <$00>
@@ -43493,10 +43493,12 @@ Please help her!
 
 //0264_000038A6_bin\PROG.BIN|0000911D|5207
 //<CLEAR><$1E>35種登録完了∥\nこれで　目標数クリア∥\nやったね、ケン∥<$12>\n<CLEAR>記念に　記録しときましょ∥\nきっと　何かイイことが\nあるような気が　するのよね∥<$12>
-<CLEAR><$1E>
-You filed 35 species to the ark?\n
-That means you've reached your goal!\n
-You did it, Ken!
+<CLEAR>
+Did we just file 
+<$1E>35
+ species?\n
+That means we reached our goal!\n
+We did it, Ken!
 <$12>
 \n
 
@@ -50208,7 +50210,7 @@ downstairs.
 <CLEAR>
 What? Now he wants\n
 <$1B>
-Pteranodon egg omelettes?
+Pteranobird egg omelettes?
 <$12>
 \n
 
@@ -50226,7 +50228,7 @@ to try those either!
 //0324_000057A1_bin\PROG.BIN|00002AC1|5823
 //<CLEAR>ローリエと　黒コショウにサフラン\nガーリックと　ショウガも　隠し味に\n入れた方が　うまいがね<$12>
 <CLEAR>
-I'll have her add bay leaves,\n
+I could add some bay leaves,\n
 black pepper, garlic-saffron aioli,\n
 ginger and my secret ingredient... 
 <$12>
@@ -50381,18 +50383,18 @@ Oh! Oh! Oh! Oh! Oh!
 //0324_000057A1_bin\PROG.BIN|0000384D|5835
 //<CLEAR><$1B>プテラノの卵のオムレツ∥\nあれを食わんで　死にゃろうかい∥\n頼む∥　次は<$1B>プテラノの卵じゃ∥<$12>\n<CLEAR><$1B>プテラノの卵を持ってきてくれたら\n世間では　絶滅したことになっとる\n「<$1B>キリン」を１対、やってもええぞ！<$12>
 <CLEAR><$1B>
-Pteranodon egg omelettes!\n
+Pteranobird egg omelettes!\n
 That's what I want to eat before I die!\n
 I need 
 <$1B>
-Pteranodon Eggs!
+Pteranobird Eggs!
 <$12>
 \n
 
 <CLEAR>
 Fetch me 
 <$1B>
-Pteranodon Eggs, and I'll\n
+Pteranobird Eggs, and I'll\n
 give you Neo Kenya's last known\n
 living 
 <$1B>
@@ -50404,8 +50406,9 @@ giraffes!
 //<CLEAR>おっ￠　その卵は…∥\n<$1B>プテラノの卵じゃな∥\nとりあえず　先にいただいてと…<$12>\n<CLEAR><$19><$31><$15><$53>ケンは　巨大な卵を\n取り上げられた…∥<$14><$12>
 <CLEAR>
 Wait, that egg... 
+That's a 
 <$1B>
-That's a Pteranodon egg!\n
+Pteranobird egg!\n
 You've got to let me have that!
 <$12>
 \n
@@ -50498,8 +50501,7 @@ I wasn't expecting this.\n
 My wife's been nagging me to\n
 let us eat Boiled 
 <$1B>
-Giraffe\n
-tonight.
+Giraffe tonight.
 <$12>
 \n
 
@@ -50531,7 +50533,7 @@ Ah-ha!
 //<CLEAR>……………………………？\n……………………………？？\n………………………………∥∥
 <CLEAR>
 ...!\n
-... ..!\n
+... ...!\n
 ... ... ...!!
 <$00>
 
@@ -57963,7 +57965,7 @@ SPECIES:
 \n
 COORDINATES: 
 <$1D>
-－
+-
 <$1E>
 034
 <$00>
@@ -59067,7 +59069,8 @@ Difficulty is locked on Mode 2.
 //0391_00000181_bin\PROG.BIN|0000641C|6811
 //<CLEAR>Χ不可能への挑戦∥\n＿１年間で<$06>100<$04>種以上の\n＿動物を捕獲\nΧ箱船を発進させる\n＿＿設定難易度<$1E><$01>→→<$0E>＿<$01>確認<$0E>
 <CLEAR>
-Defy all odds and capture <$06>100<$04> species in 1 year!\n
+Defy all odds and capture\n
+100 species in a single year!\n
 Mode <$1E> <$01>→→<$0E> <$01>Ok!<$0E>
 <$00>
 
