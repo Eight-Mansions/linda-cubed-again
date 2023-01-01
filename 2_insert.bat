@@ -829,5 +829,26 @@ echo mic\0411_00003562_bin\PROG.BIN >> error.txt
 tools\atlas ins\0411_00003562_bin\PROG.BIN trans\scripts\0411_00003562_bin\PROG.BIN.txt >> error.txt
 echo mic\0412_0000358B_bin\PROG.BIN >> error.txt
 tools\atlas ins\0412_0000358B_bin\PROG.BIN trans\scripts\0412_0000358B_bin\PROG.BIN.txt >> error.txt
+
+tools\linda_tim2obj.exe orig\0391_00000181_bin\JOKEN.D.OBJ graphics\0391_00000181_bin\JOKEN.tim ins\0391_00000181_bin\JOKEN.D.OBJ
+tools\linda_file_compress.exe orig\0391_00000181_bin\JOKEN.D.OBJ ins\0391_00000181_bin\JOKEN.OBJ
+
+tools\linda_tim2obj.exe orig\0391_00000181_bin\OPEN1.D.OBJ graphics\0391_00000181_bin\OPEN1.tim ins\0391_00000181_bin\OPEN1.D.OBJ
+tools\linda_file_compress.exe ins\0391_00000181_bin\OPEN1.D.OBJ ins\0391_00000181_bin\OPEN1.OBJ
+tools\linda_tim2obj.exe orig\0391_00000181_bin\OPEN2.D.OBJ graphics\0391_00000181_bin\OPEN2.tim ins\0391_00000181_bin\OPEN2.D.OBJ
+tools\linda_file_compress.exe ins\0391_00000181_bin\OPEN2.D.OBJ ins\0391_00000181_bin\OPEN2.OBJ
+tools\linda_tim2obj.exe orig\0391_00000181_bin\OPEN3.D.OBJ graphics\0391_00000181_bin\OPEN3.tim ins\0391_00000181_bin\OPEN3.D.OBJ
+tools\linda_file_compress.exe ins\0391_00000181_bin\OPEN3.D.OBJ ins\0391_00000181_bin\OPEN3.OBJ
+tools\linda_tim2obj.exe orig\0391_00000181_bin\OPEN4.D.OBJ graphics\0391_00000181_bin\OPEN4.tim ins\0391_00000181_bin\OPEN4.D.OBJ
+tools\linda_file_compress.exe ins\0391_00000181_bin\OPEN4.D.OBJ ins\0391_00000181_bin\OPEN4.OBJ
+tools\linda_tim2obj.exe orig\0391_00000181_bin\OPEN5.D.OBJ graphics\0391_00000181_bin\OPEN5.tim ins\0391_00000181_bin\OPEN5.D.OBJ
+tools\linda_file_compress.exe ins\0391_00000181_bin\OPEN5.D.OBJ ins\0391_00000181_bin\OPEN5.OBJ
+tools\linda_tim2obj.exe orig\0391_00000181_bin\OPEN6.D.OBJ graphics\0391_00000181_bin\OPEN6.tim ins\0391_00000181_bin\OPEN6.D.OBJ
+tools\linda_file_compress.exe ins\0391_00000181_bin\OPEN6.D.OBJ ins\0391_00000181_bin\OPEN6.OBJ
+
+
+
+
+
 tools\linda_build_bins.exe
 tools\linda_mic_rebuild.exe
