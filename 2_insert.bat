@@ -929,6 +929,8 @@ tools\linda_file_compress.exe ins\0408_000000C7_bin\PUSH_O.D.OBJ ins\0408_000000
 tools\linda_tim2obj.exe orig\0408_000000C7_bin\THANKS.D.OBJ graphics\0408_000000C7_bin\THANKS.tim ins\0408_000000C7_bin\THANKS.D.OBJ
 tools\linda_file_compress.exe ins\0408_000000C7_bin\THANKS.D.OBJ ins\0408_000000C7_bin\THANKS.OBJ
 
+tools\linda_tim2obj.exe orig\0408_000000C7_bin\CONGRA.D.OBJ graphics\0408_000000C7_bin\CONGRA.tim ins\0408_000000C7_bin\CONGRA.D.OBJ
+tools\linda_file_compress.exe ins\0408_000000C7_bin\CONGRA.D.OBJ ins\0408_000000C7_bin\CONGRA.OBJ
 
 
 tools\linda_build_bins.exe
