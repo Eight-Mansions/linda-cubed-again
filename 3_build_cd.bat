@@ -29,6 +29,9 @@ tools\armips.exe code\linda_vwf.asm
 del cd\linda\LINDA\LINDA.MIC
 copy LINDA.MIC cd\linda\LINDA\LINDA.MIC
 
+del cd\linda\LINDA\LINDA.PAC
+copy ins\LINDA.PAC cd\linda\LINDA\LINDA.PAC
+
 del cd\linda\SCPS_100.39
 copy exe\SCPS_100.39 cd\linda\SCPS_100.39
 

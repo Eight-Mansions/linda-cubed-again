@@ -935,3 +935,5 @@ tools\linda_file_compress.exe ins\0408_000000C7_bin\CONGRA.D.OBJ ins\0408_000000
 
 tools\linda_build_bins.exe
 tools\linda_mic_rebuild.exe
+
+tools\linda_pac_build.exe tools\LINDA.PAC orig\LINDA_PAC ins\LINDA.PAC
