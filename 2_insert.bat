@@ -936,4 +936,12 @@ tools\linda_file_compress.exe ins\0408_000000C7_bin\CONGRA.D.OBJ ins\0408_000000
 tools\linda_build_bins.exe
 tools\linda_mic_rebuild.exe
 
-tools\linda_pac_build.exe tools\LINDA.PAC orig\LINDA_PAC ins\LINDA.PAC
+del /q ins\LINDA_PAC\*
+xcopy /e orig\LINDA_PAC\* ins\LINDA_PAC
+
+tools\linda_tmz_compress.exe graphics\LINDA_PAC\BA_E.TIM ins\LINDA_PAC\BA_E.TMZ
+tools\linda_tmz_compress.exe graphics\LINDA_PAC\BA_W.TIM ins\LINDA_PAC\BA_W.TMZ
+tools\linda_tmz_compress.exe graphics\LINDA_PAC\TUCHO_0.TIM ins\LINDA_PAC\TUCHO_0.TMZ
+tools\linda_tmz_compress.exe graphics\LINDA_PAC\TUCHO_1.TIM ins\LINDA_PAC\TUCHO_1.TMZ
+
+tools\linda_pac_build.exe tools\LINDA.PAC ins\LINDA_PAC ins\LINDA.PAC
