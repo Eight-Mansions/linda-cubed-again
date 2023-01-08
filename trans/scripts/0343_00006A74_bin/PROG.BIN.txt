@@ -387,7 +387,7 @@ how weird that'd look.
 
 //<CLEAR><$19><$31><$15><$53>ケンは「<$1D>」を発見∥<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>
-Ken found the 
+Ken found 
 <$1D>
 !
 <$14><$12><$00>
@@ -398,7 +398,7 @@ Ken found the
 Sadly, the item bag was full, so the\n
 
 <$1D>
-had to go back.
+ had to go back.
 <$14><$12><$00>
 
 
@@ -412,7 +412,7 @@ Ken acquired
 
 //<CLEAR><$19><$31><$15><$53>ケンは「<$1D>」を発見∥<$14><$12><$00>
 <CLEAR><$19><$31><$15><$53>
-Ken found the 
+Ken found 
 <$1D>
 !
 <$14><$12><$00>
@@ -423,7 +423,7 @@ Ken found the
 Sadly, the item bag was full, so the\n
 
 <$1D>
-had to go back.
+ had to go back.
 <$14><$12><$00>
 
 
@@ -653,11 +653,11 @@ here!
 
 
 //やぁ、今日もいい天気だね！\n顔色もいいし　元気そうだね！\n<$01>絶好調です<$0E>／<$01>あなたは？<$0E>／<$01>ヘトヘト…<$0E><$00>
-Lovely day, ain't it?\n
-Someone looks chipper!\n
+Lovely day we're having, ain't it?\n
+I hope you feel as refreshed as I do!\n
 
 <$01>
-I feel great!
+Feelin' good!
 <$0E>
  / 
 <$01>
@@ -665,8 +665,7 @@ How are you?
 <$0E>
  / 
 <$01>
-I'm\n
-tired... 
+So tired...
 <$0E><$00>
 
 
@@ -678,7 +677,8 @@ I'm in great shape, thanks for asking!
 
 //<CLEAR>そりゃ、何よりだ！\n<$00>
 <CLEAR>
-Really? That's great!
+Really? That's great!\n
+
 <$00>
 
 
@@ -696,9 +696,9 @@ change that, though, so stay safe!
 
 //<CLEAR>そうか…　元気の出る薬があるけど\nよかったら　試してみるかい？\n値段の高いヤツのほうが　効くよ<$12><$00>
 <CLEAR>
-I've got some drugs that may help.\n
-The higher the price, the higher\n
-the efficacy.
+I've got some drugs that'll help you.\n
+The higher the price, the higher the\n
+drug's efficacy.
 <$12><$00>
 
 
@@ -710,26 +710,26 @@ Wuh-oh, looks like you're bag's full!
 
 //<CLEAR><$01><$1D>６０<$14>￥の高級品<$0E>／<$01><$1D><$06>120<$14><$04>￥の噂の薬<$0E>\n<$01><$1D><$06>1200<$14><$04>￥のアレ<$08>4<$0E>／<$01>間に合ってます<$0E><$00>
 <CLEAR><$01><$1D>
-６０
+60
 <$14>
-￥ drug
+￥ (Quality drug)
 <$0E>
-`  `/`  `
+/
 <$01><$1D><$06>
 120
 <$14><$04>
-￥ "drug"
+￥ (Mystery drug)
 <$0E>
 \n
 
 <$01><$1D><$06>
 1200
 <$14><$04>
-￥ drug(?)
+￥ ("The Good Stuff")
 <$08>
 4
 <$0E>
-`  `/`  `
+ /
 <$01>
 No thanks
 <$0E><$00>
@@ -2312,7 +2312,7 @@ to Prof. Panheim in Hospico.
 
 //<CLEAR><$1B>カメの卵を３つほど捜しだし、\nバトルパークＢＢ牧場のルイーズに渡す<$00>
 <CLEAR>
-Find up three 
+Find up to three 
 <$1B>
 Turtle Eggs\n
 to give to Louis at the\n

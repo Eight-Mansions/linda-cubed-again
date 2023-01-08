@@ -92,22 +92,22 @@ Memo
 
 
 //<CLEAR><$15><$57>未登録で未捕獲＿…………………<$15><$52>赤<$11>240<CLEAR><$15><$57>未登録で捕獲済み＿………………<$15><$59>黄<$11>240<CLEAR><$15><$57>登録済み＿…………………………白<$11>240<CLEAR><$15><$57>絶対捕獲不可＿……………………<$15><$4B>黒<$11>240<$07><$00>
-<CLEAR><$15><$57><$15><$52>
-RED: Uncaptured + Unfiled
-<$11>
+<CLEAR><$15><$57>
+RED: Uncaptured, unfiled
+<$15><$52><$11>
 240
-<CLEAR><$15><$57><$15><$59>
-YELLOW: Captured
+<CLEAR><$15><$57>
+YELLOW: Captured,\n
+unfiled
+<$15><$59><$11>
+240
+<CLEAR><$15><$57>
+WHITE: Filed!
 <$11>
 240
 <CLEAR><$15><$57>
-WHITE:\n
-Filed!
-<$11>
-240
-<CLEAR><$15><$57><$15><$4B>
-BLACK: Cannot be captured
-<$11>
+BLACK: Cannot be captured!
+<$15><$4B><$11>
 240
 <$07><$00>
 
@@ -1046,7 +1046,7 @@ Call nearby animals into battle
 
 //<CLEAR>猟犬に８種の命令（継続）を与える<$00>
 <CLEAR>
-Give 8 commands to the dog (cont.)
+Give the dog team 1 of 8 commands
 <$00>
 
 
@@ -1797,22 +1797,22 @@ Equippable in trek+combat
 
 
 //<CLEAR><$15><$57>未登録で未捕獲＿…………………<$15><$52>赤<$11>240<CLEAR><$15><$57>未登録で捕獲済み＿………………<$15><$59>黄<$11>240<CLEAR><$15><$57>登録済み＿…………………………白<$11>240<CLEAR><$15><$57>絶対捕獲不可＿……………………<$15><$4B>黒<$11>240<$07><$00>
-<CLEAR><$15><$57><$15><$52>
-RED: Uncaptured + Unfiled
-<$11>
+<CLEAR><$15><$57>
+RED: Uncaptured, unfiled
+<$15><$52><$11>
 240
-<CLEAR><$15><$57><$15><$59>
-YELLOW: Captured
+<CLEAR><$15><$57>
+YELLOW: Captured,\n
+unfiled
+<$15><$59><$11>
+240
+<CLEAR><$15><$57>
+WHITE: Filed!
 <$11>
 240
 <CLEAR><$15><$57>
-WHITE:\n
-Filed!
-<$11>
-240
-<CLEAR><$15><$57><$15><$4B>
-BLACK: Cannot be captured
-<$11>
+BLACK: Cannot be captured!
+<$15><$4B><$11>
 240
 <$07><$00>
 
@@ -2087,7 +2087,7 @@ D-Pad: Select animal
 //？？？？<$1D><$06>：<$04><$00>
 ???
 <$1D><$06>
-: 
+ 
 <$04><$00>
 
 
@@ -2108,9 +2108,9 @@ D-Pad: Select animal
 
 
 //生息<$06>:<$04><$1D><$00>
-Habitat
+Habitat:
 <$06>
-: 
+ 
 <$04><$1D><$00>
 
 
@@ -2127,13 +2127,13 @@ Habitat
 
 
 //レベル<$06>：<$04><$1D>＿希少価値<$06>：<$04><$1D><$00>
-LVL
+LVL:
 <$06>
-: 
+ 
 <$04><$1D>
- Class
+  Class:
 <$06>
-: 
+ 
 <$04><$1D><$00>
 
 
@@ -2174,18 +2174,18 @@ LVL
 
 
 //攻撃力<$06>：<$04><$1D>＿守備力<$06>：<$04><$1D>\n素早さ<$06>：<$04><$1D>\n<$00>
-ATK
+ATK:
 <$06>
-: 
+ 
 <$04><$1D>
- DEF
+ DEF:
 <$06>
-: 
+ 
 <$04><$1D>
 \n
 SPD
 <$06>
-: 
+ 
 <$04><$1D>
 \n
 
@@ -2228,18 +2228,18 @@ SPD
 
 
 //ＨＰ＿<$06>：<$04><$1D>＿ＢＰ＿<$06>：<$04><$1D>\n特殊能力<$06>：<$04><$1D><$00>
-HP
+HP:
 <$06>
-: 
+ 
 <$04><$1D>
- BP 
+ BP:
 <$06>
-: 
+ 
 <$04><$1D>
 \n
-Skills
+Skills:
 <$06>
-: 
+ 
 <$04><$1D><$00>
 
 

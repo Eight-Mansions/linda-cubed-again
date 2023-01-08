@@ -637,7 +637,7 @@ Hunt
 <$0E>
 　
 <$01>
-Assist
+Blitz
 <$0E>
 \n
 
@@ -715,37 +715,37 @@ Fight freely!
 
 //<CLEAR>指定した敵１体を猟犬が集中攻撃<$00>
 <CLEAR>
-Dog will focus attacks on 1 foe.
+Dog team will focus attacks on 1 foe.
 <$00>
 
 
 //<CLEAR>猟犬が逃走する<$00>
 <CLEAR>
-Dog will attempt to run.
+Dog team will attempt to run.
 <$00>
 
 
 //<CLEAR>猟犬の攻撃が前後左右の敵に分散する<$00>
 <CLEAR>
-Dog will attack foes on all sides.
+Dog team will attack foes on all sides.
 <$00>
 
 
 //<CLEAR>猟犬が守りを捨て、攻撃に全力を注ぐ<$00>
 <CLEAR>
-Dog will behave as necessary.
+Dog team will attack with open defenses.
 <$00>
 
 
 //<CLEAR>猟犬が弱っている味方をかばう<$00>
 <CLEAR>
-Dog will protect weakened allies.
+Dog team will protect weakened allies.
 <$00>
 
 
 //<CLEAR>猟犬は新たな命令以外で逃げなくなる<$00>
 <CLEAR>
-Dog will not run unless ordered.
+Dog team will not run unless ordered.
 <$00>
 
 
@@ -847,7 +847,7 @@ You have the advantage!\n
 
 
 //どうする？<$1C><$41>\n<$15><$53><$05>γδε ζηθ ικλ<$14>\n<$1E>019<$05> <$1E>019<$05> <$1E>019<$00>
-NEXT TURN: 
+ALLY TURN: 
 <$1C><$41>
 \n
 
@@ -2534,8 +2534,8 @@ returned to the soil...
 
 //<CLEAR><$1C><$44>の体は\n飛び散った…∥<$12><$00>
 <CLEAR><$1C><$44>
-\n
-had their remnants scattered... 
+'s\n
+innards scattered everywhere... 
 <$12><$00>
 
 
@@ -2550,19 +2550,19 @@ stopped resisting.
 #WRITE(PTR, $009E)
 //<CLEAR><$1C><$54>の身体は　少しほてった<$12><$00>
 <CLEAR><$1C><$54>
- struggled to breathe.
+ gasped for air.
 <$12><$00>
 
 
 //<CLEAR><$1C><$54>の呼吸が　荒くなった<$12><$00>
 <CLEAR><$1C><$54>
-'s eyes watered.
+'s breathing grew heavy.
 <$12><$00>
 
 
 //<CLEAR><$1C><$54>は　瞳をうるませた<$12><$00>
 <CLEAR><$1C><$54>
- sighed groaned.
+ groaned.
 <$12><$00>
 
 
