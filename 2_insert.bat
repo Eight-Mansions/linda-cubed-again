@@ -944,4 +944,6 @@ tools\linda_tmz_compress.exe graphics\LINDA_PAC\BA_W.TIM ins\LINDA_PAC\BA_W.TMZ
 tools\linda_tmz_compress.exe graphics\LINDA_PAC\TUCHO_0.TIM ins\LINDA_PAC\TUCHO_0.TMZ
 tools\linda_tmz_compress.exe graphics\LINDA_PAC\TUCHO_1.TIM ins\LINDA_PAC\TUCHO_1.TMZ
 
+tools\linda_image_compress.exe graphics\0362_000060D2_bin\ANI_S0.tim ANI_S0.OBJ ins
+
 tools\linda_pac_build.exe tools\LINDA.PAC ins\LINDA_PAC ins\LINDA.PAC
