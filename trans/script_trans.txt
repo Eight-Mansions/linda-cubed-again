@@ -1782,8 +1782,7 @@ Camp can't be set up here!
 //0012_00000BA8_bin\PROG.BIN|00005AE4|257
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12>
 <CLEAR>
-The Navi System(NaviS) can't be booted\n
-here!
+The Navi System can't be booted here!
 <$12><$00>
 
 
@@ -3827,11 +3826,7 @@ Slot
 <$1E><$06>
 :
 <$04>
- 
-<$06>
- File 
-<$04>
-Select
+ File Select
 <$00>
 
 
@@ -3851,19 +3846,17 @@ Select
 <$0E>
  
 <$1D>
-/ 
-<$06>
+ 
 199
-<$1E><$04>
+<$1E>
 , 
 <$1D>
-,
+, 
 <$1D><$02>
 164
-<$06><$1E>
+<$1E>
 35
-<$04>
- filed/ Mode 
+, Mode 
 <$1E>
 \n
 <$00>
@@ -7193,7 +7186,7 @@ Animal Search
 //0035_00003988_bin\PROG.BIN|00002C82|1037
 //<CLEAR>検索ナサイマスカ？\n<$01>は＿い<$0E>／<$01>いいえ<$0E>
 <CLEAR>
-USE THE ANIMAL SEARCH ENGINE?\n
+USE THE ANIMAL SEARCH SERVICE?\n
 <$01>
 Yes
 <$0E>
@@ -11342,7 +11335,7 @@ Bah!
 <$12>
 \n
 <CLEAR>
-Thanks to the Navi-System(NaviS),\n
+Thanks to the Navi System, or "NaviS",\n
 you can now say, "The cave's in H
 <$06>
 -08
@@ -17404,7 +17397,7 @@ single young scrub must've wanted a\n
 
 <CLEAR>
 If she's already dead, he doesn't have\n
-to celebrate "banks-giving" and buy\n
+to celebrate "Banks-giving" and buy\n
 dinner!
 <$12><$00>
 
@@ -21284,7 +21277,7 @@ Dragon
 //0075_0000526D_bin\PROG.BIN|00000C1D|2652
 //<$1B>プテラノ
 <$1B>
-Pteranobird
+Pteranodon
 <$00>
 
 
@@ -21922,7 +21915,7 @@ general merchants!
 <CLEAR>
 With so many 
 <$1B>
-Pteranobird flocks on the\n
+Pteranodon flocks on the\n
 loose over Nebul, it's far safer\n
 for travelers to buy essentials here.
 <$12><$00>
@@ -22452,7 +22445,7 @@ DESTINATION
 <$02>
 126TRANSFER
 <$02>
-172COORD
+172 COORD
 <$00>
 
 
@@ -22463,7 +22456,7 @@ DESTINATION
 <$02>
 72NONSTOP
 <$02>
-126COORD
+126 COORD
 <$00>
 
 
@@ -22638,7 +22631,7 @@ Storage
 //0078_000052BB_bin\PROG.BIN|00007921|2788
 //『プテラノ鳥は　たいへん危険です\n＿オリに手や足を　入れないで下さい<$12>\n<CLEAR>＿万一、事故が起きた場合\n＿当社は　責任を負いかねます』\n<$02>168バードライン<$12>
 "DANGER! DO NOT PUT YOUR HAND\n
-IN THE PTERANOBIRD CAGE!"
+IN THE PTERANODON CAGE!"
 <$12>
 \n
 
@@ -26691,8 +26684,10 @@ dolphin-back", or\n
 Which one would you say is\n
 the juicier penalty game?\n
 
-<$01><$1B>
-Jumping turtles
+<$01>
+Jumping 
+<$1B>
+Turtles
 <$0E>
  / 
 <$01>
@@ -27259,7 +27254,7 @@ before you leave town:
 \n
 
 <CLEAR>
-First, check the Navi-System(NaviS)\n
+First, check the Navi System\n
 with the □ button.\n
 Always know your location!
 <$12>
@@ -27353,7 +27348,7 @@ then a column of unique numbers.
 <CLEAR>
 That right-most column of numbers\n
 indicates the destination coordinates\n
-as they appear on your NaviS.
+as they'd appear on your NaviS.
 <$12>
 \n
 
@@ -27478,7 +27473,7 @@ and its bell tower!
 //0103_00000571_bin\PROG.BIN|0000878F|3343
 //<CLEAR><$1B>プテラノ鳥の　仕入れと調教の方法は\n我社の　トップシークレットなの\n教えたりしたら　クビになっちゃうわ<$12>\n<CLEAR>でも　きっと、あなたには\n近いうちに　バレちゃうわね<$12>
 <CLEAR><$1B>
-Pteranobird capture and taming\n
+Pteranodon capture and taming\n
 techniques used at the birdline\n
 remain a strict company secret.
 <$12>
@@ -27757,12 +27752,8 @@ Battle Park Gate 2F
 //0103_00000571_bin\PROG.BIN|00009A91|3363
 //<CLEAR>ナビシステムの　座標<$06>07<$04>以北の\n湖沼地帯へは　ドーム内の東西にある\nトンネルをご利用ください<$12>\n<CLEAR>その際は　安全のため　天気予報で\n降雪確率を　お確かめになってから\nお出かけください<$12>
 <CLEAR>
-To reach the northern wetlands in the\n
-NaviS' 
-<$06>
-07
-<$04>
- blocks, take the tunnel\n
+To reach the northern wetlands in those\n
+07 blocks of the NaviS, take the tunnel\n
 out from either side of the dome.
 <$12>
 \n
@@ -28022,7 +28013,7 @@ A Beastian friend of mine told me once\n
 that, long ago, there was a man who could\n
 summon a 
 <$1B>
-Pteranobird by whistling.
+Pteranodon by whistling.
 <$12>
 \n
 
@@ -42193,7 +42184,7 @@ Turtle Eggs
 //0211_0000147F_bin\PROG.BIN|000069A3|5054
 //<$1B>プテラノの卵を手に入れる
  <$1B>
-Pteranobird Eggs
+Pteranodon Eggs
 <$00>
 
 
@@ -42275,7 +42266,7 @@ Battle Park BB Ranch.
 <CLEAR>
 Find two 
 <$1B>
-Pteranobird Eggs\n
+Pteranodon Eggs\n
 to give to Bronco at the\n
 Battle Park BB Ranch.
 <$00>
@@ -48308,14 +48299,11 @@ street smarts in a fluid combination.
 
 //0301_000050EF_bin\PROG.BIN|00001DC4|5632
 //動物の攻撃の中でも　本当にイヤなのは\n戦いの後に　効果が出るタイプだな\nいろんなのがあるゼ！　たとえば…<$12>\n<CLEAR>………………………<$12>\n<CLEAR>…やっぱ　教えるのやめとくよ\nどうせ　クチで言われても\n身につくモンじゃ　ないしな<$12>
-Of all ailments, the ones\n
-I REALLY hate are the ones\n
-that last AFTER battles.
+Of all the status ailments one can get,\n
+the ones I REALLY hate are the ailments\n
+that last AFTER battles. For example...
 <$12>
 \n
-
-<CLEAR>
-For example...!\n
 
 <CLEAR>
 ... ... ... ... 
@@ -48323,9 +48311,9 @@ For example...!\n
 \n
 
 <CLEAR>
-... Actually, I digress.\n
-That's stuff you should\n
-learn on your own.
+... Actually, I'll keep my mouth shut.\n
+That's stuff you as a hunter really\n
+need to learn on your own.
 <$12><$00>
 
 
@@ -50221,7 +50209,7 @@ downstairs.
 <CLEAR>
 What? Now he wants\n
 <$1B>
-Pteranobird egg omelettes?
+Pteranodon egg omelettes?
 <$12>
 \n
 
@@ -50394,18 +50382,18 @@ Oh! Oh! Oh! Oh! Oh!
 //0324_000057A1_bin\PROG.BIN|0000384D|5835
 //<CLEAR><$1B>プテラノの卵のオムレツ∥\nあれを食わんで　死にゃろうかい∥\n頼む∥　次は<$1B>プテラノの卵じゃ∥<$12>\n<CLEAR><$1B>プテラノの卵を持ってきてくれたら\n世間では　絶滅したことになっとる\n「<$1B>キリン」を１対、やってもええぞ！<$12>
 <CLEAR><$1B>
-Pteranobird egg omelettes!\n
+Pteranodon egg omelettes!\n
 That's what I want to eat before I die!\n
 I need 
 <$1B>
-Pteranobird Eggs!
+Pteranodon Eggs!
 <$12>
 \n
 
 <CLEAR>
 Fetch me 
 <$1B>
-Pteranobird Eggs, and I'll\n
+Pteranodon Eggs, and I'll\n
 give you Neo Kenya's last known\n
 living 
 <$1B>
@@ -50419,7 +50407,7 @@ giraffes!
 Wait, that egg... 
 That's a 
 <$1B>
-Pteranobird egg!\n
+Pteranodon egg!\n
 You've got to let me have that!
 <$12>
 \n
@@ -59170,60 +59158,73 @@ Eden
 //0391_00000181_bin\PROG.BIN|0000641C|6816
 //<CLEAR><$01>オズポート＿＿<$0E>　<$01>ハーディア＿＿<$0E>\n<$01>ミナゴ＿＿＿＿<$0E>　<$01>ホスピコ＿＿＿<$0E>\n<$01>パラサイド＿＿<$0E>　<$01>ネブール＿＿＿<$0E>\n<$01>ネブロード＿＿<$0E>　<$01>ルリナスタワー<$0E>\n<$01>ダイケイブ＿＿<$0E>　<$01>カラゴラム＿＿<$0E>\n<$01>マーブルポリス<$0E>　<$01>ヤマピット＿＿<$0E>\n<$01>ダグポンド＿＿<$0E>
 <CLEAR><$01>
+//OzPort
 OzPort
 <$0E>
 　
 <$01>
+//Hardia
 Hardia
 <$0E>
 \n
 
 <$01>
+//Minago
 Minago
 <$0E>
 　
 <$01>
+//Hospico
 Hospico
 <$0E>
 \n
 
 <$01>
+//Paraside
 Paraside
 <$0E>
 　
 <$01>
+//Nebul
 Nebul
 <$0E>
 \n
 
 <$01>
-Nebul Cavity
+//Nebul Cavity
+NebulCav
 <$0E>
 　
 <$01>
-Llinas' Tower
+//Llinas' Tower
+LlinasTw
 <$0E>
 \n
 
 <$01>
-Great Cave
+//Great Cave
+Grt Cave
 <$0E>
 　
 <$01>
-Karhagolem
+//Karhagolem
+Krhgolem
 <$0E>
 \n
 
 <$01>
-Marblopolis
+//Marblopolis
+Mrblplis
 <$0E>
 　
 <$01>
+//Yama Pit
 Yama Pit
 <$0E>
 \n
 
 <$01>
+//Dug Pond
 Dug Pond
 <$0E><$00>
 
@@ -59231,64 +59232,78 @@ Dug Pond
 //0391_00000181_bin\PROG.BIN|0000641C|6817
 //<CLEAR><$01>バトルパーク＿<$0E>　<$01>コシカタ＿＿<$0E>\n<$01>Ｇファクトリー<$0E>　<$01>エターナ＿＿<$0E>\n<$01>リナバレー＿＿<$0E>　<$01>スパームリナ<$0E>\n<$01>ノースカメノス<$0E>　<$01>ウルマＡ＿＿<$0E>\n<$01>ウルマＢ＿＿＿<$0E>　<$01>ウルマＣ＿＿<$0E>\n<$01>ウルマＤ＿＿＿<$0E>　<$01>シャナイ＿＿<$0E>\n<$01>ザス＿＿＿＿＿<$0E>　<$01>スワローム＿<$0E>
 <CLEAR><$01>
-Battle Park
+//Battle Park
+BttlPark
 <$0E>
 　
 <$01>
-Koshikata
+//Koshikata
+Kshikata
 <$0E>
 \n
 
 <$01>
-G Factory
+//G Factory
+GFactory
 <$0E>
 　
 <$01>
+//Eterna
 Eterna
 <$0E>
 \n
 
 <$01>
-Spurr Valley
+//Spurr Valley
+SprrVlly
 <$0E>
 　
 <$01>
-Spurr Marina
+//Spurr Marina
+SprrMrna
 <$0E>
 \n
 
 <$01>
-North Tortugos
+//North Tortugos
+NTrtugos
 <$0E>
 　
 <$01>
+//Urma A
 Urma A
 <$0E>
 \n
 
 <$01>
+//Urma B
 Urma B
 <$0E>
 　
 <$01>
+//Urma C
 Urma C
 <$0E>
 \n
 
 <$01>
+//Urma D
 Urma D
 <$0E>
 　
 <$01>
+//Shehnai
 Shehnai
 <$0E>
 \n
 
 <$01>
+//Xoth
 Xoth
 <$0E>
 　
 <$01>
+//Swallom
 Swallom
 <$0E><$00>
 
@@ -59296,120 +59311,146 @@ Swallom
 //0391_00000181_bin\PROG.BIN|0000641C|6818
 //<CLEAR><$01>ドギファ＿＿＿<$0E>　<$01>ラグナロッジ＿<$0E>\n<$01>ガレックス＿＿<$0E>　<$01>ローズガーデン<$0E>\n<$01>コラルコラーナ<$0E>　<$01>カカーナホテル<$0E>\n<$01>サンドホール＿<$0E>　<$01>サマキア＿＿＿<$0E>\n<$01>ダークリバー北<$0E>　<$01>ダークリバー南<$0E>\n<$01>フローラジャム<$0E>　<$01>ホーリーホール<$0E>
 <CLEAR><$01>
-Dogyf Heights
+//Dogyf Heights
+DogyfHts
 <$0E>
 　
 <$01>
-Ragna Rim
+//Ragna Rim
+RagnaRim
 <$0E>
 \n
 
 <$01>
+//Galax
 Galax
 <$0E>
 　
 <$01>
-Rose Garden
+//Rose Garden
+RoseGrdn
 <$0E>
 \n
 
 <$01>
-Coral Khorana
+//Coral Khorana
+CrlKhrna
 <$0E>
 　
 <$01>
-Hotel Kakahna
+//Hotel Kakahna
+HtlKakna
 <$0E>
 \n
 
 <$01>
-Sand Hole
+//Sand Hole
+SandHole
 <$0E>
 　
 <$01>
+//Samakia
 Samakia
 <$0E>
 \n
 
 <$01>
-N Dark River
+//N Dark River
+N DrkRvr
 <$0E>
 　
 <$01>
-S Dark River
+//S Dark River
+S DrkRvr
 <$0E>
 \n
 
 <$01>
-Flora Jam
+//Flora Jam
+FloraJam
 <$0E>
 　
 <$01>
-Holy Hole
+//Holy Hole
+HolyHole
 <$0E><$00>
 
 
 //0391_00000181_bin\PROG.BIN|0000641C|6819
 //<CLEAR><$01>アナビス＿＿＿<$0E>　<$01>メルトポット＿<$0E>\n<$01>プテラノテラス<$0E>　<$01>ガピア＿＿＿＿<$0E>\n<$01>小アナビス＿＿<$0E>　<$01>トリクロスＡ＿<$0E>\n<$01>トリクロスＢ＿<$0E>　<$01>トリクロスＣ＿<$0E>\n<$01>トリクロスＤ＿<$0E>　<$01>トリクロスＥ＿<$0E>\n<$01>トリクロスＦ＿<$0E>　<$01>トリクロスＧ＿<$0E>\n<$01>フォンタナ＿＿<$0E>　<$01>旧箱船＿＿＿＿<$0E>
 <CLEAR><$01>
+//Annabis
 Annabis
 <$0E>
 　
 <$01>
-Melting Pot
+//Melting Pot
+MltngPot
 <$0E>
 \n
 
 <$01>
-Pterano Terrace
+//Pterano Terrace
+PtrnTrrc
 <$0E>
 　
 <$01>
+//Gapia
 Gapia
 <$0E>
 \n
 
 <$01>
-C. Annabis
+//C. Annabis
+CAnnabis
 <$0E>
 　
 <$01>
-Tri-cross A
+//Tri-cross A
+TriCrssA
 <$0E>
 \n
 
 <$01>
-Tri-cross B
+//Tri-cross B
+TriCrssB
 <$0E>
 　
 <$01>
-Tri-cross C
+//Tri-cross C
+TriCrssC
 <$0E>
 \n
 
 <$01>
-Tri-cross D
+//Tri-cross D
+TriCrssD
 <$0E>
 　
 <$01>
-Tri-cross E
+//Tri-cross E
+TriCrssE
 <$0E>
 \n
 
 <$01>
-Tri-cross F
+//Tri-cross F
+TriCrssF
 <$0E>
 　
 <$01>
-Tri-cross G
+//Tri-cross G
+TriCrssG
 <$0E>
 \n
 
 <$01>
+//Fontana
 Fontana
 <$0E>
 　
 <$01>
+//Arkyard
 Arkyard
 <$0E><$00>
 

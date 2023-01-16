@@ -92,8 +92,7 @@ Camp can't be set up here!
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
 <CLEAR>
-The Navi System(NaviS) can't be booted\n
-here!
+The Navi System can't be booted here!
 <$12><$00>
 
 
@@ -183,8 +182,7 @@ Camp can't be set up here!
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
 <CLEAR>
-The Navi System(NaviS) can't be booted\n
-here!
+The Navi System can't be booted here!
 <$12><$00>
 
 
@@ -199,7 +197,7 @@ general merchants!
 <CLEAR>
 With so many 
 <$1B>
-Pteranobird flocks on the\n
+Pteranodon flocks on the\n
 loose over Nebul, it's far safer\n
 for travelers to buy essentials here.
 <$12><$00>
@@ -263,8 +261,7 @@ Camp can't be set up here!
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
 <CLEAR>
-The Navi System(NaviS) can't be booted\n
-here!
+The Navi System can't be booted here!
 <$12><$00>
 
 
@@ -872,7 +869,7 @@ DESTINATION
 <$02>
 126TRANSFER
 <$02>
-172COORD
+172 COORD
 <$00>
 
 
@@ -882,7 +879,7 @@ DESTINATION
 <$02>
 72NONSTOP
 <$02>
-126COORD
+126 COORD
 <$00>
 
 
@@ -1876,11 +1873,7 @@ Slot
 <$1E><$06>
 :
 <$04>
- 
-<$06>
- File 
-<$04>
-Select
+ File Select
 <$00>
 
 
@@ -1908,19 +1901,15 @@ Select
 <$0E>
  
 <$1D>
-/ 
-<$06>
-199
-<$1E><$04>
+ 199
+<$1E>
 , 
 <$1D>
-,
+, 
 <$1D><$02>
 164
-<$06><$1E>
-35
-<$04>
- filed/ Mode 
+<$1E>
+35, Mode 
 <$1E>
 \n
 
@@ -2232,7 +2221,7 @@ Turtle Eggs
 
 //<$1B>プテラノの卵を手に入れる<$00>
  <$1B>
-Pteranobird Eggs
+Pteranodon Eggs
 <$00>
 
 
@@ -2303,7 +2292,7 @@ Battle Park BB Ranch.
 <CLEAR>
 Find two 
 <$1B>
-Pteranobird Eggs\n
+Pteranodon Eggs\n
 to give to Bronco at the\n
 Battle Park BB Ranch.
 <$00>
@@ -3342,7 +3331,7 @@ Reunion with God
 #WRITE(PTR, $0034)
 //『プテラノ鳥は　たいへん危険です\n＿オリに手や足を　入れないで下さい<$12>\n<CLEAR>＿万一、事故が起きた場合\n＿当社は　責任を負いかねます』\n<$02>168バードライン<$12><$00>
 "DANGER! DO NOT PUT YOUR HAND\n
-IN THE PTERANOBIRD CAGE!"
+IN THE PTERANODON CAGE!"
 <$12>
 \n
 

@@ -110,8 +110,7 @@ Camp can't be set up here!
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
 <CLEAR>
-The Navi System(NaviS) can't be booted\n
-here!
+The Navi System can't be booted here!
 <$12><$00>
 
 
@@ -399,8 +398,7 @@ Camp can't be set up here!
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
 <CLEAR>
-The Navi System(NaviS) can't be booted\n
-here!
+The Navi System can't be booted here!
 <$12><$00>
 
 
@@ -462,8 +460,7 @@ Camp can't be set up here!
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
 <CLEAR>
-The Navi System(NaviS) can't be booted\n
-here!
+The Navi System can't be booted here!
 <$12><$00>
 
 
@@ -628,8 +625,7 @@ Camp can't be set up here!
 
 //<CLEAR>ナビシステム（ナビＳ）は\nここでは　起動しない<$12><$00>
 <CLEAR>
-The Navi System(NaviS) can't be booted\n
-here!
+The Navi System can't be booted here!
 <$12><$00>
 
 
@@ -1462,11 +1458,7 @@ Slot
 <$1E><$06>
 :
 <$04>
- 
-<$06>
- File 
-<$04>
-Select
+ File Select
 <$00>
 
 
@@ -1494,19 +1486,15 @@ Select
 <$0E>
  
 <$1D>
-/ 
-<$06>
-199
-<$1E><$04>
+ 199
+<$1E>
 , 
 <$1D>
-,
+, 
 <$1D><$02>
 164
-<$06><$1E>
-35
-<$04>
- filed/ Mode 
+<$1E>
+35, Mode 
 <$1E>
 \n
 
@@ -1916,7 +1904,7 @@ Turtle Eggs
 
 //<$1B>プテラノの卵を手に入れる<$00>
  <$1B>
-Pteranobird Eggs
+Pteranodon Eggs
 <$00>
 
 
@@ -1987,7 +1975,7 @@ Battle Park BB Ranch.
 <CLEAR>
 Find two 
 <$1B>
-Pteranobird Eggs\n
+Pteranodon Eggs\n
 to give to Bronco at the\n
 Battle Park BB Ranch.
 <$00>
