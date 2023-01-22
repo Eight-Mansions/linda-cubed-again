@@ -10714,7 +10714,6 @@ PART!"
 //0041_00003EB9_bin\PROG.BIN|00001A3F|1450
 //—öl‚½‚¿‚Ìò‚ª‚ ‚é\n‚¨‹à‚ğ“Š‚°“ü‚ê‚Ü‚·‚©H\n<$01>‚ÍQ‚¢<$0E>^<$01>‚¢‚¢‚¦<$0E>
 Toss a coin into the Fountain of Lovers?\n
-\n
 <$01>
 Yes
 <$0E>
@@ -16639,15 +16638,9 @@ your strength enough to take on a\n
 rhino or a 
 <$1B>
 wolf!
-<$12>
-\n
-
-<CLEAR>
-Everyone was downing it, even after\n
-learning that it fries the brain\n
-and body.\n
-
-<CLEAR>
+<$12>\n<CLEAR>
+Everyone was downing it, even after learning\n
+that it would fry their brains and bodies.\n
 Hunting is just that competitive... 
 <$12><$00>
 
@@ -60705,14 +60698,14 @@ MeleeB
 //0392_000000EF_bin\PROG.BIN|00006B9A|6979
 //<$15><$57>•¡”UŒ‚‚`
 <$15><$57>
-Ranged‚`
+Multi‚`
 <$00>
 
 
 //0392_000000EF_bin\PROG.BIN|00006B9A|6980
 //<$15><$57>•¡”UŒ‚‚a
 <$15><$57>
-RangedB
+MultiB
 <$00>
 
 
@@ -60747,7 +60740,7 @@ Field
 //0392_000000EF_bin\PROG.BIN|00006B9A|6985
 //<$15><$57>•¡”UŒ‚
 <$15><$57>
-Ranged
+Multi
 <$00>
 
 
@@ -66678,13 +66671,13 @@ MeleeB
 
 //0396_00000212_bin\PROG.BIN|0000584B|8638
 //•¡”UŒ‚‚`
-RangedA
+MultiA
 <$00>
 
 
 //0396_00000212_bin\PROG.BIN|0000584B|8639
 //•¡”UŒ‚‚a
-RangedB
+MultiB
 <$00>
 
 
@@ -66714,7 +66707,7 @@ Field
 
 //0396_00000212_bin\PROG.BIN|0000584B|8644
 //•¡”UŒ‚
-Ranged
+Multi
 <$00>
 
 

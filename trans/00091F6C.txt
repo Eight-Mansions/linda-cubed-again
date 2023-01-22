@@ -6217,7 +6217,30 @@ Marsupial?
 
 <$00>
 
+#WBB(EMBPTR, $00041D04)
+#WUB(EMBPTR, $00041D05)
+#WLB(EMBPTR, $00041D08)
+#WHB(EMBPTR, $00041D09)
+//οアナビス
+οAnnabis
+<$00>
 
+#WBB(EMBPTR, $00041D38)
+#WUB(EMBPTR, $00041D39)
+#WLB(EMBPTR, $00041D3C)
+#WHB(EMBPTR, $00041D3D)
+//ハコブネ
+Astro Ark
+<$00>
 
+#JMP($00001548)
+//持金
+//Funds
+<$00><$00><$00><$00>
+
+#JMP($0000154C)
+//値段
+//Price
+<$00><$00><$00><$00><$00>
 
 #WARN($00091F68, "WARNME")
