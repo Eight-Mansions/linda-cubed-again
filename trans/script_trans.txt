@@ -60383,7 +60383,7 @@ Ensure escape without pursuit
 //0392_000000EF_bin\PROG.BIN|00006B9A|6934
 //<CLEAR>—E‹C‚ğŒÛ•‘‚µA©•ª‚ÌUŒ‚—Íª
 <CLEAR>
-Inspire courage, raising ATK
+Cheerlead the party to raise ATK
 <$00>
 
 
@@ -60453,7 +60453,7 @@ Increase ATK when HP is low
 //0392_000000EF_bin\PROG.BIN|00006B9A|6944
 //<CLEAR>³–Ê‚Ì“G‘S‚Ä‚ğ—³Šª‚Å‚«”ò‚Î‚·
 <CLEAR>
-Blow away front in tornado
+Blow away the front in a tornado
 <$00>
 
 
@@ -60495,21 +60495,21 @@ Desertify front terrain(continuous)
 //0392_000000EF_bin\PROG.BIN|00006B9A|6950
 //<CLEAR>“Å‚ğ‚«‚©‚¯A“G‚Ìç”õ—Í«
 <CLEAR>
-Spray poison on foes, lower DEF
+Spray poison on foes, lowering DEF
 <$00>
 
 
 //0392_000000EF_bin\PROG.BIN|00006B9A|6951
 //<CLEAR>L‚¢ƒKƒX‚ÅA³–Ê‚Ì“G‘S‚Ä‚ÌUŒ‚—Í«
 <CLEAR>
-Choke front with odorous gas, lower ATK
+Choke front with foul gas, lowering ATK
 <$00>
 
 
 //0392_000000EF_bin\PROG.BIN|00006B9A|6952
 //<CLEAR>”çƒt‚ğd‰»‚³‚¹A©•ª‚Ìç”õ—Íª
 <CLEAR>
-Harden skin, raise DEF
+Harden skin, raising DEF
 <$00>
 
 
@@ -60558,14 +60558,14 @@ Shock and numb all combatants
 //0392_000000EF_bin\PROG.BIN|00006B9A|6959
 //<CLEAR>³–Ê‚Ì“G‚Ì‚a‚og—pUŒ‚‚ğ••‚¶‚é
 <CLEAR>
-Attack front, disable BP usage
+Attack front, disabling BP usage
 <$00>
 
 
 //0392_000000EF_bin\PROG.BIN|00006B9A|6960
 //<CLEAR>–n‚ğ“f‚«A³–Ê‚Ì“G‘S‚Ä‚Ì–½’†—¦«
 <CLEAR>
-Spit ink at front, lower HIT
+Spit ink at front, lowering HIT
 <$00>
 
 
@@ -60579,7 +60579,7 @@ Absorb 1 foe's HP for healing
 //0392_000000EF_bin\PROG.BIN|00006B9A|6962
 //<CLEAR>‹­‚¢Œõ‚Å‹Šo‚ğ’D‚¢A“G‚P‘Ì‚Ì‘f‘‚³«
 <CLEAR>
-Stun foes with glaring flash, lower SPD
+Stun 1 foe with flash, lowering SPD
 <$00>
 
 
@@ -62037,28 +62037,24 @@ entered the TCU
 <CLEAR>
 Cannot fit 
 <$1D>
-@
+ x
 <$1E>
 !\n
-
-<$06>
-TCU is 
-<$04>
-full!\n
+TCU is full!\n
 
 <$01>
 Open TCU
 <$0E>
  / 
 <$01>
-Give up
+Release
 <$0E><$00>
 
 
 //0393_0000010B_bin\PROG.BIN|000101DF|7207
 //<CLEAR><$1D>‚ğ‚ ‚«‚ç‚ß‚Ü‚·‚©H\n<$01>‚ÍQ‚¢<$0E>^<$01>‚¢‚¢‚¦<$0E>
 <CLEAR>
-Give up 
+Release 
 <$1D>
 ?\n
 
@@ -63125,9 +63121,8 @@ is confused!
 //0393_0000010B_bin\PROG.BIN|00010D84|7316
 //<CLEAR><$1C><$41>‚Í\n”¯‚Ì–Ñ‚ğ@U‚è—‚µ‚½a\n<$1C><$61>a
 <CLEAR><$1C><$41>
-'s\n
-hair got disheveled!\n
-
+\n
+rustled her own hair!\n
 <$1C><$61>
 !
 <$00>
@@ -63200,7 +63195,7 @@ pounded their chest!
 //<CLEAR><$1C><$54>‚Í@‹»•±‚Ìâ’¸a
 <CLEAR><$1C><$54>
 \n
-is thrilled!
+is pumped up!
 <$00>
 
 
@@ -63244,7 +63239,7 @@ spewed red flames from every pore!
 //0393_0000010B_bin\PROG.BIN|00010D84|7330
 //<CLEAR>•Ó‚èˆê–Ê@‰Î‚ÌŠC‚É‚È‚Á‚½a<$12>
 <CLEAR>
-The entire area was in a sea of flames!
+The entire area turned\ninto a sea of flames!<$12>
 <$12><$00>
 
 
@@ -63330,7 +63325,8 @@ A hurricane whirled in its wings!
 //<CLEAR><$1C><$41>‚Í@—¼˜r‚Ì”ò–Œ‚ğ@L‚°‚½a\n—ƒ‚ª‹N‚±‚·@‹‘å‚È—³Šªa
 <CLEAR><$1C><$41>
 \n
-whirled a hurricane in their wings!
+stretched, showing off wing membranes.\n
+They flapped them to start a hurricane!
 <$00>
 
 
@@ -63338,7 +63334,7 @@ whirled a hurricane in their wings!
 //<CLEAR><$1C><$54>‚Í\n‚Ó‚Á”ò‚ñ‚¾a<$12>
 <CLEAR><$1C><$54>
 \n
-flew high!
+blew away!
 <$12><$00>
 
 
@@ -63484,7 +63480,7 @@ An awful strench bubbled from their anus.
 //0393_0000010B_bin\PROG.BIN|00010D84|7355
 //<CLEAR><$1C><$41>‚Í@’¼’°‚É\nƒKƒX‚ğ@’™‚ß‚½a\nˆê‹C‚É•ú‚Â@<$1C><$61>a
 <CLEAR><$1C><$41>
- expelled gas from their rear! 
+ expelled gas from their rear!\n
 <$1C><$61>
 !
 <$00>
@@ -63640,7 +63636,7 @@ Their body glowed eerily.
 //<CLEAR><$1C><$41>‚Í@‹¹‚Ìæ’[‚ğ\nŒƒ‚µ‚­@“_–Å‚³‚¹‚½a
 <CLEAR><$1C><$41>
 \n
-flashed their chest boldly.
+flashed their top\nshamelessly.
 <$00>
 
 
@@ -63925,7 +63921,7 @@ CONDUCTIVITY ª
 //0393_0000010B_bin\PROG.BIN|00010D84|7410
 //<CLEAR><$1C><$54>‚Í@–°‚Á‚½a<$12>
 <CLEAR><$1C><$54>
- slept!
+ was out cold!
 <$12><$00>
 
 
@@ -64705,12 +64701,11 @@ DEF
 //<CLEAR><$1C><$41>‚ÌUŒ‚a\n<$06>HP<$04><$1E>@\n<$1C><$61>@”­Ëa
 <CLEAR><$1C><$41>
 \n
-risked 
+expended 
 <$06>
 HP
 <$04><$1E>
-@ to \n
-
+@ to\nuse 
 <$1C><$61>
 !
 <$00>

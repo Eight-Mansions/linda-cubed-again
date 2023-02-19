@@ -295,27 +295,23 @@ entered the TCU
 <CLEAR>
 Cannot fit 
 <$1D>
-@
+ x
 <$1E>
 !\n
-
-<$06>
-TCU is 
-<$04>
-full!\n
+TCU is full!\n
 
 <$01>
 Open TCU
 <$0E>
  / 
 <$01>
-Give up
+Release
 <$0E><$00>
 
 
 //<CLEAR><$1D>‚ğ‚ ‚«‚ç‚ß‚Ü‚·‚©H\n<$01>‚ÍQ‚¢<$0E>^<$01>‚¢‚¢‚¦<$0E><$00>
 <CLEAR>
-Give up 
+Release 
 <$1D>
 ?\n
 
@@ -1388,8 +1384,8 @@ is confused!
 
 //<CLEAR><$1C><$41>‚Í\n”¯‚Ì–Ñ‚ğ@U‚è—‚µ‚½a\n<$1C><$61>a<$00>
 <CLEAR><$1C><$41>
-'s\n
-hair got disheveled!\n
+\n
+rustled her own hair!\n
 
 <$1C><$61>
 !
@@ -1454,7 +1450,7 @@ pounded their chest!
 //<CLEAR><$1C><$54>‚Í@‹»•±‚Ìâ’¸a<$00>
 <CLEAR><$1C><$54>
 \n
-is thrilled!
+is pumped up!
 <$00>
 
 
@@ -1493,8 +1489,9 @@ spewed red flames from every pore!
 
 //<CLEAR>•Ó‚èˆê–Ê@‰Î‚ÌŠC‚É‚È‚Á‚½a<$12><$00>
 <CLEAR>
-The entire area was in a sea of flames!
-<$12><$00>
+The entire area turned\n
+into a sea of flames!
+<$12><$12><$00>
 
 
 //<CLEAR><$1C><$41>‚Í\n<$1C><$55>‚Ì‘Ì‚ğ‚È‚ß‚½a<$00>
@@ -1578,14 +1575,15 @@ A hurricane whirled in its wings!
 //<CLEAR><$1C><$41>‚Í@—¼˜r‚Ì”ò–Œ‚ğ@L‚°‚½a\n—ƒ‚ª‹N‚±‚·@‹‘å‚È—³Šªa<$00>
 <CLEAR><$1C><$41>
 \n
-whirled a hurricane in their wings!
+stretched, showing off wing membranes.\n
+They flapped them to start a hurricane!
 <$00>
 
 
 //<CLEAR><$1C><$54>‚Í\n‚Ó‚Á”ò‚ñ‚¾a<$12><$00>
 <CLEAR><$1C><$54>
 \n
-flew high!
+blew away!
 <$12><$00>
 
 
@@ -1658,7 +1656,7 @@ bit
 //<CLEAR><$1C><$54>‚Í@‹»•±‚Ìâ’¸a<$00>
 <CLEAR><$1C><$54>
 \n
-is thrilled!
+is pumped up!
 <$00>
 
 
@@ -1725,7 +1723,8 @@ An awful strench bubbled from their anus.
 
 //<CLEAR><$1C><$41>‚Í@’¼’°‚É\nƒKƒX‚ğ@’™‚ß‚½a\nˆê‹C‚É•ú‚Â@<$1C><$61>a<$00>
 <CLEAR><$1C><$41>
- expelled gas from their rear! 
+ expelled gas from their rear!\n
+
 <$1C><$61>
 !
 <$00>
@@ -1871,7 +1870,8 @@ Their body glowed eerily.
 //<CLEAR><$1C><$41>‚Í@‹¹‚Ìæ’[‚ğ\nŒƒ‚µ‚­@“_–Å‚³‚¹‚½a<$00>
 <CLEAR><$1C><$41>
 \n
-flashed their chest boldly.
+flashed their top\n
+shamelessly.
 <$00>
 
 
@@ -2134,7 +2134,7 @@ CONDUCTIVITY ª
 
 //<CLEAR><$1C><$54>‚Í@–°‚Á‚½a<$12><$00>
 <CLEAR><$1C><$54>
- slept!
+ was out cold!
 <$12><$00>
 
 
@@ -2871,12 +2871,12 @@ DEF
 //<CLEAR><$1C><$41>‚ÌUŒ‚a\n<$06>HP<$04><$1E>@\n<$1C><$61>@”­Ëa<$00>
 <CLEAR><$1C><$41>
 \n
-risked 
+expended 
 <$06>
 HP
 <$04><$1E>
-@ to \n
-
+@ to\n
+use 
 <$1C><$61>
 !
 <$00>
