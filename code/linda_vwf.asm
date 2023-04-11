@@ -63,6 +63,10 @@ SubFont:
 	;sll    $v1(00000003), $a0(00000003), 0x02
 	sll v1, a0, 0x3 ; Up season word length to a max of 12
 	
+.org 0x80038e44
+	;move   $v1(ffffffff), 0x0062
+	addiu v1, 0x75 ; This pushes out the stats on the main stat screen
+	
 .org 0x80042bcc
 	jal ConvertToLower
 
