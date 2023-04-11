@@ -6244,3 +6244,43 @@ Astro Ark
 <$00><$00><$00><$00><$00>
 
 #WARN($00091F68, "WARNME")
+
+
+#JMP($00000B8E)
+ATK 
+
+#JMP($00000B9F)
+DEF 
+
+#JMP($00000BAF)
+SPD 
+
+#JMP($00000B6C)
+ Tier
+
+#JMP($00000BE8)
+<$0C><$06>AMD %d<$04>ÅQ%sÅQÅQÅQÅQÅQÅQÅQ%s<$04><$15><$85><$81><$8F><$00><$00>
+
+
+
+#JMP($00091DD0)
+#WBB(EMBPTR, $00029808)
+#WUB(EMBPTR, $00029809)
+#WLB(EMBPTR, $0002980C)
+#WHB(EMBPTR, $0002980D)
+//èt
+Spring
+<$00><$00>
+
+//âƒ
+Summer
+<$00><$00>
+
+
+//èH
+Autumn
+<$00><$00>
+
+//ì~
+Winter
+<$00><$00>

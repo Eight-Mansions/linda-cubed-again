@@ -54,6 +54,14 @@ SubFont:
 .org 0x800489d0
 	j GetLetterWidthForLargeLetter
 	ori a0, r0, 0x0e
+
+.org 0x8004cc60	; Update hardcoded space width to 0x03
+	;addiu  $v1(800c2008), $a0(00000086), 0x0008
+	addiu v1, a0, 0x04
+	
+.org 0x8003a004
+	;sll    $v1(00000003), $a0(00000003), 0x02
+	sll v1, a0, 0x3 ; Up season word length to a max of 12
 	
 .org 0x80042bcc
 	jal ConvertToLower
@@ -109,7 +117,7 @@ SetLetterWidthForSmallLetter:
 	addiu sp, sp, -4
 	sw ra, 0(sp)
 	
-	jal UpdateLetterWidthForSmall
+	jal GetLetterWidthNew
 	nop
 	
 	lw ra, 0(sp)
