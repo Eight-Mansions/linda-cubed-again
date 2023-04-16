@@ -808,7 +808,7 @@ AMD
 \n
 Species
 <$08>
-4to file: 
+4to rescue: 
 <$1E>
 35\n
   
@@ -6327,8 +6327,8 @@ Exit
 //0034_0000396B_bin\PROG.BIN|00001D9F|922
 //<CLEAR>花を　大切にしましょう！\nとくに　花壇の花は大切に！<$12>
 <CLEAR>
-Always cherish the flowers,\n
-especially those grown in flowerbeds!
+We should all cherish the flowers.\n
+Especially those grown in my flowerbeds!
 <$12><$00>
 
 
@@ -6376,7 +6376,7 @@ Snow white flowers? Oh, I see!
 //0034_0000396B_bin\PROG.BIN|00001D9F|927
 //<CLEAR>黄色の花ですか…？　あったかなぁ…？
 <CLEAR>
-Amber flowers? Do I have those here?
+Yellow flowers? Do I have those here?
 <$00>
 
 
@@ -6400,8 +6400,9 @@ All right, here's your\n
 //0034_0000396B_bin\PROG.BIN|00001D9F|930
 //<CLEAR>花は枯れるから　価値がある！\n贈るあなたにも　もらう彼女にも\n売る私にもね！<$12>
 <CLEAR>
-Flowers wilt, making them all the more\n
-precious to those of us who admire them.
+Flowers wilt. Their beauty is ephemeral.\n
+That gives them sentimental value to you\n
+admirers, and monetary value to us florists!
 <$12><$00>
 
 
@@ -6780,16 +6781,22 @@ Don't forget to come pick up your babies!
 //0035_00003988_bin\PROG.BIN|00001D9A|996
 //<CLEAR>脱出用のシャトルには　人間以外の\n動物は　乗せてもらえないよ<$12>\n<CLEAR>思い出に残るような　値段で\n引き取るから　悪いことは言わない\nここに　置いて行きな<$12>
 <CLEAR>
-Everyone boarding a migrant shuttle\n
-first needs to go to the orbiting\n
-satellite, OzSAT.
+//Everyone boarding a migrant shuttle\n
+//first needs to go to the orbiting\n
+//satellite, OzSAT.
+All non-human lifeforms are banned from\n
+boarding the migrant shuttles leaving OzSAT,\n
+but don't feel too disheartened about it.
 <$12>
 \n
 
 <CLEAR>
-You can get there by using the beam\n
-terminal on the third floor of the\n
-airport.
+//You can get there by using the beam\n
+//terminal on the third floor of the\n
+//airport.
+If all those animals are doomed to be left\n
+behind anyways, why not sell them to me?\n
+I'll pay you a price you'll never forget!
 <$12><$00>
 
 
@@ -6953,7 +6960,7 @@ eggs into our care.
 //0035_00003988_bin\PROG.BIN|00002286|1011
 //<CLEAR>しばらくしたら　また寄っとくれ<$12>
 <CLEAR>
-Hope to see you around!
+Make sure to check in from time to time!
 <$12><$00>
 
 
@@ -7275,8 +7282,8 @@ animal migration is prohibited.
 
 //0036_000039C4_bin\PROG.BIN|00000E63|1060
 //☆ネオケニア　百年の歩み☆\nその発見から　現在までを\nわかりやすく紹介する　コーナーです<$12>
-"WALK IN NEO KENYA:\n
-ENJOY A GLIMPSE OF NEO KENYA FROM\n
+"A WALK IN NEO KENYA:\n
+TRAVEL THE TIMELINE OF NEO KENYA FROM\n
 ITS DISCOVERY TO WHERE WE ARE TODAY!"
 <$12><$00>
 
@@ -7292,7 +7299,7 @@ PERMITTED BEYOND THIS POINT."
 //「ネオケニア　百年の歩み」ねぇ…\n偉そうに　たくさん展示してあるけど\n要するに　この星の歴史ってさ…<$12>\n<CLEAR>アナビスの遺跡から　使えそうなのを\n２、３個　ちょろまかしました…<$12>\n<CLEAR>動物のことを　いろいろ調べたけど\n結局なーんも　わかりませんでした…\n要するに　それだけなんだよな<$12>
 "A Walk in Neo Kenya"...\n
 The exhibit here gives a quick\n
-summary of the planet.
+summary of the planet's history.
 <$12>
 \n
 
@@ -8013,7 +8020,7 @@ from all the rest.
 
 <CLEAR>
 If you break equipment,\n
-this secret is not to panic.\n
+the secret is not to panic.\n
 Use whatever else you have!
 <$12><$00>
 
@@ -8075,7 +8082,8 @@ luxury gowns and left a message for you:
 \n
 
 <CLEAR>
-"Make sure you come for the reception!"
+"Make sure you come for the wedding\n
+reception!"
 <$12><$00>
 
 
@@ -8304,14 +8312,15 @@ Sometime in spring, go to G-
 <$06>
 07 
 <$04>
-\nto see
+\nto see 
 <$1B>
 swallows fly west off the coast!
 <$12>
 \n
 <CLEAR>
-It might be a hot spot for tourists,\n
-but it ain't my thing.
+It can be a hot spot for tourists,\n
+so if that's your thing, you might\n
+want to visit the area.
 <$12>
 \n
 <CLEAR>
@@ -8323,7 +8332,7 @@ whale watching in those same waters?
 
 <CLEAR>
 You're Neo Kenyan, right?\n
-t's about time you checked\n
+It's about time you checked\n
 it out for yourself!
 <$12><$00>
 
@@ -8743,13 +8752,15 @@ woman on the planet sailing your way.
 //0038_00003A28_bin\PROG.BIN|00006D9C|1227
 //<CLEAR>自信をもって身につければ　どなたも\n２￥の指輪だとは　気づきませんよ\n保証いたします！<$12>\n<CLEAR>２００￥くらいには　十分見えます<$12>
 <CLEAR>
-Ah, that ring? Clearly you don't know\n
-what ２￥ is worth in the real world.
+Ah, that ring? If you want my advice,\n
+wear it with a little moxie, and no\n
+one'll know it was only ２￥.
 <$12>
 \n
 <CLEAR>
-But since it's one of ours,\n
-it can pass for one worth ２００￥.
+Then again, it IS one of ours,\n
+so it'll pass for a ring worth at\n
+least ２００￥ no matter what you do!
 <$12><$00>
 
 
@@ -8775,7 +8786,8 @@ What's your price range?\n
 //0038_00003A28_bin\PROG.BIN|00006D9C|1230
 //<CLEAR>お客様、ケタをお間違いですよ<$12>
 <CLEAR>
-Sorry, Sir, that seems a little off.
+Apologies, sir, but did you forget\n
+a zero or two?
 <$12><$00>
 
 
@@ -8791,7 +8803,7 @@ of a man's love! Hahaha!
 //0038_00003A28_bin\PROG.BIN|00006D9C|1232
 //<CLEAR>ご冗談を<$12>
 <CLEAR>
-... That was a joke.
+... You must be joking.
 <$12><$00>
 
 
@@ -9350,9 +9362,9 @@ How much will you borrow?\n
 That'll be 
 <$1E>
 40￥ with seasonal interest.\n
-Repayment starts at 
+Repayment starts at
 <$1E>
-40￥ due next 
+40￥, due next 
 <$1D>
 .\n
 
@@ -9616,7 +9628,7 @@ have the money to buy a ticket...
 //0038_00003A28_bin\PROG.BIN|00008D08|1320
 //<CLEAR>持ち物がいっぱいですよ<$12>
 <CLEAR>
-Your item bad is full!
+Your item bag is full!
 <$12><$00>
 
 
@@ -10236,8 +10248,9 @@ Do you wish to hear it now?
 //0040_00003D91_bin\PROG.BIN|000019CE|1401
 //<CLEAR>これからも　増えると思うから\n時間があるときに　見に来てね！<$12>
 <CLEAR>
-I think such messages will increase,\n
-so do check back from time to time!
+Something tells me more and more people\n
+will want to leave you words of advice.\n
+You'll be missing out by ignoring them.
 <$12><$00>
 
 
@@ -10556,13 +10569,13 @@ crawl out.
 //<CLEAR>＊ビースチャンの指輪は　全部で８つ\n半分集めれば　<$06>20<$04>レベルで\n<$1B>ドラゴンを　倒すのも夢じゃない∥<$12>
 <CLEAR>
 ＊Eight Beastian rings exist.\n
-If you find four, even at LVL 
+If you were to wear four, even at LVL 
 <$06>
 20
 <$04>
-,\ndefeating a 
+,\nslaying a 
 <$1B>
-dragon would be cake!
+dragon would be easy as pie!
 <$12><$00>
 
 
@@ -16306,7 +16319,7 @@ are the pride of Hospico.
 <CLEAR>
 Each one of them has individually\n
 extended human life expectancy by\n
-at least two years!
+at least 2 years!
 <$12><$00>
 
 
@@ -18978,7 +18991,7 @@ hunter or tourist dipshit.
 //0067_00004DBC_bin\PROG.BIN|00002B40|2409
 //<CLEAR><$1B>オコゼを相手にする時は、わざわざ\n不利な水に入ってまで　戦うなよ\n入る「フリ」で　充分、足りるのサ<$12>\n<CLEAR>水際まで誘い出して　こっちは\n岸辺の足場の　しっかりした所で\n迎え撃つのが　定石だな<$12>
 <CLEAR><$1B>
-Stonefish are the worst to fight.\n
+Stingfish are the worst to fight.\n
 If you want to engage them in combat,\n
 do NOT walk straight into the water!
 <$12>
@@ -27059,14 +27072,14 @@ right? Ken?!
 //0102_00005A48_bin\PROG.BIN|000020EC|3307
 //<CLEAR>殺人サンタが襲ってきた∥<$12>
 <CLEAR>
-Killer Santa attacks!
+Killer Santa attacked!
 <$12><$00>
 
 
 //0102_00005A48_bin\PROG.BIN|0000212C|3308
 //<CLEAR>ヒュームが襲ってきた∥<$12>
 <CLEAR>
-Hume attacks!
+Hume attacked!
 <$12><$00>
 
 
@@ -27518,7 +27531,7 @@ crab, the
 <$1B>
 mole, the 
 <$1B>
-stonefish and the 
+stingfish and the 
 <$1B>
 monkey.
 <$12>
@@ -30029,7 +30042,7 @@ true prosperity.
 \n
 
 <CLEAR>
-Who knows what Hid M.O. is,\n
+Who knows what His M.O. is,\n
 but He gives us enough chances\n
 down here to get my hopes up. 
 <$12><$00>
@@ -31048,7 +31061,7 @@ news of the Grim Reaper.
 Can you imagine the look\n
 on a 
 <$1B>
-stonefish's face?\n
+stingfish's face?\n
 That'd be rich!
 <$12><$00>
 
@@ -38302,7 +38315,7 @@ match if you narrated their moves.
 \n
 
 <CLEAR>
-"Baba attacks! 
+"Baba attacked! 
 <$06>
 38
 <$04>
@@ -40594,7 +40607,7 @@ Laboratory B1
 //0202_000063E5_bin\PROG.BIN|00003508|4821
 //<CLEAR>オリジンが襲ってきた∥<$12>
 <CLEAR>
-Origin attacks!
+Origin attacked!
 <$12><$00>
 
 
@@ -41322,7 +41335,7 @@ FEED OUR FLOWERS IRRESPONSIBLY."
 //0206_00006620_bin\PROG.BIN|00002FE1|4927
 //<CLEAR>マダムロゼが襲ってきた！<$12>
 <CLEAR>
-Madam Rose attacks!
+Madam Rose attacked!
 <$12><$00>
 
 
@@ -43751,7 +43764,7 @@ our atmosphere until the animal explodes.
 Hey, wanna hear something dirty?\n
 
 <$01>
-Make it quickie
+Make it a quickie
 <$0E>
  / 
 <$01>
@@ -43820,14 +43833,15 @@ give it your darndest!
 //<CLEAR>最初に　お断りしておきますが\n当店の品は　動物集めには\nなんら　関係ありません<$12>\n<CLEAR>お金が余った時にだけ　思い出して\nお立ち寄りください<$12>
 <CLEAR>
 For the record, we're not a hunting\n
-store, so our goods aren't exclusively\n
-useful to catching animals!
+store, so the one thing our products\n
+don't help with is animal capture.
 <$12>
 \n
 
 <CLEAR>
-We're happy to have you any\n
-time you have money to blow!
+Outside of that that, we'd be glad to\n
+serve you any time you have money to\n
+blow!
 <$12><$00>
 
 
@@ -43921,24 +43935,23 @@ Paul
 //0270_00003D23_bin\PROG.BIN|0000481E|5236
 //<CLEAR>ついこないだも　<$1D>とマキってのが、\n突然、結婚して　次の日には離婚、\n二人して　退職ですもんね…<$12>
 <CLEAR>
-Ironically, 
 <$1D>
  and Maki 
-married recently,\n
-but got divorced the next day.\n
-Both resigned.
+got married recently,\n
+but divorced the next day.\n
+Both had to resign from the bank.
 <$12><$00>
 
 
 //0270_00003D23_bin\PROG.BIN|0000481E|5237
 //<CLEAR>おまけに　<$1D>の同期の<$1D>が\n次の次の日に　マキと結婚して\nこっちも　退職！　理解できませんな<$12>
 <CLEAR>
-AND THEN, the day after that,\n
+But then? The day after that,\n
 <$1D>
 's coworker, 
 <$1D>
 , married Maki,\n
-and HE resigned! Oh, the drama!
+and HE had to resign! Oh, the drama!
 <$12><$00>
 
 
@@ -44017,9 +44030,12 @@ check into a hotel.
 
 //0270_00003D23_bin\PROG.BIN|0000693E|5243
 //それにしても　客の入りが今イチだ\n確率的には　宝クジよか　ずっと\n出るように　調整したんだけどなぁ…<$12>
-The number of lottery players keeps\n
-going down. The operators should\n
-adjust the winnings to reflect that.
+//The number of lottery players keeps\n
+//going down. The operators should\n
+//adjust the winnings to reflect that.
+To make up for the dwindling player base, we
+tweaked our slots to give more frequent payouts.
+How does the lottery still beat us in customers?
 <$12><$00>
 
 
@@ -44185,16 +44201,16 @@ us dumber all along?
 
 //0273_00003E4F_bin\PROG.BIN|00002892|5261
 //ここの動物の多くから　遺伝子の一部に\n巧妙な改ザンが　発見されてな、\nもしやと思って…<$12>\n<CLEAR>ビースチャンの身体も　調べてみたら\nやはり　同じような跡が見つかった\nそれが　四半世紀前じゃ<$12>\n<CLEAR>その時は　ビースチャンと移植民の間に\n既に３世が　産まれとったのよ…\n今さら　後戻りなどできんさ<$12>\n<CLEAR>実はな、私もそうなんじゃ<$12>
-I'd learned that many animals here\n
-had key genetic enhancements in\n
+I'd learned that many animals on Neo\n
+Kenya have key genetic enhancements in\n
 their DNA that'd make Darwin blush. 
 <$12>
 \n
 
 <CLEAR>
-So I looked it up found similar\n
-mutations in the body of a Beastian\n
-woman based on research 25 years ago.
+After some reseach, I found a 25 year-old\n
+study that proved findings of similar\n
+mutations in the body of a Beastian woman!
 <$12>
 \n
 
@@ -45790,11 +45806,11 @@ but do you want to go to bed?
 \n
 
 <$01>
-Let's.
+Let's!
 <$0E>
  / 
 <$01>
-Not now.
+Not now
 <$0E><$00>
 
 
@@ -53893,9 +53909,9 @@ I'm leavin' it!
 <CLEAR>
 You have 
 <$1D>
- to\n
-get that collar back to me\n
-or its designated owner. 
+\n
+to, naturally, give that collar\n
+to me or its designated owner.
 <$12>
 \n
 
@@ -54534,7 +54550,7 @@ there, and lots of traps to get past!
 <CLEAR>
 Why, hello!\n
 I suppose you heard about\n
-this Ziade Ring I'm wearing.
+Ziade's Ring, which I'm wearing.
 <$12>
 \n
 
@@ -54586,8 +54602,8 @@ the true value of my Ziade Ring!
 //<CLEAR>オホホホ…　私の指輪が…　オホホホ…\n「ツィアデの指輪」が…　オホホホ…\n消えてしまったのよ…　トホホホ…<$12>
 <CLEAR>
 Ohoho, my ring!\n
-Ohoho, my precious Ziade Ring!\n
-Ohoho, where'd you gohoho? Ohh! 
+Ohoho, my precious Ziade's Ring!\n
+Ohoho, where'd you go-ho-ho?
 <$12><$00>
 
 
@@ -57144,7 +57160,7 @@ CAMEL
 //0375_00007177_bin\PROG.BIN|00005711|6515
 //<$1B>オコゼ
 <$1B>
-STONEFISH
+STINGFISH
 <$00>
 
 
@@ -57935,14 +57951,14 @@ bait!
 //0385_00006D9F_bin\PROG.BIN|0000609B|6655
 //<CLEAR>野盗が襲ってきた！<$12>
 <CLEAR>
-Thief attacks!
+Thief attacked!
 <$12><$00>
 
 
 //0385_00006D9F_bin\PROG.BIN|000060B0|6656
 //<CLEAR>ガルシアが襲ってきた！<$12>
 <CLEAR>
-Garcia attacks!
+Garcia attacked!
 <$12><$00>
 
 
@@ -59706,7 +59722,7 @@ Memo
 //0392_000000EF_bin\PROG.BIN|0000642A|6834
 //<CLEAR><$15><$57>未登録で未捕獲＿…………………<$15><$52>赤<$11>240<CLEAR><$15><$57>未登録で捕獲済み＿………………<$15><$59>黄<$11>240<CLEAR><$15><$57>登録済み＿…………………………白<$11>240<CLEAR><$15><$57>絶対捕獲不可＿……………………<$15><$4B>黒<$11>240<$07>
 <CLEAR><$15><$57>
-RED: Uncaptured, unfiled
+RED: Not captured
 <$15><$52><$11>
 240
 <CLEAR>
@@ -60336,7 +60352,7 @@ Prevents water disadvantage
 //0392_000000EF_bin\PROG.BIN|00006B9A|6926
 //<CLEAR>守りを捨て、全力で敵１体に攻撃
 <CLEAR>
-Attack 1 foe, ignores defense
+Brutally attack 1 foe, sacrificing defense
 <$00>
 
 
@@ -60350,14 +60366,14 @@ Spend HP to attack the front
 //0392_000000EF_bin\PROG.BIN|00006B9A|6928
 //<CLEAR>敵１体にギ酸で攻撃（ダメージ継続）
 <CLEAR>
-Burn 1 foe with acid(continuous)
+Burn 1 foe with acid (Repeats)
 <$00>
 
 
 //0392_000000EF_bin\PROG.BIN|00006B9A|6929
 //<CLEAR>敵１体に小威力の火炎攻撃
 <CLEAR>
-Attack 1 foe with small flame
+Attack 1 foe with small flames
 <$00>
 
 
@@ -60378,7 +60394,7 @@ Choke 1 foe, lowering SPD
 //0392_000000EF_bin\PROG.BIN|00006B9A|6932
 //<CLEAR>正面の地形に火を放つ（継続）
 <CLEAR>
-Set front terrain ablaze(cont.)
+Set the front terrain ablaze (Repeats)
 <$00>
 
 
@@ -60392,7 +60408,7 @@ Ensure escape without pursuit
 //0392_000000EF_bin\PROG.BIN|00006B9A|6934
 //<CLEAR>勇気を鼓舞し、自分の攻撃力↑
 <CLEAR>
-Cheerlead the party to raise ATK
+Assert one's self in battle, raising ATK
 <$00>
 
 
@@ -60406,21 +60422,21 @@ Attack 1 foe using DEF
 //0392_000000EF_bin\PROG.BIN|00006B9A|6936
 //<CLEAR>敵１体を踏みつけ、行動不能に（継続）
 <CLEAR>
-Trample+bind 1 foe(continuous)
+Trample+bind 1 foe (Repeats)
 <$00>
 
 
 //0392_000000EF_bin\PROG.BIN|00006B9A|6937
 //<CLEAR>辺り一面を火の海に変える（継続）
 <CLEAR>
-Set entire terrain ablaze(cont.)
+Set entire terrain ablaze (Repeats)
 <$00>
 
 
 //0392_000000EF_bin\PROG.BIN|00006B9A|6938
 //<CLEAR>味方１体の傷をなめ、ＨＰを回復
 <CLEAR>
-Lick 1 ally's wounds, recover HP
+Lick 1 ally's wounds to recover their HP
 <$00>
 
 
@@ -60434,7 +60450,7 @@ Copy 1 foe's stats
 //0392_000000EF_bin\PROG.BIN|00006B9A|6940
 //<CLEAR>敵１体を抱き、電撃で行動不能に（継続）
 <CLEAR>
-Bind 1 foe with electric hug(cont.)
+Bind 1 foe in a shocking embrace (Repeats)
 <$00>
 
 
@@ -60448,14 +60464,14 @@ Burn 1 foe in mighty pillar of flame
 //0392_000000EF_bin\PROG.BIN|00006B9A|6942
 //<CLEAR>正面の敵全てを鋭い風で切り裂く攻撃
 <CLEAR>
-Shred the front in sharp winds
+Shred the front with sharp winds
 <$00>
 
 
 //0392_000000EF_bin\PROG.BIN|00006B9A|6943
 //<CLEAR>ＨＰが低下している時ほど強い攻撃
 <CLEAR>
-Increase ATK when HP is low
+Strike 1 foe (Lower HP = higher ATK)
 <$00>
 
 
@@ -60483,7 +60499,7 @@ Raise 1 ally's SPD with steroids
 //0392_000000EF_bin\PROG.BIN|00006B9A|6947
 //<CLEAR>針状の体部で、敵１体に必殺の攻撃
 <CLEAR>
-Maul 1 foe with deadly spines
+Stab 1 foe with a poisoned stinger
 <$00>
 
 
@@ -60497,7 +60513,7 @@ Cut down 1 foe with sickles
 //0392_000000EF_bin\PROG.BIN|00006B9A|6949
 //<CLEAR>正面の地形を砂地に変える（継続）
 <CLEAR>
-Desertify front terrain(continuous)
+Desertify the front terrain (Repeats)
 <$00>
 
 
@@ -60511,7 +60527,7 @@ Spray poison on foes, lowering DEF
 //0392_000000EF_bin\PROG.BIN|00006B9A|6951
 //<CLEAR>臭いガスで、正面の敵全ての攻撃力↓
 <CLEAR>
-Choke front with foul gas, lowering ATK
+Choke the front with foul gas, lowering ATK
 <$00>
 
 
@@ -60525,7 +60541,7 @@ Harden skin, raising DEF
 //0392_000000EF_bin\PROG.BIN|00006B9A|6953
 //<CLEAR>糸をからめ、敵１体を行動不能に（継続）
 <CLEAR>
-Tangle and bind 1 foe in web(cont.)
+Tangle and bind 1 foe in web (Repeats)
 <$00>
 
 
@@ -60546,7 +60562,7 @@ Greatly recover own HP
 //0392_000000EF_bin\PROG.BIN|00006B9A|6956
 //<CLEAR>正面の敵全てに　弱い超音波の攻撃
 <CLEAR>
-Attack front with small sonic wave
+Attack the front with a small sonic wave
 <$00>
 
 
@@ -60567,49 +60583,49 @@ Shock and numb all combatants
 //0392_000000EF_bin\PROG.BIN|00006B9A|6959
 //<CLEAR>正面の敵のＢＰ使用攻撃を封じる
 <CLEAR>
-Attack front, disabling BP usage
+Attack the front, disabling BP usage
 <$00>
 
 
 //0392_000000EF_bin\PROG.BIN|00006B9A|6960
 //<CLEAR>墨を吐き、正面の敵全ての命中率↓
 <CLEAR>
-Spit ink at front, lowering HIT
+Spit ink at the front, lowering HIT
 <$00>
 
 
 //0392_000000EF_bin\PROG.BIN|00006B9A|6961
 //<CLEAR>敵１体のＨＰを吸収、自分のＨＰを回復
 <CLEAR>
-Absorb 1 foe's HP for healing
+Absorb 1 foe's HP
 <$00>
 
 
 //0392_000000EF_bin\PROG.BIN|00006B9A|6962
 //<CLEAR>強い光で視覚を奪い、敵１体の素早さ↓
 <CLEAR>
-Stun 1 foe with flash, lowering SPD
+Dazzle 1 foe with a flash, lowering SPD
 <$00>
 
 
 //0392_000000EF_bin\PROG.BIN|00006B9A|6963
 //<CLEAR>敵１体を締め上げ行動不能に（継続）
 <CLEAR>
-Constrict 1 foe(continuous)
+Constrict 1 foe (Repeats)
 <$00>
 
 
 //0392_000000EF_bin\PROG.BIN|00006B9A|6964
 //<CLEAR>正面の敵全てを強力な冷気で攻撃
 <CLEAR>
-Attack front with chilling breath
+Attack the front with chilling breath
 <$00>
 
 
 //0392_000000EF_bin\PROG.BIN|00006B9A|6965
 //<CLEAR>正面の地形を雪原に変える（継続）
 <CLEAR>
-Bury front terrain in snow(cont.)
+Bury the front terrain in snow (Repeats)
 <$00>
 
 
@@ -60623,7 +60639,7 @@ Charge 1 foe and ram repeatedly
 //0392_000000EF_bin\PROG.BIN|00006B9A|6967
 //<CLEAR>正面の敵全てを激しい吹雪で攻撃
 <CLEAR>
-Attack front with heavy blizzard
+Attack the front with heavy blizzard
 <$00>
 
 
@@ -60651,7 +60667,7 @@ Scare off small foes with a growl
 //0392_000000EF_bin\PROG.BIN|00006B9A|6971
 //<CLEAR>近くの動物を呼び集め、味方に加える
 <CLEAR>
-Call nearby animals into battle
+Call nearby animals to aid in battle
 <$00>
 
 
@@ -60686,7 +60702,7 @@ Electrocute 1 foe
 //0392_000000EF_bin\PROG.BIN|00006B9A|6976
 //<CLEAR>敵１体を連続して攻撃
 <CLEAR>
-Attack 1 foe (continuous)
+Attack 1 foe (Repeats)
 <$00>
 
 
@@ -60742,7 +60758,7 @@ Creature
 //0392_000000EF_bin\PROG.BIN|00006B9A|6984
 //<$15><$57>人間能力
 <$15><$57>
-Field
+Basic
 <$00>
 
 
@@ -60791,7 +60807,7 @@ Kill 1 foe with a beam shot
 //0392_000000EF_bin\PROG.BIN|00006B9A|6991
 //<CLEAR>敵１体にダメージ＋行動不能（継続）
 <CLEAR>
-Damage+bind 1 foe(continuous)
+Damage+bind 1 foe (Repeats)
 <$00>
 
 
@@ -60812,7 +60828,7 @@ Powerful sonic wave to the front
 //0392_000000EF_bin\PROG.BIN|00006B9A|6994
 //<CLEAR>正面の敵全てに毒攻撃（ダメージ継続）
 <CLEAR>
-Poison attack to the front(cont.)
+Poison attack to the front (Repeats)
 <$00>
 
 
@@ -61561,7 +61577,7 @@ D-Pad: Select animal
 
 //0392_000000EF_bin\PROG.BIN|00007D53|7088
 //生息<$06>:<$04><$1D>
-Habitat:
+Habitat
 <$06>
  
 <$04><$1D><$00>
@@ -61583,14 +61599,14 @@ Habitat:
 
 //0392_000000EF_bin\PROG.BIN|00007D53|7091
 //レベル<$06>：<$04><$1D>＿希少価値<$06>：<$04><$1D>
-LVL:
+LVL
 <$06>
  
 <$04><$1D>
-  Class:
+(CLASS
 <$06>
  
-<$04><$1D><$00>
+<$04><$1D>)<$00>
 
 
 //0392_000000EF_bin\PROG.BIN|00007D53|7092
@@ -61602,11 +61618,11 @@ LVL:
 
 //0392_000000EF_bin\PROG.BIN|00007D53|7093
 //攻撃力<$06>：<$04><$1D>＿守備力<$06>：<$04><$1D>\n素早さ<$06>：<$04><$1D>\n
-ATK:
+ATK
 <$06>
  
 <$04><$1D>
- DEF:
+,  DEF
 <$06>
  
 <$04><$1D>
@@ -61628,16 +61644,16 @@ SPD
 
 //0392_000000EF_bin\PROG.BIN|00007D53|7095
 //ＨＰ＿<$06>：<$04><$1D>＿ＢＰ＿<$06>：<$04><$1D>\n特殊能力<$06>：<$04><$1D>
-HP:
+HP
 <$06>
  
 <$04><$1D>
- BP:
+, BP
 <$06>
  
 <$04><$1D>
 \n
-Skills:
+SKILL
 <$06>
  
 <$04><$1D><$00>
@@ -61653,7 +61669,7 @@ Filed!
 //0392_000000EF_bin\PROG.BIN|00007D53|7097
 //<$15><$59>未登録<$14>
 <$15><$59>
-Not filed
+Unfiled
 <$14><$00>
 
 
@@ -61667,9 +61683,9 @@ Not captured
 //0392_000000EF_bin\PROG.BIN|00007D53|7099
 //<$1D>箱船<$06>：<$04><$1D>
 <$1D>
-Ark status
+ARK STATUS
 <$06>
-: 
+ 
 <$04><$1D><$00>
 
 
@@ -62033,11 +62049,7 @@ took notice!
 (
 <$1E>
 x)\n
-
-<$06>
-entered the TCU
-<$04>
-!
+entered the TCU!
 <$12><$00>
 
 
@@ -62049,6 +62061,8 @@ Cannot fit
  x
 <$1E>
 !\n
+<$06>
+<$04>
 TCU is full!\n
 
 <$01>
@@ -62079,7 +62093,7 @@ No
 //0393_0000010B_bin\PROG.BIN|000101DF|7208
 //<CLEAR><$1D>を放しますか？\n<$01>は＿い<$0E>／<$01>いいえ<$0E>
 <CLEAR>
-Release the 
+Release  
 <$1D>
 ?\n
 
@@ -62390,7 +62404,7 @@ with the dog!
 <CLEAR>
 \r
 <$1C><$41>
- told the dog,\n
+ told the group,\n
 "
 <$1D>
 "
@@ -62882,7 +62896,7 @@ used the hug to shock
 //<CLEAR><$1C><$43>は　<$1C><$59>に\nグイグイ、締め上げられている∥<$12>
 <CLEAR><$1C><$43>
 \n
-tightened their grip on 
+was pinned under\n
 <$1C><$59>
 !
 <$12><$00>
@@ -62902,7 +62916,7 @@ tightened their grip on
 //<CLEAR><$1C><$43>は　<$1C><$59>に\n締め上げられている∥<$12>
 <CLEAR><$1C><$43>
 \n
-constricted 
+was constricted by\n
 <$1C><$59>
 !
 <$12><$00>
@@ -62911,10 +62925,10 @@ constricted
 //0393_0000010B_bin\PROG.BIN|00010A1E|7291
 //<CLEAR><$1C><$43>は　コブラツイストで\n<$1C><$59>を　いじめている∥<$12>
 <CLEAR><$1C><$43>
-'s Cobra Twist tortured\n
+'s Cobra Twist kept\n
 
 <$1C><$59>
-!
+ in agony!
 <$12><$00>
 
 
@@ -63049,7 +63063,7 @@ Their power burst all at once!
 //0393_0000010B_bin\PROG.BIN|00010D84|7306
 //<CLEAR><$1D><$1C><$41>の攻撃∥
 <CLEAR><$1D><$1C><$41>
- attacks!
+ attacked!
 <$00>
 
 
@@ -63309,7 +63323,7 @@ morphed to match
 //0393_0000010B_bin\PROG.BIN|00010D84|7336
 //\n火炎の息を　吐いた∥
 \n
-Fire hurled out in the exhale!
+They exhaled a blast of flame!
 <$00>
 
 
@@ -63335,7 +63349,7 @@ A hurricane whirled in its wings!
 <CLEAR><$1C><$41>
 \n
 stretched, showing off wing membranes.\n
-They flapped them to start a hurricane!
+They flapped them to start a whirlwind!
 <$00>
 
 
@@ -63343,7 +63357,7 @@ They flapped them to start a hurricane!
 //<CLEAR><$1C><$54>は\nふっ飛んだ∥<$12>
 <CLEAR><$1C><$54>
 \n
-blew away!
+was blown away!
 <$12><$00>
 
 
@@ -63420,7 +63434,8 @@ bit
 //0393_0000010B_bin\PROG.BIN|00010D84|7346
 //\n尻から生えた　必殺の毒針∥
 \n
-A poisonous stinger grew from its tail!
+A poisonous stinger grew out\n
+from their backside!
 <$00>
 
 
@@ -63475,7 +63490,7 @@ Brown bubbles plopped from their mouth!
 //<CLEAR><$1C><$54>の全身に\n茶色の発疹が　広がる∥
 <CLEAR><$1C><$54>
 \n
-let out a brown eruption all over!
+flared brown all over!
 <$00>
 
 
@@ -63554,7 +63569,7 @@ cycled their fat into energy!
 //0393_0000010B_bin\PROG.BIN|00010D84|7363
 //\n鼓膜を破る　<$1C><$61>∥
 \n
-They broke an eardrum. 
+They emit an eardrum-splitting\n
 <$1C><$61>
 !
 <$00>
@@ -63645,15 +63660,15 @@ Their body glowed eerily.
 //<CLEAR><$1C><$41>は　胸の先端を\n激しく　点滅させた∥
 <CLEAR><$1C><$41>
 \n
-flashed their top\nshamelessly.
+flashed their top shamelessly.
 <$00>
 
 
 //0393_0000010B_bin\PROG.BIN|00010D84|7374
 //<CLEAR><$1C><$54>は\n目が　くらんだ∥
 <CLEAR><$1C><$54>
-'s\n
-eyes went wild!
+\n
+couldn't take their eyes away!
 <$00>
 
 
@@ -63821,9 +63836,9 @@ filled the air 2 times!\n
 //0393_0000010B_bin\PROG.BIN|00010D84|7395
 //<CLEAR><$1C><$41>は　<$1C><$54>を\nけしかけた∥<$12>
 <CLEAR><$1C><$41>
- zeroed in on 
+ sicked 
 <$1C><$54>
-!
+ on the enemy!
 <$12><$00>
 
 
@@ -63930,7 +63945,7 @@ CONDUCTIVITY ↑
 //0393_0000010B_bin\PROG.BIN|00010D84|7410
 //<CLEAR><$1C><$54>は　眠った∥<$12>
 <CLEAR><$1C><$54>
- was out cold!
+ fell fast asleep!
 <$12><$00>
 
 
@@ -64076,7 +64091,7 @@ all sweated purple!
 //0393_0000010B_bin\PROG.BIN|00010D84|7428
 //\nブルブルと　喉を震わせた\n耳をつんざく　<$1C><$61>∥
 \n
-A tremble, a throat quiver, a split eardrum... 
+A tremble, a throat quiver, a split eardrum...\n
 <$1C><$61>
 !
 <$00>
@@ -64304,7 +64319,7 @@ whole body was hideously burned!
 //0393_0000010B_bin\PROG.BIN|00010D84|7455
 //<CLEAR>何者かが　<$1D>に現れた∥
 <CLEAR>
-Something appeared to 
+Something appeared to the 
 <$1D>
 !
 <$00>
@@ -64723,8 +64738,8 @@ HP
 //0393_0000010B_bin\PROG.BIN|0001248F|7515
 //<CLEAR><$1C><$41>の攻撃∥\n頭上より振り下ろされる　悪魔の槌\n<$1C><$61>∥<$12>
 <CLEAR><$1C><$41>
-\n
-slammed the Devil's mallet, \n
+ attacked!\n
+They slammed the demonic mallet, \n
 
 <$1C><$61>
 !
@@ -64753,9 +64768,9 @@ attacked repeatedly!
 //<CLEAR><$1C><$41>は　お得意の\n<$1C><$61>を　かけた∥
 <CLEAR><$1C><$41>
 \n
-expanded their 
+showed off with a\n
 <$1C><$61>
- capabilities!
+!
 <$00>
 
 
@@ -66705,7 +66720,7 @@ Creature
 
 //0396_00000212_bin\PROG.BIN|0000584B|8643
 //人間能力
-Field
+Basic
 <$00>
 
 

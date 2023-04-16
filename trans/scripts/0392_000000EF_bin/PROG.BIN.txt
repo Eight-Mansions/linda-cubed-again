@@ -95,16 +95,16 @@ Memo
 
 //<CLEAR><$15><$57>未登録で未捕獲＿…………………<$15><$52>赤<$11>240<CLEAR><$15><$57>未登録で捕獲済み＿………………<$15><$59>黄<$11>240<CLEAR><$15><$57>登録済み＿…………………………白<$11>240<CLEAR><$15><$57>絶対捕獲不可＿……………………<$15><$4B>黒<$11>240<$07><$00>
 <CLEAR><$15><$57>
-RED: Uncaptured, unfiled
+RED: Not captured
 <$15><$52><$11>
 240
 <CLEAR><$15><$57>
-YELLOW: Captured,\n
-unfiled
+YELLOW: Captured, unfiled
 <$15><$59><$11>
 240
 <CLEAR><$15><$57>
-WHITE: Filed!
+WHITE:\n
+Filed!
 <$11>
 240
 <CLEAR><$15><$57>
@@ -760,7 +760,7 @@ Prevents water disadvantage
 
 //<CLEAR>守りを捨て、全力で敵１体に攻撃<$00>
 <CLEAR>
-Attack 1 foe, ignores defense
+Brutally attack 1 foe, sacrificing defense
 <$00>
 
 
@@ -772,13 +772,13 @@ Spend HP to attack the front
 
 //<CLEAR>敵１体にギ酸で攻撃（ダメージ継続）<$00>
 <CLEAR>
-Burn 1 foe with acid(continuous)
+Burn 1 foe with acid (Repeats)
 <$00>
 
 
 //<CLEAR>敵１体に小威力の火炎攻撃<$00>
 <CLEAR>
-Attack 1 foe with small flame
+Attack 1 foe with small flames
 <$00>
 
 
@@ -796,7 +796,7 @@ Choke 1 foe, lowering SPD
 
 //<CLEAR>正面の地形に火を放つ（継続）<$00>
 <CLEAR>
-Set front terrain ablaze(cont.)
+Set the front terrain ablaze (Repeats)
 <$00>
 
 
@@ -808,7 +808,7 @@ Ensure escape without pursuit
 
 //<CLEAR>勇気を鼓舞し、自分の攻撃力↑<$00>
 <CLEAR>
-Cheerlead the party to raise ATK
+Assert one's self in battle, raising ATK
 <$00>
 
 
@@ -820,19 +820,19 @@ Attack 1 foe using DEF
 
 //<CLEAR>敵１体を踏みつけ、行動不能に（継続）<$00>
 <CLEAR>
-Trample+bind 1 foe(continuous)
+Trample+bind 1 foe (Repeats)
 <$00>
 
 
 //<CLEAR>辺り一面を火の海に変える（継続）<$00>
 <CLEAR>
-Set entire terrain ablaze(cont.)
+Set entire terrain ablaze (Repeats)
 <$00>
 
 
 //<CLEAR>味方１体の傷をなめ、ＨＰを回復<$00>
 <CLEAR>
-Lick 1 ally's wounds, recover HP
+Lick 1 ally's wounds to recover their HP
 <$00>
 
 
@@ -844,7 +844,7 @@ Copy 1 foe's stats
 
 //<CLEAR>敵１体を抱き、電撃で行動不能に（継続）<$00>
 <CLEAR>
-Bind 1 foe with electric hug(cont.)
+Bind 1 foe in a shocking embrace (Repeats)
 <$00>
 
 
@@ -856,13 +856,13 @@ Burn 1 foe in mighty pillar of flame
 
 //<CLEAR>正面の敵全てを鋭い風で切り裂く攻撃<$00>
 <CLEAR>
-Shred the front in sharp winds
+Shred the front with sharp winds
 <$00>
 
 
 //<CLEAR>ＨＰが低下している時ほど強い攻撃<$00>
 <CLEAR>
-Increase ATK when HP is low
+Strike 1 foe (Lower HP = higher ATK)
 <$00>
 
 
@@ -886,7 +886,7 @@ Raise 1 ally's SPD with steroids
 
 //<CLEAR>針状の体部で、敵１体に必殺の攻撃<$00>
 <CLEAR>
-Maul 1 foe with deadly spines
+Stab 1 foe with a poisoned stinger
 <$00>
 
 
@@ -898,7 +898,7 @@ Cut down 1 foe with sickles
 
 //<CLEAR>正面の地形を砂地に変える（継続）<$00>
 <CLEAR>
-Desertify front terrain(continuous)
+Desertify the front terrain (Repeats)
 <$00>
 
 
@@ -910,7 +910,7 @@ Spray poison on foes, lowering DEF
 
 //<CLEAR>臭いガスで、正面の敵全ての攻撃力↓<$00>
 <CLEAR>
-Choke front with foul gas, lowering ATK
+Choke the front with foul gas, lowering ATK
 <$00>
 
 
@@ -922,7 +922,7 @@ Harden skin, raising DEF
 
 //<CLEAR>糸をからめ、敵１体を行動不能に（継続）<$00>
 <CLEAR>
-Tangle and bind 1 foe in web(cont.)
+Tangle and bind 1 foe in web (Repeats)
 <$00>
 
 
@@ -940,7 +940,7 @@ Greatly recover own HP
 
 //<CLEAR>正面の敵全てに　弱い超音波の攻撃<$00>
 <CLEAR>
-Attack front with small sonic wave
+Attack the front with a small sonic wave
 <$00>
 
 
@@ -958,25 +958,25 @@ Shock and numb all combatants
 
 //<CLEAR>正面の敵のＢＰ使用攻撃を封じる<$00>
 <CLEAR>
-Attack front, disabling BP usage
+Attack the front, disabling BP usage
 <$00>
 
 
 //<CLEAR>墨を吐き、正面の敵全ての命中率↓<$00>
 <CLEAR>
-Spit ink at front, lowering HIT
+Spit ink at the front, lowering HIT
 <$00>
 
 
 //<CLEAR>敵１体のＨＰを吸収、自分のＨＰを回復<$00>
 <CLEAR>
-Absorb 1 foe's HP for healing
+Absorb 1 foe's HP
 <$00>
 
 
 //<CLEAR>強い光で視覚を奪い、敵１体の素早さ↓<$00>
 <CLEAR>
-Stun 1 foe with flash, lowering SPD
+Dazzle 1 foe with a flash, lowering SPD
 <$00>
 
 
@@ -985,19 +985,19 @@ Stun 1 foe with flash, lowering SPD
 
 //<CLEAR>敵１体を締め上げ行動不能に（継続）<$00>
 <CLEAR>
-Constrict 1 foe(continuous)
+Constrict 1 foe (Repeats)
 <$00>
 
 
 //<CLEAR>正面の敵全てを強力な冷気で攻撃<$00>
 <CLEAR>
-Attack front with chilling breath
+Attack the front with chilling breath
 <$00>
 
 
 //<CLEAR>正面の地形を雪原に変える（継続）<$00>
 <CLEAR>
-Bury front terrain in snow(cont.)
+Bury the front terrain in snow (Repeats)
 <$00>
 
 
@@ -1009,7 +1009,7 @@ Charge 1 foe and ram repeatedly
 
 //<CLEAR>正面の敵全てを激しい吹雪で攻撃<$00>
 <CLEAR>
-Attack front with heavy blizzard
+Attack the front with heavy blizzard
 <$00>
 
 
@@ -1042,7 +1042,7 @@ Scare off small foes with a growl
 
 //<CLEAR>近くの動物を呼び集め、味方に加える<$00>
 <CLEAR>
-Call nearby animals into battle
+Call nearby animals to aid in battle
 <$00>
 
 
@@ -1126,7 +1126,7 @@ Electrocute 1 foe
 
 //<CLEAR>敵１体を連続して攻撃<$00>
 <CLEAR>
-Attack 1 foe (continuous)
+Attack 1 foe (Repeats)
 <$00>
 
 
@@ -1192,7 +1192,7 @@ Creature
 
 //<$15><$57>人間能力<$00>
 <$15><$57>
-Field
+Basic
 <$00>
 
 
@@ -1240,7 +1240,7 @@ Creature
 
 //<$15><$57>人間能力<$00>
 <$15><$57>
-Field
+Basic
 <$00>
 
 
@@ -1339,7 +1339,7 @@ Kill 1 foe with a beam shot
 
 //<CLEAR>敵１体にダメージ＋行動不能（継続）<$00>
 <CLEAR>
-Damage+bind 1 foe(continuous)
+Damage+bind 1 foe (Repeats)
 <$00>
 
 
@@ -1357,7 +1357,7 @@ Powerful sonic wave to the front
 
 //<CLEAR>正面の敵全てに毒攻撃（ダメージ継続）<$00>
 <CLEAR>
-Poison attack to the front(cont.)
+Poison attack to the front (Repeats)
 <$00>
 
 
@@ -1800,16 +1800,16 @@ Equippable in trek+combat
 
 //<CLEAR><$15><$57>未登録で未捕獲＿…………………<$15><$52>赤<$11>240<CLEAR><$15><$57>未登録で捕獲済み＿………………<$15><$59>黄<$11>240<CLEAR><$15><$57>登録済み＿…………………………白<$11>240<CLEAR><$15><$57>絶対捕獲不可＿……………………<$15><$4B>黒<$11>240<$07><$00>
 <CLEAR><$15><$57>
-RED: Uncaptured, unfiled
+RED: Not captured
 <$15><$52><$11>
 240
 <CLEAR><$15><$57>
-YELLOW: Captured,\n
-unfiled
+YELLOW: Captured, unfiled
 <$15><$59><$11>
 240
 <CLEAR><$15><$57>
-WHITE: Filed!
+WHITE:\n
+Filed!
 <$11>
 240
 <CLEAR><$15><$57>
@@ -2110,7 +2110,7 @@ D-Pad: Select animal
 
 
 //生息<$06>:<$04><$1D><$00>
-Habitat:
+Habitat
 <$06>
  
 <$04><$1D><$00>
@@ -2129,14 +2129,16 @@ Habitat:
 
 
 //レベル<$06>：<$04><$1D>＿希少価値<$06>：<$04><$1D><$00>
-LVL:
+LVL
 <$06>
  
 <$04><$1D>
-  Class:
+(CLASS
 <$06>
  
-<$04><$1D><$00>
+<$04><$1D>
+)
+<$00>
 
 
 //<$1E>034<$00>
@@ -2176,11 +2178,11 @@ LVL:
 
 
 //攻撃力<$06>：<$04><$1D>＿守備力<$06>：<$04><$1D>\n素早さ<$06>：<$04><$1D>\n<$00>
-ATK:
+ATK
 <$06>
  
 <$04><$1D>
- DEF:
+,  DEF
 <$06>
  
 <$04><$1D>
@@ -2230,16 +2232,16 @@ SPD
 
 
 //ＨＰ＿<$06>：<$04><$1D>＿ＢＰ＿<$06>：<$04><$1D>\n特殊能力<$06>：<$04><$1D><$00>
-HP:
+HP
 <$06>
  
 <$04><$1D>
- BP:
+, BP
 <$06>
  
 <$04><$1D>
 \n
-Skills:
+SKILL
 <$06>
  
 <$04><$1D><$00>
@@ -2253,7 +2255,7 @@ Filed!
 
 //<$15><$59>未登録<$14><$00>
 <$15><$59>
-Not filed
+Unfiled
 <$14><$00>
 
 
@@ -2265,9 +2267,9 @@ Not captured
 
 //<$1D>箱船<$06>：<$04><$1D><$00>
 <$1D>
-Ark status
+ARK STATUS
 <$06>
-: 
+ 
 <$04><$1D><$00>
 
 

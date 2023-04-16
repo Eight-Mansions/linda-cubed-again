@@ -1116,7 +1116,7 @@ Creature
 
 
 //人間能力<$00>
-Field
+Basic
 <$00>
 
 
@@ -1156,7 +1156,7 @@ Creature
 
 
 //人間能力<$00>
-Field
+Basic
 <$00>
 
 
@@ -1381,7 +1381,7 @@ Poachers attack!
 #WRITE(PTR, $0048)
 //<CLEAR>マダムロゼが襲ってきた！<$12><$00>
 <CLEAR>
-Madam Rose attacks!
+Madam Rose attacked!
 <$12><$00>
 
 
@@ -1434,7 +1434,7 @@ Can't run away now!Ψ
 #WRITE(PTR, $0052)
 //<CLEAR>殺人サンタが襲ってきた∥<$12><$00>
 <CLEAR>
-Killer Santa attacks!
+Killer Santa attacked!
 <$12><$00>
 
 
@@ -1447,7 +1447,7 @@ Can't run away now!Ψ
 #WRITE(PTR, $0054)
 //<CLEAR>オリジンが襲ってきた∥<$12><$00>
 <CLEAR>
-Origin attacks!
+Origin attacked!
 <$12><$00>
 
 
@@ -1488,14 +1488,14 @@ Dalilulelo draws near!
 #WRITE(PTR, $005E)
 //<CLEAR>ガルシアが襲ってきた！<$12><$00>
 <CLEAR>
-Garcia attacks!
+Garcia attacked!
 <$12><$00>
 
 
 #WRITE(PTR, $0060)
 //<CLEAR>野盗が襲ってきた！<$12><$00>
 <CLEAR>
-Thief attacks!
+Thief attacked!
 <$12><$00>
 
 
