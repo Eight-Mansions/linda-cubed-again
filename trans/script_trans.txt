@@ -19086,7 +19086,7 @@ Oh shit, someone actually paid it...
 //おい∥　こらッ∥　おまえ∥\nここは　通路じゃねぇぞ∥<$12>\n<CLEAR>どうしても通りたいなら　命の代わりに\n<$06><$1E><$04>￥ほど　置いてってもらおうか∥
 Whoa, bud! What kinda place\n
 do you think this is?!\n
-You can't just waltz in!
+You can't just waltz through!
 <$12>
 \n
 
@@ -19130,9 +19130,9 @@ buy and sell anything.
 
 //0067_00004DBC_bin\PROG.BIN|00002B40|2421
 //火に強い動物の服は　火に強い\n冷気、電気、液体、物理攻撃も　同じだ\nガスや光、音の耐性は　帽子で決まる<$12>\n<CLEAR>忘れちゃならない　大事なことは\n「逆もまた、しかり∥」　元の動物が\n寒さに弱けりゃ　服になっても弱い<$12>\n<CLEAR>装備する時　右上にゴチャゴチャ並んだ\n数字は　要するに、７に近いほど安全\n２なら　相当にヤバいってことよ<$12>
-Fire resistant animals make\n
-fire resistant clothes. That\n
-rule applies to ALL elements!
+Fire-resistant animals make fire-resistant armor.\n
+Animals weak to fire make armor weak to fire.\n
+This applies to all elements, not just fire!
 <$12>
 \n
 
@@ -19146,7 +19146,7 @@ Do NOT forget to equip it!
 <CLEAR>
 Read the upper right corner\n
 number when looking at gear.\n
-7 = good, 2 = YIKES!
+"7 = good, 2 = YIKES!"
 <$12><$00>
 
 
@@ -19189,16 +19189,16 @@ Junk Palace 2F
 //0068_00004E1B_bin\PROG.BIN|000017AF|2431
 //<CLEAR>お客さんに　代行ハンターたちの\n依頼料の大まかな相場を　教えとくよ<$12>\n<CLEAR>ゴメスは別格として　他の連中は\n<$06>3000<$04>～<$06>5000<$04>￥ってトコだ\nそれと、料金交渉は　強気でいきなよ<$12>
 <CLEAR>
-As far as proxy hunter rate go,\n
+As far as proxy hunter rates go,\n
 Gomez charges way more than the\n
 competition.
 <$12>
 \n
 
 <CLEAR>
-On average, you're looking at 3-5,000￥.\n
-If he wasn't so good at his job,\n
-those prices would be a joke!
+Most guys budge around 3-to-5,000￥,\n
+but for a hunter of his caliber,\n
+expect to pay a whooole lot more.
 <$12><$00>
 
 
@@ -19724,7 +19724,7 @@ earns small fry.\n
 
 <CLEAR>
 But that's fine by me!\n
-I happen to like preying the weak!
+I happen to like preying on the weak!
 <$12><$00>
 
 
@@ -20309,10 +20309,9 @@ but would pay any amount for their dogs.
 \n
 
 <CLEAR>
-I should've become a doctor for animals\n
-rather than a doctor for humans
-<$1B>
-... 
+Haaah...\n
+Maybe I should've been an animal doctor,\n
+rather than a doctor for humans.
 <$12><$00>
 
 
@@ -20320,20 +20319,20 @@ rather than a doctor for humans
 //<CLEAR>猟犬も死ぬのは　イヤらしくて\nヤバい時は　自分の判断で　逃げるわ…\n主人の都合も　聞かずにね<$12>\n<CLEAR>だから猟犬を　信頼し過ぎるのも\n考えもんってことよ…　どんなに\n利口なヤツでも　しょせん、犬ね<$12>
 <CLEAR>
 Don't rely on dogs too much. Even they\n
-can lose spirit, and run away from you.
+can lose spirit and run away from you.
 <$12>
 \n
 
 <CLEAR>
-No matter how smart one thinks he is,\n
-he can't afford to challenge the\n
-loyalty of dogs!
+Think twice before getting too reliant.\n
+No matter how loyal your dogs may seem,\n
+they're still animals.
 <$12><$00>
 
 
 //0070_00004E84_bin\PROG.BIN|000022BB|2554
 //長年、ハンターを　やってると\n非常識なくらい強い　動物を見つけて\nボロクソにやられるのが　快感になる<$12>\n<CLEAR>なぜかというと　そいつを材料にした\n非常識なくらい強い　武器のことを\nすぐに　想像しちゃうからなのさ<$12>
-Back in my hunting days, I fight animals\n
+Back in my hunting days, I fought animals\n
 so strong, they beat the hell out of me.
 <$12>
 \n
@@ -20396,8 +20395,9 @@ you are and set up camp.
 \n
 
 <CLEAR>
-There's no benefits at all\n
-to crafting as you travel.
+It's nowhere near as efficient\n
+to go back and forth between\n
+walking and crafting, after all.
 <$12><$00>
 
 
@@ -20411,9 +20411,9 @@ eggs all sparkle like pearls.
 \n
 
 <CLEAR>
-In summer, they flock.\n
-In winter, they go. Remember all\n
-that to hunt like a pro!
+Come summer, they flock.\n
+By winter, they go.\n
+Remember all that to hunt like a pro!
 <$12><$00>
 
 
@@ -20436,9 +20436,9 @@ never flies out there.
 //0071_00004EB6_bin\PROG.BIN|00001FBF|2563
 //<CLEAR>今日は　お客様たちだけだから\nいろいろヤっても　平気っスよ<$12>
 <CLEAR>
-You've been our only new\n
-customers today. I'm getting\n
-a lot done at a good pace.
+No one else has booked today, besides you.\n
+Feel free to make as much noise in there\n
+as you'd like.
 <$12><$00>
 
 
@@ -48302,16 +48302,16 @@ stock is the refunded junk from before!
 //0301_000050EF_bin\PROG.BIN|00001DC4|5631
 //<CLEAR>狩場への移動に　金を惜しんでちゃ\nたった８年で　<$06>100<$04>種の動物を\n集めるのは　悪いけど無理だナ<$12>\n<CLEAR>一流のハンターは　シュートサービスと\n回収ビーコンと経験を　組み合わせて\nピンポイントに　攻めるもんサ<$12>
 <CLEAR>
-If you won't shell out to access\n
-the good hunting grounds, how can you\n
-collect 100 species in eight years?
+How do you expect to capture 100 species in\n
+eight year's time if you refuse to shell out\n
+for the tools and services at your disposal?
 <$12>
 \n
 
 <CLEAR>
-The best navigators use the drop\n
-service, flash beacons and good old\n
-street smarts in a fluid combination.
+Your best hunters are the ones who use\n
+the drop service, flash beacons and their\n
+own street smarts in fluid combination.
 <$12><$00>
 
 
@@ -48374,16 +48374,17 @@ blame, but I know she's no angel.
 
 //0301_000050EF_bin\PROG.BIN|00001DC4|5635
 //ゴメスに　ドーンと金を渡して\n凄い奴を　捕まえてきてもらってよ<$12>\n<CLEAR>そいつを　バトルパークのＢＢ牧場に\n預けて　バカバカ仔を産ませる\nこれが　利殖の王道ってもんよ！<$12>
-If you have a hard time finding a\n
-mark, Gomez has more than enough\n
-bang for his buck to do it for you!
+If you have a hard time finding a mark,\n
+hire Gomez to track it down for you.\n
+He is THE best bang for your buck.
 <$12>
 \n
 
 <CLEAR>
-If we got him to fight in Battle Park\n
-over at BB Ranch, we'd be drowning in\n
-profits in no time!
+If only those BB Ranch guys in Battle Park\n
+hired him to fill the place with animals...\n
+They'd be drowning in profits, I tell you!
+
 <$12><$00>
 
 
@@ -59721,26 +59722,27 @@ Memo
 
 //0392_000000EF_bin\PROG.BIN|0000642A|6834
 //<CLEAR><$15><$57>未登録で未捕獲＿…………………<$15><$52>赤<$11>240<CLEAR><$15><$57>未登録で捕獲済み＿………………<$15><$59>黄<$11>240<CLEAR><$15><$57>登録済み＿…………………………白<$11>240<CLEAR><$15><$57>絶対捕獲不可＿……………………<$15><$4B>黒<$11>240<$07>
-<CLEAR><$15><$57>
-RED: Not captured
-<$15><$52><$11>
-240
-<CLEAR>
-<$15><$57>
-YELLOW: Captured, unfiled
-<$15><$59><$11>
-240
-<CLEAR>
-<$15><$57>
-WHITE: Filed!
-<$11>
-240
-<CLEAR>
-<$15><$57>
-BLACK: Cannot be captured!
-<$15><$4B><$11>
-240
-<$07>
+<CLEAR><$15><$57>RED: Not captured<$15><$52><$11>240<CLEAR><$15><$57>YELLOW: Captured, unfiled<$15><$59><$11>240<CLEAR><$15><$57>WHITE: Filed!<$11>240<CLEAR><$15><$57>BLACK: Cannot be captured!<$15><$4B><$11>240<$07>
+//<CLEAR><$15><$57>
+//RED: Not captured
+//<$15><$52><$11>
+//240
+//<CLEAR>
+//<$15><$57>
+//YELLOW: Captured, unfiled
+//<$15><$59><$11>
+//240
+//<CLEAR>
+//<$15><$57>
+//WHITE: Filed!
+//<$11>
+//240
+//<CLEAR>
+//<$15><$57>
+//BLACK: Cannot be captured!
+//<$15><$4B><$11>
+//240
+//<$07>
 <$00>
 
 
@@ -60457,7 +60459,7 @@ Bind 1 foe in a shocking embrace (Repeats)
 //0392_000000EF_bin\PROG.BIN|00006B9A|6941
 //<CLEAR>巨大な火柱で、敵１体を攻撃
 <CLEAR>
-Burn 1 foe in mighty pillar of flame
+Burn 1 foe a in mighty pillar of flame
 <$00>
 
 
@@ -60499,7 +60501,7 @@ Raise 1 ally's SPD with steroids
 //0392_000000EF_bin\PROG.BIN|00006B9A|6947
 //<CLEAR>針状の体部で、敵１体に必殺の攻撃
 <CLEAR>
-Stab 1 foe with a poisoned stinger
+Stab 1 foe with a venomous stinger
 <$00>
 
 
@@ -61569,15 +61571,16 @@ D-Pad: Select animal
 
 //0392_000000EF_bin\PROG.BIN|00007D53|7087
 //<$1D>タイプ
+(
 <$1D>
-//Type
+ Alert)
  
 <$00>
 
 
 //0392_000000EF_bin\PROG.BIN|00007D53|7088
 //生息<$06>:<$04><$1D>
-Habitat
+HABITAT:
 <$06>
  
 <$04><$1D><$00>
@@ -61599,11 +61602,11 @@ Habitat
 
 //0392_000000EF_bin\PROG.BIN|00007D53|7091
 //レベル<$06>：<$04><$1D>＿希少価値<$06>：<$04><$1D>
-LVL
+LVL:
 <$06>
  
 <$04><$1D>
-(CLASS
+ (CLASS
 <$06>
  
 <$04><$1D>)<$00>
@@ -61653,7 +61656,7 @@ HP
  
 <$04><$1D>
 \n
-SKILL
+SKILL:
 <$06>
  
 <$04><$1D><$00>
@@ -62928,7 +62931,7 @@ was constricted by\n
 's Cobra Twist kept\n
 
 <$1C><$59>
- in agony!
+squirming in agony!
 <$12><$00>
 
 
@@ -63005,7 +63008,7 @@ took
 \n
 
 <$06><$1E><$04>
-damage!
+ damage!
 <$12><$00>
 
 
@@ -63348,7 +63351,7 @@ A hurricane whirled in its wings!
 //<CLEAR><$1C><$41>は　両腕の飛膜を　広げた∥\n翼が起こす　巨大な竜巻∥
 <CLEAR><$1C><$41>
 \n
-stretched, showing off wing membranes.\n
+stretched their arms to reveal wing membranes.\n
 They flapped them to start a whirlwind!
 <$00>
 
@@ -63434,7 +63437,7 @@ bit
 //0393_0000010B_bin\PROG.BIN|00010D84|7346
 //\n尻から生えた　必殺の毒針∥
 \n
-A poisonous stinger grew out\n
+A venomous stinger grew out\n
 from their backside!
 <$00>
 
