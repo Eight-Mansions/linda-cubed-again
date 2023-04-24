@@ -16,6 +16,7 @@ popd
 
 tools\linda_cube_again_big_font_build.exe exe\orig\SCPS_100.39 exe\SCPS_100.39 font\big_font.bmp font\big_font.tbl
 tools\linda_cube_again_font_build.exe font\font.bmp exe\SCPS_100.39
+tools\linda_cube_again_baby_font_build.exe font\baby_font.bmp exe\SCPS_100.39
 
 del exe_error.txt
 echo trans\0008F380.txt >> exe_error.txt
