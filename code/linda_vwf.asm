@@ -4,6 +4,33 @@
 	.importobj "code\linda\obj\generated_movie.obj"
 SubFont:
 	.incbin "font\sub_font.bin" ; Font used for subtitles
+	
+SetBabyLetWidth:
+	addiu sp, sp, -8
+	sw a0, 4(sp)
+	jal SetLetterWidthNew	
+	sw a1, 8(sp)
+	
+	lw a0, 4(sp)
+	lw a1, 8(sp)
+	jal 0x800485a0
+	addiu sp, sp, 8
+	
+	j 0x8004CCE0
+	nop
+	
+GetBabyLetWidth:
+	addiu sp, sp, -4
+	sw ra, 0(sp)
+	
+	jal GetLetterWidthNew
+	addiu a0, r0, 0x08
+	
+	lw ra, 0(sp)
+	addiu sp, sp, 4
+	j 0x80048ae4
+	sw v0, 0x0028(sp)
+
 .close
 
 .open "exe\SCPS_100.39",0x80010800
@@ -54,6 +81,14 @@ SubFont:
 .org 0x800489d0
 	j GetLetterWidthForLargeLetter
 	ori a0, r0, 0x0e
+	
+.org 0x8004ccd8 ; Run code to get baby letter width
+	j SetBabyLetWidth
+	nop
+	
+.org 0x80048adc	; Get current baby letter width
+	j GetBabyLetWidth
+	nop
 
 .org 0x8004cc60	; Update hardcoded space width to 0x03
 	;addiu  $v1(800c2008), $a0(00000086), 0x0008
@@ -93,7 +128,6 @@ LoadSubs:
 	la a0, 0x801D0000
 	j 0x80016784
 	nop
-	
 
 GetLetWidth:
 	addiu sp, sp, -20
