@@ -4,11 +4,13 @@
 	.importobj "code\linda\obj\generated_movie.obj"
 SubFont:
 	.incbin "font\sub_font.bin" ; Font used for subtitles
-	
+
+.importobj "code\linda\obj\font.obj"
+
 SetBabyLetWidth:
 	addiu sp, sp, -8
 	sw a0, 4(sp)
-	jal SetLetterWidthNew	
+	jal SetBabyLetterWidthNew	
 	sw a1, 8(sp)
 	
 	lw a0, 4(sp)
@@ -117,7 +119,6 @@ GetBabyLetWidth:
 	j 0x80048cb8
 
 .org 0x800B8290	
-.importobj "code\linda\obj\font.obj"
 .importobj "code\linda\obj\loadfile.obj"
 .importobj "code\linda\obj\text.obj"
 

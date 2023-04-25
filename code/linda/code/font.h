@@ -20,6 +20,8 @@ extern "C" {
 	
 	void SetLetterWidthNew(const u32 letter);
 
+	void SetBabyLetterWidthNew(const u32 letter);
+
 	u16 GetLetterWidthNew(u16 defaultWidth);
 }
 
