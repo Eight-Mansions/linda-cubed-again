@@ -206,108 +206,50 @@ const u8 babyWidths[] = {
 	0x08, // 5F
 };
 
-
-
-u32 GetLetterWidth(const u32 letter)
+u8 GetLetterWidth(const u8 letterWidths[], u8 defaultWidth)
 {
-	if (letter >= 0x20 && letter <= 0x7F)
+	if (currentLetter == '`')
 	{
-		u32 idx = letter - 0x20;
-		return widths[idx];
-	}
-	else if (letter == 0x8145)
-	{
-		return 0x03;
-	}
-	else if (letter >= 0x824F && letter <= 0x8258) // SJIS 0 - 9
-	{
-		u32 idx = letter - 0x821F;
-		return widths[idx];
-	}
-	else
-	{
-		return 0x10;
-	}
-}
-
-void UpdateLetterWidthForSmall()
-{
-	letterWidth = 0x08;
-	return;
-}
-
-void SetLetterWidthNew(const u32 letter)
-{
-	if (letter == '`')
-	{
-		vwfOnOff = !vwfOnOff;
-		letterWidth = 0;
-		return;
-	}
-
-	if (letter >= 0x20 && letter <= 0x7F)
-	{
-		u32 idx = letter - 0x20;
-		letterWidth = widths[idx];
-	}
-	else if (letter == 0x8145)
-	{
-		letterWidth = 0x03;
-	}
-	else if (letter >= 0x824F && letter <= 0x8258) // SJIS 0 - 9
-	{
-		u32 idx = letter - 0x821F;
-		letterWidth = widths[idx];
-	}
-	else
-	{
-		letterWidth = 0x10;
-	}
-}
-
-void SetBabyLetterWidthNew(const u32 letter)
-{
-	if (letter == '`')
-	{
-		vwfOnOff = !vwfOnOff;
-		letterWidth = 0;
-		return;
-	}
-
-	if (letter >= 0x20 && letter <= 0x7F)
-	{
-		u32 idx = letter - 0x20;
-		letterWidth = babyWidths[idx];
-	}
-	else if (letter == 0x8145)
-	{
-		letterWidth = 0x03;
-	}
-	else if (letter >= 0x824F && letter <= 0x8258) // SJIS 0 - 9
-	{
-		u32 idx = letter - 0x821F;
-		letterWidth = babyWidths[idx];
-	}
-	else
-	{
-		letterWidth = 0x08;
-	}
-}
-
-u16 GetLetterWidthNew(u16 defaultWidth)
-{
-	if (letterWidth == 0)
-	{
-		letterWidth = defaultWidth;
+		vwfOn = !vwfOn;
 		return 0;
 	}
 
-	if (vwfOnOff)
+	if (vwfOn)
 	{
-		return letterWidth;
+		if (currentLetter >= 0x20 && currentLetter <= 0x7F)
+		{
+			u32 idx = currentLetter - 0x20;
+			return letterWidths[idx];
+		}
+		else if (currentLetter == 0x8145) // Space
+		{
+			return 0x03;
+		}
+		else if (currentLetter >= 0x824F && currentLetter <= 0x8258) // SJIS 0 - 9
+		{
+			u32 idx = currentLetter - 0x821F;
+			return letterWidths[idx];
+		}
+		else
+		{
+			return defaultWidth;
+		}
 	}
-	else
-	{
-		return defaultWidth;
-	}
+	
+	return defaultWidth;
+}
+
+void SetLetter(const u32 letter)
+{
+	currentLetter = letter;
+}
+
+u16 GetRegularLetterWidth(u16 defaultWidth)
+{
+	return GetLetterWidth(widths, defaultWidth);
+}
+
+u16 GetBabyLetterWidth(u16 defaultWidth)
+{
+	return GetLetterWidth(babyWidths, defaultWidth);
 }

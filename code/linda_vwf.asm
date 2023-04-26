@@ -10,7 +10,7 @@ SubFont:
 SetBabyLetWidth:
 	addiu sp, sp, -8
 	sw a0, 4(sp)
-	jal SetBabyLetterWidthNew	
+	jal SetLetter	
 	sw a1, 8(sp)
 	
 	lw a0, 4(sp)
@@ -25,7 +25,7 @@ GetBabyLetWidth:
 	addiu sp, sp, -4
 	sw ra, 0(sp)
 	
-	jal GetLetterWidthNew
+	jal GetBabyLetterWidth
 	addiu a0, r0, 0x08
 	
 	lw ra, 0(sp)
@@ -135,7 +135,7 @@ GetLetWidth:
 	sw ra, 0(sp)
 	sw a0, 4(sp)
 	sw a1, 8(sp)
-	jal SetLetterWidthNew
+	jal SetLetter
 	sw v0, 12(sp)
 	
 	lw ra, 0(sp)
@@ -146,33 +146,37 @@ GetLetWidth:
 	addiu sp, sp, 20
 	
 SetLetterWidthForLargeLetter:
-	jal SetLetterWidthNew
+	jal SetLetter
 	lhu a0, 0x002c(sp)
 	j 0x8004ca4c
 	nop
 	
 SetLetterWidthForSmallLetter:
 	lw a0, 0x0028(sp)
-	addiu sp, sp, -4
+	addiu sp, sp, -8
 	sw ra, 0(sp)
+	sw a0, 4(sp)
 	
-	jal GetLetterWidthNew
-	nop
+	jal GetRegularLetterWidth
+	addiu a0, r0, 0x08
 	
 	lw ra, 0(sp)
-	addiu sp, sp, 4
+	lw a0, 4(sp)
+	addiu sp, sp, 8
 	j 0x80048c3c
 	sh v0, 0x0028(sp)
 	
 GetLetterWidthForLargeLetter:
-	addiu sp, sp, -4
+	addiu sp, sp, -8
 	sw ra, 0(sp)
+	sw a0, 4(sp)
 	
-	jal GetLetterWidthNew
-	nop
+	jal GetRegularLetterWidth
+	addiu a0, r0, 0xC
 	
 	lw ra, 0(sp)
-	addiu sp, sp, 4
+	lw a0, 4(sp)
+	addiu sp, sp, 8
 	j 0x800489d8
 	sh v0, 0x0028(sp)
 	
