@@ -253,3 +253,15 @@ u16 GetBabyLetterWidth(u16 defaultWidth)
 {
 	return GetLetterWidth(babyWidths, defaultWidth);
 }
+
+u16 GetSpaceWidth()
+{
+	if (vwfOn)
+	{
+		return 4; // Yes I shouldn't hard code it but 4 is what I use...
+	}
+	else
+	{
+		return 8; // The only "special" ones are 8 wide.
+	}
+}

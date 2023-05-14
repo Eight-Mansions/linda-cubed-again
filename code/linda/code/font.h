@@ -13,6 +13,8 @@ extern "C" {
 	u16 GetRegularLetterWidth(u16 defaultWidth);
 
 	u16 GetBabyLetterWidth(u16 defaultWidth);
+
+	u16 GetSpaceWidth();
 }
 
 #endif

@@ -32,6 +32,26 @@ GetBabyLetWidth:
 	addiu sp, sp, 4
 	j 0x80048ae4
 	sw v0, 0x0028(sp)
+	
+GetSpecialSpace:
+	addiu sp, sp, -12
+	sw ra, 0(sp)
+	sw a0, 4(sp)
+	sw v0, 8(sp)
+	
+	jal GetSpaceWidth
+	nop
+	
+	lw a0, 4(sp)
+	lw ra, 0(sp)
+	
+	addu v1, a0, v0
+	lw v0, 8(sp)
+	
+	j 0x8004cc64
+	addiu sp, sp, 12
+	
+	
 
 .close
 
@@ -92,9 +112,9 @@ GetBabyLetWidth:
 	j GetBabyLetWidth
 	nop
 
-.org 0x8004cc60	; Update hardcoded space width to 0x03
-	;addiu  $v1(800c2008), $a0(00000086), 0x0008
-	addiu v1, a0, 0x04
+.org 0x8004cc5c	; Update harcoded space to either 8 or 4 (if vwf on)
+	j GetSpecialSpace
+	nop
 	
 .org 0x8003a004
 	;sll    $v1(00000003), $a0(00000003), 0x02
@@ -106,15 +126,10 @@ GetBabyLetWidth:
 	
 .org 0x80042bcc
 	jal ConvertToLower
-
-;.org 0x8004cc60
-	; ADDIU   800c2008 (v1), 00000008 (a0), 0008 (8), <- space is hardcoded to 8...
-	addiu v1, a0, 3
 	
 .org 0x80081318 ; Don't be deleting my space!
 	nop
 	
-
 .org 0x80048ca0 ; Override text wrapping check since its useless
 	j 0x80048cb8
 
