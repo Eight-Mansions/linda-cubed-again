@@ -132,10 +132,29 @@ GetSpecialSpace:
 	
 .org 0x80048ca0 ; Override text wrapping check since its useless
 	j 0x80048cb8
+	
+; Testing for loading live audio subs
+; 8006b2b0 00402021: move   $a0(000066ea), $v0(800d0b4c)
+; 8006b2b4 00602821: move   $a1(0000000d), $v1(800ee59e)
+; 8006b2b8 0c00f6f9: jal    0x8003dbe4
+
+; .org 0x800214c8
+	; j LoadAudioSubsTest
+
 
 .org 0x800B8290	
 .importobj "code\linda\obj\loadfile.obj"
 .importobj "code\linda\obj\text.obj"
+
+LoadAudioSubsTest:
+	la a0, 0x800d0b4c
+	la a1, 0x800ee59e
+	jal 0x8003dbe4
+	nop
+	;jal 0x800215a8
+	nop
+	j 0x800214d0
+	nop
 
 LoadSubs:
 	jal 0x8001bebc
