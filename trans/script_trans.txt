@@ -359,14 +359,14 @@ TCU (x
 //0000_0000072A_bin\PROG.BIN|000064EF|75
 //<$05>γ
 <$05>
-A
+ATK
 <$00>
 
 
 //0000_0000072A_bin\PROG.BIN|000064EF|76
 //<$05>ζ
 <$05>
-D
+DEF
 <$00>
 
 
@@ -5012,14 +5012,14 @@ AND YOU TOO WILL FEEL THIS BALANCE.
 //0032_00003664_bin\PROG.BIN|00008CD9|776
 //<$15><$53>♂
 <$15><$53>
-♂
+♂t
 <$00>
 
 
 //0032_00003664_bin\PROG.BIN|00008CD9|777
 //<$15><$59>♀
 <$15><$59>
-♀
+♀t
 <$00>
 
 
@@ -5089,12 +5089,14 @@ BP:
 
 //0032_00003664_bin\PROG.BIN|00009194|782
 //オス
-♂<$00>
+♂s
+<$00>
 
 
 //0032_00003664_bin\PROG.BIN|00009194|783
 //メス
-♀<$00>
+♀s
+<$00>
 
 
 //0032_00003664_bin\PROG.BIN|00009194|785
@@ -6701,7 +6703,7 @@ Always seek a vet treat your dogs.
 
 //0035_00003988_bin\PROG.BIN|00001D9A|989
 //動物商・託卵センター
-Animal・Egg Center 
+Animal, Egg Center 
 <$00>
 
 
@@ -7733,7 +7735,7 @@ This is clean, zero-waste energy!
 
 //0038_00003A28_bin\PROG.BIN|00004211|1142
 //銀行・ショッピングモール
-Bank・Shopping Mall 
+Bank, Shopping Mall 
 <$00>
 
 
@@ -8432,7 +8434,7 @@ success worship Elizabeth like she's God!
 
 //0038_00003A28_bin\PROG.BIN|000062DB|1196
 //酒場・カジノ
-Bar・Casino 
+Bar, Casino 
 <$00>
 
 
@@ -9636,11 +9638,12 @@ Your item bag is full!
 //0038_00003A28_bin\PROG.BIN|00008D08|1321
 //<CLEAR><$02>96［<$19><$31><$01><$1E>036<$19><$30>］\n４ケタの数字を　入力してください\nそれが　抽選ナンバーになります
 <CLEAR><$02>
-96[
+//[]
+96・
 <$19><$31><$01><$1E>
 036
 <$19><$30>
-]\n
+\n
 Choose any four digits you want.\n
 This'll be your lottery number!
 <$00>
@@ -9649,9 +9652,9 @@ This'll be your lottery number!
 //0038_00003A28_bin\PROG.BIN|00008D08|1322
 //<CLEAR>［<$1E>036］で　いいですね？\n<$01>は＿い<$0E>／<$01>いいえ<$0E>
 <CLEAR>
-[
+//[]
 <$1E>
-036] works for you?\n
+036 works for you?\n
 
 <$01>
 Yes
@@ -11644,7 +11647,7 @@ Just look at me!
 
 //0044_00003F53_bin\PROG.BIN|000021BA|1554
 //動物商・肉屋
-Animal・Meat 
+Animal, Meat 
 <$00>
 
 
@@ -12139,7 +12142,7 @@ or these wounds may reopen.
 
 //0047_00003FBD_bin\PROG.BIN|00005994|1629
 //レンジャー隊本部１Ｆ・銀行
-Ranger HQ 1F・Bank 
+Ranger HQ 1F, Bank 
 <$00>
 
 
@@ -16167,7 +16170,7 @@ Rare Ring
 
 //0058_000045A0_bin\PROG.BIN|000021C5|2105
 //動物商・装備屋
-Animal・Equipment 
+Animal, Equipment 
 <$00>
 
 
@@ -18073,7 +18076,7 @@ times has tastier meat.
 
 //0064_00004A06_bin\PROG.BIN|0000305D|2319
 //銀行・動物商・装備屋他
-Bank・Animal・Equipment 
+Bank, Animal, Equipment 
 <$00>
 
 
@@ -18689,7 +18692,7 @@ Cantaloupes
 <CLEAR>
 Bananas? Really?\n
 That suits you so well,\n
-we should call you Bananaman!
+we should call you BananaMan!
 <$12><$00>
 
 
@@ -18765,7 +18768,7 @@ Cantaloupes
 What? 
 <$1D>
 ?!\n
-No, no, no, Bananaman!\n
+No, no, no, BananaMan!\n
 From now on, you like bananas!
 <$12><$00>
 
@@ -20379,7 +20382,7 @@ That has to account for something.
 
 //0071_00004EB6_bin\PROG.BIN|00001C2F|2559
 //肉屋・道具屋
-Meat・General 
+Meat, General 
 <$00>
 
 
@@ -20705,7 +20708,7 @@ and dies by their businesses!
 
 //0073_000051F2_bin\PROG.BIN|00003C41|2597
 //動物商・装備屋・解体屋他
-Animal・Equipment・Ripper 
+Animal, Equipment, Ripper 
 <$00>
 
 
@@ -23479,7 +23482,7 @@ Can't run away now!Ψ
 
 //0081_00005619_bin\PROG.BIN|000020FD|2876
 //肉屋・装備屋
-Meat・Equipment 
+Meat, Equipment 
 <$00>
 
 
@@ -23586,7 +23589,7 @@ to travel through snow.
 
 //0082_0000563E_bin\PROG.BIN|000010A2|2886
 //ホテル１Ｆ・銀行
-Hotel 1F・Bank 
+Hotel 1F, Bank 
 <$00>
 
 
@@ -26775,7 +26778,7 @@ than you would be camping outside.
 
 //0101_00005FF1_bin\PROG.BIN|00002B86|3254
 //銀行・装備屋・肉屋
-Bank・Equipment・Bank 
+Bank, Equipment, Bank 
 <$00>
 
 
@@ -26849,7 +26852,7 @@ under proper headgear.
 
 //0101_00005FF1_bin\PROG.BIN|00002FC3|3259
 //管理局・動物商・薬屋
-Admin・Animal・Drug 
+Admin, Animal, Drug 
 <$00>
 
 
@@ -32514,12 +32517,13 @@ OK!
 
 //0162_000041CA_bin\PROG.BIN|00005E57|3909
 //<CLEAR><$08>14<$15><$59>［<$15><$57><$1D><$15><$59>］
+//[]
 <CLEAR><$08>
 14
 <$15><$59>
-[
+・
 <$15><$57><$1D><$15><$59>
-]
+ 
 <$00>
 
 
@@ -39738,7 +39742,7 @@ for where you're at, aye?
 
 //0198_00006207_bin\PROG.BIN|000011B2|4718
 //宿屋・銀行
-Inn・Bank 
+Inn, Bank 
 <$00>
 
 
@@ -39929,7 +39933,7 @@ and charged a lot more!
 
 //0199_00006228_bin\PROG.BIN|000021F9|4732
 //肉屋・薬屋・動物商
-Meat・Drug・Animal 
+Meat, Drug, Animal 
 <$00>
 
 
@@ -42895,7 +42899,7 @@ NW Eden
 //バナナの皮ですべって　新聞に載って\nネオケニア中の　笑いモノ\nついたあだ名が「バナナ少年」ねぇ<$12>\n<CLEAR>たとえ　おまえの親父のジーンが\nまだ生きていて　どこかで会っても\n他人のフリ、されちまうだろうぜ<$12>
 Dude! You got in the paper for\n
 slipping on a banana peel. That's\n
-where your Bananaman name comes from.
+where your BananaMan name comes from.
 <$12>
 \n
 
@@ -45149,7 +45153,7 @@ Congrats on your recovery!
 <CLEAR>
 After your little slip up,\n
 everyone's taken to calling\n
-you "Bananaman".
+you "BananaMan".
 <$12>
 \n
 
@@ -45162,7 +45166,7 @@ pride!
 
 //0280_000043B5_bin\PROG.BIN|00004CFA|5344
 //がんばれよ∥　バナナ少年∥<$12>
-Do your best, Bananaman!
+Do your best, BananaMan!
 <$12><$00>
 
 
@@ -48534,13 +48538,13 @@ we don't take returns.
 
 //0305_00005445_bin\PROG.BIN|000013C0|5648
 //あっ！　バナナ少年…\nの弟さん…かぁ…<$12>
-Oh! It's Bananaman... -'s... brother?
+Oh! It's BananaMan... -'s... brother?
 <$12><$00>
 
 
 //0305_00005445_bin\PROG.BIN|000013C0|5649
 //あっ！　バナナ少年∥\nねぇ、ねぇ　ころんでみせてよ\n<$01>ころんじゃる<$0E>／<$01>イヤじゃよ<$0E>
-Bananaman, it's you!\n
+BananaMan, it's you!\n
 Do the thing, do the thing!\n
 
 <$01>
@@ -50728,7 +50732,7 @@ to the elder behind the infamous\n
 
 //0326_000058D1_bin\PROG.BIN|000010E8|5858
 //あっ！　バナナ少年∥\nねェねェ、本家のバナナ転びを見せてよ\n<$01>いいとも<$0E>／<$01>馬鹿野郎<$0E>
-Hey, Bananaman! Show me your\n
+Hey, BananaMan! Show me your\n
 Banana Flip signature move!\n
 
 <$01>
@@ -50943,7 +50947,7 @@ Sniff, sniff!
 
 //0328_0000594E_bin\PROG.BIN|0000423E|5880
 //肉屋・動物商
-Meat・Animal 
+Meat, Animal 
 <$00>
 
 
@@ -52831,7 +52835,7 @@ The one and only...
 \n
 
 <CLEAR>
-... Bananaman!
+... BananaMan!
 <$12><$00>
 
 
@@ -61278,32 +61282,32 @@ Equippable in trek+combat
 //0392_000000EF_bin\PROG.BIN|0000753C|7059
 //<CLEAR><$05><$15><$53>HP<$14><$1E>019<$05> <$15><$53>BP<$14><$1E>019<$05>\n<$05><$15><$53>γ<$14><$1E>019<$05> <$15><$53>ζ<$14><$1E>019<$05> <$15><$53>κ<$14><$1E>019
 <CLEAR><$05><$15><$53>
-HP
+ HP
 <$14><$1E>
 019
 <$05>
  
 <$15><$53>
-BP
+ BP
 <$14><$1E>
 019
 <$05>
 \n
 
 <$05><$15><$53>
-A
+ATK
 <$14><$1E>
 019
 <$05>
  
 <$15><$53>
-D
+DEF
 <$14><$1E>
 019
 <$05>
  
 <$15><$53>
-S
+SPD
 <$14><$1E>
 019
 <$00>
@@ -61533,14 +61537,16 @@ D-Pad: Select animal
 //0392_000000EF_bin\PROG.BIN|00007D53|7080
 //<$15><$62>♂<$14>
 <$15><$62>
-♂y
+//bible
+♂
 <$14><$00>
 
 
 //0392_000000EF_bin\PROG.BIN|00007D53|7081
 //<$15><$52>♀<$14>
 <$15><$52>
-♀y
+//bible
+♀
 <$14><$00>
 
 
@@ -61906,7 +61912,7 @@ LVL
 <$08>
 12
 <$14><$05>
-HP
+ HP
 <$1D><$1E>
 019
 <$14><$05>
@@ -62175,17 +62181,17 @@ Morph skills!
 
 
 //0393_0000010B_bin\PROG.BIN|0001036A|7215
-//<CLEAR><$01>Ａモード<$02>134<$05>H<$1E>@019<$05> γ<$1E>@019<$05><$02>134<$09>8<$05>ζ<$1E>@019<$05> κ<$1E>@019<$09>-8 <$04><$09>2<$0E>\n<$01>Ｂモード<$02>134<$05>H<$1E>@019<$05> γ<$1E>@019<$05><$02>134<$09>8<$05>ζ<$1E>@019<$05> κ<$1E>@019<$09>-8 <$04><$09>2<$0E>
+//<CLEAR><$01>Ａモード<$02>134<$05> HP<$1E>@019<$05> γ<$1E>@019<$05><$02>134<$09>8<$05>ζ<$1E>@019<$05> κ<$1E>@019<$09>-8 <$04><$09>2<$0E>\n<$01>Ｂモード<$02>134<$05>H<$1E>@019<$05> γ<$1E>@019<$05><$02>134<$09>8<$05>ζ<$1E>@019<$05> κ<$1E>@019<$09>-8 <$04><$09>2<$0E>
 <CLEAR><$01>
 A Mode
 <$02>
 134
 <$05>
-H
+ HP
 <$1E>
 @019
 <$05>
- ATK
+ATK
 <$1E>
 @019
 <$05><$02>
@@ -62213,11 +62219,11 @@ B Mode
 <$02>
 134
 <$05>
-H
+ HP
 <$1E>
 @019
 <$05>
- ATK
+ATK
 <$1E>
 @019
 <$05><$02>
@@ -62681,13 +62687,13 @@ FUNDS
 \n
 
 <$05><$15><$53>
-LV 
+LVL
 <$14><$1E>
 018
 <$05>
  
 <$15><$53>
-HP 
+ HP
 <$14><$1E>
 018
 <$05>
@@ -63838,7 +63844,7 @@ filled the air 2 times!\n
 //0393_0000010B_bin\PROG.BIN|00010D84|7395
 //<CLEAR><$1C><$41>は　<$1C><$54>を\nけしかけた∥<$12>
 <CLEAR><$1C><$41>
- sicked 
+ sicced 
 <$1C><$54>
  on the enemy!
 <$12><$00>

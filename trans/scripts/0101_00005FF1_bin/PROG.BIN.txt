@@ -129,7 +129,7 @@ z116_120.obj<$00>
 
 #WRITE(PTR, $0022)
 //銀行・装備屋・肉屋<$00>
-Bank・Equipment・Bank 
+Bank, Equipment, Bank 
 <$00>
 
 
@@ -255,7 +255,7 @@ under proper headgear.
 
 #WRITE(PTR, $0024)
 //管理局・動物商・薬屋<$00>
-Admin・Animal・Drug 
+Admin, Animal, Drug 
 <$00>
 
 
@@ -827,13 +827,13 @@ TCU (x
 
 //<$05>γ<$00>
 <$05>
-A
+ATK
 <$00>
 
 
 //<$05>ζ<$00>
 <$05>
-D
+DEF
 <$00>
 
 

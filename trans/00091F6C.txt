@@ -4330,12 +4330,12 @@ Unknown
 // Ptr: 00091388
 #WRITE(PTR, $00091FAC)
 //<OBJ>è≠îN
-<OBJ>boy
+<OBJ>Boy
 <$00>
 
 
 //<OBJ>íj
-<OBJ>man
+<OBJ>Man
 <$00>
 
 
@@ -4357,12 +4357,12 @@ Ultra<OBJ>
 // Ptr: 000913A4
 #WRITE(PTR, $00091FB0)
 //<OBJ>è≠èó
-<OBJ>girl
+<OBJ>Girl
 <$00>
 
 
 //<OBJ>èó
-<OBJ>woman
+<OBJ>Woman
 <$00>
 
 
@@ -5023,12 +5023,14 @@ From the left
 // Ptr: 00091930
 #WRITE(PTR, $00091FBC)
 //Åä
-Åäz
+//adopt
+Åä
 <$00>
 
 
 //Åâ
-Åâz
+//adopt
+Åâ
 <$00>
 
 <$00>
@@ -5530,7 +5532,7 @@ Mushroom
 // Ptr: 00091B28
 #WRITE(PTR, $00092028)
 //Åä
-Åäg
+Åäf
 <$00>
 
 
@@ -5540,7 +5542,7 @@ Mushroom
 
 
 //_Åâ
-_Åâh
+_Åâf
 <$00>
 
 
@@ -6286,7 +6288,7 @@ Winter
 <$00><$00>
 
 #JMP($000A82B0)
-allied
+allied\n
 <$00>
 
 #JMP($00000FDC)
