@@ -180,6 +180,60 @@ int sdbmHash(const char* text) {
 //		//UpdateOTAG(2);
 //	}
 //}
+int GetTimInfo(const uint32_t* tim, TIM_IMAGE* info) {
+
+	if ((*(tim++) & 0xffff) != 0x0010)
+		return 1;
+
+	info->mode = *(tim++);
+	if (info->mode & 8) {
+		const uint32_t* palette_end = tim;
+		palette_end += *(tim++) / 4;
+
+		info->crect = (RECT*)tim;
+		info->caddr = (u_long*)&tim[2];
+
+		tim = palette_end;
+	}
+	else {
+		info->caddr = 0;
+	}
+
+	tim++;
+	info->prect = (RECT*)tim;
+	info->paddr = (u_long*)&tim[2];
+
+	return 0;
+}
+#define GetPtrULong(x)	*((u_long*)(x))
+void TestLoadSubtitle()
+{
+	while ((CdReadSync(1, 0)) > 0);
+
+	const char* filename = "TEST.TIM";	
+	u_long fileinfo = GetFileInfo(filename);
+
+	u_int sector = *(u_int*)(fileinfo + 0x10);
+	u_int size = *(u_int*)(fileinfo + 0x14);
+
+	CdlLOC loc;
+	CdIntToPos(sector, &loc);
+	CdControl(CdlSetloc, (u_char*)&loc, 0);
+
+	CdRead((size + 2047) / 2048, (u_long*)0x801DD000, CdlModeSpeed);
+	while ((CdReadSync(1, 0)) > 0);
+
+	//if (fileinfo != 0)
+	//{
+	//	LoadFile(*(int*)(fileinfo + 0x10), filepos, *(int*)(fileinfo + 0x14));
+	//}
+	
+	/*TIM_IMAGE tim;
+	GetTimInfo((uint32_t*)filepos, &tim);
+	RECT rect;
+	setRECT(&rect, 512, 288, tim.prect->w, tim.prect->h);
+	LoadImage(&rect, tim.paddr);*/
+}
 
 void InitMovieSubtitle(const char* videoname)
 {

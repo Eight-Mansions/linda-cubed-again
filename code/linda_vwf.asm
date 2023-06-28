@@ -57,10 +57,16 @@ GetSpecialSpace:
 
 .open "exe\SCPS_100.39",0x80010800
 
-.definelabel LoadImage, 0x8008200c
+;.definelabel LoadImage, 0x8008200c
 .definelabel LoadFile, 0x800203ec
 .definelabel GetFileInfo, 0x800205b8
 .definelabel strncmp, 0x8007d570
+.definelabel LoadImage, 0x8008356c
+.definelabel CdReadSync, 0x8007db78
+.definelabel CdSync, 0x8007ddb8
+.definelabel CdControl, 0x8007de28
+.definelabel CdRead, 0x8007da98
+.definelabel CdIntToPos, 0x8007e254
 
 ;.org 0x80048be4
 	;ORI     800c3364 (v0), 00000000 (r0), 0008 (8),
@@ -138,8 +144,12 @@ GetSpecialSpace:
 ; 8006b2b4 00602821: move   $a1(0000000d), $v1(800ee59e)
 ; 8006b2b8 0c00f6f9: jal    0x8003dbe4
 
-; .org 0x800214c8
-	; j LoadAudioSubsTest
+;.org 0x800214c8
+;	j LoadAudioSubsTest
+
+.org 0x80020e5c
+	j LoadAudioSubsTest
+
 
 
 .org 0x800B8290	
@@ -147,13 +157,19 @@ GetSpecialSpace:
 .importobj "code\linda\obj\text.obj"
 
 LoadAudioSubsTest:
-	la a0, 0x800d0b4c
-	la a1, 0x800ee59e
-	jal 0x8003dbe4
+	addiu sp, sp, -8
+	sw a0, 0(sp)
+	sw a1, 4(sp)
+	
+	jal TestLoadSubtitle
 	nop
-	;jal 0x800215a8
-	nop
-	j 0x800214d0
+	
+	lw a0, 0(sp)
+	lw a1, 4(sp)
+	jal 0x80021470
+	addiu sp, sp, 8
+	
+	j 0x80020e64
 	nop
 
 LoadSubs:

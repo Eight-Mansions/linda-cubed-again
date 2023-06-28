@@ -10,6 +10,7 @@
 #include <LIBGPU.H>
 #include <LIBSPU.H>
 #include <LIBCD.H>
+#include <LIBGS.H>
 
 #define NULL 0
 
@@ -27,6 +28,9 @@ void itox(u32 i, char* s);
 
 extern "C" {
 	extern int printf(const char* fmt, ...);
+	extern u_long GetFileInfo(const char* filename);
+	extern void LoadFile(u_long unk1, u_long filepos, u_long unk2);
+	extern int LoadImage(RECT* recp, u_long* p);
 }
 
 #endif

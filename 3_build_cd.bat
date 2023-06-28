@@ -24,6 +24,7 @@ tools\atlas exe\SCPS_100.39 trans\0008F380.txt >> exe_error.txt
 echo trans\00091F6C.txt >> exe_error.txt
 tools\atlas exe\SCPS_100.39 trans\00091F6C.txt >> exe_error.txt
 
+copy graphics\subtitles\TEST.TIM cd\linda\LINDA\TEST.TIM
 copy /y NUL cd\linda\LINDA\SUBTITLES.DAT >NUL
 tools\armips.exe code\linda_vwf.asm
 

@@ -18,6 +18,7 @@ extern "C" {
 	void ResetMovieSubtitle();
 
 	void DrawMovieSubtitle(RECT* area, u8* image, u8* font, u32 curFrame);
+	void TestLoadSubtitle();
 
 	extern int LoadImage(RECT* rect, u_long* p);
 
