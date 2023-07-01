@@ -228,11 +228,11 @@ void TestLoadSubtitle()
 	//	LoadFile(*(int*)(fileinfo + 0x10), filepos, *(int*)(fileinfo + 0x14));
 	//}
 	
-	/*TIM_IMAGE tim;
-	GetTimInfo((uint32_t*)filepos, &tim);
+	TIM_IMAGE tim;
+	GetTimInfo((uint32_t*)0x801DD000, &tim);
 	RECT rect;
 	setRECT(&rect, 512, 288, tim.prect->w, tim.prect->h);
-	LoadImage(&rect, tim.paddr);*/
+	LoadImage(&rect, tim.paddr);
 }
 
 void InitMovieSubtitle(const char* videoname)

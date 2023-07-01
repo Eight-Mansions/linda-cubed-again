@@ -147,8 +147,8 @@ GetSpecialSpace:
 ;.org 0x800214c8
 ;	j LoadAudioSubsTest
 
-.org 0x80020e5c
-	j LoadAudioSubsTest
+; .org 0x80020e5c
+	; j LoadAudioSubsTest
 
 
 
@@ -157,17 +157,21 @@ GetSpecialSpace:
 .importobj "code\linda\obj\text.obj"
 
 LoadAudioSubsTest:
-	addiu sp, sp, -8
-	sw a0, 0(sp)
-	sw a1, 4(sp)
+	;addiu sp, sp, -8
+	;sw a0, 0(sp)
+	;sw a1, 4(sp)
+	
+	;jal TestLoadSubtitle
+	;nop
+	
+	;lw a0, 0(sp)
+	;lw a1, 4(sp)
+	jal 0x80021470
+	nop
+	;addiu sp, sp, 8
 	
 	jal TestLoadSubtitle
 	nop
-	
-	lw a0, 0(sp)
-	lw a1, 4(sp)
-	jal 0x80021470
-	addiu sp, sp, 8
 	
 	j 0x80020e64
 	nop

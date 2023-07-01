@@ -69,7 +69,7 @@ attacked with a burning inner heat!
 //<CLEAR><$1C><$41>は\nガソリンを　浴びせた∥<$12>
 <CLEAR><$1C><$41>
 \n
-poured gasoline all over themself!
+released a flammable liquid all over!
 <$12><$00>
 
 
@@ -111,7 +111,7 @@ W East Area
 //0000_0000072A_bin\PROG.BIN|00006141|50
 //<CLEAR>ケンは　野営の特殊能力を\n身につけていない<$12>
 <CLEAR>
-Ken has not learned any Camp Skills.
+Ken has not learned how to camp.
 <$12><$00>
 
 
@@ -2320,8 +2320,8 @@ Control Room
 //0030_000035B4_bin\PROG.BIN|000038D7|418
 //<CLEAR>どうやら　このボタンで\n発進するみたいね　押していい？
 <CLEAR>
-This button activates the Astro Ark.\n
-Are you ready?
+It looks like this button activates\n
+the Astro Ark... Are you ready?
 <$00>
 
 
@@ -2793,14 +2793,14 @@ ENTER THE CONTROL ROOM.
 //<CLEAR>入室ノ際ハ　扉ノ右ノ壁面ニ\n男性乗員ノ右手　女性乗員ノ左手ヲ\n押シツケテ　クダサイ<$12>
 <CLEAR>
 TO ENTER, THE MALE PILOT PUTS\n
-HIS RIGHT HAND ON THE RIGHT PANEL\n
-BY THE DOOR.
+HIS RIGHT HAND ON THE PANEL\n
+BESIDE THE DOOR.
 <$12>
 \n
 <CLEAR>
 IN TURN, THE FEMALE PILOT PUTS\n
-HER LEFT HAND ON THE LEFT PANEL\n
-BY THE DOOR. 
+HER LEFT HAND ON THE PANEL\n
+BESIDE THE DOOR. 
 <$12><$00>
 
 
@@ -5033,8 +5033,8 @@ Animal Registry
 //0032_00003664_bin\PROG.BIN|00009194|779
 //<$1D>は　「<$1D>」を\n体の中で　飼い始めた∥\n「<$1D>」ＧＥＴ∥<$12>
 <$1D>
-'s body absorbed\n
-the 
+ conceived a new being\n
+from within: 
 <$1D>
 !\n
 Learned 
@@ -11535,7 +11535,7 @@ about night attacks.
 //0043_00003F30_bin\PROG.BIN|00000C98|1542
 //<CLEAR>４レベルかそこらで「野営」を\n覚えると　ここも用なしでしょうけど\n気分転換に　泊まりに来てくださいよ<$12>
 <CLEAR>
-Even after you learn the Camp skill\n
+Even after you learn how to camp\n
 at LVL 4, hotels remain a great\n
 change of pace.
 <$12><$00>
@@ -59939,7 +59939,7 @@ Lure animals in
 
 //0392_000000EF_bin\PROG.BIN|00006711|6861
 //野営
-Camp
+Camper
 <$00>
 
 
@@ -60118,14 +60118,14 @@ ATK：
 2\n
 
 <$04><$15><$53>
-DEF：
+DEF： 
 <$15><$57><$1E>
 35
 <$09>
 2\n
 
 <$04><$15><$53>
-PHY FIR ICE ELC\n
+PHY    FIR    ICE    ELC\n
 
 <$05><$15><$57><$1E><$08>
 28
@@ -60137,7 +60137,7 @@ PHY FIR ICE ELC\n
 4\n
 
 <$04><$15><$53>
-LQD GAS LGT DTH\n
+LQD    GAS    LGT    DTH\n
 
 <$05><$15><$57><$1E><$08>
 28
@@ -60658,7 +60658,7 @@ Attempt to seduce male foes...?
 //0392_000000EF_bin\PROG.BIN|00006B9A|6969
 //<CLEAR>仲間１体のＨＰ（少）・状態を回復
 <CLEAR>
-Restory 1 ally's HP(sml)+Status
+Restore 1 ally's HP(sml)+Status
 <$00>
 
 
@@ -61576,7 +61576,7 @@ D-Pad: Select animal
 
 //0392_000000EF_bin\PROG.BIN|00007D53|7087
 //<$1D>タイプ
-(Notes: 
+(
 <$1D>
 )
  
@@ -61707,8 +61707,9 @@ ARK STATUS
 //0392_000000EF_bin\PROG.BIN|00007F01|7101
 //<$19><$31><CLEAR><$1D>は　野外で体力を\n回復する「野営」の\n能力を　身につけた∥<$12>
 <$19><$31><CLEAR><$1D>
- learned the \n
-Camp skill!
+ learned the\n
+"Camper" Tech!\n
+Camp to recover outdoors!
 <$12><$00>
 
 
@@ -61716,7 +61717,7 @@ Camp skill!
 //<$19><$31><CLEAR><$1D>は　野営中に\n動物から　食料を自分で作る\n「食料加工」の能力を　身につけた∥<$12>
 <$19><$31><CLEAR><$1D>
  learned the \n
-Butcher skill!
+"Butcher" Tech!
 <$12><$00>
 
 
@@ -61724,7 +61725,7 @@ Butcher skill!
 //<$19><$31><CLEAR><$1D>は　野営中に\n動物から　装備を自分で作る\n「装備加工」の能力を　身につけた∥<$12>
 <$19><$31><CLEAR><$1D>
  learned the \n
-Forger skill!
+"Forger" Tech!
 <$12><$00>
 
 
@@ -61732,7 +61733,7 @@ Forger skill!
 //<$19><$31><CLEAR><$1D>は　道具や動物の\n値段を見抜く「値踏み」の\n能力を　身につけた∥<$12>
 <$19><$31><CLEAR><$1D>
  learned the \n
-Appraiser skill!
+"Appraiser" Tech!
 <$12><$00>
 
 
@@ -61740,7 +61741,7 @@ Appraiser skill!
 //<$19><$31><CLEAR><$1D>は　夜襲を受けても\nすぐ目が覚める「飛び起き」の\n能力を　身につけた∥<$12>
 <$19><$31><CLEAR><$1D>
  learned the \n
-Night Owl skill!
+"Night Owl" Tech!
 <$12><$00>
 
 
@@ -61748,7 +61749,7 @@ Night Owl skill!
 //<$19><$31><CLEAR><$1D>は　何を食べても\nゼンゼン平気な「鉄の胃袋」の\n能力を　身につけた∥<$12>
 <$19><$31><CLEAR><$1D>
  learned the \n
-Glutton skill!
+"Glutton" Tech!
 <$12><$00>
 
 
@@ -61756,7 +61757,7 @@ Glutton skill!
 //<$19><$31><CLEAR><$1D>は　動物の臭いを\nかぎわける「<$1B>イヌの嗅覚」の\n能力を　身につけた∥<$12>
 <$19><$31><CLEAR><$1D>
  learned the \n
-Bloodhound skill!
+"Bloodhound" Tech!
 <$12><$00>
 
 
@@ -61764,7 +61765,7 @@ Bloodhound skill!
 //<$19><$31><CLEAR><$1D>は　何の根拠もない\n「女の勘」の能力を\n身につけて　強気になった∥<$12>
 <$19><$31><CLEAR><$1D>
  learned the \n
-Perceiver skill!
+"Perceiver" Tech!
 <$12><$00>
 
 
@@ -61772,7 +61773,7 @@ Perceiver skill!
 //<$19><$31><CLEAR><$1D>は　野営中に\n動物捕獲用のワナを　自分で作る\n「ワナ製作」の能力を　身につけた∥<$12>
 <$19><$31><CLEAR><$1D>
  learned the \n
-Trapper skill!
+"Trapper" Tech!
 <$12><$00>
 
 
@@ -61782,7 +61783,7 @@ Trapper skill!
  learned the \n
 
 <$1B>
-Warden skill!
+"Warden" Tech!
 <$12><$00>
 
 
@@ -62287,10 +62288,10 @@ Guard
 //0393_0000010B_bin\PROG.BIN|0001036A|7220
 //<CLEAR><$1D>力＿<$1E>@035\n装備し直しますか<$0E>\n<$01>は＿い<$0E>／<$01>いいえ<$0E>
 <CLEAR><$1D>
-P+
+ Effect: 
 <$1E>
 @035\n
-Re-equip?
+Equip?
 <$0E>
 \n
 
@@ -62343,7 +62344,7 @@ Toss
 //<CLEAR><$1C><$41>は　<$1C><$54>に\n<$1D>を　投げた∥
 <CLEAR><$1C><$41>
 \n
-faced the 
+faced 
 <$1C><$54>
 \n
 and threw 
@@ -62904,7 +62905,7 @@ used the hug to shock
 //<CLEAR><$1C><$43>は　<$1C><$59>に\nグイグイ、締め上げられている∥<$12>
 <CLEAR><$1C><$43>
 \n
-was pinned under\n
+was pinned under the\n
 <$1C><$59>
 !
 <$12><$00>
@@ -62914,9 +62915,9 @@ was pinned under\n
 //<CLEAR><$1C><$43>は\n<$1C><$61>をはずした∥<$12>
 <CLEAR><$1C><$43>
 's\n
-
+ broke out of the\n
 <$1C><$61>
- fell off!
+!
 <$12><$00>
 
 
@@ -62924,7 +62925,7 @@ was pinned under\n
 //<CLEAR><$1C><$43>は　<$1C><$59>に\n締め上げられている∥<$12>
 <CLEAR><$1C><$43>
 \n
-was constricted by\n
+was constricted by the\n
 <$1C><$59>
 !
 <$12><$00>
@@ -62936,7 +62937,7 @@ was constricted by\n
 's Cobra Twist kept\n
 
 <$1C><$59>
-squirming in agony!
+ squirming in agony!
 <$12><$00>
 
 
@@ -63867,7 +63868,7 @@ filled the air 2 times!\n
 //0393_0000010B_bin\PROG.BIN|00010D84|7398
 //<CLEAR><$1C><$54>の体に\n甘い香りが　しみついた…<$12>
 <CLEAR><$1C><$54>
-'s body was stained in a sweet aroma... 
+'s body was drenched in a sweet aroma... 
 <$12><$00>
 
 
@@ -63911,7 +63912,7 @@ were submerged in water!
 //<CLEAR><$1C><$54>の体は\nガソリンで　湿った∥<$12>
 <CLEAR><$1C><$54>
 's body\n
-was soaked in gasoline!
+was soaked in flammable liquid!
 <$12><$00>
 
 
@@ -63960,9 +63961,9 @@ CONDUCTIVITY ↑
 //0393_0000010B_bin\PROG.BIN|00010D84|7411
 //<CLEAR><$1C><$41>は\n<$1C><$54>を　かばった∥<$12>
 <CLEAR><$1C><$41>
- covered 
+ kept 
 <$1C><$54>
-!
+ cover!
 <$12><$00>
 
 
@@ -64207,7 +64208,7 @@ held on!
 //<CLEAR><$1C><$54>には\n効果が　なかった∥<$12>
 <CLEAR><$1C><$54>
 \n
-wasn't effected!
+wasn't affected!
 <$12><$00>
 
 
@@ -65909,7 +65910,7 @@ Exit
 //0394_000001C6_bin\PROG.BIN|000070CD|7543
 //<CLEAR><$01><$1D>野営＿＿<$0E>　<$01><$1D>値踏み＿<$0E>　<$01><$1D>口笛＿＿<$0E>\n<$01><$1D>迷彩＿＿<$0E>　<$01><$1D>食料加工<$0E>　<$01><$1D>装備加工<$0E>\n<$01><$1D>飛び起き<$0E>　<$01><$1D>鉄の胃袋<$0E>　<$01><$1D>ワナ製作<$0E>
 <CLEAR><$01><$1D>
-Camp
+Camper
 <$0E>
 　
 <$01><$1D>
@@ -66011,7 +66012,7 @@ den
 //0394_000001C6_bin\PROG.BIN|000070CD|7545
 //<CLEAR>リンダの「ビシビシ調教」能力の設定\n<$01><$1D>イヌ＿＿<$0E>　<$01><$1D>オオカミ<$0E>　<$01><$1D>イルカ＿<$0E>\n<$01><$1D>ワシ＿＿<$0E>　<$01><$1D>コブラ＿<$0E>　<$01><$1D>ゾウ＿＿<$0E>
 <CLEAR>
-Use Linda's Warden skill:\n
+Use Linda's "Warden" Tech:\n
 
 <$01><$1D>
 Dog 

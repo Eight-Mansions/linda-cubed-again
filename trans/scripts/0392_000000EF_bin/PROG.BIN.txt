@@ -302,7 +302,7 @@ Lure animals in
 
 
 //野営<$00>
-Camp
+Camper
 <$00>
 
 
@@ -470,14 +470,14 @@ ATK：
 2\n
 
 <$04><$15><$53>
-DEF：
+DEF： 
 <$15><$57><$1E>
 35
 <$09>
 2\n
 
 <$04><$15><$53>
-PHY FIR ICE ELC\n
+PHY    FIR    ICE    ELC\n
 
 <$05><$15><$57><$1E><$08>
 28
@@ -489,7 +489,7 @@ PHY FIR ICE ELC\n
 4\n
 
 <$04><$15><$53>
-LQD GAS LGT DTH\n
+LQD    GAS    LGT    DTH\n
 
 <$05><$15><$57><$1E><$08>
 28
@@ -1030,7 +1030,7 @@ Attempt to seduce male foes...?
 
 //<CLEAR>仲間１体のＨＰ（少）・状態を回復<$00>
 <CLEAR>
-Restory 1 ally's HP(sml)+Status
+Restore 1 ally's HP(sml)+Status
 <$00>
 
 
@@ -2099,8 +2099,7 @@ D-Pad: Select animal
 
 
 //<$1D>タイプ<$00>
-(Notes: 
-<$1D>
+(<$1D>
 ) 
 <$00>
 
@@ -2283,64 +2282,65 @@ ARK STATUS
 #WRITE(PTR, $0070)
 //<$19><$31><CLEAR><$1D>は　野外で体力を\n回復する「野営」の\n能力を　身につけた∥<$12><$00>
 <$19><$31><CLEAR><$1D>
- learned the \n
-Camp skill!
+ learned the\n
+"Camper" Tech!\n
+Camp to recover outdoors!
 <$12><$00>
 
 
 //<$19><$31><CLEAR><$1D>は　野営中に\n動物から　食料を自分で作る\n「食料加工」の能力を　身につけた∥<$12><$00>
 <$19><$31><CLEAR><$1D>
  learned the \n
-Butcher skill!
+"Butcher" Tech!
 <$12><$00>
 
 
 //<$19><$31><CLEAR><$1D>は　野営中に\n動物から　装備を自分で作る\n「装備加工」の能力を　身につけた∥<$12><$00>
 <$19><$31><CLEAR><$1D>
  learned the \n
-Forger skill!
+"Forger" Tech!
 <$12><$00>
 
 
 //<$19><$31><CLEAR><$1D>は　道具や動物の\n値段を見抜く「値踏み」の\n能力を　身につけた∥<$12><$00>
 <$19><$31><CLEAR><$1D>
  learned the \n
-Appraiser skill!
+"Appraiser" Tech!
 <$12><$00>
 
 
 //<$19><$31><CLEAR><$1D>は　夜襲を受けても\nすぐ目が覚める「飛び起き」の\n能力を　身につけた∥<$12><$00>
 <$19><$31><CLEAR><$1D>
  learned the \n
-Night Owl skill!
+"Night Owl" Tech!
 <$12><$00>
 
 
 //<$19><$31><CLEAR><$1D>は　何を食べても\nゼンゼン平気な「鉄の胃袋」の\n能力を　身につけた∥<$12><$00>
 <$19><$31><CLEAR><$1D>
  learned the \n
-Glutton skill!
+"Glutton" Tech!
 <$12><$00>
 
 
 //<$19><$31><CLEAR><$1D>は　動物の臭いを\nかぎわける「<$1B>イヌの嗅覚」の\n能力を　身につけた∥<$12><$00>
 <$19><$31><CLEAR><$1D>
  learned the \n
-Bloodhound skill!
+"Bloodhound" Tech!
 <$12><$00>
 
 
 //<$19><$31><CLEAR><$1D>は　何の根拠もない\n「女の勘」の能力を\n身につけて　強気になった∥<$12><$00>
 <$19><$31><CLEAR><$1D>
  learned the \n
-Perceiver skill!
+"Perceiver" Tech!
 <$12><$00>
 
 
 //<$19><$31><CLEAR><$1D>は　野営中に\n動物捕獲用のワナを　自分で作る\n「ワナ製作」の能力を　身につけた∥<$12><$00>
 <$19><$31><CLEAR><$1D>
  learned the \n
-Trapper skill!
+"Trapper" Tech!
 <$12><$00>
 
 
@@ -2349,7 +2349,7 @@ Trapper skill!
  learned the \n
 
 <$1B>
-Warden skill!
+"Warden" Tech!
 <$12><$00>
 
 
