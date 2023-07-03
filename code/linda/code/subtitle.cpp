@@ -233,6 +233,10 @@ void TestLoadSubtitle()
 	RECT rect;
 	setRECT(&rect, 512, 288, tim.prect->w, tim.prect->h);
 	LoadImage(&rect, tim.paddr);
+
+	u_char param[4];
+	param[0] = 0xC8; // Not sure what combo of commands this is but its needed for audio...
+	CdControl(CdlSetmode, param, 0);
 }
 
 void InitMovieSubtitle(const char* videoname)
