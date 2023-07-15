@@ -21,6 +21,12 @@ extern "C" {
 	void TestLoadSubtitle();
 
 	extern int LoadImage(RECT* rect, u_long* p);
+	
+	extern uint32_t LoadSpriteToVRAM();
+
+	extern void DisplaySprite(uint32_t action);
+	
+	extern void HideSprite(uint32_t someAddr, uint32_t command);
 
 	static int movieSubIdx = -1;
 

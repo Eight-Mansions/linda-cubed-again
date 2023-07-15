@@ -845,6 +845,7 @@ tools\linda_tim2obj.exe orig\0391_00000181_bin\OPEN5.D.OBJ graphics\0391_0000018
 tools\linda_file_compress.exe ins\0391_00000181_bin\OPEN5.D.OBJ ins\0391_00000181_bin\OPEN5.OBJ
 tools\linda_tim2obj.exe orig\0391_00000181_bin\OPEN6.D.OBJ graphics\0391_00000181_bin\OPEN6.tim ins\0391_00000181_bin\OPEN6.D.OBJ
 tools\linda_file_compress.exe ins\0391_00000181_bin\OPEN6.D.OBJ ins\0391_00000181_bin\OPEN6.OBJ
+copy graphics\0391_00000181_bin\CONGRA.OBJ ins\0391_00000181_bin\CONGRA.OBJ
 
 REM -------------------------
 

@@ -67,6 +67,9 @@ GetSpecialSpace:
 .definelabel CdControl, 0x8007de28
 .definelabel CdRead, 0x8007da98
 .definelabel CdIntToPos, 0x8007e254
+.definelabel LoadSpriteToVRAM, 0x8006ef14
+.definelabel DisplaySprite, 0x8006f388
+.definelabel HideSprite, 0x8006ce9c
 
 ;.org 0x80048be4
 	;ORI     800c3364 (v0), 00000000 (r0), 0008 (8),
