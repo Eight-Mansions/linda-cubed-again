@@ -671,7 +671,7 @@ DEF
 
 //<CLEAR>セレクトボタンで解説が出ます<$00>
 <CLEAR>
-SELECT: Details
+SELECT button: Details
 <$00>
 
 
@@ -825,9 +825,10 @@ that lacks soul.
 
 
 //、…<$1D>に行けば<$00>
-! That's where we'll find a 
+!\n
+If only we check 
 <$1D>
-.
+...
 <$00>
 
 
@@ -858,9 +859,9 @@ Back
 
 
 //、絶対に<$1D>∥<$00>
-wards, got it? I'm sure we'll find a 
+wards, got it? 
 <$1D>
- there!
+!
 <$00>
 
 
@@ -917,32 +918,32 @@ ANIMALS
 
 
 //に　出会える…<$00>
-COULD APPEAR!
+ COULD APPEAR!
 <$00>
 
 
 //が　待ってる…<$00>
-ARE WAITING FOR US!
+ AWAIT US!
 <$00>
 
 
 //気がするわ∥<$00>
-ARE THERE!
+I'M SURE OF IT!
 <$00>
 
 
 //チャンスよ∥<$00>
-ARE IN OUR GRASP!
+IT'S IN OUR GRASP!
 <$00>
 
 
 //今しかないわ<$00>
-ARE GETTING AWAY!
+DON'T LET 'EM SLIP AWAY!
 <$00>
 
 
 //間違いなし∥<$00>
-, DEAD AHEAD!
+DEAD AHEAD!
 <$00>
 
 

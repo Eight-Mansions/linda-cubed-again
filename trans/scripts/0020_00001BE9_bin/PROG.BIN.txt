@@ -626,7 +626,7 @@ DEF
 
 //<CLEAR>セレクトボタンで解説が出ます<$00>
 <CLEAR>
-SELECT: Details
+SELECT button: Details
 <$00>
 
 
@@ -685,7 +685,7 @@ is strictly prohibited!
 <$0E><$02>
 216
 <$06><$1E><$04>
-x 
+ anmls.
 <$00>
 
 
@@ -711,14 +711,14 @@ Crafting the
  \n
 will cost 
 <$1D><$06><$1E><$04><$14>
-￥.\n
+￥ .\n
 
 <$01>
 Okay
 <$0E>
  / 
 <$01>
-Wait
+Back
 <$0E><$00>
 
 
@@ -760,11 +760,12 @@ Camp / Menu
 
 //<CLEAR><$06>スタートボタン<$04>でカーソルを「開始」に移動<$11>240<CLEAR>もう１度<$06>スタートボタン<$04>で野営実行<$11>240<$07><$00>
 <CLEAR>
-START: Highlight "Okay!"
+START button: Highlight "Okay!"
 <$11>
 240
 <CLEAR>
-START: Begin camping!
+START button: Begin\n
+camping!
 <$11>
 240
 <$07><$00>
@@ -822,7 +823,7 @@ Forger
 <$0E>
 　
 <$01><$1D>
-Warden
+Tamer
 <$0E><$00>
 
 
@@ -1113,9 +1114,10 @@ OK!
 
 
 //、…<$1D>に行けば<$00>
-! That's where we'll find a 
+!\n
+If only we check 
 <$1D>
-.
+...
 <$00>
 
 
@@ -1146,9 +1148,9 @@ Back
 
 
 //、絶対に<$1D>∥<$00>
-wards, got it? I'm sure we'll find a 
+wards, got it? 
 <$1D>
- there!
+!
 <$00>
 
 
@@ -1205,32 +1207,32 @@ ANIMALS
 
 
 //に　出会える…<$00>
-COULD APPEAR!
+ COULD APPEAR!
 <$00>
 
 
 //が　待ってる…<$00>
-ARE WAITING FOR US!
+ AWAIT US!
 <$00>
 
 
 //気がするわ∥<$00>
-ARE THERE!
+I'M SURE OF IT!
 <$00>
 
 
 //チャンスよ∥<$00>
-ARE IN OUR GRASP!
+IT'S IN OUR GRASP!
 <$00>
 
 
 //今しかないわ<$00>
-ARE GETTING AWAY!
+DON'T LET 'EM SLIP AWAY!
 <$00>
 
 
 //間違いなし∥<$00>
-, DEAD AHEAD!
+DEAD AHEAD!
 <$00>
 
 

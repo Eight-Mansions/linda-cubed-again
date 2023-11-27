@@ -40,7 +40,6 @@ copy exe\SCPS_100.39 cd\linda\SCPS_100.39
 ::Build files
 echo Building final bin file...
 pushd cd
-del /q linda_working.bin
 ..\tools\psximager\psxbuild.exe "linda.cat" "linda_working.bin">> build.log
 popd
 echo:

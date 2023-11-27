@@ -380,7 +380,7 @@ DEF
 //0000_0000072A_bin\PROG.BIN|000064EF|78
 //<CLEAR>セレクトボタンで解説が出ます
 <CLEAR>
-SELECT: Details
+SELECT button: Details
 <$00>
 
 
@@ -439,7 +439,7 @@ is strictly prohibited!
 <$0E><$02>
 216
 <$06><$1E><$04>
-x 
+ anmls.
 <$00>
 
 
@@ -467,14 +467,14 @@ Crafting the
  \n
 will cost 
 <$1D><$06><$1E><$04><$14>
-￥.\n
+￥ .\n
 
 <$01>
 Okay
 <$0E>
  / 
 <$01>
-Wait
+Back
 <$0E><$00>
 
 
@@ -509,11 +509,11 @@ Camp / Menu
 //0000_0000072A_bin\PROG.BIN|000064EF|93
 //<CLEAR><$06>スタートボタン<$04>でカーソルを「開始」に移動<$11>240<CLEAR>もう１度<$06>スタートボタン<$04>で野営実行<$11>240<$07>
 <CLEAR>
-START: Highlight "Okay!"
+START button: Highlight "Okay!"
 <$11>
 240
 <CLEAR>
-START: Begin camping!
+START button: Begin camping!
 <$11>
 240
 <$07><$00>
@@ -565,7 +565,8 @@ Forger
 <$0E>
 　
 <$01><$1D>
-Warden
+//Warden
+Tamer
 <$0E><$00>
 
 
@@ -878,9 +879,9 @@ OK!
 
 //0000_0000072A_bin\PROG.BIN|000064EF|139
 //、…<$1D>に行けば
-! That's where we'll find a 
+!\nIf only we check 
 <$1D>
-.
+...
 <$00>
 
 
@@ -910,9 +911,9 @@ Back
 
 //0000_0000072A_bin\PROG.BIN|000064EF|144
 //、絶対に<$1D>∥
-wards, got it? I'm sure we'll find a 
+wards, got it? 
 <$1D>
- there!
+!
 <$00>
 
 
@@ -980,37 +981,37 @@ ANIMALS
 
 //0000_0000072A_bin\PROG.BIN|000064EF|155
 //に　出会える…
-COULD APPEAR!
+ COULD APPEAR!
 <$00>
 
 
 //0000_0000072A_bin\PROG.BIN|000064EF|156
 //が　待ってる…
-ARE WAITING FOR US!
+ AWAIT US!
 <$00>
 
 
 //0000_0000072A_bin\PROG.BIN|000064EF|157
 //気がするわ∥
-ARE THERE!
+I'M SURE OF IT!
 <$00>
 
 
 //0000_0000072A_bin\PROG.BIN|000064EF|158
 //チャンスよ∥
-ARE IN OUR GRASP!
+IT'S IN OUR GRASP!
 <$00>
 
 
 //0000_0000072A_bin\PROG.BIN|000064EF|159
 //今しかないわ
-ARE GETTING AWAY!
+DON'T LET 'EM SLIP AWAY!
 <$00>
 
 
 //0000_0000072A_bin\PROG.BIN|000064EF|160
 //間違いなし∥
-, DEAD AHEAD!
+DEAD AHEAD!
 <$00>
 
 
@@ -5011,15 +5012,17 @@ AND YOU TOO WILL FEEL THIS BALANCE.
 
 //0032_00003664_bin\PROG.BIN|00008CD9|776
 //<$15><$53>♂
+//arkstorage
 <$15><$53>
-♂t
+♂
 <$00>
 
 
 //0032_00003664_bin\PROG.BIN|00008CD9|777
 //<$15><$59>♀
+//arkstorage
 <$15><$59>
-♀t
+♀
 <$00>
 
 
@@ -13367,7 +13370,7 @@ The new formula would last ten years.
 
 <CLEAR>
 To expand on my findings, I groomed\n
-two Hustle Ⅱ addicts and tasked\n
+two Hustle III addicts and tasked\n
 them with fetching more "samples".
 <$12>
 \n
@@ -13411,7 +13414,7 @@ an intention to revive him someday?!
 
 //0047_00003FBD_bin\PROG.BIN|00007B2F|1752
 //パンハイムの供述とは　食い違うんだが\nヒュームの体から　例のハッスルⅡは\n検出されなかった…　不思議だな<$12>
-Strange. Hustle Ⅱ wasn't found in\n
+Strange. Hustle III wasn't found in\n
 Hume's body, but Panheim's statement\n
 loosely implies otherwise.
 <$12><$00>
@@ -14154,7 +14157,7 @@ Something wrong, Ken?
 <CLEAR><$01>
 ◇
 <$0E>
-Now *I* need a doctor!\n
+Now "I" need a doctor!\n
 
 <$01>
 ◇
@@ -16533,7 +16536,7 @@ give to tune parts of my life out.
 //<CLEAR>リンダのパパの　ヒュームが\nレンジャー隊を　免職になった原因は\nハッスルⅡに　手を出したせいよ<$12>\n<CLEAR>功を焦ったんだと　思うわ\n結婚して　リンダが産まれて…\nほら、何かとお金も入り用じゃない？<$12>\n<CLEAR>あげくに　奥さんにも子供にも\n愛想、尽かされてりゃ　世話ないわよね\nまったく…　バカな男…<$12>
 <CLEAR>
 Linda's dad, Hume, was kicked of the\n
-Rangers over his Hustle Ⅱ addiction.
+Rangers over his Hustle III addiction.
 <$12>
 \n
 
@@ -16652,13 +16655,13 @@ Ward 2 1F
 //<CLEAR><$06>10<$04>年以上前になるかな…\nハッスルⅡっていう　興奮剤が\nハンターを中心に　流行したんだよ<$12>\n<CLEAR>ハッスルⅡ１粒で　<$1B>サイや<$1B>オオカミと\nタメ張れるほど　攻撃力が上がるんだ<$12>\n<CLEAR>みんな競うように　飲みまくった…\n副作用で　精神も肉体も　ボロボロに\nなることが　わかった後でもな<$12>
 <CLEAR>
 Ten or so years ago,\n
-a stimulant known as Hustle Ⅱ\n
-boomed among hunters. 
+a stimulant known as Hustle III\n
+boomed among hunters for hire. 
 <$12>
 \n
 
 <CLEAR>
-A single drop of Hustle Ⅱ could boost\n
+A single drop of Hustle III could boost\n
 your strength enough to take on a\n
 <$1B>
 rhino or a 
@@ -16680,7 +16683,7 @@ it before!
 \n
 
 <CLEAR>
-When Hustle Ⅱ was legal, there weren't\n
+When Hustle III was legal, there weren't\n
 enough beds. We had maybe
 <$06>
 200
@@ -18816,7 +18819,7 @@ thou shalt never sacrifice thyself!"
 
 //0066_00004D79_bin\PROG.BIN|00000EF2|2392
 //昔は良かったよ…　ハッスルⅡが\n簡単に手に入ってさ…　わしでも\n水の中の<$1B>ワニを　仕留められた…<$12>\n<CLEAR><$1B>オオカミに囲まれても　負ける気が\nゼンゼンしなかったもんなぁ\n確かに副作用は　こわかったけど…<$12>\n<CLEAR>あの頃のわしは　輝いとったと思うよ<$12>
-I miss Hustle Ⅱ something serious.\n
+I miss Hustle III something serious.\n
 I could strangle a 
 <$1B>
 crocodile with\n
@@ -19279,7 +19282,7 @@ determined by "resistance".
 //<CLEAR>１０年ばかり前に「ハッスルⅡ」って\n薬が　代行ハンターの間で\n流行ったことが　あったっけな<$12>\n<CLEAR>副作用はひどいし、中毒症状で\n頭のネジが　飛んじまうヤツもいたけど\n一度やると　やめられないのよ<$12>\n<CLEAR>なにせ　一時的にせよ　攻撃力が\n倍近くまで上がるんだからな<$12>
 <CLEAR>
 I'll never understand how\n
-people let that Hustle Ⅱ drug\n
+people let that Hustle III drug\n
 get so popular ten years ago.
 <$12>
 \n
@@ -23644,7 +23647,7 @@ but the pay is second to none!
 
 //0082_0000563E_bin\PROG.BIN|000010A2|2891
 //使用禁止になったはずの　ハッスルⅡを\nいまだに　リナバレーの穴潜りたちは\n使ってるって　噂なんだよな<$12>\n<CLEAR>行けばわかるけど　あそこの連中の\n陽気さときたら　突き抜けてるんだよ\nアレは　薬の副作用だと思うね<$12>
-Hustle Ⅱ's supposed to be banned,\n
+Hustle III's supposed to be banned,\n
 but rumor says that people around\n
 Spurr Valley still use the stuff.
 <$12>
@@ -27741,7 +27744,7 @@ killing them.
 \n
 
 <CLEAR>
-You might try fighting bare-handed,\n
+You might try fighting bare handed,\n
 or with the help of a weaker dog.\n
 Get creative out there.
 <$12><$00>
@@ -43020,7 +43023,7 @@ Kevin
 //<CLEAR>あの…\n私、スペクターといいます\nハーディアの　ホテルにいます…<$12>\n<CLEAR>あの…\n折り入って　お頼みしたいことが…<$12>\n<CLEAR>何かのついでで　結構ですから\nご足労願えますか…\n一番、奥の部屋です<$12>\n<CLEAR>あの…\nきっと　来てください\nお待ちしていますから…<$12>
 <CLEAR>
 Uhm... You can call me Spectre.\n
-I'm in the Hardia Hotel.
+I'm staying in the Hardia Hotel.
 <$12>
 \n
 
@@ -43031,7 +43034,8 @@ Uhm... I've got a favor to ask you.
 
 <CLEAR>
 If you can help, it'd be swell\n
-if you came up to my room.
+if you came to my hotel room.\n
+It's upstairs and to the back.
 <$12>
 \n
 
@@ -59725,7 +59729,7 @@ Memo
 
 //0392_000000EF_bin\PROG.BIN|0000642A|6834
 //<CLEAR><$15><$57>未登録で未捕獲＿…………………<$15><$52>赤<$11>240<CLEAR><$15><$57>未登録で捕獲済み＿………………<$15><$59>黄<$11>240<CLEAR><$15><$57>登録済み＿…………………………白<$11>240<CLEAR><$15><$57>絶対捕獲不可＿……………………<$15><$4B>黒<$11>240<$07>
-<CLEAR><$15><$57>RED: Not captured<$15><$52><$11>240<CLEAR><$15><$57>YELLOW: Captured, unfiled<$15><$59><$11>240<CLEAR><$15><$57>WHITE: Filed!<$11>240<CLEAR><$15><$57>BLACK: Cannot be captured!<$15><$4B><$11>240<$07>
+<CLEAR><$15><$57>RED-- Not captured<$15><$52><$11>240<CLEAR><$15><$57>YELLOW-- Captured, unfiled<$15><$59><$11>240<CLEAR><$15><$57>WHITE-- Filed!<$11>240<CLEAR><$15><$57>BLACK-- Cannot be captured!<$15><$4B><$11>240<$07>
 //<CLEAR><$15><$57>
 //RED: Not captured
 //<$15><$52><$11>
@@ -59752,7 +59756,7 @@ Memo
 //0392_000000EF_bin\PROG.BIN|0000642A|6835
 //<CLEAR><$15><$57>セレクトボタンで解説が出ます<$11>240<CLEAR>Ｌ／Ｒボタンで情報を切り換えます<$11>240<$07>
 <CLEAR><$15><$57>
-SELECT: Details
+SELECT button: Details
 <$11>
 240
 <CLEAR>
@@ -59993,7 +59997,8 @@ Trapper
 
 //0392_000000EF_bin\PROG.BIN|00006711|6870
 //ビシバシ調教
-Warden
+//Warden
+Tamer
 <$00>
 
 
@@ -61783,7 +61788,8 @@ Camp to recover outdoors!
  learned the \n
 
 <$1B>
-"Warden" Tech!
+//"Warden" Tech!
+"Tamer" Tech!
 <$12><$00>
 
 
@@ -61854,8 +61860,8 @@ BP:
 //0392_000000EF_bin\PROG.BIN|00007F01|7115
 //<$19><$31><CLEAR><$1D>の「ビシバシ調教」は\n<$1D>まで　猟犬に変えられるように\nパワーアップした∥<$12>
 <$19><$31><CLEAR><CLEAR><$1D>
-'s Warden skills broke\n
-
+//'s Warden skills broke\n
+'s Tamer skills broke\n
 <$1D>
  enough to fight as\n
 a proper hunting dog.
@@ -62176,8 +62182,7 @@ Flee
 //<CLEAR><$1C><$43>は　まだ獣人化の\n能力を　身につけていないΨ
 <CLEAR><$1C><$43>
 \n
-does not know\n
-Morph skills!
+has not learned\nhow to morph.
 <$00>
 
 
@@ -62269,7 +62274,7 @@ No
 removed 
 <$1D>
 \n
-to go bare-handed!
+to go bare handed!
 <$12><$00>
 
 
@@ -63476,7 +63481,7 @@ spit out all the sand in its stomach!
 //0393_0000010B_bin\PROG.BIN|00010D84|7350
 //<CLEAR><$1C><$4B>の足元は\n砂だらけになった∥<$12>
 <CLEAR><$1C><$4B>
-'s feet\nare covered in sand!
+ felt their feet\ncovered in sand!
 <$12><$00>
 
 
@@ -63484,7 +63489,7 @@ spit out all the sand in its stomach!
 //<CLEAR><$1C><$41>の前方は\n砂だらけになった∥<$12>
 <CLEAR><$1C><$41>
 \n
-only sees sand before them!
+saw nothing but sand!
 <$12><$00>
 
 
@@ -63587,7 +63592,7 @@ They emit an eardrum-splitting\n
 //0393_0000010B_bin\PROG.BIN|00010D84|7364
 //\n尻尾を　強く打ちつけた∥
 \n
-The tail took a direct hit!
+Their tail swung ferociously!
 <$00>
 
 
@@ -63724,8 +63729,8 @@ exhaled a great white fog!
 //0393_0000010B_bin\PROG.BIN|00010D84|7379
 //<CLEAR><$1C><$4B>の足元は\n雪に　うずまった∥<$12>
 <CLEAR><$1C><$4B>
-'s feet\n
-were buried in snow!
+ felt their feet\n
+buried in snow!
 <$12><$00>
 
 
@@ -63903,8 +63908,8 @@ The contents of the item bag got a bit wet.
 //0393_0000010B_bin\PROG.BIN|00010D84|7403
 //<CLEAR><$1C><$4B>の足元は\n水浸しになった∥<$12>
 <CLEAR><$1C><$4B>
-'s feet\n
-were submerged in water!
+ felt their feet\n
+submerged in water!
 <$12><$00>
 
 
@@ -63961,24 +63966,24 @@ CONDUCTIVITY ↑
 //0393_0000010B_bin\PROG.BIN|00010D84|7411
 //<CLEAR><$1C><$41>は\n<$1C><$54>を　かばった∥<$12>
 <CLEAR><$1C><$41>
- kept 
+ prepared to cover  
 <$1C><$54>
- cover!
+!
 <$12><$00>
 
 
 //0393_0000010B_bin\PROG.BIN|00010D84|7412
 //<CLEAR><$1C><$41>は\n防御に　徹した∥<$12>
 <CLEAR><$1C><$41>
- kept guarding!
+ prioritized their defense!
 <$12><$00>
 
 
 //0393_0000010B_bin\PROG.BIN|00010D84|7413
 //<CLEAR><$1C><$41>の足元は\n炎に包まれた∥<$12>
 <CLEAR><$1C><$41>
-'s feet\n
-were engulfed in flames!
+ felt their feet\n
+engulfed in flames!
 <$12><$00>
 
 
@@ -64040,7 +64045,7 @@ and stripped off their
 //0393_0000010B_bin\PROG.BIN|00010D84|7421
 //<CLEAR><$1C><$41>は\n<$1D>に潜って　姿を隠した…
 <CLEAR><$1C><$41>
- hid themself behind 
+ hid away in the  
 <$1D>
 ... 
 <$00>
@@ -66012,8 +66017,8 @@ den
 //0394_000001C6_bin\PROG.BIN|000070CD|7545
 //<CLEAR>リンダの「ビシビシ調教」能力の設定\n<$01><$1D>イヌ＿＿<$0E>　<$01><$1D>オオカミ<$0E>　<$01><$1D>イルカ＿<$0E>\n<$01><$1D>ワシ＿＿<$0E>　<$01><$1D>コブラ＿<$0E>　<$01><$1D>ゾウ＿＿<$0E>
 <CLEAR>
-Use Linda's "Warden" Tech:\n
-
+//Use Linda's "Warden" Tech:\n
+Use Linda's "Tamer" Tech:\n
 <$01><$1D>
 Dog 
 <$0E><$01><$1D>

@@ -70,6 +70,7 @@ GetSpecialSpace:
 .definelabel LoadSpriteToVRAM, 0x8006ef14
 .definelabel DisplaySprite, 0x8006f388
 .definelabel HideSprite, 0x8006ce9c
+.definelabel PlayVoice, 0x80020d9c
 
 ;.org 0x80048be4
 	;ORI     800c3364 (v0), 00000000 (r0), 0008 (8),
@@ -150,8 +151,11 @@ GetSpecialSpace:
 ;.org 0x800214c8
 ;	j LoadAudioSubsTest
 
- .org 0x80020e5c
-	j LoadAudioSubsTest
+.org 0x80020e5c
+	j DrawAudioSub
+
+.org 0x8002107c
+	jal InitAudioSubtitle
 
 
 
@@ -159,12 +163,12 @@ GetSpecialSpace:
 .importobj "code\linda\obj\loadfile.obj"
 .importobj "code\linda\obj\text.obj"
 
-LoadAudioSubsTest:
+DrawAudioSub:
 	addiu sp, sp, -8
 	sw a0, 0(sp)
 	sw a1, 4(sp)
 	
-	jal TestLoadSubtitle
+	jal DrawAudioSubtitle
 	nop
 	
 	lw a0, 0(sp)

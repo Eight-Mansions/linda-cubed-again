@@ -1,5 +1,37 @@
 #include "subtitle.h"
 
+//This code is not needed at all but leaving it in here for reference if anyone wants to see a proper way to load files from CD :)
+//while ((CdReadSync(1, 0)) > 0);
+
+//const char* filename = "TEST.TIM";	
+//u_long fileinfo = GetFileInfo(filename);
+
+//u_int sector = *(u_int*)(fileinfo + 0x10);
+//u_int size = *(u_int*)(fileinfo + 0x14);
+
+//CdlLOC loc;
+//CdIntToPos(sector, &loc);
+//CdControl(CdlSetloc, (u_char*)&loc, 0);
+
+//CdRead((size + 2047) / 2048, (u_long*)0x801DD000, CdlModeSpeed);
+//while ((CdReadSync(1, 0)) > 0);
+
+////if (fileinfo != 0)
+////{
+////	LoadFile(*(int*)(fileinfo + 0x10), filepos, *(int*)(fileinfo + 0x14));
+////}
+//
+//TIM_IMAGE tim;
+//GetTimInfo((uint32_t*)0x801DD000, &tim);
+//RECT rect;
+//setRECT(&rect, 512, 288, tim.prect->w, tim.prect->h);
+//LoadImage(&rect, tim.paddr);
+
+//u_char param[4];
+//param[0] = 0xC8; // Not sure what combo of commands this is but its needed for audio...
+//CdControl(CdlSetmode, param, 0);
+
+
 const u8 widths[] =
 {
 		0x09, // A
@@ -206,54 +238,37 @@ int GetTimInfo(const uint32_t* tim, TIM_IMAGE* info) {
 	return 0;
 }
 #define GetPtrULong(x)	*((u_long*)(x))
-void TestLoadSubtitle()
-{
-	((uint32_t*)0x800b90fc)[0] = 4;
-	((uint16_t*)0x800b8e94)[0] = 0x43;
-	((uint16_t*)0x800b8e9c)[0] = 0x34;
-	((uint16_t*)0x800b95d0)[0] = 16;
-	uint32_t id = LoadSpriteToVRAM();
 
-	// Turn our graphic off (I would use the actual function but they hard coded the script position to pull the damn value)
-	uint32_t flagPos = id << 2;
+static u32 subId = 0;
+void DrawAudioSubtitle()
+{
+	uint32_t flagPos = subId << 2;
 	flagPos += 0x800c28d4;
 
-	((uint32_t*)flagPos)[0] = 0x07;
+	((uint32_t*)flagPos)[0] = 0x06;
+}
 
+void InitAudioSubtitle(u32 param1, u32 param2)
+{
+	if (param1 == 0x360)
+	{
+		((uint32_t*)0x800b90fc)[0] = 4;
+		((uint16_t*)0x800b8e94)[0] = 0x43;
+		((uint16_t*)0x800b8e9c)[0] = 0x34;
+		((uint16_t*)0x800b95d0)[0] = 16;
+		subId = LoadSpriteToVRAM();
 
-	/*((uint32_t*)0x800b8e54)[0] = id;
-	HideSprite(0x800b94b4, 0x0C);*/
+		// Turn our graphic off (I would use the actual function but they hard coded the script position to pull the damn value)
+		uint32_t flagPos = subId << 2;
+		flagPos += 0x800c28d4;
 
+		((uint32_t*)flagPos)[0] = 7;
 
-	//while ((CdReadSync(1, 0)) > 0);
+		uint32_t layerPos = 0x800bc9f0 + subId;
+		((u8*)layerPos)[0] = 7;
+	}
 
-	//const char* filename = "TEST.TIM";	
-	//u_long fileinfo = GetFileInfo(filename);
-
-	//u_int sector = *(u_int*)(fileinfo + 0x10);
-	//u_int size = *(u_int*)(fileinfo + 0x14);
-
-	//CdlLOC loc;
-	//CdIntToPos(sector, &loc);
-	//CdControl(CdlSetloc, (u_char*)&loc, 0);
-
-	//CdRead((size + 2047) / 2048, (u_long*)0x801DD000, CdlModeSpeed);
-	//while ((CdReadSync(1, 0)) > 0);
-
-	////if (fileinfo != 0)
-	////{
-	////	LoadFile(*(int*)(fileinfo + 0x10), filepos, *(int*)(fileinfo + 0x14));
-	////}
-	//
-	//TIM_IMAGE tim;
-	//GetTimInfo((uint32_t*)0x801DD000, &tim);
-	//RECT rect;
-	//setRECT(&rect, 512, 288, tim.prect->w, tim.prect->h);
-	//LoadImage(&rect, tim.paddr);
-
-	//u_char param[4];
-	//param[0] = 0xC8; // Not sure what combo of commands this is but its needed for audio...
-	//CdControl(CdlSetmode, param, 0);
+	PlayVoice(param1, param2);
 }
 
 void InitMovieSubtitle(const char* videoname)

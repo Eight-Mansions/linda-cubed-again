@@ -1628,7 +1628,7 @@ DEF
 
 //<CLEAR>セレクトボタンで解説が出ます<$00>
 <CLEAR>
-SELECT: Details
+SELECT button: Details
 <$00>
 
 
@@ -1687,7 +1687,7 @@ is strictly prohibited!
 <$0E><$02>
 216
 <$06><$1E><$04>
-x 
+ anmls.
 <$00>
 
 
@@ -1713,14 +1713,14 @@ Crafting the
  \n
 will cost 
 <$1D><$06><$1E><$04><$14>
-￥.\n
+￥ .\n
 
 <$01>
 Okay
 <$0E>
  / 
 <$01>
-Wait
+Back
 <$0E><$00>
 
 
@@ -1762,11 +1762,12 @@ Camp / Menu
 
 //<CLEAR><$06>スタートボタン<$04>でカーソルを「開始」に移動<$11>240<CLEAR>もう１度<$06>スタートボタン<$04>で野営実行<$11>240<$07><$00>
 <CLEAR>
-START: Highlight "Okay!"
+START button: Highlight "Okay!"
 <$11>
 240
 <CLEAR>
-START: Begin camping!
+START button: Begin\n
+camping!
 <$11>
 240
 <$07><$00>
@@ -1824,7 +1825,7 @@ Forger
 <$0E>
 　
 <$01><$1D>
-Warden
+Tamer
 <$0E><$00>
 
 

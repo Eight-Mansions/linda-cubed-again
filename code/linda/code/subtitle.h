@@ -11,14 +11,11 @@ static subtitle_displayed currSub = {};
 extern "C" {
 	void InitVoiceSubtitle(const char* audioname);
 
-	void DrawAudioSubtitle();
-
 	void InitMovieSubtitle(const char* videoname);
 
 	void ResetMovieSubtitle();
 
 	void DrawMovieSubtitle(RECT* area, u8* image, u8* font, u32 curFrame);
-	void TestLoadSubtitle();
 
 	extern int LoadImage(RECT* rect, u_long* p);
 	
@@ -31,5 +28,11 @@ extern "C" {
 	static int movieSubIdx = -1;
 
 	static int audioSubIdx = -1;
+
+	extern void PlayVoice(u32 param1, u32 param2);
+
+	void InitAudioSubtitle(u32 param1, u32 param2);
+
+	void DrawAudioSubtitle();
 }
 #endif

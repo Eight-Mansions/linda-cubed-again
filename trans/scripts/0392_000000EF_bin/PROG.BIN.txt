@@ -95,20 +95,21 @@ Memo
 
 //<CLEAR><$15><$57>未登録で未捕獲＿…………………<$15><$52>赤<$11>240<CLEAR><$15><$57>未登録で捕獲済み＿………………<$15><$59>黄<$11>240<CLEAR><$15><$57>登録済み＿…………………………白<$11>240<CLEAR><$15><$57>絶対捕獲不可＿……………………<$15><$4B>黒<$11>240<$07><$00>
 <CLEAR><$15><$57>
-RED: Not captured
+RED-- Not captured
 <$15><$52><$11>
 240
 <CLEAR><$15><$57>
-YELLOW: Captured, unfiled
+YELLOW-- Captured,\n
+unfiled
 <$15><$59><$11>
 240
 <CLEAR><$15><$57>
-WHITE:\n
-Filed!
+WHITE-- Filed!
 <$11>
 240
 <CLEAR><$15><$57>
-BLACK: Cannot be captured!
+BLACK-- Cannot be\n
+captured!
 <$15><$4B><$11>
 240
 <$07><$00>
@@ -116,7 +117,7 @@ BLACK: Cannot be captured!
 
 //<CLEAR><$15><$57>セレクトボタンで解説が出ます<$11>240<CLEAR>Ｌ／Ｒボタンで情報を切り換えます<$11>240<$07><$00>
 <CLEAR><$15><$57>
-SELECT: Details
+SELECT button: Details
 <$11>
 240
 <CLEAR>
@@ -347,7 +348,7 @@ Trapper
 
 
 //ビシバシ調教<$00>
-Warden
+Tamer
 <$00>
 
 
@@ -1800,20 +1801,21 @@ Equippable in trek+combat
 
 //<CLEAR><$15><$57>未登録で未捕獲＿…………………<$15><$52>赤<$11>240<CLEAR><$15><$57>未登録で捕獲済み＿………………<$15><$59>黄<$11>240<CLEAR><$15><$57>登録済み＿…………………………白<$11>240<CLEAR><$15><$57>絶対捕獲不可＿……………………<$15><$4B>黒<$11>240<$07><$00>
 <CLEAR><$15><$57>
-RED: Not captured
+RED-- Not captured
 <$15><$52><$11>
 240
 <CLEAR><$15><$57>
-YELLOW: Captured, unfiled
+YELLOW-- Captured,\n
+unfiled
 <$15><$59><$11>
 240
 <CLEAR><$15><$57>
-WHITE:\n
-Filed!
+WHITE-- Filed!
 <$11>
 240
 <CLEAR><$15><$57>
-BLACK: Cannot be captured!
+BLACK-- Cannot be\n
+captured!
 <$15><$4B><$11>
 240
 <$07><$00>
@@ -2349,7 +2351,7 @@ Camp to recover outdoors!
  learned the \n
 
 <$1B>
-"Warden" Tech!
+"Tamer" Tech!
 <$12><$00>
 
 
@@ -2421,7 +2423,7 @@ BP:
 
 //<$19><$31><CLEAR><$1D>の「ビシバシ調教」は\n<$1D>まで　猟犬に変えられるように\nパワーアップした∥<$12><$00>
 <$19><$31><CLEAR><CLEAR><$1D>
-'s Warden skills broke\n
+'s Tamer skills broke\n
 
 <$1D>
  enough to fight as\n
