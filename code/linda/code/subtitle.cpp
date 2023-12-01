@@ -252,9 +252,9 @@ void InitAudioSubtitle(u32 param1, u32 param2)
 {
 	if (param1 == 0x360)
 	{
-		((uint32_t*)0x800b90fc)[0] = 4;
-		((uint16_t*)0x800b8e94)[0] = 0x43;
-		((uint16_t*)0x800b8e9c)[0] = 0x34;
+		((uint32_t*)0x800b90fc)[0] = 2; // Multiplier
+		((uint16_t*)0x800b8e94)[0] = 0x36; // x
+		((uint16_t*)0x800b8e9c)[0] = 0x08; // y
 		((uint16_t*)0x800b95d0)[0] = 16;
 		subId = LoadSpriteToVRAM();
 
