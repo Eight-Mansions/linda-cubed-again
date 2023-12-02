@@ -152,6 +152,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="code\font.cpp" />
+    <ClCompile Include="code\generated_audio.cpp" />
     <ClCompile Include="code\generated_movie.cpp" />
     <ClCompile Include="code\loadfile.cpp" />
     <ClCompile Include="code\platform.cpp" />

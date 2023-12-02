@@ -6,8 +6,6 @@
 #include "generated.h"
 #include "generated.h"
 
-static subtitle_displayed currSub = {};
-
 extern "C" {
 	void InitVoiceSubtitle(const char* audioname);
 

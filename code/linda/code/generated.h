@@ -3,27 +3,28 @@
 
 #include "platform.h"
 
-struct subtitle_part {
-	const char* text;
-	const u8 len;
-	const u16 displayTime;
+struct AudioSubtitlePart {
+	const u8 graphicId;
+	const u8 generatedId;
+	const u16 startFrame;
+	const u16 endFrame;
 	const u8 x;
 	const u8 y;
 };
-struct subtitle {
+struct AudioSubtitle {
 	const i32 id;
 	const u8 partsCount;
-	const subtitle_part* parts;
+	const AudioSubtitlePart* parts;
 };
-struct subtitle_displayed {
-	const subtitle_part* parts;
+struct AudioSubtitleDisplayed {
+	const AudioSubtitlePart* parts;
 	u8 partsCount;
 	u8 nextPartIdx;
 	u8 ticksTilNext;
 };
 
-extern const u32 subsCount;
-extern const subtitle subs[];
+extern const u32 audioSubtitlesCount;
+extern const AudioSubtitle subs[];
 
 struct MovieSubtitlePart {
 	const char* text;
