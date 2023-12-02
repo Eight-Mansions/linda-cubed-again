@@ -5,7 +5,7 @@
 
 struct AudioSubtitlePart {
 	const u8 graphicId;
-	const u8 generatedId;
+	u8 generatedId;
 	const u16 startFrame;
 	const u16 endFrame;
 	const u8 x;
@@ -14,7 +14,7 @@ struct AudioSubtitlePart {
 struct AudioSubtitle {
 	const i32 id;
 	const u8 partsCount;
-	const AudioSubtitlePart* parts;
+	AudioSubtitlePart* parts;
 };
 struct AudioSubtitleDisplayed {
 	const AudioSubtitlePart* parts;
@@ -24,7 +24,7 @@ struct AudioSubtitleDisplayed {
 };
 
 extern const u32 audioSubtitlesCount;
-extern const AudioSubtitle subs[];
+extern AudioSubtitle audioSubtitles[];
 
 struct MovieSubtitlePart {
 	const char* text;

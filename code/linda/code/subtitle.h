@@ -4,7 +4,6 @@
 #include <string.h>
 #include "platform.h"
 #include "generated.h"
-#include "generated.h"
 
 extern "C" {
 	void InitVoiceSubtitle(const char* audioname);

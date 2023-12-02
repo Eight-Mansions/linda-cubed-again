@@ -240,18 +240,35 @@ int GetTimInfo(const uint32_t* tim, TIM_IMAGE* info) {
 #define GetPtrULong(x)	*((u_long*)(x))
 
 static u32 subId = 0;
+static u32 currentAudioFrame = 0;
 void DrawAudioSubtitle()
 {
-	uint32_t flagPos = subId << 2;
-	flagPos += 0x800c28d4;
+	for (int i = 0; i < audioSubtitles[0].partsCount; i++)
+	{
+		AudioSubtitlePart current = audioSubtitles[0].parts[i];
+		if (current.startFrame <= currentAudioFrame && currentAudioFrame < current.endFrame)
+		{
+			uint32_t flagPos = current.generatedId << 2;
+			flagPos += 0x800c28d4;
+			((uint32_t*)flagPos)[0] = 0x06;
+		}
+		else
+		{
+			uint32_t flagPos = current.generatedId << 2;
+			flagPos += 0x800c28d4;
+			((uint32_t*)flagPos)[0] = 0x07;
+		}
 
-	((uint32_t*)flagPos)[0] = 0x06;
+	}
+	currentAudioFrame++;
 }
 
 void InitAudioSubtitle(u32 param1, u32 param2)
 {
 	if (param1 == 0x360)
 	{
+		currentAudioFrame = 0;
+
 		((uint32_t*)0x800b90fc)[0] = 2; // Multiplier
 		((uint16_t*)0x800b8e94)[0] = 0x36; // x
 		((uint16_t*)0x800b8e9c)[0] = 0x08; // y
@@ -266,6 +283,12 @@ void InitAudioSubtitle(u32 param1, u32 param2)
 
 		uint32_t layerPos = 0x800bc9f0 + subId;
 		((u8*)layerPos)[0] = 7;
+
+		for (int i = 0; i < audioSubtitles[0].partsCount; i++)
+		{
+			audioSubtitles[0].parts[i].generatedId = subId;
+		}
+
 	}
 
 	PlayVoice(param1, param2);

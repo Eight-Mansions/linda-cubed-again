@@ -2,6 +2,7 @@
 .open "cd\linda\LINDA\SUBTITLES.DAT",0x801D0000
 	.importobj "code\linda\obj\subtitle.obj"
 	.importobj "code\linda\obj\generated_movie.obj"
+	.importobj "code\linda\obj\generated_audio.obj"
 SubFont:
 	.incbin "font\sub_font.bin" ; Font used for subtitles
 
