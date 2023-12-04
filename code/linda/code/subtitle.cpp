@@ -267,25 +267,26 @@ void InitAudioSubtitle(u32 param1, u32 param2)
 {
 	if (param1 == 0x360)
 	{
-		currentAudioFrame = 0;
-
-		((uint32_t*)0x800b90fc)[0] = 2; // Multiplier
-		((uint16_t*)0x800b8e94)[0] = 0x36; // x
-		((uint16_t*)0x800b8e9c)[0] = 0x08; // y
-		((uint16_t*)0x800b95d0)[0] = 16;
-		subId = LoadSpriteToVRAM();
-
-		// Turn our graphic off (I would use the actual function but they hard coded the script position to pull the damn value)
-		uint32_t flagPos = subId << 2;
-		flagPos += 0x800c28d4;
-
-		((uint32_t*)flagPos)[0] = 7;
-
-		uint32_t layerPos = 0x800bc9f0 + subId;
-		((u8*)layerPos)[0] = 7;
-
 		for (int i = 0; i < audioSubtitles[0].partsCount; i++)
 		{
+			currentAudioFrame = 0;
+
+			((uint32_t*)0x800b90fc)[0] = 2; // Multiplier
+			((uint16_t*)0x800b8e94)[0] = 0x36; // x
+			((uint16_t*)0x800b8e9c)[0] = 0x08; // y
+			((uint16_t*)0x800b95d0)[0] = 16;
+			subId = LoadSpriteToVRAM();
+
+			// Turn our graphic off (I would use the actual function but they hard coded the script position to pull the damn value)
+			uint32_t flagPos = subId << 2;
+			flagPos += 0x800c28d4;
+
+			((uint32_t*)flagPos)[0] = 7;
+
+			uint32_t layerPos = 0x800bc9f0 + subId;
+			((u8*)layerPos)[0] = 7;
+
+
 			audioSubtitles[0].parts[i].generatedId = subId;
 		}
 
