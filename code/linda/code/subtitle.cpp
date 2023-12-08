@@ -267,14 +267,18 @@ void InitAudioSubtitle(u32 param1, u32 param2)
 {
 	if (param1 == 0x360)
 	{
+		int id = 16;
 		for (int i = 0; i < audioSubtitles[0].partsCount; i++)
 		{
+			AudioSubtitlePart sub = audioSubtitles[0].parts[i];
+
 			currentAudioFrame = 0;
 
 			((uint32_t*)0x800b90fc)[0] = 2; // Multiplier
-			((uint16_t*)0x800b8e94)[0] = 0x36; // x
-			((uint16_t*)0x800b8e9c)[0] = 0x08; // y
-			((uint16_t*)0x800b95d0)[0] = 16;
+			((uint16_t*)0x800b8e94)[0] = sub.x; // x
+			((uint16_t*)0x800b8e9c)[0] = sub.y; // y
+			((uint16_t*)0x800b95d0)[0] = id;
+			id++;
 			subId = LoadSpriteToVRAM();
 
 			// Turn our graphic off (I would use the actual function but they hard coded the script position to pull the damn value)

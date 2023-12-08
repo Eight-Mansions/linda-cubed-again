@@ -845,7 +845,17 @@ tools\linda_tim2obj.exe orig\0391_00000181_bin\OPEN5.D.OBJ graphics\0391_0000018
 tools\linda_file_compress.exe ins\0391_00000181_bin\OPEN5.D.OBJ ins\0391_00000181_bin\OPEN5.OBJ
 tools\linda_tim2obj.exe orig\0391_00000181_bin\OPEN6.D.OBJ graphics\0391_00000181_bin\OPEN6.tim ins\0391_00000181_bin\OPEN6.D.OBJ
 tools\linda_file_compress.exe ins\0391_00000181_bin\OPEN6.D.OBJ ins\0391_00000181_bin\OPEN6.OBJ
-copy graphics\0391_00000181_bin\CONGRA.OBJ ins\0391_00000181_bin\CONGRA.OBJ
+
+tools\linda_tim2obj.exe graphics\0391_00000181_bin\SUB_TEMP.D.OBJ graphics\0391_00000181_bin\00.tim ins\0391_00000181_bin\00.D.OBJ
+tools\linda_file_compress.exe ins\0391_00000181_bin\00.D.OBJ ins\0391_00000181_bin\00.OBJ
+tools\linda_tim2obj.exe graphics\0391_00000181_bin\SUB_TEMP.D.OBJ graphics\0391_00000181_bin\01.tim ins\0391_00000181_bin\01.D.OBJ
+tools\linda_file_compress.exe ins\0391_00000181_bin\01.D.OBJ ins\0391_00000181_bin\01.OBJ
+tools\linda_tim2obj.exe graphics\0391_00000181_bin\SUB_TEMP.D.OBJ graphics\0391_00000181_bin\02.tim ins\0391_00000181_bin\02.D.OBJ
+tools\linda_file_compress.exe ins\0391_00000181_bin\02.D.OBJ ins\0391_00000181_bin\02.OBJ
+tools\linda_tim2obj.exe graphics\0391_00000181_bin\SUB_TEMP.D.OBJ graphics\0391_00000181_bin\03.tim ins\0391_00000181_bin\03.D.OBJ
+tools\linda_file_compress.exe ins\0391_00000181_bin\03.D.OBJ ins\0391_00000181_bin\03.OBJ
+tools\linda_tim2obj.exe graphics\0391_00000181_bin\SUB_TEMP.D.OBJ graphics\0391_00000181_bin\04.tim ins\0391_00000181_bin\04.D.OBJ
+tools\linda_file_compress.exe ins\0391_00000181_bin\04.D.OBJ ins\0391_00000181_bin\04.OBJ
 
 REM -------------------------
 
