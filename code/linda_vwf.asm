@@ -68,7 +68,10 @@ GetSpecialSpace:
 .definelabel CdControl, 0x8007de28
 .definelabel CdRead, 0x8007da98
 .definelabel CdIntToPos, 0x8007e254
+.definelabel CdPause, 0x8002158c
 .definelabel LoadSpriteToVRAM, 0x8006ef14
+.definelabel RemoveSprite, 0x8001ae78
+.definelabel RemoveSprite2, 0x800646f8
 .definelabel DisplaySprite, 0x8006f388
 .definelabel HideSprite, 0x8006ce9c
 .definelabel PlayVoice, 0x80020d9c
@@ -157,7 +160,9 @@ GetSpecialSpace:
 
 .org 0x8002107c
 	jal InitAudioSubtitle
-
+	
+.org 0x8002158c
+	j ResetAudioSub
 
 
 .org 0x800B8290	
@@ -180,6 +185,14 @@ LoadSubs:
 	jal LoadSubtitles
 	la a0, 0x801D0000
 	j 0x80016784
+	nop
+	
+ResetAudioSub:
+	jal 0x8007de28
+	nop
+	jal ResetAudioSubtitle
+	nop
+	j 0x80021594
 	nop
 
 GetLetWidth:

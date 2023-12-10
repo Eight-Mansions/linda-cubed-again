@@ -22,6 +22,12 @@ extern "C" {
 	
 	extern void HideSprite(uint32_t someAddr, uint32_t command);
 
+	extern void RemoveSprite(u32 id);
+	
+	extern void RemoveSprite2(u32 id, u32 unk1);
+
+	void ResetAudioSubtitle();
+
 	static int movieSubIdx = -1;
 
 	static int audioSubIdx = -1;
