@@ -246,16 +246,18 @@ void InitAudioSubtitle(u32 param1, u32 param2)
 {
 	if (param1 == 0x360)
 	{
+		audioSubIdx = 0;
 		int id = 16;
-		for (int i = 0; i < audioSubtitles[0].partsCount; i++)
+		AudioSubtitle subtitles = audioSubtitles[audioSubIdx];
+		for (int i = 0; i < subtitles.partsCount; i++)
 		{
-			AudioSubtitlePart sub = audioSubtitles[0].parts[i];
+			AudioSubtitlePart part = subtitles.parts[i];
 
 			currentAudioFrame = 0;
 
 			((uint32_t*)0x800b90fc)[0] = 2; // Multiplier
-			((uint16_t*)0x800b8e94)[0] = sub.x; // x
-			((uint16_t*)0x800b8e9c)[0] = sub.y; // y
+			((uint16_t*)0x800b8e94)[0] = part.x; // x
+			((uint16_t*)0x800b8e9c)[0] = part.y; // y
 			((uint16_t*)0x800b95d0)[0] = id;
 			id++;
 			subId = LoadSpriteToVRAM();
@@ -272,7 +274,7 @@ void InitAudioSubtitle(u32 param1, u32 param2)
 			((u8*)layerPos)[0] = 7;
 
 
-			audioSubtitles[0].parts[i].generatedId = subId;
+			audioSubtitles[audioSubIdx].parts[i].generatedId = subId;
 		}
 
 	}
@@ -282,42 +284,50 @@ void InitAudioSubtitle(u32 param1, u32 param2)
 
 void DrawAudioSubtitle()
 {
-	for (int i = 0; i < audioSubtitles[0].partsCount; i++)
+	if (audioSubIdx >= 0)
 	{
-		AudioSubtitlePart current = audioSubtitles[0].parts[i];
-		if (current.startFrame <= currentAudioFrame && currentAudioFrame < current.endFrame)
+		for (int i = 0; i < audioSubtitles[audioSubIdx].partsCount; i++)
 		{
-			uint32_t flagPos = current.generatedId << 2;
-			flagPos += 0x800c28d4;
-			((uint32_t*)flagPos)[0] = 0x06;
-		}
-		else
-		{
-			uint32_t flagPos = current.generatedId << 2;
-			flagPos += 0x800c28d4;
-			((uint32_t*)flagPos)[0] = 0x07;
-		}
+			AudioSubtitlePart current = audioSubtitles[audioSubIdx].parts[i];
+			if (current.startFrame <= currentAudioFrame && currentAudioFrame < current.endFrame)
+			{
+				uint32_t flagPos = current.generatedId << 2;
+				flagPos += 0x800c28d4;
+				((uint32_t*)flagPos)[0] = 0x06;
+			}
+			else
+			{
+				uint32_t flagPos = current.generatedId << 2;
+				flagPos += 0x800c28d4;
+				((uint32_t*)flagPos)[0] = 0x07;
+			}
 
+		}
+		currentAudioFrame++;
 	}
-	currentAudioFrame++;
 }
 
 void ResetAudioSubtitle()
 {
-	for (int i = 0; i < audioSubtitles[0].partsCount; i++)
+	if (audioSubIdx >= 0)
 	{
-		u32 generatedId = audioSubtitles[0].parts[i].generatedId;
-		RemoveSprite2(generatedId, 0);
-		RemoveSprite(generatedId);
-		
+		for (int i = 0; i < audioSubtitles[audioSubIdx].partsCount; i++)
+		{
+			u32 generatedId = audioSubtitles[audioSubIdx].parts[i].generatedId;
+			RemoveSprite2(generatedId, 0);
+			RemoveSprite(generatedId);
 
-		uint32_t flagPos = generatedId << 2;
-		flagPos += 0x800c28d4;
 
-		((uint32_t*)flagPos)[0] = 0;
+			uint32_t flagPos = generatedId << 2;
+			flagPos += 0x800c28d4;
 
-		uint32_t layerPos = 0x800bc9f0 + generatedId;
-		((u8*)layerPos)[0] = 0;
+			((uint32_t*)flagPos)[0] = 0;
+
+			uint32_t layerPos = 0x800bc9f0 + generatedId;
+			((u8*)layerPos)[0] = 0;
+		}
+
+		audioSubIdx = -1;
 	}
 }
 
