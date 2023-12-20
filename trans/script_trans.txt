@@ -1174,7 +1174,8 @@ Linda mimicked a few animal calls.
 
 //0000_0000072A_bin\PROG.BIN|000064EF|180
 //ケンは　目立たないように\n気配を殺した
-Ken masked the party to avoid detection.
+Ken masked the party to avoid\n
+detection.
 <$00>
 
 
@@ -1199,7 +1200,8 @@ Ken used the Neutralizer.
 
 //0000_0000072A_bin\PROG.BIN|000064EF|184
 //ケンは　「シャニルＮｏ５」を\n自分にふりかけた
-Ken sprinkled the Chanel No. 5 over himself.
+Ken sprinkled the Chanel No. 5 over\n
+himself.
 <$00>
 
 
@@ -1222,7 +1224,8 @@ Sniff... sniff, sniff?
 \n
 
 <CLEAR>
-None of the scents around here stand out.
+None of the scents around here stand\n
+out.
 <$12><$00>
 
 
@@ -21257,14 +21260,14 @@ Anglerfish
 
 //0075_0000526D_bin\PROG.BIN|00000C1D|2655
 //<$1D>の<$1D>を　<$1E>頭、\nどうしても　今期中に仕入れたいんだ<$12>
-I'm hoping to net the\n
+I'm hoping to net the rumored\n
 <$1D> 
  
 <$1D>
 (x
 <$1E>
 )\n
-this time around.
+ticket item this time around.
 <$12><$00>
 
 
@@ -21442,9 +21445,9 @@ Our next
 //0075_0000526D_bin\PROG.BIN|00001307|2676
 //<CLEAR><$1D>＿<$1E>頭<$12>
 <CLEAR><$1D>
- 
+(x 
 <$1E>
-x 
+)
 <$12><$00>
 
 
@@ -21469,14 +21472,13 @@ Now starting at
 //0075_0000526D_bin\PROG.BIN|00001307|2679
 //<CLEAR><$1D>　<$1E>頭\n<$1D><$06><$1E><$14><$04>￥で　<$1D>が落札∥<$12>
 <CLEAR><$1D>
-　
+　(x
 <$1E>
-x\n
-
+) for 
 <$1D><$06><$1E><$14><$04>
-￥ for the 
+￥?\NGoing once, going twice and... SOLD!\NThe item goes to 
 <$1D>
-, and sold!
+!
 <$12><$00>
 
 
@@ -21494,7 +21496,7 @@ Congratulations!
 x\n
 Bid: 
 <$1D><$1E><$14>
-￥
+￥  
 <$1D>
 \n
 Ken: 
@@ -48570,8 +48572,8 @@ us. So? Let's go make our OWN chances!
 
 //0309_00005526_bin\PROG.BIN|0000130D|5658
 //宇宙暦をサ、ＡＭＤっていうじゃない\nあれ何の略だか　考えたことある？<$12>\n<CLEAR>アフター　マザーズ　デス、直訳すると\n母の死後なんだけど　ここでいう母は\n地球のことを　意味しているそうよ<$12>\n<CLEAR>…もちろん　殺したのは人間\nその日から　私たちは故郷を失って\nずっと　逃げ回ってるってわけね<$12>
-Have you ever wondered what the
-"AMD" prefix befor a year stands for?
+Have you ever wondered what the "AMD" prefix\n
+before the written year stands for?
 <$12>
 \n
 
@@ -50834,12 +50836,11 @@ back to normal!
 
 //0327_00005917_bin\PROG.BIN|00002F33|5870
 //あたしら、ビースチャンや動物たちは\n大地の底で生まれて　井戸を通って\n地上に　上ってきたってね…<$12>\n<CLEAR>年寄りの中には　今でも本気で\nそう信じてる人が　いるみたいね<$12>
-I heard that, as us Beastians were born,\n
-we crawled with the animals from the\n
-center of the earth up through a well.\n
+I heard that, as we Beastians were born,\n
+we crawled with the animals out from the\n
+center of the earth up through a well.
 <$12>
 \n
-
 <CLEAR>
 And there are still old people\n
 out there who actually believe that...

@@ -256,7 +256,7 @@ Anglerfish
 
 
 //<$1D>の<$1D>を　<$1E>頭、\nどうしても　今期中に仕入れたいんだ<$12><$00>
-I'm hoping to net the\n
+I'm hoping to net the rumored\n
 
 <$1D>
   
@@ -264,7 +264,7 @@ I'm hoping to net the\n
 (x
 <$1E>
 )\n
-this time around.
+ticket item this time around.
 <$12><$00>
 
 
@@ -442,9 +442,9 @@ M%03dF.OBJ<$00>
 
 //<CLEAR><$1D>＿<$1E>頭<$12><$00>
 <CLEAR><$1D>
- 
+(x 
 <$1E>
-x 
+)
 <$12><$00>
 
 
@@ -466,14 +466,14 @@ Now starting at
 
 //<CLEAR><$1D>　<$1E>頭\n<$1D><$06><$1E><$14><$04>￥で　<$1D>が落札∥<$12><$00>
 <CLEAR><$1D>
-　
+　(x
 <$1E>
-x\n
-
+) for 
 <$1D><$06><$1E><$14><$04>
-￥ for the 
+￥?\NGoing once, going twice and...\n
+SOLD!\NThe item goes to 
 <$1D>
-, and sold!
+!
 <$12><$00>
 
 
@@ -492,7 +492,7 @@ Congratulations!
 x\n
 Bid: 
 <$1D><$1E><$14>
-￥
+￥  
 <$1D>
 \n
 Ken: 
@@ -570,7 +570,8 @@ Sniff... sniff, sniff?
 \n
 
 <CLEAR>
-None of the scents around here stand out.
+None of the scents around here stand\n
+out.
 <$12><$00>
 
 
