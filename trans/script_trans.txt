@@ -513,7 +513,7 @@ START button: Highlight "Okay!"
 <$11>
 240
 <CLEAR>
-START button: Begin camping!
+Press again to camp!
 <$11>
 240
 <$07><$00>
@@ -1316,7 +1316,10 @@ L
 0<$02>8<$05>1\n
 <$03>24<$05>
 02\n
-<$03>40<$05>
+
+<$03>
+40
+<$05>
 03\n
 <$03>56<$05>
 04\n
@@ -5036,13 +5039,15 @@ BP:
 
 //0032_00003664_bin\PROG.BIN|00009194|782
 //オス
-♂s
+//auctiondialogue
+♂
 <$00>
 
 
 //0032_00003664_bin\PROG.BIN|00009194|783
 //メス
-♀s
+//auctiondialogue
+♀
 <$00>
 
 
@@ -9347,7 +9352,6 @@ Balance:
 <$06><$1E><$04>
 ￥\n
 What will you repay?\n
-
 <$1E>
 40￥→
 <$01><$1E>
@@ -50679,7 +50683,7 @@ our champion's previous score?
 //0326_000058D1_bin\PROG.BIN|000010E8|5862
 //<CLEAR>テクニカル　メリット\n<$06><$1E>.<$1E><$11>30  <$1E>.<$1E><$11>30  <$1E>.<$1E><$11>30  <$1E>.<$1E><$11>30  <$1E>.<$1E><$11>30  <$1E>.<$1E><$04>∥<$11>60\n続きまして…<$12>
 <CLEAR>
-Technical Merit:\n<$06><$1E>.<$1E><$11>30  <$1E>.<$1E><$11>30  <$1E>.<$1E><$11>30  <$1E>.<$1E><$11>30  <$1E>.<$1E><$11>30  <$1E>.<$1E><$04>∥<$11>60!\nNext...
+Technical Merit:\n<$06><$1E>.<$1E><$11>30  <$1E>.<$1E><$11>30  <$1E>.<$1E><$11>30  <$1E>.<$1E><$11>30  <$1E>.<$1E><$11>30  <$1E>.<$1E><$04><$11>60!\nNext...
 <$12><$00>
 
 
@@ -61625,7 +61629,7 @@ Camp to recover outdoors!
 //0392_000000EF_bin\PROG.BIN|00007F01|7102
 //<$19><$31><CLEAR><$1D>は　野営中に\n動物から　食料を自分で作る\n「食料加工」の能力を　身につけた∥<$12>
 <$19><$31><CLEAR><$1D>
- learned the \n
+ learned the\n
 "Butcher" Tech!
 <$12><$00>
 
@@ -61633,7 +61637,7 @@ Camp to recover outdoors!
 //0392_000000EF_bin\PROG.BIN|00007F01|7103
 //<$19><$31><CLEAR><$1D>は　野営中に\n動物から　装備を自分で作る\n「装備加工」の能力を　身につけた∥<$12>
 <$19><$31><CLEAR><$1D>
- learned the \n
+ learned the\n
 "Forger" Tech!
 <$12><$00>
 
@@ -61641,7 +61645,7 @@ Camp to recover outdoors!
 //0392_000000EF_bin\PROG.BIN|00007F01|7104
 //<$19><$31><CLEAR><$1D>は　道具や動物の\n値段を見抜く「値踏み」の\n能力を　身につけた∥<$12>
 <$19><$31><CLEAR><$1D>
- learned the \n
+ learned the\n
 "Appraiser" Tech!
 <$12><$00>
 
@@ -61649,7 +61653,7 @@ Camp to recover outdoors!
 //0392_000000EF_bin\PROG.BIN|00007F01|7105
 //<$19><$31><CLEAR><$1D>は　夜襲を受けても\nすぐ目が覚める「飛び起き」の\n能力を　身につけた∥<$12>
 <$19><$31><CLEAR><$1D>
- learned the \n
+ learned the\n
 "Night Owl" Tech!
 <$12><$00>
 
@@ -61657,7 +61661,7 @@ Camp to recover outdoors!
 //0392_000000EF_bin\PROG.BIN|00007F01|7106
 //<$19><$31><CLEAR><$1D>は　何を食べても\nゼンゼン平気な「鉄の胃袋」の\n能力を　身につけた∥<$12>
 <$19><$31><CLEAR><$1D>
- learned the \n
+ learned the\n
 "Glutton" Tech!
 <$12><$00>
 
@@ -61665,7 +61669,7 @@ Camp to recover outdoors!
 //0392_000000EF_bin\PROG.BIN|00007F01|7107
 //<$19><$31><CLEAR><$1D>は　動物の臭いを\nかぎわける「<$1B>イヌの嗅覚」の\n能力を　身につけた∥<$12>
 <$19><$31><CLEAR><$1D>
- learned the \n
+ learned the\n
 "Bloodhound" Tech!
 <$12><$00>
 
@@ -61673,7 +61677,7 @@ Camp to recover outdoors!
 //0392_000000EF_bin\PROG.BIN|00007F01|7108
 //<$19><$31><CLEAR><$1D>は　何の根拠もない\n「女の勘」の能力を\n身につけて　強気になった∥<$12>
 <$19><$31><CLEAR><$1D>
- learned the \n
+ learned the\n
 "Perceiver" Tech!
 <$12><$00>
 
@@ -61681,7 +61685,7 @@ Camp to recover outdoors!
 //0392_000000EF_bin\PROG.BIN|00007F01|7109
 //<$19><$31><CLEAR><$1D>は　野営中に\n動物捕獲用のワナを　自分で作る\n「ワナ製作」の能力を　身につけた∥<$12>
 <$19><$31><CLEAR><$1D>
- learned the \n
+ learned the\n
 "Trapper" Tech!
 <$12><$00>
 
@@ -61689,9 +61693,7 @@ Camp to recover outdoors!
 //0392_000000EF_bin\PROG.BIN|00007F01|7110
 //<$19><$31><CLEAR><$1D>は　野営中に　<$1B>イヌを\n猟犬に変える「ビシバシ調教」の\n能力を　身につけた∥<$12>
 <$19><$31><CLEAR><$1D>
- learned the \n
-
-<$1B>
+ learned the\n
 //"Warden" Tech!
 "Tamer" Tech!
 <$12><$00>
@@ -61700,8 +61702,7 @@ Camp to recover outdoors!
 //0392_000000EF_bin\PROG.BIN|00007F01|7111
 //<$19><$31><CLEAR><$1D>は　戦闘中の能力\n「<$1D>」を\n身につけた∥<$12>
 <$19><$31><CLEAR><$1D>
- learned \n
-
+ learned\n
 <$1D>
 !
 <$12><$00>
@@ -63756,7 +63757,8 @@ filled the air 2 times!\n
 <CLEAR><$1C><$41>
  sicced 
 <$1C><$54>
- on the enemy!
+\n
+on the enemy!
 <$12><$00>
 
 

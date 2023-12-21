@@ -13,7 +13,14 @@ AudioSubtitlePart sub0_parts[] = {
 	{16, 0, 877, 1189, 70, 74},
 };
 
-const u32 audioSubtitlesCount = 1;
+//\audio_subs\na118.ass | You're wrong!
+//\audio_subs\na118.ass | It wasn't Linda!
+AudioSubtitlePart sub1_parts[] = {
+	{18, 0, 0, 195, 70, 74},
+};
+
+const u32 audioSubtitlesCount = 2;
 AudioSubtitle audioSubtitles[] = {
 	{-567507063, 5, sub0_parts},
+	{-1622984812, 1, sub1_parts},
 };
