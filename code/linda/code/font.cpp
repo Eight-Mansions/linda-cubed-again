@@ -216,6 +216,10 @@ u8 GetLetterWidth(const u8 letterWidths[], u8 defaultWidth)
 		{
 			return 0x03;
 		}
+		else if (currentLetter == 0x8161)
+		{
+			return 0x04;
+		}
 		else if (currentLetter >= 0x824F && currentLetter <= 0x8258) // SJIS 0 - 9
 		{
 			u32 idx = currentLetter - 0x821F;
