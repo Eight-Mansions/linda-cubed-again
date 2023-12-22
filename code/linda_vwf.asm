@@ -52,8 +52,35 @@ GetSpecialSpace:
 	j 0x8004cc64
 	addiu sp, sp, 12
 	
+SetShopBuyCountLetter:
+	jal 0x800485a0
+	nop
 	
-
+	jal SetLetter
+	addiu a0, r0, 0x80
+	
+	j 0x8004ab48
+	nop
+	
+SetBankingLetter:
+	jal 0x800485a0
+	nop
+	
+	jal SetLetter
+	addiu a0, r0, 0x80
+	
+	j 0x8004a9f8
+	nop
+	
+ResetVWFStat:
+	jal ResetVWFStatus
+	nop
+	
+	jal 0x800150a0
+	nop
+	
+	j 0x80015390
+	nop
 .close
 
 .open "exe\SCPS_100.39",0x80010800
@@ -102,6 +129,9 @@ GetSpecialSpace:
 .org 0x8002279c
 	j DisplayMovieSubs
 	
+.org 0x80015388
+	j ResetVWFStat
+	
 .org 0x80048c34
 	j SetLetterWidthForSmallLetter
 	
@@ -121,6 +151,12 @@ GetSpecialSpace:
 .org 0x8004ccd8 ; Run code to get baby letter width
 	j SetBabyLetWidth
 	nop
+	
+.org 0x8004ab40
+	j SetShopBuyCountLetter
+	
+.org 0x8004a9f0
+	j SetBankingLetter
 	
 .org 0x80048adc	; Get current baby letter width
 	j GetBabyLetWidth

@@ -15,6 +15,8 @@ extern "C" {
 	u16 GetBabyLetterWidth(u16 defaultWidth);
 
 	u16 GetSpaceWidth();
+
+	void ResetVWFStatus();
 }
 
 #endif

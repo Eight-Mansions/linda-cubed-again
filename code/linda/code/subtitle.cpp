@@ -244,11 +244,11 @@ static u32 currentAudioFrame = 0;
 
 void InitAudioSubtitle(u32 param1, u32 param2)
 {
-	if (param1 == 0x360)
+	if (param1 == 0x56)
 	{
-		audioSubIdx = 0;
-		int id = 16;
+		audioSubIdx = 1;
 		AudioSubtitle subtitles = audioSubtitles[audioSubIdx];
+		int id = subtitles.parts[0].graphicId;		
 		for (int i = 0; i < subtitles.partsCount; i++)
 		{
 			AudioSubtitlePart part = subtitles.parts[i];
@@ -271,7 +271,7 @@ void InitAudioSubtitle(u32 param1, u32 param2)
 			((uint32_t*)flagPos)[0] = 7;
 
 			uint32_t layerPos = 0x800bc9f0 + subId;
-			((u8*)layerPos)[0] = 7;
+			((u8*)layerPos)[0] = 20;
 
 
 			audioSubtitles[audioSubIdx].parts[i].generatedId = subId;

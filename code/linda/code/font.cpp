@@ -256,3 +256,9 @@ u16 GetSpaceWidth()
 		return 8; // The only "special" ones are 8 wide.
 	}
 }
+
+void ResetVWFStatus()
+{
+	vwfOn = true;
+	return;
+}
