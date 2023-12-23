@@ -81,6 +81,22 @@ ResetVWFStat:
 	
 	j 0x80015390
 	nop
+
+SetGenderSymbolLetter:
+	addiu sp, sp, -8
+	sw a0, 0(sp)
+	sw a1, 4(sp)
+		
+	jal SetLetter
+	addiu a0, r0, 0x80
+	
+	lw a0, 0(sp)
+	lw a1, 4(sp)
+	jal 0x8004b7cc
+	addiu sp, sp, 8
+	
+	j 0x8004c87c
+	nop
 .close
 
 .open "exe\SCPS_100.39",0x80010800
@@ -157,6 +173,9 @@ ResetVWFStat:
 	
 .org 0x8004a9f0
 	j SetBankingLetter
+	
+.org 0x8004c874
+	j SetGenderSymbolLetter
 	
 .org 0x80048adc	; Get current baby letter width
 	j GetBabyLetWidth
