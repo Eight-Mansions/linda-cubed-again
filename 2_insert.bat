@@ -1,8 +1,7 @@
 del LINDA.MIC
 del error.txt
-del /q /s ins\prog.bin
-del /q ins\*.bin
-xcopy /e orig\*.BIN ins
+del /q /s ins\*
+xcopy /e orig\* ins
 echo mic\0000_0000072A_bin\PROG.BIN >> error.txt
 tools\atlas ins\0000_0000072A_bin\PROG.BIN trans\scripts\0000_0000072A_bin\PROG.BIN.txt >> error.txt
 echo mic\0001_0000078E_bin\PROG.BIN >> error.txt
