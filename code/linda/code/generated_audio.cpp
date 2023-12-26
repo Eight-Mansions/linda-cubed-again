@@ -7,10 +7,10 @@
 //\audio_subs\na1055.ass | who fought to save\nevery species on their\nhome planet.
 AudioSubtitlePart sub0_parts[] = {
 	{16, 0, 0, 195, 70, 74},
-	{16, 0, 243, 406, 70, 74},
-	{16, 0, 406, 617, 70, 74},
-	{16, 0, 617, 877, 70, 74},
-	{16, 0, 877, 1189, 70, 74},
+	{17, 0, 243, 406, 70, 74},
+	{18, 0, 406, 617, 70, 74},
+	{19, 0, 617, 877, 70, 74},
+	{20, 0, 877, 1189, 70, 74},
 };
 
 //\audio_subs\na118.ass | You're wrong!
@@ -21,6 +21,6 @@ AudioSubtitlePart sub1_parts[] = {
 
 const u32 audioSubtitlesCount = 2;
 AudioSubtitle audioSubtitles[] = {
-	{-567507063, 5, sub0_parts},
-	{-1622984812, 1, sub1_parts},
+	{864, 5, sub0_parts},
+	{86, 1, sub1_parts},
 };
