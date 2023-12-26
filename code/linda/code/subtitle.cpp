@@ -248,11 +248,10 @@ void InitAudioSubtitle(u32 param1, u32 param2)
 		AudioSubtitle* subtitles = &audioSubtitles[i];
 		if (subtitles->id == param1)
 		{
-			
+			audioSubIdx = i;
 			int graphicId = subtitles->parts[0].graphicId;
 			for (int j = 0; j < subtitles->partsCount; j++)
 			{
-				audioSubIdx = i;
 				AudioSubtitlePart* part = &subtitles->parts[j];
 
 				((uint32_t*)0x800b90fc)[0] = 2; // Multiplier

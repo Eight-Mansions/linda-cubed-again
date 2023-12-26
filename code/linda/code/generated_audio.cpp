@@ -19,8 +19,14 @@ AudioSubtitlePart sub1_parts[] = {
 	{18, 0, 0, 195, 70, 74},
 };
 
-const u32 audioSubtitlesCount = 2;
+//\audio_subs\na1016.ass | Set course for J-10!\nWarp Nine... Engage!
+AudioSubtitlePart sub3_parts[] = {
+	{36, 0, 0, 552, 70, 74},
+};
+
+const u32 audioSubtitlesCount = 3;
 AudioSubtitle audioSubtitles[] = {
 	{864, 5, sub0_parts},
 	{86, 1, sub1_parts},
+	{830, 1, sub3_parts},
 };
