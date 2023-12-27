@@ -13,6 +13,7 @@ AudioSubtitlePart sub0_parts[] = {
 	{20, 0, 877, 1189, 70, 74},
 };
 
+//Church scene
 //\audio_subs\na118.ass | You're wrong!
 //\audio_subs\na118.ass | It wasn't Linda!
 AudioSubtitlePart sub1_parts[] = {
@@ -20,7 +21,7 @@ AudioSubtitlePart sub1_parts[] = {
 };
 
 //\audio_subs\na1016.ass | Set course for J-10!\nWarp Nine... Engage!
-AudioSubtitlePart sub3_parts[] = {
+AudioSubtitlePart sub2_parts[] = {
 	{36, 0, 0, 552, 70, 74},
 };
 
@@ -28,5 +29,5 @@ const u32 audioSubtitlesCount = 3;
 AudioSubtitle audioSubtitles[] = {
 	{864, 5, sub0_parts},
 	{86, 1, sub1_parts},
-	{830, 1, sub3_parts},
+	{830, 1, sub2_parts}
 };
