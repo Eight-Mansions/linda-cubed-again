@@ -955,9 +955,9 @@ tools\linda_tim2obj.exe graphics\0005_00000922_bin\SUB_TEMP.D.OBJ graphics\0005_
 tools\linda_file_compress.exe ins\0005_00000922_bin\00.D.OBJ ins\0005_00000922_bin\00.OBJ
 
 del ins\0061_00004981_bin\list.txt
-del ins\0061_00004981_bin\BLANK
+del ins\0061_00004981_bin\BLANK.OBJ
 copy graphics\0061_00004981_bin\list.txt ins\0061_00004981_bin\list.txt
-copy graphics\0061_00004981_bin\BLANK ins\0061_00004981_bin\BLANK
+copy graphics\0061_00004981_bin\BLANK.OBJ ins\0061_00004981_bin\BLANK.OBJ
 tools\linda_tim2obj.exe graphics\0061_00004981_bin\SUB_TEMP.D.OBJ graphics\0061_00004981_bin\00.tim ins\0061_00004981_bin\00.D.OBJ
 tools\linda_file_compress.exe ins\0061_00004981_bin\00.D.OBJ ins\0061_00004981_bin\00.OBJ
 
