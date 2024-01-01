@@ -35,14 +35,30 @@ AudioSubtitlePart sub4_parts[] = {
 	{43, 0, 0, 113, 70, 74},
 };
 
+//\audio_subs\na1668.ass | This is for No. 1.
+//\audio_subs\na1668.ass | This is for No. 2...
+AudioSubtitlePart sub5_parts[] = {
+	{33, 0, 0, 178, 70, 16},
+	{34, 0, 269, 432, 70, 16},
+};
 
-const u32 audioSubtitlesCount = 5;
+//\audio_subs\na1709.ass | And this...
+//\audio_subs\na1709.ass | ... is for me.
+AudioSubtitlePart sub6_parts[] = {
+	{35, 0, 0, 97, 70, 16},
+	{36, 0, 113, 178, 70, 16},
+};
+
+
+const u32 audioSubtitlesCount = 7;
 AudioSubtitle audioSubtitles[] = {
 	{864, 5, sub0_parts},
 	{86, 1, sub1_parts},
 	{830, 1, sub2_parts},
 	{581, 1, sub3_parts},
 	{723, 1, sub4_parts},
+	{1390, 2, sub5_parts},
+	{1427, 2, sub6_parts},
 };
 
 
