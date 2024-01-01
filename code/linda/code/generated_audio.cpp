@@ -46,7 +46,7 @@ AudioSubtitlePart sub5_parts[] = {
 //\audio_subs\na1709.ass | ... is for me.
 AudioSubtitlePart sub6_parts[] = {
 	{35, 0, 0, 97, 70, 16},
-	{36, 0, 113, 178, 70, 16},
+	{36, 0, 113, 278, 70, 16},
 };
 
 
