@@ -955,11 +955,74 @@ tools\linda_tim2obj.exe graphics\0005_00000922_bin\SUB_TEMP.D.OBJ graphics\0005_
 tools\linda_file_compress.exe ins\0005_00000922_bin\00.D.OBJ ins\0005_00000922_bin\00.OBJ
 
 del ins\0061_00004981_bin\list.txt
-del ins\0061_00004981_bin\BLANK.OBJ
 copy graphics\0061_00004981_bin\list.txt ins\0061_00004981_bin\list.txt
 copy graphics\0061_00004981_bin\BLANK.OBJ ins\0061_00004981_bin\BLANK.OBJ
 tools\linda_tim2obj.exe graphics\0061_00004981_bin\SUB_TEMP.D.OBJ graphics\0061_00004981_bin\00.tim ins\0061_00004981_bin\00.D.OBJ
 tools\linda_file_compress.exe ins\0061_00004981_bin\00.D.OBJ ins\0061_00004981_bin\00.OBJ
+
+del ins\0138_00002907_bin\list.txt
+copy graphics\0138_00002907_bin\list.txt ins\0138_00002907_bin\list.txt
+copy graphics\0138_00002907_bin\BLANK.OBJ ins\0138_00002907_bin\BLANK.OBJ
+tools\linda_tim2obj.exe graphics\0138_00002907_bin\SUB_TEMP.D.OBJ graphics\0138_00002907_bin\00.tim ins\0138_00002907_bin\00.D.OBJ
+tools\linda_file_compress.exe ins\0138_00002907_bin\00.D.OBJ ins\0138_00002907_bin\00.OBJ
+
+del ins\0139_00002973_bin\list.txt
+copy graphics\0139_00002973_bin\list.txt ins\0139_00002973_bin\list.txt
+copy graphics\0139_00002973_bin\BLANK.OBJ ins\0139_00002973_bin\BLANK.OBJ
+tools\linda_tim2obj.exe graphics\0139_00002973_bin\SUB_TEMP.D.OBJ graphics\0139_00002973_bin\00.tim ins\0139_00002973_bin\00.D.OBJ
+tools\linda_file_compress.exe ins\0139_00002973_bin\00.D.OBJ ins\0139_00002973_bin\00.OBJ
+
+del ins\0140_000029E0_bin\list.txt
+copy graphics\0140_000029E0_bin\list.txt ins\0140_000029E0_bin\list.txt
+copy graphics\0140_000029E0_bin\BLANK.OBJ ins\0140_000029E0_bin\BLANK.OBJ
+tools\linda_tim2obj.exe graphics\0140_000029E0_bin\SUB_TEMP.D.OBJ graphics\0140_000029E0_bin\00.tim ins\0140_000029E0_bin\00.D.OBJ
+tools\linda_file_compress.exe ins\0140_000029E0_bin\00.D.OBJ ins\0140_000029E0_bin\00.OBJ
+
+del ins\0141_00002A4C_bin\list.txt
+copy graphics\0141_00002A4C_bin\list.txt ins\0141_00002A4C_bin\list.txt
+copy graphics\0141_00002A4C_bin\BLANK.OBJ ins\0141_00002A4C_bin\BLANK.OBJ
+tools\linda_tim2obj.exe graphics\0141_00002A4C_bin\SUB_TEMP.D.OBJ graphics\0141_00002A4C_bin\00.tim ins\0141_00002A4C_bin\00.D.OBJ
+tools\linda_file_compress.exe ins\0141_00002A4C_bin\00.D.OBJ ins\0141_00002A4C_bin\00.OBJ
+
+del ins\0142_00002AB8_bin\list.txt
+copy graphics\0142_00002AB8_bin\list.txt ins\0142_00002AB8_bin\list.txt
+copy graphics\0142_00002AB8_bin\BLANK.OBJ ins\0142_00002AB8_bin\BLANK.OBJ
+tools\linda_tim2obj.exe graphics\0142_00002AB8_bin\SUB_TEMP.D.OBJ graphics\0142_00002AB8_bin\00.tim ins\0142_00002AB8_bin\00.D.OBJ
+tools\linda_file_compress.exe ins\0142_00002AB8_bin\00.D.OBJ ins\0142_00002AB8_bin\00.OBJ
+
+del ins\0143_00002B25_bin\list.txt
+copy graphics\0143_00002B25_bin\list.txt ins\0143_00002B25_bin\list.txt
+copy graphics\0143_00002B25_bin\BLANK.OBJ ins\0143_00002B25_bin\BLANK.OBJ
+tools\linda_tim2obj.exe graphics\0143_00002B25_bin\SUB_TEMP.D.OBJ graphics\0143_00002B25_bin\00.tim ins\0143_00002B25_bin\00.D.OBJ
+tools\linda_file_compress.exe ins\0143_00002B25_bin\00.D.OBJ ins\0143_00002B25_bin\00.OBJ
+
+del ins\0177_00004AF9_bin\list.txt
+copy graphics\0177_00004AF9_bin\list.txt ins\0177_00004AF9_bin\list.txt
+tools\linda_tim2obj.exe graphics\0177_00004AF9_bin\SUB_TEMP.D.OBJ graphics\0177_00004AF9_bin\00.tim ins\0177_00004AF9_bin\00.D.OBJ
+tools\linda_file_compress.exe ins\0177_00004AF9_bin\00.D.OBJ ins\0177_00004AF9_bin\00.OBJ
+tools\linda_tim2obj.exe graphics\0177_00004AF9_bin\SUB_TEMP.D.OBJ graphics\0177_00004AF9_bin\01.tim ins\0177_00004AF9_bin\01.D.OBJ
+tools\linda_file_compress.exe ins\0177_00004AF9_bin\01.D.OBJ ins\0177_00004AF9_bin\01.OBJ
+tools\linda_tim2obj.exe graphics\0177_00004AF9_bin\SUB_TEMP.D.OBJ graphics\0177_00004AF9_bin\02.tim ins\0177_00004AF9_bin\02.D.OBJ
+tools\linda_file_compress.exe ins\0177_00004AF9_bin\02.D.OBJ ins\0177_00004AF9_bin\02.OBJ
+tools\linda_tim2obj.exe graphics\0177_00004AF9_bin\SUB_TEMP.D.OBJ graphics\0177_00004AF9_bin\03.tim ins\0177_00004AF9_bin\03.D.OBJ
+tools\linda_file_compress.exe ins\0177_00004AF9_bin\03.D.OBJ ins\0177_00004AF9_bin\03.OBJ
+
+del ins\0203_00006480_bin\list.txt
+copy graphics\0203_00006480_bin\list.txt ins\0203_00006480_bin\list.txt
+copy graphics\0203_00006480_bin\BLANK.OBJ ins\0203_00006480_bin\BLANK.OBJ
+tools\linda_tim2obj.exe graphics\0203_00006480_bin\SUB_TEMP.D.OBJ graphics\0203_00006480_bin\00.tim ins\0203_00006480_bin\00.D.OBJ
+tools\linda_file_compress.exe ins\0203_00006480_bin\00.D.OBJ ins\0203_00006480_bin\00.OBJ
+
+del ins\0205_000064DF_bin\list.txt
+copy graphics\0205_000064DF_bin\list.txt ins\0205_000064DF_bin\list.txt
+tools\linda_tim2obj.exe graphics\0205_000064DF_bin\SUB_TEMP.D.OBJ graphics\0205_000064DF_bin\00.tim ins\0205_000064DF_bin\00.D.OBJ
+tools\linda_file_compress.exe ins\0205_000064DF_bin\00.D.OBJ ins\0205_000064DF_bin\00.OBJ
+
+del ins\0208_00006528_bin\list.txt
+copy graphics\0208_00006528_bin\list.txt ins\0208_00006528_bin\list.txt
+tools\linda_tim2obj.exe graphics\0208_00006528_bin\SUB_TEMP.D.OBJ graphics\0208_00006528_bin\00.tim ins\0208_00006528_bin\00.D.OBJ
+tools\linda_file_compress.exe ins\0208_00006528_bin\00.D.OBJ ins\0208_00006528_bin\00.OBJ
+
 
 tools\linda_build_bins.exe
 tools\linda_mic_rebuild.exe

@@ -25,9 +25,18 @@ AudioSubtitlePart sub2_parts[] = {
 	{36, 0, 0, 552, 70, 74},
 };
 
+//\audio_subs\na706.ass | 3, 2, 1, GO!
+AudioSubtitlePart sub3_parts[] = {
+	{28, 0, 0, 195, 70, 74},
+};
+
+
 const u32 audioSubtitlesCount = 3;
 AudioSubtitle audioSubtitles[] = {
 	{864, 5, sub0_parts},
 	{86, 1, sub1_parts},
-	{830, 1, sub2_parts}
+	{830, 1, sub2_parts},
+	{581, 1, sub3_parts},
 };
+
+
