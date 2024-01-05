@@ -6,6 +6,8 @@
 extern "C" {
 	static bool vwfOn = true;
 
+	static bool kana2romajiOn = true;
+
 	static u32 currentLetter = 0;
 
 	void SetLetter(const u32 letter);
@@ -17,6 +19,12 @@ extern "C" {
 	u16 GetSpaceWidth();
 
 	void ResetVWFStatus();
+
+	void Katakana2ARomajii(u32 letter, u32 unk1);
+
+	void DrawLetter(u32 letter, u32 unk1);
+
+	void TurnOffKatakana2Romaji();
 }
 
 #endif

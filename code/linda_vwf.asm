@@ -3,6 +3,7 @@
 	.importobj "code\linda\obj\subtitle.obj"
 	.importobj "code\linda\obj\generated_movie.obj"
 	.importobj "code\linda\obj\generated_audio.obj"
+	.importobj "code\linda\obj\text.obj"
 SubFont:
 	.incbin "font\sub_font.bin" ; Font used for subtitles
 
@@ -118,6 +119,7 @@ SetGenderSymbolLetter:
 .definelabel DisplaySprite, 0x8006f388
 .definelabel HideSprite, 0x8006ce9c
 .definelabel PlayVoice, 0x80020d9c
+.definelabel DrawLetter, 0x800485a0
 
 ;.org 0x80048be4
 	;ORI     800c3364 (v0), 00000000 (r0), 0008 (8),
@@ -147,6 +149,12 @@ SetGenderSymbolLetter:
 	
 .org 0x80015388
 	j ResetVWFStat
+	
+.org 0x8004cb68
+	jal Katakana2ARomajii
+
+.org 0x8004c678
+	j TurnOffKana2Romaji
 	
 .org 0x80048c34
 	j SetLetterWidthForSmallLetter
@@ -222,8 +230,6 @@ SetGenderSymbolLetter:
 
 .org 0x800B8290	
 .importobj "code\linda\obj\loadfile.obj"
-.importobj "code\linda\obj\text.obj"
-
 DrawAudioSub:
 	jal 0x8001f7c4
 	nop
@@ -268,6 +274,7 @@ GetLetWidth:
 SetLetterWidthForLargeLetter:
 	jal SetLetter
 	lhu a0, 0x002c(sp)
+	
 	j 0x8004ca4c
 	nop
 	
@@ -299,6 +306,12 @@ GetLetterWidthForLargeLetter:
 	addiu sp, sp, 8
 	j 0x800489d8
 	sh v0, 0x0028(sp)
+	
+TurnOffKana2Romaji:
+	jal TurnOffKatakana2Romaji
+	nop
+	j 0x8004c6a8
+	nop
 	
 InitMovieSub:
 	addiu sp, sp, -4
