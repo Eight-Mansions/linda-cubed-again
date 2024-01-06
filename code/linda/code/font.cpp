@@ -284,6 +284,11 @@ void TurnOffKatakana2Romaji()
 	kana2romajiOn = false;
 }
 
+void TurnOnKatakana2Romaji()
+{
+	kana2romajiOn = true;
+}
+
 void Katakana2ARomajii(u32 letter, u32 unk1)
 {
 	if (kana2romajiOn && (letter >= 0x8340 && letter <= 0x8394))

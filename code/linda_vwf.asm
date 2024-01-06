@@ -153,8 +153,11 @@ SetGenderSymbolLetter:
 .org 0x8004cb68
 	jal Katakana2ARomajii
 
-.org 0x8004c678
+.org 0x8004bff0
 	j TurnOffKana2Romaji
+
+.org 0x8004c25c
+	j TurnOnKana2Romaji
 	
 .org 0x80048c34
 	j SetLetterWidthForSmallLetter
@@ -310,9 +313,17 @@ GetLetterWidthForLargeLetter:
 TurnOffKana2Romaji:
 	jal TurnOffKatakana2Romaji
 	nop
-	j 0x8004c6a8
+	jal 0x80048cdc
 	nop
-	
+	j 0x8004bff8
+	nop
+
+TurnOnKana2Romaji:
+	jal TurnOnKatakana2Romaji
+	nop
+	j 0x8004c8a0
+	nop
+
 InitMovieSub:
 	addiu sp, sp, -4
 	sw a0, 0(sp)

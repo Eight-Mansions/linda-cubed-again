@@ -25,6 +25,8 @@ extern "C" {
 	void DrawLetter(u32 letter, u32 unk1);
 
 	void TurnOffKatakana2Romaji();
+
+	void TurnOnKatakana2Romaji();
 }
 
 #endif
