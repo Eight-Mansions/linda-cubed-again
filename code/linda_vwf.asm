@@ -17,7 +17,7 @@ SetBabyLetWidth:
 	
 	lw a0, 4(sp)
 	lw a1, 8(sp)
-	jal 0x800485a0
+	jal Katakana2ARomajii
 	addiu sp, sp, 8
 	
 	j 0x8004CCE0
@@ -152,7 +152,7 @@ SetGenderSymbolLetter:
 	
 .org 0x8004cb68
 	jal Katakana2ARomajii
-
+	
 .org 0x8004bff0
 	j TurnOffKana2Romaji
 
@@ -161,9 +161,6 @@ SetGenderSymbolLetter:
 	
 .org 0x80048c34
 	j SetLetterWidthForSmallLetter
-	
-.org 0x8004ccd8
-	jal GetLetWidth
 	
 .org 0x8004c9e8
 	j SetLetterWidthForLargeLetter
@@ -258,21 +255,6 @@ ResetAudioSub:
 	nop
 	j 0x80021594
 	nop
-
-GetLetWidth:
-	addiu sp, sp, -20
-	sw ra, 0(sp)
-	sw a0, 4(sp)
-	sw a1, 8(sp)
-	jal SetLetter
-	sw v0, 12(sp)
-	
-	lw ra, 0(sp)
-	lw a0, 4(sp)
-	lw a1, 8(sp)
-	lw v0, 12(sp)
-	j 0x800485a0
-	addiu sp, sp, 20
 	
 SetLetterWidthForLargeLetter:
 	jal SetLetter
