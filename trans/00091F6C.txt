@@ -6288,8 +6288,12 @@ Winter
 <$00><$00>
 
 #JMP($000A82B0)
-Allied 
+ally  
 <$00>
+
+//Increase copy size of ally
+#JMP($0002DC94)
+5
 
 #JMP($00000FDC)
 Ken's party
