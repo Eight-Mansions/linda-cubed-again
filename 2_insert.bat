@@ -829,20 +829,20 @@ tools\atlas ins\0411_00003562_bin\PROG.BIN trans\scripts\0411_00003562_bin\PROG.
 echo mic\0412_0000358B_bin\PROG.BIN >> error.txt
 tools\atlas ins\0412_0000358B_bin\PROG.BIN trans\scripts\0412_0000358B_bin\PROG.BIN.txt >> error.txt
 
-tools\linda_tim2obj.exe orig\0391_00000181_bin\JOKEN.D.OBJ graphics\0391_00000181_bin\JOKEN.tim ins\0391_00000181_bin\JOKEN.D.OBJ
+tools\linda_cube_again_png2obj.exe orig\0391_00000181_bin\JOKEN.D.OBJ graphics\0391_00000181_bin\JOKEN.png ins\0391_00000181_bin\JOKEN.D.OBJ
 tools\linda_file_compress.exe orig\0391_00000181_bin\JOKEN.D.OBJ ins\0391_00000181_bin\JOKEN.OBJ
 
-tools\linda_tim2obj.exe orig\0391_00000181_bin\OPEN1.D.OBJ graphics\0391_00000181_bin\OPEN1.tim ins\0391_00000181_bin\OPEN1.D.OBJ
+tools\linda_cube_again_png2obj.exe orig\0391_00000181_bin\OPEN1.D.OBJ graphics\0391_00000181_bin\OPEN1.png ins\0391_00000181_bin\OPEN1.D.OBJ
 tools\linda_file_compress.exe ins\0391_00000181_bin\OPEN1.D.OBJ ins\0391_00000181_bin\OPEN1.OBJ
-tools\linda_tim2obj.exe orig\0391_00000181_bin\OPEN2.D.OBJ graphics\0391_00000181_bin\OPEN2.tim ins\0391_00000181_bin\OPEN2.D.OBJ
+tools\linda_cube_again_png2obj.exe orig\0391_00000181_bin\OPEN2.D.OBJ graphics\0391_00000181_bin\OPEN2.png ins\0391_00000181_bin\OPEN2.D.OBJ
 tools\linda_file_compress.exe ins\0391_00000181_bin\OPEN2.D.OBJ ins\0391_00000181_bin\OPEN2.OBJ
-tools\linda_tim2obj.exe orig\0391_00000181_bin\OPEN3.D.OBJ graphics\0391_00000181_bin\OPEN3.tim ins\0391_00000181_bin\OPEN3.D.OBJ
+tools\linda_cube_again_png2obj.exe orig\0391_00000181_bin\OPEN3.D.OBJ graphics\0391_00000181_bin\OPEN3.png ins\0391_00000181_bin\OPEN3.D.OBJ
 tools\linda_file_compress.exe ins\0391_00000181_bin\OPEN3.D.OBJ ins\0391_00000181_bin\OPEN3.OBJ
-tools\linda_tim2obj.exe orig\0391_00000181_bin\OPEN4.D.OBJ graphics\0391_00000181_bin\OPEN4.tim ins\0391_00000181_bin\OPEN4.D.OBJ
+tools\linda_cube_again_png2obj.exe orig\0391_00000181_bin\OPEN4.D.OBJ graphics\0391_00000181_bin\OPEN4.png ins\0391_00000181_bin\OPEN4.D.OBJ
 tools\linda_file_compress.exe ins\0391_00000181_bin\OPEN4.D.OBJ ins\0391_00000181_bin\OPEN4.OBJ
-tools\linda_tim2obj.exe orig\0391_00000181_bin\OPEN5.D.OBJ graphics\0391_00000181_bin\OPEN5.tim ins\0391_00000181_bin\OPEN5.D.OBJ
+tools\linda_cube_again_png2obj.exe orig\0391_00000181_bin\OPEN5.D.OBJ graphics\0391_00000181_bin\OPEN5.png ins\0391_00000181_bin\OPEN5.D.OBJ
 tools\linda_file_compress.exe ins\0391_00000181_bin\OPEN5.D.OBJ ins\0391_00000181_bin\OPEN5.OBJ
-tools\linda_tim2obj.exe orig\0391_00000181_bin\OPEN6.D.OBJ graphics\0391_00000181_bin\OPEN6.tim ins\0391_00000181_bin\OPEN6.D.OBJ
+tools\linda_cube_again_png2obj.exe orig\0391_00000181_bin\OPEN6.D.OBJ graphics\0391_00000181_bin\OPEN6.png ins\0391_00000181_bin\OPEN6.D.OBJ
 tools\linda_file_compress.exe ins\0391_00000181_bin\OPEN6.D.OBJ ins\0391_00000181_bin\OPEN6.OBJ
 
 del ins\0391_00000181_bin\list.txt
@@ -860,37 +860,40 @@ tools\linda_file_compress.exe ins\0391_00000181_bin\04.D.OBJ ins\0391_00000181_b
 
 REM -------------------------
 
-tools\linda_tim2obj.exe orig\0388_00000023_bin\JIBUN1.D.OBJ graphics\0388_00000023_bin\JIBUN1.tim ins\0388_00000023_bin\JIBUN1.D.OBJ
+tools\linda_cube_again_png2obj.exe orig\0388_00000023_bin\JIBUN1.D.OBJ graphics\0388_00000023_bin\JIBUN1.png ins\0388_00000023_bin\JIBUN1.D.OBJ
 tools\linda_file_compress.exe ins\0388_00000023_bin\JIBUN1.D.OBJ ins\0388_00000023_bin\JIBUN1.OBJ
-tools\linda_tim2obj.exe orig\0388_00000023_bin\JIBUN2.D.OBJ graphics\0388_00000023_bin\JIBUN2.tim ins\0388_00000023_bin\JIBUN2.D.OBJ
+tools\linda_cube_again_png2obj.exe orig\0388_00000023_bin\JIBUN2.D.OBJ graphics\0388_00000023_bin\JIBUN2.png ins\0388_00000023_bin\JIBUN2.D.OBJ
 tools\linda_file_compress.exe ins\0388_00000023_bin\JIBUN2.D.OBJ ins\0388_00000023_bin\JIBUN2.OBJ
-tools\linda_tim2obj.exe orig\0388_00000023_bin\JIBUN3.D.OBJ graphics\0388_00000023_bin\JIBUN3.tim ins\0388_00000023_bin\JIBUN3.D.OBJ
+tools\linda_cube_again_png2obj.exe orig\0388_00000023_bin\JIBUN3.D.OBJ graphics\0388_00000023_bin\JIBUN3.png ins\0388_00000023_bin\JIBUN3.D.OBJ
 tools\linda_file_compress.exe ins\0388_00000023_bin\JIBUN3.D.OBJ ins\0388_00000023_bin\JIBUN3.OBJ
-tools\linda_tim2obj.exe orig\0388_00000023_bin\JIBUN3A.D.OBJ graphics\0388_00000023_bin\JIBUN3A.tim ins\0388_00000023_bin\JIBUN3A.D.OBJ
+
+del ins\0388_00000023_bin\JIBUN3A.D.OBJ
+tools\linda_cube_again_png2obj.exe graphics\0388_00000023_bin\JIBUN3A.D.OBJ graphics\0388_00000023_bin\JIBUN3A.png ins\0388_00000023_bin\JIBUN3A.D.OBJ
 tools\linda_file_compress.exe ins\0388_00000023_bin\JIBUN3A.D.OBJ ins\0388_00000023_bin\JIBUN3A.OBJ
-tools\linda_tim2obj.exe orig\0388_00000023_bin\JIBUN4.D.OBJ graphics\0388_00000023_bin\JIBUN4.tim ins\0388_00000023_bin\JIBUN4.D.OBJ
+
+tools\linda_cube_again_png2obj.exe orig\0388_00000023_bin\JIBUN4.D.OBJ graphics\0388_00000023_bin\JIBUN4.png ins\0388_00000023_bin\JIBUN4.D.OBJ
 tools\linda_file_compress.exe ins\0388_00000023_bin\JIBUN4.D.OBJ ins\0388_00000023_bin\JIBUN4.OBJ
 
-tools\linda_tim2obj.exe orig\0388_00000023_bin\PUSH_O.D.OBJ graphics\0388_00000023_bin\PUSH_O.tim ins\0388_00000023_bin\PUSH_O.D.OBJ
+tools\linda_cube_again_png2obj.exe orig\0388_00000023_bin\PUSH_O.D.OBJ graphics\0388_00000023_bin\PUSH_O.png ins\0388_00000023_bin\PUSH_O.D.OBJ
 tools\linda_file_compress.exe ins\0388_00000023_bin\PUSH_O.D.OBJ ins\0388_00000023_bin\PUSH_O.OBJ
 
 REM -------------------------
 
-tools\linda_tim2obj.exe orig\0408_000000C7_bin\A21_02.D.OBJ graphics\0408_000000C7_bin\A21_02.tim ins\0408_000000C7_bin\A21_02.D.OBJ
+tools\linda_cube_again_png2obj.exe orig\0408_000000C7_bin\A21_02.D.OBJ graphics\0408_000000C7_bin\A21_02.png ins\0408_000000C7_bin\A21_02.D.OBJ
 tools\linda_file_compress.exe ins\0408_000000C7_bin\A21_02.D.OBJ ins\0408_000000C7_bin\A21_02.OBJ
-tools\linda_tim2obj.exe orig\0408_000000C7_bin\A21_03.D.OBJ graphics\0408_000000C7_bin\A21_03.tim ins\0408_000000C7_bin\A21_03.D.OBJ
+tools\linda_cube_again_png2obj.exe orig\0408_000000C7_bin\A21_03.D.OBJ graphics\0408_000000C7_bin\A21_03.png ins\0408_000000C7_bin\A21_03.D.OBJ
 tools\linda_file_compress.exe ins\0408_000000C7_bin\A21_03.D.OBJ ins\0408_000000C7_bin\A21_03.OBJ
-tools\linda_tim2obj.exe orig\0408_000000C7_bin\A21_04.D.OBJ graphics\0408_000000C7_bin\A21_04.tim ins\0408_000000C7_bin\A21_04.D.OBJ
+tools\linda_cube_again_png2obj.exe orig\0408_000000C7_bin\A21_04.D.OBJ graphics\0408_000000C7_bin\A21_04.png ins\0408_000000C7_bin\A21_04.D.OBJ
 tools\linda_file_compress.exe ins\0408_000000C7_bin\A21_04.D.OBJ ins\0408_000000C7_bin\A21_04.OBJ
-tools\linda_tim2obj.exe orig\0408_000000C7_bin\A21_05.D.OBJ graphics\0408_000000C7_bin\A21_05.tim ins\0408_000000C7_bin\A21_05.D.OBJ
+tools\linda_cube_again_png2obj.exe orig\0408_000000C7_bin\A21_05.D.OBJ graphics\0408_000000C7_bin\A21_05.png ins\0408_000000C7_bin\A21_05.D.OBJ
 tools\linda_file_compress.exe ins\0408_000000C7_bin\A21_05.D.OBJ ins\0408_000000C7_bin\A21_05.OBJ
-tools\linda_tim2obj.exe orig\0408_000000C7_bin\A21_06.D.OBJ graphics\0408_000000C7_bin\A21_06.tim ins\0408_000000C7_bin\A21_06.D.OBJ
+tools\linda_cube_again_png2obj.exe orig\0408_000000C7_bin\A21_06.D.OBJ graphics\0408_000000C7_bin\A21_06.png ins\0408_000000C7_bin\A21_06.D.OBJ
 tools\linda_file_compress.exe ins\0408_000000C7_bin\A21_06.D.OBJ ins\0408_000000C7_bin\A21_06.OBJ
-tools\linda_tim2obj.exe orig\0408_000000C7_bin\A21_07.D.OBJ graphics\0408_000000C7_bin\A21_07.tim ins\0408_000000C7_bin\A21_07.D.OBJ
+tools\linda_cube_again_png2obj.exe orig\0408_000000C7_bin\A21_07.D.OBJ graphics\0408_000000C7_bin\A21_07.png ins\0408_000000C7_bin\A21_07.D.OBJ
 tools\linda_file_compress.exe ins\0408_000000C7_bin\A21_07.D.OBJ ins\0408_000000C7_bin\A21_07.OBJ
-tools\linda_tim2obj.exe orig\0408_000000C7_bin\A23_02.D.OBJ graphics\0408_000000C7_bin\A23_02.tim ins\0408_000000C7_bin\A23_02.D.OBJ
+tools\linda_cube_again_png2obj.exe orig\0408_000000C7_bin\A23_02.D.OBJ graphics\0408_000000C7_bin\A23_02.png ins\0408_000000C7_bin\A23_02.D.OBJ
 tools\linda_file_compress.exe ins\0408_000000C7_bin\A23_02.D.OBJ ins\0408_000000C7_bin\A23_02.OBJ
-tools\linda_tim2obj.exe orig\0408_000000C7_bin\A23_02A.D.OBJ graphics\0408_000000C7_bin\A23_02A.tim ins\0408_000000C7_bin\A23_02A.D.OBJ
+tools\linda_cube_again_png2obj.exe orig\0408_000000C7_bin\A23_02A.D.OBJ graphics\0408_000000C7_bin\A23_02A.png ins\0408_000000C7_bin\A23_02A.D.OBJ
 tools\linda_file_compress.exe ins\0408_000000C7_bin\A23_02A.D.OBJ ins\0408_000000C7_bin\A23_02A.OBJ
 
 REM tools\linda_tim2obj.exe orig\0408_000000C7_bin\FONT10.D.OBJ graphics\0408_000000C7_bin\FONT10.tim ins\0408_000000C7_bin\FONT10.D.OBJ
