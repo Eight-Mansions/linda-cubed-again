@@ -1,0 +1,101 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2147551232, 32)
+
+#JMP($000002A5)
+
+// 0xAB is a space
+// 0xAA is a newline
+// 0xAC is... something (baby name?)
+
+
+//1 year later-Linda Delivers Daughter
+//<$01><$14><$AB><$15><$16><$1F><$19><$AC><$1E><$AA>
+<$01><$14><$AB><$AB><$AB><$AB><$AB><$AB><$AB><$AA>
+
+//2 years later-Eldest son born
+//<$02><$14><$AB><$1F><$18><$1E><$AA>
+<$02><$15><$AB><$AB><$AB><$AB><$AA>
+
+//3 years later-Second son born
+//	Indigenous tribe discovered
+//<$03><$14><$AB><$20><$18><$1E><$AA><$AB><$28><$5A><$29><$AA>
+<$03><$16><$AB><$AB><$AB><$AB><$AA>
+<$AB><$AB><$AB><$AB><$AA>
+
+
+//4 years later-Linda and Ken move
+//	in with indigenous tribe
+//<$04><$14><$AB><$28><$5B><$2A><$5C><$2B><$2C><$AA>
+<$04><$17><$AB><$AB><$AB><$AB><$AB><$AB><$AA><$AA>
+
+//5 years later-Third son born
+//<$05><$14><$AB><$21><$18><$1E><$AA>
+<$05><$18><$AB><$AB><$AB><$AB><$AA>
+
+//6 years later-Two daughers are born
+//	Ken bgins farming development
+//<$06><$14><$AB><$20><$19><$5A><$21><$19><$1E><$AA><$AB><$17><$16><$2D><$32><$5D><$33><$AA>
+<$06><$19><$AB><$AB><$AB><$AB><$AB><$AB><$AB><$AA>
+<$AB><$AB><$AB><$AB><$AB><$AB><$AB><$AA>
+
+//7 years later-Fourth daughter born
+//<$07><$14><$AB><$22><$19><$1E><$AA>
+<$07><$1E><$AB><$AB><$AB><$AB><$AA>
+
+//9 years later-Fifth daughter born
+//<$09><$14><$AB><$23><$19><$1E><$AA>
+<$09><$1F><$AB><$AB><$AB><$AB><$AA>
+
+//10 years later-Fourth son born
+//	LInda cultivates new wheats
+//<$0B><$0A><$14><$AB><$22><$18><$1E><$AA><$AB><$15><$16><$34><$5B><$35><$5D><$36><$AA>
+<$0B><$0A><$20><$AB><$AB><$AB><$AB><$AA>
+<$AB><$AB><$AB><$AB><$AB><$AB><$AB><$AB><$AA>
+
+//11 years later-Sixth daughter born
+//<$0B><$0B><$14><$AB><$24><$19><$1E><$AA>
+<$0B><$0B><$21><$AB><$AB><$AB><$AB><$AA>
+
+//12 years later-Ken builds water canal
+//<$0B><$0C><$14><$AB><$17><$16><$3C><$5E><$3D><$AA>
+<$0B><$0C><$22><$AB><$AB><$AB><$AB><$AB><$AB><$AA>
+
+//13 years later-Fifth son born
+//	Ken appointed chief
+//<$0B><$0D><$14><$AB><$23><$18><$1E><$AA><$AB><$17><$16><$2A><$5B><$3E><$5D><$3F><$AA>
+<$0B><$0D><$23><$AB><$AB><$AB><$AB><$AA>
+<$AB><$AB><$AB><$AB><$AB><$AB><$AB><$AB><$AA>
+
+//14 years later-Seventh daughter born
+//<$0B><$0E><$14><$AB><$25><$19><$1E><$AA>
+<$0B><$0E><$24><$AB><$AB><$AB><$AB><$AA>
+
+//16 years later-Maria marries into tribe
+//<$0B><$10><$14><$AB><$AC><$16><$28><$5A><$46><$AA>
+<$0B><$10><$28><$AB><$AB><$AB><$AB><$AB><$AB><$AA>
+
+//17 years later-Maria delivers son
+//<$0B><$11><$14><$AB><$AC><$16><$1F><$18><$1E><$AA>
+<$0B><$11><$29><$AB><$AB><$AB><$AB><$AB><$AB><$AA>
+
+//18 years later-Linda appointed chief
+//<$0B><$12><$14><$AB><$15><$16><$2A><$5B><$3E><$5D><$3F><$AA><$AA><$AA><$AA>
+<$0B><$12><$2A><$AB><$AB><$AB><$AB><$AB><$AB><$AB><$AB><$AA><$AA><$AA><$AA>
+
+//63 years-later Ken dies at 80
+//	from huntering accident
+//<$10><$0D><$14><$AB><$17><$16><$47><$5B><$48><$5F><$49><$AA><$AB><$4A><$AD><$50><$AA><$AA><$AA><$AA><$AA><$AA>
+<$10><$0D><$2B><$AB><$AB><$AB><$AB><$AB><$AB><$AB><$AB><$AA>
+<$AB><$AB><$AB><$AB><$AA><$AA><$AA><$AA><$AA><$AA>
+
+//XX years-later Linda turns 100
+//<$AE><$14><$AB><$15><$16><$0B><$0A><$0A><$50><$5B><$51><$5E><$52><$AA><$AA><$AA><$AA><$AA><$AA>
+<$AE><$2C><$AB><$AB><$AB><$AB><$AB><$AB><$AB><$AB><$AB><$AB><$AB><$AA><$AA><$AA><$AA><$AA><$AA>
+
+//XX years later-Linda dies at 102 from old age
+//<$AF><$14><$AB><$15><$16><$49><$AA><$AB><$4A><$0B><$0A><$0C><$50><$AA><$AA><$B1>
+<$AF><$2D><$AB><$AB><$AB><$AB><$AA>
+<$AB><$AB><$AB><$AB><$AB><$AB><$AA><$AA>
