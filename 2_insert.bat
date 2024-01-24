@@ -829,6 +829,11 @@ tools\atlas ins\0411_00003562_bin\PROG.BIN trans\scripts\0411_00003562_bin\PROG.
 echo mic\0412_0000358B_bin\PROG.BIN >> error.txt
 tools\atlas ins\0412_0000358B_bin\PROG.BIN trans\scripts\0412_0000358B_bin\PROG.BIN.txt >> error.txt
 
+echo mic\0408_000000C7_bin\PROG.BIN >> error.txt
+tools\atlas ins\0408_000000C7_bin\PROG.BIN trans\epilogue.txt >> error.txt
+
+
+
 tools\linda_cube_again_png2obj.exe orig\0391_00000181_bin\JOKEN.D.OBJ graphics\0391_00000181_bin\JOKEN.png ins\0391_00000181_bin\JOKEN.D.OBJ
 tools\linda_file_compress.exe orig\0391_00000181_bin\JOKEN.D.OBJ ins\0391_00000181_bin\JOKEN.OBJ
 
@@ -895,41 +900,6 @@ tools\linda_cube_again_png2obj.exe orig\0408_000000C7_bin\A23_02.D.OBJ graphics\
 tools\linda_file_compress.exe ins\0408_000000C7_bin\A23_02.D.OBJ ins\0408_000000C7_bin\A23_02.OBJ
 tools\linda_cube_again_png2obj.exe orig\0408_000000C7_bin\A23_02A.D.OBJ graphics\0408_000000C7_bin\A23_02A.png ins\0408_000000C7_bin\A23_02A.D.OBJ
 tools\linda_file_compress.exe ins\0408_000000C7_bin\A23_02A.D.OBJ ins\0408_000000C7_bin\A23_02A.OBJ
-
-REM tools\linda_cube_again_png2obj.exe orig\0408_000000C7_bin\FONT10.D.OBJ graphics\0408_000000C7_bin\FONT10.png ins\0408_000000C7_bin\FONT10.D.OBJ
-REM tools\linda_file_compress.exe ins\0408_000000C7_bin\FONT10.D.OBJ ins\0408_000000C7_bin\FONT10.OBJ
-REM tools\linda_cube_again_png2obj.exe orig\0408_000000C7_bin\FONT11.D.OBJ graphics\0408_000000C7_bin\FONT11.png ins\0408_000000C7_bin\FONT11.D.OBJ
-REM tools\linda_file_compress.exe ins\0408_000000C7_bin\FONT11.D.OBJ ins\0408_000000C7_bin\FONT11.OBJ
-REM tools\linda_cube_again_png2obj.exe orig\0408_000000C7_bin\FONT12.D.OBJ graphics\0408_000000C7_bin\FONT12.png ins\0408_000000C7_bin\FONT12.D.OBJ
-REM tools\linda_file_compress.exe ins\0408_000000C7_bin\FONT12.D.OBJ ins\0408_000000C7_bin\FONT12.OBJ
-REM tools\linda_cube_again_png2obj.exe orig\0408_000000C7_bin\FONT13.D.OBJ graphics\0408_000000C7_bin\FONT13.png ins\0408_000000C7_bin\FONT13.D.OBJ
-REM tools\linda_file_compress.exe ins\0408_000000C7_bin\FONT13.D.OBJ ins\0408_000000C7_bin\FONT13.OBJ
-REM tools\linda_cube_again_png2obj.exe orig\0408_000000C7_bin\FONT14.D.OBJ graphics\0408_000000C7_bin\FONT14.png ins\0408_000000C7_bin\FONT14.D.OBJ
-REM tools\linda_file_compress.exe ins\0408_000000C7_bin\FONT14.D.OBJ ins\0408_000000C7_bin\FONT14.OBJ
-REM tools\linda_cube_again_png2obj.exe orig\0408_000000C7_bin\FONT15.D.OBJ graphics\0408_000000C7_bin\FONT15.png ins\0408_000000C7_bin\FONT15.D.OBJ
-REM tools\linda_file_compress.exe ins\0408_000000C7_bin\FONT15.D.OBJ ins\0408_000000C7_bin\FONT15.OBJ
-REM tools\linda_cube_again_png2obj.exe orig\0408_000000C7_bin\FONT16.D.OBJ graphics\0408_000000C7_bin\FONT16.png ins\0408_000000C7_bin\FONT16.D.OBJ
-REM tools\linda_file_compress.exe ins\0408_000000C7_bin\FONT16.D.OBJ ins\0408_000000C7_bin\FONT16.OBJ
-REM tools\linda_cube_again_png2obj.exe orig\0408_000000C7_bin\FONT17.D.OBJ graphics\0408_000000C7_bin\FONT17.png ins\0408_000000C7_bin\FONT17.D.OBJ
-REM tools\linda_file_compress.exe ins\0408_000000C7_bin\FONT17.D.OBJ ins\0408_000000C7_bin\FONT17.OBJ
-REM tools\linda_cube_again_png2obj.exe orig\0408_000000C7_bin\FONT18.D.OBJ graphics\0408_000000C7_bin\FONT18.png ins\0408_000000C7_bin\FONT18.D.OBJ
-REM tools\linda_file_compress.exe ins\0408_000000C7_bin\FONT18.D.OBJ ins\0408_000000C7_bin\FONT18.OBJ
-REM tools\linda_cube_again_png2obj.exe orig\0408_000000C7_bin\FONT19.D.OBJ graphics\0408_000000C7_bin\FONT19.png ins\0408_000000C7_bin\FONT19.D.OBJ
-REM tools\linda_file_compress.exe ins\0408_000000C7_bin\FONT19.D.OBJ ins\0408_000000C7_bin\FONT19.OBJ
-REM tools\linda_cube_again_png2obj.exe orig\0408_000000C7_bin\FONT20.D.OBJ graphics\0408_000000C7_bin\FONT20.png ins\0408_000000C7_bin\FONT20.D.OBJ
-REM tools\linda_file_compress.exe ins\0408_000000C7_bin\FONT20.D.OBJ ins\0408_000000C7_bin\FONT20.OBJ
-REM tools\linda_cube_again_png2obj.exe orig\0408_000000C7_bin\FONT21.D.OBJ graphics\0408_000000C7_bin\FONT21.png ins\0408_000000C7_bin\FONT21.D.OBJ
-REM tools\linda_file_compress.exe ins\0408_000000C7_bin\FONT21.D.OBJ ins\0408_000000C7_bin\FONT21.OBJ
-REM tools\linda_cube_again_png2obj.exe orig\0408_000000C7_bin\FONT22.D.OBJ graphics\0408_000000C7_bin\FONT22.png ins\0408_000000C7_bin\FONT22.D.OBJ
-REM tools\linda_file_compress.exe ins\0408_000000C7_bin\FONT22.D.OBJ ins\0408_000000C7_bin\FONT22.OBJ
-REM tools\linda_cube_again_png2obj.exe orig\0408_000000C7_bin\FONT23.D.OBJ graphics\0408_000000C7_bin\FONT23.png ins\0408_000000C7_bin\FONT23.D.OBJ
-REM tools\linda_file_compress.exe ins\0408_000000C7_bin\FONT23.D.OBJ ins\0408_000000C7_bin\FONT23.OBJ
-REM tools\linda_cube_again_png2obj.exe orig\0408_000000C7_bin\FONT24.D.OBJ graphics\0408_000000C7_bin\FONT24.png ins\0408_000000C7_bin\FONT24.D.OBJ
-REM tools\linda_file_compress.exe ins\0408_000000C7_bin\FONT24.D.OBJ ins\0408_000000C7_bin\FONT24.OBJ
-REM tools\linda_cube_again_png2obj.exe orig\0408_000000C7_bin\FONT25.D.OBJ graphics\0408_000000C7_bin\FONT25.png ins\0408_000000C7_bin\FONT25.D.OBJ
-REM tools\linda_file_compress.exe ins\0408_000000C7_bin\FONT25.D.OBJ ins\0408_000000C7_bin\FONT25.OBJ
-REM tools\linda_cube_again_png2obj.exe orig\0408_000000C7_bin\FONT26.D.OBJ graphics\0408_000000C7_bin\FONT26.png ins\0408_000000C7_bin\FONT26.D.OBJ
-REM tools\linda_file_compress.exe ins\0408_000000C7_bin\FONT26.D.OBJ ins\0408_000000C7_bin\FONT26.OBJ
 
 tools\linda_cube_again_png2obj.exe orig\0408_000000C7_bin\MARIA1.D.OBJ graphics\0408_000000C7_bin\MARIA1.png ins\0408_000000C7_bin\MARIA1.D.OBJ
 tools\linda_file_compress.exe ins\0408_000000C7_bin\MARIA1.D.OBJ ins\0408_000000C7_bin\MARIA1.OBJ
@@ -1026,6 +996,14 @@ copy graphics\0208_00006528_bin\list.txt ins\0208_00006528_bin\list.txt
 tools\linda_tim2obj.exe graphics\0208_00006528_bin\SUB_TEMP.D.OBJ graphics\0208_00006528_bin\00.tim ins\0208_00006528_bin\00.D.OBJ
 tools\linda_file_compress.exe ins\0208_00006528_bin\00.D.OBJ ins\0208_00006528_bin\00.OBJ
 
+tools\linda_cube_again_png2obj2.exe graphics\0408_000000C7_bin\FONT12.D.OBJ graphics\0408_000000C7_bin\FONT12_OBJ ins\0408_000000C7_bin\FONT12.D.OBJ
+tools\linda_file_compress.exe ins\0408_000000C7_bin\FONT12.D.OBJ ins\0408_000000C7_bin\FONT12.OBJ
+
+tools\linda_cube_again_png2obj2.exe graphics\0408_000000C7_bin\FONT13.D.OBJ graphics\0408_000000C7_bin\FONT13_OBJ ins\0408_000000C7_bin\FONT13.D.OBJ
+tools\linda_file_compress.exe ins\0408_000000C7_bin\FONT13.D.OBJ ins\0408_000000C7_bin\FONT13.OBJ
+
+tools\linda_cube_again_png2obj2.exe graphics\0408_000000C7_bin\FONT14.D.OBJ graphics\0408_000000C7_bin\FONT14_OBJ ins\0408_000000C7_bin\FONT14.D.OBJ
+tools\linda_file_compress.exe ins\0408_000000C7_bin\FONT14.D.OBJ ins\0408_000000C7_bin\FONT14.OBJ
 
 tools\linda_build_bins.exe
 tools\linda_mic_rebuild.exe
