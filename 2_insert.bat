@@ -1005,6 +1005,15 @@ tools\linda_file_compress.exe ins\0408_000000C7_bin\FONT13.D.OBJ ins\0408_000000
 tools\linda_cube_again_png2obj2.exe graphics\0408_000000C7_bin\FONT14.D.OBJ graphics\0408_000000C7_bin\FONT14_OBJ ins\0408_000000C7_bin\FONT14.D.OBJ
 tools\linda_file_compress.exe ins\0408_000000C7_bin\FONT14.D.OBJ ins\0408_000000C7_bin\FONT14.OBJ
 
+del ins\0273_00003E4F_bin\list.txt
+copy graphics\0273_00003E4F_bin\list.txt ins\0273_00003E4F_bin\list.txt
+tools\linda_tim2obj.exe graphics\0273_00003E4F_bin\SUB_TEMP.D.OBJ graphics\0273_00003E4F_bin\00.tim ins\0273_00003E4F_bin\00.D.OBJ
+tools\linda_file_compress.exe ins\0273_00003E4F_bin\00.D.OBJ ins\0273_00003E4F_bin\00.OBJ
+tools\linda_tim2obj.exe graphics\0273_00003E4F_bin\SUB_TEMP.D.OBJ graphics\0273_00003E4F_bin\01.tim ins\0273_00003E4F_bin\01.D.OBJ
+tools\linda_file_compress.exe ins\0273_00003E4F_bin\01.D.OBJ ins\0273_00003E4F_bin\01.OBJ
+tools\linda_tim2obj.exe graphics\0273_00003E4F_bin\SUB_TEMP.D.OBJ graphics\0273_00003E4F_bin\02.tim ins\0273_00003E4F_bin\02.D.OBJ
+tools\linda_file_compress.exe ins\0273_00003E4F_bin\02.D.OBJ ins\0273_00003E4F_bin\02.OBJ
+
 tools\linda_build_bins.exe
 tools\linda_mic_rebuild.exe
 

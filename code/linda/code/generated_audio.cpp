@@ -49,16 +49,34 @@ AudioSubtitlePart sub6_parts[] = {
 	{36, 0, 113, 278, 70, 16},
 };
 
+//\audio_subs\na1545.ass | Angela!
+AudioSubtitlePart sub7_parts[] = {
+	{38, 0, 0, 97, 70, 74},
+};
 
-const u32 audioSubtitlesCount = 7;
+//\audio_subs\na1578.ass | Angelaaa!
+AudioSubtitlePart sub8_parts[] = {
+	{39, 0, 0, 130, 70, 74},
+};
+
+//\audio_subs\na1640.ass | Angelaaa! ANGELAAA!
+AudioSubtitlePart sub9_parts[] = {
+	{40, 0, 0, 325, 70, 74},
+};
+
+
+const u32 audioSubtitlesCount = 10;
 AudioSubtitle audioSubtitles[] = {
-	{864, 5, sub0_parts},
-	{86, 1, sub1_parts},
-	{830, 1, sub2_parts},
-	{581, 1, sub3_parts},
-	{723, 1, sub4_parts},
-	{1390, 2, sub5_parts},
-	{1427, 2, sub6_parts},
+	{864, 0, 5, sub0_parts},
+	{86, 0, 1, sub1_parts},
+	{830, 0, 1, sub2_parts},
+	{581, 0, 1, sub3_parts},
+	{723, 14, 1, sub4_parts},
+	{1390, 0, 2, sub5_parts},
+	{1427, 0, 2, sub6_parts},
+	{1287, 12, 1, sub7_parts},
+	{1316, 14, 1, sub8_parts},
+	{1366, 30, 1, sub9_parts},
 };
 
 

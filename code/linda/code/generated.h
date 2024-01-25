@@ -13,6 +13,7 @@ struct AudioSubtitlePart {
 };
 struct AudioSubtitle {
 	const i32 id;
+	const i32 id2;
 	const u8 partsCount;
 	AudioSubtitlePart* parts;
 };

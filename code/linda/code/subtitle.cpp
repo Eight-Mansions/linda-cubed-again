@@ -246,7 +246,7 @@ void InitAudioSubtitle(u32 param1, u32 param2)
 	for (int i = 0; i < audioSubtitlesCount; i++)
 	{
 		AudioSubtitle* subtitles = &audioSubtitles[i];
-		if (subtitles->id == param1)
+		if ((subtitles->id == param1 && subtitles->id2 == 0) || (subtitles->id == param1 && subtitles->id2 == param2))
 		{
 			audioSubIdx = i;
 			int graphicId = subtitles->parts[0].graphicId;
