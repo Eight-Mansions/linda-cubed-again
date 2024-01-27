@@ -852,16 +852,8 @@ tools\linda_file_compress.exe ins\0391_00000181_bin\OPEN6.D.OBJ ins\0391_0000018
 
 del ins\0391_00000181_bin\list.txt
 copy graphics\0391_00000181_bin\list.txt ins\0391_00000181_bin\list.txt
-tools\linda_tim2obj.exe graphics\0391_00000181_bin\SUB_TEMP.D.OBJ graphics\0391_00000181_bin\00.tim ins\0391_00000181_bin\00.D.OBJ
+tools\linda_cube_again_png2obj3.exe graphics\0391_00000181_bin\00_OBJ tools\palette.obj ins\0391_00000181_bin\00.D.OBJ
 tools\linda_file_compress.exe ins\0391_00000181_bin\00.D.OBJ ins\0391_00000181_bin\00.OBJ
-tools\linda_tim2obj.exe graphics\0391_00000181_bin\SUB_TEMP.D.OBJ graphics\0391_00000181_bin\01.tim ins\0391_00000181_bin\01.D.OBJ
-tools\linda_file_compress.exe ins\0391_00000181_bin\01.D.OBJ ins\0391_00000181_bin\01.OBJ
-tools\linda_tim2obj.exe graphics\0391_00000181_bin\SUB_TEMP.D.OBJ graphics\0391_00000181_bin\02.tim ins\0391_00000181_bin\02.D.OBJ
-tools\linda_file_compress.exe ins\0391_00000181_bin\02.D.OBJ ins\0391_00000181_bin\02.OBJ
-tools\linda_tim2obj.exe graphics\0391_00000181_bin\SUB_TEMP.D.OBJ graphics\0391_00000181_bin\03.tim ins\0391_00000181_bin\03.D.OBJ
-tools\linda_file_compress.exe ins\0391_00000181_bin\03.D.OBJ ins\0391_00000181_bin\03.OBJ
-tools\linda_tim2obj.exe graphics\0391_00000181_bin\SUB_TEMP.D.OBJ graphics\0391_00000181_bin\04.tim ins\0391_00000181_bin\04.D.OBJ
-tools\linda_file_compress.exe ins\0391_00000181_bin\04.D.OBJ ins\0391_00000181_bin\04.OBJ
 
 REM -------------------------
 
@@ -1013,6 +1005,70 @@ tools\linda_tim2obj.exe graphics\0273_00003E4F_bin\SUB_TEMP.D.OBJ graphics\0273_
 tools\linda_file_compress.exe ins\0273_00003E4F_bin\01.D.OBJ ins\0273_00003E4F_bin\01.OBJ
 tools\linda_tim2obj.exe graphics\0273_00003E4F_bin\SUB_TEMP.D.OBJ graphics\0273_00003E4F_bin\02.tim ins\0273_00003E4F_bin\02.D.OBJ
 tools\linda_file_compress.exe ins\0273_00003E4F_bin\02.D.OBJ ins\0273_00003E4F_bin\02.OBJ
+
+del ins\0153_00003BA6_bin\list.txt
+copy graphics\0153_00003BA6_bin\list.txt ins\0153_00003BA6_bin\list.txt
+tools\linda_cube_again_png2obj3.exe graphics\0153_00003BA6_bin\00_OBJ tools\palette.obj ins\0153_00003BA6_bin\00.D.OBJ
+tools\linda_file_compress.exe ins\0153_00003BA6_bin\00.D.OBJ ins\0153_00003BA6_bin\00.OBJ
+
+del ins\0158_00004136_bin\list.txt
+copy graphics\0158_00004136_bin\list.txt ins\0158_00004136_bin\list.txt
+copy graphics\0158_00004136_bin\BLANK.OBJ ins\0158_00004136_bin\BLANK.OBJ
+tools\linda_cube_again_png2obj3.exe graphics\0158_00004136_bin\00_OBJ tools\palette.obj ins\0158_00004136_bin\00.D.OBJ
+tools\linda_file_compress.exe ins\0158_00004136_bin\00.D.OBJ ins\0158_00004136_bin\00.OBJ
+
+del ins\0183_00004F74_bin\list.txt
+copy graphics\0183_00004F74_bin\list.txt ins\0183_00004F74_bin\list.txt
+copy graphics\0183_00004F74_bin\BLANK.OBJ ins\0183_00004F74_bin\BLANK.OBJ
+tools\linda_cube_again_png2obj3.exe graphics\0183_00004F74_bin\00_OBJ tools\palette.obj ins\0183_00004F74_bin\00.D.OBJ
+tools\linda_file_compress.exe ins\0183_00004F74_bin\00.D.OBJ ins\0183_00004F74_bin\00.OBJ
+
+del ins\0189_0000539D_bin\list.txt
+copy graphics\0189_0000539D_bin\list.txt ins\0189_0000539D_bin\list.txt
+copy graphics\0189_0000539D_bin\BLANK.OBJ ins\0189_0000539D_bin\BLANK.OBJ
+tools\linda_cube_again_png2obj3.exe graphics\0189_0000539D_bin\00_OBJ tools\palette.obj ins\0189_0000539D_bin\00.D.OBJ
+tools\linda_file_compress.exe ins\0189_0000539D_bin\00.D.OBJ ins\0189_0000539D_bin\00.OBJ
+
+del ins\0197_000061EF_bin\list.txt
+copy graphics\0197_000061EF_bin\list.txt ins\0197_000061EF_bin\list.txt
+copy graphics\0197_000061EF_bin\BLANK.OBJ ins\0197_000061EF_bin\BLANK.OBJ
+tools\linda_cube_again_png2obj3.exe graphics\0197_000061EF_bin\00_OBJ tools\palette.obj ins\0197_000061EF_bin\00.D.OBJ
+tools\linda_file_compress.exe ins\0197_000061EF_bin\00.D.OBJ ins\0197_000061EF_bin\00.OBJ
+
+del ins\0270_00003D23_bin\list.txt
+copy graphics\0270_00003D23_bin\list.txt ins\0270_00003D23_bin\list.txt
+copy graphics\0270_00003D23_bin\BLANK.OBJ ins\0270_00003D23_bin\BLANK.OBJ
+tools\linda_cube_again_png2obj3.exe graphics\0270_00003D23_bin\00_OBJ tools\palette.obj ins\0270_00003D23_bin\00.D.OBJ
+tools\linda_file_compress.exe ins\0270_00003D23_bin\00.D.OBJ ins\0270_00003D23_bin\00.OBJ
+tools\linda_cube_again_png2obj3.exe graphics\0270_00003D23_bin\01_OBJ tools\palette.obj ins\0270_00003D23_bin\01.D.OBJ
+tools\linda_file_compress.exe ins\0270_00003D23_bin\01.D.OBJ ins\0270_00003D23_bin\01.OBJ
+tools\linda_cube_again_png2obj3.exe graphics\0270_00003D23_bin\02_OBJ tools\palette.obj ins\0270_00003D23_bin\02.D.OBJ
+tools\linda_file_compress.exe ins\0270_00003D23_bin\02.D.OBJ ins\0270_00003D23_bin\02.OBJ
+
+
+del ins\0276_00004326_bin\list.txt
+copy graphics\0276_00004326_bin\list.txt ins\0276_00004326_bin\list.txt
+copy graphics\0276_00004326_bin\BLANK.OBJ ins\0276_00004326_bin\BLANK.OBJ
+tools\linda_cube_again_png2obj3.exe graphics\0276_00004326_bin\00_OBJ tools\palette.obj ins\0276_00004326_bin\00.D.OBJ
+tools\linda_file_compress.exe ins\0276_00004326_bin\00.D.OBJ ins\0276_00004326_bin\00.OBJ
+
+del ins\0301_000050EF_bin\list.txt
+copy graphics\0301_000050EF_bin\list.txt ins\0301_000050EF_bin\list.txt
+copy graphics\0301_000050EF_bin\BLANK.OBJ ins\0301_000050EF_bin\BLANK.OBJ
+tools\linda_cube_again_png2obj3.exe graphics\0301_000050EF_bin\00_OBJ tools\palette.obj ins\0301_000050EF_bin\00.D.OBJ
+tools\linda_file_compress.exe ins\0301_000050EF_bin\00.D.OBJ ins\0301_000050EF_bin\00.OBJ
+
+del ins\0307_000054F0_bin\list.txt
+copy graphics\0307_000054F0_bin\list.txt ins\0307_000054F0_bin\list.txt
+copy graphics\0307_000054F0_bin\BLANK.OBJ ins\0307_000054F0_bin\BLANK.OBJ
+tools\linda_cube_again_png2obj3.exe graphics\0307_000054F0_bin\00_OBJ tools\palette.obj ins\0307_000054F0_bin\00.D.OBJ
+tools\linda_file_compress.exe ins\0307_000054F0_bin\00.D.OBJ ins\0307_000054F0_bin\00.OBJ
+
+del ins\0353_0000632A_bin\list.txt
+copy graphics\0353_0000632A_bin\list.txt ins\0353_0000632A_bin\list.txt
+copy graphics\0353_0000632A_bin\BLANK.OBJ ins\0353_0000632A_bin\BLANK.OBJ
+tools\linda_cube_again_png2obj3.exe graphics\0353_0000632A_bin\00_OBJ tools\palette.obj ins\0353_0000632A_bin\00.D.OBJ
+tools\linda_file_compress.exe ins\0353_0000632A_bin\00.D.OBJ ins\0353_0000632A_bin\00.OBJ
 
 tools\linda_build_bins.exe
 tools\linda_mic_rebuild.exe

@@ -31,6 +31,7 @@ extern "C" {
 	static int movieSubIdx = -1;
 
 	static int audioSubIdx = -1;
+	static int audioPartIdx = -1;
 
 	extern void PlayVoice(u32 param1, u32 param2);
 

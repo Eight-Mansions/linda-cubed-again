@@ -257,7 +257,7 @@ void InitAudioSubtitle(u32 param1, u32 param2)
 				((uint32_t*)0x800b90fc)[0] = 2; // Multiplier
 				((uint16_t*)0x800b8e94)[0] = part->x; // x
 				((uint16_t*)0x800b8e9c)[0] = part->y; // y
-				((uint16_t*)0x800b95d0)[0] = graphicId++;
+				((uint16_t*)0x800b95d0)[0] = graphicId;
 				part->generatedId = LoadSpriteToVRAM();
 
 				((uint32_t*)0x800b90fc)[0] = 0; // Multiplier
@@ -269,6 +269,9 @@ void InitAudioSubtitle(u32 param1, u32 param2)
 
 				uint32_t layerPos = 0x800bc9f0 + part->generatedId;
 				((u8*)layerPos)[0] = 20;
+
+				uint32_t imageIdx = 0x801ee290 + (part->generatedId * 0x18);
+				((u8*)imageIdx)[0] = j;
 
 				currentAudioFrame = 0;		
 			}
