@@ -39,14 +39,14 @@ AudioSubtitlePart sub4_parts[] = {
 //\audio_subs\na1668.ass | This is for No. 2...
 AudioSubtitlePart sub5_parts[] = {
 	{33, 0, 0, 178, 27, 16},
-	{34, 0, 269, 432, 27, 16},
+	{33, 0, 269, 432, 27, 16},
 };
 
 //\audio_subs\na1709.ass | And this...
 //\audio_subs\na1709.ass | ... is for me.
 AudioSubtitlePart sub6_parts[] = {
-	{35, 0, 0, 97, 70, 16},
-	{36, 0, 113, 278, 70, 16},
+	{34, 0, 0, 97, 70, 16},
+	{34, 0, 113, 278, 70, 16},
 };
 
 //\audio_subs\na1545.ass | Angela!
