@@ -850,11 +850,6 @@ tools\linda_file_compress.exe ins\0391_00000181_bin\OPEN5.D.OBJ ins\0391_0000018
 tools\linda_cube_again_png2obj.exe orig\0391_00000181_bin\OPEN6.D.OBJ graphics\0391_00000181_bin\OPEN6.png ins\0391_00000181_bin\OPEN6.D.OBJ
 tools\linda_file_compress.exe ins\0391_00000181_bin\OPEN6.D.OBJ ins\0391_00000181_bin\OPEN6.OBJ
 
-del ins\0391_00000181_bin\list.txt
-copy graphics\0391_00000181_bin\list.txt ins\0391_00000181_bin\list.txt
-tools\linda_cube_again_png2obj3.exe graphics\0391_00000181_bin\00_OBJ tools\palette.obj ins\0391_00000181_bin\00.D.OBJ
-tools\linda_file_compress.exe ins\0391_00000181_bin\00.D.OBJ ins\0391_00000181_bin\00.OBJ
-
 REM -------------------------
 
 tools\linda_cube_again_png2obj.exe orig\0388_00000023_bin\JIBUN1.D.OBJ graphics\0388_00000023_bin\JIBUN1.png ins\0388_00000023_bin\JIBUN1.D.OBJ
@@ -996,6 +991,12 @@ tools\linda_file_compress.exe ins\0408_000000C7_bin\FONT13.D.OBJ ins\0408_000000
 
 tools\linda_cube_again_png2obj2.exe graphics\0408_000000C7_bin\FONT14.D.OBJ graphics\0408_000000C7_bin\FONT14_OBJ ins\0408_000000C7_bin\FONT14.D.OBJ
 tools\linda_file_compress.exe ins\0408_000000C7_bin\FONT14.D.OBJ ins\0408_000000C7_bin\FONT14.OBJ
+
+REM Subtitle Graphics
+del ins\0391_00000181_bin\list.txt
+copy graphics\0391_00000181_bin\list.txt ins\0391_00000181_bin\list.txt
+tools\linda_cube_again_png2obj3.exe graphics\0391_00000181_bin\NA1055_OBJ tools\palette.obj ins\0391_00000181_bin\NA1055.D.OBJ
+tools\linda_file_compress.exe ins\0391_00000181_bin\NA1055.D.OBJ ins\0391_00000181_bin\NA1055.OBJ
 
 del ins\0273_00003E4F_bin\list.txt
 copy graphics\0273_00003E4F_bin\list.txt ins\0273_00003E4F_bin\list.txt
