@@ -111,74 +111,40 @@ AudioSubtitlePart sub11_parts[] = {
 	{57, 0, 11213, 11540, 70, 74},//\audio_subs\song0.ass | O Father, carry them home
 };
 
-//\audio_subs\song1.ass | Time, time and again\nTrying and failing
-//\audio_subs\song1.ass | Tears run down your cheek\nAnd they're beautiful
-//\audio_subs\song1.ass | Linda
-//\audio_subs\song1.ass | Come over to me\nLean on my shoulder for a while
-//\audio_subs\song1.ass | Come what-ever may,\nKnow that you're everything I need
-//\audio_subs\song1.ass | Nowhere to turn, I\nWandered and wondered
-//\audio_subs\song1.ass | Longing to belong\nThat's when you found me
-//\audio_subs\song1.ass | Linda
-//\audio_subs\song1.ass | Two lost from the start\nSearching the corners of the world
-//\audio_subs\song1.ass | As long you're here\nThis is the only place I'll be
-//\audio_subs\song1.ass | Ever and always
-//\audio_subs\song1.ass | Believe me when I say\nI'm ready to
-//\audio_subs\song1.ass | Have and hold you\nTil the day that I die
-//\audio_subs\song1.ass | Through all the good times\nThrough all of the painful and the sad
-//\audio_subs\song1.ass | You gave me something\nMore than I'd ever had
-//\audio_subs\song1.ass | Aa, Linda
-//\audio_subs\song1.ass | You've made it so far\nOut on your lonesome
-//\audio_subs\song1.ass | That's all in the past\nI'll give you everything, oh
-//\audio_subs\song1.ass | Next time that you feel that\nYou have nowhere to turn
-//\audio_subs\song1.ass | Take my hand in yours\nAnd together we'll break free
-//\audio_subs\song1.ass | Ever and always
-//\audio_subs\song1.ass | Believe me when I say\nI'm ready to
-//\audio_subs\song1.ass | Have and hold you\nTil the day that I die
-//\audio_subs\song1.ass | Through all the good times\nThrough all of the painful and the sad
-//\audio_subs\song1.ass | You gave me something\nMore than I'd ever had
-//\audio_subs\song1.ass | Aa, Linda
-//\audio_subs\song1.ass | Now and forever\nYou and I can be all we wanna be
-//\audio_subs\song1.ass | Go where we want to\nSee what we wanna see
-//\audio_subs\song1.ass | After the heartache\nAfter all of the trials we overcame
-//\audio_subs\song1.ass | I'm not afraid, no
-//\audio_subs\song1.ass | Now that you've shown me love
-//\audio_subs\song1.ass | Aa, Linda
 AudioSubtitlePart sub12_parts[] = {
-	{58, 0, 1997, 2347, 70, 74},
-	{58, 0, 2347, 2635, 70, 74},
-	{58, 0, 2635, 2721, 70, 74},
-	{58, 0, 2721, 3071, 70, 74},
-	{58, 0, 3071, 3450, 70, 74},
-	{58, 0, 3450, 3790, 70, 74},
-	{58, 0, 3842, 4101, 70, 74},
-	{58, 0, 4101, 4168, 70, 74},
-	{58, 0, 4168, 4514, 70, 74},
-	{58, 0, 4514, 4871, 70, 74},
-	{58, 0, 4871, 4986, 70, 74},
-	{58, 0, 4986, 5200, 70, 74},
-	{58, 0, 5200, 5543, 70, 74},
-	{58, 0, 5579, 5954, 70, 74},
-	{58, 0, 5954, 6330, 70, 74},
-	{58, 0, 6330, 6423, 70, 74},
-	{58, 0, 7161, 7436, 70, 74},
-	{58, 0, 7537, 7899, 70, 74},
-	{58, 0, 7899, 8223, 70, 74},
-	{58, 0, 8223, 8583, 70, 74},
-	{58, 0, 8583, 8728, 70, 74},
-	{58, 0, 8728, 8941, 70, 74},
-	{58, 0, 8941, 9271, 70, 74},
-	{58, 0, 9317, 9692, 70, 74},
-	{58, 0, 9692, 10065, 70, 74},
-	{58, 0, 10065, 10223, 70, 74},
-	{58, 0, 10223, 10602, 70, 74},
-	{58, 0, 10602, 10978, 70, 74},
-	{58, 0, 10978, 11357, 70, 74},
-	{58, 0, 11357, 11482, 70, 74},
-	{58, 0, 11482, 11699, 70, 74},
-	{58, 0, 11699, 11863, 70, 74},
+	{58, 0, 1904, 2203, 70, 74},  //\audio_subs\song1.ass | Time, time and again\nTrying and failing
+	{58, 0, 2287, 2546, 70, 74},  //\audio_subs\song1.ass | Tears run down your cheek\nAnd they're beautiful
+	{58, 0, 2546, 2685, 70, 74},  //\audio_subs\song1.ass | Linda
+	{58, 0, 2705, 3026, 70, 74},  //\audio_subs\song1.ass | Come over to me\nLean on my shoulder for a while
+	{58, 0, 3026, 3396, 70, 74},  //\audio_subs\song1.ass | Come what-ever may,\nKnow that you're everything I need
+	{58, 0, 3396, 3727, 70, 74},  //\audio_subs\song1.ass | Nowhere to turn, I\nWandered and wondered
+	{58, 0, 3779, 4071, 70, 74},  //\audio_subs\song1.ass | Longing to belong\nThat's when you found me
+	{58, 0, 4071, 4159, 70, 74},  //\audio_subs\song1.ass | Linda
+	{58, 0, 4169, 4486, 70, 74},  //\audio_subs\song1.ass | Two lost from the start\nSearching the corners of the world
+	{58, 0, 4526, 4908, 70, 74},  //\audio_subs\song1.ass | As long you're here\nThis is the only place I'll be
+	{58, 0, 4908, 5024, 70, 74},  //\audio_subs\song1.ass | Ever and always
+	{58, 0, 5024, 5230, 70, 74},  //\audio_subs\song1.ass | Believe me when I say\nI'm ready to
+	{58, 0, 5230, 5600, 70, 74},  //\audio_subs\song1.ass | Have and hold you\nTil the day that I die
+	{16, 0, 5640, 6006, 70, 74},  //\audio_subs\song1.ass | Through all the good times\nThrough all of the painful and the sad
+	{16, 0, 6006, 6373, 70, 74},  //\audio_subs\song1.ass | You gave me something\nMore than I'd ever had
+	{16, 0, 6393, 6567, 70, 74},  //\audio_subs\song1.ass | Aa, Linda
+	{16, 0, 7195, 7461, 70, 74},  //\audio_subs\song1.ass | You've made it so far\nOut on your lonesome
+	{16, 0, 7562, 7935, 70, 74},  //\audio_subs\song1.ass | That's all in the past\nI'll give you everything, oh
+	{16, 0, 7935, 8320, 70, 74},  //\audio_subs\song1.ass | Next time that you feel that\nYou have nowhere to turn
+	{16, 0, 8320, 8651, 70, 74},  //\audio_subs\song1.ass | Take my hand in yours\nAnd together we'll break free	
+	{16, 0, 8651, 8817, 70, 74},  //\audio_subs\song1.ass | Ever and always
+	{16, 0, 8817, 9021, 70, 74},  //\audio_subs\song1.ass | Believe me when I say\nI'm ready to
+	{16, 0, 9021, 9378, 70, 74},  //\audio_subs\song1.ass | Have and hold you\nTil the day that I die
+	{16, 0, 9378, 9764, 70, 74},  //\audio_subs\song1.ass | Through all the good times\nThrough all of the painful and the sad
+	{16, 0, 9774, 10158, 70, 74}, //\audio_subs\song1.ass | You gave me something\nMore than I'd ever had
+	{16, 0, 10158, 10317, 70, 74},//\audio_subs\song1.ass | Aa, Linda
+	{16, 0, 10347, 10707, 70, 74},//\audio_subs\song1.ass | Now and forever\nYou and I can be all we wanna be
+	{16, 0, 10707, 11104, 70, 74},//\audio_subs\song1.ass | Go where we want to\nSee what we wanna see
+	{16, 0, 11104, 11474, 70, 74},//\audio_subs\song1.ass | After the heartache\nAfter all of the trials we overcame
+	{16, 0, 11474, 11644, 70, 74},//\audio_subs\song1.ass | I'm not afraid, no
+	{16, 0, 11644, 11858, 70, 74},//\audio_subs\song1.ass | Now that you've shown me love
+	{16, 0, 11858, 12023, 70, 74},//\audio_subs\song1.ass | Aa, Linda
 };
-
-
 
 const u32 audioSubtitlesCount = 13;
 AudioSubtitle audioSubtitles[] = {
