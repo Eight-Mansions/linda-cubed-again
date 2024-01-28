@@ -146,7 +146,12 @@ AudioSubtitlePart sub12_parts[] = {
 	{16, 0, 11858, 12023, 27, 74},//\audio_subs\song1.ass | Aa, Linda
 };
 
-const u32 audioSubtitlesCount = 13;
+//\audio_subs\na1390.ass | Linda. I love you too, more than\nanything else in the whole wide world.
+AudioSubtitlePart sub13_parts[] = {
+	{56, 0, 20, 228, 27, 74},
+};
+
+const u32 audioSubtitlesCount = 14;
 AudioSubtitle audioSubtitles[] = {
 	{864, 0, 5, sub0_parts},
 	{86, 0, 1, sub1_parts},
@@ -161,6 +166,7 @@ AudioSubtitle audioSubtitles[] = {
 	{1238, 1835, 10, sub10_parts},
 	{0, 4146, 20, sub11_parts},
 	{0, 4154, 32, sub12_parts},	
+	{1150, 20, 1, sub13_parts},	
 };
 
 
