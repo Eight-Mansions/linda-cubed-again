@@ -1038,12 +1038,10 @@ tools\linda_file_compress.exe ins\0197_000061EF_bin\00.D.OBJ ins\0197_000061EF_b
 del ins\0270_00003D23_bin\list.txt
 copy graphics\0270_00003D23_bin\list.txt ins\0270_00003D23_bin\list.txt
 copy graphics\0270_00003D23_bin\BLANK.OBJ ins\0270_00003D23_bin\BLANK.OBJ
-tools\linda_cube_again_png2obj3.exe graphics\0270_00003D23_bin\00_OBJ tools\palette.obj ins\0270_00003D23_bin\00.D.OBJ
-tools\linda_file_compress.exe ins\0270_00003D23_bin\00.D.OBJ ins\0270_00003D23_bin\00.OBJ
-tools\linda_cube_again_png2obj3.exe graphics\0270_00003D23_bin\01_OBJ tools\palette.obj ins\0270_00003D23_bin\01.D.OBJ
-tools\linda_file_compress.exe ins\0270_00003D23_bin\01.D.OBJ ins\0270_00003D23_bin\01.OBJ
-tools\linda_cube_again_png2obj3.exe graphics\0270_00003D23_bin\02_OBJ tools\palette.obj ins\0270_00003D23_bin\02.D.OBJ
-tools\linda_file_compress.exe ins\0270_00003D23_bin\02.D.OBJ ins\0270_00003D23_bin\02.OBJ
+tools\linda_cube_again_png2obj3.exe graphics\0270_00003D23_bin\SONG0_OBJ tools\palette.obj ins\0270_00003D23_bin\SONG0.D.OBJ
+tools\linda_file_compress.exe ins\0270_00003D23_bin\SONG0.D.OBJ ins\0270_00003D23_bin\SONG0.OBJ
+tools\linda_cube_again_png2obj3.exe graphics\0270_00003D23_bin\SONG1_OBJ tools\palette.obj ins\0270_00003D23_bin\SONG1.D.OBJ
+tools\linda_file_compress.exe ins\0270_00003D23_bin\SONG1.D.OBJ ins\0270_00003D23_bin\SONG1.OBJ
 
 
 del ins\0276_00004326_bin\list.txt
