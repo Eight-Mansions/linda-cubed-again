@@ -713,17 +713,23 @@ No
 
 
 //<CLEAR><$02>128Φ\n<$09>8<$02>38ただいま　フォーマット中です∥\n電源を切ったり、メモリーカードを抜いたり\n<$02>77しないでください∥<$00>
-<CLEAR><$02>
-128Φ\n
+<CLEAR>
+\n
 
+<$02>
+128Φ
 <$09>
-8
-<$02>
-38Formatting in progress... \n
-Do not remove card\n
+8\n
 
 <$02>
-77or shut off console.
+69
+<$05>
+Formatting in progress... \n
+
+<$02>
+19
+<$05>
+Do not remove card or shut off console.
 <$00>
 
 
@@ -749,10 +755,9 @@ Formatting complete!
 <$09>
 8
 <$02>
-3Checking memory card.\n
-
-<$02>
-31Please wait... 
+30
+<$05>
+Checking memory card. Please wait... 
 <$00>
 
 
@@ -841,7 +846,7 @@ HOW CAN WE HELP YOU?
 <CLEAR><$01>
 Save game 
 <$0E>
- / 
+  /  
 <$01>
 Voicemail 
 <$0E>
@@ -850,7 +855,7 @@ Voicemail
 <$01>
 NK Bank 
 <$0E>
- / 
+  /  
 <$01>
 Forecast 
 <$0E>
@@ -859,7 +864,7 @@ Forecast
 <$01>
 Lottery 
 <$0E>
- / 
+  /  
 <$01>
 Miss Helga 
 <$0E><$00>
@@ -1355,17 +1360,23 @@ No
 
 
 //<CLEAR><$02>100Φ\n<$09>8<$02>35ただいま、記録中です∥\n電源を切ったり、メモリーカードに\n<$02>21触れたりしないでください∥<$00>
-<CLEAR><$02>
-100Φ\n
+<CLEAR>
+\n
 
+<$02>
+100Φ 
 <$09>
-8
-<$02>
-35Saving in progress... \n
-Do not remove card\n
+8\n
 
 <$02>
-77or shut off console.
+69
+<$05>
+Saving in progress... \n
+
+<$02>
+19
+<$05>
+Do not remove card or shut off console.
 <$00>
 
 
@@ -1382,6 +1393,11 @@ Do not remove card\n
 
 //<CLEAR>記録しましたΨ<$00>
 <CLEAR>
+\n
+
+<$02>
+19
+<$05>
 Game saved.
 <$00>
 
@@ -1393,10 +1409,7 @@ Game saved.
 
 
 //<$06>-UNFORMAT-<$04><$00>
-<$06>
- -NOT FORMATTED-
-<$04><$00>
-
+<$06>-UNFORMAT-<$04><$00>
 
 //<$06>-ERROR-<$04><$00>
 <$06>

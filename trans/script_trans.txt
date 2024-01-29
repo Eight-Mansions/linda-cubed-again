@@ -2940,15 +2940,11 @@ No
 
 //0031_0000360C_bin\PROG.BIN|000062DF|508
 //<CLEAR><$02>128Φ\n<$09>8<$02>38ただいま　フォーマット中です∥\n電源を切ったり、メモリーカードを抜いたり\n<$02>77しないでください∥
-<CLEAR><$02>
-128Φ\n
-<$09>
-8
-<$02>
-38Formatting in progress... \n
-Do not remove card\n
-<$02>
-77or shut off console.
+<CLEAR>\n
+<$02>128Φ
+<$09>8
+\n<$02>69<$05>Formatting in progress... \n
+<$02>19<$05>Do not remove card or shut off console.
 <$00>
 
 
@@ -2970,15 +2966,10 @@ Formatting complete!
 
 //0031_0000360C_bin\PROG.BIN|000062DF|511
 //<CLEAR><$02>102Φ\n<$09>8<$02>3メモリーカードを　チェック中です\n<$02>31しばらく　お待ちください
-<CLEAR><$02>
-102Φ\n
-<$09>
-8
-<$02>
-3Checking memory card.\n
-
-<$02>
-31Please wait... 
+<CLEAR>
+<$02>102Φ\n
+<$09>8
+<$02>30<$05>Checking memory card. Please wait... 
 <$00>
 
 
@@ -3069,7 +3060,7 @@ HOW CAN WE HELP YOU?
 <CLEAR><$01>
 Save game 
 <$0E>
- / 
+  /  
 <$01>
 Voicemail 
 <$0E>
@@ -3077,7 +3068,7 @@ Voicemail
 <$01>
 NK Bank 
 <$0E>
- / 
+  /  
 <$01>
 Forecast 
 <$0E>
@@ -3085,7 +3076,7 @@ Forecast
 <$01>
 Lottery 
 <$0E>
- / 
+  /  
 <$01>
 Miss Helga 
 <$0E><$00>
@@ -3618,15 +3609,11 @@ No
 
 //0031_0000360C_bin\PROG.BIN|000062DF|575
 //<CLEAR><$02>100Φ\n<$09>8<$02>35ただいま、記録中です∥\n電源を切ったり、メモリーカードに\n<$02>21触れたりしないでください∥
-<CLEAR><$02>
-100Φ\n
-<$09>
-8
-<$02>
-35Saving in progress... \n
-Do not remove card\n
-<$02>
-77or shut off console.
+<CLEAR>\n
+<$02>100Φ 
+<$09>8
+\n<$02>69<$05>Saving in progress... \n
+<$02>19<$05>Do not remove card or shut off console.
 <$00>
 
 
@@ -3644,7 +3631,7 @@ Do not remove card\n
 //0031_0000360C_bin\PROG.BIN|000062DF|577
 //<CLEAR>記録しましたΨ
 <CLEAR>
-Game saved.
+\n<$02>19<$05>Game saved.
 <$00>
 
 
@@ -3655,7 +3642,7 @@ Game saved.
 <$04><$00>
 
 
-//0031_0000360C_bin\PROG.BIN|000062DF|579
+//0031_0000360C_bin\PROG.BIN|000062DF|5479
 //<$06>-UNFORMAT-<$04>
 <$06>
  -NOT FORMATTED-
@@ -22029,28 +22016,14 @@ PLEASE WAIT ON THE
 
 //0078_000052BB_bin\PROG.BIN|0000470C|2745
 //<$1D>→\n<$1D>→<$1D>\nこのルートで　お乗り継ぎください<$12>
-<$1D>
-→\n
-
-<$1D>
-→
-<$1D>
-\n
+<$1D>→<$1D>→<$1D>\n
 Transfer using this route.
 <$12><$00>
 
 
 //0078_000052BB_bin\PROG.BIN|0000470C|2746
 //<$1D>→<$1D>→\n<$1D>→<$1D>\nこのルートで　お乗り継ぎください<$12>
-<$1D>
-→
-<$1D>
-→\n
-
-<$1D>
-→
-<$1D>
-\n
+<$1D>→<$1D>→<$1D>→<$1D>\n
 TRANSFER USING THIS ROUTE.
 <$12><$00>
 
@@ -22102,8 +22075,7 @@ TO ENTER PRIVATE PROPERTY!
 //<CLEAR>シュートサービスは\nお客様のお好きな　場所へ落と…<$11>30\nお連れするサービスです<$12>\n<CLEAR>サービス料は<$1D><$06>1480<$04><$14>￥です\nご利用なさいますか？\n<$01>いいとも<$0E>／<$01>また今度<$0E>
 <CLEAR>
 Our drop service takes you over the\n
-<$11>
-30coordinates you specify.
+coordinates you specify.
 <$12>
 \n
 
@@ -22324,7 +22296,7 @@ DESTINATION
 <$02>
 126TRANSFER
 <$02>
-172 COORD
+187 COORD
 <$00>
 
 
@@ -22335,51 +22307,26 @@ DESTINATION
 <$02>
 72NONSTOP
 <$02>
-126 COORD
+124 COORD
 <$00>
 
 
 //0078_000052BB_bin\PROG.BIN|0000470C|2774
 //<$16><$09>14<$06><$1D><$02>64<$1D><$01><$1E>36<$14>￥<$0E><$06> <$1D><$01><$1E>36<$14>￥<$0E><$02>172<$09>4<$05><$1D><$09>-4<$04>
-<$16><$09>
-14
-<$1D><$02>
-64
-<$06><$1D><$01><$1E>
-36
-<$14>
-￥
-<$0E><$06>
- 
-<$1D><$01><$1E>
-36
-<$14>
-￥
-<$0E><$02>
-172
-<$09>
-4
-<$05><$1D><$09>
--4
-<$04><$00>
+<$16><$09>14<$1D>
+<$02>64<$06>
+`<$1D><$01><$1E>36<$14>￥<$0E><$06> 
+ <$1D><$01><$1E>36<$14>￥<$0E>
+<$02>189<$09>4<$05><$1D><$09>-4<$04>
+<$00>
 
 
 //0078_000052BB_bin\PROG.BIN|0000470C|2775
 //<$16><$09>14<$06><$1D><$02>64<$1D><$01><$1E>36<$14>￥<$0E><$02>126<$09>4<$05><$1D><$09>-4<$04>
-<$16><$09>
-14
-<$1D><$02>
-64
-<$06><$1D><$01><$1E>
-36
-<$14>
-￥
-<$0E><$02>
-126
-<$09>
-4
-<$05><$1D><$09>
--4
+<$16><$09>14<$1D>
+<$02>64<$06>
+`<$1D><$01><$1E>36<$14>￥<$0E>
+<$02>126<$09>4<$05><$1D><$09>-4
 <$04><$00>
 
 
@@ -30550,11 +30497,10 @@ ever be so certain?
 //<CLEAR>チップは見栄を張るものよ■\n持金<$1E>40￥→チップ<$01><$1E>40￥
 <CLEAR>
 Don't forget to tip!■\n
-
-<$1E>
+`<$1E>
 40￥→
-<$01><$1E>
-40
+<$01>
+<$1E>40
 <$00>
 
 
@@ -58685,21 +58631,11 @@ Main Menu
 
 //0391_00000181_bin\PROG.BIN|0000641C|6787
 //<CLEAR><$02>21<$1D>ＳＴＡＲＴ\n<$1D>ＣＯＮＴＩＮＵＥ\n<$1D>ＰＲＯＬＯＧＵＥ\n<$02>21<$1D>難易度調整
-<CLEAR><$02>
-21
-<$1D>
-START\n
-
-<$1D>
-CONTINUE\n
-
-<$1D>
-PROLOGUE\n
-
-<$02>
-21
-<$1D>
-DIFFICULTY
+<CLEAR>
+<$02>43<$05><$1D>S T A R T\n\n
+<$02>30<$05><$1D>C O N T I N U E\n\n
+<$02>29<$05><$1D>P R O L O G U E\n\n
+<$02>20<$05><$1D>D I F F I C U L T Y
 <$00>
 
 
@@ -58711,17 +58647,11 @@ File Select
 
 //0391_00000181_bin\PROG.BIN|0000641C|6789
 //<CLEAR><$02>124Φ\n<$09>8<$02>45ただいま、読み込み中です∥\n<$02>24電源を切ったり、メモリーカードに\n<$02>45触れたりしないでください∥
-<CLEAR><$02>
-124Φ\n
-
-<$09>
-8
-<$02>
-45Loading in progress... \n
-<$02>
-24Do not remove card\n
-<$02>
-45or shut off console.
+<CLEAR>\n
+<$02>124Φ 
+<$09>8
+\n<$02>89<$05>Loading in progress... \n
+<$02>45<$05>Do not remove card or shut off console.
 <$00>
 
 
@@ -58821,8 +58751,7 @@ Slot 2 card may be corrupt.
 //0391_00000181_bin\PROG.BIN|0000641C|6800
 //<CLEAR>メモリーカードチェック中\nしばらくお待ちください
 <CLEAR>
-Checking memory card.\n
-Please wait... 
+\n<$02>30<$05>Checking memory card. Please wait... 
 <$00>
 
 
