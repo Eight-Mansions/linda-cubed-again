@@ -831,7 +831,7 @@ Aa, Linda
 
 # 05. Patching Instructions
  
-Notes from Esper:
+Notes from Esper: Just drag and drop the ISO (bin) file onto "Drag and drop ISO on me.bat". This will automatically patch the game for you.
 
 # 06. Patch Notes/Warnings
 1. For one, the game doesn’t work well on older emulators,
