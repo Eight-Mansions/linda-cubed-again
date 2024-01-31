@@ -310,21 +310,16 @@ void ResetAudioSubtitle()
 {
 	if (audioSubIdx >= 0)
 	{
-		for (int i = 0; i < audioSubtitles[audioSubIdx].partsCount; i++)
-		{
-			u32 generatedId = audioSubtitles[audioSubIdx].parts[i].generatedId;
-			RemoveSprite2(generatedId, 0);
-			RemoveSprite(generatedId);
+		AudioSubtitle* subtitles = &audioSubtitles[audioSubIdx];
+		for (int i = 0; i < subtitles->partsCount; i++)
+		{			
+			u32 generatedId = subtitles->parts[i].generatedId;
+			RemoveSprite(generatedId, 0);
 
-
-			uint32_t flagPos = generatedId << 2;
-			flagPos += 0x800c28d4;
-
-			((uint32_t*)flagPos)[0] = 0;
-
-			uint32_t layerPos = 0x800bc9f0 + generatedId;
-			((u8*)layerPos)[0] = 0;
+			((u8*)0x801ee290)[generatedId] = 0;
 		}
+
+		RemoveSprite2(subtitles->parts[0].graphicId, 0);
 
 		audioSubIdx = -1;
 	}

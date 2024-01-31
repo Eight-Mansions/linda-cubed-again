@@ -114,8 +114,8 @@ SetGenderSymbolLetter:
 .definelabel CdIntToPos, 0x8007e254
 .definelabel CdPause, 0x8002158c
 .definelabel LoadSpriteToVRAM, 0x8006ef14
-.definelabel RemoveSprite, 0x8001ae78
-.definelabel RemoveSprite2, 0x800646f8
+.definelabel RemoveSprite, 0x8001b108
+.definelabel RemoveSprite2, 0x8001aca8
 .definelabel DisplaySprite, 0x8006f388
 .definelabel HideSprite, 0x8006ce9c
 .definelabel PlayVoice, 0x80020d9c
