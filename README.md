@@ -833,6 +833,8 @@ Aa, Linda
  
 Notes from Esper: Just drag and drop the ISO (bin) file onto "Drag and drop ISO on me.bat". This will automatically patch the game for you.
 
+This patch works with both Linda Cubed Again and Linda Cubed Again (Rev 1)
+
 # 06. Patch Notes/Warnings
 1. For one, the game doesn’t work well on older emulators,
 but works well on Duckstation and BizHawk, et cetera.
