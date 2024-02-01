@@ -2,12 +2,23 @@
 set filename=Linda-English
 set file_type=BIN
 set patch_file=patch.xdelta
+set patch_file_other=patch-other.xdelta
 
 pushd %~dp0
 if "%~1"=="" goto :NOISO
 
 echo Patching %file_type%...
-patch_data\xdelta.exe -d -f -s "%~1" patch_data\%patch_file% %filename%.bin
+
+patch_data\xdelta.exe -d -f -s "%~1" patch_data\%patch_file% %filename%.bin > nul 2>&1
+if not errorlevel 1 (
+        goto :FIN
+    )
+
+patch_data\xdelta.exe -d -f -s "%~1" patch_data\%patch_file_other% %filename%.bin > nul 2>&1
+if not errorlevel 1 (
+        goto :FIN
+    )
+
 
 if errorlevel 1 goto :XDELTAERR
 goto :FIN
