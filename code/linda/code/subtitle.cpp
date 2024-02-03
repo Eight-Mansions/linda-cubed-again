@@ -31,86 +31,6 @@
 //param[0] = 0xC8; // Not sure what combo of commands this is but its needed for audio...
 //CdControl(CdlSetmode, param, 0);
 
-
-const u8 widths[] =
-{
-		0x09, // A
-		0x08, // B
-		0x07, // C
-		0x08, // D
-		0x07, // E
-		0x07, // F
-		0x08, // G
-		0x08, // H
-		0x03, // I
-		0x07, // J
-		0x08, // K
-		0x07, // L
-		0x08, // M
-		0x08, // N
-		0x08, // O
-		0x08, // P
-		0x08, // Q
-		0x08, // R
-		0x07, // S
-		0x08, // T
-		0x07, // U
-		0x08, // V
-		0x09, // W
-		0x07, // X
-		0x07, // Y
-		0x08, // Z
-		0x07, // a
-		0x07, // b
-		0x07, // c
-		0x07, // d
-		0x07, // e
-		0x05, // f
-		0x07, // g
-		0x07, // h
-		0x03, // i
-		0x04, // j
-		0x07, // k
-		0x04, // l
-		0x07, // m
-		0x07, // n
-		0x07, // o
-		0x07, // p
-		0x07, // q
-		0x06, // r
-		0x07, // s
-		0x05, // t
-		0x07, // u
-		0x07, // v
-		0x07, // w
-		0x07, // x
-		0x07, // y
-		0x07, // z
-		0x04, // .
-		0x04, // ,
-		0x03, // !
-		0x07, // ?
-		0x06, // "
-		0x04, // (
-		0x05, // )
-		0x04, // :
-		0x04, // ;
-		0x07, // ~
-		0x03, // '
-		0x06, // -
-		0x07, // 0
-		0x05, // 1
-		0x08, // 2
-		0x07, // 3
-		0x08, // 4
-		0x07, // 5
-		0x07, // 6
-		0x07, // 7
-		0x08, // 8
-		0x07, // 9
-		0x04, //  
-};
-
 int counter = 0;
 static int curAudioSubtitleLength = 0;
 
@@ -327,6 +247,16 @@ void ResetAudioSubtitle()
 
 void InitMovieSubtitle(const char* videoname)
 {
+	if (letterPosition[1] == 0)								
+	{
+		int position = 0x180;
+		for (int i = 1; i < 78; i++)
+		{
+			letterPosition[i] = position;
+			position += 0x180;
+		}
+	}
+
 	movieSubIdx = -1;
 	int videonameHash = sdbmHash(videoname);
 	for (int i = 0; i < movieSubtitlesCount; i++)
@@ -373,7 +303,7 @@ void DrawMovieSubtitle(RECT* area, u8* image, u8* font, u32 curFrame)
 				u16 curY = subs.parts[i].curY;
 				while (subs.parts[i].textIdx < subs.parts[i].len)
 				{
-					u32 srcPixelPos = text[subs.parts[i].textIdx] * 0x180;
+					u32 srcPixelPos = letterPosition[text[subs.parts[i].textIdx]];
 					for (u32 x = 0; x < 8; x++)
 					{
 						for (u32 y = 0; y < 768;)

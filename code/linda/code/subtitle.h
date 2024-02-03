@@ -28,6 +28,8 @@ extern "C" {
 
 	void ResetAudioSubtitle();
 
+	static short letterPosition[78] = {0, 0};
+
 	static int movieSubIdx = -1;
 
 	static int audioSubIdx = -1;
