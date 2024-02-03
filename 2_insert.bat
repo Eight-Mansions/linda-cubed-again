@@ -860,7 +860,7 @@ tools\linda_cube_again_png2obj.exe orig\0388_00000023_bin\JIBUN3.D.OBJ graphics\
 tools\linda_file_compress.exe ins\0388_00000023_bin\JIBUN3.D.OBJ ins\0388_00000023_bin\JIBUN3.OBJ
 
 del ins\0388_00000023_bin\JIBUN3A.D.OBJ
-tools\linda_cube_again_png2obj.exe orig\0388_00000023_bin\JIBUN3A.D.OBJ graphics\0388_00000023_bin\JIBUN3A.png ins\0388_00000023_bin\JIBUN3A.D.OBJ
+tools\linda_cube_again_png2obj3.exe graphics\0388_00000023_bin\JIBUN3A_OBJ tools\palette.obj ins\0388_00000023_bin\JIBUN3A.D.OBJ
 tools\linda_file_compress.exe ins\0388_00000023_bin\JIBUN3A.D.OBJ ins\0388_00000023_bin\JIBUN3A.OBJ
 
 tools\linda_cube_again_png2obj.exe orig\0388_00000023_bin\JIBUN4.D.OBJ graphics\0388_00000023_bin\JIBUN4.png ins\0388_00000023_bin\JIBUN4.D.OBJ
