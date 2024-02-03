@@ -2,7 +2,7 @@
 
 void LoadSubtitles(u_long* filepos)
 {
-	const char* filename = "SUBTITLES.DAT";
+	const char* filename = "SUBTITLE.DAT";
 	u_long fileinfo = GetFileInfo(filename);
 	if (fileinfo != 0)
 	{
