@@ -161,39 +161,54 @@ int GetTimInfo(const uint32_t* tim, TIM_IMAGE* info) {
 
 static u32 currentAudioFrame = 0;
 
+void CanLoadAudioSubtitle(u32 mapId)
+{
+	if (mapId == 0xB2)
+	{
+		loadAudioSubtitle = false;
+	}
+	else
+	{
+		loadAudioSubtitle = true;
+	}
+}
+
 void InitAudioSubtitle(u32 param1, u32 param2)
 {
-	for (int i = 0; i < audioSubtitlesCount; i++)
+	if (loadAudioSubtitle)
 	{
-		AudioSubtitle* subtitles = &audioSubtitles[i];
-		if ((subtitles->id == param1 && subtitles->id2 == 0) || (subtitles->id == param1 && subtitles->id2 == param2))
+		for (int i = 0; i < audioSubtitlesCount; i++)
 		{
-			audioSubIdx = i;
-			int graphicId = subtitles->parts[0].graphicId;
-			for (int j = 0; j < subtitles->partsCount; j++)
+			AudioSubtitle* subtitles = &audioSubtitles[i];
+			if ((subtitles->id == param1 && subtitles->id2 == 0) || (subtitles->id == param1 && subtitles->id2 == param2))
 			{
-				AudioSubtitlePart* part = &subtitles->parts[j];
+				audioSubIdx = i;
+				int graphicId = subtitles->parts[0].graphicId;
+				for (int j = 0; j < subtitles->partsCount; j++)
+				{
+					AudioSubtitlePart* part = &subtitles->parts[j];
 
-				((uint32_t*)0x800b90fc)[0] = 2; // Multiplier
-				((uint16_t*)0x800b8e94)[0] = part->x; // x
-				((uint16_t*)0x800b8e9c)[0] = part->y; // y
-				((uint16_t*)0x800b95d0)[0] = graphicId;
-				part->generatedId = LoadSpriteToVRAM();
+					((uint32_t*)0x800b90fc)[0] = 2; // Multiplier
+					((uint16_t*)0x800b8e94)[0] = part->x; // x
+					((uint16_t*)0x800b8e9c)[0] = part->y; // y
+					((uint16_t*)0x800b95d0)[0] = graphicId;
+					part->generatedId = LoadSpriteToVRAM();
 
-				((uint32_t*)0x800b90fc)[0] = 0; // Multiplier
+					((uint32_t*)0x800b90fc)[0] = 0; // Multiplier
 
-				// Turn our graphic off (I would use the actual function but they hard coded the script position to pull the damn value)
-				uint32_t flagPos = part->generatedId << 2;
-				flagPos += 0x800c28d4;
-				((uint32_t*)flagPos)[0] = 7;
+					// Turn our graphic off (I would use the actual function but they hard coded the script position to pull the damn value)
+					uint32_t flagPos = part->generatedId << 2;
+					flagPos += 0x800c28d4;
+					((uint32_t*)flagPos)[0] = 7;
 
-				uint32_t layerPos = 0x800bc9f0 + part->generatedId;
-				((u8*)layerPos)[0] = 20;
+					uint32_t layerPos = 0x800bc9f0 + part->generatedId;
+					((u8*)layerPos)[0] = 20;
 
-				uint32_t imageIdx = 0x801ee290 + (part->generatedId * 0x18);
-				((u8*)imageIdx)[0] = j;
+					uint32_t imageIdx = 0x801ee290 + (part->generatedId * 0x18);
+					((u8*)imageIdx)[0] = j;
 
-				currentAudioFrame = 0;		
+					currentAudioFrame = 0;
+				}
 			}
 		}
 	}

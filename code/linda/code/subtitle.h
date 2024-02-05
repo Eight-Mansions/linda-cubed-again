@@ -35,6 +35,10 @@ extern "C" {
 	static int audioSubIdx = -1;
 	static int audioPartIdx = -1;
 
+	static bool loadAudioSubtitle = true;
+
+	void CanLoadAudioSubtitle(u32 mapId);
+
 	extern void PlayVoice(u32 param1, u32 param2);
 
 	void InitAudioSubtitle(u32 param1, u32 param2);

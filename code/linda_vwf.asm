@@ -11,12 +11,12 @@ SubFont:
 
 SetBabyLetWidth:
 	addiu sp, sp, -8
-	sw a0, 4(sp)
+	sw a0, 0(sp)
 	jal SetLetter	
-	sw a1, 8(sp)
+	sw a1, 4(sp)
 	
-	lw a0, 4(sp)
-	lw a1, 8(sp)
+	lw a0, 0(sp)
+	lw a1, 4(sp)
 	jal Katakana2ARomajii
 	addiu sp, sp, 8
 	
@@ -218,6 +218,9 @@ SetGenderSymbolLetter:
 ;.org 0x800214c8
 ;	j LoadAudioSubsTest
 
+.org 0x8002e884
+	j CanLoadAudioSub
+
 .org 0x8001693c
 	j DrawAudioSub
 
@@ -230,6 +233,19 @@ SetGenderSymbolLetter:
 
 .org 0x800B8290	
 .importobj "code\linda\obj\loadfile.obj"
+CanLoadAudioSub:
+	jal CanLoadAudioSubtitle
+	lw     a0, 0x003c(sp)
+	
+	lui a0, 0x8001
+	jal    0x800205b8
+	addiu a0, 0x12e0
+	
+	j 0x8002e88c
+	nop
+	
+
+
 DrawAudioSub:
 	jal 0x8001f7c4
 	nop
