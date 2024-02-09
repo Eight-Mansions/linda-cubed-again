@@ -1,0 +1,44 @@
+<iso_project image_name="mkpsxiso.bin" cue_sheet="mkpsxiso.cue">
+    <track type="data">
+        <identifiers system="PLAYSTATION" application="PLAYSTATION" creation_date="1997091710100000+0"/>
+        <license file="linda/license_data.dat"/>
+        <default_attributes gmt_offs="36" xa_attrib="32" xa_perm="1365" xa_gid="0" xa_uid="0"/>
+        <directory_tree gmt_offs="0">
+            <dir name="LINDA" source="linda/LINDA"/>
+            <file name="SYSTEM.CNF" source="linda/SYSTEM.CNF" type="data"/>
+            <file name="SCPS_100.39" source="linda/SCPS_100.39" type="data"/>
+            <dir name="LINDA">
+                <file name="LINDA.GMW" source="linda/LINDA/LINDA.GMW" type="data"/>
+                <file name="LINDA.MIC" source="linda/LINDA/LINDA.MIC" type="data"/>
+                <file name="LINDA.PAC" source="linda/LINDA/LINDA.PAC" type="data"/>
+				<file name="SUBTITLE.DAT" source="linda/LINDA/SUBTITLE.DAT" type="data"/>
+                <file name="_BATTLE.XA" source="linda/LINDA/_BATTLE.XA" type="mixed"/>
+                <file name="_NA.XA" source="linda/LINDA/_NA.XA" type="mixed"/>
+                <file name="_RI01.STR" source="linda/LINDA/_RI01.STR" type="mixed"/>
+                <file name="_RI02.STR" source="linda/LINDA/_RI02.STR" type="mixed"/>
+                <file name="_RI03.STR" source="linda/LINDA/_RI03.STR" type="mixed"/>
+                <file name="_RI04.STR" source="linda/LINDA/_RI04.STR" type="mixed"/>
+                <file name="_RI06.STR" source="linda/LINDA/_RI06.STR" type="mixed"/>
+                <file name="_RI07.STR" source="linda/LINDA/_RI07.STR" type="mixed"/>
+                <file name="_RI08.STR" source="linda/LINDA/_RI08.STR" type="mixed"/>
+                <file name="_RI09.STR" source="linda/LINDA/_RI09.STR" type="mixed"/>
+                <file name="_RI10.STR" source="linda/LINDA/_RI10.STR" type="mixed"/>
+                <file name="_RI11.STR" source="linda/LINDA/_RI11.STR" type="mixed"/>
+                <file name="_RI12.STR" source="linda/LINDA/_RI12.STR" type="mixed"/>
+                <file name="_RI13.STR" source="linda/LINDA/_RI13.STR" type="mixed"/>
+                <file name="_RI14.STR" source="linda/LINDA/_RI14.STR" type="mixed"/>
+                <file name="_RI15.STR" source="linda/LINDA/_RI15.STR" type="mixed"/>
+                <file name="_RI16.STR" source="linda/LINDA/_RI16.STR" type="mixed"/>
+                <file name="_RI17.STR" source="linda/LINDA/_RI17.STR" type="mixed"/>
+                <file name="_RI18.STR" source="linda/LINDA/_RI18.STR" type="mixed"/>
+                <file name="_RI19.STR" source="linda/LINDA/_RI19.STR" type="mixed"/>
+                <file name="_RI20.STR" source="linda/LINDA/_RI20.STR" type="mixed"/>
+                <file name="_RI21.STR" source="linda/LINDA/_RI21.STR" type="mixed"/>
+                <file name="_RI22.STR" source="linda/LINDA/_RI22.STR" type="mixed"/>
+                <file name="_RI24.STR" source="linda/LINDA/_RI24.STR" type="mixed"/>
+                <file name="_SONG.XA" source="linda/LINDA/_SONG.XA" type="mixed"/>
+                <file name="_RI05.STR" source="linda/LINDA/_RI05.STR" type="mixed"/>
+            </dir>
+        </directory_tree>
+    </track>
+</iso_project>
