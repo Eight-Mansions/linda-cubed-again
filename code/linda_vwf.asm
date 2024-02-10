@@ -121,11 +121,11 @@ SetGenderSymbolLetter:
 .definelabel PlayVoice, 0x80020d9c
 .definelabel DrawLetter, 0x800485a0
 
-.org 0x800201a4 ; Remove comparing of checksums and alwasy act as if its good
-	j 0x800201f4
+; .org 0x800201a4 ; Remove comparing of checksums and alwasy act as if its good
+	; j 0x800201f4
 	
-.org 0x800201c0 ; Remove comparing of checksums and alwasy act as if its good
-	j 0x800201f4
+; .org 0x800201c0 ; Remove comparing of checksums and alwasy act as if its good
+	; j 0x800201f4
 	
 ;.org 0x80048be4
 	;ORI     800c3364 (v0), 00000000 (r0), 0008 (8),
