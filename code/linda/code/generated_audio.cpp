@@ -151,7 +151,12 @@ AudioSubtitlePart sub13_parts[] = {
 	{56, 0, 20, 228, 27, 74},
 };
 
-const u32 audioSubtitlesCount = 14;
+//\audio_subs\na1761.ass | Yeah... Together, forever. I promise.
+AudioSubtitlePart sub14_parts[] = {
+	{27, 0, 99, 365, 27, 74},
+};
+
+const u32 audioSubtitlesCount = 15;
 AudioSubtitle audioSubtitles[] = {
 	{864, 92, 5, sub0_parts},
 	{86, 27, 1, sub1_parts},
@@ -167,6 +172,7 @@ AudioSubtitle audioSubtitles[] = {
 	{0, 4146, 20, sub11_parts},
 	{0, 4154, 32, sub12_parts},	
 	{1150, 20, 1, sub13_parts},	
+	{1466, 30, 1, sub14_parts}
 };
 
 

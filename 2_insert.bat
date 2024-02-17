@@ -1043,6 +1043,10 @@ tools\linda_file_compress.exe ins\0270_00003D23_bin\SONG1.D.OBJ ins\0270_00003D2
 tools\linda_cube_again_png2obj3.exe graphics\0270_00003D23_bin\NA1390_OBJ tools\palette.obj ins\0270_00003D23_bin\NA1390.D.OBJ
 tools\linda_file_compress.exe ins\0270_00003D23_bin\NA1390.D.OBJ ins\0270_00003D23_bin\NA1390.OBJ
 
+del ins\0102_00005A48_bin\list.txt
+copy graphics\0102_00005A48_bin\list.txt ins\0102_00005A48_bin\list.txt
+tools\linda_cube_again_png2obj3.exe graphics\0102_00005A48_bin\NA1761_OBJ tools\palette.obj ins\0102_00005A48_bin\NA1761.D.OBJ
+tools\linda_file_compress.exe ins\0102_00005A48_bin\NA1761.D.OBJ ins\0102_00005A48_bin\NA1761.OBJ
 
 del ins\0276_00004326_bin\list.txt
 copy graphics\0276_00004326_bin\list.txt ins\0276_00004326_bin\list.txt
