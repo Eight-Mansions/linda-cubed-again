@@ -153,13 +153,13 @@ AudioSubtitlePart sub13_parts[] = {
 
 const u32 audioSubtitlesCount = 14;
 AudioSubtitle audioSubtitles[] = {
-	{864, 0, 5, sub0_parts},
-	{86, 0, 1, sub1_parts},
-	{830, 0, 1, sub2_parts},
-	{581, 0, 1, sub3_parts},
+	{864, 92, 5, sub0_parts},
+	{86, 27, 1, sub1_parts},
+	{830, 46, 1, sub2_parts},
+	{581, 20, 1, sub3_parts},
 	{723, 14, 1, sub4_parts},
-	{1390, 0, 2, sub5_parts},
-	{1427, 0, 2, sub6_parts},
+	{1390, 37, 2, sub5_parts},
+	{1427, 19, 2, sub6_parts},
 	{1287, 12, 1, sub7_parts},
 	{1316, 14, 1, sub8_parts},
 	{1366, 30, 1, sub9_parts},
