@@ -1,5 +1,5 @@
 .psx
-.open "cd\linda\LINDA\SUBTITLE.DAT",0x801D1000
+.open "cd\linda\LINDA\SUBTITLE.DAT",0x801D3800
 	.importobj "code\linda\obj\subtitle.obj"
 	.importobj "code\linda\obj\generated_movie.obj"
 	.importobj "code\linda\obj\generated_audio.obj"
