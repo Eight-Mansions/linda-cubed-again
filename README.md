@@ -835,6 +835,25 @@ Notes from Esper: Just drag and drop the ISO (bin) file onto "Drag and drop ISO 
 
 This patch works with both Linda Cubed Again and Linda Cubed Again (Rev 1)
 
+## 05-b. Patching – **Linux / macOS**
+
+### Requirements
+
+• **xdelta3** — the command-line delta-patching tool  
+    – Linux: available in every major distro repo  
+      › Debian / Ubuntu   `sudo apt install xdelta3`  
+      › Fedora / RHEL    `sudo dnf install xdelta`  
+      › Arch / Manjaro   `sudo pacman -S xdelta3`  
+    – macOS: install with Homebrew  
+      › `brew install xdelta`
+
+### 1 ) (first time only) make the script executable
+chmod +x patch_linux.sh
+
+### 3 ) run it, giving the ORIGINAL .bin as the first argument
+./patch_linux.sh  ~/Downloads/Linda-English_original.bin
+
+
 # 06. Patch Notes/Warnings
 1. For one, the game doesn’t work well on older emulators,
 but works well on Duckstation and BizHawk, et cetera.
